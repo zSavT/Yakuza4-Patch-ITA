@@ -18,3 +18,7 @@ La codifica dei file csv è "__UTF-16__".
 ## Problema non gestito
 
 I caratteri speciali (come _\n_) non vengono riportati nel file tradotto.
+
+### Esempio caricato
+
+L'esempio caricato proviene dal file presente in "_Yakuza 4\data\hact_" scompattando il file "_subtitle.par_".
