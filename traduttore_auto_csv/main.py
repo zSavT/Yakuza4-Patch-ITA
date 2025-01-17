@@ -1,3 +1,9 @@
+"""
+File: main.py
+Author: SavT
+Date: 17/01/2025
+"""
+
 import csv
 import os
 from deep_translator import GoogleTranslator
@@ -7,8 +13,8 @@ def traduci_testo_csv(input_file, output_file, source_lang='en', target_lang='it
 
     translator = GoogleTranslator(source=source_lang, target=target_lang)
 
-    with open(input_file, 'r', encoding='utf-16') as infile, open(output_file, 'w', encoding='utf-16',
-                                                                 newline='') as outfile:
+    with (open(input_file, 'r', encoding='utf-16') as infile, open(output_file, 'w', encoding='utf-16',
+                                                                  newline='') as outfile):
         reader = csv.reader(infile, delimiter='\t')
         writer = csv.writer(outfile, delimiter='\t')
 
@@ -17,7 +23,9 @@ def traduci_testo_csv(input_file, output_file, source_lang='en', target_lang='it
                 continue  # Salta righe malformattate
             start, end, text = row
             try:
-                tradotto = translator.translate(text)
+                text = text.replace("\\n", "\n") # La lib della traduzione tende ad eliminare \n, in questo modo si raggira
+                tradotto = translator.translate(text).replace("\n", "\\n"
+                                                              ).replace("<Corsivo>","<Italic>").replace("</Corsivo>", "</Italic>") # La lib traduce letteralmente anche i tag ogni tanto
                 writer.writerow([start, end, tradotto])
             except Exception as e:
                 print(f"Errore nella traduzione di '{text}': {e}")
@@ -40,8 +48,8 @@ def traduci_tutti_csv_in_cartella(cartella, output_cartella, source_lang='en', t
 
 
 if __name__ == "__main__":
-    cartella = "input"
-    output_cartella = os.path.join(cartella, "tradotto")
+    cartella = "input"  # Cartella contenente i file CSV di input
+    output_cartella = os.path.join(cartella, "tradotto")  # Sottocartella per i file tradotti
 
     traduci_tutti_csv_in_cartella(cartella, output_cartella)
-    print("Traduzione completata per tutti input file CSV.")
+    print("Traduzione completata per tutti i file CSV.")

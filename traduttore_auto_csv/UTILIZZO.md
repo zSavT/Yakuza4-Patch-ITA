@@ -11,13 +11,14 @@ INTEGER INTEGER TEXT
 Esempio
 ```
 293	326	Answer me.
+2058	2177	You seem real tense.\nSomething happen?
 ```
 
 La codifica dei file csv è "__UTF-16__".
 
 ## Problema non gestito
 
-I caratteri speciali (come _\n_) non vengono riportati nel file tradotto.
+- [x]  I caratteri speciali (come _\n_) non vengono riportati nel file tradotto.
 
 ### Esempio caricato
 
