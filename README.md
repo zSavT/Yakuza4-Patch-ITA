@@ -22,7 +22,7 @@ Analizzando i file, mi sono occorto che principalmente il gioco utilizza file  _
 ## TO DO
 
 - [x] Codifica e decodifica dei file PAR
-- [ ] Codifica e decodifica dei file BIN (Controllando questa [repo] (https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer), i file relativi a Yakuza 4 non sembrano compatibili, testando con altri giochi della serie si)
+- [ ] Codifica e decodifica dei file BIN (Controllando questa [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer), i file relativi a Yakuza 4 non sembrano compatibili, testando con altri giochi della serie si)
 
 ## Dipendenza
 
