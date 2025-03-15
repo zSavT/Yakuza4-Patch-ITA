@@ -1,4 +1,10 @@
 # Yakuza4-Patch-ITA
+<p align="center">
+  <img src="img/LogoYakuza4.png" /><br>
+    Progetto per la traduzione del gioco Yakuza 4 REMASTEERED in italiano.
+</p>
+
+
 ![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Yakuza4-Patch-ITA)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
 
