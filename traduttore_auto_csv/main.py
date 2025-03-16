@@ -65,11 +65,11 @@ def traduci_testo_csv(input_file, output_file):
                     pass
                 else:
                     try:
-                        prompt = f"""Ti passerò del testo proveniente da un file csv del gioco Yakuza 4 e devi tradurmi il testo in italiano considerando le tematiche e linguaggio del gioco, ma solo il testo, i restanti codici html, numeri, 
+                        prompt = f"""Ti passerò del testo proveniente da un file csv del gioco Yakuza 4 contenente i dialoghi del gioco e devi tradurmi il testo in italiano considerando le tematiche e linguaggio del gioco, ma solo il testo, i restanti codici html, numeri, 
                         devono rimanere invariati. Limitati a rispondere solamente con la traduzione, senza aggiungere tuoi commenti personali. 
-                        Se ti chiedo di tradurre \"Thanks\", non devi ringraziarmi, ma tradurre e basta. Non aggiungere il carattere di fine stringa. Ora ti mando il testo da tradurre: {value}"""
+                        Se ti chiedo di tradurre \"Thanks\", non devi ringraziarmi, ma tradurre e basta. Ora ti mando il testo da tradurre: {value}"""
 
-                        time.sleep(25)
+                        time.sleep(15)
                         response = model.generate_content(prompt)
                         translated_text = response.text.strip()
                         translated_text = translated_text.replace("<Corsivo>", "<Italic>").replace("</Corsivo>", "</Italic>")
