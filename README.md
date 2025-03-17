@@ -1,7 +1,7 @@
 # Yakuza4-Patch-ITA
 <p align="center">
   <img src="img/LogoYakuza4.png" /><br>
-    Progetto per la traduzione del gioco Yakuza 4 REMASTEERED in italiano.
+    Progetto per la traduzione del gioco Yakuza 4 REMASTERED in italiano.
 </p>
 
 
