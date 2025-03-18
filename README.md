@@ -64,6 +64,28 @@ La codifica dei file csv è "__UTF-16__".
 - [x] Codifica e decodifica dei file PAR
 - [ ] Codifica e decodifica dei file BIN (Controllando questa [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer), i file relativi a Yakuza 4 non sembrano compatibili, testando con altri giochi della serie si)
 
+# Altre patch della serie
+
+Lista dei progetti di patch in italiano per i giochi della serie:
+- [Yakuza 0](https://letraduzionidirulesless.wordpress.com/yakuza0-2/)
+    - Come indicato nell'introduzione, la patch di Yakuza 0 è l'unica completa al 100% (o quasi).
+- [Yakuza Kiwami 1 e 2](https://vittolarosa93.wixsite.com/kiwamivideo)
+    - L'autore ha rilasciato sul sito delle patch parziali dei giochi/video dimostrativi.
+- [Yakuza 3 Remastered](https://vittolarosa93.wixsite.com/kiwamivideo)
+    - L'autore ha rilasciato sul sito delle patch parziali del gioco/video dimostrativo.
+- Yakuza 4 Remastered
+    - Questo progetto
+- [Yakuza 5 Remastered](https://github.com/zSavT/Yakuza5-Patch-ITA)
+    - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 5, il funzionamento ed il materiale tradotto è il medesimo.
+
+__N.B.__<br>
+Chi ha realizzato la patch per Yakuza 1 - 2 - 3, sta lavorando anche ad una patch totale per Yakuza 4 - 5 - 6.
+Gli autori sono liberi di attingere da questa progetto, previo avviso.
+
 ## Dipendenza
 
 Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.
+
+
+# Altri progetti di traduzione miei
+[Valkyria Chronicles Patch ITA](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA)
