@@ -57,6 +57,10 @@ Esempio
 ```
 
 La codifica dei file csv è "__UTF-16__".
+La lunghezza massima di caratteri visualizzabili in una cutscene è "__99__". Le virgolette si inseriscono con una tripla di virgolette.
+```py
+"""Ciao"""
+```
 
 
 ## TO DO
