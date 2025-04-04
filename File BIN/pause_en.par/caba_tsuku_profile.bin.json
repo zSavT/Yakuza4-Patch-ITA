@@ -1,6 +1,6 @@
 {
   "0": {
-    "NAME": "Nanami Ki",
+    "NAME": "<Name:蟲ｰ譚台ｸ豬ｷｼ壽ｺ先ｰ丞錐>",
     "CLUB": "Elise",
     "BIRTHDAY": "5 Dicembre",
     "HEIGHT": "156 cm",
@@ -12,7 +12,7 @@
     "PICT_NAME2": "2d_cf_prof_ki_nanami_c.dds",
     "ROMAN_NAME": "Elise",
     "SCENARIO_STATUS": "809d0001",
-    "EXPLANATION": "Ho ottenuto il biglietto da visita di Nanami Ki all'Elise. Forse la richiederò la prossima volta...",
+    "EXPLANATION": "Ho ricevuto un biglietto da visita da <Name:蟲ｰ譚台ｸ豬ｷｼ壽ｺ先ｰ丞錐> all'Elise. Forse la chiamerò la prossima volta...",
     "CONTENTS_EXP": "Può essere richiesta solo da Tanimura."
   },
   "1": {
@@ -28,7 +28,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809d0007",
-    "EXPLANATION": "Sono uscito a un appuntamento con Nanami Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:蟲ｰ譚台ｸ豬ｷｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "2": {
@@ -44,7 +44,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809d0008",
-    "EXPLANATION": "Sono uscito a un appuntamento con Nanami Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:蟲ｰ譚台ｸ豬ｷｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "3": {
@@ -60,7 +60,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809d0009",
-    "EXPLANATION": "Sono uscito a un appuntamento con Nanami Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:蟲ｰ譚台ｸ豬ｷｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "4": {
@@ -76,7 +76,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809d000b",
-    "EXPLANATION": "Sono uscito a un appuntamento con Nanami Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:蟲ｰ譚台ｸ豬ｷｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "5": {
@@ -92,7 +92,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809d000c",
-    "EXPLANATION": "Sono uscito a un appuntamento con Nanami Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:蟲ｰ譚台ｸ豬ｷｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "6": {
@@ -108,7 +108,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809d000d",
-    "EXPLANATION": "Sono uscito a un appuntamento con Nanami Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:蟲ｰ譚台ｸ豬ｷｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "7": {
@@ -124,7 +124,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809d0010",
-    "EXPLANATION": "A quanto pare, il fratello di Nanami Ki non si presenta al lavoro. È possibile che sia fuori a giocare a pachinko.",
+    "EXPLANATION": "A quanto pare il fratello di <Name:蟲ｰ譚台ｸ豬ｷｼ壽ｺ先ｰ丞錐> non si presenta al lavoro. È possibile che sia fuori a giocare a pachinko.",
     "CONTENTS_EXP": ""
   },
   "8": {
@@ -140,7 +140,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809d0013",
-    "EXPLANATION": "Il fratello di Nanami Ki ha problemi con i suoi ex clienti. Immagino che sia meglio che lo aiuti.",
+    "EXPLANATION": "Il fratello di <Name:蟲ｰ譚台ｸ豬ｷｼ壽ｺ先ｰ丞錐> ha problemi con i suoi ex clienti. Immagino che dovrei aiutarlo.",
     "CONTENTS_EXP": ""
   },
   "9": {
@@ -156,11 +156,11 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809d0017",
-    "EXPLANATION": "Ho passato dei momenti fantastici con Nanami Ki.",
+    "EXPLANATION": "Ho passato dei momenti fantastici con <Name:蟲ｰ譚台ｸ豬ｷｼ壽ｺ先ｰ丞錐>.",
     "CONTENTS_EXP": ""
   },
   "10": {
-    "NAME": "Hiyori Ki",
+    "NAME": "<Name:譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐>",
     "CLUB": "Elise",
     "BIRTHDAY": "21 Luglio",
     "HEIGHT": "160 cm",
@@ -172,7 +172,7 @@
     "PICT_NAME2": "2d_cf_prof_ki_hiyori_c.dds",
     "ROMAN_NAME": "Elise",
     "SCENARIO_STATUS": "80010001",
-    "EXPLANATION": "Ho ottenuto il biglietto da visita di Hiyori Ki all'Elise. Forse la richiederò la prossima volta...",
+    "EXPLANATION": "Ho ricevuto un biglietto da visita da <Name:譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐> all'Elise. Forse la chiamerò la prossima volta...",
     "CONTENTS_EXP": "Può essere richiesta solo da Kiryu."
   },
   "11": {
@@ -188,7 +188,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809b0007",
-    "EXPLANATION": "Sono uscito a un appuntamento con Hiyori Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "12": {
@@ -204,7 +204,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809b0008",
-    "EXPLANATION": "Sono uscito a un appuntamento con Hiyori Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "13": {
@@ -220,7 +220,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809b0009",
-    "EXPLANATION": "Sono uscito a un appuntamento con Hiyori Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "14": {
@@ -236,7 +236,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809b000b",
-    "EXPLANATION": "Sono uscito a un appuntamento con Hiyori Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "15": {
@@ -252,7 +252,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809b000c",
-    "EXPLANATION": "Sono uscito a un appuntamento con Hiyori Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "16": {
@@ -268,7 +268,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809b000d",
-    "EXPLANATION": "Sono uscito a un appuntamento con Hiyori Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "17": {
@@ -284,7 +284,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809b000f",
-    "EXPLANATION": "A quanto pare, il padre di Hiyori Ki sta visitando il negozio. Dovrei controllare come sta all'Elise.",
+    "EXPLANATION": "A quanto pare il padre di <Name:譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐> sta visitando il locale. Dovrei controllare come sta all'Elise.",
     "CONTENTS_EXP": ""
   },
   "18": {
@@ -300,7 +300,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809b0013",
-    "EXPLANATION": "Dovrei occuparmi dello strozzino che sta molestando il padre di Hiyori Ki.",
+    "EXPLANATION": "Dovrei occuparmi dello strozzino che sta molestando il padre di <Name:譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐>.",
     "CONTENTS_EXP": ""
   },
   "19": {
@@ -316,11 +316,11 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809b0016",
-    "EXPLANATION": "Ho passato dei momenti fantastici con Hiyori Ki.",
+    "EXPLANATION": "Ho passato dei momenti fantastici con <Name:譚ｾ蟯｡驥檎ｷ貞･茨ｼ壽ｺ先ｰ丞錐>.",
     "CONTENTS_EXP": ""
   },
   "20": {
-    "NAME": "Kyoko Ki",
+    "NAME": "<Name:譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐>",
     "CLUB": "Elise",
     "BIRTHDAY": "15 Gennaio",
     "HEIGHT": "158 cm",
@@ -330,9 +330,9 @@
     "HATE": "Verdure",
     "PICT_NAME": "2d_cf_prof_ki_kyoko.dds",
     "PICT_NAME2": "2d_cf_prof_ki_kyoko_c.dds",
-    "ROMAN_NAME": "Elise",
+    "ROMAN_NAME": "Elise ",
     "SCENARIO_STATUS": "80010001",
-    "EXPLANATION": "Ho ottenuto il biglietto da visita di Kyoko Ki all'Elise. Forse la richiederò la prossima volta...",
+    "EXPLANATION": "Ho ricevuto un biglietto da visita da <Name:譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐> all'Elise. Forse la chiamerò la prossima volta...",
     "CONTENTS_EXP": "Può essere richiesta solo da Kiryu."
   },
   "21": {
@@ -348,7 +348,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809c0007",
-    "EXPLANATION": "Sono uscito a un appuntamento con Kyoko Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "22": {
@@ -364,7 +364,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809c0008",
-    "EXPLANATION": "Sono uscito a un appuntamento con Kyoko Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "23": {
@@ -380,7 +380,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809c0009",
-    "EXPLANATION": "Sono uscito a un appuntamento con Kyoko Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "24": {
@@ -396,7 +396,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809c000b",
-    "EXPLANATION": "Sono uscito a un appuntamento con Kyoko Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "25": {
@@ -412,7 +412,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809c000c",
-    "EXPLANATION": "Sono uscito a un appuntamento con Kyoko Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "26": {
@@ -428,7 +428,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809c000d",
-    "EXPLANATION": "Sono uscito a un appuntamento con Kyoko Ki e mi sono divertito un sacco.",
+    "EXPLANATION": "Sono uscito con <Name:譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐> e ci siamo divertiti insieme.",
     "CONTENTS_EXP": ""
   },
   "27": {
@@ -444,7 +444,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809c000f",
-    "EXPLANATION": "La chitarra di Kyoko Ki è stata rubata. Se i Bad Flag sono responsabili, cercheranno di venderla da qualche parte.",
+    "EXPLANATION": "La chitarra di <Name:譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐> è stata rubata. Se i Bad Flag sono i responsabili, cercheranno di venderla da qualche parte.",
     "CONTENTS_EXP": ""
   },
   "28": {
@@ -460,7 +460,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809c0011",
-    "EXPLANATION": "Ho trovato i Bad Flag. Meglio prenderli e scoprire della chitarra di Kyoko Ki.",
+    "EXPLANATION": "Ho trovato i Bad Flag. Farei meglio a prenderli e scoprire della chitarra di <Name:譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐>.",
     "CONTENTS_EXP": ""
   },
   "29": {
@@ -476,7 +476,7 @@
     "PICT_NAME2": "",
     "ROMAN_NAME": "",
     "SCENARIO_STATUS": "809c001a",
-    "EXPLANATION": "Ho passato dei momenti fantastici con Kyoko Ki.",
+    "EXPLANATION": "Ho passato dei momenti fantastici con <Name:譛帶怦莠ｬ蟄撰ｼ壽ｺ先ｰ丞錐>.",
     "CONTENTS_EXP": ""
   },
   "30": {
