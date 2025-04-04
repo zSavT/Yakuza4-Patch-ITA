@@ -1,0 +1,512 @@
+{
+  "0": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 01",
+    "HP": "300",
+    "ATTACK": "5",
+    "THROW": "5",
+    "DEFENCE": "1",
+    "ESCAPE": "1",
+    "MODEL": "c_em_corsft_subfighter01",
+    "CTRL_TYPE": "育成・喧嘩"
+  },
+  "1": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 02",
+    "HP": "250",
+    "ATTACK": "5",
+    "THROW": "5",
+    "DEFENCE": "5",
+    "ESCAPE": "5",
+    "MODEL": "c_em_corsft_subfighter02",
+    "CTRL_TYPE": "育成・喧嘩"
+  },
+  "2": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 03",
+    "HP": "350",
+    "ATTACK": "5",
+    "THROW": "1",
+    "DEFENCE": "1",
+    "ESCAPE": "1",
+    "MODEL": "c_em_corsft_subfighter03",
+    "CTRL_TYPE": "育成・喧嘩"
+  },
+  "3": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 04",
+    "HP": "400",
+    "ATTACK": "5",
+    "THROW": "5",
+    "DEFENCE": "5",
+    "ESCAPE": "5",
+    "MODEL": "c_em_corsft_subfighter04",
+    "CTRL_TYPE": "育成・喧嘩"
+  },
+  "4": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 05",
+    "HP": "420",
+    "ATTACK": "5",
+    "THROW": "5",
+    "DEFENCE": "5",
+    "ESCAPE": "5",
+    "MODEL": "c_em_corsft_subfighter05",
+    "CTRL_TYPE": "育成・喧嘩"
+  },
+  "5": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 06",
+    "HP": "500",
+    "ATTACK": "15",
+    "THROW": "10",
+    "DEFENCE": "5",
+    "ESCAPE": "10",
+    "MODEL": "c_em_corsft_subfighter06",
+    "CTRL_TYPE": "育成・喧嘩"
+  },
+  "6": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 07",
+    "HP": "450",
+    "ATTACK": "10",
+    "THROW": "5",
+    "DEFENCE": "5",
+    "ESCAPE": "5",
+    "MODEL": "c_em_corsft_subfighter07",
+    "CTRL_TYPE": "育成・ごっつい"
+  },
+  "7": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 08",
+    "HP": "410",
+    "ATTACK": "10",
+    "THROW": "5",
+    "DEFENCE": "5",
+    "ESCAPE": "10",
+    "MODEL": "c_em_corsft_subfighter08",
+    "CTRL_TYPE": "育成・ごっつい"
+  },
+  "8": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 09",
+    "HP": "500",
+    "ATTACK": "12",
+    "THROW": "12",
+    "DEFENCE": "5",
+    "ESCAPE": "5",
+    "MODEL": "c_em_corsft_subfighter09",
+    "CTRL_TYPE": "育成・ごっつい"
+  },
+  "9": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 10",
+    "HP": "550",
+    "ATTACK": "15",
+    "THROW": "15",
+    "DEFENCE": "5",
+    "ESCAPE": "10",
+    "MODEL": "c_em_corsft_subfighter10",
+    "CTRL_TYPE": "育成・ごっつい"
+  },
+  "10": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 11",
+    "HP": "700",
+    "ATTACK": "20",
+    "THROW": "20",
+    "DEFENCE": "20",
+    "ESCAPE": "20",
+    "MODEL": "c_em_corsft_subfighter11",
+    "CTRL_TYPE": "育成・ごっつい"
+  },
+  "11": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 12",
+    "HP": "380",
+    "ATTACK": "7",
+    "THROW": "7",
+    "DEFENCE": "7",
+    "ESCAPE": "7",
+    "MODEL": "c_em_corsft_subfighter12",
+    "CTRL_TYPE": "育成・ボクサー"
+  },
+  "12": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 13",
+    "HP": "340",
+    "ATTACK": "10",
+    "THROW": "1",
+    "DEFENCE": "5",
+    "ESCAPE": "15",
+    "MODEL": "c_em_corsft_subfighter13",
+    "CTRL_TYPE": "育成・ボクサー"
+  },
+  "13": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 14",
+    "HP": "400",
+    "ATTACK": "15",
+    "THROW": "5",
+    "DEFENCE": "5",
+    "ESCAPE": "15",
+    "MODEL": "c_em_corsft_subfighter14",
+    "CTRL_TYPE": "育成・ボクサー"
+  },
+  "14": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 15",
+    "HP": "450",
+    "ATTACK": "15",
+    "THROW": "5",
+    "DEFENCE": "5",
+    "ESCAPE": "20",
+    "MODEL": "c_em_corsft_subfighter15",
+    "CTRL_TYPE": "育成・ボクサー"
+  },
+  "15": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 16",
+    "HP": "600",
+    "ATTACK": "25",
+    "THROW": "5",
+    "DEFENCE": "10",
+    "ESCAPE": "20",
+    "MODEL": "c_em_corsft_subfighter16",
+    "CTRL_TYPE": "育成・ボクサー"
+  },
+  "16": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 17",
+    "HP": "700",
+    "ATTACK": "30",
+    "THROW": "5",
+    "DEFENCE": "15",
+    "ESCAPE": "30",
+    "MODEL": "c_em_corsft_subfighter17",
+    "CTRL_TYPE": "育成・ボクサー"
+  },
+  "17": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 18",
+    "HP": "400",
+    "ATTACK": "10",
+    "THROW": "5",
+    "DEFENCE": "5",
+    "ESCAPE": "15",
+    "MODEL": "c_em_corsft_subfighter18",
+    "CTRL_TYPE": "育成・キックボクサー"
+  },
+  "18": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 19",
+    "HP": "500",
+    "ATTACK": "10",
+    "THROW": "5",
+    "DEFENCE": "10",
+    "ESCAPE": "20",
+    "MODEL": "c_em_corsft_subfighter19",
+    "CTRL_TYPE": "育成・キックボクサー"
+  },
+  "19": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 20",
+    "HP": "630",
+    "ATTACK": "20",
+    "THROW": "5",
+    "DEFENCE": "15",
+    "ESCAPE": "20",
+    "MODEL": "c_em_corsft_subfighter20",
+    "CTRL_TYPE": "育成・キックボクサー"
+  },
+  "20": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 21",
+    "HP": "600",
+    "ATTACK": "25",
+    "THROW": "5",
+    "DEFENCE": "15",
+    "ESCAPE": "25",
+    "MODEL": "c_em_corsft_subfighter21",
+    "CTRL_TYPE": "育成・キックボクサー"
+  },
+  "21": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 22",
+    "HP": "500",
+    "ATTACK": "35",
+    "THROW": "10",
+    "DEFENCE": "20",
+    "ESCAPE": "40",
+    "MODEL": "c_em_corsft_subfighter22",
+    "CTRL_TYPE": "育成・キックボクサー"
+  },
+  "22": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 23",
+    "HP": "800",
+    "ATTACK": "30",
+    "THROW": "5",
+    "DEFENCE": "10",
+    "ESCAPE": "35",
+    "MODEL": "c_em_corsft_subfighter23",
+    "CTRL_TYPE": "育成・キックボクサー"
+  },
+  "23": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 24",
+    "HP": "750",
+    "ATTACK": "35",
+    "THROW": "10",
+    "DEFENCE": "30",
+    "ESCAPE": "30",
+    "MODEL": "c_em_corsft_subfighter24",
+    "CTRL_TYPE": "育成・キックボクサー"
+  },
+  "24": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 25",
+    "HP": "850",
+    "ATTACK": "70",
+    "THROW": "10",
+    "DEFENCE": "20",
+    "ESCAPE": "60",
+    "MODEL": "c_em_corsft_subfighter25",
+    "CTRL_TYPE": "育成・キックボクサー"
+  },
+  "25": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 26",
+    "HP": "500",
+    "ATTACK": "10",
+    "THROW": "15",
+    "DEFENCE": "10",
+    "ESCAPE": "5",
+    "MODEL": "c_em_corsft_subfighter26",
+    "CTRL_TYPE": "育成・プロレス"
+  },
+  "26": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 27",
+    "HP": "550",
+    "ATTACK": "15",
+    "THROW": "10",
+    "DEFENCE": "20",
+    "ESCAPE": "10",
+    "MODEL": "c_em_corsft_subfighter27",
+    "CTRL_TYPE": "育成・プロレス"
+  },
+  "27": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 28",
+    "HP": "600",
+    "ATTACK": "15",
+    "THROW": "20",
+    "DEFENCE": "20",
+    "ESCAPE": "10",
+    "MODEL": "c_em_corsft_subfighter28",
+    "CTRL_TYPE": "育成・プロレス"
+  },
+  "28": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 29",
+    "HP": "700",
+    "ATTACK": "15",
+    "THROW": "25",
+    "DEFENCE": "15",
+    "ESCAPE": "20",
+    "MODEL": "c_em_corsft_subfighter29",
+    "CTRL_TYPE": "育成・プロレス"
+  },
+  "29": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 30",
+    "HP": "650",
+    "ATTACK": "20",
+    "THROW": "25",
+    "DEFENCE": "15",
+    "ESCAPE": "10",
+    "MODEL": "c_em_corsft_subfighter30",
+    "CTRL_TYPE": "育成・プロレス"
+  },
+  "30": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 31",
+    "HP": "800",
+    "ATTACK": "35",
+    "THROW": "35",
+    "DEFENCE": "10",
+    "ESCAPE": "15",
+    "MODEL": "c_em_corsft_subfighter31",
+    "CTRL_TYPE": "育成・プロレス"
+  },
+  "31": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 32",
+    "HP": "1000",
+    "ATTACK": "35",
+    "THROW": "40",
+    "DEFENCE": "20",
+    "ESCAPE": "10",
+    "MODEL": "c_em_corsft_subfighter32",
+    "CTRL_TYPE": "育成・プロレス"
+  },
+  "32": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 33",
+    "HP": "400",
+    "ATTACK": "10",
+    "THROW": "10",
+    "DEFENCE": "10",
+    "ESCAPE": "10",
+    "MODEL": "c_em_corsft_subfighter33",
+    "CTRL_TYPE": "育成・空手"
+  },
+  "33": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 34",
+    "HP": "530",
+    "ATTACK": "15",
+    "THROW": "10",
+    "DEFENCE": "10",
+    "ESCAPE": "10",
+    "MODEL": "c_em_corsft_subfighter34",
+    "CTRL_TYPE": "育成・空手"
+  },
+  "34": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 35",
+    "HP": "500",
+    "ATTACK": "15",
+    "THROW": "10",
+    "DEFENCE": "10",
+    "ESCAPE": "20",
+    "MODEL": "c_em_corsft_subfighter35",
+    "CTRL_TYPE": "育成・空手"
+  },
+  "35": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 36",
+    "HP": "600",
+    "ATTACK": "20",
+    "THROW": "10",
+    "DEFENCE": "10",
+    "ESCAPE": "10",
+    "MODEL": "c_em_corsft_subfighter36",
+    "CTRL_TYPE": "育成・空手"
+  },
+  "36": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 37",
+    "HP": "700",
+    "ATTACK": "20",
+    "THROW": "20",
+    "DEFENCE": "20",
+    "ESCAPE": "10",
+    "MODEL": "c_em_corsft_subfighter37",
+    "CTRL_TYPE": "育成・空手"
+  },
+  "37": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 38",
+    "HP": "850",
+    "ATTACK": "35",
+    "THROW": "30",
+    "DEFENCE": "30",
+    "ESCAPE": "30",
+    "MODEL": "c_em_corsft_subfighter38",
+    "CTRL_TYPE": "育成・空手"
+  },
+  "38": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 39",
+    "HP": "700",
+    "ATTACK": "25",
+    "THROW": "25",
+    "DEFENCE": "20",
+    "ESCAPE": "20",
+    "MODEL": "c_em_corsft_subfighter39",
+    "CTRL_TYPE": "育成・技巧派総合"
+  },
+  "39": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 40",
+    "HP": "650",
+    "ATTACK": "25",
+    "THROW": "25",
+    "DEFENCE": "30",
+    "ESCAPE": "30",
+    "MODEL": "c_em_corsft_subfighter40",
+    "CTRL_TYPE": "育成・技巧派総合"
+  },
+  "40": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 41",
+    "HP": "800",
+    "ATTACK": "30",
+    "THROW": "30",
+    "DEFENCE": "30",
+    "ESCAPE": "30",
+    "MODEL": "c_em_corsft_subfighter41",
+    "CTRL_TYPE": "育成・技巧派総合"
+  },
+  "41": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 42",
+    "HP": "760",
+    "ATTACK": "35",
+    "THROW": "35",
+    "DEFENCE": "35",
+    "ESCAPE": "30",
+    "MODEL": "c_em_corsft_subfighter42",
+    "CTRL_TYPE": "育成・技巧派総合"
+  },
+  "42": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 43",
+    "HP": "900",
+    "ATTACK": "40",
+    "THROW": "40",
+    "DEFENCE": "40",
+    "ESCAPE": "45",
+    "MODEL": "c_em_corsft_subfighter43",
+    "CTRL_TYPE": "育成・技巧派総合"
+  },
+  "43": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 44",
+    "HP": "950",
+    "ATTACK": "50",
+    "THROW": "60",
+    "DEFENCE": "60",
+    "ESCAPE": "50",
+    "MODEL": "c_em_corsft_subfighter44",
+    "CTRL_TYPE": "育成・技巧派総合"
+  },
+  "44": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 45",
+    "HP": "700",
+    "ATTACK": "25",
+    "THROW": "25",
+    "DEFENCE": "20",
+    "ESCAPE": "20",
+    "MODEL": "c_em_corsft_subfighter45",
+    "CTRL_TYPE": "育成・打撃派総合"
+  },
+  "45": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 46",
+    "HP": "650",
+    "ATTACK": "25",
+    "THROW": "25",
+    "DEFENCE": "30",
+    "ESCAPE": "30",
+    "MODEL": "c_em_corsft_subfighter46",
+    "CTRL_TYPE": "育成・打撃派総合"
+  },
+  "46": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 47",
+    "HP": "800",
+    "ATTACK": "30",
+    "THROW": "30",
+    "DEFENCE": "30",
+    "ESCAPE": "30",
+    "MODEL": "c_em_corsft_subfighter47",
+    "CTRL_TYPE": "育成・打撃派総合"
+  },
+  "47": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 48",
+    "HP": "760",
+    "ATTACK": "35",
+    "THROW": "35",
+    "DEFENCE": "35",
+    "ESCAPE": "30",
+    "MODEL": "c_em_corsft_subfighter48",
+    "CTRL_TYPE": "育成・打撃派総合"
+  },
+  "48": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 49",
+    "HP": "900",
+    "ATTACK": "40",
+    "THROW": "40",
+    "DEFENCE": "40",
+    "ESCAPE": "45",
+    "MODEL": "c_em_corsft_subfighter49",
+    "CTRL_TYPE": "育成・打撃派総合"
+  },
+  "49": {
+    "IKUSEI_ENEMY_NAME": "Apprentice Fighter 50",
+    "HP": "950",
+    "ATTACK": "60",
+    "THROW": "50",
+    "DEFENCE": "50",
+    "ESCAPE": "60",
+    "MODEL": "c_em_corsft_subfighter50",
+    "CTRL_TYPE": "育成・打撃派総合"
+  },
+  "types": {
+    "IKUSEI_ENEMY_NAME": "string",
+    "HP": "value",
+    "ATTACK": "value",
+    "THROW": "value",
+    "DEFENCE": "value",
+    "ESCAPE": "value",
+    "MODEL": "string",
+    "CTRL_TYPE": "string"
+  }
+}

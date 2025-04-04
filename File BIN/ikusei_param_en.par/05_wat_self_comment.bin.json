@@ -1,0 +1,110 @@
+{
+  "0": {
+    "COMENNT": "Please let me enter a tournament already. It wouldn't hurt to trust me a little.",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": "40"
+  },
+  "1": {
+    "COMENNT": "I got hurt... I'm sorry to cause you trouble. I'm sorry, I'm sorry, I'm sorry...",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "★20",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "2": {
+    "COMENNT": "I feel like I've trained as much as I can. I don't know how strong my opponent will be, but I'm sure I can win a tournament!",
+    "MAX_HP": "900",
+    "POWER": "90",
+    "SPEED": "70",
+    "TECHNIQUE": "80",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "3": {
+    "COMENNT": "It feels awkward to say it myself, but I've gotten a lot stronger. I want to put my skills to the test in real matches.",
+    "MAX_HP": "700",
+    "POWER": "70",
+    "SPEED": "50",
+    "TECHNIQUE": "60",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "4": {
+    "COMENNT": "It may be too soon for a tournament, but I feel more confident. Maybe I'll get more confident if I compete in some matches.",
+    "MAX_HP": "600",
+    "POWER": "50",
+    "SPEED": "30",
+    "TECHNIQUE": "40",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "5": {
+    "COMENNT": "Training is fun. My favorite is when my Power is boosted. I want to become a lot stronger.",
+    "MAX_HP": "",
+    "POWER": "50",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "6": {
+    "COMENNT": "I can't believe a guy like me could grow like this. I'm not just a fat kid anymore. I want to test my skills in a real match.",
+    "MAX_HP": "500",
+    "POWER": "30",
+    "SPEED": "20",
+    "TECHNIQUE": "25",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "7": {
+    "COMENNT": "I should focus on building up my basic skills for now. Saejima-san, teach me everything you know!",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "types": {
+    "COMENNT": "string",
+    "MAX_HP": "string",
+    "POWER": "string",
+    "SPEED": "string",
+    "TECHNIQUE": "string",
+    "SHAPE": "string",
+    "BELIVE": "string",
+    "HACT_NUM": "string",
+    "SKILL_NUM": "string",
+    "TURN_NUM": "string"
+  }
+}

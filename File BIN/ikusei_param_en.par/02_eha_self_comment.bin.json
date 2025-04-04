@@ -1,0 +1,122 @@
+{
+  "0": {
+    "COMENNT": "Please let me enter a tournament already. Or are you trying to show me how little you trust me?",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": "40"
+  },
+  "1": {
+    "COMENNT": "I got injured. I'm sorry. My Stamina has always been poor. Ugh, I'm such a loser...",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "★20",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "2": {
+    "COMENNT": "I don't think I can get any stronger than I am now. I really want to win a tournament. I believe in myself for the first time ever.",
+    "MAX_HP": "600",
+    "POWER": "60",
+    "SPEED": "90",
+    "TECHNIQUE": "80",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "3": {
+    "COMENNT": "I feel like I've gotten much stronger. Maybe I could even win a tournament. I feel confident for the first time in my life!",
+    "MAX_HP": "450",
+    "POWER": "30",
+    "SPEED": "60",
+    "TECHNIQUE": "50",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "4": {
+    "COMENNT": "I don't think I can enter a tournament yet, but I'd like to try an exhibition match to gain experience. What do you think?",
+    "MAX_HP": "350",
+    "POWER": "20",
+    "SPEED": "40",
+    "TECHNIQUE": "30",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "5": {
+    "COMENNT": "Speed training is fun! It feels great to know I have such amazing abilities!",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "40",
+    "TECHNIQUE": "",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "6": {
+    "COMENNT": "Am I getting any better? I'm not sure, but I think I might be able to take on a low level opponent.",
+    "MAX_HP": "300",
+    "POWER": "10",
+    "SPEED": "20",
+    "TECHNIQUE": "10",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "7": {
+    "COMENNT": "I'm sorry, my Stamina is really low. Should I do something about it? I'm worried that I won't be able to keep up with my training.",
+    "MAX_HP": "★300",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "8": {
+    "COMENNT": "I haven't mastered any of the basics yet, so I really need to focus on training!",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "types": {
+    "COMENNT": "string",
+    "MAX_HP": "string",
+    "POWER": "string",
+    "SPEED": "string",
+    "TECHNIQUE": "string",
+    "SHAPE": "string",
+    "BELIVE": "string",
+    "HACT_NUM": "string",
+    "SKILL_NUM": "string",
+    "TURN_NUM": "string"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "0": {
+    "COMENNT": "Hurry up and let me enter a tournament. Or do you plan on wasting my talent? Oh, the tragic life of Makoto Tokita...",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": "40"
+  },
+  "1": {
+    "COMENNT": "Oww! I can't believe you hurt my beautiful body! What were you thinking!?",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "★20",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "2": {
+    "COMENNT": "I've had enough training. I want to say goodbye to the smelly gym. Hurry up and make me famous already!",
+    "MAX_HP": "750",
+    "POWER": "60",
+    "SPEED": "80",
+    "TECHNIQUE": "90",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "3": {
+    "COMENNT": "Hehehe. I don't think there's anyone out there who can beat me now. Of course, I'm still getting stronger and stronger.",
+    "MAX_HP": "600",
+    "POWER": "40",
+    "SPEED": "60",
+    "TECHNIQUE": "70",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "4": {
+    "COMENNT": "I grow so fast I scare myself! I know I'm not perfect yet, but it must be a crime to be this handsome and talented at the same time.",
+    "MAX_HP": "500",
+    "POWER": "25",
+    "SPEED": "40",
+    "TECHNIQUE": "50",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "5": {
+    "COMENNT": "I have such amazing technique that no one would last more than a few seconds against me. I'm so talented⑬even I wouldn't want to fight me.",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "50",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "6": {
+    "COMENNT": "It's not that I'm not confident, okay!? I just don't think I really <Italic>need</Italic> to enter a tournament just yet.",
+    "MAX_HP": "300",
+    "POWER": "20",
+    "SPEED": "30",
+    "TECHNIQUE": "40",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "7": {
+    "COMENNT": "Hmph. Hurry up and make me a champion. I don't understand why you're wasting time asking me questions.",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "types": {
+    "COMENNT": "string",
+    "MAX_HP": "string",
+    "POWER": "string",
+    "SPEED": "string",
+    "TECHNIQUE": "string",
+    "SHAPE": "string",
+    "BELIVE": "string",
+    "HACT_NUM": "string",
+    "SKILL_NUM": "string",
+    "TURN_NUM": "string"
+  }
+}

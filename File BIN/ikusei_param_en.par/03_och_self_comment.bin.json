@@ -1,0 +1,74 @@
+{
+  "0": {
+    "COMENNT": "Hey, old man! Let me enter a tournament soon or I'll get seriously pissed off!",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": "40"
+  },
+  "1": {
+    "COMENNT": "Great, I got injured! It hurts like a bitch and it's all your fault! You're paying the bills!",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "★20",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "2": {
+    "COMENNT": "Hehehe. Training with you is fun. I'll definitely win the tournament. Just wait and see.",
+    "MAX_HP": "800",
+    "POWER": "80",
+    "SPEED": "45",
+    "TECHNIQUE": "60",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "3": {
+    "COMENNT": "I'm so good that I don't even need to train anymore. Hurry up and let me enter a tournament already!",
+    "MAX_HP": "600",
+    "POWER": "30",
+    "SPEED": "25",
+    "TECHNIQUE": "30",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "4": {
+    "COMENNT": "I don't have any frickin' comments. Hurry up and make me a champion!",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "types": {
+    "COMENNT": "string",
+    "MAX_HP": "string",
+    "POWER": "string",
+    "SPEED": "string",
+    "TECHNIQUE": "string",
+    "SHAPE": "string",
+    "BELIVE": "string",
+    "HACT_NUM": "string",
+    "SKILL_NUM": "string",
+    "TURN_NUM": "string"
+  }
+}

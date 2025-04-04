@@ -1,0 +1,98 @@
+{
+  "0": {
+    "COMENNT": "Let me enter a tournament already! Don't you even trust me at all?",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": "40"
+  },
+  "1": {
+    "COMENNT": "I got injured. I should take better care of myself in the future. I'm sorry for being such an epic failure...",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "★20",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "2": {
+    "COMENNT": "I'm not afraid to fight anymore! I trained really hard so I know I can win! Please let me enter a tournament!",
+    "MAX_HP": "",
+    "POWER": "60",
+    "SPEED": "60",
+    "TECHNIQUE": "60",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "3": {
+    "COMENNT": "I feel like I've gotten a lot stronger. I bet I could even win a tournament. What do you think?",
+    "MAX_HP": "",
+    "POWER": "40",
+    "SPEED": "40",
+    "TECHNIQUE": "40",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "4": {
+    "COMENNT": "I don't have a lot of fighting experience, so I want to fight in as many matches as I can. But I'm not ready for a tournament.",
+    "MAX_HP": "",
+    "POWER": "30",
+    "SPEED": "30",
+    "TECHNIQUE": "30",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "5": {
+    "COMENNT": "Did I get a little stronger? I want to try out my skills in a real match soon. Or do you think it's too soon?",
+    "MAX_HP": "",
+    "POWER": "15",
+    "SPEED": "15",
+    "TECHNIQUE": "15",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "6": {
+    "COMENNT": "I haven't mastered any of the basics yet, so I really just need to train!",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "types": {
+    "COMENNT": "string",
+    "MAX_HP": "string",
+    "POWER": "string",
+    "SPEED": "string",
+    "TECHNIQUE": "string",
+    "SHAPE": "string",
+    "BELIVE": "string",
+    "HACT_NUM": "string",
+    "SKILL_NUM": "string",
+    "TURN_NUM": "string"
+  }
+}
