@@ -1,0 +1,77 @@
+{
+  "0": {
+    "名前\u0000string_idx]": "チームブルー",
+    "シナリオフラグ\u0000special_scenariocompare]": "805f0000",
+    "説明\u0000string]": "チームブルーが蔓延している。"
+  },
+  "1": {
+    "名前\u0000string_idx]": "",
+    "シナリオフラグ\u0000special_scenariocompare]": "805f0003",
+    "説明\u0000string]": "チームブルーを駆除した。"
+  },
+  "2": {
+    "名前\u0000string_idx]": "神室腐餌煮苦巣",
+    "シナリオフラグ\u0000special_scenariocompare]": "80600000",
+    "説明\u0000string]": "神室腐餌煮苦巣が蔓延している。"
+  },
+  "3": {
+    "名前\u0000string_idx]": "",
+    "シナリオフラグ\u0000special_scenariocompare]": "80600003",
+    "説明\u0000string]": "神室腐餌煮苦巣を駆除した。"
+  },
+  "4": {
+    "名前\u0000string_idx]": "関東ギャングスターズ",
+    "シナリオフラグ\u0000special_scenariocompare]": "80610000",
+    "説明\u0000string]": "関東ギャングスターズが蔓延している。"
+  },
+  "5": {
+    "名前\u0000string_idx]": "",
+    "シナリオフラグ\u0000special_scenariocompare]": "80610003",
+    "説明\u0000string]": "関東ギャングスターズを駆除した。"
+  },
+  "6": {
+    "名前\u0000string_idx]": "スラムドックス",
+    "シナリオフラグ\u0000special_scenariocompare]": "80620000",
+    "説明\u0000string]": "スラムドックスが蔓延している。"
+  },
+  "7": {
+    "名前\u0000string_idx]": "",
+    "シナリオフラグ\u0000special_scenariocompare]": "80620003",
+    "説明\u0000string]": "スラムドックスを駆除した。"
+  },
+  "8": {
+    "名前\u0000string_idx]": "パープルキラーズ",
+    "シナリオフラグ\u0000special_scenariocompare]": "80630000",
+    "説明\u0000string]": "パープルキラーズが蔓延している。"
+  },
+  "9": {
+    "名前\u0000string_idx]": "",
+    "シナリオフラグ\u0000special_scenariocompare]": "80630003",
+    "説明\u0000string]": "パープルキラーズを駆除した。"
+  },
+  "10": {
+    "名前\u0000string_idx]": "暗黒会",
+    "シナリオフラグ\u0000special_scenariocompare]": "80640000",
+    "説明\u0000string]": "暗黒会が蔓延している。"
+  },
+  "11": {
+    "名前\u0000string_idx]": "",
+    "シナリオフラグ\u0000special_scenariocompare]": "80640003",
+    "説明\u0000string]": "暗黒会を駆除した。"
+  },
+  "12": {
+    "名前\u0000string_idx]": "暗黒会会長",
+    "シナリオフラグ\u0000special_scenariocompare]": "80650000",
+    "説明\u0000string]": "暗黒会会長が現れた。"
+  },
+  "13": {
+    "名前\u0000string_idx]": "",
+    "シナリオフラグ\u0000special_scenariocompare]": "80650001",
+    "説明\u0000string]": "暗黒会会長を駆除した。"
+  },
+  "types": {
+    "名前\u0000string_idx]": "string_idx",
+    "シナリオフラグ\u0000special_scenariocompare]": "special_scenariostatus",
+    "説明\u0000string]": "string"
+  }
+}

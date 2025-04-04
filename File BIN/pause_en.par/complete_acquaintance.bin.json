@@ -1,0 +1,67 @@
+{
+  "0": {
+    "名前\u0000string_idx]": "ＰＯＰＰＯ",
+    "シナリオフラグ\u0000special_scenariocompare]": "80af0000",
+    "説明\u0000string]": "ＰＯＰＰＯと馴染んだ。"
+  },
+  "1": {
+    "名前\u0000string_idx]": "Mストア",
+    "シナリオフラグ\u0000special_scenariocompare]": "80af0001",
+    "説明\u0000string]": "Mストアと馴染んだ。"
+  },
+  "2": {
+    "名前\u0000string_idx]": "ホームレス",
+    "シナリオフラグ\u0000special_scenariocompare]": "80af0002",
+    "説明\u0000string]": "ホームレスと馴染んだ。"
+  },
+  "3": {
+    "名前\u0000string_idx]": "ビリヤード",
+    "シナリオフラグ\u0000special_scenariocompare]": "80af0003",
+    "説明\u0000string]": "ビリヤードと馴染んだ。"
+  },
+  "4": {
+    "名前\u0000string_idx]": "タクシー",
+    "シナリオフラグ\u0000special_scenariocompare]": "80af0004",
+    "説明\u0000string]": "タクシーと馴染んだ。"
+  },
+  "5": {
+    "名前\u0000string_idx]": "ショーパブ",
+    "シナリオフラグ\u0000special_scenariocompare]": "80af0005",
+    "説明\u0000string]": "ショーパブと馴染んだ。"
+  },
+  "6": {
+    "名前\u0000string_idx]": "オカマバー",
+    "シナリオフラグ\u0000special_scenariocompare]": "80af0006",
+    "説明\u0000string]": "オカマバーと馴染んだ。"
+  },
+  "7": {
+    "名前\u0000string_idx]": "クラブセガ",
+    "シナリオフラグ\u0000special_scenariocompare]": "80af0007",
+    "説明\u0000string]": "クラブセガと馴染んだ。"
+  },
+  "8": {
+    "名前\u0000string_idx]": "ことぶき薬局",
+    "シナリオフラグ\u0000special_scenariocompare]": "80af0008",
+    "説明\u0000string]": "ことぶき薬局と馴染んだ。"
+  },
+  "9": {
+    "名前\u0000string_idx]": "喫茶アルプス",
+    "シナリオフラグ\u0000special_scenariocompare]": "80af0009",
+    "説明\u0000string]": "喫茶アルプスと馴染んだ。"
+  },
+  "10": {
+    "名前\u0000string_idx]": "ホームレス２",
+    "シナリオフラグ\u0000special_scenariocompare]": "80af000a",
+    "説明\u0000string]": "ホームレス２と馴染んだ。"
+  },
+  "11": {
+    "名前\u0000string_idx]": "九州一番星",
+    "シナリオフラグ\u0000special_scenariocompare]": "80af000b",
+    "説明\u0000string]": "九州一番星と馴染んだ。"
+  },
+  "types": {
+    "名前\u0000string_idx]": "string_idx",
+    "シナリオフラグ\u0000special_scenariocompare]": "special_scenariostatus",
+    "説明\u0000string]": "string"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "0": {
+    "GROUP": "All",
+    "SCENARIO_STATE": "80030000",
+    "EXPLANATION": "People living in Kamurocho as of March 2010."
+  },
+  "1": {
+    "GROUP": "",
+    "SCENARIO_STATE": "80040000",
+    "EXPLANATION": "People related to the events taking place in Kamurocho as of March 2010."
+  },
+  "2": {
+    "GROUP": "",
+    "SCENARIO_STATE": "80010004",
+    "EXPLANATION": "People who live in Kamurocho and the people related to them."
+  },
+  "3": {
+    "GROUP": "Tojo and Ueno Seiwa Clan War",
+    "SCENARIO_STATE": "80040000fffffffe00010004",
+    "EXPLANATION": "People involved in the Tojo and Ueno Seiwa Clan\nwar, which started when Arai of Kanemura\nEnterprises fatally shot Ihara of the Ueno Seiwa Clan."
+  },
+  "4": {
+    "GROUP": "Kamurocho Serial Murders",
+    "SCENARIO_STATE": "80040000fffffffe00010004",
+    "EXPLANATION": "People involved in a recent string of mysterious\nmurders that took place in Kamurocho."
+  },
+  "5": {
+    "GROUP": "Yoshiharu Ueno Assassination",
+    "SCENARIO_STATE": "80070000fffffffe00010004",
+    "EXPLANATION": "People involved in the incident 25 years ago when\nSaejima of the Sasai Family gunned down 18 Ueno\nSeiwa Clan members, including Chairman Ueno."
+  },
+  "6": {
+    "GROUP": "Tojo Clan's Missing 10 Billion",
+    "SCENARIO_STATE": "800f0000fffffffe00010004",
+    "EXPLANATION": "People involved in the incident 5 years ago when 10\nbillion yen went missing from the Tojo Clan竭ｬleading\nto the explosion at the Millennium Tower."
+  },
+  "types": {
+    "GROUP": "string_idx",
+    "SCENARIO_STATE": "special_scenariostatus",
+    "EXPLANATION": "string_idx"
+  }
+}

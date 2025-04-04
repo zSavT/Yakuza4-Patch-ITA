@@ -1,0 +1,37 @@
+{
+  "0": {
+    "名前\u0000string_idx]": "修行西郷１",
+    "シナリオフラグ\u0000special_scenariocompare]": "80010001",
+    "説明\u0000string]": "開始１"
+  },
+  "1": {
+    "名前\u0000string_idx]": "",
+    "シナリオフラグ\u0000special_scenariocompare]": "80010001",
+    "説明\u0000string]": "途中１"
+  },
+  "2": {
+    "名前\u0000string_idx]": "",
+    "シナリオフラグ\u0000special_scenariocompare]": "80010001",
+    "説明\u0000string]": "完了１"
+  },
+  "3": {
+    "名前\u0000string_idx]": "修行西郷２",
+    "シナリオフラグ\u0000special_scenariocompare]": "80010001",
+    "説明\u0000string]": "説明２"
+  },
+  "4": {
+    "名前\u0000string_idx]": "",
+    "シナリオフラグ\u0000special_scenariocompare]": "80010001",
+    "説明\u0000string]": "完了２"
+  },
+  "5": {
+    "名前\u0000string_idx]": "修行西郷３",
+    "シナリオフラグ\u0000special_scenariocompare]": "80010001",
+    "説明\u0000string]": "完了３"
+  },
+  "types": {
+    "名前\u0000string_idx]": "string_idx",
+    "シナリオフラグ\u0000special_scenariocompare]": "special_scenariostatus",
+    "説明\u0000string]": "string"
+  }
+}

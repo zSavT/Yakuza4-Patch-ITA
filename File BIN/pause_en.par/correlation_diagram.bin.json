@@ -1,0 +1,902 @@
+{
+  "0": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "遥",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "80030000",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "1": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "桐生",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "80030000",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "2": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "須藤",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "3": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "狭山",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "4": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "ユウヤ",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "5": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "一輝",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "6": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "若造",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "7": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "伊達",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "8": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "柄本",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "9": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "花屋",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "10": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "ママ",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "11": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "太一",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "12": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "綾子",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "13": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "宏次",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "14": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "エリ",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "15": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "三雄",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "16": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "理緒奈",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "17": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "志郎",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "18": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "泉",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "19": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "咲",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "20": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "名嘉原",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "21": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "幹夫",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "22": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "力也",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "23": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "玉城",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "24": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "謎の男",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "25": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "謎の白人",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "26": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "風間",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "27": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "諜報員",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "28": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "大吾",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "29": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "浜崎",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "30": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "真島",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "31": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "柏木",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "32": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "神田",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "33": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "長谷部",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "34": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "峯",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "35": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "劉",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "36": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "鈴木",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "37": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "田宮",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "38": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "dummy_民自党",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "39": {
+    "略名\u0000string_idx]": "[独立個人名]",
+    "相手略名\u0000string_idx]": "當眞",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": ""
+  },
+  "40": {
+    "略名\u0000string_idx]": "桐生",
+    "相手略名\u0000string_idx]": "遥",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "親子同然",
+    "オプション\u0000string]": ""
+  },
+  "41": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "狭山",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "良き理解者",
+    "オプション\u0000string]": ""
+  },
+  "42": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "大吾",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "信頼関係",
+    "オプション\u0000string]": "START_P1"
+  },
+  "43": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "名嘉原",
+    "ライン\u0000string_idx]": "←",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "立ち退きを迫る",
+    "オプション\u0000string]": "TURN_3TO1"
+  },
+  "44": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "兄弟の盃を交わす",
+    "オプション\u0000string]": "TURN_3TO1"
+  },
+  "45": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "真島",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "東城会のことを頼む",
+    "オプション\u0000string]": "EXP_LU"
+  },
+  "46": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "峯",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "決着を望む",
+    "オプション\u0000string]": "EXP_RB,START_STRAIGHT_HALF,GOAL_M1"
+  },
+  "47": {
+    "略名\u0000string_idx]": "アサガオ",
+    "相手略名\u0000string_idx]": "桐生",
+    "ライン\u0000string_idx]": "←",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "経営",
+    "オプション\u0000string]": "GOAL_M1,GOAL_L,EXP_RB"
+  },
+  "48": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "遥",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "一緒に暮らしている",
+    "オプション\u0000string]": ""
+  },
+  "49": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "咲",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "一緒に暮らしている",
+    "オプション\u0000string]": ""
+  },
+  "50": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "名嘉原",
+    "ライン\u0000string_idx]": "←",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "土地の権利書を持っている",
+    "オプション\u0000string]": "EXP_LU"
+  },
+  "51": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "",
+    "ライン\u0000string_idx]": "←",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "土地の権利書を持っていた",
+    "オプション\u0000string]": "EXP_LU"
+  },
+  "52": {
+    "略名\u0000string_idx]": "神室町の人々",
+    "相手略名\u0000string_idx]": "桐生",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "信頼関係",
+    "オプション\u0000string]": "GOAL_M1"
+  },
+  "53": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": "GOAL_M1,GOAL_U"
+  },
+  "54": {
+    "略名\u0000string_idx]": "伊達",
+    "相手略名\u0000string_idx]": "若造",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "上司",
+    "オプション\u0000string]": ""
+  },
+  "55": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "ママ",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "いい関係？",
+    "オプション\u0000string]": ""
+  },
+  "56": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": "START_C"
+  },
+  "57": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "須藤",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "元同僚",
+    "オプション\u0000string]": ""
+  },
+  "58": {
+    "略名\u0000string_idx]": "ユウヤ",
+    "相手略名\u0000string_idx]": "一輝",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "信頼関係",
+    "オプション\u0000string]": ""
+  },
+  "59": {
+    "略名\u0000string_idx]": "三雄",
+    "相手略名\u0000string_idx]": "理緒奈",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "好き",
+    "オプション\u0000string]": ""
+  },
+  "60": {
+    "略名\u0000string_idx]": "名嘉原",
+    "相手略名\u0000string_idx]": "力也",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "部下",
+    "オプション\u0000string]": "GOAL_C"
+  },
+  "61": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "咲",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "養女にする",
+    "オプション\u0000string]": ""
+  },
+  "62": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "親子同然",
+    "オプション\u0000string]": ""
+  },
+  "63": {
+    "略名\u0000string_idx]": "琉道一家",
+    "相手略名\u0000string_idx]": "玉城組",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "対立",
+    "オプション\u0000string]": ""
+  },
+  "64": {
+    "略名\u0000string_idx]": "力也",
+    "相手略名\u0000string_idx]": "幹夫",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "舎弟",
+    "オプション\u0000string]": ""
+  },
+  "65": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "",
+    "ライン\u0000string_idx]": "←",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "憧れ",
+    "オプション\u0000string]": ""
+  },
+  "66": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "桐生",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "気に入らない",
+    "オプション\u0000string]": "TURN_3TO1,GOAL_B"
+  },
+  "67": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "慕っている",
+    "オプション\u0000string]": "TURN_3TO1,GOAL_B"
+  },
+  "68": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": "GOAL_B"
+  },
+  "69": {
+    "略名\u0000string_idx]": "幹夫",
+    "相手略名\u0000string_idx]": "泉",
+    "ライン\u0000string_idx]": "←",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "犬小屋を作ってもらう",
+    "オプション\u0000string]": ""
+  },
+  "70": {
+    "略名\u0000string_idx]": "大吾",
+    "相手略名\u0000string_idx]": "真島",
+    "ライン\u0000string_idx]": "←",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "支援",
+    "オプション\u0000string]": "GOAL_U"
+  },
+  "71": {
+    "略名\u0000string_idx]": "柏木",
+    "相手略名\u0000string_idx]": "大吾",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "信頼",
+    "オプション\u0000string]": ""
+  },
+  "72": {
+    "略名\u0000string_idx]": "真島",
+    "相手略名\u0000string_idx]": "鈴木",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "協力関係",
+    "オプション\u0000string]": ""
+  },
+  "73": {
+    "略名\u0000string_idx]": "二代目風間組",
+    "相手略名\u0000string_idx]": "三代目錦山組",
+    "ライン\u0000string_idx]": "←",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "戦争を起こす構え",
+    "オプション\u0000string]": "GOAL_C"
+  },
+  "74": {
+    "略名\u0000string_idx]": "神田",
+    "相手略名\u0000string_idx]": "大吾",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "跡目を狙う",
+    "オプション\u0000string]": "TURN_3TO1,GOAL_R"
+  },
+  "75": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "峯",
+    "ライン\u0000string_idx]": "←",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "資金面で協力",
+    "オプション\u0000string]": ""
+  },
+  "76": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "ケジメをつける",
+    "オプション\u0000string]": ""
+  },
+  "77": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "長谷部",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "部下",
+    "オプション\u0000string]": ""
+  },
+  "78": {
+    "略名\u0000string_idx]": "峯",
+    "相手略名\u0000string_idx]": "大吾",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "忠誠",
+    "オプション\u0000string]": "GOAL_P1,TURN_3TO1,GOAL_R"
+  },
+  "79": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "",
+    "オプション\u0000string]": "GOAL_C,TURN_3TO1,GOAL_R"
+  },
+  "80": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "",
+    "ライン\u0000string_idx]": "",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "跡目を狙う",
+    "オプション\u0000string]": "TURN_3TO1,GOAL_R"
+  },
+  "81": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "當眞",
+    "ライン\u0000string_idx]": "←",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "土地買収実行を託す",
+    "オプション\u0000string]": "GOAL_M1,EXP_LU"
+  },
+  "82": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "鈴木",
+    "ライン\u0000string_idx]": "←",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "土地買収を依頼",
+    "オプション\u0000string]": "START_C,EXP_LU"
+  },
+  "83": {
+    "略名\u0000string_idx]": "浜崎",
+    "相手略名\u0000string_idx]": "大吾",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "跡目を狙う",
+    "オプション\u0000string]": "TURN_3TO1,GOAL_L"
+  },
+  "84": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "真島",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "リゾート開発計画を紹介",
+    "オプション\u0000string]": ""
+  },
+  "85": {
+    "略名\u0000string_idx]": "蛇華",
+    "相手略名\u0000string_idx]": "浜崎",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "協力",
+    "オプション\u0000string]": "TURN_3TO1"
+  },
+  "86": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "劉を失った報復",
+    "オプション\u0000string]": "TURN_3TO1"
+  },
+  "87": {
+    "略名\u0000string_idx]": "玉城",
+    "相手略名\u0000string_idx]": "鈴木",
+    "ライン\u0000string_idx]": "←",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "土地買収を依頼",
+    "オプション\u0000string]": "START_C"
+  },
+  "88": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "アサガオ",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "取り壊す",
+    "オプション\u0000string]": "EXP_RB"
+  },
+  "89": {
+    "略名\u0000string_idx]": "田宮",
+    "相手略名\u0000string_idx]": "當眞",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "部下",
+    "オプション\u0000string]": "GOAL_C"
+  },
+  "90": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "身を案じる",
+    "オプション\u0000string]": "GOAL_C"
+  },
+  "91": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "信頼関係",
+    "オプション\u0000string]": "GOAL_C"
+  },
+  "92": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "鈴木",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "次期総裁\n対立候補",
+    "オプション\u0000string]": ""
+  },
+  "93": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "風間",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "唯一無二の親友",
+    "オプション\u0000string]": "START_C"
+  },
+  "94": {
+    "略名\u0000string_idx]": "當眞",
+    "相手略名\u0000string_idx]": "鈴木",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "情報を売る",
+    "オプション\u0000string]": "EXP_RB"
+  },
+  "95": {
+    "略名\u0000string_idx]": "風間",
+    "相手略名\u0000string_idx]": "峯",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "計画のため\n泳がせていた",
+    "オプション\u0000string]": "GOAL_C"
+  },
+  "96": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "諜報員",
+    "ライン\u0000string_idx]": "⇔",
+    "関係\u0000string_idx]": "友",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "同僚",
+    "オプション\u0000string]": ""
+  },
+  "97": {
+    "略名\u0000string_idx]": "",
+    "相手略名\u0000string_idx]": "當眞",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "口を封じようとしている",
+    "オプション\u0000string]": ""
+  },
+  "98": {
+    "略名\u0000string_idx]": "ＣＩＡ",
+    "相手略名\u0000string_idx]": "柏木",
+    "ライン\u0000string_idx]": "→",
+    "関係\u0000string_idx]": "敵",
+    "有効シナリオステータス\u0000special_scenariocompare]": "",
+    "相関関係\u0000string_idx]": "殺害",
+    "オプション\u0000string]": ""
+  },
+  "types": {
+    "略名\u0000string_idx]": "string_idx",
+    "相手略名\u0000string_idx]": "string_idx",
+    "ライン\u0000string_idx]": "string_idx",
+    "関係\u0000string_idx]": "string_idx",
+    "有効シナリオステータス\u0000special_scenariocompare]": "special_scenariostatus",
+    "相関関係\u0000string_idx]": "string_idx",
+    "オプション\u0000string]": "string"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "0": {
+    "NAME": "Coin Lockers",
+    "EXPLANATION": "Unlock all 100 lockers, both above and underground."
+  },
+  "1": {
+    "NAME": "Food/Drink",
+    "EXPLANATION": "Order everything on the menu at every restaurant."
+  },
+  "2": {
+    "NAME": "Weapon Modding",
+    "EXPLANATION": "Make all weapons and gear for both Kamiyama Works shops."
+  },
+  "3": {
+    "NAME": "Allies",
+    "EXPLANATION": "Befriend everyone you can in the city."
+  },
+  "4": {
+    "NAME": "Revelations",
+    "EXPLANATION": "See all Revelations."
+  },
+  "5": {
+    "NAME": "Minigames",
+    "EXPLANATION": "Complete every minigame. Each minigame's completion status can\nbe viewed with <Action:Button_Cross@UI>."
+  },
+  "6": {
+    "NAME": "Hostesses",
+    "EXPLANATION": "Complete all hostess substories."
+  },
+  "7": {
+    "NAME": "Hostess Maker",
+    "EXPLANATION": "Complete all Hostess Maker hostess substories."
+  },
+  "8": {
+    "NAME": "No. 1 Hostess Maker",
+    "EXPLANATION": "Train all Hostess Maker hostesses to be number one."
+  },
+  "9": {
+    "NAME": "Saigo's Training",
+    "EXPLANATION": "Clear all of Saigo's training courses."
+  },
+  "10": {
+    "NAME": "Master's Helper",
+    "EXPLANATION": "Complete all of Master's tasks."
+  },
+  "11": {
+    "NAME": "Nair's Training",
+    "EXPLANATION": "Help Nair reach her objective."
+  },
+  "12": {
+    "NAME": "Coliseum",
+    "EXPLANATION": "Win all tournaments at the Coliseum."
+  },
+  "13": {
+    "NAME": "Fighter Maker",
+    "EXPLANATION": "All your apprentices must win the Rookie Tournament."
+  },
+  "14": {
+    "NAME": "Police Scanner",
+    "EXPLANATION": "Resolve specific cases heard on the police scanner."
+  },
+  "15": {
+    "NAME": "Gang Encounters",
+    "EXPLANATION": "Defeat all gangs."
+  },
+  "16": {
+    "NAME": "IF7-R",
+    "EXPLANATION": "Defeat all enemies."
+  },
+  "17": {
+    "NAME": "Heat Actions",
+    "EXPLANATION": "Use every Heat Action."
+  },
+  "types": {
+    "NAME": "string_idx",
+    "EXPLANATION": "string"
+  }
+}
