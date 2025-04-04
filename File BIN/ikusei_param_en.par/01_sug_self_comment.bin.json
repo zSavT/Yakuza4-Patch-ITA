@@ -1,6 +1,6 @@
 {
   "0": {
-    "COMENNT": "Let me enter a tournament already! Don't you even trust me at all?",
+    "COMENNT": "Lasciami partecipare a un torneo! Non ti fidi affatto di me?",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -12,7 +12,7 @@
     "TURN_NUM": "40"
   },
   "1": {
-    "COMENNT": "I got injured. I should take better care of myself in the future. I'm sorry for being such an epic failure...",
+    "COMENNT": "Mi sono infortunato. Dovrei prendermi più cura di me in futuro. Mi dispiace di essere un fallimento così epico...",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -24,7 +24,7 @@
     "TURN_NUM": ""
   },
   "2": {
-    "COMENNT": "I'm not afraid to fight anymore! I trained really hard so I know I can win! Please let me enter a tournament!",
+    "COMENNT": "Non ho più paura di combattere! Mi sono allenato duramente, quindi so di poter vincere! Per favore, lasciami partecipare a un torneo!",
     "MAX_HP": "",
     "POWER": "60",
     "SPEED": "60",
@@ -36,7 +36,7 @@
     "TURN_NUM": ""
   },
   "3": {
-    "COMENNT": "I feel like I've gotten a lot stronger. I bet I could even win a tournament. What do you think?",
+    "COMENNT": "Mi sento come se fossi diventato molto più forte. Scommetto che potrei anche vincere un torneo. Cosa ne pensi?",
     "MAX_HP": "",
     "POWER": "40",
     "SPEED": "40",
@@ -48,7 +48,7 @@
     "TURN_NUM": ""
   },
   "4": {
-    "COMENNT": "I don't have a lot of fighting experience, so I want to fight in as many matches as I can. But I'm not ready for a tournament.",
+    "COMENNT": "Non ho molta esperienza di combattimento, quindi voglio combattere in quante più partite possibile. Ma non sono pronto per un torneo.",
     "MAX_HP": "",
     "POWER": "30",
     "SPEED": "30",
@@ -60,7 +60,7 @@
     "TURN_NUM": ""
   },
   "5": {
-    "COMENNT": "Did I get a little stronger? I want to try out my skills in a real match soon. Or do you think it's too soon?",
+    "COMENNT": "Sono diventato un po' più forte? Voglio mettere alla prova le mie abilità in una partita vera presto. O pensi che sia troppo presto?",
     "MAX_HP": "",
     "POWER": "15",
     "SPEED": "15",
@@ -72,7 +72,7 @@
     "TURN_NUM": ""
   },
   "6": {
-    "COMENNT": "I haven't mastered any of the basics yet, so I really just need to train!",
+    "COMENNT": "Non ho ancora padroneggiato nessuna delle basi, quindi devo solo allenarmi!",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",

@@ -1,6 +1,6 @@
 {
   "0": {
-    "COMENNT": "Please let me enter a tournament already. Or are you trying to show me how little you trust me?",
+    "COMENNT": "Per favore, lasciami partecipare a un torneo. O stai cercando di mostrarmi quanto poco ti fidi di me?",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -12,7 +12,7 @@
     "TURN_NUM": "40"
   },
   "1": {
-    "COMENNT": "I got injured. I'm sorry. My Stamina has always been poor. Ugh, I'm such a loser...",
+    "COMENNT": "Mi sono infortunato. Mi dispiace. La mia Stamina è sempre stata scarsa. Uffa, sono proprio un perdente...",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -24,7 +24,7 @@
     "TURN_NUM": ""
   },
   "2": {
-    "COMENNT": "I don't think I can get any stronger than I am now. I really want to win a tournament. I believe in myself for the first time ever.",
+    "COMENNT": "Non credo di poter diventare più forte di quanto non lo sia ora. Voglio davvero vincere un torneo. Credo in me stesso per la prima volta in assoluto.",
     "MAX_HP": "600",
     "POWER": "60",
     "SPEED": "90",
@@ -36,7 +36,7 @@
     "TURN_NUM": ""
   },
   "3": {
-    "COMENNT": "I feel like I've gotten much stronger. Maybe I could even win a tournament. I feel confident for the first time in my life!",
+    "COMENNT": "Mi sento come se fossi diventato molto più forte. Forse potrei anche vincere un torneo. Mi sento fiducioso per la prima volta nella mia vita!",
     "MAX_HP": "450",
     "POWER": "30",
     "SPEED": "60",
@@ -48,7 +48,7 @@
     "TURN_NUM": ""
   },
   "4": {
-    "COMENNT": "I don't think I can enter a tournament yet, but I'd like to try an exhibition match to gain experience. What do you think?",
+    "COMENNT": "Non credo di poter ancora partecipare a un torneo, ma vorrei provare un incontro di esibizione per fare esperienza. Cosa ne pensi?",
     "MAX_HP": "350",
     "POWER": "20",
     "SPEED": "40",
@@ -60,7 +60,7 @@
     "TURN_NUM": ""
   },
   "5": {
-    "COMENNT": "Speed training is fun! It feels great to know I have such amazing abilities!",
+    "COMENNT": "L'allenamento di Velocità è divertente! È fantastico sapere di avere abilità così straordinarie!",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "40",
@@ -72,7 +72,7 @@
     "TURN_NUM": ""
   },
   "6": {
-    "COMENNT": "Am I getting any better? I'm not sure, but I think I might be able to take on a low level opponent.",
+    "COMENNT": "Sto migliorando? Non ne sono sicuro, ma penso che potrei essere in grado di affrontare un avversario di basso livello.",
     "MAX_HP": "300",
     "POWER": "10",
     "SPEED": "20",
@@ -84,7 +84,7 @@
     "TURN_NUM": ""
   },
   "7": {
-    "COMENNT": "I'm sorry, my Stamina is really low. Should I do something about it? I'm worried that I won't be able to keep up with my training.",
+    "COMENNT": "Mi dispiace, la mia Stamina è davvero bassa. Dovrei fare qualcosa al riguardo? Sono preoccupato di non essere in grado di tenere il passo con il mio allenamento.",
     "MAX_HP": "★300",
     "POWER": "",
     "SPEED": "",
@@ -96,7 +96,7 @@
     "TURN_NUM": ""
   },
   "8": {
-    "COMENNT": "I haven't mastered any of the basics yet, so I really need to focus on training!",
+    "COMENNT": "Non ho ancora padroneggiato nessuna delle basi, quindi devo davvero concentrarmi sull'allenamento!",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",

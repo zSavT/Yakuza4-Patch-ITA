@@ -1,6 +1,6 @@
 {
   "0": {
-    "COMENNT": "Please let me enter a tournament already. It wouldn't hurt to trust me a little.",
+    "COMENNT": "Per favore, lasciami partecipare a un torneo. Non farebbe male fidarsi un po' di me.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -12,7 +12,7 @@
     "TURN_NUM": "40"
   },
   "1": {
-    "COMENNT": "I got hurt... I'm sorry to cause you trouble. I'm sorry, I'm sorry, I'm sorry...",
+    "COMENNT": "Mi sono fatto male... Mi dispiace causarti problemi. Mi dispiace, mi dispiace, mi dispiace...",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -24,7 +24,7 @@
     "TURN_NUM": ""
   },
   "2": {
-    "COMENNT": "I feel like I've trained as much as I can. I don't know how strong my opponent will be, but I'm sure I can win a tournament!",
+    "COMENNT": "Sento di essermi allenato al massimo. Non so quanto sarà forte il mio avversario, ma sono sicuro di poter vincere un torneo!",
     "MAX_HP": "900",
     "POWER": "90",
     "SPEED": "70",
@@ -36,7 +36,7 @@
     "TURN_NUM": ""
   },
   "3": {
-    "COMENNT": "It feels awkward to say it myself, but I've gotten a lot stronger. I want to put my skills to the test in real matches.",
+    "COMENNT": "Mi sembra strano dirlo, ma sono diventato molto più forte. Voglio mettere alla prova le mie abilità in partite vere.",
     "MAX_HP": "700",
     "POWER": "70",
     "SPEED": "50",
@@ -48,7 +48,7 @@
     "TURN_NUM": ""
   },
   "4": {
-    "COMENNT": "It may be too soon for a tournament, but I feel more confident. Maybe I'll get more confident if I compete in some matches.",
+    "COMENNT": "Potrebbe essere troppo presto per un torneo, ma mi sento più sicuro. Forse diventerò più sicuro se parteciperò a qualche partita.",
     "MAX_HP": "600",
     "POWER": "50",
     "SPEED": "30",
@@ -60,7 +60,7 @@
     "TURN_NUM": ""
   },
   "5": {
-    "COMENNT": "Training is fun. My favorite is when my Power is boosted. I want to become a lot stronger.",
+    "COMENNT": "L'allenamento è divertente. Il mio preferito è quando la mia Potenza aumenta. Voglio diventare molto più forte.",
     "MAX_HP": "",
     "POWER": "50",
     "SPEED": "",
@@ -72,7 +72,7 @@
     "TURN_NUM": ""
   },
   "6": {
-    "COMENNT": "I can't believe a guy like me could grow like this. I'm not just a fat kid anymore. I want to test my skills in a real match.",
+    "COMENNT": "Non riesco a credere che un tipo come me possa crescere così. Non sono più solo un ragazzo grasso. Voglio mettere alla prova le mie abilità in una partita vera.",
     "MAX_HP": "500",
     "POWER": "30",
     "SPEED": "20",
@@ -84,7 +84,7 @@
     "TURN_NUM": ""
   },
   "7": {
-    "COMENNT": "I should focus on building up my basic skills for now. Saejima-san, teach me everything you know!",
+    "COMENNT": "Dovrei concentrarmi sulla costruzione delle mie abilità di base per ora. Saejima-san, insegnami tutto quello che sai!",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",

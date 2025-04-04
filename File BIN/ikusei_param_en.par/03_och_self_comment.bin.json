@@ -1,6 +1,6 @@
 {
   "0": {
-    "COMENNT": "Hey, old man! Let me enter a tournament soon or I'll get seriously pissed off!",
+    "COMENNT": "Ehi, vecchio! Lasciami partecipare presto a un torneo o mi arrabbierò sul serio!",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -12,7 +12,7 @@
     "TURN_NUM": "40"
   },
   "1": {
-    "COMENNT": "Great, I got injured! It hurts like a bitch and it's all your fault! You're paying the bills!",
+    "COMENNT": "Fantastico, mi sono ferito! Fa un male cane ed è tutta colpa tua! Pagherai i conti!",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -24,7 +24,7 @@
     "TURN_NUM": ""
   },
   "2": {
-    "COMENNT": "Hehehe. Training with you is fun. I'll definitely win the tournament. Just wait and see.",
+    "COMENNT": "Hehehe. Allenarmi con te è divertente. Vincerò sicuramente il torneo. Aspetta e vedrai.",
     "MAX_HP": "800",
     "POWER": "80",
     "SPEED": "45",
@@ -36,7 +36,7 @@
     "TURN_NUM": ""
   },
   "3": {
-    "COMENNT": "I'm so good that I don't even need to train anymore. Hurry up and let me enter a tournament already!",
+    "COMENNT": "Sono così bravo che non ho nemmeno bisogno di allenarmi più. Sbrigati e fammi partecipare a un torneo!",
     "MAX_HP": "600",
     "POWER": "30",
     "SPEED": "25",
@@ -48,7 +48,7 @@
     "TURN_NUM": ""
   },
   "4": {
-    "COMENNT": "I don't have any frickin' comments. Hurry up and make me a champion!",
+    "COMENNT": "Non ho cazzo di commenti. Sbrigati e fammi diventare un campione!",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",

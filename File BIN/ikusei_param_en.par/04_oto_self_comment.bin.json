@@ -1,6 +1,6 @@
 {
   "0": {
-    "COMENNT": "Hurry up and let me enter a tournament. Or do you plan on wasting my talent? Oh, the tragic life of Makoto Tokita...",
+    "COMENNT": "Sbrigati e lasciami partecipare a un torneo. O hai intenzione di sprecare il mio talento? Oh, la tragica vita di Makoto Tokita...",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -12,7 +12,7 @@
     "TURN_NUM": "40"
   },
   "1": {
-    "COMENNT": "Oww! I can't believe you hurt my beautiful body! What were you thinking!?",
+    "COMENNT": "Ahi! Non posso credere che tu abbia ferito il mio bellissimo corpo! A cosa stavi pensando!?",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -24,7 +24,7 @@
     "TURN_NUM": ""
   },
   "2": {
-    "COMENNT": "I've had enough training. I want to say goodbye to the smelly gym. Hurry up and make me famous already!",
+    "COMENNT": "Ho fatto abbastanza allenamento. Voglio dire addio alla palestra puzzolente. Sbrigati e fammi diventare famoso!",
     "MAX_HP": "750",
     "POWER": "60",
     "SPEED": "80",
@@ -36,7 +36,7 @@
     "TURN_NUM": ""
   },
   "3": {
-    "COMENNT": "Hehehe. I don't think there's anyone out there who can beat me now. Of course, I'm still getting stronger and stronger.",
+    "COMENNT": "Hehehe. Non credo che ci sia nessuno là fuori che possa battermi ora. Certo, sto diventando sempre più forte.",
     "MAX_HP": "600",
     "POWER": "40",
     "SPEED": "60",
@@ -48,7 +48,7 @@
     "TURN_NUM": ""
   },
   "4": {
-    "COMENNT": "I grow so fast I scare myself! I know I'm not perfect yet, but it must be a crime to be this handsome and talented at the same time.",
+    "COMENNT": "Cresco così velocemente che mi spavento! So di non essere ancora perfetto, ma deve essere un crimine essere così bello e talentuoso allo stesso tempo.",
     "MAX_HP": "500",
     "POWER": "25",
     "SPEED": "40",
@@ -60,7 +60,7 @@
     "TURN_NUM": ""
   },
   "5": {
-    "COMENNT": "I have such amazing technique that no one would last more than a few seconds against me. I'm so talented⑬even I wouldn't want to fight me.",
+    "COMENNT": "Ho una tecnica così straordinaria che nessuno durerebbe più di pochi secondi contro di me. Sono così talentuoso che nemmeno io vorrei combattere contro di me.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -72,7 +72,7 @@
     "TURN_NUM": ""
   },
   "6": {
-    "COMENNT": "It's not that I'm not confident, okay!? I just don't think I really <Italic>need</Italic> to enter a tournament just yet.",
+    "COMENNT": "Non è che non sia fiducioso, okay!? Penso solo che non ho davvero <Italic>bisogno</Italic> di partecipare a un torneo in questo momento.",
     "MAX_HP": "300",
     "POWER": "20",
     "SPEED": "30",
@@ -84,7 +84,7 @@
     "TURN_NUM": ""
   },
   "7": {
-    "COMENNT": "Hmph. Hurry up and make me a champion. I don't understand why you're wasting time asking me questions.",
+    "COMENNT": "Hmph. Sbrigati e fammi diventare un campione. Non capisco perché stai perdendo tempo a farmi domande.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",

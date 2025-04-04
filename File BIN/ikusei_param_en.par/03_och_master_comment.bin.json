@@ -1,6 +1,6 @@
 {
   "0": {
-    "COMENNT": "He really needs to win a tournament soon. We've got to do something...",
+    "COMENNT": "Ha davvero bisogno di vincere presto un torneo. Dobbiamo fare qualcosa...",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -12,7 +12,7 @@
     "TURN_NUM": "40"
   },
   "1": {
-    "COMENNT": "Fukushi will never listen to you unless you develop Trust with him first. How about taking him out for a drink?",
+    "COMENNT": "Fukushi non ti ascolterà mai a meno che tu non sviluppi prima la Fiducia con lui. Che ne dici di portarlo a bere qualcosa?",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -24,7 +24,7 @@
     "TURN_NUM": ""
   },
   "2": {
-    "COMENNT": "Honestly, he doesn't need any more training. He should have no problems fighting in a tournament.",
+    "COMENNT": "Onestamente, non ha bisogno di altro allenamento. Non dovrebbe avere problemi a combattere in un torneo.",
     "MAX_HP": "900",
     "POWER": "90",
     "SPEED": "50",
@@ -36,7 +36,7 @@
     "TURN_NUM": ""
   },
   "3": {
-    "COMENNT": "His Technique won't improve any further. He has plenty of abilities now. Why don't you let him compete in a real match?",
+    "COMENNT": "La sua Tecnica non migliorerà ulteriormente. Ha già molte abilità. Perché non lo fai competere in un incontro vero?",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -48,7 +48,7 @@
     "TURN_NUM": ""
   },
   "4": {
-    "COMENNT": "His Speed won't improve any further. He has plenty of abilities now. Why don't you let him compete in a real match?",
+    "COMENNT": "La sua Velocità non migliorerà ulteriormente. Ha già molte abilità. Perché non lo fai competere in un incontro vero?",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "60",
@@ -60,7 +60,7 @@
     "TURN_NUM": ""
   },
   "5": {
-    "COMENNT": "His Power won't improve any further. He has plenty of abilities now. Why don't you let him compete in a real match?",
+    "COMENNT": "La sua Potenza non migliorerà ulteriormente. Ha già molte abilità. Perché non lo fai competere in un incontro vero?",
     "MAX_HP": "",
     "POWER": "100",
     "SPEED": "",
@@ -72,7 +72,7 @@
     "TURN_NUM": ""
   },
   "6": {
-    "COMENNT": "He's become an exemplary fighter. I'm sure he can hold his own in a tournament! Let's give it a shot!",
+    "COMENNT": "È diventato un combattente esemplare. Sono sicuro che può cavarsela in un torneo! Proviamoci!",
     "MAX_HP": "800",
     "POWER": "80",
     "SPEED": "50",
@@ -84,7 +84,7 @@
     "TURN_NUM": ""
   },
   "7": {
-    "COMENNT": "His Technique is superb! If you work on strengthening his weak points, I'm sure he'll win a tournament.",
+    "COMENNT": "La sua Tecnica è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincerà un torneo.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -96,7 +96,7 @@
     "TURN_NUM": ""
   },
   "8": {
-    "COMENNT": "His Speed is superb! If you work on strengthening his weak points, I'm sure he'll win a tournament.",
+    "COMENNT": "La sua Velocità è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincerà un torneo.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "50",
@@ -108,7 +108,7 @@
     "TURN_NUM": ""
   },
   "9": {
-    "COMENNT": "His Power is superb! If you work on strengthening his weak points, I'm sure he'll win a tournament.",
+    "COMENNT": "La sua Potenza è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincerà un torneo.",
     "MAX_HP": "",
     "POWER": "80",
     "SPEED": "",
@@ -120,7 +120,7 @@
     "TURN_NUM": ""
   },
   "10": {
-    "COMENNT": "He's become a spectacular fighter. He may be ready for a mid-level exhibition match.",
+    "COMENNT": "È diventato un combattente spettacolare. Potrebbe essere pronto per un incontro di esibizione di medio livello.",
     "MAX_HP": "800",
     "POWER": "60",
     "SPEED": "30",
@@ -132,7 +132,7 @@
     "TURN_NUM": ""
   },
   "11": {
-    "COMENNT": "He has excellent Stamina. Keep it up and work on his other abilities as well. I'm sure his Power will develop quite a bit.",
+    "COMENNT": "Ha un'ottima Stamina. Continua così e lavora anche sulle sue altre abilità. Sono sicuro che la sua Potenza si svilupperà parecchio.",
     "MAX_HP": "800",
     "POWER": "",
     "SPEED": "",
@@ -144,7 +144,7 @@
     "TURN_NUM": ""
   },
   "12": {
-    "COMENNT": "His Technique has gotten much better. It may never be outstanding, but I'm sure there's still room for some growth.",
+    "COMENNT": "La sua Tecnica è migliorata molto. Potrebbe non essere mai eccezionale, ma sono sicuro che c'è ancora spazio per una certa crescita.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -156,7 +156,7 @@
     "TURN_NUM": ""
   },
   "13": {
-    "COMENNT": "He's gotten much faster, but Fukushi seems to hate Speed training. You should work on developing his other abilities.",
+    "COMENNT": "È diventato molto più veloce, ma Fukushi sembra odiare l'allenamento di Velocità. Dovresti lavorare sullo sviluppo delle sue altre abilità.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "30",
@@ -168,7 +168,7 @@
     "TURN_NUM": ""
   },
   "14": {
-    "COMENNT": "Fukushi is becoming really powerful! What am I going to do if he assaults me in a dark alley? Just kidding! Haha.",
+    "COMENNT": "Fukushi sta diventando davvero potente! Cosa farò se mi aggredisce in un vicolo buio? Sto scherzando! Haha.",
     "MAX_HP": "",
     "POWER": "60",
     "SPEED": "",
@@ -180,7 +180,7 @@
     "TURN_NUM": ""
   },
   "15": {
-    "COMENNT": "He's growing at a well-balanced rate. His Power will definitely grow more though. Let him gain experience in real matches.",
+    "COMENNT": "Sta crescendo a un ritmo ben bilanciato. La sua Potenza crescerà sicuramente di più. Lasciamolo fare esperienza in incontri veri.",
     "MAX_HP": "700",
     "POWER": "50",
     "SPEED": "20",
@@ -192,7 +192,7 @@
     "TURN_NUM": ""
   },
   "16": {
-    "COMENNT": "He already has a basic level of Stamina and Power. He'll become a great fighter, if he takes his training seriously...",
+    "COMENNT": "Ha già un livello base di Stamina e Potenza. Diventerà un grande combattente, se prenderà sul serio il suo allenamento...",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
