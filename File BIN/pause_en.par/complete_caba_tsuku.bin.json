@@ -1,18 +1,18 @@
 {
   "0": {
-    "NAME": "Hostess Trainee 1",
+    "NAME": "Apprendista Hostess 1",
     "SCENARIO_STATUS": "81460007",
-    "EXPLANATION": "Your first trainee at Elise became a number one hostess."
+    "EXPLANATION": "La tua prima apprendista all'Elise è diventata una hostess numero uno."
   },
   "1": {
-    "NAME": "Hostess Trainee 2",
+    "NAME": "Apprendista Hostess 2",
     "SCENARIO_STATUS": "81460008",
-    "EXPLANATION": "Your second trainee at Elise became a number one hostess."
+    "EXPLANATION": "La tua seconda apprendista all'Elise è diventata una hostess numero uno."
   },
   "2": {
-    "NAME": "Hostess Trainee 3",
+    "NAME": "Apprendista Hostess 3",
     "SCENARIO_STATUS": "81460009",
-    "EXPLANATION": "Your third trainee at Elise became a number one hostess."
+    "EXPLANATION": "La tua terza apprendista all'Elise è diventata una hostess numero uno."
   },
   "types": {
     "NAME": "string_idx",

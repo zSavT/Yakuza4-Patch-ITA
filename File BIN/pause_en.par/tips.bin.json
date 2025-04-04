@@ -1,409 +1,409 @@
 {
   "0": {
-    "CATEGORY": "System",
-    "CATEGORY_EXPLANATION": "Tips on useful system features.",
-    "TIPS_NAME": "Memos",
+    "CATEGORY": "Sistema",
+    "CATEGORY_EXPLANATION": "Consigli su utili funzionalità di sistema.",
+    "TIPS_NAME": "Memo",
     "SCENARIO_STATUS": "80a30000",
-    "TIPS_EXPLANATION": "<Color:255, 200, 200, 255>Memos<Color:Default> are collected as you progress through the story and interact with people in the city.\n\nThey cover a wide variety of topics, all of which will be useful for life in Kamurocho.\n\nExplore the city from top to bottom to complete your Memo collection!"
+    "TIPS_EXPLANATION": "I <Color:255, 200, 200, 255>Memo<Color:Default> vengono raccolti mentre avanzi nella storia e interagisci con le persone in città.\n\nCoprono una vasta gamma di argomenti, tutti utili per la vita a Kamurocho.\n\nEsplora la città da cima a fondo per completare la tua collezione di Memo!"
   },
   "1": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Save Points",
+    "TIPS_NAME": "Punti di Salvataggio",
     "SCENARIO_STATUS": "80a30001",
-    "TIPS_EXPLANATION": "You can save your game at locations such as phone booths and hideouts. Up to thirty save files can be created. Saving your game to different files will allow you to return to a previous time or game state."
+    "TIPS_EXPLANATION": "Puoi salvare la tua partita in luoghi come cabine telefoniche e nascondigli. È possibile creare fino a trenta file di salvataggio. Salvare la partita in file diversi ti permetterà di tornare a un momento o stato di gioco precedente."
   },
   "2": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Action Icon",
+    "TIPS_NAME": "Icona di Azione",
     "SCENARIO_STATUS": "80a30002",
-    "TIPS_EXPLANATION": "A button prompt along with a message such as \"Talk\" or \"Leave\" may appear at the top right of the screen depending on the state of the game. This is called an <Color:255, 200, 200, 255>Action Icon<Color:Default>.\n\nPressing the button when prompted will execute the action at that moment/location."
+    "TIPS_EXPLANATION": "Un suggerimento del pulsante insieme a un messaggio come \"Parla\" o \"Vai via\" può apparire in alto a destra dello schermo a seconda dello stato del gioco. Questa è chiamata <Color:255, 200, 200, 255>Icona di Azione<Color:Default>.\n\nPremendo il pulsante quando richiesto, eseguirai l'azione in quel momento/luogo."
   },
   "3": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Recovering Health",
+    "TIPS_NAME": "Recupero della Salute",
     "SCENARIO_STATUS": "80a30003",
-    "TIPS_EXPLANATION": "There are five basic methods of restoring health after a battle:\n\n   1. Eat/drink at a restaurant/bar.\n   2. Relax at places such as the hot springs.\n   3. Eat a food item.\n   4. Use a recovery item, such as Staminan X.\n   5. Rest at a Hideout.\n\n  Always pay attention to your health and restore it as needed."
+    "TIPS_EXPLANATION": "Ci sono cinque metodi base per ripristinare la salute dopo una battaglia:\n\n 1. Mangia/bevi in un ristorante/bar.\n 2. Rilassati in luoghi come le terme.\n 3. Mangia un oggetto cibo.\n 4. Usa un oggetto di recupero, come Staminan X.\n 5. Riposa in un Nascondiglio.\n\n Presta sempre attenzione alla tua salute e ripristinala quando necessario."
   },
   "4": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Switching Main Characters",
+    "TIPS_NAME": "Cambio dei Personaggi Principali",
     "SCENARIO_STATUS": "80a30004",
-    "TIPS_EXPLANATION": "During the Finale, you can switch between any of the four main characters at New Serena.\n\nTalk to the character you want to control and select the appropriate command."
+    "TIPS_EXPLANATION": "Durante il Finale, puoi passare da uno qualsiasi dei quattro personaggi principali a New Serena.\n\nParla con il personaggio che vuoi controllare e seleziona il comando appropriato."
   },
   "5": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Main Characters' Possessions",
+    "TIPS_NAME": "Possedimenti dei Personaggi Principali",
     "SCENARIO_STATUS": "80a30005",
-    "TIPS_EXPLANATION": "Once you are able to switch between the main characters, money, points won at places such the casino or Coliseum, and items in storage will be shared between them."
+    "TIPS_EXPLANATION": "Una volta che sei in grado di passare da un personaggio principale all'altro, denaro, punti vinti in luoghi come il casinò o il Colosseo e oggetti nel deposito saranno condivisi tra loro."
   },
   "6": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "<Action:Button_L3@Adventure> and <Action:Button_R3@Adventure>",
+    "TIPS_NAME": "<Action:Button_L3@Adventure> e <Action:Button_R3@Adventure>",
     "SCENARIO_STATUS": "80a30006",
-    "TIPS_EXPLANATION": "<Action:Button_L3@Adventure> is used to zoom in and out of the minimap. <Action:Button_R3@Adventure> is used to enter first-person mode."
+    "TIPS_EXPLANATION": "<Action:Button_L3@Adventure> viene utilizzato per ingrandire e ridurre la minimappa. <Action:Button_R3@Adventure> viene utilizzato per entrare in modalità in prima persona."
   },
   "7": {
-    "CATEGORY": "Pause Menu",
-    "CATEGORY_EXPLANATION": "Tips on Pause Menu features.",
-    "TIPS_NAME": "Maps",
+    "CATEGORY": "Menu di Pausa",
+    "CATEGORY_EXPLANATION": "Consigli sulle funzionalità del Menu di Pausa.",
+    "TIPS_NAME": "Mappe",
     "SCENARIO_STATUS": "80a30007",
-    "TIPS_EXPLANATION": "The circular map on the lower left of the game screen is called the minimap. It shows the area around you as well as story destinations and the locations of enemies. You can change its display mode by pressing <Action:Button_L3@Adventure>. By selecting Map on the Pause Menu (displayed by pressing the <Action:Button_Options@Adventure> button), you can get a complete view of Kamurocho, including its rooftop and underground areas.\nThe Pause Menu map also displays useful info about shops and other facilities."
+    "TIPS_EXPLANATION": "La mappa circolare in basso a sinistra dello schermo di gioco è chiamata minimappa. Mostra l'area intorno a te, nonché le destinazioni della storia e le posizioni dei nemici. Puoi cambiarne la modalità di visualizzazione premendo <Action:Button_L3@Adventure>. Selezionando Mappa nel Menu di Pausa (visualizzato premendo il pulsante <Action:Button_Options@Adventure>), puoi ottenere una visuale completa di Kamurocho, comprese le aree sul tetto e sotterranee.\nLa mappa del Menu di Pausa visualizza anche informazioni utili su negozi e altre strutture."
   },
   "8": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Emails",
+    "TIPS_NAME": "Email",
     "SCENARIO_STATUS": "80a30008",
-    "TIPS_EXPLANATION": "In addition to receiving emails from the people you know, you \nmay also receive e-zine emails packed with useful information \nfrom time to time.\n\nEmails that you receive are separated into categories based on \nthe sender, making it easy to find specific messages. \n\nYou can also reply to emails from hostesses, so be sure to keep \nan eye on any messages, and reply quickly. "
+    "TIPS_EXPLANATION": "Oltre a ricevere email dalle persone che conosci, potresti anche ricevere email di e-zine ricche di informazioni utili di tanto in tanto.\n\nLe email che ricevi sono separate in categorie in base al mittente, facilitando la ricerca di messaggi specifici.\n\nPuoi anche rispondere alle email delle hostess, quindi assicurati di tenere d'occhio eventuali messaggi e di rispondere rapidamente."
   },
   "9": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Using Items",
+    "TIPS_NAME": "Utilizzo degli Oggetti",
     "SCENARIO_STATUS": "80a30009",
-    "TIPS_EXPLANATION": "Consumable Items have various effects such as recovery or sobering up, but disappear after being used.\n\nSome items aren't sold at shops or can only be obtained through point exchange.\n\nBe sure to regularly purchase consumable items for times you may need them. "
+    "TIPS_EXPLANATION": "Gli Oggetti Consumabili hanno vari effetti come il recupero o il far passare la sbornia, ma scompaiono dopo essere stati utilizzati.\n\nAlcuni oggetti non vengono venduti nei negozi o possono essere ottenuti solo tramite scambio di punti.\n\nAssicurati di acquistare regolarmente oggetti consumabili per i momenti in cui potresti averne bisogno."
   },
   "10": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Equipment (1/2)",
+    "TIPS_NAME": "Equipaggiamento (1/2)",
     "SCENARIO_STATUS": "80a3000a",
-    "TIPS_EXPLANATION": "Equipment can be divided into Weapons, Gear, and Accessories. These items do not take effect until you equip them.\n\nBy equipping them on the left side of the Item Menu, you can either use them or activate their effects. \n\nBe aware that some characters cannot equip certain weapons."
+    "TIPS_EXPLANATION": "L'equipaggiamento può essere diviso in Armi, Attrezzatura e Accessori. Questi oggetti non hanno effetto finché non li equipaggi.\n\nEquipaggiandoli sul lato sinistro del Menu Oggetti, puoi usarli o attivare i loro effetti.\n\nSii consapevole che alcuni personaggi non possono equipaggiare determinate armi."
   },
   "11": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Equipment (2/2)",
+    "TIPS_NAME": "Equipaggiamento (2/2)",
     "SCENARIO_STATUS": "80a3000b",
-    "TIPS_EXPLANATION": "Certain items, when equipped, improve your looks and make hostesses like you more. These items can be obtained from stores such as brand-name retailers and pawn shops.\n\nIf your outfit doesn't get the right reaction, put on some stylish items and try again. They might like you a lot more. "
+    "TIPS_EXPLANATION": "Alcuni oggetti, quando equipaggiati, migliorano il tuo aspetto e fanno piacere di più alle hostess. Questi oggetti possono essere ottenuti da negozi come rivenditori di marchi famosi e negozi di pegni.\n\nSe il tuo outfit non ottiene la reazione giusta, indossa alcuni oggetti eleganti e riprova. Potrebbero piacerti molto di più."
   },
   "12": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Valuables",
+    "TIPS_NAME": "Oggetti di Valore",
     "SCENARIO_STATUS": "80a3000c",
-    "TIPS_EXPLANATION": "Enlarge your view of valuables by pressing <Action:Button_Cross@UI>. Pressing <Action:Button_Cross@UI> on Equipment recipes will display useful information about the equipment in question."
+    "TIPS_EXPLANATION": "Ingrandisci la visualizzazione degli oggetti di valore premendo <Action:Button_Cross@UI>. Premendo <Action:Button_Cross@UI> sulle ricette dell'Equipaggiamento, verranno visualizzate informazioni utili sull'equipaggiamento in questione."
   },
   "13": {
-    "CATEGORY": "Combat",
-    "CATEGORY_EXPLANATION": "An introduction to combat. For more information on combat techniques, refer \nto Abilities in the Pause Menu.",
-    "TIPS_NAME": "Akiyama's Fighting Style",
+    "CATEGORY": "Combattimento",
+    "CATEGORY_EXPLANATION": "Un'introduzione al combattimento. Per maggiori informazioni sulle tecniche di combattimento, consulta Abilità nel Menu di Pausa.",
+    "TIPS_NAME": "Stile di Combattimento di Akiyama",
     "SCENARIO_STATUS": "80a3000d",
-    "TIPS_EXPLANATION": "Akiyama is known for his lightning-fast kicks and fancy footwork. When this is combined with his innate speed, the true value of his fighting style becomes apparent. His variety of combos and unpredictable acrobatic attacks will leave his opponents' heads spinning."
+    "TIPS_EXPLANATION": "Akiyama è noto per i suoi calci fulminei e il suo elegante gioco di gambe. Quando questo è combinato con la sua velocità innata, il vero valore del suo stile di combattimento diventa evidente. La sua varietà di combo e attacchi acrobatici imprevedibili lasceranno i suoi avversari a bocca aperta."
   },
   "14": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Saejima's Fighting Style",
+    "TIPS_NAME": "Stile di Combattimento di Saejima",
     "SCENARIO_STATUS": "80a3000e",
-    "TIPS_EXPLANATION": "Saejima is known for a fighting style that harnesses his raw, off-the-charts power. Every one of his attacks has the chance to pulverize an enemy in a single blow. For example, a Rush Combo with <Action:Battle_Normal_Attack@Combat> followed by an attack with a <Action:Battle_Heavy_Attack@Combat> charge-up reveals his frightening potential. His herculean strength means even large motorcycles become hand-held weapons when he fights."
+    "TIPS_EXPLANATION": "Saejima è noto per uno stile di combattimento che sfrutta la sua potenza grezza e fuori scala. Ogni suo attacco ha la possibilità di polverizzare un nemico in un singolo colpo. Ad esempio, una Combo Rush con <Action:Battle_Normal_Attack@Combat> seguita da un attacco con una carica <Action:Battle_Heavy_Attack@Combat> rivela il suo potenziale spaventoso. La sua forza erculea significa che anche le grandi motociclette diventano armi portatili quando combatte."
   },
   "15": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Tanimura's Fighting Style",
+    "TIPS_NAME": "Stile di Combattimento di Tanimura",
     "SCENARIO_STATUS": "80a3000f",
-    "TIPS_EXPLANATION": "Tanimura is known for a unique fighting style incorporating elements of jujitsu, aikido, and other martial arts that disable instead of kill. He makes extensive use of joint locks and throws that deal a different kind of damage than typical striking attacks. He can also parry attacks from various directions using <Action:Battle_Guard@Combat>. Master this and you can handle enemies that have a numerical advantage."
+    "TIPS_EXPLANATION": "Tanimura è noto per uno stile di combattimento unico che incorpora elementi di jujitsu, aikido e altre arti marziali che disabilitano invece di uccidere. Fa un ampio uso di blocchi articolari e lanci che infliggono un tipo di danno diverso rispetto ai tipici attacchi di percussione. Può anche parare attacchi da varie direzioni usando <Action:Battle_Guard@Combat>. Padroneggia questo e puoi gestire i nemici che hanno un vantaggio numerico."
   },
   "16": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Kiryu's Fighting Style",
+    "TIPS_NAME": "Stile di Combattimento di Kiryu",
     "SCENARIO_STATUS": "80a30010",
-    "TIPS_EXPLANATION": "Kiryu's fighting style is based on a variety of striking, throwing, multi-directional attacks and other techniques that never cease to amaze. He can also master a wide variety of weapons, making him a near-perfect fighting machine capable of handling all manner of situations. When really fired up and surrounded in his own special \"Red Heat,\" he can unleash powerful Heat Actions without equal."
+    "TIPS_EXPLANATION": "Lo stile di combattimento di Kiryu si basa su una varietà di attacchi di percussione, lancio, multidirezionali e altre tecniche che non smettono mai di stupire. Può anche padroneggiare un'ampia varietà di armi, rendendolo una macchina da combattimento quasi perfetta in grado di gestire ogni tipo di situazione. Quando è davvero eccitato e circondato dal suo speciale \"Calore Rosso\", può scatenare potenti Azioni di Calore senza pari."
   },
   "17": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Heat Actions",
+    "TIPS_NAME": "Azioni di Calore",
     "SCENARIO_STATUS": "80a30011",
-    "TIPS_EXPLANATION": "Heat Actions are secret techniques available only to the chosen. \n\nTo unleash them, you must enter Heat Mode and meet certain conditions. For example, grab an enemy to perform an Essence of Terrain move and smash him into the ground. Or, pick up a weapon to unleash a painful Essence of Weaponry move. Check these conditions by pressing <Action:Battle_Heavy_Attack@Combat> on the Abilities screen and viewing the Heat Actions list."
+    "TIPS_EXPLANATION": "Le Azioni di Calore sono tecniche segrete disponibili solo per i prescelti.\n\nPer scatenarle, devi entrare in Modalità Calore e soddisfare determinate condizioni. Ad esempio, afferra un nemico per eseguire una mossa Essenza del Terreno e sbattilo a terra. Oppure, prendi un'arma per scatenare una dolorosa mossa Essenza dell'Armamento. Controlla queste condizioni premendo <Action:Battle_Heavy_Attack@Combat> sulla schermata Abilità e visualizzando l'elenco delle Azioni di Calore."
   },
   "18": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Kicking Objects",
+    "TIPS_NAME": "Calcio di Oggetti",
     "SCENARIO_STATUS": "80a30012",
-    "TIPS_EXPLANATION": "You can kick items at distant enemies with <Action:Battle_Heavy_Attack@Combat>.\n\nKicked items hit enemies faster than they would have if picked up and thrown. There are also items such as empty cans, that you can only kick. Those objects will not display the <Sign:23> icon."
+    "TIPS_EXPLANATION": "Puoi calciare oggetti contro nemici distanti con <Action:Battle_Heavy_Attack@Combat>.\n\nGli oggetti calciati colpiscono i nemici più velocemente di quanto avrebbero fatto se fossero stati raccolti e lanciati. Ci sono anche oggetti, come lattine vuote, che puoi solo calciare. Quegli oggetti non visualizzeranno l'icona <Sign:23>."
   },
   "19": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Destructible Objects",
+    "TIPS_NAME": "Oggetti Distruttibili",
     "SCENARIO_STATUS": "80a30013",
-    "TIPS_EXPLANATION": "<Color:255, 200, 200, 255>Destructible objects<Color:Default> are glowing objects that block your path.\n\nThey can be destroyed by attacking them. When a destructible object is nearby, a light-blue status bar showing its condition will appear at the bottom right of the screen. Use the status bar to seek out and destroy objects as necessary."
+    "TIPS_EXPLANATION": "Gli <Color:255, 200, 200, 255>Oggetti Distruttibili<Color:Default> sono oggetti luminosi che bloccano il tuo percorso.\n\nPossono essere distrutti attaccandoli. Quando un oggetto distruttibile è vicino, una barra di stato blu chiaro che mostra la sua condizione apparirà in basso a destra dello schermo. Usa la barra di stato per cercare e distruggere gli oggetti secondo necessità."
   },
   "20": {
-    "CATEGORY": "Chase Battles",
-    "CATEGORY_EXPLANATION": "Tips on Chase Battles.",
-    "TIPS_NAME": "Chase Battles (Fleeing)",
+    "CATEGORY": "Battaglie di Inseguimento",
+    "CATEGORY_EXPLANATION": "Consigli sulle Battaglie di Inseguimento.",
+    "TIPS_NAME": "Battaglie di Inseguimento (Fuga)",
     "SCENARIO_STATUS": "80a30014",
-    "TIPS_EXPLANATION": "You can escape your pursuer when you reach your destination or when the pursuer's Chase Gauge falls to zero.\n\nSpecial objectives like \"Go to Sky Finance\" will appear at the start of the chase, so make sure to pay attention to them.\n\nThe fastest route to your destination will also be displayed. Use this information to your advantage and avoid capture."
+    "TIPS_EXPLANATION": "Puoi sfuggire al tuo inseguitore quando raggiungi la tua destinazione o quando l'Indicatore di Inseguimento dell'inseguitore scende a zero.\n\nObiettivi speciali come \"Vai a Sky Finance\" appariranno all'inizio dell'inseguimento, quindi assicurati di prestare loro attenzione.\n\nVerrà visualizzato anche il percorso più veloce per la tua destinazione. Usa queste informazioni a tuo vantaggio ed evita la cattura."
   },
   "21": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Chase Battles (Pursuing)",
+    "TIPS_NAME": "Battaglie di Inseguimento (Inseguimento)",
     "SCENARIO_STATUS": "80a30015",
-    "TIPS_EXPLANATION": "You can catch your target once their Chase Gauge falls close to zero and you either tackle them by pressing <Action:Button_Square@Chase> or hit them with an object picked up along the way by pressing <Action:Button_Circle@Chase>. \n\nSet yourself up for the perfect take-down by using <Action:Button_LS_Up@Chase><Action:Button_LS_Down@Chase><Action:Button_LS_Left@Chase><Action:Button_LS_Right@Chase> to dash or choosing a strategic route for the pursuit."
+    "TIPS_EXPLANATION": "Puoi prendere il tuo bersaglio una volta che il suo Indicatore di Inseguimento scende quasi a zero e lo placcate premendo <Action:Button_Square@Chase> o lo colpite con un oggetto raccolto lungo la strada premendo <Action:Button_Circle@Chase>.\n\nPreparati per l'abbattimento perfetto usando <Action:Button_LS_Up@Chase><Action:Button_LS_Down@Chase><Action:Button_LS_Left@Chase><Action:Button_LS_Right@Chase> per scattare o scegliendo un percorso strategico per l'inseguimento."
   },
   "22": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Other Chase Battle Techniques",
+    "TIPS_NAME": "Altre Tecniche di Battaglia di Inseguimento",
     "SCENARIO_STATUS": "80a30016",
-    "TIPS_EXPLANATION": "There are a number of techniques you can use during Chase Battles.\n\n   - Jump with <Action:Button_Cross@Chase>.\n   - Quickturn with <Action:Button_R1@Chase> + <Action:Button_LS_Up@Chase><Action:Button_LS_Down@Chase><Action:Button_LS_Left@Chase><Action:Button_LS_Right@Chase>.\n   - Unleash a Heat Action when <Action:Button_Triangle@Chase> is shown.\n      This can only be used once per Chase Battle.\nYou can also show/hide the Chase Battle guide by pressing <Action:Button_L1@Chase>."
+    "TIPS_EXPLANATION": "Ci sono una serie di tecniche che puoi usare durante le Battaglie di Inseguimento.\n\n - Salta con <Action:Button_Cross@Chase>.\n - Inversione rapida con <Action:Button_R1@Chase> + <Action:Button_LS_Up@Chase><Action:Button_LS_Down@Chase><Action:Button_LS_Left@Chase><Action:Button_LS_Right@Chase>.\n - Scatena un'Azione di Calore quando viene visualizzato <Action:Button_Triangle@Chase>.\n Questo può essere usato solo una volta per Battaglia di Inseguimento.\nPuoi anche mostrare/nascondere la guida della Battaglia di Inseguimento premendo <Action:Button_L1@Chase>."
   },
   "23": {
-    "CATEGORY": "Leveling Up",
-    "CATEGORY_EXPLANATION": "Tips on training and ability enhancement.",
-    "TIPS_NAME": "Experience Points and Leveling Up",
+    "CATEGORY": "Salire di Livello",
+    "CATEGORY_EXPLANATION": "Consigli sull'allenamento e sul miglioramento delle abilità.",
+    "TIPS_NAME": "Punti Esperienza e Salire di Livello",
     "SCENARIO_STATUS": "80a30017",
-    "TIPS_EXPLANATION": "Characters level up each time their experience points reach a preset limit.\nWhenever you defeat enemies, eat, drink, or clear substories, you will gain a certain amount of experience points towards leveling up. Every time you level up, your maximum health and Heat Gauge will increase. You will also gain Soul Orbs.\nBe sure to level up and prepare yourself to face even stronger foes."
+    "TIPS_EXPLANATION": "I personaggi salgono di livello ogni volta che i loro punti esperienza raggiungono un limite preimpostato.\nOgni volta che sconfiggi i nemici, mangi, bevi o completi le sottotrame, guadagnerai una certa quantità di punti esperienza per salire di livello. Ogni volta che sali di livello, la tua salute massima e l'Indicatore di Calore aumenteranno. Guadagnerai anche Sfere dell'Anima.\nAssicurati di salire di livello e prepararti ad affrontare nemici ancora più forti."
   },
   "24": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Soul Orbs",
+    "TIPS_NAME": "Sfere dell'Anima",
     "SCENARIO_STATUS": "80a30018",
-    "TIPS_EXPLANATION": "For every level you gain, you'll get three Soul Orbs. Enter the Abilities screen and assign one to four Soul Orbs to a technique to unlock the hidden potential of each character. Develop techniques as much as you can, but plan carefully, as Soul Orbs disappear after being used."
+    "TIPS_EXPLANATION": "Per ogni livello che guadagni, otterrai tre Sfere dell'Anima. Entra nella schermata Abilità e assegna da una a quattro Sfere dell'Anima a una tecnica per sbloccare il potenziale nascosto di ogni personaggio. Sviluppa le tecniche il più possibile, ma pianifica attentamente, poiché le Sfere dell'Anima scompaiono dopo essere state utilizzate."
   },
   "25": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Revelations",
+    "TIPS_NAME": "Rivelazioni",
     "SCENARIO_STATUS": "80a30019",
-    "TIPS_EXPLANATION": "Revelations give you insight into new techniques by finding inspiration in incidents happening throughout the city.\n\nIf you enter first-person mode with <Action:Button_R3@Adventure> and look at an incident just waiting to happen, a Revelation sequence will start. You will acquire a new technique if you press the correct buttons at the right time, and then select the right insight from the three displayed."
+    "TIPS_EXPLANATION": "Le Rivelazioni ti danno una visione di nuove tecniche trovando ispirazione negli incidenti che accadono in tutta la città.\n\nSe entri in modalità in prima persona con <Action:Button_R3@Adventure> e guardi un incidente in procinto di accadere, inizierà una sequenza di Rivelazione. Acquisirai una nuova tecnica se premi i pulsanti corretti al momento giusto e quindi selezioni la visione giusta tra le tre visualizzate."
   },
   "26": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Daijiro Saigo's Training - Akiyama",
+    "TIPS_NAME": "Allenamento di Daijiro Saigo - Akiyama",
     "SCENARIO_STATUS": "80a3001a",
-    "TIPS_EXPLANATION": "Akiyama can improve a variety of techniques by studying under Saigo, an ex-mercenary.\n\nSaigo is supposedly waiting for Akiyama on the roof of the red building at Theater Square.\n\nHe is eager to train Akiyama, but the only question is why? That answer will only come with time."
+    "TIPS_EXPLANATION": "Akiyama può migliorare una varietà di tecniche studiando sotto Saigo, un ex mercenario.\n\nSaigo sta presumibilmente aspettando Akiyama sul tetto dell'edificio rosso in Piazza del Teatro.\n\nÈ ansioso di allenare Akiyama, ma l'unica domanda è perché? La risposta arriverà solo con il tempo."
   },
   "27": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Master's Helper - Saejima",
+    "TIPS_NAME": "Aiutante del Maestro - Saejima",
     "SCENARIO_STATUS": "80a3001b",
-    "TIPS_EXPLANATION": "Saejima has promised to help an eccentric old man, the Master, with his mining project.\n\nHis mine is accessible from the manhole in front of Millennium Tower. The only question is, will digging really serve as training for Saejima? Or perhaps Saejima will dig up something that will enhance his abilities? There is only one way to find out..."
+    "TIPS_EXPLANATION": "Saejima ha promesso di aiutare un vecchio eccentrico, il Maestro, con il suo progetto minerario.\n\nLa sua miniera è accessibile dal tombino di fronte alla Millennium Tower. L'unica domanda è: scavare servirà davvero come allenamento per Saejima? O forse Saejima scaverà qualcosa che migliorerà le sue abilità? C'è solo un modo per scoprirlo..."
   },
   "28": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Supporting Detective Nair - Tanimura",
+    "TIPS_NAME": "Supporto al Detective Nair - Tanimura",
     "SCENARIO_STATUS": "80a3001c",
-    "TIPS_EXPLANATION": "Tanimura has agreed to help Nair, a female detective from another country, locate and apprehend a criminal. Help her investigation by listening to what she says and gathering info. There just may be something in it for Tanimura, too!"
+    "TIPS_EXPLANATION": "Tanimura ha accettato di aiutare Nair, una detective di un altro paese, a localizzare e arrestare un criminale. Aiuta la sua indagine ascoltando ciò che dice e raccogliendo informazioni. Potrebbe esserci qualcosa anche per Tanimura!"
   },
   "29": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Developing Heat Actions",
+    "TIPS_NAME": "Sviluppo delle Azioni di Calore",
     "SCENARIO_STATUS": "80a3001d",
-    "TIPS_EXPLANATION": "After frequently using general Heat Actions, such as Essence of Finishing and Essence of Terrain, you will earn a new additional action that will deal even more damage. Try to gain new techniques by using Heat Actions as often as you can."
+    "TIPS_EXPLANATION": "Dopo aver usato frequentemente le Azioni di Calore generali, come Essenza della Finitura ed Essenza del Terreno, guadagnerai una nuova azione aggiuntiva che infliggerà ancora più danni. Prova a ottenere nuove tecniche usando le Azioni di Calore il più spesso possibile."
   },
   "30": {
-    "CATEGORY": "Adventure",
-    "CATEGORY_EXPLANATION": "Tips on useful adventure-related features.",
-    "TIPS_NAME": "First-Person Mode",
+    "CATEGORY": "Avventura",
+    "CATEGORY_EXPLANATION": "Consigli su utili funzionalità relative all'avventura.",
+    "TIPS_NAME": "Modalità in Prima Persona",
     "SCENARIO_STATUS": "80a3001e",
-    "TIPS_EXPLANATION": "See the world through the main characters' eyes by pressing <Action:Button_R3@Adventure> during your adventure to enter first-person mode.\n\nThis sometimes helps you make new discoveries, like finding things you would not ordinarily see in third-person mode."
+    "TIPS_EXPLANATION": "Vedi il mondo attraverso gli occhi dei personaggi principali premendo <Action:Button_R3@Adventure> durante la tua avventura per entrare in modalità in prima persona.\n\nQuesto a volte ti aiuta a fare nuove scoperte, come trovare cose che normalmente non vedresti in modalità in terza persona."
   },
   "31": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Akiyama's Allies",
+    "TIPS_NAME": "Alleati di Akiyama",
     "SCENARIO_STATUS": "80a3001f",
-    "TIPS_EXPLANATION": "By eating and drinking at certain stores, or helping certain people with their problems, you will gain allies.\n\nThese allies may tell you about special menus or help you when you get into battles around town.\n\nWork hard to get to know the people around town and become the most popular man in Kamurocho!"
+    "TIPS_EXPLANATION": "Mangiando e bevendo in determinati negozi o aiutando determinate persone con i loro problemi, guadagnerai alleati.\n\nQuesti alleati potrebbero parlarti di menu speciali o aiutarti quando entri in battaglia in città.\n\nLavora sodo per conoscere le persone in città e diventare l'uomo più popolare di Kamurocho!"
   },
   "32": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Manholes",
+    "TIPS_NAME": "Tombini",
     "SCENARIO_STATUS": "80a30020",
-    "TIPS_EXPLANATION": "Saejima must use rooftop or underground routes to travel while evading the police. He can also open certain manholes to gain access to underground areas. Manhole locations are conveniently marked on the minimap and Pause Menu map."
+    "TIPS_EXPLANATION": "Saejima deve usare percorsi sul tetto o sotterranei per viaggiare mentre elude la polizia. Può anche aprire determinati tombini per accedere alle aree sotterranee. Le posizioni dei tombini sono comodamente contrassegnate sulla minimappa e sulla mappa del Menu di Pausa."
   },
   "33": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Lockers (1/2)",
+    "TIPS_NAME": "Armadietti (1/2)",
     "SCENARIO_STATUS": "80a30021",
-    "TIPS_EXPLANATION": "Someone has rented out every coin locker in Kamurocho. Even stranger, the keys for opening them have been haphazardly scattered throughout the city, from the highest rooftops, to the deepest depths. No one knows why, but one thing is certain: it's finders, keepers! Find as many locker keys as you can, using first-person mode (<Action:Button_R3@Adventure>) when necessary, and then go open them to see what is inside."
+    "TIPS_EXPLANATION": "Qualcuno ha affittato tutti gli armadietti a gettoni di Kamurocho. Ancora più strano, le chiavi per aprirli sono state sparse a casaccio in tutta la città, dai tetti più alti alle profondità più profonde. Nessuno sa perché, ma una cosa è certa: chi trova tiene! Trova quante più chiavi dell'armadietto possibile, usando la modalità in prima persona (<Action:Button_R3@Adventure>) quando necessario, e poi vai ad aprirli per vedere cosa c'è dentro."
   },
   "34": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Lockers (2/2)",
+    "TIPS_NAME": "Armadietti (2/2)",
     "SCENARIO_STATUS": "80a30022",
-    "TIPS_EXPLANATION": "Kamurocho's underground mall also has lockers, and like those north of Nakamichi Street, they have all been used and their keys scattered around the city, mainly underground and on rooftops. The owner of the lockers is at the end of his rope because no one else can use them until the keys are found. You can help by finding them. You will also get to keep whatever is inside."
+    "TIPS_EXPLANATION": "Anche il centro commerciale sotterraneo di Kamurocho ha armadietti e, come quelli a nord di Via Nakamichi, sono stati tutti utilizzati e le loro chiavi sparse per la città, principalmente sottoterra e sui tetti. Il proprietario degli armadietti è al limite perché nessun altro può usarli finché non vengono trovate le chiavi. Puoi aiutare trovandole. Potrai anche tenere ciò che c'è dentro."
   },
   "35": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Substories",
+    "TIPS_NAME": "Sottotrame",
     "SCENARIO_STATUS": "80a30023",
-    "TIPS_EXPLANATION": "Substories offer a glimpse into previously unknown parts of the main characters' lives.\n\nThe start of each story is recorded under Substories in the Pause Menu. Check there to see if you have any substories to finish. Also, word has it that a reporter who frequents a bar called Shellac can help you learn more about substories. You might find it worthwhile to pay him a visit from time to time."
+    "TIPS_EXPLANATION": "Le sottotrame offrono uno sguardo su parti precedentemente sconosciute della vita dei personaggi principali.\n\nL'inizio di ogni storia è registrato in Sottotrame nel Menu di Pausa. Controlla lì per vedere se hai qualche sottotrama da finire. Inoltre, si dice che un giornalista che frequenta un bar chiamato Shellac possa aiutarti a saperne di più sulle sottotrame. Potrebbe valere la pena fargli visita di tanto in tanto."
   },
   "36": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Finished and Complete",
+    "TIPS_NAME": "Finito e Completo",
     "SCENARIO_STATUS": "80a30024",
-    "TIPS_EXPLANATION": "In the Pause Menu's Substories screen, you will get a <Sign:34> (\"Finished\") or <Sign:33> (\"Complete\") mark for finished substories. Substories are marked depending on how satisfactory their conclusions are. Substories marked as \"Finished\" are generally unsatisfactory. However, \"Finished\" substories will not affect completion of the game."
+    "TIPS_EXPLANATION": "Nella schermata Sottotrame del Menu di Pausa, otterrai un segno <Sign:34> (\"Finito\") o <Sign:33> (\"Completo\") per le sottotrame finite. Le sottotrame sono contrassegnate a seconda di quanto soddisfacenti sono le loro conclusioni. Le sottotrame contrassegnate come \"Finito\" sono generalmente insoddisfacenti. Tuttavia, le sottotrame \"Finito\" non influenzeranno il completamento del gioco."
   },
   "37": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Pros and Cons of Getting Drunk",
+    "TIPS_NAME": "Pro e Contro dell'Ubriacarsi",
     "SCENARIO_STATUS": "80a30025",
-    "TIPS_EXPLANATION": "Consuming alcohol has both positive and negative effects.\n\nFor example, your Heat Gauge will increase quicker, but your field of vision will blur when playing darts.\n\nDrinking coffee or consuming certain items that sober you up will reduce the effects of alcohol, but it's probably a good idea not to get too drunk in the first place."
+    "TIPS_EXPLANATION": "Il consumo di alcol ha effetti sia positivi che negativi.\n\nAd esempio, il tuo Indicatore di Calore aumenterà più rapidamente, ma il tuo campo visivo si offuscherà quando giochi a freccette.\n\nBere caffè o consumare determinati oggetti che ti fanno passare la sbornia ridurrà gli effetti dell'alcol, ma probabilmente è una buona idea non ubriacarsi troppo in primo luogo."
   },
   "38": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Special Editions of Magazines",
+    "TIPS_NAME": "Edizioni Speciali di Riviste",
     "SCENARIO_STATUS": "80a30026",
-    "TIPS_EXPLANATION": "Special editions of magazines are sometimes passed out at Theater Square when something remarkable happens.\n\n There's no telling when they'll be handed out, so keep checking Theater Square."
+    "TIPS_EXPLANATION": "Le edizioni speciali delle riviste vengono talvolta distribuite in Piazza del Teatro quando accade qualcosa di notevole.\n\nNon si sa quando verranno distribuite, quindi continua a controllare Piazza del Teatro."
   },
   "39": {
     "CATEGORY": "Kamurocho",
-    "CATEGORY_EXPLANATION": "Tips on the layout of Kamurocho and its facilities.",
-    "TIPS_NAME": "Rooftops",
+    "CATEGORY_EXPLANATION": "Consigli sulla disposizione di Kamurocho e sulle sue strutture.",
+    "TIPS_NAME": "Tetti",
     "SCENARIO_STATUS": "80a30027",
-    "TIPS_EXPLANATION": "There are many spots in Kamurocho that allow access to the rooftop area, mainly in the southeast and southwest regions of the city. Rooftops are good alternates to ground-level routes. Access points are conveniently marked on the minimap and Pause Menu map.\n\nNote that when it rains, most building managers will close the access points due to the risk of injury."
+    "TIPS_EXPLANATION": "Ci sono molti punti a Kamurocho che consentono l'accesso all'area del tetto, principalmente nelle regioni sud-est e sud-ovest della città. I tetti sono buone alternative ai percorsi a livello del suolo. I punti di accesso sono comodamente contrassegnati sulla minimappa e sulla mappa del Menu di Pausa.\n\nNota che quando piove, la maggior parte dei gestori di edifici chiuderà i punti di accesso a causa del rischio di lesioni."
   },
   "40": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Underground",
+    "TIPS_NAME": "Sotterraneo",
     "SCENARIO_STATUS": "80a30028",
-    "TIPS_EXPLANATION": "The underground area contains essential Kamurocho locations such as the underground mall and the parking lot. \n\nThere's also a rumor that some homeless people have made the underground their new home. Perhaps you'll discover the truth behind these rumors as you explore the underground.    "
+    "TIPS_EXPLANATION": "L'area sotterranea contiene luoghi essenziali di Kamurocho come il centro commerciale sotterraneo e il parcheggio.\n\nSi dice anche che alcuni senzatetto abbiano fatto del sotterraneo la loro nuova casa. Forse scoprirai la verità dietro queste voci mentre esplori il sotterraneo."
   },
   "41": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
     "TIPS_NAME": "Kamiyama Works",
     "SCENARIO_STATUS": "80a30029",
-    "TIPS_EXPLANATION": "Kamiyama Works is located in a nondescript storefront on a dead-end street in northeast Kamurocho. Its owner, Kamiyama, modifies equipment for a living. He apparently has the ability to make complex items as long as you have the necessary \"recipe,\" materials, and money to pay his service fee. He might be able to make you the weapon you need in fights or to get out of trouble."
+    "TIPS_EXPLANATION": "Kamiyama Works si trova in una vetrina anonima in una strada senza uscita nel nord-est di Kamurocho. Il suo proprietario, Kamiyama, modifica l'equipaggiamento per vivere. Apparentemente ha la capacità di realizzare oggetti complessi purché tu abbia la \"ricetta\" necessaria, i materiali e il denaro per pagare la sua tariffa di servizio. Potrebbe essere in grado di realizzarti l'arma di cui hai bisogno nei combattimenti o per uscire dai guai."
   },
   "42": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Non-Japanese Speakers",
+    "TIPS_NAME": "Parlanti non Giapponesi",
     "SCENARIO_STATUS": "80a3002a",
-    "TIPS_EXPLANATION": "The gatekeepers at the entrances to Little Asia don't speak Japanese.\n\nHowever, a character who can speak other prominent Asian languages, such as Chinese, Korean, or Tagalog, might be able to talk their way in."
+    "TIPS_EXPLANATION": "I guardiani all'ingresso della Piccola Asia non parlano giapponese.\n\nTuttavia, un personaggio in grado di parlare altre importanti lingue asiatiche, come cinese, coreano o tagalog, potrebbe essere in grado di farsi strada."
   },
   "43": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Little Asia's Adopted Son - Tanimura",
+    "TIPS_NAME": "Figlio Adottivo della Piccola Asia - Tanimura",
     "SCENARIO_STATUS": "80a3002b",
-    "TIPS_EXPLANATION": "Due to his upbringing and occupation, Tanimura is well versed in Asian languages.\n\nTanimura is also a resident of Little Asia. He considers the staff of Homeland to be his second family and can use the restaurant as a hideout."
+    "TIPS_EXPLANATION": "A causa della sua educazione e occupazione, Tanimura conosce bene le lingue asiatiche.\n\nTanimura è anche un residente della Piccola Asia. Considera il personale di Homeland come la sua seconda famiglia e può usare il ristorante come nascondiglio."
   },
   "44": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Taxis",
+    "TIPS_NAME": "Taxi",
     "SCENARIO_STATUS": "80a3002c",
-    "TIPS_EXPLANATION": "There are five taxi stands on the outskirts of Kamurocho, and one in the Kamurocho Central Parking Lot. Use taxis to quickly travel to far-off locations.\n\nYou can also use taxis to travel to locations outside of Kamurocho. Visit a taxi stand when you need to leave the city."
+    "TIPS_EXPLANATION": "Ci sono cinque parcheggi di taxi alla periferia di Kamurocho e uno nel Parcheggio Centrale di Kamurocho. Usa i taxi per viaggiare velocemente verso luoghi lontani.\n\nPuoi anche usare i taxi per viaggiare verso luoghi al di fuori di Kamurocho. Visita un parcheggio di taxi quando hai bisogno di lasciare la città."
   },
   "45": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Naomi's Palace",
+    "TIPS_NAME": "Palazzo di Naomi",
     "SCENARIO_STATUS": "80a3002d",
-    "TIPS_EXPLANATION": "At Naomi's Palace, you can:\n\n 1. Get item packs\n 2. Get completion rewards\n\nYou can also get useful information by talking to Naomi herself."
+    "TIPS_EXPLANATION": "Al Palazzo di Naomi, puoi:\n\n 1. Ottenere pacchetti di oggetti\n 2. Ottenere ricompense di completamento\n\nPuoi anche ottenere informazioni utili parlando con Naomi stessa."
   },
   "46": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
     "TIPS_NAME": "MEB",
     "SCENARIO_STATUS": "80a3002e",
-    "TIPS_EXPLANATION": "The MEB is an information spot that will introduce you to excellent hostess clubs for free. You can also learn about the most popular girls at certain hostess clubs, as well as receive coupons.\n\nIf you want to take part in Kamurocho nightlife, the MEB will be your strongest ally. "
+    "TIPS_EXPLANATION": "Il MEB è un punto di informazione che ti introdurrà a eccellenti hostess club gratuitamente. Puoi anche conoscere le ragazze più popolari in determinati hostess club, nonché ricevere coupon.\n\nSe vuoi partecipare alla vita notturna di Kamurocho, il MEB sarà il tuo alleato più forte."
   },
   "47": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "The Coliseum",
+    "TIPS_NAME": "Il Colosseo",
     "SCENARIO_STATUS": "80a3002f",
-    "TIPS_EXPLANATION": "The Coliseum, which operates in Purgatory beneath the city streets, kept its doors open even after its honorary champion Kazuma Kiryu left the ring. However, due to dwindling crowds, its owner has begun introducing mainstream rules, such as title matches."
+    "TIPS_EXPLANATION": "Il Colosseo, che opera nel Purgatorio sotto le strade della città, ha tenuto aperte le sue porte anche dopo che il suo campione onorario Kazuma Kiryu ha lasciato il ring. Tuttavia, a causa del calo di pubblico, il suo proprietario ha iniziato a introdurre regole tradizionali, come le partite per il titolo."
   },
   "48": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Fighter Maker",
+    "TIPS_NAME": "Fabbricante di Combattenti",
     "SCENARIO_STATUS": "80a30030",
-    "TIPS_EXPLANATION": "Saejima has agreed to become an instructor at Sodachi's dojo. The goal is to train a fighter from the ground up and have him win the Rookie Tournament. To accomplish this goal, take careful note of comments from both Sodachi and your student to put together an effective training regimen. Your student's condition and trust in you are key parameters for success. You must forge both the mind and body by balancing training with rest and meetings."
+    "TIPS_EXPLANATION": "Saejima ha accettato di diventare istruttore nel dojo di Sodachi. L'obiettivo è addestrare un combattente da zero e fargli vincere il Torneo delle Reclute. Per raggiungere questo obiettivo, prendi nota dei commenti sia di Sodachi che del tuo studente per mettere insieme un efficace regime di allenamento. La condizione del tuo studente e la fiducia in te sono parametri chiave per il successo. Devi forgiare sia la mente che il corpo bilanciando l'allenamento con il riposo e gli incontri."
   },
   "49": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
     "TIPS_NAME": "IF7-R",
     "SCENARIO_STATUS": "80a30031",
-    "TIPS_EXPLANATION": "Minamida, the legendary game inventor, has relocated to the Theater Underground and undertaken the development of a new project for the IF7. A year ago, he was invited to work at a small game company, but on the side, he has made it his life's work to develop a new project for the IF7. "
+    "TIPS_EXPLANATION": "Minamida, il leggendario inventore di giochi, si è trasferito al Teatro Sotterraneo e ha intrapreso lo sviluppo di un nuovo progetto per l'IF7. Un anno fa, è stato invitato a lavorare in una piccola azienda di giochi, ma nel frattempo, ha fatto della sua vita lo sviluppo di un nuovo progetto per l'IF7."
   },
   "50": {
-    "CATEGORY": "Street Fights",
-    "CATEGORY_EXPLANATION": "Tips on useful features related to street fights (random encounters).",
-    "TIPS_NAME": "Avoiding Fights",
+    "CATEGORY": "Combattimenti di Strada",
+    "CATEGORY_EXPLANATION": "Consigli sulle funzionalità utili relative ai combattimenti di strada (incontri casuali).",
+    "TIPS_NAME": "Evitare i Combattimenti",
     "SCENARIO_STATUS": "80a30032",
-    "TIPS_EXPLANATION": "You can walk instead of run by holding down <Action:Button_L1@Adventure> while you move. People who are prone to pick fights will be less likely to notice you if you walk. This is one way to avoid street fights when you are low on health or in a hurry to get somewhere. Passing behind people who look like they might pick a fight is another way to avoid detection."
+    "TIPS_EXPLANATION": "Puoi camminare invece di correre tenendo premuto <Action:Button_L1@Adventure> mentre ti muovi. Le persone che sono inclini a provocare risse avranno meno probabilità di notarti se cammini. Questo è un modo per evitare i combattimenti di strada quando hai poca salute o hai fretta di arrivare da qualche parte. Passare dietro a persone che sembrano pronte a combattere è un altro modo per evitare di essere notato."
   },
   "51": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Getting Help from People - Akiyama",
+    "TIPS_NAME": "Ottenere Aiuto dalle Persone - Akiyama",
     "SCENARIO_STATUS": "80a30033",
-    "TIPS_EXPLANATION": "After Akiyama has befriended certain people, they may help him in fights that occur close to their usual haunts. They may toss him weapons or recovery items, so be ready to press the correct button at the right time to catch them. Note that their help is limited to random encounter battles."
+    "TIPS_EXPLANATION": "Dopo che Akiyama ha fatto amicizia con alcune persone, queste potrebbero aiutarlo nei combattimenti che si verificano vicino ai loro luoghi abituali. Potrebbero lanciargli armi o oggetti di recupero, quindi preparati a premere il pulsante corretto al momento giusto per prenderli. Nota che il loro aiuto è limitato alle battaglie di incontri casuali."
   },
   "52": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Police Patrols - Saejima",
+    "TIPS_NAME": "Pattuglie di Polizia - Saejima",
     "SCENARIO_STATUS": "80a30034",
-    "TIPS_EXPLANATION": "The police in Kamurocho have sent many of their officers out on patrol around the town to make sure they catch anyone acting suspicious. There are two types of officers: some stand guard in place and watch their surroundings, while others follow a patrol and approach shady individuals to question them. Running down the street will attract the attention of patrolling officers. You may want to enter first-person mode with <Action:Button_R3@Adventure> and check for officers before moving quickly."
+    "TIPS_EXPLANATION": "La polizia di Kamurocho ha inviato molti dei suoi agenti in pattuglia in città per assicurarsi di catturare chiunque si comporti in modo sospetto. Esistono due tipi di agenti: alcuni fanno la guardia sul posto e osservano l'ambiente circostante, mentre altri seguono una pattuglia e si avvicinano a individui loschi per interrogarli. Correre per la strada attirerà l'attenzione degli agenti di pattuglia. Potresti voler entrare in modalità in prima persona con <Action:Button_R3@Adventure> e controllare la presenza di agenti prima di muoverti velocemente."
   },
   "53": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Police Scanner - Tanimura",
+    "TIPS_NAME": "Scanner della Polizia - Tanimura",
     "SCENARIO_STATUS": "80a30035",
-    "TIPS_EXPLANATION": "Tanimura carries a police radio with him at all times. He can receive the latest police intel about Kamurocho with it. Try to get to the scene as soon as you hear a report. Once a certain amount of time has passed, police close to the scene will resolve incidents, so you must hurry."
+    "TIPS_EXPLANATION": "Tanimura porta sempre con sé una radio della polizia. Può ricevere le ultime informazioni della polizia su Kamurocho con essa. Cerca di arrivare sulla scena non appena senti un rapporto. Una volta trascorso un certo periodo di tempo, i poliziotti vicini alla scena risolveranno gli incidenti, quindi devi sbrigarti."
   },
   "54": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Gang Encounters - Kiryu",
+    "TIPS_NAME": "Incontri con le Bande - Kiryu",
     "SCENARIO_STATUS": "80a30036",
-    "TIPS_EXPLANATION": "New gangs have been moving into Kamurocho and they are after Kiryu. They think they can make a name for themselves by defeating the legendary Dragon of Dojima. Defeat enough of their lower ranks and you might force their boss to come out. Dealing with attacks from every single gang member might become cumbersome after a while, so try to take out their boss as soon as you can."
+    "TIPS_EXPLANATION": "Nuove bande si sono trasferite a Kamurocho e sono alla ricerca di Kiryu. Pensano di poter farsi un nome sconfiggendo il leggendario Drago di Dojima. Sconfiggi abbastanza dei loro ranghi inferiori e potresti costringere il loro capo a uscire allo scoperto. Affrontare gli attacchi di ogni singolo membro della banda potrebbe diventare ingombrante dopo un po', quindi cerca di eliminare il loro capo il prima possibile."
   },
   "55": {
-    "CATEGORY": "Network",
-    "CATEGORY_EXPLANATION": "Information on online features.",
-    "TIPS_NAME": "Getting Connected",
+    "CATEGORY": "Rete",
+    "CATEGORY_EXPLANATION": "Informazioni sulle funzionalità online.",
+    "TIPS_NAME": "Connessione",
     "SCENARIO_STATUS": "80a30037",
-    "TIPS_EXPLANATION": "Yakuza 4 allows you to enjoy a variety of additional content by connecting to the Internet.\n\nThis includes games that support online rankings, so make sure to get connected!\n\nAccess the NETWORK menu on the Title menu for useful information about online features."
+    "TIPS_EXPLANATION": "Yakuza 4 ti consente di usufruire di una varietà di contenuti aggiuntivi connettendoti a Internet.\n\nCiò include giochi che supportano le classifiche online, quindi assicurati di connetterti!\n\nAccedi al menu RETE nel menu Titolo per informazioni utili sulle funzionalità online."
   },
   "56": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Online Rankings",
+    "TIPS_NAME": "Classifiche Online",
     "SCENARIO_STATUS": "80a30038",
-    "TIPS_EXPLANATION": "Try to get to the top of the online leaderboards for the following games:\n\n - Boxcelios 1 and 2 at Club SEGA\n - Darts\n - Batting Center\n - Bowling\n - Table Tennis\n\nSpecial rules are in effect for online leaderboard enabled games, with the exception of Boxcelios 1 and 2."
+    "TIPS_EXPLANATION": "Cerca di raggiungere la vetta delle classifiche online per i seguenti giochi:\n\n - Boxcelios 1 e 2 al Club SEGA\n - Freccette\n - Centro Battuta\n - Bowling\n - Tennis da Tavolo\n\nRegole speciali sono in vigore per i giochi abilitati alle classifiche online, con l'eccezione di Boxcelios 1 e 2."
   },
   "57": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Bonus Games",
+    "TIPS_NAME": "Giochi Bonus",
     "SCENARIO_STATUS": "80a30039",
-    "TIPS_EXPLANATION": "The Bonus Games offered at Naomi's Palace are only available in Premium Adventure mode.\n\nSome of the games support online leaderboards, so make sure to give them a try! Refer to the NETWORK menu in the Title menu for information on Bonus Games."
+    "TIPS_EXPLANATION": "I Giochi Bonus offerti al Palazzo di Naomi sono disponibili solo in modalità Avventura Premium.\n\nAlcuni dei giochi supportano le classifiche online, quindi assicurati di provarli! Fai riferimento al menu RETE nel menu Titolo per informazioni sui Giochi Bonus."
   },
   "types": {
     "CATEGORY": "string_idx",

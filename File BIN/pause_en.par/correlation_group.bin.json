@@ -2,37 +2,37 @@
   "0": {
     "GROUP": "All",
     "SCENARIO_STATE": "80030000",
-    "EXPLANATION": "People living in Kamurocho as of March 2010."
+    "EXPLANATION": "Persone che vivono a Kamurocho a partire da marzo 2010."
   },
   "1": {
     "GROUP": "",
     "SCENARIO_STATE": "80040000",
-    "EXPLANATION": "People related to the events taking place in Kamurocho as of March 2010."
+    "EXPLANATION": "Persone legate agli eventi che si svolgono a Kamurocho a partire da marzo 2010."
   },
   "2": {
     "GROUP": "",
     "SCENARIO_STATE": "80010004",
-    "EXPLANATION": "People who live in Kamurocho and the people related to them."
+    "EXPLANATION": "Persone che vivono a Kamurocho e le persone a loro legate."
   },
   "3": {
-    "GROUP": "Tojo and Ueno Seiwa Clan War",
+    "GROUP": "Guerra tra il Clan Tojo e il Clan Ueno Seiwa",
     "SCENARIO_STATE": "80040000fffffffe00010004",
-    "EXPLANATION": "People involved in the Tojo and Ueno Seiwa Clan\nwar, which started when Arai of Kanemura\nEnterprises fatally shot Ihara of the Ueno Seiwa Clan."
+    "EXPLANATION": "Persone coinvolte nella guerra tra il Clan Tojo e il Clan Ueno Seiwa,\niniziata quando Arai delle Imprese Kanemura ha ucciso a colpi di arma da fuoco Ihara del Clan Ueno Seiwa."
   },
   "4": {
-    "GROUP": "Kamurocho Serial Murders",
+    "GROUP": "Omicidi Seriali di Kamurocho",
     "SCENARIO_STATE": "80040000fffffffe00010004",
-    "EXPLANATION": "People involved in a recent string of mysterious\nmurders that took place in Kamurocho."
+    "EXPLANATION": "Persone coinvolte in una recente serie di misteriosi\nomicidi avvenuti a Kamurocho."
   },
   "5": {
-    "GROUP": "Yoshiharu Ueno Assassination",
+    "GROUP": "Assassinio di Yoshiharu Ueno",
     "SCENARIO_STATE": "80070000fffffffe00010004",
-    "EXPLANATION": "People involved in the incident 25 years ago when\nSaejima of the Sasai Family gunned down 18 Ueno\nSeiwa Clan members, including Chairman Ueno."
+    "EXPLANATION": "Persone coinvolte nell'incidente di 25 anni fa quando\nSaejima della Famiglia Sasai ha ucciso a colpi di arma da fuoco 18 membri del Clan Ueno Seiwa,\ncompreso il Presidente Ueno."
   },
   "6": {
-    "GROUP": "Tojo Clan's Missing 10 Billion",
+    "GROUP": "I 10 Miliardi Scomparsi del Clan Tojo",
     "SCENARIO_STATE": "800f0000fffffffe00010004",
-    "EXPLANATION": "People involved in the incident 5 years ago when 10\nbillion yen went missing from the Tojo Clan竭ｬleading\nto the explosion at the Millennium Tower."
+    "EXPLANATION": "Persone coinvolte nell'incidente di 5 anni fa quando 10\nmiliardi di yen sono scomparsi dal Clan Tojo, portando\nall'esplosione della Millennium Tower."
   },
   "types": {
     "GROUP": "string_idx",

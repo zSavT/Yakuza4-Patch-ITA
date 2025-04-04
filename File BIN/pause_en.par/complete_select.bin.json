@@ -1,75 +1,75 @@
 {
   "0": {
     "NAME": "Coin Lockers",
-    "EXPLANATION": "Unlock all 100 lockers, both above and underground."
+    "EXPLANATION": "Sblocca tutti i 100 armadietti, sia sopra che sotto terra."
   },
   "1": {
     "NAME": "Food/Drink",
-    "EXPLANATION": "Order everything on the menu at every restaurant."
+    "EXPLANATION": "Ordina tutto nel menu di ogni ristorante."
   },
   "2": {
     "NAME": "Weapon Modding",
-    "EXPLANATION": "Make all weapons and gear for both Kamiyama Works shops."
+    "EXPLANATION": "Crea tutte le armi e l'equipaggiamento per entrambi i negozi Kamiyama Works."
   },
   "3": {
     "NAME": "Allies",
-    "EXPLANATION": "Befriend everyone you can in the city."
+    "EXPLANATION": "Fai amicizia con tutti quelli che puoi in città."
   },
   "4": {
     "NAME": "Revelations",
-    "EXPLANATION": "See all Revelations."
+    "EXPLANATION": "Vedi tutte le Rivelazioni."
   },
   "5": {
     "NAME": "Minigames",
-    "EXPLANATION": "Complete every minigame. Each minigame's completion status can\nbe viewed with <Action:Button_Cross@UI>."
+    "EXPLANATION": "Completa ogni minigioco. Lo stato di completamento di ogni minigioco può\nessere visualizzato con <Action:Button_Cross@UI>."
   },
   "6": {
     "NAME": "Hostesses",
-    "EXPLANATION": "Complete all hostess substories."
+    "EXPLANATION": "Completa tutte le substorie delle hostess."
   },
   "7": {
     "NAME": "Hostess Maker",
-    "EXPLANATION": "Complete all Hostess Maker hostess substories."
+    "EXPLANATION": "Completa tutte le substorie delle hostess del Creatore di Hostess."
   },
   "8": {
     "NAME": "No. 1 Hostess Maker",
-    "EXPLANATION": "Train all Hostess Maker hostesses to be number one."
+    "EXPLANATION": "Addestra tutte le hostess del Creatore di Hostess per diventare le numero uno."
   },
   "9": {
     "NAME": "Saigo's Training",
-    "EXPLANATION": "Clear all of Saigo's training courses."
+    "EXPLANATION": "Completa tutti i corsi di addestramento di Saigo."
   },
   "10": {
     "NAME": "Master's Helper",
-    "EXPLANATION": "Complete all of Master's tasks."
+    "EXPLANATION": "Completa tutti i compiti del Maestro."
   },
   "11": {
     "NAME": "Nair's Training",
-    "EXPLANATION": "Help Nair reach her objective."
+    "EXPLANATION": "Aiuta Nair a raggiungere il suo obiettivo."
   },
   "12": {
     "NAME": "Coliseum",
-    "EXPLANATION": "Win all tournaments at the Coliseum."
+    "EXPLANATION": "Vinci tutti i tornei al Colosseo."
   },
   "13": {
     "NAME": "Fighter Maker",
-    "EXPLANATION": "All your apprentices must win the Rookie Tournament."
+    "EXPLANATION": "Tutti i tuoi apprendisti devono vincere il Torneo delle Reclute."
   },
   "14": {
     "NAME": "Police Scanner",
-    "EXPLANATION": "Resolve specific cases heard on the police scanner."
+    "EXPLANATION": "Risolvi casi specifici ascoltati sullo scanner della polizia."
   },
   "15": {
     "NAME": "Gang Encounters",
-    "EXPLANATION": "Defeat all gangs."
+    "EXPLANATION": "Sconfiggi tutte le bande."
   },
   "16": {
     "NAME": "IF7-R",
-    "EXPLANATION": "Defeat all enemies."
+    "EXPLANATION": "Sconfiggi tutti i nemici."
   },
   "17": {
     "NAME": "Heat Actions",
-    "EXPLANATION": "Use every Heat Action."
+    "EXPLANATION": "Usa ogni Azione Heat."
   },
   "types": {
     "NAME": "string_idx",

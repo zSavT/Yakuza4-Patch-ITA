@@ -1,21 +1,21 @@
 {
   "0": {
-    "CONTENTS": "About Network Features",
-    "CONTENTS_EXP": "Information about network features.  ",
-    "MSG_WINDOW": "Information about network features.  ",
-    "MAIN_EXP": "Yakuza 4 includes various network services that\ncan be enjoyed for free by simply connecting to\nPlayStationNetwork.\n1. Extras\n2. Online Ranking Mode\n3. Dynamic Ads\n\n~Broadband connection is required.",
-    "MAIN_EXP2": "~Items 2 and 3 also require you to sign in to a\nPlayStationNetwork account.\n\nFor more information on PlayStationNetwork,\nrefer to your PlayStation4 manual, or\nvisit the site below.\n\nhttp://us.playstation.com/psn/",
-    "MAIN_EXP3": "About Extras (1)\nYakuza 4 will have regular updates packed with\nextras like the following:\n\n- Special Games\n- Item Packs\n- Character Costume",
-    "MAIN_EXP4": "About Extras (2)\n\nIf your PlayStation4 is connected to the\nInternet, it will automatically update itself\nwhen you boot up Yakuza 4.\nIf the update fails due to connectivity issues,\ngo to \"Network\" from the Main Menu and select  \"Manual Update.\"",
-    "MAIN_EXP5": "About Online Ranking Mode (1)\nPlaying the following games in Yakuza 4 will\nenter you into rankings with other users.\n1. Boxcelios           (Club SEGA)\n2. Boxcelios 2         (Club SEGA)\n3. Darts               (Bantam)\n4. Batting             (Yoshida Batting Cage)\n5. Bowling             (Mach Bowl)\n6. Table Tennis        (Yunosono Hot Springs)",
-    "MAIN_EXP6": "About Online Ranking Mode (2)\n\nVisit Naomi's Palace on Tenkaichi Street to\naccess special games not playable elsewhere.\nThese games also have rankings.\n\nNote: You will need to fulfill certain conditions\nbefore you can unlock them.\nFor more details, check out Naomi's Palace.",
-    "MAIN_EXP7": "About Dynamic Ads\n\nDynamic Ads use your Internet connection to\nupdate signs and posters around Kamurocho\nwith advertisements of real world products,\nbringing the city to life with enhanced realism.\nSigning in to the PlayStationNetwork\nwill keep your Kamurocho up to date.",
-    "MAIN_EXP8": "Visit the official website for content release\ndates and other information:\n\n\n\nhttp://ryu-ga-gotoku.com/",
+    "CONTENTS": "Informazioni sulle Funzionalità di Rete",
+    "CONTENTS_EXP": "Informazioni sulle funzionalità di rete.",
+    "MSG_WINDOW": "Informazioni sulle funzionalità di rete.",
+    "MAIN_EXP": "Yakuza 4 include vari servizi di rete che\npossono essere utilizzati gratuitamente semplicemente collegandosi a\nPlayStationNetwork.\n1. Extra\n2. Modalità Classifica Online\n3. Annunci Dinamici\n\n~È necessaria una connessione a banda larga.",
+    "MAIN_EXP2": "~Le voci 2 e 3 richiedono anche l'accesso a un\naccount PlayStationNetwork.\n\nPer maggiori informazioni su PlayStationNetwork,\nconsulta il manuale di PlayStation4 o\nvisita il sito seguente.\n\nhttp://us.playstation.com/psn/",
+    "MAIN_EXP3": "Informazioni sugli Extra (1)\nYakuza 4 avrà aggiornamenti regolari ricchi di\nextra come i seguenti:\n\n- Giochi Speciali\n- Pacchetti Oggetti\n- Costumi dei Personaggi",
+    "MAIN_EXP4": "Informazioni sugli Extra (2)\n\nSe la tua PlayStation4 è connessa a Internet,\nsi aggiornerà automaticamente all'avvio di Yakuza 4.\nSe l'aggiornamento fallisce a causa di problemi di connessione,\nvai su \"Rete\" dal Menu Principale e seleziona \"Aggiornamento Manuale.\"",
+    "MAIN_EXP5": "Informazioni sulla Modalità Classifica Online (1)\nGiocando ai seguenti giochi in Yakuza 4, entrerai\nin classifiche con altri utenti.\n1. Boxcelios (Club SEGA)\n2. Boxcelios 2 (Club SEGA)\n3. Freccette (Bantam)\n4. Battuta (Gabbia di Battuta Yoshida)\n5. Bowling (Mach Bowl)\n6. Ping Pong (Terme di Yunosono)",
+    "MAIN_EXP6": "Informazioni sulla Modalità Classifica Online (2)\n\nVisita il Palazzo di Naomi in Via Tenkaichi per\naccedere a giochi speciali non giocabili altrove.\nAnche questi giochi hanno classifiche.\n\nNota: dovrai soddisfare determinate condizioni\nprima di poterli sbloccare.\nPer maggiori dettagli, visita il Palazzo di Naomi.",
+    "MAIN_EXP7": "Informazioni sugli Annunci Dinamici\n\nGli Annunci Dinamici utilizzano la tua connessione Internet per\naggiornare insegne e poster intorno a Kamurocho\ncon pubblicità di prodotti del mondo reale,\nportando la città in vita con un maggiore realismo.\nL'accesso a PlayStationNetwork\nmantiene aggiornato il tuo Kamurocho.",
+    "MAIN_EXP8": "Visita il sito web ufficiale per le date di rilascio dei contenuti\ne altre informazioni:\n\n\n\nhttp://ryu-ga-gotoku.com/",
     "MAIN_EXP9": ""
   },
   "1": {
-    "CONTENTS": "\"I Wanna Change Myself\" by Haruka",
-    "CONTENTS_EXP": "Select \"SPECIAL GAMES\" from the Title Menu to play.  ",
+    "CONTENTS": "\"Voglio Cambiare Me Stessa\" di Haruka",
+    "CONTENTS_EXP": "Seleziona \"GIOCHI SPECIALI\" dal Menu del Titolo per giocare.",
     "MSG_WINDOW": "",
     "MAIN_EXP": "",
     "MAIN_EXP2": "",
@@ -28,8 +28,8 @@
     "MAIN_EXP9": ""
   },
   "2": {
-    "CONTENTS": "\"Pure Love in Kamurocho\" by Akiyama & Hana (Epilogue Ver.)  ",
-    "CONTENTS_EXP": "Select \"SPECIAL GAMES\" from the Title Menu to play.  ",
+    "CONTENTS": "\"Amore Puro a Kamurocho\" di Akiyama e Hana (Versione Epilogo)",
+    "CONTENTS_EXP": "Seleziona \"GIOCHI SPECIALI\" dal Menu del Titolo per giocare.",
     "MSG_WINDOW": "",
     "MAIN_EXP": "",
     "MAIN_EXP2": "",
@@ -42,10 +42,10 @@
     "MAIN_EXP9": ""
   },
   "3": {
-    "CONTENTS": "Costume Change for Akiyama",
-    "CONTENTS_EXP": "New costume for Akiyama added. Available only\nin Premium Adventure mode.",
+    "CONTENTS": "Cambio Costume per Akiyama",
+    "CONTENTS_EXP": "Nuovo costume per Akiyama aggiunto. Disponibile solo\nin modalità Avventura Premium.",
     "MSG_WINDOW": "",
-    "MAIN_EXP": "Akiyama: Made It Big\n\nAvailable only in Premium Adventure mode.\nCostumes can be changed at hideouts.",
+    "MAIN_EXP": "Akiyama: Ce l'ho fatta alla grande\n\nDisponibile solo in modalità Avventura Premium.\nI costumi possono essere cambiati nei nascondigli.",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -56,10 +56,10 @@
     "MAIN_EXP9": ""
   },
   "4": {
-    "CONTENTS": "Costume Change for Saejima",
-    "CONTENTS_EXP": "New costume for Saejima added. Available only\nin Premium Adventure mode.",
+    "CONTENTS": "Cambio Costume per Saejima",
+    "CONTENTS_EXP": "Nuovo costume per Saejima aggiunto. Disponibile solo\nin modalità Avventura Premium.",
     "MSG_WINDOW": "",
-    "MAIN_EXP": "Saejima: Taiga Mask\n\nAvailable only in Premium Adventure mode.\nCostumes can be changed at hideouts.",
+    "MAIN_EXP": "Saejima: Maschera di Taiga\n\nDisponibile solo in modalità Avventura Premium.\nI costumi possono essere cambiati nei nascondigli.",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -70,10 +70,10 @@
     "MAIN_EXP9": ""
   },
   "5": {
-    "CONTENTS": "Costume Change for Tanimura",
-    "CONTENTS_EXP": "New costume for Tanimura added. Available only\nin Premium Adventure mode.",
+    "CONTENTS": "Cambio Costume per Tanimura",
+    "CONTENTS_EXP": "Nuovo costume per Tanimura aggiunto. Disponibile solo\nin modalità Avventura Premium.",
     "MSG_WINDOW": "",
-    "MAIN_EXP": "Tanimura: Kung Fu II\n\nAvailable only in Premium Adventure mode.\nCostumes can be changed at hideouts.",
+    "MAIN_EXP": "Tanimura: Kung Fu II\n\nDisponibile solo in modalità Avventura Premium.\nI costumi possono essere cambiati nei nascondigli.",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -84,10 +84,10 @@
     "MAIN_EXP9": ""
   },
   "6": {
-    "CONTENTS": "Costume Change for Kiryu",
-    "CONTENTS_EXP": "New costume for Kiryu added. Available only\nin Premium Adventure mode.",
+    "CONTENTS": "Cambio Costume per Kiryu",
+    "CONTENTS_EXP": "Nuovo costume per Kiryu aggiunto. Disponibile solo\nin modalità Avventura Premium.",
     "MSG_WINDOW": "",
-    "MAIN_EXP": "Kiryu: Dragon Mask\n\nAvailable only in Premium Adventure.\nCostumes can be changed inside hideouts.",
+    "MAIN_EXP": "Kiryu: Maschera del Drago\n\nDisponibile solo in Avventura Premium.\nI costumi possono essere cambiati nei nascondigli.",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -98,10 +98,10 @@
     "MAIN_EXP9": ""
   },
   "7": {
-    "CONTENTS": "Costume Change for Haruka",
-    "CONTENTS_EXP": "New costume for Haruka added. Available only\nin Premium Adventure mode.",
+    "CONTENTS": "Cambio Costume per Haruka",
+    "CONTENTS_EXP": "Nuovo costume per Haruka aggiunto. Disponibile solo\nin modalità Avventura Premium.",
     "MSG_WINDOW": "",
-    "MAIN_EXP": "Haruka: Junior Cheerleader\n\nAvailable only in Premium Adventure.\nCostumes can be changed inside hideouts.",
+    "MAIN_EXP": "Haruka: Giovane Cheerleader\n\nDisponibile solo in Avventura Premium.\nI costumi possono essere cambiati nei nascondigli.",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -112,10 +112,10 @@
     "MAIN_EXP9": ""
   },
   "8": {
-    "CONTENTS": "Underground Coliseum SP Battle King Championship",
-    "CONTENTS_EXP": "Extra game mode added. Play it by visiting\nNaomi's Palace in Premium Adventure after beating\nthe game.",
-    "MSG_WINDOW": "You can play this game by going to Naomi's\nPalace on Tenkaichi Street. Follow your map\nto get there.",
-    "MAIN_EXP": "縲- Who Will Be the Battle King!? -\n\nBring down foes in the Underground Coliseum one\nafter another, vying for the top. Fight in separate\nchallenges for each of the four main characters.\nBut once you're knocked out, you're out!\n\nSupports Online Ranking mode! Fight!\nWho will become the supreme Battle King?",
+    "CONTENTS": "Campionato del Re della Battaglia SP nel Colosseo Sotterraneo",
+    "CONTENTS_EXP": "Modalità di gioco extra aggiunta. Giocala visitando\nil Palazzo di Naomi in Avventura Premium dopo aver finito\nil gioco.",
+    "MSG_WINDOW": "Puoi giocare a questo gioco andando al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "縲€- Chi Sarà il Re della Battaglia!? -\n\nAbbatti i nemici nel Colosseo Sotterraneo uno\ndopo l'altro, gareggiando per il primo posto. Combatti in sfide\nseparate per ciascuno dei quattro personaggi principali.\nMa una volta che sei eliminato, sei fuori!\n\nSupporta la modalità Classifica Online! Combatti!\nChi diventerà il Re della Battaglia supremo?",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -126,10 +126,10 @@
     "MAIN_EXP9": ""
   },
   "9": {
-    "CONTENTS": "Survival Tag SP",
-    "CONTENTS_EXP": "Extra game mode added. Play it by visiting\nNaomi's Palace in Premium Adventure after beating\nthe game.",
-    "MSG_WINDOW": "You can play this game by going to Naomi's\nPalace on Tenkaichi Street. Follow your map\nto get there.",
-    "MAIN_EXP": "- It's Back With a Vengeance! -\nIt took Kamurocho by storm in 2009. Now the\nbeloved \"Survival Tag\" mode is back and better\nthan ever with brand-new missions. Escape from\nthe clutches of Bob Utsunomiya in a high-risk,\nhigh-return, heart-pounding struggle! Comes with\na new \"Endless\" mode that supports Online\nRanking mode! Be the ultimate survivor!",
+    "CONTENTS": "Tag di Sopravvivenza SP",
+    "CONTENTS_EXP": "Modalità di gioco extra aggiunta. Giocala visitando\nil Palazzo di Naomi in Avventura Premium dopo aver finito\nil gioco.",
+    "MSG_WINDOW": "Puoi giocare a questo gioco andando al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "- È Tornato con una Vendetta! -\nHa preso d'assalto Kamurocho nel 2009. Ora l'amata\nmodalità \"Tag di Sopravvivenza\" è tornata e migliore\nche mai con missioni nuove di zecca. Fuggi dalle\nmani di Bob Utsunomiya in una lotta ad alto rischio,\nad alto rendimento e da batticuore! Viene fornito con\nuna nuova modalità \"Infinita\" che supporta la modalità\nClassifica Online! Diventa il sopravvissuto supremo!",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -140,10 +140,10 @@
     "MAIN_EXP9": ""
   },
   "10": {
-    "CONTENTS": "Underground Parking Lot Speed King Championship",
-    "CONTENTS_EXP": "Extra game mode added. Play it by visiting\nNaomi's Palace in Premium Adventure after beating\nthe game.",
-    "MSG_WINDOW": "You can play this game by going to Naomi's\nPalace on Tenkaichi Street. Follow your map\nto get there.",
-    "MAIN_EXP": "縲- The True Speed King Shall Be Crowned -\n\nRun three laps around the Kamurocho Central Parking\nLot course as fast as you can! A truly worthy\nbattleground for a truly epic battle. Who will\nbecome the true Kamurocho Speed King?",
+    "CONTENTS": "Campionato del Re della Velocità nel Parcheggio Sotterraneo",
+    "CONTENTS_EXP": "Modalità di gioco extra aggiunta. Giocala visitando\nil Palazzo di Naomi in Avventura Premium dopo aver finito\nil gioco.",
+    "MSG_WINDOW": "Puoi giocare a questo gioco andando al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "縲€- Il Vero Re della Velocità Sarà Incoronato -\n\nCorri tre giri intorno al percorso del Parcheggio Centrale di Kamurocho\nnel minor tempo possibile! Un campo di battaglia davvero degno\nper una battaglia davvero epica. Chi diventerà\nil vero Re della Velocità di Kamurocho?",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -154,8 +154,8 @@
     "MAIN_EXP9": ""
   },
   "11": {
-    "CONTENTS": "New Rank for Haruka's Mood",
-    "CONTENTS_EXP": "EX-SSS has been added as a Mood rank for\nHaruka. This rank is only available in Premium\nAdventure mode.",
+    "CONTENTS": "Nuovo Grado per l'Umore di Haruka",
+    "CONTENTS_EXP": "EX-SSS è stato aggiunto come grado di Umore per\nHaruka. Questo grado è disponibile solo in Avventura Premium.",
     "MSG_WINDOW": "",
     "MAIN_EXP": "",
     "MAIN_EXP2": "",
@@ -168,10 +168,10 @@
     "MAIN_EXP9": ""
   },
   "12": {
-    "CONTENTS": "Item Pack 1",
-    "CONTENTS_EXP": "Available during the main story or Premium Adventure mode\n(selectable after beating the game). Claim it by visiting\nNaomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "A prize package for the weary warrior!\n\n- Staminan Royale\n- Tauriner ++\n- Toughness Emperor\n- Titanium Driver\n- Bulletproof Breastplate",
+    "CONTENTS": "Pacchetto Oggetti 1",
+    "CONTENTS_EXP": "Disponibile durante la storia principale o la modalità Avventura Premium\n(selezionabile dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "Un pacchetto premio per il guerriero stanco!\n\n- Staminan Royale\n- Tauriner ++\n- Imperatore della Resistenza\n- Driver in Titanio\n- Corazza Antiproiettile",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -182,10 +182,10 @@
     "MAIN_EXP9": ""
   },
   "13": {
-    "CONTENTS": "Item Pack 2",
-    "CONTENTS_EXP": "Available during the main story or Premium Adventure mode\n(selectable after beating the game). Claim it by visiting\nNaomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "A prize package for the weary warrior!\n\n- Staminan Royale\n- Tauriner ++\n- Toughness Emperor\n- Hyper Stun Gun\n- Gambler's Binding",
+    "CONTENTS": "Pacchetto Oggetti 2",
+    "CONTENTS_EXP": "Disponibile durante la storia principale o la modalità Avventura Premium\n(selezionabile dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "Un pacchetto premio per il guerriero stanco!\n\n- Staminan Royale\n- Tauriner ++\n- Imperatore della Resistenza\n- Pistola Stordente Iper\n- Vincolo del Giocatore d'Azzardo",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -196,10 +196,10 @@
     "MAIN_EXP9": ""
   },
   "14": {
-    "CONTENTS": "Item Pack 3",
-    "CONTENTS_EXP": "Available during the main story or Premium Adventure mode\n(selectable after beating the game). Claim it by visiting\nNaomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "A prize package for the weary warrior!\n\n- Staminan Royale\n- Tauriner ++\n- Toughness Emperor\n- Miniature Sign\n- Bloody Binding",
+    "CONTENTS": "Pacchetto Oggetti 3",
+    "CONTENTS_EXP": "Disponibile durante la storia principale o la modalità Avventura Premium\n(selezionabile dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "Un pacchetto premio per il guerriero stanco!\n\n- Staminan Royale\n- Tauriner ++\n- Imperatore della Resistenza\n- Insegna in Miniatura\n- Vincolo Sanguinario",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -210,10 +210,10 @@
     "MAIN_EXP9": ""
   },
   "15": {
-    "CONTENTS": "Item Pack 4",
-    "CONTENTS_EXP": "Available during the main story or Premium Adventure mode\n(selectable after beating the game). Claim it by visiting\nNaomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "A prize package for the weary warrior!\n\n- Staminan Royale\n- Tauriner ++\n- Toughness Emperor\n- Demon Gauntlets\n- Tourmaline Bracelet",
+    "CONTENTS": "Pacchetto Oggetti 4",
+    "CONTENTS_EXP": "Disponibile durante la storia principale o la modalità Avventura Premium\n(selezionabile dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "Un pacchetto premio per il guerriero stanco!\n\n- Staminan Royale\n- Tauriner ++\n- Imperatore della Resistenza\n- Guanti del Demone\n- Bracciale di Tormalina",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -224,10 +224,10 @@
     "MAIN_EXP9": ""
   },
   "16": {
-    "CONTENTS": "Item Pack 5",
-    "CONTENTS_EXP": "Available during the main story or Premium Adventure mode\n(selectable after beating the game). Claim it by visiting\nNaomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "A prize package for the weary warrior!\n\n- Staminan Royale\n- Tauriner ++\n- Toughness Emperor\n- Sakura Storm\n- Payback Ring",
+    "CONTENTS": "Pacchetto Oggetti 5",
+    "CONTENTS_EXP": "Disponibile durante la storia principale o la modalità Avventura Premium\n(selezionabile dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "Un pacchetto premio per il guerriero stanco!\n\n- Staminan Royale\n- Tauriner ++\n- Imperatore della Resistenza\n- Tempesta di Sakura\n- Anello di Ritorno",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -238,10 +238,10 @@
     "MAIN_EXP9": ""
   },
   "17": {
-    "CONTENTS": "Item Pack 6",
-    "CONTENTS_EXP": "Available during the main story or Premium Adventure mode\n(selectable after beating the game). Claim it by visiting\nNaomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "A prize package for the weary warrior!\n\n- Staminan Royale\n- Tauriner ++\n- Toughness Emperor\n- Lotus Clan Broadsword\n- Champion's Ring",
+    "CONTENTS": "Pacchetto Oggetti 6",
+    "CONTENTS_EXP": "Disponibile durante la storia principale o la modalità Avventura Premium\n(selezionabile dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "Un pacchetto premio per il guerriero stanco!\n\n- Staminan Royale\n- Tauriner ++\n- Imperatore della Resistenza\n- Spada Larga del Clan del Loto\n- Anello del Campione",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -252,10 +252,10 @@
     "MAIN_EXP9": ""
   },
   "18": {
-    "CONTENTS": "Item Pack 7",
-    "CONTENTS_EXP": "Available during the main story or Premium Adventure mode\n(selectable after beating the game). Claim it by visiting\nNaomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "A prize package for the weary warrior!\n\n- Staminan Spark\n- Tauriner Maximum\n- Toughness Infinity\n- 9mm Automatic Pistol\n- Antique Chain Mail",
+    "CONTENTS": "Pacchetto Oggetti 7",
+    "CONTENTS_EXP": "Disponibile durante la storia principale o la modalità Avventura Premium\n(selezionabile dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "Un pacchetto premio per il guerriero stanco!\n\n- Scintilla di Staminan\n- Tauriner Massimo\n- Resistenza Infinita\n- Pistola Automatica 9mm\n- Cotta di Maglia Antica",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -266,10 +266,10 @@
     "MAIN_EXP9": ""
   },
   "19": {
-    "CONTENTS": "Item Pack 8",
-    "CONTENTS_EXP": "Available during the main story or Premium Adventure mode\n(selectable after beating the game). Claim it by visiting\nNaomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "A prize package for the weary warrior!\n\n- Staminan Spark\n- Tauriner Maximum\n- Toughness Infinity\n- Broken M1985\n- SWAT Body Armor",
+    "CONTENTS": "Pacchetto Oggetti 8",
+    "CONTENTS_EXP": "Disponibile durante la storia principale o la modalità Avventura Premium\n(selezionabile dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "Un pacchetto premio per il guerriero stanco!\n\n- Scintilla di Staminan\n- Tauriner Massimo\n- Resistenza Infinita\n- M1985 Rotto\n- Armatura Corpo SWAT",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -280,10 +280,10 @@
     "MAIN_EXP9": ""
   },
   "20": {
-    "CONTENTS": "S-Item Pack 1",
-    "CONTENTS_EXP": "Available in New Game+ or Premium Adventure mode (both\nare selectable after beating the game). Claim it by\nvisiting Naomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "Goodies fit for a newbie hostess!\n- Heart Ring\n- Popularity Bracelet\n- Swiss Watch",
+    "CONTENTS": "Pacchetto S-Oggetti 1",
+    "CONTENTS_EXP": "Disponibile in Nuova Partita+ o modalità Avventura Premium (entrambe\nsono selezionabili dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "Oggetti adatti per una nuova hostess!\n- Anello del Cuore\n- Bracciale della Popolarità\n- Orologio Svizzero",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -294,10 +294,10 @@
     "MAIN_EXP9": ""
   },
   "21": {
-    "CONTENTS": "S-Item Pack 2",
-    "CONTENTS_EXP": "Available in New Game+ or Premium Adventure mode (both\nare selectable after beating the game). Claim it by\nvisiting Naomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "Now you're gambling with the big boys.\n\n- Gambler's Amulet\n- Get-Rich-Quick Card\n- Chance Stone",
+    "CONTENTS": "Pacchetto S-Oggetti 2",
+    "CONTENTS_EXP": "Disponibile in Nuova Partita+ o modalità Avventura Premium (entrambe\nsono selezionabili dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "Ora stai giocando d'azzardo con i grandi.\n\n- Amuleto del Giocatore d'Azzardo\n- Carta Arricchisci-ti-Rapidamente\n- Pietra della Fortuna",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -308,10 +308,10 @@
     "MAIN_EXP9": ""
   },
   "22": {
-    "CONTENTS": "S-Item Pack 3",
-    "CONTENTS_EXP": "Available in New Game+ or Premium Adventure mode (both\nare selectable after beating the game). Claim it by\nvisiting Naomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "Utilize modding to become unstoppable!\n\n- Tiger Skin Belt\n- Staminan Spark\n- Staminan Spark",
+    "CONTENTS": "Pacchetto S-Oggetti 3",
+    "CONTENTS_EXP": "Disponibile in Nuova Partita+ o modalità Avventura Premium (entrambe\nsono selezionabili dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "Usa le modifiche per diventare inarrestabile!\n\n- Cintura in Pelle di Tigre\n- Scintilla di Staminan\n- Scintilla di Staminan",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -322,10 +322,10 @@
     "MAIN_EXP9": ""
   },
   "23": {
-    "CONTENTS": "S-Item Pack 4",
-    "CONTENTS_EXP": "Available in New Game+ or Premium Adventure mode (both\nare selectable after beating the game). Claim it by\nvisiting Naomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "For masters of golf, bowling, and fishing!\n\n- Gold Hawk\n- Master Ball\n- Lobster",
+    "CONTENTS": "Pacchetto S-Oggetti 4",
+    "CONTENTS_EXP": "Disponibile in Nuova Partita+ o modalità Avventura Premium (entrambe\nsono selezionabili dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "Per i maestri di golf, bowling e pesca!\n\n- Falco Dorato\n- Palla Maestra\n- Aragosta",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -336,10 +336,10 @@
     "MAIN_EXP9": ""
   },
   "24": {
-    "CONTENTS": "S-Item Pack 5",
-    "CONTENTS_EXP": "Available in New Game+ or Premium Adventure mode (both\nare selectable after beating the game). Claim it by\nvisiting Naomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "There's no way you can lose with these!\n\n- 1-1-1 Card\n- Even Goro's Beads\n- Lopsided Cigarette",
+    "CONTENTS": "Pacchetto S-Oggetti 5",
+    "CONTENTS_EXP": "Disponibile in Nuova Partita+ o modalità Avventura Premium (entrambe\nsono selezionabili dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "Non c'è modo di perdere con questi!\n\n- Carta 1-1-1\n- Perle di Goro Pari\n- Sigaretta Sbilenca",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -350,10 +350,10 @@
     "MAIN_EXP9": ""
   },
   "25": {
-    "CONTENTS": "S-Item Pack 6",
-    "CONTENTS_EXP": "Available in New Game+ or Premium Adventure mode (both\nare selectable after beating the game). Claim it by\nvisiting Naomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "Visit Fukuma Casino at Purgatory lately?\n\n- Black Jewel\n- Red Jewel\n- Zero Jewel",
+    "CONTENTS": "Pacchetto S-Oggetti 6",
+    "CONTENTS_EXP": "Disponibile in Nuova Partita+ o modalità Avventura Premium (entrambe\nsono selezionabili dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "Hai visitato il Casinò Fukuma al Purgatorio ultimamente?\n\n- Gioiello Nero\n- Gioiello Rosso\n- Gioiello Zero",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -364,10 +364,10 @@
     "MAIN_EXP9": ""
   },
   "26": {
-    "CONTENTS": "S-Item Pack 7",
-    "CONTENTS_EXP": "Available in New Game+ or Premium Adventure mode (both\nare selectable after beating the game). Claim it by\nvisiting Naomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "Make your fist the strongest in history!\n\n- Seal of the Dragon\n- Eye of the Dragon\n- Diamond",
+    "CONTENTS": "Pacchetto S-Oggetti 7",
+    "CONTENTS_EXP": "Disponibile in Nuova Partita+ o modalità Avventura Premium (entrambe\nsono selezionabili dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "Rendi il tuo pugno il più forte della storia!\n\n- Sigillo del Drago\n- Occhio del Drago\n- Diamante",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
@@ -378,10 +378,10 @@
     "MAIN_EXP9": ""
   },
   "27": {
-    "CONTENTS": "S-Item Pack 8",
-    "CONTENTS_EXP": "Available in New Game+ or Premium Adventure mode (both\nare selectable after beating the game). Claim it by\nvisiting Naomi's Palace.",
-    "MSG_WINDOW": "Item Packs can be claimed at Naomi's Palace on\nTenkaichi Street. Follow your map to get there.",
-    "MAIN_EXP": "There's something dangerous about this lineup...\n\n- NSD Prototype\n- SSS Gunpowder\n- Gravity Converter",
+    "CONTENTS": "Pacchetto S-Oggetti 8",
+    "CONTENTS_EXP": "Disponibile in Nuova Partita+ o modalità Avventura Premium (entrambe\nsono selezionabili dopo aver finito il gioco). Ritiralo visitando\nil Palazzo di Naomi.",
+    "MSG_WINDOW": "I Pacchetti Oggetti possono essere ritirati al Palazzo di Naomi\nin Via Tenkaichi. Segui la mappa per arrivarci.",
+    "MAIN_EXP": "C'è qualcosa di pericoloso in questa formazione...\n\n- Prototipo NSD\n- Polvere da Sparo SSS\n- Convertitore di Gravità",
     "MAIN_EXP2": "",
     "MAIN_EXP3": "",
     "MAIN_EXP4": "",
