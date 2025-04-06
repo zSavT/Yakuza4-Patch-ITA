@@ -1,30 +1,30 @@
 {
   "0": {
-    "NAME": "Punch Training",
+    "NAME": "Allenamento con i pugni",
     "LV1_VALUE": "1000",
     "LV2_VALUE": "500000",
     "LV3_VALUE": "1500000"
   },
   "1": {
-    "NAME": "Kick Training  ",
+    "NAME": "Allenamento con i calci  ",
     "LV1_VALUE": "2000",
     "LV2_VALUE": "500000",
     "LV3_VALUE": "1500000"
   },
   "2": {
-    "NAME": "Groundwork  ",
+    "NAME": "Lavoro a terra ",
     "LV1_VALUE": "3000",
     "LV2_VALUE": "500000",
     "LV3_VALUE": "1500000"
   },
   "3": {
-    "NAME": "Strength Training  ",
+    "NAME": "Allenamento forza  ",
     "LV1_VALUE": "4000",
     "LV2_VALUE": "700000",
     "LV3_VALUE": "2000000"
   },
   "4": {
-    "NAME": "Road Work  ",
+    "NAME": "Lavori su strada  ",
     "LV1_VALUE": "5000",
     "LV2_VALUE": "800000",
     "LV3_VALUE": "2500000"
@@ -36,7 +36,7 @@
     "LV3_VALUE": "2000000"
   },
   "6": {
-    "NAME": "Lecture  ",
+    "NAME": "Lezione  ",
     "LV1_VALUE": "7000",
     "LV2_VALUE": "600000",
     "LV3_VALUE": "1800000"
@@ -48,7 +48,7 @@
     "LV3_VALUE": "2800000"
   },
   "8": {
-    "NAME": "Rest  ",
+    "NAME": "Riposo  ",
     "LV1_VALUE": "9000",
     "LV2_VALUE": "1000000",
     "LV3_VALUE": "3000000"

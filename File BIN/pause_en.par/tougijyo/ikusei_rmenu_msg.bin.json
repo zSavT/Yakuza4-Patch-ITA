@@ -1,93 +1,93 @@
 {
   "0": {
-    "KIND": "Punch Training",
-    "MSG_LV1": "Training to acquire faster and stronger punches.\nWell-balanced training focused on <Color:7>Power<Color:Default>.",
-    "MSG_LV2": "Training to acquire faster and stronger punches.\nWell-balanced training focused on <Color:7>Power<Color:Default>.",
-    "MSG_LV3": "Training to acquire faster and stronger punches.\nWell-balanced training focused on <Color:7>Power<Color:Default>.",
-    "LV1_LV2": "Upgrades punch training facilities to Level 2.\nImproves training efficiency.",
-    "LV2_LV3": "Upgrades punch training facilities to Level 3.\nGreatly improves training efficiency.",
-    "LV_MAX": "Cannot upgrade further.  "
+    "KIND": "Allenamento Pugni",
+    "MSG_LV1": "Allenamento per acquisire pugni più veloci e potenti.\nAllenamento ben bilanciato incentrato sulla <Color:7>Potenza<Color:Default>.",
+    "MSG_LV2": "Allenamento per acquisire pugni più veloci e potenti.\nAllenamento ben bilanciato incentrato sulla <Color:7>Potenza<Color:Default>.",
+    "MSG_LV3": "Allenamento per acquisire pugni più veloci e potenti.\nAllenamento ben bilanciato incentrato sulla <Color:7>Potenza<Color:Default>.",
+    "LV1_LV2": "Aggiorna le strutture di allenamento dei pugni al Livello 2.\nMigliora l'efficienza dell'allenamento.",
+    "LV2_LV3": "Aggiorna le strutture di allenamento dei pugni al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
   },
   "1": {
-    "KIND": "Kick Training  ",
-    "MSG_LV1": "Training to acquire stronger and more precise kicks.\nWell-balanced training focused on <Color:7>Speed<Color:Default>.",
-    "MSG_LV2": "Training to acquire stronger and more precise kicks.\nWell-balanced training focused on <Color:7>Speed<Color:Default>.",
-    "MSG_LV3": "Training to acquire stronger and more precise kicks.\nWell-balanced training focused on <Color:7>Speed<Color:Default>.",
-    "LV1_LV2": "Upgrades kick training facilities to Level 2.\nImproves training efficiency.",
-    "LV2_LV3": "Upgrades kick training facilities to Level 3.\nGreatly improves training efficiency.",
-    "LV_MAX": "Cannot upgrade further.  "
+    "KIND": "Allenamento Calci ",
+    "MSG_LV1": "Allenamento per acquisire calci più potenti e precisi.\nAllenamento ben bilanciato incentrato sulla <Color:7>Velocità<Color:Default>.",
+    "MSG_LV2": "Allenamento per acquisire calci più potenti e precisi.\nAllenamento ben bilanciato incentrato sulla <Color:7>Velocità<Color:Default>.",
+    "MSG_LV3": "Allenamento per acquisire calci più potenti e precisi.\nAllenamento ben bilanciato incentrato sulla <Color:7>Velocità<Color:Default>.",
+    "LV1_LV2": "Aggiorna le strutture di allenamento dei calci al Livello 2.\nMigliora l'efficienza dell'allenamento.",
+    "LV2_LV3": "Aggiorna le strutture di allenamento dei calci al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
   },
   "2": {
-    "KIND": "Groundwork  ",
-    "MSG_LV1": "Training to refine ground offensive and defensive skills.\nWell-balanced training focused on <Color:7>Technique<Color:Default>.",
-    "MSG_LV2": "Training to refine ground offensive and defensive skills.\nWell-balanced training focused on <Color:7>Technique<Color:Default>.",
-    "MSG_LV3": "Training to refine ground offensive and defensive skills.\nWell-balanced training focused on <Color:7>Technique<Color:Default>.",
-    "LV1_LV2": "Upgrades groundwork training facilities to Level 2.\nImproves training efficiency. ",
-    "LV2_LV3": "Upgrades groundwork training facilities to Level 3.\nGreatly improves training efficiency.",
-    "LV_MAX": "Cannot upgrade further.  "
+    "KIND": "Lavoro a Terra ",
+    "MSG_LV1": "Allenamento per affinare le abilità offensive e difensive a terra.\nAllenamento ben bilanciato incentrato sulla <Color:7>Tecnica<Color:Default>.",
+    "MSG_LV2": "Allenamento per affinare le abilità offensive e difensive a terra.\nAllenamento ben bilanciato incentrato sulla <Color:7>Tecnica<Color:Default>.",
+    "MSG_LV3": "Allenamento per affinare le abilità offensive e difensive a terra.\nAllenamento ben bilanciato incentrato sulla <Color:7>Tecnica<Color:Default>.",
+    "LV1_LV2": "Aggiorna le strutture di allenamento del lavoro a terra al Livello 2.\nMigliora l'efficienza dell'allenamento. ",
+    "LV2_LV3": "Aggiorna le strutture di allenamento del lavoro a terra al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
   },
   "3": {
-    "KIND": "Strength Training  ",
-    "MSG_LV1": "Bulk up and create a powerful, athletic body.\nFocuses on <Color:20>Power<Color:Default> alone, so <Color:22>other abilities<Color:Default> may decline.",
-    "MSG_LV2": "Bulk up and create a powerful, athletic body.\nFocuses on <Color:20>Power<Color:Default> alone, so <Color:22>other abilities<Color:Default> may decline.",
-    "MSG_LV3": "Bulk up and create a powerful, athletic body.\nFocuses on <Color:20>Power<Color:Default> alone, so <Color:22>other abilities<Color:Default> may decline.",
-    "LV1_LV2": "Upgrades strength training facilities to Level 2.\nImproves training efficiency.",
-    "LV2_LV3": "Upgrades strength training facilities to Level 3.\nGreatly improves training efficiency.",
-    "LV_MAX": "Cannot upgrade further.  "
+    "KIND": "Allenamento Forza ",
+    "MSG_LV1": "Aumenta la massa e crea un corpo potente e atletico.\nSi concentra solo sulla <Color:20>Potenza<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "MSG_LV2": "Aumenta la massa e crea un corpo potente e atletico.\nSi concentra solo sulla <Color:20>Potenza<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "MSG_LV3": "Aumenta la massa e crea un corpo potente e atletico.\nSi concentra solo sulla <Color:20>Potenza<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "LV1_LV2": "Aggiorna le strutture di allenamento della forza al Livello 2.\nMigliora l'efficienza dell'allenamento.",
+    "LV2_LV3": "Aggiorna le strutture di allenamento della forza al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
   },
   "4": {
-    "KIND": "Road Work  ",
-    "MSG_LV1": "Run to acquire the basic health needed to sustain training.\nIncreases <Color:20>Max Stamina<Color:Default>.",
-    "MSG_LV2": "Run to acquire the basic health needed to sustain training.\nIncreases <Color:20>Max Stamina<Color:Default>.",
-    "MSG_LV3": "Run to acquire the basic health needed to sustain training.\nIncreases <Color:20>Max Stamina<Color:Default>.",
-    "LV1_LV2": "Upgrades road work training facilities to Level 2.\nImproves training efficiency.",
-    "LV2_LV3": "Upgrades road work training facilities to Level 3.\nGreatly improves training efficiency.",
-    "LV_MAX": "Cannot upgrade further.  "
+    "KIND": "Lavoro su Strada ",
+    "MSG_LV1": "Corri per acquisire la salute di base necessaria per sostenere l'allenamento.\nAumenta la <Color:20>Stamina Massima<Color:Default>.",
+    "MSG_LV2": "Corri per acquisire la salute di base necessaria per sostenere l'allenamento.\nAumenta la <Color:20>Stamina Massima<Color:Default>.",
+    "MSG_LV3": "Corri per acquisire la salute di base necessaria per sostenere l'allenamento.\nAumenta la <Color:20>Stamina Massima<Color:Default>.",
+    "LV1_LV2": "Aggiorna le strutture di allenamento del lavoro su strada al Livello 2.\nMigliora l'efficienza dell'allenamento.",
+    "LV2_LV3": "Aggiorna le strutture di allenamento del lavoro su strada al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
   },
   "5": {
-    "KIND": "Sprints",
-    "MSG_LV1": "Repeated short-distance sprints to train your legs.\nFocuses on <Color:20>Speed<Color:Default> alone, so <Color:22>other abilities<Color:Default> may decline.",
-    "MSG_LV2": "Repeated short-distance sprints to train your legs.\nFocuses on <Color:20>Speed<Color:Default> alone, so <Color:22>other abilities<Color:Default> may decline.",
-    "MSG_LV3": "Repeated short-distance sprints to train your legs.\nFocuses on <Color:20>Speed<Color:Default> alone, so <Color:22>other abilities<Color:Default> may decline.",
-    "LV1_LV2": "Upgrades sprint training facilities to Level 2.\nImproves training efficiency.",
-    "LV2_LV3": "Upgrades sprint training facilities to Level 3.\nGreatly improves training efficiency.",
-    "LV_MAX": "Cannot upgrade further.  "
+    "KIND": "Sprint",
+    "MSG_LV1": "Sprint ripetuti a breve distanza per allenare le gambe.\nSi concentra solo sulla <Color:20>Velocità<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "MSG_LV2": "Sprint ripetuti a breve distanza per allenare le gambe.\nSi concentra solo sulla <Color:20>Velocità<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "MSG_LV3": "Sprint ripetuti a breve distanza per allenare le gambe.\nSi concentra solo sulla <Color:20>Velocità<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "LV1_LV2": "Aggiorna le strutture di allenamento dello sprint al Livello 2.\nMigliora l'efficienza dell'allenamento.",
+    "LV2_LV3": "Aggiorna le strutture di allenamento dello sprint al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
   },
   "6": {
-    "KIND": "Lecture  ",
-    "MSG_LV1": "Learn about fighting theory and techniques to win. Focuses\non <Color:20>Technique<Color:Default> alone, so <Color:22>other abilities<Color:Default> may decline.",
-    "MSG_LV2": "Learn about fighting theory and techniques to win. Focuses\non <Color:20>Technique<Color:Default> alone, so <Color:22>other abilities<Color:Default> may decline.",
-    "MSG_LV3": "Learn about fighting theory and techniques to win. Focuses\non <Color:20>Technique<Color:Default> alone, so <Color:22>other abilities<Color:Default> may decline.",
-    "LV1_LV2": "Upgrades fighting theory study facilities to Level 2.\nImproves training efficiency.",
-    "LV2_LV3": "Upgrades fighting theory study facilities to Level 3.\nGreatly improves training efficiency.",
-    "LV_MAX": "Cannot upgrade further.  "
+    "KIND": "Lezione ",
+    "MSG_LV1": "Impara la teoria e le tecniche di combattimento per vincere. Si concentra\nsolo sulla <Color:20>Tecnica<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "MSG_LV2": "Impara la teoria e le tecniche di combattimento per vincere. Si concentra\nsolo sulla <Color:20>Tecnica<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "MSG_LV3": "Impara la teoria e le tecniche di combattimento per vincere. Si concentra\nsolo sulla <Color:20>Tecnica<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "LV1_LV2": "Aggiorna le strutture di studio della teoria del combattimento al Livello 2.\nMigliora l'efficienza dell'allenamento.",
+    "LV2_LV3": "Aggiorna le strutture di studio della teoria del combattimento al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
   },
   "7": {
-    "KIND": "Stretch  ",
-    "MSG_LV1": "Tune your <Color:20>Mood<Color:Default> after repeated hard workouts.\nAlso restores some <Color:7>Stamina<Color:Default>.",
-    "MSG_LV2": "Tune your <Color:20>Mood<Color:Default> after repeated hard workouts.\nAlso restores some <Color:7>Stamina<Color:Default>.",
-    "MSG_LV3": "Tune your <Color:20>Mood<Color:Default> after repeated hard workouts.\nAlso restores some <Color:7>Stamina<Color:Default>.",
-    "LV1_LV2": "Upgrades stretching facilities to Level 2.\nMood will improve faster. Lessens fatigue a bit.",
-    "LV2_LV3": "Upgrades stretching facilities to Level 3.\nMood will improve much faster. Cures fatigue.",
-    "LV_MAX": "Cannot upgrade further.  "
+    "KIND": "Stretching ",
+    "MSG_LV1": "Sintonizza il tuo <Color:20>Umore<Color:Default> dopo ripetuti allenamenti duri.\nRipristina anche un po' di <Color:7>Stamina<Color:Default>.",
+    "MSG_LV2": "Sintonizza il tuo <Color:20>Umore<Color:Default> dopo ripetuti allenamenti duri.\nRipristina anche un po' di <Color:7>Stamina<Color:Default>.",
+    "MSG_LV3": "Sintonizza il tuo <Color:20>Umore<Color:Default> dopo ripetuti allenamenti duri.\nRipristina anche un po' di <Color:7>Stamina<Color:Default>.",
+    "LV1_LV2": "Aggiorna le strutture di stretching al Livello 2.\nL'umore migliorerà più velocemente. Diminuisce un po' la fatica.",
+    "LV2_LV3": "Aggiorna le strutture di stretching al Livello 3.\nL'umore migliorerà molto più velocemente. Cura la fatica.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
   },
   "8": {
-    "KIND": "Rest  ",
-    "MSG_LV1": "Take a rest to rid your body of accumulated fatigue.\nGreatly restores <Color:20>Stamina<Color:Default>.",
-    "MSG_LV2": "Take a rest to rid your body of accumulated fatigue.\nGreatly restores <Color:20>Stamina<Color:Default>.",
-    "MSG_LV3": "Take a rest to rid your body of accumulated fatigue.\nGreatly restores <Color:20>Stamina<Color:Default>.",
-    "LV1_LV2": "Upgrades rest facilities to Level 2.\nFatigue will decrease faster.",
-    "LV2_LV3": "Upgrades rest facilities to Level 3.\nFatigue will decrease much faster.",
-    "LV_MAX": "Cannot upgrade further.  "
+    "KIND": "Riposo ",
+    "MSG_LV1": "Riposati per liberare il corpo dalla fatica accumulata.\nRipristina notevolmente la <Color:20>Stamina<Color:Default>.",
+    "MSG_LV2": "Riposati per liberare il corpo dalla fatica accumulata.\nRipristina notevolmente la <Color:20>Stamina<Color:Default>.",
+    "MSG_LV3": "Riposati per liberare il corpo dalla fatica accumulata.\nRipristina notevolmente la <Color:20>Stamina<Color:Default>.",
+    "LV1_LV2": "Aggiorna le strutture di riposo al Livello 2.\nLa fatica diminuirà più velocemente.",
+    "LV2_LV3": "Aggiorna le strutture di riposo al Livello 3.\nLa fatica diminuirà molto più velocemente.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente."
   },
   "9": {
-    "KIND": "Blank",
-    "MSG_LV1": "Not set.",
-    "MSG_LV2": "Not set.",
-    "MSG_LV3": "Not set.",
-    "LV1_LV2": "Not set.",
-    "LV2_LV3": "Not set.",
-    "LV_MAX": "Not set."
+    "KIND": "Vuoto",
+    "MSG_LV1": "Non impostato.",
+    "MSG_LV2": "Non impostato.",
+    "MSG_LV3": "Non impostato.",
+    "LV1_LV2": "Non impostato.",
+    "LV2_LV3": "Non impostato.",
+    "LV_MAX": "Non impostato."
   },
   "types": {
     "KIND": "string",

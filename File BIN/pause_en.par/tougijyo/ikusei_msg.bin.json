@@ -1,69 +1,69 @@
 {
   "0": {
-    "MSG": "Set Training Menu."
+    "MSG": "Imposta il menu di allenamento."
   },
   "1": {
-    "MSG": "Read comments from Sodachi."
+    "MSG": "Leggi i commenti di Sodachi."
   },
   "2": {
-    "MSG": "Read comments from apprentices."
+    "MSG": "Leggi i commenti degli apprendisti."
   },
   "3": {
-    "MSG": "Equip apprentice with acquired Skills and Finishing Moves."
+    "MSG": "Equipaggia l'apprendista con le Abilità e le Mosse Finali acquisite."
   },
   "4": {
-    "MSG": "Check dojo status."
+    "MSG": "Controlla lo stato del dojo."
   },
   "5": {
-    "MSG": "Spend funds to enhance dojo facilities."
+    "MSG": "Spendi fondi per migliorare le strutture del dojo."
   },
   "6": {
-    "MSG": "Quit training."
+    "MSG": "Termina l'allenamento."
   },
   "7": {
-    "MSG": "Please set a schedule."
+    "MSG": "Si prega di impostare un programma."
   },
   "8": {
-    "MSG": "Begin training."
+    "MSG": "Inizia l'allenamento."
   },
   "9": {
-    "MSG": "You must finish setting the schedule."
+    "MSG": "Devi finire di impostare il programma."
   },
   "10": {
-    "MSG": "Equip apprentice with acquired Skills."
+    "MSG": "Equipaggia l'apprendista con le Abilità acquisite."
   },
   "11": {
-    "MSG": "Equip apprentice with acquired Finishing Moves."
+    "MSG": "Equipaggia l'apprendista con le Mosse Finali acquisite."
   },
   "12": {
-    "MSG": "You have not acquired this Skill yet."
+    "MSG": "Non hai ancora acquisito questa Abilità."
   },
   "13": {
-    "MSG": "You have not acquired this Finishing Move yet."
+    "MSG": "Non hai ancora acquisito questa Mossa Finale."
   },
   "14": {
-    "MSG": "You can only select Rest. Your apprentice is injured."
+    "MSG": "Puoi selezionare solo Riposo. Il tuo apprendista è ferito."
   },
   "15": {
-    "MSG": "You can only select Tournament as this is your final turn."
+    "MSG": "Puoi selezionare solo Torneo, questo è il tuo turno finale."
   },
   "16": {
-    "MSG": "You must enter a Tournament as this is your final turn."
+    "MSG": "Devi partecipare a un Torneo, questo è il tuo turno finale."
   },
   "17": {
-    "MSG": "You cannot return until you start training."
+    "MSG": "Non puoi tornare indietro finché non inizi l'allenamento."
   },
   "18": {
-    "MSG": "Special menu items cannot be changed."
+    "MSG": "Le voci del menu speciale non possono essere modificate."
   },
   "19": {
-    "MSG": "There are no Finishing Moves that you can teach."
+    "MSG": "Non ci sono Mosse Finali che puoi insegnare."
   },
   "20": {
-    "MSG": "You cannot upgrade this facility without renovating. "
+    "MSG": "Non puoi aggiornare questa struttura senza rinnovare."
   },
   "21": {
-    "MSG": "You cannot upgrade this facility yet."
+    "MSG": "Non puoi ancora aggiornare questa struttura."
   },
   "types": {
     "MSG": "string"

@@ -1,43 +1,43 @@
 {
   "0": {
-    "KIND": "Willpower",
-    "MSG": "The apprentice will get back up once more even if his Stamina reaches zero. "
+    "KIND": "Forza di Volontà",
+    "MSG": "L'apprendista si rialzerà un'altra volta anche se la sua Stamina raggiunge lo zero."
   },
   "1": {
-    "KIND": "Final Stretch ",
-    "MSG": "Attack rate will increase after the opponent is cornered. "
+    "KIND": "Allungo Finale",
+    "MSG": "La frequenza di attacco aumenterà dopo che l'avversario è stato messo all'angolo."
   },
   "2": {
-    "KIND": "First Attack ",
-    "MSG": "Attack rate will increase for 10 seconds after the fight starts. However, this Skill becomes ineffective once you get hit."
+    "KIND": "Primo Attacco",
+    "MSG": "La frequenza di attacco aumenterà per 10 secondi dopo l'inizio del combattimento. Tuttavia, questa Abilità diventa inefficace una volta che vieni colpito."
   },
   "3": {
-    "KIND": "Moody ",
-    "MSG": "The apprentice's Mood determines his attack rate. There is a 70�ｼ� chance the attack rate will increase."
+    "KIND": "Lunatico",
+    "MSG": "L'Umore dell'apprendista determina la sua frequenza di attacco. C'è una probabilità del 70% che la frequenza di attacco aumenti."
   },
   "4": {
-    "KIND": "Lucky Punch ",
-    "MSG": "Abilities will be enhanced if the opponent has more Stamina than the apprentice. Abilities will decrease if the opponent has less Stamina."
+    "KIND": "Pugno Fortunato",
+    "MSG": "Le abilità saranno migliorate se l'avversario ha più Stamina dell'apprendista. Le abilità diminuiranno se l'avversario ha meno Stamina."
   },
   "5": {
-    "KIND": "Pride ",
-    "MSG": "The apprentice's Mood will improve by one level. However, his post-fight fatigue will be greater than usual."
+    "KIND": "Orgoglio",
+    "MSG": "L'Umore dell'apprendista migliorerà di un livello. Tuttavia, la sua fatica post-combattimento sarà maggiore del solito."
   },
   "6": {
-    "KIND": "Persistence ",
-    "MSG": "Increases the prize purse. However, the apprentice will be more open to damage from the opponent, as he will be distracted by fan reaction."
+    "KIND": "Persistenza",
+    "MSG": "Aumenta il montepremi. Tuttavia, l'apprendista sarà più aperto ai danni dell'avversario, poiché sarà distratto dalla reazione dei fan."
   },
   "7": {
-    "KIND": "Regular Skill 07",
-    "MSG": "The apprentice's abilities increases greatly if you do not give orders during a fight. Giving orders will have the opposite effect."
+    "KIND": "Abilità Regolare 07",
+    "MSG": "Le abilità dell'apprendista aumentano notevolmente se non dai ordini durante un combattimento. Dare ordini avrà l'effetto opposto."
   },
   "8": {
-    "KIND": "Regular Skill 08",
-    "MSG": "The apprentice's abilities will increase when fighting in a match that he lost before. Losing the second time does not decrease his Mood."
+    "KIND": "Abilità Regolare 08",
+    "MSG": "Le abilità dell'apprendista aumenteranno quando combatterà in un incontro che ha perso prima. Perdere la seconda volta non diminuisce il suo Umore."
   },
   "9": {
-    "KIND": "Regular Skill 09",
-    "MSG": "Abilities will increase overall in accordance with the Trust level the apprentice has with Saejima."
+    "KIND": "Abilità Regolare 09",
+    "MSG": "Le abilità aumenteranno complessivamente in base al livello di Fiducia che l'apprendista ha con Saejima."
   },
   "types": {
     "KIND": "string",
