@@ -15,20 +15,32 @@ Analizzando i file, mi sono occorto che principalmente il gioco utilizza file  _
 ## Struttura dei file (Noti al momento)
 
 
-- Yakuza 4\data\auth\subtitle.par
+- __Yakuza 4\data\auth\subtitle.par__
     - All'interno sono presenti tutti i testi per le cutscene presenti nel gioco.
     - [x] Tradotto 
-- Yakuza 4\data\hact\subtitle.par
+- __Yakuza 4\data\hact\subtitle.par__
     - All'interno sono presenti tutti i testi non presenti nelle cutscene o nei classi box di dialogo o menu.
     - [x] Tradotto 
-- Yakuza 4\data\2d\cse_en.pa
+- __Yakuza 4\data\2d\cse_en.pa__
     - All'interno sono presenti la maggior parte delle grafiche del gioco, in particolare quelle per l'immagine di introduzione dei capitoli e degli obbiettivi.
-    - [ ] Parzialmente tradotto 
-- Yakuza 4\data\2d
-    - All'interno sono presenti la maggior parte delle grafiche del gioco.
-    - [ ] Parzialmente tradotto 
+    - [x] Tradotto
+- __Yakuza 4\data\2d\first_load_picture_en.par__
+    - All'interno sono presenti le immagine degli splash screen del primo avvio del gioco.
+    - [x] Tradotto
+- __Yakuza 4\data\2d\tex_common_en.par__
+    - All'interno sono presenti le immagine del menu del gioco.
+    - [x] Tradotto
+- __Yakuza 4\data\staffrollpar__
+    - All'interno sono presenti le immagine dei crediti finali del gioco.
+    - [x] Tradotto
+- __Yakuza 4\data\pause_en.par__
+    - All'interno sono presenti i testi del gioco relativi ai memo ed altro.
+    - [x] Tradotto
+- __Yakuza 4\data\ikusei_param_en.par__
+    - All'interno sono presenti i testi del gioco relativi al colosseo.
+    - [x] Tradotto
 
-# Funzionamento script
+# Funzionamento script sottotitoli
 
 Lo script utilizza le api di Gemini 2.0 per poter funzionare. Le API al momento sono utilizzabili gratuitamente (per ora). La chiave si può ottenere da [qui](https://aistudio.google.com/apikey).<br> i file csv presenti nella cartella "_input_". Output dell'operazione è salvato nella cartella "_tradotto_".
 Bisogna inserire la chiave all'interno del file "_traduttore_auto_csv/api_key.txt_" oppure lanciando lo script python tramite il flag "_--api [CHIAVE_API]_".
@@ -62,11 +74,17 @@ La lunghezza massima di caratteri visualizzabili in una cutscene è "__99__". Le
 """Ciao"""
 ```
 
+# Funzionamento estrazione PAR
+
+
+
+# Funzionamneto estrazione BIN 2007.03.19
+
 
 ## TO DO
 
 - [x] Codifica e decodifica dei file PAR
-- [ ] Codifica e decodifica dei file BIN (Controllando questa [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer), i file relativi a Yakuza 4 non sembrano compatibili, testando con altri giochi della serie si)
+- [x] Codifica e decodifica dei file BIN 2007.03.19
 
 # Altre patch della serie
 
@@ -87,9 +105,14 @@ Chi ha realizzato la patch per Yakuza 1 - 2 - 3, sta lavorando anche ad una patc
 Gli autori sono liberi di attingere da questa progetto, previo avviso.
 
 ## Dipendenza
+Si ringrazia
 
-Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.
+- Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.<br>
+- Per la codifica e la decodifica dei file BIN 2007.03.19 del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer) da SlowpokeVG.
 
+## Copyright
+This patch does not contain copyrighted material, has no functional autonomy, and you must have your original own copy to apply it.
+All game rights, intellectual property, logo/names and movies/images are property of Sega Corporation.
 
 # Altri progetti di traduzione miei
 [Valkyria Chronicles Patch ITA](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA)
