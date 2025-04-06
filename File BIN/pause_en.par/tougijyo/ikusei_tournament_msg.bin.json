@@ -1,0 +1,87 @@
+{
+  "0": {
+    "KIND": "Dragon's Gate  ",
+    "MSG": "Exhibition match for rookie fighters. Held frequently.\nPrize: 100,000 yen  Level: 笘�笘�笘�笘�笘�",
+    "PRIZE_MONEY": "100000"
+  },
+  "1": {
+    "KIND": "Brawlfest  ",
+    "MSG": "Exhibition match for tough guys that like to fight. Held frequently.\nPrize: 120,000 yen  Level: 笘�笘�笘�笘�笘�",
+    "PRIZE_MONEY": "120000"
+  },
+  "2": {
+    "KIND": "Regular Tryouts  ",
+    "MSG": "Match against fighters with the dream of going pro. Held frequently.\nPrize: 150,000 yen  Level: 笘�笘�笘�笘�笘�",
+    "PRIZE_MONEY": "150000"
+  },
+  "3": {
+    "KIND": "Shuffle Zone",
+    "MSG": "Match where opponent is unknown. Held frequently.\nPrize: 400,000 yen  Level: ?????",
+    "PRIZE_MONEY": "400000"
+  },
+  "4": {
+    "KIND": "Big Money",
+    "MSG": "Match with an enormous prize purse. Held rarely.\nPrize: 800,000 yen  Level: ?????",
+    "PRIZE_MONEY": "800000"
+  },
+  "5": {
+    "KIND": "Rising Stars",
+    "MSG": "Match for fighters worthy of becoming the next star. Held frequently.\nPrize: 200,000 yen  Level: 笘�笘�笘�笘�笘�",
+    "PRIZE_MONEY": "200000"
+  },
+  "6": {
+    "KIND": "Sink or Swim  ",
+    "MSG": "Match for those with little training. Held at select times.\nPrize: 300,000 yen  Level: 笘�笘�笘�笘�笘�縲縲~Eligibility: Up to the 6th Turn.",
+    "PRIZE_MONEY": "300000"
+  },
+  "7": {
+    "KIND": "Winner's Circle",
+    "MSG": "Match for warriors who have never lost. Held frequently.\nPrize: 400,000 yen  Level: 笘�笘�笘�笘�笘�縲縲~Eligibility: Must be undefeated.",
+    "PRIZE_MONEY": "400000"
+  },
+  "8": {
+    "KIND": "Veteran's Showdown",
+    "MSG": "Match for veterans with ample training. Held frequently.\nPrize: 350,000 yen  Level: 笘�笘�笘�笘�笘�縲縲~Eligibility: After the 20th Turn.",
+    "PRIZE_MONEY": "350000"
+  },
+  "9": {
+    "KIND": "Opening Fight",
+    "MSG": "Match held before the main Tournament at the Coliseum. Held frequently.\nPrize: 400,000 yen  Level: 笘�笘�笘�笘�笘�縲縲",
+    "PRIZE_MONEY": "400000"
+  },
+  "10": {
+    "KIND": "King of the Mountain",
+    "MSG": "Match for powerful challengers aiming for the top. Held frequently.\nPrize: 500,000 yen  Level: 笘�笘�笘�笘�笘�縲縲",
+    "PRIZE_MONEY": "500000"
+  },
+  "11": {
+    "KIND": "Power Masters",
+    "MSG": "Match for men of brute power and strength only. Held frequently.\nPrize: 700,000 yen  Level: 笘�笘�笘�笘�笘�縲縲~Eligibility: Must be at a certain Power level.",
+    "PRIZE_MONEY": "700000"
+  },
+  "12": {
+    "KIND": "Speed Masters",
+    "MSG": "Match for men of lightning speed only. Held frequently.\nPrize: 700,000 yen  Level: 笘�笘�笘�笘�笘�縲縲~Eligibility: Must be at a certain Speed level.",
+    "PRIZE_MONEY": "700000"
+  },
+  "13": {
+    "KIND": "Technique Masters",
+    "MSG": "Match for artisans of exquisite technique only. Held frequently.\nPrize: 700,000 yen  Level: 笘�笘�笘�笘�笘�縲縲 ~Eligibility: Must be at a certain Technique level.",
+    "PRIZE_MONEY": "700000"
+  },
+  "14": {
+    "KIND": "Rookie Stars",
+    "MSG": "Highest level exhibition match. Held frequently.\nPrize: 1,000,000 yen  Level: 笘�笘�笘�笘�笘�",
+    "PRIZE_MONEY": "1000000"
+  },
+  "15": {
+    "KIND": "Tournament",
+    "MSG": "Dummy",
+    "PRIZE_MONEY": "1500000"
+  },
+  "types": {
+    "KIND": "string",
+    "MSG": "string",
+    "PRIZE_MONEY": "string"
+  }
+}

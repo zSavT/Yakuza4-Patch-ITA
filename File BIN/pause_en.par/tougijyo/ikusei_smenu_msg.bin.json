@@ -1,0 +1,46 @@
+{
+  "0": {
+    "KIND": "Sparring",
+    "MSG": "Training fight with your apprentice. Consumes a lot of Stamina, but will boost overall abilities."
+  },
+  "1": {
+    "KIND": "Solo Training",
+    "MSG": "Entrust your apprentice to train on their own. Odds for a successful training session depend on personality and Trust."
+  },
+  "2": {
+    "KIND": "Finishing Moves",
+    "MSG": "Teach your apprentice a Finishing Move. Consumes a great amount of Stamina and slightly decreases Mood."
+  },
+  "3": {
+    "KIND": "Meeting",
+    "MSG": "Take your apprentice out for drinks for a change of mood. A fun conversation will increase Trust and Mood."
+  },
+  "4": {
+    "KIND": "Rest",
+    "MSG": "Allow your apprentice to fully rest.  "
+  },
+  "5": {
+    "KIND": "Fight Slot A  ",
+    "MSG": "Participate in a special match."
+  },
+  "6": {
+    "KIND": "Fight Slot B  ",
+    "MSG": "Participate in a special match."
+  },
+  "7": {
+    "KIND": "Fight Slot C  ",
+    "MSG": "Participate in a special match."
+  },
+  "8": {
+    "KIND": "Tournament  ",
+    "MSG": "Participate in a tournament. Final objective for your apprentice is to win a tournament within 50 Turns."
+  },
+  "9": {
+    "KIND": "BLANK",
+    "MSG": "Not set."
+  },
+  "types": {
+    "KIND": "string",
+    "MSG": "string"
+  }
+}

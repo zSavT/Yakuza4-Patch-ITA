@@ -1,0 +1,46 @@
+{
+  "0": {
+    "KIND": "Body Slam  ",
+    "MSG": "A simple yet powerful body slam.\nPower: Low"
+  },
+  "1": {
+    "KIND": "German Suplex  ",
+    "MSG": "Move quickly to the rear of the opponent to perform a suplex move.\nPower: Low"
+  },
+  "2": {
+    "KIND": "Bear Hug  ",
+    "MSG": "Uses brute strength to toss the opponent far away.\nPower: Medium"
+  },
+  "3": {
+    "KIND": "Essence of Opportune Strikes",
+    "MSG": "A powerful standing attack using knee and leg kick combos.\nPower: Medium"
+  },
+  "4": {
+    "KIND": "Essence of Fence Bashing",
+    "MSG": "Stomp an enemy with brute leg strength.\nPower: High"
+  },
+  "5": {
+    "KIND": "Essence of Fence Smashing",
+    "MSG": "Punch the face of a downed enemy without mercy.\nPower: High ~Can only be used when opponent is down."
+  },
+  "6": {
+    "KIND": "Guard Breaker  ",
+    "MSG": "Launch a downed enemy into the air for a clothesline.\nPower: Super ~Can only be used when opponent is down."
+  },
+  "7": {
+    "KIND": "Wall Bounce Combo  ",
+    "MSG": "A merciless attack that slams an enemy's face into a fence.\nPower: Medium ~Can only be used when grabbing an opponent."
+  },
+  "8": {
+    "KIND": "Special Skill 08",
+    "MSG": "Grab and power slam an enemy into the ground.\nPower: Super ~Can only be used while grabbing an opponent."
+  },
+  "9": {
+    "KIND": "Special Skill 09  ",
+    "MSG": "An extremely powerful move that knocks the enemy face down by leveraging your entire body strength.\nPower: High"
+  },
+  "types": {
+    "KIND": "string",
+    "MSG": "string"
+  }
+}

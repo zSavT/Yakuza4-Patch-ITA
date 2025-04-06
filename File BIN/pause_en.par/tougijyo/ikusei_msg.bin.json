@@ -1,0 +1,71 @@
+{
+  "0": {
+    "MSG": "Set Training Menu."
+  },
+  "1": {
+    "MSG": "Read comments from Sodachi."
+  },
+  "2": {
+    "MSG": "Read comments from apprentices."
+  },
+  "3": {
+    "MSG": "Equip apprentice with acquired Skills and Finishing Moves."
+  },
+  "4": {
+    "MSG": "Check dojo status."
+  },
+  "5": {
+    "MSG": "Spend funds to enhance dojo facilities."
+  },
+  "6": {
+    "MSG": "Quit training."
+  },
+  "7": {
+    "MSG": "Please set a schedule."
+  },
+  "8": {
+    "MSG": "Begin training."
+  },
+  "9": {
+    "MSG": "You must finish setting the schedule."
+  },
+  "10": {
+    "MSG": "Equip apprentice with acquired Skills."
+  },
+  "11": {
+    "MSG": "Equip apprentice with acquired Finishing Moves."
+  },
+  "12": {
+    "MSG": "You have not acquired this Skill yet."
+  },
+  "13": {
+    "MSG": "You have not acquired this Finishing Move yet."
+  },
+  "14": {
+    "MSG": "You can only select Rest. Your apprentice is injured."
+  },
+  "15": {
+    "MSG": "You can only select Tournament as this is your final turn."
+  },
+  "16": {
+    "MSG": "You must enter a Tournament as this is your final turn."
+  },
+  "17": {
+    "MSG": "You cannot return until you start training."
+  },
+  "18": {
+    "MSG": "Special menu items cannot be changed."
+  },
+  "19": {
+    "MSG": "There are no Finishing Moves that you can teach."
+  },
+  "20": {
+    "MSG": "You cannot upgrade this facility without renovating. "
+  },
+  "21": {
+    "MSG": "You cannot upgrade this facility yet."
+  },
+  "types": {
+    "MSG": "string"
+  }
+}

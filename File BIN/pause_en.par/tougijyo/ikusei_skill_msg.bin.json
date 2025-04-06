@@ -1,0 +1,46 @@
+{
+  "0": {
+    "KIND": "Willpower",
+    "MSG": "The apprentice will get back up once more even if his Stamina reaches zero. "
+  },
+  "1": {
+    "KIND": "Final Stretch ",
+    "MSG": "Attack rate will increase after the opponent is cornered. "
+  },
+  "2": {
+    "KIND": "First Attack ",
+    "MSG": "Attack rate will increase for 10 seconds after the fight starts. However, this Skill becomes ineffective once you get hit."
+  },
+  "3": {
+    "KIND": "Moody ",
+    "MSG": "The apprentice's Mood determines his attack rate. There is a 70�ｼ� chance the attack rate will increase."
+  },
+  "4": {
+    "KIND": "Lucky Punch ",
+    "MSG": "Abilities will be enhanced if the opponent has more Stamina than the apprentice. Abilities will decrease if the opponent has less Stamina."
+  },
+  "5": {
+    "KIND": "Pride ",
+    "MSG": "The apprentice's Mood will improve by one level. However, his post-fight fatigue will be greater than usual."
+  },
+  "6": {
+    "KIND": "Persistence ",
+    "MSG": "Increases the prize purse. However, the apprentice will be more open to damage from the opponent, as he will be distracted by fan reaction."
+  },
+  "7": {
+    "KIND": "Regular Skill 07",
+    "MSG": "The apprentice's abilities increases greatly if you do not give orders during a fight. Giving orders will have the opposite effect."
+  },
+  "8": {
+    "KIND": "Regular Skill 08",
+    "MSG": "The apprentice's abilities will increase when fighting in a match that he lost before. Losing the second time does not decrease his Mood."
+  },
+  "9": {
+    "KIND": "Regular Skill 09",
+    "MSG": "Abilities will increase overall in accordance with the Trust level the apprentice has with Saejima."
+  },
+  "types": {
+    "KIND": "string",
+    "MSG": "string"
+  }
+}

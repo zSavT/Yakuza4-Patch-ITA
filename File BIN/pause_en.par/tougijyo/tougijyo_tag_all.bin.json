@@ -1,0 +1,74 @@
+{
+  "0": {
+    "NAME": "The Villains",
+    "CATCHPHRASE": "The Two Entrepreneurs",
+    "RANK": "笘�笘�笘�笘�笘�",
+    "NEAR_ATTACK": "40",
+    "THROW_ATTACK": "25",
+    "DEFENCE": "10",
+    "DIFFICULTY": "1"
+  },
+  "1": {
+    "NAME": "Third Generation Nishikiyama Family",
+    "CATCHPHRASE": "The Burly Master and Pupil",
+    "RANK": "笘�笘�笘�",
+    "NEAR_ATTACK": "45",
+    "THROW_ATTACK": "30",
+    "DEFENCE": "30",
+    "DIFFICULTY": "1"
+  },
+  "2": {
+    "NAME": "Yokohama Warriors",
+    "CATCHPHRASE": "Bad Brothers of the 'Hama",
+    "RANK": "笘�笘�笘�笘�",
+    "NEAR_ATTACK": "55",
+    "THROW_ATTACK": "35",
+    "DEFENCE": "20",
+    "DIFFICULTY": "1"
+  },
+  "3": {
+    "NAME": "The Agents",
+    "CATCHPHRASE": "The Foreign Menace",
+    "RANK": "笘�笘�笘�笘�笘�",
+    "NEAR_ATTACK": "40",
+    "THROW_ATTACK": "20",
+    "DEFENCE": "20",
+    "DIFFICULTY": "1"
+  },
+  "4": {
+    "NAME": "Nakahara Industries",
+    "CATCHPHRASE": "The Ryukyu Assassins",
+    "RANK": "笘�笘�笘�",
+    "NEAR_ATTACK": "35",
+    "THROW_ATTACK": "30",
+    "DEFENCE": "25",
+    "DIFFICULTY": "1"
+  },
+  "5": {
+    "NAME": "The Stardust",
+    "CATCHPHRASE": "Two Studs for the Win",
+    "RANK": "笘�笘�",
+    "NEAR_ATTACK": "40",
+    "THROW_ATTACK": "35",
+    "DEFENCE": "30",
+    "DIFFICULTY": "1"
+  },
+  "6": {
+    "NAME": "Battle Masters",
+    "CATCHPHRASE": "Educational Board of Fighting",
+    "RANK": "笘�笘�笘�笘�笘�",
+    "NEAR_ATTACK": "40",
+    "THROW_ATTACK": "20",
+    "DEFENCE": "15",
+    "DIFFICULTY": "1"
+  },
+  "types": {
+    "NAME": "string",
+    "CATCHPHRASE": "string",
+    "RANK": "string",
+    "NEAR_ATTACK": "value",
+    "THROW_ATTACK": "value",
+    "DEFENCE": "value",
+    "DIFFICULTY": "value"
+  }
+}
