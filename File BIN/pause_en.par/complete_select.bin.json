@@ -9,7 +9,7 @@
   },
   "2": {
     "NAME": "Weapon Modding",
-    "EXPLANATION": "Crea tutte le armi e l'equipaggiamento per entrambi i negozi Kamiyama Works."
+    "EXPLANATION": "Crea tutte le armi e l'equipaggiamento per entrambi i negozi\nKamiyama Works."
   },
   "3": {
     "NAME": "Allies",
@@ -21,7 +21,7 @@
   },
   "5": {
     "NAME": "Minigames",
-    "EXPLANATION": "Completa ogni minigioco. Lo stato di completamento di ogni minigioco può\nessere visualizzato con <Action:Button_Cross@UI>."
+    "EXPLANATION": "Completa ogni minigioco. Lo stato di completamento di ogni\nminigioco può essere visualizzato con <Action:Button_Cross@UI>."
   },
   "6": {
     "NAME": "Hostesses",
@@ -33,7 +33,7 @@
   },
   "8": {
     "NAME": "No. 1 Hostess Maker",
-    "EXPLANATION": "Addestra tutte le hostess del Creatore di Hostess per diventare le numero uno."
+    "EXPLANATION": "Addestra tutte le hostess del Creatore di Hostess per diventare\nle numero uno."
   },
   "9": {
     "NAME": "Saigo's Training",

@@ -92,7 +92,7 @@
   },
   "13": {
     "CATEGORY": "Combattimento",
-    "CATEGORY_EXPLANATION": "Un'introduzione al combattimento. Per maggiori informazioni sulle tecniche di combattimento, consulta Abilità nel Menu di Pausa.",
+    "CATEGORY_EXPLANATION": "Un'introduzione al combattimento. Per maggiori informazioni sulle tecniche\ndi combattimento, consulta Abilità nel Menu di Pausa.",
     "TIPS_NAME": "Stile di Combattimento di Akiyama",
     "SCENARIO_STATUS": "80a3000d",
     "TIPS_EXPLANATION": "Akiyama è noto per i suoi calci fulminei e il suo elegante gioco di gambe. Quando questo è combinato con la sua velocità innata, il vero valore del suo stile di combattimento diventa evidente. La sua varietà di combo e attacchi acrobatici imprevedibili lasceranno i suoi avversari a bocca aperta."
@@ -351,7 +351,7 @@
   },
   "50": {
     "CATEGORY": "Combattimenti di Strada",
-    "CATEGORY_EXPLANATION": "Consigli sulle funzionalità utili relative ai combattimenti di strada (incontri casuali).",
+    "CATEGORY_EXPLANATION": "Consigli sulle funzionalità utili relative ai\ncombattimenti di strada (incontri casuali).",
     "TIPS_NAME": "Evitare i Combattimenti",
     "SCENARIO_STATUS": "80a30032",
     "TIPS_EXPLANATION": "Puoi camminare invece di correre tenendo premuto <Action:Button_L1@Adventure> mentre ti muovi. Le persone che sono inclini a provocare risse avranno meno probabilità di notarti se cammini. Questo è un modo per evitare i combattimenti di strada quando hai poca salute o hai fretta di arrivare da qualche parte. Passare dietro a persone che sembrano pronte a combattere è un altro modo per evitare di essere notato."
