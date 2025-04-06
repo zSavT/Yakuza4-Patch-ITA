@@ -1,0 +1,87 @@
+{
+  "0": {
+    "KIND": "Porta del Drago ",
+    "MSG": "Incontro di esibizione per combattenti principianti. Tenuto frequentemente.\nPremio: 100.000 yen Livello: 笘笘笘笘笘",
+    "PRIZE_MONEY": "100000"
+  },
+  "1": {
+    "KIND": "RissaFest ",
+    "MSG": "Incontro di esibizione per tipi tosti a cui piace combattere. Tenuto frequentemente.\nPremio: 120.000 yen Livello: 笘笘笘笘笘",
+    "PRIZE_MONEY": "120000"
+  },
+  "2": {
+    "KIND": "Provini Regolari ",
+    "MSG": "Incontro contro combattenti con il sogno di diventare professionisti. Tenuto frequentemente.\nPremio: 150.000 yen Livello: 笘笘笘笘笘",
+    "PRIZE_MONEY": "150000"
+  },
+  "3": {
+    "KIND": "Zona Casuale",
+    "MSG": "Incontro in cui l'avversario è sconosciuto. Tenuto frequentemente.\nPremio: 400.000 yen Livello: ?????",
+    "PRIZE_MONEY": "400000"
+  },
+  "4": {
+    "KIND": "Grandi Soldi",
+    "MSG": "Incontro con un enorme montepremi. Tenuto raramente.\nPremio: 800.000 yen Livello: ?????",
+    "PRIZE_MONEY": "800000"
+  },
+  "5": {
+    "KIND": "Stelle Nascenti",
+    "MSG": "Incontro per combattenti degni di diventare la prossima stella. Tenuto frequentemente.\nPremio: 200.000 yen Livello: 笘笘笘笘笘",
+    "PRIZE_MONEY": "200000"
+  },
+  "6": {
+    "KIND": "O Nuoti o Affoghi ",
+    "MSG": "Incontro per chi ha poco allenamento. Tenuto in momenti selezionati.\nPremio: 300.000 yen Livello: 笘笘笘笘笘縲€縲€~Idoneità: Fino al 6° Turno.",
+    "PRIZE_MONEY": "300000"
+  },
+  "7": {
+    "KIND": "Cerchio del Vincitore",
+    "MSG": "Incontro per guerrieri che non hanno mai perso. Tenuto frequentemente.\nPremio: 400.000 yen Livello: 笘笘笘笘笘縲€縲€~Idoneità: Devi essere imbattuto.",
+    "PRIZE_MONEY": "400000"
+  },
+  "8": {
+    "KIND": "Scontro tra Veterani",
+    "MSG": "Incontro per veterani con ampio allenamento. Tenuto frequentemente.\nPremio: 350.000 yen Livello: 笘笘笘笘笘縲€縲€~Idoneità: Dopo il 20° Turno.",
+    "PRIZE_MONEY": "350000"
+  },
+  "9": {
+    "KIND": "Incontro di Apertura",
+    "MSG": "Incontro tenuto prima del Torneo principale al Colosseo. Tenuto frequentemente.\nPremio: 400.000 yen Livello: 笘笘笘笘笘縲€縲€",
+    "PRIZE_MONEY": "400000"
+  },
+  "10": {
+    "KIND": "Re della Montagna",
+    "MSG": "Incontro per potenti sfidanti che mirano alla vetta. Tenuto frequentemente.\nPremio: 500.000 yen Livello: 笘笘笘笘笘縲€縲€",
+    "PRIZE_MONEY": "500000"
+  },
+  "11": {
+    "KIND": "Maestri della Potenza",
+    "MSG": "Incontro solo per uomini di forza e potenza bruta. Tenuto frequentemente.\nPremio: 700.000 yen Livello: 笘笘笘笘笘縲€縲€~Idoneità: Devi essere a un certo livello di Potenza.",
+    "PRIZE_MONEY": "700000"
+  },
+  "12": {
+    "KIND": "Maestri della Velocità",
+    "MSG": "Incontro solo per uomini di velocità fulminea. Tenuto frequentemente.\nPremio: 700.000 yen Livello: 笘笘笘笘笘縲€縲€~Idoneità: Devi essere a un certo livello di Velocità.",
+    "PRIZE_MONEY": "700000"
+  },
+  "13": {
+    "KIND": "Maestri della Tecnica",
+    "MSG": "Incontro solo per artigiani di tecnica squisita. Tenuto frequentemente.\nPremio: 700.000 yen Livello: 笘笘笘笘笘縲€縲€ ~Idoneità: Devi essere a un certo livello di Tecnica.",
+    "PRIZE_MONEY": "700000"
+  },
+  "14": {
+    "KIND": "Stelle Principianti",
+    "MSG": "Incontro di esibizione di livello più alto. Tenuto frequentemente.\nPremio: 1.000.000 yen Livello: 笘笘笘笘笘",
+    "PRIZE_MONEY": "1000000"
+  },
+  "15": {
+    "KIND": "Torneo",
+    "MSG": "Dummy",
+    "PRIZE_MONEY": "1500000"
+  },
+  "types": {
+    "KIND": "string",
+    "MSG": "string",
+    "PRIZE_MONEY": "string"
+  }
+}

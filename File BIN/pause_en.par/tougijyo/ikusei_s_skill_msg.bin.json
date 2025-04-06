@@ -1,0 +1,46 @@
+{
+  "0": {
+    "KIND": "Body Slam ",
+    "MSG": "Un body slam semplice ma potente.\nPotenza: Bassa"
+  },
+  "1": {
+    "KIND": "German Suplex ",
+    "MSG": "Muoviti rapidamente dietro l'avversario per eseguire una mossa suplex.\nPotenza: Bassa"
+  },
+  "2": {
+    "KIND": "Bear Hug ",
+    "MSG": "Usa la forza bruta per lanciare l'avversario lontano.\nPotenza: Media"
+  },
+  "3": {
+    "KIND": "Essenza dei Colpi Opportuni",
+    "MSG": "Un potente attacco in piedi che utilizza combo di ginocchiate e calci alle gambe.\nPotenza: Media"
+  },
+  "4": {
+    "KIND": "Essenza dello Sbattere la Recinzione",
+    "MSG": "Calpesta un nemico con la forza bruta delle gambe.\nPotenza: Alta"
+  },
+  "5": {
+    "KIND": "Essenza dello Spaccare la Recinzione",
+    "MSG": "Prendi a pugni la faccia di un nemico a terra senza pietà.\nPotenza: Alta ~Può essere usato solo quando l'avversario è a terra."
+  },
+  "6": {
+    "KIND": "Guard Breaker ",
+    "MSG": "Lancia un nemico a terra in aria per un clothesline.\nPotenza: Super ~Può essere usato solo quando l'avversario è a terra."
+  },
+  "7": {
+    "KIND": "Combo Rimbalzo Muro ",
+    "MSG": "Un attacco spietato che sbatte la faccia di un nemico contro una recinzione.\nPotenza: Media ~Può essere usato solo afferrando un avversario."
+  },
+  "8": {
+    "KIND": "Abilità Speciale 08",
+    "MSG": "Afferra e sbatte con forza un nemico a terra.\nPotenza: Super ~Può essere usato solo afferrando un avversario."
+  },
+  "9": {
+    "KIND": "Abilità Speciale 09 ",
+    "MSG": "Una mossa estremamente potente che abbatte il nemico a faccia in giù sfruttando tutta la forza del tuo corpo.\nPotenza: Alta"
+  },
+  "types": {
+    "KIND": "string",
+    "MSG": "string"
+  }
+}

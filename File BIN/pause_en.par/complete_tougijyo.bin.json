@@ -1,0 +1,158 @@
+{
+  "0": {
+    "CATEGORY": "Saejima",
+    "NAME": "Title Match",
+    "SCENARIO_STATUS": "80a6002c",
+    "EXPLANATION": "Hai vinto il Title Match con Saejima."
+  },
+  "1": {
+    "CATEGORY": "",
+    "NAME": "Maximum Grand Prix",
+    "SCENARIO_STATUS": "80a6002d",
+    "EXPLANATION": "Hai vinto il Maximum Grand Prix con Saejima."
+  },
+  "2": {
+    "CATEGORY": "",
+    "NAME": "Magnum Force Grand Prix",
+    "SCENARIO_STATUS": "80a6002e",
+    "EXPLANATION": "Hai vinto il Magnum Force Grand Prix con Saejima."
+  },
+  "3": {
+    "CATEGORY": "",
+    "NAME": "Hyper Grand Prix",
+    "SCENARIO_STATUS": "80a6002f",
+    "EXPLANATION": "Hai vinto l'Hyper Grand Prix con Saejima."
+  },
+  "4": {
+    "CATEGORY": "",
+    "NAME": "Twin Dragon Grand Prix",
+    "SCENARIO_STATUS": "80a60030",
+    "EXPLANATION": "Hai vinto il Twin Dragon Grand Prix con Saejima."
+  },
+  "5": {
+    "CATEGORY": "",
+    "NAME": "Tag Match Grand Prix",
+    "SCENARIO_STATUS": "80a60031",
+    "EXPLANATION": "Hai vinto il Tag Match Grand Prix con Saejima."
+  },
+  "6": {
+    "CATEGORY": "",
+    "NAME": "Weapon Master Grand Prix",
+    "SCENARIO_STATUS": "80a60032",
+    "EXPLANATION": "Hai vinto il Weapon Master Grand Prix con Saejima."
+  },
+  "7": {
+    "CATEGORY": "",
+    "NAME": "Bomber Grand Prix",
+    "SCENARIO_STATUS": "80a60033",
+    "EXPLANATION": "Hai vinto il Bomber Grand Prix con Saejima."
+  },
+  "8": {
+    "CATEGORY": "",
+    "NAME": "Bounding Grand Prix",
+    "SCENARIO_STATUS": "80a60034",
+    "EXPLANATION": "Hai vinto il Bounding Grand Prix con Saejima."
+  },
+  "9": {
+    "CATEGORY": "",
+    "NAME": "Heat Grand Prix",
+    "SCENARIO_STATUS": "80a60035",
+    "EXPLANATION": "Hai vinto l'Heat Grand Prix con Saejima."
+  },
+  "10": {
+    "CATEGORY": "",
+    "NAME": "Breakout Grand Prix",
+    "SCENARIO_STATUS": "80a60036",
+    "EXPLANATION": "Hai vinto il Breakout Grand Prix con Saejima."
+  },
+  "11": {
+    "CATEGORY": "",
+    "NAME": "Street Fight Grand Prix",
+    "SCENARIO_STATUS": "80a60037",
+    "EXPLANATION": "Hai vinto lo Street Fight Grand Prix con Saejima."
+  },
+  "12": {
+    "CATEGORY": "",
+    "NAME": "Exhibition Tournament",
+    "SCENARIO_STATUS": "80a60038",
+    "EXPLANATION": "Hai vinto l'Exhibition Tournament con Saejima."
+  },
+  "13": {
+    "CATEGORY": "Kiryu",
+    "NAME": "Maximum Grand Prix",
+    "SCENARIO_STATUS": "80a6000b",
+    "EXPLANATION": "Hai vinto il Maximum Grand Prix con Kiryu."
+  },
+  "14": {
+    "CATEGORY": "",
+    "NAME": "Magnum Force Grand Prix",
+    "SCENARIO_STATUS": "80a6000c",
+    "EXPLANATION": "Hai vinto il Magnum Force Grand Prix con Kiryu."
+  },
+  "15": {
+    "CATEGORY": "",
+    "NAME": "Hyper Grand Prix",
+    "SCENARIO_STATUS": "80a6000d",
+    "EXPLANATION": "Hai vinto l'Hyper Grand Prix con Kiryu."
+  },
+  "16": {
+    "CATEGORY": "",
+    "NAME": "Twin Dragon Grand Prix",
+    "SCENARIO_STATUS": "80a6000e",
+    "EXPLANATION": "Hai vinto il Twin Dragon Grand Prix con Kiryu."
+  },
+  "17": {
+    "CATEGORY": "",
+    "NAME": "Tag Match Grand Prix",
+    "SCENARIO_STATUS": "80a6000f",
+    "EXPLANATION": "Hai vinto il Tag Match Grand Prix con Kiryu."
+  },
+  "18": {
+    "CATEGORY": "",
+    "NAME": "Weapon Master Grand Prix",
+    "SCENARIO_STATUS": "80a60010",
+    "EXPLANATION": "Hai vinto il Weapon Master Grand Prix con Kiryu."
+  },
+  "19": {
+    "CATEGORY": "",
+    "NAME": "Bomber Grand Prix",
+    "SCENARIO_STATUS": "80a60011",
+    "EXPLANATION": "Hai vinto il Bomber Grand Prix con Kiryu."
+  },
+  "20": {
+    "CATEGORY": "",
+    "NAME": "Bounding Grand Prix",
+    "SCENARIO_STATUS": "80a60012",
+    "EXPLANATION": "Hai vinto il Bounding Grand Prix con Kiryu."
+  },
+  "21": {
+    "CATEGORY": "",
+    "NAME": "Heat Grand Prix",
+    "SCENARIO_STATUS": "80a60013",
+    "EXPLANATION": "Hai vinto l'Heat Grand Prix con Kiryu."
+  },
+  "22": {
+    "CATEGORY": "",
+    "NAME": "Breakout Grand Prix",
+    "SCENARIO_STATUS": "80a60014",
+    "EXPLANATION": "Hai vinto il Breakout Grand Prix con Kiryu."
+  },
+  "23": {
+    "CATEGORY": "",
+    "NAME": "Street Fight Grand Prix",
+    "SCENARIO_STATUS": "80a60015",
+    "EXPLANATION": "Hai vinto lo Street Fight Grand Prix con Kiryu."
+  },
+  "24": {
+    "CATEGORY": "",
+    "NAME": "Exhibition Tournament",
+    "SCENARIO_STATUS": "80a60016",
+    "EXPLANATION": "Hai vinto l'Exhibition Tournament con Kiryu."
+  },
+  "types": {
+    "CATEGORY": "string_idx",
+    "NAME": "string",
+    "SCENARIO_STATUS": "special_scenariostatus",
+    "EXPLANATION": "string"
+  }
+}

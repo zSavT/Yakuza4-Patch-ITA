@@ -1,0 +1,101 @@
+{
+  "0": {
+    "KIND": "Allenamento Pugni",
+    "MSG_LV1": "Allenamento per acquisire pugni più veloci e potenti.\nAllenamento ben bilanciato incentrato sulla <Color:7>Potenza<Color:Default>.",
+    "MSG_LV2": "Allenamento per acquisire pugni più veloci e potenti.\nAllenamento ben bilanciato incentrato sulla <Color:7>Potenza<Color:Default>.",
+    "MSG_LV3": "Allenamento per acquisire pugni più veloci e potenti.\nAllenamento ben bilanciato incentrato sulla <Color:7>Potenza<Color:Default>.",
+    "LV1_LV2": "Aggiorna le strutture di allenamento dei pugni al Livello 2.\nMigliora l'efficienza dell'allenamento.",
+    "LV2_LV3": "Aggiorna le strutture di allenamento dei pugni al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
+  },
+  "1": {
+    "KIND": "Allenamento Calci ",
+    "MSG_LV1": "Allenamento per acquisire calci più potenti e precisi.\nAllenamento ben bilanciato incentrato sulla <Color:7>Velocità<Color:Default>.",
+    "MSG_LV2": "Allenamento per acquisire calci più potenti e precisi.\nAllenamento ben bilanciato incentrato sulla <Color:7>Velocità<Color:Default>.",
+    "MSG_LV3": "Allenamento per acquisire calci più potenti e precisi.\nAllenamento ben bilanciato incentrato sulla <Color:7>Velocità<Color:Default>.",
+    "LV1_LV2": "Aggiorna le strutture di allenamento dei calci al Livello 2.\nMigliora l'efficienza dell'allenamento.",
+    "LV2_LV3": "Aggiorna le strutture di allenamento dei calci al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
+  },
+  "2": {
+    "KIND": "Lavoro a Terra ",
+    "MSG_LV1": "Allenamento per affinare le abilità offensive e difensive a terra.\nAllenamento ben bilanciato incentrato sulla <Color:7>Tecnica<Color:Default>.",
+    "MSG_LV2": "Allenamento per affinare le abilità offensive e difensive a terra.\nAllenamento ben bilanciato incentrato sulla <Color:7>Tecnica<Color:Default>.",
+    "MSG_LV3": "Allenamento per affinare le abilità offensive e difensive a terra.\nAllenamento ben bilanciato incentrato sulla <Color:7>Tecnica<Color:Default>.",
+    "LV1_LV2": "Aggiorna le strutture di allenamento del lavoro a terra al Livello 2.\nMigliora l'efficienza dell'allenamento. ",
+    "LV2_LV3": "Aggiorna le strutture di allenamento del lavoro a terra al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
+  },
+  "3": {
+    "KIND": "Allenamento Forza ",
+    "MSG_LV1": "Aumenta la massa e crea un corpo potente e atletico.\nSi concentra solo sulla <Color:20>Potenza<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "MSG_LV2": "Aumenta la massa e crea un corpo potente e atletico.\nSi concentra solo sulla <Color:20>Potenza<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "MSG_LV3": "Aumenta la massa e crea un corpo potente e atletico.\nSi concentra solo sulla <Color:20>Potenza<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "LV1_LV2": "Aggiorna le strutture di allenamento della forza al Livello 2.\nMigliora l'efficienza dell'allenamento.",
+    "LV2_LV3": "Aggiorna le strutture di allenamento della forza al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
+  },
+  "4": {
+    "KIND": "Lavoro su Strada ",
+    "MSG_LV1": "Corri per acquisire la salute di base necessaria per sostenere l'allenamento.\nAumenta la <Color:20>Stamina Massima<Color:Default>.",
+    "MSG_LV2": "Corri per acquisire la salute di base necessaria per sostenere l'allenamento.\nAumenta la <Color:20>Stamina Massima<Color:Default>.",
+    "MSG_LV3": "Corri per acquisire la salute di base necessaria per sostenere l'allenamento.\nAumenta la <Color:20>Stamina Massima<Color:Default>.",
+    "LV1_LV2": "Aggiorna le strutture di allenamento del lavoro su strada al Livello 2.\nMigliora l'efficienza dell'allenamento.",
+    "LV2_LV3": "Aggiorna le strutture di allenamento del lavoro su strada al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
+  },
+  "5": {
+    "KIND": "Sprint",
+    "MSG_LV1": "Sprint ripetuti a breve distanza per allenare le gambe.\nSi concentra solo sulla <Color:20>Velocità<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "MSG_LV2": "Sprint ripetuti a breve distanza per allenare le gambe.\nSi concentra solo sulla <Color:20>Velocità<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "MSG_LV3": "Sprint ripetuti a breve distanza per allenare le gambe.\nSi concentra solo sulla <Color:20>Velocità<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "LV1_LV2": "Aggiorna le strutture di allenamento dello sprint al Livello 2.\nMigliora l'efficienza dell'allenamento.",
+    "LV2_LV3": "Aggiorna le strutture di allenamento dello sprint al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
+  },
+  "6": {
+    "KIND": "Lezione ",
+    "MSG_LV1": "Impara la teoria e le tecniche di combattimento per vincere. Si concentra\nsolo sulla <Color:20>Tecnica<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "MSG_LV2": "Impara la teoria e le tecniche di combattimento per vincere. Si concentra\nsolo sulla <Color:20>Tecnica<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "MSG_LV3": "Impara la teoria e le tecniche di combattimento per vincere. Si concentra\nsolo sulla <Color:20>Tecnica<Color:Default>, quindi <Color:22>altre abilità<Color:Default> potrebbero diminuire.",
+    "LV1_LV2": "Aggiorna le strutture di studio della teoria del combattimento al Livello 2.\nMigliora l'efficienza dell'allenamento.",
+    "LV2_LV3": "Aggiorna le strutture di studio della teoria del combattimento al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
+  },
+  "7": {
+    "KIND": "Stretching ",
+    "MSG_LV1": "Sintonizza il tuo <Color:20>Umore<Color:Default> dopo ripetuti allenamenti duri.\nRipristina anche un po' di <Color:7>Stamina<Color:Default>.",
+    "MSG_LV2": "Sintonizza il tuo <Color:20>Umore<Color:Default> dopo ripetuti allenamenti duri.\nRipristina anche un po' di <Color:7>Stamina<Color:Default>.",
+    "MSG_LV3": "Sintonizza il tuo <Color:20>Umore<Color:Default> dopo ripetuti allenamenti duri.\nRipristina anche un po' di <Color:7>Stamina<Color:Default>.",
+    "LV1_LV2": "Aggiorna le strutture di stretching al Livello 2.\nL'umore migliorerà più velocemente. Diminuisce un po' la fatica.",
+    "LV2_LV3": "Aggiorna le strutture di stretching al Livello 3.\nL'umore migliorerà molto più velocemente. Cura la fatica.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente. "
+  },
+  "8": {
+    "KIND": "Riposo ",
+    "MSG_LV1": "Riposati per liberare il corpo dalla fatica accumulata.\nRipristina notevolmente la <Color:20>Stamina<Color:Default>.",
+    "MSG_LV2": "Riposati per liberare il corpo dalla fatica accumulata.\nRipristina notevolmente la <Color:20>Stamina<Color:Default>.",
+    "MSG_LV3": "Riposati per liberare il corpo dalla fatica accumulata.\nRipristina notevolmente la <Color:20>Stamina<Color:Default>.",
+    "LV1_LV2": "Aggiorna le strutture di riposo al Livello 2.\nLa fatica diminuirà più velocemente.",
+    "LV2_LV3": "Aggiorna le strutture di riposo al Livello 3.\nLa fatica diminuirà molto più velocemente.",
+    "LV_MAX": "Impossibile aggiornare ulteriormente."
+  },
+  "9": {
+    "KIND": "Vuoto",
+    "MSG_LV1": "Non impostato.",
+    "MSG_LV2": "Non impostato.",
+    "MSG_LV3": "Non impostato.",
+    "LV1_LV2": "Non impostato.",
+    "LV2_LV3": "Non impostato.",
+    "LV_MAX": "Non impostato."
+  },
+  "types": {
+    "KIND": "string",
+    "MSG_LV1": "string",
+    "MSG_LV2": "string",
+    "MSG_LV3": "string",
+    "LV1_LV2": "string",
+    "LV2_LV3": "string",
+    "LV_MAX": "string"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "0": {
+    "COMENNT": "Ehi, vecchio! Lasciami partecipare presto a un torneo o mi arrabbierò sul serio!",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": "40"
+  },
+  "1": {
+    "COMENNT": "Fantastico, mi sono ferito! Fa un male cane ed è tutta colpa tua! Pagherai i conti!",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "★20",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "2": {
+    "COMENNT": "Hehehe. Allenarmi con te è divertente. Vincerò sicuramente il torneo. Aspetta e vedrai.",
+    "MAX_HP": "800",
+    "POWER": "80",
+    "SPEED": "45",
+    "TECHNIQUE": "60",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "3": {
+    "COMENNT": "Sono così bravo che non ho nemmeno bisogno di allenarmi più. Sbrigati e fammi partecipare a un torneo!",
+    "MAX_HP": "600",
+    "POWER": "30",
+    "SPEED": "25",
+    "TECHNIQUE": "30",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "4": {
+    "COMENNT": "Non ho cazzo di commenti. Sbrigati e fammi diventare un campione!",
+    "MAX_HP": "",
+    "POWER": "",
+    "SPEED": "",
+    "TECHNIQUE": "",
+    "SHAPE": "",
+    "BELIVE": "",
+    "HACT_NUM": "",
+    "SKILL_NUM": "",
+    "TURN_NUM": ""
+  },
+  "types": {
+    "COMENNT": "string",
+    "MAX_HP": "string",
+    "POWER": "string",
+    "SPEED": "string",
+    "TECHNIQUE": "string",
+    "SHAPE": "string",
+    "BELIVE": "string",
+    "HACT_NUM": "string",
+    "SKILL_NUM": "string",
+    "TURN_NUM": "string"
+  }
+}
