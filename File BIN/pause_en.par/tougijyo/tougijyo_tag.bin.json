@@ -1,7 +1,7 @@
 {
   "0": {
     "NAME": "The Sanctuary",
-    "CATCHPHRASE": "The Hall of Famers",
+    "CATCHPHRASE": "I Membri della Hall of Fame",
     "RANK": "笘�笘�笘�笘�笘�",
     "ATTACK": "55",
     "THROW": "20",
@@ -15,7 +15,7 @@
   },
   "1": {
     "NAME": "Elite Alliance",
-    "CATCHPHRASE": "The Chosen Ones",
+    "CATCHPHRASE": "I Prescelti",
     "RANK": "笘�笘�笘�笘�笘�",
     "ATTACK": "65",
     "THROW": "10",
@@ -29,7 +29,7 @@
   },
   "2": {
     "NAME": "Traitor Rikishi",
-    "CATCHPHRASE": "The Sumo Wrestlers from Hell",
+    "CATCHPHRASE": "I Lottatori di Sumo dall'Inferno",
     "RANK": "笘�笘�笘�笘�笘�",
     "ATTACK": "55",
     "THROW": "10",
@@ -43,7 +43,7 @@
   },
   "3": {
     "NAME": "Hell's Impulse",
-    "CATCHPHRASE": "The Demons That Shake Heaven and Earth",
+    "CATCHPHRASE": "I Demoni Che Scuotono il Cielo e la Terra",
     "RANK": "笘�笘�笘�笘�笘�",
     "ATTACK": "50",
     "THROW": "45",
@@ -57,7 +57,7 @@
   },
   "4": {
     "NAME": "The Mad Killers",
-    "CATCHPHRASE": "Scares Kids Quiet",
+    "CATCHPHRASE": "Spaventa i Bambini e Li Fa Stare Zitti",
     "RANK": "笘�笘�笘�笘�",
     "ATTACK": "55",
     "THROW": "10",
@@ -71,7 +71,7 @@
   },
   "5": {
     "NAME": "Love & Death",
-    "CATCHPHRASE": "Flowers from the Battlefield",
+    "CATCHPHRASE": "Fiori dal Campo di Battaglia",
     "RANK": "笘�笘�笘�笘�",
     "ATTACK": "65",
     "THROW": "50",
@@ -85,7 +85,7 @@
   },
   "6": {
     "NAME": "Dark Heroes",
-    "CATCHPHRASE": "Heroes Dyed in Black",
+    "CATCHPHRASE": "Eroi Tinti di Nero",
     "RANK": "笘�笘�笘�笘�",
     "ATTACK": "45",
     "THROW": "10",
@@ -113,7 +113,7 @@
   },
   "8": {
     "NAME": "The Entertainers",
-    "CATCHPHRASE": "The Charming Killers",
+    "CATCHPHRASE": "Gli Assassini Affascinanti",
     "RANK": "笘�笘�笘�笘�",
     "ATTACK": "30",
     "THROW": "20",
@@ -127,7 +127,7 @@
   },
   "9": {
     "NAME": "P Celebrities",
-    "CATCHPHRASE": "The Ruthless Money Mongers",
+    "CATCHPHRASE": "Gli Avidi Mercanti Senza Pietà",
     "RANK": "笘�笘�笘�笘�",
     "ATTACK": "55",
     "THROW": "60",
@@ -141,7 +141,7 @@
   },
   "10": {
     "NAME": "Izaka Brothers",
-    "CATCHPHRASE": "Gold and Silver Bound by Blood",
+    "CATCHPHRASE": "Oro e Argento Legati dal Sangue",
     "RANK": "笘�笘�笘�",
     "ATTACK": "55",
     "THROW": "30",
@@ -155,7 +155,7 @@
   },
   "11": {
     "NAME": "Masked Justice",
-    "CATCHPHRASE": "The Iron Fists of Justice",
+    "CATCHPHRASE": "I Pugni di Ferro della Giustizia",
     "RANK": "笘�笘�笘�",
     "ATTACK": "70",
     "THROW": "40",
@@ -169,7 +169,7 @@
   },
   "12": {
     "NAME": "True Dual Fist Fighters",
-    "CATCHPHRASE": "God's Karate Chop and Devil's Kick",
+    "CATCHPHRASE": "Il Karate Chop di Dio e il Calcio del Diavolo",
     "RANK": "笘�笘�笘�",
     "ATTACK": "50",
     "THROW": "40",
@@ -183,7 +183,7 @@
   },
   "13": {
     "NAME": "The Super Express Duo",
-    "CATCHPHRASE": "One-Way Ticket to Death",
+    "CATCHPHRASE": "Biglietto di Sola Andata per la Morte",
     "RANK": "笘�笘�笘�",
     "ATTACK": "60",
     "THROW": "10",
@@ -197,7 +197,7 @@
   },
   "14": {
     "NAME": "Troublemakers",
-    "CATCHPHRASE": "Bad Meets Worse",
+    "CATCHPHRASE": "Il Male Incontra il Peggio",
     "RANK": "笘�笘�笘�",
     "ATTACK": "60",
     "THROW": "30",
@@ -211,7 +211,7 @@
   },
   "15": {
     "NAME": "Indoor Defenders",
-    "CATCHPHRASE": "The Home Security Force",
+    "CATCHPHRASE": "La Forza di Sicurezza Domestica",
     "RANK": "笘�笘�笘�",
     "ATTACK": "55",
     "THROW": "10",
@@ -225,7 +225,7 @@
   },
   "16": {
     "NAME": "Kamurocho Hooligans",
-    "CATCHPHRASE": "The Fists of Fire and Ice",
+    "CATCHPHRASE": "I Pugni di Fuoco e Ghiaccio",
     "RANK": "笘�笘�",
     "ATTACK": "30",
     "THROW": "20",
@@ -239,7 +239,7 @@
   },
   "17": {
     "NAME": "Yi-san and Er-san",
-    "CATCHPHRASE": "The Chinese Octomillennium",
+    "CATCHPHRASE": "L'Ottomillennio Cinese",
     "RANK": "笘�笘�",
     "ATTACK": "40",
     "THROW": "35",
@@ -253,7 +253,7 @@
   },
   "18": {
     "NAME": "Torpedo Massacre Brothers",
-    "CATCHPHRASE": "The Men Who Never Miss a Punch",
+    "CATCHPHRASE": "Gli Uomini Che Non Sbagliano Mai un Pugno",
     "RANK": "笘�笘�",
     "ATTACK": "40",
     "THROW": "20",
@@ -267,7 +267,7 @@
   },
   "19": {
     "NAME": "Divine Wrath Alliance",
-    "CATCHPHRASE": "The Deliverymen of Divine Punishment",
+    "CATCHPHRASE": "I Messaggeri della Punizione Divina",
     "RANK": "笘�笘�",
     "ATTACK": "20",
     "THROW": "10",

@@ -1,7 +1,7 @@
 {
   "0": {
     "NAME": "Yoshitaka Mine",
-    "CATCHPHRASE": "The Lone Entrepreneur",
+    "CATCHPHRASE": "L'Imprenditore Solitario",
     "NEAR_ATTACK": "50",
     "THROW_ATTACK": "30",
     "DEFENCE": "15",
@@ -23,11 +23,11 @@
     "ARMS2": "",
     "ARMS1_GLOWUP": "",
     "ARMS2_GLOWUP": "",
-    "EXPLANATION": "none"
+    "EXPLANATION": "nessuno"
   },
   "1": {
     "NAME": "Tsuyoshi Kanda",
-    "CATCHPHRASE": "The Raging Bull of Tojo",
+    "CATCHPHRASE": "Il Toro Scatenato di Tojo",
     "NEAR_ATTACK": "65",
     "THROW_ATTACK": "40",
     "DEFENCE": "25",
@@ -35,7 +35,7 @@
     "NATION": "JPN",
     "HEIGHT": "180 cm",
     "WEIGHT": "125 kg",
-    "STYLE": "Street Fighting",
+    "STYLE": "Combattimento di Strada",
     "AGE": "49",
     "BLOOD": "B",
     "START_MOTION": "e_btlst_angry_06",
@@ -49,11 +49,11 @@
     "ARMS2": "",
     "ARMS1_GLOWUP": "",
     "ARMS2_GLOWUP": "",
-    "EXPLANATION": "none"
+    "EXPLANATION": "nessuno"
   },
   "2": {
     "NAME": "Joji Kazama",
-    "CATCHPHRASE": "The Righteous Runaway",
+    "CATCHPHRASE": "Il Fuggitivo Giusto",
     "NEAR_ATTACK": "45",
     "THROW_ATTACK": "30",
     "DEFENCE": "10",
@@ -75,11 +75,11 @@
     "ARMS2": "",
     "ARMS1_GLOWUP": "",
     "ARMS2_GLOWUP": "",
-    "EXPLANATION": "none"
+    "EXPLANATION": "nessuno"
   },
   "3": {
     "NAME": "Lau Ka Long",
-    "CATCHPHRASE": "Snake Flower Boss",
+    "CATCHPHRASE": "Capo del Fiore di Serpente",
     "NEAR_ATTACK": "50",
     "THROW_ATTACK": "30",
     "DEFENCE": "10",
@@ -105,7 +105,7 @@
   },
   "4": {
     "NAME": "Tetsuo Tamashiro",
-    "CATCHPHRASE": "The Ryukyu Assassin",
+    "CATCHPHRASE": "L'Assassino di Ryukyu",
     "NEAR_ATTACK": "50",
     "THROW_ATTACK": "30",
     "DEFENCE": "10",
@@ -113,7 +113,7 @@
     "NATION": "JPN",
     "HEIGHT": "182 cm",
     "WEIGHT": "74 kg",
-    "STYLE": "Street Fighting",
+    "STYLE": "Combattimento di Strada",
     "AGE": "54",
     "BLOOD": "A",
     "START_MOTION": "e_btlst_TAM_weaponR_01",
@@ -127,11 +127,11 @@
     "ARMS2": "",
     "ARMS1_GLOWUP": "",
     "ARMS2_GLOWUP": "",
-    "EXPLANATION": "none"
+    "EXPLANATION": "nessuno"
   },
   "5": {
     "NAME": "Richardson",
-    "CATCHPHRASE": "Legendary Arms Dealer",
+    "CATCHPHRASE": "Leggendario Trafficante d'Armi",
     "NEAR_ATTACK": "65",
     "THROW_ATTACK": "30",
     "DEFENCE": "20",
@@ -139,7 +139,7 @@
     "NATION": "USA",
     "HEIGHT": "196 cm",
     "WEIGHT": "89 kg",
-    "STYLE": "Guns",
+    "STYLE": "Armi da Fuoco",
     "AGE": "51",
     "BLOOD": "A",
     "START_MOTION": "e_btlst_RIC_weaponK_01",
@@ -153,11 +153,11 @@
     "ARMS2": "",
     "ARMS1_GLOWUP": "",
     "ARMS2_GLOWUP": "",
-    "EXPLANATION": "none"
+    "EXPLANATION": "nessuno"
   },
   "6": {
     "NAME": "Goro Majima",
-    "CATCHPHRASE": "Mad Dog of Shimano",
+    "CATCHPHRASE": "Il Cane Pazzo di Shimano",
     "NEAR_ATTACK": "50",
     "THROW_ATTACK": "30",
     "DEFENCE": "15",
@@ -165,7 +165,7 @@
     "NATION": "JPN",
     "HEIGHT": "186 cm",
     "WEIGHT": "80 kg",
-    "STYLE": "Street Fighting",
+    "STYLE": "Combattimento di Strada",
     "AGE": "44",
     "BLOOD": "AB",
     "START_MOTION": "e_btlst_MJM_07",
@@ -179,11 +179,11 @@
     "ARMS2": "",
     "ARMS1_GLOWUP": "",
     "ARMS2_GLOWUP": "",
-    "EXPLANATION": "none"
+    "EXPLANATION": "nessuno"
   },
   "7": {
     "NAME": "Rikiya Shimabukuro",
-    "CATCHPHRASE": "The Fighting Viper",
+    "CATCHPHRASE": "La Vipera Combattente",
     "NEAR_ATTACK": "60",
     "THROW_ATTACK": "30",
     "DEFENCE": "20",
@@ -191,7 +191,7 @@
     "NATION": "JPN",
     "HEIGHT": "177 cm",
     "WEIGHT": "76 kg",
-    "STYLE": "Street Fighting",
+    "STYLE": "Combattimento di Strada",
     "AGE": "25",
     "BLOOD": "B",
     "START_MOTION": "e_btlst_RIK_01",
@@ -205,11 +205,11 @@
     "ARMS2": "",
     "ARMS1_GLOWUP": "",
     "ARMS2_GLOWUP": "",
-    "EXPLANATION": "none"
+    "EXPLANATION": "nessuno"
   },
   "8": {
     "NAME": "Goh Hamazaki",
-    "CATCHPHRASE": "Emperor of Hama",
+    "CATCHPHRASE": "Imperatore di Hama",
     "NEAR_ATTACK": "55",
     "THROW_ATTACK": "50",
     "DEFENCE": "25",
@@ -217,7 +217,7 @@
     "NATION": "JPN",
     "HEIGHT": "193 cm",
     "WEIGHT": "99 kg",
-    "STYLE": "Street Fighting",
+    "STYLE": "Combattimento di Strada",
     "AGE": "50",
     "BLOOD": "O",
     "START_MOTION": "e_btlst_angry_01",
@@ -231,11 +231,11 @@
     "ARMS2": "",
     "ARMS1_GLOWUP": "",
     "ARMS2_GLOWUP": "",
-    "EXPLANATION": "none"
+    "EXPLANATION": "nessuno"
   },
   "9": {
     "NAME": "Hasebe",
-    "CATCHPHRASE": "none",
+    "CATCHPHRASE": "nessuno",
     "NEAR_ATTACK": "30",
     "THROW_ATTACK": "30",
     "DEFENCE": "5",
@@ -243,7 +243,7 @@
     "NATION": "JPN",
     "HEIGHT": "10 cm",
     "WEIGHT": "10 kg",
-    "STYLE": "none",
+    "STYLE": "nessuno",
     "AGE": "10",
     "BLOOD": "A",
     "START_MOTION": "e_btlst_YKZS_01",
@@ -257,11 +257,11 @@
     "ARMS2": "",
     "ARMS1_GLOWUP": "",
     "ARMS2_GLOWUP": "",
-    "EXPLANATION": "none"
+    "EXPLANATION": "nessuno"
   },
   "10": {
     "NAME": "Mikio",
-    "CATCHPHRASE": "none",
+    "CATCHPHRASE": "nessuno",
     "NEAR_ATTACK": "30",
     "THROW_ATTACK": "30",
     "DEFENCE": "5",
@@ -269,7 +269,7 @@
     "NATION": "JPN",
     "HEIGHT": "11 cm",
     "WEIGHT": "11 kg",
-    "STYLE": "none",
+    "STYLE": "nessuno",
     "AGE": "11",
     "BLOOD": "A",
     "START_MOTION": "e_btlst_angry_01",
@@ -283,11 +283,11 @@
     "ARMS2": "",
     "ARMS1_GLOWUP": "",
     "ARMS2_GLOWUP": "",
-    "EXPLANATION": "none"
+    "EXPLANATION": "nessuno"
   },
   "11": {
     "NAME": "Kazuki",
-    "CATCHPHRASE": "none",
+    "CATCHPHRASE": "nessuno",
     "NEAR_ATTACK": "30",
     "THROW_ATTACK": "30",
     "DEFENCE": "5",
@@ -295,7 +295,7 @@
     "NATION": "JPN",
     "HEIGHT": "12 cm",
     "WEIGHT": "12 kg",
-    "STYLE": "none",
+    "STYLE": "nessuno",
     "AGE": "12",
     "BLOOD": "A",
     "START_MOTION": "e_btlst_BOX_01",
@@ -309,11 +309,11 @@
     "ARMS2": "",
     "ARMS1_GLOWUP": "",
     "ARMS2_GLOWUP": "",
-    "EXPLANATION": "none"
+    "EXPLANATION": "nessuno"
   },
   "12": {
     "NAME": "Yuya",
-    "CATCHPHRASE": "none",
+    "CATCHPHRASE": "nessuno",
     "NEAR_ATTACK": "30",
     "THROW_ATTACK": "30",
     "DEFENCE": "5",
@@ -321,7 +321,7 @@
     "NATION": "JPN",
     "HEIGHT": "13 cm",
     "WEIGHT": "13 kg",
-    "STYLE": "none",
+    "STYLE": "nessuno",
     "AGE": "13",
     "BLOOD": "A",
     "START_MOTION": "e_btlst_JYU_01",
@@ -335,11 +335,11 @@
     "ARMS2": "",
     "ARMS1_GLOWUP": "",
     "ARMS2_GLOWUP": "",
-    "EXPLANATION": "none"
+    "EXPLANATION": "nessuno"
   },
   "13": {
     "NAME": "Sotaro Komaki",
-    "CATCHPHRASE": "none",
+    "CATCHPHRASE": "nessuno",
     "NEAR_ATTACK": "30",
     "THROW_ATTACK": "30",
     "DEFENCE": "5",
@@ -347,7 +347,7 @@
     "NATION": "JPN",
     "HEIGHT": "14 cm",
     "WEIGHT": "14 kg",
-    "STYLE": "none",
+    "STYLE": "nessuno",
     "AGE": "14",
     "BLOOD": "A",
     "START_MOTION": "e_btlst_warmup_03",
@@ -361,11 +361,11 @@
     "ARMS2": "",
     "ARMS1_GLOWUP": "",
     "ARMS2_GLOWUP": "",
-    "EXPLANATION": "none"
+    "EXPLANATION": "nessuno"
   },
   "14": {
     "NAME": "Shoji Yonashiro",
-    "CATCHPHRASE": "none",
+    "CATCHPHRASE": "nessuno",
     "NEAR_ATTACK": "30",
     "THROW_ATTACK": "30",
     "DEFENCE": "5",
@@ -373,7 +373,7 @@
     "NATION": "JPN",
     "HEIGHT": "15 cm",
     "WEIGHT": "15 kg",
-    "STYLE": "none",
+    "STYLE": "nessuno",
     "AGE": "15",
     "BLOOD": "A",
     "START_MOTION": "p_btlst_weaponV_01",
@@ -387,7 +387,7 @@
     "ARMS2": "",
     "ARMS1_GLOWUP": "",
     "ARMS2_GLOWUP": "",
-    "EXPLANATION": "none"
+    "EXPLANATION": "nessuno"
   },
   "types": {
     "NAME": "string",
