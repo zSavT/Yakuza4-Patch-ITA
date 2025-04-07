@@ -9,9 +9,10 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
 
 
-Il "progetto" è nato totalmente a caso e spinto dalla mia curiosità nel riuscire a modificare i testi del gioco, dopo aver provato la Patch per Yakuza 0 sviluppata da [Rulesless](https://letraduzionidirulesless.wordpress.com/yakuza0-2/). <br> La mia ricerca è iniziata cercando sul web, l'esistenza di altre patch di traduzioni in altre lingue, per poter analizzare la patch e comprendere più velocemente quali siano i file contenenti i testi del gioco.<br> Per questo motivo ho iniziato ad analizzare la [patch spagnola](https://steamcommunity.com/sharedfiles/filedetails/?id=3385318071) del gioco.<p>
-Analizzando i file, mi sono occorto che principalmente il gioco utilizza file  _PAR_ e file _BIN_ (con varianti di quest'ultimi in alcuni casi).I file PAR contengono i principali dati del gioco (immagini, animazioni ecc...) e lo stesso vale per i file BIN. Su GitHub casualmente ho trovato alcune repo che permettono di scompattare e ricompattare questi file, in tal modo ho iniziato a comprendere come muovere i primi passi per la traduzione dei testi del gioco.
-
+Il "progetto" è nato totalmente a caso e spinto dalla mia curiosità nel riuscire a modificare i testi del gioco, dopo aver provato la Patch per Yakuza 0 sviluppata da [Rulesless](https://letraduzionidirulesless.wordpress.com/yakuza0-2/).
+La mia ricerca è iniziata cercando sul web l'esistenza di altre patch di traduzioni in altre lingue, per poter analizzare la patch e comprendere più velocemente quali siano i file contenenti i testi del gioco.
+Per questo motivo ho iniziato ad analizzare la [patch spagnola](https://steamcommunity.com/sharedfiles/filedetails/?id=3385318071) del gioco.
+Analizzando i file, mi sono accorto che principalmente il gioco utilizza file _PAR_ e file _BIN_ (con varianti di quest'ultimi in alcuni casi). I file PAR contengono i principali dati del gioco (immagini, animazioni ecc...) e lo stesso vale per i file BIN. Su GitHub, casualmente, ho trovato alcune repository che permettono di scompattare e ricompattare questi file. In tal modo, ho iniziato a comprendere come muovere i primi passi per la traduzione dei testi del gioco.
 ## Struttura dei file (Noti al momento)
 
 
@@ -76,17 +77,26 @@ La lunghezza massima di caratteri visualizzabili in una cutscene è "__99__". Le
 
 # Funzionamento estrazione PAR
 
-Per estrarre i dati dai file PAR, bisogna utilizzare il programma "_ParTool_" sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80. Nella cartella PAR è presente il Tool per comodità insieme ad un file bat per ricompattare i file. Per scompattare un file PAR, basta trascinare il file sopra all'exe e verrà creata una cartella con tutti i file contenuti nel file PAR. Lo stesso processo con maggiori opzioni, si può fare tramite linea di comando (per maggiori info si può visionare la repo originale).<p>
-Per ricreare il file PAR dopo le modifiche si può utilizzare il file bat (modificando eventualmente solo il parametro di input e output), oppure tramite linea di comando come l'esempio che segue:
+Per estrarre i dati dai file PAR, è necessario utilizzare il programma "_ParTool_", sviluppato da Kaplas80 e disponibile nella [repository](https://github.com/Kaplas80/ParManager.git). Nella cartella PAR è presente il tool per comodità, insieme a un file batch per ricompattare i file. Per scompattare un file PAR, è sufficiente trascinare il file sull'eseguibile; verrà creata una cartella contenente tutti i file presenti nel file PAR. Lo stesso processo, con maggiori opzioni, può essere eseguito tramite riga di comando (per maggiori informazioni, si può consultare la repository originale).
+
+Per ricreare il file PAR dopo le modifiche, è possibile utilizzare il file batch (modificando, se necessario, solo i parametri di input e output) oppure tramite riga di comando, come nell'esempio seguente:
+
 ```
 .\ParTool.exe create [nome cartella di input] [nome file par output] -c 1
 ```
-Ovviamente non bisogna inserire le parentesi quadre.
-
+Ovviamente, le parentesi quadre non devono essere incluse nel comando.
 # Funzionamneto estrazione BIN 2007.03.19
 
+Per estrarre i dati dai file BIN 2007.03.19, è necessario utilizzare il programma "_20070319_", sviluppato da SlowpokeVG e disponibile nella [repository](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer). Il programma si utilizza tramite riga di comando. Il programma ha 4 "eseguibili", due per estrarre e due per ricompattare. In particolare, se l'output ottenuto non è chiaro, è necessario utilizzare la variante "_CP932_".
 
-
+Esempio di estrazione:
+```
+20070319exporter.exe [nome file bin]
+```
+Esempio di importazione:
+```
+20070319importer.exe [nome file json]
+```
 ## TO DO
 
 - [x] Codifica e decodifica dei file PAR
