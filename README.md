@@ -76,9 +76,15 @@ La lunghezza massima di caratteri visualizzabili in una cutscene è "__99__". Le
 
 # Funzionamento estrazione PAR
 
-
+Per estrarre i dati dai file PAR, bisogna utilizzare il programma "_ParTool_" sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80. Nella cartella PAR è presente il Tool per comodità insieme ad un file bat per ricompattare i file. Per scompattare un file PAR, basta trascinare il file sopra all'exe e verrà creata una cartella con tutti i file contenuti nel file PAR. Lo stesso processo con maggiori opzioni, si può fare tramite linea di comando (per maggiori info si può visionare la repo originale).<p>
+Per ricreare il file PAR dopo le modifiche si può utilizzare il file bat (modificando eventualmente solo il parametro di input e output), oppure tramite linea di comando come l'esempio che segue:
+```
+.\ParTool.exe create [nome cartella di input] [nome file par output] -c 1
+```
+Ovviamente non bisogna inserire le parentesi quadre.
 
 # Funzionamneto estrazione BIN 2007.03.19
+
 
 
 ## TO DO
@@ -114,5 +120,5 @@ Si ringrazia
 This patch does not contain copyrighted material, has no functional autonomy, and you must have your original own copy to apply it.
 All game rights, intellectual property, logo/names and movies/images are property of Sega Corporation.
 
-# Altri progetti di traduzione miei
+# Altri progetti di traduzione realizzati da me
 [Valkyria Chronicles Patch ITA](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA)
