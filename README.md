@@ -13,8 +13,19 @@ Il "progetto" è nato totalmente a caso e spinto dalla mia curiosità nel riusci
 La mia ricerca è iniziata cercando sul web l'esistenza di altre patch di traduzioni in altre lingue, per poter analizzare la patch e comprendere più velocemente quali siano i file contenenti i testi del gioco.
 Per questo motivo ho iniziato ad analizzare la [patch spagnola](https://steamcommunity.com/sharedfiles/filedetails/?id=3385318071) del gioco.
 Analizzando i file, mi sono accorto che principalmente il gioco utilizza file _PAR_ e file _BIN_ (con varianti di quest'ultimi in alcuni casi). I file PAR contengono i principali dati del gioco (immagini, animazioni ecc...) e lo stesso vale per i file BIN. Su GitHub, casualmente, ho trovato alcune repository che permettono di scompattare e ricompattare questi file. In tal modo, ho iniziato a comprendere come muovere i primi passi per la traduzione dei testi del gioco.
-## Struttura dei file (Noti al momento)
 
+# Immagini Patch
+
+![](img/cutscene.jpg)
+
+![](img/menu.jpg)
+
+![](img/extra.jpg)
+
+![](img/memo.jpg)
+
+
+## Struttura dei file (Noti al momento)
 
 - __Yakuza 4\data\auth\subtitle.par__
     - All'interno sono presenti tutti i testi per le cutscene presenti nel gioco.
