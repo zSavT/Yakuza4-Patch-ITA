@@ -52,6 +52,17 @@ Analizzando i file, mi sono accorto che principalmente il gioco utilizza file _P
     - All'interno sono presenti i testi del gioco relativi al colosseo.
     - [x] Tradotto
 
+# Funzionamento estrazione PAR
+
+Per estrarre i dati dai file PAR, è necessario utilizzare il programma "_ParTool_", sviluppato da Kaplas80 e disponibile nella [repository](https://github.com/Kaplas80/ParManager.git). Nella cartella PAR è presente il tool per comodità, insieme a un file batch per ricompattare i file. Per scompattare un file PAR, è sufficiente trascinare il file sull'eseguibile; verrà creata una cartella contenente tutti i file presenti nel file PAR. Lo stesso processo, con maggiori opzioni, può essere eseguito tramite riga di comando (per maggiori informazioni, si può consultare la repository originale).
+
+Per ricreare il file PAR dopo le modifiche, è possibile utilizzare il file batch (modificando, se necessario, solo i parametri di input e output) oppure tramite riga di comando, come nell'esempio seguente:
+
+```
+.\ParTool.exe create [nome cartella di input] [nome file par output] -c 1
+```
+Ovviamente, le parentesi quadre non devono essere incluse nel comando.
+
 # Funzionamento script sottotitoli
 
 Lo script utilizza le api di Gemini 2.0 per poter funzionare. Le API al momento sono utilizzabili gratuitamente (per ora). La chiave si può ottenere da [qui](https://aistudio.google.com/apikey).<br> i file csv presenti nella cartella "_input_". Output dell'operazione è salvato nella cartella "_tradotto_".
@@ -86,17 +97,7 @@ La lunghezza massima di caratteri visualizzabili in una cutscene è "__99__". Le
 """Ciao"""
 ```
 
-# Funzionamento estrazione PAR
-
-Per estrarre i dati dai file PAR, è necessario utilizzare il programma "_ParTool_", sviluppato da Kaplas80 e disponibile nella [repository](https://github.com/Kaplas80/ParManager.git). Nella cartella PAR è presente il tool per comodità, insieme a un file batch per ricompattare i file. Per scompattare un file PAR, è sufficiente trascinare il file sull'eseguibile; verrà creata una cartella contenente tutti i file presenti nel file PAR. Lo stesso processo, con maggiori opzioni, può essere eseguito tramite riga di comando (per maggiori informazioni, si può consultare la repository originale).
-
-Per ricreare il file PAR dopo le modifiche, è possibile utilizzare il file batch (modificando, se necessario, solo i parametri di input e output) oppure tramite riga di comando, come nell'esempio seguente:
-
-```
-.\ParTool.exe create [nome cartella di input] [nome file par output] -c 1
-```
-Ovviamente, le parentesi quadre non devono essere incluse nel comando.
-# Funzionamneto estrazione BIN 2007.03.19
+# Funzionamento estrazione BIN 2007.03.19
 
 Per estrarre i dati dai file BIN 2007.03.19, è necessario utilizzare il programma "_20070319_", sviluppato da SlowpokeVG e disponibile nella [repository](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer). Il programma si utilizza tramite riga di comando. Il programma ha 4 "eseguibili", due per estrarre e due per ricompattare. In particolare, se l'output ottenuto non è chiaro, è necessario utilizzare la variante "_CP932_".
 
