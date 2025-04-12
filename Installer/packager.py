@@ -3,7 +3,7 @@ import pyzipper
 import argparse
 import shutil
 
-AES_KEY = b"UnaChiaveSegreta1234567890abcd"  # Chiave AES integrata (32 byte per AES-256)
+AES_KEY = b"^#Nxu9cNV2722HA&jw4H3j7sXnt&#X"  # Chiave AES integrata (32 byte per AES-256)
 
 def get_input_path(prompt_msg):
     while True:
