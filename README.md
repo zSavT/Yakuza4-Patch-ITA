@@ -183,7 +183,7 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 
 - [x] Codifica e decodifica dei file PAR
 - [x] Codifica e decodifica dei file BIN 2007.03.19
-- [ ] Modifica al Font
+- [x] Modifica al Font
 
 # Altre patch della serie
 
@@ -203,11 +203,12 @@ __N.B.__<br>
 Chi ha realizzato la patch per Yakuza 1 - 2 - 3, sta lavorando anche ad una patch totale per Yakuza 4 - 5 - 6.
 Gli autori sono liberi di attingere da questa progetto, previo avviso.
 
-## Dipendenza
+## Dipendenza e ringraziamenti
 Si ringrazia
 
 - Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.<br>
 - Per la codifica e la decodifica dei file BIN 2007.03.19 del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer) da SlowpokeVG.
+- Per la modifica dei font, è stata fatta partendo dalla mod 4K dei font reperibile da [qui](https://www.nexusmods.com/yakuza4remastered/mods/14) realizzata da Chalkint.
 
 ## Copyright
 This patch does not contain copyrighted material, has no functional autonomy, and you must have your original own copy to apply it.
