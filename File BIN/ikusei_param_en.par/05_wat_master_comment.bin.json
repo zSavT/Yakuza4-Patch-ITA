@@ -36,7 +36,7 @@
     "TURN_NUM": ""
   },
   "3": {
-    "COMENNT": "La sua Tecnica non migliorerà ulteriormente. Ha già molte abilità. Perché non lo fai competere in un incontro vero?",
+    "COMENNT": "La sua Tecnica non migliorer~ ulteriormente. Ha gi~ molte abilit~. Perché non lo fai competere in un incontro vero?",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -48,7 +48,7 @@
     "TURN_NUM": ""
   },
   "4": {
-    "COMENNT": "La sua Velocità non migliorerà ulteriormente. Ha già molte abilità. Perché non lo fai competere in un incontro vero?",
+    "COMENNT": "La sua Velocit~ non migliorer~ ulteriormente. Ha gi~ molte abilit~. Perché non lo fai competere in un incontro vero?",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "80",
@@ -60,7 +60,7 @@
     "TURN_NUM": ""
   },
   "5": {
-    "COMENNT": "La sua Potenza non migliorerà ulteriormente. Ha già molte abilità. Perché non lo fai competere in un incontro vero?",
+    "COMENNT": "La sua Potenza non migliorer~ ulteriormente. Ha gi~ molte abilit~. Perché non lo fai competere in un incontro vero?",
     "MAX_HP": "",
     "POWER": "100",
     "SPEED": "",
@@ -84,7 +84,7 @@
     "TURN_NUM": ""
   },
   "7": {
-    "COMENNT": "La sua Tecnica è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincerà un torneo.",
+    "COMENNT": "La sua Tecnica è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincer~ un torneo.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -96,7 +96,7 @@
     "TURN_NUM": ""
   },
   "8": {
-    "COMENNT": "La sua Velocità è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincerà un torneo.",
+    "COMENNT": "La sua Velocit~ è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincer~ un torneo.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "60",
@@ -108,7 +108,7 @@
     "TURN_NUM": ""
   },
   "9": {
-    "COMENNT": "La sua Potenza è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincerà un torneo.",
+    "COMENNT": "La sua Potenza è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincer~ un torneo.",
     "MAX_HP": "",
     "POWER": "80",
     "SPEED": "",
@@ -132,7 +132,7 @@
     "TURN_NUM": ""
   },
   "11": {
-    "COMENNT": "La sua Stamina è migliorata significativamente. Anche le sue altre abilità cresceranno di più. Ha potenziale!",
+    "COMENNT": "La sua Stamina è migliorata significativamente. Anche le sue altre abilit~ cresceranno di più. Ha potenziale!",
     "MAX_HP": "700",
     "POWER": "",
     "SPEED": "",
@@ -156,7 +156,7 @@
     "TURN_NUM": ""
   },
   "13": {
-    "COMENNT": "È molto più veloce. La sua Velocità cresce più lentamente delle sue altre abilità, ma sono sicuro che continuerà a migliorare.",
+    "COMENNT": "È molto più veloce. La sua Velocit~ cresce più lentamente delle sue altre abilit~, ma sono sicuro che continuer~ a migliorare.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "40",
@@ -180,7 +180,7 @@
     "TURN_NUM": ""
   },
   "15": {
-    "COMENNT": "Sta crescendo a un ritmo ben bilanciato. Tutte le sue abilità cresceranno sicuramente ancora di più. Lasciamolo fare esperienza in incontri veri.",
+    "COMENNT": "Sta crescendo a un ritmo ben bilanciato. Tutte le sue abilit~ cresceranno sicuramente ancora di più. Lasciamolo fare esperienza in incontri veri.",
     "MAX_HP": "500",
     "POWER": "35",
     "SPEED": "25",

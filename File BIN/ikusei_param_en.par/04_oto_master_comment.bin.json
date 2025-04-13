@@ -12,7 +12,7 @@
     "TURN_NUM": "40"
   },
   "1": {
-    "COMENNT": "Tokita non ti ascolterà mai a meno che tu non sviluppi prima la Fiducia con lui. Che ne dici di portarlo a bere qualcosa?",
+    "COMENNT": "Tokita non ti ascolter~ mai a meno che tu non sviluppi prima la Fiducia con lui. Che ne dici di portarlo a bere qualcosa?",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -36,7 +36,7 @@
     "TURN_NUM": ""
   },
   "3": {
-    "COMENNT": "La sua Tecnica non migliorerà ulteriormente. Ha già molte abilità. Perché non lo fai competere in un incontro vero?",
+    "COMENNT": "La sua Tecnica non migliorer~ ulteriormente. Ha gi~ molte abilit~. Perché non lo fai competere in un incontro vero?",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -48,7 +48,7 @@
     "TURN_NUM": ""
   },
   "4": {
-    "COMENNT": "La sua Velocità non migliorerà ulteriormente. Ha già molte abilità. Perché non lo fai competere in un incontro vero?",
+    "COMENNT": "La sua Velocit~ non migliorer~ ulteriormente. Ha gi~ molte abilit~. Perché non lo fai competere in un incontro vero?",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "80",
@@ -60,7 +60,7 @@
     "TURN_NUM": ""
   },
   "5": {
-    "COMENNT": "La sua Potenza non migliorerà ulteriormente. Ha già molte abilità. Perché non lo fai competere in un incontro vero?",
+    "COMENNT": "La sua Potenza non migliorer~ ulteriormente. Ha gi~ molte abilit~. Perché non lo fai competere in un incontro vero?",
     "MAX_HP": "",
     "POWER": "60",
     "SPEED": "",
@@ -84,7 +84,7 @@
     "TURN_NUM": ""
   },
   "7": {
-    "COMENNT": "La sua Tecnica è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincerà un torneo.",
+    "COMENNT": "La sua Tecnica è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincer~ un torneo.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -96,7 +96,7 @@
     "TURN_NUM": ""
   },
   "8": {
-    "COMENNT": "La sua Velocità è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincerà un torneo.",
+    "COMENNT": "La sua Velocit~ è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincer~ un torneo.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "65",
@@ -108,7 +108,7 @@
     "TURN_NUM": ""
   },
   "9": {
-    "COMENNT": "La sua Potenza è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincerà un torneo.",
+    "COMENNT": "La sua Potenza è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincer~ un torneo.",
     "MAX_HP": "",
     "POWER": "50",
     "SPEED": "",
@@ -132,7 +132,7 @@
     "TURN_NUM": ""
   },
   "11": {
-    "COMENNT": "Ha un'ottima Stamina. Continua così e lavora anche sulle sue altre abilità. Sono sicuro che la sua Tecnica si svilupperà ulteriormente.",
+    "COMENNT": "Ha un'ottima Stamina. Continua così e lavora anche sulle sue altre abilit~. Sono sicuro che la sua Tecnica si svilupper~ ulteriormente.",
     "MAX_HP": "650",
     "POWER": "",
     "SPEED": "",
@@ -144,7 +144,7 @@
     "TURN_NUM": ""
   },
   "12": {
-    "COMENNT": "La sua Tecnica è migliorata molto. Questa è la sua specialità, quindi continua a lavorarci anche in futuro.",
+    "COMENNT": "La sua Tecnica è migliorata molto. Questa è la sua specialit~, quindi continua a lavorarci anche in futuro.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -156,7 +156,7 @@
     "TURN_NUM": ""
   },
   "13": {
-    "COMENNT": "È diventato molto più veloce. Scommetto che può diventare ancora più veloce, quindi continuiamo a lavorare sulla sua Velocità.",
+    "COMENNT": "È diventato molto più veloce. Scommetto che può diventare ancora più veloce, quindi continuiamo a lavorare sulla sua Velocit~.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "50",
@@ -168,7 +168,7 @@
     "TURN_NUM": ""
   },
   "14": {
-    "COMENNT": "La sua Potenza si sta sviluppando bene. Rispetto ad altre abilità, la sua Potenza si sviluppa lentamente, ma non c'è da preoccuparsi!",
+    "COMENNT": "La sua Potenza si sta sviluppando bene. Rispetto ad altre abilit~, la sua Potenza si sviluppa lentamente, ma non c'è da preoccuparsi!",
     "MAX_HP": "",
     "POWER": "40",
     "SPEED": "",

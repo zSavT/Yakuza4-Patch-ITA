@@ -1,43 +1,43 @@
 {
   "0": {
-    "KIND": "Forza di Volontà",
-    "MSG": "L'apprendista si rialzerà un'altra volta anche se la sua Stamina raggiunge lo zero."
+    "KIND": "Forza di Volont~",
+    "MSG": "L'apprendista si rialzer~ un'altra volta anche se la sua Stamina raggiunge lo zero."
   },
   "1": {
     "KIND": "Allungo Finale",
-    "MSG": "La frequenza di attacco aumenterà dopo che l'avversario è stato messo all'angolo."
+    "MSG": "La frequenza di attacco aumenter~ dopo che l'avversario è stato messo all'angolo."
   },
   "2": {
     "KIND": "Primo Attacco",
-    "MSG": "La frequenza di attacco aumenterà per 10 secondi dopo l'inizio del combattimento. Tuttavia, questa Abilità diventa inefficace una volta che vieni colpito."
+    "MSG": "La frequenza di attacco aumenter~ per 10 secondi dopo l'inizio del combattimento. Tuttavia, questa Abilit~ diventa inefficace una volta che vieni colpito."
   },
   "3": {
     "KIND": "Lunatico",
-    "MSG": "L'Umore dell'apprendista determina la sua frequenza di attacco. C'è una probabilità del 70% che la frequenza di attacco aumenti."
+    "MSG": "L'Umore dell'apprendista determina la sua frequenza di attacco. C'è una probabilit~ del 70% che la frequenza di attacco aumenti."
   },
   "4": {
     "KIND": "Pugno Fortunato",
-    "MSG": "Le abilità saranno migliorate se l'avversario ha più Stamina dell'apprendista. Le abilità diminuiranno se l'avversario ha meno Stamina."
+    "MSG": "Le abilit~ saranno migliorate se l'avversario ha più Stamina dell'apprendista. Le abilit~ diminuiranno se l'avversario ha meno Stamina."
   },
   "5": {
     "KIND": "Orgoglio",
-    "MSG": "L'Umore dell'apprendista migliorerà di un livello. Tuttavia, la sua fatica post-combattimento sarà maggiore del solito."
+    "MSG": "L'Umore dell'apprendista migliorer~ di un livello. Tuttavia, la sua fatica post-combattimento sar~ maggiore del solito."
   },
   "6": {
     "KIND": "Persistenza",
-    "MSG": "Aumenta il montepremi. Tuttavia, l'apprendista sarà più aperto ai danni dell'avversario, poiché sarà distratto dalla reazione dei fan."
+    "MSG": "Aumenta il montepremi. Tuttavia, l'apprendista sar~ più aperto ai danni dell'avversario, poiché sar~ distratto dalla reazione dei fan."
   },
   "7": {
-    "KIND": "Abilità Regolare 07",
-    "MSG": "Le abilità dell'apprendista aumentano notevolmente se non dai ordini durante un combattimento. Dare ordini avrà l'effetto opposto."
+    "KIND": "Abilit~ Regolare 07",
+    "MSG": "Le abilit~ dell'apprendista aumentano notevolmente se non dai ordini durante un combattimento. Dare ordini avr~ l'effetto opposto."
   },
   "8": {
-    "KIND": "Abilità Regolare 08",
-    "MSG": "Le abilità dell'apprendista aumenteranno quando combatterà in un incontro che ha perso prima. Perdere la seconda volta non diminuisce il suo Umore."
+    "KIND": "Abilit~ Regolare 08",
+    "MSG": "Le abilit~ dell'apprendista aumenteranno quando combatter~ in un incontro che ha perso prima. Perdere la seconda volta non diminuisce il suo Umore."
   },
   "9": {
-    "KIND": "Abilità Regolare 09",
-    "MSG": "Le abilità aumenteranno complessivamente in base al livello di Fiducia che l'apprendista ha con Saejima."
+    "KIND": "Abilit~ Regolare 09",
+    "MSG": "Le abilit~ aumenteranno complessivamente in base al livello di Fiducia che l'apprendista ha con Saejima."
   },
   "types": {
     "KIND": "string",
