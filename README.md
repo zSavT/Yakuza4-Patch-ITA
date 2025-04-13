@@ -25,7 +25,7 @@ Analizzando i file, mi sono accorto che principalmente il gioco utilizza file _P
 ![](img/memo.jpg)
 
 
-## Struttura dei file (Noti al momento)
+## Struttura dei file
 
 - __Yakuza 4\data\auth\subtitle.par__
     - All'interno sono presenti tutti i testi per le cutscene presenti nel gioco.
@@ -109,10 +109,39 @@ Esempio di importazione:
 ```
 20070319importer.exe [nome file json]
 ```
+
+# Funzionamento installer
+
+Per poter creare correttamente l'installer bisogna prima di tutto utilizzare ```packager.py``` per poter generare il file criptato della cartella "_data_". Lo script è guidato e bisogna solo indicare il percorso della cartella con le modifiche della Patch ed il nome del file pkg criptato. Nel file "chiave.txt" bisogna inserire la chiave di criptazione scelta.
+
+## Creazione dell'eseguibile
+
+Per poter generare l'eseguibile dello script bisogna utilizzare la libreria "__pyinstaller__" e generare l'eseguibile con i comandi in base al sistema operativo di arrivo.
+
+### Windows
+
+Per generare l'eseguibile dell'installer per Windows, bisogna utilizzare il seguente comando:
+```ps
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+```
+
+### Linux (Steam Deck)
+
+Per generare l'eseguibile per Linux, bisogna fare qualche passaggio in più. L'installer è creato tramite la WSL per Windows.
+Per prima cosa bisogna creare l'ambiente virtuale per python tramite il comando:
+```
+source venv
+```
+Dopo aver generato l'ambiente, bisogna attivare l'ambiente, con il seguente comando:
+```
+source venv/bin/activate
+```
+
 ## TO DO
 
 - [x] Codifica e decodifica dei file PAR
 - [x] Codifica e decodifica dei file BIN 2007.03.19
+- [ ] Modifica al Font
 
 # Altre patch della serie
 
