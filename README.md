@@ -25,7 +25,21 @@ Analizzando i file, mi sono accorto che principalmente il gioco utilizza file _P
 ![](img/memo.jpg)
 
 
-## Struttura dei file
+# Come installare la patch
+
+Per installare bisogna selezionare la sezione [Releases](https://github.com/zSavT/Yakuza4-Patch-ITA/releases) su GitHub e selezionare l'ultima versione della patch disponibile. Selezionate l'installer da scaricare in base al sistema operativo scelto ed avviate l'installer.
+
+![](img/installer1.png)
+
+L'installazione è guidata e semplice, ma in ogni caso basterà sempre cliccare su "_Avanti_". Attendere la verifica dell'integrità dei file della Patch e cliccare successivamente su "_Avanti_".
+
+![](img/installer2.png)
+
+Successivamente bisogna accettare i termini d'uso e poi nella schermata successiva, selezionare la cartella dove è installato Yakuza 4 (Di default è impostato il percorso classico) e cliccare su "_Installa Patch_".
+
+![](img/installer3.png)
+
+# Struttura dei file
 
 - __Yakuza 4\data\auth\subtitle.par__
     - All'interno sono presenti tutti i testi per le cutscene presenti nel gioco.
@@ -124,7 +138,7 @@ Per generare l'eseguibile dell'installer per Windows, bisogna utilizzare il segu
 ```ps
 pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
 ```
-
+Nella cartella "_dist_", è presente l'eseguibile.
 ### Linux (Steam Deck)
 
 Per generare l'eseguibile per Linux, bisogna fare qualche passaggio in più. L'installer è creato tramite la WSL per Windows.
@@ -136,6 +150,11 @@ Dopo aver generato l'ambiente, bisogna attivare l'ambiente, con il seguente coma
 ```
 source venv/bin/activate
 ```
+Successivamente bisogna avviare il comando per la creazione del file eseguibile:
+```ps
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+```
+Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha tipo/estensione).
 
 ## TO DO
 
