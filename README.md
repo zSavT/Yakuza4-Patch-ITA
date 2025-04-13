@@ -25,7 +25,21 @@ Analizzando i file, mi sono accorto che principalmente il gioco utilizza file _P
 ![](img/memo.jpg)
 
 
-## Struttura dei file (Noti al momento)
+# Come installare la patch
+
+Per installare bisogna selezionare la sezione [Releases](https://github.com/zSavT/Yakuza4-Patch-ITA/releases) su GitHub e selezionare l'ultima versione della patch disponibile. Selezionate l'installer da scaricare in base al sistema operativo scelto ed avviate l'installer.
+
+![](img/installer1.png)
+
+L'installazione è guidata e semplice, ma in ogni caso basterà sempre cliccare su "_Avanti_". Attendere la verifica dell'integrità dei file della Patch e cliccare successivamente su "_Avanti_".
+
+![](img/installer2.png)
+
+Successivamente bisogna accettare i termini d'uso e poi nella schermata successiva, selezionare la cartella dove è installato Yakuza 4 (Di default è impostato il percorso classico) e cliccare su "_Installa Patch_".
+
+![](img/installer3.png)
+
+# Struttura dei file
 
 - __Yakuza 4\data\auth\subtitle.par__
     - All'interno sono presenti tutti i testi per le cutscene presenti nel gioco.
@@ -109,10 +123,67 @@ Esempio di importazione:
 ```
 20070319importer.exe [nome file json]
 ```
+
+# Funzionamento installer
+
+Per poter creare correttamente l'installer bisogna prima di tutto utilizzare ```packager.py``` per poter generare il file criptato della cartella "_data_". Lo script è guidato e bisogna solo indicare il percorso della cartella con le modifiche della Patch ed il nome del file pkg criptato. Nel file "chiave.txt" bisogna inserire la chiave di criptazione scelta.
+
+## Creazione dell'eseguibile
+
+Per poter generare l'eseguibile dello script bisogna utilizzare la libreria "__pyinstaller__" e generare l'eseguibile con i comandi in base al sistema operativo di arrivo.
+
+### Windows
+
+Per generare l'eseguibile dell'installer per Windows, bisogna utilizzare il seguente comando:
+```ps
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+```
+Nella cartella "_dist_", è presente l'eseguibile.
+### Linux (Steam Deck)
+
+Per generare l'eseguibile per Linux, bisogna fare qualche passaggio in più. L'installer è creato tramite la WSL per Windows.
+Per prima cosa bisogna creare l'ambiente virtuale per python tramite il comando:
+```ps
+python3 -m venv venv
+```
+Se non fosse presente la funzione nell'ambiente, si può installare tramite il seguente comando:
+```ps
+sudo apt-get install -y python3-venv
+```
+Con il comando seguente, attiviamo l'ambiente:
+```ps
+source venv/bin/activate
+```
+Dopo aver attivato l'ambiente bisogna installare pyinstaller con il comando:
+```ps
+pip3 install pyinstaller
+```
+Se pip non è presente nell'ambiente, bisogna installarlo con il comando:
+```ps
+sudo apt install -y python3-pip
+```
+Successivamente bisogna installare tutte le librerie utilizzate, presenti nel file requirements.txt, che in ogni caso sono:
+
+- PyQt6
+- pyzipper
+
+Successivamente bisogna avviare il comando per la creazione del file eseguibile:
+```ps
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+```
+
+Una volta terminato, si può disattivare l'ambiente con il commando:
+```ps
+deactivate
+```
+
+Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha tipo/estensione).
+
 ## TO DO
 
 - [x] Codifica e decodifica dei file PAR
 - [x] Codifica e decodifica dei file BIN 2007.03.19
+- [ ] Modifica al Font
 
 # Altre patch della serie
 
