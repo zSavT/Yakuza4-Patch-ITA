@@ -5,7 +5,7 @@
   },
   "1": {
     "KIND": "Allungo Finale",
-    "MSG": "La frequenza di attacco aumenter~ dopo che l'avversario è stato messo all'angolo."
+    "MSG": "La frequenza di attacco aumenter~ dopo che l'avversario | stato messo all'angolo."
   },
   "2": {
     "KIND": "Primo Attacco",
@@ -13,11 +13,11 @@
   },
   "3": {
     "KIND": "Lunatico",
-    "MSG": "L'Umore dell'apprendista determina la sua frequenza di attacco. C'è una probabilit~ del 70% che la frequenza di attacco aumenti."
+    "MSG": "L'Umore dell'apprendista determina la sua frequenza di attacco. C'| una probabilit~ del 70% che la frequenza di attacco aumenti."
   },
   "4": {
     "KIND": "Pugno Fortunato",
-    "MSG": "Le abilit~ saranno migliorate se l'avversario ha più Stamina dell'apprendista. Le abilit~ diminuiranno se l'avversario ha meno Stamina."
+    "MSG": "Le abilit~ saranno migliorate se l'avversario ha pi& Stamina dell'apprendista. Le abilit~ diminuiranno se l'avversario ha meno Stamina."
   },
   "5": {
     "KIND": "Orgoglio",
@@ -25,7 +25,7 @@
   },
   "6": {
     "KIND": "Persistenza",
-    "MSG": "Aumenta il montepremi. Tuttavia, l'apprendista sar~ più aperto ai danni dell'avversario, poiché sar~ distratto dalla reazione dei fan."
+    "MSG": "Aumenta il montepremi. Tuttavia, l'apprendista sar~ pi& aperto ai danni dell'avversario, poich$ sar~ distratto dalla reazione dei fan."
   },
   "7": {
     "KIND": "Abilit~ Regolare 07",

@@ -42,16 +42,16 @@
     "MSG": "Non hai ancora acquisito questa Mossa Finale."
   },
   "14": {
-    "MSG": "Puoi selezionare solo Riposo. Il tuo apprendista è ferito."
+    "MSG": "Puoi selezionare solo Riposo. Il tuo apprendista | ferito."
   },
   "15": {
-    "MSG": "Puoi selezionare solo Torneo, questo è il tuo turno finale."
+    "MSG": "Puoi selezionare solo Torneo, questo | il tuo turno finale."
   },
   "16": {
-    "MSG": "Devi partecipare a un Torneo, questo è il tuo turno finale."
+    "MSG": "Devi partecipare a un Torneo, questo | il tuo turno finale."
   },
   "17": {
-    "MSG": "Non puoi tornare indietro finché non inizi l'allenamento."
+    "MSG": "Non puoi tornare indietro finch$ non inizi l'allenamento."
   },
   "18": {
     "MSG": "Le voci del menu speciale non possono essere modificate."

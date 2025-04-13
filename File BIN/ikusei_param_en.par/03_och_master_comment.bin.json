@@ -36,7 +36,7 @@
     "TURN_NUM": ""
   },
   "3": {
-    "COMENNT": "La sua Tecnica non migliorer~ ulteriormente. Ha gi~ molte abilit~. Perché non lo fai competere in un incontro vero?",
+    "COMENNT": "La sua Tecnica non migliorer~ ulteriormente. Ha gi~ molte abilit~. Perch$ non lo fai competere in un incontro vero?",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -48,7 +48,7 @@
     "TURN_NUM": ""
   },
   "4": {
-    "COMENNT": "La sua Velocit~ non migliorer~ ulteriormente. Ha gi~ molte abilit~. Perché non lo fai competere in un incontro vero?",
+    "COMENNT": "La sua Velocit~ non migliorer~ ulteriormente. Ha gi~ molte abilit~. Perch$ non lo fai competere in un incontro vero?",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "60",
@@ -60,7 +60,7 @@
     "TURN_NUM": ""
   },
   "5": {
-    "COMENNT": "La sua Potenza non migliorer~ ulteriormente. Ha gi~ molte abilit~. Perché non lo fai competere in un incontro vero?",
+    "COMENNT": "La sua Potenza non migliorer~ ulteriormente. Ha gi~ molte abilit~. Perch$ non lo fai competere in un incontro vero?",
     "MAX_HP": "",
     "POWER": "100",
     "SPEED": "",
@@ -72,7 +72,7 @@
     "TURN_NUM": ""
   },
   "6": {
-    "COMENNT": "È diventato un combattente esemplare. Sono sicuro che può cavarsela in un torneo! Proviamoci!",
+    "COMENNT": "® diventato un combattente esemplare. Sono sicuro che pu# cavarsela in un torneo! Proviamoci!",
     "MAX_HP": "800",
     "POWER": "80",
     "SPEED": "50",
@@ -84,7 +84,7 @@
     "TURN_NUM": ""
   },
   "7": {
-    "COMENNT": "La sua Tecnica è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincer~ un torneo.",
+    "COMENNT": "La sua Tecnica | superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincer~ un torneo.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -96,7 +96,7 @@
     "TURN_NUM": ""
   },
   "8": {
-    "COMENNT": "La sua Velocit~ è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincer~ un torneo.",
+    "COMENNT": "La sua Velocit~ | superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincer~ un torneo.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "50",
@@ -108,7 +108,7 @@
     "TURN_NUM": ""
   },
   "9": {
-    "COMENNT": "La sua Potenza è superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincer~ un torneo.",
+    "COMENNT": "La sua Potenza | superba! Se lavori per rafforzare i suoi punti deboli, sono sicuro che vincer~ un torneo.",
     "MAX_HP": "",
     "POWER": "80",
     "SPEED": "",
@@ -120,7 +120,7 @@
     "TURN_NUM": ""
   },
   "10": {
-    "COMENNT": "È diventato un combattente spettacolare. Potrebbe essere pronto per un incontro di esibizione di medio livello.",
+    "COMENNT": "® diventato un combattente spettacolare. Potrebbe essere pronto per un incontro di esibizione di medio livello.",
     "MAX_HP": "800",
     "POWER": "60",
     "SPEED": "30",
@@ -132,7 +132,7 @@
     "TURN_NUM": ""
   },
   "11": {
-    "COMENNT": "Ha un'ottima Stamina. Continua così e lavora anche sulle sue altre abilit~. Sono sicuro che la sua Potenza si svilupper~ parecchio.",
+    "COMENNT": "Ha un'ottima Stamina. Continua cos* e lavora anche sulle sue altre abilit~. Sono sicuro che la sua Potenza si svilupper~ parecchio.",
     "MAX_HP": "800",
     "POWER": "",
     "SPEED": "",
@@ -144,7 +144,7 @@
     "TURN_NUM": ""
   },
   "12": {
-    "COMENNT": "La sua Tecnica è migliorata molto. Potrebbe non essere mai eccezionale, ma sono sicuro che c'è ancora spazio per una certa crescita.",
+    "COMENNT": "La sua Tecnica | migliorata molto. Potrebbe non essere mai eccezionale, ma sono sicuro che c'| ancora spazio per una certa crescita.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -156,7 +156,7 @@
     "TURN_NUM": ""
   },
   "13": {
-    "COMENNT": "È diventato molto più veloce, ma Fukushi sembra odiare l'allenamento di Velocit~. Dovresti lavorare sullo sviluppo delle sue altre abilit~.",
+    "COMENNT": "® diventato molto pi& veloce, ma Fukushi sembra odiare l'allenamento di Velocit~. Dovresti lavorare sullo sviluppo delle sue altre abilit~.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "30",
@@ -168,7 +168,7 @@
     "TURN_NUM": ""
   },
   "14": {
-    "COMENNT": "Fukushi sta diventando davvero potente! Cosa farò se mi aggredisce in un vicolo buio? Sto scherzando! Haha.",
+    "COMENNT": "Fukushi sta diventando davvero potente! Cosa far# se mi aggredisce in un vicolo buio? Sto scherzando! Haha.",
     "MAX_HP": "",
     "POWER": "60",
     "SPEED": "",
@@ -180,7 +180,7 @@
     "TURN_NUM": ""
   },
   "15": {
-    "COMENNT": "Sta crescendo a un ritmo ben bilanciato. La sua Potenza crescer~ sicuramente di più. Lasciamolo fare esperienza in incontri veri.",
+    "COMENNT": "Sta crescendo a un ritmo ben bilanciato. La sua Potenza crescer~ sicuramente di pi&. Lasciamolo fare esperienza in incontri veri.",
     "MAX_HP": "700",
     "POWER": "50",
     "SPEED": "20",

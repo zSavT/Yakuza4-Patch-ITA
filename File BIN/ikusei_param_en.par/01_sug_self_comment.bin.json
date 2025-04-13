@@ -12,7 +12,7 @@
     "TURN_NUM": "40"
   },
   "1": {
-    "COMENNT": "Mi sono infortunato. Dovrei prendermi più cura di me in futuro. Mi dispiace di essere un fallimento così epico...",
+    "COMENNT": "Mi sono infortunato. Dovrei prendermi pi& cura di me in futuro. Mi dispiace di essere un fallimento cos* epico...",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -24,7 +24,7 @@
     "TURN_NUM": ""
   },
   "2": {
-    "COMENNT": "Non ho più paura di combattere! Mi sono allenato duramente, quindi so di poter vincere! Per favore, lasciami partecipare a un torneo!",
+    "COMENNT": "Non ho pi& paura di combattere! Mi sono allenato duramente, quindi so di poter vincere! Per favore, lasciami partecipare a un torneo!",
     "MAX_HP": "",
     "POWER": "60",
     "SPEED": "60",
@@ -36,7 +36,7 @@
     "TURN_NUM": ""
   },
   "3": {
-    "COMENNT": "Mi sento come se fossi diventato molto più forte. Scommetto che potrei anche vincere un torneo. Cosa ne pensi?",
+    "COMENNT": "Mi sento come se fossi diventato molto pi& forte. Scommetto che potrei anche vincere un torneo. Cosa ne pensi?",
     "MAX_HP": "",
     "POWER": "40",
     "SPEED": "40",
@@ -48,7 +48,7 @@
     "TURN_NUM": ""
   },
   "4": {
-    "COMENNT": "Non ho molta esperienza di combattimento, quindi voglio combattere in quante più partite possibile. Ma non sono pronto per un torneo.",
+    "COMENNT": "Non ho molta esperienza di combattimento, quindi voglio combattere in quante pi& partite possibile. Ma non sono pronto per un torneo.",
     "MAX_HP": "",
     "POWER": "30",
     "SPEED": "30",
@@ -60,7 +60,7 @@
     "TURN_NUM": ""
   },
   "5": {
-    "COMENNT": "Sono diventato un po' più forte? Voglio mettere alla prova le mie abilit~ in una partita vera presto. O pensi che sia troppo presto?",
+    "COMENNT": "Sono diventato un po' pi& forte? Voglio mettere alla prova le mie abilit~ in una partita vera presto. O pensi che sia troppo presto?",
     "MAX_HP": "",
     "POWER": "15",
     "SPEED": "15",

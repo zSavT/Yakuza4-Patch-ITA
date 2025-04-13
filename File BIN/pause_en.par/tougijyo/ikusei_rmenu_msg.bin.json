@@ -1,18 +1,18 @@
 {
   "0": {
     "KIND": "Allenamento Pugni",
-    "MSG_LV1": "Allenamento per acquisire pugni più veloci e potenti.\nAllenamento ben bilanciato incentrato sulla <Color:7>Potenza<Color:Default>.",
-    "MSG_LV2": "Allenamento per acquisire pugni più veloci e potenti.\nAllenamento ben bilanciato incentrato sulla <Color:7>Potenza<Color:Default>.",
-    "MSG_LV3": "Allenamento per acquisire pugni più veloci e potenti.\nAllenamento ben bilanciato incentrato sulla <Color:7>Potenza<Color:Default>.",
+    "MSG_LV1": "Allenamento per acquisire pugni pi& veloci e potenti.\nAllenamento ben bilanciato incentrato sulla <Color:7>Potenza<Color:Default>.",
+    "MSG_LV2": "Allenamento per acquisire pugni pi& veloci e potenti.\nAllenamento ben bilanciato incentrato sulla <Color:7>Potenza<Color:Default>.",
+    "MSG_LV3": "Allenamento per acquisire pugni pi& veloci e potenti.\nAllenamento ben bilanciato incentrato sulla <Color:7>Potenza<Color:Default>.",
     "LV1_LV2": "Aggiorna le strutture di allenamento dei pugni al Livello 2.\nMigliora l'efficienza dell'allenamento.",
     "LV2_LV3": "Aggiorna le strutture di allenamento dei pugni al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
     "LV_MAX": "Impossibile aggiornare ulteriormente. "
   },
   "1": {
     "KIND": "Allenamento Calci ",
-    "MSG_LV1": "Allenamento per acquisire calci più potenti e precisi.\nAllenamento ben bilanciato incentrato sulla <Color:7>Velocit~<Color:Default>.",
-    "MSG_LV2": "Allenamento per acquisire calci più potenti e precisi.\nAllenamento ben bilanciato incentrato sulla <Color:7>Velocit~<Color:Default>.",
-    "MSG_LV3": "Allenamento per acquisire calci più potenti e precisi.\nAllenamento ben bilanciato incentrato sulla <Color:7>Velocit~<Color:Default>.",
+    "MSG_LV1": "Allenamento per acquisire calci pi& potenti e precisi.\nAllenamento ben bilanciato incentrato sulla <Color:7>Velocit~<Color:Default>.",
+    "MSG_LV2": "Allenamento per acquisire calci pi& potenti e precisi.\nAllenamento ben bilanciato incentrato sulla <Color:7>Velocit~<Color:Default>.",
+    "MSG_LV3": "Allenamento per acquisire calci pi& potenti e precisi.\nAllenamento ben bilanciato incentrato sulla <Color:7>Velocit~<Color:Default>.",
     "LV1_LV2": "Aggiorna le strutture di allenamento dei calci al Livello 2.\nMigliora l'efficienza dell'allenamento.",
     "LV2_LV3": "Aggiorna le strutture di allenamento dei calci al Livello 3.\nMigliora notevolmente l'efficienza dell'allenamento.",
     "LV_MAX": "Impossibile aggiornare ulteriormente. "
@@ -67,8 +67,8 @@
     "MSG_LV1": "Sintonizza il tuo <Color:20>Umore<Color:Default> dopo ripetuti allenamenti duri.\nRipristina anche un po' di <Color:7>Stamina<Color:Default>.",
     "MSG_LV2": "Sintonizza il tuo <Color:20>Umore<Color:Default> dopo ripetuti allenamenti duri.\nRipristina anche un po' di <Color:7>Stamina<Color:Default>.",
     "MSG_LV3": "Sintonizza il tuo <Color:20>Umore<Color:Default> dopo ripetuti allenamenti duri.\nRipristina anche un po' di <Color:7>Stamina<Color:Default>.",
-    "LV1_LV2": "Aggiorna le strutture di stretching al Livello 2.\nL'umore migliorer~ più velocemente. Diminuisce un po' la fatica.",
-    "LV2_LV3": "Aggiorna le strutture di stretching al Livello 3.\nL'umore migliorer~ molto più velocemente. Cura la fatica.",
+    "LV1_LV2": "Aggiorna le strutture di stretching al Livello 2.\nL'umore migliorer~ pi& velocemente. Diminuisce un po' la fatica.",
+    "LV2_LV3": "Aggiorna le strutture di stretching al Livello 3.\nL'umore migliorer~ molto pi& velocemente. Cura la fatica.",
     "LV_MAX": "Impossibile aggiornare ulteriormente. "
   },
   "8": {
@@ -76,8 +76,8 @@
     "MSG_LV1": "Riposati per liberare il corpo dalla fatica accumulata.\nRipristina notevolmente la <Color:20>Stamina<Color:Default>.",
     "MSG_LV2": "Riposati per liberare il corpo dalla fatica accumulata.\nRipristina notevolmente la <Color:20>Stamina<Color:Default>.",
     "MSG_LV3": "Riposati per liberare il corpo dalla fatica accumulata.\nRipristina notevolmente la <Color:20>Stamina<Color:Default>.",
-    "LV1_LV2": "Aggiorna le strutture di riposo al Livello 2.\nLa fatica diminuir~ più velocemente.",
-    "LV2_LV3": "Aggiorna le strutture di riposo al Livello 3.\nLa fatica diminuir~ molto più velocemente.",
+    "LV1_LV2": "Aggiorna le strutture di riposo al Livello 2.\nLa fatica diminuir~ pi& velocemente.",
+    "LV2_LV3": "Aggiorna le strutture di riposo al Livello 3.\nLa fatica diminuir~ molto pi& velocemente.",
     "LV_MAX": "Impossibile aggiornare ulteriormente."
   },
   "9": {

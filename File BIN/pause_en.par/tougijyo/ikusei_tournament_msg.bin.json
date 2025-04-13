@@ -16,7 +16,7 @@
   },
   "3": {
     "KIND": "Zona Casuale",
-    "MSG": "Incontro in cui l'avversario è sconosciuto. Tenuto frequentemente.\nPremio: 400.000 yen Livello: ?????",
+    "MSG": "Incontro in cui l'avversario | sconosciuto. Tenuto frequentemente.\nPremio: 400.000 yen Livello: ?????",
     "PRIZE_MONEY": "400000"
   },
   "4": {
@@ -71,7 +71,7 @@
   },
   "14": {
     "KIND": "Stelle Principianti",
-    "MSG": "Incontro di esibizione di livello più alto. Tenuto frequentemente.\nPremio: 1.000.000 yen Livello: 笘笘笘笘笘",
+    "MSG": "Incontro di esibizione di livello pi& alto. Tenuto frequentemente.\nPremio: 1.000.000 yen Livello: 笘笘笘笘笘",
     "PRIZE_MONEY": "1000000"
   },
   "15": {
