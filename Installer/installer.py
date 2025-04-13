@@ -637,8 +637,8 @@ class PackageCheckScreen(QWidget):
                         self.parent_wizard.current_aes_key = new_key_bytes; print("Chiave AES aggiornata (da input)."); key_changed = True
                 except Exception as e: QMessageBox.warning(self, "Errore Chiave", f"Chiave non valida: {e}"); print(f"Err key enc: {e}")
             else:
-                 if self.parent_wizard.current_aes_key != leggi_chiave(CHIAVE):
-                     self.parent_wizard.current_aes_key = leggi_chiave(CHIAVE); print("Chiave AES reimpostata (da input vuoto)."); key_changed = True
+                 if self.parent_wizard.current_aes_key != leggi_chiave(resource_path(CHIAVE)):
+                     self.parent_wizard.current_aes_key = leggi_chiave(resource_path(CHIAVE)); print("Chiave AES reimpostata (da input vuoto)."); key_changed = True
             # Pulisce campo se chiave cambiata, per prossimo tentativo
             # if key_changed: self.key_input_field.clear() # Forse meglio non pulirlo? Utente vede cosa ha messo.
 
@@ -781,7 +781,7 @@ class InstallerWizard(QWidget):
     def __init__(self):
         super().__init__()
         self.install_worker = None # Riferimento al thread worker (None se non attivo)
-        self.current_aes_key = leggi_chiave(CHIAVE) # Chiave AES attualmente in uso
+        self.current_aes_key = leggi_chiave(resource_path(CHIAVE)) # Chiave AES attualmente in uso
         self.setObjectName("InstallerWizard") # ID per QSS
 
         # Impostazioni finestra principale
@@ -876,8 +876,8 @@ class InstallerWizard(QWidget):
                     key_changed = True
             except Exception as e: QMessageBox.warning(self,"Errore Chiave",f"Errore: {e}"); print(f"Err key enc: {e}")
         elif ok and not text: # Se utente preme OK ma non inserisce testo -> default
-             if self.current_aes_key != leggi_chiave(CHIAVE):
-                 self.current_aes_key = leggi_chiave(CHIAVE)
+             if self.current_aes_key != leggi_chiave(resource_path(CHIAVE)):
+                 self.current_aes_key = leggi_chiave(resource_path(CHIAVE))
                  print("Chiave AES reimpostata al default.")
                  key_changed = True
         # Se la chiave è cambiata E siamo sulla schermata check, riesegui check
