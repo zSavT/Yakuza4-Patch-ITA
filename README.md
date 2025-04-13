@@ -143,17 +143,40 @@ Nella cartella "_dist_", è presente l'eseguibile.
 
 Per generare l'eseguibile per Linux, bisogna fare qualche passaggio in più. L'installer è creato tramite la WSL per Windows.
 Per prima cosa bisogna creare l'ambiente virtuale per python tramite il comando:
+```ps
+python3 -m venv venv
 ```
-source venv
+Se non fosse presente la funzione nell'ambiente, si può installare tramite il seguente comando:
+```ps
+sudo apt-get install -y python3-venv
 ```
-Dopo aver generato l'ambiente, bisogna attivare l'ambiente, con il seguente comando:
-```
+Con il comando seguente, attiviamo l'ambiente:
+```ps
 source venv/bin/activate
 ```
+Dopo aver attivato l'ambiente bisogna installare pyinstaller con il comando:
+```ps
+pip3 install pyinstaller
+```
+Se pip non è presente nell'ambiente, bisogna installarlo con il comando:
+```ps
+sudo apt install -y python3-pip
+```
+Successivamente bisogna installare tutte le librerie utilizzate, presenti nel file requirements.txt, che in ogni caso sono:
+
+- PyQt6
+- pyzipper
+
 Successivamente bisogna avviare il comando per la creazione del file eseguibile:
 ```ps
 pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
 ```
+
+Una volta terminato, si può disattivare l'ambiente con il commando:
+```ps
+deactivate
+```
+
 Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha tipo/estensione).
 
 ## TO DO
