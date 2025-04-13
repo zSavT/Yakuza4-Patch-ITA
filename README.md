@@ -29,15 +29,15 @@ Analizzando i file, mi sono accorto che principalmente il gioco utilizza file _P
 
 Per installare bisogna selezionare la sezione [Releases](https://github.com/zSavT/Yakuza4-Patch-ITA/releases) su GitHub e selezionare l'ultima versione della patch disponibile. Selezionate l'installer da scaricare in base al sistema operativo scelto ed avviate l'installer.
 
-![](img/installer1.png)
+![](img/Installer1.png)
 
 L'installazione è guidata e semplice, ma in ogni caso basterà sempre cliccare su "_Avanti_". Attendere la verifica dell'integrità dei file della Patch e cliccare successivamente su "_Avanti_".
 
-![](img/installer2.png)
+![](img/Installer2.png)
 
 Successivamente bisogna accettare i termini d'uso e poi nella schermata successiva, selezionare la cartella dove è installato Yakuza 4 (Di default è impostato il percorso classico) e cliccare su "_Installa Patch_".
 
-![](img/installer3.png)
+![](img/Installer3.png)
 
 # Struttura dei file
 
