@@ -27,7 +27,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un tempo l'unico campione di questo Colosseo, nessuno sa perché se ne sia andato o sia tornato. L'unica cosa certa è che è ancora il più forte e ha ancora sete di sangue.",
+        "EXPLANATION": "Un tempo l'unico campione di questo Colosseo, nessuno sa perch$ se ne sia andato o sia tornato. L'unica cosa certa | che | ancora il pi& forte e ha ancora sete di sangue.",
         "SWAY": "50",
         "SWAY_GLOWUP": "10"
     },
@@ -59,7 +59,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un uomo mascherato di origini sconosciute, si dice che fissare i suoi occhi attraverso la maschera accorcerà la tua vita, e solo uno sguardo del suo volto senza maschera significa morte. I suoi avversari affrontano un destino spietato.",
+        "EXPLANATION": "Un uomo mascherato di origini sconosciute, si dice che fissare i suoi occhi attraverso la maschera accorcer~ la tua vita, e solo uno sguardo del suo volto senza maschera significa morte. I suoi avversari affrontano un destino spietato.",
         "SWAY": "40",
         "SWAY_GLOWUP": "25"
     },
@@ -91,7 +91,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Tutte le sue sconfitte passate erano apparentemente finte. Questo superuomo si vanta di non essere mai stato messo KO. Il suo fisico ineguagliabile da solo è sufficiente per far riflettere chiunque osi affrontarlo.",
+        "EXPLANATION": "Tutte le sue sconfitte passate erano apparentemente finte. Questo superuomo si vanta di non essere mai stato messo KO. Il suo fisico ineguagliabile da solo | sufficiente per far riflettere chiunque osi affrontarlo.",
         "SWAY": "50",
         "SWAY_GLOWUP": "25"
     },
@@ -123,7 +123,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "La leggenda che ha superato il leggendario campione di sumo Raiden. Ha affrontato la tragedia quando è stato costretto a ritirarsi dopo aver rotto il collo di un avversario con uno schiaffo mortale.",
+        "EXPLANATION": "La leggenda che ha superato il leggendario campione di sumo Raiden. Ha affrontato la tragedia quando | stato costretto a ritirarsi dopo aver rotto il collo di un avversario con uno schiaffo mortale.",
         "SWAY": "35",
         "SWAY_GLOWUP": "20"
     },
@@ -155,7 +155,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "In ogni epoca e campo, c'è sempre qualcuno le cui abilità sono senza pari, come se quella persona fosse benedetta dagli dei. Ginga è quest'uomo al Colosseo Sotterraneo.",
+        "EXPLANATION": "In ogni epoca e campo, c'| sempre qualcuno le cui abilit~ sono senza pari, come se quella persona fosse benedetta dagli dei. Ginga | quest'uomo al Colosseo Sotterraneo.",
         "SWAY": "40",
         "SWAY_GLOWUP": "40"
     },
@@ -187,7 +187,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Le sue origini e le ragioni per cui combatte sono nascoste sotto un velo di mistero. I suoi potenti pugni hanno mandato in pensione numerosi grandi combattenti. Davvero l'uomo più forte in vita, si dice che i demoni dimorino nei suoi pugni.",
+        "EXPLANATION": "Le sue origini e le ragioni per cui combatte sono nascoste sotto un velo di mistero. I suoi potenti pugni hanno mandato in pensione numerosi grandi combattenti. Davvero l'uomo pi& forte in vita, si dice che i demoni dimorino nei suoi pugni.",
         "SWAY": "40",
         "SWAY_GLOWUP": "35"
     },
@@ -219,13 +219,13 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Esperto di arti marziali e fondatore della misteriosa tecnica Komaki. La sua forza imperitura è in continua evoluzione. Continua a combattere per sfidare se stesso e diffondere le arti Komaki.",
+        "EXPLANATION": "Esperto di arti marziali e fondatore della misteriosa tecnica Komaki. La sua forza imperitura | in continua evoluzione. Continua a combattere per sfidare se stesso e diffondere le arti Komaki.",
         "SWAY": "50",
         "SWAY_GLOWUP": "25"
     },
     "7": {
         "NAME": "Inzen Hozoin",
-        "CATCHPHRASE": "Il Bambino Più Ingrato",
+        "CATCHPHRASE": "Il Bambino Pi& Ingrato",
         "ATTACK": "70",
         "THROW": "0",
         "DEFENCE": "40",
@@ -251,7 +251,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Il successore della tecnica della lancia Hozoin, tramandata dal periodo Azuchi-Momoyama. Le sue abilità e movimenti superiori con la lancia sono alla pari con il fondatore dello stile, Inei. Combatte per diffondere lo spirito Hozoin.",
+        "EXPLANATION": "Il successore della tecnica della lancia Hozoin, tramandata dal periodo Azuchi-Momoyama. Le sue abilit~ e movimenti superiori con la lancia sono alla pari con il fondatore dello stile, Inei. Combatte per diffondere lo spirito Hozoin.",
         "SWAY": "40",
         "SWAY_GLOWUP": "50"
     },
@@ -283,7 +283,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Ex star di film d'azione che presentavano combattimenti reali, la sua vita si è trasformata in tragedia e disperazione quando è andato oltre la recitazione e ha ucciso una co-star.",
+        "EXPLANATION": "Ex star di film d'azione che presentavano combattimenti reali, la sua vita si | trasformata in tragedia e disperazione quando | andato oltre la recitazione e ha ucciso una co-star.",
         "SWAY": "40",
         "SWAY_GLOWUP": "30"
     },
@@ -315,7 +315,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un uomo misterioso con la reputazione di usare oggetti di uso quotidiano come biglietti da visita, penne e orologi come armi mortali. Per questo motivo gli è vietato scambiare biglietti da visita con altri combattenti.",
+        "EXPLANATION": "Un uomo misterioso con la reputazione di usare oggetti di uso quotidiano come biglietti da visita, penne e orologi come armi mortali. Per questo motivo gli | vietato scambiare biglietti da visita con altri combattenti.",
         "SWAY": "40",
         "SWAY_GLOWUP": "15"
     },
@@ -347,7 +347,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un pro-wrestler mascherato bandito dal ring dopo numerosi misfatti. È venuto al Colosseo Sotterraneo per combattere, ma mira a vendicarsi del mondo del pro-wrestling.",
+        "EXPLANATION": "Un pro-wrestler mascherato bandito dal ring dopo numerosi misfatti. ® venuto al Colosseo Sotterraneo per combattere, ma mira a vendicarsi del mondo del pro-wrestling.",
         "SWAY": "30",
         "SWAY_GLOWUP": "15"
     },
@@ -379,7 +379,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Dominare, saccheggiare e vincere tutto, in un certo senso, personifica la natura umana di base. Si dice che fuori dal ring sia un tenerone sensibile, ma dentro è un potente tiranno combattente.",
+        "EXPLANATION": "Dominare, saccheggiare e vincere tutto, in un certo senso, personifica la natura umana di base. Si dice che fuori dal ring sia un tenerone sensibile, ma dentro | un potente tiranno combattente.",
         "SWAY": "45",
         "SWAY_GLOWUP": "25"
     },
@@ -443,7 +443,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un combattente degno di nota che si vanta che il suo ruggito è capace di devastare tutto ciò che lo circonda. Gli addetti ai lavori dicono che la sua presenza sta aumentando l'affluenza al Colosseo Sotterraneo.",
+        "EXPLANATION": "Un combattente degno di nota che si vanta che il suo ruggito | capace di devastare tutto ci# che lo circonda. Gli addetti ai lavori dicono che la sua presenza sta aumentando l'affluenza al Colosseo Sotterraneo.",
         "SWAY": "40",
         "SWAY_GLOWUP": "20"
     },
@@ -507,7 +507,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un esperto di arti marziali Ryukyu di Okinawa. Si dice che le sue abilità vecchio stile e con il nunchaku siano di livello maestro. L'eccitazione di Kamurocho lo ha allontanato dal suo viaggio nell'ultimo anno.",
+        "EXPLANATION": "Un esperto di arti marziali Ryukyu di Okinawa. Si dice che le sue abilit~ vecchio stile e con il nunchaku siano di livello maestro. L'eccitazione di Kamurocho lo ha allontanato dal suo viaggio nell'ultimo anno.",
         "SWAY": "40",
         "SWAY_GLOWUP": "35"
     },
@@ -539,7 +539,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un gigante infuriato che può essere fermato sul ring solo dai suoi gestori. La sua propensione alla violenza ha portato a problemi fuori dal ring. Viene in cerca di un posto dove saziare la sua sete di violenza.",
+        "EXPLANATION": "Un gigante infuriato che pu# essere fermato sul ring solo dai suoi gestori. La sua propensione alla violenza ha portato a problemi fuori dal ring. Viene in cerca di un posto dove saziare la sua sete di violenza.",
         "SWAY": "35",
         "SWAY_GLOWUP": "15"
     },
@@ -571,7 +571,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un combattente di una fiera tribù guerriera. Cresciuto dalla madre natura, i suoi muscoli servono sia come armatura che come rampa di lancio per attacchi feroci. È venuto al Colosseo Sotterraneo in cerca di denaro.",
+        "EXPLANATION": "Un combattente di una fiera trib& guerriera. Cresciuto dalla madre natura, i suoi muscoli servono sia come armatura che come rampa di lancio per attacchi feroci. ® venuto al Colosseo Sotterraneo in cerca di denaro.",
         "SWAY": "40",
         "SWAY_GLOWUP": "30"
     },
@@ -603,7 +603,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Usando la sua forza come arma, Minotaur domina la scena del wrestling. Combatte nel Colosseo Sotterraneo per dimostrare la superiorità del pro-wrestling su tutti gli stili di combattimento.",
+        "EXPLANATION": "Usando la sua forza come arma, Minotaur domina la scena del wrestling. Combatte nel Colosseo Sotterraneo per dimostrare la superiorit~ del pro-wrestling su tutti gli stili di combattimento.",
         "SWAY": "35",
         "SWAY_GLOWUP": "35"
     },
@@ -635,7 +635,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un tempo al vertice del mondo del sumo, è stato espulso dal ring a causa del cattivo comportamento. Tuttavia, la sua passione per il sumo rimane, e pratica ancora il cerimoniale passo \"shiko\".",
+        "EXPLANATION": "Un tempo al vertice del mondo del sumo, | stato espulso dal ring a causa del cattivo comportamento. Tuttavia, la sua passione per il sumo rimane, e pratica ancora il cerimoniale passo \"shiko\".",
         "SWAY": "30",
         "SWAY_GLOWUP": "30"
     },
@@ -667,7 +667,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Questo promettente combattente kabuki ha uno strano motto: \"Il sangue degli altri è prezioso quanto denaro che cade a pioggia\". Quale sarà la reazione della folla ai suoi combattimenti: applausi fragorosi o urla di terrore?",
+        "EXPLANATION": "Questo promettente combattente kabuki ha uno strano motto: \"Il sangue degli altri | prezioso quanto denaro che cade a pioggia\". Quale sar~ la reazione della folla ai suoi combattimenti: applausi fragorosi o urla di terrore?",
         "SWAY": "35",
         "SWAY_GLOWUP": "30"
     },
@@ -699,7 +699,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Afferma di essere un discendente di Vlad l'Impalatore, rappresentando una lunga stirpe di vampiri. Sarà in grado di riempire la sua vita elegante ma insipida con il suo dessert preferito: \"l'Uccisione\"?",
+        "EXPLANATION": "Afferma di essere un discendente di Vlad l'Impalatore, rappresentando una lunga stirpe di vampiri. Sar~ in grado di riempire la sua vita elegante ma insipida con il suo dessert preferito: \"l'Uccisione\"?",
         "SWAY": "35",
         "SWAY_GLOWUP": "35"
     },
@@ -731,7 +731,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un rancore lo ha riportato dall'inferno, reincarnandolo come un guerriero nel Colosseo. Cerca di riposare in pace dopo aver vinto il torneo, ma è improbabile che ciò accada presto.",
+        "EXPLANATION": "Un rancore lo ha riportato dall'inferno, reincarnandolo come un guerriero nel Colosseo. Cerca di riposare in pace dopo aver vinto il torneo, ma | improbabile che ci# accada presto.",
         "SWAY": "35",
         "SWAY_GLOWUP": "30"
     },
@@ -763,7 +763,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Non si immaginerebbe che questo brutale combattente sia in realtà un calmo cuoco cinese a Little Asia nei suoi giorni liberi. Il suo trucco di scena è apparentemente la fonte della sua forza.",
+        "EXPLANATION": "Non si immaginerebbe che questo brutale combattente sia in realt~ un calmo cuoco cinese a Little Asia nei suoi giorni liberi. Il suo trucco di scena | apparentemente la fonte della sua forza.",
         "SWAY": "30",
         "SWAY_GLOWUP": "30"
     },
@@ -827,7 +827,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Lottava come un heel, ma un giorno divenne improvvisamente un face senza preavviso. Questo lo fece cacciare dalla sua organizzazione. Ora usa le sue eccezionali abilità qui per la sua paga.",
+        "EXPLANATION": "Lottava come un heel, ma un giorno divenne improvvisamente un face senza preavviso. Questo lo fece cacciare dalla sua organizzazione. Ora usa le sue eccezionali abilit~ qui per la sua paga.",
         "SWAY": "30",
         "SWAY_GLOWUP": "30"
     },
@@ -859,7 +859,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Uno specialista di combattimenti di strada della più grande banda del Giappone con un record di combattimenti comprovato da numerose esperienze infernali. Combatte per aumentare la presenza della sua banda nel sottosuolo.",
+        "EXPLANATION": "Uno specialista di combattimenti di strada della pi& grande banda del Giappone con un record di combattimenti comprovato da numerose esperienze infernali. Combatte per aumentare la presenza della sua banda nel sottosuolo.",
         "SWAY": "30",
         "SWAY_GLOWUP": "25"
     },
@@ -891,7 +891,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Questo pugile dai capelli dorati è abile nel sferrare combo di pugni super veloci. Non soddisfatto dei soldi del solo pugilato, ha deciso di combattere qui a causa della gigantesca borsa di combattimento.",
+        "EXPLANATION": "Questo pugile dai capelli dorati | abile nel sferrare combo di pugni super veloci. Non soddisfatto dei soldi del solo pugilato, ha deciso di combattere qui a causa della gigantesca borsa di combattimento.",
         "SWAY": "25",
         "SWAY_GLOWUP": "25"
     },
@@ -1019,7 +1019,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un combattente professionista che ha affrontato la morte innumerevoli volte sul campo di battaglia come mercenario. Eseguirà qualsiasi missione per denaro. Si allena al Colosseo Sotterraneo quando non ha lavoro.",
+        "EXPLANATION": "Un combattente professionista che ha affrontato la morte innumerevoli volte sul campo di battaglia come mercenario. Eseguir~ qualsiasi missione per denaro. Si allena al Colosseo Sotterraneo quando non ha lavoro.",
         "SWAY": "25",
         "SWAY_GLOWUP": "20"
     },
@@ -1051,7 +1051,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Di giorno è un famoso CEO di una società informatica, ma spende ingenti somme per allenarsi e diventare un combattente più forte. Il suo allenamento lo ha portato al Colosseo Sotterraneo.",
+        "EXPLANATION": "Di giorno | un famoso CEO di una societ~ informatica, ma spende ingenti somme per allenarsi e diventare un combattente pi& forte. Il suo allenamento lo ha portato al Colosseo Sotterraneo.",
         "SWAY": "25",
         "SWAY_GLOWUP": "45"
     },
@@ -1083,7 +1083,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Questo famoso combattente è noto per la sua ascia gigante. Nonostante diverse vittorie, si vanta che nessuno ha assistito alla sua vera abilità. Era solito lanciare la sua ascia sulla folla quando perdeva, ma non più.",
+        "EXPLANATION": "Questo famoso combattente | noto per la sua ascia gigante. Nonostante diverse vittorie, si vanta che nessuno ha assistito alla sua vera abilit~. Era solito lanciare la sua ascia sulla folla quando perdeva, ma non pi&.",
         "SWAY": "20",
         "SWAY_GLOWUP": "20"
     },
@@ -1115,7 +1115,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un ex giocatore di calcio di alto livello, ora combatte al Colosseo Sotterraneo per dimostrare che il calcio è lo sport numero uno. Apparentemente lavora come commentatore televisivo nei suoi giorni liberi.",
+        "EXPLANATION": "Un ex giocatore di calcio di alto livello, ora combatte al Colosseo Sotterraneo per dimostrare che il calcio | lo sport numero uno. Apparentemente lavora come commentatore televisivo nei suoi giorni liberi.",
         "SWAY": "30",
         "SWAY_GLOWUP": "15"
     },
@@ -1147,7 +1147,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Questo combattente è unico nelle sue tattiche di combattimento che utilizzano tecniche di pallavolo. I suoi colpi di schiacciata distintivi gli hanno fatto guadagnare numerosi KO, e continua a combattere per rafforzare questo stile individuale.",
+        "EXPLANATION": "Questo combattente | unico nelle sue tattiche di combattimento che utilizzano tecniche di pallavolo. I suoi colpi di schiacciata distintivi gli hanno fatto guadagnare numerosi KO, e continua a combattere per rafforzare questo stile individuale.",
         "SWAY": "30",
         "SWAY_GLOWUP": "15"
     },
@@ -1179,7 +1179,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Alcuni dicono che questo combattente abbia appreso tutte le sue abilità da video che ha ordinato online. Nonostante un livello di allenamento che supera tutti gli altri, la sua mancanza di esperienza reale ha portato a una serie di sconfitte.",
+        "EXPLANATION": "Alcuni dicono che questo combattente abbia appreso tutte le sue abilit~ da video che ha ordinato online. Nonostante un livello di allenamento che supera tutti gli altri, la sua mancanza di esperienza reale ha portato a una serie di sconfitte.",
         "SWAY": "20",
         "SWAY_GLOWUP": "15"
     },
@@ -1211,7 +1211,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "L'avanguardia di Underworld, una banda di motociclisti. Combatté come un maniaco nelle loro guerre territoriali, quindi il suo capo lo mandò al Colosseo per sfogarsi. Ma nonostante le intenzioni del capo, sembra ancora più pronto a fare a botte.",
+        "EXPLANATION": "L'avanguardia di Underworld, una banda di motociclisti. Combatt$ come un maniaco nelle loro guerre territoriali, quindi il suo capo lo mand# al Colosseo per sfogarsi. Ma nonostante le intenzioni del capo, sembra ancora pi& pronto a fare a botte.",
         "SWAY": "25",
         "SWAY_GLOWUP": "45"
     },
@@ -1275,7 +1275,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Soprannominato la Macchina Inaspettata per aver vinto numerosi incontri per il titolo contro ogni previsione. Si è unito al Colosseo Sotterraneo per dimostrare che tutte le sue vittorie non erano truccate.",
+        "EXPLANATION": "Soprannominato la Macchina Inaspettata per aver vinto numerosi incontri per il titolo contro ogni previsione. Si | unito al Colosseo Sotterraneo per dimostrare che tutte le sue vittorie non erano truccate.",
         "SWAY": "20",
         "SWAY_GLOWUP": "40"
     },
@@ -1339,7 +1339,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Le sue origini e il motivo per cui combatte sono nascosti sotto un velo di mistero. Tuttavia, le sue mosse aggraziate ti ricorderanno un certo uomo. È giusto dire che è la reincarnazione di una leggenda.",
+        "EXPLANATION": "Le sue origini e il motivo per cui combatte sono nascosti sotto un velo di mistero. Tuttavia, le sue mosse aggraziate ti ricorderanno un certo uomo. ® giusto dire che | la reincarnazione di una leggenda.",
         "SWAY": "35",
         "SWAY_GLOWUP": "8"
     },
@@ -1403,7 +1403,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un cuoco che ha dedicato i suoi sforzi alla sua forma di combattimento gourmet. Eccezionale con i coltelli, la sua velocità di taglio ha stabilito nuovi record. Ora utilizza appieno il suo stile unico al Colosseo Sotterraneo.",
+        "EXPLANATION": "Un cuoco che ha dedicato i suoi sforzi alla sua forma di combattimento gourmet. Eccezionale con i coltelli, la sua velocit~ di taglio ha stabilito nuovi record. Ora utilizza appieno il suo stile unico al Colosseo Sotterraneo.",
         "SWAY": "25",
         "SWAY_GLOWUP": "5"
     },
@@ -1435,7 +1435,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Quest'uomo è andato troppo oltre sul suo blog e si è vantato di essere il miglior combattente. Ora, per dimostrare che non stava mentendo, combatte al Colosseo Sotterraneo. È ignaro del fatto che non può bloggare sui combattimenti clandestini...",
+        "EXPLANATION": "Quest'uomo | andato troppo oltre sul suo blog e si | vantato di essere il miglior combattente. Ora, per dimostrare che non stava mentendo, combatte al Colosseo Sotterraneo. ® ignaro del fatto che non pu# bloggare sui combattimenti clandestini...",
         "SWAY": "10",
         "SWAY_GLOWUP": "45"
     },
@@ -1467,7 +1467,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Il primo apprendista di Taiga Saejima, Sugiyama ha iniziato a combattere per conquistare una ragazza che gli piaceva. Ha fallito in amore, ma è riuscito a diventare un superbo combattente equilibrato. I suoi occhiali sono puramente per moda.",
+        "EXPLANATION": "Il primo apprendista di Taiga Saejima, Sugiyama ha iniziato a combattere per conquistare una ragazza che gli piaceva. Ha fallito in amore, ma | riuscito a diventare un superbo combattente equilibrato. I suoi occhiali sono puramente per moda.",
         "SWAY": "30",
         "SWAY_GLOWUP": "30"
     },
@@ -1499,7 +1499,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Il secondo apprendista di Taiga Saejima, Ehama ha iniziato a combattere dopo essere stato licenziato dal lavoro. Come nota a margine, a quanto pare è stato licenziato per aver consegnato al capo un caffﾃｨ latte quando voleva un caffﾃｨ mocha.",
+        "EXPLANATION": "Il secondo apprendista di Taiga Saejima, Ehama ha iniziato a combattere dopo essere stato licenziato dal lavoro. Come nota a margine, a quanto pare | stato licenziato per aver consegnato al capo un caffﾃｨ latte quando voleva un caffﾃｨ mocha.",
         "SWAY": "30",
         "SWAY_GLOWUP": "30"
     },
@@ -1531,7 +1531,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Il terzo apprendista di Taiga Saejima, a Ochiai a quanto pare piace il Sodachi Dojo, dato che usa sempre il posto per fare dei sonnellini. Nessuno al dojo se n'è accorto, ma è un famoso scrittore per una popolare rubrica di riviste.",
+        "EXPLANATION": "Il terzo apprendista di Taiga Saejima, a Ochiai a quanto pare piace il Sodachi Dojo, dato che usa sempre il posto per fare dei sonnellini. Nessuno al dojo se n'| accorto, ma | un famoso scrittore per una popolare rubrica di riviste.",
         "SWAY": "30",
         "SWAY_GLOWUP": "30"
     },
@@ -1563,7 +1563,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Il quarto apprendista di Taiga Saejima. Un narcisista nato, l'hobby di Tokita è guardarsi allo specchio. La sua presunzione una volta lo portò a ignorare i sentimenti degli altri, ma Saejima ha cambiato le cose.",
+        "EXPLANATION": "Il quarto apprendista di Taiga Saejima. Un narcisista nato, l'hobby di Tokita | guardarsi allo specchio. La sua presunzione una volta lo port# a ignorare i sentimenti degli altri, ma Saejima ha cambiato le cose.",
         "SWAY": "30",
         "SWAY_GLOWUP": "30"
     },
@@ -1595,7 +1595,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "L'ultimo apprendista di Taiga Saejima, un giovane dal cuore gentile. Essere chiamato grasso una volta fece sì che Watanabe evitasse di aprirsi agli altri, ma l'allenamento lo ha trasformato. Gli piace il tè oolong e ne beve circa cinque litri al giorno.",
+        "EXPLANATION": "L'ultimo apprendista di Taiga Saejima, un giovane dal cuore gentile. Essere chiamato grasso una volta fece s* che Watanabe evitasse di aprirsi agli altri, ma l'allenamento lo ha trasformato. Gli piace il t| oolong e ne beve circa cinque litri al giorno.",
         "SWAY": "30",
         "SWAY_GLOWUP": "30"
     },
@@ -1627,7 +1627,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Insuperabile nel circuito di kickboxing, non è stato in grado di mostrare il suo vero potenziale. Questo lo ha portato al Colosseo Sotterraneo, alla ricerca di un avversario degno.",
+        "EXPLANATION": "Insuperabile nel circuito di kickboxing, non | stato in grado di mostrare il suo vero potenziale. Questo lo ha portato al Colosseo Sotterraneo, alla ricerca di un avversario degno.",
         "SWAY": "40",
         "SWAY_GLOWUP": "30"
     },
@@ -1659,7 +1659,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Espulso dal circuito di boxe del suo paese per gioco d'azzardo, è arrivato al Colosseo Sotterraneo in cerca di un combattimento. È noto per il suo agile gioco di gambe e la sua dura potenza di pugno.",
+        "EXPLANATION": "Espulso dal circuito di boxe del suo paese per gioco d'azzardo, | arrivato al Colosseo Sotterraneo in cerca di un combattimento. ® noto per il suo agile gioco di gambe e la sua dura potenza di pugno.",
         "SWAY": "35",
         "SWAY_GLOWUP": "30"
     },
@@ -1691,7 +1691,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Nonostante la sua solida reputazione di gran maestro, ha lasciato il suo rispettato dojo di karate alla ricerca della forza. Si è unito al Colosseo Sotterraneo, abbandonando il suo grado, onore e cintura nera.",
+        "EXPLANATION": "Nonostante la sua solida reputazione di gran maestro, ha lasciato il suo rispettato dojo di karate alla ricerca della forza. Si | unito al Colosseo Sotterraneo, abbandonando il suo grado, onore e cintura nera.",
         "SWAY": "30",
         "SWAY_GLOWUP": "30"
     },
@@ -1723,7 +1723,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un pugile tecnico che elude agilmente gli attacchi proprio come un torero. È venuto dalla Spagna dopo aver sentito parlare di un torneo in cui competono solo i combattenti più forti.",
+        "EXPLANATION": "Un pugile tecnico che elude agilmente gli attacchi proprio come un torero. ® venuto dalla Spagna dopo aver sentito parlare di un torneo in cui competono solo i combattenti pi& forti.",
         "SWAY": "35",
         "SWAY_GLOWUP": "30"
     },
@@ -1755,7 +1755,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Il suo calcio al ginocchio letale domina il circuito di kickboxing giapponese. È diventato il più giovane a battere numerosi record di combattimento. I combattimenti ufficiali non gli bastavano, quindi ora gareggia nel Colosseo Sotterraneo.",
+        "EXPLANATION": "Il suo calcio al ginocchio letale domina il circuito di kickboxing giapponese. ® diventato il pi& giovane a battere numerosi record di combattimento. I combattimenti ufficiali non gli bastavano, quindi ora gareggia nel Colosseo Sotterraneo.",
         "SWAY": "30",
         "SWAY_GLOWUP": "30"
     },
@@ -1787,7 +1787,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Capo di una banda di motociclisti con sede a Kamurocho. Si è guadagnato la sua posizione vincendo un gran numero di combattimenti. Combatte in incontri di tag team con il suo amico Shogo Usui per diffondere il nome della sua banda di motociclisti.",
+        "EXPLANATION": "Capo di una banda di motociclisti con sede a Kamurocho. Si | guadagnato la sua posizione vincendo un gran numero di combattimenti. Combatte in incontri di tag team con il suo amico Shogo Usui per diffondere il nome della sua banda di motociclisti.",
         "SWAY": "30",
         "SWAY_GLOWUP": "30"
     },
@@ -1883,7 +1883,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un esperto di kung fu insieme al suo partner, Yi-san. È gentile e rispettato, ma spietato contro gli avversari una volta sul ring. Il combattimento al Colosseo fa parte del suo allenamento atletico.",
+        "EXPLANATION": "Un esperto di kung fu insieme al suo partner, Yi-san. ® gentile e rispettato, ma spietato contro gli avversari una volta sul ring. Il combattimento al Colosseo fa parte del suo allenamento atletico.",
         "SWAY": "30",
         "SWAY_GLOWUP": "30"
     },
@@ -1979,7 +1979,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Non riuscendo a trovare un lavoro tradizionale, è diventato un combattente di strada. Ma quando ha sentito parlare del Colosseo, ha deciso di unirsi. Anche se non ha esperienza professionale, le sue capacità parlano da sole. La prossima stella nascente.",
+        "EXPLANATION": "Non riuscendo a trovare un lavoro tradizionale, | diventato un combattente di strada. Ma quando ha sentito parlare del Colosseo, ha deciso di unirsi. Anche se non ha esperienza professionale, le sue capacit~ parlano da sole. La prossima stella nascente.",
         "SWAY": "30",
         "SWAY_GLOWUP": "30"
     },
@@ -2011,7 +2011,7 @@
         "ARMS2": "",
         "ARMS1_GLOWUP": "",
         "ARMS2_GLOWUP": "",
-        "EXPLANATION": "Un nuovo combattente impavido che non ha mai perso un combattimento. Si è unito al Colosseo Sotterraneo per guadagnare più soldi. Il suo stile rozzo ha ancora bisogno di lavoro, ma il suo spirito e il suo coraggio sono al top.",
+        "EXPLANATION": "Un nuovo combattente impavido che non ha mai perso un combattimento. Si | unito al Colosseo Sotterraneo per guadagnare pi& soldi. Il suo stile rozzo ha ancora bisogno di lavoro, ma il suo spirito e il suo coraggio sono al top.",
         "SWAY": "30",
         "SWAY_GLOWUP": "30"
     },

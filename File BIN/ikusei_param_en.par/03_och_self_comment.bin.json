@@ -1,6 +1,6 @@
 {
   "0": {
-    "COMENNT": "Ehi, vecchio! Lasciami partecipare presto a un torneo o mi arrabbierò sul serio!",
+    "COMENNT": "Ehi, vecchio! Lasciami partecipare presto a un torneo o mi arrabbier# sul serio!",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -12,7 +12,7 @@
     "TURN_NUM": "40"
   },
   "1": {
-    "COMENNT": "Fantastico, mi sono ferito! Fa un male cane ed è tutta colpa tua! Pagherai i conti!",
+    "COMENNT": "Fantastico, mi sono ferito! Fa un male cane ed | tutta colpa tua! Pagherai i conti!",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -24,7 +24,7 @@
     "TURN_NUM": ""
   },
   "2": {
-    "COMENNT": "Hehehe. Allenarmi con te è divertente. Vincerò sicuramente il torneo. Aspetta e vedrai.",
+    "COMENNT": "Hehehe. Allenarmi con te | divertente. Vincer# sicuramente il torneo. Aspetta e vedrai.",
     "MAX_HP": "800",
     "POWER": "80",
     "SPEED": "45",
@@ -36,7 +36,7 @@
     "TURN_NUM": ""
   },
   "3": {
-    "COMENNT": "Sono così bravo che non ho nemmeno bisogno di allenarmi più. Sbrigati e fammi partecipare a un torneo!",
+    "COMENNT": "Sono cos* bravo che non ho nemmeno bisogno di allenarmi pi&. Sbrigati e fammi partecipare a un torneo!",
     "MAX_HP": "600",
     "POWER": "30",
     "SPEED": "25",

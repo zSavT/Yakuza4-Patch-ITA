@@ -12,7 +12,7 @@
     "TURN_NUM": "40"
   },
   "1": {
-    "COMENNT": "Mi sono infortunato. Mi dispiace. La mia Stamina è sempre stata scarsa. Uffa, sono proprio un perdente...",
+    "COMENNT": "Mi sono infortunato. Mi dispiace. La mia Stamina | sempre stata scarsa. Uffa, sono proprio un perdente...",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
@@ -24,7 +24,7 @@
     "TURN_NUM": ""
   },
   "2": {
-    "COMENNT": "Non credo di poter diventare più forte di quanto non lo sia ora. Voglio davvero vincere un torneo. Credo in me stesso per la prima volta in assoluto.",
+    "COMENNT": "Non credo di poter diventare pi& forte di quanto non lo sia ora. Voglio davvero vincere un torneo. Credo in me stesso per la prima volta in assoluto.",
     "MAX_HP": "600",
     "POWER": "60",
     "SPEED": "90",
@@ -36,7 +36,7 @@
     "TURN_NUM": ""
   },
   "3": {
-    "COMENNT": "Mi sento come se fossi diventato molto più forte. Forse potrei anche vincere un torneo. Mi sento fiducioso per la prima volta nella mia vita!",
+    "COMENNT": "Mi sento come se fossi diventato molto pi& forte. Forse potrei anche vincere un torneo. Mi sento fiducioso per la prima volta nella mia vita!",
     "MAX_HP": "450",
     "POWER": "30",
     "SPEED": "60",
@@ -60,7 +60,7 @@
     "TURN_NUM": ""
   },
   "5": {
-    "COMENNT": "L'allenamento di Velocità è divertente! È fantastico sapere di avere abilità così straordinarie!",
+    "COMENNT": "L'allenamento di Velocit~ | divertente! ® fantastico sapere di avere abilit~ cos* straordinarie!",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "40",
@@ -84,7 +84,7 @@
     "TURN_NUM": ""
   },
   "7": {
-    "COMENNT": "Mi dispiace, la mia Stamina è davvero bassa. Dovrei fare qualcosa al riguardo? Sono preoccupato di non essere in grado di tenere il passo con il mio allenamento.",
+    "COMENNT": "Mi dispiace, la mia Stamina | davvero bassa. Dovrei fare qualcosa al riguardo? Sono preoccupato di non essere in grado di tenere il passo con il mio allenamento.",
     "MAX_HP": "★300",
     "POWER": "",
     "SPEED": "",

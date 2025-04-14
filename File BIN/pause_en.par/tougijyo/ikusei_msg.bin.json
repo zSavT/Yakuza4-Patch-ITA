@@ -9,7 +9,7 @@
     "MSG": "Leggi i commenti degli apprendisti."
   },
   "3": {
-    "MSG": "Equipaggia l'apprendista con le Abilità e le Mosse Finali acquisite."
+    "MSG": "Equipaggia l'apprendista con le Abilit~ e le Mosse Finali acquisite."
   },
   "4": {
     "MSG": "Controlla lo stato del dojo."
@@ -30,28 +30,28 @@
     "MSG": "Devi finire di impostare il programma."
   },
   "10": {
-    "MSG": "Equipaggia l'apprendista con le Abilità acquisite."
+    "MSG": "Equipaggia l'apprendista con le Abilit~ acquisite."
   },
   "11": {
     "MSG": "Equipaggia l'apprendista con le Mosse Finali acquisite."
   },
   "12": {
-    "MSG": "Non hai ancora acquisito questa Abilità."
+    "MSG": "Non hai ancora acquisito questa Abilit~."
   },
   "13": {
     "MSG": "Non hai ancora acquisito questa Mossa Finale."
   },
   "14": {
-    "MSG": "Puoi selezionare solo Riposo. Il tuo apprendista è ferito."
+    "MSG": "Puoi selezionare solo Riposo. Il tuo apprendista | ferito."
   },
   "15": {
-    "MSG": "Puoi selezionare solo Torneo, questo è il tuo turno finale."
+    "MSG": "Puoi selezionare solo Torneo, questo | il tuo turno finale."
   },
   "16": {
-    "MSG": "Devi partecipare a un Torneo, questo è il tuo turno finale."
+    "MSG": "Devi partecipare a un Torneo, questo | il tuo turno finale."
   },
   "17": {
-    "MSG": "Non puoi tornare indietro finché non inizi l'allenamento."
+    "MSG": "Non puoi tornare indietro finch$ non inizi l'allenamento."
   },
   "18": {
     "MSG": "Le voci del menu speciale non possono essere modificate."

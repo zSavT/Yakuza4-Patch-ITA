@@ -21,23 +21,23 @@
   },
   "5": {
     "KIND": "Essenza dello Spaccare la Recinzione",
-    "MSG": "Prendi a pugni la faccia di un nemico a terra senza pietà.\nPotenza: Alta ~Può essere usato solo quando l'avversario è a terra."
+    "MSG": "Prendi a pugni la faccia di un nemico a terra senza piet~.\nPotenza: Alta ~Pu# essere usato solo quando l'avversario | a terra."
   },
   "6": {
     "KIND": "Guard Breaker ",
-    "MSG": "Lancia un nemico a terra in aria per un clothesline.\nPotenza: Super ~Può essere usato solo quando l'avversario è a terra."
+    "MSG": "Lancia un nemico a terra in aria per un clothesline.\nPotenza: Super ~Pu# essere usato solo quando l'avversario | a terra."
   },
   "7": {
     "KIND": "Combo Rimbalzo Muro ",
-    "MSG": "Un attacco spietato che sbatte la faccia di un nemico contro una recinzione.\nPotenza: Media ~Può essere usato solo afferrando un avversario."
+    "MSG": "Un attacco spietato che sbatte la faccia di un nemico contro una recinzione.\nPotenza: Media ~Pu# essere usato solo afferrando un avversario."
   },
   "8": {
-    "KIND": "Abilità Speciale 08",
-    "MSG": "Afferra e sbatte con forza un nemico a terra.\nPotenza: Super ~Può essere usato solo afferrando un avversario."
+    "KIND": "Abilit~ Speciale 08",
+    "MSG": "Afferra e sbatte con forza un nemico a terra.\nPotenza: Super ~Pu# essere usato solo afferrando un avversario."
   },
   "9": {
-    "KIND": "Abilità Speciale 09 ",
-    "MSG": "Una mossa estremamente potente che abbatte il nemico a faccia in giù sfruttando tutta la forza del tuo corpo.\nPotenza: Alta"
+    "KIND": "Abilit~ Speciale 09 ",
+    "MSG": "Una mossa estremamente potente che abbatte il nemico a faccia in gi& sfruttando tutta la forza del tuo corpo.\nPotenza: Alta"
   },
   "types": {
     "KIND": "string",

@@ -1,19 +1,19 @@
 {
   "0": {
     "KIND": "Sparring",
-    "MSG": "Combattimento di allenamento con il tuo apprendista. Consuma molta Stamina, ma aumenterà le abilità generali."
+    "MSG": "Combattimento di allenamento con il tuo apprendista. Consuma molta Stamina, ma aumenter~ le abilit~ generali."
   },
   "1": {
     "KIND": "Allenamento Individuale",
-    "MSG": "Affida il tuo apprendista all'allenamento da solo. Le probabilità di una sessione di allenamento di successo dipendono dalla personalità e dalla Fiducia."
+    "MSG": "Affida il tuo apprendista all'allenamento da solo. Le probabilit~ di una sessione di allenamento di successo dipendono dalla personalit~ e dalla Fiducia."
   },
   "2": {
     "KIND": "Mosse Finali",
-    "MSG": "Insegna al tuo apprendista una Mossa Finale. Consuma una grande quantità di Stamina e diminuisce leggermente l'Umore."
+    "MSG": "Insegna al tuo apprendista una Mossa Finale. Consuma una grande quantit~ di Stamina e diminuisce leggermente l'Umore."
   },
   "3": {
     "KIND": "Incontro",
-    "MSG": "Porta il tuo apprendista a bere qualcosa per cambiare umore. Una conversazione divertente aumenterà la Fiducia e l'Umore."
+    "MSG": "Porta il tuo apprendista a bere qualcosa per cambiare umore. Una conversazione divertente aumenter~ la Fiducia e l'Umore."
   },
   "4": {
     "KIND": "Riposo",
@@ -33,7 +33,7 @@
   },
   "8": {
     "KIND": "Torneo ",
-    "MSG": "Partecipa a un torneo. L'obiettivo finale per il tuo apprendista è vincere un torneo entro 50 Turni."
+    "MSG": "Partecipa a un torneo. L'obiettivo finale per il tuo apprendista | vincere un torneo entro 50 Turni."
   },
   "9": {
     "KIND": "VUOTO",

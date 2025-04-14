@@ -24,7 +24,7 @@
     "TURN_NUM": ""
   },
   "2": {
-    "COMENNT": "Sento di essermi allenato al massimo. Non so quanto sarà forte il mio avversario, ma sono sicuro di poter vincere un torneo!",
+    "COMENNT": "Sento di essermi allenato al massimo. Non so quanto sar~ forte il mio avversario, ma sono sicuro di poter vincere un torneo!",
     "MAX_HP": "900",
     "POWER": "90",
     "SPEED": "70",
@@ -36,7 +36,7 @@
     "TURN_NUM": ""
   },
   "3": {
-    "COMENNT": "Mi sembra strano dirlo, ma sono diventato molto più forte. Voglio mettere alla prova le mie abilità in partite vere.",
+    "COMENNT": "Mi sembra strano dirlo, ma sono diventato molto pi& forte. Voglio mettere alla prova le mie abilit~ in partite vere.",
     "MAX_HP": "700",
     "POWER": "70",
     "SPEED": "50",
@@ -48,7 +48,7 @@
     "TURN_NUM": ""
   },
   "4": {
-    "COMENNT": "Potrebbe essere troppo presto per un torneo, ma mi sento più sicuro. Forse diventerò più sicuro se parteciperò a qualche partita.",
+    "COMENNT": "Potrebbe essere troppo presto per un torneo, ma mi sento pi& sicuro. Forse diventer# pi& sicuro se parteciper# a qualche partita.",
     "MAX_HP": "600",
     "POWER": "50",
     "SPEED": "30",
@@ -60,7 +60,7 @@
     "TURN_NUM": ""
   },
   "5": {
-    "COMENNT": "L'allenamento è divertente. Il mio preferito è quando la mia Potenza aumenta. Voglio diventare molto più forte.",
+    "COMENNT": "L'allenamento | divertente. Il mio preferito | quando la mia Potenza aumenta. Voglio diventare molto pi& forte.",
     "MAX_HP": "",
     "POWER": "50",
     "SPEED": "",
@@ -72,7 +72,7 @@
     "TURN_NUM": ""
   },
   "6": {
-    "COMENNT": "Non riesco a credere che un tipo come me possa crescere così. Non sono più solo un ragazzo grasso. Voglio mettere alla prova le mie abilità in una partita vera.",
+    "COMENNT": "Non riesco a credere che un tipo come me possa crescere cos*. Non sono pi& solo un ragazzo grasso. Voglio mettere alla prova le mie abilit~ in una partita vera.",
     "MAX_HP": "500",
     "POWER": "30",
     "SPEED": "20",
@@ -84,7 +84,7 @@
     "TURN_NUM": ""
   },
   "7": {
-    "COMENNT": "Dovrei concentrarmi sulla costruzione delle mie abilità di base per ora. Saejima-san, insegnami tutto quello che sai!",
+    "COMENNT": "Dovrei concentrarmi sulla costruzione delle mie abilit~ di base per ora. Saejima-san, insegnami tutto quello che sai!",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "",
