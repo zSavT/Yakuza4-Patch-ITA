@@ -65,6 +65,9 @@ Successivamente bisogna accettare i termini d'uso e poi nella schermata successi
 - __Yakuza 4\data\ikusei_param_en.par__
     - All'interno sono presenti i testi del gioco relativi al colosseo.
     - [x] Tradotto
+- __Yakuza 4\data\fontpar__
+    - All'interno sono presenti i dati relativo al font del gioco.
+    - [x] Tradotto
 
 # Funzionamento estrazione PAR
 
@@ -208,7 +211,7 @@ Si ringrazia
 
 - Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.<br>
 - Per la codifica e la decodifica dei file BIN 2007.03.19 del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer) da SlowpokeVG.
-- Per la modifica dei font, è stata fatta partendo dalla mod 4K dei font reperibile da [qui](https://www.nexusmods.com/yakuza4remastered/mods/14) realizzata da Chalkint.
+- Per la modifica dei font, è stata realizzatta partendo dalla mod 4K dei font reperibile da [qui](https://www.nexusmods.com/yakuza4remastered/mods/14) realizzata da Chalkint.
 
 ## Copyright
 This patch does not contain copyrighted material, has no functional autonomy, and you must have your original own copy to apply it.
