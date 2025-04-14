@@ -116,14 +116,14 @@
     "CATEGORY_EXPLANATION": "",
     "TIPS_NAME": "Stile di Combattimento di Kiryu",
     "SCENARIO_STATUS": "80a30010",
-    "TIPS_EXPLANATION": "Lo stile di combattimento di Kiryu si basa su una variet~ di attacchi di percussione, lancio, multidirezionali e altre tecniche che non smettono mai di stupire. Pu# anche padroneggiare un'ampia variet~ di armi, rendendolo una macchina da combattimento quasi perfetta in grado di gestire ogni tipo di situazione. Quando | davvero eccitato e circondato dal suo speciale \"Calore Rosso\", pu# scatenare potenti Azioni di Calore senza pari."
+    "TIPS_EXPLANATION": "Lo stile di combattimento di Kiryu si basa su una variet~ di attacchi di percussione, lancio, multidirezionali e altre tecniche che non smettono mai di stupire. Pu# anche padroneggiare un'ampia variet~ di armi, rendendolo una macchina da combattimento quasi perfetta in grado di gestire ogni tipo di situazione. Quando | davvero eccitato e circondato dal suo speciale \"Heat Rosso\", pu# scatenare potenti Azioni di Heat senza pari."
   },
   "17": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Azioni di Calore",
+    "TIPS_NAME": "Azioni di Heat",
     "SCENARIO_STATUS": "80a30011",
-    "TIPS_EXPLANATION": "Le Azioni di Calore sono tecniche segrete disponibili solo per i prescelti.\n\nPer scatenarle, devi entrare in Modalit~ Calore e soddisfare determinate condizioni. Ad esempio, afferra un nemico per eseguire una mossa Essenza del Terreno e sbattilo a terra. Oppure, prendi un'arma per scatenare una dolorosa mossa Essenza dell'Armamento. Controlla queste condizioni premendo <Action:Battle_Heavy_Attack@Combat> sulla schermata Abilit~ e visualizzando l'elenco delle Azioni di Calore."
+    "TIPS_EXPLANATION": "Le Azioni di Heat sono tecniche segrete disponibili solo per i prescelti.\n\nPer scatenarle, devi entrare in Modalit~ Heat e soddisfare determinate condizioni. Ad esempio, afferra un nemico per eseguire una mossa Essenza del Terreno e sbattilo a terra. Oppure, prendi un'arma per scatenare una dolorosa mossa Essenza dell'Armamento. Controlla queste condizioni premendo <Action:Battle_Heavy_Attack@Combat> sulla schermata Abilit~ e visualizzando l'elenco delle Azioni di Heat."
   },
   "18": {
     "CATEGORY": "",
@@ -158,14 +158,14 @@
     "CATEGORY_EXPLANATION": "",
     "TIPS_NAME": "Altre Tecniche di Battaglia di Inseguimento",
     "SCENARIO_STATUS": "80a30016",
-    "TIPS_EXPLANATION": "Ci sono una serie di tecniche che puoi usare durante le Battaglie di Inseguimento.\n\n - Salta con <Action:Button_Cross@Chase>.\n - Inversione rapida con <Action:Button_R1@Chase> + <Action:Button_LS_Up@Chase><Action:Button_LS_Down@Chase><Action:Button_LS_Left@Chase><Action:Button_LS_Right@Chase>.\n - Scatena un'Azione di Calore quando viene visualizzato <Action:Button_Triangle@Chase>.\n Questo pu# essere usato solo una volta per Battaglia di Inseguimento.\nPuoi anche mostrare/nascondere la guida della Battaglia di Inseguimento premendo <Action:Button_L1@Chase>."
+    "TIPS_EXPLANATION": "Ci sono una serie di tecniche che puoi usare durante le Battaglie di Inseguimento.\n\n - Salta con <Action:Button_Cross@Chase>.\n - Inversione rapida con <Action:Button_R1@Chase> + <Action:Button_LS_Up@Chase><Action:Button_LS_Down@Chase><Action:Button_LS_Left@Chase><Action:Button_LS_Right@Chase>.\n - Scatena un'Azione di Heat quando viene visualizzato <Action:Button_Triangle@Chase>.\n Questo pu# essere usato solo una volta per Battaglia di Inseguimento.\nPuoi anche mostrare/nascondere la guida della Battaglia di Inseguimento premendo <Action:Button_L1@Chase>."
   },
   "23": {
     "CATEGORY": "Salire di Livello",
     "CATEGORY_EXPLANATION": "Consigli sull'allenamento e sul miglioramento delle abilit~.",
     "TIPS_NAME": "Punti Esperienza e Salire di Livello",
     "SCENARIO_STATUS": "80a30017",
-    "TIPS_EXPLANATION": "I personaggi salgono di livello ogni volta che i loro punti esperienza raggiungono un limite preimpostato.\nOgni volta che sconfiggi i nemici, mangi, bevi o completi le sottotrame, guadagnerai una certa quantit~ di punti esperienza per salire di livello. Ogni volta che sali di livello, la tua salute massima e l'Indicatore di Calore aumenteranno. Guadagnerai anche Sfere dell'Anima.\nAssicurati di salire di livello e prepararti ad affrontare nemici ancora pi& forti."
+    "TIPS_EXPLANATION": "I personaggi salgono di livello ogni volta che i loro punti esperienza raggiungono un limite preimpostato.\nOgni volta che sconfiggi i nemici, mangi, bevi o completi le sottotrame, guadagnerai una certa quantit~ di punti esperienza per salire di livello. Ogni volta che sali di livello, la tua salute massima e l'Indicatore di Heat aumenteranno. Guadagnerai anche Sfere dell'Anima.\nAssicurati di salire di livello e prepararti ad affrontare nemici ancora pi& forti."
   },
   "24": {
     "CATEGORY": "",
@@ -205,9 +205,9 @@
   "29": {
     "CATEGORY": "",
     "CATEGORY_EXPLANATION": "",
-    "TIPS_NAME": "Sviluppo delle Azioni di Calore",
+    "TIPS_NAME": "Sviluppo delle Azioni di Heat",
     "SCENARIO_STATUS": "80a3001d",
-    "TIPS_EXPLANATION": "Dopo aver usato frequentemente le Azioni di Calore generali, come Essenza della Finitura ed Essenza del Terreno, guadagnerai una nuova azione aggiuntiva che infligger~ ancora pi& danni. Prova a ottenere nuove tecniche usando le Azioni di Calore il pi& spesso possibile."
+    "TIPS_EXPLANATION": "Dopo aver usato frequentemente le Azioni di Heat generali, come Essenza della Finitura ed Essenza del Terreno, guadagnerai una nuova azione aggiuntiva che infligger~ ancora pi& danni. Prova a ottenere nuove tecniche usando le Azioni di Heat il pi& spesso possibile."
   },
   "30": {
     "CATEGORY": "Avventura",
@@ -263,7 +263,7 @@
     "CATEGORY_EXPLANATION": "",
     "TIPS_NAME": "Pro e Contro dell'Ubriacarsi",
     "SCENARIO_STATUS": "80a30025",
-    "TIPS_EXPLANATION": "Il consumo di alcol ha effetti sia positivi che negativi.\n\nAd esempio, il tuo Indicatore di Calore aumenter~ pi& rapidamente, ma il tuo campo visivo si offuscher~ quando giochi a freccette.\n\nBere caff| o consumare determinati oggetti che ti fanno passare la sbornia ridurr~ gli effetti dell'alcol, ma probabilmente | una buona idea non ubriacarsi troppo in primo luogo."
+    "TIPS_EXPLANATION": "Il consumo di alcol ha effetti sia positivi che negativi.\n\nAd esempio, il tuo Indicatore di Heat aumenter~ pi& rapidamente, ma il tuo campo visivo si offuscher~ quando giochi a freccette.\n\nBere caff| o consumare determinati oggetti che ti fanno passare la sbornia ridurr~ gli effetti dell'alcol, ma probabilmente | una buona idea non ubriacarsi troppo in primo luogo."
   },
   "38": {
     "CATEGORY": "",
