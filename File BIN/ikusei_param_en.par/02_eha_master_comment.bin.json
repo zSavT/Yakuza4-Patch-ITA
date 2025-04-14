@@ -72,7 +72,7 @@
     "TURN_NUM": ""
   },
   "6": {
-    "COMENNT": "® diventato un combattente esemplare. Sono sicuro che pu# cavarsela in un torneo! Proviamoci!",
+    "COMENNT": "^ diventato un combattente esemplare. Sono sicuro che pu# cavarsela in un torneo! Proviamoci!",
     "MAX_HP": "450",
     "POWER": "40",
     "SPEED": "80",
@@ -120,7 +120,7 @@
     "TURN_NUM": ""
   },
   "10": {
-    "COMENNT": "® diventato un combattente spettacolare. Potrebbe essere pronto per un incontro di esibizione di medio livello.",
+    "COMENNT": "^ diventato un combattente spettacolare. Potrebbe essere pronto per un incontro di esibizione di medio livello.",
     "MAX_HP": "350",
     "POWER": "30",
     "SPEED": "50",
@@ -156,7 +156,7 @@
     "TURN_NUM": ""
   },
   "13": {
-    "COMENNT": "® diventato molto pi& veloce. Il potenziale di Velocit~ di Ehama | incredibile. ® come se non avesse limiti.",
+    "COMENNT": "^ diventato molto pi& veloce. Il potenziale di Velocit~ di Ehama | incredibile. ^ come se non avesse limiti.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "50",
@@ -168,7 +168,7 @@
     "TURN_NUM": ""
   },
   "14": {
-    "COMENNT": "® diventato pi& forte, ma la Potenza di Ehama non sar~ mai il suo punto forte. Le sue altre abilit~ dovrebbero essere pi& facili da sviluppare.",
+    "COMENNT": "^ diventato pi& forte, ma la Potenza di Ehama non sar~ mai il suo punto forte. Le sue altre abilit~ dovrebbero essere pi& facili da sviluppare.",
     "MAX_HP": "",
     "POWER": "20",
     "SPEED": "",

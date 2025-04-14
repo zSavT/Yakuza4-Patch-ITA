@@ -72,7 +72,7 @@
     "TURN_NUM": ""
   },
   "6": {
-    "COMENNT": "® diventato un combattente esemplare. Sono sicuro che pu# cavarsela in un torneo! Proviamoci!",
+    "COMENNT": "^ diventato un combattente esemplare. Sono sicuro che pu# cavarsela in un torneo! Proviamoci!",
     "MAX_HP": "800",
     "POWER": "80",
     "SPEED": "50",
@@ -120,7 +120,7 @@
     "TURN_NUM": ""
   },
   "10": {
-    "COMENNT": "® diventato un combattente spettacolare. Potrebbe essere pronto per un incontro di esibizione di medio livello.",
+    "COMENNT": "^ diventato un combattente spettacolare. Potrebbe essere pronto per un incontro di esibizione di medio livello.",
     "MAX_HP": "800",
     "POWER": "60",
     "SPEED": "30",
@@ -156,7 +156,7 @@
     "TURN_NUM": ""
   },
   "13": {
-    "COMENNT": "® diventato molto pi& veloce, ma Fukushi sembra odiare l'allenamento di Velocit~. Dovresti lavorare sullo sviluppo delle sue altre abilit~.",
+    "COMENNT": "^ diventato molto pi& veloce, ma Fukushi sembra odiare l'allenamento di Velocit~. Dovresti lavorare sullo sviluppo delle sue altre abilit~.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "30",
