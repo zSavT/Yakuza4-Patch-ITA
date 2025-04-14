@@ -72,7 +72,7 @@
     "TURN_NUM": ""
   },
   "6": {
-    "COMENNT": "® diventato un combattente esemplare. Sono sicuro che pu# cavarsela in un torneo! Proviamoci!",
+    "COMENNT": "^ diventato un combattente esemplare. Sono sicuro che pu# cavarsela in un torneo! Proviamoci!",
     "MAX_HP": "",
     "POWER": "60",
     "SPEED": "60",
@@ -120,7 +120,7 @@
     "TURN_NUM": ""
   },
   "10": {
-    "COMENNT": "® diventato un combattente spettacolare. Potrebbe essere pronto per un incontro di esibizione di medio livello.",
+    "COMENNT": "^ diventato un combattente spettacolare. Potrebbe essere pronto per un incontro di esibizione di medio livello.",
     "MAX_HP": "",
     "POWER": "40",
     "SPEED": "40",
@@ -144,7 +144,7 @@
     "TURN_NUM": ""
   },
   "12": {
-    "COMENNT": "® diventato molto pi& veloce. Hideo | un combattente ben bilanciato, quindi anche le sue altre abilit~ cresceranno.",
+    "COMENNT": "^ diventato molto pi& veloce. Hideo | un combattente ben bilanciato, quindi anche le sue altre abilit~ cresceranno.",
     "MAX_HP": "",
     "POWER": "",
     "SPEED": "40",
