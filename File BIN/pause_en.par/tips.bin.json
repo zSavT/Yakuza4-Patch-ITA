@@ -123,7 +123,7 @@
     "CATEGORY_EXPLANATION": "",
     "TIPS_NAME": "Azioni di Heat",
     "SCENARIO_STATUS": "80a30011",
-    "TIPS_EXPLANATION": "Le Azioni di Heat sono tecniche segrete disponibili solo per i prescelti.\n\nPer scatenarle, devi entrare in Modalit~ Heat e soddisfare determinate condizioni. Ad esempio, afferra un nemico per eseguire una mossa Essenza del Terreno e sbattilo a terra. Oppure, prendi un'arma per scatenare una dolorosa mossa Essenza dell'Armamento. Controlla queste condizioni premendo <Action:Battle_Heavy_Attack@Combat> sulla schermata Abilit~ e visualizzando l'elenco delle Azioni di Heat."
+    "TIPS_EXPLANATION": "Le Azioni di Heat sono tecniche segrete disponibili solo per i prescelti.\nPer scatenarle, devi entrare in Modalit~ Heat e soddisfare determinate condizioni. Ad esempio, afferra un nemico per eseguire una mossa Essenza del Terreno e sbattilo a terra. Oppure, prendi un'arma per scatenare una dolorosa mossa Essenza dell'Armamento. Controlla queste condizioni premendo <Action:Battle_Heavy_Attack@Combat> sulla schermata Abilit~ e visualizzando l'elenco delle Azioni di Heat."
   },
   "18": {
     "CATEGORY": "",
