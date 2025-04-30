@@ -6,6 +6,7 @@
 
 
 ![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Yakuza4-Patch-ITA)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zSavT/Yakuza4-Patch-ITA/total)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
 
 
