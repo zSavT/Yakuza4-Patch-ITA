@@ -121,6 +121,10 @@ Esempio di importazione:
 20070319importer.exe [nome file json]
 ```
 
+# Funzionamento estrazione MSG
+
+Per i file MSG, si utilizza il programma realizzato da ma [Savano-msg](https://github.com/zSavT/Savano-msg.git). Maggiori info sul suo funzionamento, sono presenti nella repository del tool.
+
 # Funzionamento installer
 
 Per poter creare correttamente l'installer bisogna prima di tutto utilizzare ```packager.py``` per poter generare il file criptato della cartella "_data_". Lo script è guidato e bisogna solo indicare il percorso della cartella con le modifiche della Patch ed il nome del file pkg criptato. Nel file "chiave.txt" bisogna inserire la chiave di criptazione scelta.
