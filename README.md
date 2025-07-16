@@ -196,6 +196,8 @@ Lista dei progetti di patch in italiano per i giochi della serie:
     - Questo progetto
 - [Yakuza 5 Remastered](https://github.com/zSavT/Yakuza5-Patch-ITA)
     - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 5, il funzionamento ed il materiale tradotto è il medesimo.
+- [Yakuza 6](https://www.nexusmods.com/yakuza6/mods/220)
+    - Un ragazzo ha tradotto i sottotitoli delle cutscene e alcuni menu
 
 __N.B.__<br>
 Chi ha realizzato la patch per Yakuza 1 - 2 - 3, sta lavorando anche ad una patch totale per Yakuza 4 - 5 - 6.
@@ -206,7 +208,7 @@ Si ringrazia
 
 - Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.<br>
 - Per la codifica e la decodifica dei file BIN 2007.03.19 del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer) da SlowpokeVG.
-- Per la modifica dei font, è stata realizzatta partendo dalla mod 4K dei font reperibile da [qui](https://www.nexusmods.com/yakuza4remastered/mods/14) realizzata da Chalkint.
+- Per la modifica dei font, è stata realizzata partendo dalla mod 4K dei font reperibile da [qui](https://www.nexusmods.com/yakuza4remastered/mods/14) realizzata da Chalkint.
 
 ## Copyright
 This patch does not contain copyrighted material, has no functional autonomy, and you must have your original own copy to apply it.
