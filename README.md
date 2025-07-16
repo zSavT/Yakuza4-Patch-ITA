@@ -86,18 +86,7 @@ Ovviamente, le parentesi quadre non devono essere incluse nel comando.
 
 # Funzionamento script sottotitoli
 
-Lo script utilizza le api di Gemini 2.0 per poter funzionare. Le API al momento sono utilizzabili gratuitamente (per ora). La chiave si può ottenere da [qui](https://aistudio.google.com/apikey).<br> i file csv presenti nella cartella "_input_". Output dell'operazione è salvato nella cartella "_tradotto_".
-Bisogna inserire la chiave all'interno del file "_traduttore_auto_csv/api_key.txt_" oppure lanciando lo script python tramite il flag "_--api [CHIAVE_API]_".
-Ovviamente bisogna sostituire "_CHIAVE API_" con la propria chiave.
-
-```
-python .\main.py --api [CHIAVE_API]
-```
-Altri flag utilizzabili sono:
-```py
---input [CARTELLA_INPUT] # Sono presenti tutti 
---oneThread # Non crea il thread secondario per la stampa del messaggio "Traducendo..."
-```
+Lo script utilizzato per la pre-traduzione dei testi è [Alumen](https://github.com/zSavT/Alumen.git) che utilizza le api di Gemini 2.5 per poter funzionare. Maggiori informazioni sono presenti nella repository del tool.
 
 ## Struttura file CSV
 
@@ -190,6 +179,7 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 
 - [x] Codifica e decodifica dei file PAR
 - [x] Codifica e decodifica dei file BIN 2007.03.19
+- [ ] Codifica e decodifica dei file MSG
 - [x] Modifica al Font
 
 # Altre patch della serie
