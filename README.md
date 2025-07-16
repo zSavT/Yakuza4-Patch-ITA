@@ -69,6 +69,9 @@ Successivamente bisogna accettare i termini d'uso e poi nella schermata successi
 - __Yakuza 4\data\fontpar__
     - All'interno sono presenti i dati relativo al font del gioco.
     - [x] Tradotto
+- __Yakuza 4\data\wdr_par_en\wdr.par__
+    - All'interno sono presenti i file relativi ai box di dialogo della storia e interazioni con i negozi.
+    - [ ] Tradotto
 
 # Funzionamento estrazione PAR
 
