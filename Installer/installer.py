@@ -3,10 +3,9 @@
 # -----------------------------------------------------------------------------
 # Installer Patch ITA Yakuza 4 Remastered
 # Autore: SavT
-# Versione: v0.0.5 (con backup opzionale e fix High DPI, stile checkbox migliorato)
+# Versione: v2.2
 # -----------------------------------------------------------------------------
 
-# --- Import Moduli Standard ---
 import sys
 import os
 import platform
@@ -14,16 +13,15 @@ import webbrowser
 import traceback
 import shutil
 import datetime
-
-# --- Import Moduli Terze Parti ---
 import pyzipper
+import urllib.request
+import json
 
-# --- Import Moduli PyQt6 ---
 from PyQt6.QtWidgets import (
     QApplication, QWidget, QLabel, QPushButton, QVBoxLayout, QFrame,
     QStackedWidget, QFileDialog, QTextEdit, QLineEdit, QMessageBox,
     QProgressBar, QHBoxLayout, QDialog, QDialogButtonBox, QInputDialog,
-    QStyle,
+    QStyle,QTextBrowser,
     QCheckBox
 )
 from PyQt6.QtGui import (
@@ -34,14 +32,8 @@ from PyQt6.QtCore import (
     Qt, QThread, pyqtSignal, QSize, QPoint, QTimer
 )
 
-
 # --- Funzione Resource Path ---
 def resource_path(relative_path):
-    """
-    Ottiene il percorso assoluto alla risorsa, necessario per trovare i file
-    sia in modalità sviluppo che quando l'applicazione è impacchettata
-    con PyInstaller.
-    """
     try:
         base_path = sys._MEIPASS
     except Exception:
@@ -50,7 +42,7 @@ def resource_path(relative_path):
 
 # --- Costanti Globali ---
 CHIAVE = "chiave.txt"
-DEFAULT_FOLDER_NAME = "Yakuza 4"
+DEFAULT_FOLDER_NAME = ""
 LOG_FILE = "install_log.txt"
 PACKAGE_FILE = "patch.pkg"
 IMG_FILE = resource_path("assets/img.png")
@@ -59,9 +51,14 @@ HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "v0.0.5"
-CREDITI = "Patch By SavT"
-LICENZA = """1) La presente patch va utilizzata esclusivamente sul  gioco originale legittimamente detenuto per il quale è stata creata.
+VERSIONE = "v0.1"
+ALT_SITE_NAME = "TBA"
+ALT_SITE_URL = "https://www.youtube.com/@zSavT"
+CREDITI = "Patch By SavT e Lowrentio"
+EXE_NAME = "Yakuza4.exe"
+EXE_SUBFOLDER = "Yakuza 4"
+
+LICENZA = """1) La presente patch va utilizzata esclusivamente sul gioco originale legittimamente detenuto per il quale è stata creata.
 2) Questa patch è stata creata senza fini di lucro.
 3) È assolutamente vietato vendere o cedere a terzi a qualsiasi titolo il gioco già patchato;
 i trasgressori potranno essere puniti, ai sensi dell'art. 171bis, legge sul diritto d'autore, con la reclusione da 6 mesi a 3 anni.
@@ -74,14 +71,14 @@ gli elementi che la formano non sono dotati di autonomia funzionale.
 l'utilizzo della stessa è da intendersi a vostro rischio e pericolo.
 8) Si ricorda infine che i diritti sul gioco (software) appartengono ai rispettivi proprietari.
 This patch does not contain copyrighted material, has no functional autonomy, and you must have your original own copy to apply it.
-All game rights, intellectual property, logo/names and movies/images are property of Sega Corporation.
+All game rights, intellectual property, logo/names and movies/images are property of Bandai Namco Entertainment Inc.
 """
-YT_URL = "https://www.youtube.com/@SavT999"
+YT_URL = "https://www.youtube.com/@zSavT"
 GH_URL = "https://github.com/zSavT/Yakuza4-Patch-ITA"
 WEB_URL = "https://savtchannel.altervista.org/"
 DONAZIONI = "https://www.paypal.com/paypalme/verio12"
 
-# --- Stylesheet (Tema stile Yakuza Stats Menu) ---
+# --- Stylesheet (Tema stile Yakuza Stats Menu - Mantenuto) ---
 YAKUZA_STYLESHEET = """
 /* Stile Globale */
 QWidget {
@@ -205,6 +202,7 @@ QScrollBar::add-line:horizontal, QScrollBar::sub-line:horizontal { width: 0px; b
 QScrollBar::add-page:horizontal, QScrollBar::sub-page:horizontal { background: none; }
 """
 
+
 def leggi_chiave(nome_file):
     """
     Legge una chiave di decriptazione da un file.
@@ -239,6 +237,70 @@ def leggi_chiave(nome_file):
         print(f"Si è verificato un errore durante la lettura del file '{nome_file}': {e}")
         return None
 
+
+
+# --- Classe Worker Controllo Versione ---
+class VersionCheckWorker(QThread):
+    """
+    Controlla la presenza di nuove versioni su GitHub in un thread separato
+    per non bloccare la UI.
+    """
+    update_found = pyqtSignal(str, str)  # Segnale emesso con: tag_nuova_versione, url_download
+
+    def __init__(self, current_version, repo_url):
+        super().__init__()
+        self.current_version = current_version
+        self.repo_url = repo_url
+        self.api_url = ""
+
+    def _compare_versions(self, v1_str, v2_str):
+        """Confronta due stringhe di versione come 'v1.4' e 'v1.10'."""
+        try:
+            # Rimuove il prefisso 'v' e divide per '.'
+            v1_parts = v1_str.lstrip('vV').split('.')
+            v2_parts = v2_str.lstrip('vV').split('.')
+            # Converte le parti in interi per un confronto numerico
+            v1_tuple = tuple(map(int, v1_parts))
+            v2_tuple = tuple(map(int, v2_parts))
+            
+            return v1_tuple > v2_tuple
+        except (ValueError, AttributeError):
+            return v1_str > v2_str
+
+    def run(self):
+        """Esegue la richiesta alla API di GitHub."""
+        try:
+            # Costruisce l'URL della API dall'URL standard di GitHub
+            parts = self.repo_url.strip("/").split("/")
+            owner, repo = parts[-2], parts[-1]
+            self.api_url = f"https://api.github.com/repos/{owner}/{repo}/releases/latest"
+            print(f"Controllo aggiornamenti a: {self.api_url}")
+
+            # Esegue la richiesta alla API di GitHub con un user-agent
+            req = urllib.request.Request(self.api_url, headers={'User-Agent': 'SavT-Installer-Updater'})
+            with urllib.request.urlopen(req, timeout=10) as response:
+                if response.status == 200:
+                    data = json.loads(response.read().decode())
+                    latest_version_tag = data.get('tag_name')
+                    download_url = data.get('html_url')
+
+                    if not latest_version_tag or not download_url:
+                        print("Controllo aggiornamenti: 'tag_name' o 'html_url' non trovati nella risposta.")
+                        return
+
+                    print(f"Ultima versione su GitHub: {latest_version_tag}, Versione corrente: {self.current_version}")
+
+                    # Confronta le versioni e se quella remota è più nuova, emette il segnale
+                    if self._compare_versions(latest_version_tag, self.current_version):
+                        print(f"Nuova versione disponibile: {latest_version_tag}")
+                        self.update_found.emit(latest_version_tag, download_url)
+                    else:
+                        print("La versione corrente è la più recente.")
+                else:
+                    print(f"Controllo aggiornamenti fallito con codice di stato: {response.status}")
+        except Exception as e:
+            # Fallisce silenziosamente in caso di errore (es. no internet, API limit, ecc.)
+            print(f"Impossibile controllare gli aggiornamenti: {e}")
 
 
 # --- Classe Worker Installazione ---
@@ -536,7 +598,7 @@ class CompletionDialog(QDialog):
         main_layout.addLayout(btn_layout)
 
         self.adjustSize()
-        self.setMaximumWidth(450)
+        self.setMaximumWidth(500)
 
     def accept_and_open_url(self):
         """Slot chiamato quando si preme OK.
@@ -546,6 +608,7 @@ class CompletionDialog(QDialog):
         if url:
             print(f"Opening URL: {url}")
             try:
+                webbrowser.open(WEB_URL)
                 webbrowser.open(url)
                 QTimer.singleShot(2000, QApplication.instance().quit)
             except Exception as e:
@@ -582,7 +645,7 @@ class WelcomeScreen(QWidget):
         try: self.next_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_ArrowRight))
         except Exception: pass
         btn_layout.addWidget(self.cancel_btn); btn_layout.addStretch(); btn_layout.addWidget(self.next_btn)
-        bottom_info_layout = QHBoxLayout(); version_label = QLabel(f"Versione Patch: {VERSIONE}"); version_label.setObjectName("VersionLabel"); version_label.setAlignment(Qt.AlignmentFlag.AlignLeft | Qt.AlignmentFlag.AlignVCenter); autore_label = QLabel(CREDITI); autore_label.setObjectName("AuthorLabel"); autore_label.setAlignment(Qt.AlignmentFlag.AlignRight | Qt.AlignmentFlag.AlignVCenter); bottom_info_layout.addWidget(version_label); bottom_info_layout.addStretch(1); bottom_info_layout.addWidget(autore_label)
+        bottom_info_layout = QHBoxLayout(); version_label = QLabel(f"Versione Patch Beta: {VERSIONE}"); version_label.setObjectName("VersionLabel"); version_label.setAlignment(Qt.AlignmentFlag.AlignLeft | Qt.AlignmentFlag.AlignVCenter); autore_label = QLabel(CREDITI); autore_label.setObjectName("AuthorLabel"); autore_label.setAlignment(Qt.AlignmentFlag.AlignRight | Qt.AlignmentFlag.AlignVCenter); bottom_info_layout.addWidget(version_label); bottom_info_layout.addStretch(1); bottom_info_layout.addWidget(autore_label)
         layout.addWidget(image_label); layout.addWidget(title); layout.addWidget(desc); layout.addStretch(); layout.addLayout(btn_layout); layout.addSpacing(5); layout.addLayout(bottom_info_layout)
 
 class PackageCheckScreen(QWidget):
@@ -651,7 +714,7 @@ class PackageCheckScreen(QWidget):
             try:
                 with pyzipper.AESZipFile(package_path) as zf: zf.setpassword(aes_key_to_use); test = zf.testzip()
                 if test is None: # Successo
-                    self.status_label.setText(f"<font color='#a8dda0'>✔️ File '{PACKAGE_FILE}' valido.</font>")
+                    self.status_label.setText(f"<font color='#228B22'>✔️ File '{PACKAGE_FILE}' valido.</font>")
                     self.next_btn.setEnabled(True); self.retry_btn.setVisible(False); self.key_input_widget.setVisible(False)
                 else: # Corruzione interna
                     self.status_label.setText(f"<font color='#ffd880'>⚠️ File '{PACKAGE_FILE}' corrotto (file: {test}).</font><br><font color='#bbccd0' size='-1'>Riscrivi la patch.</font>")
@@ -666,6 +729,89 @@ class PackageCheckScreen(QWidget):
         else: # File non trovato
             self.status_label.setText(f"<font color='#ff8080'>❌ File '{PACKAGE_FILE}' non trovato.</font><br><font color='#bbccd0' size='-1'>Controlla cartella installer.</font>")
             self.next_btn.setEnabled(False); self.retry_btn.setVisible(False); self.key_input_widget.setVisible(False)
+
+
+class NoticeScreen(QWidget):
+    def __init__(self):
+        super().__init__()
+        layout = QVBoxLayout(self)
+        layout.setContentsMargins(30, 20, 30, 20)
+        layout.setSpacing(15)
+
+        # Titolo della schermata
+        title = QLabel("Nota bene!")
+        title.setObjectName("TitleLabel")
+        title.setAlignment(Qt.AlignmentFlag.AlignCenter)
+
+
+        notice_area = QTextBrowser()
+        notice_area.setReadOnly(True)
+        notice_area.setOpenExternalLinks(True)
+
+        html_content = f"""
+        <style>
+            p {{ margin-bottom: 12px; }}
+            b {{ color: #2a75bb; }}
+        </style>
+        <p>
+            <b>1. La patch è GRATUITA e Open Source.</b><br>
+            Se hai pagato per ottenere questo software, sei stato truffato. Chiedi
+            <b>immediatamente i soldi indietro</b>. Il progetto è e sarà sempre gratuito.
+        </p>
+        <p>
+            <b>2. Scarica solo da fonti ufficiali.</b><br>
+            Ottieni la patch esclusivamente dalle nostre fonti ufficiali:
+            <ul>
+                <li>Repository GitHub: <a href="{GH_URL}"><b>Clicca qui</b></a></li>
+                <li>Canale YouTube: <a href="{YT_URL}"><b>Clicca qui</b></a></li>
+                <li>Sito Web Ufficiale: <a href="{WEB_URL}"><b>Clicca qui</b></a></li>
+                <li>{ALT_SITE_NAME}: <a href="{ALT_SITE_URL}"><b>Clicca qui</b></a></li>
+            </ul>
+            Non ci assumiamo alcuna responsabilità per problemi, virus o malfunzionamenti derivanti da
+            versioni scaricate da siti non ufficiali.
+        </p>
+        <p>
+            <b>3. Segnala problemi o errori di traduzione.</b><br>
+            Se riscontri un bug o un errore, il tuo aiuto è prezioso. Puoi
+            <a href="{GH_URL}/issues/new?template=errore-nella-traduzione.yml"><b>cliccare qui per aprire una segnalazione su GitHub</b></a>.
+        </p>
+        <p>
+            <b>4. Supporta il progetto (Opzionale).</b><br>
+            Mantenere e migliorare questo progetto richiede tempo e dedizione. Se il nostro
+            lavoro ti è piaciuto, puoi supportarci con una piccola
+            <a href="{DONAZIONI}"><b>donazione cliccando qui</b></a>. Grazie di cuore!
+        </p>
+        """
+
+        notice_area.setHtml(html_content)
+
+        # Pulsanti di navigazione
+        btn_layout = QHBoxLayout()
+        self.back_btn = QPushButton("Indietro")
+        self.cancel_btn = QPushButton("Esci")
+        self.cancel_btn.setObjectName("CancelButton")
+        self.next_btn = QPushButton("Avanti")
+        self.next_btn.setObjectName("NextButton")
+        self.next_btn.setDefault(True)
+
+        try:
+            self.back_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_ArrowLeft))
+            self.cancel_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_DialogCancelButton))
+            self.next_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_ArrowRight))
+        except Exception:
+            pass
+
+        btn_layout.addWidget(self.cancel_btn)
+        btn_layout.addStretch()
+        btn_layout.addWidget(self.back_btn)
+        btn_layout.addWidget(self.next_btn)
+
+        # Assemblaggio del layout
+        layout.addWidget(title)
+        layout.addWidget(notice_area, 1)
+        layout.addStretch()
+        layout.addLayout(btn_layout)
+
 
 class LicenseScreen(QWidget):
     """Schermata per visualizzare e accettare la licenza d'uso."""
@@ -697,7 +843,7 @@ class InstallScreen(QWidget):
         title_layout.addStretch(1); title_layout.addWidget(title_icon_label, 0, Qt.AlignmentFlag.AlignVCenter); title_layout.addWidget(title, 0, Qt.AlignmentFlag.AlignVCenter); title_layout.addStretch(1)
 
         # Etichetta percorso
-        path_label = QLabel("Installa la patch nella cartella principale di Yakuza 4:"); path_label.setObjectName("SubtitleLabel")
+        path_label = QLabel("Installa la patch nella cartella principale di Yakuza 4 Remastered:"); path_label.setObjectName("SubtitleLabel")
 
         # Input percorso e bottone sfoglia
         self.path_input = QLineEdit(); self.path_input.setPlaceholderText("Es: C:/.../Steam/steamapps/common/Yakuza 4")
@@ -784,30 +930,32 @@ class InstallScreen(QWidget):
                 ]
 
             found_base = None
-            target_game_folder = os.path.join(DEFAULT_FOLDER_NAME) # Solo il nome della cartella gioco
+            target_game_folder = "Yakuza 4" # Solo il nome della cartella gioco
 
             # 1. Cerca la cartella esatta del gioco
             for base_path in potential_bases:
                 if os.path.isdir(os.path.join(base_path, target_game_folder)):
-                    found_base = base_path
+                    found_base = os.path.join(base_path, target_game_folder)
                     break
 
             # 2. Se non trovata, cerca almeno la cartella 'common' genitore
             if not found_base:
                  for base_path in potential_bases:
                      if os.path.isdir(base_path):
+                         # Non abbiamo trovato il gioco, ma 'common' esiste. L'utente sceglierà.
                          found_base = base_path
                          break
 
             # Usa la base trovata o il default dell'utente
-            base = found_base if found_base else base
+            base = found_base if found_base else os.path.expanduser("~")
 
-            # Costruisci il path finale
-            default_path = os.path.join(base, target_game_folder)
+
+            default_path = os.path.join(base, DEFAULT_FOLDER_NAME)
+
 
         except Exception as e:
             print(f"Error determining default path: {e}")
-            # Fallback al path utente + nome gioco
+            # Fallback al path utente + nome gioco/resources
             default_path = os.path.join(os.path.expanduser("~"), DEFAULT_FOLDER_NAME)
 
         # Normalizza e imposta
@@ -877,12 +1025,19 @@ class InstallerWizard(QWidget):
         self.install_worker = None
         self.current_aes_key = leggi_chiave(resource_path(CHIAVE))
         self.setObjectName("InstallerWizard")
+        
+        # --- CONTROLLO VERSIONE ---
+        # Avvia il worker per il controllo della versione in background
+        self.version_checker = VersionCheckWorker(VERSIONE, GH_URL)
+        self.version_checker.update_found.connect(self.show_update_dialog)
+        self.version_checker.start()
+        # --- FINE CONTROLLO VERSIONE ---
 
         # Impostazioni finestra principale
         try: self.setWindowIcon(QIcon(LOGO_ICO))
         except Exception as e: print(f"Error setting window icon: {e}")
-        self.setWindowTitle(f"Installer Patch ITA Yakuza 4 Remastered ({VERSIONE})")
-        self.setMinimumSize(640, 520)
+        self.setWindowTitle(f"Installer Patch Beta ITA Yakuza 4 Remastered ({VERSIONE})")
+        self.setMinimumSize(700, 580)
 
         # Contenitore principale
         container = QWidget(self)
@@ -898,12 +1053,14 @@ class InstallerWizard(QWidget):
 
         # Creazione istanze schermate
         self.welcome = WelcomeScreen()
+        self.notice = NoticeScreen()
         self.check_pkg = PackageCheckScreen(self)
         self.license = LicenseScreen()
         self.install = InstallScreen()
 
         # Aggiunta schermate
         self.stack.addWidget(self.welcome)
+        self.stack.addWidget(self.notice)
         self.stack.addWidget(self.check_pkg)
         self.stack.addWidget(self.license)
         self.stack.addWidget(self.install)
@@ -918,19 +1075,40 @@ class InstallerWizard(QWidget):
         self.hidden_key_button.clicked.connect(self.show_custom_key_dialog)
         self.hidden_key_button.raise_()
 
-        # Connessioni navigazione
-        self.welcome.next_btn.clicked.connect(self.go_to_check)
+        # Connessioni navigazioneì
+        self.welcome.next_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.notice))
+        self.notice.next_btn.clicked.connect(self.go_to_check)
+        self.notice.back_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.welcome))
         self.check_pkg.next_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.license))
         self.license.next_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.install))
         self.install.install_btn.clicked.connect(self.confirm_installation)
 
         # Connessioni Esci/Annulla
         self.welcome.cancel_btn.clicked.connect(self.close)
+        self.notice.cancel_btn.clicked.connect(self.close)
         self.check_pkg.cancel_btn.clicked.connect(self.close)
         self.license.cancel_btn.clicked.connect(self.close)
         self.install.cancel_btn.clicked.connect(self.handle_cancel_install)
 
         self.position_hidden_button()
+
+    def show_update_dialog(self, new_version, url):
+        """Mostra un popup che informa l'utente di una nuova versione."""
+        msg_box = QMessageBox(self)
+        msg_box.setWindowTitle("Aggiornamento Disponibile")
+        msg_box.setText(f"È disponibile una nuova versione della patch: <b>{new_version}</b>")
+        msg_box.setInformativeText("Vuoi aprire la pagina di download per scaricarla?")
+        msg_box.setIcon(QMessageBox.Icon.Information)
+        yes_button = msg_box.addButton("Sì, apri il sito", QMessageBox.ButtonRole.YesRole)
+        no_button = msg_box.addButton("No, continua", QMessageBox.ButtonRole.NoRole)
+        msg_box.setDefaultButton(yes_button)
+
+        msg_box.exec()
+
+        if msg_box.clickedButton() == yes_button:
+            print(f"Apertura URL aggiornamento: {url}")
+            webbrowser.open(url)
+            self.close()
 
     def position_hidden_button(self):
         """Posiziona il bottone nascosto nell'angolo in alto a destra."""
@@ -984,7 +1162,7 @@ class InstallerWizard(QWidget):
         self.stack.setCurrentWidget(self.check_pkg)
 
     def confirm_installation(self):
-        """Mostra conferma prima di installare."""
+        """Mostra conferma prima di installare, usando la variabile globale per il percorso dell'exe."""
         dest_path = self.install.path_input.text()
         if not dest_path:
             QMessageBox.warning(self, "Percorso Mancante", "Specifica la cartella di installazione.")
@@ -992,25 +1170,33 @@ class InstallerWizard(QWidget):
 
         do_backup = self.install.backup_checkbox.isChecked()
         dest_path = os.path.normpath(dest_path)
-        abs_path = os.path.abspath(dest_path)
-        base_dir = os.path.dirname(abs_path)
+        game_root_path = os.path.dirname(dest_path)
 
-        if not os.path.isdir(base_dir):
-            QMessageBox.warning(self, "Percorso Non Valido", f"La directory base '{base_dir}' non esiste o non è valida.")
+        if not os.path.isdir(game_root_path):
+            QMessageBox.warning(self, "Percorso Non Valido", f"La directory base '{game_root_path}' non esiste o non è valida.")
             return
 
-        common_files = ['Yakuza4.exe', 'data', '_CommonRedist']
-        found = [f for f in common_files if os.path.exists(os.path.join(dest_path, f))]
+        # Costruisce il percorso completo dove cercare l'eseguibile, usando la variabile globale EXE_SUBFOLDER.
+        exe_search_path = os.path.join(game_root_path, EXE_SUBFOLDER)
+        executable_full_path = os.path.join(exe_search_path, EXE_NAME)
+        
+        # Controlla l'esistenza del file eseguibile nel percorso specificato.
+        found = os.path.isfile(executable_full_path)
+        
         warn_msg = ""
         icon = self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxQuestion)
         icon_pixmap = icon.pixmap(QSize(48, 48))
 
-        if not found and os.path.isdir(dest_path):
-            warn_msg = "<b>Attenzione:</b> La cartella selezionata esiste ma non sembra contenere Yakuza 4."
+        # Mostra un avviso se l'eseguibile non è stato trovato nel percorso definito.
+        if not found:
+            warn_msg = (f"<b>Attenzione:</b> Non è stato possibile trovare {EXE_NAME} nel percorso atteso:<br>"
+                        f"<em>{os.path.normpath(exe_search_path)}</em><br><br>"
+                        "Verifica il percorso selezionato e la variabile 'EXE_SUBFOLDER' nello script.")
             warn_icon = self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxWarning)
             icon_pixmap = warn_icon.pixmap(QSize(48, 48))
         elif not os.path.exists(dest_path):
-            warn_msg = f"Nota: La cartella '{os.path.basename(dest_path)}' verrà creata."
+            target_folder_name = os.path.basename(dest_path)
+            warn_msg = f"Nota: La cartella '{target_folder_name}' verrà creata."
 
         dialog = CustomConfirmDialog(
             parent=self, title="Conferma Installazione",
@@ -1020,6 +1206,7 @@ class InstallerWizard(QWidget):
         )
         if dialog.exec() == QDialog.DialogCode.Accepted:
             self.perform_installation(dest_path, do_backup)
+
 
     def perform_installation(self, dest_path, do_backup):
         """Avvia l'installazione nel thread."""
