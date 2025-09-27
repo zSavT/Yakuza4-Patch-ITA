@@ -15,6 +15,7 @@ La mia ricerca è iniziata cercando sul web l'esistenza di altre patch di traduz
 Per questo motivo ho iniziato ad analizzare la [patch spagnola](https://steamcommunity.com/sharedfiles/filedetails/?id=3385318071) del gioco.
 Analizzando i file, mi sono accorto che principalmente il gioco utilizza file _PAR_ e file _BIN_ (con varianti di quest'ultimi in alcuni casi). I file PAR contengono i principali dati del gioco (immagini, animazioni ecc...) e lo stesso vale per i file BIN. Su GitHub, casualmente, ho trovato alcune repository che permettono di scompattare e ricompattare questi file. In tal modo, ho iniziato a comprendere come muovere i primi passi per la traduzione dei testi del gioco.
 Puoi comprare il gioco [qui](https://www.instant-gaming.com/?igr=gamer-bf238e) in sconto.
+Ringrazio "[Lowrentio](https://steamcommunity.com/id/Lowrentio/)" per aver deciso di condividere i nuovi tool e le sue traduzioni del gioco.
 
 # Immagini Patch
 
@@ -123,7 +124,7 @@ Esempio di importazione:
 
 # Funzionamento estrazione MSG
 
-Per i file MSG, si utilizza il programma realizzato da ma [Savano-msg](https://github.com/zSavT/Savano-msg.git). Maggiori info sul suo funzionamento, sono presenti nella repository del tool.
+Per i file MSG, si utilizza il programma realizzato da ma [BZ](https://brazilalliance.com.br/).
 
 # Funzionamento installer
 
@@ -213,6 +214,7 @@ Si ringrazia
 - Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.<br>
 - Per la codifica e la decodifica dei file BIN 2007.03.19 del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer) da SlowpokeVG.
 - Per la modifica dei font, è stata realizzata partendo dalla mod 4K dei font reperibile da [qui](https://www.nexusmods.com/yakuza4remastered/mods/14) realizzata da Chalkint.
+- Per la codifica dei file _MSG_, _BIN_ del gioco, si utilizza il programma sviluppato da [BZ](https://brazilalliance.com.br/).
 
 ## Copyright
 This patch does not contain copyrighted material, has no functional autonomy, and you must have your original own copy to apply it.
