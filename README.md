@@ -14,6 +14,8 @@ Il "progetto" è nato totalmente a caso e spinto dalla mia curiosità nel riusci
 La mia ricerca è iniziata cercando sul web l'esistenza di altre patch di traduzioni in altre lingue, per poter analizzare la patch e comprendere più velocemente quali siano i file contenenti i testi del gioco.
 Per questo motivo ho iniziato ad analizzare la [patch spagnola](https://steamcommunity.com/sharedfiles/filedetails/?id=3385318071) del gioco.
 Analizzando i file, mi sono accorto che principalmente il gioco utilizza file _PAR_ e file _BIN_ (con varianti di quest'ultimi in alcuni casi). I file PAR contengono i principali dati del gioco (immagini, animazioni ecc...) e lo stesso vale per i file BIN. Su GitHub, casualmente, ho trovato alcune repository che permettono di scompattare e ricompattare questi file. In tal modo, ho iniziato a comprendere come muovere i primi passi per la traduzione dei testi del gioco.
+Puoi comprare il gioco [qui](https://www.instant-gaming.com/?igr=gamer-bf238e) in sconto.
+Ringrazio "[Lowrentio](https://steamcommunity.com/id/Lowrentio/)" per aver deciso di condividere i nuovi tool e le sue traduzioni del gioco.
 
 # Immagini Patch
 
@@ -69,6 +71,9 @@ Successivamente bisogna accettare i termini d'uso e poi nella schermata successi
 - __Yakuza 4\data\fontpar__
     - All'interno sono presenti i dati relativo al font del gioco.
     - [x] Tradotto
+- __Yakuza 4\data\wdr_par_en\wdr.par__
+    - All'interno sono presenti i file relativi ai box di dialogo della storia e interazioni con i negozi.
+    - [ ] Tradotto
 
 # Funzionamento estrazione PAR
 
@@ -83,18 +88,7 @@ Ovviamente, le parentesi quadre non devono essere incluse nel comando.
 
 # Funzionamento script sottotitoli
 
-Lo script utilizza le api di Gemini 2.0 per poter funzionare. Le API al momento sono utilizzabili gratuitamente (per ora). La chiave si può ottenere da [qui](https://aistudio.google.com/apikey).<br> i file csv presenti nella cartella "_input_". Output dell'operazione è salvato nella cartella "_tradotto_".
-Bisogna inserire la chiave all'interno del file "_traduttore_auto_csv/api_key.txt_" oppure lanciando lo script python tramite il flag "_--api [CHIAVE_API]_".
-Ovviamente bisogna sostituire "_CHIAVE API_" con la propria chiave.
-
-```
-python .\main.py --api [CHIAVE_API]
-```
-Altri flag utilizzabili sono:
-```py
---input [CARTELLA_INPUT] # Sono presenti tutti 
---oneThread # Non crea il thread secondario per la stampa del messaggio "Traducendo..."
-```
+Lo script utilizzato per la pre-traduzione dei testi è [Alumen](https://github.com/zSavT/Alumen.git) che utilizza le api di Gemini 2.5 per poter funzionare. Maggiori informazioni sono presenti nella repository del tool.
 
 ## Struttura file CSV
 
@@ -127,6 +121,10 @@ Esempio di importazione:
 ```
 20070319importer.exe [nome file json]
 ```
+
+# Funzionamento estrazione MSG
+
+Per i file MSG, si utilizza il programma realizzato da ma [BZ](https://brazilalliance.com.br/).
 
 # Funzionamento installer
 
@@ -187,6 +185,7 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 
 - [x] Codifica e decodifica dei file PAR
 - [x] Codifica e decodifica dei file BIN 2007.03.19
+- [ ] Codifica e decodifica dei file MSG
 - [x] Modifica al Font
 
 # Altre patch della serie
@@ -202,6 +201,8 @@ Lista dei progetti di patch in italiano per i giochi della serie:
     - Questo progetto
 - [Yakuza 5 Remastered](https://github.com/zSavT/Yakuza5-Patch-ITA)
     - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 5, il funzionamento ed il materiale tradotto è il medesimo.
+- [Yakuza 6](https://www.nexusmods.com/yakuza6/mods/220)
+    - Un ragazzo ha tradotto i sottotitoli delle cutscene e alcuni menu
 
 __N.B.__<br>
 Chi ha realizzato la patch per Yakuza 1 - 2 - 3, sta lavorando anche ad una patch totale per Yakuza 4 - 5 - 6.
@@ -212,7 +213,8 @@ Si ringrazia
 
 - Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.<br>
 - Per la codifica e la decodifica dei file BIN 2007.03.19 del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer) da SlowpokeVG.
-- Per la modifica dei font, è stata realizzatta partendo dalla mod 4K dei font reperibile da [qui](https://www.nexusmods.com/yakuza4remastered/mods/14) realizzata da Chalkint.
+- Per la modifica dei font, è stata realizzata partendo dalla mod 4K dei font reperibile da [qui](https://www.nexusmods.com/yakuza4remastered/mods/14) realizzata da Chalkint.
+- Per la codifica dei file _MSG_, _BIN_ del gioco, si utilizza il programma sviluppato da [BZ](https://brazilalliance.com.br/).
 
 ## Copyright
 This patch does not contain copyrighted material, has no functional autonomy, and you must have your original own copy to apply it.
@@ -220,3 +222,4 @@ All game rights, intellectual property, logo/names and movies/images are propert
 
 # Altri progetti di traduzione realizzati da me
 [Valkyria Chronicles Patch ITA](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA)
+[Digimon Story Cyber Sleuth: Complete Edition](https://github.com/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA.git)

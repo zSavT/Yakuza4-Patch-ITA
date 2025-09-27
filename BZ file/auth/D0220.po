@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-10\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/auth/subtitle/D0220.po\n"
+"X-Crowdin-File-ID: 56258\n"
+"PO-Revision-Date: 2025-09-26 07:38\n"
+
+msgctxt "50\t165"
+msgid "So, what comes next?"
+msgstr "Quindi, che si fa?"
+
+msgctxt "171\t252"
+msgid "You getting Saejima and Yasuko back?"
+msgstr "Vai a riprendere Yasuko e Saejima?"
+
+msgctxt "269\t356"
+msgid "Of course. That's a given."
+msgstr "Ovvio. Questo è sicuro."
+
+msgctxt "374\t430"
+msgid "The real question is, how?"
+msgstr "La vera domanda è, come?"
+
+msgctxt "438\t520"
+msgid "Katsuragi already has his hands on the cash."
+msgstr "Katsuragi ha già messo le mani sui soldi."
+
+msgctxt "528\t669"
+msgid "We need to figure out where he is.\\nHit him and his boys head on."
+msgstr "Dobbiamo capire dove si trova.\\nPer colpirlo frontalmente."
+
+msgctxt "684\t761"
+msgid "No, I have a plan."
+msgstr "No, ho un piano."
+
+msgctxt "1360\t1393"
+msgid "What the..."
+msgstr "Ma che..."
+
+msgctxt "1407\t1489"
+msgid "Hold on, Kiryu.\\nWhat am I looking at?"
+msgstr "Aspetta, Kiryu.\\nChe cosa sto guardando?"
+
+msgctxt "1500\t1602"
+msgid "It's our smoking gun.\\nLeverage."
+msgstr "È la nostra arma.\\nIl nostro vantaggio."
+
+msgctxt "1669\t1840"
+msgid "No doubt, Munakata and Katsuragi\\nare both clamoring for this file right now."
+msgstr "Non ne dubito, Munakata e Katsuragi\\nvogliono assolutamente questo file."
+
+msgctxt "1864\t2040"
+msgid "With a little push...\\nwe'll be able to draw them out."
+msgstr "Con una piccola spinta...\\nRiusciremo a stanarli."
+

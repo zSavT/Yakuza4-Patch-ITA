@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-10\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/auth/subtitle/C0170.po\n"
+"X-Crowdin-File-ID: 56176\n"
+"PO-Revision-Date: 2025-09-26 07:36\n"
+
+msgctxt "26\t117"
+msgid "I'm as good as dead\\nif you don't do something!"
+msgstr "Sono bello che morto se\\nnon fai qualcosa!"
+
+msgctxt "125\t226"
+msgid "Toss me in jail if you have to.\\nPlease, just save me!"
+msgstr "Rinchiudimi in cella se devi.\\nTi prego, salvami!"
+
+msgctxt "237\t338"
+msgid "All right.\\nYou can shack up with me for now."
+msgstr "Va bene.\\nPer ora stai con me."
+
+msgctxt "339\t472"
+msgid "Just until I can arrange some\\nmore official accommodations, that is."
+msgstr "Almeno fino a quanto non ti avrò\\ntrovato una sistemazione."
+
+msgctxt "756\t816"
+msgid "Who's there?"
+msgstr "Chi c'è là?"
+
+msgctxt "1096\t1149"
+msgid "Sugiuchi-san!"
+msgstr "Sugiuchi-san!"
+

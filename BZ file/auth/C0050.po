@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-10\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/auth/subtitle/C0050.po\n"
+"X-Crowdin-File-ID: 56274\n"
+"PO-Revision-Date: 2025-09-26 07:36\n"
+
+msgctxt "174\t256"
+msgid "Looks like the cops are out in full force."
+msgstr "Sembra che la polizia fuori sia al completo."
+
+msgctxt "265\t354"
+msgid "Best stick around for the night."
+msgstr "Meglio restare nei paraggi stanotte."
+
+msgctxt "498\t611"
+msgid "This place is basically my hideout."
+msgstr "Questo posto è il mio nascondiglio."
+
+msgctxt "612\t684"
+msgid "The cops won't find you here."
+msgstr "La polizia non ti troverà"
+
+msgctxt "730\t790"
+msgid "You're safe."
+msgstr "Sei al sicuro."
+
+msgctxt "831\t891"
+msgid "Why...?"
+msgstr "Perché...?"
+
+msgctxt "951\t1094"
+msgid "Why do all this?\\nWhy risk yourself to protect me?"
+msgstr "Perché lo fai?\\nPerché rischi per proteggermi?"
+
+msgctxt "1465\t1556"
+msgid "This is the restaurant's special blend."
+msgstr "Questa è la miscela del ristorante."
+
+msgctxt "1563\t1653"
+msgid "Puts the dishwater most places call tea to shame."
+msgstr "Altrove di solito servono l'acqua per i piatti come tè."
+
+msgctxt "1793\t1872"
+msgid "One sip and you'll feel right at home."
+msgstr "Un sorso e ti sentirai a casa."
+
