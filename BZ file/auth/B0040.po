@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-10\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/auth/subtitle/B0040.po\n"
+"X-Crowdin-File-ID: 56190\n"
+"PO-Revision-Date: 2025-09-26 07:34\n"
+
+msgctxt "726\t789"
+msgid "Welcome to your new home."
+msgstr "Benvenuto nella nuova casa."
+
+msgctxt "801\t842"
+msgid "Get in."
+msgstr "Entra."
+
+msgctxt "1016\t1076"
+msgid "Hands out."
+msgstr "Mani fuori."
+
+msgctxt "1292\t1463"
+msgid "Dinner's at 1700. All other rules\\nare in the papers we've provided for you."
+msgstr "La cena è alle 17. Tutte le regole sono\\nscritte nelle carte che avete con voi."
+
+msgctxt "1478\t1586"
+msgid "You should know, this isn't your average prison."
+msgstr "Sappiate che questa non è una normale prigione."
+
+msgctxt "1590\t1711"
+msgid "If you want to relish the final\\nscraps of life before your execution..."
+msgstr "Se volete vivere decentemente\\nprima della vostra esecuzione..."
+
+msgctxt "1713\t1812"
+msgid "Keep your head down and follow orders."
+msgstr "Giù la testa e seguite gli ordini."
+
