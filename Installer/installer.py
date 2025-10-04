@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 # Installer Patch ITA Yakuza 4 Remastered
 # Autore: SavT
-# Versione: v2.2
+# Versione: v2.3
 # -----------------------------------------------------------------------------
 
 import sys
@@ -45,6 +45,7 @@ CHIAVE = "chiave.txt"
 DEFAULT_FOLDER_NAME = ""
 LOG_FILE = "install_log.txt"
 PACKAGE_FILE = "patch.pkg"
+ALT_PACKAGE_FILE = "patch_ai.pkg"
 IMG_FILE = resource_path("assets/img.png")
 LOGO_ICO = resource_path("assets/Logo.ico")
 HEAD_ICON_PATH = resource_path("assets/head_icon.png")
@@ -58,7 +59,7 @@ CREDITI = "Patch By SavT e Lowrentio"
 EXE_NAME = "Yakuza4.exe"
 EXE_SUBFOLDER = "Yakuza 4"
 
-LICENZA = """1) La presente patch va utilizzata esclusivamente sul gioco originale legittimamente detenuto per il quale è stata creata.
+LICENZA = """1) La presente patch va utilizzata exclusively sul gioco originale legittimamente detenuto per il quale è stata creata.
 2) Questa patch è stata creata senza fini di lucro.
 3) È assolutamente vietato vendere o cedere a terzi a qualsiasi titolo il gioco già patchato;
 i trasgressori potranno essere puniti, ai sensi dell'art. 171bis, legge sul diritto d'autore, con la reclusione da 6 mesi a 3 anni.
@@ -319,18 +320,20 @@ class InstallWorker(QThread):
     finished = pyqtSignal(bool, str)
     backup_status = pyqtSignal(str)
 
-    def __init__(self, dest_path, aes_key, do_backup):
+    def __init__(self, dest_path, aes_key, do_backup, package_filename):
         """
         Inizializza il worker.
         Args:
             dest_path (str): Percorso della cartella di destinazione.
             aes_key (bytes): Chiave AES per decriptare l'archivio.
             do_backup (bool): Se True, esegue il backup prima dell'estrazione.
+            package_filename (str): Il nome del file .pkg da installare.
         """
         super().__init__()
         self.dest_path = dest_path
         self.aes_key = aes_key
         self.do_backup = do_backup
+        self.package_filename = package_filename
         self._is_interruption_requested = False
 
     def requestInterruption(self):
@@ -344,9 +347,9 @@ class InstallWorker(QThread):
     def run(self):
         """Esegue il processo di backup (se richiesto) e estrazione nel thread."""
         try:
-            package_path = resource_path(PACKAGE_FILE)
+            package_path = resource_path(self.package_filename)
             if not os.path.exists(package_path):
-                raise FileNotFoundError(f"File della patch non trovato: {PACKAGE_FILE}")
+                raise FileNotFoundError(f"File della patch non trovato: {self.package_filename}")
 
             with pyzipper.AESZipFile(package_path) as zf:
                 zf.setpassword(self.aes_key)
@@ -441,7 +444,7 @@ class InstallWorker(QThread):
              with open(LOG_FILE, 'a', encoding='utf-8') as f: f.write(f"Errore FileNotFoundError: {str(e)}\n")
              self.finished.emit(False, str(e))
         except (pyzipper.BadZipFile, RuntimeError) as e:
-            error_msg = f"Errore: {PACKAGE_FILE} è corrotto, la chiave AES usata non è valida o file zip non valido."
+            error_msg = f"Errore: {self.package_filename} è corrotto, la chiave AES usata non è valida o file zip non valido."
             with open(LOG_FILE, 'a', encoding='utf-8') as f: f.write(f"{error_msg} Dettaglio: {type(e).__name__}: {str(e)}\n")
             self.finished.emit(False, error_msg)
         except IOError as e:
@@ -668,7 +671,8 @@ class PackageCheckScreen(QWidget):
         self.key_input_layout.addWidget(key_input_label); self.key_input_layout.addWidget(self.key_input_field)
         self.key_input_widget.setVisible(False)
         self.retry_btn = QPushButton("Riprova Controllo"); self.retry_btn.setObjectName("RetryButton")
-        self.retry_btn.clicked.connect(self.check_package); self.retry_btn.setVisible(False)
+        self.retry_btn.clicked.connect(self.parent_wizard.go_to_check)
+        self.retry_btn.setVisible(False)
         try: self.retry_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_BrowserReload))
         except Exception: pass
         retry_layout = QHBoxLayout(); retry_layout.addStretch(); retry_layout.addWidget(self.retry_btn); retry_layout.addStretch()
@@ -681,7 +685,7 @@ class PackageCheckScreen(QWidget):
         btn_layout.addWidget(self.cancel_btn); btn_layout.addStretch(); btn_layout.addWidget(self.next_btn)
         layout.addWidget(title); layout.addSpacing(20); layout.addWidget(self.status_label); layout.addWidget(self.key_input_widget); layout.addSpacing(10); layout.addLayout(retry_layout); layout.addStretch(); layout.addLayout(btn_layout)
 
-    def check_package(self):
+    def check_package(self, package_to_check=PACKAGE_FILE):
         """Esegue il controllo del file patch.pkg usando la chiave AES corrente."""
         if self.key_input_widget.isVisible():
             new_key_text = self.key_input_field.text(); key_changed = False
@@ -698,7 +702,7 @@ class PackageCheckScreen(QWidget):
                      print("Chiave AES reimpostata (da input vuoto)."); key_changed = True
 
         aes_key_to_use = self.parent_wizard.current_aes_key
-        package_path = resource_path(PACKAGE_FILE)
+        package_path = resource_path(package_to_check)
 
         self.key_input_widget.setVisible(False)
         self.retry_btn.setVisible(False)
@@ -714,10 +718,10 @@ class PackageCheckScreen(QWidget):
             try:
                 with pyzipper.AESZipFile(package_path) as zf: zf.setpassword(aes_key_to_use); test = zf.testzip()
                 if test is None: # Successo
-                    self.status_label.setText(f"<font color='#228B22'>✔️ File '{PACKAGE_FILE}' valido.</font>")
+                    self.status_label.setText(f"<font color='#228B22'>✔️ File '{package_to_check}' valido.</font>")
                     self.next_btn.setEnabled(True); self.retry_btn.setVisible(False); self.key_input_widget.setVisible(False)
                 else: # Corruzione interna
-                    self.status_label.setText(f"<font color='#ffd880'>⚠️ File '{PACKAGE_FILE}' corrotto (file: {test}).</font><br><font color='#bbccd0' size='-1'>Riscrivi la patch.</font>")
+                    self.status_label.setText(f"<font color='#ffd880'>⚠️ File '{package_to_check}' corrotto (file: {test}).</font><br><font color='#bbccd0' size='-1'>Riscrivi la patch.</font>")
                     self.next_btn.setEnabled(False); self.retry_btn.setVisible(True); self.key_input_widget.setVisible(False)
             except (pyzipper.BadZipFile, RuntimeError) as e: # Errore chiave/corruzione zip
                  print(f"Package check bad key/zip error: {type(e).__name__}")
@@ -727,7 +731,7 @@ class PackageCheckScreen(QWidget):
                  self.status_label.setText(f"<font color='#ff8080'>❌ Errore verifica: {type(e).__name__}</font>")
                  self.next_btn.setEnabled(False); self.retry_btn.setVisible(True); self.key_input_widget.setVisible(False); print(f"Pkg check err: {e}"); traceback.print_exc()
         else: # File non trovato
-            self.status_label.setText(f"<font color='#ff8080'>❌ File '{PACKAGE_FILE}' non trovato.</font><br><font color='#bbccd0' size='-1'>Controlla cartella installer.</font>")
+            self.status_label.setText(f"<font color='#ff8080'>❌ File '{package_to_check}' non trovato.</font><br><font color='#bbccd0' size='-1'>Controlla cartella installer.</font>")
             self.next_btn.setEnabled(False); self.retry_btn.setVisible(False); self.key_input_widget.setVisible(False)
 
 
@@ -855,10 +859,14 @@ class InstallScreen(QWidget):
         path_layout = QHBoxLayout(); path_layout.addWidget(path_label); path_layout.addStretch()
         path_input_layout = QHBoxLayout(); path_input_layout.addWidget(self.path_input, 1); path_input_layout.addSpacing(5); path_input_layout.addWidget(self.browse_btn)
 
-        # MODIFICA: Aggiunta Checkbox per il Backup
+        # Checkbox per il Backup
         self.backup_checkbox = QCheckBox("Crea backup dei file originali prima dell'installazione")
         self.backup_checkbox.setChecked(True) # Imposta come selezionato di default (opzionale)
         self.backup_checkbox.setToolTip("Se selezionato, i file che verranno sovrascritti dalla patch\nsaranno prima copiati in una sottocartella '_backup_patch_ita_...'")
+
+        # Checkbox per la patch alternativa
+        self.alt_patch_checkbox = QCheckBox("Installa anche la traduzione delle quest secondarie (tradotte tramite Gemini)")
+        self.alt_patch_checkbox.setToolTip("Se selezionato, verrà installato il file 'patch_ai.pkg' al posto di quello standard.")
 
         # Pulsanti Install/Cancel
         self.install_btn = QPushButton("Installa Patch"); self.install_btn.setObjectName("InstallButton"); self.install_btn.setDefault(True)
@@ -889,7 +897,8 @@ class InstallScreen(QWidget):
         self.layout.addLayout(path_layout)
         self.layout.addLayout(path_input_layout)
         self.layout.addSpacing(10) # Spazio prima del checkbox
-        self.layout.addWidget(self.backup_checkbox) # MODIFICA: Aggiunto checkbox al layout
+        self.layout.addWidget(self.backup_checkbox)
+        self.layout.addWidget(self.alt_patch_checkbox)
         self.layout.addSpacing(20) # Spazio dopo il checkbox
         self.layout.addWidget(self.progress_bar)
         self.layout.addWidget(self.status_label)
@@ -1075,7 +1084,7 @@ class InstallerWizard(QWidget):
         self.hidden_key_button.clicked.connect(self.show_custom_key_dialog)
         self.hidden_key_button.raise_()
 
-        # Connessioni navigazioneì
+        # Connessioni navigazione
         self.welcome.next_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.notice))
         self.notice.next_btn.clicked.connect(self.go_to_check)
         self.notice.back_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.welcome))
@@ -1154,11 +1163,14 @@ class InstallerWizard(QWidget):
 
         if key_changed and self.stack.currentWidget() == self.check_pkg:
              print("Rieseguo check dopo cambio chiave manuale.")
-             self.check_pkg.check_package()
+             self.go_to_check()
 
     def go_to_check(self):
         """Passa alla schermata check ed esegue il controllo."""
-        self.check_pkg.check_package()
+        use_alt_patch = self.install.alt_patch_checkbox.isChecked()
+        package_to_check = ALT_PACKAGE_FILE if use_alt_patch else PACKAGE_FILE
+        
+        self.check_pkg.check_package(package_to_check)
         self.stack.setCurrentWidget(self.check_pkg)
 
     def confirm_installation(self):
@@ -1227,12 +1239,18 @@ class InstallerWizard(QWidget):
         self.install.cancel_btn.setText("Annulla"); self.install.cancel_btn.setObjectName("CancelButton")
         self.install.path_input.setEnabled(False); self.install.browse_btn.setEnabled(False)
         self.install.backup_checkbox.setEnabled(False)
+        self.install.alt_patch_checkbox.setEnabled(False)
         self.install.status_label.setText("Avvio preparazione operazione...")
         self.install.progress_bar.setValue(0)
         self.install.head_icon.hide()
 
+        # Determina quale pacchetto installare
+        use_alt_patch = self.install.alt_patch_checkbox.isChecked()
+        package_to_install = ALT_PACKAGE_FILE if use_alt_patch else PACKAGE_FILE
+        print(f"Avvio installazione del pacchetto: {package_to_install}")
+
         # Avvia worker
-        self.install_worker = InstallWorker(dest_path, self.current_aes_key, do_backup)
+        self.install_worker = InstallWorker(dest_path, self.current_aes_key, do_backup, package_to_install)
         self.install_worker.progress.connect(self.update_progress)
         self.install_worker.finished.connect(self.on_finished)
         self.install_worker.backup_status.connect(self.update_backup_status)
@@ -1259,6 +1277,7 @@ class InstallerWizard(QWidget):
         self.install.cancel_btn.setEnabled(True)
         self.install.path_input.setEnabled(True); self.install.browse_btn.setEnabled(True)
         self.install.backup_checkbox.setEnabled(True)
+        self.install.alt_patch_checkbox.setEnabled(True)
         self.install.head_icon.hide()
 
         self.install_worker = None
@@ -1284,10 +1303,10 @@ class InstallerWizard(QWidget):
                  self.install.status_label.setText("Errore: Chiave AES / Archivio.")
                  QMessageBox.warning(self, "Errore Chiave AES o Archivio",
                                     f"Si è verificato un errore durante l'estrazione:\n{message}\n\n"
-                                    "La chiave AES fornita non è corretta o il file patch.pkg è corrotto.\n\n"
+                                    "La chiave AES fornita non è corretta o il file della patch è corrotto.\n\n"
                                     "Puoi provare a inserire una chiave diversa usando il piccolo pulsante "
                                     "trasparente in alto a destra, quindi riprova l'installazione. "
-                                    "Se il problema persiste, verifica l'integrità del file patch.pkg.")
+                                    "Se il problema persiste, verifica l'integrità del file della patch.")
             elif "Errore durante il backup" in message:
                  self.install.status_label.setText("Errore durante il backup.")
                  QMessageBox.critical(self, "Errore di Backup", message)
