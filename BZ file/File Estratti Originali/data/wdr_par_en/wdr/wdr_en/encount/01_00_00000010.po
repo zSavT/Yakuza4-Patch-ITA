@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1348"
+msgid "Man"
+msgstr ""
+
+msgctxt "1352"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1356"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1360"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid ""
+"Are you the one who iced our aniki? You are, aren't you? I'd recognize that "
+"expression anywhere!"
+msgstr ""
+
+msgctxt "128_Man"
+msgid "I'm gonna put your sorry ass six feet under!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "Shit, you're strong. Wha? I got the wrong guy?"
+msgstr ""
+
+msgctxt "164_Man"
+msgid "I'm so very sorry. Please accept this."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a \"sorry\" %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "Guess I mistook you..."
+msgstr ""

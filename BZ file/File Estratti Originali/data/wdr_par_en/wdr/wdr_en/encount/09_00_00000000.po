@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "12348"
+msgid "Man in Purple"
+msgstr ""
+
+msgctxt "12352"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12356"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "12360"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "12364"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "12368"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "12372"
+msgid "Purple Killers Member"
+msgstr ""
+
+msgctxt "12376"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "12380"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "128_Man in Purple"
+msgid "Are you Kiryu-san?"
+msgstr ""
+
+msgctxt "140_Kiryu"
+msgid "Yes, I am."
+msgstr ""
+
+msgctxt "152_Man in Purple"
+msgid "I see, that's too bad."
+msgstr ""
+
+msgctxt "164_Kiryu"
+msgid "What's too bad?"
+msgstr ""
+
+msgctxt "176_Man in Purple"
+msgid "Sorry, but you're about to have a little accident!"
+msgstr ""
+
+msgctxt "188_Man in Purple"
+msgid "Hold it! You're Kiryu-san, right?"
+msgstr ""
+
+msgctxt "200_Kiryu"
+msgid "I am."
+msgstr ""
+
+msgctxt "212_Man in Purple"
+msgid "Aha! I found you! Prepare to dine! I mean, die! Prepare to die!"
+msgstr ""
+
+msgctxt "224_Kiryu"
+msgid "Hey, don't you think you're in over your head? You might hurt yourself."
+msgstr ""
+
+msgctxt "236_Man in Purple"
+msgid "Shut up! This is something we have to do! It's do or die! Now put 'em up!"
+msgstr ""
+
+msgctxt "248_Man in Purple"
+msgid "So you're Kiryu-kun?"
+msgstr ""
+
+msgctxt "260_Kiryu"
+msgid "Finally. Just who are you people?"
+msgstr ""
+
+msgctxt "272_Man in Purple"
+msgid "We are the Purple Killers. Pleasure to meet you."
+msgstr ""
+
+msgctxt "284_Kiryu"
+msgid "What's the deal with sending all these clowns to get me?"
+msgstr ""
+
+msgctxt "296_Purple Killers Member"
+msgid ""
+"They're decoys. If there are many people that look the same, it makes it "
+"easier for us to sneak up on our prey. Get it?"
+msgstr ""
+
+msgctxt "308_Kiryu"
+msgid "And just what is your objective?"
+msgstr ""
+
+msgctxt "320_Purple Killers Member"
+msgid "What pro hitman worth his salt would answer a question like that?"
+msgstr ""
+
+msgctxt "332_Kiryu"
+msgid "Hitman, huh? Guess you won't tell me who's paying the bounty either."
+msgstr ""
+
+msgctxt "344_Purple Killers Member"
+msgid "You're a quick learner."
+msgstr ""
+
+msgctxt "356_Kiryu"
+msgid "That only leaves me with one option－beating the info out of you."
+msgstr ""
+
+msgctxt "368_Purple Killers Member"
+msgid ""
+"Quick on the uptake, and a tough talker! This oughta be fun. Ready to get "
+"started?"
+msgstr ""
+
+msgctxt "380_Man in Purple"
+msgid ""
+"Whoa, there. Not so fast. You're not going to the bowling alley. You're "
+"gonna die."
+msgstr ""
+
+msgctxt "416_Man in Purple"
+msgid "Damn, you're one strong mother－ Huh?"
+msgstr ""
+
+msgctxt "428_Kiryu"
+msgid "...What's wrong?"
+msgstr ""
+
+msgctxt "440_Man in Purple"
+msgid ""
+"You probably won't believe me, but a guy put me up to this. He was here "
+"just a second ago, fighting right beside me."
+msgstr ""
+
+msgctxt "452_Kiryu"
+msgid "What do you mean, he put you up to this?"
+msgstr ""
+
+msgctxt "464_Man in Purple"
+msgid ""
+"He told us to wear the same purple jacket as him. He wanted us to talk to "
+"you. You know, pick a fight and distract you."
+msgstr ""
+
+msgctxt "476_Man in Purple"
+msgid "He said we didn't have to beat you, but if we did..."
+msgstr ""
+
+msgctxt "488_Kiryu"
+msgid "...He'd give you money."
+msgstr ""
+
+msgctxt "500_Man in Purple"
+msgid "Yeah! Exactly!"
+msgstr ""
+
+msgctxt "512_Man in Purple"
+msgid ""
+"Just by picking a fight with you, we'd get a hundred thou. A million if you "
+"croaked."
+msgstr ""
+
+msgctxt "524_Man in Purple"
+msgid ""
+"It was a bit strange 'cause he was fighting right here beside me, but he up "
+"and left once you beat us. Didn't even get my hundred thou..."
+msgstr ""
+
+msgctxt "536_Kiryu"
+msgid ""
+"(A man dressed in purple, huh? I have no clue who he could be. Maybe this "
+"has something to do with all the gangs that have been after me.)"
+msgstr ""
+
+msgctxt "548_Man in Purple"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "560_Man in Purple"
+msgid "Oh, shit! Sorry! Please don't cut off my fingers!"
+msgstr ""
+
+msgctxt "572_Kiryu"
+msgid "I don't care about your fingers. Are you hired help, too?"
+msgstr ""
+
+msgctxt "584_Man in Purple"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "596_Kiryu"
+msgid "I'm asking if you were hired by a man in purple."
+msgstr ""
+
+msgctxt "608_Man in Purple"
+msgid "Oh, uh... Not exactly, but yeah! That kinda sums things up!"
+msgstr ""
+
+msgctxt "620_Kiryu"
+msgid "Start talking."
+msgstr ""
+
+msgctxt "632_Man in Purple"
+msgid ""
+"Yes, sir! We were enjoying ourselves at one of the establishments on Pink "
+"Street, until we got ripped off, big time!"
+msgstr ""
+
+msgctxt "644_Man in Purple"
+msgid ""
+"We were only there for ten minutes, when this huge, scary man comes and "
+"tells us to pay up－a million yen! We tried to run but got caught..."
+msgstr ""
+
+msgctxt "656_Man in Purple"
+msgid ""
+"The brute dragged us to the alley and pulled out a big, shiny knife... I "
+"thought we were goners, but then the men in purple came to save us!"
+msgstr ""
+
+msgctxt "668_Man in Purple"
+msgid ""
+"They paid the million yen. I felt like I was given a second chance at life! "
+"But I was wrong..."
+msgstr ""
+
+msgctxt "680_Man in Purple"
+msgid ""
+"One of the purple guys had this creepy smirk. He told us to find you and "
+"give you a good beatdown."
+msgstr ""
+
+msgctxt "692_Man in Purple"
+msgid ""
+"I tried to refuse at first, but the guy said, \"Think of it as payback for "
+"the million yen favor.\" I'll never forget his scary face..."
+msgstr ""
+
+msgctxt "704_Man in Purple"
+msgid ""
+"And then he pulled out this even bigger knife! Ten times scarier than the "
+"one the last guy had! I almost crapped myself."
+msgstr ""
+
+msgctxt "716_Man in Purple"
+msgid ""
+"Then they handed us getups just like theirs, and we put them on as fast as "
+"we could. The rest... Well, you pretty much know."
+msgstr ""
+
+msgctxt "728_Kiryu"
+msgid "Got it. You can leave now."
+msgstr ""
+
+msgctxt "740_Man in Purple"
+msgid "Uh, so you aren't gonna take a finger?"
+msgstr ""
+
+msgctxt "752_Kiryu"
+msgid "I said I don't care about that! Now get out of here!"
+msgstr ""
+
+msgctxt "764_Man in Purple"
+msgid "Yes, sir! Sorry!"
+msgstr ""
+
+msgctxt "776_Kiryu"
+msgid ""
+"(These guys are really clueless. To get to the bottom of this, I need to "
+"find the real men in purple.)"
+msgstr ""
+
+msgctxt "788_Man in Purple"
+msgid "Feel like talking now?"
+msgstr ""
+
+msgctxt "800_Purple Killers Member"
+msgid "......"
+msgstr ""
+
+msgctxt "812_Kiryu"
+msgid "I guess if you guys are true professionals, then you won't talk."
+msgstr ""
+
+msgctxt "824_Kiryu"
+msgid ""
+"Clam up all you like. I'm gonna drag you around town on a rope and give you "
+"the grand tour."
+msgstr ""
+
+msgctxt "836_Kiryu"
+msgid ""
+"Then everybody will know how pathetic you guys are. You'll never get "
+"another gig again."
+msgstr ""
+
+msgctxt "848_Purple Killers Member"
+msgid "Dammit! Don't think we'll forget this!"
+msgstr ""
+
+msgctxt "860_Kiryu"
+msgid "This guy's just a lackey, too. How will I get to the bottom of this?"
+msgstr ""
+
+msgctxt "872_Man in Purple"
+msgid "That all? It'll take more than you to finish me off."
+msgstr ""
+
+msgctxt "884_Purple Killers Member"
+msgid "Unh..."
+msgstr ""
+
+msgctxt "896_Kiryu"
+msgid ""
+"(I guess I have to take care of their boss at the bowling alley if I want "
+"these guys to stop harassing me...)"
+msgstr ""
+
+msgctxt "932_Man in Purple"
+msgid "Shit... The hell was that?"
+msgstr ""
+
+msgctxt "944_Man in Purple"
+msgid "Whoa! That was scary."
+msgstr ""
+
+msgctxt "956_Man in Purple"
+msgid "Dammit!"
+msgstr ""
+
+msgctxt "968_Man in Purple"
+msgid "Unh..."
+msgstr ""

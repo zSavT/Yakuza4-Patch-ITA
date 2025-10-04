@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2988"
+msgid "Takashi"
+msgstr ""
+
+msgctxt "2992"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2996"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3000"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3004"
+msgid "P_aki_stand"
+msgstr ""
+
+msgctxt "3008"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "3012"
+msgid "Talk_Phone_yes"
+msgstr ""
+
+msgctxt "3016"
+msgid "Talk_Phone_ed"
+msgstr ""
+
+msgctxt "3020"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "3024"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3028"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "56_Takashi"
+msgid "Oh, Kiryu-san."
+msgstr ""
+
+msgctxt "68_Kiryu"
+msgid "You hear back from the Florist yet?"
+msgstr ""
+
+msgctxt "80_Takashi"
+msgid "Not a peep, no..."
+msgstr ""
+
+msgctxt "116_Takashi"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "128_Takashi"
+msgid "Yeah... okay. In the casino?"
+msgstr ""
+
+msgctxt "140_Takashi"
+msgid "Consider it done!"
+msgstr ""
+
+msgctxt "164_Kiryu"
+msgid "So, what did he ask you to do?"
+msgstr ""
+
+msgctxt "176_Takashi"
+msgid ""
+"He was saying there's some guy in the underground casino who\r\n"
+"just won't stop winning."
+msgstr ""
+
+msgctxt "188_Takashi"
+msgid ""
+"And he's got a hunch this guy is using more than luck to get\r\n"
+"the job done, if you catch my drift. So I have to go down\r\n"
+"and figure out what the deal is."
+msgstr ""
+
+msgctxt "200_Kiryu"
+msgid "Think you can handle it?"
+msgstr ""
+
+msgctxt "212_Takashi"
+msgid "Think? I know I can!"
+msgstr ""
+
+msgctxt "236_Kiryu"
+msgid "(Hope he'll be okay. I should probably go check on him, just to be safe.)"
+msgstr ""

@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1976"
+msgid "Lily"
+msgstr ""
+
+msgctxt "1980"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1984"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1988"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "92_Lily"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "104_Akiyama"
+msgid "Is it somewhere in here?"
+msgstr ""
+
+msgctxt "116_Lily"
+msgid "Yeah, I think so."
+msgstr ""
+
+msgctxt "128_Lily"
+msgid "Though... I don't remember this building being here before."
+msgstr ""
+
+msgctxt "140_Akiyama"
+msgid "Really? It's been around at least as long as I have. Probably way longer."
+msgstr ""
+
+msgctxt "152_Lily"
+msgid ""
+"Do you think we could head inside? I'd like to see it for myself if you "
+"don't mind."
+msgstr ""
+
+msgctxt "164_Akiyama"
+msgid "Oh, uh, sure..."
+msgstr ""

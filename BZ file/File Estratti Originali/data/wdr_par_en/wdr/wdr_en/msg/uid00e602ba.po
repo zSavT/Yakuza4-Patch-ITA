@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "260"
+msgid "You gained 10,000 EXP.\t"
+msgstr ""
+
+msgctxt "2644"
+msgid "Maya"
+msgstr ""
+
+msgctxt "2648"
+msgid "F_sxy_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "2652"
+msgid "P_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "2656"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2660"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2664"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2668"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2672"
+msgid "0"
+msgstr ""
+
+msgctxt "2676"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "2680"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2684"
+msgid "dummy"
+msgstr ""
+
+msgctxt "68_Maya"
+msgid "I really love you, you know."
+msgstr ""
+
+msgctxt "92_Kiryu"
+msgid "Me too."
+msgstr ""
+
+msgctxt "104_Maya"
+msgid "That makes me sooooooo happy! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "116_Maya"
+msgid "Oops!"
+msgstr ""
+
+msgctxt "128_Kiryu"
+msgid "What?"
+msgstr ""
+
+msgctxt "140_Maya"
+msgid "I wanted <Italic>you</Italic> to say that you loved me, but I said it first!"
+msgstr ""
+
+msgctxt "152_Kiryu"
+msgid "Heh."
+msgstr ""
+
+msgctxt "164_Maya"
+msgid "Aw... I screwed up that plan."
+msgstr ""
+
+msgctxt "176_Maya"
+msgid "Now that I've said it though, I can say it as much as I want, right?"
+msgstr ""
+
+msgctxt "188_Maya"
+msgid "I love you! <Color:7>♥<Color:Default>"
+msgstr ""

@@ -1,0 +1,466 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "740"
+msgid "I won't object if that's what you want."
+msgstr ""
+
+msgctxt "812"
+msgid "I wonder what is in season right now? Oh, now I am excited!"
+msgstr ""
+
+msgctxt "1004"
+msgid "Never mind... If that's what you want to do, I won't object..."
+msgstr ""
+
+msgctxt "1232"
+msgid "I won't object if that's what you want."
+msgstr ""
+
+msgctxt "1532"
+msgid "Then let's have a match, sir. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1592"
+msgid "But I won't object if that's what you want."
+msgstr ""
+
+msgctxt "1664"
+msgid ""
+"I also play it from time to time. This should be a fun competition. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "19704"
+msgid "P_sitchr"
+msgstr ""
+
+msgctxt "19708"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "19712"
+msgid "Shizuka"
+msgstr ""
+
+msgctxt "19716"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "19720"
+msgid "Player"
+msgstr ""
+
+msgctxt "19724"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "356_Kiryu"
+msgid "What's up? Is this where you wanted to go?"
+msgstr ""
+
+msgctxt "368_Shizuka"
+msgid "Actually... I made you a bento box!"
+msgstr ""
+
+msgctxt "380_Kiryu"
+msgid "Oh, really?"
+msgstr ""
+
+msgctxt "392_Shizuka"
+msgid "I wanted to have you eat it today, sir..."
+msgstr ""
+
+msgctxt "404_Kiryu"
+msgid "A homemade lunch? Sounds great."
+msgstr ""
+
+msgctxt "416_Shizuka"
+msgid ""
+"Really? I'm glad to hear that. I'll get everything ready then. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "476_Kiryu"
+msgid "Phew... I didn't expect multiple boxes..."
+msgstr ""
+
+msgctxt "488_Shizuka"
+msgid "Did I make too much for you?"
+msgstr ""
+
+msgctxt "500_Kiryu"
+msgid "Not at all. It was delicious. Thanks."
+msgstr ""
+
+msgctxt "512_Shizuka"
+msgid "That's nice of you to say. I'm glad you enjoyed it, sir."
+msgstr ""
+
+msgctxt "524_Kiryu"
+msgid ""
+"Eating a boxed lunch outside like this reminds me of visiting my kids at a "
+"school festival."
+msgstr ""
+
+msgctxt "536_Shizuka"
+msgid "Really? How many children do you have at your orphanage?"
+msgstr ""
+
+msgctxt "548_Kiryu"
+msgid "Four boys and five girls. One of them is in junior high already."
+msgstr ""
+
+msgctxt "560_Shizuka"
+msgid "Oh my. Sounds like quite the family. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "572_Kiryu"
+msgid "Heh. All right, how about we go somewhere else?"
+msgstr ""
+
+msgctxt "584_Shizuka"
+msgid "All right. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+
+msgctxt "596_Kiryu"
+msgid "(What should we do?)"
+msgstr ""
+
+msgctxt "620_Kiryu"
+msgid "(We could go hang out.)"
+msgstr ""
+
+msgctxt "632_Kiryu"
+msgid "(We could go hang out.)"
+msgstr ""
+
+msgctxt "644_Kiryu"
+msgid "(We could go shopping.)"
+msgstr ""
+
+msgctxt "668_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "680_Shizuka"
+msgid "Kanrai? That place has the most delicious yakiniku."
+msgstr ""
+
+msgctxt "692_Talk_Yes"
+msgid "Shall we be off, then?"
+msgstr ""
+
+msgctxt "716_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "728_Shizuka"
+msgid "Yakiniku again?"
+msgstr ""
+
+msgctxt "752_Player"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "788_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "800_Shizuka"
+msgid "Sushi? That sounds wonderful."
+msgstr ""
+
+msgctxt "824_Talk_Yes"
+msgid "Shall we be off, then?"
+msgstr ""
+
+msgctxt "848_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "860_Shizuka"
+msgid "Sushi again? I know it's delicious, but..."
+msgstr ""
+
+msgctxt "872_Kiryu"
+msgid "Well, I won't object if that's what you want."
+msgstr ""
+
+msgctxt "884_Player"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "920_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "932_Shizuka"
+msgid "Oh!? Are you perhaps going to get me something?"
+msgstr ""
+
+msgctxt "944_Player"
+msgid "Hehehe! Oh, this makes me so happy!"
+msgstr ""
+
+msgctxt "956_Talk_Yes"
+msgid "Shall we be off, then?"
+msgstr ""
+
+msgctxt "980_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "992_Shizuka"
+msgid ""
+"I'm happy to get gifts from you, but I feel guilty being on the receiving "
+"end so much..."
+msgstr ""
+
+msgctxt "1016_Player"
+msgid "Shall we, then?"
+msgstr ""
+
+msgctxt "1052_Player"
+msgid "Let's enjoy a relaxing meal at Watami."
+msgstr ""
+
+msgctxt "1064_Shizuka"
+msgid ""
+"Really? I do love the atmosphere at Watami. <Color:7>♥<Color:Default> Oh, "
+"what should I eat? <Color:7>♥♥<Color:Default>"
+msgstr ""
+
+msgctxt "1076_Talk_Yes"
+msgid "Well, shall we get going?"
+msgstr ""
+
+msgctxt "1100_Player"
+msgid "Let's enjoy a relaxing meal at Watami."
+msgstr ""
+
+msgctxt "1112_Shizuka"
+msgid "That's a wonderful idea. I absolutely love Watami. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1124_Talk_Yes"
+msgid "Well, shall we get going?"
+msgstr ""
+
+msgctxt "1160_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "1172_Shizuka"
+msgid "Bowling? That means a match with you, sir, doesn't it?"
+msgstr ""
+
+msgctxt "1184_P_sitchr"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "1208_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "1220_Shizuka"
+msgid "Bowling again? I would have preferred something different this time..."
+msgstr ""
+
+msgctxt "1244_Player"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "1280_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "1292_Shizuka"
+msgid "Ooh, darts! That's so classy."
+msgstr ""
+
+msgctxt "1304_Talk_Smile"
+msgid ""
+"I only started playing recently, but this should be a good matchup. Hehehe! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1316_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "1340_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "1352_Shizuka"
+msgid "Hehehe, all right. Let's play some darts."
+msgstr ""
+
+msgctxt "1364_Talk_Yes"
+msgid "Okay, then, shall we?"
+msgstr ""
+
+msgctxt "1400_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "1412_Shizuka"
+msgid "Karaoke, you say? I'm curious to hear you sing, sir!"
+msgstr ""
+
+msgctxt "1424_Talk_Yes"
+msgid "Shall we be off, then?"
+msgstr ""
+
+msgctxt "1448_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "1460_Shizuka"
+msgid "Hehe, you must love singing, sir."
+msgstr ""
+
+msgctxt "1472_Talk_Yes"
+msgid "Shall we be off, then?"
+msgstr ""
+
+msgctxt "1508_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "1520_Shizuka"
+msgid "Pool, you say? You're such a modern man, sir."
+msgstr ""
+
+msgctxt "1544_Talk_Yes"
+msgid "Shall we be off, then?"
+msgstr ""
+
+msgctxt "1568_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "1580_Shizuka"
+msgid "Pool again? I would have preferred something different this time..."
+msgstr ""
+
+msgctxt "1604_Talk_Smile"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "1640_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "1652_Shizuka"
+msgid "Golf, you say? I didn't know you played golf, sir."
+msgstr ""
+
+msgctxt "1676_Talk_Yes"
+msgid "Shall we be off, then?"
+msgstr ""
+
+msgctxt "1700_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "1712_Shizuka"
+msgid "Understood. ♪ Shall we be off, then?"
+msgstr ""
+
+msgctxt "1748_Player"
+msgid "Let's hit the hot springs."
+msgstr ""
+
+msgctxt "1760_Shizuka"
+msgid ""
+"That sounds wonderful. It's still a bit chilly this time of year. Warming "
+"up at the hot springs would be perfect."
+msgstr ""
+
+msgctxt "1772_Talk_Yes"
+msgid "Shall we be off, then?"
+msgstr ""
+
+msgctxt "1796_Player"
+msgid "Let's hit the hot springs."
+msgstr ""
+
+msgctxt "1808_Shizuka"
+msgid "You must be very health conscious, sir."
+msgstr ""
+
+msgctxt "1820_Talk_Yes"
+msgid "Shall we be off, then?"
+msgstr ""
+
+msgctxt "1844_P_sitchr"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "1856_P_sitchr"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "1868_P_sitchr"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "1880_P_sitchr"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "1892_P_sitchr"
+msgid "How about we play some pool?"
+msgstr ""
+
+msgctxt "1904_P_sitchr"
+msgid "We could hit the hot springs."
+msgstr ""
+
+msgctxt "1916_P_sitchr"
+msgid "Let's do something else."
+msgstr ""
+
+msgctxt "1928_P_sitchr"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "1940_P_sitchr"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "1952_P_sitchr"
+msgid "How about we play some pool?"
+msgstr ""
+
+msgctxt "1964_P_sitchr"
+msgid "We could golf."
+msgstr ""
+
+msgctxt "1976_P_sitchr"
+msgid "We could hit the hot springs."
+msgstr ""
+
+msgctxt "1988_P_sitchr"
+msgid "Let's do something else."
+msgstr ""
+
+msgctxt "2000_P_sitchr"
+msgid "We could go to Le Marche."
+msgstr ""
+
+msgctxt "2012_P_sitchr"
+msgid "Let's do something else."
+msgstr ""

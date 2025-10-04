@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1412"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1416"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "1420"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "1424"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "1428"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1432"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "1436"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "1440"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid "Hey, Tanimura. You hang out in Chinese restaurants a lot, don't you?"
+msgstr ""
+
+msgctxt "68_Tanimura"
+msgid "Yeah. Why do you ask?"
+msgstr ""
+
+msgctxt "80_Kiryu"
+msgid ""
+"I'm kind of helping out this Chinese man, but I need somebody who knows how "
+"to speak the language."
+msgstr ""
+
+msgctxt "92_Tanimura"
+msgid "Oh, really? I could talk to him if you want."
+msgstr ""
+
+msgctxt "104_Kiryu"
+msgid "You know how to speak Chinese?"
+msgstr ""
+
+msgctxt "116_Tanimura"
+msgid "Yeah, just one of the tricks I picked up in my police work."
+msgstr ""
+
+msgctxt "128_Kiryu"
+msgid "Great, then come give me a hand. He's at Emoto Clinic."
+msgstr ""

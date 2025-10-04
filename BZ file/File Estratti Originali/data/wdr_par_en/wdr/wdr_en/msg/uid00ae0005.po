@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "56"
+msgid "Photo selection test"
+msgstr ""
+
+msgctxt "68"
+msgid "All right, who do you wanna talk about?"
+msgstr ""
+
+msgctxt "92"
+msgid "Person to the left 1."
+msgstr ""
+
+msgctxt "104"
+msgid "Person to the left 2."
+msgstr ""
+
+msgctxt "116"
+msgid "Person in the center 1."
+msgstr ""
+
+msgctxt "128"
+msgid "Person in the center 2."
+msgstr ""
+
+msgctxt "140"
+msgid "Person to the right 1."
+msgstr ""
+
+msgctxt "152"
+msgid "Person to the right 2."
+msgstr ""
+
+msgctxt "164"
+msgid "I'm done."
+msgstr ""

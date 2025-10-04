@@ -1,0 +1,797 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "27836"
+msgid "Attendant"
+msgstr ""
+
+msgctxt "27840"
+msgid "M_stand_tlk_shoukai"
+msgstr ""
+
+msgctxt "27844"
+msgid "F_cab_stand_tlk_shoukai"
+msgstr ""
+
+msgctxt "27848"
+msgid "Erena"
+msgstr ""
+
+msgctxt "27852"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr ""
+
+msgctxt "27856"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr ""
+
+msgctxt "27860"
+msgid "P_sitsofaR_tlk_yes"
+msgstr ""
+
+msgctxt "27864"
+msgid "F_cab_sitsofa_tlk_ojigiA"
+msgstr ""
+
+msgctxt "27868"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "27872"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "27876"
+msgid "P_sitsofaR_tlk_smile"
+msgstr ""
+
+msgctxt "27880"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr ""
+
+msgctxt "27884"
+msgid "P_sitsofaR_tlk_no"
+msgstr ""
+
+msgctxt "27888"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""
+
+msgctxt "27892"
+msgid "F_cab_sitsofa_tlk_thinkA"
+msgstr ""
+
+msgctxt "27896"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "27900"
+msgid "P_sitsofaR_tlk_comment"
+msgstr ""
+
+msgctxt "27904"
+msgid "Chihiro"
+msgstr ""
+
+msgctxt "27908"
+msgid "F_cab_sitsofa_tlk_he_happy"
+msgstr ""
+
+msgctxt "27912"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "27916"
+msgid "P_sitsofaR_tlk_think"
+msgstr ""
+
+msgctxt "27920"
+msgid "Himeka"
+msgstr ""
+
+msgctxt "27924"
+msgid "F_cab_sitsofa_tlk_he_yes"
+msgstr ""
+
+msgctxt "27928"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "27932"
+msgid "P_sitsofaL_tlk_yes"
+msgstr ""
+
+msgctxt "27936"
+msgid "P_sitsofaL_tlk_smile"
+msgstr ""
+
+msgctxt "27940"
+msgid "F_cab_sitsofa_tlk_he_surp"
+msgstr ""
+
+msgctxt "27944"
+msgid "F_cab_sitsofa_tlk_he_no"
+msgstr ""
+
+msgctxt "27948"
+msgid "P_sitsofaL_tlk_no"
+msgstr ""
+
+msgctxt "27952"
+msgid "F_cab_sitsofa_tlk_he_smile"
+msgstr ""
+
+msgctxt "27956"
+msgid "Noa"
+msgstr ""
+
+msgctxt "924_Attendant"
+msgid "Sorry to keep you waiting."
+msgstr ""
+
+msgctxt "948_Attendant"
+msgid "This is Erena."
+msgstr ""
+
+msgctxt "972_Attendant"
+msgid "Hello."
+msgstr ""
+
+msgctxt "1008_Attendant"
+msgid "Sorry to keep you waiting."
+msgstr ""
+
+msgctxt "1032_Attendant"
+msgid "This is Erena."
+msgstr ""
+
+msgctxt "1056_Attendant"
+msgid "Hello!"
+msgstr ""
+
+msgctxt "1092_Attendant"
+msgid "Sorry to keep you waiting."
+msgstr ""
+
+msgctxt "1116_Attendant"
+msgid "This is Erena."
+msgstr ""
+
+msgctxt "1140_Attendant"
+msgid "Hello."
+msgstr ""
+
+msgctxt "1164_Erena"
+msgid "Hello!"
+msgstr ""
+
+msgctxt "1188_Attendant"
+msgid "I'm Erena!"
+msgstr ""
+
+msgctxt "1200_Erena"
+msgid "Hello!"
+msgstr ""
+
+msgctxt "1224_Attendant"
+msgid "Oh, it's you! Thanks for coming again."
+msgstr ""
+
+msgctxt "1236_Erena"
+msgid "Hello!"
+msgstr ""
+
+msgctxt "1260_Attendant"
+msgid "Oh, Akiyama-san. You didn't request me today..."
+msgstr ""
+
+msgctxt "1272_Erena"
+msgid "Hello!"
+msgstr ""
+
+msgctxt "1284_P_sitsofaR_tlk_yes"
+msgid "I'm Erena. Nice to meet ya!"
+msgstr ""
+
+msgctxt "1320_Erena"
+msgid "Hello."
+msgstr ""
+
+msgctxt "1332_P_sitsofaR_tlk_yes"
+msgid "I'm Erena. Nice to meet you!"
+msgstr ""
+
+msgctxt "1368_Erena"
+msgid "Hello!"
+msgstr ""
+
+msgctxt "1380_P_sitsofaR_tlk_yes"
+msgid "I'm Erena. Nice to meet ya!"
+msgstr ""
+
+msgctxt "1416_Erena"
+msgid "Oh, I've been requested."
+msgstr ""
+
+msgctxt "1428_Erena"
+msgid "Enjoy your stay, okay?"
+msgstr ""
+
+msgctxt "1440_Erena"
+msgid "Bye for now."
+msgstr ""
+
+msgctxt "1452_Erena"
+msgid "Hi. I'm Erena. Nice to meet you."
+msgstr ""
+
+msgctxt "1464_Kiryu"
+msgid "I'm Kazuma Kiryu. Likewise."
+msgstr ""
+
+msgctxt "1476_Erena"
+msgid "Ooh, you're such a manly man, Kiryu-san. You're really my type."
+msgstr ""
+
+msgctxt "1488_Kiryu"
+msgid "Heh. You don't say?"
+msgstr ""
+
+msgctxt "1500_Erena"
+msgid ""
+"I love men who act big and strong, but get gentle when they're alone with a "
+"woman."
+msgstr ""
+
+msgctxt "1512_Kiryu"
+msgid "I don't think I'm like that..."
+msgstr ""
+
+msgctxt "1524_Erena"
+msgid "Really? Nobody has to act cool when they're alone with the one they love."
+msgstr ""
+
+msgctxt "1536_Kiryu"
+msgid ""
+"You're from the Kansai area, aren't you? How long have you been in "
+"Kamurocho?"
+msgstr ""
+
+msgctxt "1548_Erena"
+msgid "Oh, not that long. I used to live in Kyoto."
+msgstr ""
+
+msgctxt "1560_Kiryu"
+msgid "Were you a hostess in Kyoto, too?"
+msgstr ""
+
+msgctxt "1572_Erena"
+msgid "That's right. How'd you know that?"
+msgstr ""
+
+msgctxt "1584_Kiryu"
+msgid ""
+"Heh. It's just something about you. You're so flashy. It reminded me of the "
+"hostesses I've met in Osaka."
+msgstr ""
+
+msgctxt "1596_Chihiro"
+msgid "Wow. So you've been to hostess clubs in Osaka too, huh?"
+msgstr ""
+
+msgctxt "1608_Erena"
+msgid "But we Kyoto girls are more refined, as I'm sure you can tell."
+msgstr ""
+
+msgctxt "1620_Kiryu"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "1632_Erena"
+msgid "Kiryu-san! Do you like this club?"
+msgstr ""
+
+msgctxt "1644_Kiryu"
+msgid "Sure. It's easy to just drop in without requesting anybody."
+msgstr ""
+
+msgctxt "1656_Erena"
+msgid "Are you saying there are some clubs that even you'd be reluctant to enter?"
+msgstr ""
+
+msgctxt "1668_Kiryu"
+msgid ""
+"Well, sure. The clubs with a lot of yakuza connections are different. You "
+"can't just sit back, relax, and have a drink there."
+msgstr ""
+
+msgctxt "1680_Erena"
+msgid "I guess you're right... It must be hard for the girls working there, too."
+msgstr ""
+
+msgctxt "1692_Himeka"
+msgid ""
+"The dialogue will end after one round if you've entered a club more than "
+"once.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+
+msgctxt "1704_Erena"
+msgid ""
+"Kiryu cannot request Erena.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "1716_Erena"
+msgid ""
+"Kiryu cannot request Erena.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "1728_Erena"
+msgid ""
+"Erena does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "1740_Erena"
+msgid ""
+"Erena does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "1752_Erena"
+msgid ""
+"Erena does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "1764_Erena"
+msgid ""
+"Erena does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "1776_Erena"
+msgid ""
+"Kiryu cannot request Erena.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "1788_Erena"
+msgid ""
+"Kiryu cannot request Erena.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "1800_Erena"
+msgid ""
+"Erena does not appear for Akiyama's 1st or 3rd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "1812_Erena"
+msgid ""
+"Erena does not appear for Akiyama's 1st or 3rd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "1824_Erena"
+msgid ""
+"Erena does not appear for Akiyama's 1st or 3rd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "1836_Erena"
+msgid ""
+"Erena does not appear for Akiyama's 1st or 3rd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "1848_Erena"
+msgid ""
+"Erena does not appear for Akiyama's 1st or 3rd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "1860_Erena"
+msgid ""
+"Erena does not appear for Akiyama's 1st or 3rd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "1872_Erena"
+msgid "It's nice to meet ya. I'm Erena."
+msgstr ""
+
+msgctxt "1884_Akiyama"
+msgid "Hi. I'm Shun Akiyama."
+msgstr ""
+
+msgctxt "1896_Akiyama"
+msgid "Are you from the Kansai region, by any chance?"
+msgstr ""
+
+msgctxt "1908_Erena"
+msgid "That's right."
+msgstr ""
+
+msgctxt "1920_Erena"
+msgid "People here notice that right away. Is my accent really that different?"
+msgstr ""
+
+msgctxt "1932_Akiyama"
+msgid "Yeah, it is."
+msgstr ""
+
+msgctxt "1944_Erena"
+msgid "Seriously? Well then, can you tell which part of Kansai I'm from?"
+msgstr ""
+
+msgctxt "1956_Akiyama"
+msgid "Are you from Osaka?"
+msgstr ""
+
+msgctxt "1968_Erena"
+msgid "Nope! I'm from Kyoto."
+msgstr ""
+
+msgctxt "1980_Akiyama"
+msgid "Kyoto? Really? I never would've guessed."
+msgstr ""
+
+msgctxt "1992_Erena"
+msgid "Why'd you think I was from Osaka?"
+msgstr ""
+
+msgctxt "2004_Akiyama"
+msgid "Oh, you just seemed like the stereotypical Osaka girl. Flashy and confident."
+msgstr ""
+
+msgctxt "2016_Erena"
+msgid "That's not true! I'm a refined Kyoto beauty!"
+msgstr ""
+
+msgctxt "2028_Akiyama"
+msgid "Whoa, a bit forward, are we?"
+msgstr ""
+
+msgctxt "2040_Akiyama"
+msgid "I bet you're from Kyoto."
+msgstr ""
+
+msgctxt "2052_Erena"
+msgid "Yer right! Good guess."
+msgstr ""
+
+msgctxt "2064_Akiyama"
+msgid "It's just something about you. Kind of relaxing somehow."
+msgstr ""
+
+msgctxt "2076_Erena"
+msgid "Hahah! In Kyoto we call that \"hannari.\""
+msgstr ""
+
+msgctxt "2088_Akiyama"
+msgid "Yep, that's definitely the feeling I get when I look at you."
+msgstr ""
+
+msgctxt "2100_Erena"
+msgid "Hehe. You're good at flatterin' girls. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "2112_Akiyama"
+msgid "I'm not flattering you. I really mean it."
+msgstr ""
+
+msgctxt "2124_Erena"
+msgid "All right, then. I'll do my best to help ya relax today."
+msgstr ""
+
+msgctxt "2136_Akiyama"
+msgid "Could it be Hyogo?"
+msgstr ""
+
+msgctxt "2148_Erena"
+msgid "Nope! I'm from Kyoto."
+msgstr ""
+
+msgctxt "2160_Akiyama"
+msgid "Kyoto, huh? Now that I think about it, I can tell."
+msgstr ""
+
+msgctxt "2172_Erena"
+msgid "Really? You're not just sayin' that?"
+msgstr ""
+
+msgctxt "2184_Akiyama"
+msgid ""
+"Really. There's something about you. Dignified, but also relaxed. It "
+"practically screams Kyoto."
+msgstr ""
+
+msgctxt "2196_Erena"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "2208_Erena"
+msgid ""
+"You got kind of a restrained personality, don't you? Not like the men in "
+"Kansai."
+msgstr ""
+
+msgctxt "2220_Akiyama"
+msgid "Really? What do you mean?"
+msgstr ""
+
+msgctxt "2232_Erena"
+msgid ""
+"Kansai men are real laid-back. They'll meet someone for the first time and "
+"act like they're best friends."
+msgstr ""
+
+msgctxt "2244_Erena"
+msgid ""
+"But people around here always seem to act so formal, even around people "
+"who're their own age. It makes me a little nervous."
+msgstr ""
+
+msgctxt "2256_Akiyama"
+msgid "I see. I hadn't thought of it that way."
+msgstr ""
+
+msgctxt "2268_Akiyama"
+msgid ""
+"Actually, I think I'm closer to the Kansai type. I've always thought of "
+"myself as laid-back."
+msgstr ""
+
+msgctxt "2280_Erena"
+msgid "Maybe you're right."
+msgstr ""
+
+msgctxt "2292_Erena"
+msgid ""
+"I'm a little nervous around you, but that's because ya've got this aura "
+"about you."
+msgstr ""
+
+msgctxt "2304_Akiyama"
+msgid ""
+"Uh-oh. I'm going to have to try and tone it down some more then. I'm pretty "
+"good at that."
+msgstr ""
+
+msgctxt "2316_Erena"
+msgid "Ahahah! Ya don't have to go far. You're pretty funny."
+msgstr ""
+
+msgctxt "2328_Akiyama"
+msgid "You're not the shy type, are you?"
+msgstr ""
+
+msgctxt "2340_Erena"
+msgid "Ahahah! That's for sure. If anything, I like to stand out!"
+msgstr ""
+
+msgctxt "2352_Akiyama"
+msgid "I thought so. I could tell, even though we just met."
+msgstr ""
+
+msgctxt "2364_Erena"
+msgid ""
+"In Kansai, you can just jump right in and start talkin' like you know "
+"someone, but that just seems to freak out people from Tokyo."
+msgstr ""
+
+msgctxt "2376_Erena"
+msgid "So I try to keep it under control at first."
+msgstr ""
+
+msgctxt "2388_Akiyama"
+msgid "But you can't keep it up for long, can you?"
+msgstr ""
+
+msgctxt "2400_Erena"
+msgid "You saw right through me there."
+msgstr ""
+
+msgctxt "2412_Akiyama"
+msgid "You'll get used to it eventually. Don't be nervous."
+msgstr ""
+
+msgctxt "2424_Erena"
+msgid "I'm glad you're so friendly."
+msgstr ""
+
+msgctxt "2436_Erena"
+msgid "I'm sure I'll feel more comfortable after we've had more time to talk."
+msgstr ""
+
+msgctxt "2448_Akiyama"
+msgid "You mean you want me to request you?"
+msgstr ""
+
+msgctxt "2460_Erena"
+msgid "Hehe, yep!"
+msgstr ""
+
+msgctxt "2472_Akiyama"
+msgid "Heheh. All right, I'll think about it."
+msgstr ""
+
+msgctxt "2484_Erena"
+msgid "Welcome back!"
+msgstr ""
+
+msgctxt "2496_Akiyama"
+msgid "How's it going? Have you gotten used to working here yet?"
+msgstr ""
+
+msgctxt "2508_Erena"
+msgid "Thanks for thinkin' about me. You're sweet."
+msgstr ""
+
+msgctxt "2520_Erena"
+msgid ""
+"I've gotten used to living here, but I have no sense of direction. I can "
+"never tell which train to take."
+msgstr ""
+
+msgctxt "2532_Akiyama"
+msgid ""
+"I see. Yeah, Kyoto is so neatly laid out compared to Tokyo. It must seem "
+"like total chaos to you."
+msgstr ""
+
+msgctxt "2544_Erena"
+msgid "Well, I'm trying to get used to it."
+msgstr ""
+
+msgctxt "2556_Himeka"
+msgid ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report this if you see this message."
+msgstr ""
+
+msgctxt "2568_Erena"
+msgid "Oh, Akiyama-san... You're not requesting me today?"
+msgstr ""
+
+msgctxt "2580_Akiyama"
+msgid "Oh, I, uh... I just thought I could use a little change of pace."
+msgstr ""
+
+msgctxt "2592_Erena"
+msgid "Are you tired of me?"
+msgstr ""
+
+msgctxt "2604_Akiyama"
+msgid ""
+"No, no. It's not that at all.  Look, I'll definitely request you next time "
+"I come in, okay?"
+msgstr ""
+
+msgctxt "2616_Erena"
+msgid "Really? Don't let me down!"
+msgstr ""
+
+msgctxt "2628_Himeka"
+msgid ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report this if you see this message."
+msgstr ""
+
+msgctxt "2640_Erena"
+msgid ""
+"Erena Aihara does not show up when entering as Tanimura.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "2652_Erena"
+msgid ""
+"Erena Aihara does not show up when entering as Tanimura.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "2664_Erena"
+msgid ""
+"Erena Aihara does not show up when entering as Tanimura.\r\n"
+"programmer if this message is displayed."
+msgstr ""
+
+msgctxt "2676_Erena"
+msgid ""
+"Erena Aihara does not show up when entering as Tanimura.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "2688_Erena"
+msgid ""
+"Erena Aihara does not show up when entering as Tanimura.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "2700_Erena"
+msgid ""
+"Erena Aihara does not show up when entering as Tanimura.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "2712_Erena"
+msgid ""
+"Erena Aihara does not show up when entering as Tanimura.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "2724_Erena"
+msgid ""
+"Erena Aihara does not show up when entering as Tanimura.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "2736_Erena"
+msgid ""
+"Erena Aihara does not show up when entering as Tanimura.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "2748_Erena"
+msgid ""
+"Erena Aihara does not show up when entering as Tanimura.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "2760_Erena"
+msgid ""
+"Erena Aihara does not show up when entering as Tanimura.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "2772_Erena"
+msgid ""
+"Erena Aihara does not show up when entering as Tanimura.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+
+msgctxt "2784_Noa"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "2796_Erena"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "2808_Attendant"
+msgid "Osaka."
+msgstr ""
+
+msgctxt "2820_Attendant"
+msgid "Kyoto."
+msgstr ""
+
+msgctxt "2832_Attendant"
+msgid "Hyogo."
+msgstr ""
+
+msgctxt "2844_Attendant"
+msgid "I've always thought of myself as laid-back."
+msgstr ""
+
+msgctxt "2856_Attendant"
+msgid "You're not the shy type, are you?"
+msgstr ""
+
+msgctxt "2868_Attendant"
+msgid "You'll get used to it eventually."
+msgstr ""

@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "252"
+msgid "You gained 500 EXP."
+msgstr ""
+
+msgctxt "408"
+msgid "You can switch between day and night by resting."
+msgstr ""
+
+msgctxt "4700"
+msgid "Date"
+msgstr ""
+
+msgctxt "4704"
+msgid "Switching Main Characters"
+msgstr ""
+
+msgctxt "4708"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4712"
+msgid "Player"
+msgstr ""
+
+msgctxt "4716"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "192_Date"
+msgid ""
+"So these are the final hours before the big showdown, huh? Make sure you're "
+"prepared before you go. And talk to the others before you rest."
+msgstr ""
+
+msgctxt "204_Switching Main Characters"
+msgid ""
+"During the Finale, you can switch between any of the four main characters "
+"at New Serena. Talk to the character you want to control and select the "
+"appropriate command."
+msgstr ""
+
+msgctxt "216_Switching Main Characters"
+msgid ""
+"This information has been added as a <Color:14>memo<Color:Default>.\r\n"
+"Read <Color:14>memos<Color:Default> by selecting "
+"<Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
+"You can access the Pause Menu with the <Action:Button_Options@Adventure> "
+"button."
+msgstr ""
+
+msgctxt "228_Date"
+msgid ""
+"I have no idea what's in store for you guys... All I can say is, make sure "
+"you don't have any regrets before you head out."
+msgstr ""
+
+msgctxt "264_Date"
+msgid "Hey, you guys ready to go?"
+msgstr ""
+
+msgctxt "276_Player"
+msgid "Not yet. I need a little more time."
+msgstr ""
+
+msgctxt "288_Date"
+msgid "All right, I'll be waiting."
+msgstr ""
+
+msgctxt "300_Player"
+msgid "Yeah, let's roll."
+msgstr ""
+
+msgctxt "312_Date"
+msgid ""
+"You're really sure? You might wanna stock up on Staminans if\r\n"
+"you haven't already. This'll be your last chance."
+msgstr ""
+
+msgctxt "324_Player"
+msgid "Actually, hold on. There's a few more things I need to take care of."
+msgstr ""
+
+msgctxt "336_Date"
+msgid "All right, I'll be waiting."
+msgstr ""
+
+msgctxt "348_Player"
+msgid "Yeah, we're good to go."
+msgstr ""
+
+msgctxt "360_Date"
+msgid "Then let's do it."
+msgstr ""
+
+msgctxt "384_Date"
+msgid ""
+"Let me know when you guys are ready to go to the Millennium\r\n"
+"Tower. We'll head out once all four of you are good."
+msgstr ""
+
+msgctxt "396_Date"
+msgid ""
+"Oh, and I brought some blankets so you can rest. Can't take\r\n"
+"down a massive criminal conspiracy without a little beauty sleep, right?"
+msgstr ""
+
+msgctxt "444_Date"
+msgid "Not yet."
+msgstr ""
+
+msgctxt "456_Date"
+msgid "Let's roll."
+msgstr ""
+
+msgctxt "468_Date"
+msgid "Actually, hold on."
+msgstr ""
+
+msgctxt "480_Date"
+msgid "I'm sure."
+msgstr ""

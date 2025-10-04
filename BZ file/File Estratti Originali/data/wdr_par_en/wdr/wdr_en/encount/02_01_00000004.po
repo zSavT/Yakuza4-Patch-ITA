@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1460"
+msgid "Man"
+msgstr ""
+
+msgctxt "1464"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1468"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1472"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "116_Man"
+msgid "Excuse me! Hey! I know you can hear me. Why are you ignoring me, huh?"
+msgstr ""
+
+msgctxt "128_Man"
+msgid ""
+"Still nothing? Fine by me. We'll settle this with a good old-fashioned "
+"ass-kicking."
+msgstr ""
+
+msgctxt "152_Man"
+msgid "Yikes! Forgive me!"
+msgstr ""
+
+msgctxt "164_Man"
+msgid ""
+"It was all my fault. I won't pick fights like that ever again! Here, take "
+"this－and forgive me!"
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a fragile %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "Can't you see I'm begging you to forgive me?"
+msgstr ""

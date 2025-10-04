@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "11316"
+msgid "Scared Punk"
+msgstr ""
+
+msgctxt "11320"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "11324"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "11328"
+msgid "M_ykz_damage_tlk_no"
+msgstr ""
+
+msgctxt "11332"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "11336"
+msgid "Defeated Businessman"
+msgstr ""
+
+msgctxt "11340"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "11344"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "11348"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "11352"
+msgid "Akaishi"
+msgstr ""
+
+msgctxt "11356"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11360"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11364"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "11368"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "11372"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "11376"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "11380"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "11384"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "11388"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "11392"
+msgid "Police Scanner - Tanimura"
+msgstr ""
+
+msgctxt "11396"
+msgid "dummy"
+msgstr ""
+
+msgctxt "11400"
+msgid "0"
+msgstr ""
+
+msgctxt "56_Scared Punk"
+msgid "Agh... Ugh... You're no joke. Who the hell are you, anyways?"
+msgstr ""
+
+msgctxt "68_Tanimura"
+msgid "I'm Tanimura, a detective here in Kamurocho."
+msgstr ""
+
+msgctxt "80_Scared Punk"
+msgid "Shit! Fuckin' cops..."
+msgstr ""
+
+msgctxt "92_Tanimura"
+msgid ""
+"Watch your mouth and get the hell out of here. Arresting punks like you is "
+"a waste of my time."
+msgstr ""
+
+msgctxt "104_Scared Punk"
+msgid "Right! Consider me gone!"
+msgstr ""
+
+msgctxt "116_Defeated Businessman"
+msgid "Thank you. You saved me."
+msgstr ""
+
+msgctxt "128_Tanimura"
+msgid ""
+"No worries. I was just passing by, don't think too much of it. But you "
+"should watch your step from here on out."
+msgstr ""
+
+msgctxt "140_Defeated Businessman"
+msgid "Yes, sir. I apologize for the trouble. I'll be more careful in the future."
+msgstr ""
+
+msgctxt "164_Tanimura"
+msgid "Whew... That takes care of that."
+msgstr ""
+
+msgctxt "176_Akaishi"
+msgid "Looks like you cleaned that up quite nicely!"
+msgstr ""
+
+msgctxt "200_Tanimura"
+msgid "And you are?"
+msgstr ""
+
+msgctxt "212_Akaishi"
+msgid "Oh, I apologize. I am Akaishi, here representing the Kamurocho Guard."
+msgstr ""
+
+msgctxt "224_Tanimura"
+msgid ""
+"Kamurocho Guard? Oh, that volunteer group doing a community watch type of "
+"thing?"
+msgstr ""
+
+msgctxt "236_Akaishi"
+msgid "You know us! Well, it's nice to meet you, Tanimura-san."
+msgstr ""
+
+msgctxt "248_Tanimura"
+msgid "Huh? How did you know my name?"
+msgstr ""
+
+msgctxt "260_Akaishi"
+msgid ""
+"Working in the area has made me really knowledgeable about the local "
+"police. And boy, have I heard a lot about you!"
+msgstr ""
+
+msgctxt "272_Tanimura"
+msgid "I'm almost certain it's nothing good."
+msgstr ""
+
+msgctxt "284_Akaishi"
+msgid ""
+"Anyways, nice work back there. You resolved the situation by being the "
+"first on the scene and handled things expediently."
+msgstr ""
+
+msgctxt "296_Tanimura"
+msgid "I just came by because I was in the area and heard about it on my radio."
+msgstr ""
+
+msgctxt "308_Akaishi"
+msgid "Our group gives its all to maintain the peace here in Kamurocho."
+msgstr ""
+
+msgctxt "320_Akaishi"
+msgid ""
+"But with a pleasure district this big, even our combined efforts can't "
+"cover all the problems that arise."
+msgstr ""
+
+msgctxt "332_Tanimura"
+msgid "That's for sure."
+msgstr ""
+
+msgctxt "344_Akaishi"
+msgid ""
+"Plus, and I'm not sure why, there's been some mystery group trying to "
+"interfere with us lately."
+msgstr ""
+
+msgctxt "356_Akaishi"
+msgid ""
+"The nature of our work requires we put ourselves in harm's way. But now we "
+"have people actively working against us. Our ranks are thinning."
+msgstr ""
+
+msgctxt "368_Tanimura"
+msgid "Hm, that's not good at all."
+msgstr ""
+
+msgctxt "380_Akaishi"
+msgid "Which is why I have a favor to ask you."
+msgstr ""
+
+msgctxt "392_Akaishi"
+msgid "Would you mind lending us a hand?"
+msgstr ""
+
+msgctxt "404_Tanimura"
+msgid ""
+"Huh? Keeping the peace is technically my job, but I don't think I can just "
+"up and join your group."
+msgstr ""
+
+msgctxt "416_Akaishi"
+msgid "You won't have to actually join, just help out once in a while."
+msgstr ""
+
+msgctxt "428_Akaishi"
+msgid ""
+"Our goal is to resolve incidents like the one you just dealt with. We want "
+"to make Kamurocho safer for everyone."
+msgstr ""
+
+msgctxt "440_Akaishi"
+msgid ""
+"To do that we need the assistance of police like you, that know much more "
+"than we do about the area."
+msgstr ""
+
+msgctxt "452_Akaishi"
+msgid ""
+"We will use our funds to reward you, depending on how many incidents you "
+"are able to resolve."
+msgstr ""
+
+msgctxt "464_Akaishi"
+msgid ""
+"This isn't easy for me to say, but... we've heard rumors you were "
+"financially in need pretty often."
+msgstr ""
+
+msgctxt "476_Akaishi"
+msgid "Anyways, we will pay you a fair amount for your services. Do we have a deal?"
+msgstr ""
+
+msgctxt "488_Tanimura"
+msgid "Hmm. One thing bugs me..."
+msgstr ""
+
+msgctxt "500_Akaishi"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "512_Tanimura"
+msgid "Well, you said you guys are volunteers, right?"
+msgstr ""
+
+msgctxt "524_Akaishi"
+msgid "That's right."
+msgstr ""
+
+msgctxt "536_Tanimura"
+msgid "Then what's this about funds I'm hearing?"
+msgstr ""
+
+msgctxt "548_Akaishi"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "560_Tanimura"
+msgid ""
+"Volunteer groups usually just barely scrape by. That is, unless they have "
+"some strong organization backing them."
+msgstr ""
+
+msgctxt "572_Akaishi"
+msgid "Well..."
+msgstr ""
+
+msgctxt "584_Tanimura"
+msgid "If you can't say, that's fine, I guess. Not like I have anything to lose."
+msgstr ""
+
+msgctxt "596_Akaishi"
+msgid ""
+"Thank you, Tanimura-san! You can come by and help whenever you have the "
+"time! We won't force you to do anything you don't want to!"
+msgstr ""
+
+msgctxt "608_Tanimura"
+msgid ""
+"All right. But only when I hear something on the radio and have some spare "
+"time."
+msgstr ""
+
+msgctxt "620_Akaishi"
+msgid "Really!? Thank you very much!"
+msgstr ""
+
+msgctxt "632_Tanimura"
+msgid "So I go to you for the reward money, yeah?"
+msgstr ""
+
+msgctxt "644_Akaishi"
+msgid ""
+"Yes. I am usually here, at Theater Square. Contact me once you've resolved "
+"a couple cases."
+msgstr ""
+
+msgctxt "656_Tanimura"
+msgid ""
+"You don't mind me collecting a bit on the side from the people I help, "
+"right?"
+msgstr ""
+
+msgctxt "668_Akaishi"
+msgid "...I have no issues with that."
+msgstr ""
+
+msgctxt "680_Tanimura"
+msgid "Roger that."
+msgstr ""
+
+msgctxt "692_Akaishi"
+msgid "This is going to be such a big help! Thanks again!"
+msgstr ""
+
+msgctxt "704_Tanimura"
+msgid ""
+"(Well, as long as they are working for the benefit of Kamurocho. It won't "
+"hurt to help out.)"
+msgstr ""
+
+msgctxt "716_Scared Punk"
+msgid ""
+"This information has been added as a <Color:14>memo<Color:Default>.\r\n"
+"Read <Color:14>memos<Color:Default> by selecting "
+"<Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
+"You can access the Pause Menu with the <Action:Button_Options@Adventure> "
+"button."
+msgstr ""

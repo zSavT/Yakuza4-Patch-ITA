@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "488"
+msgid ""
+"It's the Tojo Terror, Kazuma Kiryu, over at the arcade in Theater Square "
+"for some UFO Catcher fun. Had some trouble winning, but it's times like "
+"these you gotta use your brain!"
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"So I glared down one of the employees, and he gave me an AiAi doll for "
+"free! Man, I love AiAi.\r\n"
+"　　　　　　　-Kazuma Kiryu, Tojo Clan Fourth Chairman"
+msgstr ""
+
+msgctxt "9560"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9564"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9568"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "9572"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "9576"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9580"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "9584"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "9588"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "9592"
+msgid "SetM_nml_sitchr_mail"
+msgstr ""
+
+msgctxt "9596"
+msgid "P_stand_tlk_child_order"
+msgstr ""
+
+msgctxt "9600"
+msgid "P_sitchr_tlk_kamae"
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid "So, what is it you need to show me?"
+msgstr ""
+
+msgctxt "68_Yuya"
+msgid "Have you ever heard of Hanage Park?"
+msgstr ""
+
+msgctxt "80_Kiryu"
+msgid "Hanage Park? Is that the name of a park or something?"
+msgstr ""
+
+msgctxt "92_Yuya"
+msgid "I guess you don't know. Hmm, how should I explain it..."
+msgstr ""
+
+msgctxt "104_Yuya"
+msgid ""
+"It's something you can do on your cell phone. Play games, write blogs, "
+"stuff like that. It even has a messaging service. It's pretty cool, "
+"honestly."
+msgstr ""
+
+msgctxt "116_Kiryu"
+msgid "You can blog on there, huh? Have I ever told you I have a blog of my own?"
+msgstr ""
+
+msgctxt "128_Yuya"
+msgid ""
+"That so? Well, in Hanage Park there's a community called Kamurocho Circle, "
+"and it's been getting a lot of traction lately."
+msgstr ""
+
+msgctxt "140_Yuya"
+msgid ""
+"The thing is, somebody's been posting some awful stuff on there... under "
+"the name Kazuma Kiryu."
+msgstr ""
+
+msgctxt "152_Kiryu"
+msgid "Hm? Someone's impersonating me?"
+msgstr ""
+
+msgctxt "164_Yuya"
+msgid ""
+"I mean, it's not really that much of a surprise. You're the closest thing "
+"we've got to a Kamurocho legend, after all."
+msgstr ""
+
+msgctxt "176_Yuya"
+msgid ""
+"Anyways, this guy's just been spamming the message boards with posts about "
+"punching out business owners who piss him off. Not the most flattering "
+"portrayal of you."
+msgstr ""
+
+msgctxt "188_Kiryu"
+msgid ""
+"Sounds like this guy has a lot of time on his hands. I don't see the big "
+"deal, though. Who cares about what people think about me online?"
+msgstr ""
+
+msgctxt "200_Yuya"
+msgid "Kiryu-san, you need to take this more seriously!"
+msgstr ""
+
+msgctxt "212_Yuya"
+msgid ""
+"Some of my boys use Hanage Park, and they're convinced that it's really you "
+"doing all this shit. So not only is your online reputation tanking, but "
+"it's affecting your real life one too!"
+msgstr ""
+
+msgctxt "224_Kiryu"
+msgid "Hm. I guess that's not good."
+msgstr ""
+
+msgctxt "236_Yuya"
+msgid ""
+"Think about all the other random people who read it, too. They don't know "
+"how you really are, so they just accept all these lies as truth. This isn't "
+"just some harmless prank, Kiryu-san."
+msgstr ""
+
+msgctxt "248_Kiryu"
+msgid "You have a point there. Think I can take a look at this guy's blog?"
+msgstr ""
+
+msgctxt "260_Yuya"
+msgid "Yeah, you just gotta register first. Here, I can show you how to sign up."
+msgstr ""
+
+msgctxt "332_Yuya"
+msgid "Perfect. Now just hit that button there..."
+msgstr ""
+
+msgctxt "344_Kiryu"
+msgid ""
+"This one? Okay, looks like I'm in. But wait... Why isn't my little man "
+"wearing any clothes?"
+msgstr ""
+
+msgctxt "356_Yuya"
+msgid ""
+"That little man is called your avatar. You can dress him up however you "
+"like."
+msgstr ""
+
+msgctxt "368_Yuya"
+msgid "See? Just press that closet icon and give him some new threads."
+msgstr ""
+
+msgctxt "380_Kiryu"
+msgid ""
+"Ah, that's a good-looking suit. There. So, how do I get into this Kamurocho "
+"Circle thing?"
+msgstr ""
+
+msgctxt "392_Yuya"
+msgid "Let's see, it should be... here?"
+msgstr ""
+
+msgctxt "452_Kiryu"
+msgid "Huh. This guy sure has a lot of blog entries."
+msgstr ""
+
+msgctxt "464_Yuya"
+msgid ""
+"You're damn right he does. It's basically a live feed of his life. Probably "
+"doesn't have that much going on if he spends all that time on social media."
+msgstr ""
+
+msgctxt "476_Kiryu"
+msgid "Hm, here's the most recent one..."
+msgstr ""
+
+msgctxt "512_Kiryu"
+msgid "Pretty petty crime, if you ask me."
+msgstr ""
+
+msgctxt "524_Yuya"
+msgid "But we can't let him get away with it!"
+msgstr ""
+
+msgctxt "536_Yuya"
+msgid "I'm gonna head to that arcade, see if he's still there."
+msgstr ""
+
+msgctxt "548_Kiryu"
+msgid "Hold on, Yuya."
+msgstr ""
+
+msgctxt "560_Kiryu"
+msgid "I'll handle it. No reason to get you mixed up in all this."
+msgstr ""

@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "7120"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "7124"
+msgid "Sync_kyoro_st"
+msgstr ""
+
+msgctxt "7128"
+msgid "Sync_kyoro_ed"
+msgstr ""
+
+msgctxt "7132"
+msgid "Shibata Family Member"
+msgstr ""
+
+msgctxt "7136"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "7140"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7144"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7148"
+msgid "Yasuko"
+msgstr ""
+
+msgctxt "7152"
+msgid "P_tan_stand_tlk_techo"
+msgstr ""
+
+msgctxt "7156"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "7160"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7164"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "7168"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "7172"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "72_Tanimura"
+msgid "(Geez... What a waste of time.)"
+msgstr ""
+
+msgctxt "96_Tanimura"
+msgid "(...What the heck? She's gone!)"
+msgstr ""
+
+msgctxt "120_Tanimura"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "132_Tanimura"
+msgid "Your people took her somewhere, didn't they!?"
+msgstr ""
+
+msgctxt "144_Shibata Family Member"
+msgid ""
+"Ha! What do you care? She's probably popping bottles with the boss right "
+"now... Or popping his bottle, perhaps."
+msgstr ""
+
+msgctxt "168_Tanimura"
+msgid "Stop feeding me bullshit and tell me where she is!"
+msgstr ""
+
+msgctxt "180_Shibata Family Member"
+msgid ""
+"Heh... Heheh... Fine. Guess we bought 'em enough time.\r\n"
+"They're probably at the Tokyo Bay <Color:7>docks<Color:Default> by now."
+msgstr ""
+
+msgctxt "192_Shibata Family Member"
+msgid ""
+"Really, though, I wonder what they're doing to her... Nothing good, knowing "
+"the boss."
+msgstr ""
+
+msgctxt "204_Tanimura"
+msgid "Damn it!"
+msgstr ""
+
+msgctxt "216_Tanimura"
+msgid ""
+"(I need to get to the <Color:7>docks<Color:Default> right away... Better "
+"catch a cab!)"
+msgstr ""
+
+msgctxt "240_Tanimura"
+msgid "You're Yasuko Saejima, right?"
+msgstr ""
+
+msgctxt "252_Yasuko"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "264_Tanimura"
+msgid ""
+"There's something I need to know about a shooting in 1985. Something only "
+"you can tell me."
+msgstr ""
+
+msgctxt "276_Yasuko"
+msgid "I... I don't know about any shooting!"
+msgstr ""
+
+msgctxt "288_Tanimura"
+msgid "Hey, don't be so tense. You can trust me."
+msgstr ""
+
+msgctxt "324_Yasuko"
+msgid "Ah!"
+msgstr ""
+
+msgctxt "336_Yasuko"
+msgid "I told you, I don't know anything!"
+msgstr ""
+
+msgctxt "348_Tanimura"
+msgid "Whoa, what's wrong? I'm one of the good guys here!"
+msgstr ""
+
+msgctxt "408_Shibata Family Member"
+msgid "We finally got you, you little hussy!"
+msgstr ""
+
+msgctxt "432_Yasuko"
+msgid "You're... Shibata's men!"
+msgstr ""
+
+msgctxt "444_Tanimura"
+msgid "Probably his bottom-rung goons, by the look of it."
+msgstr ""
+
+msgctxt "456_Shibata Family Member"
+msgid ""
+"What, you ditch that moneygrubber for this dickhead? Not that I give a "
+"rat's ass. You still owe our boss a visit."
+msgstr ""
+
+msgctxt "468_Shibata Family Member"
+msgid "Now you're coming with us. We've wasted too much time on you already."
+msgstr ""
+
+msgctxt "480_Tanimura"
+msgid ""
+"Sorry, but the lady and I have business to discuss. So why don't you buzz "
+"off?"
+msgstr ""
+
+msgctxt "492_Shibata Family Member"
+msgid ""
+"You think we take orders from you!? Should've watched that mouth, pretty "
+"boy! 'Cause it's about to get swollen shut!"
+msgstr ""

@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "5164"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "5168"
+msgid "Manager"
+msgstr ""
+
+msgctxt "5172"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "5176"
+msgid "Talk_Phone_yes"
+msgstr ""
+
+msgctxt "5180"
+msgid "Lily"
+msgstr ""
+
+msgctxt "5184"
+msgid "Talk_Phone_no"
+msgstr ""
+
+msgctxt "5188"
+msgid "Talk_Phone_ed"
+msgstr ""
+
+msgctxt "5192"
+msgid "dummy"
+msgstr ""
+
+msgctxt "92_Manager"
+msgid "Hello, Akiyama-san."
+msgstr ""
+
+msgctxt "104_Akiyama"
+msgid "So... How'd Lily-chan do?"
+msgstr ""
+
+msgctxt "116_Manager"
+msgid ""
+"I just finished totaling her receipts. Let's see here...\r\n"
+"Over the three days here, she made..."
+msgstr ""
+
+msgctxt "128_Manager"
+msgid "%s."
+msgstr ""
+
+msgctxt "152_Akiyama"
+msgid "Hot damn! That's incredible."
+msgstr ""
+
+msgctxt "164_Akiyama"
+msgid "Hey, that's not bad."
+msgstr ""
+
+msgctxt "176_Akiyama"
+msgid "Got it. Thanks for letting me know."
+msgstr ""
+
+msgctxt "188_Manager"
+msgid "I know you said she'd only be here three days..."
+msgstr ""
+
+msgctxt "200_Manager"
+msgid ""
+"But the club would really benefit if she decided to\r\n"
+"keep working here."
+msgstr ""
+
+msgctxt "212_Manager"
+msgid ""
+"She has a rare talent for keeping customers happy.\r\n"
+"Business has been booming ever since she came."
+msgstr ""
+
+msgctxt "224_Akiyama"
+msgid "Heheh. That's great to hear."
+msgstr ""
+
+msgctxt "236_Akiyama"
+msgid ""
+"Is Lily-chan there now? I'd like to speak with her\r\n"
+"if she is."
+msgstr ""
+
+msgctxt "248_Manager"
+msgid "Certainly. One moment, please."
+msgstr ""
+
+msgctxt "260_Lily"
+msgid "Hello, Lily speaking."
+msgstr ""
+
+msgctxt "272_Akiyama"
+msgid "Hey, Lily-chan. I heard you did well."
+msgstr ""
+
+msgctxt "284_Lily"
+msgid "Yes. And it's all thanks to you, Akiyama-san."
+msgstr ""
+
+msgctxt "296_Akiyama"
+msgid "Nonsense. That's all you, Lily. Your natural talent and hard work."
+msgstr ""
+
+msgctxt "308_Lily"
+msgid ""
+"But without your guidance, I'm not sure I would have\r\n"
+"passed the test."
+msgstr ""
+
+msgctxt "320_Lily"
+msgid "And for that, I'm incredibly grateful..."
+msgstr ""
+
+msgctxt "332_Akiyama"
+msgid ""
+"Happy to help. Now, about that money... I have it ready\r\n"
+"if you have time to meet."
+msgstr ""
+
+msgctxt "344_Lily"
+msgid "Sure. Where should I go?"
+msgstr ""
+
+msgctxt "356_Akiyama"
+msgid "How's the roof of the Millennium Tower sound? We can meet there."
+msgstr ""
+
+msgctxt "368_Lily"
+msgid "Okay, I'll be waiting."
+msgstr ""
+
+msgctxt "380_Akiyama"
+msgid "Great. Till then."
+msgstr ""

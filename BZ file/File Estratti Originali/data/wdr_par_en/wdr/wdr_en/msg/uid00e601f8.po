@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2272"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "2276"
+msgid "Takasu"
+msgstr ""
+
+msgctxt "2280"
+msgid "Tadashi"
+msgstr ""
+
+msgctxt "2284"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "2288"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2292"
+msgid "Fuse"
+msgstr ""
+
+msgctxt "2296"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "2300"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2304"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "80_Takasu"
+msgid "What's all the commotion? You two. What business do you have with me?"
+msgstr ""
+
+msgctxt "92_Tadashi"
+msgid "So you're Takasu! My sister... Gimme back my sister!"
+msgstr ""
+
+msgctxt "104_Takasu"
+msgid "I beg your pardon?"
+msgstr ""
+
+msgctxt "128_Fuse"
+msgid "Please, sir, leave this to me."
+msgstr ""
+
+msgctxt "152_Saejima"
+msgid "Get behind me, Tadashi."
+msgstr ""
+
+msgctxt "176_Fuse"
+msgid ""
+"I don't know what you want, but don't think you can\r\n"
+"smash up a yakuza office and waltz right on out again."
+msgstr ""
+
+msgctxt "188_Saejima"
+msgid "Don't worry. I ain't waltzin' nowhere."
+msgstr ""

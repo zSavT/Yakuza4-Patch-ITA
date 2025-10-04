@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "560"
+msgid "Quit"
+msgstr ""
+
+msgctxt "565"
+msgid "Cancel the order."
+msgstr ""
+
+msgctxt "583"
+msgid "Order"
+msgstr ""
+
+msgctxt "589"
+msgid "Order the currently selected item.  "
+msgstr ""
+
+msgctxt "626"
+msgid "(I haven't picked anything.)  "
+msgstr ""
+
+msgctxt "657"
+msgid "(I'm short on cash.)  "
+msgstr ""
+
+msgctxt "680"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "706"
+msgid "(I can't carry any more stuff.)"
+msgstr ""
+
+msgctxt "738"
+msgid "(They're sold out.)"
+msgstr ""
+
+msgctxt "758"
+msgid ""
+"Should help you get back on your feet when you're\n"
+"low on health and Heat."
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"More effective at revitalizing your health and Heat\n"
+"than a regular Staminan X."
+msgstr ""
+
+msgctxt "911"
+msgid ""
+"One of the most potent energy drinks on the market.\n"
+"It'll dramatically restore your health and Heat."
+msgstr ""
+
+msgctxt "1012"
+msgid ""
+"This flak vest is super resistant to bullets. It's extra \n"
+"durable due to its special creation process."
+msgstr ""
+
+msgctxt "1115"
+msgid ""
+"A powerful chemical compound that can freeze\n"
+"almost anything instantly."
+msgstr ""
+
+msgctxt "1187"
+msgid "It's highly explosive, so be careful with it."
+msgstr ""
+
+msgctxt "1233"
+msgid ""
+"This chunk of metal has some serious magnetic pull. \n"
+"Maybe you can use it for something."
+msgstr ""
+
+msgctxt "1322"
+msgid ""
+"Not really sure what you could do with this mystery\n"
+"white liquid..."
+msgstr ""
+
+msgctxt "1390"
+msgid "Used in cosmetics and stuff."
+msgstr ""
+
+msgctxt "1419"
+msgid "Perfect for making stuff bouncy!"
+msgstr ""
+
+msgctxt "1452"
+msgid "Can be put to good use making swords."
+msgstr ""
+
+msgctxt "1490"
+msgid ""
+"A weird-looking, blue fluorescent bulb. Probably not\n"
+"something you'd use for most lights."
+msgstr ""
+
+msgctxt "1580"
+msgid ""
+"Kind of an odd looking blow-up doll. I'm sure you \n"
+"know what it's for..."
+msgstr ""
+
+msgctxt "1653"
+msgid "Adjusts its tension in response to temperature."
+msgstr ""
+
+msgctxt "1701"
+msgid "The kind of dropper used in science experiments."
+msgstr ""

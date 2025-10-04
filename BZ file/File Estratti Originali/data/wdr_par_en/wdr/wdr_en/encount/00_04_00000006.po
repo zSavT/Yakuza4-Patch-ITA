@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1320"
+msgid "Man"
+msgstr ""
+
+msgctxt "1324"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1328"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1332"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid "Hey, aren't you the guy who was givin' our aniki the stink eye?"
+msgstr ""
+
+msgctxt "128_Man"
+msgid "We'll show you what happens when you fuck with the yakuza!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "We should never have tangled with you..."
+msgstr ""
+
+msgctxt "164_Man"
+msgid "This should make up for the trouble..."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a tangled %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid ""
+"We were only following our aniki's orders. It's not like we wanted to beat "
+"you up..."
+msgstr ""

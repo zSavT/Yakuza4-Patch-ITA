@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "548"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "1076"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "13668"
+msgid "Maya"
+msgstr ""
+
+msgctxt "13672"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13676"
+msgid "Player"
+msgstr ""
+
+msgctxt "13680"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "13684"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13688"
+msgid "0"
+msgstr ""
+
+msgctxt "13692"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "13696"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13700"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "116_Maya"
+msgid "Good choice! And we can drink, too!"
+msgstr ""
+
+msgctxt "128_Player"
+msgid "Right, just don't go overboard."
+msgstr ""
+
+msgctxt "140_Maya"
+msgid "I won't!"
+msgstr ""
+
+msgctxt "164_Maya"
+msgid "Good choice! And we can drink, too!"
+msgstr ""
+
+msgctxt "176_Player"
+msgid "Hold up. I didn't bring enough money."
+msgstr ""
+
+msgctxt "188_Maya"
+msgid "Seriously? No credit card or anything?"
+msgstr ""
+
+msgctxt "200_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "212_Maya"
+msgid "Are you kidding me!? I'm going home. See you later."
+msgstr ""
+
+msgctxt "224_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr ""
+
+msgctxt "332_Maya"
+msgid "That hit the spot."
+msgstr ""
+
+msgctxt "344_Player"
+msgid "Glad to hear it."
+msgstr ""
+
+msgctxt "356_Maya"
+msgid ""
+"Thanks for taking me out, Kiryu-san. <Color:7>♥<Color:Default> Can we do "
+"this again?"
+msgstr ""
+
+msgctxt "368_Player"
+msgid "Of course."
+msgstr ""
+
+msgctxt "380_Maya"
+msgid "I should get going. See you at the club!"
+msgstr ""
+
+msgctxt "404_Maya"
+msgid "Thanks for taking me out."
+msgstr ""
+
+msgctxt "416_Player"
+msgid "No problem."
+msgstr ""
+
+msgctxt "428_Maya"
+msgid "I ate more than I thought I would."
+msgstr ""
+
+msgctxt "440_Maya"
+msgid "I should get going. See you at the club!"
+msgstr ""
+
+msgctxt "464_Maya"
+msgid "......"
+msgstr ""
+
+msgctxt "476_Player"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "488_Maya"
+msgid "The food was tasty, but my stomach isn't too happy right now..."
+msgstr ""
+
+msgctxt "500_Player"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "512_Maya"
+msgid ""
+"How about we do something different next time?\r\n"
+"Well, I should get going."
+msgstr ""
+
+msgctxt "524_Player"
+msgid "(Guess she didn't enjoy the food.)"
+msgstr ""
+
+msgctxt "632_Maya"
+msgid "Good choice! And we can drink, too!"
+msgstr ""
+
+msgctxt "644_Player"
+msgid "Right, just don't go overboard."
+msgstr ""
+
+msgctxt "656_Maya"
+msgid "I won't!"
+msgstr ""
+
+msgctxt "680_Maya"
+msgid "Good choice! And we can drink, too!"
+msgstr ""
+
+msgctxt "692_Player"
+msgid "Hold up. I didn't bring enough money."
+msgstr ""
+
+msgctxt "704_Maya"
+msgid "Seriously? No credit card or anything?"
+msgstr ""
+
+msgctxt "716_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "728_Maya"
+msgid "Are you kidding me!? I'm going home. See you later."
+msgstr ""
+
+msgctxt "740_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr ""
+
+msgctxt "848_Maya"
+msgid "That hit the spot."
+msgstr ""
+
+msgctxt "860_Player"
+msgid "Glad to hear it."
+msgstr ""
+
+msgctxt "872_Maya"
+msgid "Thanks for taking me out, Kiryu-san. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "884_Talk_Yes"
+msgid "Wanna hit the club next?"
+msgstr ""
+
+msgctxt "896_Player"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "920_Maya"
+msgid "Thanks for taking me out."
+msgstr ""
+
+msgctxt "932_Player"
+msgid "No problem."
+msgstr ""
+
+msgctxt "944_Maya"
+msgid "I ate more than I thought I would."
+msgstr ""
+
+msgctxt "956_Maya"
+msgid "All right, let's head to the club."
+msgstr ""
+
+msgctxt "968_Player"
+msgid "Okay."
+msgstr ""
+
+msgctxt "992_Maya"
+msgid "......"
+msgstr ""
+
+msgctxt "1004_Player"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "1016_Maya"
+msgid "The food was tasty, but my stomach isn't too happy right now..."
+msgstr ""
+
+msgctxt "1028_Player"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "1040_Maya"
+msgid "Let's head to the club."
+msgstr ""
+
+msgctxt "1052_Player"
+msgid "Sure."
+msgstr ""

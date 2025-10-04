@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "274\tCATEGORY"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "284\tCATEGORY"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "290\tNAME"
+msgid "Title Match"
+msgstr ""
+
+msgctxt "302\tNAME"
+msgid "Maximum Grand Prix"
+msgstr ""
+
+msgctxt "321\tNAME"
+msgid "Magnum Force Grand Prix"
+msgstr ""
+
+msgctxt "345\tNAME"
+msgid "Hyper Grand Prix"
+msgstr ""
+
+msgctxt "362\tNAME"
+msgid "Twin Dragon Grand Prix"
+msgstr ""
+
+msgctxt "385\tNAME"
+msgid "Tag Match Grand Prix"
+msgstr ""
+
+msgctxt "406\tNAME"
+msgid "Weapon Master Grand Prix"
+msgstr ""
+
+msgctxt "431\tNAME"
+msgid "Bomber Grand Prix"
+msgstr ""
+
+msgctxt "449\tNAME"
+msgid "Bounding Grand Prix"
+msgstr ""
+
+msgctxt "469\tNAME"
+msgid "Heat Grand Prix"
+msgstr ""
+
+msgctxt "485\tNAME"
+msgid "Breakout Grand Prix"
+msgstr ""
+
+msgctxt "505\tNAME"
+msgid "Street Fight Grand Prix"
+msgstr ""
+
+msgctxt "529\tNAME"
+msgid "Exhibition Tournament"
+msgstr ""
+
+msgctxt "551\tNAME"
+msgid "Maximum Grand Prix"
+msgstr ""
+
+msgctxt "570\tNAME"
+msgid "Magnum Force Grand Prix"
+msgstr ""
+
+msgctxt "594\tNAME"
+msgid "Hyper Grand Prix"
+msgstr ""
+
+msgctxt "611\tNAME"
+msgid "Twin Dragon Grand Prix"
+msgstr ""
+
+msgctxt "634\tNAME"
+msgid "Tag Match Grand Prix"
+msgstr ""
+
+msgctxt "655\tNAME"
+msgid "Weapon Master Grand Prix"
+msgstr ""
+
+msgctxt "680\tNAME"
+msgid "Bomber Grand Prix"
+msgstr ""
+
+msgctxt "698\tNAME"
+msgid "Bounding Grand Prix"
+msgstr ""
+
+msgctxt "718\tNAME"
+msgid "Heat Grand Prix"
+msgstr ""
+
+msgctxt "734\tNAME"
+msgid "Breakout Grand Prix"
+msgstr ""
+
+msgctxt "754\tNAME"
+msgid "Street Fight Grand Prix"
+msgstr ""
+
+msgctxt "778\tNAME"
+msgid "Exhibition Tournament"
+msgstr ""
+
+msgctxt "1000\tEXPLANATION"
+msgid "You won the Title Match with Saejima."
+msgstr ""
+
+msgctxt "1038\tEXPLANATION"
+msgid "You won the Maximum Grand Prix with Saejima."
+msgstr ""
+
+msgctxt "1083\tEXPLANATION"
+msgid "You won the Magnum Force Grand Prix with Saejima."
+msgstr ""
+
+msgctxt "1133\tEXPLANATION"
+msgid "You won the Hyper Grand Prix with Saejima."
+msgstr ""
+
+msgctxt "1176\tEXPLANATION"
+msgid "You won the Twin Dragon Grand Prix with Saejima."
+msgstr ""
+
+msgctxt "1225\tEXPLANATION"
+msgid "You won the Tag Match Grand Prix with Saejima."
+msgstr ""
+
+msgctxt "1272\tEXPLANATION"
+msgid "You won the Weapon Master Grand Prix with Saejima."
+msgstr ""
+
+msgctxt "1323\tEXPLANATION"
+msgid "You won the Bomber Grand Prix with Saejima."
+msgstr ""
+
+msgctxt "1367\tEXPLANATION"
+msgid "You won the Bounding Grand Prix with Saejima."
+msgstr ""
+
+msgctxt "1413\tEXPLANATION"
+msgid "You won the Heat Grand Prix with Saejima."
+msgstr ""
+
+msgctxt "1455\tEXPLANATION"
+msgid "You won the Breakout Grand Prix with Saejima."
+msgstr ""
+
+msgctxt "1501\tEXPLANATION"
+msgid "You won the Street Fight Grand Prix with Saejima."
+msgstr ""
+
+msgctxt "1551\tEXPLANATION"
+msgid "You won the Exhibition Tournament with Saejima."
+msgstr ""
+
+msgctxt "1599\tEXPLANATION"
+msgid "You won the Maximum Grand Prix with Kiryu."
+msgstr ""
+
+msgctxt "1642\tEXPLANATION"
+msgid "You won the Magnum Force Grand Prix with Kiryu."
+msgstr ""
+
+msgctxt "1690\tEXPLANATION"
+msgid "You won the Hyper Grand Prix with Kiryu."
+msgstr ""
+
+msgctxt "1731\tEXPLANATION"
+msgid "You won the Twin Dragon Grand Prix with Kiryu."
+msgstr ""
+
+msgctxt "1778\tEXPLANATION"
+msgid "You won the Tag Match Grand Prix with Kiryu."
+msgstr ""
+
+msgctxt "1823\tEXPLANATION"
+msgid "You won the Weapon Master Grand Prix with Kiryu."
+msgstr ""
+
+msgctxt "1872\tEXPLANATION"
+msgid "You won the Bomber Grand Prix with Kiryu."
+msgstr ""
+
+msgctxt "1914\tEXPLANATION"
+msgid "You won the Bounding Grand Prix with Kiryu."
+msgstr ""
+
+msgctxt "1958\tEXPLANATION"
+msgid "You won the Heat Grand Prix with Kiryu."
+msgstr ""
+
+msgctxt "1998\tEXPLANATION"
+msgid "You won the Breakout Grand Prix with Kiryu."
+msgstr ""
+
+msgctxt "2042\tEXPLANATION"
+msgid "You won the Street Fight Grand Prix with Kiryu."
+msgstr ""
+
+msgctxt "2090\tEXPLANATION"
+msgid "You won the Exhibition Tournament with Kiryu."
+msgstr ""

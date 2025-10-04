@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "248"
+msgid "Nothing happened."
+msgstr ""
+
+msgctxt "272"
+msgid "You got a <Color:8>Woodcarving of a Bear<Color:Default>."
+msgstr ""
+
+msgctxt "296"
+msgid "Nothing happened."
+msgstr ""
+
+msgctxt "356"
+msgid "You got a <Color:8>Clotheslining Sculpture<Color:Default>."
+msgstr ""
+
+msgctxt "3240"
+msgid "Player"
+msgstr ""
+
+msgctxt "3244"
+msgid "TNK_06_D_START"
+msgstr ""
+
+msgctxt "3248"
+msgid "TNK_06_D_E_START"
+msgstr ""
+
+msgctxt "3252"
+msgid "TNK_06_D_N_START"
+msgstr ""
+
+msgctxt "3256"
+msgid "TNK_06_B_START"
+msgstr ""
+
+msgctxt "3260"
+msgid "TNK_06_B_E_START"
+msgstr ""
+
+msgctxt "3264"
+msgid "TNK_06_B_N_START"
+msgstr ""
+
+msgctxt "260_Player"
+msgid "(I should take a break and come back later...)"
+msgstr ""
+
+msgctxt "308_Player"
+msgid "(I should take a break and come back later...)"
+msgstr ""
+
+msgctxt "332_Player"
+msgid "You learned the <Color:9>Essence of Taunting<Color:Default>."
+msgstr ""
+
+msgctxt "380_Player"
+msgid "You learned the <Color:9>Essence of Clotheslining<Color:Default>."
+msgstr ""

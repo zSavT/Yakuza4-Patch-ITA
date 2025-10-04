@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2620"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2624"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "2628"
+msgid "Date"
+msgstr ""
+
+msgctxt "2632"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2636"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2640"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid "Date, you mind if I borrow your stove?"
+msgstr ""
+
+msgctxt "68_Date"
+msgid "Help yourself. I never had you pegged for the cooking type, Kiryu."
+msgstr ""
+
+msgctxt "80_Kiryu"
+msgid "I don't have much choice. I have to heat up this curry."
+msgstr ""
+
+msgctxt "104_Date"
+msgid "Well, have at it."
+msgstr ""
+
+msgctxt "116_Kiryu"
+msgid "Thanks. It'll only take a second."
+msgstr ""
+
+msgctxt "140_Kiryu"
+msgid ""
+"You heated up the \"<Color:255,255,200,255>Large Curry Take-home "
+"Packs<Color:Default>.\""
+msgstr ""
+
+msgctxt "188_Kiryu"
+msgid "Man, heating up that much curry took longer than I expected. Thanks, Date."
+msgstr ""
+
+msgctxt "200_Date"
+msgid "Sure, no problem. Take care of yourself."
+msgstr ""
+
+msgctxt "212_Kiryu"
+msgid "(I better hurry back to the construction site.)"
+msgstr ""

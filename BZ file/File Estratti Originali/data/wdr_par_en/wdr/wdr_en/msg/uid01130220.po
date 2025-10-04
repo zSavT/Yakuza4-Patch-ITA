@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "140"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2032"
+msgid "Officer"
+msgstr ""
+
+msgctxt "2036"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "104_Officer"
+msgid "All done?"
+msgstr ""
+
+msgctxt "116_Officer"
+msgid ""
+"You only managed to arrest one of them? Well, I suppose it's better than "
+"nothing."
+msgstr ""
+
+msgctxt "128_Officer"
+msgid "We took care of the other two."
+msgstr ""
+
+msgctxt "152_Officer"
+msgid "This is a little something to thank you for your help."
+msgstr ""

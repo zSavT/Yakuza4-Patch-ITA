@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2776"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "2780"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2784"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "2788"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2792"
+msgid "Ihara"
+msgstr ""
+
+msgctxt "2796"
+msgid "M_nml_sitsofa_kamae"
+msgstr ""
+
+msgctxt "2800"
+msgid "F_sxy_sitsofa_kamae"
+msgstr ""
+
+msgctxt "2804"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "2808"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "2812"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "2816"
+msgid "Idle"
+msgstr ""
+
+msgctxt "2820"
+msgid "Mishima"
+msgstr ""
+
+msgctxt "2824"
+msgid "SetM_nml_sitsofa_karamu"
+msgstr ""
+
+msgctxt "2828"
+msgid "SetF_nml_sitsofa_karamu"
+msgstr ""
+
+msgctxt "2832"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2836"
+msgid "SetM_nml_sitsofa_listen_r"
+msgstr ""
+
+msgctxt "2840"
+msgid "SetF_nml_sitsofa_karamu02"
+msgstr ""
+
+msgctxt "2844"
+msgid "SetF_nml_sitsofa_nml_f_01"
+msgstr ""
+
+msgctxt "2848"
+msgid "Attendant"
+msgstr ""
+
+msgctxt "2852"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "92_Ihara"
+msgid "How the shit do you still have a job, waiter!?"
+msgstr ""
+
+msgctxt "104_Ihara"
+msgid ""
+"Where's the hundred bottles of champagne we ordered!?\r\n"
+"It's been ten minutes already!"
+msgstr ""
+
+msgctxt "116_Mishima"
+msgid "You idiots growin' the grapes in the back room or some shit!?"
+msgstr ""
+
+msgctxt "128_Akiyama"
+msgid "So these are our boys, huh?"
+msgstr ""
+
+msgctxt "140_Attendant"
+msgid ""
+"Yes, sir. It's been going on like this for hours now. They've scared off "
+"all our other customers..."
+msgstr ""
+
+msgctxt "164_Attendant"
+msgid "Akiyama-san, wait! You can't just...!"
+msgstr ""

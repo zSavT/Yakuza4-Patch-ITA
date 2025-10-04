@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "168"
+msgid "You got a copy of <Color:8>Fishing Champ Magazine<Color:Default>."
+msgstr ""
+
+msgctxt "3224"
+msgid "Fisherman"
+msgstr ""
+
+msgctxt "3228"
+msgid "Player"
+msgstr ""
+
+msgctxt "3232"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "132_Fisherman"
+msgid ""
+"You going to fish here? Y'know what, I bet you are. You look like quite the "
+"fisherman, I just know it!"
+msgstr ""
+
+msgctxt "144_Player"
+msgid "No, I'm just－"
+msgstr ""
+
+msgctxt "156_Fisherman"
+msgid ""
+"Oh, is that so? Well then, you must be an aspiring novice fisherman! In "
+"that case, let me give you this."
+msgstr ""
+
+msgctxt "192_Fisherman"
+msgid ""
+"By the way, if you don't have any bait, I'll sell you some. I always come "
+"here with a veritable mountain of bait, I do."
+msgstr ""
+
+msgctxt "204_Fisherman"
+msgid ""
+"See, I love fishing, but I'm not the best fisherman. Never catch anything "
+"myself. So, if you ever have too many fish, I'll buy 'em off you. Good "
+"deal, huh?"
+msgstr ""
+
+msgctxt "216_Fisherman"
+msgid "Stop by and see me anytime! I'll be waitin'!"
+msgstr ""
+
+msgctxt "228_Fisherman"
+msgid ""
+"Hey, you a fishing enthusiast too? Let me know if there's any way I can "
+"help you. I got me a soft spot for new and aspiring fishermen."
+msgstr ""
+
+msgctxt "240_Fisherman"
+msgid "Alrighty then, what would you like?"
+msgstr ""
+
+msgctxt "264_Fisherman"
+msgid "Thanks! Hope to see you again real soon!"
+msgstr ""
+
+msgctxt "276_Fisherman"
+msgid "Alrighty then, what do you got for me?"
+msgstr ""
+
+msgctxt "300_Fisherman"
+msgid "Thanks! Hope to see you again real soon!"
+msgstr ""
+
+msgctxt "312_Fisherman"
+msgid "Is that so? Well, you come by again whenever you're in the fishin' mood."
+msgstr ""
+
+msgctxt "324_Fisherman"
+msgid "Buy Bait"
+msgstr ""
+
+msgctxt "336_Fisherman"
+msgid "Sell Fish"
+msgstr ""
+
+msgctxt "348_Fisherman"
+msgid "Never Mind"
+msgstr ""

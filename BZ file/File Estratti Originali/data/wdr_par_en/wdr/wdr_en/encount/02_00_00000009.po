@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1304"
+msgid "Man"
+msgstr ""
+
+msgctxt "1308"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1312"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1316"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1320"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1324"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "116_Man"
+msgid ""
+"Care to contribute to my fundraising efforts? All for the benefit of my "
+"empty wallet."
+msgstr ""
+
+msgctxt "128_Man"
+msgid "Did I mention it's not exactly voluntary? Pay up or I'll kick your ass!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "Ow, that hurt. Sorry I got carried away."
+msgstr ""
+
+msgctxt "164_Man"
+msgid "This is for you."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got an extreme %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "I won't do it again..."
+msgstr ""

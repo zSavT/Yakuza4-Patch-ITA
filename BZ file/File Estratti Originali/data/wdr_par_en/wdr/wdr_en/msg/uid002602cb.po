@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "8136"
+msgid "Miki"
+msgstr ""
+
+msgctxt "8140"
+msgid "P_aki_sitchr"
+msgstr ""
+
+msgctxt "8144"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "8148"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "8152"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "8156"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8160"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "8164"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8168"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "8172"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "8176"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "8180"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "8184"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8188"
+msgid "Talk_Kamae_ed"
+msgstr ""
+
+msgctxt "8192"
+msgid "P_aki_stand"
+msgstr ""
+
+msgctxt "8196"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "8200"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "8204"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "8208"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "8212"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "8216"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8220"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "8224"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "56_Miki"
+msgid "Sir?"
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid "The manager said something was up. Everything okay?"
+msgstr ""
+
+msgctxt "80_Miki"
+msgid "Oh, I don't know..."
+msgstr ""
+
+msgctxt "92_Akiyama"
+msgid "What is it? You can tell me."
+msgstr ""
+
+msgctxt "104_Miki"
+msgid ""
+"You probably didn't know this, but up until recently I had a\r\n"
+"regular named Taniguchi."
+msgstr ""
+
+msgctxt "116_Akiyama"
+msgid "Taniguchi?"
+msgstr ""
+
+msgctxt "128_Miki"
+msgid ""
+"That's right. He was kind of a nerdy creep, but he wound up\r\n"
+"spending a lot of money on me."
+msgstr ""
+
+msgctxt "140_Akiyama"
+msgid "Five million yen..."
+msgstr ""
+
+msgctxt "152_Miki"
+msgid "Huh!? So you know about him?"
+msgstr ""
+
+msgctxt "164_Akiyama"
+msgid "No, not really... Anyway, what about this Taniguchi guy?"
+msgstr ""
+
+msgctxt "176_Miki"
+msgid "Well, he suddenly stopped coming to the club."
+msgstr ""
+
+msgctxt "188_Miki"
+msgid ""
+"He never struck me as particularly wealthy, so I just\r\n"
+"figured he finally ran out of money..."
+msgstr ""
+
+msgctxt "200_Akiyama"
+msgid ""
+"And now that Taniguchi's not coming around anymore, you're\r\n"
+"too devastated to concentrate on work, is that it?"
+msgstr ""
+
+msgctxt "212_Miki"
+msgid ""
+"Absolutely not! I wouldn't shed any tears over one or two\r\n"
+"fewer nerdy types in here, trust me."
+msgstr ""
+
+msgctxt "224_Akiyama"
+msgid "So what is it?"
+msgstr ""
+
+msgctxt "236_Miki"
+msgid ""
+"I just saw that dorky Taniguchi walking around looking like\r\n"
+"he owns the place! It's like he's had a major makeover."
+msgstr ""
+
+msgctxt "248_Miki"
+msgid "And what's worse, he had another hostess on his arm!"
+msgstr ""
+
+msgctxt "260_Akiyama"
+msgid "......"
+msgstr ""
+
+msgctxt "272_Miki"
+msgid "He didn't run out of money after all."
+msgstr ""
+
+msgctxt "284_Miki"
+msgid ""
+"He changed his image, made himself all cool, then dropped me\r\n"
+"for some other girl."
+msgstr ""
+
+msgctxt "296_Akiyama"
+msgid "...Surely losing one customer doesn't bother you this much?"
+msgstr ""
+
+msgctxt "308_Miki"
+msgid "It's a matter of pride!"
+msgstr ""
+
+msgctxt "320_Akiyama"
+msgid "......"
+msgstr ""
+
+msgctxt "332_Miki"
+msgid ""
+"It's as though somebody told me I was a good match for only\r\n"
+"the nerdiest customers. I've lost all faith in myself."
+msgstr ""
+
+msgctxt "344_Miki"
+msgid "Now that I think about it, a lot of my customers are kind of weird..."
+msgstr ""
+
+msgctxt "356_Akiyama"
+msgid "That's not true..."
+msgstr ""
+
+msgctxt "368_Miki"
+msgid ""
+"Fewer and fewer customers ask for me by name. Maybe it's\r\n"
+"time I leave this job behind..."
+msgstr ""
+
+msgctxt "380_Akiyama"
+msgid ""
+"I have an idea! Why don't I give you a refresher course in\r\n"
+"hostessing? Help you boost your confidence!"
+msgstr ""
+
+msgctxt "392_Miki"
+msgid "A refresher course?"
+msgstr ""
+
+msgctxt "404_Akiyama"
+msgid "Sure. After all, I'm the one who got you into this mess."
+msgstr ""
+
+msgctxt "416_Miki"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "428_Akiyama"
+msgid ""
+"Uh, never mind. Anyway, hostesses need to make their\r\n"
+"customers fall for them－hard. You know that, right?"
+msgstr ""
+
+msgctxt "440_Miki"
+msgid "Right."
+msgstr ""
+
+msgctxt "452_Akiyama"
+msgid ""
+"From what I've seen, you have no problem entertaining\r\n"
+"customers in the club."
+msgstr ""
+
+msgctxt "464_Miki"
+msgid "Then, what am I missing?"
+msgstr ""
+
+msgctxt "476_Akiyama"
+msgid "Are you getting dates after work?"
+msgstr ""
+
+msgctxt "488_Miki"
+msgid "No, not really..."
+msgstr ""
+
+msgctxt "500_Akiyama"
+msgid ""
+"There you go. What you need are dates. Consider them\r\n"
+"insurance, your backup plan."
+msgstr ""
+
+msgctxt "512_Miki"
+msgid "You think so?"
+msgstr ""
+
+msgctxt "524_Akiyama"
+msgid ""
+"You bet. Dates are different. It's just you and your\r\n"
+"customer, one-on-one."
+msgstr ""
+
+msgctxt "536_Akiyama"
+msgid ""
+"How a hostess acts and the impression she makes at one of\r\n"
+"these special events have a big effect on her customer."
+msgstr ""
+
+msgctxt "548_Miki"
+msgid "I see."
+msgstr ""
+
+msgctxt "560_Akiyama"
+msgid ""
+"How about I give you some tips on how to make a customer\r\n"
+"fall head over heels for you?"
+msgstr ""
+
+msgctxt "572_Miki"
+msgid "Yes, please!"
+msgstr ""
+
+msgctxt "584_Akiyama"
+msgid "Excellent. Come with me!"
+msgstr ""
+
+msgctxt "596_Miki"
+msgid "Yes, sir!"
+msgstr ""

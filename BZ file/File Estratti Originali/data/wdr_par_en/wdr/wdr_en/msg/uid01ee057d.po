@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "208"
+msgid "Read Night Magazine?"
+msgstr ""
+
+msgctxt "280"
+msgid "Take a copy of Night Magazine?"
+msgstr ""
+
+msgctxt "304"
+msgid "You got a copy of Night Magazine."
+msgstr ""
+
+msgctxt "2292"
+msgid "Player"
+msgstr ""
+
+msgctxt "2296"
+msgid "2d_cf_zasshi_naimaga00"
+msgstr ""
+
+msgctxt "160_Player"
+msgid ""
+"(Night Magazine. Looks like it dishes out info on cabaret clubs. Don't "
+"think this is for me.)"
+msgstr ""
+
+msgctxt "184_Player"
+msgid "(I already have a copy of Night Magazine...)"
+msgstr ""
+
+msgctxt "196_Player"
+msgid "(It's a copy of Night Magazine.)"
+msgstr ""
+
+msgctxt "232_Player"
+msgid ""
+"(Night Magazine. It's chock full of information about all the local cabaret "
+"clubs.)"
+msgstr ""
+
+msgctxt "244_Player"
+msgid ""
+"(Night Magazine comes with some sweet coupons. I can use them to get "
+"discounts at different clubs.)"
+msgstr ""
+
+msgctxt "268_Player"
+msgid "(Not right now...)"
+msgstr ""
+
+msgctxt "292_Player"
+msgid "(I'll take one with me.)"
+msgstr ""
+
+msgctxt "328_Player"
+msgid "(Not right now...)"
+msgstr ""
+
+msgctxt "340_Player"
+msgid "Read It"
+msgstr ""
+
+msgctxt "352_Player"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "364_Player"
+msgid "Take It"
+msgstr ""
+
+msgctxt "376_Player"
+msgid "Don't Take It"
+msgstr ""

@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2132"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2136"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2140"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "2144"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2148"
+msgid "Kakuda"
+msgstr ""
+
+msgctxt "2152"
+msgid "Idle"
+msgstr ""
+
+msgctxt "2156"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2160"
+msgid "0"
+msgstr ""
+
+msgctxt "56_Akiyama"
+msgid "Another locked door. I'll need Kaku-san's help again."
+msgstr ""
+
+msgctxt "128_Akiyama"
+msgid "Think you can open this one, Kaku-san?"
+msgstr ""
+
+msgctxt "140_Kakuda"
+msgid "Let's take a look..."
+msgstr ""
+
+msgctxt "152_Kakuda"
+msgid "......"
+msgstr ""
+
+msgctxt "212_Kakuda"
+msgid "And just like that."
+msgstr ""
+
+msgctxt "224_Akiyama"
+msgid "Thanks again."
+msgstr ""

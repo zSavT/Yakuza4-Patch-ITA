@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "10892"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "10896"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10900"
+msgid "Lily"
+msgstr ""
+
+msgctxt "10904"
+msgid "P_aki_stand"
+msgstr ""
+
+msgctxt "10908"
+msgid "Idle"
+msgstr ""
+
+msgctxt "10912"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "10916"
+msgid "2d_cf_image_adv08"
+msgstr ""
+
+msgctxt "10920"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10924"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "10928"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "10932"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "10936"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "10940"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "10944"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10948"
+msgid "Talk_Tabako_st"
+msgstr ""
+
+msgctxt "56_Akiyama"
+msgid "Well, here's your loan. One hundred million yen, as we agreed."
+msgstr ""
+
+msgctxt "68_Lily"
+msgid "Thank you so much."
+msgstr ""
+
+msgctxt "80_Akiyama"
+msgid "Er, I wouldn't open that just yet."
+msgstr ""
+
+msgctxt "92_Lily"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "104_Akiyama"
+msgid ""
+"What if the wind blew it all away? You'd have a hell of a time trying to "
+"get it back."
+msgstr ""
+
+msgctxt "116_Lily"
+msgid "Oh, right. That would be awful..."
+msgstr ""
+
+msgctxt "128_Akiyama"
+msgid ""
+"Heh, I'm just teasing you. It's all neatly bundled up. Go ahead, take a "
+"look."
+msgstr ""
+
+msgctxt "140_Lily"
+msgid "Okay."
+msgstr ""
+
+msgctxt "176_Akiyama"
+msgid "Hard to believe it all fits in there, huh?"
+msgstr ""
+
+msgctxt "188_Lily"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "200_Akiyama"
+msgid ""
+"That briefcase contains about a third of what the average\r\n"
+"college graduate makes his entire life."
+msgstr ""
+
+msgctxt "212_Akiyama"
+msgid "And his monthly pay is a tiny fraction of that."
+msgstr ""
+
+msgctxt "224_Akiyama"
+msgid "Strange to think how a man can struggle so much for so little."
+msgstr ""
+
+msgctxt "236_Lily"
+msgid "It's true... But even that can be enough to change someone's whole life."
+msgstr ""
+
+msgctxt "248_Lily"
+msgid "Akiyama-san... Thank you so much."
+msgstr ""
+
+msgctxt "260_Akiyama"
+msgid "My pleasure."
+msgstr ""
+
+msgctxt "272_Lily"
+msgid "At first, I... I was planning to just take the money and run."
+msgstr ""
+
+msgctxt "284_Akiyama"
+msgid "Yeah?"
+msgstr ""
+
+msgctxt "296_Lily"
+msgid "But you... You believed in me."
+msgstr ""
+
+msgctxt "308_Lily"
+msgid ""
+"You made me feel like it was okay to dream again. It had been so long since "
+"I'd felt that way..."
+msgstr ""
+
+msgctxt "320_Lily"
+msgid ""
+"That's why I'm going to pay back every last yen, no matter how long it "
+"takes."
+msgstr ""
+
+msgctxt "332_Akiyama"
+msgid "Yeah, about that..."
+msgstr ""
+
+msgctxt "344_Lily"
+msgid "......"
+msgstr ""
+
+msgctxt "356_Akiyama"
+msgid "Don't worry about it."
+msgstr ""
+
+msgctxt "368_Lily"
+msgid "What!?"
+msgstr ""
+
+msgctxt "380_Akiyama"
+msgid "No interest either, although it's not like Sky Finance charges it anyway."
+msgstr ""
+
+msgctxt "392_Lily"
+msgid "I don't understand..."
+msgstr ""
+
+msgctxt "404_Akiyama"
+msgid "I'm not in this business for the money."
+msgstr ""
+
+msgctxt "416_Akiyama"
+msgid ""
+"Money changes people's lives. I just like to see it happen up close and "
+"personal."
+msgstr ""
+
+msgctxt "428_Lily"
+msgid "Why did you choose this sort of test for me?"
+msgstr ""
+
+msgctxt "440_Akiyama"
+msgid ""
+"Are you sure you want to know? I don't normally tell folks the reasoning "
+"behind the tests I give them."
+msgstr ""
+
+msgctxt "452_Lily"
+msgid "I'm sure."
+msgstr ""
+
+msgctxt "464_Akiyama"
+msgid ""
+"Well, this time around it wasn't about seeing how serious or determined you "
+"were."
+msgstr ""
+
+msgctxt "476_Akiyama"
+msgid "Truth be told, I was testing myself."
+msgstr ""
+
+msgctxt "488_Lily"
+msgid "I don't understand."
+msgstr ""
+
+msgctxt "500_Akiyama"
+msgid ""
+"Hmm, how do I put it? Let's just say I don't consider myself the best judge "
+"of character."
+msgstr ""
+
+msgctxt "512_Lily"
+msgid "Why's that?"
+msgstr ""
+
+msgctxt "524_Akiyama"
+msgid ""
+"I've been betrayed a lot over the years. It'd almost be funny, if it "
+"weren't so tragic. Heheh..."
+msgstr ""
+
+msgctxt "536_Lily"
+msgid "That's awful..."
+msgstr ""
+
+msgctxt "548_Akiyama"
+msgid ""
+"But it's true. The bank I worked at set me up then cut me loose. The woman "
+"I loved walked out on me..."
+msgstr ""
+
+msgctxt "560_Akiyama"
+msgid "It's been one thing after another ever since."
+msgstr ""
+
+msgctxt "572_Akiyama"
+msgid ""
+"Just the other day, a yakuza I'd been backing straight up killed a guy and "
+"disappeared. It got me wondering if I should even bother trusting anyone "
+"anymore."
+msgstr ""
+
+msgctxt "584_Lily"
+msgid "Akiyama-san..."
+msgstr ""
+
+msgctxt "596_Akiyama"
+msgid "I guess it's all just part of the job."
+msgstr ""
+
+msgctxt "608_Akiyama"
+msgid ""
+"Still, I'd at least like to think I'm safe with the people I trust. I'm "
+"only human, you know?"
+msgstr ""
+
+msgctxt "620_Lily"
+msgid "So how did having me work at your club test you?"
+msgstr ""
+
+msgctxt "632_Akiyama"
+msgid "Because I found you alluring. Enough to make three million in three days."
+msgstr ""
+
+msgctxt "644_Akiyama"
+msgid ""
+"I wanted to see if my hunch was right. Sorry to put you through all this "
+"for something so stupid."
+msgstr ""
+
+msgctxt "656_Lily"
+msgid "No, it's okay. I feel really lucky to have met you."
+msgstr ""
+
+msgctxt "668_Akiyama"
+msgid ""
+"Maybe, but luck isn't something that just finds you. You have to get out "
+"there and put yourself in a position to be lucky."
+msgstr ""
+
+msgctxt "680_Akiyama"
+msgid "...And for what it's worth, I couldn't be happier that you passed the test."
+msgstr ""
+
+msgctxt "692_Lily"
+msgid "Akiyama-san..."
+msgstr ""

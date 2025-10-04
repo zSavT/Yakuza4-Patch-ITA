@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "5884"
+msgid "Matsuyama"
+msgstr ""
+
+msgctxt "5888"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5892"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5896"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5900"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5904"
+msgid "35_-48_MOUNTAIN_VF_OFF"
+msgstr ""
+
+msgctxt "5908"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5912"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "5916"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "160_Matsuyama"
+msgid "Hey, Kiryu-san! Welcome."
+msgstr ""
+
+msgctxt "172_Kiryu"
+msgid "How's your creation coming along?"
+msgstr ""
+
+msgctxt "184_Matsuyama"
+msgid ""
+"Hmm, it's been kind of tough. It's got to stand up to No. 1 Star standards, "
+"after all."
+msgstr ""
+
+msgctxt "196_Matsuyama"
+msgid ""
+"I've gone around to different ramen shops and I've tested out some new "
+"ideas, but I'm having a bit of a ramen block right now..."
+msgstr ""
+
+msgctxt "208_Kiryu"
+msgid "I see..."
+msgstr ""
+
+msgctxt "232_Matsuyama"
+msgid ""
+" Say, Kiryu-san. If you're not too busy, would you mind helping me hunt for "
+"new ramen ideas?"
+msgstr ""
+
+msgctxt "244_Kiryu"
+msgid "Who, me?"
+msgstr ""
+
+msgctxt "256_Matsuyama"
+msgid ""
+"That's right. I've heard quite a bit about you from Ueda-san. He said you "
+"really helped him when he was working on his instant ramen."
+msgstr ""
+
+msgctxt "268_Kiryu"
+msgid "He's exaggerating. I didn't do much."
+msgstr ""
+
+msgctxt "280_Matsuyama"
+msgid ""
+"Still, I need to get a fresh viewpoint! Obsessing over it by myself isn't "
+"going to help me get anywhere."
+msgstr ""
+
+msgctxt "292_Kiryu"
+msgid "All right. I'll help you if you really want."
+msgstr ""
+
+msgctxt "304_Matsuyama"
+msgid "You mean it? Thanks!"
+msgstr ""
+
+msgctxt "316_Matsuyama"
+msgid ""
+"I'd like to start out with a little search around town. Would you mind "
+"coming along with me?"
+msgstr ""
+
+msgctxt "328_Kiryu"
+msgid "Sure."
+msgstr ""
+
+msgctxt "364_Kiryu"
+msgid "Sorry. I'm pretty busy right now."
+msgstr ""
+
+msgctxt "376_Matsuyama"
+msgid "I understand... I'm sorry to ask you such a strange request."
+msgstr ""
+
+msgctxt "388_Matsuyama"
+msgid ""
+"But it'd really mean a lot to me if you could lend a hand when you have "
+"time!"
+msgstr ""
+
+msgctxt "400_Kiryu"
+msgid "All right, I will."
+msgstr ""
+
+msgctxt "412_Matsuyama"
+msgid "Oh, Kiryu-san. Please help me come up with ideas for my new ramen!"
+msgstr ""
+
+msgctxt "424_Kiryu"
+msgid "All right. I'll help you if you really want."
+msgstr ""
+
+msgctxt "436_Matsuyama"
+msgid "You mean it? Thanks!"
+msgstr ""
+
+msgctxt "448_Matsuyama"
+msgid ""
+"I'd like to start out with a little search around town. Would you mind "
+"coming along with me?"
+msgstr ""
+
+msgctxt "460_Kiryu"
+msgid "Sure."
+msgstr ""
+
+msgctxt "496_Kiryu"
+msgid "Sorry. I'm pretty busy right now."
+msgstr ""
+
+msgctxt "508_Matsuyama"
+msgid "I understand... I'm sorry to ask you such a strange request."
+msgstr ""
+
+msgctxt "520_Matsuyama"
+msgid ""
+"But it'd really mean a lot to me if you could lend a hand when you have "
+"time!"
+msgstr ""
+
+msgctxt "532_Kiryu"
+msgid "All right, I will."
+msgstr ""
+
+msgctxt "544_Matsuyama"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "556_Matsuyama"
+msgid "Help Him Out"
+msgstr ""
+
+msgctxt "568_Matsuyama"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "580_Matsuyama"
+msgid "Help Him Out"
+msgstr ""

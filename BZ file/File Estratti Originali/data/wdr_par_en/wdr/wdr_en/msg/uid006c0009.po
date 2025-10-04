@@ -1,0 +1,5444 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "15396"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "15948"
+msgid " Excuse me!"
+msgstr ""
+
+msgctxt "16032"
+msgid "Make yourself at home!"
+msgstr ""
+
+msgctxt "16068"
+msgid "Make yourself at home!"
+msgstr ""
+
+msgctxt "16104"
+msgid "Here you go!"
+msgstr ""
+
+msgctxt "16572"
+msgid "Come back again soon!"
+msgstr ""
+
+msgctxt "16620"
+msgid "Thanks again for today."
+msgstr ""
+
+msgctxt "16932"
+msgid "Oh. Well, if you do hear anything, be sure to let me know, okay?"
+msgstr ""
+
+msgctxt "208164"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "208168"
+msgid "P_sitsofaR_tlk_yes"
+msgstr ""
+
+msgctxt "208172"
+msgid "Maya"
+msgstr ""
+
+msgctxt "208176"
+msgid "F_cab_sitsofa_tlk_thinkA"
+msgstr ""
+
+msgctxt "208180"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "208184"
+msgid "P_sitsofaR_tlk_surp"
+msgstr ""
+
+msgctxt "208188"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "208192"
+msgid "P_sitsofaR_tlk_no"
+msgstr ""
+
+msgctxt "208196"
+msgid "P_sitsofaR_tlk_smile"
+msgstr ""
+
+msgctxt "208200"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""
+
+msgctxt "208204"
+msgid "F_cab_sitsofa_sp2_sync_hiza"
+msgstr ""
+
+msgctxt "208208"
+msgid "P_sitsofaR_tlk_quest"
+msgstr ""
+
+msgctxt "208212"
+msgid "F_cab_sitsofa_sp1_sync_yop"
+msgstr ""
+
+msgctxt "208216"
+msgid "P_sitsofaR_tlk_comment"
+msgstr ""
+
+msgctxt "208220"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr ""
+
+msgctxt "208224"
+msgid "F_cab_sitsofa_sp6_sync_kami"
+msgstr ""
+
+msgctxt "208228"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "208232"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr ""
+
+msgctxt "208236"
+msgid "F_cab_sitsofa_tlk_commentA"
+msgstr ""
+
+msgctxt "208240"
+msgid "P_sitsofaR_tlk_think"
+msgstr ""
+
+msgctxt "208244"
+msgid "F_cab_sitsofa_tlk_gakkariA"
+msgstr ""
+
+msgctxt "208248"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "208252"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "208256"
+msgid "P_sitsofaR_tlk_angry"
+msgstr ""
+
+msgctxt "208260"
+msgid "F_cab_sitsofa_tlk_refuse"
+msgstr ""
+
+msgctxt "208264"
+msgid "P_sitsofaR_tlk_ase"
+msgstr ""
+
+msgctxt "208268"
+msgid "F_cab_sitsofa_tlk_kamaeBtoA"
+msgstr ""
+
+msgctxt "208272"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr ""
+
+msgctxt "208276"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "208280"
+msgid "F_cab_sitsofa_tlk_akubi"
+msgstr ""
+
+msgctxt "208284"
+msgid "F_cab_sitsofa_tlk_ojigiA"
+msgstr ""
+
+msgctxt "208288"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr ""
+
+msgctxt "208292"
+msgid "Player"
+msgstr ""
+
+msgctxt "208296"
+msgid "F_cab_sitsofa_sync_order"
+msgstr ""
+
+msgctxt "208300"
+msgid "M_shp_sitgrd_sync_order"
+msgstr ""
+
+msgctxt "208304"
+msgid "Attendant"
+msgstr ""
+
+msgctxt "208308"
+msgid "2d_cf_meishi_mori00"
+msgstr ""
+
+msgctxt "208312"
+msgid "2d_cf_meishi_mori01"
+msgstr ""
+
+msgctxt "208316"
+msgid "F_cab_stand_tlk_byeA"
+msgstr ""
+
+msgctxt "208320"
+msgid "F_cab_stand_sync_byeC_st"
+msgstr ""
+
+msgctxt "208324"
+msgid "P_stand_sync_byeC_st"
+msgstr ""
+
+msgctxt "208328"
+msgid "F_cab_stand_sync_byeC_ed"
+msgstr ""
+
+msgctxt "208332"
+msgid "P_stand_sync_byeC_ed"
+msgstr ""
+
+msgctxt "208336"
+msgid "F_cab_stand_sp14_sync_hoho_st"
+msgstr ""
+
+msgctxt "208340"
+msgid "P_stand_sp14_sync_hoho_st"
+msgstr ""
+
+msgctxt "208344"
+msgid "F_cab_stand_sp16_sync_hoho_ed"
+msgstr ""
+
+msgctxt "208348"
+msgid "P_stand_sp16_sync_hoho_ed"
+msgstr ""
+
+msgctxt "208352"
+msgid "F_cab_stand_sp12_sync_mune_st"
+msgstr ""
+
+msgctxt "208356"
+msgid "P_stand_sp12_sync_mune_st"
+msgstr ""
+
+msgctxt "208360"
+msgid "F_cab_stand_sp12_sync_mune_ed"
+msgstr ""
+
+msgctxt "208364"
+msgid "P_stand_sp12_sync_mune_ed"
+msgstr ""
+
+msgctxt "208368"
+msgid "F_cab_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "208372"
+msgid "P_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "208376"
+msgid "F_cab_stand_sync_dakiA_ed"
+msgstr ""
+
+msgctxt "208380"
+msgid "P_stand_sync_dakiA_ed"
+msgstr ""
+
+msgctxt "208384"
+msgid "F_cab_stand_sp13_sync_yubi_st"
+msgstr ""
+
+msgctxt "208388"
+msgid "P_stand_sp13_sync_yubi_st"
+msgstr ""
+
+msgctxt "208392"
+msgid "F_cab_stand_sp15_sync_yubi_ed"
+msgstr ""
+
+msgctxt "208396"
+msgid "P_stand_sp15_sync_yubi_ed"
+msgstr ""
+
+msgctxt "208400"
+msgid "F_cab_sitsofa_tlk_appealA"
+msgstr ""
+
+msgctxt "4140_Kiryu"
+msgid "Have you been working here long?"
+msgstr ""
+
+msgctxt "4152_Maya"
+msgid "Compared to the other girls, I guess so."
+msgstr ""
+
+msgctxt "4164_Kiryu"
+msgid "I see."
+msgstr ""
+
+msgctxt "4176_Maya"
+msgid "But I've been thinking about quitting recently."
+msgstr ""
+
+msgctxt "4188_Kiryu"
+msgid "Really? Why?"
+msgstr ""
+
+msgctxt "4200_Maya"
+msgid "Hahaha! That's not something that I'd share with a first time customer."
+msgstr ""
+
+msgctxt "4212_Kiryu"
+msgid "Is there a reason why you have to quit?"
+msgstr ""
+
+msgctxt "4224_Maya"
+msgid "Well... I also work as a model."
+msgstr ""
+
+msgctxt "4236_Kiryu"
+msgid "Ah. I should've known. You're so pretty, after all."
+msgstr ""
+
+msgctxt "4248_Maya"
+msgid "Hehe. Thank you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4260_Maya"
+msgid ""
+"I originally started here because my boyfriend worked at night, and I "
+"wanted to be on the same schedule."
+msgstr ""
+
+msgctxt "4272_Maya"
+msgid ""
+"But I broke up with him a while ago, and I've been busy with modeling work, "
+"so I'm thinking about quitting my job here."
+msgstr ""
+
+msgctxt "4284_Kiryu"
+msgid "That's too bad. When do you plan on quitting?"
+msgstr ""
+
+msgctxt "4296_Maya"
+msgid "The sooner the better, I guess."
+msgstr ""
+
+msgctxt "4308_Kiryu"
+msgid "Oh."
+msgstr ""
+
+msgctxt "4320_Maya"
+msgid "Aw. Are you disappointed you won't be able to see me?"
+msgstr ""
+
+msgctxt "4332_Kiryu"
+msgid "A little. I don't know you very well yet."
+msgstr ""
+
+msgctxt "4344_Maya"
+msgid "That's true. We just met."
+msgstr ""
+
+msgctxt "4356_Maya"
+msgid ""
+"But I wouldn't mind getting to know you better. Maybe I can stay a bit "
+"longer."
+msgstr ""
+
+msgctxt "4368_Kiryu"
+msgid "Heh. All right, then. I'll come back and see you."
+msgstr ""
+
+msgctxt "4380_Kiryu"
+msgid ""
+"You did that for your boyfriend? Wow. I don't think most girls would do "
+"that."
+msgstr ""
+
+msgctxt "4392_Maya"
+msgid ""
+"Well, I was thinking about his career, too. I couldn't have him changing "
+"jobs all the time."
+msgstr ""
+
+msgctxt "4404_Maya"
+msgid "It was easier for me to work around his schedule."
+msgstr ""
+
+msgctxt "4416_Kiryu"
+msgid "Still, that was good of you."
+msgstr ""
+
+msgctxt "4428_Maya"
+msgid "Hehe. Thanks. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4440_Maya"
+msgid "But we broke up, so it doesn't matter now."
+msgstr ""
+
+msgctxt "4452_Kiryu"
+msgid "Why don't you stay for a bit longer?"
+msgstr ""
+
+msgctxt "4464_Maya"
+msgid "Huh? Why?"
+msgstr ""
+
+msgctxt "4476_Kiryu"
+msgid "We just met. I'd like to get to know you better."
+msgstr ""
+
+msgctxt "4488_Maya"
+msgid "Hehe. You're cute."
+msgstr ""
+
+msgctxt "4500_Maya"
+msgid "Well, since you asked so nicely, I could stay for a little while."
+msgstr ""
+
+msgctxt "4512_Kiryu"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "4524_Maya"
+msgid "Yep. You're fun to talk to."
+msgstr ""
+
+msgctxt "4536_Kiryu"
+msgid "Heh. All right, then."
+msgstr ""
+
+msgctxt "4548_Maya"
+msgid "But you have to promise to come and see me every day, okay?"
+msgstr ""
+
+msgctxt "4560_Kiryu"
+msgid "I'll do my best."
+msgstr ""
+
+msgctxt "4572_Maya"
+msgid ""
+"I became friends with this girl recently, and we really hit it off. We have "
+"the same interests and everything."
+msgstr ""
+
+msgctxt "4584_Kiryu"
+msgid "Oh? That's nice."
+msgstr ""
+
+msgctxt "4596_Maya"
+msgid "But we have totally different ideas about love. I don't get it."
+msgstr ""
+
+msgctxt "4608_Kiryu"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "4620_Maya"
+msgid ""
+"I think a woman should be devoted and try to stay next to her man as much "
+"as possible."
+msgstr ""
+
+msgctxt "4632_Maya"
+msgid "But she says men get tired of that kind of thing and eventually leave you."
+msgstr ""
+
+msgctxt "4644_Kiryu"
+msgid ""
+"I have to agree with her. Someone hanging around you all the time can be "
+"tiring."
+msgstr ""
+
+msgctxt "4656_Maya"
+msgid "What? You think so too?"
+msgstr ""
+
+msgctxt "4668_Kiryu"
+msgid ""
+"Yeah. Don't get me wrong. If I love someone, I want to spend time with "
+"them. I just need time to myself, too."
+msgstr ""
+
+msgctxt "4680_Maya"
+msgid "Well, I don't want to force myself on anyone."
+msgstr ""
+
+msgctxt "4692_Kiryu"
+msgid "Then you should be fine."
+msgstr ""
+
+msgctxt "4704_Maya"
+msgid "Really?"
+msgstr ""
+
+msgctxt "4716_Kiryu"
+msgid ""
+"Sure. As long as you consider the man's feelings, you won't come off as "
+"selfish and needy."
+msgstr ""
+
+msgctxt "4728_Maya"
+msgid ""
+"Okay. I guess you have to be devoted while still leaving a little space "
+"between you. It sounds a little tricky."
+msgstr ""
+
+msgctxt "4740_Kiryu"
+msgid ""
+"There's nothing wrong with being devoted. A man would be lucky to have such "
+"a woman."
+msgstr ""
+
+msgctxt "4752_Maya"
+msgid "You agree with me?"
+msgstr ""
+
+msgctxt "4764_Kiryu"
+msgid "Sure. It's much better than having a woman who cheats on you."
+msgstr ""
+
+msgctxt "4776_Maya"
+msgid ""
+"Hehe. You look like a ladies' man, but you're actually sweet, aren't you? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4788_Kiryu"
+msgid "Can't I be both?"
+msgstr ""
+
+msgctxt "4800_Maya"
+msgid "Ha! I hadn't thought of that! I guess that's possible."
+msgstr ""
+
+msgctxt "4812_Kiryu"
+msgid "Heh. Good."
+msgstr ""
+
+msgctxt "4824_Kiryu"
+msgid "That's a tricky issue. It depends on what the man wants."
+msgstr ""
+
+msgctxt "4836_Maya"
+msgid "Ah, so you want to stay neutral, huh?"
+msgstr ""
+
+msgctxt "4848_Kiryu"
+msgid "Huh? What do you mean?"
+msgstr ""
+
+msgctxt "4860_Maya"
+msgid "There must be a type of woman you prefer, right?"
+msgstr ""
+
+msgctxt "4872_Kiryu"
+msgid "Well..."
+msgstr ""
+
+msgctxt "4884_Maya"
+msgid "So, which is it?"
+msgstr ""
+
+msgctxt "4896_Kiryu"
+msgid ""
+"I can't say. I like having a woman around, but sometimes I want to be "
+"alone. I can't choose between the two."
+msgstr ""
+
+msgctxt "4908_Maya"
+msgid "Oh. I didn't expect you to be so indecisive."
+msgstr ""
+
+msgctxt "4920_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "4932_Maya"
+msgid "Ugh... I'm tired."
+msgstr ""
+
+msgctxt "4944_Kiryu"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "4956_Maya"
+msgid "Oh, I got stopped by a policeman on the way to work today."
+msgstr ""
+
+msgctxt "4968_Maya"
+msgid "I wasn't feeling well, so I wanted to tell him to get lost this time, but..."
+msgstr ""
+
+msgctxt "4980_Kiryu"
+msgid "This time? You get questioned that often?"
+msgstr ""
+
+msgctxt "4992_Maya"
+msgid "Yeah. Do I look that suspicious to you?"
+msgstr ""
+
+msgctxt "5004_Kiryu"
+msgid "Actually..."
+msgstr ""
+
+msgctxt "5016_Maya"
+msgid ""
+"Heh. Well, I'm pretty used to it by now. I'd get stopped every day when I "
+"was in junior high school."
+msgstr ""
+
+msgctxt "5028_Kiryu"
+msgid "Every day? Wow."
+msgstr ""
+
+msgctxt "5040_Maya"
+msgid "It's a lot better now. Maybe two or three times a month."
+msgstr ""
+
+msgctxt "5052_Kiryu"
+msgid "That's a pretty big difference."
+msgstr ""
+
+msgctxt "5064_Maya"
+msgid "Yeah. I think I don't stand out as much in Kamurocho."
+msgstr ""
+
+msgctxt "5076_Kiryu"
+msgid "But you still get stopped sometimes, so you must still stand out."
+msgstr ""
+
+msgctxt "5088_Maya"
+msgid "Really? I like attention, but not that kind!"
+msgstr ""
+
+msgctxt "5100_Kiryu"
+msgid "You'd think the cops would stop bothering you once they remember your face."
+msgstr ""
+
+msgctxt "5112_Maya"
+msgid "I think I know their faces better than they know mine."
+msgstr ""
+
+msgctxt "5124_Kiryu"
+msgid "Heh, oh well."
+msgstr ""
+
+msgctxt "5136_Kiryu"
+msgid "I get stopped sometimes myself."
+msgstr ""
+
+msgctxt "5148_Maya"
+msgid "You do? Maybe we should start a club!"
+msgstr ""
+
+msgctxt "5160_Maya"
+msgid "It must be because you have a wild and dangerous look about you."
+msgstr ""
+
+msgctxt "5172_Kiryu"
+msgid "Maybe. I usually just run away. I don't have the time."
+msgstr ""
+
+msgctxt "5184_Maya"
+msgid "But wouldn't that make you seem more suspicious?"
+msgstr ""
+
+msgctxt "5196_Kiryu"
+msgid "That's why I make sure they don't catch me."
+msgstr ""
+
+msgctxt "5208_Maya"
+msgid "Hahaha! It sounds like you're an expert. I should try running next time."
+msgstr ""
+
+msgctxt "5220_Kiryu"
+msgid "You could try to wear less flashy clothes. You do sort of stand out."
+msgstr ""
+
+msgctxt "5232_Maya"
+msgid "But all the girls wear clothes like this."
+msgstr ""
+
+msgctxt "5244_Kiryu"
+msgid "So why do they stop you all the time?"
+msgstr ""
+
+msgctxt "5256_Maya"
+msgid "I don't know. I guess I have some kind of suspicious aura."
+msgstr ""
+
+msgctxt "5268_Kiryu"
+msgid "They probably want an excuse to talk with a famous model."
+msgstr ""
+
+msgctxt "5280_Maya"
+msgid ""
+"Ha! You'll make me blush if you keep talking like that. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "5292_Kiryu"
+msgid "Heh, sorry."
+msgstr ""
+
+msgctxt "5304_Maya"
+msgid ""
+"I hate arrogant men. You know, the kind of guy who acts like he knows you "
+"and bosses you around, even though you just met?"
+msgstr ""
+
+msgctxt "5316_Kiryu"
+msgid "You're not talking about me, are you?"
+msgstr ""
+
+msgctxt "5328_Maya"
+msgid "No, no. You're fine. A bit of swagger suits you."
+msgstr ""
+
+msgctxt "5340_Kiryu"
+msgid "If you say so."
+msgstr ""
+
+msgctxt "5352_Maya"
+msgid "But a lot of guys these days are all talk. They think they're so special."
+msgstr ""
+
+msgctxt "5364_Kiryu"
+msgid "They're fooling themselves. They think they're being cool."
+msgstr ""
+
+msgctxt "5376_Maya"
+msgid ""
+"Right. They're trying so hard to impress girls, but it just ends up "
+"backfiring!"
+msgstr ""
+
+msgctxt "5388_Maya"
+msgid "Being polite makes a much better impression."
+msgstr ""
+
+msgctxt "5400_Kiryu"
+msgid "They're young. They don't know any better."
+msgstr ""
+
+msgctxt "5412_Maya"
+msgid ""
+"I'd take a polite older man over an arrogant young guy any day. They could "
+"learn a thing or two from you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "5424_Kiryu"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "5436_Kiryu"
+msgid ""
+"Young guys don't know what manners are. If you don't know someone, you "
+"should make an effort to be polite."
+msgstr ""
+
+msgctxt "5448_Maya"
+msgid ""
+"That's right! And it's not just young people. We get older customers like "
+"that, too."
+msgstr ""
+
+msgctxt "5460_Maya"
+msgid "They order us around like we're their servants or something!"
+msgstr ""
+
+msgctxt "5472_Kiryu"
+msgid "I suppose one reason they come here is to blow off steam."
+msgstr ""
+
+msgctxt "5484_Maya"
+msgid ""
+"I hate people who can only make themselves feel better by tearing other "
+"people down."
+msgstr ""
+
+msgctxt "5496_Kiryu"
+msgid ""
+"There's nothing you can do about it. Young guys don't have any "
+"accomplishments yet, so they try to make themselves look good."
+msgstr ""
+
+msgctxt "5508_Maya"
+msgid "Why can't they just wait until they've got something real to brag about?"
+msgstr ""
+
+msgctxt "5520_Kiryu"
+msgid "Because they can't. If you look weak, the other guys eat you alive."
+msgstr ""
+
+msgctxt "5532_Kiryu"
+msgid ""
+"The first impression is particularly important. You have to take the "
+"initiative before the other guy does."
+msgstr ""
+
+msgctxt "5544_Maya"
+msgid "So you agree with how those guys act? That's ridiculous."
+msgstr ""
+
+msgctxt "5556_Maya"
+msgid ""
+"Even if they do have to be like that with other guys, it's a total turnoff "
+"for girls."
+msgstr ""
+
+msgctxt "5568_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "5580_Maya"
+msgid "My friend's boyfriend cheated on her. Again."
+msgstr ""
+
+msgctxt "5592_Kiryu"
+msgid "He's done it before?"
+msgstr ""
+
+msgctxt "5604_Maya"
+msgid ""
+"Yep. This would be the third time. She almost broke up with him last time, "
+"but he begged her to forgive him, so I guess she took him back."
+msgstr ""
+
+msgctxt "5616_Maya"
+msgid "And now he's done it again! I can't believe it!"
+msgstr ""
+
+msgctxt "5628_Kiryu"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "5640_Maya"
+msgid "I could never forgive that! Why do men have to cheat!?"
+msgstr ""
+
+msgctxt "5652_Kiryu"
+msgid "You really want to know why men cheat?"
+msgstr ""
+
+msgctxt "5664_Maya"
+msgid "Yes!"
+msgstr ""
+
+msgctxt "5676_Kiryu"
+msgid "But you said you could never forgive it. Does it matter what the reason is?"
+msgstr ""
+
+msgctxt "5688_Maya"
+msgid "Oh. I hadn't thought about it that way."
+msgstr ""
+
+msgctxt "5700_Maya"
+msgid "But I'd still like to know!"
+msgstr ""
+
+msgctxt "5712_Kiryu"
+msgid ""
+"Well, it depends. Sometimes it's the man's fault, and sometimes it's the "
+"woman's."
+msgstr ""
+
+msgctxt "5724_Maya"
+msgid "Either way, I think they should make a clean break instead of cheating."
+msgstr ""
+
+msgctxt "5736_Kiryu"
+msgid "Yes, you're right."
+msgstr ""
+
+msgctxt "5748_Kiryu"
+msgid ""
+"I don't know, but your friend's relationship isn't healthy. She should "
+"leave him."
+msgstr ""
+
+msgctxt "5760_Maya"
+msgid "You're right. I'd have broken up with him after the first time."
+msgstr ""
+
+msgctxt "5772_Kiryu"
+msgid "Once and it's over?"
+msgstr ""
+
+msgctxt "5784_Maya"
+msgid "Yes. I can't forgive that kind of betrayal."
+msgstr ""
+
+msgctxt "5796_Kiryu"
+msgid "So you'd never cheat yourself, right?"
+msgstr ""
+
+msgctxt "5808_Maya"
+msgid "Of course not. I'm a devoted girlfriend."
+msgstr ""
+
+msgctxt "5820_Kiryu"
+msgid "Good. I'd be reassured if I was your boyfriend."
+msgstr ""
+
+msgctxt "5832_Maya"
+msgid "Thank you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "5844_Kiryu"
+msgid ""
+"It shows that he's a real man. Your friend should be proud that her man can "
+"get that many girls."
+msgstr ""
+
+msgctxt "5856_Maya"
+msgid "What the hell are you talking about!?"
+msgstr ""
+
+msgctxt "5868_Kiryu"
+msgid ""
+"It takes money to date a girl. Just think how much it takes to date several "
+"girls at once."
+msgstr ""
+
+msgctxt "5880_Kiryu"
+msgid ""
+"Your friend managed to land a guy who has that kind of resources. She "
+"should be happy."
+msgstr ""
+
+msgctxt "5892_Maya"
+msgid ""
+"I can't believe you! Trying to justify it is even worse than sneaking "
+"around!"
+msgstr ""
+
+msgctxt "5904_Maya"
+msgid "I really thought you'd understand, too..."
+msgstr ""
+
+msgctxt "5916_Maya"
+msgid "You look like a strong drinker."
+msgstr ""
+
+msgctxt "5928_Kiryu"
+msgid "I suppose I am. What about you?"
+msgstr ""
+
+msgctxt "5940_Maya"
+msgid "Me? I'm a lightweight. I like alcohol, though."
+msgstr ""
+
+msgctxt "5952_Maya"
+msgid "I wish I could become a stronger drinker."
+msgstr ""
+
+msgctxt "5964_Kiryu"
+msgid "They have medicine for that, you know. You can take it before you drink."
+msgstr ""
+
+msgctxt "5976_Maya"
+msgid ""
+"I've heard of that. Sort of the same idea as antacid, right? Maybe I'll try "
+"it!"
+msgstr ""
+
+msgctxt "5988_Kiryu"
+msgid "You could also try tomato juice. It helps your body break down alcohol."
+msgstr ""
+
+msgctxt "6000_Maya"
+msgid "Wow. You know a lot about this."
+msgstr ""
+
+msgctxt "6012_Kiryu"
+msgid "Any serious drinker has to know how to sober up."
+msgstr ""
+
+msgctxt "6024_Maya"
+msgid ""
+"A gentleman and a strong drinker. That's just wonderful. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6036_Kiryu"
+msgid ""
+"Some people just can't drink. Your body just doesn't break down alcohol as "
+"well as other people."
+msgstr ""
+
+msgctxt "6048_Maya"
+msgid "So I'm just stuck like this?"
+msgstr ""
+
+msgctxt "6060_Kiryu"
+msgid "You can drink a little bit, right? Why not be satisfied with that?"
+msgstr ""
+
+msgctxt "6072_Maya"
+msgid "It's no fun. I want to be able to drink with my friends."
+msgstr ""
+
+msgctxt "6084_Kiryu"
+msgid ""
+"But there's no real benefit to drinking. It costs money, and you could "
+"become addicted if you're not careful."
+msgstr ""
+
+msgctxt "6096_Maya"
+msgid "Yeah, I guess you're right."
+msgstr ""
+
+msgctxt "6108_Kiryu"
+msgid ""
+"Try drinking more slowly. That way you can keep drinking for as long as "
+"your friends are."
+msgstr ""
+
+msgctxt "6120_Maya"
+msgid "Yeah, that's pretty much my only choice."
+msgstr ""
+
+msgctxt "6132_Kiryu"
+msgid "You just need to know your limits."
+msgstr ""
+
+msgctxt "6144_Kiryu"
+msgid ""
+"And that's true for strong drinkers, too. Anyone can make the mistake of "
+"drinking too much."
+msgstr ""
+
+msgctxt "6156_Maya"
+msgid ""
+"I guess you're right. I'd rather drink slowly and enjoy myself than drink a "
+"lot and get sick."
+msgstr ""
+
+msgctxt "6168_Kiryu"
+msgid "It takes experience to know how to drink, but you'll get it eventually."
+msgstr ""
+
+msgctxt "6180_Maya"
+msgid "Yes. Thanks for your help!"
+msgstr ""
+
+msgctxt "6192_Maya"
+msgid "My friends get mad at me for saying the same things over and over again."
+msgstr ""
+
+msgctxt "6204_Kiryu"
+msgid "Oh? Like what?"
+msgstr ""
+
+msgctxt "6216_Maya"
+msgid ""
+"Well, today I asked my friend if she had eaten yet, and she said she had a "
+"hamburger."
+msgstr ""
+
+msgctxt "6228_Maya"
+msgid ""
+"Ten minutes later, I was like, \"So, have you eaten yet?\" And she was "
+"like, \"I told you, I had a hamburger!\""
+msgstr ""
+
+msgctxt "6240_Kiryu"
+msgid "That's pretty bad."
+msgstr ""
+
+msgctxt "6252_Maya"
+msgid "Yeah. They get mad because they think I'm not really listening."
+msgstr ""
+
+msgctxt "6264_Kiryu"
+msgid "You must have a bad memory."
+msgstr ""
+
+msgctxt "6276_Maya"
+msgid "Hmm. I don't think I do..."
+msgstr ""
+
+msgctxt "6288_Kiryu"
+msgid "Do you remember what we talked about the last time I was here?"
+msgstr ""
+
+msgctxt "6300_Maya"
+msgid "Huh!? I..."
+msgstr ""
+
+msgctxt "6312_Kiryu"
+msgid "Come on. What'd we talk about?"
+msgstr ""
+
+msgctxt "6324_Maya"
+msgid "Um..."
+msgstr ""
+
+msgctxt "6336_Maya"
+msgid "Sorry, I can't remember! Hahaha!"
+msgstr ""
+
+msgctxt "6348_Kiryu"
+msgid "Huh. Now I'm starting to get mad, too."
+msgstr ""
+
+msgctxt "6360_Kiryu"
+msgid ""
+"It is kinda rude. You need to pay attention to what your friends are "
+"saying, especially if you're the one asking them the question."
+msgstr ""
+
+msgctxt "6372_Maya"
+msgid "Yeah. I guess it is rude."
+msgstr ""
+
+msgctxt "6384_Kiryu"
+msgid "Is that really what's happening? Are you not listening?"
+msgstr ""
+
+msgctxt "6396_Maya"
+msgid ""
+"Well, it doesn't happen when we're talking about something important. Maybe "
+"I don't pay enough attention to trivial things."
+msgstr ""
+
+msgctxt "6408_Kiryu"
+msgid "I feel a little sorry for your friends, then."
+msgstr ""
+
+msgctxt "6420_Maya"
+msgid "Haha! I should be more careful in conversation."
+msgstr ""
+
+msgctxt "6432_Kiryu"
+msgid "Good luck with that."
+msgstr ""
+
+msgctxt "6444_Kiryu"
+msgid "You already told me about this."
+msgstr ""
+
+msgctxt "6456_Maya"
+msgid "Huh!? I did!? Oh no, it happened again!"
+msgstr ""
+
+msgctxt "6468_Kiryu"
+msgid "Just kidding."
+msgstr ""
+
+msgctxt "6480_Maya"
+msgid "What!? Why you! Don't scare me like that!"
+msgstr ""
+
+msgctxt "6492_Kiryu"
+msgid "Haha. It sounds like you really don't know what you've talked about before."
+msgstr ""
+
+msgctxt "6504_Maya"
+msgid "Yeah, you're right. Maybe I've got a bad memory."
+msgstr ""
+
+msgctxt "6516_Kiryu"
+msgid "If you tell me about this again, we'll know."
+msgstr ""
+
+msgctxt "6528_Maya"
+msgid "Then I'd better be extra careful not to mention this again!"
+msgstr ""
+
+msgctxt "6540_Maya"
+msgid "I wish I had a driver's license."
+msgstr ""
+
+msgctxt "6552_Kiryu"
+msgid "You don't have one? Well, you can go to driving school."
+msgstr ""
+
+msgctxt "6564_Maya"
+msgid "I went once, but I took too long, so they kicked me out."
+msgstr ""
+
+msgctxt "6576_Kiryu"
+msgid "Why'd you take so long?"
+msgstr ""
+
+msgctxt "6588_Maya"
+msgid "I was too busy. I couldn't find the time to go to school."
+msgstr ""
+
+msgctxt "6600_Kiryu"
+msgid "Ah. That makes sense."
+msgstr ""
+
+msgctxt "6612_Maya"
+msgid ""
+"It's kinda strange for a girl my age to not have a license, huh? I just "
+"don't want to go back to driving school."
+msgstr ""
+
+msgctxt "6624_Kiryu"
+msgid ""
+"You should get one when you get the chance. Who knows when you might need a "
+"license?"
+msgstr ""
+
+msgctxt "6636_Maya"
+msgid "Yeah, that's a good point. I should make the time to go, huh?"
+msgstr ""
+
+msgctxt "6648_Kiryu"
+msgid "Yeah. Will you buy a car when you get your license?"
+msgstr ""
+
+msgctxt "6660_Maya"
+msgid ""
+"I want one, but going to driving school costs money too. I'll probably have "
+"to wait a while."
+msgstr ""
+
+msgctxt "6672_Kiryu"
+msgid "So getting a license is just the first step."
+msgstr ""
+
+msgctxt "6684_Maya"
+msgid "That's right. Okay, I'm really gonna do it this time!"
+msgstr ""
+
+msgctxt "6696_Kiryu"
+msgid "If your boyfriend can drive, you don't need a license."
+msgstr ""
+
+msgctxt "6708_Maya"
+msgid "But I want to drive myself! And sometimes I need to go shopping."
+msgstr ""
+
+msgctxt "6720_Kiryu"
+msgid ""
+"Go shopping with your boyfriend. You can get him to treat you to dinner, "
+"too."
+msgstr ""
+
+msgctxt "6732_Maya"
+msgid ""
+"Um, I know some girls focus on the size of a man's wallet, but I'm not like "
+"that."
+msgstr ""
+
+msgctxt "6744_Maya"
+msgid ""
+"And if I have enough free time to get a boyfriend, I have enough time to "
+"get my license instead."
+msgstr ""
+
+msgctxt "6756_Kiryu"
+msgid "Oh."
+msgstr ""
+
+msgctxt "6768_Kiryu"
+msgid ""
+"Driving schools can be expensive. I understand why you don't want to go "
+"back."
+msgstr ""
+
+msgctxt "6780_Maya"
+msgid "Yeah. I wonder if there's some kind of discount I could get."
+msgstr ""
+
+msgctxt "6792_Kiryu"
+msgid ""
+"And even after you get your license, it can be expensive to own a car. "
+"You'd need to make some changes in your life."
+msgstr ""
+
+msgctxt "6804_Maya"
+msgid "True..."
+msgstr ""
+
+msgctxt "6816_Maya"
+msgid ""
+"But having a car would change my life in other ways. I could go for drives "
+"whenever I wanted."
+msgstr ""
+
+msgctxt "6828_Kiryu"
+msgid "And there are places that are hard to get to by train."
+msgstr ""
+
+msgctxt "6840_Maya"
+msgid ""
+"The more I talk about it, the more I want to get a license after all. Maybe "
+"I will go back to driving school."
+msgstr ""
+
+msgctxt "6852_Maya"
+msgid "Uh-oh."
+msgstr ""
+
+msgctxt "6864_Kiryu"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "6876_Maya"
+msgid ""
+"My friend sent me the funniest picture yesterday. I wanted to show it to "
+"you, but I think I deleted it."
+msgstr ""
+
+msgctxt "6888_Kiryu"
+msgid "What kind of picture was it?"
+msgstr ""
+
+msgctxt "6900_Maya"
+msgid "I was standing on top of a bar with a backpack or something on my back."
+msgstr ""
+
+msgctxt "6912_Kiryu"
+msgid "Heh. Were you drunk?"
+msgstr ""
+
+msgctxt "6924_Maya"
+msgid "I think so. I don't remember it at all."
+msgstr ""
+
+msgctxt "6936_Kiryu"
+msgid "I thought you didn't drink much."
+msgstr ""
+
+msgctxt "6948_Maya"
+msgid "Oh, it was from last year. I don't know why she just sent it to me now."
+msgstr ""
+
+msgctxt "6960_Kiryu"
+msgid "See if she can send it to you again. I'd like to see it for myself."
+msgstr ""
+
+msgctxt "6972_Maya"
+msgid "Hehe. I'm warning you now, it's pretty funny."
+msgstr ""
+
+msgctxt "6984_Maya"
+msgid "The first time I saw it, I thought, \"What the hell is this girl doing!?\""
+msgstr ""
+
+msgctxt "6996_Kiryu"
+msgid "Heh. Now I really have to see it."
+msgstr ""
+
+msgctxt "7008_Kiryu"
+msgid "Why don't you forward it directly to my phone?"
+msgstr ""
+
+msgctxt "7020_Maya"
+msgid "No way! Then you'll keep it forever! I'll show it to you, but just once!"
+msgstr ""
+
+msgctxt "7032_Kiryu"
+msgid "Heh. Fine."
+msgstr ""
+
+msgctxt "7044_Kiryu"
+msgid ""
+"You used to get drunk a lot? Not many people would climb onto a bar, even "
+"if they were drunk."
+msgstr ""
+
+msgctxt "7056_Maya"
+msgid "You're probably right. I could've gotten in trouble."
+msgstr ""
+
+msgctxt "7068_Kiryu"
+msgid "You're lucky you didn't get banned."
+msgstr ""
+
+msgctxt "7080_Maya"
+msgid "And why was my friend taking that picture? She should've stopped me."
+msgstr ""
+
+msgctxt "7092_Kiryu"
+msgid "Heh. Must be because you're a model and all."
+msgstr ""
+
+msgctxt "7104_Maya"
+msgid "Is that supposed to be a compliment?"
+msgstr ""
+
+msgctxt "7116_Kiryu"
+msgid "A backpack? Were you traveling?"
+msgstr ""
+
+msgctxt "7128_Maya"
+msgid "Oh no, it wasn't mine. I think it belonged to somebody else at the bar."
+msgstr ""
+
+msgctxt "7140_Kiryu"
+msgid "But why were you wearing it?"
+msgstr ""
+
+msgctxt "7152_Maya"
+msgid "Uh, that's hard to say."
+msgstr ""
+
+msgctxt "7164_Maya"
+msgid ""
+"When I get drunk, I like to wear anything I can get my hands on. Bags, "
+"jewelry, other people's clothes..."
+msgstr ""
+
+msgctxt "7176_Kiryu"
+msgid "That sounds like a problem."
+msgstr ""
+
+msgctxt "7188_Kiryu"
+msgid "Maybe you could put a lot of clothes on before you get drunk?"
+msgstr ""
+
+msgctxt "7200_Maya"
+msgid "Haha! That just might work."
+msgstr ""
+
+msgctxt "7212_Maya"
+msgid "But I don't drink too much nowadays, so it's not a big deal anymore."
+msgstr ""
+
+msgctxt "7224_Maya"
+msgid "Do you go to Yokohama very often?"
+msgstr ""
+
+msgctxt "7236_Kiryu"
+msgid "Not really."
+msgstr ""
+
+msgctxt "7248_Maya"
+msgid "Oh."
+msgstr ""
+
+msgctxt "7260_Kiryu"
+msgid "Why do you ask?"
+msgstr ""
+
+msgctxt "7272_Maya"
+msgid "I'm from Yokohama."
+msgstr ""
+
+msgctxt "7284_Kiryu"
+msgid "You are? It's certainly a nice city."
+msgstr ""
+
+msgctxt "7296_Maya"
+msgid "Yeah. It's also a great place for dates."
+msgstr ""
+
+msgctxt "7308_Kiryu"
+msgid "True. There are a lot of date spots there."
+msgstr ""
+
+msgctxt "7320_Maya"
+msgid ""
+"I'm not just talking about the famous places. There are lots of spots only "
+"the locals know."
+msgstr ""
+
+msgctxt "7332_Kiryu"
+msgid "You go on a lot of dates then?"
+msgstr ""
+
+msgctxt "7344_Maya"
+msgid "Hmm? Do I detect a hint of jealousy?"
+msgstr ""
+
+msgctxt "7356_Kiryu"
+msgid "That's not how I meant it. You just sounded like you knew a lot about it."
+msgstr ""
+
+msgctxt "7368_Maya"
+msgid "Come on. You don't have to be embarrassed."
+msgstr ""
+
+msgctxt "7380_Maya"
+msgid ""
+"Don't you know of any places like that? Special places to take your "
+"girlfriend?"
+msgstr ""
+
+msgctxt "7392_Kiryu"
+msgid "No."
+msgstr ""
+
+msgctxt "7404_Maya"
+msgid "Oh. Well, I should show you mine! They have my seal of approval!"
+msgstr ""
+
+msgctxt "7416_Kiryu"
+msgid "I'd like that."
+msgstr ""
+
+msgctxt "7428_Kiryu"
+msgid "Wouldn't you stand out more there? If all the locals know about it..."
+msgstr ""
+
+msgctxt "7440_Maya"
+msgid "Yeah, that's true. I do seem to run into friends a lot when there."
+msgstr ""
+
+msgctxt "7452_Kiryu"
+msgid ""
+"Then everybody knows who is dating whom. And where they go. Wouldn't it be "
+"better if you went somewhere private?"
+msgstr ""
+
+msgctxt "7464_Maya"
+msgid "I don't need to sneak around my own hometown!"
+msgstr ""
+
+msgctxt "7476_Maya"
+msgid "Or do you not want to be seen with the people you go out with?"
+msgstr ""
+
+msgctxt "7488_Kiryu"
+msgid "Uh, that's not what I meant at all."
+msgstr ""
+
+msgctxt "7500_Maya"
+msgid ""
+"I'm a little disappointed. I was going to tell you about this great place, "
+"but never mind."
+msgstr ""
+
+msgctxt "7512_Kiryu"
+msgid "Wha...?"
+msgstr ""
+
+msgctxt "7524_Kiryu"
+msgid "Maybe you can show me sometime. I'd like to see what these places are like."
+msgstr ""
+
+msgctxt "7536_Maya"
+msgid "Um... Does that mean you want to go out on a date with me?"
+msgstr ""
+
+msgctxt "7548_Kiryu"
+msgid "Sure does."
+msgstr ""
+
+msgctxt "7560_Maya"
+msgid ""
+"Oh, I don't know. I don't take just anyone to these places. They're special "
+"to me."
+msgstr ""
+
+msgctxt "7572_Kiryu"
+msgid "You're the one who brought them up."
+msgstr ""
+
+msgctxt "7584_Maya"
+msgid "Ha, that's true."
+msgstr ""
+
+msgctxt "7596_Maya"
+msgid ""
+"All right. Once I know you a little better, I can show you my favorite "
+"dating spots."
+msgstr ""
+
+msgctxt "7608_Kiryu"
+msgid "I look forward to it."
+msgstr ""
+
+msgctxt "7620_Maya"
+msgid "I had a modeling job today. I wore some of the cutest outfits!"
+msgstr ""
+
+msgctxt "7632_Kiryu"
+msgid "That's good. It must be tough to have two jobs, though."
+msgstr ""
+
+msgctxt "7644_Maya"
+msgid ""
+"Kinda. But modeling's not so bad this time of year. It's terrible in the "
+"summer and winter."
+msgstr ""
+
+msgctxt "7656_Kiryu"
+msgid "Why's that?"
+msgstr ""
+
+msgctxt "7668_Maya"
+msgid ""
+"They always start selling seasonal clothes a bit early, and we have to do "
+"the photoshoots even earlier."
+msgstr ""
+
+msgctxt "7680_Maya"
+msgid ""
+"So we're posing in light summer clothes in the winter and in hot winter "
+"clothes in the middle of summer."
+msgstr ""
+
+msgctxt "7692_Kiryu"
+msgid "That does sound terrible. And you have to look happy for the cameras, right?"
+msgstr ""
+
+msgctxt "7704_Maya"
+msgid "That's right. If the shoot lasts too long in the summer, I start to sweat."
+msgstr ""
+
+msgctxt "7716_Kiryu"
+msgid "Why don't they just do it indoors?"
+msgstr ""
+
+msgctxt "7728_Maya"
+msgid "Sometimes they do. I'm pretty used to it either way."
+msgstr ""
+
+msgctxt "7740_Kiryu"
+msgid "Okay. Well, good luck."
+msgstr ""
+
+msgctxt "7752_Kiryu"
+msgid "They really start that early? How do they know what's going to be popular?"
+msgstr ""
+
+msgctxt "7764_Maya"
+msgid "What? Oh, haha! You don't understand, do you? They don't have to know."
+msgstr ""
+
+msgctxt "7776_Kiryu"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "7788_Maya"
+msgid ""
+"It's the fashion industry that makes the trends. They decide what's going "
+"to be popular before they do the photoshoot."
+msgstr ""
+
+msgctxt "7800_Kiryu"
+msgid "Oh, I see. You must know what's going to be popular next season, then."
+msgstr ""
+
+msgctxt "7812_Maya"
+msgid "Yep! That's why models like me are called trendsetters!"
+msgstr ""
+
+msgctxt "7824_Kiryu"
+msgid "Haha."
+msgstr ""
+
+msgctxt "7836_Kiryu"
+msgid "I'm surprised you don't get sick. Wouldn't you catch a cold in the winter?"
+msgstr ""
+
+msgctxt "7848_Maya"
+msgid "Well, I'm pretty used to it by now. I guess it's not that big of a deal."
+msgstr ""
+
+msgctxt "7860_Maya"
+msgid "What's worse is having to get up so early on the day of a shoot."
+msgstr ""
+
+msgctxt "7872_Kiryu"
+msgid "That's not so bad. You just have to go to bed early."
+msgstr ""
+
+msgctxt "7884_Maya"
+msgid ""
+"I do go to bed early! But then I can't go out with my friends. That's the "
+"problem."
+msgstr ""
+
+msgctxt "7896_Kiryu"
+msgid "Heh. A lot of people have that kind of problem."
+msgstr ""
+
+msgctxt "7908_Maya"
+msgid "Can I ask you something?"
+msgstr ""
+
+msgctxt "7920_Kiryu"
+msgid "What?"
+msgstr ""
+
+msgctxt "7932_Maya"
+msgid ""
+"When two people start going out, it's normal for them to say \"I love you\" "
+"to each other, right?"
+msgstr ""
+
+msgctxt "7944_Kiryu"
+msgid "I'm not sure. In what kind of situation?"
+msgstr ""
+
+msgctxt "7956_Maya"
+msgid ""
+"Any situation. When you're holding hands, hugging each other, or whatever. "
+"People say \"I love you\" pretty often, right?"
+msgstr ""
+
+msgctxt "7968_Kiryu"
+msgid "That's cute. Yeah, some people do that when they first start dating."
+msgstr ""
+
+msgctxt "7980_Maya"
+msgid "I thought so. I even say it after I've been dating someone for a long time."
+msgstr ""
+
+msgctxt "7992_Kiryu"
+msgid "If you stop saying it, it usually means you're getting tired of them."
+msgstr ""
+
+msgctxt "8004_Maya"
+msgid ""
+"Yeah. I hate it when I say \"I love you\" and the guy gives some sort of "
+"vague response."
+msgstr ""
+
+msgctxt "8016_Maya"
+msgid ""
+"You'd say \"I love you, too\" even if you've been dating for a long time, "
+"wouldn't you?"
+msgstr ""
+
+msgctxt "8028_Kiryu"
+msgid "We'll have to wait and see."
+msgstr ""
+
+msgctxt "8040_Kiryu"
+msgid "Maybe those lovey-dovey couples do. It's embarrassing to see."
+msgstr ""
+
+msgctxt "8052_Maya"
+msgid "Hmph!"
+msgstr ""
+
+msgctxt "8064_Maya"
+msgid "What's so wrong with being in love!?"
+msgstr ""
+
+msgctxt "8076_Kiryu"
+msgid "I don't like watching others act like lovesick kids."
+msgstr ""
+
+msgctxt "8088_Maya"
+msgid ""
+"But if the couple's happy, what's wrong with it? They're not hurting "
+"anybody."
+msgstr ""
+
+msgctxt "8100_Kiryu"
+msgid "It takes more than saying you love someone to be happy, you know."
+msgstr ""
+
+msgctxt "8112_Maya"
+msgid "You just don't get it, do you?"
+msgstr ""
+
+msgctxt "8124_Kiryu"
+msgid ""
+"Is it really necessary to say it? You don't need words to express how you "
+"feel."
+msgstr ""
+
+msgctxt "8136_Maya"
+msgid "Yes, you do!"
+msgstr ""
+
+msgctxt "8148_Maya"
+msgid "When you tell each other you love one another, it reaffirms your feelings."
+msgstr ""
+
+msgctxt "8160_Kiryu"
+msgid "You'd be worried if you weren't reassured that you love each other?"
+msgstr ""
+
+msgctxt "8172_Maya"
+msgid "Well, no. I didn't mean that, exactly."
+msgstr ""
+
+msgctxt "8184_Kiryu"
+msgid ""
+"If you really love another person, being close to them should be enough. "
+"You should even feel a connection when you're apart."
+msgstr ""
+
+msgctxt "8196_Maya"
+msgid "Oh."
+msgstr ""
+
+msgctxt "8208_Maya"
+msgid ""
+"Now that you put it that way, I think you might be right. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8220_Maya"
+msgid "Do you remember that policeman who stopped me while we were on our date?"
+msgstr ""
+
+msgctxt "8232_Kiryu"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "8244_Maya"
+msgid "I ran into him again not long after that."
+msgstr ""
+
+msgctxt "8256_Kiryu"
+msgid "He questioned you again?"
+msgstr ""
+
+msgctxt "8268_Maya"
+msgid "No. Actually, he was being friendly."
+msgstr ""
+
+msgctxt "8280_Maya"
+msgid ""
+"He said he was getting off duty soon and asked if I wanted to go for "
+"coffee. He was trying to pick me up!"
+msgstr ""
+
+msgctxt "8292_Kiryu"
+msgid ""
+"Really? I never thought a cop would try something like that while he was on "
+"duty."
+msgstr ""
+
+msgctxt "8304_Maya"
+msgid "Hahaha! It was kind of funny, so I let him buy me some."
+msgstr ""
+
+msgctxt "8316_Kiryu"
+msgid "Don't tell me you like this guy."
+msgstr ""
+
+msgctxt "8328_Maya"
+msgid "Haha! No, not at all."
+msgstr ""
+
+msgctxt "8340_Kiryu"
+msgid "Then why'd you go out with him?"
+msgstr ""
+
+msgctxt "8352_Maya"
+msgid "Huh? I had a little free time, so I thought I'd be nice to him."
+msgstr ""
+
+msgctxt "8364_Kiryu"
+msgid "What's so fun about going out with somebody you don't even like?"
+msgstr ""
+
+msgctxt "8376_Maya"
+msgid ""
+"Well, it wasn't really much fun. He kept asking all of these questions. "
+"Like, did I have a boyfriend?"
+msgstr ""
+
+msgctxt "8388_Kiryu"
+msgid "Huh."
+msgstr ""
+
+msgctxt "8400_Maya"
+msgid ""
+"It's okay. I won't see him again. You don't have to worry. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8412_Kiryu"
+msgid "I wasn't really worried..."
+msgstr ""
+
+msgctxt "8424_Kiryu"
+msgid "So you went out with him? Just like that?"
+msgstr ""
+
+msgctxt "8436_Maya"
+msgid "Why not? He's a cop. I figured I'd at least be safe."
+msgstr ""
+
+msgctxt "8448_Kiryu"
+msgid ""
+"There are bad cops too, you know. I wouldn't trust a guy who asks a girl "
+"out while on duty."
+msgstr ""
+
+msgctxt "8460_Maya"
+msgid "You're right, but I'm a big girl. I can take care of myself."
+msgstr ""
+
+msgctxt "8472_Maya"
+msgid "You're not my father. You don't have protect me, okay?"
+msgstr ""
+
+msgctxt "8484_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "8496_Kiryu"
+msgid "Sounds like the cops know your face now."
+msgstr ""
+
+msgctxt "8508_Maya"
+msgid "Yeah, I guess so."
+msgstr ""
+
+msgctxt "8520_Kiryu"
+msgid "Maybe you won't be stopped that much anymore."
+msgstr ""
+
+msgctxt "8532_Maya"
+msgid "Hmph. I'd rather be questioned by the cops than hit on."
+msgstr ""
+
+msgctxt "8544_Kiryu"
+msgid "Yeah, I can understand that."
+msgstr ""
+
+msgctxt "8556_Maya"
+msgid ""
+"But he's the only one who's tried to pick me up. The other ones still just "
+"question me."
+msgstr ""
+
+msgctxt "8568_Kiryu"
+msgid "Hmm. You sure you're not a wanted woman?"
+msgstr ""
+
+msgctxt "8580_Maya"
+msgid "Who knows? Maybe I've got a price on my head!"
+msgstr ""
+
+msgctxt "8592_Maya"
+msgid "I really don't understand why they question me so often, though."
+msgstr ""
+
+msgctxt "8604_Kiryu"
+msgid ""
+"So, you were talking about quitting the club a while ago. Did you decide "
+"what to do?"
+msgstr ""
+
+msgctxt "8616_Maya"
+msgid "Well, I was planning on quitting, but..."
+msgstr ""
+
+msgctxt "8628_Kiryu"
+msgid "You're not sure?"
+msgstr ""
+
+msgctxt "8640_Maya"
+msgid "Yeah. Maybe I've had a change of heart."
+msgstr ""
+
+msgctxt "8652_Maya"
+msgid "What do you think? Should I quit?"
+msgstr ""
+
+msgctxt "8664_Kiryu"
+msgid "You don't want to quit, do you?"
+msgstr ""
+
+msgctxt "8676_Maya"
+msgid "Huh? How did you know?"
+msgstr ""
+
+msgctxt "8688_Kiryu"
+msgid "You just don't want to leave me, right? It's okay. You can say it."
+msgstr ""
+
+msgctxt "8700_Maya"
+msgid "Huh. That's pretty arrogant of you."
+msgstr ""
+
+msgctxt "8712_Maya"
+msgid "It's as though you don't really care whether or not I stay."
+msgstr ""
+
+msgctxt "8724_Maya"
+msgid "You really don't understand women, do you?"
+msgstr ""
+
+msgctxt "8736_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "8748_Kiryu"
+msgid "You should follow your heart."
+msgstr ""
+
+msgctxt "8760_Maya"
+msgid "But I don't know what I want to do. That's the problem."
+msgstr ""
+
+msgctxt "8772_Kiryu"
+msgid ""
+"Oh, right. Well, you're still here. Doesn't that mean you don't want to "
+"quit?"
+msgstr ""
+
+msgctxt "8784_Maya"
+msgid "I guess. But you keep talking about what I feel."
+msgstr ""
+
+msgctxt "8796_Maya"
+msgid "I want to know what you think of me leaving."
+msgstr ""
+
+msgctxt "8808_Kiryu"
+msgid "I already said. You should do what you want to do."
+msgstr ""
+
+msgctxt "8820_Maya"
+msgid "Oh. You can be kind of dense sometimes."
+msgstr ""
+
+msgctxt "8832_Kiryu"
+msgid "You can't quit. You should keep working here."
+msgstr ""
+
+msgctxt "8844_Maya"
+msgid "Why?"
+msgstr ""
+
+msgctxt "8856_Kiryu"
+msgid "Well... I like coming here and drinking with you."
+msgstr ""
+
+msgctxt "8868_Maya"
+msgid "Hehe. Are you saying you'd miss me? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8880_Kiryu"
+msgid "That's not really what I meant. It's just that as a customer, I'd prefer－"
+msgstr ""
+
+msgctxt "8892_Maya"
+msgid ""
+"All right, all right. We can leave it at that. But I'll get you to say it "
+"someday."
+msgstr ""
+
+msgctxt "8904_Kiryu"
+msgid "You're quite a handful."
+msgstr ""
+
+msgctxt "8916_Maya"
+msgid "Do you ever go to other hostess clubs?"
+msgstr ""
+
+msgctxt "8928_Kiryu"
+msgid ""
+"Hmm? Well, I might go to other places from time to time.\r\n"
+"I'm not always in Kamurocho, you know."
+msgstr ""
+
+msgctxt "8940_Maya"
+msgid "So you must have other girls you like drinking with, huh?"
+msgstr ""
+
+msgctxt "8952_Kiryu"
+msgid "Heh. What's with the third degree all of a sudden? Are you feeling jealous?"
+msgstr ""
+
+msgctxt "8964_Maya"
+msgid "Not jealous exactly. I just can't stand men who cheat."
+msgstr ""
+
+msgctxt "8976_Kiryu"
+msgid "What counts as cheating? Is going to another hostess club cheating?"
+msgstr ""
+
+msgctxt "8988_Maya"
+msgid ""
+"It might if you were my boyfriend. But right now, I'd say requesting "
+"another hostess would be like cheating."
+msgstr ""
+
+msgctxt "9000_Kiryu"
+msgid "Really?"
+msgstr ""
+
+msgctxt "9012_Maya"
+msgid "Yes. So? Have you done that?"
+msgstr ""
+
+msgctxt "9024_Kiryu"
+msgid ""
+"Me? I never request anybody at other clubs. I just stop by when I want a "
+"drink."
+msgstr ""
+
+msgctxt "9036_Maya"
+msgid ""
+"Oh, okay. That makes me feel a little better. So I'm the only girl you "
+"request?"
+msgstr ""
+
+msgctxt "9048_Kiryu"
+msgid "Uh, sure."
+msgstr ""
+
+msgctxt "9060_Kiryu"
+msgid ""
+"Now you're just being silly. We're not dating. It's not your place to say "
+"what a customer can or can't do outside the club."
+msgstr ""
+
+msgctxt "9072_Maya"
+msgid ""
+"That must mean you've cheated on me.\r\n"
+"That's horrible."
+msgstr ""
+
+msgctxt "9084_Kiryu"
+msgid ""
+"Look, you're the one I have the most fun with. And you're the one I see the "
+"most often."
+msgstr ""
+
+msgctxt "9096_Maya"
+msgid "You probably tell that to the other girls, too."
+msgstr ""
+
+msgctxt "9108_Kiryu"
+msgid "No. Just you."
+msgstr ""
+
+msgctxt "9120_Maya"
+msgid "Hmph. You said that way too easily."
+msgstr ""
+
+msgctxt "9132_Maya"
+msgid "I really thought you were different..."
+msgstr ""
+
+msgctxt "9144_Kiryu"
+msgid "Do I look like the kind of man who'd cheat?"
+msgstr ""
+
+msgctxt "9156_Maya"
+msgid ""
+"No, you don't. You're a man who'd love someone for the rest of his life, "
+"once he gives his heart to them. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "9168_Kiryu"
+msgid "Ever since I met you, there's been no one else."
+msgstr ""
+
+msgctxt "9180_Maya"
+msgid "Really? That makes me so happy! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "9192_Kiryu"
+msgid "And it's nice to know you're such a faithful woman, too."
+msgstr ""
+
+msgctxt "9204_Maya"
+msgid "Yeah! If we started going out, we'd be in love until the day we die."
+msgstr ""
+
+msgctxt "9216_Kiryu"
+msgid "Heh. Right."
+msgstr ""
+
+msgctxt "9228_Maya"
+msgid "Do you come right out and tell a woman if you like her?"
+msgstr ""
+
+msgctxt "9240_Kiryu"
+msgid "Huh? Why do you ask?"
+msgstr ""
+
+msgctxt "9252_Maya"
+msgid "Just answer me."
+msgstr ""
+
+msgctxt "9264_Kiryu"
+msgid "Yeah, I'd tell her. I don't like to leave things up in the air."
+msgstr ""
+
+msgctxt "9276_Maya"
+msgid "I knew it!"
+msgstr ""
+
+msgctxt "9288_Kiryu"
+msgid "What about you?"
+msgstr ""
+
+msgctxt "9300_Maya"
+msgid "I like the man to be the one to say it first."
+msgstr ""
+
+msgctxt "9312_Maya"
+msgid "Then I'll say, \"Yes! I was waiting for you to say that!\""
+msgstr ""
+
+msgctxt "9324_Kiryu"
+msgid ""
+"What if you don't like the guy? It's not possible to like every man who "
+"falls for you, right?"
+msgstr ""
+
+msgctxt "9336_Maya"
+msgid "If I don't like him, I tell him that I'm not interested."
+msgstr ""
+
+msgctxt "9348_Kiryu"
+msgid ""
+"Huh. If you're going to be picky and choose like that, why don't you just "
+"tell the guys you like first?"
+msgstr ""
+
+msgctxt "9360_Maya"
+msgid "That's no good. The man has to take the initiative."
+msgstr ""
+
+msgctxt "9372_Maya"
+msgid "So I'll be waiting if you have anything you want to tell me."
+msgstr ""
+
+msgctxt "9384_Kiryu"
+msgid "What's that supposed to mean?"
+msgstr ""
+
+msgctxt "9396_Kiryu"
+msgid ""
+"You can't just sit back and wait for it. If you do, you might lose your "
+"chance."
+msgstr ""
+
+msgctxt "9408_Maya"
+msgid ""
+"I dunno. There's just something wrong about the girl being the one to say "
+"it."
+msgstr ""
+
+msgctxt "9420_Kiryu"
+msgid ""
+"But what if the guy is waiting for you to say something, too? You'll both "
+"wait forever."
+msgstr ""
+
+msgctxt "9432_Maya"
+msgid ""
+"Well then, I would figure something out. I'll create a mood that'll make "
+"him confess his love for me."
+msgstr ""
+
+msgctxt "9444_Kiryu"
+msgid "That's practically the same thing as telling him, isn't it?"
+msgstr ""
+
+msgctxt "9456_Maya"
+msgid ""
+"Why do you care!? You'd tell a girl if you like her, so what difference "
+"does it make!?"
+msgstr ""
+
+msgctxt "9468_Kiryu"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "9480_Kiryu"
+msgid "Haven't you ever told someone yourself?"
+msgstr ""
+
+msgctxt "9492_Maya"
+msgid "No comment!"
+msgstr ""
+
+msgctxt "9504_Kiryu"
+msgid "Heh. You're not afraid of being rejected, are you?"
+msgstr ""
+
+msgctxt "9516_Maya"
+msgid ""
+"No, I just think that the man should be the one to confess his love to the "
+"woman."
+msgstr ""
+
+msgctxt "9528_Kiryu"
+msgid "So women should be more passive?"
+msgstr ""
+
+msgctxt "9540_Maya"
+msgid "Sure. Who wants an aggressive man-eater for a girlfriend?"
+msgstr ""
+
+msgctxt "9552_Kiryu"
+msgid "Good point..."
+msgstr ""
+
+msgctxt "9564_Maya"
+msgid "Hmm!"
+msgstr ""
+
+msgctxt "9576_Kiryu"
+msgid "Did something good happen?"
+msgstr ""
+
+msgctxt "9588_Maya"
+msgid "Why do you ask?"
+msgstr ""
+
+msgctxt "9600_Kiryu"
+msgid "Oh, you just seemed happy."
+msgstr ""
+
+msgctxt "9612_Maya"
+msgid "You think so, too?"
+msgstr ""
+
+msgctxt "9624_Kiryu"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "9636_Maya"
+msgid "My friends always tell me I look happy, even when I'm not."
+msgstr ""
+
+msgctxt "9648_Kiryu"
+msgid "Oh, okay."
+msgstr ""
+
+msgctxt "9660_Maya"
+msgid "I wonder why..."
+msgstr ""
+
+msgctxt "9672_Kiryu"
+msgid ""
+"You look like you don't have any worries. If you act bright and cheery, of "
+"course people will think you're happy."
+msgstr ""
+
+msgctxt "9684_Maya"
+msgid "Hey, that makes me sound like an airhead. I'm not cheerful all the time."
+msgstr ""
+
+msgctxt "9696_Kiryu"
+msgid ""
+" But I've never seen you upset. Do you try to keep your negative feelings "
+"from showing?"
+msgstr ""
+
+msgctxt "9708_Maya"
+msgid "I guess so. How you feel inside can affect how you look outside."
+msgstr ""
+
+msgctxt "9720_Maya"
+msgid "I always try to get rid of stress instead of bottling it up."
+msgstr ""
+
+msgctxt "9732_Kiryu"
+msgid "So that's your beauty secret, huh?"
+msgstr ""
+
+msgctxt "9744_Kiryu"
+msgid "It's annoying when people jump to conclusions."
+msgstr ""
+
+msgctxt "9756_Maya"
+msgid ""
+"Yeah. One of my friends is always being told that she doesn't look like she "
+"has a boyfriend."
+msgstr ""
+
+msgctxt "9768_Maya"
+msgid "I don't think her feelings are really hurt by it, but it is irritating."
+msgstr ""
+
+msgctxt "9780_Kiryu"
+msgid "You shouldn't judge people on their appearances."
+msgstr ""
+
+msgctxt "9792_Maya"
+msgid ""
+"Right! I wish people would think before they say things like that. They "
+"probably wouldn't like it if they were on the receiving end."
+msgstr ""
+
+msgctxt "9804_Kiryu"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "9816_Kiryu"
+msgid "Do you have a hard time hiding your feelings?"
+msgstr ""
+
+msgctxt "9828_Maya"
+msgid "Yeah. I can never get away with trying to hide something."
+msgstr ""
+
+msgctxt "9840_Kiryu"
+msgid "Heh. I thought so."
+msgstr ""
+
+msgctxt "9852_Maya"
+msgid "But people tell me I look happy, even when I'm not feeling very good."
+msgstr ""
+
+msgctxt "9864_Kiryu"
+msgid "Oh. I guess this is a different problem, then."
+msgstr ""
+
+msgctxt "9876_Maya"
+msgid ""
+"Nobody understands me. I've got problems like everybody else. I'm not happy "
+"all the time."
+msgstr ""
+
+msgctxt "9888_Kiryu"
+msgid "What do you do to relax?"
+msgstr ""
+
+msgctxt "9900_Maya"
+msgid "I go shopping, or I'm out drinking with my friends. Normal stuff, I guess."
+msgstr ""
+
+msgctxt "9912_Kiryu"
+msgid "Hmm. I'm a little surprised."
+msgstr ""
+
+msgctxt "9924_Maya"
+msgid "I used to go out to clubs all the time, but I had to cut back."
+msgstr ""
+
+msgctxt "9936_Maya"
+msgid "You should've seen me when I was in high school."
+msgstr ""
+
+msgctxt "9948_Kiryu"
+msgid "Everybody's a little wild at that age."
+msgstr ""
+
+msgctxt "9960_Maya"
+msgid "All I cared about was looking good and having fun."
+msgstr ""
+
+msgctxt "9972_Maya"
+msgid ""
+"But around the time I turned twenty, my way of thinking changed. I started "
+"caring more about the kind of person I was on the inside."
+msgstr ""
+
+msgctxt "9984_Maya"
+msgid "So I don't go out and party like I used to anymore."
+msgstr ""
+
+msgctxt "9996_Kiryu"
+msgid ""
+"Maybe you were too wild as a teenager. Besides, everyone's got to cut back "
+"on luxuries in this economy."
+msgstr ""
+
+msgctxt "10008_Maya"
+msgid ""
+"It does seem like people aren't spending as much on going out as they used "
+"to."
+msgstr ""
+
+msgctxt "10020_Kiryu"
+msgid "It's good that you're happier this way."
+msgstr ""
+
+msgctxt "10032_Maya"
+msgid "I really am. I've grown up a little bit, huh?"
+msgstr ""
+
+msgctxt "10044_Maya"
+msgid "Maybe someday I can become a woman others look up to."
+msgstr ""
+
+msgctxt "10056_Kiryu"
+msgid "I think so."
+msgstr ""
+
+msgctxt "10068_Kiryu"
+msgid ""
+"I bet you hang out with a different crowd, too. When you're around adults, "
+"you realize how immature you are."
+msgstr ""
+
+msgctxt "10080_Maya"
+msgid "That's true! When I saw my friends growing up, I panicked a little bit."
+msgstr ""
+
+msgctxt "10092_Maya"
+msgid "So I decided to become a mature adult."
+msgstr ""
+
+msgctxt "10104_Kiryu"
+msgid "You'll have to work on your drinking, then."
+msgstr ""
+
+msgctxt "10116_Maya"
+msgid "I'm done with that! I haven't gotten drunk since last year!"
+msgstr ""
+
+msgctxt "10128_Maya"
+msgid "I take my time and enjoy what I drink."
+msgstr ""
+
+msgctxt "10140_Kiryu"
+msgid "That's good."
+msgstr ""
+
+msgctxt "10152_Kiryu"
+msgid "That's a surprisingly sensible thing to say. I'm impressed."
+msgstr ""
+
+msgctxt "10164_Maya"
+msgid "What do you mean, surprisingly?"
+msgstr ""
+
+msgctxt "10176_Kiryu"
+msgid ""
+"Oh, you just don't look like you worry about that kind of thing. You're "
+"always smiling."
+msgstr ""
+
+msgctxt "10188_Maya"
+msgid ""
+"Well, you can't be a teenager forever. Sooner or later, you have to start "
+"acting your age."
+msgstr ""
+
+msgctxt "10200_Maya"
+msgid ""
+"But it works both ways. If you're not careful, you could get stuck in the "
+"past."
+msgstr ""
+
+msgctxt "10212_Kiryu"
+msgid "Oh. Yeah."
+msgstr ""
+
+msgctxt "10224_Maya"
+msgid "What did you think the first time you saw me?"
+msgstr ""
+
+msgctxt "10236_Kiryu"
+msgid "Huh? Why?"
+msgstr ""
+
+msgctxt "10248_Maya"
+msgid "A lot of people think I'm scary the first time they meet me."
+msgstr ""
+
+msgctxt "10260_Kiryu"
+msgid "They do? That's a surprise."
+msgstr ""
+
+msgctxt "10272_Maya"
+msgid ""
+"I think it's because I'm a little shy at first. So I tense up and don't "
+"smile much."
+msgstr ""
+
+msgctxt "10284_Kiryu"
+msgid "People say I'm scary, too. I know how you feel."
+msgstr ""
+
+msgctxt "10296_Maya"
+msgid "Yeah, I thought so."
+msgstr ""
+
+msgctxt "10308_Kiryu"
+msgid "Hey."
+msgstr ""
+
+msgctxt "10320_Maya"
+msgid "But how can I stop people from thinking that?"
+msgstr ""
+
+msgctxt "10332_Kiryu"
+msgid "Maybe it'd help if you made an effort to talk to them."
+msgstr ""
+
+msgctxt "10344_Maya"
+msgid "But that's the problem. I'm shy! I can't just jump in and talk to them."
+msgstr ""
+
+msgctxt "10356_Kiryu"
+msgid ""
+"You have to do your best. You might be embarrassed sometimes, but you'll "
+"get used to it eventually."
+msgstr ""
+
+msgctxt "10368_Maya"
+msgid "Okay. I'll give it a try next time."
+msgstr ""
+
+msgctxt "10380_Maya"
+msgid "Of course, I've never had any trouble smiling and talking to you."
+msgstr ""
+
+msgctxt "10392_Kiryu"
+msgid "That's comforting."
+msgstr ""
+
+msgctxt "10404_Kiryu"
+msgid ""
+"That impression doesn't last long, does it? They probably don't think "
+"you're scary once they get to know you."
+msgstr ""
+
+msgctxt "10416_Maya"
+msgid "That's true. But what about people who've only met me once?"
+msgstr ""
+
+msgctxt "10428_Maya"
+msgid "If I hadn't scared them off, we might have become good friends."
+msgstr ""
+
+msgctxt "10440_Kiryu"
+msgid ""
+"Yeah... Still, you can't force yourself to act in a way that makes people "
+"like you. That would be tiring."
+msgstr ""
+
+msgctxt "10452_Kiryu"
+msgid "It's best to be yourself."
+msgstr ""
+
+msgctxt "10464_Maya"
+msgid "Thank you. I feel a little better now."
+msgstr ""
+
+msgctxt "10476_Kiryu"
+msgid ""
+"You've got a kind of aura about you. I could tell right away that you're "
+"something special."
+msgstr ""
+
+msgctxt "10488_Maya"
+msgid "Huh? What do you mean!?"
+msgstr ""
+
+msgctxt "10500_Kiryu"
+msgid "People are just intimidated. That's probably why they avoid you."
+msgstr ""
+
+msgctxt "10512_Maya"
+msgid "Oh. That's kind of depressing."
+msgstr ""
+
+msgctxt "10524_Kiryu"
+msgid ""
+"Well, it's better than everybody thinking they're your best friend, isn't "
+"it?"
+msgstr ""
+
+msgctxt "10536_Maya"
+msgid ""
+"No, it's not better at all! I don't want people to avoid me! That's "
+"terrible!"
+msgstr ""
+
+msgctxt "10548_Maya"
+msgid "Ugh. What should I do?"
+msgstr ""
+
+msgctxt "10560_Kiryu"
+msgid "You haven't been drinking much. Are you feeling all right?"
+msgstr ""
+
+msgctxt "10572_Maya"
+msgid ""
+"I'm fine. I didn't want to get drunk and cause any trouble. I'm trying to "
+"cut back."
+msgstr ""
+
+msgctxt "10584_Kiryu"
+msgid "Heh. You can be a little unpredictable when you're drunk."
+msgstr ""
+
+msgctxt "10596_Maya"
+msgid "You got that right!"
+msgstr ""
+
+msgctxt "10608_Maya"
+msgid "This one time back in Yokohama, I did something really crazy."
+msgstr ""
+
+msgctxt "10620_Kiryu"
+msgid "What was it?"
+msgstr ""
+
+msgctxt "10632_Maya"
+msgid ""
+"Well, apparently I ran around Chinatown with a corset wrapped around my "
+"waist."
+msgstr ""
+
+msgctxt "10644_Kiryu"
+msgid "A corset?"
+msgstr ""
+
+msgctxt "10656_Maya"
+msgid ""
+"Yeah. You know, one of those medical corsets. My friend was wearing it for "
+"an injury."
+msgstr ""
+
+msgctxt "10668_Kiryu"
+msgid "And you put it on? Why would your friend be okay with that?"
+msgstr ""
+
+msgctxt "10680_Maya"
+msgid "Um. I'm not sure she was..."
+msgstr ""
+
+msgctxt "10692_Kiryu"
+msgid "What!?"
+msgstr ""
+
+msgctxt "10704_Maya"
+msgid "Hehe! She did say it took two extra weeks to heal because of me."
+msgstr ""
+
+msgctxt "10716_Kiryu"
+msgid "Um... I think you should definitely cut back."
+msgstr ""
+
+msgctxt "10728_Maya"
+msgid "Me too."
+msgstr ""
+
+msgctxt "10740_Kiryu"
+msgid "Apparently? You don't remember it?"
+msgstr ""
+
+msgctxt "10752_Maya"
+msgid "Not at all! You'd think I would, but nope!"
+msgstr ""
+
+msgctxt "10764_Maya"
+msgid ""
+"My friends said I made about three laps around Chinatown, screaming at the "
+"top of my lungs."
+msgstr ""
+
+msgctxt "10776_Kiryu"
+msgid "That's really something."
+msgstr ""
+
+msgctxt "10788_Maya"
+msgid "Oh, come on! Everybody's done something like that!"
+msgstr ""
+
+msgctxt "10800_Kiryu"
+msgid "Not that I can recall."
+msgstr ""
+
+msgctxt "10812_Maya"
+msgid "See! You were drinking so much you can't even remember it!"
+msgstr ""
+
+msgctxt "10824_Kiryu"
+msgid "That's not what I meant..."
+msgstr ""
+
+msgctxt "10836_Maya"
+msgid "Oh, sure. We'll just leave it at that."
+msgstr ""
+
+msgctxt "10848_Kiryu"
+msgid "Don't worry about it. Here, have a drink."
+msgstr ""
+
+msgctxt "10860_Maya"
+msgid "Wait, why should I?"
+msgstr ""
+
+msgctxt "10872_Kiryu"
+msgid "Well, I'm interested to see what you'll do."
+msgstr ""
+
+msgctxt "10884_Maya"
+msgid "Hey, this isn't some kind of experiment!"
+msgstr ""
+
+msgctxt "10896_Maya"
+msgid "And I have a reputation here. They know me as a calm, mature woman."
+msgstr ""
+
+msgctxt "10908_Kiryu"
+msgid "Uh-oh. I think you're already drunk. You're just talking nonsense now."
+msgstr ""
+
+msgctxt "10920_Maya"
+msgid "What's that supposed to mean!?"
+msgstr ""
+
+msgctxt "10932_Kiryu"
+msgid "Haha."
+msgstr ""
+
+msgctxt "10944_Maya"
+msgid "Do you enjoy talking with me?"
+msgstr ""
+
+msgctxt "10956_Kiryu"
+msgid "Of course I do. Would I come back so many times if I didn't?"
+msgstr ""
+
+msgctxt "10968_Maya"
+msgid "Hehe. ♪ Thanks. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "10980_Kiryu"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "10992_Maya"
+msgid "Well, I'm not very good at entertaining people."
+msgstr ""
+
+msgctxt "11004_Maya"
+msgid ""
+"I think I'm kind of boring compared to the other girls here. And I'm not "
+"well-educated, either."
+msgstr ""
+
+msgctxt "11016_Kiryu"
+msgid ""
+"That's what I like about you. I love watching you try so hard to be "
+"entertaining."
+msgstr ""
+
+msgctxt "11028_Maya"
+msgid "Hey, are you making fun of me?"
+msgstr ""
+
+msgctxt "11040_Kiryu"
+msgid ""
+"No, no. I'd rather have you try it your own way than copy what the other "
+"girls do."
+msgstr ""
+
+msgctxt "11052_Maya"
+msgid "Really?"
+msgstr ""
+
+msgctxt "11064_Kiryu"
+msgid ""
+"Sure. In fact, I want you to relax and be yourself instead of worrying "
+"about what I think."
+msgstr ""
+
+msgctxt "11076_Maya"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "11088_Maya"
+msgid "Okay! I'll try not to worry about it from now on!"
+msgstr ""
+
+msgctxt "11100_Kiryu"
+msgid "Good."
+msgstr ""
+
+msgctxt "11112_Kiryu"
+msgid ""
+"Don't worry about that. You don't have to try so hard to be entertaining. "
+"Some people are better listeners than talkers."
+msgstr ""
+
+msgctxt "11124_Maya"
+msgid ""
+"A better listener, huh? But I have trouble asking the right kind of "
+"follow-up questions."
+msgstr ""
+
+msgctxt "11136_Kiryu"
+msgid "Then the man should be talking about something more interesting."
+msgstr ""
+
+msgctxt "11148_Maya"
+msgid "Haha! You're kinda strict toward men, aren't you?"
+msgstr ""
+
+msgctxt "11160_Kiryu"
+msgid "Yes. A real gentleman should learn how to talk to a lady."
+msgstr ""
+
+msgctxt "11172_Maya"
+msgid "Hehe. You certainly know how to do that. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "11184_Kiryu"
+msgid ""
+"Education isn't always a good thing. Some men prefer girls who aren't as "
+"well-educated as they are."
+msgstr ""
+
+msgctxt "11196_Maya"
+msgid "What about you?"
+msgstr ""
+
+msgctxt "11208_Kiryu"
+msgid "Well, I don't judge women like that, so it doesn't matter to me."
+msgstr ""
+
+msgctxt "11220_Maya"
+msgid "Huh. That's not much help."
+msgstr ""
+
+msgctxt "11232_Kiryu"
+msgid ""
+"What your customers want is important, but so is knowing what kind of "
+"hostess you want to be."
+msgstr ""
+
+msgctxt "11244_Maya"
+msgid "Yeah. I know what my weaknesses are, so I can work to make them better."
+msgstr ""
+
+msgctxt "11256_Maya"
+msgid "*yawns*"
+msgstr ""
+
+msgctxt "11268_Kiryu"
+msgid "You look tired. Did you have another photoshoot today?"
+msgstr ""
+
+msgctxt "11280_Maya"
+msgid "Oh, I'm sorry. Yes, I did. I had to get up really early today."
+msgstr ""
+
+msgctxt "11292_Maya"
+msgid "If I'm not careful, I might fall asleep."
+msgstr ""
+
+msgctxt "11304_Kiryu"
+msgid "You could really sleep in a noisy place like this?"
+msgstr ""
+
+msgctxt "11316_Maya"
+msgid ""
+"Yep. Models are always a little sleep-deprived, so we catch a nap whenever "
+"we can."
+msgstr ""
+
+msgctxt "11328_Kiryu"
+msgid ""
+"Aren't you working yourself a bit too hard? Maybe you should take some time "
+"off from the club."
+msgstr ""
+
+msgctxt "11340_Maya"
+msgid "But..."
+msgstr ""
+
+msgctxt "11352_Kiryu"
+msgid ""
+"There's no point making money if you get sick. Your health is more "
+"important."
+msgstr ""
+
+msgctxt "11364_Maya"
+msgid "I'm not here for the money. I'm here because I want to see you."
+msgstr ""
+
+msgctxt "11376_Kiryu"
+msgid "What? That's why...?"
+msgstr ""
+
+msgctxt "11388_Maya"
+msgid "But you thought I only cared about money! Maybe I should quit after all."
+msgstr ""
+
+msgctxt "11400_Kiryu"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "11412_Kiryu"
+msgid "Do you fall asleep while doing your makeup?"
+msgstr ""
+
+msgctxt "11424_Maya"
+msgid ""
+"Yeah, I've done that before. And some models even fall asleep while "
+"changing clothes."
+msgstr ""
+
+msgctxt "11436_Kiryu"
+msgid ""
+"I thought models had to change clothes in a hurry so they could wear as "
+"many outfits as possible."
+msgstr ""
+
+msgctxt "11448_Maya"
+msgid "That's just during fashion shows. It's more relaxed during shoots."
+msgstr ""
+
+msgctxt "11460_Kiryu"
+msgid "Heh. Sounds like fun."
+msgstr ""
+
+msgctxt "11472_Maya"
+msgid "It is. I hope I can be a model forever."
+msgstr ""
+
+msgctxt "11484_Kiryu"
+msgid ""
+"I'm a little disappointed. Modeling seems so glamorous, but in reality you "
+"get bags under your eyes."
+msgstr ""
+
+msgctxt "11496_Maya"
+msgid "Haha! That's okay. The makeup covers it up."
+msgstr ""
+
+msgctxt "11508_Kiryu"
+msgid "But you're not exactly relaxing and chatting in your dressing room."
+msgstr ""
+
+msgctxt "11520_Maya"
+msgid "Nope. You have to rest when you get the chance."
+msgstr ""
+
+msgctxt "11532_Maya"
+msgid "We try not to use any more energy than we have to."
+msgstr ""
+
+msgctxt "11544_Kiryu"
+msgid "Ah, I see."
+msgstr ""
+
+msgctxt "11556_Maya"
+msgid "That policeman from before keeps emailing me. It's getting annoying."
+msgstr ""
+
+msgctxt "11568_Kiryu"
+msgid "You gave him your email address?"
+msgstr ""
+
+msgctxt "11580_Maya"
+msgid "Yeah. I thought knowing a policeman might come in handy."
+msgstr ""
+
+msgctxt "11592_Maya"
+msgid "Now I'm regretting it."
+msgstr ""
+
+msgctxt "11604_Kiryu"
+msgid ""
+"Let me know if it gets to be a problem. I've got a few connections in the "
+"Kamurocho Police."
+msgstr ""
+
+msgctxt "11616_Maya"
+msgid "You do? That might help."
+msgstr ""
+
+msgctxt "11628_Kiryu"
+msgid "But reporting a cop for stalking is a big deal, so..."
+msgstr ""
+
+msgctxt "11640_Maya"
+msgid "Haha, yeah. You're right. I'd like to see what would happen, though."
+msgstr ""
+
+msgctxt "11652_Kiryu"
+msgid ""
+"Let's just wait a bit longer and see if he gives up. If he doesn't stop "
+"after you ask him to, let me know."
+msgstr ""
+
+msgctxt "11664_Maya"
+msgid "Yeah. Hopefully it won't come to that."
+msgstr ""
+
+msgctxt "11676_Kiryu"
+msgid "Why don't you just ignore his emails? That should take care of it."
+msgstr ""
+
+msgctxt "11688_Maya"
+msgid "I'm a little scared to do that."
+msgstr ""
+
+msgctxt "11700_Kiryu"
+msgid "Why?"
+msgstr ""
+
+msgctxt "11712_Maya"
+msgid "He might make a big deal about me not responding to his messages."
+msgstr ""
+
+msgctxt "11724_Maya"
+msgid ""
+"Instead of making him angry, I'd rather string him along with some boring "
+"messages until he gives up on his own."
+msgstr ""
+
+msgctxt "11736_Kiryu"
+msgid "Okay. Well, this cop is still being a nuisance."
+msgstr ""
+
+msgctxt "11748_Kiryu"
+msgid ""
+"You shouldn't give your email to just anybody. Didn't you think this kind "
+"of thing might happen?"
+msgstr ""
+
+msgctxt "11760_Maya"
+msgid "I know it was a mistake. I just didn't think it was a big deal."
+msgstr ""
+
+msgctxt "11772_Kiryu"
+msgid ""
+"You've got to be more careful. There are some bad people out there, you "
+"know."
+msgstr ""
+
+msgctxt "11784_Maya"
+msgid "You don't have to rub it in. I figured he'd be safe, since he's a cop."
+msgstr ""
+
+msgctxt "11796_Maya"
+msgid ""
+"I was hoping that you could give me a little advice, but I guess you're "
+"more interested in scolding me."
+msgstr ""
+
+msgctxt "11808_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "11820_Maya"
+msgid ""
+"Do you think I should email him back? It can't be a good idea to ignore "
+"him, can it?"
+msgstr ""
+
+msgctxt "11832_Kiryu"
+msgid "You're talking about that cop? What would you write?"
+msgstr ""
+
+msgctxt "11844_Maya"
+msgid "I don't know. Do you have any ideas?"
+msgstr ""
+
+msgctxt "11856_Kiryu"
+msgid "Hmm. Well..."
+msgstr ""
+
+msgctxt "11868_Kiryu"
+msgid ""
+"You could ask him to come to the club. You know, turn it into an "
+"advertisement."
+msgstr ""
+
+msgctxt "11880_Maya"
+msgid "What!? I don't want him showing up here!"
+msgstr ""
+
+msgctxt "11892_Kiryu"
+msgid "But if you can't avoid him, at least this way you'll be getting paid for it."
+msgstr ""
+
+msgctxt "11904_Maya"
+msgid "Well, yeah. But I don't want to see him at all."
+msgstr ""
+
+msgctxt "11916_Maya"
+msgid "If he did become one of my customers, I couldn't avoid him."
+msgstr ""
+
+msgctxt "11928_Kiryu"
+msgid "Right. I guess that wasn't a very good idea."
+msgstr ""
+
+msgctxt "11940_Maya"
+msgid "This is giving me such a headache."
+msgstr ""
+
+msgctxt "11952_Kiryu"
+msgid "You could say you've already got a boyfriend. That should make him give up."
+msgstr ""
+
+msgctxt "11964_Maya"
+msgid ""
+"I don't think so. He tries to pick up girls who are waiting for their "
+"dates. He wouldn't care."
+msgstr ""
+
+msgctxt "11976_Kiryu"
+msgid ""
+"But if you at least say it, it wouldn't seem odd when you stop replying to "
+"his emails."
+msgstr ""
+
+msgctxt "11988_Maya"
+msgid "Oh, I hadn't thought of that."
+msgstr ""
+
+msgctxt "12000_Maya"
+msgid "Okay, I'll try it. And you can be my boyfriend."
+msgstr ""
+
+msgctxt "12012_Maya"
+msgid "That way, if he sees us together, I won't have to make up some excuse."
+msgstr ""
+
+msgctxt "12024_Kiryu"
+msgid "Heh. Good."
+msgstr ""
+
+msgctxt "12036_Kiryu"
+msgid ""
+"You could ask him how much money he has. He might lose interest if he "
+"thinks that's all you care about."
+msgstr ""
+
+msgctxt "12048_Maya"
+msgid "Hahaha! That could work!"
+msgstr ""
+
+msgctxt "12060_Maya"
+msgid "But what if I ask him and he turns out to be super rich?"
+msgstr ""
+
+msgctxt "12072_Kiryu"
+msgid ""
+"Come on. When's the last time you met a rich cop?\r\n"
+"Especially one walking a beat."
+msgstr ""
+
+msgctxt "12084_Maya"
+msgid "You never know. Maybe his family's rich and he's doing police work for fun."
+msgstr ""
+
+msgctxt "12096_Kiryu"
+msgid "Well, it's possible."
+msgstr ""
+
+msgctxt "12108_Maya"
+msgid "Hmm. I think I need another idea."
+msgstr ""
+
+msgctxt "12120_Maya"
+msgid "I'm really thinking about quitting my job here."
+msgstr ""
+
+msgctxt "12132_Kiryu"
+msgid "You are?"
+msgstr ""
+
+msgctxt "12144_Maya"
+msgid "Yes."
+msgstr ""
+
+msgctxt "12156_Kiryu"
+msgid "Okay... Do you mind telling me why?"
+msgstr ""
+
+msgctxt "12168_Maya"
+msgid ""
+"It was great when I started, since my boyfriend was working a night job, "
+"but now working here is getting in the way."
+msgstr ""
+
+msgctxt "12180_Kiryu"
+msgid "In the way? Of what?"
+msgstr ""
+
+msgctxt "12192_Maya"
+msgid "Of... Of seeing you."
+msgstr ""
+
+msgctxt "12204_Kiryu"
+msgid "But you see me when I come to the club. Isn't that enough?"
+msgstr ""
+
+msgctxt "12216_Maya"
+msgid ""
+"But then you're just one of my customers. I want our relationship to be "
+"more than that."
+msgstr ""
+
+msgctxt "12228_Maya"
+msgid "Unless you don't want it to be. Maybe I'm just a hostess to you."
+msgstr ""
+
+msgctxt "12240_Kiryu"
+msgid "That's not true. I don't want our relationship to end at the club."
+msgstr ""
+
+msgctxt "12252_Maya"
+msgid "Really!?"
+msgstr ""
+
+msgctxt "12264_Kiryu"
+msgid "Yes."
+msgstr ""
+
+msgctxt "12276_Maya"
+msgid "Yay! I'm so happy! ♪"
+msgstr ""
+
+msgctxt "12288_Maya"
+msgid "But remember, I'll kill you if you request other hostesses after I quit."
+msgstr ""
+
+msgctxt "12300_Kiryu"
+msgid "You don't have to worry about that. I think..."
+msgstr ""
+
+msgctxt "12312_Kiryu"
+msgid "You'd quit your job for me?"
+msgstr ""
+
+msgctxt "12324_Maya"
+msgid ""
+"Hehe. It's more for me than for you. I'm quitting because I want to see "
+"more of you."
+msgstr ""
+
+msgctxt "12336_Kiryu"
+msgid "I spend a lot of time out at night, you know."
+msgstr ""
+
+msgctxt "12348_Maya"
+msgid "Huh? You do?"
+msgstr ""
+
+msgctxt "12360_Kiryu"
+msgid ""
+"Yeah. Actually, I'm out almost all the time. I'm pretty busy. I don't have "
+"a lot of time to relax."
+msgstr ""
+
+msgctxt "12372_Maya"
+msgid "But you have enough time to come here."
+msgstr ""
+
+msgctxt "12384_Kiryu"
+msgid ""
+"I make time to. It helps me get rid of stress. If I didn't come, I'd "
+"probably get sick."
+msgstr ""
+
+msgctxt "12396_Maya"
+msgid "Hmm. It sounds like it would be better if I just stayed here."
+msgstr ""
+
+msgctxt "12408_Maya"
+msgid "Aw. And I'd finally made up my mind, too."
+msgstr ""
+
+msgctxt "12420_Kiryu"
+msgid "I guess I hadn't mentioned this before, but I actually live in Okinawa."
+msgstr ""
+
+msgctxt "12432_Maya"
+msgid "What!? You do!?"
+msgstr ""
+
+msgctxt "12444_Kiryu"
+msgid ""
+"Yeah. I've been taking care of some business here, but I'll go home when "
+"things are settled."
+msgstr ""
+
+msgctxt "12456_Maya"
+msgid "Oh. I see."
+msgstr ""
+
+msgctxt "12468_Kiryu"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "12480_Maya"
+msgid "No! I don't mind!"
+msgstr ""
+
+msgctxt "12492_Kiryu"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "12504_Maya"
+msgid "I'll go with you to Okinawa!"
+msgstr ""
+
+msgctxt "12516_Kiryu"
+msgid "What!? You will?"
+msgstr ""
+
+msgctxt "12528_Maya"
+msgid ""
+"Yes! A devoted woman like me won't let such a little thing get in the way. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12540_Kiryu"
+msgid "Haha, I guess not."
+msgstr ""
+
+msgctxt "12552_Maya"
+msgid "Remember how I told you about my friend whose boyfriend cheated on her?"
+msgstr ""
+
+msgctxt "12564_Kiryu"
+msgid "Sure."
+msgstr ""
+
+msgctxt "12576_Maya"
+msgid "Well, things kept on getting worse for her."
+msgstr ""
+
+msgctxt "12588_Kiryu"
+msgid "That's too bad."
+msgstr ""
+
+msgctxt "12600_Maya"
+msgid ""
+"I've been thinking of telling her to leave him. I'm not sure if it's my "
+"place to, though."
+msgstr ""
+
+msgctxt "12612_Maya"
+msgid "I just want her to be happy."
+msgstr ""
+
+msgctxt "12624_Kiryu"
+msgid ""
+"Sounds like a good idea. I don't know her, but it isn't healthy to be in a "
+"relationship with a man who keeps on cheating."
+msgstr ""
+
+msgctxt "12636_Maya"
+msgid "Right!"
+msgstr ""
+
+msgctxt "12648_Maya"
+msgid "Still, she's pretty serious about him. You'd think she'd leave him, but..."
+msgstr ""
+
+msgctxt "12660_Kiryu"
+msgid "Wait, she's not thinking about marrying him, is she?"
+msgstr ""
+
+msgctxt "12672_Maya"
+msgid "Yes..."
+msgstr ""
+
+msgctxt "12684_Maya"
+msgid ""
+"That's why I don't know if this is something I should be getting involved "
+"with."
+msgstr ""
+
+msgctxt "12696_Kiryu"
+msgid "But you could save her from a lifetime of unhappiness."
+msgstr ""
+
+msgctxt "12708_Maya"
+msgid "Yeah. Yeah, you're right! Thanks for listening!"
+msgstr ""
+
+msgctxt "12720_Kiryu"
+msgid "I don't think you should get involved. You could end up making things worse."
+msgstr ""
+
+msgctxt "12732_Maya"
+msgid "So I should just stay out of it?"
+msgstr ""
+
+msgctxt "12744_Kiryu"
+msgid ""
+"No, not exactly. You should be there for her if she needs someone to talk "
+"to."
+msgstr ""
+
+msgctxt "12756_Kiryu"
+msgid "But just listen. Don't bring your own opinion into it."
+msgstr ""
+
+msgctxt "12768_Maya"
+msgid "But why can't I say anything?"
+msgstr ""
+
+msgctxt "12780_Kiryu"
+msgid ""
+"Well, when people are depressed, an off-hand comment can hurt. You might do "
+"more harm than good."
+msgstr ""
+
+msgctxt "12792_Kiryu"
+msgid "It's better to let her heal over time."
+msgstr ""
+
+msgctxt "12804_Maya"
+msgid "Okay."
+msgstr ""
+
+msgctxt "12816_Maya"
+msgid ""
+"I guess being a friend means knowing when to give someone space. Thanks for "
+"the advice. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12828_Kiryu"
+msgid ""
+"There are no right or wrong answers in love. Everybody's values are "
+"different."
+msgstr ""
+
+msgctxt "12840_Kiryu"
+msgid ""
+"Even if you do what you think is right, there's no guarantee that it'll be "
+"right for her."
+msgstr ""
+
+msgctxt "12852_Maya"
+msgid "What? You mean you think they should stay together?"
+msgstr ""
+
+msgctxt "12864_Kiryu"
+msgid "Not necessarily. But it's not our place to decide what's best for them."
+msgstr ""
+
+msgctxt "12876_Maya"
+msgid "Then I can't do anything for her..."
+msgstr ""
+
+msgctxt "12888_Kiryu"
+msgid "It's better for her and for you if you don't get too involved."
+msgstr ""
+
+msgctxt "12900_Kiryu"
+msgid ""
+"Just tell her what you honestly feel. Then she can decide what she wants to "
+"do."
+msgstr ""
+
+msgctxt "12912_Kiryu"
+msgid ""
+"Even if it ends your friendship, it's better than regretting that you never "
+"said anything."
+msgstr ""
+
+msgctxt "12924_Maya"
+msgid "Oh... This is tough."
+msgstr ""
+
+msgctxt "12936_Maya"
+msgid "Thank you. I'll do my best to make her understand how I feel."
+msgstr ""
+
+msgctxt "12948_Maya"
+msgid "Do you think we'll always be like this?"
+msgstr ""
+
+msgctxt "12960_Kiryu"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "12972_Maya"
+msgid "Always a hostess and a customer."
+msgstr ""
+
+msgctxt "12984_Kiryu"
+msgid "Oh."
+msgstr ""
+
+msgctxt "12996_Maya"
+msgid ""
+"I can't be a hostess for the rest of my life. This club won't be around "
+"forever."
+msgstr ""
+
+msgctxt "13008_Maya"
+msgid "And you have to pay to come here and see me."
+msgstr ""
+
+msgctxt "13020_Maya"
+msgid "This can't last forever, can it?"
+msgstr ""
+
+msgctxt "13032_Kiryu"
+msgid "It'll be all right. This kind of thing can keep going for a long time."
+msgstr ""
+
+msgctxt "13044_Maya"
+msgid "That's all you want from our relationship?"
+msgstr ""
+
+msgctxt "13056_Kiryu"
+msgid "Is there a problem with that?"
+msgstr ""
+
+msgctxt "13068_Maya"
+msgid "Yeah. I need more. I've got hopes and dreams."
+msgstr ""
+
+msgctxt "13080_Kiryu"
+msgid "Like what?"
+msgstr ""
+
+msgctxt "13092_Maya"
+msgid "Well, you know..."
+msgstr ""
+
+msgctxt "13104_Kiryu"
+msgid "I know?"
+msgstr ""
+
+msgctxt "13116_Maya"
+msgid "Oh, come on! Can't you even figure that much out!?"
+msgstr ""
+
+msgctxt "13128_Kiryu"
+msgid "...?"
+msgstr ""
+
+msgctxt "13140_Kiryu"
+msgid ""
+"That depends on us. We might not be able to stay hostess and customer, but "
+"we're more than that."
+msgstr ""
+
+msgctxt "13152_Kiryu"
+msgid "We can see each other outside of the club, can't we?"
+msgstr ""
+
+msgctxt "13164_Maya"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "13176_Maya"
+msgid "But we'd be taking a step towards becoming a real couple..."
+msgstr ""
+
+msgctxt "13188_Kiryu"
+msgid "I suppose."
+msgstr ""
+
+msgctxt "13200_Maya"
+msgid "I don't know. I'm not even sure what I really want yet."
+msgstr ""
+
+msgctxt "13212_Kiryu"
+msgid "There's no reason to hurry, is there? We don't have to change right now."
+msgstr ""
+
+msgctxt "13224_Maya"
+msgid "You're right."
+msgstr ""
+
+msgctxt "13236_Maya"
+msgid "Ugh! I just don't know what to do!"
+msgstr ""
+
+msgctxt "13248_Kiryu"
+msgid "Hahaha!"
+msgstr ""
+
+msgctxt "13260_Kiryu"
+msgid "It could be time for us to move on. Maybe I  shouldn't see you anymore."
+msgstr ""
+
+msgctxt "13272_Maya"
+msgid "What!? No! That's not what I meant at all!"
+msgstr ""
+
+msgctxt "13284_Maya"
+msgid "This is terrible..."
+msgstr ""
+
+msgctxt "13296_Kiryu"
+msgid "Just kidding. I'll keep coming to see you."
+msgstr ""
+
+msgctxt "13308_Maya"
+msgid "Huh!? Hey! You shouldn't play with a girl's feelings like that!"
+msgstr ""
+
+msgctxt "13320_Kiryu"
+msgid "Er, sorry."
+msgstr ""
+
+msgctxt "13332_Maya"
+msgid "Ugh. Now I'm having second thoughts about you in general."
+msgstr ""
+
+msgctxt "13344_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "13356_Maya"
+msgid "I haven't been sleeping well lately."
+msgstr ""
+
+msgctxt "13368_Kiryu"
+msgid "Are you okay?"
+msgstr ""
+
+msgctxt "13380_Maya"
+msgid "I think so, but..."
+msgstr ""
+
+msgctxt "13392_Maya"
+msgid "Hehe."
+msgstr ""
+
+msgctxt "13404_Kiryu"
+msgid "Uh... What's so funny?"
+msgstr ""
+
+msgctxt "13416_Maya"
+msgid "Oh, I was just remembering something from a long time ago."
+msgstr ""
+
+msgctxt "13428_Maya"
+msgid ""
+"One time in high school, I went to bed on Sunday night and woke up on "
+"Tuesday morning!"
+msgstr ""
+
+msgctxt "13440_Kiryu"
+msgid "Huh!? What happened to Monday?"
+msgstr ""
+
+msgctxt "13452_Kiryu"
+msgid "You slept through an entire day?"
+msgstr ""
+
+msgctxt "13464_Maya"
+msgid "Hahaha! I didn't even notice until I got an email from a friend."
+msgstr ""
+
+msgctxt "13476_Maya"
+msgid ""
+"She was like, \"Aren't you coming to school today?\" I had no idea what she "
+"was talking about."
+msgstr ""
+
+msgctxt "13488_Maya"
+msgid ""
+"Then I noticed that the message was dated Monday morning! That's when I "
+"realized it was Tuesday!"
+msgstr ""
+
+msgctxt "13500_Kiryu"
+msgid ""
+"How could something like that happen? Don't most people wake up after eight "
+"hours?"
+msgstr ""
+
+msgctxt "13512_Maya"
+msgid "Well, before I went to bed, I had been partying all weekend."
+msgstr ""
+
+msgctxt "13524_Kiryu"
+msgid "Ah. I see."
+msgstr ""
+
+msgctxt "13536_Maya"
+msgid "Yeah, I was pretty crazy back then."
+msgstr ""
+
+msgctxt "13548_Kiryu"
+msgid "Apparently. But you got a good story out of it."
+msgstr ""
+
+msgctxt "13560_Maya"
+msgid "Hehe. I haven't thought about it in a long time."
+msgstr ""
+
+msgctxt "13572_Kiryu"
+msgid "Why didn't your family wake you up? You had school on Monday, right?"
+msgstr ""
+
+msgctxt "13584_Maya"
+msgid ""
+"Well, sometimes I wouldn't come home for a day or two, so they probably "
+"didn't know I was asleep in my room."
+msgstr ""
+
+msgctxt "13596_Kiryu"
+msgid "What!? Your parents let you stay out for days?"
+msgstr ""
+
+msgctxt "13608_Maya"
+msgid "Yeah, but it's not their fault. I was quite a handful back then."
+msgstr ""
+
+msgctxt "13620_Kiryu"
+msgid ""
+"But parents have a responsibility to look after their kids. You could've "
+"been hurt."
+msgstr ""
+
+msgctxt "13632_Maya"
+msgid ""
+"I understand, but don't think badly of my parents.\r\n"
+"It really was my fault."
+msgstr ""
+
+msgctxt "13644_Kiryu"
+msgid "Are you sure you weren't in a coma? You're lucky you woke up at all."
+msgstr ""
+
+msgctxt "13656_Maya"
+msgid "Heh, you might be right."
+msgstr ""
+
+msgctxt "13668_Maya"
+msgid ""
+"When I woke up I was really dehydrated, so I drank a whole bottle of water. "
+"Then I threw it up."
+msgstr ""
+
+msgctxt "13680_Kiryu"
+msgid ""
+"Your body was in shock. You have to drink little by little at times like "
+"that."
+msgstr ""
+
+msgctxt "13692_Maya"
+msgid "You know a lot about this kind of thing, huh?"
+msgstr ""
+
+msgctxt "13704_Kiryu"
+msgid ""
+"Yeah. I studied a bit so I'd know what to do in case something happened to "
+"one of the kids."
+msgstr ""
+
+msgctxt "13716_Maya"
+msgid ""
+"Well then, you can wake me up the next time I sleep too long. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13728_Maya"
+msgid "I've been thinking about doing yoga."
+msgstr ""
+
+msgctxt "13740_Kiryu"
+msgid "Yoga?"
+msgstr ""
+
+msgctxt "13752_Maya"
+msgid "Yep. Have you ever done it?"
+msgstr ""
+
+msgctxt "13764_Kiryu"
+msgid "I'm afraid not."
+msgstr ""
+
+msgctxt "13776_Maya"
+msgid "Yeah, you don't seem like the yoga type."
+msgstr ""
+
+msgctxt "13788_Kiryu"
+msgid "What made you think about taking it up?"
+msgstr ""
+
+msgctxt "13800_Maya"
+msgid ""
+"Well... My body is going to change as I get older. I figured I should start "
+"doing something about it."
+msgstr ""
+
+msgctxt "13812_Kiryu"
+msgid "You don't need to worry about that. You're so thin now. You'll be fine."
+msgstr ""
+
+msgctxt "13824_Maya"
+msgid "You'd be surprised how quickly a girl can go downhill."
+msgstr ""
+
+msgctxt "13836_Kiryu"
+msgid "Really?"
+msgstr ""
+
+msgctxt "13848_Maya"
+msgid ""
+"Sure. I see girls who are younger than me and notice how much nicer they "
+"look. They're so thin."
+msgstr ""
+
+msgctxt "13860_Kiryu"
+msgid ""
+"That's silly. You're thinner and prettier than most girls. You don't have "
+"anything to worry about."
+msgstr ""
+
+msgctxt "13872_Maya"
+msgid "Hmph. Men just don't get it."
+msgstr ""
+
+msgctxt "13884_Kiryu"
+msgid "Like how men do weight training?"
+msgstr ""
+
+msgctxt "13896_Maya"
+msgid "That's right! It's the same thing."
+msgstr ""
+
+msgctxt "13908_Maya"
+msgid ""
+"Men who were fit when they were young end up with beer bellies if they "
+"aren't careful. It's sad."
+msgstr ""
+
+msgctxt "13920_Kiryu"
+msgid ""
+"Staying fit isn't that hard, but getting back what you've lost is another "
+"story."
+msgstr ""
+
+msgctxt "13932_Maya"
+msgid "Exactly. That's why I should start doing something now."
+msgstr ""
+
+msgctxt "13944_Maya"
+msgid "Oh, I know! You can do yoga with me! You'd get really flexible!"
+msgstr ""
+
+msgctxt "13956_Kiryu"
+msgid "Uh, I'll pass."
+msgstr ""
+
+msgctxt "13968_Kiryu"
+msgid "Actually, you could stand to gain some weight. You're already too thin."
+msgstr ""
+
+msgctxt "13980_Maya"
+msgid "What!? You're kidding me!"
+msgstr ""
+
+msgctxt "13992_Kiryu"
+msgid ""
+"If you diet too much when you're young, it can become a serious problem "
+"when you're older."
+msgstr ""
+
+msgctxt "14004_Maya"
+msgid ""
+"But yoga should be fine, right? If anything, it will get me into better "
+"shape."
+msgstr ""
+
+msgctxt "14016_Kiryu"
+msgid ""
+" As long as you eat well, yes. But without a healthy lifestyle, you could "
+"end up hurting yourself."
+msgstr ""
+
+msgctxt "14028_Maya"
+msgid "Yeah. And working as a hostess makes it hard to get enough sleep."
+msgstr ""
+
+msgctxt "14040_Kiryu"
+msgid "Then that's what you need to work on first."
+msgstr ""
+
+msgctxt "14052_Maya"
+msgid "Okay. Thanks for the advice!"
+msgstr ""
+
+msgctxt "14064_Maya"
+msgid "I haven't been going out recently, except for work."
+msgstr ""
+
+msgctxt "14076_Kiryu"
+msgid "What do you do at home?"
+msgstr ""
+
+msgctxt "14088_Maya"
+msgid "Mostly, I watch DVDs of foreign TV shows."
+msgstr ""
+
+msgctxt "14100_Kiryu"
+msgid "Huh. I keep hearing people say that. I guess it's a popular hobby."
+msgstr ""
+
+msgctxt "14112_Maya"
+msgid "Well, I'm not doing it because it's popular. Remember how I was a wild kid?"
+msgstr ""
+
+msgctxt "14124_Maya"
+msgid "Now I'm doing my best to act my age, so I just stay home."
+msgstr ""
+
+msgctxt "14136_Kiryu"
+msgid "Is that such a good idea? You should try to do things outdoors, too."
+msgstr ""
+
+msgctxt "14148_Maya"
+msgid ""
+"I know. I like to travel. And I love to go to the beach and play water "
+"sports."
+msgstr ""
+
+msgctxt "14160_Kiryu"
+msgid "Oh, you do have an active side, then. I'm a bit surprised."
+msgstr ""
+
+msgctxt "14172_Maya"
+msgid "See? I figure it's okay for me to spend time indoors, too."
+msgstr ""
+
+msgctxt "14184_Kiryu"
+msgid "Just try not to cause trouble for the neighbors."
+msgstr ""
+
+msgctxt "14196_Maya"
+msgid "Hey, what do you think I do at home, anyway?"
+msgstr ""
+
+msgctxt "14208_Maya"
+msgid "A mature woman like me is always quiet and well-behaved."
+msgstr ""
+
+msgctxt "14220_Kiryu"
+msgid "Oh, sure..."
+msgstr ""
+
+msgctxt "14232_Kiryu"
+msgid ""
+"You're just shutting out the outside world. Is that something a mature "
+"woman would do?"
+msgstr ""
+
+msgctxt "14244_Maya"
+msgid ""
+"What do you mean? Enjoying alone time at home at night proves that I'm an "
+"adult."
+msgstr ""
+
+msgctxt "14256_Kiryu"
+msgid "But aren't most people home at night?"
+msgstr ""
+
+msgctxt "14268_Maya"
+msgid "Huh? Are they?"
+msgstr ""
+
+msgctxt "14280_Kiryu"
+msgid ""
+"What do you mean, \"Are they?\" Don't tell me you spent literally every "
+"night partying as a kid?"
+msgstr ""
+
+msgctxt "14292_Maya"
+msgid "Of course not. Sometimes I partied during the day, too!"
+msgstr ""
+
+msgctxt "14304_Kiryu"
+msgid "So you partied 24 hours a day...?"
+msgstr ""
+
+msgctxt "14316_Kiryu"
+msgid "You've really grown. Now you just need to learn how to cook and sew."
+msgstr ""
+
+msgctxt "14328_Maya"
+msgid "I know! I'm on my way to becoming the perfect woman."
+msgstr ""
+
+msgctxt "14340_Kiryu"
+msgid ""
+"But wait, you're just lying around watching DVDs, right? Is that a mature "
+"thing to do?"
+msgstr ""
+
+msgctxt "14352_Maya"
+msgid "Oh, I can worry about the other stuff once I find a boyfriend."
+msgstr ""
+
+msgctxt "14364_Kiryu"
+msgid ""
+"What if you lose your figure? You might not be able to find a boyfriend "
+"then."
+msgstr ""
+
+msgctxt "14376_Maya"
+msgid "Oh no! I hadn't thought of that. I really should start doing yoga!"
+msgstr ""
+
+msgctxt "14388_Kiryu"
+msgid "Heh."
+msgstr ""
+
+msgctxt "14400_Maya"
+msgid "Ooh, it just bothers me so much!"
+msgstr ""
+
+msgctxt "14412_Kiryu"
+msgid "What?"
+msgstr ""
+
+msgctxt "14424_Maya"
+msgid "You know how you get that red stuff with your yakisoba noodles?"
+msgstr ""
+
+msgctxt "14436_Kiryu"
+msgid "Red stuff? You mean the pickled ginger?"
+msgstr ""
+
+msgctxt "14448_Maya"
+msgid "That's right! I hate that stuff!"
+msgstr ""
+
+msgctxt "14460_Maya"
+msgid ""
+"When I see it on my noodles I wanna scream, \"Get lost, ginger! Who needs "
+"you!?\""
+msgstr ""
+
+msgctxt "14472_Kiryu"
+msgid "You don't get it, do you? You've got to have pickled ginger with yakisoba."
+msgstr ""
+
+msgctxt "14484_Maya"
+msgid "What!? Why? What's the point?"
+msgstr ""
+
+msgctxt "14496_Kiryu"
+msgid ""
+"Well, let's see. It tastes good, the color makes the dish more attractive, "
+"and the flavor contrasts nicely with the noodles."
+msgstr ""
+
+msgctxt "14508_Kiryu"
+msgid "In fact, I always ask for extra."
+msgstr ""
+
+msgctxt "14520_Maya"
+msgid "Ugh. We don't have the same taste in food, do we?"
+msgstr ""
+
+msgctxt "14532_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "14544_Kiryu"
+msgid "Yeah, I don't like it much myself. Yakisoba tastes great without it."
+msgstr ""
+
+msgctxt "14556_Maya"
+msgid "I know! I'm glad you understand. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14568_Kiryu"
+msgid ""
+"Yeah. The ginger that comes with sushi is there to help get rid of the "
+"fishiness, so it at least has a purpose."
+msgstr ""
+
+msgctxt "14580_Kiryu"
+msgid "I've got no idea why they put it on yakisoba."
+msgstr ""
+
+msgctxt "14592_Maya"
+msgid "This world would be a happier place without it, that's for sure."
+msgstr ""
+
+msgctxt "14604_Kiryu"
+msgid "Well, that may be going a bit far..."
+msgstr ""
+
+msgctxt "14616_Kiryu"
+msgid "Have you even tried it? It's pretty tasty."
+msgstr ""
+
+msgctxt "14628_Maya"
+msgid "Well, no, but I can tell from the noodles it touches that it's gross!"
+msgstr ""
+
+msgctxt "14640_Maya"
+msgid "How could you think it tastes good!?"
+msgstr ""
+
+msgctxt "14652_Kiryu"
+msgid "Then don't eat the part it touches."
+msgstr ""
+
+msgctxt "14664_Maya"
+msgid "That's what I do, but I feel like I'm wasting food."
+msgstr ""
+
+msgctxt "14676_Maya"
+msgid "Why can't they put it on the side? I hate having it forced on me."
+msgstr ""
+
+msgctxt "14688_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "14700_Maya"
+msgid "I just can't seem to quit this job."
+msgstr ""
+
+msgctxt "14712_Kiryu"
+msgid "Maybe you're more suited to it than you think."
+msgstr ""
+
+msgctxt "14724_Maya"
+msgid "You might be right. I've been enjoying it more recently."
+msgstr ""
+
+msgctxt "14736_Maya"
+msgid ""
+"When I get a new customer, I try to figure out what kind of person he is. "
+"And it makes me happy when I turn out to be right."
+msgstr ""
+
+msgctxt "14748_Kiryu"
+msgid "Heh. That's good."
+msgstr ""
+
+msgctxt "14760_Maya"
+msgid "By the way, thanks."
+msgstr ""
+
+msgctxt "14772_Kiryu"
+msgid "Thanks? For what?"
+msgstr ""
+
+msgctxt "14784_Maya"
+msgid "Don't be coy with me. For our date."
+msgstr ""
+
+msgctxt "14796_Kiryu"
+msgid "Are you sure you remember it? You do have a tendency to black out."
+msgstr ""
+
+msgctxt "14808_Maya"
+msgid ""
+"Even I couldn't forget something like that. <Color:7>♥<Color:Default> And I "
+"wasn't even drinking, anyway!"
+msgstr ""
+
+msgctxt "14820_Kiryu"
+msgid "Oh? Your face was so red I thought you must have had a few drinks."
+msgstr ""
+
+msgctxt "14832_Maya"
+msgid "No... I was just a little flushed with excitement, that's all!"
+msgstr ""
+
+msgctxt "14844_Kiryu"
+msgid "Heh. I see."
+msgstr ""
+
+msgctxt "14856_Kiryu"
+msgid "We should go out again. When are you free?"
+msgstr ""
+
+msgctxt "14868_Maya"
+msgid ""
+"Hehe. That was just a one time thing. Now we have to go back to being "
+"hostess and customer."
+msgstr ""
+
+msgctxt "14880_Kiryu"
+msgid "Oh, come on."
+msgstr ""
+
+msgctxt "14892_Maya"
+msgid "Well, I might change my mind if you buy me an expensive drink."
+msgstr ""
+
+msgctxt "14904_Kiryu"
+msgid "Hey, are you just trying to squeeze me for money? I thought you liked me..."
+msgstr ""
+
+msgctxt "14916_Kiryu"
+msgid "I love you."
+msgstr ""
+
+msgctxt "14928_Maya"
+msgid "What!? What's with you all of a sudden?"
+msgstr ""
+
+msgctxt "14940_Kiryu"
+msgid "I thought you liked the idea of couples saying that from the start."
+msgstr ""
+
+msgctxt "14952_Maya"
+msgid "Hahaha! Well, that's true. It's just kind of embarrassing, that's all..."
+msgstr ""
+
+msgctxt "14964_Kiryu"
+msgid "Aren't you going to say it too?"
+msgstr ""
+
+msgctxt "14976_Maya"
+msgid "Um... I love you too. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15000_Maya"
+msgid "You came to see me!"
+msgstr ""
+
+msgctxt "15036_Maya"
+msgid "Welcome!"
+msgstr ""
+
+msgctxt "15048_Maya"
+msgid "You came! I'm so happy! <Color:7>♥<Color:Default><Color:Default>"
+msgstr ""
+
+msgctxt "15060_Maya"
+msgid "Did you come to see me?"
+msgstr ""
+
+msgctxt "15072_Maya"
+msgid "Thanks for our date. I had a lot of fun."
+msgstr ""
+
+msgctxt "15084_Maya"
+msgid "%s-san... You never showed up for our date. I was waiting for you..."
+msgstr ""
+
+msgctxt "15096_Maya"
+msgid "I'm sorry about before. We should go out again sometime."
+msgstr ""
+
+msgctxt "15108_Maya"
+msgid "%s-san... I was really looking forward to going out with you..."
+msgstr ""
+
+msgctxt "15120_Maya"
+msgid "I'm sorry about before. We should try again."
+msgstr ""
+
+msgctxt "15132_Maya"
+msgid "Allow me to introduce myself. I'm Maya. Nice to meet you."
+msgstr ""
+
+msgctxt "15144_Maya"
+msgid "Thanks for coming."
+msgstr ""
+
+msgctxt "15156_Kiryu"
+msgid "Make yourself at home."
+msgstr ""
+
+msgctxt "15168_Maya"
+msgid "I hope you have a nice time."
+msgstr ""
+
+msgctxt "15180_Maya"
+msgid "Make yourself at home."
+msgstr ""
+
+msgctxt "15192_Maya"
+msgid "We should go on another date."
+msgstr ""
+
+msgctxt "15204_Maya"
+msgid "Let's go out again sometime."
+msgstr ""
+
+msgctxt "15216_Maya"
+msgid "Let's go out again sometime."
+msgstr ""
+
+msgctxt "15228_Maya"
+msgid "Thanks for going out with me today. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15240_Maya"
+msgid "Would you mind taking me out again?"
+msgstr ""
+
+msgctxt "15252_Maya"
+msgid "Would you mind taking me out again?"
+msgstr ""
+
+msgctxt "15264_Maya"
+msgid "You look incredible today! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15276_Maya"
+msgid "You're looking nice today."
+msgstr ""
+
+msgctxt "15288_Maya"
+msgid "You always seem to wear the same clothes."
+msgstr ""
+
+msgctxt "15300_Maya"
+msgid ""
+"Do you really like that look? Shouldn't you try to be a bit more... "
+"fashionable?"
+msgstr ""
+
+msgctxt "15312_Maya"
+msgid "You should pay more attention to how you look."
+msgstr ""
+
+msgctxt "15324_Kiryu"
+msgid "You're handsome, but it's wasted on an outfit like that."
+msgstr ""
+
+msgctxt "15336_Maya"
+msgid "You look incredible today! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15348_Maya"
+msgid "What!? You're kidding! Really!?"
+msgstr ""
+
+msgctxt "15360_Kiryu"
+msgid "I've been looking for something like this forever!"
+msgstr ""
+
+msgctxt "15372_F_cab_sitsofa_tlk_happy"
+msgid "I'm so happy! I'll treasure it always. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15384_Maya"
+msgid "Is that a present for me?"
+msgstr ""
+
+msgctxt "15408_Maya"
+msgid "Oh, is that for me?"
+msgstr ""
+
+msgctxt "15420_Kiryu"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "15432_Maya"
+msgid "Huh? What is that?"
+msgstr ""
+
+msgctxt "15444_F_cab_sitsofa_tlk_noA"
+msgid "I'm sorry, but what do you expect me to do with it?"
+msgstr ""
+
+msgctxt "15456_Maya"
+msgid "Huh? What's that?"
+msgstr ""
+
+msgctxt "15468_F_cab_sitsofa_tlk_angry"
+msgid " Are you teasing me or something?"
+msgstr ""
+
+msgctxt "15480_Maya"
+msgid "Hmm? You already gave me one of those."
+msgstr ""
+
+msgctxt "15492_F_cab_sitsofa_tlk_noA"
+msgid "Or did you forget?"
+msgstr ""
+
+msgctxt "15504_Maya"
+msgid "What!? You're kidding! Really!?"
+msgstr ""
+
+msgctxt "15516_Kiryu"
+msgid "I've been looking for something like this forever!"
+msgstr ""
+
+msgctxt "15528_F_cab_sitsofa_tlk_happy"
+msgid " I'm so happy! I'll treasure it always. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15540_Maya"
+msgid "What would you like?"
+msgstr ""
+
+msgctxt "15564_Player"
+msgid "I guess I'll have this."
+msgstr ""
+
+msgctxt "15576_Kiryu"
+msgid "You don't want anything to drink? But I love drinking..."
+msgstr ""
+
+msgctxt "15588_Maya"
+msgid "Your glass is empty. Would you like to have another drink?"
+msgstr ""
+
+msgctxt "15612_Player"
+msgid "I guess I'll have this."
+msgstr ""
+
+msgctxt "15624_Kiryu"
+msgid "Not much of a drinker, huh? That's too bad. I was just getting in the mood."
+msgstr ""
+
+msgctxt "15636_Maya"
+msgid "I like that too!"
+msgstr ""
+
+msgctxt "15648_Kiryu"
+msgid "I guess we have similar tastes."
+msgstr ""
+
+msgctxt "15660_Maya"
+msgid "You like that kind of drink?"
+msgstr ""
+
+msgctxt "15672_Kiryu"
+msgid "I'm a little surprised. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15684_Maya"
+msgid "All right, then."
+msgstr ""
+
+msgctxt "15696_Maya"
+msgid "You like that?"
+msgstr ""
+
+msgctxt "15708_Kiryu"
+msgid "I didn't picture you drinking something like that."
+msgstr ""
+
+msgctxt "15720_Maya"
+msgid "You drink that?"
+msgstr ""
+
+msgctxt "15732_Kiryu"
+msgid "Huh."
+msgstr ""
+
+msgctxt "15744_Maya"
+msgid "Would you like something to eat?"
+msgstr ""
+
+msgctxt "15768_Player"
+msgid "I guess I'll have this."
+msgstr ""
+
+msgctxt "15780_Kiryu"
+msgid "You're not hungry?"
+msgstr ""
+
+msgctxt "15792_Maya"
+msgid "Would you like something to eat?"
+msgstr ""
+
+msgctxt "15816_Player"
+msgid "I guess I'll have this."
+msgstr ""
+
+msgctxt "15828_Kiryu"
+msgid "Are you full already?"
+msgstr ""
+
+msgctxt "15840_Maya"
+msgid "I love that! Hehe."
+msgstr ""
+
+msgctxt "15852_Kiryu"
+msgid "Maybe I can sneak a bite of yours."
+msgstr ""
+
+msgctxt "15864_Maya"
+msgid "You eat that kind of food? What a coincidence."
+msgstr ""
+
+msgctxt "15876_Kiryu"
+msgid "I like it too!"
+msgstr ""
+
+msgctxt "15888_Maya"
+msgid "All right, then."
+msgstr ""
+
+msgctxt "15900_Maya"
+msgid "I'm surprised you eat that."
+msgstr ""
+
+msgctxt "15912_Maya"
+msgid "I don't care for that."
+msgstr ""
+
+msgctxt "15924_Kiryu"
+msgid "But you can order whatever you like, of course."
+msgstr ""
+
+msgctxt "15936_Maya"
+msgid "Okay, I'll order."
+msgstr ""
+
+msgctxt "15960_Kiryu"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "15972_F_cab_sitsofa_tlk_yes"
+msgid "Here's our order."
+msgstr ""
+
+msgctxt "15984_Kiryu"
+msgid "Right away."
+msgstr ""
+
+msgctxt "16008_Maya"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "16020_Kiryu"
+msgid "Cheers."
+msgstr ""
+
+msgctxt "16044_Maya"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "16056_Kiryu"
+msgid "Cheers."
+msgstr ""
+
+msgctxt "16080_Maya"
+msgid "Just give me a moment..."
+msgstr ""
+
+msgctxt "16092_Kiryu"
+msgid "Sure."
+msgstr ""
+
+msgctxt "16128_Maya"
+msgid "I'm Maya. Nice to meet you."
+msgstr ""
+
+msgctxt "16140_Kiryu"
+msgid "Nice to meet you."
+msgstr ""
+
+msgctxt "16152_Kiryu"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+
+msgctxt "16164_Kiryu"
+msgid "You got a business card."
+msgstr ""
+
+msgctxt "16200_Kiryu"
+msgid "(Maybe I'll ask for her next time I'm here.)"
+msgstr ""
+
+msgctxt "16224_Maya"
+msgid "I hope to see you again!"
+msgstr ""
+
+msgctxt "16236_Kiryu"
+msgid "Of course."
+msgstr ""
+
+msgctxt "16248_Kiryu"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+
+msgctxt "16260_Kiryu"
+msgid "You got a fancy business card."
+msgstr ""
+
+msgctxt "16308_Maya"
+msgid "Here you are!"
+msgstr ""
+
+msgctxt "16320_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "16332_Maya"
+msgid "Do you mind if I smoke?"
+msgstr ""
+
+msgctxt "16344_Kiryu"
+msgid "No, go ahead."
+msgstr ""
+
+msgctxt "16356_Maya"
+msgid "Come on. Have a drink!"
+msgstr ""
+
+msgctxt "16368_Kiryu"
+msgid "All right."
+msgstr ""
+
+msgctxt "16380_Maya"
+msgid "I may have a little sip myself!"
+msgstr ""
+
+msgctxt "16392_Kiryu"
+msgid "Go ahead."
+msgstr ""
+
+msgctxt "16404_Kiryu"
+msgid "I have to get going."
+msgstr ""
+
+msgctxt "16416_F_cab_sitsofa_tlk_noA"
+msgid "You're leaving already? Okay..."
+msgstr ""
+
+msgctxt "16428_Maya"
+msgid "Looks like our time is up."
+msgstr ""
+
+msgctxt "16440_P_sitsofaR_tlk_yes"
+msgid "Oh yeah. You're right."
+msgstr ""
+
+msgctxt "16452_Kiryu"
+msgid "終了時_アフター_初。"
+msgstr ""
+
+msgctxt "16464_Kiryu"
+msgid "終了時_アフター_遅刻後。"
+msgstr ""
+
+msgctxt "16476_Kiryu"
+msgid "終了時_アフター_失敗後。"
+msgstr ""
+
+msgctxt "16488_Kiryu"
+msgid "終了時_同伴_初。"
+msgstr ""
+
+msgctxt "16500_Kiryu"
+msgid "終了時_同伴_遅刻後。"
+msgstr ""
+
+msgctxt "16512_Kiryu"
+msgid "終了時_同伴_失敗後。"
+msgstr ""
+
+msgctxt "16524_Kiryu"
+msgid "終了時_ミニミッション。"
+msgstr ""
+
+msgctxt "16536_Kiryu"
+msgid ""
+"終了時_同伴_初\r\n"
+"クリア後はいません。"
+msgstr ""
+
+msgctxt "16548_Maya"
+msgid "Thanks so much for coming."
+msgstr ""
+
+msgctxt "16584_Kiryu"
+msgid "All right."
+msgstr ""
+
+msgctxt "16596_F_cab_sitsofa_tlk_yes"
+msgid "Bye."
+msgstr ""
+
+msgctxt "16632_Kiryu"
+msgid "No problem."
+msgstr ""
+
+msgctxt "16644_F_cab_sitsofa_tlk_yes"
+msgid "Bye."
+msgstr ""
+
+msgctxt "16668_Kiryu"
+msgid "I really had a good time. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16680_Kiryu"
+msgid "Me too."
+msgstr ""
+
+msgctxt "16692_F_cab_sitsofa_tlk_yes"
+msgid "I'll be waiting for you."
+msgstr ""
+
+msgctxt "16716_Kiryu"
+msgid "I love you! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16728_Kiryu"
+msgid "Me too."
+msgstr ""
+
+msgctxt "16740_F_cab_sitsofa_tlk_yes"
+msgid "Well, I'll be waiting for you."
+msgstr ""
+
+msgctxt "16752_Maya"
+msgid "I hope you'll come back again soon!"
+msgstr ""
+
+msgctxt "16764_Kiryu"
+msgid "Yeah, I will."
+msgstr ""
+
+msgctxt "16776_F_cab_stand_sp12_sync_mune_ed"
+msgid "Bye."
+msgstr ""
+
+msgctxt "16788_Maya"
+msgid "Thanks again for today."
+msgstr ""
+
+msgctxt "16800_Kiryu"
+msgid "No problem."
+msgstr ""
+
+msgctxt "16812_F_cab_stand_sp15_sync_yubi_ed"
+msgid "Bye."
+msgstr ""
+
+msgctxt "16824_Maya"
+msgid "Thanks a lot for coming."
+msgstr ""
+
+msgctxt "16836_Kiryu"
+msgid "My pleasure."
+msgstr ""
+
+msgctxt "16848_F_cab_stand_sp16_sync_hoho_ed"
+msgid "Well, bye."
+msgstr ""
+
+msgctxt "16860_Maya"
+msgid "Be careful on your way home."
+msgstr ""
+
+msgctxt "16872_Kiryu"
+msgid "After date."
+msgstr ""
+
+msgctxt "16884_Maya"
+msgid "Hey, have you heard anything interesting lately?"
+msgstr ""
+
+msgctxt "16896_Kiryu"
+msgid ""
+"I've been so busy with work that I haven't been keeping up with the latest "
+"gossip."
+msgstr ""
+
+msgctxt "16908_P_sitsofaR_tlk_surp"
+msgid "Something interesting? Well..."
+msgstr ""
+
+msgctxt "16920_Kiryu"
+msgid "No. I can't think of anything at the moment."
+msgstr ""
+
+msgctxt "17040_Maya"
+msgid "When you look at a woman, what part of her body catches your eye?"
+msgstr ""
+
+msgctxt "17052_Kiryu"
+msgid "Huh? Why do you want to know?"
+msgstr ""
+
+msgctxt "17064_Maya"
+msgid "It might come in handy in my modeling career."
+msgstr ""
+
+msgctxt "17076_Kiryu"
+msgid "Oh, okay. That makes sense. Let me think..."
+msgstr ""
+
+msgctxt "17088_Maya"
+msgid "During my shoot today, the photographer complimented me on my body."
+msgstr ""
+
+msgctxt "17100_Kiryu"
+msgid "Oh? That's nice."
+msgstr ""
+
+msgctxt "17112_Maya"
+msgid ""
+"Hehe. Which part of my body do you think he complimented me on? Go on, "
+"guess."
+msgstr ""
+
+msgctxt "17124_Kiryu"
+msgid "Hmm, let me see..."
+msgstr ""
+
+msgctxt "17160_Maya"
+msgid "Look! This is the present you gave me the other day!"
+msgstr ""
+
+msgctxt "17172_Kiryu"
+msgid "Doesn't it look nice? I really like it. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17184_Maya"
+msgid "I'm thirsty! Can I order something?"
+msgstr ""
+
+msgctxt "17208_Kiryu"
+msgid "Yay! All right then, I'll go ahead and order."
+msgstr ""
+
+msgctxt "17220_F_cab_sitsofa_sync_order"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "17244_Kiryu"
+msgid "Aw. Why not?"
+msgstr ""
+
+msgctxt "17256_Maya"
+msgid ""
+"I've got a craving for something sweet. Could I order some "
+"<Color:7>Chocolate<Color:Default>?"
+msgstr ""
+
+msgctxt "17268_Maya"
+msgid "Thank you! All right then, I'll go ahead and order."
+msgstr ""
+
+msgctxt "17280_F_cab_sitsofa_sync_order"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "17292_Kiryu"
+msgid "Sorry. I don't think I have enough money."
+msgstr ""
+
+msgctxt "17304_Maya"
+msgid "Huh!? You don't? That's disappointing..."
+msgstr ""
+
+msgctxt "17316_Maya"
+msgid "Aw. I never thought you were the cheap type."
+msgstr ""
+
+msgctxt "17328_Maya"
+msgid ""
+"You're the romantic type, aren't you? I was so happy that you replied to my "
+"email. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17340_Kiryu"
+msgid "Heh. It was nothing."
+msgstr ""
+
+msgctxt "17352_Maya"
+msgid ""
+"The wrap party for that modeling job I emailed you about was so much fun! "
+"We went to the coolest little bar I've seen."
+msgstr ""
+
+msgctxt "17364_Kiryu"
+msgid "That's nice."
+msgstr ""
+
+msgctxt "17376_Maya"
+msgid "They had some weird drinks there. I'd love to go back sometime."
+msgstr ""
+
+msgctxt "17388_Kiryu"
+msgid "Is drinking all you can talk about?"
+msgstr ""
+
+msgctxt "17400_Maya"
+msgid ""
+"Like I wrote in my email, if you dress a child in fashionable clothes, "
+"they'll develop a good sense of fashion."
+msgstr ""
+
+msgctxt "17412_Maya"
+msgid "So when I have a kid, I'll give her a thorough education about clothes."
+msgstr ""
+
+msgctxt "17424_Kiryu"
+msgid ""
+"Heh. I've never heard of a mother who wants to focus her child's education "
+"on fashion."
+msgstr ""
+
+msgctxt "17436_Maya"
+msgid ""
+"Being so busy that I don't have time to party may be healthier for me. I "
+"don't end up staying out all night."
+msgstr ""
+
+msgctxt "17448_Kiryu"
+msgid "And you drink less, too."
+msgstr ""
+
+msgctxt "17460_Maya"
+msgid "You're right! I owe my good health to everybody who helps me do my job here."
+msgstr ""
+
+msgctxt "17472_Maya"
+msgid ""
+"Even when I walk around with a hat and sunglasses, my fans can still "
+"recognize me."
+msgstr ""
+
+msgctxt "17484_Kiryu"
+msgid "Well, you do stand out. After all, you keep getting stopped by the police."
+msgstr ""
+
+msgctxt "17496_Maya"
+msgid "Hahaha! I don't mind when I get stopped by a fan, though!"
+msgstr ""
+
+msgctxt "17508_Kiryu"
+msgid "That's too bad."
+msgstr ""
+
+msgctxt "17520_Kiryu"
+msgid "You did that for your boyfriend? Wow."
+msgstr ""
+
+msgctxt "17532_Kiryu"
+msgid "Why don't you stay for a bit longer?"
+msgstr ""
+
+msgctxt "17544_Kiryu"
+msgid "I have to agree with her."
+msgstr ""
+
+msgctxt "17556_Kiryu"
+msgid "There's nothing wrong with being devoted."
+msgstr ""
+
+msgctxt "17568_Kiryu"
+msgid "That's a tricky issue."
+msgstr ""
+
+msgctxt "17580_Kiryu"
+msgid "That's a pretty big difference."
+msgstr ""
+
+msgctxt "17592_Kiryu"
+msgid "I get stopped sometimes myself."
+msgstr ""
+
+msgctxt "17604_Kiryu"
+msgid "You could try to wear less flashy clothes."
+msgstr ""
+
+msgctxt "17616_Kiryu"
+msgid "They're fooling themselves."
+msgstr ""
+
+msgctxt "17628_Kiryu"
+msgid "Young guys don't know what manners are."
+msgstr ""
+
+msgctxt "17640_Kiryu"
+msgid "There's nothing you can do about it."
+msgstr ""
+
+msgctxt "17652_Kiryu"
+msgid "You really want to know why men cheat?"
+msgstr ""
+
+msgctxt "17664_Kiryu"
+msgid "She should leave him."
+msgstr ""
+
+msgctxt "17676_Kiryu"
+msgid "It shows that he's a real man."
+msgstr ""
+
+msgctxt "17688_Kiryu"
+msgid "They have medicine for that, you know."
+msgstr ""
+
+msgctxt "17700_Kiryu"
+msgid "Some people just can't drink."
+msgstr ""
+
+msgctxt "17712_Kiryu"
+msgid "Try drinking more slowly."
+msgstr ""
+
+msgctxt "17724_Kiryu"
+msgid "You must have a bad memory."
+msgstr ""
+
+msgctxt "17736_Kiryu"
+msgid "It is kinda rude."
+msgstr ""
+
+msgctxt "17748_Kiryu"
+msgid "You already told me about this."
+msgstr ""
+
+msgctxt "17760_Kiryu"
+msgid "You should get one when you get the chance."
+msgstr ""
+
+msgctxt "17772_Kiryu"
+msgid "You don't need a license."
+msgstr ""
+
+msgctxt "17784_Kiryu"
+msgid "Driving schools can be expensive."
+msgstr ""
+
+msgctxt "17796_Kiryu"
+msgid "See if she can send it to you again."
+msgstr ""
+
+msgctxt "17808_Kiryu"
+msgid "You used to get drunk a lot?"
+msgstr ""
+
+msgctxt "17820_Kiryu"
+msgid "A backpack?"
+msgstr ""
+
+msgctxt "17832_Kiryu"
+msgid "You go on a lot of dates then?"
+msgstr ""
+
+msgctxt "17844_Kiryu"
+msgid "Wouldn't you stand out more there?"
+msgstr ""
+
+msgctxt "17856_Kiryu"
+msgid "Maybe you can show me sometime."
+msgstr ""
+
+msgctxt "17868_Kiryu"
+msgid "That does sound terrible."
+msgstr ""
+
+msgctxt "17880_Kiryu"
+msgid "They really start that early?"
+msgstr ""
+
+msgctxt "17892_Kiryu"
+msgid "I'm surprised you don't get sick."
+msgstr ""
+
+msgctxt "17904_Kiryu"
+msgid "That's cute."
+msgstr ""
+
+msgctxt "17916_Kiryu"
+msgid "Maybe those lovey-dovey couples do."
+msgstr ""
+
+msgctxt "17928_Kiryu"
+msgid "Is it really necessary to say it?"
+msgstr ""
+
+msgctxt "17940_Kiryu"
+msgid "Don't tell me you like this guy."
+msgstr ""
+
+msgctxt "17952_Kiryu"
+msgid "So you went out with him? Just like that?"
+msgstr ""
+
+msgctxt "17964_Kiryu"
+msgid "Sounds like the cops know your face now."
+msgstr ""
+
+msgctxt "17976_Kiryu"
+msgid "You don't want to quit, do you?"
+msgstr ""
+
+msgctxt "17988_Kiryu"
+msgid "You should follow your heart."
+msgstr ""
+
+msgctxt "18000_Kiryu"
+msgid "You can't quit."
+msgstr ""
+
+msgctxt "18012_Kiryu"
+msgid "What counts as cheating?"
+msgstr ""
+
+msgctxt "18024_Kiryu"
+msgid "Now you're just being silly."
+msgstr ""
+
+msgctxt "18036_Kiryu"
+msgid "Do I look like the kind of man who'd cheat?"
+msgstr ""
+
+msgctxt "18048_Kiryu"
+msgid "What if you don't like the guy?"
+msgstr ""
+
+msgctxt "18060_Kiryu"
+msgid "You can't just sit back and wait for it."
+msgstr ""
+
+msgctxt "18072_Kiryu"
+msgid "Haven't you ever told someone yourself?"
+msgstr ""
+
+msgctxt "18084_Kiryu"
+msgid "You look like you don't have any worries."
+msgstr ""
+
+msgctxt "18096_Kiryu"
+msgid "It's annoying when people jump to conclusions."
+msgstr ""
+
+msgctxt "18108_Kiryu"
+msgid "Do you have a hard time hiding your feelings?"
+msgstr ""
+
+msgctxt "18120_Kiryu"
+msgid "Maybe you were too wild as a teenager."
+msgstr ""
+
+msgctxt "18132_Kiryu"
+msgid "I bet you hang out with a different crowd, too."
+msgstr ""
+
+msgctxt "18144_Kiryu"
+msgid "That's a surprisingly sensible thing to say."
+msgstr ""
+
+msgctxt "18156_Kiryu"
+msgid "People say I'm scary, too."
+msgstr ""
+
+msgctxt "18168_Kiryu"
+msgid "That impression doesn't last long, does it?"
+msgstr ""
+
+msgctxt "18180_Kiryu"
+msgid "You've got a kind of aura about you."
+msgstr ""
+
+msgctxt "18192_Kiryu"
+msgid "A corset?"
+msgstr ""
+
+msgctxt "18204_Kiryu"
+msgid "Apparently? You don't remember it?"
+msgstr ""
+
+msgctxt "18216_Kiryu"
+msgid "Don't worry about it. Here, have a drink."
+msgstr ""
+
+msgctxt "18228_Kiryu"
+msgid "That's what I like about you."
+msgstr ""
+
+msgctxt "18240_Kiryu"
+msgid "Don't worry about that."
+msgstr ""
+
+msgctxt "18252_Kiryu"
+msgid "Education isn't always a good thing."
+msgstr ""
+
+msgctxt "18264_Kiryu"
+msgid "Aren't you working yourself a bit too hard?"
+msgstr ""
+
+msgctxt "18276_Kiryu"
+msgid "Do you fall asleep while doing your makeup?"
+msgstr ""
+
+msgctxt "18288_Kiryu"
+msgid "I'm a little disappointed."
+msgstr ""
+
+msgctxt "18300_Kiryu"
+msgid "Let me know if it gets to be a problem."
+msgstr ""
+
+msgctxt "18312_Kiryu"
+msgid "Why don't you just screen his calls?"
+msgstr ""
+
+msgctxt "18324_Kiryu"
+msgid "You shouldn't give your email to just anybody."
+msgstr ""
+
+msgctxt "18336_Kiryu"
+msgid "You could ask him to come to the club."
+msgstr ""
+
+msgctxt "18348_Kiryu"
+msgid "You could say you've already got a boyfriend."
+msgstr ""
+
+msgctxt "18360_Kiryu"
+msgid "You could ask him how much money he has."
+msgstr ""
+
+msgctxt "18372_Kiryu"
+msgid "But you see me when I come to the club."
+msgstr ""
+
+msgctxt "18384_Kiryu"
+msgid "You'd quit your job for me?"
+msgstr ""
+
+msgctxt "18396_Kiryu"
+msgid "I actually live in Okinawa."
+msgstr ""
+
+msgctxt "18408_Kiryu"
+msgid "Sounds like a good idea to me."
+msgstr ""
+
+msgctxt "18420_Kiryu"
+msgid "I don't think you should get involved."
+msgstr ""
+
+msgctxt "18432_Kiryu"
+msgid "There are no right or wrong answers in love."
+msgstr ""
+
+msgctxt "18444_Kiryu"
+msgid "It'll be all right."
+msgstr ""
+
+msgctxt "18456_Kiryu"
+msgid "That depends on us."
+msgstr ""
+
+msgctxt "18468_Kiryu"
+msgid "It could be time for us to move on."
+msgstr ""
+
+msgctxt "18480_Kiryu"
+msgid "How could something like that happen?"
+msgstr ""
+
+msgctxt "18492_Kiryu"
+msgid "Why didn't your family wake you up?"
+msgstr ""
+
+msgctxt "18504_Kiryu"
+msgid "Are you sure you weren't in a coma?"
+msgstr ""
+
+msgctxt "18516_Kiryu"
+msgid "You don't need to worry about that."
+msgstr ""
+
+msgctxt "18528_Kiryu"
+msgid "Like how men do weight training?"
+msgstr ""
+
+msgctxt "18540_Kiryu"
+msgid "Actually, you could stand to gain some weight."
+msgstr ""
+
+msgctxt "18552_Kiryu"
+msgid "Is that such a good idea?"
+msgstr ""
+
+msgctxt "18564_Kiryu"
+msgid "You're just shutting out the outside world."
+msgstr ""
+
+msgctxt "18576_Kiryu"
+msgid "You've really grown."
+msgstr ""
+
+msgctxt "18588_Kiryu"
+msgid "You don't get it, do you?"
+msgstr ""
+
+msgctxt "18600_Kiryu"
+msgid "Yeah, I don't like it much myself."
+msgstr ""
+
+msgctxt "18612_Kiryu"
+msgid "Have you even tried it?"
+msgstr ""
+
+msgctxt "18624_Kiryu"
+msgid "Are you sure you remember it?"
+msgstr ""
+
+msgctxt "18636_Kiryu"
+msgid "We should go out again."
+msgstr ""
+
+msgctxt "18648_Kiryu"
+msgid "I love you."
+msgstr ""
+
+msgctxt "18660_Kiryu"
+msgid "Nothing"
+msgstr ""
+
+msgctxt "18672_Kiryu"
+msgid "777 Town"
+msgstr ""
+
+msgctxt "18684_Kiryu"
+msgid "Amoebatar"
+msgstr ""
+
+msgctxt "18696_Kiryu"
+msgid "The Ghost in the Underground Mall"
+msgstr ""
+
+msgctxt "18708_Kiryu"
+msgid "The Footbaths at Yunosono Hot Springs"
+msgstr ""
+
+msgctxt "18720_Kiryu"
+msgid "Popular Golf Dates Among Women"
+msgstr ""
+
+msgctxt "18732_Kiryu"
+msgid "Eating Liver to Reverse Brain Aging"
+msgstr ""
+
+msgctxt "18744_Kiryu"
+msgid "The Pole Dancing Workout"
+msgstr ""
+
+msgctxt "18756_Kiryu"
+msgid "Popular Sweet Sake Among Women"
+msgstr ""
+
+msgctxt "18768_Kiryu"
+msgid "Sure."
+msgstr ""
+
+msgctxt "18780_Kiryu"
+msgid "No."
+msgstr ""
+
+msgctxt "18792_Kiryu"
+msgid "Go ahead."
+msgstr ""
+
+msgctxt "18804_Kiryu"
+msgid "No."
+msgstr ""

@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid "Look at the flyer?"
+msgstr ""
+
+msgctxt "1372"
+msgid "Player"
+msgstr ""
+
+msgctxt "1376"
+msgid "2d_cf_zasshi_mobage3"
+msgstr ""
+
+msgctxt "1380"
+msgid "2d_cf_zasshi_mobage3qr"
+msgstr ""
+
+msgctxt "100_Player"
+msgid "(It's a flyer for Hanage Park.)"
+msgstr ""
+
+msgctxt "136_Player"
+msgid ""
+"(\"Come one, come all, to Hanage Park! Play addictive games and dress up "
+"your own 3D avatars! Join the sensation that's sweeping the nation!\")"
+msgstr ""
+
+msgctxt "172_Player"
+msgid ""
+"(\"Scan this QA code for a special tattoo for your 3D avatar in Hanage "
+"Park!\")"
+msgstr ""
+
+msgctxt "196_Player"
+msgid "(Not right now...)"
+msgstr ""
+
+msgctxt "208_Player"
+msgid "Read It"
+msgstr ""
+
+msgctxt "220_Player"
+msgid "Not Now"
+msgstr ""

@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "210\tNAME"
+msgid "Kamurocho Aqua Devils"
+msgstr ""
+
+msgctxt "234\tNAME"
+msgid "Kamuro Phoenix"
+msgstr ""
+
+msgctxt "251\tNAME"
+msgid "Kanto Gangsters"
+msgstr ""
+
+msgctxt "269\tNAME"
+msgid "Slumdogs"
+msgstr ""
+
+msgctxt "280\tNAME"
+msgid "Black Nightmare"
+msgstr ""
+
+msgctxt "298\tNAME"
+msgid "Purple Killers"
+msgstr ""
+
+msgctxt "315\tNAME"
+msgid "The Dark Clan"
+msgstr ""
+
+msgctxt "441\tEXPLANATION"
+msgid "The Kamurocho Aqua Devils are looking for you."
+msgstr ""
+
+msgctxt "488\tEXPLANATION"
+msgid "You defeated the boss of the Kamurocho Aqua Devils."
+msgstr ""
+
+msgctxt "540\tEXPLANATION"
+msgid "Kamuro Phoenix are looking for you."
+msgstr ""
+
+msgctxt "576\tEXPLANATION"
+msgid "You defeated the boss of Kamuro Phoenix."
+msgstr ""
+
+msgctxt "617\tEXPLANATION"
+msgid "The Kanto Gangsters are looking for you."
+msgstr ""
+
+msgctxt "658\tEXPLANATION"
+msgid "You defeated the boss of the Kanto Gangsters."
+msgstr ""
+
+msgctxt "704\tEXPLANATION"
+msgid "The Slumdogs are looking for you."
+msgstr ""
+
+msgctxt "738\tEXPLANATION"
+msgid "You defeated the boss of the Slumdogs."
+msgstr ""
+
+msgctxt "777\tEXPLANATION"
+msgid "Black Nightmare are looking for you."
+msgstr ""
+
+msgctxt "814\tEXPLANATION"
+msgid "You defeated the boss of Black Nightmare."
+msgstr ""
+
+msgctxt "856\tEXPLANATION"
+msgid "The Purple Killers are looking for you."
+msgstr ""
+
+msgctxt "896\tEXPLANATION"
+msgid "You defeated the boss of the Purple Killers."
+msgstr ""
+
+msgctxt "941\tEXPLANATION"
+msgid "The Dark Clan are looking for you."
+msgstr ""
+
+msgctxt "976\tEXPLANATION"
+msgid "You defeated the boss of the Dark Clan."
+msgstr ""

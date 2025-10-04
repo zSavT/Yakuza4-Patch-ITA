@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "8372"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "8376"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "8380"
+msgid "Saigo"
+msgstr ""
+
+msgctxt "8384"
+msgid "P_stand_tlk_udekumi_yes"
+msgstr ""
+
+msgctxt "8388"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "8392"
+msgid "P_stand_tlk_udekumi_ed"
+msgstr ""
+
+msgctxt "8396"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "8400"
+msgid "Cocky Punk"
+msgstr ""
+
+msgctxt "8404"
+msgid "M_ykz_damage_tlk_no"
+msgstr ""
+
+msgctxt "8408"
+msgid "Sleazy Punk"
+msgstr ""
+
+msgctxt "8412"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8416"
+msgid "P_stand_tlk_udekumi_lp"
+msgstr ""
+
+msgctxt "8420"
+msgid "Voice"
+msgstr ""
+
+msgctxt "8424"
+msgid "Well-built Man"
+msgstr ""
+
+msgctxt "8428"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "8432"
+msgid "P_stand_tlk_udekumi_no"
+msgstr ""
+
+msgctxt "8436"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "88_Akiyama"
+msgid "Whew... That good enough for you?"
+msgstr ""
+
+msgctxt "100_Saigo"
+msgid "Looks like you've got a strong set of legs. I was right about you."
+msgstr ""
+
+msgctxt "112_Akiyama"
+msgid "I'm sorry, but your praise is less than flattering. Can I go now?"
+msgstr ""
+
+msgctxt "124_Saigo"
+msgid "Wait! I have to talk to you about something. Let's head to the roof."
+msgstr ""
+
+msgctxt "136_Akiyama"
+msgid "The roof? Could you just act normal for one second?"
+msgstr ""
+
+msgctxt "184_Cocky Punk"
+msgid "Dammit... You're unreal, man..."
+msgstr ""
+
+msgctxt "196_Akiyama"
+msgid ""
+"And hey, turns out you were right: I'm <Italic>not</Italic> a saint. Not "
+"after painting your face with my shoe, at least. Run along now, kids."
+msgstr ""
+
+msgctxt "208_Sleazy Punk"
+msgid "Grrr... This ain't the last you heard of us!"
+msgstr ""
+
+msgctxt "220_Akiyama"
+msgid "Well, now that's taken care of... Are you okay, miss?"
+msgstr ""
+
+msgctxt "244_Akiyama"
+msgid "Oh. Guess she ran off."
+msgstr ""
+
+msgctxt "256_Akiyama"
+msgid "Can't say I'm surprised, though."
+msgstr ""
+
+msgctxt "268_Voice"
+msgid "You there. Got a minute?"
+msgstr ""
+
+msgctxt "292_Akiyama"
+msgid "Depends. What do you need?"
+msgstr ""
+
+msgctxt "304_Well-built Man"
+msgid ""
+"Well, I was observing your scuffle there, and I can see your physical "
+"potential is through the roof."
+msgstr ""
+
+msgctxt "316_Well-built Man"
+msgid "Did you used to play any sports?"
+msgstr ""
+
+msgctxt "328_Akiyama"
+msgid ""
+"Uh, not really. Pretty sure the last time I kicked a ball around was in "
+"middle school."
+msgstr ""
+
+msgctxt "340_Well-built Man"
+msgid "So then it's just natural talent. Understood."
+msgstr ""
+
+msgctxt "352_Well-built Man"
+msgid "My name is Saigo. I run an operation in this general area."
+msgstr ""
+
+msgctxt "364_Akiyama"
+msgid "What kind of operation?"
+msgstr ""
+
+msgctxt "376_Saigo"
+msgid "I'm glad you ask. Do you know about the looming crisis Japan faces?"
+msgstr ""
+
+msgctxt "388_Akiyama"
+msgid "Crisis? What crisis?"
+msgstr ""
+
+msgctxt "400_Saigo"
+msgid ""
+"Put frankly, \"peace addiction.\" Nowadays, all people in Japan can think "
+"about is peace."
+msgstr ""
+
+msgctxt "412_Akiyama"
+msgid "...Uh-huh."
+msgstr ""
+
+msgctxt "424_Saigo"
+msgid ""
+"In my youth, I fought as a mercenary, mostly in the Middle East. I've seen "
+"many breathe their last, friend and foe alike."
+msgstr ""
+
+msgctxt "436_Saigo"
+msgid ""
+"It was then I realized an astounding truth. In this world, anything can "
+"happen. Anytime. Anywhere."
+msgstr ""
+
+msgctxt "448_Akiyama"
+msgid ""
+"Oh, I get it now. You're a soldier. That explains the stocky build, the "
+"fatigues, and the bald head."
+msgstr ""
+
+msgctxt "460_Saigo"
+msgid ""
+"Someone as strong as yourself must realize how everyone in this city is "
+"putting themselves at risk, every moment of the day. They're too vulnerable."
+msgstr ""
+
+msgctxt "472_Akiyama"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "484_Saigo"
+msgid "Same goes for you. You're not as clever as you think."
+msgstr ""
+
+msgctxt "496_Akiyama"
+msgid "Huh? What are you talking about?"
+msgstr ""
+
+msgctxt "520_Akiyama"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "532_Akiyama"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "544_Akiyama"
+msgid "Those are the keys to my office! Give those back!"
+msgstr ""
+
+msgctxt "556_Saigo"
+msgid ""
+"Hahaha! You may be a good fighter, but your senses are as dull as a "
+"doorknob."
+msgstr ""
+
+msgctxt "568_Akiyama"
+msgid "Did you set that up? Cut me some slack here, man! We just met!"
+msgstr ""
+
+msgctxt "580_Saigo"
+msgid ""
+"A strong individual like you should have no problem chasing him down. But "
+"you better get going! Who knows what'll happen if you let him get away!"
+msgstr ""
+
+msgctxt "592_Akiyama"
+msgid "Yeah, thanks for the advice. Ugh, here we go again..."
+msgstr ""

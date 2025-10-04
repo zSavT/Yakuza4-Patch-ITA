@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "13200"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13204"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "13208"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "13212"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13216"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13220"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13224"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "13228"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13232"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "68_Kiryu"
+msgid ""
+"So let me get this straight. Someone on the boat you were working on "
+"mentioned me, and told you to look for me if you ever needed help."
+msgstr ""
+
+msgctxt "80_Saejima"
+msgid "Mhm."
+msgstr ""
+
+msgctxt "92_Kiryu"
+msgid ""
+"But then your ship sank and the rest of the crew drowned, while you "
+"narrowly managed to swim to shore."
+msgstr ""
+
+msgctxt "104_Saejima"
+msgid "...Yup."
+msgstr ""
+
+msgctxt "116_Kiryu"
+msgid "Interesting."
+msgstr ""
+
+msgctxt "140_Saejima"
+msgid ""
+"Listen, Kiryu-san. I know it's weird, but ya gotta help me. I need to get "
+"back to Kamurocho, no matter what."
+msgstr ""
+
+msgctxt "152_Saejima"
+msgid ""
+"I'm not askin' for a hundred grand or nothing. Just enough to get me up to "
+"Tokyo."
+msgstr ""
+
+msgctxt "164_Saejima"
+msgid ""
+"And don't worry, I'll pay ya back. Just as soon as I take care o' business "
+"and scrape some cash together, I swear."
+msgstr ""
+
+msgctxt "176_Saejima"
+msgid "So please. Please, loan me the money!"
+msgstr ""
+
+msgctxt "188_Kiryu"
+msgid "Suzuki-san."
+msgstr ""
+
+msgctxt "200_Saejima"
+msgid "What's up?"
+msgstr ""
+
+msgctxt "212_Kiryu"
+msgid "How long were you in for?"
+msgstr ""
+
+msgctxt "224_Saejima"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "236_Kiryu"
+msgid "How many years did you spend in prison?"
+msgstr ""
+
+msgctxt "248_Saejima"
+msgid "Wh-What're ya talkin' about?"
+msgstr ""
+
+msgctxt "260_Kiryu"
+msgid "Listen. I know you weren't out on a boat."
+msgstr ""
+
+msgctxt "272_Kiryu"
+msgid ""
+"I went into town when you were asleep and asked the coast guard if there "
+"were any accidents last night."
+msgstr ""
+
+msgctxt "284_Kiryu"
+msgid ""
+"It turns out, last night was one of the calmest they've had in months. Not "
+"a cloud in sight. And definitely not shipwreck weather."
+msgstr ""
+
+msgctxt "296_Saejima"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "308_Kiryu"
+msgid "Besides, what do you think it costs to get to Tokyo from Okinawa nowadays?"
+msgstr ""
+
+msgctxt "320_Saejima"
+msgid "I dunno, can't cost more than what... 30 grand?"
+msgstr ""
+
+msgctxt "332_Kiryu"
+msgid ""
+"That won't get you anything beyond the plane ticket. What about "
+"transportation to the airport? Or once you get up to Tokyo?"
+msgstr ""
+
+msgctxt "344_Kiryu"
+msgid "Do you know how much a taxi ride would cost you?"
+msgstr ""
+
+msgctxt "356_Saejima"
+msgid "Well..."
+msgstr ""
+
+msgctxt "368_Kiryu"
+msgid ""
+"You don't need to pretend. I know you don't know. You've been locked up for "
+"years, haven't you?"
+msgstr ""
+
+msgctxt "380_Saejima"
+msgid "...How'd ya figure it out?"
+msgstr ""
+
+msgctxt "392_Kiryu"
+msgid "It wasn't a tough conclusion to reach. I mean, look at you."
+msgstr ""
+
+msgctxt "404_Saejima"
+msgid ""
+"So what, ya thought somethin' was off, then went n' pieced all that "
+"together?"
+msgstr ""
+
+msgctxt "416_Kiryu"
+msgid "...It was because of Haruka."
+msgstr ""
+
+msgctxt "428_Saejima"
+msgid "Haruka?"
+msgstr ""
+
+msgctxt "440_Saejima"
+msgid "Oh. Ya mean what happened this afternoon."
+msgstr ""
+
+msgctxt "452_Kiryu"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "464_Saejima"
+msgid "You, uh... Ya saw that, huh?"
+msgstr ""
+
+msgctxt "476_Kiryu"
+msgid ""
+"Those were the eyes of someone who hasn't seen a woman in a long time. "
+"Hasn't been a part of everyday society."
+msgstr ""
+
+msgctxt "488_Kiryu"
+msgid ""
+"I know the feeling. The hopelessness you sink into behind bars. How "
+"difficult it can be to readjust once you're out. I was in for a long "
+"stretch, myself."
+msgstr ""
+
+msgctxt "500_Saejima"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "512_Kiryu"
+msgid "I spent a decade alone in a dark cell. Honestly, I'm lucky it wasn't longer."
+msgstr ""
+
+msgctxt "524_Saejima"
+msgid "Lucky, at 10 years? Must'a been in for murder."
+msgstr ""
+
+msgctxt "536_Kiryu"
+msgid ""
+"I'm guessing your sentence was longer... Or should I say, "
+"<Italic>is</Italic> longer?"
+msgstr ""
+
+msgctxt "548_Kiryu"
+msgid "Well?"
+msgstr ""
+
+msgctxt "560_Saejima"
+msgid "Rgh..."
+msgstr ""
+
+msgctxt "572_Kiryu"
+msgid "I won't tell you what to do, but here's some advice."
+msgstr ""
+
+msgctxt "584_Kiryu"
+msgid "You should turn yourself into the police before they catch you themselves."
+msgstr ""
+
+msgctxt "596_Saejima"
+msgid "But..."
+msgstr ""
+
+msgctxt "608_Kiryu"
+msgid ""
+"They might go easy on you if you go peacefully. Before the media catches "
+"wind of your story."
+msgstr ""
+
+msgctxt "620_Saejima"
+msgid "Hrm..."
+msgstr ""
+
+msgctxt "632_Kiryu"
+msgid ""
+"So, what do you think? If that's what you want to do, I'd be glad to lend "
+"you a hand."
+msgstr ""
+
+msgctxt "644_Saejima"
+msgid "Heh. Hehe... Ahahahaha!"
+msgstr ""
+
+msgctxt "656_Kiryu"
+msgid "What's so funny?"
+msgstr ""
+
+msgctxt "668_Saejima"
+msgid ""
+"Don't ya get it? There ain't no goin' back for me. They'd execute me on "
+"sight!"
+msgstr ""
+
+msgctxt "680_Kiryu"
+msgid "...So you're on death row."
+msgstr ""
+
+msgctxt "692_Saejima"
+msgid "Ya call 10 years hard time? Talk to me when ya done 25!"
+msgstr ""
+
+msgctxt "704_Saejima"
+msgid ""
+"All that matters to me now is gettin' back to Kamurocho, and I'm gonna do "
+"whatever it takes to make sure it happens."
+msgstr ""
+
+msgctxt "716_Saejima"
+msgid "This ain't about gettin' a fresh start. Never has been."
+msgstr ""
+
+msgctxt "728_Saejima"
+msgid "All I'm hopin' to do is find the truth."
+msgstr ""
+
+msgctxt "740_Saejima"
+msgid ""
+"That, and make those bastards taste the pain I been dealin' with these 25 "
+"years."
+msgstr ""
+
+msgctxt "752_Saejima"
+msgid "Don't ya get it? I gotta avenge my boss, even if it kills me!"
+msgstr ""
+
+msgctxt "764_Kiryu"
+msgid "Revenge, huh..."
+msgstr ""
+
+msgctxt "776_Saejima"
+msgid "Kiryu-san. I'm real grateful for all ya done for me. You n' the little lady."
+msgstr ""
+
+msgctxt "788_Saejima"
+msgid "But I can't stick around. Ya know too much about me now."
+msgstr ""
+
+msgctxt "800_Saejima"
+msgid "So please. Just gimme some money before this gets ugly."
+msgstr ""
+
+msgctxt "812_Kiryu"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "824_Saejima"
+msgid "I'm beggin' ya, Kiryu-san!"
+msgstr ""

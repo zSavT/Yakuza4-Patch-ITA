@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1604"
+msgid "Man"
+msgstr ""
+
+msgctxt "1608"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1612"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1616"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1620"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid ""
+"Hey, I'm glad to see you're out having a good time and all, but if you bump "
+"into someone, the least you could do is apologize!"
+msgstr ""
+
+msgctxt "128_Man"
+msgid ""
+"Eh? Spacing out on me, huh? Think I'll go ahead and smack the drunk right "
+"outta you!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid ""
+"I'm sorry! Don't hurt me! I was just picking a fight for the hell of it, "
+"that's all."
+msgstr ""
+
+msgctxt "164_Man"
+msgid "Didn't mean to ruin the good buzz you had going on. Please forgive me."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a consolation %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "You're crazy strong for being drunk. I just don't get it."
+msgstr ""

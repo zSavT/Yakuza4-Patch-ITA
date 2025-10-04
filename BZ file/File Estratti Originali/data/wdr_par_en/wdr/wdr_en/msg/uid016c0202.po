@@ -1,0 +1,694 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "32644"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "32648"
+msgid "Rio"
+msgstr ""
+
+msgctxt "32652"
+msgid "Player"
+msgstr ""
+
+msgctxt "32656"
+msgid "Talk_Phone_ed"
+msgstr ""
+
+msgctxt "32660"
+msgid "dummy"
+msgstr ""
+
+msgctxt "32664"
+msgid "Shizuka"
+msgstr ""
+
+msgctxt "32668"
+msgid "Himeka"
+msgstr ""
+
+msgctxt "32672"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "32676"
+msgid "Maya"
+msgstr ""
+
+msgctxt "32680"
+msgid "Noa"
+msgstr ""
+
+msgctxt "32684"
+msgid "Erena"
+msgstr ""
+
+msgctxt "32688"
+msgid "Chihiro"
+msgstr ""
+
+msgctxt "32692"
+msgid "峰村七海：源氏名"
+msgstr ""
+
+msgctxt "32696"
+msgid "松岡里緒奈：源氏名"
+msgstr ""
+
+msgctxt "32700"
+msgid "望月京子：源氏名"
+msgstr ""
+
+msgctxt "396_Rio"
+msgid "Hello? It's Rio, from Shine."
+msgstr ""
+
+msgctxt "408_Player"
+msgid "Oh, hi, Rio. How're you doing?"
+msgstr ""
+
+msgctxt "420_Rio"
+msgid ""
+"I was just thinking about you... Was wondering if you'd like to go out on a "
+"date?"
+msgstr ""
+
+msgctxt "432_Player"
+msgid "Sure."
+msgstr ""
+
+msgctxt "444_Rio"
+msgid "Great! I'll meet you in front of the Millennium Tower."
+msgstr ""
+
+msgctxt "456_Player"
+msgid "In front of the Millennium Tower. Got it."
+msgstr ""
+
+msgctxt "468_Rio"
+msgid "Yup. Okay, see you later. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "564_Rio"
+msgid "Hello? It's me, Rio."
+msgstr ""
+
+msgctxt "576_Player"
+msgid "Hi, Rio. What's up?"
+msgstr ""
+
+msgctxt "588_Rio"
+msgid ""
+"Are you coming to the club today? I was thinking, maybe we could meet up "
+"beforehand and head over together!"
+msgstr ""
+
+msgctxt "600_Player"
+msgid "How could I say no?"
+msgstr ""
+
+msgctxt "612_Rio"
+msgid "Great! I'll wait for you in front of the Millennium Tower."
+msgstr ""
+
+msgctxt "624_Player"
+msgid "In front of the Millennium Tower. Got it."
+msgstr ""
+
+msgctxt "636_Rio"
+msgid "Okay, I'll be waiting. Don't be late!"
+msgstr ""
+
+msgctxt "732_Shizuka"
+msgid "Hello? This is Shizuka from Shine."
+msgstr ""
+
+msgctxt "744_Player"
+msgid "Oh, hey. How's it going?"
+msgstr ""
+
+msgctxt "756_Shizuka"
+msgid "I was wondering if you wanted to go out with me? Sometime today, if you can?"
+msgstr ""
+
+msgctxt "768_Player"
+msgid "Sure, sounds good."
+msgstr ""
+
+msgctxt "780_Shizuka"
+msgid "Great! I'll meet you in front of the lockers on Taihei Boulevard."
+msgstr ""
+
+msgctxt "792_Player"
+msgid "In front of the lockers on Taihei Boulevard. Got it."
+msgstr ""
+
+msgctxt "804_Shizuka"
+msgid "Okay! I'm looking forward to it!"
+msgstr ""
+
+msgctxt "900_Shizuka"
+msgid "This is Shizuka. Are you free right now?"
+msgstr ""
+
+msgctxt "912_Player"
+msgid "Sure, what's up?"
+msgstr ""
+
+msgctxt "924_Shizuka"
+msgid ""
+"You don't have to if you don't want to, but... would you be interested in "
+"hanging out with me sometime today?"
+msgstr ""
+
+msgctxt "936_Player"
+msgid "Sure, sounds good."
+msgstr ""
+
+msgctxt "948_Shizuka"
+msgid "I'll be in front of the lockers on Taihei Boulevard. Does that work for you?"
+msgstr ""
+
+msgctxt "960_Player"
+msgid "In front of the lockers on Taihei Boulevard. Got it."
+msgstr ""
+
+msgctxt "972_Shizuka"
+msgid "Great! I'll be waiting!"
+msgstr ""
+
+msgctxt "1068_Himeka"
+msgid "Hello? It's Himeka from Shine."
+msgstr ""
+
+msgctxt "1080_Tanimura"
+msgid "Nice to hear from you, Himeka. What's up?"
+msgstr ""
+
+msgctxt "1092_Himeka"
+msgid "Um... Would you like to go out with me today?"
+msgstr ""
+
+msgctxt "1104_Tanimura"
+msgid "You mean on a date?"
+msgstr ""
+
+msgctxt "1116_Himeka"
+msgid "Yeah! I want to learn a little bit more about you."
+msgstr ""
+
+msgctxt "1128_Himeka"
+msgid "Is that cool?"
+msgstr ""
+
+msgctxt "1140_Tanimura"
+msgid "Of course. Where should we meet?"
+msgstr ""
+
+msgctxt "1152_Himeka"
+msgid "I'll wait for you in front of the Millennium Tower."
+msgstr ""
+
+msgctxt "1164_Tanimura"
+msgid "Got it. I'll be there soon."
+msgstr ""
+
+msgctxt "1176_Himeka"
+msgid "Really? Okay, I'll leave right away!"
+msgstr ""
+
+msgctxt "1272_Himeka"
+msgid "Hello? It's me, Himeka. Hi! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1284_Tanimura"
+msgid "Hey. How's it going?"
+msgstr ""
+
+msgctxt "1296_Himeka"
+msgid "If you're free, wanna hang out for a bit?"
+msgstr ""
+
+msgctxt "1308_Tanimura"
+msgid "Right now? That's a bit out of the blue."
+msgstr ""
+
+msgctxt "1320_Himeka"
+msgid ""
+"I feel like someone's following me around. I know it sounds silly, but... "
+"I'm kind of scared to be alone right now."
+msgstr ""
+
+msgctxt "1332_Tanimura"
+msgid "Damn..."
+msgstr ""
+
+msgctxt "1344_Himeka"
+msgid "Besides, I wanna see you again!"
+msgstr ""
+
+msgctxt "1356_Tanimura"
+msgid "Heh. Well, there's nothing wrong with that."
+msgstr ""
+
+msgctxt "1368_Himeka"
+msgid "Meet me in front of the Millennium Tower. Sound good?"
+msgstr ""
+
+msgctxt "1380_Tanimura"
+msgid "Same place as before? Okay. I'll be there soon."
+msgstr ""
+
+msgctxt "1392_Himeka"
+msgid "Yay! Don't keep me waiting!"
+msgstr ""
+
+msgctxt "1488_Maya"
+msgid "Hello? This is Maya from Jewel."
+msgstr ""
+
+msgctxt "1500_Player"
+msgid "Hi. What's up?"
+msgstr ""
+
+msgctxt "1512_Maya"
+msgid ""
+"I'm free tonight, and I'm hoping you might be, too. Would you like to go "
+"out on a date?"
+msgstr ""
+
+msgctxt "1524_Player"
+msgid "Sure, sounds good."
+msgstr ""
+
+msgctxt "1536_Maya"
+msgid "Really!? Great, I'll meet you in Theater Square."
+msgstr ""
+
+msgctxt "1548_Player"
+msgid "Got it."
+msgstr ""
+
+msgctxt "1560_Maya"
+msgid "You better come! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1656_Maya"
+msgid "Hello? It's me, Maya."
+msgstr ""
+
+msgctxt "1668_Player"
+msgid "Oh, hey. How's it going?"
+msgstr ""
+
+msgctxt "1680_Maya"
+msgid "I wanted to see you... Would you like to spend some time with me today?"
+msgstr ""
+
+msgctxt "1692_Player"
+msgid "Sure, sounds good."
+msgstr ""
+
+msgctxt "1704_Maya"
+msgid "Yay! Shall we meet in Theater Square again?"
+msgstr ""
+
+msgctxt "1716_Player"
+msgid "All right."
+msgstr ""
+
+msgctxt "1728_Maya"
+msgid ""
+"It's a date, then. I'll see you soon! You better come! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1824_Noa"
+msgid "Hello? This is Noa from Jewel."
+msgstr ""
+
+msgctxt "1836_Player"
+msgid "Oh, hi, Noa. What's up?"
+msgstr ""
+
+msgctxt "1848_Noa"
+msgid "Um... I was thinking... Would you like to meet up today?"
+msgstr ""
+
+msgctxt "1860_Player"
+msgid "Sure."
+msgstr ""
+
+msgctxt "1872_Noa"
+msgid "Can we meet up in Theater Square?"
+msgstr ""
+
+msgctxt "1884_Player"
+msgid "Theater Square. Got it."
+msgstr ""
+
+msgctxt "1896_Noa"
+msgid "I'll be waiting for you! Don't take too long."
+msgstr ""
+
+msgctxt "1992_Noa"
+msgid "Hello? This is Noa."
+msgstr ""
+
+msgctxt "2004_Player"
+msgid "Oh, hi, Noa. What's up?"
+msgstr ""
+
+msgctxt "2016_Noa"
+msgid "I've been thinking about you. Do you have some time today to hang out?"
+msgstr ""
+
+msgctxt "2028_Player"
+msgid "Sure. Sounds good."
+msgstr ""
+
+msgctxt "2040_Noa"
+msgid "Okay. How about we meet in Theater Square, like we did before?"
+msgstr ""
+
+msgctxt "2052_Player"
+msgid "Theater Square. I'll be there."
+msgstr ""
+
+msgctxt "2064_Noa"
+msgid "Thanks! I'm looking forward to seeing you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "2160_Erena"
+msgid "Hello? It's me, Erena."
+msgstr ""
+
+msgctxt "2172_Player"
+msgid "Oh, hi, Erena. What's up?"
+msgstr ""
+
+msgctxt "2184_Erena"
+msgid "Wanna go out on a date with me today?"
+msgstr ""
+
+msgctxt "2196_Player"
+msgid "Sure."
+msgstr ""
+
+msgctxt "2208_Erena"
+msgid "Okay. I'll meet you in Theater Square."
+msgstr ""
+
+msgctxt "2220_Player"
+msgid "Sounds good, I'll see you there."
+msgstr ""
+
+msgctxt "2232_Erena"
+msgid "See you there. Don't forget about me!"
+msgstr ""
+
+msgctxt "2328_Erena"
+msgid "Hello? This is Erena from Jewel."
+msgstr ""
+
+msgctxt "2340_Player"
+msgid "Oh, hi, Erena. What's up?"
+msgstr ""
+
+msgctxt "2352_Erena"
+msgid "I'm sooo bored. Wanna change that by going out with me today?"
+msgstr ""
+
+msgctxt "2364_Player"
+msgid "Hmm... Sure, I'd love to."
+msgstr ""
+
+msgctxt "2376_Erena"
+msgid "Great! Wanna meet in Theater Square, like last time?"
+msgstr ""
+
+msgctxt "2388_Player"
+msgid "Theater Square. Got it."
+msgstr ""
+
+msgctxt "2400_Erena"
+msgid "Heh, you better show up! I'll be waiting."
+msgstr ""
+
+msgctxt "2496_Chihiro"
+msgid "Hello? This is Chihiro from Jewel."
+msgstr ""
+
+msgctxt "2508_Player"
+msgid "Oh, hi. What's up?"
+msgstr ""
+
+msgctxt "2520_Chihiro"
+msgid ""
+"I don't have any classes tomorrow, so I'm free right now. Do you wanna go "
+"out with me?"
+msgstr ""
+
+msgctxt "2532_Player"
+msgid "You mean on a date?"
+msgstr ""
+
+msgctxt "2544_Chihiro"
+msgid "Yes! You'll go out with me, right?"
+msgstr ""
+
+msgctxt "2556_Player"
+msgid "Hey, I never said yes."
+msgstr ""
+
+msgctxt "2568_Chihiro"
+msgid "Luckily, you don't have to! I'll meet you in Theater Square, okay?"
+msgstr ""
+
+msgctxt "2580_Player"
+msgid "Theater Square. Okay."
+msgstr ""
+
+msgctxt "2592_Chihiro"
+msgid "I'm leaving right now, so don't take too long!"
+msgstr ""
+
+msgctxt "2688_Chihiro"
+msgid "Hello? It's me, Chihiro."
+msgstr ""
+
+msgctxt "2700_Player"
+msgid "Oh, hey. How's it going?"
+msgstr ""
+
+msgctxt "2712_Chihiro"
+msgid "So I was thinking... would you like to come hang out with me before work?"
+msgstr ""
+
+msgctxt "2724_Player"
+msgid "Hmm... Sure, I'd love to."
+msgstr ""
+
+msgctxt "2736_Chihiro"
+msgid "I just had to see you... I'm all excited now."
+msgstr ""
+
+msgctxt "2748_Chihiro"
+msgid "I'll wait for you in Theater Square."
+msgstr ""
+
+msgctxt "2760_Player"
+msgid "Theater Square. Got it."
+msgstr ""
+
+msgctxt "2772_Chihiro"
+msgid "Great! Don't be late, promise?"
+msgstr ""
+
+msgctxt "2880_峰村七海：源氏名"
+msgid "Hello? This is %s from Elise."
+msgstr ""
+
+msgctxt "2892_Player"
+msgid "Oh, hi. What's up?"
+msgstr ""
+
+msgctxt "2904_峰村七海：源氏名"
+msgid "I was just wondering if you'd like to hang out with me right now?"
+msgstr ""
+
+msgctxt "2916_Player"
+msgid "Sure, sounds good."
+msgstr ""
+
+msgctxt "2928_峰村七海：源氏名"
+msgid "Okay. I'll meet you at Café Alps on Nakamichi Street. Don't be late!"
+msgstr ""
+
+msgctxt "2940_Player"
+msgid "Café Alps on Nakamichi Street. Got it."
+msgstr ""
+
+msgctxt "2952_峰村七海：源氏名"
+msgid "I'll be waiting. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "3060_峰村七海：源氏名"
+msgid "Hello? It's me, %s."
+msgstr ""
+
+msgctxt "3072_Player"
+msgid "Oh, hi. What's up?"
+msgstr ""
+
+msgctxt "3084_峰村七海：源氏名"
+msgid "Would you like to hang out before I go to the club?"
+msgstr ""
+
+msgctxt "3096_Player"
+msgid "You mean on a date?"
+msgstr ""
+
+msgctxt "3108_峰村七海：源氏名"
+msgid "Yup!"
+msgstr ""
+
+msgctxt "3120_峰村七海：源氏名"
+msgid "Why don't we meet at Café Alps on Nakamichi Street?"
+msgstr ""
+
+msgctxt "3132_Player"
+msgid "Café Alps on Nakamichi Street. Got it."
+msgstr ""
+
+msgctxt "3144_峰村七海：源氏名"
+msgid "Yay! Don't keep me waiting!"
+msgstr ""
+
+msgctxt "3252_松岡里緒奈：源氏名"
+msgid "Hello? This is %s from Elise."
+msgstr ""
+
+msgctxt "3264_Player"
+msgid "Oh, hey. How's it going?"
+msgstr ""
+
+msgctxt "3276_松岡里緒奈：源氏名"
+msgid "I'm kinda bored... Wanna hang out?"
+msgstr ""
+
+msgctxt "3288_Player"
+msgid "All right."
+msgstr ""
+
+msgctxt "3300_松岡里緒奈：源氏名"
+msgid "Okay. Let's meet at Café Alps on Nakamichi Street."
+msgstr ""
+
+msgctxt "3312_Player"
+msgid "Café Alps on Nakamichi Street. I'll be there."
+msgstr ""
+
+msgctxt "3324_松岡里緒奈：源氏名"
+msgid "Great. I'll be waiting! Bye."
+msgstr ""
+
+msgctxt "3432_松岡里緒奈：源氏名"
+msgid "Hello? It's me, %s."
+msgstr ""
+
+msgctxt "3444_Player"
+msgid "Oh, hey. How's it going?"
+msgstr ""
+
+msgctxt "3456_松岡里緒奈：源氏名"
+msgid ""
+"Are you coming to the club today? Maybe we could meet up beforehand, hang "
+"out a little bit?"
+msgstr ""
+
+msgctxt "3468_Player"
+msgid "All right."
+msgstr ""
+
+msgctxt "3480_松岡里緒奈：源氏名"
+msgid "Okay. I'll wait for you at Café Alps on Nakamichi Street."
+msgstr ""
+
+msgctxt "3492_Player"
+msgid "Café Alps on Nakamichi Street. Got it."
+msgstr ""
+
+msgctxt "3504_松岡里緒奈：源氏名"
+msgid "I haven't gone on a date like this for a while, hehe. I'll see you then!"
+msgstr ""
+
+msgctxt "3612_望月京子：源氏名"
+msgid "Hello? This is %s from Elise."
+msgstr ""
+
+msgctxt "3624_Player"
+msgid "Oh, hey. How's it going?"
+msgstr ""
+
+msgctxt "3636_望月京子：源氏名"
+msgid "I was wondering... Do you want to go on a date with me today?"
+msgstr ""
+
+msgctxt "3648_Player"
+msgid "Sure, sounds good."
+msgstr ""
+
+msgctxt "3660_望月京子：源氏名"
+msgid "Do you know Café Alps on Nakamichi Street? I'll meet you there."
+msgstr ""
+
+msgctxt "3672_Player"
+msgid "Café Alps on Nakamichi Street. Got it."
+msgstr ""
+
+msgctxt "3684_望月京子：源氏名"
+msgid "Don't be late!"
+msgstr ""
+
+msgctxt "3792_望月京子：源氏名"
+msgid "Hello? It's me, %s."
+msgstr ""
+
+msgctxt "3804_Player"
+msgid "Oh, hey. How's it going?"
+msgstr ""
+
+msgctxt "3816_望月京子：源氏名"
+msgid ""
+"Are you going to the club today? If you are, perhaps we could go on a date "
+"first?"
+msgstr ""
+
+msgctxt "3828_Player"
+msgid "Sure, sounds good."
+msgstr ""
+
+msgctxt "3840_望月京子：源氏名"
+msgid "Great! I'll wait for you at Café Alps on Nakamichi Street."
+msgstr ""
+
+msgctxt "3852_Player"
+msgid "Café Alps on Nakamichi Street. Got it."
+msgstr ""
+
+msgctxt "3864_望月京子：源氏名"
+msgid "Cool, I'll leave now! See you soon. <Color:7>♥<Color:Default>"
+msgstr ""

@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1236"
+msgid "Snake Flower Triad Member"
+msgstr ""
+
+msgctxt "1240"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "1244"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1248"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "56_Snake Flower Triad Member"
+msgid "Damn... Snake Flower Triad never loses!"
+msgstr ""
+
+msgctxt "80_Tanimura"
+msgid "Well, looks like we're done here."
+msgstr ""
+
+msgctxt "92_Tanimura"
+msgid ""
+"I have to say, I'm a little surprised. I didn't know you had dealings with "
+"the Triad."
+msgstr ""
+
+msgctxt "104_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "116_Tanimura"
+msgid "Let's go back inside. We should see how that guy is doing."
+msgstr ""
+
+msgctxt "128_Kiryu"
+msgid "All right."
+msgstr ""

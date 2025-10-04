@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2616"
+msgid "Businessman"
+msgstr ""
+
+msgctxt "2620"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2624"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2628"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2632"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2636"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "68_Businessman"
+msgid ""
+"Hm... There <Italic>was</Italic> something going on over here earlier. I "
+"could hear the shouting from all the way over on Nakamichi Street."
+msgstr ""
+
+msgctxt "80_Businessman"
+msgid ""
+"I didn't see it myself, though. Not a chance I'd be standing here now if I "
+"had!"
+msgstr ""
+
+msgctxt "92_Akiyama"
+msgid "Hey, you got a second?"
+msgstr ""
+
+msgctxt "104_Businessman"
+msgid "Er... sure. How can I help you?"
+msgstr ""
+
+msgctxt "116_Akiyama"
+msgid "Did you see a group of yakuza come by here maybe two, three hours ago?"
+msgstr ""
+
+msgctxt "128_Businessman"
+msgid "Yakuza!?"
+msgstr ""
+
+msgctxt "140_Akiyama"
+msgid ""
+"You know you're in Kamurocho, right? That shouldn't be such a surprise. Oh, "
+"and they were probably dragging someone behind them."
+msgstr ""
+
+msgctxt "152_Businessman"
+msgid ""
+"Hm... There <Italic>was</Italic> something going on over here earlier. I "
+"could hear the shouting from all the way over on Nakamichi Street."
+msgstr ""
+
+msgctxt "164_Akiyama"
+msgid "Nakamichi? So you didn't see anything, then?"
+msgstr ""
+
+msgctxt "176_Businessman"
+msgid ""
+"Oh, heavens no. If I had, I certainly wouldn't be standing here now like "
+"nothing happened. I usually turn heel and run when I see fights breaking "
+"out."
+msgstr ""
+
+msgctxt "188_Akiyama"
+msgid "Huh, okay then. Thanks anyway."
+msgstr ""

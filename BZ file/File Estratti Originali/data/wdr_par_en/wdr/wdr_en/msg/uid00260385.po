@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1024"
+msgid "Smith"
+msgstr ""
+
+msgctxt "1028"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "1032"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "1036"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "1040"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "1044"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "56_Smith"
+msgid ""
+"Wahoo! A legit Japanese hot spring! Now <Italic>this</Italic> is what I'm "
+"talkin' about!"
+msgstr ""
+
+msgctxt "68_Smith"
+msgid ""
+"Let's get naked and jump right in! Tanimura-san, you're\r\n"
+"comin' in too, right?"
+msgstr ""
+
+msgctxt "80_Tanimura"
+msgid "Er, no, I think I'll sit this one out."
+msgstr ""
+
+msgctxt "92_Smith"
+msgid "All righty, well, I'll be back!"
+msgstr ""

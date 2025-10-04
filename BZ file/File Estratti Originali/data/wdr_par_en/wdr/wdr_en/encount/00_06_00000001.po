@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "4316"
+msgid "Man"
+msgstr ""
+
+msgctxt "4320"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4324"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4328"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "4332"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "128_Man"
+msgid "Yeah, you! What do you think you're lookin' at!?"
+msgstr ""
+
+msgctxt "140_Man"
+msgid "You're a pain in the ass, you know that? I'm gonna murdalize ya!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "Hey, pops. Did you just give me a dirty look? You did, didn't you?"
+msgstr ""
+
+msgctxt "164_Man"
+msgid ""
+"You fuckin' around with me, shithead? You tryin' to make me look like some "
+"kinda loser? I'll put your sorry ass six feet under!"
+msgstr ""
+
+msgctxt "176_Man"
+msgid "Hey, old man! I saw you givin' me the stink eye!"
+msgstr ""
+
+msgctxt "188_Man"
+msgid "I'm gonna smash your face in so hard, you'll never see straight again!"
+msgstr ""
+
+msgctxt "224_Man"
+msgid "Sorry! I was wrong!"
+msgstr ""
+
+msgctxt "236_Man"
+msgid ""
+"That was a pretty dumb excuse for pickin' a fight, I admit. Here, take "
+"this. I'm real sorry."
+msgstr ""
+
+msgctxt "248_Man"
+msgid "You got a chilly %s."
+msgstr ""
+
+msgctxt "272_Man"
+msgid "Shit! I'm sorry! I'm sorry! I'm sorry! I should've known my place..."
+msgstr ""
+
+msgctxt "284_Man"
+msgid "Will you ever forgive me!? Maybe this'll help. Please have mercy!"
+msgstr ""
+
+msgctxt "296_Man"
+msgid "You got a rock-solid %s."
+msgstr ""
+
+msgctxt "320_Man"
+msgid "You're good. You're damn good. I never met anyone as good as you."
+msgstr ""
+
+msgctxt "332_Man"
+msgid "Sorry for bothering you. Here, take this."
+msgstr ""
+
+msgctxt "344_Man"
+msgid "You got a squishy %s."
+msgstr ""
+
+msgctxt "392_Man"
+msgid "P-Please don't look at me..."
+msgstr ""
+
+msgctxt "404_Man"
+msgid "Oh, no! Not again. Didn't you do enough damage already?"
+msgstr ""
+
+msgctxt "416_Man"
+msgid "What? What else could you possibly want from me? Ow, ow, ow..."
+msgstr ""

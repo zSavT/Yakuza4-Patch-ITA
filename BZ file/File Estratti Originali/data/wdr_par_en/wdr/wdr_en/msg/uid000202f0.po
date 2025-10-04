@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "4548"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "4552"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "4556"
+msgid "Beefy Thug"
+msgstr ""
+
+msgctxt "4560"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4564"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "4568"
+msgid "Kobayashi"
+msgstr ""
+
+msgctxt "4572"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4576"
+msgid "Ito"
+msgstr ""
+
+msgctxt "4580"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "4584"
+msgid "Takahashi"
+msgstr ""
+
+msgctxt "4588"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "4592"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "84_Akiyama"
+msgid "Excuse me, fellas. Mind if I have a word?"
+msgstr ""
+
+msgctxt "96_Beefy Thug"
+msgid "Huh? The hell do you want?"
+msgstr ""
+
+msgctxt "108_Akiyama"
+msgid ""
+"You wouldn't happen to be the strapping young men who paid Sky Finance a "
+"little visit earlier, would you?"
+msgstr ""
+
+msgctxt "120_Beefy Thug"
+msgid "What the? How do you know about that!?"
+msgstr ""
+
+msgctxt "144_Kobayashi"
+msgid "Yo, sorry I'm late."
+msgstr ""
+
+msgctxt "156_Kobayashi"
+msgid "Hold up. What're you doing here, Akiyama!?"
+msgstr ""
+
+msgctxt "168_Akiyama"
+msgid ""
+"Hm? Hey, didn't I kick your ass the other day? You're that guy from "
+"Kamurocho Loans... Kobayashi, was it?"
+msgstr ""
+
+msgctxt "180_Kobayashi"
+msgid "Damn right. I still owe you for that."
+msgstr ""
+
+msgctxt "192_Kobayashi"
+msgid ""
+"Funny, me and my friend here were just talking about smashing Sky Finance "
+"into the ground. But if you're here, we can cut out the middleman and just "
+"smash <Italic>you</Italic> instead!"
+msgstr ""
+
+msgctxt "204_Ito"
+msgid "Yeah! We're gonna teach you a lesson for messin' with us!"
+msgstr ""
+
+msgctxt "216_Takahashi"
+msgid ""
+"You hear that? This is the Akiyama asshole we were telling you about. Fuck "
+"him up real good!"
+msgstr ""
+
+msgctxt "228_Beefy Thug"
+msgid ""
+"Akiyama, yeah? Look, it's nothing personal, man. These guys are paying me "
+"to kick your ass, so I'm gonna have to kick your ass."
+msgstr ""
+
+msgctxt "240_Akiyama"
+msgid "*sigh* Here we go again."
+msgstr ""

@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "264"
+msgid ""
+"You exchanged the <Color:8>Cigarette<Color:Default> for the "
+"<Color:8>Stomach Medicine<Color:Default>."
+msgstr ""
+
+msgctxt "4440"
+msgid "Smoking Yakuza"
+msgstr ""
+
+msgctxt "4444"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4448"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "4452"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "4456"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4460"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "4464"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "4468"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "4472"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4476"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4480"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "4484"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "4488"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "4492"
+msgid "Talk_Tabako_lp"
+msgstr ""
+
+msgctxt "4496"
+msgid "Talk_Tabako_ed"
+msgstr ""
+
+msgctxt "84_Smoking Yakuza"
+msgid "Sure could use a smoke..."
+msgstr ""
+
+msgctxt "96_Smoking Yakuza"
+msgid ""
+"Hey, mister, got any smokes on ya? I'll gladly take one off\r\n"
+"your hands if you do!"
+msgstr ""
+
+msgctxt "108_Akiyama"
+msgid "A cigarette? Sure."
+msgstr ""
+
+msgctxt "120_Smoking Yakuza"
+msgid "Lemme bum one, would ya? I just ran out."
+msgstr ""
+
+msgctxt "132_Akiyama"
+msgid "Sorry. I have one, but I can't just let you have it."
+msgstr ""
+
+msgctxt "144_Smoking Yakuza"
+msgid "Aw, man! Why ya gotta do me like that? One lousy cigarette!?"
+msgstr ""
+
+msgctxt "156_Akiyama"
+msgid ""
+"I'm sorry, I just can't. I'd be happy to trade it for\r\n"
+"something, though. Anything."
+msgstr ""
+
+msgctxt "168_Smoking Yakuza"
+msgid "Huh? You serious? Hang on a sec. Maybe I got somethin'..."
+msgstr ""
+
+msgctxt "180_Smoking Yakuza"
+msgid "...Uh, how 'bout this?"
+msgstr ""
+
+msgctxt "192_Akiyama"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "204_Smoking Yakuza"
+msgid "Stomach medicine. Ain't too good with digestion."
+msgstr ""
+
+msgctxt "216_Akiyama"
+msgid "(Hmm. Stomach medicine...?)"
+msgstr ""
+
+msgctxt "228_Akiyama"
+msgid "All right, deal."
+msgstr ""
+
+msgctxt "240_Smoking Yakuza"
+msgid "Wow! Really? Hell yeah! Uh... you got a light?"
+msgstr ""
+
+msgctxt "252_Akiyama"
+msgid "Yeah, yeah."
+msgstr ""
+
+msgctxt "336_Smoking Yakuza"
+msgid "Ahhh! Back from the dead!"
+msgstr ""
+
+msgctxt "348_Smoking Yakuza"
+msgid ""
+"Say, mister, I hate to ask, but are you plannin' to use\r\n"
+"that? You got the runs or somethin'?"
+msgstr ""
+
+msgctxt "360_Akiyama"
+msgid ""
+"No, I'm planning on turning it into something worth, say, a\r\n"
+"million yen or so."
+msgstr ""
+
+msgctxt "372_Smoking Yakuza"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "384_Akiyama"
+msgid "Uh-oh. I'd better keep an eye on the time. See you 'round."
+msgstr ""
+
+msgctxt "396_Smoking Yakuza"
+msgid "Sheesh, what a freak..."
+msgstr ""

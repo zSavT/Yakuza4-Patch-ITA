@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "200"
+msgid "You gained 10,000 EXP.\t"
+msgstr ""
+
+msgctxt "1628"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1632"
+msgid "Erena"
+msgstr ""
+
+msgctxt "1636"
+msgid "F_sxy_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "1640"
+msgid "P_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "1644"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "1648"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1652"
+msgid "P_aki_stand"
+msgstr ""
+
+msgctxt "1656"
+msgid "0"
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid "So? Do you think you understand me now?"
+msgstr ""
+
+msgctxt "80_Erena"
+msgid "Yup... You're exactly the kind of man I thought ya'd be!"
+msgstr ""
+
+msgctxt "92_Akiyama"
+msgid "Really."
+msgstr ""
+
+msgctxt "104_Erena"
+msgid ""
+"There's still more we can learn about each other, though. We'll have to do "
+"this again!"
+msgstr ""
+
+msgctxt "116_Akiyama"
+msgid "Sure."
+msgstr ""
+
+msgctxt "128_Erena"
+msgid "I love you. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""

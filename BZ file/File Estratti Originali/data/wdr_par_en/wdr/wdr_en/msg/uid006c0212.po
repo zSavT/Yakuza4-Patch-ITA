@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "488"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "980"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "12900"
+msgid "Rio"
+msgstr ""
+
+msgctxt "12904"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12908"
+msgid "Player"
+msgstr ""
+
+msgctxt "12912"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12916"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "12920"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12924"
+msgid "0"
+msgstr ""
+
+msgctxt "12928"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "116_Rio"
+msgid "Hope you're ready! Come on, let's go inside."
+msgstr ""
+
+msgctxt "128_Player"
+msgid "Oh, I'm ready all right."
+msgstr ""
+
+msgctxt "140_Rio"
+msgid "Let's go in already."
+msgstr ""
+
+msgctxt "164_Rio"
+msgid "Hope you're ready! Come on, let's go inside."
+msgstr ""
+
+msgctxt "176_Talk_Yes"
+msgid "Let's go in already."
+msgstr ""
+
+msgctxt "188_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr ""
+
+msgctxt "200_Rio"
+msgid "Seriously? Not a single bill?"
+msgstr ""
+
+msgctxt "212_Player"
+msgid "Yeah. Sorry..."
+msgstr ""
+
+msgctxt "224_Rio"
+msgid "Oh. Um... That's... too bad. I should get going."
+msgstr ""
+
+msgctxt "236_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "344_Rio"
+msgid "Wow, you're really good at bowling."
+msgstr ""
+
+msgctxt "356_Player"
+msgid "Eh, I'm nothing special."
+msgstr ""
+
+msgctxt "368_Rio"
+msgid "I had such a good time. I'll see you around, okay?"
+msgstr ""
+
+msgctxt "392_Rio"
+msgid "Hey, look! We tied!"
+msgstr ""
+
+msgctxt "404_Player"
+msgid "You're not half bad."
+msgstr ""
+
+msgctxt "416_Rio"
+msgid "I had a blast. Come and see me again at the club."
+msgstr ""
+
+msgctxt "440_Rio"
+msgid "I guess I win!"
+msgstr ""
+
+msgctxt "452_Player"
+msgid "You got me good."
+msgstr ""
+
+msgctxt "464_Rio"
+msgid "That was fun. See you at the club."
+msgstr ""
+
+msgctxt "572_Rio"
+msgid "I hope you aren't planning on winning today, Akiyama-san."
+msgstr ""
+
+msgctxt "584_Player"
+msgid "Oh, but I am."
+msgstr ""
+
+msgctxt "596_Rio"
+msgid "Let's go in already."
+msgstr ""
+
+msgctxt "620_Rio"
+msgid "Hope you're ready! Come on, let's go inside."
+msgstr ""
+
+msgctxt "632_Talk_Yes"
+msgid "Let's go in already."
+msgstr ""
+
+msgctxt "644_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr ""
+
+msgctxt "656_Rio"
+msgid "Seriously? Not a single bill?"
+msgstr ""
+
+msgctxt "668_Player"
+msgid "Yeah. Sorry..."
+msgstr ""
+
+msgctxt "680_Rio"
+msgid "Oh. Um... That's... too bad. I should get going."
+msgstr ""
+
+msgctxt "692_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "800_Rio"
+msgid "Wow, you're really good at bowling."
+msgstr ""
+
+msgctxt "812_Player"
+msgid "Eh, I'm okay."
+msgstr ""
+
+msgctxt "824_Rio"
+msgid "I had such a good time. Let's go back to the club, okay?"
+msgstr ""
+
+msgctxt "836_Player"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "860_Rio"
+msgid "Hey! Look, we tied!"
+msgstr ""
+
+msgctxt "872_Player"
+msgid "You're not half bad."
+msgstr ""
+
+msgctxt "884_Rio"
+msgid "I had a lot of fun. Let's go to the club."
+msgstr ""
+
+msgctxt "896_Player"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "920_Rio"
+msgid "I guess I win!"
+msgstr ""
+
+msgctxt "932_Player"
+msgid "You got me good."
+msgstr ""
+
+msgctxt "944_Rio"
+msgid "That was fun. Let's head to the club."
+msgstr ""
+
+msgctxt "956_Player"
+msgid "Sounds good."
+msgstr ""

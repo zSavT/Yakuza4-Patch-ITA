@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1556"
+msgid "Man"
+msgstr ""
+
+msgctxt "1560"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1564"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1568"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1572"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "116_Man"
+msgid ""
+"Hey, you sure look like you've been havin' some fun, knockin' back a few "
+"drinks and all. But you're not from around here, are ya?"
+msgstr ""
+
+msgctxt "128_Man"
+msgid "You got balls to be hangin' out here on our turf, friend!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "You made me realize I was being way too close-minded. Sorry 'bout that."
+msgstr ""
+
+msgctxt "164_Man"
+msgid "Booze is a man's best friend! Drink up, my man, drink up!"
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a beer-stained %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "I'm glad to see you're givin' our local businesses a boost, that's all."
+msgstr ""

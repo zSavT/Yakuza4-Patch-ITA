@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1996"
+msgid "Prison Guards"
+msgstr ""
+
+msgctxt "2000"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2004"
+msgid "Prison Guard"
+msgstr ""
+
+msgctxt "2008"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "2012"
+msgid "Hamazaki"
+msgstr ""
+
+msgctxt "2016"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2020"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2024"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "68_Prison Guard"
+msgid "Hey, I need backup over here! I found the prisoners!"
+msgstr ""
+
+msgctxt "80_Prison Guards"
+msgid "We can't let them get away!"
+msgstr ""
+
+msgctxt "152_Hamazaki"
+msgid "Holy hell, that's a lot of guys."
+msgstr ""
+
+msgctxt "164_Hamazaki"
+msgid "We're almost to the yard, though. Can't let them stop us now."
+msgstr ""
+
+msgctxt "176_Saejima"
+msgid "Gotcha. Let's rock these fools!"
+msgstr ""

@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "9128"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9132"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "9136"
+msgid "P_sae_stand"
+msgstr ""
+
+msgctxt "9140"
+msgid "Idle"
+msgstr ""
+
+msgctxt "9144"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "68_Kiryu"
+msgid "Glad to see you're up. How are you feeling?"
+msgstr ""
+
+msgctxt "80_Saejima"
+msgid "Fine enough. Sorry 'bout all the trouble."
+msgstr ""
+
+msgctxt "92_Kiryu"
+msgid "Don't worry about it."
+msgstr ""
+
+msgctxt "104_Kiryu"
+msgid ""
+"The kids are out for a few days on a field trip, so I have plenty of time "
+"on my hands."
+msgstr ""
+
+msgctxt "116_Saejima"
+msgid "Huh, guess luck ain't always goin' against me."
+msgstr ""
+
+msgctxt "128_Kiryu"
+msgid "Now, I have to ask. What happened to you?"
+msgstr ""
+
+msgctxt "140_Saejima"
+msgid "I, uh..."
+msgstr ""
+
+msgctxt "152_Kiryu"
+msgid ""
+"Do you remember being passed out on the beach this morning? Haruka found "
+"you while she was out walking our dog."
+msgstr ""
+
+msgctxt "164_Saejima"
+msgid "Haruka?"
+msgstr ""
+
+msgctxt "176_Kiryu"
+msgid "The girl who's been watching over you."
+msgstr ""
+
+msgctxt "188_Saejima"
+msgid "Oh... So that's her name."
+msgstr ""
+
+msgctxt "200_Kiryu"
+msgid "Yeah. Guess that means you still have your memory."
+msgstr ""
+
+msgctxt "212_Saejima"
+msgid "Mhm."
+msgstr ""
+
+msgctxt "224_Kiryu"
+msgid "Then tell me. How'd you end up washing up on our beach?"
+msgstr ""
+
+msgctxt "236_Saejima"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "248_Kiryu"
+msgid "Is there a reason you don't want to tell me?"
+msgstr ""
+
+msgctxt "260_Saejima"
+msgid "Nah, it ain't that. It's just..."
+msgstr ""
+
+msgctxt "272_Kiryu"
+msgid "Can you at least tell me your name?"
+msgstr ""
+
+msgctxt "284_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "296_Kiryu"
+msgid "You can't even do that?"
+msgstr ""
+
+msgctxt "308_Saejima"
+msgid "Naw, I owe it to ya for all the help..."
+msgstr ""
+
+msgctxt "320_Saejima"
+msgid ""
+"But don't folks usually introduce themselves 'fore they go askin' a guy to "
+"do the same?"
+msgstr ""
+
+msgctxt "332_Kiryu"
+msgid "Fair point."
+msgstr ""
+
+msgctxt "344_Saejima"
+msgid "Sorry. Not tryin' to ruffle any feathers."
+msgstr ""
+
+msgctxt "356_Kiryu"
+msgid "It's okay. My name's Kiryu. Kazuma Kiryu."
+msgstr ""
+
+msgctxt "368_Saejima"
+msgid "(Hold up, that's the guy Hamazaki was talkin' about!)"
+msgstr ""
+
+msgctxt "380_Kiryu"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "392_Saejima"
+msgid "Oh, uh... Nah, it's nothin'."
+msgstr ""
+
+msgctxt "404_Kiryu"
+msgid "All right, I gave you my name. Your turn now."
+msgstr ""
+
+msgctxt "416_Saejima"
+msgid "It's... Suzuki. Yeah, that's it."
+msgstr ""
+
+msgctxt "428_Kiryu"
+msgid ""
+"Suzuki-san, huh? Common name, though not really around here. I take it "
+"you're from the mainland?"
+msgstr ""
+
+msgctxt "440_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "452_Kiryu"
+msgid ""
+"I'll take that as a yes. Anyway, what are you going to do now? You didn't "
+"have a wallet or anything on you when you washed up."
+msgstr ""
+
+msgctxt "464_Saejima"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "476_Kiryu"
+msgid ""
+"You won't be able to go to the doctor or check in with the police without "
+"your ID."
+msgstr ""
+
+msgctxt "488_Kiryu"
+msgid "I can help you get in touch with your family if you need a hand, though."
+msgstr ""
+
+msgctxt "500_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "512_Kiryu"
+msgid "Suzuki-san? I can't help you if you don't tell me what you need."
+msgstr ""
+
+msgctxt "524_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "596_Saejima"
+msgid "Lemme ask ya somethin'... Is your name really Kiryu?"
+msgstr ""
+
+msgctxt "608_Kiryu"
+msgid "That's me."
+msgstr ""
+
+msgctxt "620_Saejima"
+msgid "Heh. Well ain't life mysterious."
+msgstr ""
+
+msgctxt "632_Saejima"
+msgid "Who'd have thought I'd end up floatin' right to your damn doorstep?"
+msgstr ""
+
+msgctxt "644_Kiryu"
+msgid "I don't think I understand."
+msgstr ""
+
+msgctxt "656_Saejima"
+msgid "Kiryu-san. Ya gotta help me."
+msgstr ""

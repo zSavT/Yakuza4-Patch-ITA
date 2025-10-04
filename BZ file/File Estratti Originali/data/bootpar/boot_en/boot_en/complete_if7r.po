@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "210\tNAME"
+msgid "Thunder's Shadow"
+msgstr ""
+
+msgctxt "229\tNAME"
+msgid "Deadly Demon"
+msgstr ""
+
+msgctxt "244\tNAME"
+msgid "Guardian of Rage"
+msgstr ""
+
+msgctxt "263\tNAME"
+msgid "Flaming Jester"
+msgstr ""
+
+msgctxt "280\tNAME"
+msgid "Cold-blooded Fist"
+msgstr ""
+
+msgctxt "300\tNAME"
+msgid "One-eyed Devil"
+msgstr ""
+
+msgctxt "317\tNAME"
+msgid "Wind Phoenix"
+msgstr ""
+
+msgctxt "332\tNAME"
+msgid "Iron-armed Tiger"
+msgstr ""
+
+msgctxt "351\tNAME"
+msgid "The Impregnable Tortoise"
+msgstr ""
+
+msgctxt "378\tNAME"
+msgid "Legendary Blue Dragon"
+msgstr ""
+
+msgctxt "592\tEXPLANATION"
+msgid "Data for Thunder's Shadow has been input into the IF7-R."
+msgstr ""
+
+msgctxt "649\tEXPLANATION"
+msgid "You defeated Thunder's Shadow in the IF7-R."
+msgstr ""
+
+msgctxt "693\tEXPLANATION"
+msgid "Data for Deadly Demon has been input into the IF7-R."
+msgstr ""
+
+msgctxt "746\tEXPLANATION"
+msgid "You defeated Deadly Demon in the IF7-R."
+msgstr ""
+
+msgctxt "786\tEXPLANATION"
+msgid "Data for Guardian of Rage has been input into the IF7-R."
+msgstr ""
+
+msgctxt "843\tEXPLANATION"
+msgid "You defeated Guardian of Rage in the IF7-R."
+msgstr ""
+
+msgctxt "887\tEXPLANATION"
+msgid "Data for Flaming Jester has been input into the IF7-R."
+msgstr ""
+
+msgctxt "942\tEXPLANATION"
+msgid "You defeated Flaming Jester in the IF7-R."
+msgstr ""
+
+msgctxt "984\tEXPLANATION"
+msgid "Data for Cold-blooded Fist has been input into the IF7-R."
+msgstr ""
+
+msgctxt "1042\tEXPLANATION"
+msgid "You defeated Cold-blooded Fist in the IF7-R."
+msgstr ""
+
+msgctxt "1087\tEXPLANATION"
+msgid "Data for One-eyed Devil has been input into the IF7-R."
+msgstr ""
+
+msgctxt "1142\tEXPLANATION"
+msgid "You defeated One-eyed Devil in the IF7-R."
+msgstr ""
+
+msgctxt "1184\tEXPLANATION"
+msgid "Data for Wind Phoenix has been input into the IF7-R."
+msgstr ""
+
+msgctxt "1237\tEXPLANATION"
+msgid "You defeated Wind Phoenix in the IF7-R."
+msgstr ""
+
+msgctxt "1277\tEXPLANATION"
+msgid "Data for Iron-armed Tiger has been input into the IF7-R."
+msgstr ""
+
+msgctxt "1334\tEXPLANATION"
+msgid "You defeated Iron-armed Tiger in the IF7-R."
+msgstr ""
+
+msgctxt "1378\tEXPLANATION"
+msgid "Data for The Impregnable Tortoise has been input into the IF7-R."
+msgstr ""
+
+msgctxt "1443\tEXPLANATION"
+msgid "You defeated The Impregnable Tortoise in the IF7-R."
+msgstr ""
+
+msgctxt "1495\tEXPLANATION"
+msgid "Data for Legendary Blue Dragon has been input into the IF7-R."
+msgstr ""
+
+msgctxt "1557\tEXPLANATION"
+msgid "You defeated Legendary Blue Dragon in the IF7-R."
+msgstr ""

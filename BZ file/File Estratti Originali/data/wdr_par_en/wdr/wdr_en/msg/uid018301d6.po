@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "128"
+msgid "*clank* *clank*"
+msgstr ""
+
+msgctxt "1428"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "116_Kiryu"
+msgid ""
+"(Oh yeah, I heard that rumor about ghosts haunting the Hills at night. I "
+"should check it out once it's dark out.)"
+msgstr ""
+
+msgctxt "140_Kiryu"
+msgid "(...Who could be working at this time of day?)"
+msgstr ""
+
+msgctxt "152_Kiryu"
+msgid ""
+"(Oh yeah, I heard that rumor about ghosts haunting the Hills at night. "
+"Couldn't hurt to sneak inside and see what's up.)"
+msgstr ""
+
+msgctxt "164_Kiryu"
+msgid "(Eh, it's just a rumor. I have better things to be doing.)"
+msgstr ""
+
+msgctxt "176_Kiryu"
+msgid "(Here I go...)"
+msgstr ""
+
+msgctxt "200_Kiryu"
+msgid "Sneak In"
+msgstr ""
+
+msgctxt "212_Kiryu"
+msgid "Stay Out"
+msgstr ""

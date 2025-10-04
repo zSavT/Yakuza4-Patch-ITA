@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "68"
+msgid "You got a <Color:8>Diamond<Color:Default>."
+msgstr ""
+
+msgctxt "212"
+msgid "You gained 5,000 EXP."
+msgstr ""
+
+msgctxt "2616"
+msgid "Oyamada"
+msgstr ""
+
+msgctxt "2620"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "2624"
+msgid "Makiko"
+msgstr ""
+
+msgctxt "2628"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "2632"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2636"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2640"
+msgid "dummy"
+msgstr ""
+
+msgctxt "56_Oyamada"
+msgid ""
+"I really can't thank you enough. Here's your pay,\r\n"
+"though it could never be enough. Please take it."
+msgstr ""
+
+msgctxt "92_Makiko"
+msgid ""
+"Um, Mommy? I actually think I'd like to try this showbiz\r\n"
+"thing for a while. It's not all sunshine and cupcakes,\r\n"
+"but it's my job. And it's not all bad－fanboys aside."
+msgstr ""
+
+msgctxt "104_Oyamada"
+msgid "Makiko..."
+msgstr ""
+
+msgctxt "116_Saejima"
+msgid ""
+"Good on ya. Break a leg, alright? I'll be sure to buy your record when it "
+"comes out."
+msgstr ""
+
+msgctxt "128_Makiko"
+msgid "Wha... My \"record\"? Hahaha! You're too much!"
+msgstr ""
+
+msgctxt "140_Saejima"
+msgid "Uh, what'd I say?"
+msgstr ""
+
+msgctxt "152_Makiko"
+msgid "Nothing, nothing! Be sure to buy my \"record,\" okay? Byeee!"
+msgstr ""

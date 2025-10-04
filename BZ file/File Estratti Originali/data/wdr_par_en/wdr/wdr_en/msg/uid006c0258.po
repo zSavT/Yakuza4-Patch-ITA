@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "524"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "1016"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "13496"
+msgid "望月京子：源氏名"
+msgstr ""
+
+msgctxt "13500"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13504"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13508"
+msgid "Player"
+msgstr ""
+
+msgctxt "13512"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "13516"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13520"
+msgid "0"
+msgstr ""
+
+msgctxt "116_望月京子：源氏名"
+msgid "Hehehehehe... I won't lose to you, %s-san."
+msgstr ""
+
+msgctxt "128_Talk_Yes"
+msgid "Let's do this already!"
+msgstr ""
+
+msgctxt "140_Player"
+msgid "All right."
+msgstr ""
+
+msgctxt "164_望月京子：源氏名"
+msgid "Hehehehehe... I won't lose to you, %s-san."
+msgstr ""
+
+msgctxt "176_Talk_Yes"
+msgid "Let's do this already!"
+msgstr ""
+
+msgctxt "188_Player"
+msgid "Wait a minute. I just realized that I'm short on cash."
+msgstr ""
+
+msgctxt "200_望月京子：源氏名"
+msgid "Huh? What the heck?"
+msgstr ""
+
+msgctxt "212_Player"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "224_望月京子：源氏名"
+msgid "Aww... Well that's no fun... Guess I should just go home now. Bye, %s-san."
+msgstr ""
+
+msgctxt "236_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr ""
+
+msgctxt "344_望月京子：源氏名"
+msgid ""
+"You beat me... Looks like you're quite good at pool. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "356_Player"
+msgid "Guess so."
+msgstr ""
+
+msgctxt "368_望月京子：源氏名"
+msgid ""
+"That was a lot of fun. I like giving both mind and body a good workout. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "380_望月京子：源氏名"
+msgid "Anyway, I better get going now. Take care."
+msgstr ""
+
+msgctxt "404_望月京子：源氏名"
+msgid "It looks like we tied... I really wanted to win too."
+msgstr ""
+
+msgctxt "416_Player"
+msgid "Too bad."
+msgstr ""
+
+msgctxt "428_望月京子：源氏名"
+msgid ""
+"That was a lot of fun. I like giving both mind and body a good workout. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "440_望月京子：源氏名"
+msgid "Okay then, I'm going to head out."
+msgstr ""
+
+msgctxt "464_望月京子：源氏名"
+msgid "Hehehe... I beat you, %s-san! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "476_Player"
+msgid "You sure did."
+msgstr ""
+
+msgctxt "488_望月京子：源氏名"
+msgid ""
+"That was a lot of fun. I like giving both mind and body a good workout. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "500_望月京子：源氏名"
+msgid "Anyway, I better get going now. Take care."
+msgstr ""
+
+msgctxt "608_望月京子：源氏名"
+msgid "Hehehehehe... I won't lose to you, %s-san."
+msgstr ""
+
+msgctxt "620_Talk_Yes"
+msgid "Let's do this already!"
+msgstr ""
+
+msgctxt "632_Player"
+msgid "All right."
+msgstr ""
+
+msgctxt "656_望月京子：源氏名"
+msgid "Hehehehehe... I won't lose to you, %s-san."
+msgstr ""
+
+msgctxt "668_Talk_Yes"
+msgid "Let's do this already!"
+msgstr ""
+
+msgctxt "680_Player"
+msgid "Wait a minute. I just realized that I'm short on cash."
+msgstr ""
+
+msgctxt "692_望月京子：源氏名"
+msgid "Huh? What the heck?"
+msgstr ""
+
+msgctxt "704_Player"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "716_望月京子：源氏名"
+msgid "Aww... Well that's no fun... Guess I should just go home now. Bye, %s-san."
+msgstr ""
+
+msgctxt "728_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr ""
+
+msgctxt "836_望月京子：源氏名"
+msgid ""
+"You beat me... Looks like you're quite good at pool. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "848_Player"
+msgid "Guess so."
+msgstr ""
+
+msgctxt "860_望月京子：源氏名"
+msgid ""
+"That was so much fun. Should we head over to the club? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "872_Player"
+msgid "Sure."
+msgstr ""
+
+msgctxt "896_望月京子：源氏名"
+msgid "It looks like we tied... I really wanted to win too."
+msgstr ""
+
+msgctxt "908_Player"
+msgid "Too bad."
+msgstr ""
+
+msgctxt "920_望月京子：源氏名"
+msgid ""
+"That was so much fun. Should we head over to the club? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "932_Player"
+msgid "Sure."
+msgstr ""
+
+msgctxt "956_望月京子：源氏名"
+msgid "Hehehe... I beat you, %s-san! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "968_Player"
+msgid "You sure did."
+msgstr ""
+
+msgctxt "980_望月京子：源氏名"
+msgid ""
+"That was so much fun. Should we head over to the club? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "992_Player"
+msgid "Sure."
+msgstr ""

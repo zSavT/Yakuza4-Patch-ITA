@@ -1,0 +1,707 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1024"
+msgid ""
+"Train your apprentices and have them win the tournament within 50 turns! "
+"The sooner they win, the better the prize money and evaluation."
+msgstr ""
+
+msgctxt "1816"
+msgid ""
+"Train your apprentices and have them win the tournament <Color:7>within 50 "
+"turns<Color:Default>! The sooner they win, the better the prize money and "
+"the evaluation."
+msgstr ""
+
+msgctxt "1828"
+msgid ""
+"You can earn the most prize money by having your apprentice win "
+"<Color:7>within 15 turns<Color:Default>. After that, the amount will start "
+"to decrease every five turns."
+msgstr ""
+
+msgctxt "1840"
+msgid ""
+"Train your apprentices efficiently so they are able to win in as few turns "
+"as possible."
+msgstr ""
+
+msgctxt "29272"
+msgid "Sodachi"
+msgstr ""
+
+msgctxt "29276"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "29280"
+msgid "Sugiyama"
+msgstr ""
+
+msgctxt "29284"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "29288"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "29292"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "29296"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "29300"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "29304"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "29308"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "29312"
+msgid "???"
+msgstr ""
+
+msgctxt "29316"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "29320"
+msgid "dummy"
+msgstr ""
+
+msgctxt "29324"
+msgid "0"
+msgstr ""
+
+msgctxt "29328"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "29332"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "29336"
+msgid "Guy with Glasses"
+msgstr ""
+
+msgctxt "29340"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "29344"
+msgid "Fighter Maker"
+msgstr ""
+
+msgctxt "29348"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "29352"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "29356"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "29360"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "29364"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "208_Sodachi"
+msgid ""
+"Welcome back. Did you have a good time? It's important to develop trust, so "
+"make sure to take your apprentice out for drinks again sometime."
+msgstr ""
+
+msgctxt "220_Sodachi"
+msgid ""
+"The greater the trust, the more the apprentice listens to you－meaning more "
+"efficient training. Try building a good relationship with Hide-chan."
+msgstr ""
+
+msgctxt "268_Saejima"
+msgid ""
+"According to Sodachi's plan, it's time for a meeting with ya. But I ain't "
+"the \"meeting\" type. How's about we do this over drinks?"
+msgstr ""
+
+msgctxt "280_Sugiyama"
+msgid "Okay! I'd love to!"
+msgstr ""
+
+msgctxt "292_Sodachi"
+msgid ""
+"Sounds great! You can talk over drinks to develop a relationship of trust. "
+"This is the fundamental principal of my theory of fighting!"
+msgstr ""
+
+msgctxt "304_Saejima"
+msgid "Right. Let's go, Hideo."
+msgstr ""
+
+msgctxt "316_Sugiyama"
+msgid "Of course!"
+msgstr ""
+
+msgctxt "328_Sodachi"
+msgid "Huh? Uh... What about me...?"
+msgstr ""
+
+msgctxt "340_Saejima"
+msgid "...Huh? Whaddya want?"
+msgstr ""
+
+msgctxt "352_Sodachi"
+msgid "Oh, nothing! Don't worry about me! Have a good time!"
+msgstr ""
+
+msgctxt "400_Saejima"
+msgid ""
+"That's it for today. I gotta tell ya, teachin's a lot harder than I "
+"expected."
+msgstr ""
+
+msgctxt "412_Sodachi"
+msgid ""
+"No worries. You'll get the hang of it in no time. Just keep doing what "
+"you're doing!"
+msgstr ""
+
+msgctxt "424_???"
+msgid "Zzzzzzz..."
+msgstr ""
+
+msgctxt "436_Saejima"
+msgid "Who's that sleepin' over there? He another one of your apprentices?"
+msgstr ""
+
+msgctxt "448_Sodachi"
+msgid ""
+"Oh... That's Fukushi Ochiai-kun. He doesn't pay the monthly fee, so he "
+"isn't an apprentice."
+msgstr ""
+
+msgctxt "460_Sodachi"
+msgid ""
+"It seems that he just likes it here... He comes by to take naps during the "
+"afternoon."
+msgstr ""
+
+msgctxt "472_Sodachi"
+msgid ""
+"But don't worry about him, okay? He isn't a bad guy, but he's definitely "
+"not a nice guy, either."
+msgstr ""
+
+msgctxt "484_Saejima"
+msgid "(Fukushi Ochiai, huh? Wonder what he wants...)"
+msgstr ""
+
+msgctxt "496_Sodachi"
+msgid "Well, enough about that. Thank you very much for your time today!"
+msgstr ""
+
+msgctxt "508_Sodachi"
+msgid "Come by to train apprentices whenever you want, just like you did today."
+msgstr ""
+
+msgctxt "520_Sodachi"
+msgid "We're always here at the dojo, so feel free to stop by anytime. Please!"
+msgstr ""
+
+msgctxt "532_Sodachi"
+msgid ""
+"Also, if there's anything you didn't understand, just read the "
+"<Color:7>Sodachi Notebook<Color:Default> on the bench over there. It'll "
+"explain everything."
+msgstr ""
+
+msgctxt "556_Saejima"
+msgid ""
+"The <Color:7>Sodachi Notebook<Color:Default>, huh? Gotcha. I'll read it "
+"when I'm havin' trouble."
+msgstr ""
+
+msgctxt "568_Sodachi"
+msgid "All righty, then! See you next time!"
+msgstr ""
+
+msgctxt "628_Sodachi"
+msgid "Hey, hey, Saejima-san!"
+msgstr ""
+
+msgctxt "640_Sodachi"
+msgid "How about it? Would you please help us, Saejima-san?"
+msgstr ""
+
+msgctxt "652_Saejima"
+msgid "Fine. I ain't makin' no promises, but I'll see what I can do."
+msgstr ""
+
+msgctxt "664_Sodachi"
+msgid ""
+"Thank you! You won't regret it! And now, Saejima-san, I formally welcome "
+"you to... Sodachi Dojo!"
+msgstr ""
+
+msgctxt "676_Saejima"
+msgid "Sorry. No can do."
+msgstr ""
+
+msgctxt "688_Sodachi"
+msgid "Oh, of course... Sorry to have... bothered you..."
+msgstr ""
+
+msgctxt "700_Sodachi"
+msgid ""
+"But please come back if you change your mind. I'll always be here. I mean, "
+"until my dojo closes... that is..."
+msgstr ""
+
+msgctxt "712_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "724_Guy with Glasses"
+msgid "Hey, Sensei!"
+msgstr ""
+
+msgctxt "748_Sodachi"
+msgid "Oh, Hide-chan! Perfect timing!"
+msgstr ""
+
+msgctxt "760_Sodachi"
+msgid ""
+"Please let me introduce you to Hideo Sugiyama-kun.\r\n"
+" Hide-chan is my dojo's one and only apprentice."
+msgstr ""
+
+msgctxt "772_Sodachi"
+msgid ""
+"Hide-chan, this is Saejima-san. He'll be teaching here for a while. He's an "
+"amazing fighter. And when I say amazing, I mean out of this world amazing!"
+msgstr ""
+
+msgctxt "784_Sugiyama"
+msgid "Oh, that's great. Nice to meet you. I'm Hideo Sugiyama."
+msgstr ""
+
+msgctxt "796_Sugiyama"
+msgid "But you can call me Hideo. I look forward to being your student!"
+msgstr ""
+
+msgctxt "808_Saejima"
+msgid "Nice to meet ya."
+msgstr ""
+
+msgctxt "820_Sodachi"
+msgid ""
+"Now, how about we get to training right away? Our goal is to make Hide-chan "
+"the champion of the Rookie Tournament!"
+msgstr ""
+
+msgctxt "832_Saejima"
+msgid "Rookie Tournament? What the hell's that?"
+msgstr ""
+
+msgctxt "844_Sodachi"
+msgid "Oh, sorry. I didn't explain that yet, did I?"
+msgstr ""
+
+msgctxt "856_Sodachi"
+msgid ""
+"The Coliseum holds regular tournaments that are only open to rookie "
+"fighters, with the purpose of finding the next star fighter."
+msgstr ""
+
+msgctxt "868_Sodachi"
+msgid ""
+"Winning the tournament will earn you recognition as a full-fledged fighter "
+"and the opportunity to enter other tournaments in the Coliseum."
+msgstr ""
+
+msgctxt "880_Sodachi"
+msgid "Underground Coliseum fighters are the true cream of the crop."
+msgstr ""
+
+msgctxt "892_Sodachi"
+msgid ""
+"Since the Rookie Tournament is full of rookies who hope to become "
+"Underground Coliseum fighters someday, the fights are always fierce."
+msgstr ""
+
+msgctxt "904_Saejima"
+msgid "Huh. They didn't have that when I fought."
+msgstr ""
+
+msgctxt "916_Sodachi"
+msgid ""
+"I heard you were specially nominated. People with astounding strength and a "
+"good record are nominated and gain immediate entry."
+msgstr ""
+
+msgctxt "928_Sodachi"
+msgid ""
+"By the way, if you win the Rookie Tournament, both the fighter and the dojo "
+"receive prize money."
+msgstr ""
+
+msgctxt "940_Sodachi"
+msgid ""
+"If I had that money, I'm sure that I'd be able to renovate this dojo up "
+"quite nicely..."
+msgstr ""
+
+msgctxt "952_Saejima"
+msgid "I get it. Like killin' two birds with one stone, right?"
+msgstr ""
+
+msgctxt "964_Sodachi"
+msgid "Exactly! Well, that's enough explaining. Let's get to work!"
+msgstr ""
+
+msgctxt "976_Sugiyama"
+msgid "I'm looking forward to training with you, Saejima-sensei!"
+msgstr ""
+
+msgctxt "988_Sodachi"
+msgid ""
+"You'll be in charge of arranging the training menu. The menu has four "
+"Regular Slots and one Special Slot. These five slots equal one turn."
+msgstr ""
+
+msgctxt "1000_Sodachi"
+msgid ""
+"I'll choose the Special Slot for now. You'll be in charge of selecting the "
+"Regular Slots. After you're done, press Begin to begin training."
+msgstr ""
+
+msgctxt "1012_Sodachi"
+msgid "I'm sure you'll get the hang of it once you get started. Okay, let's do it!"
+msgstr ""
+
+msgctxt "1036_Sodachi"
+msgid ""
+"This information has been added as a <Color:14>memo<Color:Default>.\r\n"
+"Read <Color:14>memos<Color:Default> by selecting "
+"<Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
+"You can access the Pause Menu with the <Action:Button_Options@Adventure> "
+"button."
+msgstr ""
+
+msgctxt "1096_Saejima"
+msgid "Heh. This place ain't bad."
+msgstr ""
+
+msgctxt "1108_Sodachi"
+msgid ""
+"I knew you'd think so! I put all of my hard-earned savings into making it "
+"this way. It's always been my dream to run my own dojo."
+msgstr ""
+
+msgctxt "1120_Saejima"
+msgid "Impressive... But there ain't no one here."
+msgstr ""
+
+msgctxt "1132_Sodachi"
+msgid ""
+"That's the problem... The truth is that I only have one apprentice at the "
+"moment."
+msgstr ""
+
+msgctxt "1144_Saejima"
+msgid "One!? That ain't enough to wash the floor!"
+msgstr ""
+
+msgctxt "1156_Sodachi"
+msgid ""
+"Exactly. It's a good location though, and there were a good number of "
+"apprentices at first. But everybody quit within days..."
+msgstr ""
+
+msgctxt "1168_Sodachi"
+msgid "It's probably my fault because I'm no good..."
+msgstr ""
+
+msgctxt "1180_Saejima"
+msgid "No good...?"
+msgstr ""
+
+msgctxt "1192_Sodachi"
+msgid ""
+"Yeah. The truth is, I'm a terrible fighter! I've never even won a single "
+"fight! Not even once!"
+msgstr ""
+
+msgctxt "1204_Saejima"
+msgid "Huh!? So how the hell do you train your apprentices?"
+msgstr ""
+
+msgctxt "1216_Sodachi"
+msgid "With my theory on fighting!"
+msgstr ""
+
+msgctxt "1228_Saejima"
+msgid "\"Theory\" on fightin'...?"
+msgstr ""
+
+msgctxt "1240_Sodachi"
+msgid ""
+"That's right. For years, I've been conducting thorough research on how to "
+"become a stronger fighter and defeat my opponents."
+msgstr ""
+
+msgctxt "1252_Sodachi"
+msgid "Nobody can beat me when it comes to theory."
+msgstr ""
+
+msgctxt "1264_Sodachi"
+msgid ""
+"I've come this far just by believing in my theory. As long as I follow it, "
+"I know I can train a great apprentice... Even if I myself am weak."
+msgstr ""
+
+msgctxt "1276_Sodachi"
+msgid ""
+"But, it turns out no apprentice will trust a weak teacher... It's just a "
+"matter of time before this dojo is forced to close its doors for good."
+msgstr ""
+
+msgctxt "1288_Sodachi"
+msgid ""
+"I've done my best to follow my dream of training a champion, but to no "
+"avail..."
+msgstr ""
+
+msgctxt "1300_Saejima"
+msgid ""
+"I see... I bet it's hard havin' yer dreams crushed after buildin' such a "
+"fine dojo."
+msgstr ""
+
+msgctxt "1312_Sodachi"
+msgid "Yeah... And that's why I've asked you here today, Saejima-san."
+msgstr ""
+
+msgctxt "1324_Sodachi"
+msgid "Would you work with me to help train my apprentices?"
+msgstr ""
+
+msgctxt "1336_Saejima"
+msgid "Me...?"
+msgstr ""
+
+msgctxt "1348_Sodachi"
+msgid ""
+"Yes. After watching you fight at the Underground Coliseum, I knew you were "
+"the one I've been looking for."
+msgstr ""
+
+msgctxt "1360_Sodachi"
+msgid ""
+"You're not only a great fighter, but you also show compassion, even to your "
+"opponents. I'm sure apprentices will look up to you."
+msgstr ""
+
+msgctxt "1372_Sodachi"
+msgid ""
+"Of course, I'll support you the best I can. Please, please, Saejima-san! I "
+"can't give up now!"
+msgstr ""
+
+msgctxt "1384_Saejima"
+msgid "Fine. I ain't makin' no promises, but I'll see what I can do."
+msgstr ""
+
+msgctxt "1396_Sodachi"
+msgid ""
+"Thank you! You won't regret it! And now, Saejima-san, I formally welcome "
+"you to... Sodachi Dojo!"
+msgstr ""
+
+msgctxt "1408_Saejima"
+msgid "Sorry. No can do."
+msgstr ""
+
+msgctxt "1420_Sodachi"
+msgid "Oh, of course... Sorry to have... bothered you..."
+msgstr ""
+
+msgctxt "1432_Sodachi"
+msgid ""
+"But please come back if you change your mind. I'll always be here. I mean, "
+"until my dojo closes... that is..."
+msgstr ""
+
+msgctxt "1444_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "1456_Guy with Glasses"
+msgid "Hey, Sensei!"
+msgstr ""
+
+msgctxt "1480_Sodachi"
+msgid "Oh, Hide-chan! Perfect timing!"
+msgstr ""
+
+msgctxt "1492_Sodachi"
+msgid ""
+"Please let me introduce you to Hideo Sugiyama-kun. Hide-chan is my dojo's "
+"one and only apprentice."
+msgstr ""
+
+msgctxt "1504_Sodachi"
+msgid ""
+"Hide-chan, this is Saejima-san. He'll be teaching here for a while. He's an "
+"amazing fighter. And when I say amazing, I mean out of this world amazing!"
+msgstr ""
+
+msgctxt "1516_Sugiyama"
+msgid "Oh, that's great. Nice to meet you. I'm Hideo Sugiyama."
+msgstr ""
+
+msgctxt "1528_Sugiyama"
+msgid "But you can call me Hideo. I look forward to being your student!"
+msgstr ""
+
+msgctxt "1540_Saejima"
+msgid "Nice to meet ya."
+msgstr ""
+
+msgctxt "1552_Sodachi"
+msgid ""
+"Now, how about we get to training right away? Our goal is to make Hide-chan "
+"the champion of the Rookie Tournament!"
+msgstr ""
+
+msgctxt "1564_Saejima"
+msgid "Rookie Tournament? What the hell's that?"
+msgstr ""
+
+msgctxt "1576_Sodachi"
+msgid "Oh, sorry. I didn't explain that yet, did I?"
+msgstr ""
+
+msgctxt "1588_Sodachi"
+msgid ""
+"The Coliseum holds regular tournaments that are only open to rookie "
+"fighters, with the purpose of finding the next star fighter."
+msgstr ""
+
+msgctxt "1600_Sodachi"
+msgid ""
+"Winning the tournament will earn you recognition as a full-fledged fighter "
+"and the opportunity to enter other tournaments in the Coliseum."
+msgstr ""
+
+msgctxt "1612_Sodachi"
+msgid "Underground Coliseum fighters are the true cream of the crop."
+msgstr ""
+
+msgctxt "1624_Sodachi"
+msgid ""
+"Since the Rookie Tournament is full of rookies who hope to become "
+"Underground Coliseum fighters someday, the fights are always fierce."
+msgstr ""
+
+msgctxt "1636_Saejima"
+msgid "Huh. They didn't have that when I fought."
+msgstr ""
+
+msgctxt "1648_Sodachi"
+msgid ""
+"I heard you were specially nominated. People with astounding strength and a "
+"good record are nominated and gain immediate entry."
+msgstr ""
+
+msgctxt "1660_Sodachi"
+msgid ""
+"By the way, if you win the Rookie Tournament, both the fighter and the dojo "
+"receive prize money."
+msgstr ""
+
+msgctxt "1672_Sodachi"
+msgid ""
+"If I had that money, I'm sure that I'd be able to renovate this dojo up "
+"quite nicely..."
+msgstr ""
+
+msgctxt "1684_Saejima"
+msgid "I get it. Like killin' two birds with one stone, right?"
+msgstr ""
+
+msgctxt "1696_Sodachi"
+msgid "Exactly! Well, that's enough explaining. Let's get to work!"
+msgstr ""
+
+msgctxt "1708_Sugiyama"
+msgid "I'm looking forward to training with you, Saejima-sensei!"
+msgstr ""
+
+msgctxt "1780_Sodachi"
+msgid ""
+"You'll be in charge of arranging the training menu. The menu has four "
+"Regular Slots and one Special Slot. These five slots equal one turn."
+msgstr ""
+
+msgctxt "1792_Sodachi"
+msgid ""
+"I'll choose the Special Slot for now. You'll be in charge of selecting the "
+"Regular Slots. After you're done, press Begin to begin training."
+msgstr ""
+
+msgctxt "1804_Sodachi"
+msgid "I'm sure you'll get the hang of it once you get started. Okay, let's do it!"
+msgstr ""
+
+msgctxt "1852_Sodachi"
+msgid ""
+"This information has been added as a <Color:14>memo<Color:Default>.\r\n"
+"Read <Color:14>memos<Color:Default> by selecting "
+"<Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
+"You can access the Pause Menu with the <Action:Button_Options@Adventure> "
+"button."
+msgstr ""
+
+msgctxt "1876_Sodachi"
+msgid "Help Him"
+msgstr ""
+
+msgctxt "1888_Sodachi"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "1900_Sodachi"
+msgid "Help Him"
+msgstr ""
+
+msgctxt "1912_Sodachi"
+msgid "Refuse"
+msgstr ""

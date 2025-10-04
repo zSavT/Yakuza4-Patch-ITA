@@ -1,0 +1,6692 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "19740"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "20364"
+msgid "Akiyama-san..."
+msgstr ""
+
+msgctxt "20424"
+msgid "Akiyama-san..."
+msgstr ""
+
+msgctxt "20484"
+msgid "Akiyama-san..."
+msgstr ""
+
+msgctxt "20544"
+msgid "Akiyama-san..."
+msgstr ""
+
+msgctxt "20712"
+msgid "No? Well, if you do hear something, be sure to tell me about it, okay?"
+msgstr ""
+
+msgctxt "252200"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "252204"
+msgid "P_sitsofaR_tlk_comment"
+msgstr ""
+
+msgctxt "252208"
+msgid "Rio"
+msgstr ""
+
+msgctxt "252212"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""
+
+msgctxt "252216"
+msgid "P_sitsofaR_tlk_surp"
+msgstr ""
+
+msgctxt "252220"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "252224"
+msgid "P_sitsofaR_tlk_smile"
+msgstr ""
+
+msgctxt "252228"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "252232"
+msgid "P_sitsofaR_tlk_yes"
+msgstr ""
+
+msgctxt "252236"
+msgid "F_cab_sitsofa_tlk_thinkA"
+msgstr ""
+
+msgctxt "252240"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "252244"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr ""
+
+msgctxt "252248"
+msgid "P_sitsofaR_tlk_quest"
+msgstr ""
+
+msgctxt "252252"
+msgid "F_cab_sitsofa_sp1_sync_yop"
+msgstr ""
+
+msgctxt "252256"
+msgid "F_cab_sitsofa_tlk_gakkariA"
+msgstr ""
+
+msgctxt "252260"
+msgid "P_sitsofaR_tlk_no"
+msgstr ""
+
+msgctxt "252264"
+msgid "F_cab_sitsofa_sp2_sync_hiza"
+msgstr ""
+
+msgctxt "252268"
+msgid "F_cab_sitsofa_sp8_sync_crap"
+msgstr ""
+
+msgctxt "252272"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "252276"
+msgid "F_cab_sitsofa_tlk_kamaeBtoA"
+msgstr ""
+
+msgctxt "252280"
+msgid "P_sitsofaR_tlk_think"
+msgstr ""
+
+msgctxt "252284"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr ""
+
+msgctxt "252288"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "252292"
+msgid "F_cab_sitsofa_tlk_commentA"
+msgstr ""
+
+msgctxt "252296"
+msgid "F_cab_sitsofa_sp6_sync_kami"
+msgstr ""
+
+msgctxt "252300"
+msgid "F_cab_sitsofa_tlk_tereruB"
+msgstr ""
+
+msgctxt "252304"
+msgid "F_cab_sitsofa_tlk_refuse"
+msgstr ""
+
+msgctxt "252308"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr ""
+
+msgctxt "252312"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "252316"
+msgid "P_sitsofaR_tlk_angry"
+msgstr ""
+
+msgctxt "252320"
+msgid "P_sitsofaR_tlk_ase"
+msgstr ""
+
+msgctxt "252324"
+msgid "F_cab_sitsofa_tlk_onedariA"
+msgstr ""
+
+msgctxt "252328"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr ""
+
+msgctxt "252332"
+msgid "F_cab_stand_tlk_byeA"
+msgstr ""
+
+msgctxt "252336"
+msgid "F_cab_sitsofa_tlk_ojigiA"
+msgstr ""
+
+msgctxt "252340"
+msgid "Player"
+msgstr ""
+
+msgctxt "252344"
+msgid "F_cab_sitsofa_sync_order"
+msgstr ""
+
+msgctxt "252348"
+msgid "M_shp_sitgrd_sync_order"
+msgstr ""
+
+msgctxt "252352"
+msgid "Attendant"
+msgstr ""
+
+msgctxt "252356"
+msgid "2d_cf_meishi_rio00"
+msgstr ""
+
+msgctxt "252360"
+msgid "2d_cf_meishi_rio01"
+msgstr ""
+
+msgctxt "252364"
+msgid "F_cab_stand_sp13_sync_yubi_st"
+msgstr ""
+
+msgctxt "252368"
+msgid "P_stand_sp13_sync_yubi_st"
+msgstr ""
+
+msgctxt "252372"
+msgid "F_cab_stand_sp15_sync_yubi_ed"
+msgstr ""
+
+msgctxt "252376"
+msgid "P_stand_sp15_sync_yubi_ed"
+msgstr ""
+
+msgctxt "252380"
+msgid "F_cab_stand_sp14_sync_hoho_st"
+msgstr ""
+
+msgctxt "252384"
+msgid "P_stand_sp14_sync_hoho_st"
+msgstr ""
+
+msgctxt "252388"
+msgid "F_cab_stand_sp16_sync_hoho_ed"
+msgstr ""
+
+msgctxt "252392"
+msgid "P_stand_sp16_sync_hoho_ed"
+msgstr ""
+
+msgctxt "252396"
+msgid "F_cab_stand_sp12_sync_mune_st"
+msgstr ""
+
+msgctxt "252400"
+msgid "P_stand_sp12_sync_mune_st"
+msgstr ""
+
+msgctxt "252404"
+msgid "F_cab_stand_sp12_sync_mune_ed"
+msgstr ""
+
+msgctxt "252408"
+msgid "P_stand_sp12_sync_mune_ed"
+msgstr ""
+
+msgctxt "252412"
+msgid "F_cab_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "252416"
+msgid "P_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "252420"
+msgid "F_cab_stand_sync_dakiA_ed"
+msgstr ""
+
+msgctxt "252424"
+msgid "P_stand_sync_dakiA_ed"
+msgstr ""
+
+msgctxt "252428"
+msgid "F_cab_sitsofa_tlk_appealA"
+msgstr ""
+
+msgctxt "3960_Akiyama"
+msgid "Hey, Rio-chan, can I ask you something? You're a college student, right?"
+msgstr ""
+
+msgctxt "3972_Rio"
+msgid "Nope! Hehe. ♪"
+msgstr ""
+
+msgctxt "3984_Akiyama"
+msgid "Really?"
+msgstr ""
+
+msgctxt "3996_Rio"
+msgid "I'm currently taking a break from college."
+msgstr ""
+
+msgctxt "4008_Akiyama"
+msgid "Oh, I didn't know that... Did you take a break just for this job?"
+msgstr ""
+
+msgctxt "4020_Rio"
+msgid "Yep! ♪"
+msgstr ""
+
+msgctxt "4032_Akiyama"
+msgid "So what got you started in this line of work?"
+msgstr ""
+
+msgctxt "4044_Rio"
+msgid ""
+"The club was recruiting new girls, and one of my friends asked me to go "
+"with her to see what it was like. I decided I might like to try it, too."
+msgstr ""
+
+msgctxt "4056_Rio"
+msgid ""
+"Before that though, I'd always been intrigued by the idea of being a "
+"hostess."
+msgstr ""
+
+msgctxt "4068_Akiyama"
+msgid "So what do you think now that you're doing it?"
+msgstr ""
+
+msgctxt "4080_Rio"
+msgid ""
+"It's tons of fun! I get to talk with so many different people and learn a "
+"whole lot!"
+msgstr ""
+
+msgctxt "4092_Akiyama"
+msgid "Hehe. That seems to be the standard answer."
+msgstr ""
+
+msgctxt "4104_Rio"
+msgid "Oh, really?"
+msgstr ""
+
+msgctxt "4116_Akiyama"
+msgid "Yeah, I hear that from a lot of girls."
+msgstr ""
+
+msgctxt "4128_Rio"
+msgid "Oh. I see."
+msgstr ""
+
+msgctxt "4140_Akiyama"
+msgid "But I will say one thing."
+msgstr ""
+
+msgctxt "4152_Akiyama"
+msgid "What's important is how they say it."
+msgstr ""
+
+msgctxt "4164_Rio"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "4176_Akiyama"
+msgid "Right. The way they say it shows whether their heart's really in it or not."
+msgstr ""
+
+msgctxt "4188_Rio"
+msgid "That makes sense."
+msgstr ""
+
+msgctxt "4200_Akiyama"
+msgid "I could tell you really meant what you said from the way you said it."
+msgstr ""
+
+msgctxt "4212_Rio"
+msgid "Hehe! ♪ You really think so, huh?"
+msgstr ""
+
+msgctxt "4224_Akiyama"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "4236_Akiyama"
+msgid "So what about being a hostess interested you?"
+msgstr ""
+
+msgctxt "4248_Rio"
+msgid "Well, I didn't really know what goes on inside a hostess club at first."
+msgstr ""
+
+msgctxt "4260_Rio"
+msgid ""
+"But it's a pretty popular job for girls right now, so I wondered what sort "
+"of world a hostess club might be."
+msgstr ""
+
+msgctxt "4272_Akiyama"
+msgid "It sounds like you're the adventurous type."
+msgstr ""
+
+msgctxt "4284_Rio"
+msgid "I am, and I'm loving it here!"
+msgstr ""
+
+msgctxt "4296_Akiyama"
+msgid ""
+"Heh. Well, it's good you like being adventurous. Just don't get mixed up "
+"with the wrong kind of people."
+msgstr ""
+
+msgctxt "4308_Rio"
+msgid "Hah, don't worry, I won't!"
+msgstr ""
+
+msgctxt "4320_Akiyama"
+msgid "You're a little different from the other girls."
+msgstr ""
+
+msgctxt "4332_Rio"
+msgid "Different? What do you mean?"
+msgstr ""
+
+msgctxt "4344_Akiyama"
+msgid "Well, you're not the kind of girl I'd expect in these establishments."
+msgstr ""
+
+msgctxt "4356_Rio"
+msgid "Really?"
+msgstr ""
+
+msgctxt "4368_Akiyama"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "4380_Rio"
+msgid "Oh, hm..."
+msgstr ""
+
+msgctxt "4392_Rio"
+msgid "Do you think I'm not cut out for this job?"
+msgstr ""
+
+msgctxt "4404_Akiyama"
+msgid "That's not what I meant."
+msgstr ""
+
+msgctxt "4416_Rio"
+msgid "Oh... It wasn't?"
+msgstr ""
+
+msgctxt "4428_Rio"
+msgid "Akiyama-san! I have some great news! ♪"
+msgstr ""
+
+msgctxt "4440_Akiyama"
+msgid "Hm? What's up?"
+msgstr ""
+
+msgctxt "4452_Rio"
+msgid "I'm gonna be writing a column in a magazine!"
+msgstr ""
+
+msgctxt "4464_Akiyama"
+msgid "A magazine? You?"
+msgstr ""
+
+msgctxt "4476_Akiyama"
+msgid "Wow, congratulations! That's a pretty big deal."
+msgstr ""
+
+msgctxt "4488_Rio"
+msgid "I know! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4500_Akiyama"
+msgid "Hehe. So what sort of column is it?"
+msgstr ""
+
+msgctxt "4512_Rio"
+msgid ""
+"I'm going to write about different girls each issue. Like, girls from other "
+"clubs, I mean."
+msgstr ""
+
+msgctxt "4524_Akiyama"
+msgid "Other clubs? You mean other hostess clubs?"
+msgstr ""
+
+msgctxt "4536_Rio"
+msgid "...Maybe."
+msgstr ""
+
+msgctxt "4548_Rio"
+msgid "But I don't think it has to be just hostesses."
+msgstr ""
+
+msgctxt "4560_Akiyama"
+msgid "Huh? Well, who else?"
+msgstr ""
+
+msgctxt "4572_Rio"
+msgid ""
+"Well, they just said I should profile other girls, so I thought it might be "
+"cool to write about girls with all sorts of occupations."
+msgstr ""
+
+msgctxt "4584_Akiyama"
+msgid "That makes sense. Sounds interesting."
+msgstr ""
+
+msgctxt "4596_Rio"
+msgid "Oh! I have to think of a name for my column!"
+msgstr ""
+
+msgctxt "4608_Akiyama"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "4620_Rio"
+msgid "Yeah! What would be a good name, do you think?"
+msgstr ""
+
+msgctxt "4632_Akiyama"
+msgid ""
+"Let's see... Well, it should at least have your name in the title. That's "
+"good for a start, right?"
+msgstr ""
+
+msgctxt "4644_Rio"
+msgid "Yeah, great idea!"
+msgstr ""
+
+msgctxt "4656_Akiyama"
+msgid "As for the rest..."
+msgstr ""
+
+msgctxt "4668_Akiyama"
+msgid "How about \"Leave it to Rio!\"?"
+msgstr ""
+
+msgctxt "4680_Rio"
+msgid "Leave it to... me?"
+msgstr ""
+
+msgctxt "4692_Akiyama"
+msgid "Oh, you don't like it?"
+msgstr ""
+
+msgctxt "4704_Rio"
+msgid ""
+"Hmm... I don't know. It doesn't really reflect what my column's about. And "
+"it sounds kinda retro..."
+msgstr ""
+
+msgctxt "4716_Akiyama"
+msgid "You think?"
+msgstr ""
+
+msgctxt "4728_Rio"
+msgid ""
+"I want something more colorful. Something that makes you think of girls "
+"having a fun night out..."
+msgstr ""
+
+msgctxt "4740_Rio"
+msgid "Hmm... Almost like a... carnival?"
+msgstr ""
+
+msgctxt "4752_Rio"
+msgid "Oh! What about \"Rio's All-Night Carnival\"?"
+msgstr ""
+
+msgctxt "4764_Akiyama"
+msgid "That's got a nice ring to it."
+msgstr ""
+
+msgctxt "4776_Rio"
+msgid "Really?"
+msgstr ""
+
+msgctxt "4788_Akiyama"
+msgid "Yeah. You should go with that."
+msgstr ""
+
+msgctxt "4800_Rio"
+msgid "Hehe! ♪ Alright, maybe I will do \"Rio's All-Night Carnival\"!"
+msgstr ""
+
+msgctxt "4812_Rio"
+msgid "Well, I'll let you know how it goes."
+msgstr ""
+
+msgctxt "4824_Akiyama"
+msgid "I'm looking forward to it."
+msgstr ""
+
+msgctxt "4836_Akiyama"
+msgid "How about \"Rio, Queen of the Dance\"?"
+msgstr ""
+
+msgctxt "4848_Rio"
+msgid "Hehe! ♪ You really think so, huh?"
+msgstr ""
+
+msgctxt "4860_Akiyama"
+msgid "You don't like it?"
+msgstr ""
+
+msgctxt "4872_Rio"
+msgid ""
+"It's just that it sounds like I'm the star, but it's really about the other "
+"girls."
+msgstr ""
+
+msgctxt "4884_Akiyama"
+msgid "Yeah, I guess you're right."
+msgstr ""
+
+msgctxt "4896_Rio"
+msgid "Besides, some people might think it's actually about dancing!"
+msgstr ""
+
+msgctxt "4908_Akiyama"
+msgid "You got any other ideas?"
+msgstr ""
+
+msgctxt "4920_Rio"
+msgid ""
+"I want something more colorful. Something that makes you think of girls "
+"having a fun night out..."
+msgstr ""
+
+msgctxt "4932_Rio"
+msgid "Hmm... Almost like a... carnival?"
+msgstr ""
+
+msgctxt "4944_Rio"
+msgid "Oh! What about \"Rio's All-Night Carnival\"?"
+msgstr ""
+
+msgctxt "4956_Akiyama"
+msgid "That's got a nice ring to it."
+msgstr ""
+
+msgctxt "4968_Rio"
+msgid "You think so?"
+msgstr ""
+
+msgctxt "4980_Akiyama"
+msgid "Yeah. You should go with that."
+msgstr ""
+
+msgctxt "4992_Rio"
+msgid "Hehe! ♪ You really think so, huh?"
+msgstr ""
+
+msgctxt "5004_Rio"
+msgid "I'll let you know how it goes. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "5016_Akiyama"
+msgid "I'll look forward to that."
+msgstr ""
+
+msgctxt "5028_Akiyama"
+msgid "How about \"Rio's All-Night Carnival\"?"
+msgstr ""
+
+msgctxt "5040_Rio"
+msgid "Ooh! That's good!"
+msgstr ""
+
+msgctxt "5052_Akiyama"
+msgid "Hah. Is it really that exciting?"
+msgstr ""
+
+msgctxt "5064_Rio"
+msgid "Hehehe! <Color:7>♥<Color:Default> Heck yeah it is!"
+msgstr ""
+
+msgctxt "5076_Rio"
+msgid "It creates an image of the girls of Kamurocho partying together!"
+msgstr ""
+
+msgctxt "5088_Rio"
+msgid "You've got a talent for this, Akiyama-san!"
+msgstr ""
+
+msgctxt "5100_Akiyama"
+msgid "Nah, it's no big deal."
+msgstr ""
+
+msgctxt "5112_Rio"
+msgid "Hehe! ♪ Well, maybe I'll go with that!"
+msgstr ""
+
+msgctxt "5124_Rio"
+msgid "I'll let you know how it goes. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "5136_Akiyama"
+msgid "I'm looking forward to it."
+msgstr ""
+
+msgctxt "5148_Rio"
+msgid "Akiyama-san, can I ask you something?"
+msgstr ""
+
+msgctxt "5160_Akiyama"
+msgid "Yeah, sure."
+msgstr ""
+
+msgctxt "5172_Rio"
+msgid "I've got a dog, and I'm looking for a companion for him."
+msgstr ""
+
+msgctxt "5184_Akiyama"
+msgid "Why's that?"
+msgstr ""
+
+msgctxt "5196_Rio"
+msgid "He's lonely all by himself. I thought I should get him a friend."
+msgstr ""
+
+msgctxt "5208_Akiyama"
+msgid "Ah, I see. And?"
+msgstr ""
+
+msgctxt "5220_Rio"
+msgid ""
+"I went to the pet store a while ago, and they had an adorable pair of dogs "
+"who were brother and sister."
+msgstr ""
+
+msgctxt "5232_Rio"
+msgid "I thought about getting the girl, but..."
+msgstr ""
+
+msgctxt "5244_Rio"
+msgid "They just looked so happy together. I couldn't bear splitting them up."
+msgstr ""
+
+msgctxt "5256_Akiyama"
+msgid ""
+"You mean that your dog would get a companion, but the dog in the pet store "
+"would lose his?"
+msgstr ""
+
+msgctxt "5268_Rio"
+msgid "Exactly. So I left without getting either."
+msgstr ""
+
+msgctxt "5280_Akiyama"
+msgid "Well, I guess there wasn't much of a choice, huh?"
+msgstr ""
+
+msgctxt "5292_Rio"
+msgid "Anyway, a few days ago I went back to the pet store and saw a familiar face."
+msgstr ""
+
+msgctxt "5304_Akiyama"
+msgid "The dogs from before?"
+msgstr ""
+
+msgctxt "5316_Rio"
+msgid "Yes, but this time there was only one－the male."
+msgstr ""
+
+msgctxt "5328_Akiyama"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "5340_Rio"
+msgid ""
+"Some time had passed since I'd last seen him, actually. He'd grown quite a "
+"bit, and he looked like a scruffy old man."
+msgstr ""
+
+msgctxt "5352_Rio"
+msgid "I don't think anybody's gonna want him now..."
+msgstr ""
+
+msgctxt "5364_Akiyama"
+msgid "Except for you, right?"
+msgstr ""
+
+msgctxt "5376_Rio"
+msgid ""
+"Hehehe. I doubt anyone else will buy him. Plus, he's all alone now that his "
+"sister's gone."
+msgstr ""
+
+msgctxt "5388_Akiyama"
+msgid "You want a dog that looks like an old man?"
+msgstr ""
+
+msgctxt "5400_Rio"
+msgid "Oh, I don't know. What should I do?"
+msgstr ""
+
+msgctxt "5412_Akiyama"
+msgid "It's a big decision."
+msgstr ""
+
+msgctxt "5424_Rio"
+msgid "I can't make up my mind."
+msgstr ""
+
+msgctxt "5436_Akiyama"
+msgid ""
+"Well, I can't really criticize the poor mutt. After all, I'm also a scruffy "
+"old man."
+msgstr ""
+
+msgctxt "5448_Rio"
+msgid "Haha. Oh, you are not, Akiyama-san!"
+msgstr ""
+
+msgctxt "5460_Akiyama"
+msgid "Heh, thanks. But anyway, what are you gonna do about the dog?"
+msgstr ""
+
+msgctxt "5472_Rio"
+msgid "I really don't know."
+msgstr ""
+
+msgctxt "5484_Akiyama"
+msgid ""
+"Sounds like fate. There had to be a reason he was still at the pet store. "
+"Maybe he was waiting for you all this time? You should buy him."
+msgstr ""
+
+msgctxt "5496_Rio"
+msgid "Yeah, I think you're right. I kinda feel a connection to him."
+msgstr ""
+
+msgctxt "5508_Akiyama"
+msgid ""
+"Don't overthink it, just follow your gut. Go back one more time and make "
+"your decision right there and then."
+msgstr ""
+
+msgctxt "5520_Rio"
+msgid "......"
+msgstr ""
+
+msgctxt "5532_Rio"
+msgid "You're right. I'll do that!"
+msgstr ""
+
+msgctxt "5544_Akiyama"
+msgid "Yeah, that's the best decision you could make."
+msgstr ""
+
+msgctxt "5556_Rio"
+msgid "Thanks so much for the advice, Akiyama-san!"
+msgstr ""
+
+msgctxt "5568_Akiyama"
+msgid ""
+"Do you really want a dog that nobody else wants? You can do better than "
+"that."
+msgstr ""
+
+msgctxt "5580_Rio"
+msgid "Maybe you're right..."
+msgstr ""
+
+msgctxt "5592_Akiyama"
+msgid ""
+"He didn't look like an old man the first time you saw him, right? There's "
+"probably a reason why no one's bought him yet."
+msgstr ""
+
+msgctxt "5604_Rio"
+msgid "I guess so, but still..."
+msgstr ""
+
+msgctxt "5616_Rio"
+msgid "That's a bit insensitive, don't you think?"
+msgstr ""
+
+msgctxt "5628_Akiyama"
+msgid "Oh, yeah... Sorry..."
+msgstr ""
+
+msgctxt "5640_Rio"
+msgid "I went on a photoshoot today. You know, for the magazine?"
+msgstr ""
+
+msgctxt "5652_Akiyama"
+msgid "Oh yeah. Did you finally decide on a name for your column?"
+msgstr ""
+
+msgctxt "5664_Rio"
+msgid "Hehe, oh yes I did! I'm going with \"Rio's All-Night Carnival\"!"
+msgstr ""
+
+msgctxt "5676_Akiyama"
+msgid "That's great! I really liked that name."
+msgstr ""
+
+msgctxt "5688_Rio"
+msgid ""
+"Yep, and I wouldn't have come up with that without you, Akiyama-san. Thank "
+"you so much."
+msgstr ""
+
+msgctxt "5700_Akiyama"
+msgid "Heh, no problem."
+msgstr ""
+
+msgctxt "5712_Rio"
+msgid ""
+"Anyway, today we weren't taking pictures for my column. It was for the "
+"magazine cover!"
+msgstr ""
+
+msgctxt "5724_Akiyama"
+msgid "The cover? Wow."
+msgstr ""
+
+msgctxt "5736_Rio"
+msgid "I was wearing a kind of S&M policewoman outfit. It was a little kinky."
+msgstr ""
+
+msgctxt "5748_Akiyama"
+msgid "Heh. Sounds like fun."
+msgstr ""
+
+msgctxt "5760_Rio"
+msgid ""
+"But I get the impression that every time I do a shoot, they want me to wear "
+"less clothing."
+msgstr ""
+
+msgctxt "5772_Akiyama"
+msgid "Oh? How many times have you done this?"
+msgstr ""
+
+msgctxt "5784_Rio"
+msgid "Hmm... Seven, eight, nine... I think around ten, maybe just under that."
+msgstr ""
+
+msgctxt "5796_Akiyama"
+msgid "Nothing wrong with showing a little skin."
+msgstr ""
+
+msgctxt "5808_Rio"
+msgid "Oho! You like that kind of thing, huh?"
+msgstr ""
+
+msgctxt "5820_Akiyama"
+msgid "Hehehe. I sure do."
+msgstr ""
+
+msgctxt "5832_Rio"
+msgid "Hehe! Oh, you perv! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "5844_Akiyama"
+msgid "But you know, you can really only do that kind of thing while you're young."
+msgstr ""
+
+msgctxt "5856_Rio"
+msgid "Yeah. The photographer said the same thing."
+msgstr ""
+
+msgctxt "5868_Akiyama"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "5880_Rio"
+msgid ""
+"He said that it was a pleasure to photograph someone so beautiful. He just "
+"wanted to take as many pictures of me as he could."
+msgstr ""
+
+msgctxt "5892_Rio"
+msgid ""
+"I guess it's natural to want to please someone who says something sweet "
+"like that, right?"
+msgstr ""
+
+msgctxt "5904_Akiyama"
+msgid ""
+"Yeah, I'm sure you'd be happy to hear something like that. I'll be cheering "
+"you on, too."
+msgstr ""
+
+msgctxt "5916_Rio"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "5928_Akiyama"
+msgid "Aren't you embarrassed?"
+msgstr ""
+
+msgctxt "5940_Rio"
+msgid "Hmm... I'd be lying if I said I wasn't embarrassed at all, but..."
+msgstr ""
+
+msgctxt "5952_Rio"
+msgid "I am actually really excited to do it!"
+msgstr ""
+
+msgctxt "5964_Akiyama"
+msgid "Wow. Why's that?"
+msgstr ""
+
+msgctxt "5976_Rio"
+msgid "The photographer said something to me."
+msgstr ""
+
+msgctxt "5988_Akiyama"
+msgid "What did he say?"
+msgstr ""
+
+msgctxt "6000_Rio"
+msgid ""
+"He said that it was a pleasure to photograph someone so beautiful. He just "
+"wanted to take as many pictures of me as he could."
+msgstr ""
+
+msgctxt "6012_Rio"
+msgid ""
+"I guess it's natural to want to please someone who says something sweet "
+"like that, right?"
+msgstr ""
+
+msgctxt "6024_Akiyama"
+msgid "Yeah, I'm sure you'd be happy to hear something like that."
+msgstr ""
+
+msgctxt "6036_Akiyama"
+msgid "I'll be cheering you on, too."
+msgstr ""
+
+msgctxt "6048_Rio"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "6060_Akiyama"
+msgid "You should dress up as a sexy bunny girl next."
+msgstr ""
+
+msgctxt "6072_Rio"
+msgid "Hehehe! ♪ So you like bunny girls, huh?"
+msgstr ""
+
+msgctxt "6084_Akiyama"
+msgid "Uh, I was just sort of thinking out loud..."
+msgstr ""
+
+msgctxt "6096_Rio"
+msgid "You're funny, Akiyama-san!"
+msgstr ""
+
+msgctxt "6108_Akiyama"
+msgid "Heh."
+msgstr ""
+
+msgctxt "6120_Rio"
+msgid "Maybe I will ask if I can be a bunny girl next time."
+msgstr ""
+
+msgctxt "6132_Akiyama"
+msgid "You're certainly enthusiastic about this."
+msgstr ""
+
+msgctxt "6144_Rio"
+msgid "Well, it's because of something the photographer said."
+msgstr ""
+
+msgctxt "6156_Akiyama"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "6168_Rio"
+msgid ""
+"He said that it was a pleasure to photograph someone so beautiful. He just "
+"wanted to take as many pictures of me as he could."
+msgstr ""
+
+msgctxt "6180_Rio"
+msgid ""
+"I guess it's natural to want to please someone who says something sweet "
+"like that, right?"
+msgstr ""
+
+msgctxt "6192_Akiyama"
+msgid "Yeah, I'm sure you'd be happy to hear something like that."
+msgstr ""
+
+msgctxt "6204_Akiyama"
+msgid "Well, see if he'll let you be a bunny next time."
+msgstr ""
+
+msgctxt "6216_Rio"
+msgid "Hehe, well, I'll bring it up!"
+msgstr ""
+
+msgctxt "6228_Rio"
+msgid "Akiyama-san, do you play guitar?"
+msgstr ""
+
+msgctxt "6240_Akiyama"
+msgid "Guitar? Where'd that come from?"
+msgstr ""
+
+msgctxt "6252_Akiyama"
+msgid ""
+"Well, I've messed around with one before, but that's about it. Why do you "
+"ask?"
+msgstr ""
+
+msgctxt "6264_Rio"
+msgid "I've just always thought it would be cool to be able to play the guitar."
+msgstr ""
+
+msgctxt "6276_Rio"
+msgid ""
+"I have a friend who plays. She said that once you have the chords down, the "
+"rest is easy."
+msgstr ""
+
+msgctxt "6288_Rio"
+msgid ""
+"So the other day I decided to go ahead and buy a guitar. It wasn't cheap, "
+"either."
+msgstr ""
+
+msgctxt "6300_Akiyama"
+msgid "Wow. You don't mess around, do you? Have you tried playing it?"
+msgstr ""
+
+msgctxt "6312_Rio"
+msgid ""
+"I have! I don't have the time to practice as much as I should, but I'm "
+"going to do my best to play well!"
+msgstr ""
+
+msgctxt "6324_Akiyama"
+msgid "I hear a lot of people quit after a few weeks."
+msgstr ""
+
+msgctxt "6336_Rio"
+msgid "I know! That's why I purposely bought an expensive one."
+msgstr ""
+
+msgctxt "6348_Akiyama"
+msgid "Huh? Why?"
+msgstr ""
+
+msgctxt "6360_Rio"
+msgid "I tend to eventually give up with things like this."
+msgstr ""
+
+msgctxt "6372_Rio"
+msgid ""
+"But I figured if I spent a lot of money, I'd keep it up. Quitting would be "
+"a huge waste."
+msgstr ""
+
+msgctxt "6384_Akiyama"
+msgid "Hmm. I see..."
+msgstr ""
+
+msgctxt "6396_Rio"
+msgid ""
+"Right now my goal is to keep practicing for a month. It helps to set little "
+"goals like that."
+msgstr ""
+
+msgctxt "6408_Akiyama"
+msgid "Yeah? Well, let me know when you play."
+msgstr ""
+
+msgctxt "6420_Rio"
+msgid "I will!"
+msgstr ""
+
+msgctxt "6432_Akiyama"
+msgid "Isn't it hard to play with nails like that?"
+msgstr ""
+
+msgctxt "6444_Rio"
+msgid "Whoa! I'm surprised you thought of that!"
+msgstr ""
+
+msgctxt "6456_Akiyama"
+msgid "Really? It seems pretty obvious to me."
+msgstr ""
+
+msgctxt "6468_Rio"
+msgid ""
+"You're a step ahead of most men, then. Guys don't think about a girl's "
+"nails."
+msgstr ""
+
+msgctxt "6480_Akiyama"
+msgid "Oh, I see... Well, anyway, do they get in the way?"
+msgstr ""
+
+msgctxt "6492_Rio"
+msgid ""
+"Well, these are removable nails. I put them on with a kind of double-sided "
+"tape."
+msgstr ""
+
+msgctxt "6504_Akiyama"
+msgid "Huh. What'll they think of next?"
+msgstr ""
+
+msgctxt "6516_Rio"
+msgid ""
+"Problem is, they come off a little too easily, so they're not very "
+"practical."
+msgstr ""
+
+msgctxt "6528_Akiyama"
+msgid "I can see that. Being a girl must be tough."
+msgstr ""
+
+msgctxt "6540_Rio"
+msgid "Hehe! ♪ Oh, it sure can be, but most of the time, being a girl is a blast!"
+msgstr ""
+
+msgctxt "6552_Akiyama"
+msgid "Heh. I'll take your word for it."
+msgstr ""
+
+msgctxt "6564_Akiyama"
+msgid "Well, good luck with the guitar. Let me know when you can play it."
+msgstr ""
+
+msgctxt "6576_Rio"
+msgid "I will!"
+msgstr ""
+
+msgctxt "6588_Akiyama"
+msgid "Why did you pick the guitar?"
+msgstr ""
+
+msgctxt "6600_Rio"
+msgid "Because of someone I used to date, actually."
+msgstr ""
+
+msgctxt "6612_Akiyama"
+msgid "Yeah? Was he in a band or something?"
+msgstr ""
+
+msgctxt "6624_Rio"
+msgid "Yep. And that made me wish I could play, too."
+msgstr ""
+
+msgctxt "6636_Akiyama"
+msgid "Playing an instrument can be fun."
+msgstr ""
+
+msgctxt "6648_Rio"
+msgid "For sure! ♪"
+msgstr ""
+
+msgctxt "6660_Akiyama"
+msgid "So you want to be able to sing and play?"
+msgstr ""
+
+msgctxt "6672_Rio"
+msgid ""
+"Yeah! Just think about it! Everyone's out camping and singing songs around "
+"a campfire, and then I pull out my guitar! Wouldn't that be awesome?"
+msgstr ""
+
+msgctxt "6684_Akiyama"
+msgid "Hah! So that's your image of a guitar player?"
+msgstr ""
+
+msgctxt "6696_Rio"
+msgid "Yes! Exactly!"
+msgstr ""
+
+msgctxt "6708_Akiyama"
+msgid "Well, good luck with the guitar. Let me know when you can play it."
+msgstr ""
+
+msgctxt "6720_Rio"
+msgid "I will!"
+msgstr ""
+
+msgctxt "6732_Rio"
+msgid "I wish I could play some table tennis."
+msgstr ""
+
+msgctxt "6744_Akiyama"
+msgid "Table tennis, huh?"
+msgstr ""
+
+msgctxt "6756_Rio"
+msgid "Yeah. I haven't played it at all recently..."
+msgstr ""
+
+msgctxt "6768_Akiyama"
+msgid "So you used to play? I have a hard time picturing that."
+msgstr ""
+
+msgctxt "6780_Rio"
+msgid "I'm pretty good, actually! I bet I could beat your pants off, Akiyama-san!"
+msgstr ""
+
+msgctxt "6792_Akiyama"
+msgid "That sounds like a challenge!"
+msgstr ""
+
+msgctxt "6804_Rio"
+msgid "You think so, huh?"
+msgstr ""
+
+msgctxt "6816_Akiyama"
+msgid "All right, then. Let's play!"
+msgstr ""
+
+msgctxt "6828_Rio"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "6840_Akiyama"
+msgid "Sure about what?"
+msgstr ""
+
+msgctxt "6852_Rio"
+msgid "I'm not gonna take it easy on you. You still wanna do it?"
+msgstr ""
+
+msgctxt "6864_Akiyama"
+msgid "Yeah, bring it on."
+msgstr ""
+
+msgctxt "6876_Rio"
+msgid "Awesome! I can't wait!"
+msgstr ""
+
+msgctxt "6888_Rio"
+msgid "So what kind of stakes should we play for?"
+msgstr ""
+
+msgctxt "6900_Akiyama"
+msgid "You must be good if you're that confident."
+msgstr ""
+
+msgctxt "6912_Rio"
+msgid ""
+"I used to play the boys at my college for their lunches. I ate like a queen "
+"back then, hehe."
+msgstr ""
+
+msgctxt "6924_Akiyama"
+msgid "Seriously? You sure that was you and not someone else?"
+msgstr ""
+
+msgctxt "6936_Rio"
+msgid "Hehe, it's just a side of me that slips out sometimes."
+msgstr ""
+
+msgctxt "6948_Rio"
+msgid "Alright, so what are we playing for?"
+msgstr ""
+
+msgctxt "6960_Akiyama"
+msgid "Well, if I win, you have to let me do something to you."
+msgstr ""
+
+msgctxt "6972_Rio"
+msgid "Huh!? What do you want to do to me?"
+msgstr ""
+
+msgctxt "6984_Akiyama"
+msgid "Flick you on the forehead."
+msgstr ""
+
+msgctxt "6996_Rio"
+msgid "Oh, hehehe. You scared me there!"
+msgstr ""
+
+msgctxt "7008_Akiyama"
+msgid "How long have you been playing?"
+msgstr ""
+
+msgctxt "7020_Rio"
+msgid "Since junior high!"
+msgstr ""
+
+msgctxt "7032_Akiyama"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "7044_Rio"
+msgid ""
+"I used to practice every day. Mostly without a ball and usually wearing "
+"shorts!"
+msgstr ""
+
+msgctxt "7056_Akiyama"
+msgid ""
+"Without a ball!? How does that work? And are we sure this is you we're "
+"talking about?"
+msgstr ""
+
+msgctxt "7068_Rio"
+msgid "Hehe, it's just a side of me that slips out sometimes."
+msgstr ""
+
+msgctxt "7080_Akiyama"
+msgid "It sounds like you put a lot of work in."
+msgstr ""
+
+msgctxt "7092_Rio"
+msgid "I did... But after a while, I started skipping practice."
+msgstr ""
+
+msgctxt "7104_Akiyama"
+msgid "Really? Why?"
+msgstr ""
+
+msgctxt "7116_Rio"
+msgid "I don't know. I just got tired of it, I guess."
+msgstr ""
+
+msgctxt "7128_Akiyama"
+msgid "Ah..."
+msgstr ""
+
+msgctxt "7140_Akiyama"
+msgid "Anyway, I'd like to see you in action. We should play some time."
+msgstr ""
+
+msgctxt "7152_Rio"
+msgid "Really? Well, you better get practicing then!"
+msgstr ""
+
+msgctxt "7164_Akiyama"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "7176_Rio"
+msgid "If you don't, I'll blow you out of the water!"
+msgstr ""
+
+msgctxt "7188_Akiyama"
+msgid "Heh. I will then."
+msgstr ""
+
+msgctxt "7200_Akiyama"
+msgid "Isn't table tennis kind of lame?"
+msgstr ""
+
+msgctxt "7212_Rio"
+msgid "What!? How is it lame?"
+msgstr ""
+
+msgctxt "7224_Akiyama"
+msgid "Those short shorts that the players wear..."
+msgstr ""
+
+msgctxt "7236_Rio"
+msgid "I like those shorts! They're cute!"
+msgstr ""
+
+msgctxt "7248_Akiyama"
+msgid "For real? And are we sure this is you we're talking about?"
+msgstr ""
+
+msgctxt "7260_Rio"
+msgid "Hehe, it's just a side of me that slips out sometimes."
+msgstr ""
+
+msgctxt "7272_Akiyama"
+msgid "So you're pretty good, huh?"
+msgstr ""
+
+msgctxt "7284_Rio"
+msgid "I can hold my own. What do you say? Let's play a match! Come on!"
+msgstr ""
+
+msgctxt "7296_Akiyama"
+msgid "I think I'll pass."
+msgstr ""
+
+msgctxt "7308_Rio"
+msgid "Aww..."
+msgstr ""
+
+msgctxt "7320_Akiyama"
+msgid "Have you gone anywhere recently?"
+msgstr ""
+
+msgctxt "7332_Rio"
+msgid "Let's see... Well, I've really been into hot springs recently."
+msgstr ""
+
+msgctxt "7344_Akiyama"
+msgid "Oh yeah? Where've you gone?"
+msgstr ""
+
+msgctxt "7356_Rio"
+msgid "Well, Izu Nagaoka and the one that's near Atami..."
+msgstr ""
+
+msgctxt "7368_Akiyama"
+msgid "Ito?"
+msgstr ""
+
+msgctxt "7380_Rio"
+msgid "Ito, yes, that's the one!"
+msgstr ""
+
+msgctxt "7392_Akiyama"
+msgid "I've been there. It's nice."
+msgstr ""
+
+msgctxt "7404_Rio"
+msgid "Yep! And Nishiizu is nice too..."
+msgstr ""
+
+msgctxt "7416_Akiyama"
+msgid "Don't you go anywhere but Izu?"
+msgstr ""
+
+msgctxt "7428_Rio"
+msgid "Hehe! I guess you're right. Those are all in Izu, huh?"
+msgstr ""
+
+msgctxt "7440_Akiyama"
+msgid "Hehe, yep."
+msgstr ""
+
+msgctxt "7452_Rio"
+msgid "Let's see, where else have I gone? Definitely Izu... Izu, and... Zushi?"
+msgstr ""
+
+msgctxt "7464_Rio"
+msgid "Wait, nope. I haven't been to Zushi."
+msgstr ""
+
+msgctxt "7476_Akiyama"
+msgid "Maybe you should try a different area."
+msgstr ""
+
+msgctxt "7488_Rio"
+msgid "Hehe, I guess you're right, but I can't help it!"
+msgstr ""
+
+msgctxt "7500_Akiyama"
+msgid "Maybe I should go with you next time."
+msgstr ""
+
+msgctxt "7512_Rio"
+msgid "Oh, were you planning on going to a hot spring?"
+msgstr ""
+
+msgctxt "7524_Akiyama"
+msgid "No. I just thought it might be fun to go with you."
+msgstr ""
+
+msgctxt "7536_Rio"
+msgid "What!?"
+msgstr ""
+
+msgctxt "7548_Akiyama"
+msgid "Is there a problem?"
+msgstr ""
+
+msgctxt "7560_Rio"
+msgid "Isn't it a little early to be talking about something like that?"
+msgstr ""
+
+msgctxt "7572_Akiyama"
+msgid "You think so?"
+msgstr ""
+
+msgctxt "7584_Rio"
+msgid "You probably ask out every girl you meet."
+msgstr ""
+
+msgctxt "7596_Akiyama"
+msgid "Not at all. You're the only one."
+msgstr ""
+
+msgctxt "7608_Rio"
+msgid "Really?"
+msgstr ""
+
+msgctxt "7620_Akiyama"
+msgid "(Hmm. I may have given her the wrong idea...)"
+msgstr ""
+
+msgctxt "7632_Akiyama"
+msgid "Hot springs are nice, aren't they?"
+msgstr ""
+
+msgctxt "7644_Rio"
+msgid ""
+"I love them! Just seeing the steam rising from the water makes me feel "
+"relaxed."
+msgstr ""
+
+msgctxt "7656_Akiyama"
+msgid "I know what you mean."
+msgstr ""
+
+msgctxt "7668_Rio"
+msgid "I wonder where I should go next."
+msgstr ""
+
+msgctxt "7680_Akiyama"
+msgid "Heh. At this point, you might as well go to all of the hot springs in Izu."
+msgstr ""
+
+msgctxt "7692_Rio"
+msgid ""
+"Hehe, that does sound like a good idea. I always get excited when I have a "
+"goal!"
+msgstr ""
+
+msgctxt "7704_Akiyama"
+msgid "Just take me with you once, okay?"
+msgstr ""
+
+msgctxt "7716_Rio"
+msgid "Hmm, I have a better idea. Instead of me taking you, you should take me!"
+msgstr ""
+
+msgctxt "7728_Akiyama"
+msgid "All right. I'll see what I can do."
+msgstr ""
+
+msgctxt "7740_Rio"
+msgid "I'm rooting for you! ♪"
+msgstr ""
+
+msgctxt "7752_Akiyama"
+msgid "I bet you look good in a yukata."
+msgstr ""
+
+msgctxt "7764_Rio"
+msgid "You think so?"
+msgstr ""
+
+msgctxt "7776_Akiyama"
+msgid "Yeah. I'd like to see what you look like in one."
+msgstr ""
+
+msgctxt "7788_Rio"
+msgid "Oh, Akiyama-san, you're just saying that."
+msgstr ""
+
+msgctxt "7800_Akiyama"
+msgid "No, I mean it."
+msgstr ""
+
+msgctxt "7812_Rio"
+msgid ""
+"Hehe, thanks. I didn't think it'd be that big of a deal. Do you like girls "
+"in yukatas?"
+msgstr ""
+
+msgctxt "7824_Akiyama"
+msgid ""
+"Yeah. But to be completely accurate, I enjoy taking the yukatas off of "
+"girls."
+msgstr ""
+
+msgctxt "7836_Rio"
+msgid "Hehehe. Do you imagine that every time you see a girl in a yukata?"
+msgstr ""
+
+msgctxt "7848_Akiyama"
+msgid "Pretty much... A little daydreaming never hurt anybody."
+msgstr ""
+
+msgctxt "7860_Rio"
+msgid "Oh, you do have fun, don't you?"
+msgstr ""
+
+msgctxt "7872_Rio"
+msgid "Have you met Yokoyama-kun? He's one of the attendants here."
+msgstr ""
+
+msgctxt "7884_Akiyama"
+msgid "The guy by the entrance?"
+msgstr ""
+
+msgctxt "7896_Rio"
+msgid "Um... Oh, I guess he's not here today."
+msgstr ""
+
+msgctxt "7908_Akiyama"
+msgid "What about him?"
+msgstr ""
+
+msgctxt "7920_Rio"
+msgid ""
+"Well, Yokoyama-kun has a habit of shaking his legs, and it's pretty "
+"ridiculous!"
+msgstr ""
+
+msgctxt "7932_Akiyama"
+msgid "Yeah, that bothers the people watching more than the person who's doing it."
+msgstr ""
+
+msgctxt "7944_Rio"
+msgid ""
+"It doesn't just bother me, I can't stand it! It's not just when he's "
+"sitting down, either. Sometimes he'll be standing, and boom! His leg starts "
+"jiggling."
+msgstr ""
+
+msgctxt "7956_Akiyama"
+msgid "Huh!? For real!?"
+msgstr ""
+
+msgctxt "7968_Rio"
+msgid "Oh yeah! And it's not just one, but both legs! I mean, come on!"
+msgstr ""
+
+msgctxt "7980_Akiyama"
+msgid "Both legs bouncing sounds annoying."
+msgstr ""
+
+msgctxt "7992_Rio"
+msgid "I did a double take the first time I saw it!"
+msgstr ""
+
+msgctxt "8004_Akiyama"
+msgid "Hehe."
+msgstr ""
+
+msgctxt "8016_Rio"
+msgid "But to tell you the truth..."
+msgstr ""
+
+msgctxt "8028_Rio"
+msgid ""
+"I used to do that when I was in high school, too! They say that people who "
+"do it end up poor, so I stopped."
+msgstr ""
+
+msgctxt "8040_Akiyama"
+msgid "Hahaha. I'm pretty sure that's an old wives' tale."
+msgstr ""
+
+msgctxt "8052_Rio"
+msgid "Of course it is, but you want to be sure, you know?"
+msgstr ""
+
+msgctxt "8064_Akiyama"
+msgid ""
+"I guess it does make you look poor somehow. Maybe that's how that idea got "
+"started."
+msgstr ""
+
+msgctxt "8076_Rio"
+msgid "Yeah, you might be right!"
+msgstr ""
+
+msgctxt "8088_Akiyama"
+msgid "I sometimes do that myself."
+msgstr ""
+
+msgctxt "8100_Rio"
+msgid "You too, Akiyama-san?"
+msgstr ""
+
+msgctxt "8112_Akiyama"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "8124_Rio"
+msgid "With both legs?"
+msgstr ""
+
+msgctxt "8136_Akiyama"
+msgid "Uh, no..."
+msgstr ""
+
+msgctxt "8148_Rio"
+msgid "Whew! I'm glad. I'd have had a hard time if it was both legs!"
+msgstr ""
+
+msgctxt "8160_Akiyama"
+msgid "Nope. Just the one. And I don't do it standing up, either."
+msgstr ""
+
+msgctxt "8172_Rio"
+msgid "I'm so relieved to hear that!"
+msgstr ""
+
+msgctxt "8184_Akiyama"
+msgid "Do you know why people do that?"
+msgstr ""
+
+msgctxt "8196_Rio"
+msgid "Hm... Something to do with nerves, maybe?"
+msgstr ""
+
+msgctxt "8208_Akiyama"
+msgid "I heard it was related to the amount of muscle you have."
+msgstr ""
+
+msgctxt "8220_Rio"
+msgid "Muscle!?"
+msgstr ""
+
+msgctxt "8232_Akiyama"
+msgid ""
+"Yeah. It seems that people who have a lot of muscle are more likely to have "
+"lactic acid build up in their bodies."
+msgstr ""
+
+msgctxt "8244_Akiyama"
+msgid ""
+"When they stay in the same position for too long, the lactic acid builds "
+"up..."
+msgstr ""
+
+msgctxt "8256_Akiyama"
+msgid ""
+"...and they feel like they have to move in order to dissolve it. That's why "
+"some people bounce their legs."
+msgstr ""
+
+msgctxt "8268_Rio"
+msgid "Really? It's so amazing that you know that, Akiyama-san!"
+msgstr ""
+
+msgctxt "8280_Akiyama"
+msgid "That's just what I've heard."
+msgstr ""
+
+msgctxt "8292_Rio"
+msgid "But that does sound about right!"
+msgstr ""
+
+msgctxt "8304_Akiyama"
+msgid "I'm not positive, but it sounds plausible."
+msgstr ""
+
+msgctxt "8316_Rio"
+msgid "It does. Should I recommend that Yokoyama-kun do some stretches, then?"
+msgstr ""
+
+msgctxt "8328_Akiyama"
+msgid "Uh, no. Just leave him be."
+msgstr ""
+
+msgctxt "8340_Rio"
+msgid "What makes you say that?"
+msgstr ""
+
+msgctxt "8352_Akiyama"
+msgid "There aren't that many people who can bounce both legs like that, you know?"
+msgstr ""
+
+msgctxt "8364_Rio"
+msgid "Hehe! Oh, you're so mean!"
+msgstr ""
+
+msgctxt "8376_Rio"
+msgid "Are you married, Akiyama-san?"
+msgstr ""
+
+msgctxt "8388_Akiyama"
+msgid "Me? Nope. I'm single."
+msgstr ""
+
+msgctxt "8400_Rio"
+msgid "Oh really?"
+msgstr ""
+
+msgctxt "8412_Akiyama"
+msgid "Why? Do I look married?"
+msgstr ""
+
+msgctxt "8424_Rio"
+msgid "......"
+msgstr ""
+
+msgctxt "8436_Rio"
+msgid "No way! Not at all!"
+msgstr ""
+
+msgctxt "8448_Akiyama"
+msgid "That's what I thought. What about you?"
+msgstr ""
+
+msgctxt "8460_Rio"
+msgid "Me?"
+msgstr ""
+
+msgctxt "8472_Akiyama"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "8484_Rio"
+msgid "Well... I'm just getting over a breakup."
+msgstr ""
+
+msgctxt "8496_Akiyama"
+msgid "What do you do to get over something like that?"
+msgstr ""
+
+msgctxt "8508_Rio"
+msgid "I'm trying to become prettier than I was when I was going out with my ex."
+msgstr ""
+
+msgctxt "8520_Akiyama"
+msgid "Prettier?"
+msgstr ""
+
+msgctxt "8532_Rio"
+msgid "Yep! I've been working on my hair and making my skin nice and firm."
+msgstr ""
+
+msgctxt "8544_Akiyama"
+msgid ""
+"Hmm, I see... So you're trying to feel better by aiming for those goals. "
+"Got it."
+msgstr ""
+
+msgctxt "8556_Rio"
+msgid "Yep, that's right."
+msgstr ""
+
+msgctxt "8568_Akiyama"
+msgid "How much would you say you've recovered?"
+msgstr ""
+
+msgctxt "8580_Rio"
+msgid "Hmm... Maybe 60 or 70%?"
+msgstr ""
+
+msgctxt "8592_Akiyama"
+msgid "So you're making progress then."
+msgstr ""
+
+msgctxt "8604_Rio"
+msgid "I think so. ♪"
+msgstr ""
+
+msgctxt "8616_Akiyama"
+msgid "I think you're beautiful as you are, though."
+msgstr ""
+
+msgctxt "8628_Rio"
+msgid "No, I still have a ways to go. At least that's how I feel about it."
+msgstr ""
+
+msgctxt "8640_Akiyama"
+msgid "Heh, I see... Well, I think you're doing great so far. Keep at it."
+msgstr ""
+
+msgctxt "8652_Rio"
+msgid "Thanks! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8664_Akiyama"
+msgid "I sort of understand what you mean."
+msgstr ""
+
+msgctxt "8676_Rio"
+msgid "Really?"
+msgstr ""
+
+msgctxt "8688_Akiyama"
+msgid ""
+"You want to make yourself prettier to get back at him, right? Sorta make "
+"him regret losing you?"
+msgstr ""
+
+msgctxt "8700_Rio"
+msgid "Yeah, kinda like that!"
+msgstr ""
+
+msgctxt "8712_Akiyama"
+msgid ""
+"But you know what? I bet he's already regretting it. I know I'd never let a "
+"girl like you get away."
+msgstr ""
+
+msgctxt "8724_Rio"
+msgid "Hehehe. Oh, stop it!"
+msgstr ""
+
+msgctxt "8736_Akiyama"
+msgid "That's a positive way to look at things."
+msgstr ""
+
+msgctxt "8748_Rio"
+msgid "Not really. It's pretty negative."
+msgstr ""
+
+msgctxt "8760_Akiyama"
+msgid "Not at all! A pessimist wouldn't put in the hard work like you're doing!"
+msgstr ""
+
+msgctxt "8772_Rio"
+msgid "Hmm, really?"
+msgstr ""
+
+msgctxt "8784_Akiyama"
+msgid "Sure. You may not feel totally positive, but..."
+msgstr ""
+
+msgctxt "8796_Akiyama"
+msgid ""
+"At least you're trying to improve yourself, right? That's a positive way to "
+"look at things."
+msgstr ""
+
+msgctxt "8808_Rio"
+msgid "Hm, never thought of it like that before. I guess it's not negative..."
+msgstr ""
+
+msgctxt "8820_Akiyama"
+msgid "Exactly."
+msgstr ""
+
+msgctxt "8832_Rio"
+msgid "I feel a little better. Thank you."
+msgstr ""
+
+msgctxt "8844_Akiyama"
+msgid "Heh. Keep at it. I'm sure you'll get even more beautiful."
+msgstr ""
+
+msgctxt "8856_Rio"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "8868_Akiyama"
+msgid "What kind of men do you like, Rio-chan?"
+msgstr ""
+
+msgctxt "8880_Rio"
+msgid "Haha, where's this coming from all of the sudden?"
+msgstr ""
+
+msgctxt "8892_Akiyama"
+msgid "Just curious."
+msgstr ""
+
+msgctxt "8904_Rio"
+msgid "Well, let me think..."
+msgstr ""
+
+msgctxt "8916_Rio"
+msgid ""
+"I'm not sure I can explain this very well, but I like men who notice things "
+"that I don't."
+msgstr ""
+
+msgctxt "8928_Akiyama"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "8940_Rio"
+msgid "Like a habit that I do subconsciously. That kind of thing."
+msgstr ""
+
+msgctxt "8952_Akiyama"
+msgid "I get it now."
+msgstr ""
+
+msgctxt "8964_Rio"
+msgid "But that seems to be a rare trait."
+msgstr ""
+
+msgctxt "8976_Akiyama"
+msgid "Do you notice things about other people?"
+msgstr ""
+
+msgctxt "8988_Rio"
+msgid "Hmm... I've never really thought about it. Probably not..."
+msgstr ""
+
+msgctxt "9000_Akiyama"
+msgid "Hah. Maybe you're just not very observant."
+msgstr ""
+
+msgctxt "9012_Rio"
+msgid "Hehe, maybe you're right."
+msgstr ""
+
+msgctxt "9024_Rio"
+msgid ""
+"Either way, I like the idea of someone caring about me enough to really pay "
+"attention to what I do."
+msgstr ""
+
+msgctxt "9036_Akiyama"
+msgid "I suppose it does, yeah."
+msgstr ""
+
+msgctxt "9048_Akiyama"
+msgid "Wouldn't that be kind of annoying?"
+msgstr ""
+
+msgctxt "9060_Rio"
+msgid "Huh? Why?"
+msgstr ""
+
+msgctxt "9072_Akiyama"
+msgid ""
+"Someone pointing out other people's faults would get on my nerves, "
+"personally."
+msgstr ""
+
+msgctxt "9084_Rio"
+msgid ""
+"Are you sure you're not just afraid of getting called out for being lazy, "
+"Akiyama-san?"
+msgstr ""
+
+msgctxt "9096_Akiyama"
+msgid ""
+"Wait, you think I'm lazy? Anyway, pointing out people's flaws is still "
+"annoying..."
+msgstr ""
+
+msgctxt "9108_Rio"
+msgid ""
+"Well, I'd like to be with someone who cares enough to really pay attention "
+"to me."
+msgstr ""
+
+msgctxt "9120_Akiyama"
+msgid "Oh, I see..."
+msgstr ""
+
+msgctxt "9132_Akiyama"
+msgid "I could never do that. I'm not very observant."
+msgstr ""
+
+msgctxt "9144_Rio"
+msgid "Aww... Never? That's a strong word to use."
+msgstr ""
+
+msgctxt "9156_Akiyama"
+msgid "Hmm. Sorry..."
+msgstr ""
+
+msgctxt "9168_Rio"
+msgid "......"
+msgstr ""
+
+msgctxt "9180_Rio"
+msgid ""
+"Wait! Now that I think about it, people who <Italic>think</Italic> they're "
+"unobservant are probably the most observant!"
+msgstr ""
+
+msgctxt "9192_Akiyama"
+msgid "How's that work?"
+msgstr ""
+
+msgctxt "9204_Rio"
+msgid "A truly unobservant person would never notice that they're unobservant!"
+msgstr ""
+
+msgctxt "9216_Akiyama"
+msgid "Hehe. Never thought of it that way before."
+msgstr ""
+
+msgctxt "9228_Rio"
+msgid "Akiyama-san, how long have you been at your job?"
+msgstr ""
+
+msgctxt "9240_Akiyama"
+msgid "Hm, well... I think it's approaching around five years now?"
+msgstr ""
+
+msgctxt "9252_Rio"
+msgid "That's a pretty long while!"
+msgstr ""
+
+msgctxt "9264_Akiyama"
+msgid "What about you?"
+msgstr ""
+
+msgctxt "9276_Rio"
+msgid ""
+"Not that long. I'm the type of person who has trouble sticking with things "
+"over time."
+msgstr ""
+
+msgctxt "9288_Rio"
+msgid ""
+"Maybe I just get bored too easily. I'm a jack of all trades and master of "
+"none."
+msgstr ""
+
+msgctxt "9300_Akiyama"
+msgid "I'm the same way."
+msgstr ""
+
+msgctxt "9312_Rio"
+msgid "Really? You're a jack of all trades too, Akiyama-san?"
+msgstr ""
+
+msgctxt "9324_Akiyama"
+msgid "No, I just get bored easily."
+msgstr ""
+
+msgctxt "9336_Rio"
+msgid "...That doesn't sound very healthy."
+msgstr ""
+
+msgctxt "9348_Akiyama"
+msgid "Look, most people aren't doing what they really want with their lives."
+msgstr ""
+
+msgctxt "9360_Rio"
+msgid "I guess that's true."
+msgstr ""
+
+msgctxt "9372_Akiyama"
+msgid "Yeah, yeah. And about being a jack of all trades..."
+msgstr ""
+
+msgctxt "9384_Akiyama"
+msgid ""
+"Talented people like you catch on a lot quicker than the average person, so "
+"they want to try lots of different things."
+msgstr ""
+
+msgctxt "9396_Akiyama"
+msgid ""
+"It may look like you get bored easily, but you're just trying to experience "
+"as much as you can."
+msgstr ""
+
+msgctxt "9408_Rio"
+msgid "Ooh, that sounds about right! Maybe I've been trying too many things?"
+msgstr ""
+
+msgctxt "9420_Akiyama"
+msgid "Keep it up. Sooner or later, you'll find something you want to stick with."
+msgstr ""
+
+msgctxt "9432_Rio"
+msgid "Hehe, I hope so."
+msgstr ""
+
+msgctxt "9444_Akiyama"
+msgid "Being a jack of all trades is not good, though."
+msgstr ""
+
+msgctxt "9456_Akiyama"
+msgid ""
+"If you don't settle into something soon, your whole life will fly by "
+"without you finding what you want to do."
+msgstr ""
+
+msgctxt "9468_Rio"
+msgid "You're right..."
+msgstr ""
+
+msgctxt "9480_Akiyama"
+msgid ""
+"But on the other hand, it shows you're a quick learner, so you've still got "
+"time."
+msgstr ""
+
+msgctxt "9492_Rio"
+msgid "You mean it?"
+msgstr ""
+
+msgctxt "9504_Akiyama"
+msgid ""
+"I was the same way. I had plenty of problems, but things came together for "
+"me eventually."
+msgstr ""
+
+msgctxt "9516_Rio"
+msgid "Hehehe. You certainly are persuasive, Akiyama-san."
+msgstr ""
+
+msgctxt "9528_Akiyama"
+msgid "Don't worry about it. You're still young."
+msgstr ""
+
+msgctxt "9540_Rio"
+msgid "I shouldn't worry, huh?"
+msgstr ""
+
+msgctxt "9552_Akiyama"
+msgid "Sure. You'd be surprised how often people find something without meaning to."
+msgstr ""
+
+msgctxt "9564_Akiyama"
+msgid "You just haven't found what fits you yet, that's all. Don't stress."
+msgstr ""
+
+msgctxt "9576_Rio"
+msgid "Hehe. So that means I might find it in the future then, huh?"
+msgstr ""
+
+msgctxt "9588_Akiyama"
+msgid "Exactly."
+msgstr ""
+
+msgctxt "9600_Rio"
+msgid "I'm so glad I talked to you about this, Akiyama-san!"
+msgstr ""
+
+msgctxt "9612_Rio"
+msgid "So I did an interview today."
+msgstr ""
+
+msgctxt "9624_Akiyama"
+msgid "For your magazine column?"
+msgstr ""
+
+msgctxt "9636_Rio"
+msgid "Yup! It was my very first interview!"
+msgstr ""
+
+msgctxt "9648_Akiyama"
+msgid "Oh yeah? Was it fun?"
+msgstr ""
+
+msgctxt "9660_Rio"
+msgid "Oh yeah, totally! But..."
+msgstr ""
+
+msgctxt "9672_Rio"
+msgid "To be honest, I think I messed up a lot."
+msgstr ""
+
+msgctxt "9684_Akiyama"
+msgid "Did somebody say something to you?"
+msgstr ""
+
+msgctxt "9696_Rio"
+msgid "No, everybody was very complimentary. They said it went well."
+msgstr ""
+
+msgctxt "9708_Akiyama"
+msgid "So what's the problem?"
+msgstr ""
+
+msgctxt "9720_Rio"
+msgid ""
+"They were just a little too nice, you know? They're always like that to me. "
+"I can never tell what they're really thinking."
+msgstr ""
+
+msgctxt "9732_Akiyama"
+msgid "I get what you're saying."
+msgstr ""
+
+msgctxt "9744_Akiyama"
+msgid ""
+"Since this is your first time, you'd rather have them point out your faults "
+"so you can improve."
+msgstr ""
+
+msgctxt "9756_Rio"
+msgid "Yes! Exactly!"
+msgstr ""
+
+msgctxt "9768_Akiyama"
+msgid "I see..."
+msgstr ""
+
+msgctxt "9780_Akiyama"
+msgid "The problem is how you carry yourself."
+msgstr ""
+
+msgctxt "9792_Rio"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "9804_Akiyama"
+msgid ""
+"Everyone carries themself in a certain way. Sometimes it's good, sometimes "
+"it's bad."
+msgstr ""
+
+msgctxt "9816_Rio"
+msgid "I don't think I'm really getting it."
+msgstr ""
+
+msgctxt "9828_Akiyama"
+msgid ""
+"For example, someone might carry himself in a way that makes him seem "
+"dangerous and reckless."
+msgstr ""
+
+msgctxt "9840_Akiyama"
+msgid ""
+"He could be the nicest guy in the world, but all people are gonna see is "
+"this dangerous man."
+msgstr ""
+
+msgctxt "9852_Rio"
+msgid "I guess so..."
+msgstr ""
+
+msgctxt "9864_Akiyama"
+msgid ""
+"On the other hand, say someone carries himself in a mellow way that just "
+"makes him seem very nonthreatening."
+msgstr ""
+
+msgctxt "9876_Akiyama"
+msgid "No one's going to be on their guard when someone like that shows up."
+msgstr ""
+
+msgctxt "9888_Rio"
+msgid "Oh! I think I see where you're going with this!"
+msgstr ""
+
+msgctxt "9900_Akiyama"
+msgid ""
+"That might be the problem in your case. No one's on their guard and asking "
+"a lot of you because you seem very nonthreatening."
+msgstr ""
+
+msgctxt "9912_Rio"
+msgid "Now I get it!"
+msgstr ""
+
+msgctxt "9924_Rio"
+msgid "So... I probably shouldn't worry too much about it, huh?"
+msgstr ""
+
+msgctxt "9936_Akiyama"
+msgid "Hmm... Well..."
+msgstr ""
+
+msgctxt "9948_Akiyama"
+msgid ""
+"What I'm trying to say is that people aren't going to point out your faults "
+"because they don't expect much based on the way you carry yourself. You'll "
+"have to figure them out by yourself."
+msgstr ""
+
+msgctxt "9960_Rio"
+msgid "Wait, what!?"
+msgstr ""
+
+msgctxt "9972_Akiyama"
+msgid "That doesn't sound so bad."
+msgstr ""
+
+msgctxt "9984_Akiyama"
+msgid "I can think of worse problems."
+msgstr ""
+
+msgctxt "9996_Rio"
+msgid "Really?"
+msgstr ""
+
+msgctxt "10008_Rio"
+msgid "There must be things that I can improve on even if it's something small."
+msgstr ""
+
+msgctxt "10020_Akiyama"
+msgid "Sure. You're human. There are always things you can improve on."
+msgstr ""
+
+msgctxt "10032_Akiyama"
+msgid "You'll just have to figure out what they are by yourself."
+msgstr ""
+
+msgctxt "10044_Rio"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "10056_Akiyama"
+msgid ""
+"It's the same result whether someone else points it out or you figure it "
+"out on your own."
+msgstr ""
+
+msgctxt "10068_Rio"
+msgid "I guess, but..."
+msgstr ""
+
+msgctxt "10080_Rio"
+msgid "This is tricky."
+msgstr ""
+
+msgctxt "10092_Akiyama"
+msgid "That's too bad."
+msgstr ""
+
+msgctxt "10104_Rio"
+msgid ""
+"It is. I just want someone to tell me what I can improve on even if it's "
+"just something minor!"
+msgstr ""
+
+msgctxt "10116_Akiyama"
+msgid "Why don't you try doing it yourself?"
+msgstr ""
+
+msgctxt "10128_Rio"
+msgid "Huh? Myself!?"
+msgstr ""
+
+msgctxt "10140_Akiyama"
+msgid ""
+"Yeah, that's right. Like, \"My head was at a bad angle in that shot. Let's "
+"try again.\""
+msgstr ""
+
+msgctxt "10152_Rio"
+msgid "Hmm. Can I even notice something like that on my own?"
+msgstr ""
+
+msgctxt "10164_Akiyama"
+msgid ""
+"You can if you learn how. Try looking at photos of yourself and judge what "
+"looks good. Figure out what works and what doesn't."
+msgstr ""
+
+msgctxt "10176_Rio"
+msgid "Oh, I see... Well, I guess the only thing I can do is give it my best shot!"
+msgstr ""
+
+msgctxt "10188_Akiyama"
+msgid "If you like, I could help you."
+msgstr ""
+
+msgctxt "10200_Rio"
+msgid "Huh? Like, you'd take pictures of me?"
+msgstr ""
+
+msgctxt "10212_Akiyama"
+msgid "Yeah, I'll teach you all the best poses."
+msgstr ""
+
+msgctxt "10224_Rio"
+msgid ""
+"Mmm, no, I think I'll pass. You can't fool me, you perv. I see that glint "
+"in your eye! Hehehe."
+msgstr ""
+
+msgctxt "10236_Akiyama"
+msgid "Too bad..."
+msgstr ""
+
+msgctxt "10248_Rio"
+msgid "Do you remember the photographer I told you about before?"
+msgstr ""
+
+msgctxt "10260_Akiyama"
+msgid "The guy who complimented you so much?"
+msgstr ""
+
+msgctxt "10272_Rio"
+msgid "Yeah, him!"
+msgstr ""
+
+msgctxt "10284_Akiyama"
+msgid "What about him?"
+msgstr ""
+
+msgctxt "10296_Rio"
+msgid "Well..."
+msgstr ""
+
+msgctxt "10308_Rio"
+msgid "......"
+msgstr ""
+
+msgctxt "10320_Akiyama"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "10332_Rio"
+msgid "Never mind..."
+msgstr ""
+
+msgctxt "10344_Akiyama"
+msgid ""
+"Hey, hey. You can't expect me to just forget it after all that. Come on, "
+"spill your guts. Give me the gory details."
+msgstr ""
+
+msgctxt "10356_Rio"
+msgid "Okay, well... You know pin-up models, right?"
+msgstr ""
+
+msgctxt "10368_Akiyama"
+msgid "Models who do sexy photoshoots, right?"
+msgstr ""
+
+msgctxt "10380_Rio"
+msgid "Yeah... But sometimes it can be a little more... intimate than that."
+msgstr ""
+
+msgctxt "10392_Akiyama"
+msgid "What, like swimsuits?"
+msgstr ""
+
+msgctxt "10404_Rio"
+msgid ""
+"No... I mean... <Italic>really</Italic> intimate. Models pose completely "
+"nude sometimes..."
+msgstr ""
+
+msgctxt "10416_Akiyama"
+msgid "Really!? Wow. I didn't think they went that far."
+msgstr ""
+
+msgctxt "10428_Rio"
+msgid "Yeah, they do."
+msgstr ""
+
+msgctxt "10440_Rio"
+msgid "And, well... The photographer asked if I wanted to try it."
+msgstr ""
+
+msgctxt "10452_Akiyama"
+msgid "Why not? Sounds like it could be fun."
+msgstr ""
+
+msgctxt "10464_Rio"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "10476_Akiyama"
+msgid ""
+"It's work. Probably pays pretty well. And it's not like it's illegal or "
+"anything."
+msgstr ""
+
+msgctxt "10488_Rio"
+msgid "I guess so..."
+msgstr ""
+
+msgctxt "10500_Akiyama"
+msgid "So what do you think?"
+msgstr ""
+
+msgctxt "10512_Rio"
+msgid "...Sorry?"
+msgstr ""
+
+msgctxt "10524_Akiyama"
+msgid "Do you want to try it?"
+msgstr ""
+
+msgctxt "10536_Rio"
+msgid "Well, I think the girls who do it are amazing."
+msgstr ""
+
+msgctxt "10548_Rio"
+msgid "It takes serious guts to strip and be completely naked in front of a camera."
+msgstr ""
+
+msgctxt "10560_Akiyama"
+msgid "It sounds like you want to give it a shot."
+msgstr ""
+
+msgctxt "10572_Rio"
+msgid "Maybe... I guess I am kind of interested in the idea."
+msgstr ""
+
+msgctxt "10584_Akiyama"
+msgid "Ah, now I see how it is."
+msgstr ""
+
+msgctxt "10596_Akiyama"
+msgid "Well, take your time and think it over."
+msgstr ""
+
+msgctxt "10608_Akiyama"
+msgid ""
+"Like I said, there's nothing wrong with it. The world needs girls like that "
+"after all."
+msgstr ""
+
+msgctxt "10620_Rio"
+msgid "I guess."
+msgstr ""
+
+msgctxt "10632_Akiyama"
+msgid "That doesn't seem like a good idea."
+msgstr ""
+
+msgctxt "10644_Rio"
+msgid "You think so?"
+msgstr ""
+
+msgctxt "10656_Akiyama"
+msgid "Hmm... I'm against it, personally."
+msgstr ""
+
+msgctxt "10668_Rio"
+msgid "You think it's wrong to do something like that?"
+msgstr ""
+
+msgctxt "10680_Akiyama"
+msgid "I didn't say that. It's honest work, and there's nothing wrong with it."
+msgstr ""
+
+msgctxt "10692_Rio"
+msgid "......"
+msgstr ""
+
+msgctxt "10704_Akiyama"
+msgid "I know a few girls who've gone down that road."
+msgstr ""
+
+msgctxt "10716_Akiyama"
+msgid "I just never imagined you being one of them. That's all."
+msgstr ""
+
+msgctxt "10728_Rio"
+msgid "I'm a little surprised myself."
+msgstr ""
+
+msgctxt "10740_Akiyama"
+msgid "What do you think about it?"
+msgstr ""
+
+msgctxt "10752_Rio"
+msgid "...Sorry?"
+msgstr ""
+
+msgctxt "10764_Akiyama"
+msgid "Do you want to try it?"
+msgstr ""
+
+msgctxt "10776_Rio"
+msgid "Well, I think the girls who do it are amazing."
+msgstr ""
+
+msgctxt "10788_Rio"
+msgid "It takes serious guts to strip and be completely naked in front of a camera."
+msgstr ""
+
+msgctxt "10800_Akiyama"
+msgid "It sounds like you want to give it a shot."
+msgstr ""
+
+msgctxt "10812_Rio"
+msgid "Maybe... I guess I am kind of interested in the idea."
+msgstr ""
+
+msgctxt "10824_Akiyama"
+msgid "Now I see how it is."
+msgstr ""
+
+msgctxt "10836_Akiyama"
+msgid "Well, take your time and think it over."
+msgstr ""
+
+msgctxt "10848_Akiyama"
+msgid ""
+"Like I said, there's nothing wrong with it. The world needs girls like that "
+"after all."
+msgstr ""
+
+msgctxt "10860_Rio"
+msgid "I guess."
+msgstr ""
+
+msgctxt "10872_Akiyama"
+msgid "Whaaat!?"
+msgstr ""
+
+msgctxt "10884_Rio"
+msgid "Whaaaaaat!?"
+msgstr ""
+
+msgctxt "10896_Akiyama"
+msgid "You scared me."
+msgstr ""
+
+msgctxt "10908_Rio"
+msgid "Hehehe! I guess I can see how that would surprise you!"
+msgstr ""
+
+msgctxt "10920_Rio"
+msgid "It was pretty funny to see you get so surprised, though."
+msgstr ""
+
+msgctxt "10932_Akiyama"
+msgid "Hey, come on. Don't make fun of me for the way I react."
+msgstr ""
+
+msgctxt "10944_Rio"
+msgid "Right, sorry. I know it was a weird thing to ask."
+msgstr ""
+
+msgctxt "10956_Akiyama"
+msgid "It's not strange. It's just... Well, what do you think about it?"
+msgstr ""
+
+msgctxt "10968_Rio"
+msgid "...Sorry?"
+msgstr ""
+
+msgctxt "10980_Akiyama"
+msgid "Do you want to try it?"
+msgstr ""
+
+msgctxt "10992_Rio"
+msgid "Well, I think the girls who do it are amazing."
+msgstr ""
+
+msgctxt "11004_Rio"
+msgid "It takes serious guts to strip and be completely naked in front of a camera."
+msgstr ""
+
+msgctxt "11016_Akiyama"
+msgid "It sounds like you want to give it a shot."
+msgstr ""
+
+msgctxt "11028_Rio"
+msgid "Maybe... I guess I am kind of interested in the idea."
+msgstr ""
+
+msgctxt "11040_Akiyama"
+msgid "Now I see how it is."
+msgstr ""
+
+msgctxt "11052_Akiyama"
+msgid "Well, take your time and think it over."
+msgstr ""
+
+msgctxt "11064_Akiyama"
+msgid "There's nothing wrong with it. The world needs girls like that after all."
+msgstr ""
+
+msgctxt "11076_Rio"
+msgid "I guess."
+msgstr ""
+
+msgctxt "11088_Akiyama"
+msgid "Have you ever gotten really drunk and done something stupid?"
+msgstr ""
+
+msgctxt "11100_Rio"
+msgid "Something stupid, huh?"
+msgstr ""
+
+msgctxt "11112_Akiyama"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "11124_Rio"
+msgid "Well, sure. Doesn't everyone?"
+msgstr ""
+
+msgctxt "11136_Akiyama"
+msgid "Sure, but I'm asking what <Italic>you</Italic> have done, not everyone else."
+msgstr ""
+
+msgctxt "11148_Rio"
+msgid ""
+"Well, once I came out of the bathroom and didn't realize that my panties "
+"were up around my waist."
+msgstr ""
+
+msgctxt "11160_Akiyama"
+msgid "Huh? How'd that happen?"
+msgstr ""
+
+msgctxt "11172_Rio"
+msgid ""
+"I had taken them completely off, and when I put them back on, I somehow put "
+"both legs through one leg hole and pulled them up."
+msgstr ""
+
+msgctxt "11184_Akiyama"
+msgid "What!? How did you fit?"
+msgstr ""
+
+msgctxt "11196_Rio"
+msgid "I was thinner back then. About eight kilos lighter than I am now."
+msgstr ""
+
+msgctxt "11208_Akiyama"
+msgid "Eight kilos less than now? You must've been just skin and bones!"
+msgstr ""
+
+msgctxt "11220_Rio"
+msgid ""
+"I'm short, so I thought it was the right weight for me. I got told to gain "
+"some weight later, though."
+msgstr ""
+
+msgctxt "11232_Rio"
+msgid "Dresses don't look good if you're too thin."
+msgstr ""
+
+msgctxt "11244_Akiyama"
+msgid ""
+"Now I understand how you could fit both of your legs in one hole, but "
+"that's still pretty crazy."
+msgstr ""
+
+msgctxt "11256_Rio"
+msgid "No, it gets even better!"
+msgstr ""
+
+msgctxt "11268_Akiyama"
+msgid "I can't imagine how."
+msgstr ""
+
+msgctxt "11280_Rio"
+msgid "I was wearing overalls at the time!"
+msgstr ""
+
+msgctxt "11292_Rio"
+msgid ""
+"That means I had taken my overalls and panties completely off, used the "
+"toilet, and then put them back on in the wrong order."
+msgstr ""
+
+msgctxt "11304_Akiyama"
+msgid "You don't remember doing it?"
+msgstr ""
+
+msgctxt "11316_Rio"
+msgid "Not at all."
+msgstr ""
+
+msgctxt "11328_Akiyama"
+msgid "Do you tend to black out when you drink?"
+msgstr ""
+
+msgctxt "11340_Rio"
+msgid "Maaaybe. ♪"
+msgstr ""
+
+msgctxt "11352_Akiyama"
+msgid "No maybe about it. I think we can file that one under \"definitely.\""
+msgstr ""
+
+msgctxt "11364_Rio"
+msgid ""
+"Hehehe. I mean, I don't even know if I lose my memory or not! Doesn't that "
+"count?"
+msgstr ""
+
+msgctxt "11376_Akiyama"
+msgid ""
+"Hmm... Well, I guess everyone has embarrassing stories from some point in "
+"their lives."
+msgstr ""
+
+msgctxt "11388_Rio"
+msgid ""
+"You're very understanding, Akiyama-san. When I noticed what I'd done, I was "
+"totally stumped as to how it happened."
+msgstr ""
+
+msgctxt "11400_Akiyama"
+msgid "Heh, I get you."
+msgstr ""
+
+msgctxt "11412_Akiyama"
+msgid "I don't believe you."
+msgstr ""
+
+msgctxt "11424_Rio"
+msgid ""
+"I don't blame you. When I realized what I'd done, I was so surprised that I "
+"sobered up immediately!"
+msgstr ""
+
+msgctxt "11436_Akiyama"
+msgid "Did anyone say anything?"
+msgstr ""
+
+msgctxt "11448_Rio"
+msgid "Luckily everybody else was drunk, too. I don't think anyone even noticed."
+msgstr ""
+
+msgctxt "11460_Akiyama"
+msgid "That's the silver lining, I guess."
+msgstr ""
+
+msgctxt "11472_Rio"
+msgid "Yep! ♪"
+msgstr ""
+
+msgctxt "11484_Akiyama"
+msgid "I bet you were embarrassed when you noticed."
+msgstr ""
+
+msgctxt "11496_Rio"
+msgid "When I noticed, I was like, \"How on earth did this happen!?\""
+msgstr ""
+
+msgctxt "11508_Akiyama"
+msgid "I see... So you were more worried about the how than the why, huh?"
+msgstr ""
+
+msgctxt "11520_Rio"
+msgid "Yep."
+msgstr ""
+
+msgctxt "11532_Rio"
+msgid ""
+"But the more I thought about what happened, the more embarrassed I got! "
+"Hehehe."
+msgstr ""
+
+msgctxt "11544_Akiyama"
+msgid "Heh, I can imagine."
+msgstr ""
+
+msgctxt "11556_Rio"
+msgid "A new girl joined the club recently."
+msgstr ""
+
+msgctxt "11568_Rio"
+msgid ""
+"She seemed kinda sad the first time we talked, so I got a bit worried about "
+"her."
+msgstr ""
+
+msgctxt "11580_Rio"
+msgid ""
+"But the other day when we were talking, she suddenly started laughing like "
+"a maniac!"
+msgstr ""
+
+msgctxt "11592_Akiyama"
+msgid "Uh... Why?"
+msgstr ""
+
+msgctxt "11604_Rio"
+msgid "Hehe. She said I made a funny face and couldn't help but laugh!"
+msgstr ""
+
+msgctxt "11616_Rio"
+msgid "She's sooo cute when she laughs. She's a really nice girl."
+msgstr ""
+
+msgctxt "11628_Akiyama"
+msgid "I can't imagine you making weird faces."
+msgstr ""
+
+msgctxt "11640_Rio"
+msgid ""
+"Well, I do sometimes. Especially when I'm with people I'm close to. When "
+"I'm relaxed, I make faces without realizing it."
+msgstr ""
+
+msgctxt "11652_Rio"
+msgid "Don't you ever do things like that, Akiyama-san?"
+msgstr ""
+
+msgctxt "11664_Akiyama"
+msgid "Hmm, with my face, you probably couldn't tell. I'm not that expressive."
+msgstr ""
+
+msgctxt "11676_Akiyama"
+msgid "And it's not like I'm that good looking either. I'm just some guy."
+msgstr ""
+
+msgctxt "11688_Rio"
+msgid "That's not true! You've got a wonderful face!"
+msgstr ""
+
+msgctxt "11700_Akiyama"
+msgid "Heh, if you say so."
+msgstr ""
+
+msgctxt "11712_Akiyama"
+msgid "I can tell you care about the other girls."
+msgstr ""
+
+msgctxt "11724_Rio"
+msgid "It's not so much that."
+msgstr ""
+
+msgctxt "11736_Rio"
+msgid "I just thought she'd be cuter if she smiled more."
+msgstr ""
+
+msgctxt "11748_Akiyama"
+msgid "It's great that you think in such a positive way. That's a real gift."
+msgstr ""
+
+msgctxt "11760_Rio"
+msgid "You think so?"
+msgstr ""
+
+msgctxt "11772_Akiyama"
+msgid "I sure do."
+msgstr ""
+
+msgctxt "11784_Rio"
+msgid "Hehe. I'm happy to hear you say that."
+msgstr ""
+
+msgctxt "11796_Akiyama"
+msgid "Show me the face you made."
+msgstr ""
+
+msgctxt "11808_Rio"
+msgid "No! That's too embarrassing! Stop teasing me..."
+msgstr ""
+
+msgctxt "11820_Akiyama"
+msgid ""
+"No, I just meant that you should feel relaxed enough with me that you feel "
+"comfortable doing that kind of thing."
+msgstr ""
+
+msgctxt "11832_Rio"
+msgid "Relaxed?"
+msgstr ""
+
+msgctxt "11844_Akiyama"
+msgid ""
+"You've got a great smile, but it would be nice if you felt comfortable "
+"enough to pull funny faces in front of me once in a while."
+msgstr ""
+
+msgctxt "11856_Rio"
+msgid ""
+"That's sweet. But you know, saying things like that just makes me smile "
+"more!"
+msgstr ""
+
+msgctxt "11868_Rio"
+msgid "I'm so miserable..."
+msgstr ""
+
+msgctxt "11880_Akiyama"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "11892_Rio"
+msgid "I'm in love, but I know I can't keep indulging."
+msgstr ""
+
+msgctxt "11904_Akiyama"
+msgid "Uh, what're you talking about?"
+msgstr ""
+
+msgctxt "11916_Rio"
+msgid "Hm? Oh, I'm in love with raw shrimp, but I can't eat it anymore."
+msgstr ""
+
+msgctxt "11928_Akiyama"
+msgid "Oh. Why not?"
+msgstr ""
+
+msgctxt "11940_Rio"
+msgid ""
+"I had some at a sushi restaurant the other day, and I broke out in hives. I "
+"hadn't had it for a while so I thought maybe it'd be okay, but..."
+msgstr ""
+
+msgctxt "11952_Rio"
+msgid ""
+"For the last year, I've broken out every time I've had raw shrimp. I'm fine "
+"if it's steamed or grilled though."
+msgstr ""
+
+msgctxt "11964_Akiyama"
+msgid "Hm."
+msgstr ""
+
+msgctxt "11976_Rio"
+msgid "I love it, but seems it doesn't love me!"
+msgstr ""
+
+msgctxt "11988_Akiyama"
+msgid "What's the big deal? It's just raw shrimp."
+msgstr ""
+
+msgctxt "12000_Rio"
+msgid "But I love it!"
+msgstr ""
+
+msgctxt "12012_Akiyama"
+msgid ""
+"Hmm... But aren't you in a better place than people too poor to even buy "
+"raw shrimp?"
+msgstr ""
+
+msgctxt "12024_Rio"
+msgid ""
+"No, it's worse! At least a poor person can hope to eat it someday. I never "
+"can!"
+msgstr ""
+
+msgctxt "12036_Akiyama"
+msgid "Good point."
+msgstr ""
+
+msgctxt "12048_Rio"
+msgid "You're not really doing a good job of cheering me up..."
+msgstr ""
+
+msgctxt "12060_Akiyama"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "12072_Akiyama"
+msgid ""
+"I thought you were talking about a man. You had me worried for a second "
+"there."
+msgstr ""
+
+msgctxt "12084_Rio"
+msgid "Hehehe. Now why would you think that?"
+msgstr ""
+
+msgctxt "12096_Akiyama"
+msgid "Come on! You really made it sound like something else!"
+msgstr ""
+
+msgctxt "12108_Rio"
+msgid "Hehe, oh, Akiyama-san, you're precious."
+msgstr ""
+
+msgctxt "12120_Akiyama"
+msgid "Hey, don't make fun of me."
+msgstr ""
+
+msgctxt "12132_Rio"
+msgid ""
+"Don't worry. My feelings for a certain somebody are still going strong. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12144_Akiyama"
+msgid "Are there other foods you can't eat?"
+msgstr ""
+
+msgctxt "12156_Rio"
+msgid "None. I'm not a picky eater, either."
+msgstr ""
+
+msgctxt "12168_Akiyama"
+msgid "But you can't eat raw shrimp? Odd."
+msgstr ""
+
+msgctxt "12180_Rio"
+msgid "That's what makes it so sad."
+msgstr ""
+
+msgctxt "12192_Akiyama"
+msgid "Yeah, that's too bad."
+msgstr ""
+
+msgctxt "12204_Akiyama"
+msgid "Well, I suppose we shouldn't get sushi if we go out on a date, huh?"
+msgstr ""
+
+msgctxt "12216_Rio"
+msgid "I can eat other kinds of fish, so I wouldn't mind! I love sushi!"
+msgstr ""
+
+msgctxt "12228_Akiyama"
+msgid "All right then."
+msgstr ""
+
+msgctxt "12240_Rio"
+msgid "Hehe. Well, thanks for worrying about me."
+msgstr ""
+
+msgctxt "12252_Rio"
+msgid "I hung out with an old classmate from high school yesterday."
+msgstr ""
+
+msgctxt "12264_Akiyama"
+msgid "Oh yeah? A guy or a girl?"
+msgstr ""
+
+msgctxt "12276_Rio"
+msgid "A girl. I went to an all-girls school."
+msgstr ""
+
+msgctxt "12288_Akiyama"
+msgid "I didn't know that."
+msgstr ""
+
+msgctxt "12300_Rio"
+msgid "Yep! It was tons of fun!"
+msgstr ""
+
+msgctxt "12312_Akiyama"
+msgid "I guess an all-girls school would be pretty cool..."
+msgstr ""
+
+msgctxt "12324_Rio"
+msgid "Of course! When it's just girls, we let it all hang out!"
+msgstr ""
+
+msgctxt "12336_Rio"
+msgid ""
+"If there were boys around, we probably would've tried being all cute and "
+"nice."
+msgstr ""
+
+msgctxt "12348_Akiyama"
+msgid "Heh. I think I get what you mean. That's pretty honest of you."
+msgstr ""
+
+msgctxt "12360_Rio"
+msgid ""
+"Hehe! We wouldn't eat our lunches early every day or run to the school "
+"store for fried chicken either."
+msgstr ""
+
+msgctxt "12372_Akiyama"
+msgid "I bet I'd like it there if I were a girl."
+msgstr ""
+
+msgctxt "12384_Rio"
+msgid "Would you now?"
+msgstr ""
+
+msgctxt "12396_Akiyama"
+msgid "Sure. It sounds like you had fun."
+msgstr ""
+
+msgctxt "12408_Rio"
+msgid "It totally was!"
+msgstr ""
+
+msgctxt "12420_Rio"
+msgid "I'm sure we would've been good friends if you'd been there, Akiyama-san!"
+msgstr ""
+
+msgctxt "12432_Akiyama"
+msgid "You really think so?"
+msgstr ""
+
+msgctxt "12444_Rio"
+msgid "Definitely!"
+msgstr ""
+
+msgctxt "12456_Akiyama"
+msgid "Heh, we get along pretty well as it is."
+msgstr ""
+
+msgctxt "12468_Rio"
+msgid "Well, you are something else, Akiyama-san. Hehe."
+msgstr ""
+
+msgctxt "12480_Akiyama"
+msgid "Is that a compliment?"
+msgstr ""
+
+msgctxt "12492_Rio"
+msgid "That's for you to decide."
+msgstr ""
+
+msgctxt "12504_Akiyama"
+msgid "Hey now."
+msgstr ""
+
+msgctxt "12516_Akiyama"
+msgid "I wouldn't mind being a teacher there."
+msgstr ""
+
+msgctxt "12528_Rio"
+msgid "Hehehe. As it turns out, a lot of guys say that."
+msgstr ""
+
+msgctxt "12540_Rio"
+msgid ""
+"But you know... I bet you'd be popular with the girls if you were a "
+"teacher, Akiyama-san."
+msgstr ""
+
+msgctxt "12552_Akiyama"
+msgid "Really?"
+msgstr ""
+
+msgctxt "12564_Rio"
+msgid "Do you want to be popular?"
+msgstr ""
+
+msgctxt "12576_Akiyama"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "12588_Rio"
+msgid "I said, do you want to be popular?"
+msgstr ""
+
+msgctxt "12600_Akiyama"
+msgid "Uh, well, I didn't mean it like that..."
+msgstr ""
+
+msgctxt "12612_Rio"
+msgid ""
+"Hehehe. I think all of the girls would probably fall in love with a teacher "
+"like you, Akiyama-san."
+msgstr ""
+
+msgctxt "12624_Akiyama"
+msgid "They would, huh?"
+msgstr ""
+
+msgctxt "12636_Rio"
+msgid "Oh my. Are you blushing?"
+msgstr ""
+
+msgctxt "12648_Akiyama"
+msgid "No. I am not."
+msgstr ""
+
+msgctxt "12660_Rio"
+msgid "That's so cute!"
+msgstr ""
+
+msgctxt "12672_Akiyama"
+msgid ""
+"Wait, fried chicken at the school store!? What kind of school store has "
+"fried chicken?"
+msgstr ""
+
+msgctxt "12684_Rio"
+msgid "Don't most schools usually have that?"
+msgstr ""
+
+msgctxt "12696_Akiyama"
+msgid "No. The most they usually have is bread and milk."
+msgstr ""
+
+msgctxt "12708_Rio"
+msgid ""
+"Well, we had that too, but I'm glad we were lucky enough to have fried "
+"chicken, then!"
+msgstr ""
+
+msgctxt "12720_Akiyama"
+msgid "Was it good?"
+msgstr ""
+
+msgctxt "12732_Rio"
+msgid ""
+"Totally! That's why you had to run to go buy it! They'd be sold out if you "
+"weren't fast enough."
+msgstr ""
+
+msgctxt "12744_Akiyama"
+msgid ""
+"High school girls racing each other for fried chicken... Sounds like a game "
+"show. I would watch that."
+msgstr ""
+
+msgctxt "12756_Rio"
+msgid "Nuh-uh! If there were boys around, we never would have done it!"
+msgstr ""
+
+msgctxt "12768_Rio"
+msgid "I've been thinking..."
+msgstr ""
+
+msgctxt "12780_Akiyama"
+msgid "About what?"
+msgstr ""
+
+msgctxt "12792_Rio"
+msgid ""
+"I think I'm finally over my ex. I can think about it now without my heart "
+"aching."
+msgstr ""
+
+msgctxt "12804_Akiyama"
+msgid "So you can look at it through a more objective lens?"
+msgstr ""
+
+msgctxt "12816_Rio"
+msgid "Right! And I noticed something."
+msgstr ""
+
+msgctxt "12828_Rio"
+msgid ""
+"When I find out that the person I'm with is better than me at something, I "
+"find it easier to just let them be."
+msgstr ""
+
+msgctxt "12840_Rio"
+msgid "It helps me maintain a good relationship with them, I guess."
+msgstr ""
+
+msgctxt "12852_Akiyama"
+msgid "You mean it keeps you humble?"
+msgstr ""
+
+msgctxt "12864_Rio"
+msgid ""
+"Yes! So when there's nothing like that anymore, I start getting critical. I "
+"start nitpicking, you know?"
+msgstr ""
+
+msgctxt "12876_Rio"
+msgid "It gets worse the more I get to know them."
+msgstr ""
+
+msgctxt "12888_Akiyama"
+msgid "You start criticizing them more and more."
+msgstr ""
+
+msgctxt "12900_Rio"
+msgid "Yeah. I don't mean to, it just happens."
+msgstr ""
+
+msgctxt "12912_Rio"
+msgid "I'd love to be a little less perceptive, honestly..."
+msgstr ""
+
+msgctxt "12924_Akiyama"
+msgid "Really?"
+msgstr ""
+
+msgctxt "12936_Rio"
+msgid "Yes. I feel more comfortable that way, personally..."
+msgstr ""
+
+msgctxt "12948_Akiyama"
+msgid "I see... So did you just notice that recently?"
+msgstr ""
+
+msgctxt "12960_Rio"
+msgid "Yeah, pretty much."
+msgstr ""
+
+msgctxt "12972_Akiyama"
+msgid "That relationship's over. Forget about it."
+msgstr ""
+
+msgctxt "12984_Rio"
+msgid "You think so?"
+msgstr ""
+
+msgctxt "12996_Akiyama"
+msgid "There's no point overanalyzing it. It all depends on the person, after all."
+msgstr ""
+
+msgctxt "13008_Rio"
+msgid "I guess so, but still..."
+msgstr ""
+
+msgctxt "13020_Akiyama"
+msgid ""
+"When you meet somebody else, you'll probably find that your way of thinking "
+"will change, too."
+msgstr ""
+
+msgctxt "13032_Rio"
+msgid "Hmm... Really?"
+msgstr ""
+
+msgctxt "13044_Akiyama"
+msgid "Let's try it. How about going out with me?"
+msgstr ""
+
+msgctxt "13056_Rio"
+msgid "Hehehe. You can't trick me that easily. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13068_Rio"
+msgid ""
+"But I do feel a little better. Thanks, Akiyama-san! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13080_Akiyama"
+msgid "Hehe."
+msgstr ""
+
+msgctxt "13092_Akiyama"
+msgid "So basically, you don't like stupid men."
+msgstr ""
+
+msgctxt "13104_Rio"
+msgid "Yeah, I guess that's it."
+msgstr ""
+
+msgctxt "13116_Rio"
+msgid ""
+"Whenever a guy does something wrong, I wanna scream, \"What's wrong with "
+"you!?\""
+msgstr ""
+
+msgctxt "13128_Akiyama"
+msgid "And that makes you dislike yourself?"
+msgstr ""
+
+msgctxt "13140_Rio"
+msgid "Mhm, exactly."
+msgstr ""
+
+msgctxt "13152_Akiyama"
+msgid "I like your honesty. I think it's a good trait."
+msgstr ""
+
+msgctxt "13164_Rio"
+msgid ""
+"Really? I know I shouldn't care how smart a guy is as long as he's a good "
+"person, but... I do."
+msgstr ""
+
+msgctxt "13176_Akiyama"
+msgid ""
+"That's fine. Besides, when people say someone is a good person, they don't "
+"usually mean it as a compliment, do they?"
+msgstr ""
+
+msgctxt "13188_Rio"
+msgid "Hehe. That sounds like something you'd say, Akiyama-san."
+msgstr ""
+
+msgctxt "13200_Akiyama"
+msgid "Does it?"
+msgstr ""
+
+msgctxt "13212_Akiyama"
+msgid "Maybe you need a masochistic boyfriend."
+msgstr ""
+
+msgctxt "13224_Rio"
+msgid "A masochist? Haha. What makes you say that?"
+msgstr ""
+
+msgctxt "13236_Akiyama"
+msgid ""
+"You should find a man who actually likes being criticized. I'm sure you'll "
+"get along that way."
+msgstr ""
+
+msgctxt "13248_Rio"
+msgid "But I already told you, I don't want to criticize them!"
+msgstr ""
+
+msgctxt "13260_Akiyama"
+msgid "Huh? Did you say that?"
+msgstr ""
+
+msgctxt "13272_Rio"
+msgid "Hmph! Did you even listen to what I said!?"
+msgstr ""
+
+msgctxt "13284_Akiyama"
+msgid "Sorry, sorry."
+msgstr ""
+
+msgctxt "13296_Rio"
+msgid "Do you like soft serve ice cream?"
+msgstr ""
+
+msgctxt "13308_Akiyama"
+msgid "Ice cream? Where'd that come from?"
+msgstr ""
+
+msgctxt "13320_Rio"
+msgid "Just tell me. Do you like it? Do you eat it a lot?"
+msgstr ""
+
+msgctxt "13332_Akiyama"
+msgid "I guess so. As much as the next guy."
+msgstr ""
+
+msgctxt "13344_Rio"
+msgid "Aha! I knew it!"
+msgstr ""
+
+msgctxt "13356_Akiyama"
+msgid "What about it?"
+msgstr ""
+
+msgctxt "13368_Rio"
+msgid ""
+"I saw an old man eating an ice cream cone on the street today. It was soooo "
+"cute! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13380_Akiyama"
+msgid "Uh... huh..."
+msgstr ""
+
+msgctxt "13392_Rio"
+msgid ""
+"He was eating it kinda weird, like he'd never had one before. He was "
+"concentrating so hard on it."
+msgstr ""
+
+msgctxt "13404_Rio"
+msgid "But he was really enjoying it!"
+msgstr ""
+
+msgctxt "13416_Rio"
+msgid ""
+"So I was just imagining how you'd eat one, Akiyama-san. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13428_Akiyama"
+msgid "I take big bites."
+msgstr ""
+
+msgctxt "13440_Rio"
+msgid "Ooh, how manly!"
+msgstr ""
+
+msgctxt "13452_Rio"
+msgid "But don't you get ice cream all around your mouth that way?"
+msgstr ""
+
+msgctxt "13464_Akiyama"
+msgid "Yeah, but that's just the way it is. You can't really avoid it."
+msgstr ""
+
+msgctxt "13476_Rio"
+msgid "That's cute! I'd like to see you with ice cream on your face!"
+msgstr ""
+
+msgctxt "13488_Akiyama"
+msgid "Cute? Me?"
+msgstr ""
+
+msgctxt "13500_Rio"
+msgid "I like it when men show their vulnerable side like that."
+msgstr ""
+
+msgctxt "13512_Akiyama"
+msgid "Really?"
+msgstr ""
+
+msgctxt "13524_Rio"
+msgid "Hehe! Yes! That innocent, childlike look is just adorable!"
+msgstr ""
+
+msgctxt "13536_Rio"
+msgid "Of course, I wouldn't want men to act like that all the time..."
+msgstr ""
+
+msgctxt "13548_Akiyama"
+msgid "Oh, yeah..."
+msgstr ""
+
+msgctxt "13560_Rio"
+msgid "We should go out for ice cream sometime!"
+msgstr ""
+
+msgctxt "13572_Akiyama"
+msgid "Okay, but I don't much like the idea of you observing the way I eat."
+msgstr ""
+
+msgctxt "13584_Rio"
+msgid "Okay! I won't watch you then."
+msgstr ""
+
+msgctxt "13596_Akiyama"
+msgid "......"
+msgstr ""
+
+msgctxt "13608_Akiyama"
+msgid "You're a terrible liar, you know."
+msgstr ""
+
+msgctxt "13620_Rio"
+msgid "Hehehehehe. ♪"
+msgstr ""
+
+msgctxt "13632_Akiyama"
+msgid "I knew it!"
+msgstr ""
+
+msgctxt "13644_Akiyama"
+msgid "I take my time and lick it."
+msgstr ""
+
+msgctxt "13656_Rio"
+msgid "Well, when you say it like that, it's kinda pervy, Akiyama-san."
+msgstr ""
+
+msgctxt "13668_Akiyama"
+msgid "Even so, there's no other way to eat it, right?"
+msgstr ""
+
+msgctxt "13680_Rio"
+msgid ""
+"You're right about that. And I like to take small licks, too. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13692_Akiyama"
+msgid "See! Even you do that."
+msgstr ""
+
+msgctxt "13704_Rio"
+msgid ""
+"I like watching people try to stop melting ice cream from dripping down the "
+"cone onto their hand. It's kind of exciting."
+msgstr ""
+
+msgctxt "13716_Akiyama"
+msgid "Especially for the person doing the eating."
+msgstr ""
+
+msgctxt "13728_Rio"
+msgid "Hehehe!"
+msgstr ""
+
+msgctxt "13740_Akiyama"
+msgid "I always throw away the cone."
+msgstr ""
+
+msgctxt "13752_Rio"
+msgid "What!? Why?"
+msgstr ""
+
+msgctxt "13764_Akiyama"
+msgid "It doesn't really have any flavor. Once the ice cream's gone, I toss it."
+msgstr ""
+
+msgctxt "13776_Rio"
+msgid ""
+"No! The whole point is to eat the ice cream with the cone! They go great "
+"together! You're missing the perfect harmony of cream and cone!"
+msgstr ""
+
+msgctxt "13788_Akiyama"
+msgid "Harmony?"
+msgstr ""
+
+msgctxt "13800_Rio"
+msgid ""
+"Men just don't get this kind of thing, do they? You cook all day for them, "
+"and they always just say, \"yeah, it's fine, whatever\"!"
+msgstr ""
+
+msgctxt "13812_Akiyama"
+msgid "That's not always the case."
+msgstr ""
+
+msgctxt "13824_Rio"
+msgid "I'm so hurt."
+msgstr ""
+
+msgctxt "13836_Akiyama"
+msgid "It's just an ice cream cone!"
+msgstr ""
+
+msgctxt "13848_Akiyama"
+msgid "You're still wondering what to do about that job, aren't you?"
+msgstr ""
+
+msgctxt "13860_Rio"
+msgid "The pin-up model job?"
+msgstr ""
+
+msgctxt "13872_Akiyama"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "13884_Rio"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "13896_Rio"
+msgid ""
+"I think it's amazing that some girls can get naked in front of strangers, "
+"but I'm not sure if I can."
+msgstr ""
+
+msgctxt "13908_Akiyama"
+msgid "Yeah, it's not easy."
+msgstr ""
+
+msgctxt "13920_Rio"
+msgid "I worry about what other people might think, too..."
+msgstr ""
+
+msgctxt "13932_Akiyama"
+msgid "You know what I think?"
+msgstr ""
+
+msgctxt "13944_Rio"
+msgid "What?"
+msgstr ""
+
+msgctxt "13956_Akiyama"
+msgid ""
+"The fact you're spending so much time debating this means that part of you "
+"wants to do it."
+msgstr ""
+
+msgctxt "13968_Rio"
+msgid "That's possible."
+msgstr ""
+
+msgctxt "13980_Akiyama"
+msgid "What about it interests you?"
+msgstr ""
+
+msgctxt "13992_Rio"
+msgid "Mm... I don't quite know how to explain it."
+msgstr ""
+
+msgctxt "14004_Rio"
+msgid ""
+"I think I'd feel like I really achieved something if I could go through "
+"with it."
+msgstr ""
+
+msgctxt "14016_Akiyama"
+msgid "So you'd feel accomplished?"
+msgstr ""
+
+msgctxt "14028_Rio"
+msgid "Yes! That's it."
+msgstr ""
+
+msgctxt "14040_Rio"
+msgid ""
+"I don't feel the same sense of accomplishment in my work here that I used "
+"to."
+msgstr ""
+
+msgctxt "14052_Rio"
+msgid ""
+"And there's something freeing about being able to stand naked and pose in "
+"front of everybody."
+msgstr ""
+
+msgctxt "14064_Akiyama"
+msgid "I get it now."
+msgstr ""
+
+msgctxt "14076_Rio"
+msgid "You do?"
+msgstr ""
+
+msgctxt "14088_Akiyama"
+msgid "You want to try something new."
+msgstr ""
+
+msgctxt "14100_Rio"
+msgid "Hmm... Hmm! Yes!"
+msgstr ""
+
+msgctxt "14112_Akiyama"
+msgid "That's not a bad thing."
+msgstr ""
+
+msgctxt "14124_Rio"
+msgid "Really?"
+msgstr ""
+
+msgctxt "14136_Akiyama"
+msgid ""
+"Of course. It's important to challenge yourself. You can't gain anything "
+"without taking action yourself."
+msgstr ""
+
+msgctxt "14148_Rio"
+msgid "You're right!"
+msgstr ""
+
+msgctxt "14160_Akiyama"
+msgid "You don't have to decide right away, right?"
+msgstr ""
+
+msgctxt "14172_Rio"
+msgid "Right."
+msgstr ""
+
+msgctxt "14184_Akiyama"
+msgid ""
+"Then take your time and think about it. It's not the kind of decision you "
+"should make spur of the moment."
+msgstr ""
+
+msgctxt "14196_Rio"
+msgid "Hehehe. You're right."
+msgstr ""
+
+msgctxt "14208_Rio"
+msgid "I thought that being unsure was my problem. That I was being indecisive."
+msgstr ""
+
+msgctxt "14220_Rio"
+msgid "But that's only natural, isn't it?"
+msgstr ""
+
+msgctxt "14232_Akiyama"
+msgid "Heh, of course. You're allowed to be unsure."
+msgstr ""
+
+msgctxt "14244_Rio"
+msgid "It's strange..."
+msgstr ""
+
+msgctxt "14256_Akiyama"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "14268_Rio"
+msgid "Nothing... Thanks for listening to my problems, Akiyama-san!"
+msgstr ""
+
+msgctxt "14280_Akiyama"
+msgid "Any time."
+msgstr ""
+
+msgctxt "14292_Akiyama"
+msgid "Then you should make this decision on your own."
+msgstr ""
+
+msgctxt "14304_Rio"
+msgid "Um... Don't you have any advice for me?"
+msgstr ""
+
+msgctxt "14316_Akiyama"
+msgid "It's your life, Rio-chan. You need to figure this out for yourself."
+msgstr ""
+
+msgctxt "14328_Rio"
+msgid "You're kind of strict, Akiyama-san..."
+msgstr ""
+
+msgctxt "14340_Akiyama"
+msgid ""
+"Would you rather I just told you what to do? I know you're struggling with "
+"this, but I respect you too much to just feed you an easy answer."
+msgstr ""
+
+msgctxt "14352_Rio"
+msgid "That's sweet of you, but... I'm really, actually lost here."
+msgstr ""
+
+msgctxt "14364_Rio"
+msgid "I just wanted a little help is all."
+msgstr ""
+
+msgctxt "14376_Akiyama"
+msgid "......"
+msgstr ""
+
+msgctxt "14388_Akiyama"
+msgid ""
+"You could try something else. There are plenty of other ways to challenge "
+"yourself."
+msgstr ""
+
+msgctxt "14400_Rio"
+msgid "So you don't think it's a good idea?"
+msgstr ""
+
+msgctxt "14412_Akiyama"
+msgid "No, I'm just saying there are other ways to feel proud of yourself."
+msgstr ""
+
+msgctxt "14424_Rio"
+msgid "Something else? I never really thought about other options."
+msgstr ""
+
+msgctxt "14436_Akiyama"
+msgid ""
+"Then take this opportunity to think about it. Maybe there's something else "
+"you'd like to do."
+msgstr ""
+
+msgctxt "14448_Rio"
+msgid "That's true. I still have a lot of time. I'll give it more thought."
+msgstr ""
+
+msgctxt "14460_Akiyama"
+msgid "If you ever need someone to talk to, I'm here."
+msgstr ""
+
+msgctxt "14472_Rio"
+msgid "Thank you, Akiyama-san!"
+msgstr ""
+
+msgctxt "14484_Rio"
+msgid "Hehehe. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14496_Akiyama"
+msgid "You're in a good mood today."
+msgstr ""
+
+msgctxt "14508_Rio"
+msgid "Hehe, you noticed, huh?"
+msgstr ""
+
+msgctxt "14520_Akiyama"
+msgid "You find a briefcase full of money or something?"
+msgstr ""
+
+msgctxt "14532_Rio"
+msgid "Not quite!"
+msgstr ""
+
+msgctxt "14544_Akiyama"
+msgid "What, then?"
+msgstr ""
+
+msgctxt "14556_Rio"
+msgid "Okay. Are you ready?"
+msgstr ""
+
+msgctxt "14568_Akiyama"
+msgid "Heh, yeah. Spit it out."
+msgstr ""
+
+msgctxt "14580_Rio"
+msgid "My friend saw my column and contacted me."
+msgstr ""
+
+msgctxt "14592_Akiyama"
+msgid "Your magazine column?"
+msgstr ""
+
+msgctxt "14604_Rio"
+msgid ""
+"Yep. This friend was totally against me working in a hostess club. We "
+"fought about it, then we didn't talk for about a year."
+msgstr ""
+
+msgctxt "14616_Rio"
+msgid "She said she saw me in the magazine and apologized for how she'd treated me."
+msgstr ""
+
+msgctxt "14628_Akiyama"
+msgid "That's great to hear."
+msgstr ""
+
+msgctxt "14640_Rio"
+msgid "Gosh, it's just like a TV show! I guess things like this really do happen!"
+msgstr ""
+
+msgctxt "14652_Akiyama"
+msgid "It feels good to get a little recognition, doesn't it?"
+msgstr ""
+
+msgctxt "14664_Rio"
+msgid "Yep! ♪"
+msgstr ""
+
+msgctxt "14676_Akiyama"
+msgid "So you've been thinking about your friend all this time?"
+msgstr ""
+
+msgctxt "14688_Rio"
+msgid ""
+"Yes. I didn't like how things ended between us. I was so depressed when she "
+"told me she didn't want to see me anymore."
+msgstr ""
+
+msgctxt "14700_Akiyama"
+msgid "I see, I see. Well, I'm happy for you."
+msgstr ""
+
+msgctxt "14712_Rio"
+msgid "Today might be the happiest day of my life!"
+msgstr ""
+
+msgctxt "14724_Akiyama"
+msgid "Hehe. I'm happy you're happy."
+msgstr ""
+
+msgctxt "14736_Rio"
+msgid "Really? You always know the best thing to say, don't you, Akiyama-san?"
+msgstr ""
+
+msgctxt "14748_Akiyama"
+msgid "Heh. I dunno about that."
+msgstr ""
+
+msgctxt "14760_Rio"
+msgid "It's true!"
+msgstr ""
+
+msgctxt "14772_Akiyama"
+msgid "I wonder which photos she saw."
+msgstr ""
+
+msgctxt "14784_Rio"
+msgid "It was the one I told you about, apparently."
+msgstr ""
+
+msgctxt "14796_Rio"
+msgid ""
+"The one with the S&M-style policewoman costume... Or was it a police-style "
+"dominatrix costume?"
+msgstr ""
+
+msgctxt "14808_Akiyama"
+msgid "Oh yeah, that's a hard one to forget."
+msgstr ""
+
+msgctxt "14820_Rio"
+msgid "Okay, I'm a little embarrassed. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14832_Akiyama"
+msgid "So all that hard work paid off, huh?"
+msgstr ""
+
+msgctxt "14844_Rio"
+msgid "It did!"
+msgstr ""
+
+msgctxt "14856_Akiyama"
+msgid "Sounds like joining the magazine was worth it."
+msgstr ""
+
+msgctxt "14868_Rio"
+msgid "It really was!"
+msgstr ""
+
+msgctxt "14880_Akiyama"
+msgid "Hard work really has its rewards."
+msgstr ""
+
+msgctxt "14892_Rio"
+msgid "It so does! Then I'll keep working harder for even better rewards!"
+msgstr ""
+
+msgctxt "14904_Akiyama"
+msgid "Maybe I can reward you, too."
+msgstr ""
+
+msgctxt "14916_Rio"
+msgid "Akiyama-san, you're gonna give me something?"
+msgstr ""
+
+msgctxt "14928_Akiyama"
+msgid "I know. I'll give you the privilege of one date with me."
+msgstr ""
+
+msgctxt "14940_Rio"
+msgid "Huh? Is that really a reward for me?"
+msgstr ""
+
+msgctxt "14952_Akiyama"
+msgid "Of course it is."
+msgstr ""
+
+msgctxt "14964_Rio"
+msgid "Hmm... Hehehe."
+msgstr ""
+
+msgctxt "14976_Rio"
+msgid "Um, Akiyama-san..."
+msgstr ""
+
+msgctxt "14988_Akiyama"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "15000_Rio"
+msgid "I really don't know what to do."
+msgstr ""
+
+msgctxt "15012_Akiyama"
+msgid "You still mulling over that pin-up model job?"
+msgstr ""
+
+msgctxt "15024_Rio"
+msgid "Yeah... They want an answer soon."
+msgstr ""
+
+msgctxt "15036_Rio"
+msgid "I wouldn't mind trying it, but..."
+msgstr ""
+
+msgctxt "15048_Akiyama"
+msgid "I'm against it, personally."
+msgstr ""
+
+msgctxt "15060_Rio"
+msgid "Do you think it's wrong?"
+msgstr ""
+
+msgctxt "15072_Akiyama"
+msgid "That's not it."
+msgstr ""
+
+msgctxt "15084_Akiyama"
+msgid "I just think you're better than that."
+msgstr ""
+
+msgctxt "15096_Rio"
+msgid "Akiyama-san..."
+msgstr ""
+
+msgctxt "15108_Akiyama"
+msgid "But how I feel shouldn't affect your decision."
+msgstr ""
+
+msgctxt "15120_Rio"
+msgid "No. I'm actually happy..."
+msgstr ""
+
+msgctxt "15132_Akiyama"
+msgid "You have to actually try it to know whether it's for you or not, Rio-chan."
+msgstr ""
+
+msgctxt "15144_Akiyama"
+msgid "If you think it'll make you feel accomplished, maybe you should go for it."
+msgstr ""
+
+msgctxt "15156_Akiyama"
+msgid ""
+"No matter what your job is, you'll always be you. You'll never lose the "
+"qualities that make you an amazing girl."
+msgstr ""
+
+msgctxt "15168_Rio"
+msgid "Oh, Akiyama-san... <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15180_Akiyama"
+msgid "Remember, I'm always here if you need someone to talk to."
+msgstr ""
+
+msgctxt "15192_Rio"
+msgid "Thank you! That really makes me feel better. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15204_Akiyama"
+msgid ""
+"It doesn't really matter what I say, does it? You should do whatever you "
+"want to do."
+msgstr ""
+
+msgctxt "15216_Rio"
+msgid "What? So that's your thought on it? I'm hurt..."
+msgstr ""
+
+msgctxt "15228_Akiyama"
+msgid ""
+"Then let me ask you this. If I told you I didn't want you to do it, would "
+"you give up the idea?"
+msgstr ""
+
+msgctxt "15240_Rio"
+msgid "Well, I'm not sure..."
+msgstr ""
+
+msgctxt "15252_Akiyama"
+msgid "Then you should decide on your own."
+msgstr ""
+
+msgctxt "15264_Rio"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "15276_Akiyama"
+msgid "If you're not sure, why don't you just try it?"
+msgstr ""
+
+msgctxt "15288_Rio"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "15300_Akiyama"
+msgid ""
+"Instead of agonizing over it forever, go and give it a try and then decide "
+"if you want to stick with it."
+msgstr ""
+
+msgctxt "15312_Akiyama"
+msgid "That seems like the fastest solution to me."
+msgstr ""
+
+msgctxt "15324_Rio"
+msgid "Yeah, you might be right."
+msgstr ""
+
+msgctxt "15336_Akiyama"
+msgid "Exactly."
+msgstr ""
+
+msgctxt "15348_Rio"
+msgid ""
+"Yes! I'm going to just do it instead of wasting time trying to make up my "
+"mind!"
+msgstr ""
+
+msgctxt "15360_Akiyama"
+msgid "That's the spirit."
+msgstr ""
+
+msgctxt "15372_Akiyama"
+msgid ""
+"Hey, whatever happened with that dog that looks like an old man? Is he "
+"getting along with your other one?"
+msgstr ""
+
+msgctxt "15384_Rio"
+msgid ""
+"Yep! They're both doing fine. I just taught him how to sit! He's a fast "
+"learner."
+msgstr ""
+
+msgctxt "15396_Akiyama"
+msgid "Oh? I guess you can teach an old-looking dog new tricks. Glad to hear it."
+msgstr ""
+
+msgctxt "15408_Rio"
+msgid "Hehe! He's cute, but... Well, he poops while he walks!"
+msgstr ""
+
+msgctxt "15420_Akiyama"
+msgid "He actually moves around?"
+msgstr ""
+
+msgctxt "15432_Rio"
+msgid "Yes! He gets poo all over my apartment!"
+msgstr ""
+
+msgctxt "15444_Rio"
+msgid "The first thing I do when I get home is clean up after him..."
+msgstr ""
+
+msgctxt "15456_Akiyama"
+msgid "They say dogs take after their masters."
+msgstr ""
+
+msgctxt "15468_Rio"
+msgid ""
+"Hey! That's kinda mean! Besides, you were the one who convinced me to buy "
+"him in the first place!"
+msgstr ""
+
+msgctxt "15480_Akiyama"
+msgid "Haha. Yeah, I guess I did."
+msgstr ""
+
+msgctxt "15492_Rio"
+msgid "He is really smart though. I just wish he'd get housebroken already."
+msgstr ""
+
+msgctxt "15504_Akiyama"
+msgid "Heh... I'm sure he'll get it some day."
+msgstr ""
+
+msgctxt "15516_Akiyama"
+msgid "You sound like you're enjoying taking care of him, at least."
+msgstr ""
+
+msgctxt "15528_Rio"
+msgid "You can tell? Yeah, it's actually a lot of fun."
+msgstr ""
+
+msgctxt "15540_Rio"
+msgid ""
+"I mean, it is a little depressing to have to clean up after him so often, "
+"but I love having him around!"
+msgstr ""
+
+msgctxt "15552_Akiyama"
+msgid "I'm just picturing you following him around with a mop."
+msgstr ""
+
+msgctxt "15564_Rio"
+msgid "Oh my gosh, Akiyama-san! Hahaha!"
+msgstr ""
+
+msgctxt "15576_Akiyama"
+msgid "Well, I hope he gets housebroken soon."
+msgstr ""
+
+msgctxt "15588_Rio"
+msgid "Hehehe. Yeah, me too."
+msgstr ""
+
+msgctxt "15600_Akiyama"
+msgid "It sounds like he could use better training."
+msgstr ""
+
+msgctxt "15612_Rio"
+msgid ""
+"You'd think so, right? I thought I must be doing something wrong, so I went "
+"back and talked to the people at the pet store."
+msgstr ""
+
+msgctxt "15624_Akiyama"
+msgid "What did they say?"
+msgstr ""
+
+msgctxt "15636_Rio"
+msgid "That he's always been like that..."
+msgstr ""
+
+msgctxt "15648_Akiyama"
+msgid "That's it?"
+msgstr ""
+
+msgctxt "15660_Rio"
+msgid "Yes! If that was the case, they should have mentioned it a little earlier!"
+msgstr ""
+
+msgctxt "15672_Akiyama"
+msgid "Yeah, seriously."
+msgstr ""
+
+msgctxt "15684_Rio"
+msgid "Well, not much I can do about it now."
+msgstr ""
+
+msgctxt "15696_Akiyama"
+msgid "You just have to housebreak him."
+msgstr ""
+
+msgctxt "15708_Rio"
+msgid "He's smart, so it shouldn't be hard, but..."
+msgstr ""
+
+msgctxt "15720_Rio"
+msgid ""
+"I feel like I've gotten kind of annoying lately. It may be because of my "
+"ex-boyfriend. It's like my personality's changed."
+msgstr ""
+
+msgctxt "15732_Akiyama"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "15744_Rio"
+msgid "I'll be like, \"If that's the way you think, then I'm done talking now!\""
+msgstr ""
+
+msgctxt "15756_Akiyama"
+msgid "Huh? What're you talking about?"
+msgstr ""
+
+msgctxt "15768_Rio"
+msgid "Hehehe!"
+msgstr ""
+
+msgctxt "15780_Akiyama"
+msgid "You wanna explain or what?"
+msgstr ""
+
+msgctxt "15792_Rio"
+msgid ""
+"Like, I'm nitpicking everything my friends say. Being petty and trying to "
+"find faults with them... Maybe I've just become a mean person?"
+msgstr ""
+
+msgctxt "15804_Akiyama"
+msgid "Ah, I see. That I can understand."
+msgstr ""
+
+msgctxt "15816_Akiyama"
+msgid "You should try to be more aware of your behavior."
+msgstr ""
+
+msgctxt "15828_Rio"
+msgid "Aware? How?"
+msgstr ""
+
+msgctxt "15840_Akiyama"
+msgid ""
+"Well, there are lots of things you can do. Um... Do you eat breakfast "
+"everyday? Skipping breakfast can make you really irritable."
+msgstr ""
+
+msgctxt "15852_Rio"
+msgid "I always have breakfast..."
+msgstr ""
+
+msgctxt "15864_Akiyama"
+msgid "Oh."
+msgstr ""
+
+msgctxt "15876_Rio"
+msgid "Yes."
+msgstr ""
+
+msgctxt "15888_Akiyama"
+msgid ""
+"Hmm... Now that I've said it, I can't think of anything off the top of my "
+"head right now."
+msgstr ""
+
+msgctxt "15900_Rio"
+msgid "Huh!? Well, that's not very like you, Akiyama-san..."
+msgstr ""
+
+msgctxt "15912_Akiyama"
+msgid "Your personality can't change that quickly."
+msgstr ""
+
+msgctxt "15924_Rio"
+msgid "It sure seems like it's changed."
+msgstr ""
+
+msgctxt "15936_Akiyama"
+msgid "How long were you going out with him?"
+msgstr ""
+
+msgctxt "15948_Rio"
+msgid "Less than a year."
+msgstr ""
+
+msgctxt "15960_Akiyama"
+msgid "I don't think your personality could change in that short a time."
+msgstr ""
+
+msgctxt "15972_Akiyama"
+msgid ""
+"Maybe what you call nitpicking is a sign that you're looking at things a "
+"little more deeply than before."
+msgstr ""
+
+msgctxt "15984_Rio"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "15996_Akiyama"
+msgid ""
+"It sounds like you're seeing the deeper meaning behind what people say "
+"instead of just taking everything at face value."
+msgstr ""
+
+msgctxt "16008_Akiyama"
+msgid "You can tell what the other person is really thinking."
+msgstr ""
+
+msgctxt "16020_Rio"
+msgid "So... It's a good thing?"
+msgstr ""
+
+msgctxt "16032_Akiyama"
+msgid ""
+"If you're able to tease them, then it means is that you've got a good "
+"understanding of your friends and know how not to upset them."
+msgstr ""
+
+msgctxt "16044_Rio"
+msgid ""
+"I see! You're so mature, Akiyama-san! I'm glad I asked you about it! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16056_Akiyama"
+msgid "Heh. You're very welcome."
+msgstr ""
+
+msgctxt "16068_Akiyama"
+msgid "You shouldn't worry too much about it."
+msgstr ""
+
+msgctxt "16080_Rio"
+msgid "You think so?"
+msgstr ""
+
+msgctxt "16092_Akiyama"
+msgid ""
+"Nobody's perfect. There are worse things than being a little critical of "
+"your friends."
+msgstr ""
+
+msgctxt "16104_Rio"
+msgid "So you're saying I shouldn't worry about turning mean?"
+msgstr ""
+
+msgctxt "16116_Akiyama"
+msgid "How should I put this?"
+msgstr ""
+
+msgctxt "16128_Akiyama"
+msgid "Nobody ever got rich by having a nice personality, right?"
+msgstr ""
+
+msgctxt "16140_Rio"
+msgid "Maybe not, but I don't want to have a bad personality, either."
+msgstr ""
+
+msgctxt "16152_Akiyama"
+msgid ""
+"There's no one correct answer. It entirely depends on the situation, you "
+"know?"
+msgstr ""
+
+msgctxt "16164_Rio"
+msgid "Yes..."
+msgstr ""
+
+msgctxt "16176_Rio"
+msgid ""
+"Hehehe. So I'm planning something right now. Would you like to know what it "
+"is?"
+msgstr ""
+
+msgctxt "16188_Akiyama"
+msgid "It sounds like you want to tell me."
+msgstr ""
+
+msgctxt "16200_Rio"
+msgid "I do!"
+msgstr ""
+
+msgctxt "16212_Akiyama"
+msgid "Hehe. All right then. Let's hear it."
+msgstr ""
+
+msgctxt "16224_Rio"
+msgid "Are you ready?"
+msgstr ""
+
+msgctxt "16236_Akiyama"
+msgid "It's about your dogs again, isn't it?"
+msgstr ""
+
+msgctxt "16248_Rio"
+msgid "Yep! Good guess!"
+msgstr ""
+
+msgctxt "16260_Akiyama"
+msgid "Heh. So? What's up?"
+msgstr ""
+
+msgctxt "16272_Rio"
+msgid "Well, I'm thinking about taking my dogs to the beach!"
+msgstr ""
+
+msgctxt "16284_Akiyama"
+msgid "The beach, huh?"
+msgstr ""
+
+msgctxt "16296_Rio"
+msgid "I've always dreamed about running with my dogs on a white, sandy beach."
+msgstr ""
+
+msgctxt "16308_Akiyama"
+msgid "Oh, is that all? Nothing else?"
+msgstr ""
+
+msgctxt "16320_Rio"
+msgid "Hey, I've wanted to do this for a long time."
+msgstr ""
+
+msgctxt "16332_Akiyama"
+msgid "Maybe so, but..."
+msgstr ""
+
+msgctxt "16344_Rio"
+msgid ""
+"Just think of my dogs running as fast as they can on the beach! Tell me "
+"that isn't cute!"
+msgstr ""
+
+msgctxt "16356_Akiyama"
+msgid "I guess so."
+msgstr ""
+
+msgctxt "16368_Rio"
+msgid "Is that all you can say?"
+msgstr ""
+
+msgctxt "16380_Akiyama"
+msgid "It just seems like a very average dream. I don't think it warrants planning."
+msgstr ""
+
+msgctxt "16392_Rio"
+msgid "But..."
+msgstr ""
+
+msgctxt "16404_Akiyama"
+msgid ""
+"Just don't let your dogs leave any little \"gifts\" for the other people on "
+"the beach."
+msgstr ""
+
+msgctxt "16416_Rio"
+msgid "Hehe! Yeah, guess that's something to watch out for, huh?"
+msgstr ""
+
+msgctxt "16428_Akiyama"
+msgid "You're only taking your dogs?"
+msgstr ""
+
+msgctxt "16440_Rio"
+msgid "Huh? But all I have are my dogs..."
+msgstr ""
+
+msgctxt "16452_Akiyama"
+msgid "That's not what I meant. You not going with any other people to the beach?"
+msgstr ""
+
+msgctxt "16464_Rio"
+msgid "Oh! Are you hinting at something, Akiyama-san?"
+msgstr ""
+
+msgctxt "16476_Akiyama"
+msgid "I was just wondering."
+msgstr ""
+
+msgctxt "16488_Rio"
+msgid ""
+"Hehehe. Hmm... Maybe I should invite someone along. But who? Do you have "
+"any suggestions, Akiyama-san?"
+msgstr ""
+
+msgctxt "16500_Akiyama"
+msgid "Ho boy..."
+msgstr ""
+
+msgctxt "16512_Akiyama"
+msgid ""
+"That seems really innocent. I like it. It's like something out of a fairy "
+"tale."
+msgstr ""
+
+msgctxt "16524_Rio"
+msgid "Really?"
+msgstr ""
+
+msgctxt "16536_Akiyama"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "16548_Rio"
+msgid ""
+"Yay! My friends keep saying that everybody does that kind of thing, so it's "
+"not a big deal, but I knew you'd understand."
+msgstr ""
+
+msgctxt "16560_Akiyama"
+msgid "Just 'cause everybody else does it doesn't make it bad."
+msgstr ""
+
+msgctxt "16572_Akiyama"
+msgid ""
+"I mean, when people go sightseeing, they usually go to the same places as "
+"everybody else. That's because those places are worth seeing, though."
+msgstr ""
+
+msgctxt "16584_Rio"
+msgid ""
+"That's a nice way to look at it. There's usually a good reason everybody "
+"does something, right?"
+msgstr ""
+
+msgctxt "16596_Akiyama"
+msgid "Yeah, exactly. You got it!"
+msgstr ""
+
+msgctxt "16608_Rio"
+msgid "Do you want to go with me then, Akiyama-san!? Hehehe."
+msgstr ""
+
+msgctxt "16620_Akiyama"
+msgid "Heh, I'll think about it."
+msgstr ""
+
+msgctxt "16632_Rio"
+msgid "I can play a whole song now!"
+msgstr ""
+
+msgctxt "16644_Akiyama"
+msgid "You mean on the guitar?"
+msgstr ""
+
+msgctxt "16656_Rio"
+msgid "Yep yep! It's not a very hard one, but still."
+msgstr ""
+
+msgctxt "16668_Akiyama"
+msgid "What song is it?"
+msgstr ""
+
+msgctxt "16680_Rio"
+msgid "Umm... Something Tapclon?"
+msgstr ""
+
+msgctxt "16692_Rio"
+msgid "No, that's not right. Placton?"
+msgstr ""
+
+msgctxt "16704_Akiyama"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "16716_Rio"
+msgid "What was it again?"
+msgstr ""
+
+msgctxt "16728_Akiyama"
+msgid "How am I supposed to know?"
+msgstr ""
+
+msgctxt "16740_Rio"
+msgid "Well, it was Placton something."
+msgstr ""
+
+msgctxt "16752_Akiyama"
+msgid ""
+"You can't remember the first song you learned? Seems like something you "
+"should make a note of."
+msgstr ""
+
+msgctxt "16764_Rio"
+msgid "But it's a weird name."
+msgstr ""
+
+msgctxt "16776_Akiyama"
+msgid "I guess..."
+msgstr ""
+
+msgctxt "16788_Rio"
+msgid "I was excited to tell you, Akiyama-san, but now..."
+msgstr ""
+
+msgctxt "16800_Akiyama"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "16812_Akiyama"
+msgid "Can you sing and play at the same time?"
+msgstr ""
+
+msgctxt "16824_Rio"
+msgid "Yes! You should see me holding the guitar and singing! I'm just like a pro!"
+msgstr ""
+
+msgctxt "16836_Akiyama"
+msgid "Heh, guess it's time to start planning a camping trip then."
+msgstr ""
+
+msgctxt "16848_Rio"
+msgid "Hehe! Please, you're just going to make me nervous!"
+msgstr ""
+
+msgctxt "16860_Akiyama"
+msgid "You make one mistake, and the mood gets destroyed."
+msgstr ""
+
+msgctxt "16872_Rio"
+msgid "That'd be terrible! I have to practice some more first."
+msgstr ""
+
+msgctxt "16884_Akiyama"
+msgid "Good plan."
+msgstr ""
+
+msgctxt "16896_Akiyama"
+msgid "I'd like to hear it sometime."
+msgstr ""
+
+msgctxt "16908_Rio"
+msgid ""
+"Okay! Oh, but I might get nervous from being watched. I might not play that "
+"well..."
+msgstr ""
+
+msgctxt "16920_Akiyama"
+msgid ""
+"Then you should practice playing in front of folks. I wouldn't mind helping "
+"you with that."
+msgstr ""
+
+msgctxt "16932_Rio"
+msgid "Um, Akiyama-san, that's a little... pervy! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16944_Akiyama"
+msgid "Not at all. I just want to help you improve."
+msgstr ""
+
+msgctxt "16956_Rio"
+msgid "Akiyama-san, you silver-tongued devil, you! Hehe!"
+msgstr ""
+
+msgctxt "16968_Rio"
+msgid "So I've got a date tomorrow!"
+msgstr ""
+
+msgctxt "16980_Akiyama"
+msgid "A... date?"
+msgstr ""
+
+msgctxt "16992_Rio"
+msgid "Yep! A date with my mom!"
+msgstr ""
+
+msgctxt "17004_Akiyama"
+msgid "Oh, that's what you meant! Don't do that to me..."
+msgstr ""
+
+msgctxt "17016_Rio"
+msgid "Hehehe! Scared you, huh?"
+msgstr ""
+
+msgctxt "17028_Akiyama"
+msgid "Heh. So, where are you going?"
+msgstr ""
+
+msgctxt "17040_Rio"
+msgid "I thought I'd take her to a play she's been wanting to see for a while."
+msgstr ""
+
+msgctxt "17052_Akiyama"
+msgid "Sounds like you and your mom are pretty close. Do you hang out a lot?"
+msgstr ""
+
+msgctxt "17064_Rio"
+msgid "Not really."
+msgstr ""
+
+msgctxt "17076_Rio"
+msgid "Actually, I ran away from home once when I was in high school."
+msgstr ""
+
+msgctxt "17088_Akiyama"
+msgid "Wow. Why?"
+msgstr ""
+
+msgctxt "17100_Rio"
+msgid "They were forcing me to go to this cram school for civil servant stuff..."
+msgstr ""
+
+msgctxt "17112_Akiyama"
+msgid "Wait, they have that kind of cram school?"
+msgstr ""
+
+msgctxt "17124_Rio"
+msgid "Yes, and it's not easy."
+msgstr ""
+
+msgctxt "17136_Akiyama"
+msgid "Huh. I see..."
+msgstr ""
+
+msgctxt "17148_Rio"
+msgid ""
+"I wanted to go to college instead, though. My mom and I got into a huge "
+"fight over it."
+msgstr ""
+
+msgctxt "17160_Akiyama"
+msgid "Then you ran away."
+msgstr ""
+
+msgctxt "17172_Rio"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "17184_Akiyama"
+msgid "How long did you run away for? Three days or something?"
+msgstr ""
+
+msgctxt "17196_Rio"
+msgid "Um... More like one night."
+msgstr ""
+
+msgctxt "17208_Akiyama"
+msgid "That's not very long at all."
+msgstr ""
+
+msgctxt "17220_Rio"
+msgid "Hahaha! No, but it seemed like a big deal at the time."
+msgstr ""
+
+msgctxt "17232_Rio"
+msgid "And they found me almost immediately."
+msgstr ""
+
+msgctxt "17244_Akiyama"
+msgid "Hahaha. That's pretty cute."
+msgstr ""
+
+msgctxt "17256_Rio"
+msgid ""
+"Hehe. Well, my mom's pretty strict, so I was really afraid of what she'd "
+"say."
+msgstr ""
+
+msgctxt "17268_Akiyama"
+msgid "Heh. So then what happened?"
+msgstr ""
+
+msgctxt "17280_Rio"
+msgid ""
+"Oh, we made up. But the thing I remember most is how nice my mother was to "
+"me at the time. It was the nicest she'd ever been."
+msgstr ""
+
+msgctxt "17292_Rio"
+msgid "Thinking back now, I can see how great a mother she really is."
+msgstr ""
+
+msgctxt "17304_Akiyama"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "17316_Rio"
+msgid ""
+"I gave her so much to be worried about. I kinda want to make it up to her "
+"now."
+msgstr ""
+
+msgctxt "17328_Akiyama"
+msgid "So you asked her on a \"date.\" I'm sure she'll enjoy it."
+msgstr ""
+
+msgctxt "17340_Rio"
+msgid "Yes, I hope so!"
+msgstr ""
+
+msgctxt "17352_Akiyama"
+msgid "I can understand how you must've felt."
+msgstr ""
+
+msgctxt "17364_Rio"
+msgid "Did you ever run away from home, Akiyama-san?"
+msgstr ""
+
+msgctxt "17376_Akiyama"
+msgid "Sort of. I caused my share of trouble. Your parents must've been pretty mad."
+msgstr ""
+
+msgctxt "17388_Rio"
+msgid "They were furious!"
+msgstr ""
+
+msgctxt "17400_Rio"
+msgid "We made up, though. Then my mom started being really nice to me."
+msgstr ""
+
+msgctxt "17412_Rio"
+msgid "She was completely different. Like, way kinder. She'd been so strict before!"
+msgstr ""
+
+msgctxt "17424_Akiyama"
+msgid "I see."
+msgstr ""
+
+msgctxt "17436_Rio"
+msgid "For the first time in my life, I could really tell how much she loved me."
+msgstr ""
+
+msgctxt "17448_Akiyama"
+msgid "Well, you can give back to her tomorrow with your \"date\" then."
+msgstr ""
+
+msgctxt "17460_Rio"
+msgid "I will!"
+msgstr ""
+
+msgctxt "17472_Akiyama"
+msgid "Your mom must've been worried about you."
+msgstr ""
+
+msgctxt "17484_Rio"
+msgid ""
+"Yes... She was the one giving serious thought about my future, but then I "
+"ran away and got her even more worried."
+msgstr ""
+
+msgctxt "17496_Rio"
+msgid "I was such a child back then."
+msgstr ""
+
+msgctxt "17508_Akiyama"
+msgid "Heh. You'll always be a child to your mother, though."
+msgstr ""
+
+msgctxt "17520_Rio"
+msgid "That's probably very true."
+msgstr ""
+
+msgctxt "17532_Akiyama"
+msgid "So you asked her on a \"date\" to try and make up for that?"
+msgstr ""
+
+msgctxt "17544_Rio"
+msgid "Yep! I hope she has fun."
+msgstr ""
+
+msgctxt "17556_Akiyama"
+msgid "I'm sure she will."
+msgstr ""
+
+msgctxt "17568_Rio"
+msgid "You asked a while ago about the kind of men I like, right?"
+msgstr ""
+
+msgctxt "17580_Akiyama"
+msgid "Yeah... I think I did ask you that."
+msgstr ""
+
+msgctxt "17592_Rio"
+msgid "But I never asked what kind of girls you like."
+msgstr ""
+
+msgctxt "17604_Akiyama"
+msgid "Are you sure you want to ask that?"
+msgstr ""
+
+msgctxt "17616_Rio"
+msgid "What!? Am I not your type?"
+msgstr ""
+
+msgctxt "17628_Akiyama"
+msgid "Hehe. I'm kidding."
+msgstr ""
+
+msgctxt "17640_Rio"
+msgid "Oh! Don't scare me like that."
+msgstr ""
+
+msgctxt "17652_Akiyama"
+msgid "I like girls with pretty eyes. Eyes I can get lost in."
+msgstr ""
+
+msgctxt "17664_Rio"
+msgid "What about my eyes?"
+msgstr ""
+
+msgctxt "17676_Akiyama"
+msgid "Your eyes are pretty."
+msgstr ""
+
+msgctxt "17688_Rio"
+msgid "Aren't they too small?"
+msgstr ""
+
+msgctxt "17700_Akiyama"
+msgid "Not at all. Do you think they're small?"
+msgstr ""
+
+msgctxt "17712_Rio"
+msgid ""
+"Yes... Not freakishly so, but I do think they're smaller than they should "
+"be."
+msgstr ""
+
+msgctxt "17724_Akiyama"
+msgid "Hmm... You have a petite face though, so they're perfectly balanced in size."
+msgstr ""
+
+msgctxt "17736_Rio"
+msgid "Really?"
+msgstr ""
+
+msgctxt "17748_Akiyama"
+msgid "Really. I think they're beautiful."
+msgstr ""
+
+msgctxt "17760_Rio"
+msgid "Hehe. Thank you. That makes me happy!"
+msgstr ""
+
+msgctxt "17772_Akiyama"
+msgid "I like girls with curves in the right places. You know, an hourglass figure."
+msgstr ""
+
+msgctxt "17784_Rio"
+msgid "......"
+msgstr ""
+
+msgctxt "17796_Akiyama"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "17808_Rio"
+msgid ""
+"You were sort of staring off into space when you said that. Who were you "
+"thinking about?"
+msgstr ""
+
+msgctxt "17820_Akiyama"
+msgid "Um..."
+msgstr ""
+
+msgctxt "17832_Rio"
+msgid "I haven't got a very womanly figure. Ugh, this sucks..."
+msgstr ""
+
+msgctxt "17844_Akiyama"
+msgid ""
+"I was just talking in general terms. A girl's appearance isn't that "
+"important. Uh..."
+msgstr ""
+
+msgctxt "17856_Rio"
+msgid "......"
+msgstr ""
+
+msgctxt "17868_Akiyama"
+msgid "Maybe we should change the subject."
+msgstr ""
+
+msgctxt "17880_Akiyama"
+msgid "I'm looking at my type of girl right now."
+msgstr ""
+
+msgctxt "17892_Rio"
+msgid "Hehehe! You always know the right thing to say, Akiyama-san!"
+msgstr ""
+
+msgctxt "17904_Akiyama"
+msgid "Well, it's the truth."
+msgstr ""
+
+msgctxt "17916_Rio"
+msgid "That makes me happy to hear!"
+msgstr ""
+
+msgctxt "17928_Akiyama"
+msgid "Hehehe."
+msgstr ""
+
+msgctxt "17940_Rio"
+msgid "Oh, but..."
+msgstr ""
+
+msgctxt "17952_Rio"
+msgid "I have the feeling I'm not the only girl you've said that to."
+msgstr ""
+
+msgctxt "17964_Akiyama"
+msgid "No, you're the first! I swear."
+msgstr ""
+
+msgctxt "17976_Rio"
+msgid "I believe you even less now."
+msgstr ""
+
+msgctxt "17988_Akiyama"
+msgid "......"
+msgstr ""
+
+msgctxt "18000_Rio"
+msgid "Hehehe. Akiyama-saaan. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "18012_Akiyama"
+msgid "Don't say anything. I'm gonna try and guess what you're going to say."
+msgstr ""
+
+msgctxt "18024_Rio"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "18036_Akiyama"
+msgid "It's something to do with love, right?"
+msgstr ""
+
+msgctxt "18048_Rio"
+msgid "That's right! How'd you guess?"
+msgstr ""
+
+msgctxt "18060_Akiyama"
+msgid "Huh? Seriously?"
+msgstr ""
+
+msgctxt "18072_Rio"
+msgid "Hehehe. ♪"
+msgstr ""
+
+msgctxt "18084_Akiyama"
+msgid "All right then! So what did you want to talk about?"
+msgstr ""
+
+msgctxt "18096_Rio"
+msgid "Um... There's someone I really like..."
+msgstr ""
+
+msgctxt "18108_Rio"
+msgid "He's more mature than I am, and he might not feel the same way back."
+msgstr ""
+
+msgctxt "18120_Akiyama"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt "18132_Rio"
+msgid "So... How should I put this?"
+msgstr ""
+
+msgctxt "18144_Rio"
+msgid "Is it okay for me to fall in love with this person?"
+msgstr ""
+
+msgctxt "18156_Akiyama"
+msgid "This isn't really my kind of topic."
+msgstr ""
+
+msgctxt "18168_Rio"
+msgid "Oh, really?"
+msgstr ""
+
+msgctxt "18180_Akiyama"
+msgid "Well, I just don't want to talk about this kinda thing."
+msgstr ""
+
+msgctxt "18192_Rio"
+msgid "Why not?"
+msgstr ""
+
+msgctxt "18204_Akiyama"
+msgid "I'm not a high school girl. I don't enjoy gossiping about love."
+msgstr ""
+
+msgctxt "18216_Rio"
+msgid "Are you... Are you blushing?"
+msgstr ""
+
+msgctxt "18228_Akiyama"
+msgid "No! A cool guy like me doesn't blush over something like that!"
+msgstr ""
+
+msgctxt "18240_Rio"
+msgid "Hmm... You're acting kinda suspicious."
+msgstr ""
+
+msgctxt "18252_Akiyama"
+msgid "I'm telling the truth!"
+msgstr ""
+
+msgctxt "18264_Rio"
+msgid ""
+"Hehe. You're right. You're not like a high school girl. You're more like a "
+"grade-schooler."
+msgstr ""
+
+msgctxt "18276_Akiyama"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "18288_Akiyama"
+msgid "Is this a trap?"
+msgstr ""
+
+msgctxt "18300_Rio"
+msgid "What?"
+msgstr ""
+
+msgctxt "18312_Akiyama"
+msgid "You said that to try and find out how I feel about you, didn't you?"
+msgstr ""
+
+msgctxt "18324_Rio"
+msgid "Well... Yeah... So?"
+msgstr ""
+
+msgctxt "18336_Akiyama"
+msgid "Heh. That's a pretty common tactic."
+msgstr ""
+
+msgctxt "18348_Rio"
+msgid "Hmph! You're not supposed to call attention to that, Akiyama-san!"
+msgstr ""
+
+msgctxt "18360_Akiyama"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "18372_Rio"
+msgid "You've totally ruined the mood now!"
+msgstr ""
+
+msgctxt "18384_Akiyama"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "18396_Akiyama"
+msgid "Of course it's okay!"
+msgstr ""
+
+msgctxt "18408_Rio"
+msgid "You don't beat around the bush, do you, Akiyama-san? Hehe."
+msgstr ""
+
+msgctxt "18420_Akiyama"
+msgid "Huh? You are talking about me, right?"
+msgstr ""
+
+msgctxt "18432_Rio"
+msgid "Hehehe! You're so funny, Akiyama-san!"
+msgstr ""
+
+msgctxt "18444_Akiyama"
+msgid "Wait... Are you saying it's not me?"
+msgstr ""
+
+msgctxt "18456_Rio"
+msgid "......"
+msgstr ""
+
+msgctxt "18468_Akiyama"
+msgid "......"
+msgstr ""
+
+msgctxt "18480_Rio"
+msgid "No, it's you! ♪"
+msgstr ""
+
+msgctxt "18492_Akiyama"
+msgid "Huh? Really?"
+msgstr ""
+
+msgctxt "18504_Rio"
+msgid ""
+"Of course! I think I'm really going to start falling for you! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "18516_Akiyama"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "18528_Rio"
+msgid "Oh, Akiyama-san! ♪"
+msgstr ""
+
+msgctxt "18540_Akiyama"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "18552_Rio"
+msgid "Well..."
+msgstr ""
+
+msgctxt "18564_Rio"
+msgid "I decided to join that agency!"
+msgstr ""
+
+msgctxt "18576_Akiyama"
+msgid "Oh, really?"
+msgstr ""
+
+msgctxt "18588_Rio"
+msgid "The president talks about you all the time."
+msgstr ""
+
+msgctxt "18600_Rio"
+msgid "Who are you, exactly!?"
+msgstr ""
+
+msgctxt "18612_Akiyama"
+msgid "Oh, I'm just a simple moneylender. Maybe I'm a little nosy though."
+msgstr ""
+
+msgctxt "18624_Rio"
+msgid "Aww! You don't have to be so modest!"
+msgstr ""
+
+msgctxt "18636_Akiyama"
+msgid "It's not that..."
+msgstr ""
+
+msgctxt "18648_Rio"
+msgid "When I start working for this new company, I'll have to quit working here."
+msgstr ""
+
+msgctxt "18660_Rio"
+msgid "We won't be able to talk like this much longer."
+msgstr ""
+
+msgctxt "18672_Akiyama"
+msgid "That's true."
+msgstr ""
+
+msgctxt "18684_Rio"
+msgid "Don't forget to keep up with your table tennis!"
+msgstr ""
+
+msgctxt "18696_Akiyama"
+msgid "Heh. You got it."
+msgstr ""
+
+msgctxt "18708_Akiyama"
+msgid "Switch camera 0."
+msgstr ""
+
+msgctxt "18720_Akiyama"
+msgid "Switch camera 1."
+msgstr ""
+
+msgctxt "18732_Akiyama"
+msgid "Switch camera 2."
+msgstr ""
+
+msgctxt "18744_Akiyama"
+msgid "Back to default."
+msgstr ""
+
+msgctxt "18756_Akiyama"
+msgid "Switch camera 0."
+msgstr ""
+
+msgctxt "18768_Akiyama"
+msgid "Switch camera 1."
+msgstr ""
+
+msgctxt "18780_Akiyama"
+msgid "Switch camera 2."
+msgstr ""
+
+msgctxt "18792_Akiyama"
+msgid "Back to default."
+msgstr ""
+
+msgctxt "18816_Rio"
+msgid "You came to see me!"
+msgstr ""
+
+msgctxt "18852_Rio"
+msgid "Welcome!"
+msgstr ""
+
+msgctxt "18864_Rio"
+msgid "You're here. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "18876_Rio"
+msgid "Did you come to see me!? Thank you! That makes me so happy!"
+msgstr ""
+
+msgctxt "18888_Rio"
+msgid "Akiyama-san, thanks for the other day. I had a really fun time!"
+msgstr ""
+
+msgctxt "18900_Rio"
+msgid "Akiyama-san... I was waiting for you to take me out..."
+msgstr ""
+
+msgctxt "18912_Rio"
+msgid "Akiyama-san, It's too bad about before. We should try going again."
+msgstr ""
+
+msgctxt "18924_Rio"
+msgid "Akiyama-san... I was looking forward to being your escort..."
+msgstr ""
+
+msgctxt "18936_Rio"
+msgid "I'm sorry about before. We should go again."
+msgstr ""
+
+msgctxt "18948_Rio"
+msgid "Let me introduce myself properly. I'm Rio. It's a pleasure to meet you."
+msgstr ""
+
+msgctxt "18960_Akiyama"
+msgid "Same here."
+msgstr ""
+
+msgctxt "18972_Rio"
+msgid "Welcome! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "18984_Rio"
+msgid "Did you come to see me?"
+msgstr ""
+
+msgctxt "18996_Rio"
+msgid "Please enjoy yourself!"
+msgstr ""
+
+msgctxt "19008_Rio"
+msgid "Thanks for last time. I had a lot of fun. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "19020_Rio"
+msgid "Let's go out again when you have the chance."
+msgstr ""
+
+msgctxt "19032_Rio"
+msgid "Let's go out again when you have the chance."
+msgstr ""
+
+msgctxt "19044_Rio"
+msgid "Thanks for escorting me today. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "19056_Rio"
+msgid "Will you take me out again sometime?"
+msgstr ""
+
+msgctxt "19068_Rio"
+msgid "Will you take me out again sometime?"
+msgstr ""
+
+msgctxt "19080_Rio"
+msgid "Akiyama-san, you're looking really handsome today!"
+msgstr ""
+
+msgctxt "19092_Rio"
+msgid "Akiyama-san, you're looking good today."
+msgstr ""
+
+msgctxt "19104_Rio"
+msgid "You always look the same."
+msgstr ""
+
+msgctxt "19116_Rio"
+msgid "Do you really like that outfit you're wearing? I personally don't like it..."
+msgstr ""
+
+msgctxt "19128_Rio"
+msgid "Akiyama-san... That outfit's just no good..."
+msgstr ""
+
+msgctxt "19140_Akiyama"
+msgid "You should care about your appearance a little more..."
+msgstr ""
+
+msgctxt "19152_Rio"
+msgid "You look amazing today!"
+msgstr ""
+
+msgctxt "19164_Rio"
+msgid "Really!? Wow!"
+msgstr ""
+
+msgctxt "19176_Akiyama"
+msgid "I've wanted something like this forever!"
+msgstr ""
+
+msgctxt "19188_Akiyama"
+msgid "Thank you so much!"
+msgstr ""
+
+msgctxt "19200_Rio"
+msgid "Oh, is that for me?"
+msgstr ""
+
+msgctxt "19212_Rio"
+msgid "Thank you, Akiyama-san! That's really nice!"
+msgstr ""
+
+msgctxt "19224_Rio"
+msgid "Oh, is that for me?"
+msgstr ""
+
+msgctxt "19236_Akiyama"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "19248_Rio"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "19260_F_cab_sitsofa_tlk_noA"
+msgid "I don't know about that..."
+msgstr ""
+
+msgctxt "19272_Rio"
+msgid "What's that?"
+msgstr ""
+
+msgctxt "19284_F_cab_sitsofa_tlk_angry"
+msgid "That's a no for me..."
+msgstr ""
+
+msgctxt "19296_Rio"
+msgid "Huh? You're giving that to me again?"
+msgstr ""
+
+msgctxt "19308_Akiyama"
+msgid "You gave me that before... Don't you remember?"
+msgstr ""
+
+msgctxt "19320_Rio"
+msgid "Really!? Wow!"
+msgstr ""
+
+msgctxt "19332_Akiyama"
+msgid "I've wanted something like this forever!"
+msgstr ""
+
+msgctxt "19344_Akiyama"
+msgid "Thank you so much!"
+msgstr ""
+
+msgctxt "19356_Rio"
+msgid "What would you like?"
+msgstr ""
+
+msgctxt "19380_Player"
+msgid "I'll have this."
+msgstr ""
+
+msgctxt "19392_Akiyama"
+msgid "So you're not getting anything?"
+msgstr ""
+
+msgctxt "19404_Rio"
+msgid "Would you like another one?"
+msgstr ""
+
+msgctxt "19428_Player"
+msgid "I'll have this."
+msgstr ""
+
+msgctxt "19440_Akiyama"
+msgid "Oh, okay..."
+msgstr ""
+
+msgctxt "19452_Rio"
+msgid "I like that too!"
+msgstr ""
+
+msgctxt "19464_Akiyama"
+msgid "Guess we have matching tastes."
+msgstr ""
+
+msgctxt "19476_Rio"
+msgid "Akiyama-san, you really drink that?"
+msgstr ""
+
+msgctxt "19488_Akiyama"
+msgid "I'm a little surprised."
+msgstr ""
+
+msgctxt "19500_Rio"
+msgid "All right, then."
+msgstr ""
+
+msgctxt "19512_Rio"
+msgid "Aww, don't tell me you're drunk already..."
+msgstr ""
+
+msgctxt "19524_Akiyama"
+msgid "That's no fun..."
+msgstr ""
+
+msgctxt "19536_Rio"
+msgid "Hmm... I see. You like that?"
+msgstr ""
+
+msgctxt "19548_Rio"
+msgid "Do you want something to eat?"
+msgstr ""
+
+msgctxt "19572_Player"
+msgid "I'll have this."
+msgstr ""
+
+msgctxt "19584_Akiyama"
+msgid "Oh, you're not hungry?"
+msgstr ""
+
+msgctxt "19596_Rio"
+msgid "Do you want something to eat?"
+msgstr ""
+
+msgctxt "19620_Player"
+msgid "I'll have this."
+msgstr ""
+
+msgctxt "19632_Akiyama"
+msgid "Hmm. I guess you're full already?"
+msgstr ""
+
+msgctxt "19644_Rio"
+msgid "That's my favorite! Maybe we can share!"
+msgstr ""
+
+msgctxt "19656_Akiyama"
+msgid "Let's eat it together. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "19668_Rio"
+msgid "You like that, Akiyama-san?"
+msgstr ""
+
+msgctxt "19680_Akiyama"
+msgid "I'm a little surprised."
+msgstr ""
+
+msgctxt "19692_Rio"
+msgid "All right, then."
+msgstr ""
+
+msgctxt "19704_Rio"
+msgid "You eat that?"
+msgstr ""
+
+msgctxt "19716_Rio"
+msgid "I don't like that... at all. Why do people think it tastes good?"
+msgstr ""
+
+msgctxt "19728_Rio"
+msgid "I'll put in the order then."
+msgstr ""
+
+msgctxt "19752_Attendant"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "19764_Rio"
+msgid "Here's our order."
+msgstr ""
+
+msgctxt "19776_Attendant"
+msgid "Of course. Right away."
+msgstr ""
+
+msgctxt "19800_Rio"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "19812_Player"
+msgid "Cheers."
+msgstr ""
+
+msgctxt "19824_Rio"
+msgid "Make yourself comfortable!"
+msgstr ""
+
+msgctxt "19836_Rio"
+msgid "Cheers."
+msgstr ""
+
+msgctxt "19848_Player"
+msgid "Cheers."
+msgstr ""
+
+msgctxt "19860_Rio"
+msgid "Make yourself at home."
+msgstr ""
+
+msgctxt "19872_Rio"
+msgid "I'll make it right now."
+msgstr ""
+
+msgctxt "19884_Player"
+msgid "All right."
+msgstr ""
+
+msgctxt "19896_Rio"
+msgid "Here you go!"
+msgstr ""
+
+msgctxt "19920_Rio"
+msgid "My name is Rio. It's so nice to meet you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "19932_Akiyama"
+msgid "Nice to meet you, too."
+msgstr ""
+
+msgctxt "19944_Akiyama"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+
+msgctxt "19956_Akiyama"
+msgid "You got Rio's business card."
+msgstr ""
+
+msgctxt "19992_Akiyama"
+msgid "(Maybe I'll request her next time.)"
+msgstr ""
+
+msgctxt "20016_Rio"
+msgid "Come again soon!"
+msgstr ""
+
+msgctxt "20028_Akiyama"
+msgid "Definitely."
+msgstr ""
+
+msgctxt "20040_Akiyama"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+
+msgctxt "20052_Akiyama"
+msgid "You got Rio's fancy business card."
+msgstr ""
+
+msgctxt "20100_Rio"
+msgid "Here you go!"
+msgstr ""
+
+msgctxt "20112_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "20124_Rio"
+msgid "Do you mind if I smoke, too?"
+msgstr ""
+
+msgctxt "20136_Player"
+msgid "Go ahead."
+msgstr ""
+
+msgctxt "20148_Rio"
+msgid "Go on, drink up!"
+msgstr ""
+
+msgctxt "20160_Player"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "20172_Rio"
+msgid "I think I may have a little sip myself!"
+msgstr ""
+
+msgctxt "20184_Player"
+msgid "All right."
+msgstr ""
+
+msgctxt "20196_Akiyama"
+msgid "I should get going."
+msgstr ""
+
+msgctxt "20208_Rio"
+msgid "You're leaving already?"
+msgstr ""
+
+msgctxt "20220_Rio"
+msgid "I guess it's about that time."
+msgstr ""
+
+msgctxt "20232_Akiyama"
+msgid "Oh yeah. You're right."
+msgstr ""
+
+msgctxt "20244_Akiyama"
+msgid "終了時_アフター_初。"
+msgstr ""
+
+msgctxt "20256_Akiyama"
+msgid "終了時_アフター_遅刻後。"
+msgstr ""
+
+msgctxt "20268_Akiyama"
+msgid "終了時_アフター_失敗後。"
+msgstr ""
+
+msgctxt "20280_Akiyama"
+msgid "終了時_同伴_初。"
+msgstr ""
+
+msgctxt "20292_Akiyama"
+msgid "終了時_同伴_遅刻後。"
+msgstr ""
+
+msgctxt "20304_Akiyama"
+msgid "終了時_同伴_失敗後。"
+msgstr ""
+
+msgctxt "20316_Akiyama"
+msgid "終了時_ミニミッション。"
+msgstr ""
+
+msgctxt "20328_Akiyama"
+msgid ""
+"終了時_同伴_初\r\n"
+"本来は店にいません。"
+msgstr ""
+
+msgctxt "20340_Rio"
+msgid "Thanks for coming today! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "20376_Akiyama"
+msgid "Please come again! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "20388_Akiyama"
+msgid "All right."
+msgstr ""
+
+msgctxt "20400_P_sitsofaR_tlk_surp"
+msgid "Well... See you next time."
+msgstr ""
+
+msgctxt "20436_Akiyama"
+msgid "That was so much fun! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "20448_Akiyama"
+msgid "Yeah, it was."
+msgstr ""
+
+msgctxt "20460_P_sitsofaR_tlk_surp"
+msgid "I'll be waiting."
+msgstr ""
+
+msgctxt "20496_Akiyama"
+msgid "Thanks for today. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "20508_Akiyama"
+msgid "No problem."
+msgstr ""
+
+msgctxt "20520_P_sitsofaR_tlk_surp"
+msgid "Well, I'll be waiting for you."
+msgstr ""
+
+msgctxt "20556_Akiyama"
+msgid "I love you! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "20568_Akiyama"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "20580_P_sitsofaR_tlk_surp"
+msgid "Goodbye."
+msgstr ""
+
+msgctxt "20628_Rio"
+msgid "Watch your step on the way out."
+msgstr ""
+
+msgctxt "20640_Rio"
+msgid "That was so much fun! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "20652_Akiyama"
+msgid "It was."
+msgstr ""
+
+msgctxt "20664_Rio"
+msgid "Have you heard any interesting gossip recently?"
+msgstr ""
+
+msgctxt "20676_Akiyama"
+msgid "You must hear a lot of interesting stories, Akiyama-san."
+msgstr ""
+
+msgctxt "20688_F_cab_sitsofa_talk_smileA"
+msgid "Something interesting? Let me think."
+msgstr ""
+
+msgctxt "20700_Akiyama"
+msgid "No... Nothing in particular."
+msgstr ""
+
+msgctxt "20856_Rio"
+msgid "Akiyama-san?"
+msgstr ""
+
+msgctxt "20868_Akiyama"
+msgid "What's up?"
+msgstr ""
+
+msgctxt "20880_Rio"
+msgid "Notice anything about me today?"
+msgstr ""
+
+msgctxt "20892_Akiyama"
+msgid "......"
+msgstr ""
+
+msgctxt "20904_Akiyama"
+msgid "Not really."
+msgstr ""
+
+msgctxt "20916_Rio"
+msgid "What!? Look closer!"
+msgstr ""
+
+msgctxt "20928_Rio"
+msgid "I have a really hard time deciding what to buy when I go shopping."
+msgstr ""
+
+msgctxt "20940_Akiyama"
+msgid "Hehe. I guess a lot of women are like that, huh?"
+msgstr ""
+
+msgctxt "20952_Rio"
+msgid ""
+"A while ago, I found the cutest little shop, and I just couldn't decide "
+"what to get. I was there for, like, a whole hour!"
+msgstr ""
+
+msgctxt "20964_Akiyama"
+msgid "An hour!? What were you trying to decide on?"
+msgstr ""
+
+msgctxt "20976_Rio"
+msgid "Hehe! Guess!"
+msgstr ""
+
+msgctxt "21012_Rio"
+msgid "Look! This is the present you gave me the other day!"
+msgstr ""
+
+msgctxt "21024_Akiyama"
+msgid "I just love it. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "21036_Rio"
+msgid "I'm kind of thirsty. Can I order a drink?"
+msgstr ""
+
+msgctxt "21060_Akiyama"
+msgid "Wow. You're awesome, Akiyama-san!"
+msgstr ""
+
+msgctxt "21072_F_cab_sitsofa_sync_order"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "21096_Akiyama"
+msgid "Aw. Why not?"
+msgstr ""
+
+msgctxt "21108_Rio"
+msgid ""
+"I'm a little hungry. Would you like to share a <Color:7>Fruit "
+"Platter<Color:Default> with me?"
+msgstr ""
+
+msgctxt "21120_Rio"
+msgid "Okay, I'll order it."
+msgstr ""
+
+msgctxt "21132_F_cab_sitsofa_sync_order"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "21144_Akiyama"
+msgid "Oh, sorry. I don't have enough money."
+msgstr ""
+
+msgctxt "21156_Rio"
+msgid "Huh!? Really!? Aw..."
+msgstr ""
+
+msgctxt "21168_Rio"
+msgid "Oh, okay... But I really wanted that..."
+msgstr ""
+
+msgctxt "21180_Rio"
+msgid ""
+"Thanks for your mail. You have to root for my magazine column so they "
+"decide to keep it going for a while!"
+msgstr ""
+
+msgctxt "21192_Akiyama"
+msgid "All right."
+msgstr ""
+
+msgctxt "21204_Rio"
+msgid ""
+"I've been practicing my guitar a lot these days. I'm not making as many "
+"mistakes now!"
+msgstr ""
+
+msgctxt "21216_Rio"
+msgid "I guess the most important thing is getting the basics down!"
+msgstr ""
+
+msgctxt "21228_Akiyama"
+msgid "Hehehe."
+msgstr ""
+
+msgctxt "21240_Rio"
+msgid ""
+"You know that dog run that I mentioned? It's more fun than just walking "
+"your dogs since you can let them run free. I love it!"
+msgstr ""
+
+msgctxt "21252_Rio"
+msgid "I've been going all the time recently."
+msgstr ""
+
+msgctxt "21264_Akiyama"
+msgid "Really?"
+msgstr ""
+
+msgctxt "21276_Rio"
+msgid "Hmm... Maybe I'd be more successful as a model than a hostess."
+msgstr ""
+
+msgctxt "21288_Rio"
+msgid ""
+"But if I quit, I wouldn't be able to see you, Akiyama-san. I'd miss that "
+"too much."
+msgstr ""
+
+msgctxt "21300_Akiyama"
+msgid "That's nice of you to say."
+msgstr ""
+
+msgctxt "21312_Rio"
+msgid ""
+"Thanks for being so understanding. I feel bad asking you for advice all the "
+"time when you're here to relax and enjoy yourself."
+msgstr ""
+
+msgctxt "21324_Akiyama"
+msgid "Don't worry about it. I'm happy to help."
+msgstr ""
+
+msgctxt "21336_Akiyama"
+msgid "So what do you think now that you're doing it?"
+msgstr ""
+
+msgctxt "21348_Akiyama"
+msgid "What about it interested you?"
+msgstr ""
+
+msgctxt "21360_Akiyama"
+msgid "You're a little different from the other girls."
+msgstr ""
+
+msgctxt "21372_Akiyama"
+msgid "\"Leave it to Rio!\""
+msgstr ""
+
+msgctxt "21384_Akiyama"
+msgid "\"Rio, Queen of the Dance\""
+msgstr ""
+
+msgctxt "21396_Akiyama"
+msgid "\"Rio's All-Night Carnival\""
+msgstr ""
+
+msgctxt "21408_Akiyama"
+msgid "You want a dog that looks like an old man?"
+msgstr ""
+
+msgctxt "21420_Akiyama"
+msgid "Sounds like fate. You should buy him."
+msgstr ""
+
+msgctxt "21432_Akiyama"
+msgid "Do you really want a dog that nobody else wants?"
+msgstr ""
+
+msgctxt "21444_Akiyama"
+msgid "Nothing wrong with showing a little skin."
+msgstr ""
+
+msgctxt "21456_Akiyama"
+msgid "Aren't you embarrassed?"
+msgstr ""
+
+msgctxt "21468_Akiyama"
+msgid "You should dress up as a sexy bunny girl next."
+msgstr ""
+
+msgctxt "21480_Akiyama"
+msgid "I hear a lot of people quit after a few weeks."
+msgstr ""
+
+msgctxt "21492_Akiyama"
+msgid "Isn't it hard to play with nails like that?"
+msgstr ""
+
+msgctxt "21504_Akiyama"
+msgid "Why did you pick the guitar?"
+msgstr ""
+
+msgctxt "21516_Akiyama"
+msgid "All right, then. Let's play!"
+msgstr ""
+
+msgctxt "21528_Akiyama"
+msgid "How long have you been playing?"
+msgstr ""
+
+msgctxt "21540_Akiyama"
+msgid "Isn't table tennis kind of lame?"
+msgstr ""
+
+msgctxt "21552_Akiyama"
+msgid "Maybe I should go with you next time."
+msgstr ""
+
+msgctxt "21564_Akiyama"
+msgid "Hot springs are nice, aren't they?"
+msgstr ""
+
+msgctxt "21576_Akiyama"
+msgid "I bet you look good in a yukata."
+msgstr ""
+
+msgctxt "21588_Akiyama"
+msgid "Both legs bouncing sounds annoying."
+msgstr ""
+
+msgctxt "21600_Akiyama"
+msgid "I sometimes do that myself."
+msgstr ""
+
+msgctxt "21612_Akiyama"
+msgid "Do you know why people do that?"
+msgstr ""
+
+msgctxt "21624_Akiyama"
+msgid "How much would you say you've recovered?"
+msgstr ""
+
+msgctxt "21636_Akiyama"
+msgid "I sort of understand what you mean."
+msgstr ""
+
+msgctxt "21648_Akiyama"
+msgid "That's a positive way to look at things."
+msgstr ""
+
+msgctxt "21660_Akiyama"
+msgid "Do you notice things about other people?"
+msgstr ""
+
+msgctxt "21672_Akiyama"
+msgid "Wouldn't that be kind of annoying?"
+msgstr ""
+
+msgctxt "21684_Akiyama"
+msgid "I could never do that. I'm not very observant."
+msgstr ""
+
+msgctxt "21696_Akiyama"
+msgid "I'm the same way."
+msgstr ""
+
+msgctxt "21708_Akiyama"
+msgid "That's not good."
+msgstr ""
+
+msgctxt "21720_Akiyama"
+msgid "Don't worry about it. You're still young."
+msgstr ""
+
+msgctxt "21732_Akiyama"
+msgid "The problem is how you carry yourself."
+msgstr ""
+
+msgctxt "21744_Akiyama"
+msgid "I can think of worse problems."
+msgstr ""
+
+msgctxt "21756_Akiyama"
+msgid "That's too bad."
+msgstr ""
+
+msgctxt "21768_Akiyama"
+msgid "Sounds like it could be fun."
+msgstr ""
+
+msgctxt "21780_Akiyama"
+msgid "That doesn't seem like a good idea."
+msgstr ""
+
+msgctxt "21792_Akiyama"
+msgid "Whaaat!?"
+msgstr ""
+
+msgctxt "21804_Akiyama"
+msgid "Do you tend to black out when you drink?"
+msgstr ""
+
+msgctxt "21816_Akiyama"
+msgid "I don't believe you."
+msgstr ""
+
+msgctxt "21828_Akiyama"
+msgid "I bet you were embarrassed when you noticed."
+msgstr ""
+
+msgctxt "21840_Akiyama"
+msgid "I can't imagine you making weird faces."
+msgstr ""
+
+msgctxt "21852_Akiyama"
+msgid "I can tell you care about the other girls."
+msgstr ""
+
+msgctxt "21864_Akiyama"
+msgid "Show me the face you made."
+msgstr ""
+
+msgctxt "21876_Akiyama"
+msgid "What's the big deal? It's just raw shrimp."
+msgstr ""
+
+msgctxt "21888_Akiyama"
+msgid "I thought you were talking about a man."
+msgstr ""
+
+msgctxt "21900_Akiyama"
+msgid "Are there other foods you can't eat?"
+msgstr ""
+
+msgctxt "21912_Akiyama"
+msgid "I bet I'd like it there if I were a girl."
+msgstr ""
+
+msgctxt "21924_Akiyama"
+msgid "I wouldn't mind being a teacher there."
+msgstr ""
+
+msgctxt "21936_Akiyama"
+msgid "Wait, fried chicken at the school store!?"
+msgstr ""
+
+msgctxt "21948_Akiyama"
+msgid "That relationship's over. Forget about it."
+msgstr ""
+
+msgctxt "21960_Akiyama"
+msgid "So basically, you don't like stupid men."
+msgstr ""
+
+msgctxt "21972_Akiyama"
+msgid "Maybe you need a masochistic boyfriend."
+msgstr ""
+
+msgctxt "21984_Akiyama"
+msgid "I take big bites."
+msgstr ""
+
+msgctxt "21996_Akiyama"
+msgid "I take my time and lick it slowly."
+msgstr ""
+
+msgctxt "22008_Akiyama"
+msgid "I always throw away the cone."
+msgstr ""
+
+msgctxt "22020_Akiyama"
+msgid "That's not a bad thing."
+msgstr ""
+
+msgctxt "22032_Akiyama"
+msgid "Then you should make this decision on your own."
+msgstr ""
+
+msgctxt "22044_Akiyama"
+msgid "You could try something else."
+msgstr ""
+
+msgctxt "22056_Akiyama"
+msgid "That's great to hear."
+msgstr ""
+
+msgctxt "22068_Akiyama"
+msgid "I wonder which photos she saw."
+msgstr ""
+
+msgctxt "22080_Akiyama"
+msgid "Sounds like being in the magazine was worth it."
+msgstr ""
+
+msgctxt "22092_Akiyama"
+msgid "I'm against it, personally."
+msgstr ""
+
+msgctxt "22104_Akiyama"
+msgid "It doesn't really matter what I say, does it?"
+msgstr ""
+
+msgctxt "22116_Akiyama"
+msgid "If you're not sure, why don't you just try it?"
+msgstr ""
+
+msgctxt "22128_Akiyama"
+msgid "They say dogs take after their masters."
+msgstr ""
+
+msgctxt "22140_Akiyama"
+msgid "You sound like you're enjoying taking care of him, at least."
+msgstr ""
+
+msgctxt "22152_Akiyama"
+msgid "It sounds like he could use better training."
+msgstr ""
+
+msgctxt "22164_Akiyama"
+msgid "You should try to be more aware of your behavior."
+msgstr ""
+
+msgctxt "22176_Akiyama"
+msgid "Your personality can't change that quickly."
+msgstr ""
+
+msgctxt "22188_Akiyama"
+msgid "You shouldn't worry too much about it."
+msgstr ""
+
+msgctxt "22200_Akiyama"
+msgid "Is that all?"
+msgstr ""
+
+msgctxt "22212_Akiyama"
+msgid "You're only taking your dogs?"
+msgstr ""
+
+msgctxt "22224_Akiyama"
+msgid "That seems really innocent. I like it."
+msgstr ""
+
+msgctxt "22236_Akiyama"
+msgid "You can't remember the first song you learned?"
+msgstr ""
+
+msgctxt "22248_Akiyama"
+msgid "Can you sing and play at the same time?"
+msgstr ""
+
+msgctxt "22260_Akiyama"
+msgid "I'd like to hear it sometime."
+msgstr ""
+
+msgctxt "22272_Akiyama"
+msgid "How long did you run away for?"
+msgstr ""
+
+msgctxt "22284_Akiyama"
+msgid "I can understand how you must've felt."
+msgstr ""
+
+msgctxt "22296_Akiyama"
+msgid "Your mom must've been worried about you."
+msgstr ""
+
+msgctxt "22308_Akiyama"
+msgid "I like girls with pretty eyes."
+msgstr ""
+
+msgctxt "22320_Akiyama"
+msgid "I like girls with curves in the right places."
+msgstr ""
+
+msgctxt "22332_Akiyama"
+msgid "I'm looking at my type of girl right now."
+msgstr ""
+
+msgctxt "22344_Akiyama"
+msgid "This isn't really my kind of topic."
+msgstr ""
+
+msgctxt "22356_Akiyama"
+msgid "Is this a trap?"
+msgstr ""
+
+msgctxt "22368_Akiyama"
+msgid "Of course it's okay!"
+msgstr ""
+
+msgctxt "22380_Akiyama"
+msgid "Nothing"
+msgstr ""
+
+msgctxt "22392_Akiyama"
+msgid "777 Town"
+msgstr ""
+
+msgctxt "22404_Akiyama"
+msgid "Amoebatar"
+msgstr ""
+
+msgctxt "22416_Akiyama"
+msgid "The Ghost in the Underground Mall"
+msgstr ""
+
+msgctxt "22428_Akiyama"
+msgid "The Footbaths at Yunosono Hot Springs"
+msgstr ""
+
+msgctxt "22440_Akiyama"
+msgid "Popular Golf Dates Among Women"
+msgstr ""
+
+msgctxt "22452_Akiyama"
+msgid "Eating Liver to Reverse Brain Aging"
+msgstr ""
+
+msgctxt "22464_Akiyama"
+msgid "The Pole Dancing Workout"
+msgstr ""
+
+msgctxt "22476_Akiyama"
+msgid "Popular Sweet Sake Among Women"
+msgstr ""
+
+msgctxt "22488_Akiyama"
+msgid "Sure."
+msgstr ""
+
+msgctxt "22500_Akiyama"
+msgid "No."
+msgstr ""
+
+msgctxt "22512_Akiyama"
+msgid "That's not a bad idea."
+msgstr ""
+
+msgctxt "22524_Akiyama"
+msgid "No way."
+msgstr ""

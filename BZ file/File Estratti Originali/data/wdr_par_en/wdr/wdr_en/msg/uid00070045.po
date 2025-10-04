@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "3656"
+msgid "Receptionist"
+msgstr ""
+
+msgctxt "212_Receptionist"
+msgid "That's too bad. Please try again some time."
+msgstr ""
+
+msgctxt "236_Receptionist"
+msgid "Congratulations. Here's your prize."
+msgstr ""
+
+msgctxt "272_Receptionist"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "284_Receptionist"
+msgid "What would you like to do?"
+msgstr ""
+
+msgctxt "296_Receptionist"
+msgid "Please be forwarned that equipped gear will not apply its effects."
+msgstr ""
+
+msgctxt "308_Receptionist"
+msgid "Please select a tournament."
+msgstr ""
+
+msgctxt "344_Receptionist"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "368_Receptionist"
+msgid "We hope to see you again."
+msgstr ""
+
+msgctxt "392_Receptionist"
+msgid "These are the Coliseum rules."
+msgstr ""
+
+msgctxt "404_Receptionist"
+msgid ""
+"These are the battle rules. Each tournament will have a different set of "
+"rules."
+msgstr ""
+
+msgctxt "416_Receptionist"
+msgid "This is is the individual introduction."
+msgstr ""
+
+msgctxt "440_Receptionist"
+msgid "Point."
+msgstr ""
+
+msgctxt "464_Receptionist"
+msgid "Ask About Tag Matches"
+msgstr ""
+
+msgctxt "488_Receptionist"
+msgid "Ask About Tag Matches"
+msgstr ""
+
+msgctxt "512_Receptionist"
+msgid "The Tag Team introduction has been canceled."
+msgstr ""
+
+msgctxt "536_Receptionist"
+msgid "Tournament Selection"
+msgstr ""
+
+msgctxt "548_Receptionist"
+msgid "Coliseum Rules"
+msgstr ""
+
+msgctxt "560_Receptionist"
+msgid "Individual Introduction"
+msgstr ""
+
+msgctxt "572_Receptionist"
+msgid "Check Super Star Points"
+msgstr ""
+
+msgctxt "584_Receptionist"
+msgid "Ask About Tag Matches"
+msgstr ""
+
+msgctxt "596_Receptionist"
+msgid "Ask About Popularity"
+msgstr ""
+
+msgctxt "608_Receptionist"
+msgid "Tag Match Introduction"
+msgstr ""

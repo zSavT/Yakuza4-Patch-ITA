@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "You got <Color:8>15,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1660"
+msgid "Shady Woman"
+msgstr ""
+
+msgctxt "1664"
+msgid "Dejected Yakuza"
+msgstr ""
+
+msgctxt "1668"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1672"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "100_Shady Woman"
+msgid "Eeek! No way!"
+msgstr ""
+
+msgctxt "112_Dejected Yakuza"
+msgid "Whoa, I'm sorry! That chick put me up to it! It was all her idea!"
+msgstr ""
+
+msgctxt "124_Dejected Yakuza"
+msgid "I know how this looks, but please take this and forget the whole thing."
+msgstr ""
+
+msgctxt "208_Dejected Yakuza"
+msgid "I thought you were going to let me off!?"
+msgstr ""

@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2024"
+msgid "Taxi Driver"
+msgstr ""
+
+msgctxt "2028"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2032"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2036"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2040"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2044"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2048"
+msgid "0"
+msgstr ""
+
+msgctxt "84_Taxi Driver"
+msgid ""
+"Most exciting drive I've had in years... Makes this cigarette taste that "
+"much better."
+msgstr ""
+
+msgctxt "96_Akiyama"
+msgid ""
+"'Scuse me. You picked up a young girl on Senryo Avenue,\r\n"
+"right?"
+msgstr ""
+
+msgctxt "108_Taxi Driver"
+msgid "Sure did. Made it over here in record time, too."
+msgstr ""
+
+msgctxt "120_Akiyama"
+msgid "Do you know where she went after she got out?"
+msgstr ""
+
+msgctxt "132_Taxi Driver"
+msgid "Yeah, she went into that hotel. Try Room 406."
+msgstr ""
+
+msgctxt "144_Akiyama"
+msgid "...How do you know her room number?"
+msgstr ""
+
+msgctxt "156_Taxi Driver"
+msgid ""
+"Well, the whole time she was in my cab, she kept muttering\r\n"
+"\"406, 406\" under her breath. Seemed pretty agitated."
+msgstr ""
+
+msgctxt "168_Akiyama"
+msgid "Careless of her... Hey, thanks. You've been a big help."
+msgstr ""

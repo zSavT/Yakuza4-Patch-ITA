@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-10\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/auth/subtitle/B0090.po\n"
+"X-Crowdin-File-ID: 56216\n"
+"PO-Revision-Date: 2025-09-26 07:34\n"
+
+msgctxt "1295\t1355"
+msgid "As promised."
+msgstr "Come promesso."
+
+msgctxt "1391\t1552"
+msgid "Had a buddy copy one for you.\\nGuy was a pro before he got tossed in here."
+msgstr "Chiedi a un amico una copia.\\nEra un professionista, prima di finire qui."
+
+msgctxt "1582\t1683"
+msgid "That cell won't keep you cooped up anymore."
+msgstr "Quella cella non ti terrà più rinchiuso."
+
+msgctxt "1728\t1809"
+msgid "Still didn't say I'd do it."
+msgstr "Ancora non ho detto che lo farò."
+
+msgctxt "1869\t1978"
+msgid "No problem there.\\nYou'll do it."
+msgstr "Nessun problema.\\nLo farai."
+
+msgctxt "2014\t2090"
+msgid "You don't have a choice."
+msgstr "Non hai scelta."
+

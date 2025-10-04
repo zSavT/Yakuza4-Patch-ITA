@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "576"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "580"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "584"
+msgid "Man Who Wants to Jump"
+msgstr ""
+
+msgctxt "588"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "56_Tanimura"
+msgid "What're you trying to do!?"
+msgstr ""
+
+msgctxt "80_Man Who Wants to Jump"
+msgid "What!? Don't try to talk me out of it! Just leave me alone!"
+msgstr ""

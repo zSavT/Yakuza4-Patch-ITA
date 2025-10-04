@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "7296"
+msgid "Smith"
+msgstr ""
+
+msgctxt "7300"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "7304"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7308"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "7312"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "7316"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "7320"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "7324"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "7328"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "7332"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "7336"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "7340"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "7344"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "7348"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7352"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "7356"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "7360"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7364"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "132_Smith"
+msgid "......"
+msgstr ""
+
+msgctxt "144_Tanimura"
+msgid "...Well?"
+msgstr ""
+
+msgctxt "156_Smith"
+msgid ""
+"Yes! This is it! This is exactly what I was talking about!\r\n"
+"What's the name of this game again?"
+msgstr ""
+
+msgctxt "168_Tanimura"
+msgid "It's called shogi."
+msgstr ""
+
+msgctxt "180_Smith"
+msgid ""
+"That's right! Shogi! The tension in here's so thick,\r\n"
+"you could cut it with a knife!"
+msgstr ""
+
+msgctxt "192_Smith"
+msgid "This's some good shit, m'dude!"
+msgstr ""
+
+msgctxt "204_Tanimura"
+msgid "(Well, he sounds satisfied.)"
+msgstr ""
+
+msgctxt "216_Tanimura"
+msgid "I'm happy for you. So is it cool if I leave now?"
+msgstr ""
+
+msgctxt "228_Smith"
+msgid ""
+"Well, if you wouldn't mind kickin' it with me for a little\r\n"
+"longer, there is one more place I want to go. But that's it."
+msgstr ""
+
+msgctxt "240_Tanimura"
+msgid "...Might as well see this through. Fine, where to?"
+msgstr ""
+
+msgctxt "252_Smith"
+msgid "I want to go somewhere where only men are allowed..."
+msgstr ""
+
+msgctxt "264_Tanimura"
+msgid "Uh... I'm not quite sure I get it."
+msgstr ""
+
+msgctxt "276_Smith"
+msgid ""
+"You know what I mean! I forgot the exact name...\r\n"
+"Let's see here..."
+msgstr ""
+
+msgctxt "288_Smith"
+msgid ""
+"It's a place where it's men only, and everybody is naked.\r\n"
+"They rub shoulders and communicate with each other.\r\n"
+"Something like that."
+msgstr ""
+
+msgctxt "300_Tanimura"
+msgid "...Drawing a total blank here."
+msgstr ""
+
+msgctxt "312_Smith"
+msgid ""
+"Oh, come on! You know what I mean! A men's only place\r\n"
+"where everybody's naked! Japan is known for this shit!"
+msgstr ""
+
+msgctxt "324_Tanimura"
+msgid "Well, you could be talking about a..."
+msgstr ""
+
+msgctxt "336_Tanimura"
+msgid ""
+"Let's go to Love in Heart. Maybe that's the kind of place\r\n"
+"you're looking for."
+msgstr ""
+
+msgctxt "348_Smith"
+msgid "You sure you're not just pulling something out of your ass?"
+msgstr ""
+
+msgctxt "360_Tanimura"
+msgid "You worry too much. Just follow me."
+msgstr ""
+
+msgctxt "372_Smith"
+msgid "Oh... Okay. I guess I'll give it a try."
+msgstr ""
+
+msgctxt "396_Tanimura"
+msgid "I know this place called Asia. We should go there."
+msgstr ""
+
+msgctxt "408_Smith"
+msgid "What's it all about?"
+msgstr ""
+
+msgctxt "420_Tanimura"
+msgid ""
+"Well, it's a gentlemen's club. There's nothing quite like\r\n"
+"crowding around a sweaty stage that inspires camaraderie\r\n"
+"among men. It's a very primal way of bonding, if you ask me."
+msgstr ""
+
+msgctxt "432_Smith"
+msgid ""
+"Right, that sense of masculine solidarity! Sounds like you\r\n"
+"hit the nail on the head with this one. Let's hop to it!"
+msgstr ""
+
+msgctxt "456_Tanimura"
+msgid "Let's go to Beam."
+msgstr ""
+
+msgctxt "468_Smith"
+msgid "\"Beam\"? Sounds a little suspect to me..."
+msgstr ""
+
+msgctxt "480_Tanimura"
+msgid ""
+"It's a video store stocked with everything you could\r\n"
+"possibly imagine, and more. I have a feeling it'll have\r\n"
+"those \"men only\" and \"communication\" elements you're after."
+msgstr ""
+
+msgctxt "492_Smith"
+msgid ""
+"Hmm, you sound like you know what you're talking about.\r\n"
+"Okay, then I look forward to seeing it. Let's try it out!"
+msgstr ""
+
+msgctxt "516_Tanimura"
+msgid "Then let's go to Yunosono Hot Springs."
+msgstr ""
+
+msgctxt "528_Smith"
+msgid "Yunosono Hot Springs?"
+msgstr ""
+
+msgctxt "540_Tanimura"
+msgid ""
+"Yeah, a hot spring is the place to be if you wanna get naked and "
+"communicate with other men."
+msgstr ""
+
+msgctxt "552_Smith"
+msgid "Sounds good to me! Then let's get crackin'!"
+msgstr ""
+
+msgctxt "576_Smith"
+msgid "A massage parlor."
+msgstr ""
+
+msgctxt "588_Smith"
+msgid "A hot spring."
+msgstr ""
+
+msgctxt "600_Smith"
+msgid "A gentleman's club."
+msgstr ""
+
+msgctxt "612_Smith"
+msgid "A video store."
+msgstr ""

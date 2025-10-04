@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1380"
+msgid "Man"
+msgstr ""
+
+msgctxt "1384"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1388"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1392"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1396"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid "I wanna be a boxer someday. And you know, I could use you for my trainin'..."
+msgstr ""
+
+msgctxt "128_Man"
+msgid ""
+"...as a punchin' bag, that is! Now stand still  and lemme smack the "
+"stuffin' outta you!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "Please stop hittin' me. I ain't cut out to be a punchin' bag..."
+msgstr ""
+
+msgctxt "164_Man"
+msgid "Here's your trainer's fee."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a prim and proper %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "I'm givin' up on my boxin' dreams."
+msgstr ""

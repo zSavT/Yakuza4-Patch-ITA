@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "4776"
+msgid "Shibata"
+msgstr ""
+
+msgctxt "4780"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4784"
+msgid "Arai"
+msgstr ""
+
+msgctxt "4788"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4792"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4796"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "104_Shibata"
+msgid "It seems like everything's going quite smoothly."
+msgstr ""
+
+msgctxt "116_Shibata"
+msgid ""
+"Simply lay low for a while and wait till the storm blows over. Then things "
+"can proceed."
+msgstr ""
+
+msgctxt "128_Shibata"
+msgid "Got that, Arai?"
+msgstr ""
+
+msgctxt "140_Arai"
+msgid "Understood."
+msgstr ""
+
+msgctxt "152_Shibata"
+msgid "The sixth chairman will never suspect we're hiding you here."
+msgstr ""
+
+msgctxt "164_Shibata"
+msgid "Quite the bargain for just one finger, wouldn't you say?"
+msgstr ""
+
+msgctxt "176_Arai"
+msgid "Heh, you mean that little charade of yours? Nice touch."
+msgstr ""
+
+msgctxt "200_Shibata"
+msgid ""
+"I'll be meeting with Katsuragi tomorrow afternoon to work out the finer "
+"details of the truce."
+msgstr ""
+
+msgctxt "212_Arai"
+msgid "I see... And the location?"
+msgstr ""
+
+msgctxt "224_Shibata"
+msgid "Kamurocho. Some place called Café Alps."
+msgstr ""
+
+msgctxt "236_Arai"
+msgid ""
+"Hmm... But is Kamurocho really the right place to hold a meeting, so out in "
+"the open?"
+msgstr ""
+
+msgctxt "248_Arai"
+msgid "Tojo Headquarters could easily discover the link between you two."
+msgstr ""
+
+msgctxt "260_Shibata"
+msgid ""
+"It's fine. Katsuragi and I have a perfectly good reason for being seen "
+"together."
+msgstr ""
+
+msgctxt "272_Shibata"
+msgid ""
+"If anything, people will just assume I'm offering a further apology. Or at "
+"least I can spin it that way."
+msgstr ""
+
+msgctxt "284_Arai"
+msgid "Of course."
+msgstr ""
+
+msgctxt "296_Shibata"
+msgid "Hmph... But I do see why it might worry you."
+msgstr ""
+
+msgctxt "308_Shibata"
+msgid "Especially with this woman... and the unexpected headaches she's caused."
+msgstr ""

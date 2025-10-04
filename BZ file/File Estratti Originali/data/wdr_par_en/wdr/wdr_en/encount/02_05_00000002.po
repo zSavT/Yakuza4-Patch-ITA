@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1460"
+msgid "Man"
+msgstr ""
+
+msgctxt "1464"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1468"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "1472"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid ""
+"You look like you're really enjoying yourself. Nothing like a good stiff "
+"drink, am I right? How about sharing some of the fun with us?"
+msgstr ""
+
+msgctxt "128_Man"
+msgid ""
+"What I'm saying is, you don't need that money, so how about you help us out "
+"by giving it to us!?"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "Sorry for harshing your mellow like that."
+msgstr ""
+
+msgctxt "164_Man"
+msgid "Here, this is for your drinking fund. On us."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a soft %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "We're gonna need money for a hospital first..."
+msgstr ""

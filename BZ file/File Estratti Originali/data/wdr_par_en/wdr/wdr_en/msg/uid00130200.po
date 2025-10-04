@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "680"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "684"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "688"
+msgid "Officer"
+msgstr ""
+
+msgctxt "692"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "696"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "84_Tanimura"
+msgid "Someone's threatening suicide?"
+msgstr ""
+
+msgctxt "96_Officer"
+msgid "That's right. There's a man on the roof that says he's going to jump."
+msgstr ""
+
+msgctxt "108_Tanimura"
+msgid ""
+"We can't have him disturbing the peace like this. Let's get him down from "
+"there."
+msgstr ""

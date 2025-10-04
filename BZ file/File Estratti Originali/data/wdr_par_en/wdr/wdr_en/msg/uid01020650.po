@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "308"
+msgid "*beep*"
+msgstr ""
+
+msgctxt "3852"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "3856"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "3860"
+msgid "Anonymous Caller"
+msgstr ""
+
+msgctxt "3864"
+msgid "Talk_Phone_yes"
+msgstr ""
+
+msgctxt "3868"
+msgid "Talk_Phone_no"
+msgstr ""
+
+msgctxt "3872"
+msgid "Talk_Phone_surp"
+msgstr ""
+
+msgctxt "3876"
+msgid "Talk_Phone_ed"
+msgstr ""
+
+msgctxt "3880"
+msgid "dummy"
+msgstr ""
+
+msgctxt "92_Tanimura"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "104_Anonymous Caller"
+msgid "Tanimura-san, right?"
+msgstr ""
+
+msgctxt "116_Tanimura"
+msgid "Yeah, that's me. And you are?"
+msgstr ""
+
+msgctxt "128_Anonymous Caller"
+msgid "Heh, that's not important. Let's just cut to the chase."
+msgstr ""
+
+msgctxt "140_Anonymous Caller"
+msgid "You want info on Katsuragi, don't you?"
+msgstr ""
+
+msgctxt "152_Tanimura"
+msgid "How did you...?"
+msgstr ""
+
+msgctxt "164_Anonymous Caller"
+msgid ""
+"It's my job to know that sort of thing. As such, it works only to my "
+"benefit to funnel information to you."
+msgstr ""
+
+msgctxt "176_Tanimura"
+msgid ""
+"That's... fine, but why should I believe some random caller who could be a "
+"total scammer for all I know?"
+msgstr ""
+
+msgctxt "188_Anonymous Caller"
+msgid ""
+"Good point. Except... You don't have anywhere else to turn right now, do "
+"you?"
+msgstr ""
+
+msgctxt "200_Tanimura"
+msgid "...Not really."
+msgstr ""
+
+msgctxt "212_Anonymous Caller"
+msgid ""
+"That's what I thought. Now do you want that information or not? Of course, "
+"you could always hang up and be on your way."
+msgstr ""
+
+msgctxt "224_Tanimura"
+msgid "No, let's hear what you have to say."
+msgstr ""
+
+msgctxt "236_Anonymous Caller"
+msgid "Smart man. Only thing is, nothing in life is free."
+msgstr ""
+
+msgctxt "248_Tanimura"
+msgid "What, you're giving me a quote already?"
+msgstr ""
+
+msgctxt "260_Anonymous Caller"
+msgid ""
+"Everything has its price, officer. But I'm not interested in your money. I "
+"just want to see how good of a detective you are."
+msgstr ""
+
+msgctxt "272_Anonymous Caller"
+msgid ""
+"You'll be receiving a message from me shortly. Open it up, read it, and "
+"follow the instructions. Very self-explanatory."
+msgstr ""
+
+msgctxt "284_Anonymous Caller"
+msgid "Well, best of luck."
+msgstr ""
+
+msgctxt "296_Tanimura"
+msgid "Hey, we're not done yet!"
+msgstr ""

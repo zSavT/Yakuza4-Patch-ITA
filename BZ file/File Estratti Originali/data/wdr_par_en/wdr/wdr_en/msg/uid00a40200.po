@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2580"
+msgid "Host"
+msgstr ""
+
+msgctxt "2584"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "2588"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "2592"
+msgid "Female Voice"
+msgstr ""
+
+msgctxt "2596"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "100_Host"
+msgid "Oh man, what do I do? They're in serious danger..."
+msgstr ""
+
+msgctxt "112_Host"
+msgid ""
+"I'd call the police, but I don't want those maniacs\r\n"
+"coming for me next..."
+msgstr ""
+
+msgctxt "124_Saejima"
+msgid "Hey, did ya see a girl in a black jacket come this way?"
+msgstr ""
+
+msgctxt "136_Host"
+msgid ""
+"What? Oh, er... This mob of crazed fanboys grabbed her.\r\n"
+"They dragged her into that parking lot."
+msgstr ""
+
+msgctxt "148_Saejima"
+msgid "Goddammit..."
+msgstr ""
+
+msgctxt "160_Host"
+msgid "Then this big-shot businesswoman went in there alone."
+msgstr ""
+
+msgctxt "172_Saejima"
+msgid "Pant suit?"
+msgstr ""
+
+msgctxt "184_Host"
+msgid ""
+"Yeah, a real CEO-looking type. She ran in after them.\r\n"
+"That's when the screaming started."
+msgstr ""
+
+msgctxt "196_Female Voice"
+msgid "Stop!"
+msgstr ""
+
+msgctxt "208_Host"
+msgid "Oh man, oh man, oh man... This is bad!"
+msgstr ""
+
+msgctxt "220_Host"
+msgid "Someone's gotta do something. Please, hurry and help them!"
+msgstr ""
+
+msgctxt "244_Host"
+msgid "What are you doing? Get in there and save her!"
+msgstr ""

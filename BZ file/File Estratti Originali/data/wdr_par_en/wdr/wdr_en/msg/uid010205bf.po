@@ -1,0 +1,1151 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "39388"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "39392"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "39396"
+msgid "Date"
+msgstr ""
+
+msgctxt "39400"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "39404"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "39408"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "39412"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "39416"
+msgid "Katsuragi"
+msgstr ""
+
+msgctxt "39420"
+msgid "adv_p4c4_010/kiryu_0226"
+msgstr ""
+
+msgctxt "39424"
+msgid "adv_p4c4_010/katsuragi_0125"
+msgstr ""
+
+msgctxt "39428"
+msgid "adv_p4c4_010/kiryu_0227"
+msgstr ""
+
+msgctxt "39432"
+msgid "Talk_Phone_yes"
+msgstr ""
+
+msgctxt "39436"
+msgid "adv_p4c4_010/katsuragi_0126"
+msgstr ""
+
+msgctxt "39440"
+msgid "adv_p4c4_010/kiryu_0228"
+msgstr ""
+
+msgctxt "39444"
+msgid "adv_p4c4_010/katsuragi_0127"
+msgstr ""
+
+msgctxt "39448"
+msgid "adv_p4c4_010/kiryu_0229"
+msgstr ""
+
+msgctxt "39452"
+msgid "adv_p4c4_010/katsuragi_0128"
+msgstr ""
+
+msgctxt "39456"
+msgid "adv_p4c4_010/kiryu_0230"
+msgstr ""
+
+msgctxt "39460"
+msgid "adv_p4c4_010/katsuragi_0129"
+msgstr ""
+
+msgctxt "39464"
+msgid "adv_p4c4_010/kiryu_0231"
+msgstr ""
+
+msgctxt "39468"
+msgid "adv_p4c4_010/kiryu_0232"
+msgstr ""
+
+msgctxt "39472"
+msgid "adv_p4c4_010/kiryu_0232b"
+msgstr ""
+
+msgctxt "39476"
+msgid "adv_p4c4_010/kiryu_0233"
+msgstr ""
+
+msgctxt "39480"
+msgid "adv_p4c4_010/katsuragi_0132"
+msgstr ""
+
+msgctxt "39484"
+msgid "adv_p4c4_010/katsuragi_0133"
+msgstr ""
+
+msgctxt "39488"
+msgid "adv_p4c4_010/kiryu_0235"
+msgstr ""
+
+msgctxt "39492"
+msgid "adv_p4c4_010/katsuragi_0134"
+msgstr ""
+
+msgctxt "39496"
+msgid "adv_p4c4_010/kiryu_0236"
+msgstr ""
+
+msgctxt "39500"
+msgid "adv_p4c4_010/katsuragi_0135"
+msgstr ""
+
+msgctxt "39504"
+msgid "adv_p4c4_010/kiryu_0237"
+msgstr ""
+
+msgctxt "39508"
+msgid "adv_p4c4_010/katsuragi_0136"
+msgstr ""
+
+msgctxt "39512"
+msgid "adv_p4c4_010/kiryu_0238"
+msgstr ""
+
+msgctxt "39516"
+msgid "adv_p4c4_010/katsuragi_0137"
+msgstr ""
+
+msgctxt "39520"
+msgid "adv_p4c4_010/kiryu_0239"
+msgstr ""
+
+msgctxt "39524"
+msgid "adv_p4c4_010/katsuragi_0138"
+msgstr ""
+
+msgctxt "39528"
+msgid "adv_p4c4_010/katsuragi_0139"
+msgstr ""
+
+msgctxt "39532"
+msgid "adv_p4c4_010/katsuragi_0139b"
+msgstr ""
+
+msgctxt "39536"
+msgid "adv_p4c4_010/katsuragi_0139c"
+msgstr ""
+
+msgctxt "39540"
+msgid "adv_p4c4_010/kiryu_0241"
+msgstr ""
+
+msgctxt "39544"
+msgid "Talk_Phone_no"
+msgstr ""
+
+msgctxt "39548"
+msgid "adv_p4c4_010/katsuragi_0140"
+msgstr ""
+
+msgctxt "39552"
+msgid "adv_p4c4_010/katsuragi_0140b"
+msgstr ""
+
+msgctxt "39556"
+msgid "adv_p4c4_010/kiryu_0242"
+msgstr ""
+
+msgctxt "39560"
+msgid "adv_p4c4_010/katsuragi_0141"
+msgstr ""
+
+msgctxt "39564"
+msgid "adv_p4c4_010/kiryu_0243"
+msgstr ""
+
+msgctxt "39568"
+msgid "adv_p4c4_010/katsuragi_0142"
+msgstr ""
+
+msgctxt "39572"
+msgid "adv_p4c4_010/katsuragi_0142b"
+msgstr ""
+
+msgctxt "39576"
+msgid "adv_p4c4_010/kiryu_0244"
+msgstr ""
+
+msgctxt "39580"
+msgid "adv_p4c4_010/katsuragi_0143"
+msgstr ""
+
+msgctxt "39584"
+msgid "adv_p4c4_010/katsuragi_0143b"
+msgstr ""
+
+msgctxt "39588"
+msgid "adv_p4c4_010/katsuragi_0143c"
+msgstr ""
+
+msgctxt "39592"
+msgid "adv_p4c4_010/kiryu_0245"
+msgstr ""
+
+msgctxt "39596"
+msgid "adv_p4c4_010/katsuragi_0144"
+msgstr ""
+
+msgctxt "39600"
+msgid "adv_p4c4_010/katsuragi_0144b"
+msgstr ""
+
+msgctxt "39604"
+msgid "adv_p4c4_010/katsuragi_0144c"
+msgstr ""
+
+msgctxt "39608"
+msgid "adv_p4c4_010/kiryu_0246"
+msgstr ""
+
+msgctxt "39612"
+msgid "adv_p4c4_010/katsuragi_0145"
+msgstr ""
+
+msgctxt "39616"
+msgid "adv_p4c4_010/katsuragi_0145b"
+msgstr ""
+
+msgctxt "39620"
+msgid "adv_p4c4_010/katsuragi_0145c"
+msgstr ""
+
+msgctxt "39624"
+msgid "adv_p4c4_010/katsuragi_0146"
+msgstr ""
+
+msgctxt "39628"
+msgid "adv_p4c4_010/katsuragi_0146b"
+msgstr ""
+
+msgctxt "39632"
+msgid "adv_p4c4_010/katsuragi_0146c"
+msgstr ""
+
+msgctxt "39636"
+msgid "adv_p4c4_010/katsuragi_0146d"
+msgstr ""
+
+msgctxt "39640"
+msgid "adv_p4c4_010/katsuragi_0146e"
+msgstr ""
+
+msgctxt "39644"
+msgid "adv_p4c4_010/kiryu_0248"
+msgstr ""
+
+msgctxt "39648"
+msgid "adv_p4c4_010/katsuragi_0147"
+msgstr ""
+
+msgctxt "39652"
+msgid "adv_p4c4_010/katsuragi_0147b"
+msgstr ""
+
+msgctxt "39656"
+msgid "adv_p4c4_010/katsuragi_0147c"
+msgstr ""
+
+msgctxt "39660"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "39664"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "39668"
+msgid "P_aki_sitcnt"
+msgstr ""
+
+msgctxt "39672"
+msgid "P_aki_sitcnt_tlk_kamae"
+msgstr ""
+
+msgctxt "39676"
+msgid "P_aki_sitcnt_tlk_kamae02_yes"
+msgstr ""
+
+msgctxt "39680"
+msgid "P_aki_sitcnt_tlk_tabako_lp"
+msgstr ""
+
+msgctxt "39684"
+msgid "P_aki_sitcnt_tlk_tabako_st"
+msgstr ""
+
+msgctxt "39688"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "148_Kiryu"
+msgid "Well, I should probably get going."
+msgstr ""
+
+msgctxt "160_Date"
+msgid "Be careful out there, Kiryu."
+msgstr ""
+
+msgctxt "172_Kiryu"
+msgid "I will."
+msgstr ""
+
+msgctxt "208_Date"
+msgid ""
+"What's the deal, Kiryu? Sounded like you came to some kind\r\n"
+"of agreement?"
+msgstr ""
+
+msgctxt "220_Kiryu"
+msgid ""
+"Yeah, I'm meeting him with the file on the roof of Kamurocho\r\n"
+"Hills. Tonight at ten... alone."
+msgstr ""
+
+msgctxt "232_Tanimura"
+msgid "Alone!? But that's insane!"
+msgstr ""
+
+msgctxt "244_Date"
+msgid ""
+"You're not actually going through with that baloney, are\r\n"
+"you?"
+msgstr ""
+
+msgctxt "256_Kiryu"
+msgid "I have to. That's part of the deal."
+msgstr ""
+
+msgctxt "268_Kiryu"
+msgid ""
+"Sounds like I'll be fighting through the entire Ueno Seiwa\r\n"
+"Clan to get up there, too."
+msgstr ""
+
+msgctxt "280_Akiyama"
+msgid ""
+"Guy doesn't take any chances once he gets down to business,\r\n"
+"huh? You sure you still wanna go?"
+msgstr ""
+
+msgctxt "292_Kiryu"
+msgid "I'm sure. There's no other way."
+msgstr ""
+
+msgctxt "304_Date"
+msgid "You say that, but..."
+msgstr ""
+
+msgctxt "316_Akiyama"
+msgid ""
+"Let him go if he wants to go. Besides, I don't think\r\n"
+"anything we say is gonna change his mind."
+msgstr ""
+
+msgctxt "328_Akiyama"
+msgid "Isn't that right, Kiryu-san?"
+msgstr ""
+
+msgctxt "340_Kiryu"
+msgid "Right. A deal's a deal."
+msgstr ""
+
+msgctxt "412_Katsuragi"
+msgid "......"
+msgstr ""
+
+msgctxt "424_Kiryu"
+msgid "You there, Katsuragi?"
+msgstr ""
+
+msgctxt "436_Katsuragi"
+msgid "You're not Tanimura."
+msgstr ""
+
+msgctxt "448_Kiryu"
+msgid ""
+"My name's Kiryu. I needed to talk to you, so I'm borrowing\r\n"
+"Tanimura's phone for a bit."
+msgstr ""
+
+msgctxt "460_Katsuragi"
+msgid ""
+"Kiryu? As in the Tojo Clan Fourth Chairman, Kazuma\r\n"
+"Kiryu-san?"
+msgstr ""
+
+msgctxt "472_Kiryu"
+msgid "That's the one."
+msgstr ""
+
+msgctxt "484_Katsuragi"
+msgid ""
+"Well, well, well. What a nice little surprise. So, what can\r\n"
+"I do for you?"
+msgstr ""
+
+msgctxt "496_Kiryu"
+msgid "I'm calling about Taiga and Yasuko Saejima."
+msgstr ""
+
+msgctxt "508_Katsuragi"
+msgid "Oh? I don't know what you're talking about."
+msgstr ""
+
+msgctxt "520_Kiryu"
+msgid "Drop the act. We know you took them from Purgatory."
+msgstr ""
+
+msgctxt "532_Katsuragi"
+msgid "And what of it?"
+msgstr ""
+
+msgctxt "544_Kiryu"
+msgid ""
+"I want to cut a deal with you. I have something you want\r\n"
+"very badly. I'm sure of it."
+msgstr ""
+
+msgctxt "556_Katsuragi"
+msgid "......"
+msgstr ""
+
+msgctxt "568_Kiryu"
+msgid ""
+"The file Hamazaki stole from Penitentiary No. 2 when he and\r\n"
+"Saejima broke out."
+msgstr ""
+
+msgctxt "580_Kiryu"
+msgid ""
+"I can't help but assume you want it back. But maybe I'm\r\n"
+"wrong."
+msgstr ""
+
+msgctxt "592_Katsuragi"
+msgid "......"
+msgstr ""
+
+msgctxt "604_Kiryu"
+msgid ""
+"Sounds like you don't want it after all. Let's just forget\r\n"
+"this ever happened. Later."
+msgstr ""
+
+msgctxt "616_Katsuragi"
+msgid "Wait."
+msgstr ""
+
+msgctxt "628_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "640_Katsuragi"
+msgid "How did that file find its way into your hands?"
+msgstr ""
+
+msgctxt "652_Kiryu"
+msgid "Good question. Hamazaki gave it to me down in Okinawa."
+msgstr ""
+
+msgctxt "664_Katsuragi"
+msgid "...And who knows about all this?"
+msgstr ""
+
+msgctxt "676_Kiryu"
+msgid ""
+"Besides me and Hamazaki, just a few others who are here with\r\n"
+"me now."
+msgstr ""
+
+msgctxt "688_Katsuragi"
+msgid "Munakata is in the dark?"
+msgstr ""
+
+msgctxt "700_Kiryu"
+msgid "Munakata?"
+msgstr ""
+
+msgctxt "712_Katsuragi"
+msgid "Deputy commissioner of the Tokyo PD."
+msgstr ""
+
+msgctxt "724_Kiryu"
+msgid "Yeah. I don't see how he'd know."
+msgstr ""
+
+msgctxt "736_Katsuragi"
+msgid "...Good. Well? Let's hear what you want."
+msgstr ""
+
+msgctxt "748_Kiryu"
+msgid ""
+"Taiga and Yasuko Saejima back safely. And the money Kido\r\n"
+"stole from Sky Finance. Should be around a hundred billion."
+msgstr ""
+
+msgctxt "760_Katsuragi"
+msgid ""
+"For a living yakuza legend, you make a piss poor negotiator.\r\n"
+"You're going to have to do better than that."
+msgstr ""
+
+msgctxt "772_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "784_Katsuragi"
+msgid "Negotiation is a psychological battle."
+msgstr ""
+
+msgctxt "796_Katsuragi"
+msgid ""
+"If you can't entice the other party with terms that favor\r\n"
+"them, you may as well pack up and go home."
+msgstr ""
+
+msgctxt "808_Katsuragi"
+msgid "You understand, don't you?"
+msgstr ""
+
+msgctxt "820_Kiryu"
+msgid "...Then what do you suggest?"
+msgstr ""
+
+msgctxt "832_Katsuragi"
+msgid "What indeed... How about this?"
+msgstr ""
+
+msgctxt "844_Katsuragi"
+msgid "You come alone to make the exchange."
+msgstr ""
+
+msgctxt "856_Kiryu"
+msgid "Alone?"
+msgstr ""
+
+msgctxt "868_Katsuragi"
+msgid ""
+"You heard me. I'd like to see you bloodied and bruised by\r\n"
+"the time you arrive, as well."
+msgstr ""
+
+msgctxt "880_Kiryu"
+msgid "What's that supposed to mean?"
+msgstr ""
+
+msgctxt "892_Katsuragi"
+msgid "I'm going to have you jump through a little hoop for me."
+msgstr ""
+
+msgctxt "904_Katsuragi"
+msgid "See if this old dog can still do a few tricks."
+msgstr ""
+
+msgctxt "916_Kiryu"
+msgid "What?"
+msgstr ""
+
+msgctxt "928_Katsuragi"
+msgid "We'll make the exchange on the Kamurocho Hills roof."
+msgstr ""
+
+msgctxt "940_Katsuragi"
+msgid ""
+"I'll be waiting there with Saejima, his sister, and the\r\n"
+"hundred billion yen."
+msgstr ""
+
+msgctxt "952_Katsuragi"
+msgid ""
+"All you'll need to do to reach the roof... is fight your way\r\n"
+"through the entire Ueno Seiwa Clan."
+msgstr ""
+
+msgctxt "964_Kiryu"
+msgid "What!?"
+msgstr ""
+
+msgctxt "976_Katsuragi"
+msgid ""
+"You might make your way up to the roof. You might die in the\r\n"
+"process."
+msgstr ""
+
+msgctxt "988_Katsuragi"
+msgid "It doesn't matter much to me either way."
+msgstr ""
+
+msgctxt "1000_Katsuragi"
+msgid "Those are the terms I'd be willing to accept."
+msgstr ""
+
+msgctxt "1012_Kiryu"
+msgid "And if I make it up to the roof?"
+msgstr ""
+
+msgctxt "1024_Katsuragi"
+msgid "Then we move forward with the transaction."
+msgstr ""
+
+msgctxt "1036_Katsuragi"
+msgid ""
+"And I'll be secure in the knowledge that you'll be far too\r\n"
+"exhausted to kill me."
+msgstr ""
+
+msgctxt "1048_Katsuragi"
+msgid "Even if you wanted to."
+msgstr ""
+
+msgctxt "1060_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "1072_Katsuragi"
+msgid ""
+"This is just how it has to be, Kiryu-san. I plan to live a\r\n"
+"long, fulfilling life."
+msgstr ""
+
+msgctxt "1084_Katsuragi"
+msgid ""
+"And taking my chances with monsters like you and Saejima...\r\n"
+"Well, it would be nothing short of a fool's errand."
+msgstr ""
+
+msgctxt "1096_Katsuragi"
+msgid "Not all yakuza are like Nishikiyama or Ryuji Goda."
+msgstr ""
+
+msgctxt "1108_Katsuragi"
+msgid ""
+"Some of us would rather survive than die atop the hill of\r\n"
+"\"honor\" and \"manliness.\""
+msgstr ""
+
+msgctxt "1120_Katsuragi"
+msgid "So, do we have a deal?"
+msgstr ""
+
+msgctxt "1132_Kiryu"
+msgid "Fine. I'll be there, just name the time."
+msgstr ""
+
+msgctxt "1144_Katsuragi"
+msgid "Ten o'clock tonight."
+msgstr ""
+
+msgctxt "1156_Katsuragi"
+msgid ""
+"I can only hope you still have a pulse by the time I see you\r\n"
+"next."
+msgstr ""
+
+msgctxt "1168_Katsuragi"
+msgid "Until then."
+msgstr ""
+
+msgctxt "1228_Date"
+msgid "How'd you end up with this thing, Kiryu?"
+msgstr ""
+
+msgctxt "1240_Kiryu"
+msgid ""
+"Hamazaki gave it to me down in Okinawa. It's a document\r\n"
+"showing the creation of Penitentiary No. 2, and the expected\r\n"
+"flow of money into the place."
+msgstr ""
+
+msgctxt "1252_Akiyama"
+msgid ""
+"Huh, will you look at that. It's got names, amounts,\r\n"
+"everything."
+msgstr ""
+
+msgctxt "1264_Kiryu"
+msgid ""
+"Yeah. It says right here that the ten billion yen that got\r\n"
+"transferred from the Tojo to Kyohei Jingu back in 2005 was\r\n"
+"meant to get passed on to the Metropolitan Police."
+msgstr ""
+
+msgctxt "1276_Tanimura"
+msgid ""
+"That's the incident you were wrapped up in, right,\r\n"
+"Kiryu-san?"
+msgstr ""
+
+msgctxt "1288_Kiryu"
+msgid "Right."
+msgstr ""
+
+msgctxt "1300_Kiryu"
+msgid ""
+"That missing cash nearly tore the clan apart. And the guy\r\n"
+"behind it all was a man named Kyohei Jingu. Haruka's father."
+msgstr ""
+
+msgctxt "1312_Kiryu"
+msgid ""
+"But there's more. There are notes on here detailing a police\r\n"
+"plan to release inmates from Penitentiary No. 2 and create\r\n"
+"artificial crime. All to make the police look good."
+msgstr ""
+
+msgctxt "1324_Date"
+msgid "That's one hell of a scoop."
+msgstr ""
+
+msgctxt "1336_Tanimura"
+msgid ""
+"No wonder they're so desperate to get it back. This goes\r\n"
+"public, all their dirty laundry'll be out in the open."
+msgstr ""
+
+msgctxt "1348_Date"
+msgid "So what's your next move?"
+msgstr ""
+
+msgctxt "1360_Kiryu"
+msgid ""
+"We try and cut a deal with Katsuragi. I just need to figure\r\n"
+"out how to get in touch with him."
+msgstr ""
+
+msgctxt "1372_Tanimura"
+msgid ""
+"I can help you with that. He and I have talked on the phone\r\n"
+"before."
+msgstr ""
+
+msgctxt "1384_Tanimura"
+msgid "If you call from my cell, I'm sure he'll answer."
+msgstr ""
+
+msgctxt "1396_Kiryu"
+msgid "Huh. Mind if I borrow your phone, then?"
+msgstr ""
+
+msgctxt "1408_Tanimura"
+msgid "Go right ahead."
+msgstr ""
+
+msgctxt "1456_Akiyama"
+msgid "Life's a cruel mistress sometimes."
+msgstr ""
+
+msgctxt "1468_Akiyama"
+msgid ""
+"Sure, you get used to the cheating and the backstabbing and\r\n"
+"the lying in my line of work."
+msgstr ""
+
+msgctxt "1480_Akiyama"
+msgid "But when it all smacks you in the face one after another... Oof."
+msgstr ""
+
+msgctxt "1492_Date"
+msgid "You seem like you're taking it pretty well, though."
+msgstr ""
+
+msgctxt "1504_Date"
+msgid ""
+"Most guys would go into total shock if they lost a hundred\r\n"
+"grand, let alone a hundred billion."
+msgstr ""
+
+msgctxt "1516_Akiyama"
+msgid "I am in shock. This is me in shock."
+msgstr ""
+
+msgctxt "1528_Akiyama"
+msgid "It's not that big of a deal, I know, but still."
+msgstr ""
+
+msgctxt "1540_Date"
+msgid "Not that big of a deal!?"
+msgstr ""
+
+msgctxt "1552_Akiyama"
+msgid "I'll just make it all back again."
+msgstr ""
+
+msgctxt "1564_Date"
+msgid "But..."
+msgstr ""
+
+msgctxt "1576_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "1588_Kiryu"
+msgid "Heh."
+msgstr ""
+
+msgctxt "1600_Akiyama"
+msgid "And hey, the week has had its highlights."
+msgstr ""
+
+msgctxt "1612_Kiryu"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "1624_Akiyama"
+msgid "I met you for one, Kiryu-san."
+msgstr ""
+
+msgctxt "1636_Kiryu"
+msgid "Is that really so special?"
+msgstr ""
+
+msgctxt "1648_Akiyama"
+msgid "You're my freaking hero, man. You saved my life."
+msgstr ""
+
+msgctxt "1660_Kiryu"
+msgid "Did I? I think I'd remember that."
+msgstr ""
+
+msgctxt "1672_Akiyama"
+msgid ""
+"Just listen. You know when the Millennium Tower blew up\r\n"
+"five years ago? When all that cash rained down on the city?"
+msgstr ""
+
+msgctxt "1684_Akiyama"
+msgid ""
+"That day... changed my life. I grabbed as much as I could.\r\n"
+"Cleaned myself up. Went from homeless bum to this in practically no time "
+"flat."
+msgstr ""
+
+msgctxt "1696_Akiyama"
+msgid ""
+"If not for you, I'd still be out on the streets. Digging\r\n"
+"through trash just to keep myself alive."
+msgstr ""
+
+msgctxt "1708_Kiryu"
+msgid "That's the money you built your business on, huh?"
+msgstr ""
+
+msgctxt "1720_Akiyama"
+msgid "Yup. Though now that I think about it..."
+msgstr ""
+
+msgctxt "1732_Akiyama"
+msgid ""
+"That ten billion was probably the same cash my bank duped me\r\n"
+"into laundering for them before they had me take the fall."
+msgstr ""
+
+msgctxt "1744_Kiryu"
+msgid "The ten billion Jingu diverted to the Tojo Clan."
+msgstr ""
+
+msgctxt "1756_Akiyama"
+msgid "...So, yeah. This all feels kinda personal somehow."
+msgstr ""
+
+msgctxt "1768_Akiyama"
+msgid ""
+"If this stuff going down now is linked to that ten billion,\r\n"
+"consider me there."
+msgstr ""
+
+msgctxt "1804_Akiyama"
+msgid "I dunno about you guys, but this is starting to feel like fate to me."
+msgstr ""
+
+msgctxt "1816_Akiyama"
+msgid "Almost like we were all destined to end up here."
+msgstr ""
+
+msgctxt "1828_Tanimura"
+msgid "Fate?"
+msgstr ""
+
+msgctxt "1840_Date"
+msgid "Hm."
+msgstr ""
+
+msgctxt "1852_Kiryu"
+msgid "You might just be right..."
+msgstr ""
+
+msgctxt "1888_Date"
+msgid "You really think that's how it went down?"
+msgstr ""
+
+msgctxt "1900_Akiyama"
+msgid ""
+"Can't think of any other way. Me and Hana-chan are the only\r\n"
+"two people who knew about the vault."
+msgstr ""
+
+msgctxt "1912_Akiyama"
+msgid "Kido-chan's the only other possibility."
+msgstr ""
+
+msgctxt "1924_Kiryu"
+msgid "What makes you say that?"
+msgstr ""
+
+msgctxt "1936_Akiyama"
+msgid ""
+"Well, it would certainly wrap things up all nice and neat.\r\n"
+"Everything would make sense."
+msgstr ""
+
+msgctxt "1948_Kiryu"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "1960_Akiyama"
+msgid ""
+"Not long after Hana-chan saw him at the office, Kido-chan\r\n"
+"got hauled off by Hatsushiba Clan boys, who'd been working\r\n"
+"with the Shibata."
+msgstr ""
+
+msgctxt "1972_Akiyama"
+msgid "Just walked in and spirited him away. Simple. Clean."
+msgstr ""
+
+msgctxt "1984_Kiryu"
+msgid "What's so strange about that?"
+msgstr ""
+
+msgctxt "1996_Akiyama"
+msgid ""
+"Everything. You'd understand if you've seen what Kido-chan\r\n"
+"can do in a fight."
+msgstr ""
+
+msgctxt "2008_Date"
+msgid "Go on."
+msgstr ""
+
+msgctxt "2020_Akiyama"
+msgid ""
+"Well, it's only been once I've witnessed it myself, but the\r\n"
+"guy can mop the floor with anyone without even breaking a sweat."
+msgstr ""
+
+msgctxt "2032_Akiyama"
+msgid ""
+"He's pretty coy about it, though. Prefers to keep all that\r\n"
+"under wraps."
+msgstr ""
+
+msgctxt "2044_Date"
+msgid "How come?"
+msgstr ""
+
+msgctxt "2056_Kiryu"
+msgid "It's better for the family that way."
+msgstr ""
+
+msgctxt "2068_Akiyama"
+msgid ""
+"Most likely. Kanemura Enterprises, where Kido-chan and\r\n"
+"Arai-san work, is a tiny speck under the big Shibata\r\n"
+"umbrella."
+msgstr ""
+
+msgctxt "2080_Akiyama"
+msgid ""
+"Now your usual yakuza outfit makes their living off those\r\n"
+"dramatic displays of strength... but not Kanemura."
+msgstr ""
+
+msgctxt "2092_Date"
+msgid "Why not?"
+msgstr ""
+
+msgctxt "2104_Akiyama"
+msgid ""
+"Didn't wanna stand out, especially with the rat race always\r\n"
+"tearing this town apart. Guess that's just how he was."
+msgstr ""
+
+msgctxt "2116_Tanimura"
+msgid ""
+"Makes sense. It's safer to lay low and just get on with your\r\n"
+"life than to start bashing heads in."
+msgstr ""
+
+msgctxt "2128_Akiyama"
+msgid ""
+"Yup. Kanemura couldn't even afford his dues to the Shibata.\r\n"
+"Came to me begging for a loan and everything."
+msgstr ""
+
+msgctxt "2140_Akiyama"
+msgid ""
+"Expanding his turf and inviting competition was probably the\r\n"
+"last thing on his mind."
+msgstr ""
+
+msgctxt "2152_Kiryu"
+msgid ""
+"I'm sure he was more than happy to keep his head down and\r\n"
+"let Kamurocho be Kamurocho."
+msgstr ""
+
+msgctxt "2164_Akiyama"
+msgid ""
+"For sure. That's why Arai-san and Kido-chan were so careful\r\n"
+"not to make any waves."
+msgstr ""
+
+msgctxt "2176_Akiyama"
+msgid "But yeah. Kido-chan's a monster."
+msgstr ""
+
+msgctxt "2188_Date"
+msgid "You think he let himself get kidnapped on purpose, then?"
+msgstr ""
+
+msgctxt "2200_Akiyama"
+msgid ""
+"You bet I do. By the time I got back to the office that day,\r\n"
+"he was already gone."
+msgstr ""
+
+msgctxt "2212_Akiyama"
+msgid ""
+"The place was more of a mess than usual thanks to the\r\n"
+"\"struggle.\" It was convincing, honestly. But one thing stood out to me."
+msgstr ""
+
+msgctxt "2224_Tanimura"
+msgid "Which was what?"
+msgstr ""
+
+msgctxt "2236_Akiyama"
+msgid "The order my books were in."
+msgstr ""
+
+msgctxt "2248_Tanimura"
+msgid "Your... books?"
+msgstr ""
+
+msgctxt "2260_Akiyama"
+msgid ""
+"Yup. Kido-chan tossed a bunch of them around, probably to\r\n"
+"make it look like a fight went down. Cover his tracks, you\r\n"
+"know."
+msgstr ""
+
+msgctxt "2272_Akiyama"
+msgid ""
+"But the ones that were still on the shelf weren't in the\r\n"
+"right spots for some reason. That's how I knew something was up."
+msgstr ""
+
+msgctxt "2284_Tanimura"
+msgid ""
+"Hold on. Your office isn't exactly what I'd call organized.\r\n"
+"Not by a long shot."
+msgstr ""
+
+msgctxt "2296_Tanimura"
+msgid ""
+"Are you seriously telling me you know where every single\r\n"
+"book is supposed to be on your shelf?"
+msgstr ""
+
+msgctxt "2308_Akiyama"
+msgid "Every single one."
+msgstr ""
+
+msgctxt "2320_Tanimura"
+msgid "Whoa..."
+msgstr ""
+
+msgctxt "2332_Akiyama"
+msgid ""
+"Long story short, my old pal Kido-chan pulled a fast one on\r\n"
+"me."
+msgstr ""
+
+msgctxt "2344_Date"
+msgid ""
+"What I really wanna know is, who keeps a hundred billion in\r\n"
+"cash just lying around in this day and age?"
+msgstr ""
+
+msgctxt "2356_Date"
+msgid "Why not stash it in a bank?"
+msgstr ""
+
+msgctxt "2368_Akiyama"
+msgid ""
+"Don't trust 'em. Besides, it's not like any of them pay\r\n"
+"decent interest anyway."
+msgstr ""
+
+msgctxt "2380_Kiryu"
+msgid ""
+"That much physical money isn't exactly portable, though. How\r\n"
+"did they get it all out?"
+msgstr ""
+
+msgctxt "2392_Akiyama"
+msgid ""
+"Ask the \"DA\" guys who raided my office yesterday. They're\r\n"
+"the ones who did it."
+msgstr ""
+
+msgctxt "2404_Tanimura"
+msgid "You think they were impostors?"
+msgstr ""
+
+msgctxt "2416_Akiyama"
+msgid ""
+"Big time. Katsuragi must've sent them over once Kido-chan\r\n"
+"tipped him off."
+msgstr ""
+
+msgctxt "2428_Kiryu"
+msgid "That would explain it."
+msgstr ""

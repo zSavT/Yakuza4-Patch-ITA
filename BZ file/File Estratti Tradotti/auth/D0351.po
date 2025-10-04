@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-10\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/auth/subtitle/D0351.po\n"
+"X-Crowdin-File-ID: 56130\n"
+"PO-Revision-Date: 2025-09-26 07:39\n"
+
+msgctxt "20\t159"
+msgid "Sorry, but you're out of touch\\nwith how this city works."
+msgstr "Mi spiace, ma non sai più\\ncome funziona questa città."
+
+msgctxt "160\t259"
+msgid "How about I refresh your memory?"
+msgstr "Vuoi che ti rinfreschi la memoria?"
+
+msgctxt "271\t364"
+msgid "Don't just stand there!\\nCrush this rat!"
+msgstr "Non stare lì impalato!\\nAmmazzalo!"
+
+msgctxt "420\t480"
+msgid "Deputy Commissioner... No."
+msgstr "Vice Commissario... No."
+
+msgctxt "490\t556"
+msgid "Seishiro Munakata!"
+msgstr "Seishiro Munakata!"
+
+msgctxt "557\t640"
+msgid "Your ambitions end here."
+msgstr "Le tue ambizioni terminano qui."
+
+msgctxt "645\t705"
+msgid "You're mine!"
+msgstr "Sei mio!"
+

@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1548"
+msgid "Man"
+msgstr ""
+
+msgctxt "1552"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1556"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1560"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1564"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "88_Man"
+msgid "Hold up a second. I've seen that face before..."
+msgstr ""
+
+msgctxt "100_Man"
+msgid ""
+"...Dammit! I can't remember. Doesn't that put you in the worst fuckin' "
+"mood? And I'm gonna take it out on your face!"
+msgstr ""
+
+msgctxt "124_Man"
+msgid ""
+"Dayum! Why'd I pick a fight with someone so strong? Urgh... I can't "
+"remember."
+msgstr ""
+
+msgctxt "136_Man"
+msgid ""
+"'Scuse me! I don't really know why, but I feel like you should have this. "
+"So here, it's yours!"
+msgstr ""
+
+msgctxt "148_Man"
+msgid "You got a stolen %s."
+msgstr ""
+
+msgctxt "184_Man"
+msgid "Wait, why'm I all beat up? ...I can't remember."
+msgstr ""

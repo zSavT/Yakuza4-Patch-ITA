@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1668"
+msgid "Tao"
+msgstr ""
+
+msgctxt "1672"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "1676"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1680"
+msgid "Find Tao"
+msgstr ""
+
+msgctxt "68_Tao"
+msgid "Big bro!?"
+msgstr ""
+
+msgctxt "80_Tanimura"
+msgid "What are you doing with that?"
+msgstr ""
+
+msgctxt "104_Tanimura"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "116_Talk_No"
+msgid "Oh, come on."
+msgstr ""
+
+msgctxt "128_Tanimura"
+msgid ""
+"(How did this kid get so quick? ...Well, I'm sure he's still in Little "
+"Asia, but it is like a maze in here. I'll need to look carefully.)"
+msgstr ""
+
+msgctxt "140_Find Tao"
+msgid ""
+"When you find out where Tao is hiding, press <Action:Button_R3@Adventure> "
+"to switch to a first-person perspective. Just looking at him will make him "
+"come out of hiding."
+msgstr ""

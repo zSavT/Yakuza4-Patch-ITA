@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "480"
+msgid "Select the number of input devices to use."
+msgstr ""
+
+msgctxt "516"
+msgid "Select the game you want to play."
+msgstr ""
+
+msgctxt "528"
+msgid "Select the score for the '01 Game."
+msgstr ""
+
+msgctxt "540"
+msgid "Select the cricket variation you want to play."
+msgstr ""
+
+msgctxt "648"
+msgid "Do you want to play again?"
+msgstr ""
+
+msgctxt "684"
+msgid "Two input devices are required to play in this mode."
+msgstr ""
+
+msgctxt "696"
+msgid "Do you want to see the tutorial?"
+msgstr ""
+
+msgctxt "732"
+msgid "One"
+msgstr ""
+
+msgctxt "744"
+msgid "Two"
+msgstr ""
+
+msgctxt "756"
+msgid "'01"
+msgstr ""
+
+msgctxt "768"
+msgid "Cricket"
+msgstr ""
+
+msgctxt "780"
+msgid "Count-Up"
+msgstr ""
+
+msgctxt "792"
+msgid "301"
+msgstr ""
+
+msgctxt "804"
+msgid "501"
+msgstr ""
+
+msgctxt "816"
+msgid "701"
+msgstr ""
+
+msgctxt "828"
+msgid "901"
+msgstr ""
+
+msgctxt "840"
+msgid "Back"
+msgstr ""
+
+msgctxt "852"
+msgid "Standard"
+msgstr ""
+
+msgctxt "864"
+msgid "Random"
+msgstr ""
+
+msgctxt "876"
+msgid "Hidden"
+msgstr ""
+
+msgctxt "888"
+msgid "Back"
+msgstr ""
+
+msgctxt "900"
+msgid "Play Again"
+msgstr ""
+
+msgctxt "912"
+msgid "Quit"
+msgstr ""
+
+msgctxt "924"
+msgid "Yes"
+msgstr ""
+
+msgctxt "936"
+msgid "No"
+msgstr ""

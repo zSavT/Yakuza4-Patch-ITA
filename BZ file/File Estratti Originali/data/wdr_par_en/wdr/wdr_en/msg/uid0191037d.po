@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1416"
+msgid "Player_AORI_0.8_ON"
+msgstr ""
+
+msgctxt "1420"
+msgid "P_stand_tlk_kyoro_lp"
+msgstr ""
+
+msgctxt "1424"
+msgid "Player"
+msgstr ""
+
+msgctxt "1428"
+msgid "10_-15_SLOWER_VF_ON"
+msgstr ""
+
+msgctxt "1432"
+msgid "Player_BACK��_2.5_ON"
+msgstr ""
+
+msgctxt "1436"
+msgid "P_damage"
+msgstr ""
+
+msgctxt "1440"
+msgid "Idle"
+msgstr ""
+
+msgctxt "108_Player_AORI_0.8_ON"
+msgid "Dammit! I lost him..."
+msgstr ""
+
+msgctxt "168_Player_AORI_0.8_ON"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "180_Player"
+msgid "No good... I can't run anymore..."
+msgstr ""

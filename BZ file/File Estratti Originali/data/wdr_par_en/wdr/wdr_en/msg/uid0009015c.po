@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1568"
+msgid "Office Clerk"
+msgstr ""
+
+msgctxt "1572"
+msgid "Receptionist"
+msgstr ""
+
+msgctxt "1576"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1580"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1584"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "84_Office Clerk"
+msgid "Do you remember what was here before they built the Millennium Tower?"
+msgstr ""
+
+msgctxt "96_Receptionist"
+msgid "Um... Nope! What was it?"
+msgstr ""
+
+msgctxt "108_Office Clerk"
+msgid "Just an empty lot. It's funny how things change over time."
+msgstr ""
+
+msgctxt "120_Receptionist"
+msgid ""
+"I know, right? Like, there used to be a building where that parking lot is "
+"now."
+msgstr ""
+
+msgctxt "132_Office Clerk"
+msgid "Huh... Really? Guess I forgot all about that."
+msgstr ""
+
+msgctxt "144_Receptionist"
+msgid ""
+"Seriously, it's like this entire city gets rebuilt from the ground up every "
+"few years or so... Speaking of, let's go check out that new store that just "
+"opened!"
+msgstr ""
+
+msgctxt "156_Saejima"
+msgid ""
+"(S'pose I shouldn't be surprised nothin' looks like how I remember it back "
+"in '85.)"
+msgstr ""

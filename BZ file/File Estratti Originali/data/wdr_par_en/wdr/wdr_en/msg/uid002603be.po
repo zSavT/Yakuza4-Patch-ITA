@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1240"
+msgid "Irritable Voter"
+msgstr ""
+
+msgctxt "1244"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1248"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1252"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "1256"
+msgid "Honest Voter"
+msgstr ""
+
+msgctxt "1260"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "1264"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "84_Irritable Voter"
+msgid "That Numai sure has a sneaky way of getting publicity."
+msgstr ""
+
+msgctxt "96_Saejima"
+msgid "Hey, you two. Somebody send ya here to make trouble?"
+msgstr ""
+
+msgctxt "108_Irritable Voter"
+msgid "Excuse me? I don't know what you're talking about."
+msgstr ""
+
+msgctxt "120_Honest Voter"
+msgid ""
+"Wait, what? Is Numai-san the kind of person who'd slap\r\n"
+"a gag order on voters? Pretty shocking, if you ask me."
+msgstr ""
+
+msgctxt "132_Saejima"
+msgid "(Aw, shit. He actually wanted to hear what the guy had to say.)"
+msgstr ""

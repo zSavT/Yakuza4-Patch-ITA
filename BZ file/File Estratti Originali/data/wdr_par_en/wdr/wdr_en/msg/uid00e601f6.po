@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "10988"
+msgid "Hoodlum"
+msgstr ""
+
+msgctxt "10992"
+msgid "Tadashi"
+msgstr ""
+
+msgctxt "10996"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "11000"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11004"
+msgid "Talk_Hirou_st"
+msgstr ""
+
+msgctxt "11008"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "11012"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11016"
+msgid "Talk_Hirou_ed"
+msgstr ""
+
+msgctxt "11020"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "11024"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "56_Hoodlum"
+msgid "Who the goddamn are you, anyway? Broke my fuggin' nose..."
+msgstr ""
+
+msgctxt "80_Tadashi"
+msgid "Sorry, big guy..."
+msgstr ""
+
+msgctxt "92_Saejima"
+msgid ""
+"Tadashi, ya can't take on all your problems alone.\r\n"
+"That ain't courage. That's called being reckless."
+msgstr ""
+
+msgctxt "104_Saejima"
+msgid ""
+"There's times when a man's gotta fight. But when he does,\r\n"
+"he better not lose. Ya understand me, boy?"
+msgstr ""
+
+msgctxt "116_Tadashi"
+msgid "Yes, sir."
+msgstr ""
+
+msgctxt "128_Saejima"
+msgid "In case ya forgot, Tadashi, I got a sister, too."
+msgstr ""
+
+msgctxt "140_Tadashi"
+msgid "I know..."
+msgstr ""
+
+msgctxt "152_Saejima"
+msgid ""
+"When I was 12 years old, my ma and pa died. Me and Yasuko\r\n"
+"wound up with some relatives."
+msgstr ""
+
+msgctxt "164_Tadashi"
+msgid "Uh-huh..."
+msgstr ""
+
+msgctxt "176_Saejima"
+msgid "I say \"relatives\" but we're talkin', like, eight times removed."
+msgstr ""
+
+msgctxt "188_Saejima"
+msgid ""
+"They took us in, treated us great. Not like what happened\r\n"
+"to you guys."
+msgstr ""
+
+msgctxt "200_Saejima"
+msgid ""
+"But we both felt like we were imposin' on 'em. Nothin' either of us could "
+"do to quit feeling that way. So I left, and I took Yasuko with me."
+msgstr ""
+
+msgctxt "212_Tadashi"
+msgid "Then what happened?"
+msgstr ""
+
+msgctxt "224_Saejima"
+msgid ""
+"I was just a kid, so I couldn't get an honest job.\r\n"
+"But we did whatever we had to to stay together.\r\n"
+"Little Yasuko even cooked for the two of us."
+msgstr ""
+
+msgctxt "236_Tadashi"
+msgid "Was it hard?"
+msgstr ""
+
+msgctxt "248_Saejima"
+msgid ""
+"Not so long as I had my sister smilin' beside me.\r\n"
+"But one time Yasuko got real sick."
+msgstr ""
+
+msgctxt "260_Tadashi"
+msgid "Oh no..."
+msgstr ""
+
+msgctxt "272_Saejima"
+msgid ""
+"Runaways don't get health insurance. Would've cost\r\n"
+"an arm and a leg for surgery and a hospital room."
+msgstr ""
+
+msgctxt "284_Saejima"
+msgid ""
+"We were barely survivin'. Couldn't get a loan.\r\n"
+"I got desperate. Started walkin' the streets,\r\n"
+"picking fights with anyone over nothin'."
+msgstr ""
+
+msgctxt "296_Saejima"
+msgid ""
+"Bein' in a street fight was the only time I felt like\r\n"
+"I could just forget about everything else."
+msgstr ""
+
+msgctxt "308_Tadashi"
+msgid "......"
+msgstr ""
+
+msgctxt "320_Saejima"
+msgid "Till one day, I picked a fight with the wrong guy."
+msgstr ""
+
+msgctxt "332_Saejima"
+msgid ""
+"This man who's old enough to be my dad just up and beat the crap outta me. "
+"I started crying, thinkin' how pathetic, how miserable I was."
+msgstr ""
+
+msgctxt "344_Tadashi"
+msgid "Was that the man who helped you?"
+msgstr ""
+
+msgctxt "356_Saejima"
+msgid "Ya guessed it. That was Sasai-san. The man I owe my life to."
+msgstr ""
+
+msgctxt "368_Saejima"
+msgid "He saw me cryin', and he said, \"Why are you so sad?\""
+msgstr ""
+
+msgctxt "380_Saejima"
+msgid ""
+"Me, the kid who tried to kick his ass! I wound up spillin'\r\n"
+"my guts about me and Yasuko, blubberin' about her illness."
+msgstr ""
+
+msgctxt "392_Tadashi"
+msgid "And what did he do?"
+msgstr ""
+
+msgctxt "404_Saejima"
+msgid ""
+"He said to me, \"You've come a long way, boy.\r\n"
+"Fought hard on your own.\""
+msgstr ""
+
+msgctxt "416_Saejima"
+msgid ""
+"And then he took care of everything－gettin' Yasuko\r\n"
+"into the hospital, even payin' for her surgery."
+msgstr ""
+
+msgctxt "428_Tadashi"
+msgid "Wow. All that happened to you?"
+msgstr ""
+
+msgctxt "440_Saejima"
+msgid "When I first met ya, you reminded me of... me."
+msgstr ""
+
+msgctxt "452_Tadashi"
+msgid "And that's why... that's why you helped me?"
+msgstr ""
+
+msgctxt "464_Saejima"
+msgid "Yup. It was my turn to pay that kindness forward."
+msgstr ""
+
+msgctxt "476_Tadashi"
+msgid "......"
+msgstr ""
+
+msgctxt "488_Saejima"
+msgid "Do ya wanna help your sister, Tadashi? Whatever it takes?"
+msgstr ""
+
+msgctxt "500_Tadashi"
+msgid ""
+"Uh-huh. Whatever it takes. I'm scared, but nobody's gonna stop me... not "
+"even you!"
+msgstr ""
+
+msgctxt "512_Saejima"
+msgid ""
+"Then stay outta trouble, alright? From here on, I got your back. I'm gonna "
+"see you reunited with your sister."
+msgstr ""
+
+msgctxt "524_Saejima"
+msgid ""
+"No one's stopped me yet－not loan sharks, not the yakuza, not the cops－so "
+"breathe easy."
+msgstr ""
+
+msgctxt "536_Tadashi"
+msgid "Okay. Thank you, Uncle Suzuki!"
+msgstr ""
+
+msgctxt "548_Saejima"
+msgid "It's Saejima. My real name... It's Taiga Saejima."
+msgstr ""
+
+msgctxt "560_Tadashi"
+msgid "Oh... Thank you, Uncle Taiga!"
+msgstr ""
+
+msgctxt "572_Tadashi"
+msgid "And, uh, I'm sorry I ran off like that. It was stupid."
+msgstr ""
+
+msgctxt "584_Saejima"
+msgid "No sweat. Just goes to show how much you miss your sister."
+msgstr ""
+
+msgctxt "596_Saejima"
+msgid "C'mon, buddy. Let's get a move on. We're gonna save your sister!"
+msgstr ""
+
+msgctxt "608_Tadashi"
+msgid "Yessir!"
+msgstr ""

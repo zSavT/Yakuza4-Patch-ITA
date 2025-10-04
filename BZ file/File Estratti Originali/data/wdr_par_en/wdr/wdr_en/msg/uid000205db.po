@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2220"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2224"
+msgid "Player"
+msgstr ""
+
+msgctxt "2228"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2232"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "100_Kiryu"
+msgid ""
+"If you need a break, now's the time to do it. I can take\r\n"
+"care of any errands you need run in the meantime."
+msgstr ""
+
+msgctxt "124_Player"
+msgid "No, it's okay."
+msgstr ""
+
+msgctxt "136_Player"
+msgid "Sorry, gonna have to take a rain check."
+msgstr ""
+
+msgctxt "148_Player"
+msgid "Think I'm good."
+msgstr ""
+
+msgctxt "160_Player"
+msgid "Appreciate the offer, but I'm gonna have to pass."
+msgstr ""
+
+msgctxt "172_Kiryu"
+msgid "All right. Just don't overdo it, okay?"
+msgstr ""
+
+msgctxt "196_Player"
+msgid "That's a good idea. Thanks, Kiryu."
+msgstr ""
+
+msgctxt "208_Player"
+msgid "Sure, guess I wouldn't mind taking a little breather."
+msgstr ""
+
+msgctxt "220_Player"
+msgid "Yeah, gotta catch my breath."
+msgstr ""
+
+msgctxt "232_Player"
+msgid "Thanks, I'll do that."
+msgstr ""
+
+msgctxt "244_Kiryu"
+msgid "Great. I'll be back later."
+msgstr ""
+
+msgctxt "268_Kiryu"
+msgid "No, it's okay."
+msgstr ""
+
+msgctxt "280_Kiryu"
+msgid "Sure."
+msgstr ""

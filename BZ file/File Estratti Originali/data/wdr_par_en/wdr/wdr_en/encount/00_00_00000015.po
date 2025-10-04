@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1352"
+msgid "Man"
+msgstr ""
+
+msgctxt "1356"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1360"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1364"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid "Seems I dropped my wallet somewhere..."
+msgstr ""
+
+msgctxt "128_Man"
+msgid "Wait, you have my freakin' wallet! Don't fuck with me, give it back!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "Ouch..."
+msgstr ""
+
+msgctxt "164_Man"
+msgid "Oh, guess I had my wallet on me all along... Here, I'll give you this."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a cool %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "Ho boy, I'm so glad I found it, haha..."
+msgstr ""

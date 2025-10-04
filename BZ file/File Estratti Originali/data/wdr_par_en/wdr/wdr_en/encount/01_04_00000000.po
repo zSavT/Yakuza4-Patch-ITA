@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1356"
+msgid "Man"
+msgstr ""
+
+msgctxt "1360"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1364"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1368"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid ""
+"You're the punk who clobbered some of our clan's best and brightest, ain't "
+"you?"
+msgstr ""
+
+msgctxt "128_Man"
+msgid ""
+"It ain't much, but we'd like to give you a token of our appreciation! "
+"Right, boys?"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "Thought for sure I had enough manpower..."
+msgstr ""
+
+msgctxt "164_Man"
+msgid "Sorry. We won't mess with you again. Take this and forget about us."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a promising %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "We're pathetic..."
+msgstr ""

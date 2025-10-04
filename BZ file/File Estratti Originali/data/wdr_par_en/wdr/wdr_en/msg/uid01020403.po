@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2792"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "2796"
+msgid "The Florist"
+msgstr ""
+
+msgctxt "2800"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2804"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2808"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2812"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2816"
+msgid "0"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "What kinda place is this?"
+msgstr ""
+
+msgctxt "68_The Florist"
+msgid ""
+"The Underground Coliseum. Only VIP members are allowed\r\n"
+"to spectate the fights here."
+msgstr ""
+
+msgctxt "80_Saejima"
+msgid "I'm guessin' you're not inviting me to watch."
+msgstr ""
+
+msgctxt "92_The Florist"
+msgid ""
+"Exactly. I want you to enter the exhibition deathmatch\r\n"
+"I'm holding."
+msgstr ""
+
+msgctxt "104_Saejima"
+msgid "Deathmatch?"
+msgstr ""
+
+msgctxt "116_The Florist"
+msgid ""
+"Heh. That's right, a bona fide deathmatch. Not like that fake crap they "
+"show on TV."
+msgstr ""
+
+msgctxt "128_The Florist"
+msgid "Two fighters enter the ring, only one walks out alive."
+msgstr ""
+
+msgctxt "140_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "152_The Florist"
+msgid ""
+"I'm not going to force you against your will.\r\n"
+"But if you can't pay, this is your only option\r\n"
+"to obtain that info on your old boss."
+msgstr ""
+
+msgctxt "164_Saejima"
+msgid "Fine. I'm in."
+msgstr ""
+
+msgctxt "176_The Florist"
+msgid "It's settled, then."
+msgstr ""
+
+msgctxt "188_The Florist"
+msgid ""
+"There's only one rule: weapons and medicines are strictly forbidden during "
+"the match."
+msgstr ""
+
+msgctxt "200_The Florist"
+msgid ""
+"Now, I suggest you go prepare yourself. Come see me\r\n"
+"when you're ready to begin."
+msgstr ""

@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1440"
+msgid "Worried Woman"
+msgstr ""
+
+msgctxt "1444"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1448"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1452"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1456"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "84_Worried Woman"
+msgid "So this is Sky Finance..."
+msgstr ""
+
+msgctxt "96_Akiyama"
+msgid "That's my company. Can I help you with anything?"
+msgstr ""
+
+msgctxt "108_Worried Woman"
+msgid ""
+"Oh, uh... Um... It's just, a friend of mine borrowed some money from a loan "
+"company that's been pressuring her to pay them back."
+msgstr ""
+
+msgctxt "120_Akiyama"
+msgid ""
+"I see. Well, it may sound strange coming from me, but people shouldn't "
+"borrow money if they can help it."
+msgstr ""
+
+msgctxt "132_Worried Woman"
+msgid ""
+"But if your friend's really in a jam, tell her to drop by my office. I may "
+"be able to help."
+msgstr ""
+
+msgctxt "144_Worried Woman"
+msgid "......"
+msgstr ""
+
+msgctxt "156_Akiyama"
+msgid "Tell your friend now, okay?"
+msgstr ""
+
+msgctxt "168_Worried Woman"
+msgid "All right... Thank you."
+msgstr ""

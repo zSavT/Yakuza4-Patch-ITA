@@ -1,0 +1,740 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "540"
+msgid "You handed over <Color:8>Large Curry Take-home Packs<Color:Default>."
+msgstr ""
+
+msgctxt "1116"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr ""
+
+msgctxt "1272"
+msgid "You gained 5,000 EXP."
+msgstr ""
+
+msgctxt "29052"
+msgid "Delivery Boy"
+msgstr ""
+
+msgctxt "29056"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "29060"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "29064"
+msgid "Foreman"
+msgstr ""
+
+msgctxt "29068"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "29072"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "29076"
+msgid "Manager"
+msgstr ""
+
+msgctxt "29080"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "29084"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "29088"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "29092"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "29096"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "29100"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "29104"
+msgid "Construction Workers"
+msgstr ""
+
+msgctxt "29108"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "29112"
+msgid "Assistant Foreman"
+msgstr ""
+
+msgctxt "29116"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "29120"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "29124"
+msgid "P_sitgrd_tlk_agura_kamae"
+msgstr ""
+
+msgctxt "29128"
+msgid "M_ykz_sitgrd_tlk_agura_lp"
+msgstr ""
+
+msgctxt "29132"
+msgid "P_sitgrd_tlk_agura_yes"
+msgstr ""
+
+msgctxt "29136"
+msgid "P_sitgrd_tlk_agura_ibukasimu"
+msgstr ""
+
+msgctxt "29140"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "29144"
+msgid "Tomoya"
+msgstr ""
+
+msgctxt "29148"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "29152"
+msgid "M_ykz_sitgrd_tlk_agura_ed"
+msgstr ""
+
+msgctxt "29156"
+msgid "dummy"
+msgstr ""
+
+msgctxt "29160"
+msgid "0"
+msgstr ""
+
+msgctxt "29164"
+msgid "Nml_TurnR180"
+msgstr ""
+
+msgctxt "29168"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "29172"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "29176"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "29180"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "29184"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "29188"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "264_Delivery Boy"
+msgid "Oh, dude! You're back! But what happened to the curry!?"
+msgstr ""
+
+msgctxt "312_Delivery Boy"
+msgid ""
+"You don't have it yet? This is, like, so my fault and everything, but could "
+"you hurry it up a little!?"
+msgstr ""
+
+msgctxt "324_Foreman"
+msgid ""
+"We're about hungry enough to eat you, kid.\r\n"
+"How'd you like that?"
+msgstr ""
+
+msgctxt "336_Delivery Boy"
+msgid ""
+"Yikes! Man, if only I hadn't hurt my leg,\r\n"
+"I'd go myself!"
+msgstr ""
+
+msgctxt "348_Delivery Boy"
+msgid "Oh, sweet! You brought enough sauce for everybody!"
+msgstr ""
+
+msgctxt "360_Manager"
+msgid "All right! The curry's finally here!"
+msgstr ""
+
+msgctxt "372_Delivery Boy"
+msgid ""
+"But... it's cold! Listen, I feel bad about this and everything, but cold "
+"curry?"
+msgstr ""
+
+msgctxt "384_Delivery Boy"
+msgid "Can't you find a stove or something? Curry's just gotta be served hot..."
+msgstr ""
+
+msgctxt "396_Manager"
+msgid ""
+"The curry's right in front of us, but we still have to wait?\r\n"
+"Adrenaline... rising...!"
+msgstr ""
+
+msgctxt "408_Delivery Boy"
+msgid ""
+"Yikes! Man, if only I hadn't hurt my leg,\r\n"
+"I'd go myself!"
+msgstr ""
+
+msgctxt "432_Kiryu"
+msgid ""
+"(There ought to be a stove I can use at New Serena. Guess I can run over "
+"and heat it up.)"
+msgstr ""
+
+msgctxt "444_Delivery Boy"
+msgid "Oh, wow! You already have some!"
+msgstr ""
+
+msgctxt "456_Delivery Boy"
+msgid "But, aw, man! That's not gonna be enough! Look at all these people!"
+msgstr ""
+
+msgctxt "468_Manager"
+msgid ""
+"You shouldn't underestimate our appetite. We're hungry as hell! We could "
+"finish that off in no time at all."
+msgstr ""
+
+msgctxt "480_Delivery Boy"
+msgid ""
+"I really feel bad about this man, but could you bring a whole bunch of "
+"curry?"
+msgstr ""
+
+msgctxt "492_Manager"
+msgid ""
+"The curry's right in front of us, but we still have to wait?\r\n"
+"Adrenaline... rising...!"
+msgstr ""
+
+msgctxt "504_Delivery Boy"
+msgid ""
+"Yikes! Man, if only I hadn't hurt my leg,\r\n"
+"I'd go myself!"
+msgstr ""
+
+msgctxt "516_Kiryu"
+msgid "(I got this curry from Matsuya. Guess I better go back there again.)"
+msgstr ""
+
+msgctxt "564_Delivery Boy"
+msgid "Oh, sweet! You brought enough sauce for everybody!"
+msgstr ""
+
+msgctxt "576_Delivery Boy"
+msgid ""
+"Nice and hot, too! Man, you're one heck of a guy, you know that? You really "
+"took care of business!"
+msgstr ""
+
+msgctxt "588_Foreman"
+msgid "Yes! Curry! Finally, it's here!"
+msgstr ""
+
+msgctxt "600_Construction Workers"
+msgid "Curry! Curry! We love curry!"
+msgstr ""
+
+msgctxt "612_Delivery Boy"
+msgid "Hahaha!"
+msgstr ""
+
+msgctxt "624_Kiryu"
+msgid "Heh."
+msgstr ""
+
+msgctxt "636_Assistant Foreman"
+msgid "Boss, isn't it a little too early to celebrate?"
+msgstr ""
+
+msgctxt "648_Construction Workers"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "660_Foreman"
+msgid "What's that supposed to mean?"
+msgstr ""
+
+msgctxt "672_Assistant Foreman"
+msgid ""
+"Sure, we finally got our curry. But the real question is... does it taste "
+"any good?"
+msgstr ""
+
+msgctxt "684_Foreman"
+msgid "It's not over!"
+msgstr ""
+
+msgctxt "696_Construction Workers"
+msgid "Gah! Hungry!"
+msgstr ""
+
+msgctxt "708_Delivery Boy"
+msgid "Crap!"
+msgstr ""
+
+msgctxt "720_Assistant Foreman"
+msgid ""
+"The curry we ordered was supposed to be from a famous curry shop. But how "
+"does this curry stack up?"
+msgstr ""
+
+msgctxt "732_Assistant Foreman"
+msgid "Maybe we should taste it before we get too excited."
+msgstr ""
+
+msgctxt "744_Foreman"
+msgid "True enough. I don't know what I'd do without that sharp mind of yours."
+msgstr ""
+
+msgctxt "756_Foreman"
+msgid ""
+"The assistant foreman's right. It all comes down to the taste. Don't think "
+"you're out of the woods yet, boy."
+msgstr ""
+
+msgctxt "768_Delivery Boy"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "888_Delivery Boy"
+msgid "How was it?"
+msgstr ""
+
+msgctxt "900_Foreman"
+msgid "......"
+msgstr ""
+
+msgctxt "924_Assistant Foreman"
+msgid "......"
+msgstr ""
+
+msgctxt "936_Construction Workers"
+msgid "......"
+msgstr ""
+
+msgctxt "948_Foreman"
+msgid "It's... fantastic!"
+msgstr ""
+
+msgctxt "960_Assistant Foreman"
+msgid "Tastes great!"
+msgstr ""
+
+msgctxt "972_Construction Workers"
+msgid "Yeah! It's delicious!"
+msgstr ""
+
+msgctxt "984_Delivery Boy"
+msgid "Yes! Dude, they like it!"
+msgstr ""
+
+msgctxt "996_Kiryu"
+msgid "Heh. That's a relief."
+msgstr ""
+
+msgctxt "1008_Delivery Boy"
+msgid "Man, you are, like, my idol! I don't think I could've done this without you!"
+msgstr ""
+
+msgctxt "1020_Kiryu"
+msgid "I thought your leg was broken..."
+msgstr ""
+
+msgctxt "1032_Delivery Boy"
+msgid "It's a miracle! It feels better now that I'm so pumped up!"
+msgstr ""
+
+msgctxt "1044_Kiryu"
+msgid "If you say so."
+msgstr ""
+
+msgctxt "1056_Delivery Boy"
+msgid ""
+"Dude, thank you so much! I should've totally asked before, but what's your "
+"name? I'm Tomoya."
+msgstr ""
+
+msgctxt "1068_Kiryu"
+msgid "Kazuma Kiryu."
+msgstr ""
+
+msgctxt "1080_Tomoya"
+msgid "Kiryu? Got it! Man, even your name is badass!"
+msgstr ""
+
+msgctxt "1092_Tomoya"
+msgid ""
+"I really wish there were some way I could thank you, but this is all I've "
+"got..."
+msgstr ""
+
+msgctxt "1140_Tomoya"
+msgid "I know, it's kind of a lame reward, but it comes from the heart!"
+msgstr ""
+
+msgctxt "1152_Kiryu"
+msgid "Good enough. Be careful not to crash your bike again."
+msgstr ""
+
+msgctxt "1164_Tomoya"
+msgid "I will! Take care, Kiryu-san!"
+msgstr ""
+
+msgctxt "1176_Foreman"
+msgid "All right! We had our break! Now, back to work!"
+msgstr ""
+
+msgctxt "1200_Construction Workers"
+msgid "Okay, boss!"
+msgstr ""
+
+msgctxt "1284_Delivery Boy"
+msgid "You're the only one I've got, man! Could you please go buy the food for me?"
+msgstr ""
+
+msgctxt "1296_Kiryu"
+msgid "I don't have time for this. You'll have to deal with it yourself."
+msgstr ""
+
+msgctxt "1308_Delivery Boy"
+msgid "What!? Dude, you mean it?"
+msgstr ""
+
+msgctxt "1320_Kiryu"
+msgid "(This kid's gotta fix his own problems.)"
+msgstr ""
+
+msgctxt "1332_Foreman"
+msgid "Looks like you need another plan, kid. What are you gonna do now?"
+msgstr ""
+
+msgctxt "1344_Delivery Boy"
+msgid ""
+"Aw, man! Come on! You're the only one I've got! You can even do it later, "
+"whenever you have the chance! Please, man!"
+msgstr ""
+
+msgctxt "1356_Kiryu"
+msgid "Guess I've gotta see this through. Fine, kid. I'll help you out."
+msgstr ""
+
+msgctxt "1368_Delivery Boy"
+msgid "Really!? Dude, you mean it?"
+msgstr ""
+
+msgctxt "1380_Kiryu"
+msgid "(This kid is starting to get on my nerves.)"
+msgstr ""
+
+msgctxt "1392_Kiryu"
+msgid "What kind of lunch was it supposed to be?"
+msgstr ""
+
+msgctxt "1404_Delivery Boy"
+msgid ""
+"It was a curry lunch. Like I said, the rice is still okay, but the sauce is "
+"a mess."
+msgstr ""
+
+msgctxt "1416_Kiryu"
+msgid "Curry, huh? So I guess that's what I should go look for, then."
+msgstr ""
+
+msgctxt "1428_Foreman"
+msgid "Sorry, buddy. We really hate to put you out like this."
+msgstr ""
+
+msgctxt "1440_Delivery Boy"
+msgid "Yeah, sorry about this, but could you make it quick?"
+msgstr ""
+
+msgctxt "1452_Kiryu"
+msgid "Yeah, yeah. Just wait here."
+msgstr ""
+
+msgctxt "1476_Kiryu"
+msgid ""
+"(Hmm, curry. I'm pretty sure there's a restaurant or something around here "
+"that has it.)"
+msgstr ""
+
+msgctxt "1488_Delivery Boy"
+msgid "Owww!"
+msgstr ""
+
+msgctxt "1500_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "1512_Delivery Boy"
+msgid "Sorry. Looks like I hurt my leg in that crash."
+msgstr ""
+
+msgctxt "1524_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "1536_Delivery Boy"
+msgid ""
+"Ouch... My leg must be broken! It hurts like hell when I put my weight on "
+"it!"
+msgstr ""
+
+msgctxt "1548_Kiryu"
+msgid "If it was broken, you couldn't stand up."
+msgstr ""
+
+msgctxt "1560_Delivery Boy"
+msgid ""
+"Anyways, I really feel bad asking and all, but would you go get the food "
+"for me?"
+msgstr ""
+
+msgctxt "1572_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "1584_Kiryu"
+msgid "I don't have time for this. You'll have to deal with it yourself."
+msgstr ""
+
+msgctxt "1596_Delivery Boy"
+msgid "What!? Dude, you mean it?"
+msgstr ""
+
+msgctxt "1608_Kiryu"
+msgid "(This kid's gotta fix his own problems.)"
+msgstr ""
+
+msgctxt "1620_Foreman"
+msgid "Looks like you need another plan, kid. What are you gonna do now?"
+msgstr ""
+
+msgctxt "1632_Delivery Boy"
+msgid ""
+"Aw, man! Come on! You're the only one I've got! You can even do it later, "
+"whenever you have the chance! Please, man!"
+msgstr ""
+
+msgctxt "1644_Kiryu"
+msgid "Guess I've gotta see this through. Fine, kid. I'll help you out."
+msgstr ""
+
+msgctxt "1656_Delivery Boy"
+msgid "Really!? Dude, you mean it?"
+msgstr ""
+
+msgctxt "1668_Kiryu"
+msgid "(This kid is starting to get on my nerves.)"
+msgstr ""
+
+msgctxt "1680_Kiryu"
+msgid "What kind of lunch was it supposed to be?"
+msgstr ""
+
+msgctxt "1692_Delivery Boy"
+msgid ""
+"It was a curry lunch. Like I said, the rice is still okay, but the sauce is "
+"a mess."
+msgstr ""
+
+msgctxt "1704_Kiryu"
+msgid "Curry, huh? So I guess that's what I should go look for, then."
+msgstr ""
+
+msgctxt "1716_Foreman"
+msgid "Sorry, buddy. We really hate to put you out like this."
+msgstr ""
+
+msgctxt "1728_Delivery Boy"
+msgid "Yeah, sorry about this, but could you make it quick?"
+msgstr ""
+
+msgctxt "1740_Kiryu"
+msgid "Yeah, yeah. Just wait here."
+msgstr ""
+
+msgctxt "1764_Kiryu"
+msgid ""
+"(Hmm, curry. I'm pretty sure there's a restaurant or something around here "
+"that has it.)"
+msgstr ""
+
+msgctxt "1776_Delivery Boy"
+msgid "No, wait! Sorry, but I really do need some help here."
+msgstr ""
+
+msgctxt "1788_Kiryu"
+msgid "What kind of help?"
+msgstr ""
+
+msgctxt "1800_Delivery Boy"
+msgid ""
+"You see, I was just about to deliver these guys their lunches. I work "
+"delivery part-time."
+msgstr ""
+
+msgctxt "1812_Delivery Boy"
+msgid ""
+"Thing is, I crashed my bike. You know, totally wrecked the thing. Their "
+"lunches got wrecked, too. Now I don't know what I'm going to do."
+msgstr ""
+
+msgctxt "1824_Foreman"
+msgid ""
+"First of all, quit dragging random people into this!\r\n"
+"You sure know how to cause a scene, kid."
+msgstr ""
+
+msgctxt "1836_Delivery Boy"
+msgid "But! Wait!"
+msgstr ""
+
+msgctxt "1848_Foreman"
+msgid "I'm sorry, buddy. Don't worry about this."
+msgstr ""
+
+msgctxt "1860_Delivery Boy"
+msgid "No! Don't go! Help me out, here!"
+msgstr ""
+
+msgctxt "1872_Kiryu"
+msgid ""
+"Man, how do I keep getting dragged into these things? Are you really sure "
+"the lunches are ruined?"
+msgstr ""
+
+msgctxt "1884_Delivery Boy"
+msgid ""
+"I guess the rice is still pretty much edible, but the side dishes are a "
+"complete loss."
+msgstr ""
+
+msgctxt "1908_Delivery Boy"
+msgid ""
+"And nobody wants a lunch of just rice, right? Sure, it's simple and zen and "
+"all that, but you gotta have side dishes."
+msgstr ""
+
+msgctxt "1920_Foreman"
+msgid "Obviously!"
+msgstr ""
+
+msgctxt "1932_Kiryu"
+msgid ""
+"Then why don't you go pick up some side dishes around here? It's gonna be "
+"expensive, but it's your responsibility after all."
+msgstr ""
+
+msgctxt "1944_Delivery Boy"
+msgid ""
+"Oh! Man! That is, like, the perfect idea! Why didn't I think of that!? "
+"You're a genius, man!"
+msgstr ""
+
+msgctxt "1956_Foreman"
+msgid "Good one, buddy."
+msgstr ""
+
+msgctxt "1968_Kiryu"
+msgid "All right. Well, good luck, kid."
+msgstr ""
+
+msgctxt "1980_Delivery Boy"
+msgid "Thanks, man!"
+msgstr ""
+
+msgctxt "1992_Delivery Boy"
+msgid "Just... Just calm down, okay?"
+msgstr ""
+
+msgctxt "2004_Foreman"
+msgid ""
+"It's normal to feel crabby when you're hungry, 'cause your brain speeds up "
+"the release of adrenaline as it tries to raise blood sugar."
+msgstr ""
+
+msgctxt "2016_Delivery Boy"
+msgid "That's, um... very informative."
+msgstr ""
+
+msgctxt "2028_Foreman"
+msgid ""
+"In other words, there's a whole lot of adrenaline running through our "
+"systems right now, if you get what I'm saying..."
+msgstr ""
+
+msgctxt "2040_Delivery Boy"
+msgid "......"
+msgstr ""
+
+msgctxt "2052_Kiryu"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "2076_Delivery Boy"
+msgid ""
+"Huh? Oh, it's really nothing. Okay, it's actually something, but I'll take "
+"care of it... somehow."
+msgstr ""
+
+msgctxt "2088_Kiryu"
+msgid "If you're sure..."
+msgstr ""
+
+msgctxt "2112_Delivery Boy"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "2124_Delivery Boy"
+msgid "Help Him"
+msgstr ""
+
+msgctxt "2136_Delivery Boy"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "2148_Delivery Boy"
+msgid "Help Him"
+msgstr ""

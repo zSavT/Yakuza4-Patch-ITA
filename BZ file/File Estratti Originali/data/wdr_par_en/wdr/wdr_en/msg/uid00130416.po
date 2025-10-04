@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "6076"
+msgid "Ehama"
+msgstr ""
+
+msgctxt "6080"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6084"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "6088"
+msgid "Sodachi"
+msgstr ""
+
+msgctxt "6092"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "6096"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "6100"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "6104"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "6108"
+msgid "Renovations"
+msgstr ""
+
+msgctxt "6112"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6116"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6120"
+msgid "dummy"
+msgstr ""
+
+msgctxt "148_Ehama"
+msgid ""
+"Hello, Saejima-san! It's been a while! Let me know if you ever need "
+"anything at all. I'm forever in your debt."
+msgstr ""
+
+msgctxt "172_Ehama"
+msgid ""
+"Thanks to you, everything at home is going perfectly. Let me know if you "
+"ever need anything at all. I'm forever in your debt."
+msgstr ""
+
+msgctxt "196_Ehama"
+msgid ""
+"Thanks to you, everything at home is going perfectly. Let me know if you "
+"ever need anything at all. I'm forever in your debt."
+msgstr ""
+
+msgctxt "220_Ehama"
+msgid ""
+"Thanks to you, everything at home is going perfectly. Let me know if you "
+"ever need anything at all. I'm forever in your debt."
+msgstr ""
+
+msgctxt "292_Ehama"
+msgid ""
+"By the way, I wanted to ask you about the renovation work we'd talked about "
+"before. What do you think? I can do it for 1.5 million yen."
+msgstr ""
+
+msgctxt "316_Saejima"
+msgid "That ain't a bad idea. The timing's good, too. Let's do it."
+msgstr ""
+
+msgctxt "328_Sodachi"
+msgid "Yippeeee! Thank you, Sae-chan! You're a doll!"
+msgstr ""
+
+msgctxt "340_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "352_Ehama"
+msgid "Okay then! I'll go ahead and make the arrangements!"
+msgstr ""
+
+msgctxt "412_Sodachi"
+msgid "This is amazing! I'm so glad that we renovated! Look at this, Saejima-san!"
+msgstr ""
+
+msgctxt "424_Saejima"
+msgid "Looks good. Now we can add lots of new trainin' equipment."
+msgstr ""
+
+msgctxt "436_Ehama"
+msgid ""
+"Your dojo renovation is complete. Each facility can now be upgraded to "
+"Level 3."
+msgstr ""
+
+msgctxt "448_Sodachi"
+msgid "Hopefully this will attract a lot of new apprentices. Heheheh..."
+msgstr ""
+
+msgctxt "460_Saejima"
+msgid "This ain't the kind o' decision to make on a whim. We should pass this time."
+msgstr ""
+
+msgctxt "472_Ehama"
+msgid ""
+"I understand. No need to rush. We can do it anytime, so just let me know if "
+"you change your mind."
+msgstr ""
+
+msgctxt "484_Ehama"
+msgid ""
+"I'm sorry, it looks like you don't have enough money. I'd love to give you "
+"a bigger discount, but this is the best I can do."
+msgstr ""
+
+msgctxt "544_Ehama"
+msgid "Renovate for 1.5 million yen."
+msgstr ""
+
+msgctxt "556_Ehama"
+msgid "Not right now."
+msgstr ""

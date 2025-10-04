@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "11760"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "11764"
+msgid "Elise Manager"
+msgstr ""
+
+msgctxt "11768"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "11772"
+msgid "Talk_Phone_yes"
+msgstr ""
+
+msgctxt "11776"
+msgid "Talk_Phone_ed"
+msgstr ""
+
+msgctxt "11780"
+msgid "dummy"
+msgstr ""
+
+msgctxt "11784"
+msgid "Lily"
+msgstr ""
+
+msgctxt "11788"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "11792"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "11796"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11800"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "11804"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "11808"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "11812"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11816"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "11820"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "11824"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "11828"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "11832"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "92_Elise Manager"
+msgid "Akiyama-san, this is Tanuma from Elise."
+msgstr ""
+
+msgctxt "104_Elise Manager"
+msgid "Lily-san just went home, and I've finished totaling her sales for today."
+msgstr ""
+
+msgctxt "116_Akiyama"
+msgid "Great, thanks. How'd she do?"
+msgstr ""
+
+msgctxt "128_Elise Manager"
+msgid ""
+"Just over half a million yen. That's amazing considering it's only her "
+"first day."
+msgstr ""
+
+msgctxt "140_Akiyama"
+msgid ""
+"Pretty impressive, yeah. But she's gonna have to step up her game if she "
+"actually wants to pass."
+msgstr ""
+
+msgctxt "152_Elise Manager"
+msgid "True..."
+msgstr ""
+
+msgctxt "164_Elise Manager"
+msgid ""
+"Maybe you could drop in during her next shift? It might help having you "
+"there to give her some pointers, Akiyama-san."
+msgstr ""
+
+msgctxt "176_Akiyama"
+msgid "Not a bad idea. Sure, why not."
+msgstr ""
+
+msgctxt "188_Elise Manager"
+msgid "Thank you, sir. See you then."
+msgstr ""
+
+msgctxt "308_Lily"
+msgid "Sorry I'm late."
+msgstr ""
+
+msgctxt "320_Akiyama"
+msgid "Oh, no worries at all. Nice work today, by the way. Getting used to it?"
+msgstr ""
+
+msgctxt "332_Lily"
+msgid "Yes, but..."
+msgstr ""
+
+msgctxt "344_Akiyama"
+msgid "Hm? But what?"
+msgstr ""
+
+msgctxt "356_Lily"
+msgid ""
+"I'm a little worried about how much I made today. It didn't feel like very "
+"much."
+msgstr ""
+
+msgctxt "368_Akiyama"
+msgid "Do you want to know the actual number?"
+msgstr ""
+
+msgctxt "380_Lily"
+msgid "If you don't mind... Yes, I would."
+msgstr ""
+
+msgctxt "392_Akiyama"
+msgid "All right, here goes. Your total for today came out to..."
+msgstr ""
+
+msgctxt "404_Lily"
+msgid "......"
+msgstr ""
+
+msgctxt "416_Akiyama"
+msgid "500,000 yen."
+msgstr ""
+
+msgctxt "428_Lily"
+msgid "That's... it?"
+msgstr ""
+
+msgctxt "440_Akiyama"
+msgid "Hm? Why the long face? That's pretty dang impressive."
+msgstr ""
+
+msgctxt "452_Lily"
+msgid ""
+"No, I know... But that still leaves another two and a half million in only "
+"two days."
+msgstr ""
+
+msgctxt "464_Akiyama"
+msgid "Don't worry. Today was all about settling into the job."
+msgstr ""
+
+msgctxt "476_Akiyama"
+msgid "And hey, you didn't even have a full shift."
+msgstr ""
+
+msgctxt "488_Lily"
+msgid "I suppose..."
+msgstr ""
+
+msgctxt "500_Akiyama"
+msgid "Seriously, you'll be fine. I'm sure of it."
+msgstr ""
+
+msgctxt "512_Lily"
+msgid "Hehe..."
+msgstr ""
+
+msgctxt "524_Akiyama"
+msgid "What's so funny?"
+msgstr ""
+
+msgctxt "536_Lily"
+msgid "You're a very interesting man, Akiyama-san."
+msgstr ""
+
+msgctxt "548_Akiyama"
+msgid "Yeah?"
+msgstr ""
+
+msgctxt "560_Lily"
+msgid ""
+"You say this is a test, but now here you are telling me everything's going "
+"to be fine."
+msgstr ""
+
+msgctxt "572_Akiyama"
+msgid "What's wrong with that? It's not like I want you to fail or anything."
+msgstr ""
+
+msgctxt "584_Lily"
+msgid "Don't you?"
+msgstr ""
+
+msgctxt "596_Akiyama"
+msgid "Of course not. I want nothing more than to lend you that money."
+msgstr ""
+
+msgctxt "608_Akiyama"
+msgid ""
+"It might be a test, but I've been hoping you'd succeed from the bottom of "
+"my heart."
+msgstr ""
+
+msgctxt "620_Lily"
+msgid "Akiyama-san..."
+msgstr ""
+
+msgctxt "632_Akiyama"
+msgid ""
+"Plus, I know you're not gonna just take failure lying down. Not with that "
+"much money on the line."
+msgstr ""
+
+msgctxt "644_Lily"
+msgid "Yes... You're right. I <Italic>can</Italic> do this."
+msgstr ""
+
+msgctxt "656_Akiyama"
+msgid ""
+"That's more like it. Just try not to stress too much, yeah? Keeping cool is "
+"half the battle."
+msgstr ""
+
+msgctxt "668_Lily"
+msgid "Okay."
+msgstr ""
+
+msgctxt "680_Akiyama"
+msgid "Now, how about we enjoy this date?"
+msgstr ""
+
+msgctxt "692_Akiyama"
+msgid "Anywhere special you'd like to go?"
+msgstr ""
+
+msgctxt "704_Lily"
+msgid "Um... Can I ask you something first? Why are you being so nice to me?"
+msgstr ""
+
+msgctxt "716_Akiyama"
+msgid "Well, because you're worth it."
+msgstr ""
+
+msgctxt "728_Lily"
+msgid "I'm not sure I understand. This isn't part of the test, is it?"
+msgstr ""
+
+msgctxt "740_Akiyama"
+msgid "Not exactly... But hey, remember the date we were on earlier?"
+msgstr ""
+
+msgctxt "752_Akiyama"
+msgid "Let's just call this part two."
+msgstr ""
+
+msgctxt "764_Lily"
+msgid ""
+"So it <Italic>is</Italic> part of the test, then. And here I was ready to "
+"join you on an actual date."
+msgstr ""
+
+msgctxt "776_Akiyama"
+msgid ""
+"Look, it doesn't matter <Italic>what</Italic> it is. Just keep me company "
+"for a while, okay?"
+msgstr ""
+
+msgctxt "788_Akiyama"
+msgid "...Now that's settled, where do you want to go? Your pick."
+msgstr ""
+
+msgctxt "800_Lily"
+msgid "Hm, I get to choose?"
+msgstr ""
+
+msgctxt "812_Akiyama"
+msgid "Anywhere you want. Don't worry if you can't think of a place, though."
+msgstr ""
+
+msgctxt "824_Akiyama"
+msgid "I have plenty of spots we can stroll into if need be."
+msgstr ""
+
+msgctxt "836_Lily"
+msgid ""
+"Oh, well... There actually is somewhere I'd like to go. You're sure you "
+"don't mind?"
+msgstr ""
+
+msgctxt "848_Akiyama"
+msgid "Of course not. So, where to?"
+msgstr ""
+
+msgctxt "860_Lily"
+msgid ""
+"A bar I've heard about over in the Champion District. I think I'll "
+"recognize it once we get there."
+msgstr ""
+
+msgctxt "872_Akiyama"
+msgid "Yeah? All right, then. Let's go."
+msgstr ""

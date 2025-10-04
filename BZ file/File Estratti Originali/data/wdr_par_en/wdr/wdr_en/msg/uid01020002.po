@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1532"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1536"
+msgid "Player"
+msgstr ""
+
+msgctxt "164_Akiyama"
+msgid ""
+"(I can't be going back to the office right now. I need to find Midorikawa, "
+"and get back Kido-chan and the client list...)"
+msgstr ""
+
+msgctxt "176_Akiyama"
+msgid "(The girl we were training at Elise just disappeared.)"
+msgstr ""
+
+msgctxt "188_Akiyama"
+msgid ""
+"(I need to find her quickly. Where would she be... Maybe where we recruited "
+"her?)"
+msgstr ""
+
+msgctxt "200_Akiyama"
+msgid ""
+"(The manager's asked me to go scout for him. I've got to find some "
+"potential hostesses.)"
+msgstr ""
+
+msgctxt "212_Akiyama"
+msgid "(Or should I stop recruiting for the moment?)"
+msgstr ""
+
+msgctxt "224_Akiyama"
+msgid "(I'll stop for now.)"
+msgstr ""
+
+msgctxt "248_Akiyama"
+msgid "(No, I should keep looking.)"
+msgstr ""
+
+msgctxt "272_Player"
+msgid "(Looks like it's locked.)"
+msgstr ""
+
+msgctxt "284_Akiyama"
+msgid "Stop Recruiting"
+msgstr ""
+
+msgctxt "296_Akiyama"
+msgid "Continue Recruiting"
+msgstr ""

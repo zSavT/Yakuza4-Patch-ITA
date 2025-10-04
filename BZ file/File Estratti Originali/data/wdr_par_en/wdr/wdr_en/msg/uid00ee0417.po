@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "140"
+msgid "You got a <Color:8>Memo<Color:Default>."
+msgstr ""
+
+msgctxt "212"
+msgid "You gained 500 EXP."
+msgstr ""
+
+msgctxt "3196"
+msgid "Mysterious Old Man"
+msgstr ""
+
+msgctxt "3200"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "3204"
+msgid "Player"
+msgstr ""
+
+msgctxt "3208"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3212"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "3216"
+msgid "Komaki"
+msgstr ""
+
+msgctxt "3220"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "3224"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "3228"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3232"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "3236"
+msgid "Memos"
+msgstr ""
+
+msgctxt "56_Mysterious Old Man"
+msgid "You there... Halt."
+msgstr ""
+
+msgctxt "68_Player"
+msgid "What's cracking, old man?"
+msgstr ""
+
+msgctxt "80_Mysterious Old Man"
+msgid ""
+"My name is not \"old man.\" I am Sotaro Komaki, a master of the most "
+"esoteric martial arts known to man."
+msgstr ""
+
+msgctxt "92_Player"
+msgid "O...kay. And what do you want with me?"
+msgstr ""
+
+msgctxt "104_Komaki"
+msgid ""
+"Simply put, I can sense one's physical ability merely by observing the gait "
+"of their walk. And you, my suave friend, appear to be an especially "
+"promising specimen."
+msgstr ""
+
+msgctxt "116_Player"
+msgid ""
+"Hold up, you're not trying to get me to join some kinda kooky dojo, are "
+"you? That stuff's not really my style."
+msgstr ""
+
+msgctxt "128_Komaki"
+msgid "You needn't join anything. Take this."
+msgstr ""
+
+msgctxt "152_Mysterious Old Man"
+msgid ""
+"Read <Color:14>memos<Color:Default> by selecting "
+"<Color:14>Memos<Color:Default> in the Pause Menu. Access the Pause Menu "
+"with the <Action:Button_Options@Adventure> button.\r\n"
+"\r\n"
+"You will collect <Color:14>memos<Color:Default> as you progress through the "
+"story and interact with people in the city."
+msgstr ""
+
+msgctxt "164_Mysterious Old Man"
+msgid ""
+"<Color:14>Memos<Color:Default> cover a wide variety of topics, all of which "
+"will be useful for life in Kamurocho. Explore the city top to bottom to "
+"complete your <Color:14>memo<Color:Default> collection!"
+msgstr ""
+
+msgctxt "176_Mysterious Old Man"
+msgid ""
+"Any information you glean from these memos will not only grant you "
+"knowledge but worldly experience. Now go forth, and let your brain soak up "
+"information like the sponge it is!"
+msgstr ""
+
+msgctxt "188_Player"
+msgid "...Sure. Thanks, old man."
+msgstr ""

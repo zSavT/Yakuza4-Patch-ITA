@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "1016"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "13780"
+msgid "Himeka"
+msgstr ""
+
+msgctxt "13784"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13788"
+msgid "Player"
+msgstr ""
+
+msgctxt "13792"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "13796"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13800"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13804"
+msgid "0"
+msgstr ""
+
+msgctxt "13808"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13812"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "13816"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "116_Himeka"
+msgid "Yay, sushi! I wonder what I should eat?"
+msgstr ""
+
+msgctxt "128_Player"
+msgid "Let's go in and order."
+msgstr ""
+
+msgctxt "152_Himeka"
+msgid "Yay, sushi! I wonder what I should eat?"
+msgstr ""
+
+msgctxt "164_Player"
+msgid "Uh... Hold on a second. I just realized I'm short on cash."
+msgstr ""
+
+msgctxt "176_Himeka"
+msgid "Huh? You're kiddin', right?"
+msgstr ""
+
+msgctxt "188_Tanimura"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "200_Himeka"
+msgid "Well, that's the end of our date for today. See ya later, Tanimura-san..."
+msgstr ""
+
+msgctxt "212_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "320_Himeka"
+msgid "That was super delish sushi! I may have eaten a little too much, though. ♪"
+msgstr ""
+
+msgctxt "332_Tanimura"
+msgid "I'm glad you liked it."
+msgstr ""
+
+msgctxt "344_Himeka"
+msgid "Thanks for the meal, Tanimura-san!"
+msgstr ""
+
+msgctxt "356_Himeka"
+msgid "I had a great time today! Let's do this again sometime. See ya!"
+msgstr ""
+
+msgctxt "380_Himeka"
+msgid "Thanks for the meal. The food was... okay, I guess. I've had better."
+msgstr ""
+
+msgctxt "392_Tanimura"
+msgid "Sorry to hear that..."
+msgstr ""
+
+msgctxt "404_Himeka"
+msgid "I still had a great time today. See ya!"
+msgstr ""
+
+msgctxt "428_Himeka"
+msgid "......"
+msgstr ""
+
+msgctxt "440_Tanimura"
+msgid "Is something wrong?"
+msgstr ""
+
+msgctxt "452_Himeka"
+msgid "Nothin'... There was just somethin' that I wasn't so fond of..."
+msgstr ""
+
+msgctxt "464_Tanimura"
+msgid "So that's what it was..."
+msgstr ""
+
+msgctxt "476_Himeka"
+msgid "I think I'm headed home. See you at the club..."
+msgstr ""
+
+msgctxt "488_Tanimura"
+msgid "(I shouldn't have ordered something she doesn't like...)"
+msgstr ""
+
+msgctxt "596_Himeka"
+msgid "Yay, sushi! I wonder what I should eat?"
+msgstr ""
+
+msgctxt "608_Player"
+msgid "Well, let's go in."
+msgstr ""
+
+msgctxt "632_Himeka"
+msgid "Yay, sushi! I wonder what I should eat?"
+msgstr ""
+
+msgctxt "644_Player"
+msgid "Uh... Hold on a second. I just realized I'm short on cash."
+msgstr ""
+
+msgctxt "656_Himeka"
+msgid "Huh? You're kiddin', right?"
+msgstr ""
+
+msgctxt "668_Tanimura"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "680_Himeka"
+msgid "Well, that's the end of our date for today. See ya later, Tanimura-san..."
+msgstr ""
+
+msgctxt "692_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "800_Himeka"
+msgid "That was super delish sushi! I may have eaten a little too much, though."
+msgstr ""
+
+msgctxt "812_Tanimura"
+msgid "I'm glad you liked it."
+msgstr ""
+
+msgctxt "824_Himeka"
+msgid "Thanks for the meal, Tanimura-san!"
+msgstr ""
+
+msgctxt "836_Himeka"
+msgid "I had a great time today! Wanna head over to the club now?"
+msgstr ""
+
+msgctxt "848_Tanimura"
+msgid "Sure. Sounds good."
+msgstr ""
+
+msgctxt "872_Himeka"
+msgid "Thanks for the meal. The food was... okay, I guess. I've had better."
+msgstr ""
+
+msgctxt "884_Tanimura"
+msgid "Sorry to hear that..."
+msgstr ""
+
+msgctxt "896_Himeka"
+msgid "I still had a great time today. Wanna head over to the club now?"
+msgstr ""
+
+msgctxt "908_Tanimura"
+msgid "Sure. Sounds good."
+msgstr ""
+
+msgctxt "932_Himeka"
+msgid "......"
+msgstr ""
+
+msgctxt "944_Tanimura"
+msgid "Is something wrong?"
+msgstr ""
+
+msgctxt "956_Himeka"
+msgid "Nothin'... There was just somethin' that I wasn't so fond of..."
+msgstr ""
+
+msgctxt "968_Tanimura"
+msgid "So that's what it was..."
+msgstr ""
+
+msgctxt "980_Himeka"
+msgid "Should we head to the club now?"
+msgstr ""
+
+msgctxt "992_Player"
+msgid "(I shouldn't have ordered something she doesn't like...)"
+msgstr ""

@@ -1,0 +1,6301 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "18456"
+msgid "Here you are!"
+msgstr ""
+
+msgctxt "18936"
+msgid "Thank you for coming!"
+msgstr ""
+
+msgctxt "19152"
+msgid "Please come again!"
+msgstr ""
+
+msgctxt "19320"
+msgid "I see... Well, if you do hear something, be sure to let me know."
+msgstr ""
+
+msgctxt "247964"
+msgid "Shizuka"
+msgstr ""
+
+msgctxt "247968"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "247972"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "247976"
+msgid "P_sitsofaR_tlk_quest"
+msgstr ""
+
+msgctxt "247980"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "247984"
+msgid "P_sitsofaR_tlk_yes"
+msgstr ""
+
+msgctxt "247988"
+msgid "P_sitsofaR_tlk_smile"
+msgstr ""
+
+msgctxt "247992"
+msgid "F_cab_sitsofa_sp1_sync_yop"
+msgstr ""
+
+msgctxt "247996"
+msgid "P_sitsofaR_tlk_no"
+msgstr ""
+
+msgctxt "248000"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "248004"
+msgid "P_sitsofaR_tlk_comment"
+msgstr ""
+
+msgctxt "248008"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""
+
+msgctxt "248012"
+msgid "P_sitsofaR_tlk_think"
+msgstr ""
+
+msgctxt "248016"
+msgid "F_cab_sitsofa_sp6_sync_kami"
+msgstr ""
+
+msgctxt "248020"
+msgid "F_cab_sitsofa_sp2_sync_hiza"
+msgstr ""
+
+msgctxt "248024"
+msgid "F_cab_sitsofa_tlk_thinkA"
+msgstr ""
+
+msgctxt "248028"
+msgid "F_cab_sitsofa_tlk_gakkariA"
+msgstr ""
+
+msgctxt "248032"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr ""
+
+msgctxt "248036"
+msgid "P_sitsofaR_tlk_ase"
+msgstr ""
+
+msgctxt "248040"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "248044"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr ""
+
+msgctxt "248048"
+msgid "F_cab_sitsofa_tlk_commentA"
+msgstr ""
+
+msgctxt "248052"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr ""
+
+msgctxt "248056"
+msgid "P_sitsofaR_tlk_surp"
+msgstr ""
+
+msgctxt "248060"
+msgid "F_cab_sitsofa_tlk_ojigiA"
+msgstr ""
+
+msgctxt "248064"
+msgid "P_sitsofaR_tlk_angry"
+msgstr ""
+
+msgctxt "248068"
+msgid "F_cab_sitsofa_tlk_refuse"
+msgstr ""
+
+msgctxt "248072"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "248076"
+msgid "F_cab_sitsofa_tlk_akubi"
+msgstr ""
+
+msgctxt "248080"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr ""
+
+msgctxt "248084"
+msgid "Player"
+msgstr ""
+
+msgctxt "248088"
+msgid "F_cab_sitsofa_sync_order"
+msgstr ""
+
+msgctxt "248092"
+msgid "M_shp_sitgrd_sync_order"
+msgstr ""
+
+msgctxt "248096"
+msgid "Attendant"
+msgstr ""
+
+msgctxt "248100"
+msgid "2d_cf_meishi_saito00"
+msgstr ""
+
+msgctxt "248104"
+msgid "2d_cf_meishi_saito01"
+msgstr ""
+
+msgctxt "248108"
+msgid "F_cab_stand_tlk_byeB"
+msgstr ""
+
+msgctxt "248112"
+msgid "F_cab_stand_sp13_sync_yubi_st"
+msgstr ""
+
+msgctxt "248116"
+msgid "P_stand_sp13_sync_yubi_st"
+msgstr ""
+
+msgctxt "248120"
+msgid "F_cab_stand_sp15_sync_yubi_ed"
+msgstr ""
+
+msgctxt "248124"
+msgid "P_stand_sp15_sync_yubi_ed"
+msgstr ""
+
+msgctxt "248128"
+msgid "F_cab_stand_sync_byeC_st"
+msgstr ""
+
+msgctxt "248132"
+msgid "P_stand_sync_byeC_st"
+msgstr ""
+
+msgctxt "248136"
+msgid "F_cab_stand_sync_byeC_ed"
+msgstr ""
+
+msgctxt "248140"
+msgid "P_stand_sync_byeC_ed"
+msgstr ""
+
+msgctxt "248144"
+msgid "F_cab_stand_sp11_sync_mimi_st"
+msgstr ""
+
+msgctxt "248148"
+msgid "P_stand_sp11_sync_mimi_st"
+msgstr ""
+
+msgctxt "248152"
+msgid "F_cab_stand_sp11_sync_mimi_ed"
+msgstr ""
+
+msgctxt "248156"
+msgid "P_stand_sp11_sync_mimi_ed"
+msgstr ""
+
+msgctxt "248160"
+msgid "F_cab_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "248164"
+msgid "P_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "248168"
+msgid "F_cab_stand_sync_dakiA_ed"
+msgstr ""
+
+msgctxt "248172"
+msgid "P_stand_sync_dakiA_ed"
+msgstr ""
+
+msgctxt "248176"
+msgid "F_cab_stand_tlk_ojigi_02"
+msgstr ""
+
+msgctxt "248180"
+msgid "F_cab_sitsofa_tlk_appealA"
+msgstr ""
+
+msgctxt "4080_Shizuka"
+msgid ""
+"I ate some fish today, and I was able to eat it neatly without making a "
+"mess."
+msgstr ""
+
+msgctxt "4092_Kiryu"
+msgid "Fish?"
+msgstr ""
+
+msgctxt "4104_Shizuka"
+msgid ""
+"Whenever I'm able to do that, it really makes me feel like things are going "
+"my way. Like I can take on the world!"
+msgstr ""
+
+msgctxt "4116_Kiryu"
+msgid "So did things go your way?"
+msgstr ""
+
+msgctxt "4128_Shizuka"
+msgid "Yes. I got to see you, sir!"
+msgstr ""
+
+msgctxt "4140_Kiryu"
+msgid "Heh. Why is that a good thing?"
+msgstr ""
+
+msgctxt "4152_Shizuka"
+msgid ""
+"I know we only met for the first time the other day, but I feel like I've "
+"known you for a long time. I was hoping you'd come back."
+msgstr ""
+
+msgctxt "4164_Kiryu"
+msgid ""
+"I've never heard of fortune telling with fish. That's a little unusual, "
+"don't you think?"
+msgstr ""
+
+msgctxt "4176_Shizuka"
+msgid "Well, don't you feel good when you eat a fish like that?"
+msgstr ""
+
+msgctxt "4188_Kiryu"
+msgid ""
+"I guess if you always try to eat your fish neatly, things will go your way "
+"every day."
+msgstr ""
+
+msgctxt "4200_Shizuka"
+msgid ""
+"You're right. Besides, you're eating something that was once alive, so it's "
+"only respectful to try and eat it neatly every time."
+msgstr ""
+
+msgctxt "4212_Kiryu"
+msgid "Yeah, you have a point. Maybe I'll give it a try myself."
+msgstr ""
+
+msgctxt "4224_Shizuka"
+msgid "Hehe. Please tell me if something good does happen to you."
+msgstr ""
+
+msgctxt "4236_Kiryu"
+msgid "Does that mean you think I'm old?"
+msgstr ""
+
+msgctxt "4248_Shizuka"
+msgid ""
+"No, that's not what I meant. There's just something about you. You remind "
+"me of someone I used to know."
+msgstr ""
+
+msgctxt "4260_Shizuka"
+msgid ""
+"My apologies. I know I'm not great at explaining. I hope I didn't upset "
+"you..."
+msgstr ""
+
+msgctxt "4272_Kiryu"
+msgid ""
+"Don't worry about it. I think it's the first time that someone's told me I "
+"remind them of someone they used to know."
+msgstr ""
+
+msgctxt "4284_Shizuka"
+msgid ""
+"Oh, really? You just seem so familiar. That's why I feel so comfortable "
+"just being with you."
+msgstr ""
+
+msgctxt "4296_Kiryu"
+msgid "I see..."
+msgstr ""
+
+msgctxt "4308_Kiryu"
+msgid ""
+"Do I live up to your expectations? If I'm not the man who you think I am, "
+"won't you be disappointed?"
+msgstr ""
+
+msgctxt "4320_Shizuka"
+msgid ""
+"No, that won't happen, sir. You have plenty of good qualities that are "
+"unique to you."
+msgstr ""
+
+msgctxt "4332_Kiryu"
+msgid "Really?"
+msgstr ""
+
+msgctxt "4344_Shizuka"
+msgid "Yes. So please don't worry about that, sir."
+msgstr ""
+
+msgctxt "4356_Kiryu"
+msgid "Heh. You know, talking to you like this is pretty comforting."
+msgstr ""
+
+msgctxt "4368_Shizuka"
+msgid "Hehehe. Then I hope you'll take it easy today. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4380_Shizuka"
+msgid "Um... May I ask what kind of work you do, sir?"
+msgstr ""
+
+msgctxt "4392_Kiryu"
+msgid ""
+"Sure. I run an orphanage in Okinawa. I live with a group of kids who've "
+"lost their parents."
+msgstr ""
+
+msgctxt "4404_Shizuka"
+msgid "That's wonderful! But it does sound like it's a difficult line of work."
+msgstr ""
+
+msgctxt "4416_Kiryu"
+msgid "Heh. And what about you? Do you do anything besides this?"
+msgstr ""
+
+msgctxt "4428_Shizuka"
+msgid "Yes, I have another job during the day."
+msgstr ""
+
+msgctxt "4440_Shizuka"
+msgid "Have you heard of... embalming?"
+msgstr ""
+
+msgctxt "4452_Kiryu"
+msgid "Embalming? What sort of job is that, exactly?"
+msgstr ""
+
+msgctxt "4464_Shizuka"
+msgid ""
+"It's a process where you make someone who died from an accident or sickness "
+"appear as they were before they died."
+msgstr ""
+
+msgctxt "4476_Shizuka"
+msgid ""
+"In other words, embalmers help family members say their final farewells to "
+"the deceased."
+msgstr ""
+
+msgctxt "4488_Kiryu"
+msgid "So that's your day job?"
+msgstr ""
+
+msgctxt "4500_Shizuka"
+msgid "Yes. Well, I don't have my license yet, so I'm not officially an embalmer."
+msgstr ""
+
+msgctxt "4512_Kiryu"
+msgid "So you're studying to get your license?"
+msgstr ""
+
+msgctxt "4524_Shizuka"
+msgid ""
+"Yes. I'm getting to assist in the embalming process with an embalmer while "
+"studying."
+msgstr ""
+
+msgctxt "4536_Shizuka"
+msgid ""
+"I've still got a lot to learn, so I'll have to work very hard to get my "
+"license."
+msgstr ""
+
+msgctxt "4548_Kiryu"
+msgid "I see... It sounds like you're working hard."
+msgstr ""
+
+msgctxt "4560_Shizuka"
+msgid ""
+"Yes I am. Unfortunately, Japan's embalming science is behind the rest of "
+"the world."
+msgstr ""
+
+msgctxt "4572_Shizuka"
+msgid "That's why I'm thinking about getting my license overseas."
+msgstr ""
+
+msgctxt "4584_Kiryu"
+msgid "Wow. Well, I'll be on the sidelines cheering you on."
+msgstr ""
+
+msgctxt "4596_Shizuka"
+msgid "I'm really happy to hear you say that! I'll do my best!"
+msgstr ""
+
+msgctxt "4608_Kiryu"
+msgid "I didn't know a job like that existed."
+msgstr ""
+
+msgctxt "4620_Shizuka"
+msgid "Yeah, there are many who don't know about it. It's a bit unfortunate."
+msgstr ""
+
+msgctxt "4632_Kiryu"
+msgid "Sorry about that."
+msgstr ""
+
+msgctxt "4644_Shizuka"
+msgid ""
+"Oh no, don't worry about it. Compared to other countries, embalming isn't "
+"very widely known in Japan."
+msgstr ""
+
+msgctxt "4656_Kiryu"
+msgid "Is it common in other countries?"
+msgstr ""
+
+msgctxt "4668_Shizuka"
+msgid ""
+"Yes. Unlike in Japan, embalming is much more accepted overseas, especially "
+"in America."
+msgstr ""
+
+msgctxt "4680_Shizuka"
+msgid ""
+"Japan's license doesn't cover all the bases, so I'd like to get another "
+"license overseas."
+msgstr ""
+
+msgctxt "4692_Kiryu"
+msgid "I'm starting to understand... Seems pretty tough."
+msgstr ""
+
+msgctxt "4704_Kiryu"
+msgid "I think that's a respectable job. It's not one that just anyone can do."
+msgstr ""
+
+msgctxt "4716_Shizuka"
+msgid "Thank you for saying that."
+msgstr ""
+
+msgctxt "4728_Shizuka"
+msgid ""
+"Embalming isn't very well-known in Japan. Some people aren't very "
+"comfortable with the idea of altering someone's body after death."
+msgstr ""
+
+msgctxt "4740_Kiryu"
+msgid "I see."
+msgstr ""
+
+msgctxt "4752_Shizuka"
+msgid "So I'm happy that you understand, sir."
+msgstr ""
+
+msgctxt "4764_Shizuka"
+msgid "I hope to get my license soon so I can start work as a real embalmer."
+msgstr ""
+
+msgctxt "4776_Kiryu"
+msgid "Well, good luck."
+msgstr ""
+
+msgctxt "4788_Shizuka"
+msgid "Yes! Thank you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4800_Kiryu"
+msgid "It must be tough working two jobs. How are you holding up?"
+msgstr ""
+
+msgctxt "4812_Shizuka"
+msgid ""
+"It certainly is. But my mother does help me out, and I don't work days and "
+"evenings every day..."
+msgstr ""
+
+msgctxt "4824_Kiryu"
+msgid "I see... But that doesn't change that it's a tough job, right?"
+msgstr ""
+
+msgctxt "4836_Shizuka"
+msgid ""
+"Yes. You know, embalmers only get to meet the deceased client after they've "
+"received an embalming request from the family."
+msgstr ""
+
+msgctxt "4848_Shizuka"
+msgid ""
+"I suppose the same is true with people who work in funeral homes, but I've "
+"always thought that it's an unusual profession."
+msgstr ""
+
+msgctxt "4860_Kiryu"
+msgid "Yeah, I'm sure you don't know most of the clients when they're alive."
+msgstr ""
+
+msgctxt "4872_Shizuka"
+msgid "Many things go through my mind when I first see our \"clients.\""
+msgstr ""
+
+msgctxt "4884_Shizuka"
+msgid "I wonder about the lives they led and their thoughts..."
+msgstr ""
+
+msgctxt "4896_Shizuka"
+msgid "My mind is full of thoughts like that as I do my work."
+msgstr ""
+
+msgctxt "4908_Kiryu"
+msgid ""
+"I'm sure their family would appreciate that. You have to trust someone to "
+"take care of the remains of a loved one, after all."
+msgstr ""
+
+msgctxt "4920_Shizuka"
+msgid "I wish that were always true."
+msgstr ""
+
+msgctxt "4932_Kiryu"
+msgid "Am I wrong?"
+msgstr ""
+
+msgctxt "4944_Shizuka"
+msgid ""
+"Unfortunately, there are times when the family of the deceased aren't happy "
+"with the results of the embalming."
+msgstr ""
+
+msgctxt "4956_Kiryu"
+msgid "Why's that?"
+msgstr ""
+
+msgctxt "4968_Shizuka"
+msgid ""
+"Well, this is a sensitive subject, but there are limits to what the "
+"embalmer can do if the body is injured or damaged."
+msgstr ""
+
+msgctxt "4980_Shizuka"
+msgid ""
+"Naturally, every family has an image of their loved ones as they were in "
+"life, and we can't always live up to that."
+msgstr ""
+
+msgctxt "4992_Kiryu"
+msgid "Right... You can't always make them look like they did when they were alive."
+msgstr ""
+
+msgctxt "5004_Shizuka"
+msgid ""
+"Yes. It's those times that remind me of how limited our skills really are. "
+"It's such a shame."
+msgstr ""
+
+msgctxt "5016_Kiryu"
+msgid ""
+"You shouldn't feel that way. After all, you're making them look better than "
+"they would if you hadn't done anything, right?"
+msgstr ""
+
+msgctxt "5028_Shizuka"
+msgid "Thank you so much. Hearing you say that gives me confidence in my work."
+msgstr ""
+
+msgctxt "5040_Kiryu"
+msgid "Do you ever make mistakes?"
+msgstr ""
+
+msgctxt "5052_Shizuka"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "5064_Kiryu"
+msgid ""
+"I mean, do you ever find that you can't get the deceased to look like they "
+"used to?"
+msgstr ""
+
+msgctxt "5076_Shizuka"
+msgid "......"
+msgstr ""
+
+msgctxt "5088_Kiryu"
+msgid "Sorry, I didn't mean to upset you. I guess that wasn't a great thing to ask."
+msgstr ""
+
+msgctxt "5100_Shizuka"
+msgid "Oh, no... In reality, there's a limit to what's possible with embalming."
+msgstr ""
+
+msgctxt "5112_Shizuka"
+msgid ""
+"Sometimes if the body has been severely injured or decomposed, it's not "
+"possible to prepare the deceased to the family's expectations."
+msgstr ""
+
+msgctxt "5124_Kiryu"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "5136_Shizuka"
+msgid ""
+"I always do my best to help the family through their time of sorrow, but "
+"when something like that happens, I really feel helpless."
+msgstr ""
+
+msgctxt "5148_Kiryu"
+msgid ""
+"You shouldn't feel that way. Our society needs to understand the limits of "
+"embalming."
+msgstr ""
+
+msgctxt "5160_Shizuka"
+msgid ""
+"You're right. It would be great if the understanding of embalming became "
+"more widespread in Japan."
+msgstr ""
+
+msgctxt "5172_Kiryu"
+msgid "I'm sure the deceased would appreciate that."
+msgstr ""
+
+msgctxt "5184_Shizuka"
+msgid ""
+"Yes, I'd like to think the deceased would be happy with the service we "
+"provide."
+msgstr ""
+
+msgctxt "5196_Kiryu"
+msgid "I'm sure they do."
+msgstr ""
+
+msgctxt "5208_Shizuka"
+msgid ""
+"But depending on the condition of the body, we aren't always able to make "
+"them appear as they did in life."
+msgstr ""
+
+msgctxt "5220_Kiryu"
+msgid ""
+"Even so, I'm sure they'd appreciate how hard you work to make them look "
+"better."
+msgstr ""
+
+msgctxt "5232_Kiryu"
+msgid ""
+"If you were just going through the motions without caring about your work, "
+"I'm sure the deceased wouldn't be happy even if the results were good."
+msgstr ""
+
+msgctxt "5244_Shizuka"
+msgid "Hehehe. When you say it like that, I feel a little better, sir."
+msgstr ""
+
+msgctxt "5256_Kiryu"
+msgid "Glad to hear it."
+msgstr ""
+
+msgctxt "5280_Shizuka"
+msgid "Um... Can I ask you something?"
+msgstr ""
+
+msgctxt "5292_Kiryu"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "5304_Shizuka"
+msgid "Are you married, sir?"
+msgstr ""
+
+msgctxt "5316_Kiryu"
+msgid "No, I'm single."
+msgstr ""
+
+msgctxt "5328_Shizuka"
+msgid "Are you... seeing anyone?"
+msgstr ""
+
+msgctxt "5340_Kiryu"
+msgid "Heh. Why do you ask?"
+msgstr ""
+
+msgctxt "5352_Shizuka"
+msgid "Oh, it's nothing. I just..."
+msgstr ""
+
+msgctxt "5364_Shizuka"
+msgid "Well, I was just curious."
+msgstr ""
+
+msgctxt "5376_Kiryu"
+msgid "How about you? Do you have a boyfriend?"
+msgstr ""
+
+msgctxt "5388_Shizuka"
+msgid "I haven't been blessed with a gentleman who would accept someone like me."
+msgstr ""
+
+msgctxt "5400_Kiryu"
+msgid "That's a little hard to believe."
+msgstr ""
+
+msgctxt "5412_Shizuka"
+msgid "No, it's true."
+msgstr ""
+
+msgctxt "5424_Kiryu"
+msgid "Well, what's your type of man?"
+msgstr ""
+
+msgctxt "5436_Shizuka"
+msgid "Well... I prefer a man who is able to take on a man's responsibilities."
+msgstr ""
+
+msgctxt "5448_Kiryu"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "5460_Shizuka"
+msgid ""
+"Women these days are so independent. Men sometimes treat women just like "
+"they treat other men."
+msgstr ""
+
+msgctxt "5472_Shizuka"
+msgid ""
+"But I think both a man and a woman have their roles in a relationship. If "
+"they can help each other in their respective ways and share their lives..."
+msgstr ""
+
+msgctxt "5484_Shizuka"
+msgid "I hope to find someone like that."
+msgstr ""
+
+msgctxt "5496_Kiryu"
+msgid "You don't hear many women say that these days."
+msgstr ""
+
+msgctxt "5508_Shizuka"
+msgid "Do you think it's strange?"
+msgstr ""
+
+msgctxt "5520_Kiryu"
+msgid "No. There's nothing wrong with that."
+msgstr ""
+
+msgctxt "5532_Shizuka"
+msgid "I'm glad. Lots of people think I'm strange."
+msgstr ""
+
+msgctxt "5544_Shizuka"
+msgid ""
+"It's rare these days for young women to say things like this, so I was "
+"worried about what you might think."
+msgstr ""
+
+msgctxt "5556_Kiryu"
+msgid ""
+"I like people who have their own ideals without being influenced by what "
+"they see on TV or read in magazines."
+msgstr ""
+
+msgctxt "5568_Shizuka"
+msgid "I get the impression that you're a man with your own set of ideals too, sir."
+msgstr ""
+
+msgctxt "5580_Shizuka"
+msgid "I think that's really admirable."
+msgstr ""
+
+msgctxt "5592_Kiryu"
+msgid "I agree. The man should take the lead in a relationship."
+msgstr ""
+
+msgctxt "5604_Shizuka"
+msgid "Really?"
+msgstr ""
+
+msgctxt "5616_Kiryu"
+msgid ""
+"Yeah. Men and women are different. It's impossible to treat women just like "
+"men."
+msgstr ""
+
+msgctxt "5628_Shizuka"
+msgid "Oh good. I'm glad you agree with me, sir."
+msgstr ""
+
+msgctxt "5640_Kiryu"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "5652_Shizuka"
+msgid ""
+"Many women are independent these days, but I think there are aspects of a "
+"woman's happiness that are dependent on a man."
+msgstr ""
+
+msgctxt "5664_Kiryu"
+msgid "I agree."
+msgstr ""
+
+msgctxt "5676_Kiryu"
+msgid ""
+"Isn't that kind of old-fashioned? Most people seem to think that men and "
+"women should be treated equally these days."
+msgstr ""
+
+msgctxt "5688_Shizuka"
+msgid ""
+"Oh... I guess I really am different than most. I've been called "
+"old-fashioned by others, too..."
+msgstr ""
+
+msgctxt "5700_Kiryu"
+msgid "Don't get me wrong. I'm not saying I disagree."
+msgstr ""
+
+msgctxt "5712_Shizuka"
+msgid "Really...? Are you sure you're not just saying that for my sake?"
+msgstr ""
+
+msgctxt "5724_Kiryu"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "5736_Shizuka"
+msgid "I mean, are you not just saying that just to make me feel better?"
+msgstr ""
+
+msgctxt "5748_Kiryu"
+msgid ""
+"You worry too much. I don't change my opinion to cater to someone's "
+"feelings."
+msgstr ""
+
+msgctxt "5760_Shizuka"
+msgid ""
+"I see. I'm sorry if I offended you. Maybe I shouldn't take things too "
+"seriously."
+msgstr ""
+
+msgctxt "5772_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "5796_Shizuka"
+msgid "Business was a bit slow earlier, so the girls and I got to talking."
+msgstr ""
+
+msgctxt "5808_Shizuka"
+msgid ""
+"Everybody brought up different ways to attract a man. It was really "
+"interesting."
+msgstr ""
+
+msgctxt "5820_Kiryu"
+msgid "Oh? Like what?"
+msgstr ""
+
+msgctxt "5832_Shizuka"
+msgid ""
+"Well... One girl said she would always wipe the table after eating, and "
+"another said she'd get really excited and act cute when she saw a puppy."
+msgstr ""
+
+msgctxt "5844_Shizuka"
+msgid ""
+"Another girl said she'd join arms with a man and press her chest up against "
+"him or compliment him."
+msgstr ""
+
+msgctxt "5856_Kiryu"
+msgid "I see. Sounds like pretty normal stuff."
+msgstr ""
+
+msgctxt "5868_Shizuka"
+msgid ""
+"But one girl said she would purposely trip in front of a man. I thought "
+"that was funny."
+msgstr ""
+
+msgctxt "5880_Kiryu"
+msgid "Heh... I guess women have all sorts of tricks up their sleeves."
+msgstr ""
+
+msgctxt "5892_Kiryu"
+msgid "What about you?"
+msgstr ""
+
+msgctxt "5904_Shizuka"
+msgid ""
+"Me? Well, my style is a little different. I tend to pursue instead of "
+"attract..."
+msgstr ""
+
+msgctxt "5916_Kiryu"
+msgid "Pursue?"
+msgstr ""
+
+msgctxt "5928_Shizuka"
+msgid "Yes. For example, I would offer to wash a man's back."
+msgstr ""
+
+msgctxt "5940_Kiryu"
+msgid ""
+"Um... What do you mean by that? Sounds like you want to take a bath with "
+"him."
+msgstr ""
+
+msgctxt "5952_Shizuka"
+msgid "Yes, I mean to enter the bath with him and wash his back."
+msgstr ""
+
+msgctxt "5964_Kiryu"
+msgid "Before you're dating each other?"
+msgstr ""
+
+msgctxt "5976_Shizuka"
+msgid "So I guess that does scare you, huh?"
+msgstr ""
+
+msgctxt "5988_Kiryu"
+msgid "No, that's not it. Just surprised, is all."
+msgstr ""
+
+msgctxt "6000_Shizuka"
+msgid ""
+"No, you're right. I've come to realize that you can't go around saying "
+"things like that..."
+msgstr ""
+
+msgctxt "6012_Kiryu"
+msgid "Well, that's a little unfortunate..."
+msgstr ""
+
+msgctxt "6024_Shizuka"
+msgid "Hm? What did you say?"
+msgstr ""
+
+msgctxt "6036_Kiryu"
+msgid "Oh, nothing."
+msgstr ""
+
+msgctxt "6048_Kiryu"
+msgid "Isn't that a bit aggressive? Shouldn't you wait until you're going out?"
+msgstr ""
+
+msgctxt "6060_Shizuka"
+msgid "I'm sorry... I hadn't realized that until recently."
+msgstr ""
+
+msgctxt "6072_Kiryu"
+msgid "So you actually pursued men in that way?"
+msgstr ""
+
+msgctxt "6084_Shizuka"
+msgid "Yes. And everyone was scared off by it..."
+msgstr ""
+
+msgctxt "6096_Kiryu"
+msgid "Yeah, I can imagine."
+msgstr ""
+
+msgctxt "6108_Shizuka"
+msgid ""
+"But don't worry. I've been studying the best ways to date men by reading "
+"manga. I'll be fine now."
+msgstr ""
+
+msgctxt "6120_Kiryu"
+msgid "By reading manga? So what do you do now?"
+msgstr ""
+
+msgctxt "6132_Shizuka"
+msgid "Well, I'm thinking I'll start off with holding hands."
+msgstr ""
+
+msgctxt "6144_Kiryu"
+msgid "Yeah, that's pretty normal."
+msgstr ""
+
+msgctxt "6156_Kiryu"
+msgid "And what do they say?"
+msgstr ""
+
+msgctxt "6168_Shizuka"
+msgid "Well... They didn't seem to like it. Actually, I think I scared them off."
+msgstr ""
+
+msgctxt "6180_Kiryu"
+msgid "So why do you feel you want to wash men's backs?"
+msgstr ""
+
+msgctxt "6192_Shizuka"
+msgid ""
+"To tell you the truth, I'm not so sure myself. But I might have been "
+"influenced by something I saw on TV."
+msgstr ""
+
+msgctxt "6204_Shizuka"
+msgid "My intent is only to help them to relax and forget their troubles."
+msgstr ""
+
+msgctxt "6216_Kiryu"
+msgid "I see. Well, that's a nice thought anyway."
+msgstr ""
+
+msgctxt "6228_Shizuka"
+msgid "Really?"
+msgstr ""
+
+msgctxt "6240_Kiryu"
+msgid "Sure."
+msgstr ""
+
+msgctxt "6252_Shizuka"
+msgid "I'm glad you understand my point of view."
+msgstr ""
+
+msgctxt "6264_Kiryu"
+msgid ""
+"But offering to wash someone's back might be going a bit too far. How about "
+"just a back rub?"
+msgstr ""
+
+msgctxt "6276_Shizuka"
+msgid "Yes, that's true. Maybe I'll try that next time."
+msgstr ""
+
+msgctxt "6300_Shizuka"
+msgid "Do you go to karaoke, sir?"
+msgstr ""
+
+msgctxt "6312_Kiryu"
+msgid "Sometimes."
+msgstr ""
+
+msgctxt "6324_Shizuka"
+msgid "What kind of songs do you like to sing?"
+msgstr ""
+
+msgctxt "6336_Kiryu"
+msgid "Well... I guess I usually choose enka, the traditional Japanese ballads."
+msgstr ""
+
+msgctxt "6348_Shizuka"
+msgid "I sing those a lot, too. And maybe some old classics."
+msgstr ""
+
+msgctxt "6360_Kiryu"
+msgid "Don't you sing any pop songs?"
+msgstr ""
+
+msgctxt "6372_Shizuka"
+msgid ""
+"Everybody asks me that question. I think I'm giving people the wrong "
+"impression of me..."
+msgstr ""
+
+msgctxt "6384_Shizuka"
+msgid "They say that I'm lying about my age."
+msgstr ""
+
+msgctxt "6396_Kiryu"
+msgid "Heh. What do you mean?"
+msgstr ""
+
+msgctxt "6408_Shizuka"
+msgid ""
+"Oh, I think it's just because I only sing songs that older people like and "
+"never pop songs."
+msgstr ""
+
+msgctxt "6420_Kiryu"
+msgid "I see."
+msgstr ""
+
+msgctxt "6432_Kiryu"
+msgid ""
+"It sounds like we have similar tastes. I don't mind if you only sing "
+"ballads and the classics."
+msgstr ""
+
+msgctxt "6444_Shizuka"
+msgid ""
+"Really? I'd love to go to karaoke with someone like that. I could relax "
+"then."
+msgstr ""
+
+msgctxt "6456_Kiryu"
+msgid "Relax? Do you normally stress out when you go to karaoke?"
+msgstr ""
+
+msgctxt "6468_Shizuka"
+msgid "Yes. I always get nervous when I go with people close to my age or younger."
+msgstr ""
+
+msgctxt "6480_Kiryu"
+msgid "Well, when we go together, you can feel free to sing whatever you like."
+msgstr ""
+
+msgctxt "6492_Shizuka"
+msgid "That sounds nice! ♪"
+msgstr ""
+
+msgctxt "6504_Kiryu"
+msgid "How old are you, anyway?"
+msgstr ""
+
+msgctxt "6516_Shizuka"
+msgid "Huh? Are you doubting me too, sir?"
+msgstr ""
+
+msgctxt "6528_Kiryu"
+msgid "I'm just joking. I don't doubt you at all."
+msgstr ""
+
+msgctxt "6540_Shizuka"
+msgid "Oh... Okay then. That makes me feel a little better."
+msgstr ""
+
+msgctxt "6552_Kiryu"
+msgid "You're certainly unique."
+msgstr ""
+
+msgctxt "6564_Shizuka"
+msgid "Yes, I guess I am. I get that quite a lot."
+msgstr ""
+
+msgctxt "6576_Shizuka"
+msgid "That said, I hope you'll forgive me if I say something strange."
+msgstr ""
+
+msgctxt "6588_Kiryu"
+msgid "Heh, don't worry."
+msgstr ""
+
+msgctxt "6600_Kiryu"
+msgid ""
+"What about when you go out with your friends? You must go to karaoke with "
+"people your own age from time to time, right?"
+msgstr ""
+
+msgctxt "6612_Shizuka"
+msgid "I always get really nervous when I do."
+msgstr ""
+
+msgctxt "6624_Shizuka"
+msgid "But I can't just go and not sing, so I always end up singing enka."
+msgstr ""
+
+msgctxt "6636_Kiryu"
+msgid "So you don't match what everyone else is doing, huh?"
+msgstr ""
+
+msgctxt "6648_Shizuka"
+msgid ""
+"I've never been very good at doing that. If I could sing the popular songs, "
+"I would, but..."
+msgstr ""
+
+msgctxt "6660_Kiryu"
+msgid ""
+"Well, karaoke is best when you're singing songs you like. Forcing others to "
+"accept your musical preferences is not my kind of thing."
+msgstr ""
+
+msgctxt "6672_Shizuka"
+msgid "Hehehe. You're so generous, sir. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6696_Shizuka"
+msgid "I... I often get fooled by men."
+msgstr ""
+
+msgctxt "6708_Kiryu"
+msgid "Fooled? What do you mean?"
+msgstr ""
+
+msgctxt "6720_Shizuka"
+msgid ""
+"For example, I was supposed to go driving with a man I was thinking about "
+"dating a while ago."
+msgstr ""
+
+msgctxt "6732_Shizuka"
+msgid ""
+"But when I opened the door to get into his car, I saw something shocking in "
+"the back seat."
+msgstr ""
+
+msgctxt "6744_Kiryu"
+msgid "What was it?"
+msgstr ""
+
+msgctxt "6756_Shizuka"
+msgid "A cute little child safety seat."
+msgstr ""
+
+msgctxt "6768_Kiryu"
+msgid "So he had a kid. I take it he wasn't divorced or anything. He was married?"
+msgstr ""
+
+msgctxt "6780_Shizuka"
+msgid "Yes. It was exactly how I expected..."
+msgstr ""
+
+msgctxt "6792_Shizuka"
+msgid "I was so angry that he didn't try to hide it from me."
+msgstr ""
+
+msgctxt "6804_Kiryu"
+msgid "You'd rather he lied to you?"
+msgstr ""
+
+msgctxt "6816_Shizuka"
+msgid "No, it's not that. I'm not sure how to explain."
+msgstr ""
+
+msgctxt "6828_Shizuka"
+msgid "But I just felt so guilty thinking about his family."
+msgstr ""
+
+msgctxt "6840_Kiryu"
+msgid "He's the one who should feel guilty."
+msgstr ""
+
+msgctxt "6852_Shizuka"
+msgid ""
+"I suppose that's true, but I feel like there's something wrong with me if "
+"men can fool me so often."
+msgstr ""
+
+msgctxt "6864_Kiryu"
+msgid "I don't know about that, but he's the one who deceived you. It's his fault."
+msgstr ""
+
+msgctxt "6876_Shizuka"
+msgid ""
+"But if I didn't make it so easy for people to fool me in the first place, "
+"he wouldn't have deceived me."
+msgstr ""
+
+msgctxt "6888_Kiryu"
+msgid "I see... You're a humble and kind woman."
+msgstr ""
+
+msgctxt "6900_Shizuka"
+msgid "No. I'm just a naive and easily deceived woman..."
+msgstr ""
+
+msgctxt "6912_Kiryu"
+msgid "What a scumbag. He's a terrible husband and father."
+msgstr ""
+
+msgctxt "6924_Shizuka"
+msgid ""
+"But if I hadn't made it so easy for him to fool me, maybe he wouldn't have "
+"tried to betray his wife and child."
+msgstr ""
+
+msgctxt "6936_Kiryu"
+msgid "You're overthinking this. You had no way of knowing he had a family."
+msgstr ""
+
+msgctxt "6948_Shizuka"
+msgid "You really think so?"
+msgstr ""
+
+msgctxt "6960_Kiryu"
+msgid ""
+"There aren't many women who would blame themselves in a situation like "
+"that. You're a good person, you know that?"
+msgstr ""
+
+msgctxt "6972_Shizuka"
+msgid "Thank you for saying that. You've given me more confidence."
+msgstr ""
+
+msgctxt "6984_Kiryu"
+msgid "I really mean it."
+msgstr ""
+
+msgctxt "6996_Shizuka"
+msgid "Thank you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "7008_Kiryu"
+msgid ""
+"You should be glad you found out in time. Think what could've happened if "
+"you kept seeing him without finding out the truth."
+msgstr ""
+
+msgctxt "7020_Shizuka"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "7032_Kiryu"
+msgid ""
+"What if things started to get serious? It'd be a lot worse to find out "
+"about his wife and kid if you were planning on marrying the guy."
+msgstr ""
+
+msgctxt "7044_Shizuka"
+msgid "I don't know what I would've done if that had happened."
+msgstr ""
+
+msgctxt "7056_Kiryu"
+msgid "You've got to stop focusing on the past and think about finding someone new."
+msgstr ""
+
+msgctxt "7068_Shizuka"
+msgid ""
+"Hehe. The way you say that really cheers me up, sir. I feel like I have a "
+"chance to find someone after all. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "7080_Kiryu"
+msgid "Hehe..."
+msgstr ""
+
+msgctxt "7104_Shizuka"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "7116_Kiryu"
+msgid "What's wrong? Something troubling you?"
+msgstr ""
+
+msgctxt "7128_Shizuka"
+msgid ""
+"Well, actually... I was talking with one of the girls who recently started "
+"working here."
+msgstr ""
+
+msgctxt "7140_Shizuka"
+msgid ""
+"I couldn't really follow what she was saying. I hope she wasn't bothered by "
+"that..."
+msgstr ""
+
+msgctxt "7152_Kiryu"
+msgid "Is she younger than you?"
+msgstr ""
+
+msgctxt "7164_Shizuka"
+msgid ""
+"Yes. She's not that much younger, but sometimes a few years can make a big "
+"difference."
+msgstr ""
+
+msgctxt "7176_Shizuka"
+msgid ""
+"I have problems talking with younger people. It's kind of an icky "
+"situation..."
+msgstr ""
+
+msgctxt "7188_Kiryu"
+msgid "Don't worry about it. Everybody has that problem to some degree."
+msgstr ""
+
+msgctxt "7200_Shizuka"
+msgid "Really?"
+msgstr ""
+
+msgctxt "7212_Kiryu"
+msgid ""
+"Yeah, and there are people out there who you can get along with despite the "
+"age difference."
+msgstr ""
+
+msgctxt "7224_Shizuka"
+msgid "But even if I feel like we're getting along, they might feel uncomfortable."
+msgstr ""
+
+msgctxt "7236_Kiryu"
+msgid ""
+"It's not like you're intentionally making them feel that way. If they do, "
+"it's their problem."
+msgstr ""
+
+msgctxt "7248_Shizuka"
+msgid "Oh, hmm... I never thought of it like that."
+msgstr ""
+
+msgctxt "7260_Shizuka"
+msgid "I feel a little better now. Thank you, sir. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "7272_Kiryu"
+msgid ""
+"That's an interesting way to put it. I wouldn't expect you to use a word "
+"like \"icky.\""
+msgstr ""
+
+msgctxt "7284_Shizuka"
+msgid "No?"
+msgstr ""
+
+msgctxt "7296_Kiryu"
+msgid ""
+"It's just that you're usually well-spoken. Hearing something cutesy like "
+"\"icky\" from you is a surprise."
+msgstr ""
+
+msgctxt "7308_Shizuka"
+msgid ""
+"I may be pretty eloquent most of the time, but I do know some slang, you "
+"know. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "7320_Kiryu"
+msgid "Heh. Sorry for underestimating you."
+msgstr ""
+
+msgctxt "7332_Shizuka"
+msgid "But I'm still no good at talking to younger people."
+msgstr ""
+
+msgctxt "7344_Kiryu"
+msgid ""
+"What about younger men? You must get some customers who are younger than "
+"you."
+msgstr ""
+
+msgctxt "7356_Shizuka"
+msgid "That's true. Come to think of it, I've never really had a problem with them."
+msgstr ""
+
+msgctxt "7368_Kiryu"
+msgid ""
+"Then you should be able to talk to younger women, too. You've got lots of "
+"young girls here in the club. Why don't you practice with them?"
+msgstr ""
+
+msgctxt "7380_Shizuka"
+msgid "Yes, I think I'll try that."
+msgstr ""
+
+msgctxt "7392_Kiryu"
+msgid ""
+"Don't you want to do something about it? If you don't make a little effort, "
+"things are never going to get better."
+msgstr ""
+
+msgctxt "7404_Shizuka"
+msgid "But what should I do?"
+msgstr ""
+
+msgctxt "7416_Kiryu"
+msgid "Hmm... Why don't you start off by finding something you have in common?"
+msgstr ""
+
+msgctxt "7428_Shizuka"
+msgid "I see."
+msgstr ""
+
+msgctxt "7440_Kiryu"
+msgid ""
+"It doesn't matter what it is. Whatever interests you. Maybe fashion. Find a "
+"topic you can have a conversation about."
+msgstr ""
+
+msgctxt "7452_Shizuka"
+msgid ""
+"Well, that's the issue. I'm troubled because I can't find anything we have "
+"in common."
+msgstr ""
+
+msgctxt "7464_Shizuka"
+msgid ""
+"I'm always afraid to bring up a new topic, and the other person is "
+"surprised I don't know anything about what they're saying."
+msgstr ""
+
+msgctxt "7476_Kiryu"
+msgid "Well, I'm sure you'll meet someone you can talk to sooner or later."
+msgstr ""
+
+msgctxt "7488_Shizuka"
+msgid "I hope so..."
+msgstr ""
+
+msgctxt "7512_Shizuka"
+msgid "The manager got mad at me a little while ago."
+msgstr ""
+
+msgctxt "7524_Kiryu"
+msgid "Why?"
+msgstr ""
+
+msgctxt "7536_Shizuka"
+msgid "I was cleaning the bathroom."
+msgstr ""
+
+msgctxt "7548_Kiryu"
+msgid "What? He got mad at you for that?"
+msgstr ""
+
+msgctxt "7560_Shizuka"
+msgid ""
+"Well, no. You see, I kind of lost track of time and ended up spending about "
+"an hour cleaning."
+msgstr ""
+
+msgctxt "7572_Kiryu"
+msgid ""
+"A whole hour? I suppose that wouldn't be a problem if there weren't any "
+"customers, but..."
+msgstr ""
+
+msgctxt "7584_Shizuka"
+msgid ""
+"Yes. But the club had already opened, and there were a few customers "
+"around, so..."
+msgstr ""
+
+msgctxt "7596_Kiryu"
+msgid ""
+"You have incredible focus. I don't think I've ever met anyone who could get "
+"so absorbed in cleaning the bathroom."
+msgstr ""
+
+msgctxt "7608_Shizuka"
+msgid "No... I think I'm just slow..."
+msgstr ""
+
+msgctxt "7620_Kiryu"
+msgid "Heh. Then next time, you should watch the time while you're doing it."
+msgstr ""
+
+msgctxt "7632_Kiryu"
+msgid "Maybe you could set an alarm on your cell phone."
+msgstr ""
+
+msgctxt "7644_Shizuka"
+msgid "That's a good idea! Then I could finish up before the customers arrive."
+msgstr ""
+
+msgctxt "7656_Kiryu"
+msgid "Wait, that's not really your job, is it?"
+msgstr ""
+
+msgctxt "7668_Kiryu"
+msgid "Don't the attendants clean the bathroom?"
+msgstr ""
+
+msgctxt "7680_Shizuka"
+msgid "Well, yes... But I didn't have anything else to do, so..."
+msgstr ""
+
+msgctxt "7692_Shizuka"
+msgid "Besides, I don't really like chatting with the other girls."
+msgstr ""
+
+msgctxt "7704_Kiryu"
+msgid ""
+"But that might be a problem for the guy who's really supposed to be "
+"cleaning the toilets."
+msgstr ""
+
+msgctxt "7716_Kiryu"
+msgid ""
+"The manager might think he's not doing his job if you have to step in and "
+"take care of it."
+msgstr ""
+
+msgctxt "7728_Shizuka"
+msgid "I hadn't thought about that. I guess I was being pretty thoughtless."
+msgstr ""
+
+msgctxt "7740_Shizuka"
+msgid ""
+"Thank you for your advice. I'll try not to cause any trouble for others in "
+"the future."
+msgstr ""
+
+msgctxt "7752_Kiryu"
+msgid "Heh. I know you'll do your best."
+msgstr ""
+
+msgctxt "7764_Kiryu"
+msgid "Are you a neat freak? I mean, an hour cleaning the bathroom?"
+msgstr ""
+
+msgctxt "7776_Shizuka"
+msgid "No... I just started it on a whim, and before I knew it, an hour had passed."
+msgstr ""
+
+msgctxt "7788_Kiryu"
+msgid "I guess the bathroom must be pretty clean right now, huh?"
+msgstr ""
+
+msgctxt "7800_Shizuka"
+msgid "I did everything I could, so it's sparkly clean."
+msgstr ""
+
+msgctxt "7812_Shizuka"
+msgid "You can check it out if you have to use the bathroom."
+msgstr ""
+
+msgctxt "7824_Kiryu"
+msgid "Yeah, maybe I will..."
+msgstr ""
+
+msgctxt "7848_Kiryu"
+msgid "Can I ask you something I've been wondering about for a while?"
+msgstr ""
+
+msgctxt "7860_Shizuka"
+msgid "Of course. Please feel free to ask me anything."
+msgstr ""
+
+msgctxt "7872_Kiryu"
+msgid "Do you always speak so politely?"
+msgstr ""
+
+msgctxt "7884_Shizuka"
+msgid "Politely? I'm just speaking normally."
+msgstr ""
+
+msgctxt "7896_Kiryu"
+msgid "Not really. Did your parents teach you to talk like that?"
+msgstr ""
+
+msgctxt "7908_Shizuka"
+msgid "Ah, well, I've been influenced by my Japanese dance teacher."
+msgstr ""
+
+msgctxt "7920_Kiryu"
+msgid "Japanese dance, huh? How long have you been at it?"
+msgstr ""
+
+msgctxt "7932_Shizuka"
+msgid ""
+"I've been dancing since junior high, so about 14 years. I guess that's a "
+"long time."
+msgstr ""
+
+msgctxt "7944_Shizuka"
+msgid "My teacher is very strict, but I really love and respect her as a person."
+msgstr ""
+
+msgctxt "7956_Kiryu"
+msgid "Not many girls your age say things like that. That's admirable."
+msgstr ""
+
+msgctxt "7968_Shizuka"
+msgid "Oh? Do you think so?"
+msgstr ""
+
+msgctxt "7980_Kiryu"
+msgid "Yeah. I'm sure your teacher is a very respectable person too."
+msgstr ""
+
+msgctxt "7992_Shizuka"
+msgid ""
+"She isn't just strict about dancing. She also wants her students to be good "
+"people."
+msgstr ""
+
+msgctxt "8004_Shizuka"
+msgid ""
+"So of course she wants us to be polite, but she also expects us to be "
+"grateful and forgiving."
+msgstr ""
+
+msgctxt "8016_Shizuka"
+msgid "She can talk about it for hours on end."
+msgstr ""
+
+msgctxt "8028_Kiryu"
+msgid "Sounds like you're lucky to have found her."
+msgstr ""
+
+msgctxt "8040_Shizuka"
+msgid "Yes. I truly think so."
+msgstr ""
+
+msgctxt "8052_Shizuka"
+msgid "But I worry that I'm only being a burden on her. I'm so inexperienced."
+msgstr ""
+
+msgctxt "8064_Kiryu"
+msgid "Hey now. What are you saying."
+msgstr ""
+
+msgctxt "8076_Shizuka"
+msgid ""
+"I'm not really much of a dancer yet, and I don't think I've grown much as a "
+"person either."
+msgstr ""
+
+msgctxt "8088_Kiryu"
+msgid ""
+"Heh. It's only natural for those still learning to be inexperienced. "
+"Guiding you through that is the role of a teacher."
+msgstr ""
+
+msgctxt "8100_Kiryu"
+msgid ""
+"You're being too hard on yourself. You're trying to improve－that's the most "
+"important thing."
+msgstr ""
+
+msgctxt "8112_Shizuka"
+msgid "Thank you. I'll make sure to do my best so I don't disappoint my teacher."
+msgstr ""
+
+msgctxt "8124_Kiryu"
+msgid "That's the spirit."
+msgstr ""
+
+msgctxt "8136_Kiryu"
+msgid ""
+"I agree with your teacher. Being rude affects everyone you meet. It has an "
+"impact on your entire life."
+msgstr ""
+
+msgctxt "8148_Shizuka"
+msgid "Hehehe. You know, you're quite a bit like my teacher, sir."
+msgstr ""
+
+msgctxt "8160_Kiryu"
+msgid "Do I?"
+msgstr ""
+
+msgctxt "8172_Shizuka"
+msgid ""
+"Yes. I always hear my teacher's sentiments echoing in the things you say, "
+"sir."
+msgstr ""
+
+msgctxt "8184_Kiryu"
+msgid ""
+"I'm nobody special. You shouldn't compare your teacher to me. It's "
+"insulting to her."
+msgstr ""
+
+msgctxt "8196_Shizuka"
+msgid ""
+"You're so modest. That makes you sound even more like my teacher. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8208_Kiryu"
+msgid "I see..."
+msgstr ""
+
+msgctxt "8220_Kiryu"
+msgid ""
+"Isn't it tiring to be polite all the time? It wouldn't hurt you to relax a "
+"bit more when you're not practicing."
+msgstr ""
+
+msgctxt "8232_Shizuka"
+msgid "No, I'm so used to it now it's not tiring at all."
+msgstr ""
+
+msgctxt "8244_Kiryu"
+msgid ""
+"But have you thought it might make the person you're talking to "
+"uncomfortable?"
+msgstr ""
+
+msgctxt "8256_Shizuka"
+msgid "Huh? I never thought it might make people uncomfortable..."
+msgstr ""
+
+msgctxt "8268_Kiryu"
+msgid ""
+"If you're not careful, some people might even think you're being stuck up "
+"or mocking them."
+msgstr ""
+
+msgctxt "8280_Shizuka"
+msgid "Oh... But I'm rather fond of polite Japanese..."
+msgstr ""
+
+msgctxt "8292_Shizuka"
+msgid "I guess most people these days can't really appreciate it. What a shame."
+msgstr ""
+
+msgctxt "8304_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "8316_Shizuka"
+msgid "If you'll allow me to ask... what do you think of the practice of embalming?"
+msgstr ""
+
+msgctxt "8328_Kiryu"
+msgid "Huh? That's a strange question to ask all of a sudden."
+msgstr ""
+
+msgctxt "8340_Shizuka"
+msgid "There was an article about it in the newspaper this morning."
+msgstr ""
+
+msgctxt "8352_Shizuka"
+msgid "It said altering a corpse was sacrilegious and deeply immoral."
+msgstr ""
+
+msgctxt "8364_Kiryu"
+msgid "I see. Well, what do you think?"
+msgstr ""
+
+msgctxt "8376_Shizuka"
+msgid ""
+"I think that it can help the family cope with the loss of a loved one if "
+"they can actually see them during the funeral."
+msgstr ""
+
+msgctxt "8388_Kiryu"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "8400_Shizuka"
+msgid ""
+"Well, if the deceased was badly injured, the family might not be able to "
+"say goodbye. That can make it hard on them."
+msgstr ""
+
+msgctxt "8412_Shizuka"
+msgid ""
+"Embalming can help a little with that. It can help loved ones accept death "
+"and move on."
+msgstr ""
+
+msgctxt "8424_Kiryu"
+msgid "I see."
+msgstr ""
+
+msgctxt "8436_Shizuka"
+msgid ""
+"It's too bad that most people in Japan don't seem to understand the value "
+"of embalming."
+msgstr ""
+
+msgctxt "8448_Kiryu"
+msgid ""
+"I can see what the writer meant, though. This isn't a case where you can "
+"easily say that one side is right and the other's wrong."
+msgstr ""
+
+msgctxt "8460_Shizuka"
+msgid "So you think embalming a body is a kind of sacrilege?"
+msgstr ""
+
+msgctxt "8472_Kiryu"
+msgid ""
+"I didn't say that, but I can understand the family not wanting someone to "
+"tamper with their loved one's body."
+msgstr ""
+
+msgctxt "8484_Shizuka"
+msgid "I see... Well, I'm not going to deny that way of thinking either."
+msgstr ""
+
+msgctxt "8496_Shizuka"
+msgid ""
+"But that doesn't mean that they have to say such terrible things about "
+"embalming."
+msgstr ""
+
+msgctxt "8508_Kiryu"
+msgid "That's true. It's not as if anyone is forcing them to have it done."
+msgstr ""
+
+msgctxt "8520_Shizuka"
+msgid ""
+"The fact that they wrote an article about it means it's becoming more "
+"well-known. I hope people start to accept it more."
+msgstr ""
+
+msgctxt "8532_Kiryu"
+msgid "Yeah, me too."
+msgstr ""
+
+msgctxt "8544_Kiryu"
+msgid ""
+"I'm sure people will understand someday. Nobody would talk about "
+"\"sacrilege\" if they knew how much you cared about your work."
+msgstr ""
+
+msgctxt "8556_Shizuka"
+msgid "You really think so?"
+msgstr ""
+
+msgctxt "8568_Kiryu"
+msgid "There's always resistance to new things in any generation."
+msgstr ""
+
+msgctxt "8580_Kiryu"
+msgid ""
+"You just have to show them how committed you are, and it'll catch on "
+"eventually."
+msgstr ""
+
+msgctxt "8592_Shizuka"
+msgid "I think you're right! I've got to strive to do my best!"
+msgstr ""
+
+msgctxt "8604_Shizuka"
+msgid "It seems like you're always able to cheer me up when we talk."
+msgstr ""
+
+msgctxt "8616_Kiryu"
+msgid "If it helps cheer you up, then it's my pleasure."
+msgstr ""
+
+msgctxt "8628_Shizuka"
+msgid "Thank you. It really does help."
+msgstr ""
+
+msgctxt "8640_Kiryu"
+msgid "Would you embalm me if I died?"
+msgstr ""
+
+msgctxt "8652_Shizuka"
+msgid "Huh!? You must be joking... You're still healthy, aren't you?"
+msgstr ""
+
+msgctxt "8664_Kiryu"
+msgid ""
+"No, I mean... An accident or an illness could strike at any time. You know "
+"what I'm talking about, right?"
+msgstr ""
+
+msgctxt "8676_Shizuka"
+msgid "I know, but..."
+msgstr ""
+
+msgctxt "8688_Kiryu"
+msgid ""
+"I try and live every day to the fullest so that I won't have any regrets "
+"when it's my turn to move on."
+msgstr ""
+
+msgctxt "8700_Shizuka"
+msgid "Don't talk like that. I don't want to part with you just yet..."
+msgstr ""
+
+msgctxt "8712_Kiryu"
+msgid "But if it did, I could count on you to help me, right?"
+msgstr ""
+
+msgctxt "8724_Shizuka"
+msgid "Yes... I'll take good care of you."
+msgstr ""
+
+msgctxt "8736_Kiryu"
+msgid "I see... Thank you."
+msgstr ""
+
+msgctxt "8748_Shizuka"
+msgid "You know, you've got the most amazing eyes."
+msgstr ""
+
+msgctxt "8760_Kiryu"
+msgid "Heh. Well, that's sudden."
+msgstr ""
+
+msgctxt "8772_Shizuka"
+msgid ""
+"I can't really explain it, but I can tell from your eyes that you've seen "
+"so much. So strong but gentle at the same time."
+msgstr ""
+
+msgctxt "8784_Shizuka"
+msgid "It makes me think that you've had to overcome a lot of sorrow in your life."
+msgstr ""
+
+msgctxt "8796_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "8808_Shizuka"
+msgid "Whenever I talk with you, I feel... comforted..."
+msgstr ""
+
+msgctxt "8820_Shizuka"
+msgid ""
+"But when I'm by myself, I feel like I still have so much to learn. It's "
+"depressing... I wish I was more like you."
+msgstr ""
+
+msgctxt "8832_Kiryu"
+msgid ""
+"You can't ask for the impossible. We're two different people. You shouldn't "
+"try to be like me."
+msgstr ""
+
+msgctxt "8844_Shizuka"
+msgid ""
+"I suppose you're right... But when I'm talking with you, I feel like I've "
+"become almost as amazing as you are."
+msgstr ""
+
+msgctxt "8856_Shizuka"
+msgid "Of course, I know it's not real. I'm still the same girl when I'm by myself."
+msgstr ""
+
+msgctxt "8868_Kiryu"
+msgid ""
+"What're you saying? You have a unique charm that no one else can replicate, "
+"Shizuka. I'm the one who should be jealous of you."
+msgstr ""
+
+msgctxt "8880_Shizuka"
+msgid "Really? What sort of unique charm do I have?"
+msgstr ""
+
+msgctxt "8892_Kiryu"
+msgid ""
+"Well... You're modest and polite, for one. That's not something you see so "
+"often these days."
+msgstr ""
+
+msgctxt "8904_Kiryu"
+msgid ""
+"A talent that nobody else has is a very powerful thing. You should try and "
+"make the most of it."
+msgstr ""
+
+msgctxt "8916_Shizuka"
+msgid "I see. Maybe you're right. Maybe I should be happier with who I am."
+msgstr ""
+
+msgctxt "8928_Kiryu"
+msgid "You got it."
+msgstr ""
+
+msgctxt "8940_Shizuka"
+msgid "Thank you! I never thought about it that way."
+msgstr ""
+
+msgctxt "8952_Kiryu"
+msgid "Heh. No problem."
+msgstr ""
+
+msgctxt "8964_Kiryu"
+msgid ""
+"Everyone's got to start somewhere. And you're better off than people who "
+"have it all right from the start."
+msgstr ""
+
+msgctxt "8976_Shizuka"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "8988_Kiryu"
+msgid "If everything comes easy to you, you stop trying."
+msgstr ""
+
+msgctxt "9000_Kiryu"
+msgid ""
+"But when you know your limits and work to overcome them, you can find true "
+"success in the end."
+msgstr ""
+
+msgctxt "9012_Shizuka"
+msgid "Hmm... I can see how that might be the case."
+msgstr ""
+
+msgctxt "9024_Kiryu"
+msgid ""
+"You know you lack experience, and you're working hard to gain it. There's "
+"nothing wrong with that."
+msgstr ""
+
+msgctxt "9036_Shizuka"
+msgid "Hearing you say that makes me feel like I've still got a long way to go."
+msgstr ""
+
+msgctxt "9048_Shizuka"
+msgid "But I guess that's okay, huh?"
+msgstr ""
+
+msgctxt "9060_Kiryu"
+msgid "Right."
+msgstr ""
+
+msgctxt "9072_Shizuka"
+msgid "You always help me so much. I wish I had some way to thank you."
+msgstr ""
+
+msgctxt "9084_Kiryu"
+msgid "Heh."
+msgstr ""
+
+msgctxt "9096_Kiryu"
+msgid "You're giving me too much credit. I'm really not that special."
+msgstr ""
+
+msgctxt "9108_Shizuka"
+msgid "That's not true. I feel so insignificant compared to you."
+msgstr ""
+
+msgctxt "9120_Kiryu"
+msgid ""
+"I have a lot of problems myself. I'm always regretting my choices and "
+"wondering what I could have done better."
+msgstr ""
+
+msgctxt "9132_Shizuka"
+msgid "Is that so?"
+msgstr ""
+
+msgctxt "9144_Kiryu"
+msgid ""
+"Sure. Nobody's perfect. We're all still learning in different ways and "
+"trying to become better versions of ourselves."
+msgstr ""
+
+msgctxt "9156_Kiryu"
+msgid "Sometimes it can take years to solve the problems we face."
+msgstr ""
+
+msgctxt "9168_Shizuka"
+msgid "Years? That's such a long time..."
+msgstr ""
+
+msgctxt "9180_Shizuka"
+msgid ""
+"But someday, I want to become someone who others can look up to. I'll just "
+"have to keep working at it."
+msgstr ""
+
+msgctxt "9192_Kiryu"
+msgid "I'm sure you can do it. Good luck."
+msgstr ""
+
+msgctxt "9204_Shizuka"
+msgid ""
+"Do you remember me telling you that I felt like I've known you for a long "
+"time?"
+msgstr ""
+
+msgctxt "9216_Kiryu"
+msgid "Yeah, I remember you saying something like that."
+msgstr ""
+
+msgctxt "9228_Shizuka"
+msgid "Well, I finally figured out why. You're a lot like someone I used to know."
+msgstr ""
+
+msgctxt "9240_Kiryu"
+msgid "Oh, really?"
+msgstr ""
+
+msgctxt "9252_Shizuka"
+msgid "Yes, but he passed away..."
+msgstr ""
+
+msgctxt "9264_Kiryu"
+msgid "He must have been very important to you."
+msgstr ""
+
+msgctxt "9276_Shizuka"
+msgid "Yes... But I never got to say goodbye to him..."
+msgstr ""
+
+msgctxt "9288_Shizuka"
+msgid ""
+"So it's hard to accept that he's really gone. Sometimes I think he's still "
+"out there."
+msgstr ""
+
+msgctxt "9300_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "9312_Shizuka"
+msgid "I guess that's why I got interested in embalming."
+msgstr ""
+
+msgctxt "9324_Kiryu"
+msgid "I see... But why are you telling me this?"
+msgstr ""
+
+msgctxt "9336_Shizuka"
+msgid ""
+"At first, I didn't feel there was a need to tell you... But I started "
+"thinking recently that it wouldn't be good to hide things from you now."
+msgstr ""
+
+msgctxt "9348_Shizuka"
+msgid "I'm sorry I didn't tell you sooner."
+msgstr ""
+
+msgctxt "9360_Kiryu"
+msgid "Everyone has secrets. It's nothing to be ashamed of."
+msgstr ""
+
+msgctxt "9372_Shizuka"
+msgid "You're too kind, sir."
+msgstr ""
+
+msgctxt "9384_Kiryu"
+msgid ""
+"But I do think it's better to be in a relationship where you feel "
+"comfortable enough to tell each other your secrets."
+msgstr ""
+
+msgctxt "9396_Kiryu"
+msgid ""
+"So if you're ever in any kind of trouble, just let me know. I'll be there "
+"for you."
+msgstr ""
+
+msgctxt "9408_Shizuka"
+msgid "Really?"
+msgstr ""
+
+msgctxt "9420_Kiryu"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "9432_Shizuka"
+msgid "I feel so much better. You're even nicer than I thought."
+msgstr ""
+
+msgctxt "9444_Shizuka"
+msgid "I feel silly for worrying about it."
+msgstr ""
+
+msgctxt "9456_Kiryu"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "9468_Kiryu"
+msgid "Why are you apologizing?"
+msgstr ""
+
+msgctxt "9480_Shizuka"
+msgid ""
+"There's just something about you that reminds me of him. I think you "
+"awakened memories of him."
+msgstr ""
+
+msgctxt "9492_Shizuka"
+msgid "It didn't feel right to hide that from you."
+msgstr ""
+
+msgctxt "9504_Kiryu"
+msgid "I get it now."
+msgstr ""
+
+msgctxt "9516_Shizuka"
+msgid "Are you... angry at me?"
+msgstr ""
+
+msgctxt "9528_Kiryu"
+msgid "No... Actually, I'm happy. I think I got to know you even better now."
+msgstr ""
+
+msgctxt "9540_Shizuka"
+msgid "Oh, I'm glad."
+msgstr ""
+
+msgctxt "9552_Kiryu"
+msgid "It doesn't bother me. Don't worry about it."
+msgstr ""
+
+msgctxt "9564_Shizuka"
+msgid "All right! ♪"
+msgstr ""
+
+msgctxt "9576_Kiryu"
+msgid "Thanks for telling me."
+msgstr ""
+
+msgctxt "9588_Shizuka"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "9600_Kiryu"
+msgid "It must have been hard on you to hide it from me all this time."
+msgstr ""
+
+msgctxt "9612_Shizuka"
+msgid "It was..."
+msgstr ""
+
+msgctxt "9624_Kiryu"
+msgid "Heh. What about him is similar to me?"
+msgstr ""
+
+msgctxt "9636_Shizuka"
+msgid "Well... Something about your eyes... and your attitude."
+msgstr ""
+
+msgctxt "9648_Kiryu"
+msgid "I see... Well, I'm happy I got to know something else about you, Shizuka."
+msgstr ""
+
+msgctxt "9660_Shizuka"
+msgid "Sir..."
+msgstr ""
+
+msgctxt "9672_Shizuka"
+msgid "I'm glad I told you. I feel a little better now."
+msgstr ""
+
+msgctxt "9684_Kiryu"
+msgid "Heh. That's good."
+msgstr ""
+
+msgctxt "9708_Shizuka"
+msgid "Hehehe. ♪"
+msgstr ""
+
+msgctxt "9720_Kiryu"
+msgid "You seem to be in a good mood."
+msgstr ""
+
+msgctxt "9732_Shizuka"
+msgid ""
+"Things were going my way today, so I had a feeling that you might come and "
+"visit me, too, sir."
+msgstr ""
+
+msgctxt "9744_Shizuka"
+msgid "And here you are! I guess this is my lucky day!"
+msgstr ""
+
+msgctxt "9756_Kiryu"
+msgid "Let me guess... Did you eat a fish neatly again today?"
+msgstr ""
+
+msgctxt "9768_Shizuka"
+msgid ""
+"Oh no... I actually went to the stationery store today, and I found the "
+"most incredible thing."
+msgstr ""
+
+msgctxt "9780_Kiryu"
+msgid "What did you find?"
+msgstr ""
+
+msgctxt "9792_Shizuka"
+msgid "A 25-meter-long roll of whiteout tape."
+msgstr ""
+
+msgctxt "9804_Kiryu"
+msgid "That's pretty long..."
+msgstr ""
+
+msgctxt "9816_Shizuka"
+msgid "Yes! Do you understand why it's so incredible, sir?"
+msgstr ""
+
+msgctxt "9828_Kiryu"
+msgid ""
+"Just imagine the number of mistakes you'd have to make in order to use up "
+"all of that tape."
+msgstr ""
+
+msgctxt "9840_Shizuka"
+msgid "Hehehe. You've got a point."
+msgstr ""
+
+msgctxt "9852_Kiryu"
+msgid ""
+"Heh... I can understand that sentiment. If I found something unusual like "
+"that, I'd think it was my lucky day too."
+msgstr ""
+
+msgctxt "9864_Kiryu"
+msgid "Kind of like a four-leaf clover."
+msgstr ""
+
+msgctxt "9876_Shizuka"
+msgid "Yes! That's exactly why I was hoping for you to come today."
+msgstr ""
+
+msgctxt "9888_Kiryu"
+msgid "You have to show me that roll of tape sometime."
+msgstr ""
+
+msgctxt "9900_Shizuka"
+msgid "I will! And I have even better things to show you too. Just you wait!"
+msgstr ""
+
+msgctxt "9912_Kiryu"
+msgid "What's so incredible about that?"
+msgstr ""
+
+msgctxt "9924_Shizuka"
+msgid ""
+"Beg your pardon? It's 25 meters. That's an absurd amount of whiteout tape. "
+"Don't you think that's incredible?"
+msgstr ""
+
+msgctxt "9936_Kiryu"
+msgid "I see... How long are they normally?"
+msgstr ""
+
+msgctxt "9948_Shizuka"
+msgid "Maybe five meters. I don't think they usually even make them as long as ten."
+msgstr ""
+
+msgctxt "9960_Kiryu"
+msgid "Now I get it. That's certainly long."
+msgstr ""
+
+msgctxt "9972_Shizuka"
+msgid "Um... It seems like you don't particularly care..."
+msgstr ""
+
+msgctxt "9984_Kiryu"
+msgid ""
+"No... I uh... It's just that I've never really used whiteout tape, so I "
+"don't know much about it."
+msgstr ""
+
+msgctxt "9996_Shizuka"
+msgid "Oh, right... I guess I'm a little odd then."
+msgstr ""
+
+msgctxt "10008_Shizuka"
+msgid "I was so happy when I found it too..."
+msgstr ""
+
+msgctxt "10020_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "10032_Kiryu"
+msgid "You like stationery?"
+msgstr ""
+
+msgctxt "10044_Shizuka"
+msgid ""
+"Yes, quite a bit. I typically have writing utensils and a few other "
+"stationery items with me in my bag."
+msgstr ""
+
+msgctxt "10056_Kiryu"
+msgid "Oh?"
+msgstr ""
+
+msgctxt "10068_Shizuka"
+msgid ""
+"I also carry a few plastic bags and pouches that might come in handy when "
+"I'm outside. And any medicine that I might need, of course."
+msgstr ""
+
+msgctxt "10080_Kiryu"
+msgid "Wow. It sounds like your bag must be pretty heavy."
+msgstr ""
+
+msgctxt "10092_Shizuka"
+msgid "Hehehe. My bag is actually about three times as heavy as most girls'."
+msgstr ""
+
+msgctxt "10104_Kiryu"
+msgid "Heh. Sounds like you're well-prepared."
+msgstr ""
+
+msgctxt "10116_Shizuka"
+msgid ""
+"I love being able to just take something out of my bag and give it to "
+"someone who needs it."
+msgstr ""
+
+msgctxt "10128_Kiryu"
+msgid "That's nice. Sounds like you'll be a great wife."
+msgstr ""
+
+msgctxt "10140_Shizuka"
+msgid "Oh my! I, um... I don't know what to say. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "10164_Shizuka"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "10176_Kiryu"
+msgid "What is it? You seem a little distracted."
+msgstr ""
+
+msgctxt "10188_Shizuka"
+msgid "Oh, I'm sorry. I'm just having a little trouble concentrating."
+msgstr ""
+
+msgctxt "10200_Kiryu"
+msgid "Did something happen?"
+msgstr ""
+
+msgctxt "10212_Shizuka"
+msgid "No, it's nothing. I was just kind of thinking about you, sir."
+msgstr ""
+
+msgctxt "10224_Kiryu"
+msgid "Hey now. I'm right here in front of you."
+msgstr ""
+
+msgctxt "10236_Shizuka"
+msgid "Yes, but... I was just thinking of how I'd like to wash your back."
+msgstr ""
+
+msgctxt "10248_Shizuka"
+msgid "Oh, what am I saying? I'm so embarrassed."
+msgstr ""
+
+msgctxt "10260_Kiryu"
+msgid "I think you've had a little too much to drink. You may want to stop now."
+msgstr ""
+
+msgctxt "10272_Shizuka"
+msgid "Oh, no... I'm not drunk at all..."
+msgstr ""
+
+msgctxt "10284_Kiryu"
+msgid "Then what is it? Do you always think about things like that?"
+msgstr ""
+
+msgctxt "10296_Shizuka"
+msgid "I do... <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "10308_Kiryu"
+msgid ""
+"Heh, so all this time you've been serving me, you've been thinking about "
+"stuff like that?"
+msgstr ""
+
+msgctxt "10320_Shizuka"
+msgid "Hehehe. That's right. You've found me out!"
+msgstr ""
+
+msgctxt "10332_Kiryu"
+msgid "Sheesh..."
+msgstr ""
+
+msgctxt "10344_Kiryu"
+msgid "I wouldn't mind doing the same for you."
+msgstr ""
+
+msgctxt "10356_Shizuka"
+msgid "Oh? You'd wash my back?"
+msgstr ""
+
+msgctxt "10368_Kiryu"
+msgid ""
+"Yeah. You always do so much to take away my troubles. I'd like to do the "
+"same for you."
+msgstr ""
+
+msgctxt "10380_Shizuka"
+msgid "No! I couldn't let you do that!"
+msgstr ""
+
+msgctxt "10392_Kiryu"
+msgid "Why's that? You want to wash mine. What's wrong with me doing it for you?"
+msgstr ""
+
+msgctxt "10404_Shizuka"
+msgid "Well, you see... It's a woman's duty to wash a gentleman's back..."
+msgstr ""
+
+msgctxt "10416_Shizuka"
+msgid "But it simply doesn't work the other way around!"
+msgstr ""
+
+msgctxt "10428_Kiryu"
+msgid "That doesn't make any sense."
+msgstr ""
+
+msgctxt "10440_Shizuka"
+msgid "It just isn't done!"
+msgstr ""
+
+msgctxt "10452_Kiryu"
+msgid "I see..."
+msgstr ""
+
+msgctxt "10464_Kiryu"
+msgid "Just my back?"
+msgstr ""
+
+msgctxt "10476_Shizuka"
+msgid "Oh? What do you mean?"
+msgstr ""
+
+msgctxt "10488_Kiryu"
+msgid "Well, what about my head, say?"
+msgstr ""
+
+msgctxt "10500_Shizuka"
+msgid "Aha! Well, if that's what you wish, then I wouldn't mind."
+msgstr ""
+
+msgctxt "10512_Kiryu"
+msgid "Maybe I'll take you up on that."
+msgstr ""
+
+msgctxt "10524_Shizuka"
+msgid "Are you sure you just want me to do your head?"
+msgstr ""
+
+msgctxt "10536_Kiryu"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "10548_Shizuka"
+msgid "Maybe I should just go ahead and do your entire body while I'm at it."
+msgstr ""
+
+msgctxt "10560_Kiryu"
+msgid "Oh."
+msgstr ""
+
+msgctxt "10584_Shizuka"
+msgid "Do you enjoy typhoons, sir?"
+msgstr ""
+
+msgctxt "10596_Kiryu"
+msgid "Typhoons? Why?"
+msgstr ""
+
+msgctxt "10608_Shizuka"
+msgid ""
+"I saw some footage of a typhoon in Southeast Asia on the news this morning. "
+"I always get excited when a typhoon hits Japan."
+msgstr ""
+
+msgctxt "10620_Kiryu"
+msgid "You sound like a little kid."
+msgstr ""
+
+msgctxt "10632_Shizuka"
+msgid ""
+"Haha. Yes, I suppose I do. You have to stay inside if it's a really big "
+"storm, but I like to go out if it isn't that dangerous."
+msgstr ""
+
+msgctxt "10644_Kiryu"
+msgid "Heh. You like getting rained on?"
+msgstr ""
+
+msgctxt "10656_Shizuka"
+msgid "Yes. It makes me feel alive. I think that's why I like the feeling."
+msgstr ""
+
+msgctxt "10668_Shizuka"
+msgid ""
+"One time, I invited an ex of mine to come out in a typhoon, but he said I "
+"was crazy."
+msgstr ""
+
+msgctxt "10680_Kiryu"
+msgid "I don't blame him. He must've been pretty surprised."
+msgstr ""
+
+msgctxt "10692_Shizuka"
+msgid ""
+"Yes. I guess staying inside during a typhoon is just common sense for most "
+"people."
+msgstr ""
+
+msgctxt "10704_Shizuka"
+msgid "So I went out all by myself and got soaked to the bone."
+msgstr ""
+
+msgctxt "10716_Kiryu"
+msgid "Just couldn't help yourself, huh?"
+msgstr ""
+
+msgctxt "10728_Shizuka"
+msgid ""
+"I couldn't help it! And he was watching me through the window, so that made "
+"it even more exciting!"
+msgstr ""
+
+msgctxt "10740_Kiryu"
+msgid ""
+"That's a good way to catch a cold, you know. It was kind of rude to your "
+"ex, too."
+msgstr ""
+
+msgctxt "10752_Shizuka"
+msgid "You're right. He was rather dumbfounded by it."
+msgstr ""
+
+msgctxt "10764_Kiryu"
+msgid "Then what was so exciting about it?"
+msgstr ""
+
+msgctxt "10776_Shizuka"
+msgid ""
+"Well... I can't really explain it. Maybe I've got a bit of a masochistic "
+"streak."
+msgstr ""
+
+msgctxt "10788_Shizuka"
+msgid "Maybe I want to do something wrong just so I can get scolded for it."
+msgstr ""
+
+msgctxt "10800_Kiryu"
+msgid "That sounds like something a kid might do."
+msgstr ""
+
+msgctxt "10812_Shizuka"
+msgid "You think so?"
+msgstr ""
+
+msgctxt "10824_Kiryu"
+msgid "Hmm... Well, just don't cause trouble for the people around you, okay?"
+msgstr ""
+
+msgctxt "10836_Shizuka"
+msgid "Yes... I acted unbecoming of my age... I'm sorry..."
+msgstr ""
+
+msgctxt "10848_Kiryu"
+msgid "I go out during typhoons myself."
+msgstr ""
+
+msgctxt "10860_Shizuka"
+msgid "Oh, really!?"
+msgstr ""
+
+msgctxt "10872_Kiryu"
+msgid ""
+"Yeah. The ocean's close to my house after all. Sometimes I go out there to "
+"watch the storms out at sea."
+msgstr ""
+
+msgctxt "10884_Shizuka"
+msgid ""
+"That sounds like fun. Whenever they show waves crashing up against a "
+"breakwater on TV, I always want to go there and see it in person."
+msgstr ""
+
+msgctxt "10896_Kiryu"
+msgid "Heh. Well, those places are pretty dangerous, you know."
+msgstr ""
+
+msgctxt "10908_Shizuka"
+msgid "Well, I'm sure you'd keep me safe, wouldn't you, sir?"
+msgstr ""
+
+msgctxt "10920_Kiryu"
+msgid "Come on now..."
+msgstr ""
+
+msgctxt "10932_Kiryu"
+msgid "Um... Are you a masochist or something?"
+msgstr ""
+
+msgctxt "10944_Shizuka"
+msgid ""
+"Yes I am! And maybe an exhibitionist! Also, I get excited from the "
+"strangest things."
+msgstr ""
+
+msgctxt "10956_Kiryu"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "10968_Shizuka"
+msgid "Oh? Your face is red now."
+msgstr ""
+
+msgctxt "10980_Shizuka"
+msgid "You're not embarrassed, are you?"
+msgstr ""
+
+msgctxt "10992_Kiryu"
+msgid "No, not at all."
+msgstr ""
+
+msgctxt "11004_Shizuka"
+msgid "Hehehe. I seem to have learned something rather unexpected from you, sir."
+msgstr ""
+
+msgctxt "11016_Kiryu"
+msgid "Hey, that's my line..."
+msgstr ""
+
+msgctxt "11040_Kiryu"
+msgid "What were you like as a kid, Shizuka?"
+msgstr ""
+
+msgctxt "11052_Shizuka"
+msgid "When I was a child? Well..."
+msgstr ""
+
+msgctxt "11064_Shizuka"
+msgid ""
+"I don't think I was that different from the way I am now, but when I was "
+"little, I wasn't very sociable. I just did things at my own pace."
+msgstr ""
+
+msgctxt "11076_Kiryu"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "11088_Shizuka"
+msgid ""
+"For example, whenever we would go on a field trip, the rest of the class "
+"would be on the bus and ready to leave, but I'd be off on my own."
+msgstr ""
+
+msgctxt "11100_Kiryu"
+msgid "I see... What were you doing then?"
+msgstr ""
+
+msgctxt "11112_Shizuka"
+msgid "Hmm... I do remember a few things."
+msgstr ""
+
+msgctxt "11124_Shizuka"
+msgid ""
+"Like how I was fascinated by the horns of the deer at Nara Park. I stared "
+"at them for hours."
+msgstr ""
+
+msgctxt "11136_Shizuka"
+msgid "Or how I was counting the holes in a fisherman's net."
+msgstr ""
+
+msgctxt "11148_Kiryu"
+msgid "Why doesn't that surprise me?"
+msgstr ""
+
+msgctxt "11160_Shizuka"
+msgid ""
+"I guess I haven't really changed that much, but at least now I know that "
+"it's a problem, so I can try and act a bit more like an adult."
+msgstr ""
+
+msgctxt "11172_Kiryu"
+msgid "No, don't change. I like that about you."
+msgstr ""
+
+msgctxt "11184_Shizuka"
+msgid "Oh? Do you, now?"
+msgstr ""
+
+msgctxt "11196_Kiryu"
+msgid "Yes. It keeps things interesting."
+msgstr ""
+
+msgctxt "11208_Shizuka"
+msgid ""
+"You probably wouldn't say that if you had to deal with me on a regular "
+"basis."
+msgstr ""
+
+msgctxt "11220_Kiryu"
+msgid "Girls who are a little bit of trouble are the most fun."
+msgstr ""
+
+msgctxt "11232_Shizuka"
+msgid "Hehehe. Well, then I hope you don't complain if you get tired out from it."
+msgstr ""
+
+msgctxt "11244_Kiryu"
+msgid "I deal with kids all the time. I'm sure I can handle it."
+msgstr ""
+
+msgctxt "11256_Shizuka"
+msgid "Oh really? Then I look forward to it."
+msgstr ""
+
+msgctxt "11268_Kiryu"
+msgid ""
+"One of the kids at my orphanage is like that. He's so innocent. He can be "
+"quite a handful."
+msgstr ""
+
+msgctxt "11280_Shizuka"
+msgid "Aww. Don't the children around him get tired of that?"
+msgstr ""
+
+msgctxt "11292_Kiryu"
+msgid "No, they all help him out. It hasn't really been much of a problem."
+msgstr ""
+
+msgctxt "11304_Shizuka"
+msgid "I see. It sounds like they all get along well!"
+msgstr ""
+
+msgctxt "11316_Kiryu"
+msgid "Were your friends like that when you were young?"
+msgstr ""
+
+msgctxt "11328_Shizuka"
+msgid "Yes. When they found out I needed extra care, they kept an eye on me."
+msgstr ""
+
+msgctxt "11340_Kiryu"
+msgid ""
+"Heh. Then maybe your friends will be surprised how much you've grown up "
+"when you become a responsible pillar of society."
+msgstr ""
+
+msgctxt "11352_Shizuka"
+msgid "That's true! Well, then I'll do my best to become a productive person!"
+msgstr ""
+
+msgctxt "11364_Kiryu"
+msgid ""
+"They say it's hard to grow out of the habits of your childhood. I'm not "
+"sure it's something you can change that easily."
+msgstr ""
+
+msgctxt "11376_Shizuka"
+msgid "Yes... Even as an adult, I haven't really changed. It's terrible."
+msgstr ""
+
+msgctxt "11388_Kiryu"
+msgid "I bet it's because the people around you are picking up the slack."
+msgstr ""
+
+msgctxt "11400_Shizuka"
+msgid "But that's not fair to them. No, I really have to try to be better."
+msgstr ""
+
+msgctxt "11412_Shizuka"
+msgid ""
+"Sometimes I'll zone out and start daydreaming even when I'm here at the "
+"club. My customers are always worrying about me."
+msgstr ""
+
+msgctxt "11424_Kiryu"
+msgid "Maybe you could make that your trademark, so to speak."
+msgstr ""
+
+msgctxt "11436_Shizuka"
+msgid "Sigh... But I want to be better. Really, I do."
+msgstr ""
+
+msgctxt "11460_Shizuka"
+msgid "It looks like we're going to have a beautiful crescent moon soon, sir!"
+msgstr ""
+
+msgctxt "11472_Kiryu"
+msgid "You like crescent moons?"
+msgstr ""
+
+msgctxt "11484_Shizuka"
+msgid "I love them! Don't you think they look like a cat's claw?"
+msgstr ""
+
+msgctxt "11496_Kiryu"
+msgid "A cat's claw? Now that you mention it, I suppose it does."
+msgstr ""
+
+msgctxt "11508_Shizuka"
+msgid ""
+"I've always thought that ever since I was a child. That's why I always cut "
+"my cat's toenails whenever there's a crescent moon!"
+msgstr ""
+
+msgctxt "11520_Kiryu"
+msgid "I guess that's a good time to do it. So you cut them once a month?"
+msgstr ""
+
+msgctxt "11532_Shizuka"
+msgid "I guess I do. I hadn't really given it much thought."
+msgstr ""
+
+msgctxt "11544_Kiryu"
+msgid "That's a good way to remember to do it, though."
+msgstr ""
+
+msgctxt "11556_Shizuka"
+msgid ""
+"Now that you mention it, he seems to get a little restless when there's a "
+"full moon."
+msgstr ""
+
+msgctxt "11568_Shizuka"
+msgid "But he calms down when there's a crescent moon."
+msgstr ""
+
+msgctxt "11580_Kiryu"
+msgid "Heh. Maybe your cat knows he'll get his toenails clipped around then."
+msgstr ""
+
+msgctxt "11592_Shizuka"
+msgid "Hehehe. Maybe, maybe."
+msgstr ""
+
+msgctxt "11604_Kiryu"
+msgid "I never would've made that connection. You've got quite an imagination."
+msgstr ""
+
+msgctxt "11616_Shizuka"
+msgid "I don't know why, but I like crescent moons a lot."
+msgstr ""
+
+msgctxt "11628_Shizuka"
+msgid "It seems like the moon is quietly watching over me."
+msgstr ""
+
+msgctxt "11640_Kiryu"
+msgid "Oh yeah? How do you feel about the other forms of the moon?"
+msgstr ""
+
+msgctxt "11652_Shizuka"
+msgid "Let's see... I think the full moon is very similar to your attitude, sir."
+msgstr ""
+
+msgctxt "11664_Kiryu"
+msgid "Similar to me? What sort of attitude is that?"
+msgstr ""
+
+msgctxt "11676_Shizuka"
+msgid "They're big and gentle, and they help light up dark nights."
+msgstr ""
+
+msgctxt "11688_Kiryu"
+msgid "Heh. You sure you're not just buttering me up?"
+msgstr ""
+
+msgctxt "11700_Shizuka"
+msgid "No, I really believe that!"
+msgstr ""
+
+msgctxt "11712_Kiryu"
+msgid "Do you look at the moon often?"
+msgstr ""
+
+msgctxt "11724_Shizuka"
+msgid "I do. I love looking at the night sky."
+msgstr ""
+
+msgctxt "11736_Kiryu"
+msgid ""
+"But there are so many tall buildings in Tokyo. You can't really get a good "
+"look at the sky, can you?"
+msgstr ""
+
+msgctxt "11748_Shizuka"
+msgid "That's true. And sometimes the weather's not the best, either."
+msgstr ""
+
+msgctxt "11760_Kiryu"
+msgid ""
+"The moon's beautiful in Okinawa where I live. You get the most beautiful "
+"sunsets and sunrises there, too. And the stars are incredible."
+msgstr ""
+
+msgctxt "11772_Shizuka"
+msgid "That sounds wonderful. Maybe I could come visit you sometime."
+msgstr ""
+
+msgctxt "11784_Kiryu"
+msgid "Yeah, sure."
+msgstr ""
+
+msgctxt "11796_Shizuka"
+msgid "Really? That makes me quite happy."
+msgstr ""
+
+msgctxt "11820_Shizuka"
+msgid "Something really surprising happened to me today..."
+msgstr ""
+
+msgctxt "11832_Kiryu"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "11844_Shizuka"
+msgid "I went to the convenience store to buy my lunch, you see."
+msgstr ""
+
+msgctxt "11856_Shizuka"
+msgid ""
+"The oden looked good, so I decided to have that. I picked out some "
+"strawberry ice cream for dessert and headed for the cash register."
+msgstr ""
+
+msgctxt "11868_Kiryu"
+msgid "Oden and ice cream? That's quite the combination."
+msgstr ""
+
+msgctxt "11880_Shizuka"
+msgid "Anyway, it happened when I handed the cashier my food."
+msgstr ""
+
+msgctxt "11892_Shizuka"
+msgid "He put the oden in a plastic tub with a lid on it."
+msgstr ""
+
+msgctxt "11904_Shizuka"
+msgid "And then, he... put the ice cream right on top of the hot oden!"
+msgstr ""
+
+msgctxt "11916_Kiryu"
+msgid "Unbelievable. Don't they train those guys?"
+msgstr ""
+
+msgctxt "11928_Shizuka"
+msgid "Well, he was a foreigner."
+msgstr ""
+
+msgctxt "11940_Kiryu"
+msgid ""
+"Well, that explains a lot. I guess they don't know what's accepted as "
+"common courtesy in Japan."
+msgstr ""
+
+msgctxt "11952_Kiryu"
+msgid "So what happened?"
+msgstr ""
+
+msgctxt "11964_Shizuka"
+msgid ""
+"I hadn't paid yet, so I just stood there with my wallet in my hand, looking "
+"at the ice cream sitting on top of the hot container."
+msgstr ""
+
+msgctxt "11976_Shizuka"
+msgid "All I could think about was that it would melt."
+msgstr ""
+
+msgctxt "11988_Kiryu"
+msgid "Oh no..."
+msgstr ""
+
+msgctxt "12000_Shizuka"
+msgid ""
+"Of course as soon as I paid, I reached into the bag and saved the ice cream "
+"before it could totally melt."
+msgstr ""
+
+msgctxt "12012_Shizuka"
+msgid "But I guess it kind of traumatized me."
+msgstr ""
+
+msgctxt "12024_Kiryu"
+msgid "You'll have to keep an eye on him next time."
+msgstr ""
+
+msgctxt "12036_Shizuka"
+msgid "So it seems..."
+msgstr ""
+
+msgctxt "12048_Kiryu"
+msgid ""
+"Did you insist that he give you a new one? When that happens, you should "
+"say something."
+msgstr ""
+
+msgctxt "12060_Shizuka"
+msgid "No, I couldn't... He was a foreigner, so..."
+msgstr ""
+
+msgctxt "12072_Kiryu"
+msgid "Oh, really?"
+msgstr ""
+
+msgctxt "12084_Shizuka"
+msgid "Yes... I couldn't just complain like that. I'd be too embarrassed."
+msgstr ""
+
+msgctxt "12096_Kiryu"
+msgid "There's nothing to be embarrassed about. He was the one in the wrong."
+msgstr ""
+
+msgctxt "12108_Shizuka"
+msgid ""
+"I suppose. But I'd just hate to make a big deal out of little things like "
+"that. I don't even like seeing other people do it."
+msgstr ""
+
+msgctxt "12120_Kiryu"
+msgid "So you just grin and bear it, huh?"
+msgstr ""
+
+msgctxt "12132_Shizuka"
+msgid "Pretty much. I usually don't make a fuss about it. I just give up."
+msgstr ""
+
+msgctxt "12144_Kiryu"
+msgid "I see..."
+msgstr ""
+
+msgctxt "12156_Kiryu"
+msgid "Hahaha! I guess this isn't your day."
+msgstr ""
+
+msgctxt "12168_Shizuka"
+msgid "No, it really wasn't..."
+msgstr ""
+
+msgctxt "12180_Kiryu"
+msgid ""
+"I had something like that happen to me once. Somebody put my can of iced "
+"coffee right on top of my hot boxed lunch. What were they thinking?"
+msgstr ""
+
+msgctxt "12192_Shizuka"
+msgid "Haha! So I guess you had one of those experiences too, huh, sir?"
+msgstr ""
+
+msgctxt "12204_Kiryu"
+msgid ""
+"Yeah. Those things don't normally happen, but sometimes you run into "
+"cashiers who have no idea what they're doing."
+msgstr ""
+
+msgctxt "12216_Shizuka"
+msgid ""
+"I was kind of depressed before, but it makes me feel better to think that "
+"you've had the same thing happen to you, sir."
+msgstr ""
+
+msgctxt "12228_Shizuka"
+msgid "Sometimes you just have to laugh, I guess."
+msgstr ""
+
+msgctxt "12240_Kiryu"
+msgid "Heh. I agree."
+msgstr ""
+
+msgctxt "12264_Shizuka"
+msgid "My mother bought me some aloe soap the other day."
+msgstr ""
+
+msgctxt "12276_Kiryu"
+msgid "Oh? Is that something special?"
+msgstr ""
+
+msgctxt "12288_Shizuka"
+msgid ""
+"The soap isn't really special, but when I was a little girl, my grandmother "
+"used some aloe to help me, so I've always had a soft spot for it."
+msgstr ""
+
+msgctxt "12300_Shizuka"
+msgid ""
+"I was talking with my grandmother in the kitchen and accidentally knocked "
+"over a teapot. The hot water spilled all over my back."
+msgstr ""
+
+msgctxt "12312_Kiryu"
+msgid "Did you get burned?"
+msgstr ""
+
+msgctxt "12324_Shizuka"
+msgid ""
+"Yes. I was crying of course, but my grandmother ran to the garden where she "
+"had some aloe plants and broke some off to rub on my back."
+msgstr ""
+
+msgctxt "12336_Shizuka"
+msgid "It hurt terribly, but the aloe helped a lot, and I eventually calmed down."
+msgstr ""
+
+msgctxt "12348_Kiryu"
+msgid "I see. So your grandmother really saved you, huh?"
+msgstr ""
+
+msgctxt "12360_Shizuka"
+msgid ""
+"Yes. We went to the doctor later, and he said that I probably wouldn't have "
+"much of a scar at all because of my grandmother's quick thinking."
+msgstr ""
+
+msgctxt "12372_Shizuka"
+msgid ""
+"And he was right. All I have is a tiny mark on my right shoulder. You can "
+"barely see it."
+msgstr ""
+
+msgctxt "12384_Kiryu"
+msgid "Do people grow aloe in their gardens?"
+msgstr ""
+
+msgctxt "12396_Shizuka"
+msgid "Yes. Aloe can be used in medicine, so that's why we had it in the garden."
+msgstr ""
+
+msgctxt "12408_Kiryu"
+msgid ""
+"Huh... I didn't know that. Maybe I'll start growing some in my garden at "
+"home."
+msgstr ""
+
+msgctxt "12420_Shizuka"
+msgid "That would be nice."
+msgstr ""
+
+msgctxt "12432_Kiryu"
+msgid ""
+"It's just like they say－it pays to be prepared. We could learn a thing or "
+"two from older folks like your grandma."
+msgstr ""
+
+msgctxt "12444_Shizuka"
+msgid ""
+"Of course! Looking at the aloe soap made me realize how much I really owe "
+"my grandmother."
+msgstr ""
+
+msgctxt "12456_Kiryu"
+msgid "You should be grateful to your grandma."
+msgstr ""
+
+msgctxt "12468_Shizuka"
+msgid ""
+"Yes, of course! There's wisdom that you can only learn through experience "
+"and age."
+msgstr ""
+
+msgctxt "12480_Kiryu"
+msgid "You're right."
+msgstr ""
+
+msgctxt "12492_Shizuka"
+msgid ""
+"I still remember how calm she was when I burned myself. I panicked, but she "
+"stayed perfectly calm."
+msgstr ""
+
+msgctxt "12504_Kiryu"
+msgid "Good for her."
+msgstr ""
+
+msgctxt "12516_Shizuka"
+msgid ""
+"It helped so much. Even though my back hurt terribly, when I looked at her, "
+"I felt like I could get through it."
+msgstr ""
+
+msgctxt "12528_Kiryu"
+msgid ""
+"I see. I'll have to take a page from your grandma's book when I deal with "
+"my own kids."
+msgstr ""
+
+msgctxt "12540_Shizuka"
+msgid ""
+"Hehehe. You really care so much about your children. It really makes me "
+"respect you, sir."
+msgstr ""
+
+msgctxt "12552_Kiryu"
+msgid "I guess your head was in the clouds even then."
+msgstr ""
+
+msgctxt "12564_Shizuka"
+msgid "Pretty much. Even now there are times I get a little distracted."
+msgstr ""
+
+msgctxt "12576_Kiryu"
+msgid ""
+"They say that being careless for just a second can cause an injury that "
+"lasts a lifetime. Little things can take a long time to get over."
+msgstr ""
+
+msgctxt "12588_Shizuka"
+msgid ""
+"Yes. It took about two months to recover from my burns. I wasn't "
+"daydreaming or anything, though. I just tripped."
+msgstr ""
+
+msgctxt "12600_Kiryu"
+msgid ""
+"Sorry, I didn't mean anything by it. Anyway, I'm glad it didn't leave a "
+"scar."
+msgstr ""
+
+msgctxt "12612_Shizuka"
+msgid "Yes. I'm grateful to my grandmother. And to aloe, of course."
+msgstr ""
+
+msgctxt "12624_Shizuka"
+msgid "I... I must apologize for that bento."
+msgstr ""
+
+msgctxt "12636_Kiryu"
+msgid "Why are you sorry? It was delicious."
+msgstr ""
+
+msgctxt "12648_Shizuka"
+msgid "No, I never should have made you eat at a place like that."
+msgstr ""
+
+msgctxt "12660_Shizuka"
+msgid "I don't know what I was thinking!"
+msgstr ""
+
+msgctxt "12672_Kiryu"
+msgid "What are you talking about?"
+msgstr ""
+
+msgctxt "12684_Shizuka"
+msgid "But I was on a date with you, and I ended up being just so selfish..."
+msgstr ""
+
+msgctxt "12696_Kiryu"
+msgid ""
+"It was delicious, so don't worry about it. I didn't even think twice about "
+"it."
+msgstr ""
+
+msgctxt "12708_Shizuka"
+msgid ""
+"Even if it was good, I should never have made you eat in a place like that! "
+"That was so thoughtless of me!"
+msgstr ""
+
+msgctxt "12720_Shizuka"
+msgid "Oh, I just want to crawl into a hole and die!"
+msgstr ""
+
+msgctxt "12732_Kiryu"
+msgid "Into a hole...?"
+msgstr ""
+
+msgctxt "12744_Shizuka"
+msgid "Yes. Well, there's no hole to crawl into here, but you know what I mean."
+msgstr ""
+
+msgctxt "12756_Kiryu"
+msgid "I guess. You're really upset about this, aren't you?"
+msgstr ""
+
+msgctxt "12768_Shizuka"
+msgid ""
+"I'm sorry. This always happens to me. I get too worked up about little "
+"things."
+msgstr ""
+
+msgctxt "12780_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "12792_Shizuka"
+msgid "The bento was a bad idea. I'm truly sorry."
+msgstr ""
+
+msgctxt "12804_Kiryu"
+msgid "That's so like you to say."
+msgstr ""
+
+msgctxt "12816_Shizuka"
+msgid "Yes. That was quite thoughtless of me..."
+msgstr ""
+
+msgctxt "12828_Kiryu"
+msgid "No, I like it. It's part of what makes you unique."
+msgstr ""
+
+msgctxt "12840_Shizuka"
+msgid "Really...?"
+msgstr ""
+
+msgctxt "12852_Kiryu"
+msgid ""
+"Yeah. I'm usually eating at some restaurant. It's a nice change to have a "
+"bento."
+msgstr ""
+
+msgctxt "12864_Shizuka"
+msgid "It's nice of you to say that, but still..."
+msgstr ""
+
+msgctxt "12876_Shizuka"
+msgid "Do you think I'm strange?"
+msgstr ""
+
+msgctxt "12888_Kiryu"
+msgid "Well... I prefer to say that you march to the beat of your own drum."
+msgstr ""
+
+msgctxt "12900_Shizuka"
+msgid "I don't know if I like the sound of that."
+msgstr ""
+
+msgctxt "12912_Kiryu"
+msgid ""
+"I didn't mean anything bad by it. There's nothing wrong with being a little "
+"different."
+msgstr ""
+
+msgctxt "12924_Shizuka"
+msgid "You truly are too kind to one such as me."
+msgstr ""
+
+msgctxt "12936_Kiryu"
+msgid ""
+"Bentos are nice once in a while. It was a lot more fun than eating at a "
+"restaurant."
+msgstr ""
+
+msgctxt "12948_Shizuka"
+msgid "Really...?"
+msgstr ""
+
+msgctxt "12960_Kiryu"
+msgid "Sure. And I could see that you put your heart into making that lunch."
+msgstr ""
+
+msgctxt "12972_Kiryu"
+msgid "I was touched that you put so much effort into making something for me."
+msgstr ""
+
+msgctxt "12984_Shizuka"
+msgid ""
+"And I was glad to have you eat it! I guess it wasn't such a bad idea after "
+"all."
+msgstr ""
+
+msgctxt "12996_Kiryu"
+msgid "I'd love to have one again sometime if you don't mind making it for me."
+msgstr ""
+
+msgctxt "13008_Shizuka"
+msgid ""
+"Of course! I'll have to practice my cooking so I can make an even better "
+"one!"
+msgstr ""
+
+msgctxt "13020_Kiryu"
+msgid "Heh. Looking forward to it."
+msgstr ""
+
+msgctxt "13032_Shizuka"
+msgid "Sir... There's something I need to talk about."
+msgstr ""
+
+msgctxt "13044_Kiryu"
+msgid "Hm? Why are you so serious all of the sudden?"
+msgstr ""
+
+msgctxt "13056_Shizuka"
+msgid ""
+"It looks like I may be getting some on-the-job training as part of my "
+"embalming apprenticeship."
+msgstr ""
+
+msgctxt "13068_Kiryu"
+msgid "Really? That's great. Congratulations."
+msgstr ""
+
+msgctxt "13080_Shizuka"
+msgid "It is a great opportunity for me if I want to go ahead and get my license."
+msgstr ""
+
+msgctxt "13092_Shizuka"
+msgid "The problem is that I can't do it here."
+msgstr ""
+
+msgctxt "13104_Kiryu"
+msgid "No? Then where?"
+msgstr ""
+
+msgctxt "13116_Shizuka"
+msgid "Boston."
+msgstr ""
+
+msgctxt "13128_Kiryu"
+msgid "So you're going to America? For how long?"
+msgstr ""
+
+msgctxt "13140_Shizuka"
+msgid "Probably two years."
+msgstr ""
+
+msgctxt "13152_Kiryu"
+msgid "Two years, huh?"
+msgstr ""
+
+msgctxt "13164_Kiryu"
+msgid ""
+"Are you worried that your family won't approve? That's a long time to be "
+"away from them."
+msgstr ""
+
+msgctxt "13176_Shizuka"
+msgid ""
+"My family knows that I wouldn't listen if they tried to stop me, so they're "
+"being very supportive."
+msgstr ""
+
+msgctxt "13188_Kiryu"
+msgid "I see... Then what's the problem?"
+msgstr ""
+
+msgctxt "13200_Shizuka"
+msgid "Well... It's something I've just got to come to terms with."
+msgstr ""
+
+msgctxt "13212_Shizuka"
+msgid "It's just that... I won't be able to see you anymore..."
+msgstr ""
+
+msgctxt "13224_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "13236_Shizuka"
+msgid "So I'm not very enthusiastic about the idea."
+msgstr ""
+
+msgctxt "13248_Kiryu"
+msgid "I'm touched, but what about your dream?"
+msgstr ""
+
+msgctxt "13260_Kiryu"
+msgid "I think you need to give this some serious thought."
+msgstr ""
+
+msgctxt "13272_Shizuka"
+msgid "I know..."
+msgstr ""
+
+msgctxt "13284_Kiryu"
+msgid "I'm going to miss you."
+msgstr ""
+
+msgctxt "13296_Shizuka"
+msgid ""
+"Yes... I'll miss you too. It's going to be difficult, being away from you "
+"for that long."
+msgstr ""
+
+msgctxt "13308_Shizuka"
+msgid "Now that I know that you feel the same way, it just makes me feel worse."
+msgstr ""
+
+msgctxt "13320_Shizuka"
+msgid "If you didn't care about me, I wouldn't feel so bad about going."
+msgstr ""
+
+msgctxt "13332_Kiryu"
+msgid "I'm flattered you feel that way, but..."
+msgstr ""
+
+msgctxt "13344_Shizuka"
+msgid ""
+"I suppose I should feel happy just to have met you, even if just for a "
+"short time."
+msgstr ""
+
+msgctxt "13356_Shizuka"
+msgid "Oh, I don't know what to do. Should I stay?"
+msgstr ""
+
+msgctxt "13368_Kiryu"
+msgid "Listen. This decision could affect your entire life. It's an important one."
+msgstr ""
+
+msgctxt "13380_Kiryu"
+msgid "I can't tell you not to go. You have to make this decision on your own."
+msgstr ""
+
+msgctxt "13392_Shizuka"
+msgid "You're right..."
+msgstr ""
+
+msgctxt "13404_Kiryu"
+msgid "Good luck. It sounds like a great opportunity for you."
+msgstr ""
+
+msgctxt "13416_Shizuka"
+msgid "......"
+msgstr ""
+
+msgctxt "13428_Kiryu"
+msgid "Hm? What's wrong?"
+msgstr ""
+
+msgctxt "13440_Shizuka"
+msgid "So... you think it best for me to go?"
+msgstr ""
+
+msgctxt "13452_Kiryu"
+msgid ""
+"Of course. You've been studying all this time to become a professional "
+"embalmer, right?"
+msgstr ""
+
+msgctxt "13464_Shizuka"
+msgid "Yes, and that's why I'm so troubled by this..."
+msgstr ""
+
+msgctxt "13476_Shizuka"
+msgid ""
+"It's difficult to have someone you care so much about encourage you to "
+"leave."
+msgstr ""
+
+msgctxt "13488_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "13500_Shizuka"
+msgid ""
+"If I go, I can't see you. But if I don't go, I may not be able to make my "
+"dream come true."
+msgstr ""
+
+msgctxt "13512_Shizuka"
+msgid "I just can't seem to come to a decision. I'm ashamed..."
+msgstr ""
+
+msgctxt "13524_Kiryu"
+msgid "Everyone has to face decisions like that at some point in their life."
+msgstr ""
+
+msgctxt "13536_Kiryu"
+msgid ""
+"But if you face it head on, the answer will always come to you. You "
+"shouldn't try to avoid it."
+msgstr ""
+
+msgctxt "13548_Shizuka"
+msgid "You're right... I'll have to think on this carefully."
+msgstr ""
+
+msgctxt "13560_Shizuka"
+msgid "If you'll allow it... I have a question to ask you."
+msgstr ""
+
+msgctxt "13572_Kiryu"
+msgid "Sure."
+msgstr ""
+
+msgctxt "13584_Shizuka"
+msgid "I'm just not sure what to do about my on-the-job training."
+msgstr ""
+
+msgctxt "13596_Kiryu"
+msgid "I see..."
+msgstr ""
+
+msgctxt "13608_Shizuka"
+msgid ""
+"As I told you, it was my friend's death that first made me want to become "
+"an embalmer."
+msgstr ""
+
+msgctxt "13620_Shizuka"
+msgid "I think my unresolved feelings toward him were a big part of my motivation."
+msgstr ""
+
+msgctxt "13632_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "13644_Shizuka"
+msgid ""
+"But now I feel like he's telling me not to use his death as a reason to "
+"become an embalmer."
+msgstr ""
+
+msgctxt "13656_Kiryu"
+msgid "I'm not sure I understand. What do you mean, exactly?"
+msgstr ""
+
+msgctxt "13668_Shizuka"
+msgid ""
+"I don't think he would want me to become an embalmer just because I need "
+"closure for my feelings towards him."
+msgstr ""
+
+msgctxt "13680_Kiryu"
+msgid "I see. That makes sense."
+msgstr ""
+
+msgctxt "13692_Kiryu"
+msgid ""
+"If that was the only reason you were doing it, your clients might not like "
+"it much either."
+msgstr ""
+
+msgctxt "13704_Shizuka"
+msgid "......"
+msgstr ""
+
+msgctxt "13716_Kiryu"
+msgid ""
+"Uh, but what I'm saying is just hypothetical. I mean, you have other "
+"reasons for becoming an embalmer, right?"
+msgstr ""
+
+msgctxt "13728_Shizuka"
+msgid "Well... I'm not so sure."
+msgstr ""
+
+msgctxt "13740_Shizuka"
+msgid "Why do I really want to become an embalmer?"
+msgstr ""
+
+msgctxt "13752_Kiryu"
+msgid "That voice you hear isn't your friend's. It's yours."
+msgstr ""
+
+msgctxt "13764_Shizuka"
+msgid "Maybe you're right."
+msgstr ""
+
+msgctxt "13776_Kiryu"
+msgid ""
+"I think you're lucky that you realized this before you went to America. "
+"You've got some serious thinking to do."
+msgstr ""
+
+msgctxt "13788_Shizuka"
+msgid "Yes..."
+msgstr ""
+
+msgctxt "13800_Shizuka"
+msgid "Sir... I mean, Kiryu-san. Thank you for listening to me."
+msgstr ""
+
+msgctxt "13812_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "13824_Kiryu"
+msgid "That voice you hear is actually your own."
+msgstr ""
+
+msgctxt "13836_Shizuka"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "13848_Kiryu"
+msgid ""
+"Do you really want to become an embalmer just to work out your feelings "
+"toward your friend? I don't think so."
+msgstr ""
+
+msgctxt "13860_Kiryu"
+msgid ""
+"If that's the only reason, you might end up quitting once you've gotten "
+"closure."
+msgstr ""
+
+msgctxt "13872_Kiryu"
+msgid ""
+"And you're thinking if you could work out those issues just by talking with "
+"me, you might not have to go to America at all."
+msgstr ""
+
+msgctxt "13884_Shizuka"
+msgid "I..."
+msgstr ""
+
+msgctxt "13896_Kiryu"
+msgid ""
+"But you know that's not how it should be. If you're going to become an "
+"embalmer, you have to be doing it for the right reasons."
+msgstr ""
+
+msgctxt "13908_Shizuka"
+msgid "Yes... I'm wondering if I really want to go all the way to America for this."
+msgstr ""
+
+msgctxt "13920_Kiryu"
+msgid ""
+"You've still got time. There's no need to rush this. Give it some more "
+"thought before you make a decision."
+msgstr ""
+
+msgctxt "13932_Shizuka"
+msgid "Sir... I mean Kiryu-san... Thank you for the advice."
+msgstr ""
+
+msgctxt "13944_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "13956_Kiryu"
+msgid "Wake up. You know he's not really speaking to you."
+msgstr ""
+
+msgctxt "13968_Shizuka"
+msgid ""
+"I didn't mean I could actually hear him. I thought that he would probably "
+"say something like that if he were around."
+msgstr ""
+
+msgctxt "13980_Kiryu"
+msgid "Either way, it's all in your head."
+msgstr ""
+
+msgctxt "13992_Kiryu"
+msgid ""
+"Listen, I know you cared about this guy, but right now, you have to "
+"concentrate on your future as an embalmer."
+msgstr ""
+
+msgctxt "14004_Shizuka"
+msgid "......"
+msgstr ""
+
+msgctxt "14016_Kiryu"
+msgid ""
+"This may seem harsh, but if you really want to be an embalmer, it doesn't "
+"matter what I think or what your friend would have thought."
+msgstr ""
+
+msgctxt "14028_Kiryu"
+msgid "You have to make this decision for yourself."
+msgstr ""
+
+msgctxt "14040_Shizuka"
+msgid "......"
+msgstr ""
+
+msgctxt "14052_Shizuka"
+msgid ""
+"It's just going to be very hard on me thinking that I won't be able to see "
+"you."
+msgstr ""
+
+msgctxt "14064_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "14076_Shizuka"
+msgid ""
+"But that's not a good enough reason to give up on my training. Maybe I need "
+"to put more serious thought into my career as an embalmer."
+msgstr ""
+
+msgctxt "14088_Kiryu"
+msgid "Maybe so..."
+msgstr ""
+
+msgctxt "14100_Shizuka"
+msgid "Sir... I mean Kiryu-san... Thank you for the advice."
+msgstr ""
+
+msgctxt "14112_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "14136_Shizuka"
+msgid "*yawn*"
+msgstr ""
+
+msgctxt "14148_Kiryu"
+msgid "What's wrong? You look tired."
+msgstr ""
+
+msgctxt "14160_Shizuka"
+msgid "Oh! I'm sorry..."
+msgstr ""
+
+msgctxt "14172_Shizuka"
+msgid ""
+"I just feel so relaxed when I'm with you. Sometimes it makes me feel a "
+"little sleepy."
+msgstr ""
+
+msgctxt "14184_Kiryu"
+msgid "Heh. Why do you say that?"
+msgstr ""
+
+msgctxt "14196_Shizuka"
+msgid "Your voice is so nice and soothing. It makes me feel like I'm dreaming."
+msgstr ""
+
+msgctxt "14208_Kiryu"
+msgid "Okay, but you shouldn't actually fall asleep."
+msgstr ""
+
+msgctxt "14220_Shizuka"
+msgid "I just get so sleepy whenever you say anything to me, sir."
+msgstr ""
+
+msgctxt "14232_Kiryu"
+msgid "Come on now. That means I'll have to go home."
+msgstr ""
+
+msgctxt "14244_Shizuka"
+msgid "But..."
+msgstr ""
+
+msgctxt "14256_Shizuka"
+msgid "I'm terribly sorry, I was just joking. I didn't mean to upset you..."
+msgstr ""
+
+msgctxt "14268_Kiryu"
+msgid "Sheesh... Are you this nervous around other customers?"
+msgstr ""
+
+msgctxt "14280_Shizuka"
+msgid "I am... I can't relax as well with them compared to when I'm with you."
+msgstr ""
+
+msgctxt "14292_Kiryu"
+msgid ""
+"I see... Well, just don't fall asleep in front of your other customers, "
+"okay?"
+msgstr ""
+
+msgctxt "14304_Shizuka"
+msgid "I'll do my best."
+msgstr ""
+
+msgctxt "14316_Kiryu"
+msgid "You're working yourself too hard. Maybe you should take a little nap."
+msgstr ""
+
+msgctxt "14328_Shizuka"
+msgid ""
+"No. I couldn't do something like that when you're here. Besides, my manager "
+"would get terribly angry with me."
+msgstr ""
+
+msgctxt "14340_Kiryu"
+msgid ""
+"Is that so? Well, I wouldn't mind having a drink while I watch you sleep. I "
+"wonder what you look like when you're sleeping."
+msgstr ""
+
+msgctxt "14352_Shizuka"
+msgid ""
+"What? I don't know what I look like when I sleep. This is so embarrassing! "
+"I don't want you to see me like that!"
+msgstr ""
+
+msgctxt "14364_Kiryu"
+msgid "That just makes me want to see you like that even more."
+msgstr ""
+
+msgctxt "14376_Shizuka"
+msgid "Hahaha! Oh you... <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14388_Kiryu"
+msgid "Should I get you a pillow?"
+msgstr ""
+
+msgctxt "14400_Shizuka"
+msgid "You know that's not possible... Now you're just teasing..."
+msgstr ""
+
+msgctxt "14412_Kiryu"
+msgid ""
+"But the best way to stop yourself from being sleepy is to just go ahead and "
+"take a nap."
+msgstr ""
+
+msgctxt "14424_Shizuka"
+msgid "No, it would be a waste to sleep while you're here."
+msgstr ""
+
+msgctxt "14436_Shizuka"
+msgid ""
+"I'm staying awake. You go ahead and give me a little shake if it looks like "
+"I'm nodding off."
+msgstr ""
+
+msgctxt "14448_Kiryu"
+msgid "All right."
+msgstr ""
+
+msgctxt "14460_Shizuka"
+msgid "But... I'm not opposed to the idea of having you sleep with me, sir."
+msgstr ""
+
+msgctxt "14472_Kiryu"
+msgid "Uh, what do you mean by that?"
+msgstr ""
+
+msgctxt "14496_Shizuka"
+msgid ""
+"I had a feeling you would be coming today! Looks like I was right! Things "
+"are going my way!"
+msgstr ""
+
+msgctxt "14508_Kiryu"
+msgid "Heh. I feel like I've heard you say that before."
+msgstr ""
+
+msgctxt "14520_Kiryu"
+msgid "Something about eating your fish neatly?"
+msgstr ""
+
+msgctxt "14532_Shizuka"
+msgid ""
+"Hehehe. ♪ I was actually making a scrunchie, which I haven't done in a long "
+"time."
+msgstr ""
+
+msgctxt "14544_Kiryu"
+msgid "A scrunchie?"
+msgstr ""
+
+msgctxt "14556_Shizuka"
+msgid "Yes, it's like a ribbon that you can use to tie your hair back."
+msgstr ""
+
+msgctxt "14568_Kiryu"
+msgid "Oh yeah? That's a pretty feminine activity."
+msgstr ""
+
+msgctxt "14580_Shizuka"
+msgid ""
+"Anyway, it came out really well. I think it's the best one I've ever made. "
+"It made me think that today was a lucky day."
+msgstr ""
+
+msgctxt "14592_Kiryu"
+msgid ""
+"You're just talented. I'm not surprised to see another thing you can do "
+"well."
+msgstr ""
+
+msgctxt "14604_Shizuka"
+msgid ""
+"I don't know about that. It's true that the things I try to make don't "
+"usually turn into horrible failures, but..."
+msgstr ""
+
+msgctxt "14616_Kiryu"
+msgid ""
+"So that means you do a pretty good job every time, right? You just happened "
+"to do even better this time. It wasn't a sign or anything."
+msgstr ""
+
+msgctxt "14628_Shizuka"
+msgid "But today really went well..."
+msgstr ""
+
+msgctxt "14640_Shizuka"
+msgid ""
+"You don't believe in things like astrology or fortune telling at all, do "
+"you, sir?"
+msgstr ""
+
+msgctxt "14652_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "14664_Kiryu"
+msgid ""
+"Women's intuition can be a little scary. Do you ever feel like something "
+"bad is about to happen?"
+msgstr ""
+
+msgctxt "14676_Shizuka"
+msgid "Yes... And when I get that kind of feeling, it usually comes true, too."
+msgstr ""
+
+msgctxt "14688_Kiryu"
+msgid "Oh yeah? I guess I can't go cheat on you if you're a psychic..."
+msgstr ""
+
+msgctxt "14700_Shizuka"
+msgid ""
+"That's right! So you better be on your best behavior, sir! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14712_Kiryu"
+msgid "I'm just kidding. You know I wouldn't do anything like that, right?"
+msgstr ""
+
+msgctxt "14724_Shizuka"
+msgid "Of course. I trust you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14736_Kiryu"
+msgid "Are your hunches ever wrong? I might not have come today, you know."
+msgstr ""
+
+msgctxt "14748_Shizuka"
+msgid ""
+"If you hadn't come, then I would've thought that I could make an even "
+"better scrunchie someday. If it wasn't the best, you wouldn't have come."
+msgstr ""
+
+msgctxt "14760_Kiryu"
+msgid "Is that so? That's a pretty positive outlook."
+msgstr ""
+
+msgctxt "14772_Shizuka"
+msgid ""
+"I just try to do my best every day. I figure that way I have the best "
+"chance of seeing you."
+msgstr ""
+
+msgctxt "14784_Kiryu"
+msgid "Ah... I'm sure things will go well for you then."
+msgstr ""
+
+msgctxt "14796_Shizuka"
+msgid "Exactly! ♪"
+msgstr ""
+
+msgctxt "14820_Shizuka"
+msgid "Um... Do you use the stairs very often, sir?"
+msgstr ""
+
+msgctxt "14832_Kiryu"
+msgid "Hm? Why do you ask?"
+msgstr ""
+
+msgctxt "14844_Shizuka"
+msgid ""
+"I always try to use the stairs whenever I can, but one of my friends told "
+"me the other day that not very many people do."
+msgstr ""
+
+msgctxt "14856_Kiryu"
+msgid "Well, why do you always use the stairs then?"
+msgstr ""
+
+msgctxt "14868_Shizuka"
+msgid "Going up and down the stairs is really good for your legs."
+msgstr ""
+
+msgctxt "14880_Shizuka"
+msgid ""
+"Whenever I use the stairs, I really feel like my thighs get a good workout. "
+"It's good for you!"
+msgstr ""
+
+msgctxt "14892_Kiryu"
+msgid ""
+"Is that so? Well, if that's your reason, then I don't think there's "
+"anything wrong with that."
+msgstr ""
+
+msgctxt "14904_Shizuka"
+msgid "Really? Well, if you say so, then I won't worry about it anymore."
+msgstr ""
+
+msgctxt "14916_Shizuka"
+msgid "Do you do anything in particular to stay healthy?"
+msgstr ""
+
+msgctxt "14928_Kiryu"
+msgid "Just drinking."
+msgstr ""
+
+msgctxt "14940_Shizuka"
+msgid ""
+"I've heard that alcohol can actually be good for you in small amounts. But "
+"do you drink a lot, sir?"
+msgstr ""
+
+msgctxt "14952_Kiryu"
+msgid "Sometimes, I guess..."
+msgstr ""
+
+msgctxt "14964_Shizuka"
+msgid ""
+"Pardon me for saying so, but maybe you should cut down on your drinking a "
+"bit. It makes me worry about you."
+msgstr ""
+
+msgctxt "14976_Kiryu"
+msgid ""
+"But drinking is how I relax and forget about the stress of work. I don't "
+"think I could give that up."
+msgstr ""
+
+msgctxt "14988_Shizuka"
+msgid ""
+"Oh... Well then, forget I ever said anything. It was really none of my "
+"business. My apologies..."
+msgstr ""
+
+msgctxt "15000_Kiryu"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "15012_Kiryu"
+msgid ""
+"Playing with my kids. We play a lot of games like baseball and dodgeball. "
+"It's great exercise."
+msgstr ""
+
+msgctxt "15024_Shizuka"
+msgid "My, isn't that wonderful!"
+msgstr ""
+
+msgctxt "15036_Shizuka"
+msgid ""
+"And I bet just being with your children instills you with energy, doesn't "
+"it?"
+msgstr ""
+
+msgctxt "15048_Kiryu"
+msgid "It does. Seeing the kids smile makes me forget all about my fatigue."
+msgstr ""
+
+msgctxt "15060_Shizuka"
+msgid "I'm so jealous! I'd love to come play with you all sometime!"
+msgstr ""
+
+msgctxt "15072_Shizuka"
+msgid "Do you think you could take me to Okinawa someday, sir?"
+msgstr ""
+
+msgctxt "15084_Kiryu"
+msgid "Maybe I'll take you as a reward for completing your studies."
+msgstr ""
+
+msgctxt "15096_Shizuka"
+msgid ""
+"I'm so happy. <Color:7>♥<Color:Default> I feel like I could get my license "
+"tomorrow!"
+msgstr ""
+
+msgctxt "15108_Kiryu"
+msgid "Heh."
+msgstr ""
+
+msgctxt "15120_Kiryu"
+msgid "Coming to see you."
+msgstr ""
+
+msgctxt "15132_Shizuka"
+msgid "Oh my. ♪ Sir, you don't have to say such things for my sake."
+msgstr ""
+
+msgctxt "15144_Kiryu"
+msgid ""
+"I'm serious. I mean, I'm not sure if it really helps me stay healthy or "
+"not, but I really do enjoy seeing you."
+msgstr ""
+
+msgctxt "15156_Shizuka"
+msgid "Really? You don't mind my presence?"
+msgstr ""
+
+msgctxt "15168_Kiryu"
+msgid "Sure. I like you because of how you are. You really help me relax."
+msgstr ""
+
+msgctxt "15180_Shizuka"
+msgid "It's nice of you to say that."
+msgstr ""
+
+msgctxt "15192_Kiryu"
+msgid "I'm telling the truth."
+msgstr ""
+
+msgctxt "15204_Shizuka"
+msgid "Then are you prepared to come see me every day? Hehehe."
+msgstr ""
+
+msgctxt "15216_Kiryu"
+msgid "I'll do my best."
+msgstr ""
+
+msgctxt "15240_Shizuka"
+msgid "I've been so sleepy during the day recently. Maybe it's due to stress."
+msgstr ""
+
+msgctxt "15252_Kiryu"
+msgid "That's not good. Maybe you're working too hard."
+msgstr ""
+
+msgctxt "15264_Shizuka"
+msgid "You're right. Maybe I need to reduce the amount of my nighttime work a bit."
+msgstr ""
+
+msgctxt "15276_Kiryu"
+msgid ""
+"That's a good idea. Your studies should really come first. If you're "
+"wearing yourself out from your night job, you need to reexamine your "
+"priorities."
+msgstr ""
+
+msgctxt "15288_Shizuka"
+msgid "Still, when I get too tired, I can always count on my cat to help me relax."
+msgstr ""
+
+msgctxt "15300_Shizuka"
+msgid ""
+"When I get home, I sit in my room for a while to rest. If I'm tired, my cat "
+"always comes and plops right down in my lap."
+msgstr ""
+
+msgctxt "15312_Kiryu"
+msgid ""
+"Pets are a lot of work, aren't they? Doesn't taking care of him make you "
+"more tired?"
+msgstr ""
+
+msgctxt "15324_Shizuka"
+msgid ""
+"Not at all. He can be a little work sometimes, but I love just having him "
+"around the house."
+msgstr ""
+
+msgctxt "15336_Kiryu"
+msgid ""
+"I see... Maybe I'm just used to dogs. Ours can really tire me out. He's got "
+"too much energy."
+msgstr ""
+
+msgctxt "15348_Shizuka"
+msgid "Yes. With dogs, you have to take them out for walks and everything."
+msgstr ""
+
+msgctxt "15360_Shizuka"
+msgid "But I still think they can help cheer you up when you're feeling down."
+msgstr ""
+
+msgctxt "15372_Kiryu"
+msgid "You're right about that..."
+msgstr ""
+
+msgctxt "15384_Kiryu"
+msgid "I wouldn't mind trying that myself. It sounds like it'd be very relaxing."
+msgstr ""
+
+msgctxt "15396_Shizuka"
+msgid "Huh? You'd like to lay your head on my lap?"
+msgstr ""
+
+msgctxt "15408_Kiryu"
+msgid "Yeah. You wouldn't like that?"
+msgstr ""
+
+msgctxt "15420_Shizuka"
+msgid "I didn't say that."
+msgstr ""
+
+msgctxt "15432_Shizuka"
+msgid ""
+"It's just that... Well, everyone can see us. I'd be too embarrassed to do "
+"something like that here."
+msgstr ""
+
+msgctxt "15444_Kiryu"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "15456_Shizuka"
+msgid "I guess talking with me isn't enough to relax you."
+msgstr ""
+
+msgctxt "15468_Shizuka"
+msgid "I'm sorry I'm not good enough."
+msgstr ""
+
+msgctxt "15480_Kiryu"
+msgid "He must be like family to you. I guess that makes taking care of him easier."
+msgstr ""
+
+msgctxt "15492_Shizuka"
+msgid "Yes. I don't know what he thinks, but he's certainly like family to me."
+msgstr ""
+
+msgctxt "15504_Kiryu"
+msgid ""
+"It's nice to have family around when you get home even if they don't do "
+"anything in particular for you."
+msgstr ""
+
+msgctxt "15516_Shizuka"
+msgid "Oh yes. He makes me feel like I can do anything."
+msgstr ""
+
+msgctxt "15528_Kiryu"
+msgid "Just try to not work yourself too hard, okay?"
+msgstr ""
+
+msgctxt "15540_Shizuka"
+msgid "Thank you for worrying about me. It makes me happy to think that you care."
+msgstr ""
+
+msgctxt "15564_Shizuka"
+msgid "I discovered the strangest thing when I woke up this morning."
+msgstr ""
+
+msgctxt "15576_Kiryu"
+msgid "Oh? What was it?"
+msgstr ""
+
+msgctxt "15588_Shizuka"
+msgid ""
+"I had a customer last night who kept buying me drink after drink. I drank a "
+"lot more than I usually do."
+msgstr ""
+
+msgctxt "15600_Shizuka"
+msgid ""
+"I was okay up until the point I left the club, but I must have blacked out "
+"on the way home."
+msgstr ""
+
+msgctxt "15612_Kiryu"
+msgid "You really did drink a lot, didn't you?"
+msgstr ""
+
+msgctxt "15624_Shizuka"
+msgid "Yes... I don't think I've ever drank that much in my life."
+msgstr ""
+
+msgctxt "15636_Shizuka"
+msgid ""
+"When I woke up this morning, I was in my own bed, so I managed to get home "
+"somehow."
+msgstr ""
+
+msgctxt "15648_Kiryu"
+msgid "Heh. At least you were able to get home."
+msgstr ""
+
+msgctxt "15660_Shizuka"
+msgid "Yes, but then I noticed a plastic bag from a convenience store on my table."
+msgstr ""
+
+msgctxt "15672_Kiryu"
+msgid "What was in it?"
+msgstr ""
+
+msgctxt "15684_Shizuka"
+msgid ""
+"For some reason, there were eight bean paste buns, a package of safety "
+"pins, and a receipt."
+msgstr ""
+
+msgctxt "15696_Kiryu"
+msgid "Safety pins?"
+msgstr ""
+
+msgctxt "15708_Shizuka"
+msgid "I have no idea why I bought them."
+msgstr ""
+
+msgctxt "15720_Kiryu"
+msgid "You must've wanted them for some reason."
+msgstr ""
+
+msgctxt "15732_Shizuka"
+msgid ""
+"Well, I don't think I had a need for any of those things, and they're not "
+"the kind of things you'd buy just on impulse."
+msgstr ""
+
+msgctxt "15744_Shizuka"
+msgid "Oh! You don't suppose I was planning to stick the pins in the buns, do you?"
+msgstr ""
+
+msgctxt "15756_Kiryu"
+msgid ""
+"Safety pins in bean paste buns? I wouldn't put it past you. It's definitely "
+"something you'd come up with."
+msgstr ""
+
+msgctxt "15768_Shizuka"
+msgid "Hehehe. I think you may be right."
+msgstr ""
+
+msgctxt "15780_Kiryu"
+msgid "Well, the important thing is that you made it home safe and sound."
+msgstr ""
+
+msgctxt "15792_Shizuka"
+msgid "Right! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15804_Kiryu"
+msgid ""
+"I think you should give up drinking. You were lucky you made it home last "
+"night, but you shouldn't take blacking out lightly."
+msgstr ""
+
+msgctxt "15816_Shizuka"
+msgid ""
+"That's true... It's especially dangerous for a woman to be wandering around "
+"at night when she's drunk."
+msgstr ""
+
+msgctxt "15828_Kiryu"
+msgid ""
+"And even if you made it home without any problem, you wouldn't be able to "
+"concentrate on your studies with a hangover, would you?"
+msgstr ""
+
+msgctxt "15840_Shizuka"
+msgid "That's true..."
+msgstr ""
+
+msgctxt "15852_Shizuka"
+msgid "But I can't very well refuse if a customer offers to buy me a drink."
+msgstr ""
+
+msgctxt "15864_Kiryu"
+msgid ""
+"Maybe you could explain the situation to them. If they still wanted you to "
+"drink after that, they're up to no good anyway."
+msgstr ""
+
+msgctxt "15876_Shizuka"
+msgid ""
+"I don't like to be rude to my customers, but maybe that's the best thing to "
+"do."
+msgstr ""
+
+msgctxt "15888_Shizuka"
+msgid "I'm sorry about this. I guess I'm not a very good hostess, am I?"
+msgstr ""
+
+msgctxt "15900_Kiryu"
+msgid "Don't worry about it."
+msgstr ""
+
+msgctxt "15912_Kiryu"
+msgid "Did you eat the buns? Even I would have trouble eating eight of them."
+msgstr ""
+
+msgctxt "15924_Shizuka"
+msgid "After a night of drinking, I didn't have much of an appetite."
+msgstr ""
+
+msgctxt "15936_Kiryu"
+msgid "That's not surprising. Still, it's a bit of a waste."
+msgstr ""
+
+msgctxt "15948_Shizuka"
+msgid "Yes... I'll be sharing it with my family."
+msgstr ""
+
+msgctxt "15960_Kiryu"
+msgid "The cashier at the convenience store must've been pretty surprised."
+msgstr ""
+
+msgctxt "15972_Kiryu"
+msgid "He must not get very many people buying that many buns at once."
+msgstr ""
+
+msgctxt "15984_Shizuka"
+msgid "Oh yes. Especially buying them alongside safety pins."
+msgstr ""
+
+msgctxt "15996_Kiryu"
+msgid "I'm surprised you remembered to take the receipt."
+msgstr ""
+
+msgctxt "16008_Shizuka"
+msgid "Hehe. I suppose I'm still on top of things even when I'm drunk."
+msgstr ""
+
+msgctxt "16020_Kiryu"
+msgid "Heh, maybe you are..."
+msgstr ""
+
+msgctxt "16044_Shizuka"
+msgid ""
+"The other girls and I were talking with the manager the other day. We're "
+"thinking about holding some kind of promotional event."
+msgstr ""
+
+msgctxt "16056_Kiryu"
+msgid "Oh yeah? Are the girls participating in it too?"
+msgstr ""
+
+msgctxt "16068_Shizuka"
+msgid "I guess so. At this club anyway."
+msgstr ""
+
+msgctxt "16080_Shizuka"
+msgid "One of the girls suggested that we have a yukata day."
+msgstr ""
+
+msgctxt "16092_Kiryu"
+msgid "Yukatas? Sounds a little early in the year for something like that."
+msgstr ""
+
+msgctxt "16104_Shizuka"
+msgid "Yes. Everyone said it was too early for it."
+msgstr ""
+
+msgctxt "16116_Shizuka"
+msgid "And they all talked about how difficult yukatas are to wear properly."
+msgstr ""
+
+msgctxt "16128_Kiryu"
+msgid "Hmm, I guess men don't really think too much about things like that."
+msgstr ""
+
+msgctxt "16140_Shizuka"
+msgid ""
+"It can take a long time to put them on, and then you have to do your hair "
+"to match. They all decided it would be too much work."
+msgstr ""
+
+msgctxt "16152_Kiryu"
+msgid "I get it now."
+msgstr ""
+
+msgctxt "16164_Shizuka"
+msgid ""
+"But I thought it might be worth a try. Once you get used to it, they're not "
+"really that hard to put on, but I guess it's not going to happen."
+msgstr ""
+
+msgctxt "16176_Kiryu"
+msgid "I take it you're used to wearing kimonos?"
+msgstr ""
+
+msgctxt "16188_Shizuka"
+msgid ""
+"Hehehe. Perhaps this is a bit of a boast, but I can put one on in less than "
+"two minutes."
+msgstr ""
+
+msgctxt "16200_Kiryu"
+msgid "Is that fast?"
+msgstr ""
+
+msgctxt "16212_Shizuka"
+msgid ""
+"I think it would be difficult for most people to do it that quickly even if "
+"they're used to it."
+msgstr ""
+
+msgctxt "16224_Kiryu"
+msgid "Huh... Well, then that's pretty impressive."
+msgstr ""
+
+msgctxt "16236_Shizuka"
+msgid "Oh, it's really nothing. Besides, I don't really have any other skills..."
+msgstr ""
+
+msgctxt "16248_Kiryu"
+msgid ""
+"No, I think it's really impressive that you've mastered something that most "
+"modern girls can't do anymore. You should be proud."
+msgstr ""
+
+msgctxt "16260_Shizuka"
+msgid "Oh, sir, please! You're making me blush!"
+msgstr ""
+
+msgctxt "16272_Kiryu"
+msgid ""
+"You should try suggesting that again sometime. You could teach the other "
+"girls how to wear them."
+msgstr ""
+
+msgctxt "16284_Kiryu"
+msgid ""
+"I bet a lot of the girls would love to know how to wear a yukata or kimono "
+"properly."
+msgstr ""
+
+msgctxt "16296_Shizuka"
+msgid "Maybe you're right. I might do that if I get the chance."
+msgstr ""
+
+msgctxt "16308_Kiryu"
+msgid ""
+"You're like the perfect Japanese woman. You can't say that about most girls "
+"these days."
+msgstr ""
+
+msgctxt "16320_Shizuka"
+msgid "Hehe. Thank you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16332_Kiryu"
+msgid "I like traditional Japanese clothes. It's part of our heritage."
+msgstr ""
+
+msgctxt "16344_Shizuka"
+msgid "I think you'd look nice in a kimono, too."
+msgstr ""
+
+msgctxt "16356_Kiryu"
+msgid "You think so?"
+msgstr ""
+
+msgctxt "16368_Shizuka"
+msgid ""
+"It takes a certain type of man to wear a kimono properly. You have to have "
+"the right bearing and character to do it well."
+msgstr ""
+
+msgctxt "16380_Shizuka"
+msgid ""
+"But I think you'd have no trouble at all. A man like you would be quite "
+"suited to a kimono."
+msgstr ""
+
+msgctxt "16392_Kiryu"
+msgid "Maybe you can help me put one on sometime."
+msgstr ""
+
+msgctxt "16404_Shizuka"
+msgid "Absolutely. And I'll wear one with you!"
+msgstr ""
+
+msgctxt "16416_Kiryu"
+msgid "So it's no problem if I undressed you then."
+msgstr ""
+
+msgctxt "16428_Shizuka"
+msgid "You and your naughty jokes."
+msgstr ""
+
+msgctxt "16440_Kiryu"
+msgid "Heh. A woman in a yukata is every man's dream."
+msgstr ""
+
+msgctxt "16452_Shizuka"
+msgid "Did something happen to you tonight? You seem a little different than usual."
+msgstr ""
+
+msgctxt "16464_Shizuka"
+msgid "You don't usually make jokes like that."
+msgstr ""
+
+msgctxt "16476_Kiryu"
+msgid "Maybe I just had a little too much to drink."
+msgstr ""
+
+msgctxt "16488_Shizuka"
+msgid "Really? Maybe you should cut back a little then."
+msgstr ""
+
+msgctxt "16500_Kiryu"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "16524_Shizuka"
+msgid "Um... Have you ever been to the city of Venice in Italy?"
+msgstr ""
+
+msgctxt "16536_Kiryu"
+msgid "No, I can't say I have."
+msgstr ""
+
+msgctxt "16548_Shizuka"
+msgid "I heard on the news that Venice will sink into the sea soon."
+msgstr ""
+
+msgctxt "16560_Kiryu"
+msgid "Sink? What do you mean?"
+msgstr ""
+
+msgctxt "16572_Shizuka"
+msgid ""
+"It was originally built on piles of wood under the water, but the land "
+"underneath is giving way, and global warming is causing the sea to rise."
+msgstr ""
+
+msgctxt "16584_Kiryu"
+msgid "Oh, that's what this is about..."
+msgstr ""
+
+msgctxt "16596_Shizuka"
+msgid ""
+"It makes me so sad to think of a beautiful city with such a long history "
+"just sinking into the ocean."
+msgstr ""
+
+msgctxt "16608_Kiryu"
+msgid ""
+"That's just the way things go. It's sad, but there's really nothing we can "
+"do."
+msgstr ""
+
+msgctxt "16620_Shizuka"
+msgid ""
+"I suppose that's the most mature way of looking at it. I guess I'm not "
+"quite that grown up."
+msgstr ""
+
+msgctxt "16632_Kiryu"
+msgid "The city they have now is there because somebody decided to build it."
+msgstr ""
+
+msgctxt "16644_Kiryu"
+msgid ""
+"Even if it does sink into the ocean, I bet the people who live there can "
+"build an even better city if they put their minds to it."
+msgstr ""
+
+msgctxt "16656_Shizuka"
+msgid "So you think they can rebuild it?"
+msgstr ""
+
+msgctxt "16668_Shizuka"
+msgid "It's sad, but I guess there's some hope after all."
+msgstr ""
+
+msgctxt "16680_Kiryu"
+msgid "Yeah. All we can do is hope for the best, but I'm sure it'll work out fine."
+msgstr ""
+
+msgctxt "16692_Shizuka"
+msgid "Yes! They'll be in my thoughts."
+msgstr ""
+
+msgctxt "16704_Kiryu"
+msgid ""
+"That worries me, too. They've got so many historical buildings, to say "
+"nothing of the people who live there."
+msgstr ""
+
+msgctxt "16716_Shizuka"
+msgid "That's right. I can't imagine my own house sinking into the ocean."
+msgstr ""
+
+msgctxt "16728_Kiryu"
+msgid ""
+"My house in Okinawa is right by the ocean, so the thought has crossed my "
+"mind."
+msgstr ""
+
+msgctxt "16740_Kiryu"
+msgid ""
+"I don't suppose anything'll happen in the near future, but if the sea level "
+"starts to rise..."
+msgstr ""
+
+msgctxt "16752_Shizuka"
+msgid ""
+"So this could affect you, too? Ugh... Everybody's talking about global "
+"warming, but do you think we can really do anything about it?"
+msgstr ""
+
+msgctxt "16764_Kiryu"
+msgid ""
+"With something as huge as the entire planet, there's not a lot we can "
+"really do. There may not be any point in trying."
+msgstr ""
+
+msgctxt "16776_Shizuka"
+msgid ""
+"I see. I suppose you're right. Maybe there's nothing we can do... But it's "
+"so sad."
+msgstr ""
+
+msgctxt "16788_Kiryu"
+msgid ""
+"I'll have to visit before that happens. If I wait until I retire, the city "
+"may not be there anymore."
+msgstr ""
+
+msgctxt "16800_Shizuka"
+msgid ""
+"It's more than that. The people who live there are going to lose their "
+"homes, you know."
+msgstr ""
+
+msgctxt "16812_Kiryu"
+msgid "Right."
+msgstr ""
+
+msgctxt "16824_Kiryu"
+msgid ""
+"I know what it's like to lose your home. Actually, my orphanage was "
+"completely destroyed last year."
+msgstr ""
+
+msgctxt "16836_Shizuka"
+msgid "What!? That's terrible!"
+msgstr ""
+
+msgctxt "16848_Kiryu"
+msgid ""
+"It was, but the kids and the people from around the neighborhood all worked "
+"together to rebuild it."
+msgstr ""
+
+msgctxt "16860_Kiryu"
+msgid "Now it's back to the way it used to be."
+msgstr ""
+
+msgctxt "16872_Shizuka"
+msgid ""
+"That's wonderful! Maybe the Venetians can do something like that when the "
+"time comes."
+msgstr ""
+
+msgctxt "16884_Kiryu"
+msgid "I think you're right."
+msgstr ""
+
+msgctxt "16896_Shizuka"
+msgid "Have you given my present to your children yet?"
+msgstr ""
+
+msgctxt "16908_Kiryu"
+msgid "No, not yet. I have to arrange to have it sent to Okinawa."
+msgstr ""
+
+msgctxt "16920_Shizuka"
+msgid ""
+"I can't wait for them to get it. Just thinking of their smiling faces makes "
+"me so happy."
+msgstr ""
+
+msgctxt "16932_Kiryu"
+msgid "Heh. Guess I should hurry and make my way back to Okinawa."
+msgstr ""
+
+msgctxt "16944_Shizuka"
+msgid "By the way, I found out when I'm leaving for my on-the-job training."
+msgstr ""
+
+msgctxt "16956_Kiryu"
+msgid "You did? When is it?"
+msgstr ""
+
+msgctxt "16968_Shizuka"
+msgid "The middle of next month."
+msgstr ""
+
+msgctxt "16980_Kiryu"
+msgid "That's pretty soon. That's not nearly enough time."
+msgstr ""
+
+msgctxt "16992_Shizuka"
+msgid "You think so? I think I can get ready by then."
+msgstr ""
+
+msgctxt "17004_Kiryu"
+msgid ""
+"No, I was just thinking about how many more times I could see you before "
+"then. It won't be enough."
+msgstr ""
+
+msgctxt "17016_Shizuka"
+msgid ""
+"Aww! I'm very happy to hear you say that. I'll try my best to make our time "
+"together meaningful, then."
+msgstr ""
+
+msgctxt "17028_Kiryu"
+msgid "Great. I'm looking forward to it."
+msgstr ""
+
+msgctxt "17040_Shizuka"
+msgid "Thank you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17052_Kiryu"
+msgid "So you're finally going. You're one step closer to achieving your dream."
+msgstr ""
+
+msgctxt "17064_Shizuka"
+msgid ""
+"Yes. But the real work starts when I get my license. This is just the "
+"beginning."
+msgstr ""
+
+msgctxt "17076_Kiryu"
+msgid ""
+"I suppose you're right... But I'm sure you can handle whatever comes your "
+"way."
+msgstr ""
+
+msgctxt "17088_Shizuka"
+msgid "When you say it, sir, I believe it."
+msgstr ""
+
+msgctxt "17100_Kiryu"
+msgid "Good luck."
+msgstr ""
+
+msgctxt "17112_Shizuka"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "17124_Kiryu"
+msgid "Don't forget about me."
+msgstr ""
+
+msgctxt "17136_Shizuka"
+msgid "Of course I won't! I could never forget you, sir!"
+msgstr ""
+
+msgctxt "17148_Kiryu"
+msgid ""
+"I've tried to support you as best I could, but now I'm starting to realize "
+"how much I'll miss you while you're gone."
+msgstr ""
+
+msgctxt "17160_Shizuka"
+msgid ""
+"Oh, don't say things like that. You'll make me cry. Let's try not to think "
+"about it."
+msgstr ""
+
+msgctxt "17172_Shizuka"
+msgid "Just come and see me as you always have."
+msgstr ""
+
+msgctxt "17184_Kiryu"
+msgid "You got it."
+msgstr ""
+
+msgctxt "17196_Shizuka"
+msgid "Thank you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17208_Shizuka"
+msgid "Normal dialogue 31."
+msgstr ""
+
+msgctxt "17232_Shizuka"
+msgid "You came to see me! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17268_Shizuka"
+msgid "Welcome!"
+msgstr ""
+
+msgctxt "17280_Shizuka"
+msgid "You came to see me! ♪"
+msgstr ""
+
+msgctxt "17292_Shizuka"
+msgid "It's good to see you again! I'm so glad! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17316_Shizuka"
+msgid "Thank you for taking me out. I had a wonderful time."
+msgstr ""
+
+msgctxt "17340_Shizuka"
+msgid "Kiryu-san... You never showed up for our date..."
+msgstr ""
+
+msgctxt "17364_Shizuka"
+msgid "I'm sorry about last time. We should go out again."
+msgstr ""
+
+msgctxt "17376_Shizuka"
+msgid "Sir... I was looking forward to being your date..."
+msgstr ""
+
+msgctxt "17388_Shizuka"
+msgid "I'm sorry about before, sir. We should go out again."
+msgstr ""
+
+msgctxt "17400_Shizuka"
+msgid "Thank you for requesting me. My name is Shizuka. It's a pleasure."
+msgstr ""
+
+msgctxt "17412_Kiryu"
+msgid "Nice to meet you too."
+msgstr ""
+
+msgctxt "17424_Shizuka"
+msgid "Did you come here just to see me?"
+msgstr ""
+
+msgctxt "17436_Shizuka"
+msgid "Please enjoy yourself."
+msgstr ""
+
+msgctxt "17448_Shizuka"
+msgid "I'm glad you came."
+msgstr ""
+
+msgctxt "17460_Shizuka"
+msgid "I'd like to go on another date sometime. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17472_Shizuka"
+msgid "We should go out on another date when you have the time."
+msgstr ""
+
+msgctxt "17484_Shizuka"
+msgid "We should go out on another date when you have the time."
+msgstr ""
+
+msgctxt "17496_Shizuka"
+msgid "It was nice going out with you today, sir. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17508_Shizuka"
+msgid "Would you take me out again sometime?"
+msgstr ""
+
+msgctxt "17520_Shizuka"
+msgid "Would you take me out again sometime?"
+msgstr ""
+
+msgctxt "17544_Shizuka"
+msgid "You're dressed very smartly today, sir. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17568_Shizuka"
+msgid "You're looking nice today, sir. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17592_Shizuka"
+msgid "You always seem to wear the same thing, sir."
+msgstr ""
+
+msgctxt "17616_Shizuka"
+msgid "Why are you wearing those clothes? It's not like you at all, sir."
+msgstr ""
+
+msgctxt "17640_Shizuka"
+msgid ""
+"I think you should pay a little more attention to how you dress. I don't "
+"care for this look very much, sir..."
+msgstr ""
+
+msgctxt "17664_Shizuka"
+msgid "You're dressed very smartly today, sir. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17688_Shizuka"
+msgid "I'm so happy! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17700_Shizuka"
+msgid "I've wanted this for the longest time!"
+msgstr ""
+
+msgctxt "17712_Shizuka"
+msgid "Thank you so much, sir! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17724_Shizuka"
+msgid "You're really giving this to me?"
+msgstr ""
+
+msgctxt "17736_Shizuka"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "17748_Shizuka"
+msgid "Is this for me...?"
+msgstr ""
+
+msgctxt "17760_F_cab_sitsofa_tlk_yes"
+msgid "Thank you..."
+msgstr ""
+
+msgctxt "17772_Shizuka"
+msgid "What is that...?"
+msgstr ""
+
+msgctxt "17784_Shizuka"
+msgid "I don't know what to do with something like this..."
+msgstr ""
+
+msgctxt "17808_Shizuka"
+msgid "Just what are you trying to give me?"
+msgstr ""
+
+msgctxt "17820_Shizuka"
+msgid "I didn't know you were that kind of person, sir..."
+msgstr ""
+
+msgctxt "17832_Shizuka"
+msgid "Another one of these?"
+msgstr ""
+
+msgctxt "17844_Shizuka"
+msgid "You already gave me one earlier... Or did you forget?"
+msgstr ""
+
+msgctxt "17868_Shizuka"
+msgid "I'm so happy! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17880_Shizuka"
+msgid "I've wanted this for oh-so long!"
+msgstr ""
+
+msgctxt "17892_Shizuka"
+msgid "Thank you! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17904_Shizuka"
+msgid "What would you like to order?"
+msgstr ""
+
+msgctxt "17928_Player"
+msgid "I'll have this."
+msgstr ""
+
+msgctxt "17940_Shizuka"
+msgid "You're not going to drink anything?"
+msgstr ""
+
+msgctxt "17952_Shizuka"
+msgid "Your glass is empty. Would you like another drink?"
+msgstr ""
+
+msgctxt "17976_Player"
+msgid "I'll have this."
+msgstr ""
+
+msgctxt "17988_Shizuka"
+msgid "You don't want any more?"
+msgstr ""
+
+msgctxt "18000_Shizuka"
+msgid "That's my favorite!"
+msgstr ""
+
+msgctxt "18012_Shizuka"
+msgid "We've got such good taste. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "18024_Shizuka"
+msgid "You drink that?"
+msgstr ""
+
+msgctxt "18036_Shizuka"
+msgid "I'll have to admit, I'm a little surprised."
+msgstr ""
+
+msgctxt "18048_Shizuka"
+msgid "Yes, right away."
+msgstr ""
+
+msgctxt "18060_Shizuka"
+msgid "You like that kind of thing?"
+msgstr ""
+
+msgctxt "18072_Shizuka"
+msgid "Well, all right then..."
+msgstr ""
+
+msgctxt "18084_Shizuka"
+msgid "You really like that kind of drink?"
+msgstr ""
+
+msgctxt "18096_Shizuka"
+msgid "Would you like to order some food?"
+msgstr ""
+
+msgctxt "18120_Player"
+msgid "I'll have this."
+msgstr ""
+
+msgctxt "18132_Shizuka"
+msgid "You're not hungry?"
+msgstr ""
+
+msgctxt "18144_Shizuka"
+msgid "Would you like to order some food?"
+msgstr ""
+
+msgctxt "18168_Player"
+msgid "I'll have this."
+msgstr ""
+
+msgctxt "18180_Shizuka"
+msgid "Are you full?"
+msgstr ""
+
+msgctxt "18192_Shizuka"
+msgid "I love that!"
+msgstr ""
+
+msgctxt "18204_Shizuka"
+msgid "Would you mind if I ate with you?"
+msgstr ""
+
+msgctxt "18216_Shizuka"
+msgid "I like that quite a bit myself."
+msgstr ""
+
+msgctxt "18228_Shizuka"
+msgid "Could I have a bite?"
+msgstr ""
+
+msgctxt "18240_Shizuka"
+msgid "Yes, right away."
+msgstr ""
+
+msgctxt "18252_Shizuka"
+msgid "You eat that kind of thing?"
+msgstr ""
+
+msgctxt "18264_Shizuka"
+msgid "I... do not like that..."
+msgstr ""
+
+msgctxt "18276_Shizuka"
+msgid "I'll put in the order, then."
+msgstr ""
+
+msgctxt "18288_Shizuka"
+msgid "Excuse me."
+msgstr ""
+
+msgctxt "18312_Attendant"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "18324_F_cab_sitsofa_talk_smileA"
+msgid "Here's our order."
+msgstr ""
+
+msgctxt "18336_Shizuka"
+msgid "Of course, right away."
+msgstr ""
+
+msgctxt "18360_Shizuka"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "18372_Shizuka"
+msgid "Cheers."
+msgstr ""
+
+msgctxt "18384_F_cab_sitsofa_talk_smileA"
+msgid "Please enjoy yourself!"
+msgstr ""
+
+msgctxt "18396_Shizuka"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "18408_Shizuka"
+msgid "Cheers."
+msgstr ""
+
+msgctxt "18420_F_cab_sitsofa_talk_smileA"
+msgid "Please enjoy yourself!"
+msgstr ""
+
+msgctxt "18432_Shizuka"
+msgid "Let me make your drink."
+msgstr ""
+
+msgctxt "18444_Shizuka"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "18480_Shizuka"
+msgid "I'm Shizuka. A pleasure to make your acquaintance."
+msgstr ""
+
+msgctxt "18492_Shizuka"
+msgid "Same here."
+msgstr ""
+
+msgctxt "18504_Shizuka"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+
+msgctxt "18516_Shizuka"
+msgid "You got Shizuka's business card."
+msgstr ""
+
+msgctxt "18552_Shizuka"
+msgid "(Maybe I'll request her next time.)"
+msgstr ""
+
+msgctxt "18576_Shizuka"
+msgid "Please come again!"
+msgstr ""
+
+msgctxt "18588_Shizuka"
+msgid "Sure."
+msgstr ""
+
+msgctxt "18600_Shizuka"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+
+msgctxt "18612_Shizuka"
+msgid "You got Shizuka's fancy business card."
+msgstr ""
+
+msgctxt "18660_Shizuka"
+msgid "Here you go!"
+msgstr ""
+
+msgctxt "18672_Shizuka"
+msgid "......"
+msgstr ""
+
+msgctxt "18684_Shizuka"
+msgid "Do you mind if I smoke as well?"
+msgstr ""
+
+msgctxt "18696_Shizuka"
+msgid "Go ahead."
+msgstr ""
+
+msgctxt "18708_Shizuka"
+msgid "Please, drink up."
+msgstr ""
+
+msgctxt "18720_Shizuka"
+msgid "Sure."
+msgstr ""
+
+msgctxt "18732_Shizuka"
+msgid "I think I'll have a little myself!"
+msgstr ""
+
+msgctxt "18744_Shizuka"
+msgid "Sure."
+msgstr ""
+
+msgctxt "18756_Kiryu"
+msgid "I should get going."
+msgstr ""
+
+msgctxt "18768_F_cab_sitsofa_tlk_noA"
+msgid "You're leaving already?"
+msgstr ""
+
+msgctxt "18780_Shizuka"
+msgid "I guess it's about that time."
+msgstr ""
+
+msgctxt "18792_P_sitsofaR_tlk_yes"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "18804_Shizuka"
+msgid "終了時_アフター_初"
+msgstr ""
+
+msgctxt "18816_Shizuka"
+msgid "終了時_アフター_遅刻後"
+msgstr ""
+
+msgctxt "18828_Shizuka"
+msgid "終了時_アフター_失敗後"
+msgstr ""
+
+msgctxt "18840_Shizuka"
+msgid "終了時_同伴_初"
+msgstr ""
+
+msgctxt "18852_Shizuka"
+msgid "終了時_同伴_遅刻後"
+msgstr ""
+
+msgctxt "18864_Shizuka"
+msgid "終了時_同伴_失敗後"
+msgstr ""
+
+msgctxt "18876_Shizuka"
+msgid "終了時_ミニミッション"
+msgstr ""
+
+msgctxt "18888_Shizuka"
+msgid "終了時_同伴_初"
+msgstr ""
+
+msgctxt "18900_Shizuka"
+msgid "Thank you for coming."
+msgstr ""
+
+msgctxt "18948_Shizuka"
+msgid "Please come again! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "18960_Shizuka"
+msgid "Sure."
+msgstr ""
+
+msgctxt "18972_F_cab_sitsofa_talk_smileA"
+msgid "Goodbye."
+msgstr ""
+
+msgctxt "19008_Shizuka"
+msgid "Thank you for coming, sir!"
+msgstr ""
+
+msgctxt "19020_Shizuka"
+msgid "Please come again! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "19032_Shizuka"
+msgid "Sure."
+msgstr ""
+
+msgctxt "19044_F_cab_sitsofa_talk_smileA"
+msgid "Goodbye."
+msgstr ""
+
+msgctxt "19080_Shizuka"
+msgid "Thank you for coming, sir!"
+msgstr ""
+
+msgctxt "19092_Shizuka"
+msgid "Please come again! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "19104_Shizuka"
+msgid "Sure."
+msgstr ""
+
+msgctxt "19116_F_cab_sitsofa_talk_smileA"
+msgid "Goodbye."
+msgstr ""
+
+msgctxt "19164_Shizuka"
+msgid "I love you! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "19176_Shizuka"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "19188_F_cab_sitsofa_talk_smileA"
+msgid "Goodbye."
+msgstr ""
+
+msgctxt "19236_Shizuka"
+msgid "Be careful on your way home."
+msgstr ""
+
+msgctxt "19248_Shizuka"
+msgid "After date."
+msgstr ""
+
+msgctxt "19272_Shizuka"
+msgid "Excuse me, sir... Have you heard anything interesting recently?"
+msgstr ""
+
+msgctxt "19284_Shizuka"
+msgid ""
+"I'm afraid I'm a little out of touch with what's going on these days. Maybe "
+"you can help."
+msgstr ""
+
+msgctxt "19296_P_sitsofaR_tlk_yes"
+msgid "Something interesting? Let's see here."
+msgstr ""
+
+msgctxt "19308_Kiryu"
+msgid "No... Nothing in particular."
+msgstr ""
+
+msgctxt "19440_Shizuka"
+msgid ""
+"Sometimes I wonder... Why does a wonderful person like you want to spend "
+"time with someone like me?"
+msgstr ""
+
+msgctxt "19452_Kiryu"
+msgid "What are you talking about?"
+msgstr ""
+
+msgctxt "19464_Shizuka"
+msgid "I'm just not very attractive as a woman."
+msgstr ""
+
+msgctxt "19476_Kiryu"
+msgid "Not at all. I think you're plenty attractive."
+msgstr ""
+
+msgctxt "19488_Shizuka"
+msgid "Really? What part of me do you think is attractive?"
+msgstr ""
+
+msgctxt "19500_Kiryu"
+msgid "Well..."
+msgstr ""
+
+msgctxt "19512_Shizuka"
+msgid "Have you thought about giving traditional Japanese dancing a try?"
+msgstr ""
+
+msgctxt "19524_Kiryu"
+msgid "Huh? Men can do that too?"
+msgstr ""
+
+msgctxt "19536_Shizuka"
+msgid ""
+"Of course. Well, women totally outnumber men, but there are good male "
+"dancers, too."
+msgstr ""
+
+msgctxt "19548_Kiryu"
+msgid "I didn't know that. Although I'm not sure dancing is really my style."
+msgstr ""
+
+msgctxt "19560_Shizuka"
+msgid ""
+"Dancing is good for you. You just have to get up and move your body. Look "
+"how full of energy I am!"
+msgstr ""
+
+msgctxt "19572_Kiryu"
+msgid "Now that you mention it..."
+msgstr ""
+
+msgctxt "19608_Shizuka"
+msgid "Look! I'm wearing the clothes you gave me!"
+msgstr ""
+
+msgctxt "19620_Shizuka"
+msgid "I just love it!"
+msgstr ""
+
+msgctxt "19632_Shizuka"
+msgid "I'm a little thirsty. May I order a drink?"
+msgstr ""
+
+msgctxt "19656_Shizuka"
+msgid "Thank you! I'll order right away then."
+msgstr ""
+
+msgctxt "19668_F_cab_sitsofa_sync_order"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "19692_Shizuka"
+msgid "Aw. Why not?"
+msgstr ""
+
+msgctxt "19704_Shizuka"
+msgid ""
+"I'm a little hungry. May I order some <Color:7>Vegetable "
+"Sticks<Color:Default>?"
+msgstr ""
+
+msgctxt "19716_Shizuka"
+msgid "Thank you. I'll go ahead and order, then."
+msgstr ""
+
+msgctxt "19728_F_cab_sitsofa_sync_order"
+msgid "Here's our order."
+msgstr ""
+
+msgctxt "19740_Kiryu"
+msgid "Sorry. I don't have enough money..."
+msgstr ""
+
+msgctxt "19752_Shizuka"
+msgid "Oh... That's too bad then."
+msgstr ""
+
+msgctxt "19764_Shizuka"
+msgid "I'm sorry. Perhaps I got carried away..."
+msgstr ""
+
+msgctxt "19776_Shizuka"
+msgid "Thank you for answering my email."
+msgstr ""
+
+msgctxt "19788_Shizuka"
+msgid "I'm glad you took that time to do that for me."
+msgstr ""
+
+msgctxt "19800_Kiryu"
+msgid "Heh, no problem."
+msgstr ""
+
+msgctxt "19812_Shizuka"
+msgid ""
+"I got your email. It sounds like you're doing a great job teaching the "
+"children you look after."
+msgstr ""
+
+msgctxt "19824_Shizuka"
+msgid "I really respect that."
+msgstr ""
+
+msgctxt "19836_Kiryu"
+msgid "It's nothing. I'm just doing what anyone would do."
+msgstr ""
+
+msgctxt "19848_Shizuka"
+msgid ""
+"Okinawa sounds like a lot of fun. I'd like to try relaxing on the beach "
+"there sometime."
+msgstr ""
+
+msgctxt "19860_Kiryu"
+msgid "You should come visit us if you get the chance."
+msgstr ""
+
+msgctxt "19884_Shizuka"
+msgid ""
+"I told my teacher about you the other day. I said that you were the strong, "
+"silent type but had a real understanding of Japanese culture."
+msgstr ""
+
+msgctxt "19896_Shizuka"
+msgid ""
+"She was impressed. She said she'd like to meet you sometime. I'm sure you "
+"two would get along well."
+msgstr ""
+
+msgctxt "19908_Kiryu"
+msgid "It would be an honor. I'd love to meet her someday."
+msgstr ""
+
+msgctxt "19920_Shizuka"
+msgid ""
+"We should definitely go and see the cherry blossoms when you have some time "
+"off. I can't wait for them to bloom!"
+msgstr ""
+
+msgctxt "19932_Kiryu"
+msgid "Hehe. We just have to wait a bit longer."
+msgstr ""
+
+msgctxt "19944_Shizuka"
+msgid "I've never heard of fortune telling with fish."
+msgstr ""
+
+msgctxt "19956_Shizuka"
+msgid "Does that mean you think I'm old?"
+msgstr ""
+
+msgctxt "19968_Shizuka"
+msgid "Do I live up to your expectations?"
+msgstr ""
+
+msgctxt "19980_Shizuka"
+msgid "So you're studying to get your license?"
+msgstr ""
+
+msgctxt "19992_Shizuka"
+msgid "I didn't know a job like that existed."
+msgstr ""
+
+msgctxt "20004_Shizuka"
+msgid "I think that's a respectable job."
+msgstr ""
+
+msgctxt "20016_Shizuka"
+msgid "I'm sure their family would appreciate that."
+msgstr ""
+
+msgctxt "20028_Shizuka"
+msgid "Do you ever make mistakes?"
+msgstr ""
+
+msgctxt "20040_Shizuka"
+msgid "I'm sure the deceased would appreciate that."
+msgstr ""
+
+msgctxt "20052_Shizuka"
+msgid "You don't hear many women say that these days."
+msgstr ""
+
+msgctxt "20064_Shizuka"
+msgid "I agree."
+msgstr ""
+
+msgctxt "20076_Shizuka"
+msgid "Isn't that kind of old-fashioned?"
+msgstr ""
+
+msgctxt "20088_Shizuka"
+msgid "Um... What do you mean by that?"
+msgstr ""
+
+msgctxt "20100_Shizuka"
+msgid "Isn't that a bit aggressive?"
+msgstr ""
+
+msgctxt "20112_Shizuka"
+msgid "And what do they say?"
+msgstr ""
+
+msgctxt "20124_Shizuka"
+msgid "It sounds like we have similar tastes."
+msgstr ""
+
+msgctxt "20136_Shizuka"
+msgid "How old are you, anyway?"
+msgstr ""
+
+msgctxt "20148_Shizuka"
+msgid "What about when you go out with your friends?"
+msgstr ""
+
+msgctxt "20160_Shizuka"
+msgid "You'd rather he lied to you?"
+msgstr ""
+
+msgctxt "20172_Shizuka"
+msgid "What a scumbag."
+msgstr ""
+
+msgctxt "20184_Shizuka"
+msgid "You should be glad you found out in time."
+msgstr ""
+
+msgctxt "20196_Shizuka"
+msgid "Don't worry about it."
+msgstr ""
+
+msgctxt "20208_Shizuka"
+msgid "That's an interesting way to put it."
+msgstr ""
+
+msgctxt "20220_Shizuka"
+msgid "Don't you want to do something about it?"
+msgstr ""
+
+msgctxt "20232_Shizuka"
+msgid "You have incredible focus."
+msgstr ""
+
+msgctxt "20244_Shizuka"
+msgid "Don't the attendants clean the bathroom?"
+msgstr ""
+
+msgctxt "20256_Shizuka"
+msgid "Are you a neat freak?"
+msgstr ""
+
+msgctxt "20268_Shizuka"
+msgid "Sounds like you're lucky to have found her."
+msgstr ""
+
+msgctxt "20280_Shizuka"
+msgid "I agree with your teacher."
+msgstr ""
+
+msgctxt "20292_Shizuka"
+msgid "Isn't it tiring to be polite all the time?"
+msgstr ""
+
+msgctxt "20304_Shizuka"
+msgid "I can see what the writer meant, though."
+msgstr ""
+
+msgctxt "20316_Shizuka"
+msgid "I'm sure people will understand someday."
+msgstr ""
+
+msgctxt "20328_Shizuka"
+msgid "Would you embalm me if I died?"
+msgstr ""
+
+msgctxt "20340_Shizuka"
+msgid "You can't ask for the impossible."
+msgstr ""
+
+msgctxt "20352_Shizuka"
+msgid "Everyone's got to start somewhere."
+msgstr ""
+
+msgctxt "20364_Shizuka"
+msgid "You're giving me too much credit."
+msgstr ""
+
+msgctxt "20376_Shizuka"
+msgid "Everyone has secrets."
+msgstr ""
+
+msgctxt "20388_Shizuka"
+msgid "Why are you apologizing?"
+msgstr ""
+
+msgctxt "20400_Shizuka"
+msgid "Thanks for telling me."
+msgstr ""
+
+msgctxt "20412_Shizuka"
+msgid "That's pretty long..."
+msgstr ""
+
+msgctxt "20424_Shizuka"
+msgid "What's so incredible about that?"
+msgstr ""
+
+msgctxt "20436_Shizuka"
+msgid "You like stationery?"
+msgstr ""
+
+msgctxt "20448_Shizuka"
+msgid "I think you've had a little too much to drink."
+msgstr ""
+
+msgctxt "20460_Shizuka"
+msgid "I wouldn't mind doing the same for you."
+msgstr ""
+
+msgctxt "20472_Shizuka"
+msgid "Just my back?"
+msgstr ""
+
+msgctxt "20484_Shizuka"
+msgid "That's a good way to catch a cold, you know."
+msgstr ""
+
+msgctxt "20496_Shizuka"
+msgid "I go out during typhoons myself."
+msgstr ""
+
+msgctxt "20508_Shizuka"
+msgid "Um... Are you a masochist or something?"
+msgstr ""
+
+msgctxt "20520_Shizuka"
+msgid "No, don't change. I like that about you."
+msgstr ""
+
+msgctxt "20532_Shizuka"
+msgid "One of the kids at my orphanage is like that."
+msgstr ""
+
+msgctxt "20544_Shizuka"
+msgid "They say it's hard to grow out of the habits of your childhood."
+msgstr ""
+
+msgctxt "20556_Shizuka"
+msgid "I guess that's a good time to do it."
+msgstr ""
+
+msgctxt "20568_Shizuka"
+msgid "I never would've made that connection."
+msgstr ""
+
+msgctxt "20580_Shizuka"
+msgid "Do you look at the moon often?"
+msgstr ""
+
+msgctxt "20592_Shizuka"
+msgid "Unbelievable."
+msgstr ""
+
+msgctxt "20604_Shizuka"
+msgid "Did you insist that he give you a new one?"
+msgstr ""
+
+msgctxt "20616_Shizuka"
+msgid "Hahaha! I guess this just isn't your day."
+msgstr ""
+
+msgctxt "20628_Shizuka"
+msgid "Do people grow aloe in their gardens?"
+msgstr ""
+
+msgctxt "20640_Shizuka"
+msgid "You should be grateful to your grandma."
+msgstr ""
+
+msgctxt "20652_Shizuka"
+msgid "I guess your head was in the clouds even then."
+msgstr ""
+
+msgctxt "20664_Shizuka"
+msgid "It was delicious, so don't worry about it."
+msgstr ""
+
+msgctxt "20676_Shizuka"
+msgid "That's so like you."
+msgstr ""
+
+msgctxt "20688_Shizuka"
+msgid "Bento is nice once in a while."
+msgstr ""
+
+msgctxt "20700_Shizuka"
+msgid "Are you worried that your family won't approve?"
+msgstr ""
+
+msgctxt "20712_Shizuka"
+msgid "I'm going to miss you."
+msgstr ""
+
+msgctxt "20724_Shizuka"
+msgid "Good luck."
+msgstr ""
+
+msgctxt "20736_Shizuka"
+msgid "I'm not sure I understand."
+msgstr ""
+
+msgctxt "20748_Shizuka"
+msgid "That voice you hear is actually your own."
+msgstr ""
+
+msgctxt "20760_Shizuka"
+msgid "Wake up."
+msgstr ""
+
+msgctxt "20772_Shizuka"
+msgid "Okay, but you shouldn't actually fall asleep."
+msgstr ""
+
+msgctxt "20784_Shizuka"
+msgid "You're working yourself too hard."
+msgstr ""
+
+msgctxt "20796_Shizuka"
+msgid "Should I get you a pillow?"
+msgstr ""
+
+msgctxt "20808_Shizuka"
+msgid "You're just talented."
+msgstr ""
+
+msgctxt "20820_Shizuka"
+msgid "Women's intuition can be a little scary."
+msgstr ""
+
+msgctxt "20832_Shizuka"
+msgid "Are your hunches ever wrong?"
+msgstr ""
+
+msgctxt "20844_Shizuka"
+msgid "Just drinking."
+msgstr ""
+
+msgctxt "20856_Shizuka"
+msgid "Playing with my kids."
+msgstr ""
+
+msgctxt "20868_Shizuka"
+msgid "Coming to see you."
+msgstr ""
+
+msgctxt "20880_Shizuka"
+msgid "Pets are a lot of work, aren't they?"
+msgstr ""
+
+msgctxt "20892_Shizuka"
+msgid "I wouldn't mind trying that myself."
+msgstr ""
+
+msgctxt "20904_Shizuka"
+msgid "He must be like family to you."
+msgstr ""
+
+msgctxt "20916_Shizuka"
+msgid "Safety pins?"
+msgstr ""
+
+msgctxt "20928_Shizuka"
+msgid "I think you should give up drinking."
+msgstr ""
+
+msgctxt "20940_Shizuka"
+msgid "Did you eat the buns?"
+msgstr ""
+
+msgctxt "20952_Shizuka"
+msgid "Is that fast?"
+msgstr ""
+
+msgctxt "20964_Shizuka"
+msgid "You're like the perfect Japanese woman."
+msgstr ""
+
+msgctxt "20976_Shizuka"
+msgid "So it's no problem if I undressed you then."
+msgstr ""
+
+msgctxt "20988_Shizuka"
+msgid "That's just the way things go."
+msgstr ""
+
+msgctxt "21000_Shizuka"
+msgid "That worries me, too."
+msgstr ""
+
+msgctxt "21012_Shizuka"
+msgid "I'll have to visit before that happens."
+msgstr ""
+
+msgctxt "21024_Shizuka"
+msgid "That's pretty soon."
+msgstr ""
+
+msgctxt "21036_Shizuka"
+msgid "So you're finally going."
+msgstr ""
+
+msgctxt "21048_Shizuka"
+msgid "Don't forget about me."
+msgstr ""
+
+msgctxt "21060_Shizuka"
+msgid "Nothing"
+msgstr ""
+
+msgctxt "21072_Shizuka"
+msgid "777 Town"
+msgstr ""
+
+msgctxt "21084_Shizuka"
+msgid "Amoebatar"
+msgstr ""
+
+msgctxt "21096_Shizuka"
+msgid "The Ghost in the Underground Mall"
+msgstr ""
+
+msgctxt "21108_Shizuka"
+msgid "The Footbaths at Yunosono Hot Springs"
+msgstr ""
+
+msgctxt "21120_Shizuka"
+msgid "Popular Golf Dates Among Women"
+msgstr ""
+
+msgctxt "21132_Shizuka"
+msgid "Eating Liver to Reverse Brain Aging"
+msgstr ""
+
+msgctxt "21144_Shizuka"
+msgid "The Pole Dancing Workout"
+msgstr ""
+
+msgctxt "21156_Shizuka"
+msgid "Popular Sweet Sake Among Women"
+msgstr ""
+
+msgctxt "21168_Shizuka"
+msgid "Sure."
+msgstr ""
+
+msgctxt "21180_Shizuka"
+msgid "Nope."
+msgstr ""
+
+msgctxt "21192_Shizuka"
+msgid "Go ahead."
+msgstr ""
+
+msgctxt "21204_Shizuka"
+msgid "No."
+msgstr ""
