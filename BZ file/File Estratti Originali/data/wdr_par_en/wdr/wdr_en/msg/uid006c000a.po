@@ -1,0 +1,5556 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "16260"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "16824"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "16860"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "16908"
+msgid "Here you are!"
+msgstr ""
+
+msgctxt "17688"
+msgid "Well, if you do hear something, be sure and let me know, okay?"
+msgstr ""
+
+msgctxt "17988"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "215216"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "215220"
+msgid "P_sitsofaR_tlk_yes"
+msgstr ""
+
+msgctxt "215224"
+msgid "Chihiro"
+msgstr ""
+
+msgctxt "215228"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "215232"
+msgid "P_sitsofaR_tlk_quest"
+msgstr ""
+
+msgctxt "215236"
+msgid "F_cab_sitsofa_sp2_sync_hiza"
+msgstr ""
+
+msgctxt "215240"
+msgid "P_sitsofaR_tlk_smile"
+msgstr ""
+
+msgctxt "215244"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr ""
+
+msgctxt "215248"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""
+
+msgctxt "215252"
+msgid "F_cab_sitsofa_tlk_commentA"
+msgstr ""
+
+msgctxt "215256"
+msgid "F_cab_sitsofa_tlk_thinkA"
+msgstr ""
+
+msgctxt "215260"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "215264"
+msgid "P_sitsofaR_tlk_think"
+msgstr ""
+
+msgctxt "215268"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "215272"
+msgid "P_sitsofaR_tlk_no"
+msgstr ""
+
+msgctxt "215276"
+msgid "F_cab_sitsofa_tlk_ojigiA"
+msgstr ""
+
+msgctxt "215280"
+msgid "P_sitsofaR_tlk_comment"
+msgstr ""
+
+msgctxt "215284"
+msgid "F_cab_sitsofa_tlk_gakkariA"
+msgstr ""
+
+msgctxt "215288"
+msgid "P_sitsofaR_tlk_surp"
+msgstr ""
+
+msgctxt "215292"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr ""
+
+msgctxt "215296"
+msgid "F_cab_sitsofa_tlk_rouginA"
+msgstr ""
+
+msgctxt "215300"
+msgid "F_cab_sitsofa_sp1_sync_yop"
+msgstr ""
+
+msgctxt "215304"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "215308"
+msgid "F_cab_sitsofa_sp6_sync_kami"
+msgstr ""
+
+msgctxt "215312"
+msgid "F_cab_sitsofa_tlk_refuse"
+msgstr ""
+
+msgctxt "215316"
+msgid "P_sitsofaR_tlk_ase"
+msgstr ""
+
+msgctxt "215320"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "215324"
+msgid "P_sitsofaR_tlk_angry"
+msgstr ""
+
+msgctxt "215328"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr ""
+
+msgctxt "215332"
+msgid "F_cab_sitsofa_tlk_kamaeBtoA"
+msgstr ""
+
+msgctxt "215336"
+msgid "F_cab_sitsofa_tlk_appealA"
+msgstr ""
+
+msgctxt "215340"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr ""
+
+msgctxt "215344"
+msgid "F_cab_stand_tlk_byeA"
+msgstr ""
+
+msgctxt "215348"
+msgid "Player"
+msgstr ""
+
+msgctxt "215352"
+msgid "F_cab_sitsofa_sync_order"
+msgstr ""
+
+msgctxt "215356"
+msgid "M_shp_sitgrd_sync_order"
+msgstr ""
+
+msgctxt "215360"
+msgid "Waiter"
+msgstr ""
+
+msgctxt "215364"
+msgid "2d_cf_meishi_ikki00"
+msgstr ""
+
+msgctxt "215368"
+msgid "2d_cf_meishi_ikki01"
+msgstr ""
+
+msgctxt "215372"
+msgid "F_cab_stand_tlk_byeB"
+msgstr ""
+
+msgctxt "215376"
+msgid "F_cab_stand_sp13_sync_yubi_st"
+msgstr ""
+
+msgctxt "215380"
+msgid "P_stand_sp13_sync_yubi_st"
+msgstr ""
+
+msgctxt "215384"
+msgid "F_cab_stand_sp15_sync_yubi_ed"
+msgstr ""
+
+msgctxt "215388"
+msgid "P_stand_sp15_sync_yubi_ed"
+msgstr ""
+
+msgctxt "215392"
+msgid "F_cab_stand_sync_byeC_st"
+msgstr ""
+
+msgctxt "215396"
+msgid "P_stand_sync_byeC_st"
+msgstr ""
+
+msgctxt "215400"
+msgid "F_cab_stand_sync_byeC_ed"
+msgstr ""
+
+msgctxt "215404"
+msgid "P_stand_sync_byeC_ed"
+msgstr ""
+
+msgctxt "215408"
+msgid "F_cab_stand_sp12_sync_mune_st"
+msgstr ""
+
+msgctxt "215412"
+msgid "P_stand_sp12_sync_mune_st"
+msgstr ""
+
+msgctxt "215416"
+msgid "F_cab_stand_sp12_sync_mune_ed"
+msgstr ""
+
+msgctxt "215420"
+msgid "P_stand_sp12_sync_mune_ed"
+msgstr ""
+
+msgctxt "215424"
+msgid "F_cab_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "215428"
+msgid "P_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "215432"
+msgid "F_cab_stand_sync_dakiA_ed"
+msgstr ""
+
+msgctxt "215436"
+msgid "P_stand_sync_dakiA_ed"
+msgstr ""
+
+msgctxt "215440"
+msgid "F_cab_stand_tlk_ojigi_02"
+msgstr ""
+
+msgctxt "215444"
+msgid "F_cab_sitsofa_tlk_onedariA"
+msgstr ""
+
+msgctxt "4080_Tanimura"
+msgid "I really don't see many girls like you working at hostess clubs."
+msgstr ""
+
+msgctxt "4092_Chihiro"
+msgid "You don't?"
+msgstr ""
+
+msgctxt "4104_Tanimura"
+msgid "Yeah. Why'd you start working here, anyway?"
+msgstr ""
+
+msgctxt "4116_Chihiro"
+msgid "Well... I have a dream."
+msgstr ""
+
+msgctxt "4128_Tanimura"
+msgid "A dream?"
+msgstr ""
+
+msgctxt "4140_Chihiro"
+msgid "Yes. Don't laugh."
+msgstr ""
+
+msgctxt "4152_Chihiro"
+msgid "I want to be an actress."
+msgstr ""
+
+msgctxt "4164_Tanimura"
+msgid "You do? Wow."
+msgstr ""
+
+msgctxt "4176_Chihiro"
+msgid "I go to college here, but the real reason I came to the city was to act."
+msgstr ""
+
+msgctxt "4188_Chihiro"
+msgid ""
+"Ever since I was a little girl, I've looked up to the actresses on TV and "
+"in the movies."
+msgstr ""
+
+msgctxt "4200_Chihiro"
+msgid ""
+"So I started working as a hostess to make money for acting lessons, voice "
+"training, stuff like that."
+msgstr ""
+
+msgctxt "4212_Tanimura"
+msgid "I see. Do those kinds of lessons cost a lot?"
+msgstr ""
+
+msgctxt "4224_Chihiro"
+msgid "Yes. Acting school can be expensive."
+msgstr ""
+
+msgctxt "4236_Chihiro"
+msgid ""
+"I couldn't make enough working normal part-time jobs, so I thought I'd try "
+"this."
+msgstr ""
+
+msgctxt "4248_Chihiro"
+msgid "I'm going to work as hard as I can to make my dream come true!"
+msgstr ""
+
+msgctxt "4260_Tanimura"
+msgid "What sort of actress do you want to be?"
+msgstr ""
+
+msgctxt "4272_Chihiro"
+msgid "Well... I want to be the sort of actress who inspires people."
+msgstr ""
+
+msgctxt "4284_Chihiro"
+msgid ""
+"And the kind that would be popular with women her age. And with kids. I "
+"hope I'm good enough for that."
+msgstr ""
+
+msgctxt "4296_Tanimura"
+msgid "All right. I'm pulling for you."
+msgstr ""
+
+msgctxt "4308_Chihiro"
+msgid "Hehe. You're sweet. Thank you."
+msgstr ""
+
+msgctxt "4320_Tanimura"
+msgid "You're welcome."
+msgstr ""
+
+msgctxt "4332_Chihiro"
+msgid "I'll do my best. You just wait and see!"
+msgstr ""
+
+msgctxt "4344_Tanimura"
+msgid "Good luck."
+msgstr ""
+
+msgctxt "4356_Tanimura"
+msgid "You're both a college student and a hostess? Sounds pretty tough."
+msgstr ""
+
+msgctxt "4368_Chihiro"
+msgid "No, not really. I'm enjoying everything I do!"
+msgstr ""
+
+msgctxt "4380_Chihiro"
+msgid ""
+"I love to learn at school, and when I'm here, I learn even more from "
+"talking to my customers."
+msgstr ""
+
+msgctxt "4392_Tanimura"
+msgid "All right. If you enjoy it, it's okay."
+msgstr ""
+
+msgctxt "4404_Chihiro"
+msgid "Yep. I hope to learn a lot from you, too."
+msgstr ""
+
+msgctxt "4416_Tanimura"
+msgid "But I'm not sure what I could teach you."
+msgstr ""
+
+msgctxt "4428_Chihiro"
+msgid "Hehe, I'm sure we can think of something. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4440_Tanimura"
+msgid "How much money are you trying to make?"
+msgstr ""
+
+msgctxt "4452_Chihiro"
+msgid "Well, my goal is one million yen."
+msgstr ""
+
+msgctxt "4464_Tanimura"
+msgid "Earning that much at a hostess club can be tricky."
+msgstr ""
+
+msgctxt "4476_Chihiro"
+msgid "Why do you say that?"
+msgstr ""
+
+msgctxt "4488_Tanimura"
+msgid ""
+"Well, if you're popular, you could make that much fairly quickly. But if "
+"not, it could take a while."
+msgstr ""
+
+msgctxt "4500_Chihiro"
+msgid ""
+"So I need to be popular... Maybe I shouldn't have become a hostess after "
+"all."
+msgstr ""
+
+msgctxt "4512_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "4524_Chihiro"
+msgid "I'm in the kabuki theater club at my college."
+msgstr ""
+
+msgctxt "4536_Tanimura"
+msgid "Kabuki theater? I've never heard of a club like that."
+msgstr ""
+
+msgctxt "4548_Chihiro"
+msgid ""
+"Yeah. I only joined because I thought it would help me become an actress, "
+"but it's actually very interesting."
+msgstr ""
+
+msgctxt "4560_Chihiro"
+msgid "The actors' motions, facial expressions, and voices are fascinating."
+msgstr ""
+
+msgctxt "4572_Tanimura"
+msgid "Huh..."
+msgstr ""
+
+msgctxt "4584_Tanimura"
+msgid "Can you try a little bit for me? I'd like to see what it looks like."
+msgstr ""
+
+msgctxt "4596_Chihiro"
+msgid "What!? You mean right here!?"
+msgstr ""
+
+msgctxt "4608_Chihiro"
+msgid "Um... Okay. Just a little bit."
+msgstr ""
+
+msgctxt "4632_Chihiro"
+msgid "\"Hear me, traveler! You who stand before the gate!\""
+msgstr ""
+
+msgctxt "4644_Chihiro"
+msgid "What do you think?"
+msgstr ""
+
+msgctxt "4656_Tanimura"
+msgid "Wow. You've got that kabuki style down."
+msgstr ""
+
+msgctxt "4668_Chihiro"
+msgid "Oh? Well, thanks for the compliment, but I think you're just being nice."
+msgstr ""
+
+msgctxt "4680_Tanimura"
+msgid "No, I mean it. I've never seen a girl do kabuki. I'm impressed."
+msgstr ""
+
+msgctxt "4692_Chihiro"
+msgid "Hehe. Thank you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4704_Tanimura"
+msgid "That's an unusual hobby."
+msgstr ""
+
+msgctxt "4716_Chihiro"
+msgid "Haha! People tell me that a lot. But it's fun!"
+msgstr ""
+
+msgctxt "4728_Tanimura"
+msgid "That's good."
+msgstr ""
+
+msgctxt "4740_Chihiro"
+msgid "Do you have any hobbies?"
+msgstr ""
+
+msgctxt "4752_Tanimura"
+msgid "Well, I like gambling."
+msgstr ""
+
+msgctxt "4764_Chihiro"
+msgid "Gambling? You mean slots and pachinko?"
+msgstr ""
+
+msgctxt "4776_Tanimura"
+msgid "I'm more of a mahjong or horse racing fan."
+msgstr ""
+
+msgctxt "4788_Chihiro"
+msgid "Huh. That sounds like something an old man would like."
+msgstr ""
+
+msgctxt "4800_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "4812_Tanimura"
+msgid "Why didn't you join a normal theater club?"
+msgstr ""
+
+msgctxt "4824_Chihiro"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "4836_Tanimura"
+msgid "Well, you want to be an actress in movies, not in kabuki, right?"
+msgstr ""
+
+msgctxt "4848_Chihiro"
+msgid ""
+"That's true... Come to think of it, women don't usually act in kabuki, do "
+"they?"
+msgstr ""
+
+msgctxt "4860_Tanimura"
+msgid "Right. It might be a better experience to do normal theater."
+msgstr ""
+
+msgctxt "4872_Chihiro"
+msgid ""
+"But every actor does normal theater. Wouldn't kabuki be better because it's "
+"so different?"
+msgstr ""
+
+msgctxt "4884_Tanimura"
+msgid "Huh. I hadn't thought of that."
+msgstr ""
+
+msgctxt "4896_Chihiro"
+msgid "Well, I'm going to make the best of it."
+msgstr ""
+
+msgctxt "4908_Chihiro"
+msgid "This might be a bit awkward, but why do you go to hostess clubs?"
+msgstr ""
+
+msgctxt "4920_Tanimura"
+msgid ""
+"That's a tough one... I guess it's for the stress relief. Drinking and "
+"talking with pretty girls helps me wind down."
+msgstr ""
+
+msgctxt "4932_Chihiro"
+msgid "Ah, I see."
+msgstr ""
+
+msgctxt "4944_Chihiro"
+msgid "Then what do you think is the best way to become a popular hostess?"
+msgstr ""
+
+msgctxt "4956_Tanimura"
+msgid ""
+"That's a toughie, too. Well, the job of a hostess is to be the ideal woman. "
+"From their customer's point of view, at least."
+msgstr ""
+
+msgctxt "4968_Chihiro"
+msgid "I have to be... ideal?"
+msgstr ""
+
+msgctxt "4980_Tanimura"
+msgid ""
+"Yeah, whatever they might think that is. Pretty, considerate, a good "
+"conversationalist. Things like that."
+msgstr ""
+
+msgctxt "4992_Tanimura"
+msgid ""
+"Hey, you want to be an actress, right? You could try to play the part of "
+"the ideal woman."
+msgstr ""
+
+msgctxt "5004_Chihiro"
+msgid "Maybe. I'm still not sure I understand, though."
+msgstr ""
+
+msgctxt "5016_Chihiro"
+msgid "I know! It could help if you tell me what your ideal woman is."
+msgstr ""
+
+msgctxt "5028_Tanimura"
+msgid "A pure and innocent woman."
+msgstr ""
+
+msgctxt "5040_Chihiro"
+msgid "Huh? That's your type?"
+msgstr ""
+
+msgctxt "5052_Tanimura"
+msgid "If I had to choose."
+msgstr ""
+
+msgctxt "5064_Chihiro"
+msgid "But that sounds like me. I mean, it's odd to say that myself, but..."
+msgstr ""
+
+msgctxt "5076_Chihiro"
+msgid "Are you saying I'm your ideal woman?"
+msgstr ""
+
+msgctxt "5088_Tanimura"
+msgid "Maybe..."
+msgstr ""
+
+msgctxt "5100_Chihiro"
+msgid "Really!? Wow!"
+msgstr ""
+
+msgctxt "5112_Tanimura"
+msgid "A strong-willed woman."
+msgstr ""
+
+msgctxt "5124_Chihiro"
+msgid "You mean a tough girl?"
+msgstr ""
+
+msgctxt "5136_Chihiro"
+msgid "\"Down that drink right now, you lowly worm!\""
+msgstr ""
+
+msgctxt "5148_Chihiro"
+msgid "That kind of thing?"
+msgstr ""
+
+msgctxt "5160_Tanimura"
+msgid "Um, that's not quite what I had in mind."
+msgstr ""
+
+msgctxt "5172_Chihiro"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "5184_Chihiro"
+msgid "\"Drink that before I smack you!\""
+msgstr ""
+
+msgctxt "5196_Chihiro"
+msgid "How about that?"
+msgstr ""
+
+msgctxt "5208_Tanimura"
+msgid "No, that's not it either."
+msgstr ""
+
+msgctxt "5220_Chihiro"
+msgid "I don't get it. This is hard..."
+msgstr ""
+
+msgctxt "5232_Tanimura"
+msgid "Give up?"
+msgstr ""
+
+msgctxt "5244_Chihiro"
+msgid ""
+"No! I just have to research strong-willed women some more. I'll be ready "
+"next time!"
+msgstr ""
+
+msgctxt "5256_Tanimura"
+msgid "Haha. That's one way to go about it."
+msgstr ""
+
+msgctxt "5268_Tanimura"
+msgid "A ditzy woman."
+msgstr ""
+
+msgctxt "5280_Chihiro"
+msgid "Like those celebrities on TV?"
+msgstr ""
+
+msgctxt "5292_Tanimura"
+msgid "Yeah, I guess that could work."
+msgstr ""
+
+msgctxt "5304_Chihiro"
+msgid "Okay, then. I'll try to be ditzy next time."
+msgstr ""
+
+msgctxt "5316_Tanimura"
+msgid "Hmm. If you have to try, it probably won't work."
+msgstr ""
+
+msgctxt "5328_Chihiro"
+msgid "It won't? But I'll make sure you don't notice that I'm acting."
+msgstr ""
+
+msgctxt "5340_Tanimura"
+msgid ""
+"But you just told me you're gonna be acting. Doesn't that defeat the "
+"purpose?"
+msgstr ""
+
+msgctxt "5352_Chihiro"
+msgid "Wha...? Oh no, what should I do?"
+msgstr ""
+
+msgctxt "5364_Tanimura"
+msgid "Heh, you might be ditzy enough as it is."
+msgstr ""
+
+msgctxt "5376_Chihiro"
+msgid "I'm twenty years old, and I've only had three boyfriends."
+msgstr ""
+
+msgctxt "5388_Tanimura"
+msgid "Really?"
+msgstr ""
+
+msgctxt "5400_Chihiro"
+msgid ""
+"Yeah. It's pretty unusual to have only had three boyfriends by my age, "
+"don't you think?"
+msgstr ""
+
+msgctxt "5412_Tanimura"
+msgid "Oh, I don't know. The number isn't all that important."
+msgstr ""
+
+msgctxt "5424_Tanimura"
+msgid "It's the relationships themselves that really matter."
+msgstr ""
+
+msgctxt "5436_Chihiro"
+msgid "You're probably right. What were you like when you were twenty?"
+msgstr ""
+
+msgctxt "5448_Tanimura"
+msgid "When I was twenty?"
+msgstr ""
+
+msgctxt "5460_Tanimura"
+msgid "All I thought about was girls."
+msgstr ""
+
+msgctxt "5472_Chihiro"
+msgid "Really? You were kinda a ladies' man, huh?"
+msgstr ""
+
+msgctxt "5484_Tanimura"
+msgid "I certainly thought so at the time."
+msgstr ""
+
+msgctxt "5496_Chihiro"
+msgid "Hmm... Maybe I should be on my guard."
+msgstr ""
+
+msgctxt "5508_Tanimura"
+msgid "What's that supposed to mean?"
+msgstr ""
+
+msgctxt "5520_Chihiro"
+msgid ""
+"Who knows what might happen to an innocent girl like me, with an "
+"experienced man like you?"
+msgstr ""
+
+msgctxt "5532_Tanimura"
+msgid "Now just a minute! Who are you calling experienced?"
+msgstr ""
+
+msgctxt "5544_Chihiro"
+msgid "Hehe. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "5556_Tanimura"
+msgid "I wasn't interested in love yet."
+msgstr ""
+
+msgctxt "5568_Chihiro"
+msgid "Huh. I would've thought you'd have plenty of girlfriends by then."
+msgstr ""
+
+msgctxt "5580_Tanimura"
+msgid "I didn't have time for it. I've had a pretty rough life."
+msgstr ""
+
+msgctxt "5592_Chihiro"
+msgid "Oh... But you're interested in love now, right?"
+msgstr ""
+
+msgctxt "5604_Tanimura"
+msgid "What makes you say that?"
+msgstr ""
+
+msgctxt "5616_Chihiro"
+msgid "You're here with me. Doesn't that have to do with love?"
+msgstr ""
+
+msgctxt "5628_Tanimura"
+msgid "Um. Well, I don't know..."
+msgstr ""
+
+msgctxt "5640_Chihiro"
+msgid "Aw, you're blushing. How cute. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "5652_Tanimura"
+msgid "All I thought about was horses."
+msgstr ""
+
+msgctxt "5664_Chihiro"
+msgid "Horses? What do you mean by that?"
+msgstr ""
+
+msgctxt "5676_Tanimura"
+msgid "Racehorses."
+msgstr ""
+
+msgctxt "5688_Tanimura"
+msgid ""
+"There are a lot of things you can do when you're twenty. The races, "
+"pachinko, mahjong..."
+msgstr ""
+
+msgctxt "5700_Chihiro"
+msgid "You gamble?"
+msgstr ""
+
+msgctxt "5712_Tanimura"
+msgid "Hm? A bit. Just for fun."
+msgstr ""
+
+msgctxt "5724_Chihiro"
+msgid "You sure? You're not in a lot of debt, are you?"
+msgstr ""
+
+msgctxt "5736_Tanimura"
+msgid "I'm not that into it. Don't worry."
+msgstr ""
+
+msgctxt "5748_Chihiro"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "5760_Chihiro"
+msgid "What kind of work do you do?"
+msgstr ""
+
+msgctxt "5772_Tanimura"
+msgid "Me? I'm a detective."
+msgstr ""
+
+msgctxt "5784_Chihiro"
+msgid "Ah. That explains it."
+msgstr ""
+
+msgctxt "5796_Tanimura"
+msgid "Explains what?"
+msgstr ""
+
+msgctxt "5808_Chihiro"
+msgid "Why you've got such an impressive body. Broad shoulders, strong chest..."
+msgstr ""
+
+msgctxt "5820_Tanimura"
+msgid "Really?"
+msgstr ""
+
+msgctxt "5832_Chihiro"
+msgid "Yeah. Actually, I like muscular guys."
+msgstr ""
+
+msgctxt "5844_Tanimura"
+msgid "Is that so? Have you always been like that?"
+msgstr ""
+
+msgctxt "5856_Chihiro"
+msgid "Yes. My father used to lift weights, so I notice muscles right away."
+msgstr ""
+
+msgctxt "5868_Chihiro"
+msgid "Your body is just my taste, in fact. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "5880_Tanimura"
+msgid "I see."
+msgstr ""
+
+msgctxt "5892_Tanimura"
+msgid "Want to touch me?"
+msgstr ""
+
+msgctxt "5904_Chihiro"
+msgid "What!? Um, no thank you. I just wanted to compliment you."
+msgstr ""
+
+msgctxt "5916_Tanimura"
+msgid "It's okay, I don't mind. Don't hold back."
+msgstr ""
+
+msgctxt "5928_Chihiro"
+msgid "No, I don't want to."
+msgstr ""
+
+msgctxt "5940_Tanimura"
+msgid "Really, it's all right."
+msgstr ""
+
+msgctxt "5952_Chihiro"
+msgid "Stop it, please! I told you I'm not interested!"
+msgstr ""
+
+msgctxt "5964_Tanimura"
+msgid "Oh. Sorry."
+msgstr ""
+
+msgctxt "5976_Tanimura"
+msgid "It's nothing, really. I don't train or anything."
+msgstr ""
+
+msgctxt "5988_Chihiro"
+msgid "You look like that without training!? You're so lucky!"
+msgstr ""
+
+msgctxt "6000_Tanimura"
+msgid "Eh. I've just never really thought about it."
+msgstr ""
+
+msgctxt "6012_Chihiro"
+msgid "Oh, sure. You're probably a good athlete, too."
+msgstr ""
+
+msgctxt "6024_Tanimura"
+msgid "About as good as the next guy."
+msgstr ""
+
+msgctxt "6036_Chihiro"
+msgid ""
+"Haha! Now you're just being modest. And that's wonderful. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6048_Tanimura"
+msgid "Heh, thanks."
+msgstr ""
+
+msgctxt "6060_Tanimura"
+msgid "It's even more impressive when I'm naked. Want to see?"
+msgstr ""
+
+msgctxt "6072_Chihiro"
+msgid "What!? You can't take your clothes off here!"
+msgstr ""
+
+msgctxt "6084_Tanimura"
+msgid "I was kidding. But you got a little excited, didn't you?"
+msgstr ""
+
+msgctxt "6096_Chihiro"
+msgid "Ha! Okay, maybe a little. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6108_Chihiro"
+msgid "But you shouldn't tease me like that!"
+msgstr ""
+
+msgctxt "6120_Tanimura"
+msgid "Heheh."
+msgstr ""
+
+msgctxt "6132_Tanimura"
+msgid "You're not drinking much."
+msgstr ""
+
+msgctxt "6144_Chihiro"
+msgid "Oh, I'm not a very heavy drinker."
+msgstr ""
+
+msgctxt "6156_Chihiro"
+msgid "Even a little alcohol gets me all lightheaded."
+msgstr ""
+
+msgctxt "6168_Tanimura"
+msgid "Oh, okay."
+msgstr ""
+
+msgctxt "6180_Chihiro"
+msgid "I went to a college party once and passed out after two drinks."
+msgstr ""
+
+msgctxt "6192_Chihiro"
+msgid "What do you think of a girl who can't drink?"
+msgstr ""
+
+msgctxt "6204_Tanimura"
+msgid ""
+"It can't be helped. It's just your metabolism. You don't have to force "
+"yourself to drink."
+msgstr ""
+
+msgctxt "6216_Chihiro"
+msgid ""
+"Thanks for saying that. I had a customer once who kept insisting that I "
+"drink. It was pretty uncomfortable."
+msgstr ""
+
+msgctxt "6228_Tanimura"
+msgid "That's not right. I'll arrest him if he tries that again."
+msgstr ""
+
+msgctxt "6240_Chihiro"
+msgid "Heh, thanks. But I don't need you to do that."
+msgstr ""
+
+msgctxt "6252_Tanimura"
+msgid "Okay. Well, I'm here if you need me."
+msgstr ""
+
+msgctxt "6264_Chihiro"
+msgid "You're so dependable. Thank you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6276_Tanimura"
+msgid "No problem."
+msgstr ""
+
+msgctxt "6288_Tanimura"
+msgid "It's cute."
+msgstr ""
+
+msgctxt "6300_Chihiro"
+msgid "What's so cute about it?"
+msgstr ""
+
+msgctxt "6312_Tanimura"
+msgid ""
+"It makes you seem so delicate. Like a beautiful flower that needs care and "
+"love."
+msgstr ""
+
+msgctxt "6324_Chihiro"
+msgid "Oh. You really think that? Maybe it can be a positive thing."
+msgstr ""
+
+msgctxt "6336_Tanimura"
+msgid "Of course it can."
+msgstr ""
+
+msgctxt "6348_Chihiro"
+msgid "Wow. That makes me feel better."
+msgstr ""
+
+msgctxt "6360_Chihiro"
+msgid "Thanks a lot. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6372_Tanimura"
+msgid "Sure."
+msgstr ""
+
+msgctxt "6384_Tanimura"
+msgid "You should train yourself to drink."
+msgstr ""
+
+msgctxt "6396_Chihiro"
+msgid "Huh? Train myself how?"
+msgstr ""
+
+msgctxt "6408_Tanimura"
+msgid ""
+"Force yourself to drink. You'll get used to it eventually. Come on, bottoms "
+"up!"
+msgstr ""
+
+msgctxt "6420_Chihiro"
+msgid "...I don't want to do that."
+msgstr ""
+
+msgctxt "6432_Tanimura"
+msgid ""
+"But you'd be a big hit at parties. You could see how many drinks you could "
+"down before you pass out."
+msgstr ""
+
+msgctxt "6444_Chihiro"
+msgid "But that would be dangerous!"
+msgstr ""
+
+msgctxt "6456_Tanimura"
+msgid "Yeah. Maybe. But not being able to drink is a problem."
+msgstr ""
+
+msgctxt "6468_Chihiro"
+msgid "Why!? It's terrible for people to try to force others to drink!"
+msgstr ""
+
+msgctxt "6480_Tanimura"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "6492_Chihiro"
+msgid "What do you do when you're home alone?"
+msgstr ""
+
+msgctxt "6504_Tanimura"
+msgid "The only time I'm home is when I'm asleep. I'm usually out and about."
+msgstr ""
+
+msgctxt "6516_Tanimura"
+msgid "How about you?"
+msgstr ""
+
+msgctxt "6528_Chihiro"
+msgid "I like to rent DVDs and watch them, one after another."
+msgstr ""
+
+msgctxt "6540_Tanimura"
+msgid "What kind of DVDs do you rent?"
+msgstr ""
+
+msgctxt "6552_Chihiro"
+msgid "Well, I like movies and TV shows, but I mostly watch anime."
+msgstr ""
+
+msgctxt "6564_Tanimura"
+msgid ""
+"Anime? I guess that makes sense. You probably like the ones with lots of "
+"romance, right?"
+msgstr ""
+
+msgctxt "6576_Chihiro"
+msgid "Actually, I like everything. From robots to romance to superheroes!"
+msgstr ""
+
+msgctxt "6588_Tanimura"
+msgid "Oh? You're not an otaku, are you?"
+msgstr ""
+
+msgctxt "6600_Chihiro"
+msgid "Me? No, I wouldn't say that. I just like anime. Why? Do you not like otakus?"
+msgstr ""
+
+msgctxt "6612_Tanimura"
+msgid "I don't think I'd get along with one."
+msgstr ""
+
+msgctxt "6624_Chihiro"
+msgid "Really?"
+msgstr ""
+
+msgctxt "6636_Tanimura"
+msgid "We'd have nothing to talk about. I mean, I don't watch anime."
+msgstr ""
+
+msgctxt "6648_Chihiro"
+msgid "Oh... You don't like me, then?"
+msgstr ""
+
+msgctxt "6660_Tanimura"
+msgid "Huh? But you said you weren't an otaku..."
+msgstr ""
+
+msgctxt "6672_Chihiro"
+msgid "It's okay. I understand. I won't talk about anime anymore."
+msgstr ""
+
+msgctxt "6684_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "6696_Tanimura"
+msgid "I like anime too."
+msgstr ""
+
+msgctxt "6708_Chihiro"
+msgid "You do!?"
+msgstr ""
+
+msgctxt "6720_Tanimura"
+msgid "Yep. I'd watch it all the time when I was a kid."
+msgstr ""
+
+msgctxt "6732_Chihiro"
+msgid "What shows did you watch?"
+msgstr ""
+
+msgctxt "6744_Tanimura"
+msgid ""
+"Can't really remember, but I liked the ones where a hero would fight bad "
+"guys. I wanted to be the hero."
+msgstr ""
+
+msgctxt "6756_Chihiro"
+msgid "Hehe. You and I will get along just fine. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6768_Tanimura"
+msgid "Heh. You may be right."
+msgstr ""
+
+msgctxt "6780_Tanimura"
+msgid ""
+"It's not that I don't like them. It's just that you said you liked all "
+"kinds of anime. Why aren't you an otaku?"
+msgstr ""
+
+msgctxt "6792_Chihiro"
+msgid "I... I don't know. There's just no way I could be one!"
+msgstr ""
+
+msgctxt "6804_Tanimura"
+msgid "Why not? I know enough about horse racing to write a book if I wanted to."
+msgstr ""
+
+msgctxt "6816_Chihiro"
+msgid "Really!? You must really like horse racing!"
+msgstr ""
+
+msgctxt "6828_Tanimura"
+msgid ""
+"My point is, if you like something then there's nothing wrong with saying "
+"so."
+msgstr ""
+
+msgctxt "6840_Chihiro"
+msgid ""
+"Yeah. Yeah, you're right! I could become the best anime-loving otaku "
+"hostess in Japan! I like the sound of that!"
+msgstr ""
+
+msgctxt "6852_Tanimura"
+msgid "That's the spirit."
+msgstr ""
+
+msgctxt "6864_Chihiro"
+msgid "Do you want to hear something strange about me?"
+msgstr ""
+
+msgctxt "6876_Tanimura"
+msgid "Sure. What is it?"
+msgstr ""
+
+msgctxt "6888_Chihiro"
+msgid "I may not look it, but I'm a huge eater."
+msgstr ""
+
+msgctxt "6900_Tanimura"
+msgid "Wow. You certainly don't look it. You're pretty thin."
+msgstr ""
+
+msgctxt "6912_Chihiro"
+msgid ""
+"Haha. I actually need to watch my weight. My stomach is starting to poke "
+"out."
+msgstr ""
+
+msgctxt "6924_Chihiro"
+msgid "But I just love to eat! I think I'm at my happiest when I'm eating."
+msgstr ""
+
+msgctxt "6936_Tanimura"
+msgid "So do you go to all the trendy restaurants?"
+msgstr ""
+
+msgctxt "6948_Chihiro"
+msgid "Oh, I'd like to, but I have to save money. I don't eat out much."
+msgstr ""
+
+msgctxt "6960_Chihiro"
+msgid "But I'm a pretty good cook, so I just make food at home."
+msgstr ""
+
+msgctxt "6972_Tanimura"
+msgid "That's definitely economical."
+msgstr ""
+
+msgctxt "6984_Chihiro"
+msgid "But even when I make extra, I end up eating it all at once!"
+msgstr ""
+
+msgctxt "6996_Chihiro"
+msgid "When I do go out, my friends are shocked by how much I eat."
+msgstr ""
+
+msgctxt "7008_Chihiro"
+msgid "What do you think of girls who eat a lot?"
+msgstr ""
+
+msgctxt "7020_Tanimura"
+msgid "I think it's great. A girl should have a good appetite."
+msgstr ""
+
+msgctxt "7032_Tanimura"
+msgid ""
+"And I eat quite a bit myself. I'd like someone who can keep up with me when "
+"I go out."
+msgstr ""
+
+msgctxt "7044_Chihiro"
+msgid "Really? This may be the first time I've been complimented for my appetite."
+msgstr ""
+
+msgctxt "7056_Tanimura"
+msgid ""
+"Hey, you could even get some publicity if you entered an eating contest. "
+"You could be the \"hostess food fighter.\""
+msgstr ""
+
+msgctxt "7068_Chihiro"
+msgid "Oh no, I'd be too embarrassed to do something like that."
+msgstr ""
+
+msgctxt "7080_Tanimura"
+msgid ""
+"Well, we should at least go out to eat sometime. I want to see just how "
+"much you can put away."
+msgstr ""
+
+msgctxt "7092_Chihiro"
+msgid "Hehe. Are you sure you can afford it?"
+msgstr ""
+
+msgctxt "7104_Tanimura"
+msgid "Sure. I think..."
+msgstr ""
+
+msgctxt "7116_Tanimura"
+msgid "It's fine as long as you don't get fat. Are you getting enough exercise?"
+msgstr ""
+
+msgctxt "7128_Chihiro"
+msgid "Um. No, not recently."
+msgstr ""
+
+msgctxt "7140_Tanimura"
+msgid ""
+"And do you chew your food properly? Thorough chewing leads to better "
+"digestion."
+msgstr ""
+
+msgctxt "7152_Chihiro"
+msgid "Really? I guess I don't chew my food that much."
+msgstr ""
+
+msgctxt "7164_Tanimura"
+msgid "Also, if you take longer to eat, you won't feel the need to have as much."
+msgstr ""
+
+msgctxt "7176_Chihiro"
+msgid "Wow. You're full of good advice, aren't you?"
+msgstr ""
+
+msgctxt "7188_Tanimura"
+msgid "It's not about how much you eat. Your health is what's important."
+msgstr ""
+
+msgctxt "7200_Chihiro"
+msgid "I know. I need to make sure I've got a well-balanced diet."
+msgstr ""
+
+msgctxt "7212_Tanimura"
+msgid "That's right. What kind of food do you make?"
+msgstr ""
+
+msgctxt "7224_Chihiro"
+msgid "Let's see. Cake, cookies, pies..."
+msgstr ""
+
+msgctxt "7236_Tanimura"
+msgid "Whoa, hold on a sec. Do you only make sweets? That can't be good for you."
+msgstr ""
+
+msgctxt "7248_Chihiro"
+msgid "Yeah, I know. I should try to make something more nutritious."
+msgstr ""
+
+msgctxt "7260_Tanimura"
+msgid "You really should."
+msgstr ""
+
+msgctxt "7272_Chihiro"
+msgid "Did I tell you I've got a pet rabbit?"
+msgstr ""
+
+msgctxt "7284_Tanimura"
+msgid "A pet rabbit?"
+msgstr ""
+
+msgctxt "7296_Chihiro"
+msgid "Yep! He's the most beautiful bunny in the world. His name is Chachamaru."
+msgstr ""
+
+msgctxt "7308_Chihiro"
+msgid ""
+"He's a big eater like me. And he's so friendly! Oh, he's the cutest thing "
+"ever!"
+msgstr ""
+
+msgctxt "7320_Tanimura"
+msgid "I'd like to see him sometime."
+msgstr ""
+
+msgctxt "7332_Chihiro"
+msgid "Okay! I'll send a picture to your cell phone."
+msgstr ""
+
+msgctxt "7344_Chihiro"
+msgid "But actually, I mentioned him because he's been acting strange lately."
+msgstr ""
+
+msgctxt "7356_Tanimura"
+msgid "Strange? How?"
+msgstr ""
+
+msgctxt "7368_Chihiro"
+msgid "He's listless and doesn't have much of an appetite. I'm worried about him."
+msgstr ""
+
+msgctxt "7380_Tanimura"
+msgid "Maybe he's lonely. He probably wants more attention."
+msgstr ""
+
+msgctxt "7392_Chihiro"
+msgid ""
+"Yeah, I haven't been able to play with him much since I started working "
+"here."
+msgstr ""
+
+msgctxt "7404_Tanimura"
+msgid ""
+"That's probably it. Rabbits are social creatures. You need to play with him "
+"more."
+msgstr ""
+
+msgctxt "7416_Chihiro"
+msgid "Yes, you're right. I'd better make some time just for me and Chachamaru!"
+msgstr ""
+
+msgctxt "7428_Chihiro"
+msgid "I'll let you know if he gets better."
+msgstr ""
+
+msgctxt "7440_Tanimura"
+msgid "All right."
+msgstr ""
+
+msgctxt "7452_Tanimura"
+msgid "Maybe he wants to go outside."
+msgstr ""
+
+msgctxt "7464_Chihiro"
+msgid "Yeah... Spending most of his time in a little cage must be pretty boring."
+msgstr ""
+
+msgctxt "7476_Tanimura"
+msgid "You could take him to a park and play with him there."
+msgstr ""
+
+msgctxt "7488_Chihiro"
+msgid "That's not a bad idea. I'll do that on my next day off."
+msgstr ""
+
+msgctxt "7500_Tanimura"
+msgid "Can I come too?"
+msgstr ""
+
+msgctxt "7512_Chihiro"
+msgid "Nope! This is my date with Chachamaru. You'd just be a third wheel."
+msgstr ""
+
+msgctxt "7524_Tanimura"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "7536_Tanimura"
+msgid "It's not worth getting upset over. I'm sure he'll get better eventually."
+msgstr ""
+
+msgctxt "7548_Chihiro"
+msgid "How do you know?"
+msgstr ""
+
+msgctxt "7560_Tanimura"
+msgid ""
+"Well, the same thing happens to people. His  appetite will be back to "
+"normal in a few days."
+msgstr ""
+
+msgctxt "7572_Chihiro"
+msgid "But people and animals aren't the same! If I do nothing, he might get worse!"
+msgstr ""
+
+msgctxt "7584_Tanimura"
+msgid "Then just take him to a vet. It's no big deal."
+msgstr ""
+
+msgctxt "7596_Chihiro"
+msgid "You really don't care, do you? I think I'll talk about it to someone else."
+msgstr ""
+
+msgctxt "7608_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "7620_Chihiro"
+msgid "So! Would you like to see my special talent?"
+msgstr ""
+
+msgctxt "7632_Tanimura"
+msgid "You've got a special talent?"
+msgstr ""
+
+msgctxt "7644_Chihiro"
+msgid "Yes! I've been practicing and perfecting it."
+msgstr ""
+
+msgctxt "7656_Tanimura"
+msgid "You sound confident. All right, let's see it."
+msgstr ""
+
+msgctxt "7668_Chihiro"
+msgid "Ready? Watch my eyebrows! First the right one..."
+msgstr ""
+
+msgctxt "7680_Chihiro"
+msgid "Twitch!"
+msgstr ""
+
+msgctxt "7692_Chihiro"
+msgid "And now the left..."
+msgstr ""
+
+msgctxt "7704_Chihiro"
+msgid "Twitch!"
+msgstr ""
+
+msgctxt "7716_Tanimura"
+msgid "You can move your eyebrows independently?"
+msgstr ""
+
+msgctxt "7728_Chihiro"
+msgid "What do you think?"
+msgstr ""
+
+msgctxt "7740_Tanimura"
+msgid "That takes coordination. I certainly couldn't do it."
+msgstr ""
+
+msgctxt "7752_Chihiro"
+msgid "Hehe! You know, you should try it! You might have my special talent too."
+msgstr ""
+
+msgctxt "7764_Tanimura"
+msgid "Uh, I think I'll pass."
+msgstr ""
+
+msgctxt "7776_Chihiro"
+msgid "What? Oh, come on! Be a man! I mean, I did it, didn't I?"
+msgstr ""
+
+msgctxt "7788_Tanimura"
+msgid "Yeah, but..."
+msgstr ""
+
+msgctxt "7800_Chihiro"
+msgid ""
+"Okay, it'll be your homework! You have to learn to do it by the time I see "
+"you next!"
+msgstr ""
+
+msgctxt "7812_Tanimura"
+msgid "Are you serious?"
+msgstr ""
+
+msgctxt "7824_Tanimura"
+msgid "That's your special talent?"
+msgstr ""
+
+msgctxt "7836_Chihiro"
+msgid "Isn't it great? I practiced for a while!"
+msgstr ""
+
+msgctxt "7848_Tanimura"
+msgid "Er... It's a little underwhelming."
+msgstr ""
+
+msgctxt "7860_Chihiro"
+msgid "Oh... Well, at least you're honest."
+msgstr ""
+
+msgctxt "7872_Tanimura"
+msgid "But it's just my personal opinion."
+msgstr ""
+
+msgctxt "7884_Chihiro"
+msgid "No, I get it. I won't show off my special talents anymore."
+msgstr ""
+
+msgctxt "7896_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "7908_Tanimura"
+msgid "I'd give it a four out of ten."
+msgstr ""
+
+msgctxt "7920_Chihiro"
+msgid "Huh? Isn't that pretty low?"
+msgstr ""
+
+msgctxt "7932_Chihiro"
+msgid "I hoped to get at least a six."
+msgstr ""
+
+msgctxt "7944_Tanimura"
+msgid "A six? Sounds like you aren't impressed with your talent, either."
+msgstr ""
+
+msgctxt "7956_Chihiro"
+msgid "That's not true! I'm pleased with it, and you should be too!"
+msgstr ""
+
+msgctxt "7968_Tanimura"
+msgid "Hmm... I could bump it up to a four point five."
+msgstr ""
+
+msgctxt "7980_Chihiro"
+msgid "Aw. Well, if that's the best I can get, I'll be satisfied."
+msgstr ""
+
+msgctxt "7992_Tanimura"
+msgid "Ha, you gave up quickly."
+msgstr ""
+
+msgctxt "8004_Chihiro"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "8016_Tanimura"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "8028_Chihiro"
+msgid "Do you really want to know?"
+msgstr ""
+
+msgctxt "8040_Tanimura"
+msgid "Not if you don't want to tell me."
+msgstr ""
+
+msgctxt "8052_Chihiro"
+msgid "No, it's okay! I do want to tell you!"
+msgstr ""
+
+msgctxt "8064_Chihiro"
+msgid "I... I went to an audition the other day."
+msgstr ""
+
+msgctxt "8076_Tanimura"
+msgid "Like for a commercial?"
+msgstr ""
+
+msgctxt "8088_Chihiro"
+msgid "No. It was for a supporting role in a late-night soap opera."
+msgstr ""
+
+msgctxt "8100_Chihiro"
+msgid ""
+"One of my friends in my theater group said I should try out. So I went, and "
+"I thought I did pretty well."
+msgstr ""
+
+msgctxt "8112_Tanimura"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "8124_Chihiro"
+msgid ""
+"I thought maybe, just maybe, I might get cast. But they never got back to "
+"me about it."
+msgstr ""
+
+msgctxt "8136_Tanimura"
+msgid "Meaning you didn't get the part."
+msgstr ""
+
+msgctxt "8148_Chihiro"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "8160_Tanimura"
+msgid "Well, at least it was a good experience."
+msgstr ""
+
+msgctxt "8172_Chihiro"
+msgid "Not getting cast was a good experience?"
+msgstr ""
+
+msgctxt "8184_Tanimura"
+msgid "Sure. Even veteran actors don't get cast sometimes."
+msgstr ""
+
+msgctxt "8196_Tanimura"
+msgid "If you're not right for the part, it doesn't matter how good you are."
+msgstr ""
+
+msgctxt "8208_Chihiro"
+msgid "I guess that's true."
+msgstr ""
+
+msgctxt "8220_Tanimura"
+msgid ""
+"But if you keep trying, you'll find the perfect part for you. Just give it "
+"time."
+msgstr ""
+
+msgctxt "8232_Chihiro"
+msgid "Yeah, you're right! I'm gonna keep at it!"
+msgstr ""
+
+msgctxt "8244_Chihiro"
+msgid "Thanks for cheering me up. You're sweet. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8256_Tanimura"
+msgid "Is that all? That's nothing to get upset about."
+msgstr ""
+
+msgctxt "8268_Chihiro"
+msgid "But it's natural to get depressed after being rejected like that."
+msgstr ""
+
+msgctxt "8280_Chihiro"
+msgid "It was my first real failure."
+msgstr ""
+
+msgctxt "8292_Tanimura"
+msgid "And it won't be your last. You can't let it get to you."
+msgstr ""
+
+msgctxt "8304_Chihiro"
+msgid "Yeah... You have a point."
+msgstr ""
+
+msgctxt "8316_Chihiro"
+msgid "All right! I'll try to stay positive!"
+msgstr ""
+
+msgctxt "8328_Chihiro"
+msgid "And I'll work hard to get cast next time!"
+msgstr ""
+
+msgctxt "8340_Tanimura"
+msgid "Good luck. I'm rooting for you."
+msgstr ""
+
+msgctxt "8352_Tanimura"
+msgid "You need to think bigger! You should be trying out for the lead!"
+msgstr ""
+
+msgctxt "8364_Chihiro"
+msgid "What? I don't think I'm ready for that."
+msgstr ""
+
+msgctxt "8376_Tanimura"
+msgid ""
+"That's your problem right there. Your attitude's all wrong. You have to aim "
+"higher."
+msgstr ""
+
+msgctxt "8388_Tanimura"
+msgid "Or do you want to be a supporting actor forever?"
+msgstr ""
+
+msgctxt "8400_Chihiro"
+msgid "No... I do want to play the lead."
+msgstr ""
+
+msgctxt "8412_Tanimura"
+msgid "Then you can't let a little setback like this get you down."
+msgstr ""
+
+msgctxt "8424_Chihiro"
+msgid "You're right! I have to keep moving forward!"
+msgstr ""
+
+msgctxt "8436_Chihiro"
+msgid "Ha! I feel better now! Thank you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8448_Tanimura"
+msgid "Heh. Glad to hear it."
+msgstr ""
+
+msgctxt "8460_Tanimura"
+msgid "Have you heard back from that guy?"
+msgstr ""
+
+msgctxt "8472_Chihiro"
+msgid "Oh, you mean Kinugawa-san? Yes! He wants me to join his agency."
+msgstr ""
+
+msgctxt "8484_Chihiro"
+msgid "He said he could make me a star!"
+msgstr ""
+
+msgctxt "8496_Tanimura"
+msgid "Did he now..."
+msgstr ""
+
+msgctxt "8508_Chihiro"
+msgid "But that's not all! He's gonna give me acting lessons for free!"
+msgstr ""
+
+msgctxt "8520_Chihiro"
+msgid "This is my big break!"
+msgstr ""
+
+msgctxt "8532_Tanimura"
+msgid "This sounds a little too good to be true."
+msgstr ""
+
+msgctxt "8544_Chihiro"
+msgid "Huh? What do you mean?"
+msgstr ""
+
+msgctxt "8556_Tanimura"
+msgid ""
+"There are people who wouldn't think twice about taking advantage of a young "
+"girl working towards a dream."
+msgstr ""
+
+msgctxt "8568_Tanimura"
+msgid "I've run into plenty of people pretending to run talent agencies."
+msgstr ""
+
+msgctxt "8580_Chihiro"
+msgid "Hey! I won't have you talking about Kinugawa-san like that!"
+msgstr ""
+
+msgctxt "8592_Chihiro"
+msgid ""
+"He listened to my problems, gave me advice, and now he's helping me get "
+"started."
+msgstr ""
+
+msgctxt "8604_Chihiro"
+msgid "He would never do that kind of thing!"
+msgstr ""
+
+msgctxt "8616_Tanimura"
+msgid "I'm just worried about you. That's all."
+msgstr ""
+
+msgctxt "8628_Chihiro"
+msgid "You don't have to be. I'm a big girl. I can take care of myself."
+msgstr ""
+
+msgctxt "8640_Chihiro"
+msgid "Kinugawa-san is a good person. I can tell that much!"
+msgstr ""
+
+msgctxt "8652_Tanimura"
+msgid "Okay."
+msgstr ""
+
+msgctxt "8664_Chihiro"
+msgid "But... Thanks for worrying about me. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8676_Tanimura"
+msgid "Just be careful, okay?"
+msgstr ""
+
+msgctxt "8688_Tanimura"
+msgid ""
+"I'm sorry. Being a cop makes me suspicious. Sometimes I see problems where "
+"there aren't any."
+msgstr ""
+
+msgctxt "8700_Tanimura"
+msgid "Don't let it upset you."
+msgstr ""
+
+msgctxt "8712_Chihiro"
+msgid "No, it's okay. You were just worried about me."
+msgstr ""
+
+msgctxt "8724_Tanimura"
+msgid "Forget about what I said. You shouldn't let this chance get away."
+msgstr ""
+
+msgctxt "8736_Chihiro"
+msgid "Thanks! I won't."
+msgstr ""
+
+msgctxt "8748_Chihiro"
+msgid "You're so nice to listen to me. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8760_Tanimura"
+msgid "Oh, it's nothing."
+msgstr ""
+
+msgctxt "8772_Tanimura"
+msgid ""
+"I'm telling you, he's taking advantage of you. You need to keep an eye on "
+"this guy."
+msgstr ""
+
+msgctxt "8784_Chihiro"
+msgid "What proof do you have?"
+msgstr ""
+
+msgctxt "8796_Tanimura"
+msgid "Well, I don't really have any proof... It's just a hunch."
+msgstr ""
+
+msgctxt "8808_Chihiro"
+msgid "You're accusing him because of a hunch!?"
+msgstr ""
+
+msgctxt "8820_Tanimura"
+msgid ""
+"I'm a detective, so my hunches usually pay off. You should see how well I "
+"do at the races."
+msgstr ""
+
+msgctxt "8832_Chihiro"
+msgid "The races? This isn't gambling! This is my future career!"
+msgstr ""
+
+msgctxt "8844_Chihiro"
+msgid "I never knew you were so irresponsible."
+msgstr ""
+
+msgctxt "8856_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "8868_Chihiro"
+msgid "Do you ever get worried about the future?"
+msgstr ""
+
+msgctxt "8880_Tanimura"
+msgid "Not really. I don't think all that far ahead, to be honest."
+msgstr ""
+
+msgctxt "8892_Tanimura"
+msgid "As long as I've got work, food, and shelter, I should be fine."
+msgstr ""
+
+msgctxt "8904_Chihiro"
+msgid "When I think about the future, I get pretty scared."
+msgstr ""
+
+msgctxt "8916_Chihiro"
+msgid "What if nobody wants to give me a job as an actress?"
+msgstr ""
+
+msgctxt "8928_Tanimura"
+msgid "Come on. You shouldn't let that kind of thing get to you."
+msgstr ""
+
+msgctxt "8940_Chihiro"
+msgid ""
+"I can't help it. Sometimes I stay up all night thinking about stuff like "
+"that."
+msgstr ""
+
+msgctxt "8952_Tanimura"
+msgid "Sounds like you've got a lot of stress."
+msgstr ""
+
+msgctxt "8964_Chihiro"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "8976_Chihiro"
+msgid "Do you know any good ways to get rid of stress?"
+msgstr ""
+
+msgctxt "8988_Tanimura"
+msgid "Horse racing is good. Have you ever been to a race?"
+msgstr ""
+
+msgctxt "9000_Chihiro"
+msgid "I'm not sure if gambling is my thing."
+msgstr ""
+
+msgctxt "9012_Tanimura"
+msgid "You don't have to bet on it. Just watching the races can be fascinating."
+msgstr ""
+
+msgctxt "9024_Tanimura"
+msgid ""
+"Think about the generations of horses, trainers, and jockeys all struggling "
+"to get to the top."
+msgstr ""
+
+msgctxt "9036_Chihiro"
+msgid "When you put it that way, it does seem kind of interesting. Like a movie."
+msgstr ""
+
+msgctxt "9048_Tanimura"
+msgid "That's right! You've got it!"
+msgstr ""
+
+msgctxt "9060_Chihiro"
+msgid "Maybe I'll go to a race sometime."
+msgstr ""
+
+msgctxt "9072_Tanimura"
+msgid "Ask me along when you do."
+msgstr ""
+
+msgctxt "9084_Tanimura"
+msgid "There's nothing better than karaoke. It's perfect for relieving stress."
+msgstr ""
+
+msgctxt "9096_Chihiro"
+msgid "I go to karaoke sometimes, but I'm not very good."
+msgstr ""
+
+msgctxt "9108_Chihiro"
+msgid ""
+"So I only go with my close friends. I'd be embarrassed if I went with "
+"anyone else."
+msgstr ""
+
+msgctxt "9120_Tanimura"
+msgid "You could always go by yourself. Then you don't need to impress anyone."
+msgstr ""
+
+msgctxt "9132_Chihiro"
+msgid "By myself? I never thought of that. I'll give it a try."
+msgstr ""
+
+msgctxt "9144_Chihiro"
+msgid "I'll let you know what I think."
+msgstr ""
+
+msgctxt "9156_Tanimura"
+msgid "I look forward to it."
+msgstr ""
+
+msgctxt "9168_Tanimura"
+msgid "How about a massage? That gets rid of both fatigue and stress."
+msgstr ""
+
+msgctxt "9180_Chihiro"
+msgid "Hmm. I do like having my shoulders massaged."
+msgstr ""
+
+msgctxt "9192_Chihiro"
+msgid "How much does it cost to go to one of those massage places?"
+msgstr ""
+
+msgctxt "9204_Tanimura"
+msgid ""
+"It depends, but you should be able to get a good massage for 4,000 to 6,000 "
+"yen."
+msgstr ""
+
+msgctxt "9216_Chihiro"
+msgid "What!? That much? I don't know..."
+msgstr ""
+
+msgctxt "9228_Tanimura"
+msgid "All right, how about if I give you a massage myself? I'll do it for free."
+msgstr ""
+
+msgctxt "9240_Chihiro"
+msgid "......"
+msgstr ""
+
+msgctxt "9252_Tanimura"
+msgid "Hm? Is something wrong?"
+msgstr ""
+
+msgctxt "9264_Chihiro"
+msgid "This isn't just an excuse to touch me, is it?"
+msgstr ""
+
+msgctxt "9276_Tanimura"
+msgid "Of course not!"
+msgstr ""
+
+msgctxt "9288_Chihiro"
+msgid "Sounds like you're feeling guilty. That makes me even more suspicious."
+msgstr ""
+
+msgctxt "9300_Chihiro"
+msgid "Can I ask you something?"
+msgstr ""
+
+msgctxt "9312_Tanimura"
+msgid "What?"
+msgstr ""
+
+msgctxt "9324_Chihiro"
+msgid "One of my friends from college was dating an older guy."
+msgstr ""
+
+msgctxt "9336_Chihiro"
+msgid "They were in love, and even talking about getting married."
+msgstr ""
+
+msgctxt "9348_Chihiro"
+msgid "And then she found out he had three other girlfriends!"
+msgstr ""
+
+msgctxt "9360_Tanimura"
+msgid "Whoa. That's terrible."
+msgstr ""
+
+msgctxt "9372_Chihiro"
+msgid "I know! They broke up, of course. It was pretty rough on my friend."
+msgstr ""
+
+msgctxt "9384_Chihiro"
+msgid "So I wanted to know. How can men just cheat like that?"
+msgstr ""
+
+msgctxt "9396_Tanimura"
+msgid "Not all men are like that. I've never cheated on anyone."
+msgstr ""
+
+msgctxt "9408_Chihiro"
+msgid "You haven't?"
+msgstr ""
+
+msgctxt "9420_Tanimura"
+msgid "Nope. I may not look it, but I'm a faithful guy."
+msgstr ""
+
+msgctxt "9432_Chihiro"
+msgid "Hehe. Sure you are."
+msgstr ""
+
+msgctxt "9444_Tanimura"
+msgid "What? You don't believe me?"
+msgstr ""
+
+msgctxt "9456_Chihiro"
+msgid ""
+"Oh, I believe you. So don't go cheating on me with another hostess, okay? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "9468_Tanimura"
+msgid "Of course not."
+msgstr ""
+
+msgctxt "9480_Tanimura"
+msgid "That's just the way men are. There's nothing you can do about it."
+msgstr ""
+
+msgctxt "9492_Chihiro"
+msgid "What!? So you'd cheat on me if we were going out?"
+msgstr ""
+
+msgctxt "9504_Tanimura"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "9516_Chihiro"
+msgid "Well!? Would you cheat or not?"
+msgstr ""
+
+msgctxt "9528_Tanimura"
+msgid "Of course I wouldn't. Don't be silly."
+msgstr ""
+
+msgctxt "9540_Chihiro"
+msgid "But you had to think about it! You would cheat, wouldn't you!?"
+msgstr ""
+
+msgctxt "9552_Tanimura"
+msgid "You're questioning the honesty of a police officer?"
+msgstr ""
+
+msgctxt "9564_Chihiro"
+msgid "Hmph. You only act like a police officer when it's convenient."
+msgstr ""
+
+msgctxt "9576_Tanimura"
+msgid ""
+"The woman bears some responsibility, too. How could your friend have not "
+"noticed that he was seeing so many other girls?"
+msgstr ""
+
+msgctxt "9588_Chihiro"
+msgid "That's not fair! She may have been naive, but she trusted him."
+msgstr ""
+
+msgctxt "9600_Tanimura"
+msgid ""
+"Well, it'll come back to bite him eventually. Your friend should just be "
+"glad that she found out before they got married."
+msgstr ""
+
+msgctxt "9612_Chihiro"
+msgid "Yeah, that's true."
+msgstr ""
+
+msgctxt "9624_Tanimura"
+msgid "Love can be tough. She should learn a valuable lesson from this."
+msgstr ""
+
+msgctxt "9636_Chihiro"
+msgid "Wow. You're so cold..."
+msgstr ""
+
+msgctxt "9648_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "9660_Chihiro"
+msgid ""
+"When I was in junior high, I thought I'd have a more exciting love life by "
+"the time I was twenty. Like a real adult."
+msgstr ""
+
+msgctxt "9672_Tanimura"
+msgid "More exciting? How?"
+msgstr ""
+
+msgctxt "9684_Chihiro"
+msgid ""
+"Oh, I don't know. Two men fighting over me. Eloping with someone dark and "
+"mysterious."
+msgstr ""
+
+msgctxt "9696_Chihiro"
+msgid "Haven't you ever wanted an adventurous romance?"
+msgstr ""
+
+msgctxt "9708_Tanimura"
+msgid "Not really. Sounds like a lot of work if you ask me."
+msgstr ""
+
+msgctxt "9720_Chihiro"
+msgid ""
+"Maybe, but I want to experience it at least once! But I can't even find a "
+"boyfriend."
+msgstr ""
+
+msgctxt "9732_Chihiro"
+msgid "I guess I'm still a child in some ways."
+msgstr ""
+
+msgctxt "9744_Tanimura"
+msgid ""
+"You've been watching too many soap operas. Those kinds of things aren't "
+"very fun in real life."
+msgstr ""
+
+msgctxt "9756_Chihiro"
+msgid "That's not true. Women want that kind of romance."
+msgstr ""
+
+msgctxt "9768_Tanimura"
+msgid "Really? It seems like too much trouble."
+msgstr ""
+
+msgctxt "9780_Chihiro"
+msgid "Oh, you're probably right. I couldn't take the pressure, could I?"
+msgstr ""
+
+msgctxt "9792_Tanimura"
+msgid "Well, maybe you could. I just don't think it's worth it."
+msgstr ""
+
+msgctxt "9804_Chihiro"
+msgid "Hmm. If you say so."
+msgstr ""
+
+msgctxt "9816_Tanimura"
+msgid ""
+"You'll get your chance soon enough. Just don't give your customers the "
+"wrong idea."
+msgstr ""
+
+msgctxt "9828_Chihiro"
+msgid "What do you mean? I was talking about my love life, not the club."
+msgstr ""
+
+msgctxt "9840_Tanimura"
+msgid ""
+"I know, but one of your customers might think your relationship with him is "
+"real."
+msgstr ""
+
+msgctxt "9852_Chihiro"
+msgid "What? That's impossible."
+msgstr ""
+
+msgctxt "9864_Tanimura"
+msgid "Hmm. You still have a lot to learn."
+msgstr ""
+
+msgctxt "9876_Chihiro"
+msgid ""
+"Oh really? Have you ever had the kind of love affair I'm talking about? "
+"Like a love triangle?"
+msgstr ""
+
+msgctxt "9888_Tanimura"
+msgid "Huh? Um, I think maybe we should talk about that some other time."
+msgstr ""
+
+msgctxt "9900_Chihiro"
+msgid "Hey! Don't change the subject!"
+msgstr ""
+
+msgctxt "9912_Tanimura"
+msgid "I'm not! Really!"
+msgstr ""
+
+msgctxt "9924_Chihiro"
+msgid "Then promise me that you'll tell me about it sometime!"
+msgstr ""
+
+msgctxt "9936_Tanimura"
+msgid "All right, all right!"
+msgstr ""
+
+msgctxt "9948_Tanimura"
+msgid "You are still a child."
+msgstr ""
+
+msgctxt "9960_Chihiro"
+msgid "What? How?"
+msgstr ""
+
+msgctxt "9972_Tanimura"
+msgid ""
+"I can't put my finger on it. You just seem more like a little sister than a "
+"mature woman."
+msgstr ""
+
+msgctxt "9984_Chihiro"
+msgid "Oh, fine. So you'd prefer an old lady with plenty of experience, huh?"
+msgstr ""
+
+msgctxt "9996_Tanimura"
+msgid "I didn't say that."
+msgstr ""
+
+msgctxt "10008_Chihiro"
+msgid "Then what!? I'm twenty years old! I'm an adult!"
+msgstr ""
+
+msgctxt "10020_Chihiro"
+msgid "Being called a child hurts my feelings..."
+msgstr ""
+
+msgctxt "10032_Tanimura"
+msgid "I'm sorry."
+msgstr ""
+
+msgctxt "10044_Chihiro"
+msgid "Did you know I live with my sister? She's a year younger than me."
+msgstr ""
+
+msgctxt "10056_Tanimura"
+msgid "Oh?"
+msgstr ""
+
+msgctxt "10068_Chihiro"
+msgid "We usually get along pretty well, but we had our first big fight yesterday."
+msgstr ""
+
+msgctxt "10080_Chihiro"
+msgid "I'm not looking forward to going home tonight."
+msgstr ""
+
+msgctxt "10092_Tanimura"
+msgid "What did you fight about?"
+msgstr ""
+
+msgctxt "10104_Chihiro"
+msgid "Well, it sounds silly, but I ate my sister's pudding."
+msgstr ""
+
+msgctxt "10116_Chihiro"
+msgid "It was from some famous store, and she'd been saving it."
+msgstr ""
+
+msgctxt "10128_Chihiro"
+msgid "She got really mad when she found out I ate it. It was such an overreaction."
+msgstr ""
+
+msgctxt "10140_Tanimura"
+msgid ""
+"You were in the wrong. She may have gotten too mad, but you ate something "
+"that wasn't yours."
+msgstr ""
+
+msgctxt "10152_Chihiro"
+msgid "Well, that's true, but it was just pudding!"
+msgstr ""
+
+msgctxt "10164_Chihiro"
+msgid "It wasn't even that good. It was some weird flavor I'd never had before."
+msgstr ""
+
+msgctxt "10176_Tanimura"
+msgid "That doesn't matter. You need to apologize."
+msgstr ""
+
+msgctxt "10188_Chihiro"
+msgid "Aw... Will you come with me?"
+msgstr ""
+
+msgctxt "10200_Tanimura"
+msgid "I think you can handle it on your own."
+msgstr ""
+
+msgctxt "10212_Tanimura"
+msgid "That's pretty childish. Fighting about pudding?"
+msgstr ""
+
+msgctxt "10224_Chihiro"
+msgid "I know! She really is a kid in some ways."
+msgstr ""
+
+msgctxt "10236_Tanimura"
+msgid "You're no better, eating her pudding."
+msgstr ""
+
+msgctxt "10248_Chihiro"
+msgid "Oh? So you're an adult, I suppose?"
+msgstr ""
+
+msgctxt "10260_Tanimura"
+msgid "Of course."
+msgstr ""
+
+msgctxt "10272_Chihiro"
+msgid "You wouldn't get mad if I ate something of yours?"
+msgstr ""
+
+msgctxt "10284_Tanimura"
+msgid "Well, no... Probably not, anyway."
+msgstr ""
+
+msgctxt "10296_Chihiro"
+msgid "Ha! You're just as much of a child as we are!"
+msgstr ""
+
+msgctxt "10308_Tanimura"
+msgid "Oh, be quiet..."
+msgstr ""
+
+msgctxt "10320_Tanimura"
+msgid "I wish I had a brother or sister to fight with."
+msgstr ""
+
+msgctxt "10332_Chihiro"
+msgid "You're an only child?"
+msgstr ""
+
+msgctxt "10344_Tanimura"
+msgid ""
+"Mm-hm. I've always thought people like you were lucky. It would've been fun "
+"to have a little sister when I was growing up."
+msgstr ""
+
+msgctxt "10356_Chihiro"
+msgid "Hehe. Maybe I could be your little sister."
+msgstr ""
+
+msgctxt "10368_Chihiro"
+msgid "Big bro! I want some <Color:7>Gold Champagne<Color:Default>!"
+msgstr ""
+
+msgctxt "10380_Tanimura"
+msgid "Hmm. I don't want a greedy sister like that."
+msgstr ""
+
+msgctxt "10392_Chihiro"
+msgid ""
+"Oh, I was kidding! Listen, I'll let my big brother have one wish. Anything "
+"you want."
+msgstr ""
+
+msgctxt "10404_Tanimura"
+msgid "Anything? How about a kiss?"
+msgstr ""
+
+msgctxt "10416_Chihiro"
+msgid "Nice try, but I don't think most brothers and sisters do that kind of thing."
+msgstr ""
+
+msgctxt "10428_Tanimura"
+msgid "Aw..."
+msgstr ""
+
+msgctxt "10440_Chihiro"
+msgid "Do you remember my rabbit, Chachamaru?"
+msgstr ""
+
+msgctxt "10452_Tanimura"
+msgid "Yeah. You said he wasn't doing so well."
+msgstr ""
+
+msgctxt "10464_Chihiro"
+msgid "That's right. Well, I took him to the vet."
+msgstr ""
+
+msgctxt "10476_Tanimura"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "10488_Chihiro"
+msgid ""
+"It turns out he was just constipated. He'd been nibbling on the cardboard "
+"boxes in my room and got all blocked up."
+msgstr ""
+
+msgctxt "10500_Tanimura"
+msgid "Is he doing better now?"
+msgstr ""
+
+msgctxt "10512_Chihiro"
+msgid "Yeah. I just had to massage his tummy. Now he's better than ever!"
+msgstr ""
+
+msgctxt "10524_Tanimura"
+msgid "That's a relief. I'm glad Chachamaru's feeling well."
+msgstr ""
+
+msgctxt "10536_Chihiro"
+msgid "Maybe you can play with him sometime."
+msgstr ""
+
+msgctxt "10548_Tanimura"
+msgid "Um... Do rabbits bite?"
+msgstr ""
+
+msgctxt "10560_Chihiro"
+msgid "Hehe, no. He's very gentle. You're not scared of rabbits, are you?"
+msgstr ""
+
+msgctxt "10572_Tanimura"
+msgid "I'm not scared of anything. I deal with armed criminals on a daily basis!"
+msgstr ""
+
+msgctxt "10584_Chihiro"
+msgid "Wow! I guess policemen are different from normal people, huh?"
+msgstr ""
+
+msgctxt "10596_Tanimura"
+msgid "Right."
+msgstr ""
+
+msgctxt "10608_Chihiro"
+msgid "And yet you're still afraid of little bunny rabbits."
+msgstr ""
+
+msgctxt "10620_Tanimura"
+msgid "Hey! I told you, I'm not afraid!"
+msgstr ""
+
+msgctxt "10632_Tanimura"
+msgid "You'll have to be more careful from now on."
+msgstr ""
+
+msgctxt "10644_Chihiro"
+msgid "I will. I wish I'd taken him to the vet sooner."
+msgstr ""
+
+msgctxt "10656_Chihiro"
+msgid "He must've been in pain."
+msgstr ""
+
+msgctxt "10668_Tanimura"
+msgid ""
+"But he's better now. And if there's anything I can do to help in the "
+"future, just let me know."
+msgstr ""
+
+msgctxt "10680_Chihiro"
+msgid "Oh, I don't think that'll be necessary. Thanks for the offer, though."
+msgstr ""
+
+msgctxt "10692_Tanimura"
+msgid "Sure."
+msgstr ""
+
+msgctxt "10704_Tanimura"
+msgid ""
+"You should read more about rabbits. It's part of the responsibility of "
+"being a pet owner."
+msgstr ""
+
+msgctxt "10716_Chihiro"
+msgid "But I can't know everything that's going on in Chachamaru's body!"
+msgstr ""
+
+msgctxt "10728_Tanimura"
+msgid "That's just an excuse. Don't you feel sorry for what happened to him?"
+msgstr ""
+
+msgctxt "10740_Chihiro"
+msgid "Of course I do! But do I have to know as much as a vet to own a rabbit?"
+msgstr ""
+
+msgctxt "10752_Tanimura"
+msgid "Well, no, I wouldn't go that far."
+msgstr ""
+
+msgctxt "10764_Chihiro"
+msgid ""
+"I care about him and I am trying to take care of him the best way I can. I "
+"don't appreciate you lecturing me."
+msgstr ""
+
+msgctxt "10776_Tanimura"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "10788_Chihiro"
+msgid "I've got a secret that I haven't told anyone."
+msgstr ""
+
+msgctxt "10800_Tanimura"
+msgid "You have a lot of secrets."
+msgstr ""
+
+msgctxt "10812_Chihiro"
+msgid "Hehe, maybe. Don't laugh."
+msgstr ""
+
+msgctxt "10824_Chihiro"
+msgid "I'm a huge fan of the railroad! I just love trains!"
+msgstr ""
+
+msgctxt "10836_Tanimura"
+msgid "Trains? Really?"
+msgstr ""
+
+msgctxt "10848_Chihiro"
+msgid "Yes! I'm what you'd call a rail buff."
+msgstr ""
+
+msgctxt "10860_Chihiro"
+msgid ""
+"And I've ridden even more trains since coming to the city, so I've gotten "
+"even more excited!"
+msgstr ""
+
+msgctxt "10872_Tanimura"
+msgid "Ah, okay."
+msgstr ""
+
+msgctxt "10884_Chihiro"
+msgid "Don't you like the railroad?"
+msgstr ""
+
+msgctxt "10896_Tanimura"
+msgid "I'm certainly not as intense as you, but I like the railroad too."
+msgstr ""
+
+msgctxt "10908_Chihiro"
+msgid ""
+"That's great! And yes, I know I'm pretty gung-ho. I even go around train "
+"stations to collect the stamps they give you."
+msgstr ""
+
+msgctxt "10920_Tanimura"
+msgid "Hey, that sounds kinda interesting. I could go with you sometime."
+msgstr ""
+
+msgctxt "10932_Chihiro"
+msgid ""
+"That'd be wonderful! Wow, I never thought you'd be interested in trains. "
+"I'm so happy!"
+msgstr ""
+
+msgctxt "10944_Tanimura"
+msgid "Heh. Me too."
+msgstr ""
+
+msgctxt "10956_Tanimura"
+msgid ""
+"I never really thought about it. I hate crowds, so I don't take the train "
+"much."
+msgstr ""
+
+msgctxt "10968_Chihiro"
+msgid "Aww. I'm sorry to hear that."
+msgstr ""
+
+msgctxt "10980_Tanimura"
+msgid "Well, why don't you tell me what you like about trains?"
+msgstr ""
+
+msgctxt "10992_Chihiro"
+msgid "What!? You want me to teach you about trains!?"
+msgstr ""
+
+msgctxt "11004_Tanimura"
+msgid "Sure."
+msgstr ""
+
+msgctxt "11016_Chihiro"
+msgid ""
+"Hehe, that's great! But I'm a pretty strict teacher. You'd better keep up. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "11028_Tanimura"
+msgid "Er, try to take it easy on me."
+msgstr ""
+
+msgctxt "11040_Tanimura"
+msgid "You're a rail buff, but you like trains?"
+msgstr ""
+
+msgctxt "11052_Chihiro"
+msgid "Um, yeah. Why do you ask?"
+msgstr ""
+
+msgctxt "11064_Tanimura"
+msgid ""
+"I just thought it was strange for someone who loved railroads to like "
+"trains, too."
+msgstr ""
+
+msgctxt "11076_Chihiro"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "11088_Tanimura"
+msgid "I mean, doesn't the term railroad just refer to the train tracks?"
+msgstr ""
+
+msgctxt "11100_Chihiro"
+msgid ""
+"Yeah, but a rail buff is someone who's interested in both railroads and "
+"trains."
+msgstr ""
+
+msgctxt "11112_Tanimura"
+msgid "Oh, so you are interested in trains."
+msgstr ""
+
+msgctxt "11124_Chihiro"
+msgid "Yes, I've been saying that all along. Weren't you listening?"
+msgstr ""
+
+msgctxt "11136_Tanimura"
+msgid "I guess I don't understand it very well."
+msgstr ""
+
+msgctxt "11148_Chihiro"
+msgid "I guess not..."
+msgstr ""
+
+msgctxt "11160_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "11172_Chihiro"
+msgid ""
+"My friends and I are talking about taking a trip abroad during the holiday "
+"next month."
+msgstr ""
+
+msgctxt "11184_Tanimura"
+msgid "Oh? That sounds nice."
+msgstr ""
+
+msgctxt "11196_Chihiro"
+msgid "But I've never been on an airplane before."
+msgstr ""
+
+msgctxt "11208_Chihiro"
+msgid ""
+"And I've never been to another country. I'm sure it'd be a good experience, "
+"but..."
+msgstr ""
+
+msgctxt "11220_Tanimura"
+msgid "What's the problem?"
+msgstr ""
+
+msgctxt "11232_Chihiro"
+msgid "I'm worried. You've traveled before, haven't you?"
+msgstr ""
+
+msgctxt "11244_Tanimura"
+msgid "Sure. Lots of times."
+msgstr ""
+
+msgctxt "11256_Chihiro"
+msgid "Do you have any advice for someone who's never been abroad?"
+msgstr ""
+
+msgctxt "11268_Tanimura"
+msgid "Watch out for counterfeit brand names. They can be pretty hard to spot."
+msgstr ""
+
+msgctxt "11280_Chihiro"
+msgid "I don't have to worry about that. I'm not interested in brand names."
+msgstr ""
+
+msgctxt "11292_Tanimura"
+msgid "Oh. So a man wouldn't have to spend much on you?"
+msgstr ""
+
+msgctxt "11304_Chihiro"
+msgid "I wouldn't say that! I just don't like to spend money on flashy stuff."
+msgstr ""
+
+msgctxt "11316_Chihiro"
+msgid "I care more about what's inside a person."
+msgstr ""
+
+msgctxt "11328_Tanimura"
+msgid "Ah, I see."
+msgstr ""
+
+msgctxt "11340_Tanimura"
+msgid "Be careful what you eat. People can get sick from strange food."
+msgstr ""
+
+msgctxt "11352_Chihiro"
+msgid ""
+"Yeah, I'm kinda worried about that. I'm a big eater, but I don't have a "
+"very strong stomach."
+msgstr ""
+
+msgctxt "11364_Chihiro"
+msgid "Actually, I get sick really easily. Oh, now I'm depressed..."
+msgstr ""
+
+msgctxt "11376_Tanimura"
+msgid "You could at least avoid raw things."
+msgstr ""
+
+msgctxt "11388_Chihiro"
+msgid "There's no point in going abroad if I can't enjoy the food..."
+msgstr ""
+
+msgctxt "11400_Chihiro"
+msgid "I'm so sad. Why did you have to bring that up?"
+msgstr ""
+
+msgctxt "11412_Tanimura"
+msgid "Wait, it's my fault?"
+msgstr ""
+
+msgctxt "11424_Tanimura"
+msgid ""
+"Making mistakes is what makes traveling fun. Don't worry too much. Just "
+"have a good time."
+msgstr ""
+
+msgctxt "11436_Chihiro"
+msgid ""
+"But you've been abroad lots of times. This is my first trip, and I don't "
+"want to ruin it."
+msgstr ""
+
+msgctxt "11448_Chihiro"
+msgid "I've been studying travel guides, making plans..."
+msgstr ""
+
+msgctxt "11460_Tanimura"
+msgid "See, it's stressing out about the plans and maps that'll ruin your trip."
+msgstr ""
+
+msgctxt "11472_Tanimura"
+msgid ""
+"If you're trying too hard, you'll forget to have fun. You need to relax to "
+"really enjoy yourself."
+msgstr ""
+
+msgctxt "11484_Chihiro"
+msgid "Huh. You're probably right. Okay, I'll try not to stress out about it."
+msgstr ""
+
+msgctxt "11496_Tanimura"
+msgid "Good. And don't forget to get me a souvenir."
+msgstr ""
+
+msgctxt "11508_Chihiro"
+msgid "But you wouldn't want me to stress out about something like that, right?"
+msgstr ""
+
+msgctxt "11520_Tanimura"
+msgid "Uh, right."
+msgstr ""
+
+msgctxt "11532_Chihiro"
+msgid "Can I talk to you about a problem I've got?"
+msgstr ""
+
+msgctxt "11544_Tanimura"
+msgid "Sure. What is it?"
+msgstr ""
+
+msgctxt "11556_Chihiro"
+msgid "I'm indecisive."
+msgstr ""
+
+msgctxt "11568_Tanimura"
+msgid "Oh. That's a common problem."
+msgstr ""
+
+msgctxt "11580_Chihiro"
+msgid ""
+"When I stop by the convenience store on the way home, I can never decide "
+"what to get."
+msgstr ""
+
+msgctxt "11592_Chihiro"
+msgid ""
+"I'm always like, \"What kind of drink should I buy? Should I get a snack "
+"with that?\""
+msgstr ""
+
+msgctxt "11604_Tanimura"
+msgid "Um..."
+msgstr ""
+
+msgctxt "11616_Chihiro"
+msgid ""
+"Sometimes I end up spending an hour in the store, just trying to make up my "
+"mind."
+msgstr ""
+
+msgctxt "11628_Tanimura"
+msgid "An hour!? That is a problem!"
+msgstr ""
+
+msgctxt "11640_Chihiro"
+msgid "I know... Is there anything I can do?"
+msgstr ""
+
+msgctxt "11652_Tanimura"
+msgid ""
+"You're taking it too seriously. You're worried you'll make the wrong "
+"choice, right?"
+msgstr ""
+
+msgctxt "11664_Chihiro"
+msgid "Yeah. I mean, some things can look good but taste nasty."
+msgstr ""
+
+msgctxt "11676_Tanimura"
+msgid "But it's not that big a deal. You can always get something different later."
+msgstr ""
+
+msgctxt "11688_Chihiro"
+msgid "Oh... I guess you're right. Maybe I am worrying too much about it."
+msgstr ""
+
+msgctxt "11700_Chihiro"
+msgid ""
+"All right! Next time I'll try not to worry about it. I'll even make a "
+"mistake on purpose!"
+msgstr ""
+
+msgctxt "11712_Tanimura"
+msgid "Well, you don't have to go that far."
+msgstr ""
+
+msgctxt "11724_Chihiro"
+msgid "Thanks for the advice!"
+msgstr ""
+
+msgctxt "11736_Tanimura"
+msgid "Uh, sure."
+msgstr ""
+
+msgctxt "11748_Tanimura"
+msgid "You'll be like that forever. You might as well accept it."
+msgstr ""
+
+msgctxt "11760_Chihiro"
+msgid " What? So you're saying that I'm gonna waste time on every decision I make?"
+msgstr ""
+
+msgctxt "11772_Tanimura"
+msgid "It's just the way you are. You have to try to live with it."
+msgstr ""
+
+msgctxt "11784_Chihiro"
+msgid "You make it sound like I've got some kind of incurable disease."
+msgstr ""
+
+msgctxt "11796_Chihiro"
+msgid "I wish I never asked you about this."
+msgstr ""
+
+msgctxt "11808_Tanimura"
+msgid "Uh, sorry."
+msgstr ""
+
+msgctxt "11820_Tanimura"
+msgid ""
+"If you're indecisive, why don't you ask me? I can give you an answer in "
+"three seconds."
+msgstr ""
+
+msgctxt "11832_Chihiro"
+msgid "Oh! So you never have trouble making decisions?"
+msgstr ""
+
+msgctxt "11844_Tanimura"
+msgid "Nope. When you're a cop, you have to think fast."
+msgstr ""
+
+msgctxt "11856_Chihiro"
+msgid "What if I asked you to marry me?"
+msgstr ""
+
+msgctxt "11868_Tanimura"
+msgid "Marry you?"
+msgstr ""
+
+msgctxt "11880_Chihiro"
+msgid "Yes."
+msgstr ""
+
+msgctxt "11892_Tanimura"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "11904_Chihiro"
+msgid ""
+"Ha! You said you could come up with an answer\r\n"
+" in three seconds!"
+msgstr ""
+
+msgctxt "11916_Tanimura"
+msgid "But that was an unusual question!"
+msgstr ""
+
+msgctxt "11928_Tanimura"
+msgid "Hey, how did that audition for the commercial turn out?"
+msgstr ""
+
+msgctxt "11940_Chihiro"
+msgid ""
+"Actually, I won't have to do an audition after all. They said I got the "
+"part!"
+msgstr ""
+
+msgctxt "11952_Chihiro"
+msgid ""
+"The paperwork's gone through, so I just have to meet with one of the heads "
+"of the agency."
+msgstr ""
+
+msgctxt "11964_Chihiro"
+msgid "I'm so excited! I'm gonna be on TVs across the country!"
+msgstr ""
+
+msgctxt "11976_Tanimura"
+msgid "I don't know. Something seems wrong about this."
+msgstr ""
+
+msgctxt "11988_Chihiro"
+msgid "Why?"
+msgstr ""
+
+msgctxt "12000_Tanimura"
+msgid ""
+"What company would hire an unknown actress with no experience for a "
+"national ad campaign?"
+msgstr ""
+
+msgctxt "12012_Chihiro"
+msgid ""
+"Oh, they said this commercial wouldn't require acting. They want to film "
+"someone as they naturally are."
+msgstr ""
+
+msgctxt "12024_Chihiro"
+msgid "So they were looking for amateurs. It was perfect for me!"
+msgstr ""
+
+msgctxt "12036_Tanimura"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "12048_Tanimura"
+msgid "I know this is your big chance, but... I think you should be careful."
+msgstr ""
+
+msgctxt "12060_Chihiro"
+msgid "I appreciate your concern, but I can't let a chance like this pass by."
+msgstr ""
+
+msgctxt "12072_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "12084_Chihiro"
+msgid "Oh, all right. If anything seems wrong, I'll call you right away."
+msgstr ""
+
+msgctxt "12096_Chihiro"
+msgid "Is that good enough?"
+msgstr ""
+
+msgctxt "12108_Tanimura"
+msgid "Well, okay. Just be careful."
+msgstr ""
+
+msgctxt "12120_Chihiro"
+msgid ""
+"I will! And I'm sure you'll protect me if something goes wrong. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12132_Tanimura"
+msgid "Right."
+msgstr ""
+
+msgctxt "12144_Tanimura"
+msgid ""
+"Okay, I won't say anything else. It's your future, so it's your "
+"responsibility."
+msgstr ""
+
+msgctxt "12156_Chihiro"
+msgid "That's right. I'm sorry you're so worried."
+msgstr ""
+
+msgctxt "12168_Tanimura"
+msgid "Oh, I'll be fine. I'm pulling for you."
+msgstr ""
+
+msgctxt "12180_Chihiro"
+msgid "Thank you! I'll do my best at the interview."
+msgstr ""
+
+msgctxt "12192_Tanimura"
+msgid "Good luck."
+msgstr ""
+
+msgctxt "12204_Tanimura"
+msgid "Don't mess up at that interview. You could still lose the job, you know."
+msgstr ""
+
+msgctxt "12216_Chihiro"
+msgid "I'll be fine. I've gotten used to talking with other people."
+msgstr ""
+
+msgctxt "12228_Tanimura"
+msgid ""
+"Don't get too relaxed. If they want an amateur, too much confidence might "
+"not look good."
+msgstr ""
+
+msgctxt "12240_Chihiro"
+msgid "You think I'm too relaxed? Now I'm starting to get worried."
+msgstr ""
+
+msgctxt "12252_Chihiro"
+msgid "Please don't do anything to make me nervous."
+msgstr ""
+
+msgctxt "12264_Tanimura"
+msgid "Oh. Sorry."
+msgstr ""
+
+msgctxt "12276_Tanimura"
+msgid "You were pretty shaky when you first started here, but now you're a pro."
+msgstr ""
+
+msgctxt "12288_Chihiro"
+msgid "I am?"
+msgstr ""
+
+msgctxt "12300_Tanimura"
+msgid "Sure. I can tell that you're a lot more relaxed."
+msgstr ""
+
+msgctxt "12312_Chihiro"
+msgid "A lot more customers have been requesting me lately, too."
+msgstr ""
+
+msgctxt "12324_Chihiro"
+msgid "It's all thanks to your advice. I really appreciate it. ♪"
+msgstr ""
+
+msgctxt "12336_Tanimura"
+msgid "I didn't do anything. I just talked to you."
+msgstr ""
+
+msgctxt "12348_Chihiro"
+msgid "You did more than that. You've helped me a lot."
+msgstr ""
+
+msgctxt "12360_Chihiro"
+msgid ""
+"If I hadn't met you, I would've quit a long time ago. I wouldn't have been "
+"able to handle it."
+msgstr ""
+
+msgctxt "12372_Tanimura"
+msgid "Oh. I'm glad I could help."
+msgstr ""
+
+msgctxt "12384_Chihiro"
+msgid "And I hope you'll continue to help in the future. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12396_Tanimura"
+msgid "I look forward to it."
+msgstr ""
+
+msgctxt "12408_Tanimura"
+msgid ""
+"It's too bad, though. The more popular you get, the less accessible you "
+"seem."
+msgstr ""
+
+msgctxt "12420_Chihiro"
+msgid "Oh, that's not true. You'll always have a special place in my heart."
+msgstr ""
+
+msgctxt "12432_Tanimura"
+msgid "Special? How?"
+msgstr ""
+
+msgctxt "12444_Chihiro"
+msgid "Well, I'll always have a special smile for you whenever you visit me."
+msgstr ""
+
+msgctxt "12456_Tanimura"
+msgid "Hey, you've been giving me those smiles since the moment I met you."
+msgstr ""
+
+msgctxt "12468_Chihiro"
+msgid ""
+"Haha! You're right. But that just shows how special you are\r\n"
+" to me. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12480_Tanimura"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "12492_Tanimura"
+msgid ""
+"Your appearance hasn't changed, though. You still have the same childlike "
+"charm as when I first met you."
+msgstr ""
+
+msgctxt "12504_Chihiro"
+msgid "I do? But I've been working on my makeup recently."
+msgstr ""
+
+msgctxt "12516_Chihiro"
+msgid "You didn't notice?"
+msgstr ""
+
+msgctxt "12528_Tanimura"
+msgid "Nope. Not at all."
+msgstr ""
+
+msgctxt "12540_Chihiro"
+msgid "Oh. And I worked on it just for you."
+msgstr ""
+
+msgctxt "12552_Tanimura"
+msgid "I like you the way you are."
+msgstr ""
+
+msgctxt "12564_Chihiro"
+msgid "That's nice, but I'd like to look a bit more mature."
+msgstr ""
+
+msgctxt "12576_Tanimura"
+msgid "Oh."
+msgstr ""
+
+msgctxt "12588_Tanimura"
+msgid ""
+"So, you're gonna be a star, huh? You probably won't need hostess club "
+"customers anymore..."
+msgstr ""
+
+msgctxt "12600_Chihiro"
+msgid "Hey, why are you so serious? It's not like you."
+msgstr ""
+
+msgctxt "12612_Tanimura"
+msgid "Just remember that I'll always be cheering for you."
+msgstr ""
+
+msgctxt "12624_Chihiro"
+msgid "Tanimura-san..."
+msgstr ""
+
+msgctxt "12636_Chihiro"
+msgid "If you keep talking like that, I'm gonna get all choked up."
+msgstr ""
+
+msgctxt "12648_Tanimura"
+msgid "Call me any time you feel lonely. You can talk to me about anything."
+msgstr ""
+
+msgctxt "12660_Chihiro"
+msgid "Anything?"
+msgstr ""
+
+msgctxt "12672_Tanimura"
+msgid "Sure. Except for money."
+msgstr ""
+
+msgctxt "12684_Chihiro"
+msgid "Hehe. I know better than to ask you for advice about money."
+msgstr ""
+
+msgctxt "12696_Chihiro"
+msgid "As long as you don't ask for loans after I become a big star."
+msgstr ""
+
+msgctxt "12708_Tanimura"
+msgid "Do I look like that kind of guy?"
+msgstr ""
+
+msgctxt "12720_Chihiro"
+msgid "You really want me to answer that?"
+msgstr ""
+
+msgctxt "12732_Chihiro"
+msgid "Thanks for supporting me. I really appreciate it. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12744_Tanimura"
+msgid "Don't stop until you reach the top. You're gonna be a star. I can feel it."
+msgstr ""
+
+msgctxt "12756_Chihiro"
+msgid "Do you really think I have what it takes?"
+msgstr ""
+
+msgctxt "12768_Tanimura"
+msgid "You won't know unless you try. You've got me convinced, anyway."
+msgstr ""
+
+msgctxt "12780_Chihiro"
+msgid "Hehe. Thanks."
+msgstr ""
+
+msgctxt "12792_Tanimura"
+msgid "If you find yourself having trouble, you've got to push on. You can do it."
+msgstr ""
+
+msgctxt "12804_Chihiro"
+msgid "Thank you. I'll remember that. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12816_Tanimura"
+msgid "Do you really think you'll get famous, though?"
+msgstr ""
+
+msgctxt "12828_Chihiro"
+msgid "What!?"
+msgstr ""
+
+msgctxt "12840_Tanimura"
+msgid ""
+"Oh, I was just wondering. Even if you appear in a commercial, it doesn't "
+"mean you'll be a star."
+msgstr ""
+
+msgctxt "12852_Tanimura"
+msgid "Maybe you won't be leaving me so soon."
+msgstr ""
+
+msgctxt "12864_Chihiro"
+msgid "Why would you say that!? Is that how you support someone you care about?"
+msgstr ""
+
+msgctxt "12876_Tanimura"
+msgid "But we can't know the future, can we?"
+msgstr ""
+
+msgctxt "12888_Chihiro"
+msgid "Oh, I was in such a good mood. Thanks a lot."
+msgstr ""
+
+msgctxt "12900_Chihiro"
+msgid "I'm going to go to my first college mixer soon!"
+msgstr ""
+
+msgctxt "12912_Tanimura"
+msgid "You're pretty happy."
+msgstr ""
+
+msgctxt "12924_Chihiro"
+msgid ""
+"Of course! I've never been to something like this before! Maybe we'll play "
+"board games!"
+msgstr ""
+
+msgctxt "12936_Chihiro"
+msgid ""
+"I've always been so embarrassed about never having gone to one of these "
+"mixers."
+msgstr ""
+
+msgctxt "12948_Tanimura"
+msgid "Oh?"
+msgstr ""
+
+msgctxt "12960_Chihiro"
+msgid "I'm gonna have a blast!"
+msgstr ""
+
+msgctxt "12972_Tanimura"
+msgid "You don't need to go to a mixer. They're always boring anyways."
+msgstr ""
+
+msgctxt "12984_Chihiro"
+msgid ""
+"Are you jealous? You think a college guy is going to steal me away or "
+"something?"
+msgstr ""
+
+msgctxt "12996_Tanimura"
+msgid ""
+"The guys who go to those things have only one thing on their minds. They're "
+"not what you're looking for in a man."
+msgstr ""
+
+msgctxt "13008_Chihiro"
+msgid "Heh. I can cancel it if you really think I should."
+msgstr ""
+
+msgctxt "13020_Tanimura"
+msgid "Yeah, I'd rather you did."
+msgstr ""
+
+msgctxt "13032_Tanimura"
+msgid ""
+"Why don't you go out with me instead? You don't need to go to some stupid "
+"mixer."
+msgstr ""
+
+msgctxt "13044_Chihiro"
+msgid "But it's on a weekday afternoon. Won't you be working?"
+msgstr ""
+
+msgctxt "13056_Tanimura"
+msgid "Cops don't have regular schedules. We have days off during the week."
+msgstr ""
+
+msgctxt "13068_Chihiro"
+msgid "How do you know you'll have that day off?"
+msgstr ""
+
+msgctxt "13080_Tanimura"
+msgid ""
+"Look, don't worry about that. How about I take you out for a nice meal "
+"someplace?"
+msgstr ""
+
+msgctxt "13092_Chihiro"
+msgid "Trying to tempt me with food, huh? You sure know my weakness!"
+msgstr ""
+
+msgctxt "13104_Tanimura"
+msgid ""
+"I know this great yakiniku place. It's a little pricey, though. Most "
+"college students couldn't afford it."
+msgstr ""
+
+msgctxt "13116_Chihiro"
+msgid "Ooh. I like what I'm hearing."
+msgstr ""
+
+msgctxt "13128_Tanimura"
+msgid "All right then. You're skipping the mixer."
+msgstr ""
+
+msgctxt "13140_Chihiro"
+msgid "I played right into your hands, didn't I? Oh well, I'll be getting yakiniku!"
+msgstr ""
+
+msgctxt "13152_Tanimura"
+msgid "Have a good time."
+msgstr ""
+
+msgctxt "13164_Chihiro"
+msgid "Huh? Oh, yeah. Well, that's what I plan to do."
+msgstr ""
+
+msgctxt "13176_Chihiro"
+msgid "But... You don't mind me going?"
+msgstr ""
+
+msgctxt "13188_Tanimura"
+msgid "No. Experience is important. Tell me about it when you get back."
+msgstr ""
+
+msgctxt "13200_Chihiro"
+msgid "So you're not going to stop me."
+msgstr ""
+
+msgctxt "13212_Tanimura"
+msgid "Huh? Why would I?"
+msgstr ""
+
+msgctxt "13224_Chihiro"
+msgid "Oh, never mind! You're so insensitive sometimes!"
+msgstr ""
+
+msgctxt "13236_Tanimura"
+msgid "Wha－?"
+msgstr ""
+
+msgctxt "13248_Chihiro"
+msgid "You know, when I like someone, I come right out and say so."
+msgstr ""
+
+msgctxt "13260_Tanimura"
+msgid "You do? That's kinda surprising."
+msgstr ""
+
+msgctxt "13272_Chihiro"
+msgid ""
+"When I was young, I wrote dozens of love letters and waited in front of the "
+"school for the people I liked."
+msgstr ""
+
+msgctxt "13284_Chihiro"
+msgid "Most of the time, I ended up scaring them away."
+msgstr ""
+
+msgctxt "13296_Tanimura"
+msgid "If you knew that, why didn't you try to be more subtle?"
+msgstr ""
+
+msgctxt "13308_Chihiro"
+msgid "I should have. But once I feel that way, I just can't control myself."
+msgstr ""
+
+msgctxt "13320_Tanimura"
+msgid "That's too bad."
+msgstr ""
+
+msgctxt "13332_Chihiro"
+msgid "So, I just had to say... I love you!"
+msgstr ""
+
+msgctxt "13344_Tanimura"
+msgid "What? Are you serious?"
+msgstr ""
+
+msgctxt "13356_Chihiro"
+msgid "Yes! Very serious! Can I please chase you like the other boys I liked?"
+msgstr ""
+
+msgctxt "13368_Tanimura"
+msgid "I don't know. I'm usually the one doing the chasing."
+msgstr ""
+
+msgctxt "13380_Chihiro"
+msgid "Me too! I'm very persistent. I always get my man."
+msgstr ""
+
+msgctxt "13392_Tanimura"
+msgid "Heh. Maybe I should just surrender now."
+msgstr ""
+
+msgctxt "13404_Chihiro"
+msgid ""
+"Aw, giving up already? That's no fun. Sure you don't want to run a little "
+"bit?"
+msgstr ""
+
+msgctxt "13416_Tanimura"
+msgid "No, I give up."
+msgstr ""
+
+msgctxt "13428_Chihiro"
+msgid "Hmm. That'd be too easy for my taste. What to do, what to do..."
+msgstr ""
+
+msgctxt "13440_Tanimura"
+msgid "There are better men out there. Are you sure you want to catch me?"
+msgstr ""
+
+msgctxt "13452_Chihiro"
+msgid ""
+"I'm sure. I love how you can be rough and kind all at once. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13464_Tanimura"
+msgid "I'm warning you. You'll regret this."
+msgstr ""
+
+msgctxt "13476_Chihiro"
+msgid "I've given it a lot of thought. I won't regret it."
+msgstr ""
+
+msgctxt "13488_Tanimura"
+msgid "All right then. You can chase me as much as you want."
+msgstr ""
+
+msgctxt "13500_Chihiro"
+msgid "Okay! You'd better be ready!"
+msgstr ""
+
+msgctxt "13512_Tanimura"
+msgid "I'll run as fast as I can, you know."
+msgstr ""
+
+msgctxt "13524_Chihiro"
+msgid "What!? Why!?"
+msgstr ""
+
+msgctxt "13536_Tanimura"
+msgid "Isn't it more fun that way? Chases are more exciting when they aren't easy."
+msgstr ""
+
+msgctxt "13548_Chihiro"
+msgid "I don't buy that. Are you sure I'm not annoying you?"
+msgstr ""
+
+msgctxt "13560_Tanimura"
+msgid "No, not at all."
+msgstr ""
+
+msgctxt "13572_Chihiro"
+msgid "Then you don't have to run away, do you!?"
+msgstr ""
+
+msgctxt "13584_Tanimura"
+msgid "All right, all right. I was just kidding."
+msgstr ""
+
+msgctxt "13596_Chihiro"
+msgid "Hmph. You don't understand women, do you?"
+msgstr ""
+
+msgctxt "13608_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "13620_Chihiro"
+msgid "I finally made up with my sister after our big fight."
+msgstr ""
+
+msgctxt "13632_Tanimura"
+msgid "That's good to hear."
+msgstr ""
+
+msgctxt "13644_Chihiro"
+msgid "Yeah. Actually, she said she wanted to meet you."
+msgstr ""
+
+msgctxt "13656_Tanimura"
+msgid "Huh? Meet me?"
+msgstr ""
+
+msgctxt "13668_Chihiro"
+msgid "What do you think?"
+msgstr ""
+
+msgctxt "13680_Tanimura"
+msgid "Is she cute?"
+msgstr ""
+
+msgctxt "13692_Chihiro"
+msgid "What!? Why would you ask me that?"
+msgstr ""
+
+msgctxt "13704_Tanimura"
+msgid "No reason. I was just wondering if she was as cute as you are."
+msgstr ""
+
+msgctxt "13716_Chihiro"
+msgid "That sounds suspicious."
+msgstr ""
+
+msgctxt "13728_Tanimura"
+msgid "There's nothing suspicious about it."
+msgstr ""
+
+msgctxt "13740_Chihiro"
+msgid "Well, I could never forgive anyone who hurt my sister!"
+msgstr ""
+
+msgctxt "13752_Tanimura"
+msgid "I wouldn't do something like that. You worry too much."
+msgstr ""
+
+msgctxt "13764_Chihiro"
+msgid "Hmph. I'll tell my sister you're too busy to meet her."
+msgstr ""
+
+msgctxt "13776_Tanimura"
+msgid "Huh...?"
+msgstr ""
+
+msgctxt "13788_Tanimura"
+msgid "What if she falls for me?"
+msgstr ""
+
+msgctxt "13800_Chihiro"
+msgid "Haha! You're pretty confident, aren't you?"
+msgstr ""
+
+msgctxt "13812_Chihiro"
+msgid "I don't think you're her type, so don't worry about that."
+msgstr ""
+
+msgctxt "13824_Tanimura"
+msgid "You never know. It could be love at first sight."
+msgstr ""
+
+msgctxt "13836_Chihiro"
+msgid "If that happened, I'd just have to be happy for the two of you!"
+msgstr ""
+
+msgctxt "13848_Tanimura"
+msgid "What? You wouldn't do anything?"
+msgstr ""
+
+msgctxt "13860_Chihiro"
+msgid "Ha! You're upset! That's so cute! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13872_Tanimura"
+msgid "Oh, very funny."
+msgstr ""
+
+msgctxt "13884_Tanimura"
+msgid "It's a little early for that, isn't it?"
+msgstr ""
+
+msgctxt "13896_Chihiro"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "13908_Tanimura"
+msgid ""
+"Well, it's just that, uh... At the right time, I want to introduce myself "
+"formally."
+msgstr ""
+
+msgctxt "13920_Chihiro"
+msgid "Wait a minute. What are you talking about!?"
+msgstr ""
+
+msgctxt "13932_Tanimura"
+msgid "Um, never mind. Let's just put off meeting your sister for a while, okay?"
+msgstr ""
+
+msgctxt "13944_Chihiro"
+msgid "Okay... I'm a little confused."
+msgstr ""
+
+msgctxt "13956_Chihiro"
+msgid "But I hope you'll meet her soon!"
+msgstr ""
+
+msgctxt "13968_Tanimura"
+msgid "Heh. Me too."
+msgstr ""
+
+msgctxt "13980_Chihiro"
+msgid "Do you mind being alone?"
+msgstr ""
+
+msgctxt "13992_Tanimura"
+msgid "Not really. Sometimes it's nice."
+msgstr ""
+
+msgctxt "14004_Chihiro"
+msgid "Oh, I can't stand it. I get so lonely."
+msgstr ""
+
+msgctxt "14016_Chihiro"
+msgid "I call up a bunch of people and talk for hours and hours."
+msgstr ""
+
+msgctxt "14028_Chihiro"
+msgid ""
+"Actually, a lot of my friends have stopped answering their phones when I "
+"call."
+msgstr ""
+
+msgctxt "14040_Tanimura"
+msgid "Ah."
+msgstr ""
+
+msgctxt "14052_Chihiro"
+msgid ""
+"Do you... Do you mind if I call you to chat? Even if I don't really have "
+"anything to say?"
+msgstr ""
+
+msgctxt "14064_Tanimura"
+msgid "You want to call me?"
+msgstr ""
+
+msgctxt "14076_Chihiro"
+msgid "Please! Help a lonely girl out!"
+msgstr ""
+
+msgctxt "14088_Tanimura"
+msgid "I don't mind. How long do you usually talk?"
+msgstr ""
+
+msgctxt "14100_Chihiro"
+msgid "Well, if I really get going, I can talk for three hours or more."
+msgstr ""
+
+msgctxt "14112_Chihiro"
+msgid "My mom and I chatted for about two hours yesterday."
+msgstr ""
+
+msgctxt "14124_Tanimura"
+msgid "Oh. That's pretty long."
+msgstr ""
+
+msgctxt "14136_Chihiro"
+msgid "Did you just make a face?"
+msgstr ""
+
+msgctxt "14148_Chihiro"
+msgid "I won't force you if you don't want to."
+msgstr ""
+
+msgctxt "14160_Tanimura"
+msgid ""
+"No, it's all right. Three hours is nothing compared to pulling those "
+"all-nighters at work."
+msgstr ""
+
+msgctxt "14172_Chihiro"
+msgid "Okay! I'll call you sometime! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14184_Tanimura"
+msgid "Wouldn't it be better to talk in person?"
+msgstr ""
+
+msgctxt "14196_Chihiro"
+msgid "Well, yeah, but we can't meet in person if it's the middle of the night."
+msgstr ""
+
+msgctxt "14208_Tanimura"
+msgid ""
+"But it can be hard to tell what the other person is really thinking over "
+"the phone."
+msgstr ""
+
+msgctxt "14220_Chihiro"
+msgid ""
+"But it's also easier to talk when you're not looking the other person in "
+"the face."
+msgstr ""
+
+msgctxt "14232_Chihiro"
+msgid "If you don't like talking on the phone, I won't force you."
+msgstr ""
+
+msgctxt "14244_Tanimura"
+msgid "I don't, really. Sorry."
+msgstr ""
+
+msgctxt "14256_Chihiro"
+msgid "It's okay. I get to talk to you here."
+msgstr ""
+
+msgctxt "14268_Tanimura"
+msgid "Right."
+msgstr ""
+
+msgctxt "14280_Tanimura"
+msgid "It depends on when it is. I'm not always available to talk."
+msgstr ""
+
+msgctxt "14292_Chihiro"
+msgid ""
+"Ah, okay. I guess a police officer can't drop everything to chat, huh? Not "
+"with the stakeouts and investigations and such."
+msgstr ""
+
+msgctxt "14304_Tanimura"
+msgid "And the horse races on the weekends."
+msgstr ""
+
+msgctxt "14316_Chihiro"
+msgid "What was that?"
+msgstr ""
+
+msgctxt "14328_Tanimura"
+msgid "Nothing."
+msgstr ""
+
+msgctxt "14340_Chihiro"
+msgid "So I have to be careful about when I call you."
+msgstr ""
+
+msgctxt "14352_Tanimura"
+msgid "Well, I may not always be able to answer, but you can call me anytime."
+msgstr ""
+
+msgctxt "14364_Chihiro"
+msgid "Okay, thank you. You're sweet."
+msgstr ""
+
+msgctxt "14376_Chihiro"
+msgid "One of my friends from college slept over at my apartment."
+msgstr ""
+
+msgctxt "14388_Tanimura"
+msgid "Oh? That sounds fun."
+msgstr ""
+
+msgctxt "14400_Chihiro"
+msgid ""
+"I guess. She scolded me when I got up in the morning and ate a piece of "
+"cake."
+msgstr ""
+
+msgctxt "14412_Chihiro"
+msgid "She was shocked that I was eating it first thing in the morning."
+msgstr ""
+
+msgctxt "14424_Chihiro"
+msgid "Is that such an unusual thing to do?"
+msgstr ""
+
+msgctxt "14436_Tanimura"
+msgid "I don't do it, that's for sure."
+msgstr ""
+
+msgctxt "14448_Chihiro"
+msgid ""
+"But I bought that cake to eat for breakfast. It gives me energy to start "
+"the day."
+msgstr ""
+
+msgctxt "14460_Chihiro"
+msgid "Is that so strange?"
+msgstr ""
+
+msgctxt "14472_Tanimura"
+msgid "Yeah, that's pretty strange. What kind of person has cake for breakfast?"
+msgstr ""
+
+msgctxt "14484_Chihiro"
+msgid "I don't know. Everybody in my family did it."
+msgstr ""
+
+msgctxt "14496_Chihiro"
+msgid "My mom and sister would always start the day with some cake."
+msgstr ""
+
+msgctxt "14508_Tanimura"
+msgid "Well, if you like it, I guess it's okay."
+msgstr ""
+
+msgctxt "14520_Chihiro"
+msgid "All right! There's nothing better than cake in the morning."
+msgstr ""
+
+msgctxt "14532_Chihiro"
+msgid "You should try it sometime."
+msgstr ""
+
+msgctxt "14544_Tanimura"
+msgid "I don't like sweets much."
+msgstr ""
+
+msgctxt "14556_Chihiro"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "14568_Tanimura"
+msgid "Everybody has their preferences. I don't see a problem with yours."
+msgstr ""
+
+msgctxt "14580_Chihiro"
+msgid "Yeah! I knew you'd understand!"
+msgstr ""
+
+msgctxt "14592_Chihiro"
+msgid "How about you? What do you have for breakfast?"
+msgstr ""
+
+msgctxt "14604_Tanimura"
+msgid ""
+"Oh, it varies. My friend runs a Chinese restaurant, so I often stop by "
+"there."
+msgstr ""
+
+msgctxt "14616_Chihiro"
+msgid ""
+"You eat out even for breakfast? You should try to cook at least one meal a "
+"day."
+msgstr ""
+
+msgctxt "14628_Tanimura"
+msgid "Says the girl who eats cake for breakfast."
+msgstr ""
+
+msgctxt "14640_Chihiro"
+msgid "Haha! You got me there!"
+msgstr ""
+
+msgctxt "14652_Tanimura"
+msgid ""
+"You should have rice for breakfast. Eating cake in the morning is just "
+"wrong."
+msgstr ""
+
+msgctxt "14664_Chihiro"
+msgid ""
+"Wrong? Isn't that going a little far? People are free to eat whatever they "
+"want for breakfast."
+msgstr ""
+
+msgctxt "14676_Tanimura"
+msgid "But it doesn't seem like breakfast if the person next to you is having cake."
+msgstr ""
+
+msgctxt "14688_Chihiro"
+msgid "Then maybe you could have cake, too!"
+msgstr ""
+
+msgctxt "14700_Chihiro"
+msgid "Oh, forget it! I'll never have breakfast with you!"
+msgstr ""
+
+msgctxt "14712_Tanimura"
+msgid ""
+"People can fight about whether to have bread or rice for breakfast, but "
+"cake?"
+msgstr ""
+
+msgctxt "14724_Chihiro"
+msgid ""
+"Hehe. It is kind of funny, isn't it? I'm kinda enjoying this. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14736_Tanimura"
+msgid "I still say it should be rice."
+msgstr ""
+
+msgctxt "14748_Chihiro"
+msgid "And I say let them eat cake! Hahaha! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14760_Chihiro"
+msgid "I've finally made up my mind!"
+msgstr ""
+
+msgctxt "14772_Chihiro"
+msgid "I'm going on a diet, starting tomorrow!"
+msgstr ""
+
+msgctxt "14784_Tanimura"
+msgid "That's kinda sudden."
+msgstr ""
+
+msgctxt "14796_Chihiro"
+msgid ""
+"My clothes have been fitting a little tight around the tummy. I've decided "
+"to watch what I eat and exercise!"
+msgstr ""
+
+msgctxt "14808_Chihiro"
+msgid "I plan to lose five kilos! And I'll need your support!"
+msgstr ""
+
+msgctxt "14820_Tanimura"
+msgid "Don't overdo it. Dieting can be hard on your body."
+msgstr ""
+
+msgctxt "14832_Chihiro"
+msgid "Don't worry. I'm pretty healthy."
+msgstr ""
+
+msgctxt "14844_Tanimura"
+msgid "Well, okay."
+msgstr ""
+
+msgctxt "14856_Chihiro"
+msgid "I'll jog every morning before school. I want to do this the right way."
+msgstr ""
+
+msgctxt "14868_Tanimura"
+msgid ""
+"You shouldn't exercise without eating. Make sure you get a big breakfast "
+"beforehand."
+msgstr ""
+
+msgctxt "14880_Chihiro"
+msgid "Huh? How can I diet if I'm eating big meals?"
+msgstr ""
+
+msgctxt "14892_Tanimura"
+msgid ""
+"I don't know. I'm just worried about your health. You shouldn't push "
+"yourself too hard."
+msgstr ""
+
+msgctxt "14904_Chihiro"
+msgid ""
+"Hehe. Thanks for worrying about me. All right, I'll eat something before I "
+"jog."
+msgstr ""
+
+msgctxt "14916_Chihiro"
+msgid "I'll be slim before you know it. Just wait and see."
+msgstr ""
+
+msgctxt "14928_Tanimura"
+msgid "All right."
+msgstr ""
+
+msgctxt "14940_Tanimura"
+msgid "I'll be glad to help. What do you need me to do?"
+msgstr ""
+
+msgctxt "14952_Chihiro"
+msgid "Come running with me every morning! You can be my coach!"
+msgstr ""
+
+msgctxt "14964_Tanimura"
+msgid "Oh. I don't know about that."
+msgstr ""
+
+msgctxt "14976_Chihiro"
+msgid "Hey! You said you'd help!"
+msgstr ""
+
+msgctxt "14988_Tanimura"
+msgid ""
+"Yeah, but I run quite a bit on the job. I don't like the idea of going out "
+"of my way to do it some more."
+msgstr ""
+
+msgctxt "15000_Chihiro"
+msgid "But I can't keep it up by myself!"
+msgstr ""
+
+msgctxt "15012_Chihiro"
+msgid "Please. Do it for me!"
+msgstr ""
+
+msgctxt "15024_Tanimura"
+msgid "I'm sorry. I'll find some other way to help."
+msgstr ""
+
+msgctxt "15036_Chihiro"
+msgid ""
+"Hmph. I guess you didn't mean it when you said you'd help me. I don't feel "
+"like dieting anymore."
+msgstr ""
+
+msgctxt "15048_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "15060_Tanimura"
+msgid "Most diets fail right away, you know."
+msgstr ""
+
+msgctxt "15072_Chihiro"
+msgid "Well, mine won't! I know I can do it!"
+msgstr ""
+
+msgctxt "15084_Tanimura"
+msgid ""
+"But can you really stop yourself from eating what you want? Even if you "
+"manage to exercise, it's the diet that's going to be tough."
+msgstr ""
+
+msgctxt "15096_Chihiro"
+msgid "Well, you'll just have to watch me and make sure I don't slip up!"
+msgstr ""
+
+msgctxt "15108_Tanimura"
+msgid ""
+"Okay. Step one: cut out the cake. Step two: stop going to the convenience "
+"store."
+msgstr ""
+
+msgctxt "15120_Chihiro"
+msgid "What!? That's not fair! What'll I have to look forward to?"
+msgstr ""
+
+msgctxt "15132_Tanimura"
+msgid "I told you. This is why diets fail. Are you going to quit?"
+msgstr ""
+
+msgctxt "15144_Chihiro"
+msgid "Ugh... No, I can do it."
+msgstr ""
+
+msgctxt "15156_Chihiro"
+msgid "Have you ever read \"The Tale of Genji\"?"
+msgstr ""
+
+msgctxt "15168_Tanimura"
+msgid "Bits and pieces. It's been a while."
+msgstr ""
+
+msgctxt "15180_Chihiro"
+msgid ""
+"Well, I'm reading it again as an adult, and it's so different! It really is "
+"a masterpiece."
+msgstr ""
+
+msgctxt "15192_Tanimura"
+msgid "A masterpiece? What's so good about it?"
+msgstr ""
+
+msgctxt "15204_Chihiro"
+msgid "Well, for one thing, Prince Genji is a total playboy!"
+msgstr ""
+
+msgctxt "15216_Chihiro"
+msgid "He courts tons of beautiful women. That whole time period is so romantic!"
+msgstr ""
+
+msgctxt "15228_Tanimura"
+msgid "I think you've got it wrong. As I recall, Prince Genji had a lot of affairs."
+msgstr ""
+
+msgctxt "15240_Chihiro"
+msgid "Well, yes, that's true."
+msgstr ""
+
+msgctxt "15252_Tanimura"
+msgid "So you're okay with that kind of thing?"
+msgstr ""
+
+msgctxt "15264_Chihiro"
+msgid "Of course not!"
+msgstr ""
+
+msgctxt "15276_Chihiro"
+msgid "But I might not mind if it was Prince Genji."
+msgstr ""
+
+msgctxt "15288_Tanimura"
+msgid "What if it was me?"
+msgstr ""
+
+msgctxt "15300_Chihiro"
+msgid "Oh, you don't want to know what I'd do if you cheated on me."
+msgstr ""
+
+msgctxt "15312_Tanimura"
+msgid "That's not fair..."
+msgstr ""
+
+msgctxt "15324_Tanimura"
+msgid "He's an idol to a lot of men. He had power, fame, and beautiful women."
+msgstr ""
+
+msgctxt "15336_Chihiro"
+msgid "He's a little different from you, it's true."
+msgstr ""
+
+msgctxt "15348_Tanimura"
+msgid "Although, I do have one of those things."
+msgstr ""
+
+msgctxt "15360_Chihiro"
+msgid "Which one?"
+msgstr ""
+
+msgctxt "15372_Tanimura"
+msgid "The answer's right in front of me."
+msgstr ""
+
+msgctxt "15384_Chihiro"
+msgid "Huh? Are you talking about me?"
+msgstr ""
+
+msgctxt "15396_Tanimura"
+msgid "Maybe."
+msgstr ""
+
+msgctxt "15408_Chihiro"
+msgid "Stop it! You'll make me blush. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15420_Tanimura"
+msgid "I bet I could beat him in a fight."
+msgstr ""
+
+msgctxt "15432_Chihiro"
+msgid "What!? Why would you want to fight Prince Genji!?"
+msgstr ""
+
+msgctxt "15444_Tanimura"
+msgid ""
+"If both Genji and I were interested in you, there's only one way it's going "
+"to end."
+msgstr ""
+
+msgctxt "15456_Chihiro"
+msgid "You'd fight Genji for me?"
+msgstr ""
+
+msgctxt "15468_Tanimura"
+msgid "Sure. And I'd beat him, too."
+msgstr ""
+
+msgctxt "15480_Chihiro"
+msgid "How romantic! Just like a movie! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15492_Chihiro"
+msgid "I wonder which of you I would choose."
+msgstr ""
+
+msgctxt "15504_Tanimura"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "15516_Chihiro"
+msgid "Thanks for the other day."
+msgstr ""
+
+msgctxt "15528_Tanimura"
+msgid ""
+"Sure. How have things been going? Are you working hard in your acting "
+"lessons?"
+msgstr ""
+
+msgctxt "15540_Chihiro"
+msgid "I am, but..."
+msgstr ""
+
+msgctxt "15552_Tanimura"
+msgid "But what?"
+msgstr ""
+
+msgctxt "15564_Chihiro"
+msgid ""
+"When I think about auditioning, I start to worry about getting scammed "
+"again."
+msgstr ""
+
+msgctxt "15576_Tanimura"
+msgid "It wasn't your fault. You shouldn't let it get to you."
+msgstr ""
+
+msgctxt "15588_Chihiro"
+msgid ""
+"I know. I'm going to be a big star someday and make them regret what they "
+"did to me!"
+msgstr ""
+
+msgctxt "15600_Tanimura"
+msgid "Haha! That's the spirit!"
+msgstr ""
+
+msgctxt "15612_Chihiro"
+msgid "Why don't you take me somewhere to help me forget about all this?"
+msgstr ""
+
+msgctxt "15624_Tanimura"
+msgid ""
+"Hey, you can't just run away from your problems. What if I said no more "
+"dates until you made your acting debut?"
+msgstr ""
+
+msgctxt "15636_Chihiro"
+msgid "What!? Then I'd have to make extra sure I get cast on my next audition!"
+msgstr ""
+
+msgctxt "15648_Chihiro"
+msgid "All right. I'm going to do this!"
+msgstr ""
+
+msgctxt "15660_Tanimura"
+msgid "That experience was just part of your journey. You just have to keep going."
+msgstr ""
+
+msgctxt "15672_Chihiro"
+msgid "You really think I can do it?"
+msgstr ""
+
+msgctxt "15684_Tanimura"
+msgid "Sure. Even a bad experience can be inspiration for a great performance."
+msgstr ""
+
+msgctxt "15696_Chihiro"
+msgid "I guess that's the optimistic way of looking at it."
+msgstr ""
+
+msgctxt "15708_Chihiro"
+msgid "I'll have some sweets to cheer myself up!"
+msgstr ""
+
+msgctxt "15720_Tanimura"
+msgid "Heh. Just watch your weight, okay?"
+msgstr ""
+
+msgctxt "15732_Tanimura"
+msgid "You're pretty high maintenance, aren't you?"
+msgstr ""
+
+msgctxt "15744_Chihiro"
+msgid "Hehe. I guess I am."
+msgstr ""
+
+msgctxt "15756_Tanimura"
+msgid "That's why I'd better stick with you."
+msgstr ""
+
+msgctxt "15768_Chihiro"
+msgid "Really? You'll help me out when I need it?"
+msgstr ""
+
+msgctxt "15780_Tanimura"
+msgid "Sure. If you need help, just call the police."
+msgstr ""
+
+msgctxt "15792_Chihiro"
+msgid "Haha! That doesn't mean you'll be the one to answer!"
+msgstr ""
+
+msgctxt "15804_Chihiro"
+msgid "But thanks for everything. I feel like I can keep going now."
+msgstr ""
+
+msgctxt "15816_Tanimura"
+msgid "That's the spirit."
+msgstr ""
+
+msgctxt "15828_Tanimura"
+msgid "Normal dialogue 31."
+msgstr ""
+
+msgctxt "15852_Chihiro"
+msgid "You came to see me!"
+msgstr ""
+
+msgctxt "15888_Chihiro"
+msgid "Welcome!"
+msgstr ""
+
+msgctxt "15900_Chihiro"
+msgid "Did you come to see me?"
+msgstr ""
+
+msgctxt "15912_Chihiro"
+msgid "You came! I'm so happy! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15924_Chihiro"
+msgid "Thanks for our date. I had a lot of fun."
+msgstr ""
+
+msgctxt "15936_Chihiro"
+msgid "I waited for you to show up for our date..."
+msgstr ""
+
+msgctxt "15948_Chihiro"
+msgid "Sorry about the other day. We should try going out again."
+msgstr ""
+
+msgctxt "15960_Chihiro"
+msgid "I was really looking forward to going out with you..."
+msgstr ""
+
+msgctxt "15972_Chihiro"
+msgid "I'm sorry about before. We should try going out again."
+msgstr ""
+
+msgctxt "15984_Chihiro"
+msgid "Allow me to introduce myself properly. I'm Chihiro. Nice to meet you."
+msgstr ""
+
+msgctxt "15996_Tanimura"
+msgid "Likewise."
+msgstr ""
+
+msgctxt "16008_Chihiro"
+msgid "Thanks for coming."
+msgstr ""
+
+msgctxt "16020_Tanimura"
+msgid "Make yourself at home."
+msgstr ""
+
+msgctxt "16032_Chihiro"
+msgid "I hope you have a nice time."
+msgstr ""
+
+msgctxt "16044_Chihiro"
+msgid "Make yourself at home."
+msgstr ""
+
+msgctxt "16056_Chihiro"
+msgid "I really enjoyed our date."
+msgstr ""
+
+msgctxt "16068_Chihiro"
+msgid "Let's go out again when you have the chance."
+msgstr ""
+
+msgctxt "16080_Chihiro"
+msgid "Let's go out again when you have the chance."
+msgstr ""
+
+msgctxt "16092_Chihiro"
+msgid "Thanks for going out with me today!"
+msgstr ""
+
+msgctxt "16104_Chihiro"
+msgid "Would you mind taking me out again?"
+msgstr ""
+
+msgctxt "16116_Chihiro"
+msgid "Would you mind taking me out again?"
+msgstr ""
+
+msgctxt "16128_Chihiro"
+msgid "You look great today!"
+msgstr ""
+
+msgctxt "16140_Chihiro"
+msgid "You're looking nice today."
+msgstr ""
+
+msgctxt "16152_Chihiro"
+msgid "You always seem to wear the same clothes."
+msgstr ""
+
+msgctxt "16164_Chihiro"
+msgid ""
+"Do you really like that look? Shouldn't you try to be a bit more "
+"fashionable?"
+msgstr ""
+
+msgctxt "16176_Chihiro"
+msgid "Are you seriously happy with that outfit?"
+msgstr ""
+
+msgctxt "16188_Tanimura"
+msgid "You should be more aware of what's fashionable."
+msgstr ""
+
+msgctxt "16200_Chihiro"
+msgid "You look great today!"
+msgstr ""
+
+msgctxt "16212_Chihiro"
+msgid "You're kidding! Is this for me!?"
+msgstr ""
+
+msgctxt "16224_Tanimura"
+msgid "I've wanted one of these forever!"
+msgstr ""
+
+msgctxt "16236_F_cab_sitsofa_tlk_happy"
+msgid "Thank you! I'll treasure it always! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16248_Chihiro"
+msgid "Is that a present for me?"
+msgstr ""
+
+msgctxt "16272_Chihiro"
+msgid "Is that a present for me?"
+msgstr ""
+
+msgctxt "16284_Tanimura"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "16296_Chihiro"
+msgid "Oh, is that for me?"
+msgstr ""
+
+msgctxt "16308_F_cab_sitsofa_tlk_ojigiA"
+msgid "Uh, thanks."
+msgstr ""
+
+msgctxt "16320_Chihiro"
+msgid "What on earth is that?"
+msgstr ""
+
+msgctxt "16332_F_cab_sitsofa_tlk_angry"
+msgid "And what do you expect me to do with it?"
+msgstr ""
+
+msgctxt "16344_Chihiro"
+msgid "Hmm? You're giving me that again?"
+msgstr ""
+
+msgctxt "16356_Tanimura"
+msgid "You already gave me one of those. Or did you forget?"
+msgstr ""
+
+msgctxt "16368_Chihiro"
+msgid "You're kidding! Is this for me!?"
+msgstr ""
+
+msgctxt "16380_Tanimura"
+msgid "I've wanted one of these forever! Thank you!"
+msgstr ""
+
+msgctxt "16392_F_cab_sitsofa_tlk_happy"
+msgid "I'll treasure it always! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16404_Chihiro"
+msgid "What would you like?"
+msgstr ""
+
+msgctxt "16428_Player"
+msgid "Okay, I'll have this."
+msgstr ""
+
+msgctxt "16440_Tanimura"
+msgid "Huh. Okay. I guess some people come to hostess clubs and don't drink."
+msgstr ""
+
+msgctxt "16452_Chihiro"
+msgid "Your glass is empty. Would you like another drink?"
+msgstr ""
+
+msgctxt "16476_Player"
+msgid "Okay, I'll have this."
+msgstr ""
+
+msgctxt "16488_Tanimura"
+msgid "Really? Not much of a drinker, huh?"
+msgstr ""
+
+msgctxt "16500_Chihiro"
+msgid "I like that, too! It's really tasty, isn't it?"
+msgstr ""
+
+msgctxt "16512_Chihiro"
+msgid "You drink that too?"
+msgstr ""
+
+msgctxt "16524_Chihiro"
+msgid "All right, then."
+msgstr ""
+
+msgctxt "16536_Chihiro"
+msgid "Oh, I don't like that very much."
+msgstr ""
+
+msgctxt "16548_Chihiro"
+msgid "I see..."
+msgstr ""
+
+msgctxt "16560_Chihiro"
+msgid "What would you like to eat?"
+msgstr ""
+
+msgctxt "16584_Player"
+msgid "Okay, I'll have this."
+msgstr ""
+
+msgctxt "16596_Tanimura"
+msgid "You're not hungry?"
+msgstr ""
+
+msgctxt "16608_Chihiro"
+msgid "Do you want something to eat?"
+msgstr ""
+
+msgctxt "16632_Player"
+msgid "Okay, I'll have this."
+msgstr ""
+
+msgctxt "16644_Tanimura"
+msgid "You're full already?"
+msgstr ""
+
+msgctxt "16656_Chihiro"
+msgid "I love that!"
+msgstr ""
+
+msgctxt "16668_Tanimura"
+msgid "Can I have a little bit?"
+msgstr ""
+
+msgctxt "16680_Chihiro"
+msgid "That's so tasty."
+msgstr ""
+
+msgctxt "16692_Chihiro"
+msgid "All right, then."
+msgstr ""
+
+msgctxt "16704_Chihiro"
+msgid "You actually eat that?"
+msgstr ""
+
+msgctxt "16716_Chihiro"
+msgid "I can't stand that."
+msgstr ""
+
+msgctxt "16728_Tanimura"
+msgid "I don't know what people like about it."
+msgstr ""
+
+msgctxt "16740_Chihiro"
+msgid "Okay, I'll order."
+msgstr ""
+
+msgctxt "16752_P_sitsofaR_tlk_quest"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "16764_Tanimura"
+msgid "Yes."
+msgstr ""
+
+msgctxt "16776_P_sitsofaR_tlk_quest"
+msgid "Here's our order."
+msgstr ""
+
+msgctxt "16788_Tanimura"
+msgid "Right away."
+msgstr ""
+
+msgctxt "16812_Player"
+msgid "Let's drink."
+msgstr ""
+
+msgctxt "16836_Tanimura"
+msgid "I hope you enjoy yourself!"
+msgstr ""
+
+msgctxt "16848_Player"
+msgid "Let's drink."
+msgstr ""
+
+msgctxt "16872_Tanimura"
+msgid "I hope you enjoy yourself!"
+msgstr ""
+
+msgctxt "16884_Chihiro"
+msgid "Just a minute..."
+msgstr ""
+
+msgctxt "16896_Tanimura"
+msgid "Okay."
+msgstr ""
+
+msgctxt "16932_Chihiro"
+msgid "I'm Chihiro. Nice to meet you."
+msgstr ""
+
+msgctxt "16944_Tanimura"
+msgid "Likewise."
+msgstr ""
+
+msgctxt "16956_Tanimura"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+
+msgctxt "16968_Tanimura"
+msgid "You got a business card."
+msgstr ""
+
+msgctxt "17004_Tanimura"
+msgid "(Maybe I'll ask for her next time I'm here.)"
+msgstr ""
+
+msgctxt "17028_Chihiro"
+msgid "Come back soon!"
+msgstr ""
+
+msgctxt "17040_Tanimura"
+msgid "Sure."
+msgstr ""
+
+msgctxt "17052_Tanimura"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+
+msgctxt "17064_Tanimura"
+msgid "You got a fancy business card."
+msgstr ""
+
+msgctxt "17112_Chihiro"
+msgid "Here you are!"
+msgstr ""
+
+msgctxt "17124_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "17136_Chihiro"
+msgid "Do you mind if I smoke, too?"
+msgstr ""
+
+msgctxt "17148_Tanimura"
+msgid "No, go ahead."
+msgstr ""
+
+msgctxt "17160_Chihiro"
+msgid "Come on. Drink up!"
+msgstr ""
+
+msgctxt "17172_Tanimura"
+msgid "Sure."
+msgstr ""
+
+msgctxt "17184_Chihiro"
+msgid "Maybe I'll have a little drink myself."
+msgstr ""
+
+msgctxt "17196_Tanimura"
+msgid "Sure."
+msgstr ""
+
+msgctxt "17208_Tanimura"
+msgid "I should be going."
+msgstr ""
+
+msgctxt "17220_F_cab_sitsofa_tlk_noA"
+msgid "You're leaving already?"
+msgstr ""
+
+msgctxt "17232_Chihiro"
+msgid "Is it that time already?"
+msgstr ""
+
+msgctxt "17244_P_sitsofaR_tlk_yes"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "17256_Tanimura"
+msgid "終了時_アフター_初。"
+msgstr ""
+
+msgctxt "17268_Tanimura"
+msgid "終了時_アフター_遅刻後。"
+msgstr ""
+
+msgctxt "17280_Tanimura"
+msgid "終了時_アフター_失敗後。"
+msgstr ""
+
+msgctxt "17292_Tanimura"
+msgid "終了時_同伴_初。"
+msgstr ""
+
+msgctxt "17304_Tanimura"
+msgid "終了時_同伴_遅刻後。"
+msgstr ""
+
+msgctxt "17316_Tanimura"
+msgid "終了時_同伴_失敗後。"
+msgstr ""
+
+msgctxt "17328_Tanimura"
+msgid "終了時_ミニミッション。"
+msgstr ""
+
+msgctxt "17340_Tanimura"
+msgid "終了時_クリア後。"
+msgstr ""
+
+msgctxt "17352_Chihiro"
+msgid "Thanks so much for coming! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17376_Tanimura"
+msgid "I hope to see you again soon! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17388_Tanimura"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "17400_F_cab_sitsofa_tlk_noA"
+msgid "Bye."
+msgstr ""
+
+msgctxt "17424_Tanimura"
+msgid "I really had a good time! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17436_Tanimura"
+msgid "Me too."
+msgstr ""
+
+msgctxt "17448_F_cab_sitsofa_tlk_noA"
+msgid "Bye."
+msgstr ""
+
+msgctxt "17472_Tanimura"
+msgid "Thanks for today! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17496_Tanimura"
+msgid "Sure."
+msgstr ""
+
+msgctxt "17508_F_cab_sitsofa_tlk_noA"
+msgid "Well, I'll be waiting."
+msgstr ""
+
+msgctxt "17532_Tanimura"
+msgid "I love you! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17556_Tanimura"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "17568_F_cab_sitsofa_tlk_noA"
+msgid "Well, I'll be waiting."
+msgstr ""
+
+msgctxt "17616_Chihiro"
+msgid "Be careful on your way home!"
+msgstr ""
+
+msgctxt "17628_Chihiro"
+msgid "Hehe! Welcome!"
+msgstr ""
+
+msgctxt "17640_Chihiro"
+msgid "Have you heard of anything interesting happening around town?"
+msgstr ""
+
+msgctxt "17652_Tanimura"
+msgid ""
+"I haven't been able to go out much lately. So I was just wondering what was "
+"going on."
+msgstr ""
+
+msgctxt "17664_F_cab_sitsofa_sp2_sync_hiza"
+msgid "Something interesting? Well..."
+msgstr ""
+
+msgctxt "17676_Tanimura"
+msgid "No, I can't think of anything right now."
+msgstr ""
+
+msgctxt "17796_Chihiro"
+msgid ""
+"I've been thinking about going to one of those beauty spas where they "
+"really pamper you."
+msgstr ""
+
+msgctxt "17808_Tanimura"
+msgid "Oh? You're like a movie star already."
+msgstr ""
+
+msgctxt "17820_Chihiro"
+msgid "Hehe! Yeah, I guess so."
+msgstr ""
+
+msgctxt "17832_Chihiro"
+msgid "But they have so many different treatments you can choose from."
+msgstr ""
+
+msgctxt "17844_Chihiro"
+msgid ""
+" I'm not even sure what kind of treatment I need. What part of my body do "
+"you think needs the most attention?"
+msgstr ""
+
+msgctxt "17856_Tanimura"
+msgid "Well..."
+msgstr ""
+
+msgctxt "17868_Chihiro"
+msgid ""
+"In an audition, do they ask you a bunch of questions in addition to seeing "
+"you act? Like a job interview?"
+msgstr ""
+
+msgctxt "17880_Tanimura"
+msgid "I'm not sure. But that sounds about right."
+msgstr ""
+
+msgctxt "17892_Chihiro"
+msgid "What should I say if they ask me what my most attractive feature is?"
+msgstr ""
+
+msgctxt "17904_Tanimura"
+msgid "Your most attractive feature? Hmm..."
+msgstr ""
+
+msgctxt "17940_Chihiro"
+msgid "Look! This is the present you gave me!"
+msgstr ""
+
+msgctxt "17952_Tanimura"
+msgid "I just love it! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17964_Chihiro"
+msgid "I'm a little thirsty. Can I order some <Color:7>Orange Juice<Color:Default>?"
+msgstr ""
+
+msgctxt "17976_Chihiro"
+msgid "Yay! I'll go ahead and order it, then."
+msgstr ""
+
+msgctxt "18000_Tanimura"
+msgid "Oh, I don't have enough money."
+msgstr ""
+
+msgctxt "18012_Chihiro"
+msgid "Huh? Do you have money problems or something?"
+msgstr ""
+
+msgctxt "18024_Chihiro"
+msgid "Really? But I'm thirsty..."
+msgstr ""
+
+msgctxt "18036_Chihiro"
+msgid "I'm getting hungry! Can I order a little snack?"
+msgstr ""
+
+msgctxt "18060_Tanimura"
+msgid "Yay! I'll go ahead and order it, then."
+msgstr ""
+
+msgctxt "18072_F_cab_sitsofa_sync_order"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "18096_Tanimura"
+msgid "Huh? Why not?"
+msgstr ""
+
+msgctxt "18108_Chihiro"
+msgid ""
+"Thanks for replying to my email. I'm gonna work hard to get used to my job "
+"here!"
+msgstr ""
+
+msgctxt "18120_Tanimura"
+msgid "That's the spirit."
+msgstr ""
+
+msgctxt "18132_Chihiro"
+msgid ""
+"Ever since you sent me that mail, I've been renting a lot of movies so I "
+"can work on my acting skills."
+msgstr ""
+
+msgctxt "18144_Chihiro"
+msgid "I find it motivating to see how professional actors work!"
+msgstr ""
+
+msgctxt "18156_Tanimura"
+msgid "Ah, I see."
+msgstr ""
+
+msgctxt "18168_Chihiro"
+msgid ""
+"Do you know a lot about Chinese tea? I've been interested in it, but I "
+"don't know a whole lot about it."
+msgstr ""
+
+msgctxt "18180_Tanimura"
+msgid "If you like, I can take you to one of my favorite Chinese restaurants."
+msgstr ""
+
+msgctxt "18192_Chihiro"
+msgid "Really!? Thanks! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "18204_Chihiro"
+msgid ""
+"Are you good at karaoke? I'm no slouch myself. I know! Whoever loses has to "
+"pay for dinner!"
+msgstr ""
+
+msgctxt "18216_Tanimura"
+msgid "There's no need to get carried away."
+msgstr ""
+
+msgctxt "18228_Chihiro"
+msgid "If I took Chachamaru out for a walk, you could get a chance to pet him."
+msgstr ""
+
+msgctxt "18240_Tanimura"
+msgid "Huh. Rabbits aren't the same as dogs, are they?"
+msgstr ""
+
+msgctxt "18252_Chihiro"
+msgid "Yeah. You might still get a chance to pet him someday."
+msgstr ""
+
+msgctxt "18264_Tanimura"
+msgid "What sort of actress do you want to be?"
+msgstr ""
+
+msgctxt "18276_Tanimura"
+msgid "You're both a college student and a hostess?"
+msgstr ""
+
+msgctxt "18288_Tanimura"
+msgid "How much money are you trying to make?"
+msgstr ""
+
+msgctxt "18300_Tanimura"
+msgid "Can you try a little bit for me?"
+msgstr ""
+
+msgctxt "18312_Tanimura"
+msgid "That's an unusual hobby."
+msgstr ""
+
+msgctxt "18324_Tanimura"
+msgid "Why didn't you join the normal theater club?"
+msgstr ""
+
+msgctxt "18336_Tanimura"
+msgid "A pure and innocent woman."
+msgstr ""
+
+msgctxt "18348_Tanimura"
+msgid "A strong-willed woman."
+msgstr ""
+
+msgctxt "18360_Tanimura"
+msgid "A ditzy woman."
+msgstr ""
+
+msgctxt "18372_Tanimura"
+msgid "All I thought about was girls."
+msgstr ""
+
+msgctxt "18384_Tanimura"
+msgid "I wasn't interested in love yet."
+msgstr ""
+
+msgctxt "18396_Tanimura"
+msgid "All I thought about was horses."
+msgstr ""
+
+msgctxt "18408_Tanimura"
+msgid "Want to touch me?"
+msgstr ""
+
+msgctxt "18420_Tanimura"
+msgid "It's nothing, really."
+msgstr ""
+
+msgctxt "18432_Tanimura"
+msgid "It's even more impressive when I'm naked."
+msgstr ""
+
+msgctxt "18444_Tanimura"
+msgid "It can't be helped."
+msgstr ""
+
+msgctxt "18456_Tanimura"
+msgid "It's cute."
+msgstr ""
+
+msgctxt "18468_Tanimura"
+msgid "You should train yourself to drink."
+msgstr ""
+
+msgctxt "18480_Tanimura"
+msgid "I don't think I'd get along with one."
+msgstr ""
+
+msgctxt "18492_Tanimura"
+msgid "I like anime too."
+msgstr ""
+
+msgctxt "18504_Tanimura"
+msgid "Why aren't you an otaku?"
+msgstr ""
+
+msgctxt "18516_Tanimura"
+msgid "A girl should have a good appetite."
+msgstr ""
+
+msgctxt "18528_Tanimura"
+msgid "It's fine as long as you don't get fat."
+msgstr ""
+
+msgctxt "18540_Tanimura"
+msgid "Your health is what's important."
+msgstr ""
+
+msgctxt "18552_Tanimura"
+msgid "Maybe he's lonely."
+msgstr ""
+
+msgctxt "18564_Tanimura"
+msgid "Maybe he wants to go outside."
+msgstr ""
+
+msgctxt "18576_Tanimura"
+msgid "I'm sure he'll get better eventually."
+msgstr ""
+
+msgctxt "18588_Tanimura"
+msgid "That takes coordination."
+msgstr ""
+
+msgctxt "18600_Tanimura"
+msgid "That's your special talent?"
+msgstr ""
+
+msgctxt "18612_Tanimura"
+msgid "I'd give it a four out of ten."
+msgstr ""
+
+msgctxt "18624_Tanimura"
+msgid "Well, at least it was a good experience."
+msgstr ""
+
+msgctxt "18636_Tanimura"
+msgid "Is that all? That's nothing to get upset about."
+msgstr ""
+
+msgctxt "18648_Tanimura"
+msgid "You need to think bigger!"
+msgstr ""
+
+msgctxt "18660_Tanimura"
+msgid "I'm just worried about you."
+msgstr ""
+
+msgctxt "18672_Tanimura"
+msgid "I'm sorry. Being a cop makes me suspicious."
+msgstr ""
+
+msgctxt "18684_Tanimura"
+msgid "I'm telling you, he's taking advantage of you."
+msgstr ""
+
+msgctxt "18696_Tanimura"
+msgid "Horse racing is good."
+msgstr ""
+
+msgctxt "18708_Tanimura"
+msgid "There's nothing better than karaoke."
+msgstr ""
+
+msgctxt "18720_Tanimura"
+msgid "How about a massage?"
+msgstr ""
+
+msgctxt "18732_Tanimura"
+msgid "Not all men are like that."
+msgstr ""
+
+msgctxt "18744_Tanimura"
+msgid "That's just the way men are."
+msgstr ""
+
+msgctxt "18756_Tanimura"
+msgid "The woman bears some responsibility, too."
+msgstr ""
+
+msgctxt "18768_Tanimura"
+msgid "You've been watching too many soap operas."
+msgstr ""
+
+msgctxt "18780_Tanimura"
+msgid "You'll get your chance soon enough."
+msgstr ""
+
+msgctxt "18792_Tanimura"
+msgid "You are still a child."
+msgstr ""
+
+msgctxt "18804_Tanimura"
+msgid "You were in the wrong."
+msgstr ""
+
+msgctxt "18816_Tanimura"
+msgid "That's pretty childish."
+msgstr ""
+
+msgctxt "18828_Tanimura"
+msgid "I wish I had a brother or sister to fight with."
+msgstr ""
+
+msgctxt "18840_Tanimura"
+msgid "That's a relief."
+msgstr ""
+
+msgctxt "18852_Tanimura"
+msgid "You'll have to be more careful from now on."
+msgstr ""
+
+msgctxt "18864_Tanimura"
+msgid "You should read more about rabbits."
+msgstr ""
+
+msgctxt "18876_Tanimura"
+msgid "I like the railroad a lot."
+msgstr ""
+
+msgctxt "18888_Tanimura"
+msgid "I've never really thought about it."
+msgstr ""
+
+msgctxt "18900_Tanimura"
+msgid "You're a rail buff but you like trains?"
+msgstr ""
+
+msgctxt "18912_Tanimura"
+msgid "Watch out for counterfeit brand names."
+msgstr ""
+
+msgctxt "18924_Tanimura"
+msgid "Be careful what you eat."
+msgstr ""
+
+msgctxt "18936_Tanimura"
+msgid "Making mistakes is what makes traveling fun."
+msgstr ""
+
+msgctxt "18948_Tanimura"
+msgid "You're taking it too seriously."
+msgstr ""
+
+msgctxt "18960_Tanimura"
+msgid "You'll be like that forever."
+msgstr ""
+
+msgctxt "18972_Tanimura"
+msgid "If you're indecisive, why don't you ask me?"
+msgstr ""
+
+msgctxt "18984_Tanimura"
+msgid "I know this is your big chance, but..."
+msgstr ""
+
+msgctxt "18996_Tanimura"
+msgid "Okay. I won't say anything else."
+msgstr ""
+
+msgctxt "19008_Tanimura"
+msgid "Don't mess up at that interview."
+msgstr ""
+
+msgctxt "19020_Tanimura"
+msgid "I didn't do anything."
+msgstr ""
+
+msgctxt "19032_Tanimura"
+msgid "It's too bad, though."
+msgstr ""
+
+msgctxt "19044_Tanimura"
+msgid "Your appearance hasn't changed, though."
+msgstr ""
+
+msgctxt "19056_Tanimura"
+msgid "Call me any time you feel lonely."
+msgstr ""
+
+msgctxt "19068_Tanimura"
+msgid "Don't stop until you reach the top."
+msgstr ""
+
+msgctxt "19080_Tanimura"
+msgid "Do you really think you'll get famous, though?"
+msgstr ""
+
+msgctxt "19092_Tanimura"
+msgid "You don't need to go to a mixer."
+msgstr ""
+
+msgctxt "19104_Tanimura"
+msgid "Why don't you go out with me instead?"
+msgstr ""
+
+msgctxt "19116_Tanimura"
+msgid "Have a good time."
+msgstr ""
+
+msgctxt "19128_Tanimura"
+msgid "I'm usually the one doing the chasing."
+msgstr ""
+
+msgctxt "19140_Tanimura"
+msgid "There are better men than me out there."
+msgstr ""
+
+msgctxt "19152_Tanimura"
+msgid "I'll run as fast as I can, you know."
+msgstr ""
+
+msgctxt "19164_Tanimura"
+msgid "Is she cute?"
+msgstr ""
+
+msgctxt "19176_Tanimura"
+msgid "What if she falls for me?"
+msgstr ""
+
+msgctxt "19188_Tanimura"
+msgid "It's a little early for that, isn't it?"
+msgstr ""
+
+msgctxt "19200_Tanimura"
+msgid "I don't mind."
+msgstr ""
+
+msgctxt "19212_Tanimura"
+msgid "Wouldn't it be better to talk in person?"
+msgstr ""
+
+msgctxt "19224_Tanimura"
+msgid "It depends on when it is."
+msgstr ""
+
+msgctxt "19236_Tanimura"
+msgid "Yeah, that's pretty strange."
+msgstr ""
+
+msgctxt "19248_Tanimura"
+msgid "Everybody has their preferences."
+msgstr ""
+
+msgctxt "19260_Tanimura"
+msgid "You should have rice for breakfast."
+msgstr ""
+
+msgctxt "19272_Tanimura"
+msgid "Don't overdo it."
+msgstr ""
+
+msgctxt "19284_Tanimura"
+msgid "I'll be glad to help."
+msgstr ""
+
+msgctxt "19296_Tanimura"
+msgid "Most diets fail right away, you know."
+msgstr ""
+
+msgctxt "19308_Tanimura"
+msgid "I think you've got it wrong."
+msgstr ""
+
+msgctxt "19320_Tanimura"
+msgid "He's an idol to a lot of men."
+msgstr ""
+
+msgctxt "19332_Tanimura"
+msgid "I bet I could beat him in a fight."
+msgstr ""
+
+msgctxt "19344_Tanimura"
+msgid "It wasn't your fault."
+msgstr ""
+
+msgctxt "19356_Tanimura"
+msgid "That experience was just part of your journey."
+msgstr ""
+
+msgctxt "19368_Tanimura"
+msgid "You're pretty high maintenance, aren't you?"
+msgstr ""
+
+msgctxt "19380_Tanimura"
+msgid "Nothing"
+msgstr ""
+
+msgctxt "19392_Tanimura"
+msgid "777 Town"
+msgstr ""
+
+msgctxt "19404_Tanimura"
+msgid "Amoebatar"
+msgstr ""
+
+msgctxt "19416_Tanimura"
+msgid "The Ghost in the Underground Mall"
+msgstr ""
+
+msgctxt "19428_Tanimura"
+msgid "The Footbaths at Yunosono Hot Springs"
+msgstr ""
+
+msgctxt "19440_Tanimura"
+msgid "Popular Golf Dates Among Women"
+msgstr ""
+
+msgctxt "19452_Tanimura"
+msgid "Eating Liver to Reverse Brain Aging"
+msgstr ""
+
+msgctxt "19464_Tanimura"
+msgid "The Pole Dancing Workout"
+msgstr ""
+
+msgctxt "19476_Tanimura"
+msgid "Popular Sweet Sake Among Women"
+msgstr ""
+
+msgctxt "19488_Tanimura"
+msgid "Sure, go ahead."
+msgstr ""
+
+msgctxt "19500_Tanimura"
+msgid "Sorry."
+msgstr ""
+
+msgctxt "19512_Tanimura"
+msgid "Sure."
+msgstr ""
+
+msgctxt "19524_Tanimura"
+msgid "Nope."
+msgstr ""

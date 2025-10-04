@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "84"
+msgid "You hid the <Color:8>Chain and Grappling Hook<Color:Default>."
+msgstr ""
+
+msgctxt "1336"
+msgid "Talk_Syagamu_st"
+msgstr ""
+
+msgctxt "1340"
+msgid "Talk_Syagamu_ed"
+msgstr ""
+
+msgctxt "1344"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1348"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1352"
+msgid "dummy"
+msgstr ""
+
+msgctxt "120_Saejima"
+msgid "(Think we're good to go. Here goes nothin'...)"
+msgstr ""
+
+msgctxt "156_Saejima"
+msgid "(A manhole... Nah, too obvious. No way would it lead outta here.)"
+msgstr ""

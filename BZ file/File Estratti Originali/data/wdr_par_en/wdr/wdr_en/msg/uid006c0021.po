@@ -1,0 +1,5739 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "16200"
+msgid "Um, thanks..."
+msgstr ""
+
+msgctxt "16224"
+msgid "Sorry, but what am I supposed to do with somethin' like that?"
+msgstr ""
+
+msgctxt "16800"
+msgid "Kick back, relax!"
+msgstr ""
+
+msgctxt "16836"
+msgid "Make yourself comfortable!"
+msgstr ""
+
+msgctxt "16872"
+msgid "Here ya go!"
+msgstr ""
+
+msgctxt "17340"
+msgid "Akiyama-san!"
+msgstr ""
+
+msgctxt "17400"
+msgid "Akiyama-san!"
+msgstr ""
+
+msgctxt "17460"
+msgid "Akiyama-san!"
+msgstr ""
+
+msgctxt "17520"
+msgid "Akiyama-san!"
+msgstr ""
+
+msgctxt "17688"
+msgid "Really? Well, be sure and tell me if ya hear of anything interestin'."
+msgstr ""
+
+msgctxt "220792"
+msgid "Erena"
+msgstr ""
+
+msgctxt "220796"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "220800"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "220804"
+msgid "P_sitsofaR_tlk_yes"
+msgstr ""
+
+msgctxt "220808"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr ""
+
+msgctxt "220812"
+msgid "P_sitsofaR_tlk_smile"
+msgstr ""
+
+msgctxt "220816"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "220820"
+msgid "P_sitsofaR_tlk_no"
+msgstr ""
+
+msgctxt "220824"
+msgid "F_cab_sitsofa_tlk_thinkA"
+msgstr ""
+
+msgctxt "220828"
+msgid "P_sitsofaR_tlk_quest"
+msgstr ""
+
+msgctxt "220832"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "220836"
+msgid "P_sitsofaR_tlk_comment"
+msgstr ""
+
+msgctxt "220840"
+msgid "P_sitsofaR_tlk_think"
+msgstr ""
+
+msgctxt "220844"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""
+
+msgctxt "220848"
+msgid "P_sitsofaR_tlk_surp"
+msgstr ""
+
+msgctxt "220852"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "220856"
+msgid "F_cab_sitsofa_tlk_betaA"
+msgstr ""
+
+msgctxt "220860"
+msgid "F_cab_sitsofa_sp1_sync_yop"
+msgstr ""
+
+msgctxt "220864"
+msgid "F_cab_sitsofa_sp2_sync_hiza"
+msgstr ""
+
+msgctxt "220868"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr ""
+
+msgctxt "220872"
+msgid "F_cab_sitsofa_tlk_gakkariA"
+msgstr ""
+
+msgctxt "220876"
+msgid "P_sitsofaR_tlk_ase"
+msgstr ""
+
+msgctxt "220880"
+msgid "F_cab_sitsofa_tlk_commentA"
+msgstr ""
+
+msgctxt "220884"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "220888"
+msgid "F_cab_sitsofa_tlk_kamaeBtoA"
+msgstr ""
+
+msgctxt "220892"
+msgid "F_cab_sitsofa_sp6_sync_kami"
+msgstr ""
+
+msgctxt "220896"
+msgid "F_cab_sitsofa_tlk_refuse"
+msgstr ""
+
+msgctxt "220900"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "220904"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr ""
+
+msgctxt "220908"
+msgid "F_cab_sitsofa_tlk_akubi"
+msgstr ""
+
+msgctxt "220912"
+msgid "F_cab_sitsofa_sync_order"
+msgstr ""
+
+msgctxt "220916"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr ""
+
+msgctxt "220920"
+msgid "F_cab_sitsofa_tlk_ojigiA"
+msgstr ""
+
+msgctxt "220924"
+msgid "Player"
+msgstr ""
+
+msgctxt "220928"
+msgid "M_shp_sitgrd_sync_order"
+msgstr ""
+
+msgctxt "220932"
+msgid "Attendant"
+msgstr ""
+
+msgctxt "220936"
+msgid "2d_cf_meishi_aihara00"
+msgstr ""
+
+msgctxt "220940"
+msgid "2d_cf_meishi_aihara01"
+msgstr ""
+
+msgctxt "220944"
+msgid "F_cab_stand_tlk_byeA"
+msgstr ""
+
+msgctxt "220948"
+msgid "F_cab_stand_sp13_sync_yubi_st"
+msgstr ""
+
+msgctxt "220952"
+msgid "P_stand_sp13_sync_yubi_st"
+msgstr ""
+
+msgctxt "220956"
+msgid "F_cab_stand_sp15_sync_yubi_ed"
+msgstr ""
+
+msgctxt "220960"
+msgid "P_stand_sp15_sync_yubi_ed"
+msgstr ""
+
+msgctxt "220964"
+msgid "F_cab_stand_sync_byeC_st"
+msgstr ""
+
+msgctxt "220968"
+msgid "P_stand_sync_byeC_st"
+msgstr ""
+
+msgctxt "220972"
+msgid "F_cab_stand_sync_byeC_ed"
+msgstr ""
+
+msgctxt "220976"
+msgid "P_stand_sync_byeC_ed"
+msgstr ""
+
+msgctxt "220980"
+msgid "F_cab_stand_sp11_sync_mimi_st"
+msgstr ""
+
+msgctxt "220984"
+msgid "P_stand_sp11_sync_mimi_st"
+msgstr ""
+
+msgctxt "220988"
+msgid "F_cab_stand_sp11_sync_mimi_ed"
+msgstr ""
+
+msgctxt "220992"
+msgid "P_stand_sp11_sync_mimi_ed"
+msgstr ""
+
+msgctxt "220996"
+msgid "F_cab_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "221000"
+msgid "P_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "221004"
+msgid "F_cab_stand_sync_dakiA_ed"
+msgstr ""
+
+msgctxt "221008"
+msgid "P_stand_sync_dakiA_ed"
+msgstr ""
+
+msgctxt "221012"
+msgid "F_cab_stand_tlk_byeB"
+msgstr ""
+
+msgctxt "221016"
+msgid "F_cab_sitsofa_tlk_appealA"
+msgstr ""
+
+msgctxt "221020"
+msgid "P_sitsofaR_tlk_angry"
+msgstr ""
+
+msgctxt "4080_Erena"
+msgid "I'm real glad I decided to come to Tokyo."
+msgstr ""
+
+msgctxt "4092_Akiyama"
+msgid "Why do you say that all of a sudden?"
+msgstr ""
+
+msgctxt "4104_Erena"
+msgid ""
+"Oh, I'm just happy that a nice man like you decided to come and request me, "
+"that's all."
+msgstr ""
+
+msgctxt "4116_Akiyama"
+msgid "Heheh. How long have you been here, anyway?"
+msgstr ""
+
+msgctxt "4128_Erena"
+msgid "Actually, about 10 days."
+msgstr ""
+
+msgctxt "4140_Akiyama"
+msgid "Really? You're probably still getting used to it, then?"
+msgstr ""
+
+msgctxt "4152_Erena"
+msgid "Yep, but I've already gotten the hang of the pace here."
+msgstr ""
+
+msgctxt "4164_Akiyama"
+msgid "The pace? What do you mean?"
+msgstr ""
+
+msgctxt "4176_Erena"
+msgid "How fast people walk."
+msgstr ""
+
+msgctxt "4188_Erena"
+msgid "I've always been a fast walker, so I didn't have any trouble fittin' in."
+msgstr ""
+
+msgctxt "4200_Erena"
+msgid "I think I made the right choice in comin' here."
+msgstr ""
+
+msgctxt "4212_Akiyama"
+msgid "What's your favorite place in Tokyo?"
+msgstr ""
+
+msgctxt "4224_Erena"
+msgid ""
+"Well, actually I haven't been able to get around much. Do ya know any fun "
+"places to go?"
+msgstr ""
+
+msgctxt "4236_Akiyama"
+msgid "Hm? Well, sure... But everybody has different tastes."
+msgstr ""
+
+msgctxt "4248_Akiyama"
+msgid "What kind of things do you like? Maybe I can show you around a little bit."
+msgstr ""
+
+msgctxt "4260_Erena"
+msgid "Really? That'd be great."
+msgstr ""
+
+msgctxt "4272_Akiyama"
+msgid "Do you want to go sightseeing? Or maybe out eating, or shopping?"
+msgstr ""
+
+msgctxt "4284_Erena"
+msgid ""
+"Well, maybe some sightseein' first, then a nice\r\n"
+"drink afterwards."
+msgstr ""
+
+msgctxt "4296_Akiyama"
+msgid "If we can find the time, that'd be nice."
+msgstr ""
+
+msgctxt "4308_Erena"
+msgid "Yeah, I'll be looking forward to it."
+msgstr ""
+
+msgctxt "4320_Akiyama"
+msgid "You came to Tokyo all by yourself?"
+msgstr ""
+
+msgctxt "4332_Erena"
+msgid "Yep. But my sister will be coming soon, too."
+msgstr ""
+
+msgctxt "4344_Akiyama"
+msgid "Oh? Is she a college student or something?"
+msgstr ""
+
+msgctxt "4356_Erena"
+msgid "No. She's the same as me."
+msgstr ""
+
+msgctxt "4368_Akiyama"
+msgid "The same? You mean she's a hostess, too?"
+msgstr ""
+
+msgctxt "4380_Erena"
+msgid "Yeah. We both work at hostess clubs."
+msgstr ""
+
+msgctxt "4392_Akiyama"
+msgid "For real?"
+msgstr ""
+
+msgctxt "4404_Erena"
+msgid "Surprised? Haha."
+msgstr ""
+
+msgctxt "4416_Akiyama"
+msgid "Sort of. But it's interesting."
+msgstr ""
+
+msgctxt "4428_Erena"
+msgid ""
+"That's not even the craziest part! For a while, we were both workin' at the "
+"same club!"
+msgstr ""
+
+msgctxt "4440_Akiyama"
+msgid "Wow. So is she planning on working here, then?"
+msgstr ""
+
+msgctxt "4452_Erena"
+msgid "Maybe."
+msgstr ""
+
+msgctxt "4464_Akiyama"
+msgid "I guess Kyoto is a bit slower-paced, huh?"
+msgstr ""
+
+msgctxt "4476_Erena"
+msgid ""
+"They walk so slow! I always get so annoyed when I'm stuck walkin' behind "
+"someone."
+msgstr ""
+
+msgctxt "4488_Akiyama"
+msgid "I know the feeling."
+msgstr ""
+
+msgctxt "4500_Erena"
+msgid "Of course, people tell me that I walk fast, so that may be part of it."
+msgstr ""
+
+msgctxt "4512_Akiyama"
+msgid ""
+"Yeah, if you're a fast walker and most people from Kyoto walk slowly, it "
+"must seem especially slow."
+msgstr ""
+
+msgctxt "4524_Akiyama"
+msgid "But Tokyo is just about perfect for you, huh?"
+msgstr ""
+
+msgctxt "4536_Erena"
+msgid "Oh yeah, totally!"
+msgstr ""
+
+msgctxt "4548_Akiyama"
+msgid ""
+"Heheh. Sounds like you might fit in better here than at home. When it comes "
+"to walking at a fast pace, at least."
+msgstr ""
+
+msgctxt "4560_Erena"
+msgid "Yeah... But I am gettin' annoyed with the crowds here."
+msgstr ""
+
+msgctxt "4572_Akiyama"
+msgid "Heheh, I guess every place has its pros and cons."
+msgstr ""
+
+msgctxt "4584_Erena"
+msgid "Um, can I tell you something?"
+msgstr ""
+
+msgctxt "4596_Akiyama"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "4608_Erena"
+msgid "Oh, never mind. Forget I said anything."
+msgstr ""
+
+msgctxt "4620_Akiyama"
+msgid "Huh? Come on, spit it out."
+msgstr ""
+
+msgctxt "4632_Erena"
+msgid "Well, I'm actually seein' someone."
+msgstr ""
+
+msgctxt "4644_Akiyama"
+msgid "Oh? And you left him back in Kyoto?"
+msgstr ""
+
+msgctxt "4656_Erena"
+msgid "No... He's here."
+msgstr ""
+
+msgctxt "4668_Akiyama"
+msgid "Oh, did you come to Tokyo to be with him?"
+msgstr ""
+
+msgctxt "4680_Erena"
+msgid "No. I met him here."
+msgstr ""
+
+msgctxt "4692_Akiyama"
+msgid "Really? But I thought you just got here a little while ago."
+msgstr ""
+
+msgctxt "4704_Erena"
+msgid "I met him the day after I got here!"
+msgstr ""
+
+msgctxt "4716_Akiyama"
+msgid "You're kidding. That's fast work."
+msgstr ""
+
+msgctxt "4728_Erena"
+msgid "Maybe! But he's real handsome."
+msgstr ""
+
+msgctxt "4740_Akiyama"
+msgid "Just your type, huh?"
+msgstr ""
+
+msgctxt "4752_Erena"
+msgid "Well, I thought maybe I was movin' too fast, but..."
+msgstr ""
+
+msgctxt "4764_Akiyama"
+msgid "How did you two meet?"
+msgstr ""
+
+msgctxt "4776_Erena"
+msgid "Oh, he walked up to me when my friend and I were out drinking."
+msgstr ""
+
+msgctxt "4788_Akiyama"
+msgid "He picked you up, just like that!?"
+msgstr ""
+
+msgctxt "4800_Erena"
+msgid "I guess he did!<Color:7>"
+msgstr ""
+
+msgctxt "4812_Akiyama"
+msgid "And you decided to go out with him?"
+msgstr ""
+
+msgctxt "4824_Erena"
+msgid ""
+"I guess I like to be flattered. And I'd just arrived in Tokyo, so I was "
+"kind of caught up in the excitement."
+msgstr ""
+
+msgctxt "4836_Akiyama"
+msgid "Well, okay. So, what did you want to say about this guy?"
+msgstr ""
+
+msgctxt "4848_Erena"
+msgid "Oh, just that we're goin' out."
+msgstr ""
+
+msgctxt "4860_Akiyama"
+msgid "Huh? That's it? That's why you're so happy?"
+msgstr ""
+
+msgctxt "4872_Erena"
+msgid "Hehe, yep!"
+msgstr ""
+
+msgctxt "4884_Akiyama"
+msgid "......"
+msgstr ""
+
+msgctxt "4896_Akiyama"
+msgid ""
+"What's with young girls these days? I'll never understand what they're "
+"thinking."
+msgstr ""
+
+msgctxt "4908_Erena"
+msgid "Hahah! You're not that old yourself."
+msgstr ""
+
+msgctxt "4920_Akiyama"
+msgid ""
+"Hey, I've got one foot in the grave! Well, maybe not in the grave, but I'm "
+"within walking distance of the cemetery!"
+msgstr ""
+
+msgctxt "4932_Erena"
+msgid "Hahahah! You're funny!"
+msgstr ""
+
+msgctxt "4944_Erena"
+msgid ""
+"But haven't you ever had an experience like that? Ya know, love at first "
+"sight?"
+msgstr ""
+
+msgctxt "4956_Akiyama"
+msgid "Sure I have. When I saw you, for instance."
+msgstr ""
+
+msgctxt "4968_Erena"
+msgid "Haha! I just told you I had a boyfriend!"
+msgstr ""
+
+msgctxt "4980_Akiyama"
+msgid "I heard you. What about it?"
+msgstr ""
+
+msgctxt "4992_Erena"
+msgid "Well, you're gonna have to try harder if ya want me to leave him for you."
+msgstr ""
+
+msgctxt "5004_Akiyama"
+msgid "Is this something you tell all your customers?"
+msgstr ""
+
+msgctxt "5016_Erena"
+msgid "Hm? Is there something wrong with talkin' about it?"
+msgstr ""
+
+msgctxt "5028_Akiyama"
+msgid ""
+"Well, it is a bit of a downer. I mean, most guys want to at least have the "
+"illusion that they come in with."
+msgstr ""
+
+msgctxt "5040_Erena"
+msgid "Oh, I guess you're right. Sorry for being so insensitive."
+msgstr ""
+
+msgctxt "5052_Erena"
+msgid "I guess you're just so easy to talk to that I got a little carried away."
+msgstr ""
+
+msgctxt "5064_Akiyama"
+msgid "It's all right. I don't mind, personally."
+msgstr ""
+
+msgctxt "5076_Erena"
+msgid "Oh, that's a relief!"
+msgstr ""
+
+msgctxt "5088_Erena"
+msgid "I'm so depressed. I wish I could stop thinkin' about this..."
+msgstr ""
+
+msgctxt "5100_Akiyama"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "5112_Erena"
+msgid ""
+"I went shopping yesterday, and I accidentally left the dress I bought "
+"behind on the train."
+msgstr ""
+
+msgctxt "5124_Akiyama"
+msgid "Ouch..."
+msgstr ""
+
+msgctxt "5136_Erena"
+msgid ""
+"I'm just so mad at myself. I bought it because I knew my boyfriend would "
+"like it."
+msgstr ""
+
+msgctxt "5148_Erena"
+msgid ""
+"It was a cute little dress. Cute isn't really my thing, but I thought he'd "
+"like it."
+msgstr ""
+
+msgctxt "5160_Akiyama"
+msgid "You choose what you wear depending on who you're with?"
+msgstr ""
+
+msgctxt "5172_Erena"
+msgid "Oh, yeah. I do that all the time!"
+msgstr ""
+
+msgctxt "5184_Akiyama"
+msgid "I guess you can be cute when you try."
+msgstr ""
+
+msgctxt "5196_Erena"
+msgid "Sure I can."
+msgstr ""
+
+msgctxt "5208_Akiyama"
+msgid "Too bad about losing that dress, though."
+msgstr ""
+
+msgctxt "5220_Erena"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "5232_Akiyama"
+msgid "Maybe your boyfriend could buy you another one."
+msgstr ""
+
+msgctxt "5244_Erena"
+msgid "Well, he doesn't have much money, so..."
+msgstr ""
+
+msgctxt "5256_Akiyama"
+msgid ""
+"I see. Well, I guess there's nothing wrong with dressing to suit somebody "
+"else's taste, but don't go overboard."
+msgstr ""
+
+msgctxt "5268_Akiyama"
+msgid "Wouldn't you rather wear something you like?"
+msgstr ""
+
+msgctxt "5280_Erena"
+msgid "Oh, I don't mind. As long as he likes it, I'm happy."
+msgstr ""
+
+msgctxt "5292_Akiyama"
+msgid "Really? That's a bit of a surprise."
+msgstr ""
+
+msgctxt "5304_Erena"
+msgid "Why? Is that strange?"
+msgstr ""
+
+msgctxt "5316_Akiyama"
+msgid ""
+"Oh, it's just that most people tend to go out with people with similar "
+"tastes, whether it's fashion, music, or whatever."
+msgstr ""
+
+msgctxt "5328_Erena"
+msgid ""
+"But haven't you ever found yourself growin' to like something that a "
+"girlfriend of yours liked?"
+msgstr ""
+
+msgctxt "5340_Akiyama"
+msgid ""
+"Huh. Come to think of it, I have. So you mean you're starting to like the "
+"kind of clothes that he likes?"
+msgstr ""
+
+msgctxt "5352_Erena"
+msgid "Well... Maybe not quite yet."
+msgstr ""
+
+msgctxt "5364_Akiyama"
+msgid ""
+"I see. I guess there's nothing wrong with dressing to suit somebody else's "
+"taste, but don't go overboard."
+msgstr ""
+
+msgctxt "5376_Akiyama"
+msgid "I think you've got it wrong."
+msgstr ""
+
+msgctxt "5388_Erena"
+msgid "Huh? How?"
+msgstr ""
+
+msgctxt "5400_Akiyama"
+msgid ""
+"I think most men would be more comfortable with a woman who dresses to suit "
+"her own taste, instead of changing herself to match his."
+msgstr ""
+
+msgctxt "5412_Erena"
+msgid "Really?"
+msgstr ""
+
+msgctxt "5424_Akiyama"
+msgid ""
+"If you try too hard at that kind of thing, it'll just make the man feel "
+"like he has to try, too."
+msgstr ""
+
+msgctxt "5436_Erena"
+msgid ""
+"I see... I don't mind it myself, so it didn't occur to me that it might "
+"make other people uncomfortable."
+msgstr ""
+
+msgctxt "5448_Akiyama"
+msgid ""
+"I guess there's nothing wrong with dressing to impress. Just don't be too "
+"harsh on him, all right?"
+msgstr ""
+
+msgctxt "5460_Erena"
+msgid "Huh. I had no idea. Thanks."
+msgstr ""
+
+msgctxt "5472_Erena"
+msgid "What kind of women do you like?"
+msgstr ""
+
+msgctxt "5484_Akiyama"
+msgid "Hmm... Well, for starters, Kansai girls are out of the question."
+msgstr ""
+
+msgctxt "5496_Erena"
+msgid "Huh? You don't like Kansai girls?"
+msgstr ""
+
+msgctxt "5508_Akiyama"
+msgid "Heheh. Just kidding."
+msgstr ""
+
+msgctxt "5520_Erena"
+msgid "Hahahah! Don't scare me like that!"
+msgstr ""
+
+msgctxt "5532_Akiyama"
+msgid "What about you, Erena? What kind of men do you like?"
+msgstr ""
+
+msgctxt "5544_Erena"
+msgid "Me? Well, I like a man to be confident around other people, but..."
+msgstr ""
+
+msgctxt "5556_Akiyama"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "5568_Erena"
+msgid ""
+"I want them to be sweet and needy when it's just\r\n"
+"the two of us."
+msgstr ""
+
+msgctxt "5580_Erena"
+msgid "Oh, and he should be rich. And kind, too."
+msgstr ""
+
+msgctxt "5592_Akiyama"
+msgid "Rich, huh? At least you're honest."
+msgstr ""
+
+msgctxt "5604_Erena"
+msgid "Yep. People are always tellin' me I'm the honest type."
+msgstr ""
+
+msgctxt "5616_Akiyama"
+msgid "I didn't really mean that as a compliment..."
+msgstr ""
+
+msgctxt "5628_Erena"
+msgid "Ahahaha! ♪"
+msgstr ""
+
+msgctxt "5640_Akiyama"
+msgid "So how does your current boyfriend measure up?"
+msgstr ""
+
+msgctxt "5652_Erena"
+msgid "Actually, he doesn't have much money."
+msgstr ""
+
+msgctxt "5664_Akiyama"
+msgid "Most people don't."
+msgstr ""
+
+msgctxt "5676_Erena"
+msgid "But he's nice, so I don't mind."
+msgstr ""
+
+msgctxt "5688_Akiyama"
+msgid "Heheh. That's good."
+msgstr ""
+
+msgctxt "5700_Akiyama"
+msgid ""
+"Isn't that asking a little much? You don't run into people with all of "
+"those qualities very often."
+msgstr ""
+
+msgctxt "5712_Erena"
+msgid "I know! And I've been lookin' real hard, too."
+msgstr ""
+
+msgctxt "5724_Akiyama"
+msgid ""
+"I don't know. I think it would be pretty hard for a guy to live up to all "
+"of those expectations."
+msgstr ""
+
+msgctxt "5736_Erena"
+msgid ""
+"Yeah... And if I really found a man like that, I think I might get tired "
+"tryin' to keep up with him."
+msgstr ""
+
+msgctxt "5748_Akiyama"
+msgid "Right. You have to find someone who fits your personality."
+msgstr ""
+
+msgctxt "5760_Erena"
+msgid ""
+"You're right. In that case, I'd rather just have a handsome guy who won't "
+"tire me out."
+msgstr ""
+
+msgctxt "5772_Akiyama"
+msgid "......"
+msgstr ""
+
+msgctxt "5784_Akiyama"
+msgid "Why do you like manly men?"
+msgstr ""
+
+msgctxt "5796_Erena"
+msgid "Is there something wrong with that?"
+msgstr ""
+
+msgctxt "5808_Akiyama"
+msgid ""
+"I think I know the type of guy you're talking about, but there's a "
+"difference between acting manly and being a real man, you know."
+msgstr ""
+
+msgctxt "5820_Akiyama"
+msgid ""
+"Most of those guys are selfish and arrogant. They don't care about other "
+"people."
+msgstr ""
+
+msgctxt "5832_Erena"
+msgid ""
+"I suppose you're right. A real man wouldn't go around yellin' about little "
+"things, would he? I hate that."
+msgstr ""
+
+msgctxt "5844_Akiyama"
+msgid "Oh? But I thought you liked that type of guy."
+msgstr ""
+
+msgctxt "5856_Erena"
+msgid "Hahahah! Funny, ain't it?"
+msgstr ""
+
+msgctxt "5868_Akiyama"
+msgid "You <Italic>are</Italic> kind of contradicting yourself."
+msgstr ""
+
+msgctxt "5880_Erena"
+msgid "Hmm... I guess I want a manly man who cares about other people."
+msgstr ""
+
+msgctxt "5892_Akiyama"
+msgid "You can't get past the manly man part, huh?"
+msgstr ""
+
+msgctxt "5904_Erena"
+msgid "Listen, listen! My sister got a pinky ring from her boyfriend."
+msgstr ""
+
+msgctxt "5916_Akiyama"
+msgid ""
+"Oh? Pinky rings are cheap, so they're popular among college students and "
+"young people. There's nothing very unusual about that, is there?"
+msgstr ""
+
+msgctxt "5928_Erena"
+msgid "No, but it's the <Italic>way</Italic> he gave it to her that's amazin'!"
+msgstr ""
+
+msgctxt "5940_Akiyama"
+msgid "What do you mean? How did he do it?"
+msgstr ""
+
+msgctxt "5952_Erena"
+msgid "Well, apparently they were at dinner."
+msgstr ""
+
+msgctxt "5964_Erena"
+msgid "My sister had just started eating her dessert..."
+msgstr ""
+
+msgctxt "5976_Erena"
+msgid "...when she bit down on something hard."
+msgstr ""
+
+msgctxt "5988_Erena"
+msgid "That's how she found the ring!"
+msgstr ""
+
+msgctxt "6000_Akiyama"
+msgid "Really? That must've been a lot of work for him to set up!"
+msgstr ""
+
+msgctxt "6012_Erena"
+msgid "I guess he asked the waiter to put the ring in there."
+msgstr ""
+
+msgctxt "6024_Akiyama"
+msgid "It sounds like he's trying pretty hard."
+msgstr ""
+
+msgctxt "6036_Erena"
+msgid "Right?"
+msgstr ""
+
+msgctxt "6048_Erena"
+msgid "If somebody did something like that for me, I'd melt!"
+msgstr ""
+
+msgctxt "6060_Akiyama"
+msgid "He's creative, I'll give him that."
+msgstr ""
+
+msgctxt "6072_Erena"
+msgid ""
+"Why is she always the one who has stuff like that happen to her? It's not "
+"fair!"
+msgstr ""
+
+msgctxt "6084_Akiyama"
+msgid "Hahah. Don't ask me."
+msgstr ""
+
+msgctxt "6096_Erena"
+msgid "I'm jealous."
+msgstr ""
+
+msgctxt "6108_Akiyama"
+msgid "Well, do you want me to give you a present?"
+msgstr ""
+
+msgctxt "6120_Erena"
+msgid ""
+"Really? Just remember, you've got to be pretty creative if ya want to "
+"impress me."
+msgstr ""
+
+msgctxt "6132_Akiyama"
+msgid "Maybe I should've kept my mouth shut..."
+msgstr ""
+
+msgctxt "6144_Akiyama"
+msgid "Maybe I should try that one myself."
+msgstr ""
+
+msgctxt "6156_Erena"
+msgid "You? Hahahah! That's a good one!"
+msgstr ""
+
+msgctxt "6168_Erena"
+msgid "But I bet the girl would love it."
+msgstr ""
+
+msgctxt "6180_Akiyama"
+msgid "No, really. I think it's a great idea. I'm going to have to try it sometime."
+msgstr ""
+
+msgctxt "6192_Erena"
+msgid "Really? Just keep in mind, rose gold is my favorite."
+msgstr ""
+
+msgctxt "6204_Akiyama"
+msgid "I didn't say I'd give it to you, did I?"
+msgstr ""
+
+msgctxt "6216_Erena"
+msgid ""
+"Oh sure. You've got to keep it a secret or it isn't going to be a surprise. "
+"I understand. But I'll be lookin' forward to it."
+msgstr ""
+
+msgctxt "6228_Akiyama"
+msgid "You're an optimist, aren't you?"
+msgstr ""
+
+msgctxt "6240_Akiyama"
+msgid ""
+"I don't know... Putting it in her food? I'm not sure that's such a great "
+"idea."
+msgstr ""
+
+msgctxt "6252_Erena"
+msgid "Huh? Whaddya mean!?"
+msgstr ""
+
+msgctxt "6264_Akiyama"
+msgid "I mean, it's not very sanitary, is it?"
+msgstr ""
+
+msgctxt "6276_Erena"
+msgid "I wouldn't mind."
+msgstr ""
+
+msgctxt "6288_Akiyama"
+msgid ""
+"What if she swallows it before she notices it's in there? Or breaks a tooth "
+"on it?"
+msgstr ""
+
+msgctxt "6300_Erena"
+msgid "That wouldn't be good."
+msgstr ""
+
+msgctxt "6312_Akiyama"
+msgid "Still, I like the idea of surprising somebody with a present."
+msgstr ""
+
+msgctxt "6324_Erena"
+msgid "I know. I'm so jealous of her."
+msgstr ""
+
+msgctxt "6336_Akiyama"
+msgid "Your eyes sure are big, aren't they?"
+msgstr ""
+
+msgctxt "6348_Erena"
+msgid "Really? Actually, I get told that a lot."
+msgstr ""
+
+msgctxt "6360_Erena"
+msgid ""
+"People tell me to stop starin' at them because it feels like they'll be "
+"sucked in!"
+msgstr ""
+
+msgctxt "6372_Akiyama"
+msgid "Haha! I think I know what they mean. Your eyes are really cute."
+msgstr ""
+
+msgctxt "6384_Erena"
+msgid "Oh, I know."
+msgstr ""
+
+msgctxt "6396_Akiyama"
+msgid "Heheh. You seem happy."
+msgstr ""
+
+msgctxt "6408_Erena"
+msgid "What can I say? I love compliments, even if they aren't true."
+msgstr ""
+
+msgctxt "6420_Akiyama"
+msgid "Even if it's not true?"
+msgstr ""
+
+msgctxt "6432_Erena"
+msgid "I'm too stupid to be able to tell when somebody's lyin' to me anyway."
+msgstr ""
+
+msgctxt "6444_Akiyama"
+msgid "Heheh. Stupid people don't say they're stupid."
+msgstr ""
+
+msgctxt "6456_Erena"
+msgid "Really?"
+msgstr ""
+
+msgctxt "6468_Akiyama"
+msgid "Sure. They're too stupid to know it."
+msgstr ""
+
+msgctxt "6480_Erena"
+msgid "Haha! Maybe I'm not stupid after all."
+msgstr ""
+
+msgctxt "6492_Akiyama"
+msgid "Wait, you just noticed that? Maybe I should take back what I just said."
+msgstr ""
+
+msgctxt "6504_Erena"
+msgid "Hey! That's not fair!"
+msgstr ""
+
+msgctxt "6516_Akiyama"
+msgid "I'm no fan of empty flattery. It's just embarrassing."
+msgstr ""
+
+msgctxt "6528_Erena"
+msgid "Really? Don't let me down!"
+msgstr ""
+
+msgctxt "6540_Akiyama"
+msgid ""
+"I haven't exactly lived a perfect life, so when I hear it, I always think "
+"they have an ulterior motive."
+msgstr ""
+
+msgctxt "6552_Erena"
+msgid "That's not true. Yer a great guy!"
+msgstr ""
+
+msgctxt "6564_Akiyama"
+msgid ""
+"Even if I am, the people flattering me can't tell that just by looking at "
+"me, can they? They don't know what kind of life I've led."
+msgstr ""
+
+msgctxt "6576_Akiyama"
+msgid ""
+"That's particularly true in Kamurocho. You never know what people are up to "
+"around here."
+msgstr ""
+
+msgctxt "6588_Erena"
+msgid "Really? That's pretty scary..."
+msgstr ""
+
+msgctxt "6600_Erena"
+msgid "Tokyo can be kind of intimidatin'."
+msgstr ""
+
+msgctxt "6612_Akiyama"
+msgid "Yep, you sure are pretty."
+msgstr ""
+
+msgctxt "6624_Erena"
+msgid "Ya don't have to go that far. It just makes it sound like you're lyin'."
+msgstr ""
+
+msgctxt "6636_Akiyama"
+msgid "I thought you said you didn't mind if it wasn't true."
+msgstr ""
+
+msgctxt "6648_Erena"
+msgid "Huh!? Ya mean you were lyin'!?"
+msgstr ""
+
+msgctxt "6660_Akiyama"
+msgid "What do you think?"
+msgstr ""
+
+msgctxt "6672_Erena"
+msgid "Hehe, I'm happy either way."
+msgstr ""
+
+msgctxt "6684_Akiyama"
+msgid "You just want to be flattered, huh?"
+msgstr ""
+
+msgctxt "6696_Erena"
+msgid "You look like you're a strong drinker."
+msgstr ""
+
+msgctxt "6708_Akiyama"
+msgid "I suppose I am."
+msgstr ""
+
+msgctxt "6720_Erena"
+msgid "Really? Then by all means, drink up! Order something expensive!"
+msgstr ""
+
+msgctxt "6732_Akiyama"
+msgid ""
+"What're you saying? The more expensive the drink, the longer you want to "
+"take to drink it. You have to really savor it."
+msgstr ""
+
+msgctxt "6744_Erena"
+msgid "What do you usually like to drink?"
+msgstr ""
+
+msgctxt "6756_Akiyama"
+msgid "Well..."
+msgstr ""
+
+msgctxt "6768_Akiyama"
+msgid ""
+"Usually just canned beer. I'll buy some at a convenience store and have a "
+"little party by the roadside."
+msgstr ""
+
+msgctxt "6780_Erena"
+msgid "Wow, that's pretty cool. I've always wanted to try something like that."
+msgstr ""
+
+msgctxt "6792_Erena"
+msgid ""
+"I've never been able to drink in public without worrying what people might "
+"think."
+msgstr ""
+
+msgctxt "6804_Akiyama"
+msgid "Well, why don't you join me next time?"
+msgstr ""
+
+msgctxt "6816_Erena"
+msgid "Ooh, yes! Definitely gimme a call!"
+msgstr ""
+
+msgctxt "6828_Akiyama"
+msgid "It's a date then."
+msgstr ""
+
+msgctxt "6840_Erena"
+msgid "Promise!"
+msgstr ""
+
+msgctxt "6852_Akiyama"
+msgid "I like shochu. You know, sweet potato liquor?"
+msgstr ""
+
+msgctxt "6864_Erena"
+msgid "Really? You like shochu!?"
+msgstr ""
+
+msgctxt "6876_Akiyama"
+msgid "Sure. You too?"
+msgstr ""
+
+msgctxt "6888_Erena"
+msgid "I love it. It's probably the kind of liquor I drink the most."
+msgstr ""
+
+msgctxt "6900_Akiyama"
+msgid "It is good, isn't it? It's got a crisp, clear flavor."
+msgstr ""
+
+msgctxt "6912_Erena"
+msgid "But I usually start out with a cocktail, or a cassis orange."
+msgstr ""
+
+msgctxt "6924_Akiyama"
+msgid "Really? Why?"
+msgstr ""
+
+msgctxt "6936_Erena"
+msgid "I guess it's just because I think I look cute drinkin' them."
+msgstr ""
+
+msgctxt "6948_Akiyama"
+msgid "Heheh. I see..."
+msgstr ""
+
+msgctxt "6960_Akiyama"
+msgid "I drink a lot of whiskey. Bourbon, scotch. That kind of thing."
+msgstr ""
+
+msgctxt "6972_Erena"
+msgid "Wow. Those are some hard drinks. Most girls can't drink that sort of thing."
+msgstr ""
+
+msgctxt "6984_Akiyama"
+msgid "Yeah. I wonder why that is."
+msgstr ""
+
+msgctxt "6996_Erena"
+msgid "Maybe because they're brown?"
+msgstr ""
+
+msgctxt "7008_Akiyama"
+msgid "Haha! That's an interesting theory."
+msgstr ""
+
+msgctxt "7020_Erena"
+msgid ""
+"I mean, maybe we'd like 'em better if they were cute and colorful, like "
+"cocktails."
+msgstr ""
+
+msgctxt "7032_Akiyama"
+msgid ""
+"I see... That actually makes sense. You can be surprisingly perceptive "
+"sometimes."
+msgstr ""
+
+msgctxt "7044_Erena"
+msgid "Surprisingly? I think ya mean incredibly!"
+msgstr ""
+
+msgctxt "7056_Akiyama"
+msgid "Hahahah! All right, incredibly perceptive."
+msgstr ""
+
+msgctxt "7068_Erena"
+msgid "It must be nice to go on a date in Tokyo."
+msgstr ""
+
+msgctxt "7080_Akiyama"
+msgid "Depends on where you go."
+msgstr ""
+
+msgctxt "7092_Erena"
+msgid " But there're lots of romantic spots, aren't there?"
+msgstr ""
+
+msgctxt "7104_Erena"
+msgid "What kind of place would you take me if we were goin' on a date?"
+msgstr ""
+
+msgctxt "7116_Akiyama"
+msgid "Well..."
+msgstr ""
+
+msgctxt "7128_Akiyama"
+msgid "Somewhere with beautiful night scenery. I guess that's pretty normal though."
+msgstr ""
+
+msgctxt "7140_Erena"
+msgid "That sounds nice. I love going for a drive at night."
+msgstr ""
+
+msgctxt "7152_Akiyama"
+msgid "Would you like to go with me sometime, then?"
+msgstr ""
+
+msgctxt "7164_Erena"
+msgid "Sure. Only..."
+msgstr ""
+
+msgctxt "7176_Akiyama"
+msgid "What?"
+msgstr ""
+
+msgctxt "7188_Erena"
+msgid ""
+"You make sure ya keep your eyes on the road. I'll be the one enjoying the "
+"scenery."
+msgstr ""
+
+msgctxt "7200_Akiyama"
+msgid "Heheh. All right."
+msgstr ""
+
+msgctxt "7212_Akiyama"
+msgid "Someplace with great food. I need to enjoy myself, too."
+msgstr ""
+
+msgctxt "7224_Erena"
+msgid "Haha! That's so like you. But we gotta like the same kinda food then."
+msgstr ""
+
+msgctxt "7236_Akiyama"
+msgid ""
+"I'm not much for fancy restaurants. I'm happy just going to a cheap café or "
+"something."
+msgstr ""
+
+msgctxt "7248_Akiyama"
+msgid "There's a place not too far from here that makes great chicken pilaf."
+msgstr ""
+
+msgctxt "7260_Erena"
+msgid "Yuck! I hate chicken pilaf! It's got green peas in it, for one thing!"
+msgstr ""
+
+msgctxt "7272_Erena"
+msgid ""
+"Besides, that kinda place doesn't have atmosphere! I'd want someplace more "
+"romantic."
+msgstr ""
+
+msgctxt "7284_Akiyama"
+msgid "That's a secret."
+msgstr ""
+
+msgctxt "7296_Erena"
+msgid "Huh? Why?"
+msgstr ""
+
+msgctxt "7308_Akiyama"
+msgid "You'll see when we actually go on a date."
+msgstr ""
+
+msgctxt "7320_Erena"
+msgid "Now you got me all curious! That's not fair!"
+msgstr ""
+
+msgctxt "7332_Akiyama"
+msgid "Let's see... First, we'll go there. And then there..."
+msgstr ""
+
+msgctxt "7344_Akiyama"
+msgid "Oh, and we can't forget to go there. Everybody loves that place..."
+msgstr ""
+
+msgctxt "7356_Erena"
+msgid "Grr... I really wanna know what you're talking about now! Ya gotta take me!"
+msgstr ""
+
+msgctxt "7368_Akiyama"
+msgid "Heheh."
+msgstr ""
+
+msgctxt "7380_Akiyama"
+msgid "How old are you, Erena?"
+msgstr ""
+
+msgctxt "7392_Erena"
+msgid "Me? I'll be 25 later this year."
+msgstr ""
+
+msgctxt "7404_Akiyama"
+msgid "So you're 24 now."
+msgstr ""
+
+msgctxt "7416_Erena"
+msgid ""
+"That's right. I'm getting to the point where my skin is startin' to show "
+"its age."
+msgstr ""
+
+msgctxt "7428_Erena"
+msgid "But I'm taking supplements and tryin' to drink plenty of water every day."
+msgstr ""
+
+msgctxt "7440_Akiyama"
+msgid "They say that drinking water is good."
+msgstr ""
+
+msgctxt "7452_Erena"
+msgid "I know! I'm trying to drink at least two glasses a day!"
+msgstr ""
+
+msgctxt "7464_Akiyama"
+msgid ""
+"Two glasses? That's not very much. I thought you were supposed to drink "
+"eight glasses a day."
+msgstr ""
+
+msgctxt "7476_Erena"
+msgid "Well, I don't like water very much."
+msgstr ""
+
+msgctxt "7488_Erena"
+msgid "But I'm doin' my best to have at least two glasses every day."
+msgstr ""
+
+msgctxt "7500_Akiyama"
+msgid "Heheh. So that's your version of trying hard, huh?"
+msgstr ""
+
+msgctxt "7512_Erena"
+msgid "Yep! Ya gotta give me credit for tryin', at least!"
+msgstr ""
+
+msgctxt "7524_Erena"
+msgid "If I'm not careful, I'll be thirty before I know it."
+msgstr ""
+
+msgctxt "7536_Akiyama"
+msgid "That's true. It happened to me."
+msgstr ""
+
+msgctxt "7548_Erena"
+msgid "Really? Maybe you should start taking some supplements with me."
+msgstr ""
+
+msgctxt "7560_Akiyama"
+msgid "Heh, I'll think about it."
+msgstr ""
+
+msgctxt "7572_Akiyama"
+msgid "You don't need it. Your skin looks perfect."
+msgstr ""
+
+msgctxt "7584_Erena"
+msgid "Oh no. You're just sayin' that."
+msgstr ""
+
+msgctxt "7596_Akiyama"
+msgid "No, I mean it."
+msgstr ""
+
+msgctxt "7608_Erena"
+msgid ""
+"Thanks, but I can't wait till things start going bad. I have to act now, "
+"while there's still time."
+msgstr ""
+
+msgctxt "7620_Akiyama"
+msgid "I suppose that's true."
+msgstr ""
+
+msgctxt "7632_Erena"
+msgid ""
+"Course it is! That's why I'm doin' my best to make sure my skin stays this "
+"way!"
+msgstr ""
+
+msgctxt "7644_Akiyama"
+msgid "Good luck."
+msgstr ""
+
+msgctxt "7656_Akiyama"
+msgid "It takes more than just water. You have to make sure you eat well, too."
+msgstr ""
+
+msgctxt "7668_Erena"
+msgid "Oh, I know. I'm not on a diet or anything."
+msgstr ""
+
+msgctxt "7680_Akiyama"
+msgid "But you think it's okay to drink as much alcohol as you want?"
+msgstr ""
+
+msgctxt "7692_Erena"
+msgid "Well, that's true. I think I drink more alcohol than water!"
+msgstr ""
+
+msgctxt "7704_Akiyama"
+msgid "That can't be good for your skin, can it?"
+msgstr ""
+
+msgctxt "7716_Erena"
+msgid "Even if it isn't, I can't very well have this job and not drink, can I?"
+msgstr ""
+
+msgctxt "7728_Erena"
+msgid "I wonder if there're any drinks that are good for your skin too..."
+msgstr ""
+
+msgctxt "7740_Erena"
+msgid "I really like Tokyo."
+msgstr ""
+
+msgctxt "7752_Akiyama"
+msgid "Oh? Why?"
+msgstr ""
+
+msgctxt "7764_Erena"
+msgid "Well, because people walk faster here."
+msgstr ""
+
+msgctxt "7776_Akiyama"
+msgid "Yeah, you said that before."
+msgstr ""
+
+msgctxt "7788_Erena"
+msgid "I think it's partly because Kyoto's full of tourists."
+msgstr ""
+
+msgctxt "7800_Erena"
+msgid ""
+"This may sound bad, but they walk so slowly that I just wanna kill them "
+"sometimes!"
+msgstr ""
+
+msgctxt "7812_Akiyama"
+msgid ""
+"Yeah. If you're sightseeing, you're going to want to take your time and see "
+"everything."
+msgstr ""
+
+msgctxt "7824_Erena"
+msgid ""
+"Plus, I'm the high-strung type, so if I get stuck behind somebody, I get "
+"real annoyed."
+msgstr ""
+
+msgctxt "7836_Akiyama"
+msgid "You're that high-strung?"
+msgstr ""
+
+msgctxt "7848_Erena"
+msgid "Yeah... My family keeps tellin' me to slow down and relax."
+msgstr ""
+
+msgctxt "7860_Akiyama"
+msgid ""
+"If your family says that, you must really be bad. You'd think they'd be "
+"used to it by now."
+msgstr ""
+
+msgctxt "7872_Erena"
+msgid "Do you prefer girls who are more laid-back?"
+msgstr ""
+
+msgctxt "7884_Akiyama"
+msgid "Well, I don't know."
+msgstr ""
+
+msgctxt "7896_Erena"
+msgid "Which is it?"
+msgstr ""
+
+msgctxt "7908_Erena"
+msgid "The laid-back type, right?"
+msgstr ""
+
+msgctxt "7920_Erena"
+msgid "Yeah, I thought so. Figured ya like girls who are a little more laid-back."
+msgstr ""
+
+msgctxt "7932_Akiyama"
+msgid ""
+"You certainly are high-strung. You can't even wait for me to answer your "
+"question!"
+msgstr ""
+
+msgctxt "7944_Erena"
+msgid "Hahahah! You're right. I got it bad."
+msgstr ""
+
+msgctxt "7956_Akiyama"
+msgid "I don't really care either way. I could like both types of girls."
+msgstr ""
+
+msgctxt "7968_Erena"
+msgid "Really? That's pretty open-minded of you."
+msgstr ""
+
+msgctxt "7980_Akiyama"
+msgid "What about you? You prefer high-strung men, I suppose?"
+msgstr ""
+
+msgctxt "7992_Erena"
+msgid "You're right..."
+msgstr ""
+
+msgctxt "8004_Erena"
+msgid "I just can't deal with men who are too laid-back."
+msgstr ""
+
+msgctxt "8016_Erena"
+msgid "I'd probably get annoyed with him any time we walked somewhere together."
+msgstr ""
+
+msgctxt "8028_Akiyama"
+msgid "I see."
+msgstr ""
+
+msgctxt "8040_Akiyama"
+msgid ""
+"Of course I do. I think most men probably like women who are a little "
+"laid-back."
+msgstr ""
+
+msgctxt "8052_Erena"
+msgid "Yeah, I thought so. Men seem to like that kind of thing."
+msgstr ""
+
+msgctxt "8064_Erena"
+msgid "That's why I try not to let 'em see how high-strung I am."
+msgstr ""
+
+msgctxt "8076_Akiyama"
+msgid "You can do that?"
+msgstr ""
+
+msgctxt "8088_Erena"
+msgid "Sometimes it's tricky. I can get kinda stressed out."
+msgstr ""
+
+msgctxt "8100_Erena"
+msgid "Ugh. What should I do?"
+msgstr ""
+
+msgctxt "8112_Erena"
+msgid "Ugh, this is so annoying..."
+msgstr ""
+
+msgctxt "8124_Akiyama"
+msgid "What is it? Did I do something wrong?"
+msgstr ""
+
+msgctxt "8136_Erena"
+msgid "Oh, I'm sorry. It's got nothing to do with you. It's just my sister..."
+msgstr ""
+
+msgctxt "8148_Akiyama"
+msgid "What about her?"
+msgstr ""
+
+msgctxt "8160_Erena"
+msgid "She came to Tokyo recently, and we've been living together."
+msgstr ""
+
+msgctxt "8172_Akiyama"
+msgid "I see. And you're already fighting?"
+msgstr ""
+
+msgctxt "8184_Erena"
+msgid ""
+"Well... I don't know if I'd call it a fight, exactly. She's just bein' a "
+"big baby."
+msgstr ""
+
+msgctxt "8196_Akiyama"
+msgid "Haha."
+msgstr ""
+
+msgctxt "8208_Erena"
+msgid ""
+"I've been running myself ragged gettin' everything ready for her, but she "
+"won't lift a finger."
+msgstr ""
+
+msgctxt "8220_Erena"
+msgid "It isn't new, of course."
+msgstr ""
+
+msgctxt "8232_Akiyama"
+msgid ""
+"It sounds like you're having fun. I bet you like being with her a lot "
+"better than living alone."
+msgstr ""
+
+msgctxt "8244_Erena"
+msgid "Well, to tell ya the truth..."
+msgstr ""
+
+msgctxt "8256_Erena"
+msgid "It's not that fun."
+msgstr ""
+
+msgctxt "8268_Akiyama"
+msgid "No? But you haven't seen your sister for quite a while, right?"
+msgstr ""
+
+msgctxt "8280_Erena"
+msgid "That's true, but... Oh, maybe I'm just tired."
+msgstr ""
+
+msgctxt "8292_Akiyama"
+msgid ""
+"Don't push yourself too hard. But you're her big sister and you've been in "
+"Tokyo longer, so you should try and help her out a bit."
+msgstr ""
+
+msgctxt "8304_Erena"
+msgid "I suppose you're right..."
+msgstr ""
+
+msgctxt "8316_Akiyama"
+msgid "You must be tired. You can get irritable when you're tired."
+msgstr ""
+
+msgctxt "8328_Erena"
+msgid "Hmm. Maybe I am. I've had to deal with her and my boyfriend, too."
+msgstr ""
+
+msgctxt "8340_Akiyama"
+msgid ""
+"And you're living in unfamiliar surroundings. You could try going back to "
+"Kyoto for a visit."
+msgstr ""
+
+msgctxt "8352_Erena"
+msgid ""
+"That's true. I'm not exactly homesick, but I would like to see my family "
+"again."
+msgstr ""
+
+msgctxt "8364_Erena"
+msgid ""
+"But I can't leave now. Not when my sister just came all the way here to be "
+"with me."
+msgstr ""
+
+msgctxt "8376_Akiyama"
+msgid ""
+"Oh, right... Well, how about going on a little sightseeing tour of Tokyo "
+"together, then?"
+msgstr ""
+
+msgctxt "8388_Erena"
+msgid "You're right. I think I'll sleep on it."
+msgstr ""
+
+msgctxt "8400_Akiyama"
+msgid "You should make up with her. You're living together, after all."
+msgstr ""
+
+msgctxt "8412_Erena"
+msgid "You're right. But we actually get along pretty well most of the time."
+msgstr ""
+
+msgctxt "8424_Akiyama"
+msgid "You just want a little more consideration."
+msgstr ""
+
+msgctxt "8436_Erena"
+msgid ""
+"That's it. She's a big girl now. She should be able to take care of "
+"herself－it's for her own good."
+msgstr ""
+
+msgctxt "8448_Akiyama"
+msgid "You sound like a surprisingly good big sister."
+msgstr ""
+
+msgctxt "8460_Erena"
+msgid "I knew you'd understand."
+msgstr ""
+
+msgctxt "8472_Erena"
+msgid ""
+"Speakin' of which, my sister said she wanted to go shopping. Maybe I'll go "
+"with her."
+msgstr ""
+
+msgctxt "8484_Akiyama"
+msgid "By the way, how are things with your boyfriend?"
+msgstr ""
+
+msgctxt "8496_Erena"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "8508_Erena"
+msgid "......"
+msgstr ""
+
+msgctxt "8520_Erena"
+msgid "Okay, I guess."
+msgstr ""
+
+msgctxt "8532_Akiyama"
+msgid "Really? That's not the impression I'm getting."
+msgstr ""
+
+msgctxt "8544_Erena"
+msgid "You're pretty perceptive."
+msgstr ""
+
+msgctxt "8556_Akiyama"
+msgid "You're just easy to read."
+msgstr ""
+
+msgctxt "8568_Erena"
+msgid "Hahah. Yes, I'm not a very good liar."
+msgstr ""
+
+msgctxt "8580_Akiyama"
+msgid "Hehe. So I take it things aren't going very well?"
+msgstr ""
+
+msgctxt "8592_Erena"
+msgid "Well... Maybe I jumped into this relationship a little too quickly."
+msgstr ""
+
+msgctxt "8604_Akiyama"
+msgid ""
+"I told you so. I mean, he just picked you up off the street, right? You "
+"didn't really know him at all."
+msgstr ""
+
+msgctxt "8616_Erena"
+msgid "That's true. But he sure seemed like a nice guy at first."
+msgstr ""
+
+msgctxt "8628_Akiyama"
+msgid ""
+"What about now? Now that you know him a little better, do you think he's "
+"not for you, or are you still not sure?"
+msgstr ""
+
+msgctxt "8640_Erena"
+msgid ""
+"Hmm. I'm not sure. But I also don't see things gettin' much better in the "
+"future."
+msgstr ""
+
+msgctxt "8652_Akiyama"
+msgid "I see. Then maybe you're better off just ending it now."
+msgstr ""
+
+msgctxt "8664_Erena"
+msgid "Yeah. I'm gonna give it a little more thought."
+msgstr ""
+
+msgctxt "8676_Erena"
+msgid ""
+"Thanks for listening to me. I can't talk about this with my sister, so it "
+"helped a lot."
+msgstr ""
+
+msgctxt "8688_Akiyama"
+msgid ""
+"Maybe you're just working too hard at it. You were buying clothes just to "
+"suit his taste after all."
+msgstr ""
+
+msgctxt "8700_Akiyama"
+msgid ""
+"If the other person doesn't react the way you hoped, sometimes it can be "
+"disappointing."
+msgstr ""
+
+msgctxt "8712_Erena"
+msgid "You really are perceptive."
+msgstr ""
+
+msgctxt "8724_Erena"
+msgid ""
+"That's it exactly. I always do my best to change myself to match my "
+"boyfriends' tastes, but in the end I just get tired of it."
+msgstr ""
+
+msgctxt "8736_Akiyama"
+msgid "I see..."
+msgstr ""
+
+msgctxt "8748_Erena"
+msgid "But at least I've got you!"
+msgstr ""
+
+msgctxt "8760_Akiyama"
+msgid "Hm? What do you mean?"
+msgstr ""
+
+msgctxt "8772_Erena"
+msgid "Even if I break up with him, I can always start seein' you, right?"
+msgstr ""
+
+msgctxt "8784_Akiyama"
+msgid "Hey! So I'm like your insurance policy or something?"
+msgstr ""
+
+msgctxt "8796_Akiyama"
+msgid "Are you breaking up with him already?"
+msgstr ""
+
+msgctxt "8808_Erena"
+msgid "Oh. That... I haven't decided."
+msgstr ""
+
+msgctxt "8820_Akiyama"
+msgid ""
+"So it hasn't gotten that bad yet, huh? Still, sometimes it's better to end "
+"things quickly rather than having them drag on forever."
+msgstr ""
+
+msgctxt "8832_Erena"
+msgid "I just don't know. Should I break up with him?"
+msgstr ""
+
+msgctxt "8844_Akiyama"
+msgid "How about you break up with your boyfriend and start going out with me?"
+msgstr ""
+
+msgctxt "8856_Erena"
+msgid "I'm sorry, but I'm not in the mood for that kind of joke right now."
+msgstr ""
+
+msgctxt "8868_Akiyama"
+msgid "Who's joking?"
+msgstr ""
+
+msgctxt "8880_Erena"
+msgid "Do you mind if I ask you something?"
+msgstr ""
+
+msgctxt "8892_Akiyama"
+msgid "Hm? What?"
+msgstr ""
+
+msgctxt "8904_Erena"
+msgid "A while ago my boyfriend and I were watching a DVD. It was a horror movie."
+msgstr ""
+
+msgctxt "8916_Erena"
+msgid ""
+"Anyway, I was eating a big plate of stir-fried noodles while we were "
+"watchin'."
+msgstr ""
+
+msgctxt "8928_Akiyama"
+msgid "Noodles, huh?"
+msgstr ""
+
+msgctxt "8940_Erena"
+msgid ""
+"My boyfriend seemed real shocked that I could eat while watching that kinda "
+"movie."
+msgstr ""
+
+msgctxt "8952_Erena"
+msgid "You think that's such a strange thing to do?"
+msgstr ""
+
+msgctxt "8964_Akiyama"
+msgid "That's not such a big deal. It wouldn't bother me at all."
+msgstr ""
+
+msgctxt "8976_Erena"
+msgid "Really? But I should've known better."
+msgstr ""
+
+msgctxt "8988_Akiyama"
+msgid ""
+"He's a jerk if he's going to make a big deal about something little like "
+"that."
+msgstr ""
+
+msgctxt "9000_Erena"
+msgid "Ya really think so?"
+msgstr ""
+
+msgctxt "9012_Akiyama"
+msgid "Yeah, it's really nothing to get upset about."
+msgstr ""
+
+msgctxt "9024_Erena"
+msgid "Oh, okay. I'll try and forget about it then."
+msgstr ""
+
+msgctxt "9036_Akiyama"
+msgid ""
+"I'd be a little surprised too. Noodles don't exactly go well with horror "
+"movies, if you know what I mean."
+msgstr ""
+
+msgctxt "9048_Erena"
+msgid "Really!? Ya think so too?"
+msgstr ""
+
+msgctxt "9060_Akiyama"
+msgid "Well, it's just my opinion, but..."
+msgstr ""
+
+msgctxt "9072_Erena"
+msgid ""
+"I'll just have to not eat anything while we're watching DVDs. Hope I can "
+"stand the hunger."
+msgstr ""
+
+msgctxt "9084_Akiyama"
+msgid "Why don't you just skip the horror films from now on?"
+msgstr ""
+
+msgctxt "9096_Akiyama"
+msgid ""
+"It must've been a pretty boring movie. If he was focused on the movie, he "
+"wouldn't even have noticed what you were doing."
+msgstr ""
+
+msgctxt "9108_Erena"
+msgid "Well, it's true that it wasn't very good, but..."
+msgstr ""
+
+msgctxt "9120_Akiyama"
+msgid ""
+"You don't really notice the person next to you in the movie theater when "
+"they're eating popcorn, right? It's the same thing."
+msgstr ""
+
+msgctxt "9132_Erena"
+msgid ""
+"Yeah, I think I know what you mean! It always bothers me before the movie "
+"starts, but once the lights go down, I can just tune it right out."
+msgstr ""
+
+msgctxt "9144_Akiyama"
+msgid "Exactly. I think the problem was the movie you were watching."
+msgstr ""
+
+msgctxt "9156_Erena"
+msgid "I see! I've got to go rent a different DVD and see what happens."
+msgstr ""
+
+msgctxt "9168_Erena"
+msgid "But I don't want it to be too interesting. Then I'll forget about eatin'."
+msgstr ""
+
+msgctxt "9180_Akiyama"
+msgid "Do you cook at home much?"
+msgstr ""
+
+msgctxt "9192_Erena"
+msgid "Cook?"
+msgstr ""
+
+msgctxt "9204_Erena"
+msgid "I may not look it, but I actually cook a lot."
+msgstr ""
+
+msgctxt "9216_Akiyama"
+msgid "Heheh. Why do you look so happy?"
+msgstr ""
+
+msgctxt "9228_Erena"
+msgid "I like it when people are surprised I can cook."
+msgstr ""
+
+msgctxt "9240_Erena"
+msgid ""
+"It's better if you look like you can't cook. Then people are more impressed "
+"when they find out that ya can."
+msgstr ""
+
+msgctxt "9252_Akiyama"
+msgid "Heheh, I see."
+msgstr ""
+
+msgctxt "9264_Erena"
+msgid "Makes sense, right?"
+msgstr ""
+
+msgctxt "9276_Akiyama"
+msgid "It's great when women can cook. They become pretty popular, too."
+msgstr ""
+
+msgctxt "9288_Erena"
+msgid ""
+"Yeah, I think I'd do just fine in that department. I even got all my own "
+"pots and pans."
+msgstr ""
+
+msgctxt "9300_Erena"
+msgid ""
+"People tell me I make a pretty good omurice. Oh, and I make a mean hamburg "
+"steak, too."
+msgstr ""
+
+msgctxt "9312_Akiyama"
+msgid "Really... That's good."
+msgstr ""
+
+msgctxt "9324_Erena"
+msgid "I know. Maybe I'll whip something up for ya sometime."
+msgstr ""
+
+msgctxt "9336_Akiyama"
+msgid "Sure. It's been a long time since I've last had a home-cooked meal."
+msgstr ""
+
+msgctxt "9348_Erena"
+msgid "Hahahah! I was just kiddin' about that last part. Sorry!"
+msgstr ""
+
+msgctxt "9360_Akiyama"
+msgid "......"
+msgstr ""
+
+msgctxt "9372_Akiyama"
+msgid ""
+"So you try to look like you can't cook? What's wrong with letting people "
+"know that you can cook right from the beginning?"
+msgstr ""
+
+msgctxt "9384_Erena"
+msgid "Bein' all ladylike isn't really my style."
+msgstr ""
+
+msgctxt "9396_Akiyama"
+msgid "Hey, I thought Kyoto girls were supposed to be elegant."
+msgstr ""
+
+msgctxt "9408_Erena"
+msgid "Oh, come on. Ya know girls from Kyoto aren't really like that, right?"
+msgstr ""
+
+msgctxt "9420_Akiyama"
+msgid "I see..."
+msgstr ""
+
+msgctxt "9432_Akiyama"
+msgid "You can't fool me. I know what you're really like."
+msgstr ""
+
+msgctxt "9444_Erena"
+msgid "Hahahah! Don't say that. You'll gimme a bad reputation."
+msgstr ""
+
+msgctxt "9456_Erena"
+msgid ""
+"But now that you know that I can cook, I bet you've changed your opinion of "
+"me, haven't ya?"
+msgstr ""
+
+msgctxt "9468_Akiyama"
+msgid "I suppose I have. I like you even more now."
+msgstr ""
+
+msgctxt "9480_Erena"
+msgid "Ooh, I like the sound of that. Go on..."
+msgstr ""
+
+msgctxt "9492_Akiyama"
+msgid "I'd like to try your cooking sometime."
+msgstr ""
+
+msgctxt "9504_Erena"
+msgid ""
+"That's going to have to wait till we know each other a bit more. I don't "
+"cook for just anybody, ya know."
+msgstr ""
+
+msgctxt "9516_Erena"
+msgid ""
+"My little sister went to a flea market the other day and ran into one of "
+"her friends from high school! She was sellin' some things there."
+msgstr ""
+
+msgctxt "9528_Akiyama"
+msgid "Oh? And?"
+msgstr ""
+
+msgctxt "9540_Erena"
+msgid "Then she looked at what her friend was selling..."
+msgstr ""
+
+msgctxt "9552_Akiyama"
+msgid "What was it?"
+msgstr ""
+
+msgctxt "9564_Erena"
+msgid ""
+"Well, she was sellin' a picture frame that my sister'd given her for her "
+"birthday!"
+msgstr ""
+
+msgctxt "9576_Akiyama"
+msgid "Ouch. That's not very nice."
+msgstr ""
+
+msgctxt "9588_Erena"
+msgid "No, it isn't. I think it's terrible."
+msgstr ""
+
+msgctxt "9600_Akiyama"
+msgid "Yep. That's not bein' nice at all, if ya ask me."
+msgstr ""
+
+msgctxt "9612_Erena"
+msgid "Haha! I think you're startin' to sound like me!"
+msgstr ""
+
+msgctxt "9624_Akiyama"
+msgid "Heheh. Maybe your accent is starting to rub off on me."
+msgstr ""
+
+msgctxt "9636_Erena"
+msgid "I just love it when people from Tokyo try and talk using the Kansai accent."
+msgstr ""
+
+msgctxt "9648_Akiyama"
+msgid "Really? Why?"
+msgstr ""
+
+msgctxt "9660_Erena"
+msgid "Oh, I dunno. It's just cute."
+msgstr ""
+
+msgctxt "9672_Akiyama"
+msgid ""
+"Don't some people hate fake Kansai accents though? I mean, doesn't it "
+"irritate people from Kansai?"
+msgstr ""
+
+msgctxt "9684_Akiyama"
+msgid ""
+"I've heard some people say that they don't want people from Tokyo trying to "
+"speak like them."
+msgstr ""
+
+msgctxt "9696_Erena"
+msgid "Oh, I guess some people are like that."
+msgstr ""
+
+msgctxt "9708_Erena"
+msgid ""
+"But I think it's adorable when people make all kindsa mistakes tryin' to "
+"speak it."
+msgstr ""
+
+msgctxt "9720_Akiyama"
+msgid "So you do think I'm bad at it?"
+msgstr ""
+
+msgctxt "9732_Erena"
+msgid "Don't feel bad. I wouldn't want ya to get any better at it than ya are."
+msgstr ""
+
+msgctxt "9744_Akiyama"
+msgid "I think I'll quit using it..."
+msgstr ""
+
+msgctxt "9756_Akiyama"
+msgid ""
+"There's nothing cute about a Kansai accent. I could maybe understand if it "
+"was a girl speaking it, but a man?"
+msgstr ""
+
+msgctxt "9768_Erena"
+msgid "Really? Why do you think that?"
+msgstr ""
+
+msgctxt "9780_Akiyama"
+msgid ""
+"I've always thought the Kansai accent sounded kind of harsh. It sounds like "
+"you're always angry."
+msgstr ""
+
+msgctxt "9792_Akiyama"
+msgid ""
+"Sometimes young punks try to fake a Kansai accent. They think it makes them "
+"sound tough. I hate it."
+msgstr ""
+
+msgctxt "9804_Erena"
+msgid ""
+"Wow. I can't believe you don't appreciate the Kansai accent like I do... "
+"I'm kind of shocked."
+msgstr ""
+
+msgctxt "9816_Akiyama"
+msgid "Lemme take ya out to eat!"
+msgstr ""
+
+msgctxt "9828_Erena"
+msgid "Haha! You're getting pretty good!"
+msgstr ""
+
+msgctxt "9840_Akiyama"
+msgid "Really? That was good?"
+msgstr ""
+
+msgctxt "9852_Erena"
+msgid ""
+"Well, to me, there isn't anything special about people from Kansai speaking "
+"in a Kansai accent. It just sounds natural."
+msgstr ""
+
+msgctxt "9864_Erena"
+msgid ""
+"But when I see somebody from Tokyo tryin' so hard to do it, it's just "
+"adorable."
+msgstr ""
+
+msgctxt "9876_Akiyama"
+msgid "Heheh. I see."
+msgstr ""
+
+msgctxt "9888_Erena"
+msgid "Uh-oh. I'm starvin'."
+msgstr ""
+
+msgctxt "9900_Akiyama"
+msgid "You haven't eaten recently?"
+msgstr ""
+
+msgctxt "9912_Erena"
+msgid "I ate, but it wasn't enough."
+msgstr ""
+
+msgctxt "9924_Akiyama"
+msgid "Heheh. Dieting, are you?"
+msgstr ""
+
+msgctxt "9936_Erena"
+msgid "No, it isn't that. I may not look it, but I'm actually a pretty big eater."
+msgstr ""
+
+msgctxt "9948_Erena"
+msgid "I had a normal meal, but I guess it wasn't enough for me today."
+msgstr ""
+
+msgctxt "9960_Akiyama"
+msgid "You eat that much?"
+msgstr ""
+
+msgctxt "9972_Erena"
+msgid "Yeah. Everybody who knows me says I got a huge appetite."
+msgstr ""
+
+msgctxt "9984_Akiyama"
+msgid "You certainly don't look it."
+msgstr ""
+
+msgctxt "9996_Erena"
+msgid "I know! I'm so small that everybody's always shocked when they find out."
+msgstr ""
+
+msgctxt "10008_Akiyama"
+msgid "Are you a picky eater?"
+msgstr ""
+
+msgctxt "10020_Erena"
+msgid "Not really. I just hate green peas."
+msgstr ""
+
+msgctxt "10032_Akiyama"
+msgid ""
+"Hmm... They say that your parents' eating habits can have a big effect on "
+"you."
+msgstr ""
+
+msgctxt "10044_Akiyama"
+msgid ""
+"If your parents aren't picky eaters, you're more likely to grow up eating a "
+"large variety of food."
+msgstr ""
+
+msgctxt "10056_Erena"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "10068_Akiyama"
+msgid "It sounds like you'd make a good mother someday."
+msgstr ""
+
+msgctxt "10080_Erena"
+msgid "Really? Thanks!"
+msgstr ""
+
+msgctxt "10092_Akiyama"
+msgid "But you'll have to work on eating peas."
+msgstr ""
+
+msgctxt "10104_Erena"
+msgid "Ugh... That's one thing I can't do."
+msgstr ""
+
+msgctxt "10116_Akiyama"
+msgid "You want something to eat? I can order you something."
+msgstr ""
+
+msgctxt "10128_Erena"
+msgid "Huh? Really?"
+msgstr ""
+
+msgctxt "10140_Akiyama"
+msgid "Sure. Order whatever you like."
+msgstr ""
+
+msgctxt "10152_Erena"
+msgid "You're so nice! Maybe I'll have some <Color:7>Dried Ray Fin<Color:Default>!"
+msgstr ""
+
+msgctxt "10164_Erena"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "10188_Erena"
+msgid "真っ黒中。フラグ立てたりWdrResetしたり。"
+msgstr ""
+
+msgctxt "10224_Erena"
+msgid "That was great!"
+msgstr ""
+
+msgctxt "10236_Akiyama"
+msgid "Heheh. Feeling better now?"
+msgstr ""
+
+msgctxt "10248_Erena"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "10260_Akiyama"
+msgid "You eat pretty fast, don't you?"
+msgstr ""
+
+msgctxt "10272_Erena"
+msgid "Teehee. ♪ Yep!"
+msgstr ""
+
+msgctxt "10284_Erena"
+msgid "People say I should enter a speed eatin' contest."
+msgstr ""
+
+msgctxt "10296_Akiyama"
+msgid "Maybe you could slow down just a bit."
+msgstr ""
+
+msgctxt "10308_Akiyama"
+msgid "Oh, sorry. I don't have enough money."
+msgstr ""
+
+msgctxt "10320_Erena"
+msgid "What!? Really? But you look like a guy who has lotsa money."
+msgstr ""
+
+msgctxt "10332_Akiyama"
+msgid "Heheh. Sorry. Maybe next time."
+msgstr ""
+
+msgctxt "10344_Erena"
+msgid "Gah... I shouldn't have gotten my hopes up. Now I'm hungrier than before."
+msgstr ""
+
+msgctxt "10356_Akiyama"
+msgid ""
+"You'll just have to grin and bear it for now. They say you shouldn't eat "
+"your fill anyway."
+msgstr ""
+
+msgctxt "10368_Erena"
+msgid ""
+"But I'm not even close to being full. My stomach's halfway empty, and it's "
+"gettin' worse!"
+msgstr ""
+
+msgctxt "10380_Akiyama"
+msgid ""
+"Snacking isn't good for you, you know. It's better if you eat more at each "
+"meal."
+msgstr ""
+
+msgctxt "10392_Erena"
+msgid "Really? But I want to eat now... What should I do?"
+msgstr ""
+
+msgctxt "10404_Akiyama"
+msgid "Wait until your next meal."
+msgstr ""
+
+msgctxt "10416_Erena"
+msgid "Seriously!? But I'm starvin'..."
+msgstr ""
+
+msgctxt "10428_Erena"
+msgid "Oh no... I just remembered something terrible."
+msgstr ""
+
+msgctxt "10440_Akiyama"
+msgid "What?"
+msgstr ""
+
+msgctxt "10452_Erena"
+msgid ""
+"I met someone I know from Kyoto a little while ago. She was in Tokyo for "
+"some sightseeing."
+msgstr ""
+
+msgctxt "10464_Akiyama"
+msgid "I see. Did something happen between you two?"
+msgstr ""
+
+msgctxt "10476_Erena"
+msgid "Well... To tell you the truth, she's someone I didn't really want to see."
+msgstr ""
+
+msgctxt "10488_Akiyama"
+msgid "Huh..."
+msgstr ""
+
+msgctxt "10500_Akiyama"
+msgid "Did she steal a boyfriend from you or something?"
+msgstr ""
+
+msgctxt "10512_Erena"
+msgid "No, nothin' like that. I used to know her in junior high."
+msgstr ""
+
+msgctxt "10524_Akiyama"
+msgid "I see. What do you think?"
+msgstr ""
+
+msgctxt "10536_Erena"
+msgid "Sorry, but could we change the subject?"
+msgstr ""
+
+msgctxt "10548_Akiyama"
+msgid "Oh, uh, sure... I'm sorry. I didn't mean to be so insensitive."
+msgstr ""
+
+msgctxt "10560_Akiyama"
+msgid "Did she used to bully you or something?"
+msgstr ""
+
+msgctxt "10572_Erena"
+msgid "Well... Yeah, that's basically it."
+msgstr ""
+
+msgctxt "10584_Akiyama"
+msgid "I see. I can understand why you wouldn't want to see her then."
+msgstr ""
+
+msgctxt "10596_Erena"
+msgid ""
+"She used to be my friend in junior high, but somewhere along the line she "
+"started bullyin' me.  I don't have the slightest clue why."
+msgstr ""
+
+msgctxt "10608_Akiyama"
+msgid "She just started bullying you all of a sudden?"
+msgstr ""
+
+msgctxt "10620_Erena"
+msgid "Yeah. We used to get along fine, too."
+msgstr ""
+
+msgctxt "10632_Akiyama"
+msgid ""
+"Then she probably wasn't too happy to see you, either.\r\n"
+"How did she seem when you saw her?"
+msgstr ""
+
+msgctxt "10644_Erena"
+msgid "Well, normal, I guess. Maybe she forgot what she did to me."
+msgstr ""
+
+msgctxt "10656_Akiyama"
+msgid "I see... Maybe she didn't really mean to bully you at all."
+msgstr ""
+
+msgctxt "10668_Erena"
+msgid "Are you saying I was just imagining it? I don't know."
+msgstr ""
+
+msgctxt "10680_Akiyama"
+msgid ""
+"You should use this as an opportunity to get over what happened to you in "
+"the past."
+msgstr ""
+
+msgctxt "10692_Erena"
+msgid ""
+"Yeah... Maybe you're right. Ya know, I do feel a little better just talking "
+"to you about it. Thanks. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "10704_Akiyama"
+msgid "Sorry. I didn't mean to pry. Anyway, cheer up, okay?"
+msgstr ""
+
+msgctxt "10716_Erena"
+msgid " Oh, it isn't that big of deal..."
+msgstr ""
+
+msgctxt "10728_Erena"
+msgid "Actually, having you be so considerate about it makes me feel even worse."
+msgstr ""
+
+msgctxt "10740_Akiyama"
+msgid "Really? Then can I ask what the problem is?"
+msgstr ""
+
+msgctxt "10752_Erena"
+msgid "Well, she and I used to be friends in junior high, but..."
+msgstr ""
+
+msgctxt "10764_Akiyama"
+msgid "Mhm."
+msgstr ""
+
+msgctxt "10776_Erena"
+msgid ""
+"No, I'm sorry. There's no point bothering you with this. Maybe we should "
+"change the subject."
+msgstr ""
+
+msgctxt "10788_Akiyama"
+msgid "All right."
+msgstr ""
+
+msgctxt "10800_Akiyama"
+msgid "Did you say you have any brothers or sisters?"
+msgstr ""
+
+msgctxt "10812_Erena"
+msgid "Actually, I've got three."
+msgstr ""
+
+msgctxt "10824_Akiyama"
+msgid "Wow! That's a lot."
+msgstr ""
+
+msgctxt "10836_Erena"
+msgid "That's not all. They're all girls!"
+msgstr ""
+
+msgctxt "10848_Akiyama"
+msgid "You've got three sisters!? Seriously?"
+msgstr ""
+
+msgctxt "10860_Erena"
+msgid "Hahahah! Yep, I'm serious."
+msgstr ""
+
+msgctxt "10872_Erena"
+msgid "I'm the oldest."
+msgstr ""
+
+msgctxt "10884_Akiyama"
+msgid "Wow. I didn't know that."
+msgstr ""
+
+msgctxt "10896_Akiyama"
+msgid "That's a little scary."
+msgstr ""
+
+msgctxt "10908_Erena"
+msgid "Hahahah! Bet you can't even imagine what it's like livin' in our house."
+msgstr ""
+
+msgctxt "10920_Akiyama"
+msgid "It must be a little hard on your father."
+msgstr ""
+
+msgctxt "10932_Erena"
+msgid "I think it is. Poor Dad."
+msgstr ""
+
+msgctxt "10944_Akiyama"
+msgid "Yeah... I don't think I could live in an environment like that."
+msgstr ""
+
+msgctxt "10956_Erena"
+msgid ""
+"It can be a little noisy with so many girls in the house, but it's also "
+"lotsa fun!"
+msgstr ""
+
+msgctxt "10968_Akiyama"
+msgid "Your parents must've worked hard."
+msgstr ""
+
+msgctxt "10980_Erena"
+msgid "Haha! In more ways than one..."
+msgstr ""
+
+msgctxt "10992_Erena"
+msgid ""
+"My dad kept joking that they'd keep tryin' till they had a boy, but in the "
+"end they had all girls."
+msgstr ""
+
+msgctxt "11004_Akiyama"
+msgid ""
+"I can understand how he must feel. Wouldn't you like to have at least one "
+"brother?"
+msgstr ""
+
+msgctxt "11016_Erena"
+msgid "Yeah, I guess it woulda been nice to have a brother."
+msgstr ""
+
+msgctxt "11028_Akiyama"
+msgid "Heh, I suppose so."
+msgstr ""
+
+msgctxt "11040_Akiyama"
+msgid ""
+"I can imagine how noisy that'd be. Four girls, all talking in Kansai "
+"accents!"
+msgstr ""
+
+msgctxt "11052_Erena"
+msgid ""
+"It's not that bad. You make it sound like the neighbors would be "
+"complainin' or something."
+msgstr ""
+
+msgctxt "11064_Erena"
+msgid ""
+"We get along pretty well, so there wasn't much fighting. We're four refined "
+"Kyoto girls."
+msgstr ""
+
+msgctxt "11076_Akiyama"
+msgid "But aren't all families in Kansai kind of noisy?"
+msgstr ""
+
+msgctxt "11088_Erena"
+msgid ""
+"Now just a minute! That's just a stereotype! Not everybody from Kansai is "
+"some kind of loudmouth!"
+msgstr ""
+
+msgctxt "11100_Akiyama"
+msgid "Really?"
+msgstr ""
+
+msgctxt "11112_Erena"
+msgid ""
+"We're not like those comedians you see on TV, ya know. That's a little "
+"insultin'."
+msgstr ""
+
+msgctxt "11124_Akiyama"
+msgid "Oh. Sorry..."
+msgstr ""
+
+msgctxt "11136_Erena"
+msgid "I was watching TV with my sister yesterday."
+msgstr ""
+
+msgctxt "11148_Erena"
+msgid ""
+"They were talkin' about how long it takes for people to get serious with "
+"someone after the first date."
+msgstr ""
+
+msgctxt "11160_Akiyama"
+msgid "Oh? And?"
+msgstr ""
+
+msgctxt "11172_Erena"
+msgid "It seems like a lot of people take forever to make a move."
+msgstr ""
+
+msgctxt "11184_Erena"
+msgid ""
+"Most of the people on the show seemed to think that was the right approach "
+"to take, too."
+msgstr ""
+
+msgctxt "11196_Erena"
+msgid "It got me thinkin' about what the best approach was..."
+msgstr ""
+
+msgctxt "11208_Akiyama"
+msgid "That can be a difficult decision."
+msgstr ""
+
+msgctxt "11220_Erena"
+msgid "Do you like to make your move right away? Or do ya like to take your time?"
+msgstr ""
+
+msgctxt "11232_Akiyama"
+msgid ""
+"If I like someone, I tell them right away. If you wait too long, somebody "
+"else could swoop in and steal them from you."
+msgstr ""
+
+msgctxt "11244_Erena"
+msgid "Really? That's a bit of a surprise."
+msgstr ""
+
+msgctxt "11256_Akiyama"
+msgid "Really? Why?"
+msgstr ""
+
+msgctxt "11268_Erena"
+msgid ""
+"Oh, I don't know. You seem like the reserved type, so I thought you'd take "
+"your time with something like this."
+msgstr ""
+
+msgctxt "11280_Akiyama"
+msgid "So you prefer that kind of guy?"
+msgstr ""
+
+msgctxt "11292_Erena"
+msgid "Maybe..."
+msgstr ""
+
+msgctxt "11304_Akiyama"
+msgid "I like to take my time. You can't hurry love, as they say."
+msgstr ""
+
+msgctxt "11316_Erena"
+msgid "Haha! I knew it!"
+msgstr ""
+
+msgctxt "11328_Erena"
+msgid "I figured you'd be that kind of guy."
+msgstr ""
+
+msgctxt "11340_Akiyama"
+msgid "Really? I give you that kind of impression?"
+msgstr ""
+
+msgctxt "11352_Erena"
+msgid "Yep. I prefer men who take their time."
+msgstr ""
+
+msgctxt "11364_Akiyama"
+msgid "Heheh. I see."
+msgstr ""
+
+msgctxt "11376_Akiyama"
+msgid ""
+"It depends on the situation. The best time to make a move varies from "
+"person to person."
+msgstr ""
+
+msgctxt "11388_Akiyama"
+msgid ""
+"If I don't think the time is right, I might wait. Or I might go ahead and "
+"make my move if it is."
+msgstr ""
+
+msgctxt "11400_Erena"
+msgid "But you do make your move sooner or later, right?"
+msgstr ""
+
+msgctxt "11412_Akiyama"
+msgid ""
+"Well, sure. You don't meet the right woman very often, after all. You can't "
+"let her get away."
+msgstr ""
+
+msgctxt "11424_Erena"
+msgid ""
+"That's what I thought. There's something a little wild about ya, ain't "
+"there?"
+msgstr ""
+
+msgctxt "11436_Erena"
+msgid "So what should I do when the time comes?"
+msgstr ""
+
+msgctxt "11448_Akiyama"
+msgid "Um, did you think I was talking about you?"
+msgstr ""
+
+msgctxt "11460_Erena"
+msgid "I didn't think it. I knew it."
+msgstr ""
+
+msgctxt "11472_Akiyama"
+msgid "Heheh. We'll see about that."
+msgstr ""
+
+msgctxt "11484_Erena"
+msgid "Remember what I told ya about before?"
+msgstr ""
+
+msgctxt "11496_Akiyama"
+msgid "Huh? What're you talking about?"
+msgstr ""
+
+msgctxt "11508_Erena"
+msgid "You know. How I'm good at cooking."
+msgstr ""
+
+msgctxt "11520_Akiyama"
+msgid "Oh right. What about it?"
+msgstr ""
+
+msgctxt "11532_Erena"
+msgid "I just ordered a pressure cooker through mail-order."
+msgstr ""
+
+msgctxt "11544_Akiyama"
+msgid "Oh. That's nice."
+msgstr ""
+
+msgctxt "11556_Erena"
+msgid "This should make my cooking even better than before."
+msgstr ""
+
+msgctxt "11568_Akiyama"
+msgid "You keep making me fall for you all over again. I love a woman who can cook."
+msgstr ""
+
+msgctxt "11580_Erena"
+msgid "Of course ya do. Pretty soon, I'll practically be a pro."
+msgstr ""
+
+msgctxt "11592_Akiyama"
+msgid "Heheh. I'll have to go to your house to eat, then."
+msgstr ""
+
+msgctxt "11604_Erena"
+msgid "Are you sure you're talkin' about food?"
+msgstr ""
+
+msgctxt "11616_Akiyama"
+msgid "Huh? What do you mean by that?"
+msgstr ""
+
+msgctxt "11628_Erena"
+msgid "Oh, you know, ya naughty boy."
+msgstr ""
+
+msgctxt "11640_Akiyama"
+msgid "You buy things through mail-order, huh?"
+msgstr ""
+
+msgctxt "11652_Erena"
+msgid "All the time! I've bought all kinds of stuff through mail-order."
+msgstr ""
+
+msgctxt "11664_Akiyama"
+msgid ""
+"Really? Somehow I didn't think you'd do that kind of thing. For some reason "
+"I imagined you in a department store, fighting over bargains."
+msgstr ""
+
+msgctxt "11676_Erena"
+msgid ""
+"You're just being silly. I love buyin' stuff through the mail. All ya got "
+"to do is pick up the phone and call the number on the screen."
+msgstr ""
+
+msgctxt "11688_Akiyama"
+msgid ""
+"Oh, I thought you meant that you bought it online. But you're talking about "
+"one of those home shopping shows, right? Yeah, they're fun."
+msgstr ""
+
+msgctxt "11700_Erena"
+msgid "Right? I seem to end up buying something every time I watch."
+msgstr ""
+
+msgctxt "11712_Erena"
+msgid "Hope it arrives soon. I want it now!"
+msgstr ""
+
+msgctxt "11724_Akiyama"
+msgid "Uh, you just ordered it, right?"
+msgstr ""
+
+msgctxt "11736_Akiyama"
+msgid ""
+"Buying the equipment is just the first step. It doesn't necessarily mean "
+"you'll become a pro."
+msgstr ""
+
+msgctxt "11748_Erena"
+msgid ""
+"Yeah, but there're a lotta things that you can only make with a pressure "
+"cooker."
+msgstr ""
+
+msgctxt "11760_Akiyama"
+msgid "So what are you going to make?"
+msgstr ""
+
+msgctxt "11772_Erena"
+msgid "Well..."
+msgstr ""
+
+msgctxt "11784_Erena"
+msgid "Cabbage rolls, maybe?"
+msgstr ""
+
+msgctxt "11796_Akiyama"
+msgid "Cabbage rolls, huh? Haven't had those in quite a while."
+msgstr ""
+
+msgctxt "11808_Erena"
+msgid ""
+"Really? Maybe I can make some for you! This is a chance for you to see how "
+"good I really am!"
+msgstr ""
+
+msgctxt "11820_Akiyama"
+msgid "Hmm... I'll be looking forward to it."
+msgstr ""
+
+msgctxt "11832_Erena"
+msgid "Meh..."
+msgstr ""
+
+msgctxt "11844_Akiyama"
+msgid "What's wrong?"
+msgstr ""
+
+msgctxt "11856_Erena"
+msgid ""
+"Oh, the usual. I'm gettin' kinda sick of him. It's not like it was at the "
+"start."
+msgstr ""
+
+msgctxt "11868_Akiyama"
+msgid "Ah. You're talking about that handsome boyfriend of yours?"
+msgstr ""
+
+msgctxt "11880_Erena"
+msgid ""
+"Actually, now that I've seen him up close for a while, I realized he isn't "
+"that handsome."
+msgstr ""
+
+msgctxt "11892_Akiyama"
+msgid ""
+"Hey! This whole relationship started because you thought he was handsome, "
+"and now you don't even think that?"
+msgstr ""
+
+msgctxt "11904_Erena"
+msgid ""
+"I don't like the way he eats. And he tends to mumble, so sometimes I can't "
+"tell what he's sayin'."
+msgstr ""
+
+msgctxt "11916_Erena"
+msgid "I'm just not feeling it anymore..."
+msgstr ""
+
+msgctxt "11928_Akiyama"
+msgid ""
+"This is your chance to end it. It's better to make a clean break now than "
+"to let it drag on forever."
+msgstr ""
+
+msgctxt "11940_Erena"
+msgid "Maybe you're right."
+msgstr ""
+
+msgctxt "11952_Akiyama"
+msgid "That didn't last long though, did it?"
+msgstr ""
+
+msgctxt "11964_Erena"
+msgid "No, it didn't. Sometimes I really think I'm an idiot."
+msgstr ""
+
+msgctxt "11976_Akiyama"
+msgid "Heheh. Just spend a little longer picking out your next boyfriend, okay?"
+msgstr ""
+
+msgctxt "11988_Erena"
+msgid "I will."
+msgstr ""
+
+msgctxt "12000_Erena"
+msgid "I know! Maybe you can be my next boyfriend!?"
+msgstr ""
+
+msgctxt "12012_Akiyama"
+msgid ""
+"Heheh. I'm not sure I want to go out with somebody who has such bad taste "
+"in men."
+msgstr ""
+
+msgctxt "12024_Erena"
+msgid "Hahahah!"
+msgstr ""
+
+msgctxt "12036_Akiyama"
+msgid "Do you know how he feels? Maybe he's madly in love with you."
+msgstr ""
+
+msgctxt "12048_Erena"
+msgid "I don't know... Actually, I never really thought about it."
+msgstr ""
+
+msgctxt "12060_Akiyama"
+msgid "Why not?"
+msgstr ""
+
+msgctxt "12072_Erena"
+msgid "If I really like somebody, it don't really matter if they like me or not."
+msgstr ""
+
+msgctxt "12084_Akiyama"
+msgid "You're happy just to be near them?"
+msgstr ""
+
+msgctxt "12096_Erena"
+msgid "Exactly!"
+msgstr ""
+
+msgctxt "12108_Erena"
+msgid ""
+"But I don't think he likes me that much. At least, that's what it feels "
+"like."
+msgstr ""
+
+msgctxt "12120_Akiyama"
+msgid "I see..."
+msgstr ""
+
+msgctxt "12132_Akiyama"
+msgid ""
+"Maybe it's just temporary. It's natural to have ups and downs in any "
+"relationship."
+msgstr ""
+
+msgctxt "12144_Erena"
+msgid "Yeah, but isn't that about couples who've been together for a long time?"
+msgstr ""
+
+msgctxt "12156_Erena"
+msgid "We only just started going out recently."
+msgstr ""
+
+msgctxt "12168_Akiyama"
+msgid "Then what is it? Do you think you two just aren't cut out for each other?"
+msgstr ""
+
+msgctxt "12180_Erena"
+msgid ""
+"Lately, all I've been thinkin' is, \"I didn't think he was this kind of guy "
+"before we started going out.\""
+msgstr ""
+
+msgctxt "12192_Akiyama"
+msgid ""
+"Well, he just picked you up off the street though, right? How could you "
+"have known what kind of guy he was?"
+msgstr ""
+
+msgctxt "12204_Erena"
+msgid "Hahahah! I guess you're right. Maybe this'll be a lesson for me."
+msgstr ""
+
+msgctxt "12216_Akiyama"
+msgid "Yeah, maybe you should spend a little longer choosing a boyfriend next time."
+msgstr ""
+
+msgctxt "12228_Erena"
+msgid "Um, I broke up with my boyfriend."
+msgstr ""
+
+msgctxt "12240_Akiyama"
+msgid "I see."
+msgstr ""
+
+msgctxt "12252_Erena"
+msgid ""
+"I figured if we were gonna break up sooner or later, it'd be better to get "
+"it over with. So I just went ahead and told him."
+msgstr ""
+
+msgctxt "12264_Erena"
+msgid "Apparently he was thinking the same thing."
+msgstr ""
+
+msgctxt "12276_Akiyama"
+msgid "Sounds like it was the best decision for both of you."
+msgstr ""
+
+msgctxt "12288_Erena"
+msgid "Maybe..."
+msgstr ""
+
+msgctxt "12300_Akiyama"
+msgid ""
+"There's no need to be sad about it. That's the way life is. I'm sure you'll "
+"meet someone new soon."
+msgstr ""
+
+msgctxt "12312_Erena"
+msgid ""
+"You're so mature. I think it's going to take more time for me to get over "
+"this."
+msgstr ""
+
+msgctxt "12324_Akiyama"
+msgid ""
+"That's okay. Take your time. I'm not saying you have to start looking for a "
+"new love right away."
+msgstr ""
+
+msgctxt "12336_Akiyama"
+msgid "You have to move at your own pace."
+msgstr ""
+
+msgctxt "12348_Erena"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "12360_Akiyama"
+msgid " Just remember that I'm here if you ever need to talk to somebody."
+msgstr ""
+
+msgctxt "12372_Erena"
+msgid "Thanks for worrying about me."
+msgstr ""
+
+msgctxt "12384_Akiyama"
+msgid ""
+"Are you sure you didn't love him? Sometimes you don't really appreciate "
+"what you have until it's gone."
+msgstr ""
+
+msgctxt "12396_Erena"
+msgid ""
+"Well, I don't know... I didn't hate him. And the reason I was with him in "
+"the first place was because I liked him."
+msgstr ""
+
+msgctxt "12408_Erena"
+msgid "I'm not sure if breakin' up was the right thing to do."
+msgstr ""
+
+msgctxt "12420_Akiyama"
+msgid ""
+"This isn't something that you can know the answer to right away. You have "
+"to let some time pass to be able to look at things objectively."
+msgstr ""
+
+msgctxt "12432_Erena"
+msgid "I guess you're right..."
+msgstr ""
+
+msgctxt "12444_Erena"
+msgid ""
+"Sorry. I'll probably be like this for a while. I hope it won't be too "
+"depressing for you."
+msgstr ""
+
+msgctxt "12456_Akiyama"
+msgid "Don't worry about it."
+msgstr ""
+
+msgctxt "12468_Akiyama"
+msgid ""
+"You jumped into that relationship too quickly. You should've waited until "
+"you knew a little more about each other before going out."
+msgstr ""
+
+msgctxt "12480_Erena"
+msgid "But then we'd have never gone out. Ain't that right?"
+msgstr ""
+
+msgctxt "12492_Akiyama"
+msgid "Well... I suppose that's one way to look at it."
+msgstr ""
+
+msgctxt "12504_Erena"
+msgid "Then it don't matter if you jump into a relationship."
+msgstr ""
+
+msgctxt "12516_Akiyama"
+msgid ""
+"Maybe, but I can't help but think that going out with a guy who picks you "
+"up off the street isn't the best idea."
+msgstr ""
+
+msgctxt "12528_Erena"
+msgid ""
+"Oh, I'm not so sure about that. I know people who started going out that "
+"way and got married."
+msgstr ""
+
+msgctxt "12540_Erena"
+msgid "I really don't like the way you're assumin' that I'm the one at fault here."
+msgstr ""
+
+msgctxt "12552_Erena"
+msgid "Now I'm afraid to get involved with someone again..."
+msgstr ""
+
+msgctxt "12564_Akiyama"
+msgid "Why? People break up all the time."
+msgstr ""
+
+msgctxt "12576_Erena"
+msgid "Yeah, but if it's always going to be like this..."
+msgstr ""
+
+msgctxt "12588_Akiyama"
+msgid "Like what?"
+msgstr ""
+
+msgctxt "12600_Erena"
+msgid ""
+"Always worrying about what the other person is thinking. Not being able to "
+"be yourself. I just end up gettin' sick of it after a while."
+msgstr ""
+
+msgctxt "12612_Akiyama"
+msgid "I see..."
+msgstr ""
+
+msgctxt "12624_Erena"
+msgid "I'm afraid it'll just be the same if I get involved with somebody else."
+msgstr ""
+
+msgctxt "12636_Akiyama"
+msgid "Don't worry about what the other person thinks. You should just be yourself."
+msgstr ""
+
+msgctxt "12648_Erena"
+msgid ""
+"That's easy to say, but I always end up wantin' to change myself to please "
+"whoever I'm seeing."
+msgstr ""
+
+msgctxt "12660_Akiyama"
+msgid "That might be okay to some degree, but I think you take it a little too far."
+msgstr ""
+
+msgctxt "12672_Akiyama"
+msgid ""
+"If he doesn't like you for who you really are, you're never going to have a "
+"real future."
+msgstr ""
+
+msgctxt "12684_Erena"
+msgid "Ya think so? I've never been in a long-term relationship, so I don't know."
+msgstr ""
+
+msgctxt "12696_Akiyama"
+msgid "Then why don't you give it a try next time?"
+msgstr ""
+
+msgctxt "12708_Erena"
+msgid "Alright. I think I will."
+msgstr ""
+
+msgctxt "12720_Akiyama"
+msgid "So what are you saying? You plan to be alone for the rest of your life?"
+msgstr ""
+
+msgctxt "12732_Erena"
+msgid "Right now that don't sound so bad."
+msgstr ""
+
+msgctxt "12744_Akiyama"
+msgid "Seriously?"
+msgstr ""
+
+msgctxt "12756_Erena"
+msgid ""
+"I'm just so sick of it all. Maybe I should just stick to relationships like "
+"the ones I got with my customers here. It's not as tiring."
+msgstr ""
+
+msgctxt "12768_Akiyama"
+msgid ""
+"Look, you're a little down right now, but I know you're going to want to "
+"have another relationship sooner or later. Cheer up."
+msgstr ""
+
+msgctxt "12780_Erena"
+msgid ""
+"Maybe you're right, but I don't really want to talk about it right now. "
+"Sorry, but do you mind if we change the subject?"
+msgstr ""
+
+msgctxt "12792_Akiyama"
+msgid "Oh... Okay then."
+msgstr ""
+
+msgctxt "12804_Akiyama"
+msgid "Maybe the opposite would be better."
+msgstr ""
+
+msgctxt "12816_Erena"
+msgid "The opposite?"
+msgstr ""
+
+msgctxt "12828_Akiyama"
+msgid ""
+"I mean, maybe it would be better if you could find a guy who'd change to "
+"suit you."
+msgstr ""
+
+msgctxt "12840_Akiyama"
+msgid "Either that, or find somebody that you can just be yourself with."
+msgstr ""
+
+msgctxt "12852_Erena"
+msgid "Well... That'd definitely be less tiring for me."
+msgstr ""
+
+msgctxt "12864_Akiyama"
+msgid ""
+"In any case, why don't you stop going to such lengths to try and please "
+"people?"
+msgstr ""
+
+msgctxt "12876_Erena"
+msgid "Yeah... I'll try."
+msgstr ""
+
+msgctxt "12888_Erena"
+msgid "Thanks for listenin'."
+msgstr ""
+
+msgctxt "12900_Akiyama"
+msgid "Heheh."
+msgstr ""
+
+msgctxt "12912_Erena"
+msgid "I saw the best romantic comedy yesterday!"
+msgstr ""
+
+msgctxt "12924_Akiyama"
+msgid "You like those?"
+msgstr ""
+
+msgctxt "12936_Erena"
+msgid ""
+"I guess. I like horror, too, but the girl in me can't get enough romantic "
+"comedies."
+msgstr ""
+
+msgctxt "12948_Erena"
+msgid "I love stories with happy endings. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12960_Akiyama"
+msgid "I see."
+msgstr ""
+
+msgctxt "12972_Erena"
+msgid ""
+"You know, movies where the guy and the girl keep missing each other, but "
+"finally get together at the end?"
+msgstr ""
+
+msgctxt "12984_Erena"
+msgid "So romantic! Don't you just love that kinda thing?"
+msgstr ""
+
+msgctxt "12996_Akiyama"
+msgid ""
+"Real life never works out that way. If you keep missing each other, you "
+"probably won't end up like that."
+msgstr ""
+
+msgctxt "13008_Erena"
+msgid "Why do ya have to be so cynical?"
+msgstr ""
+
+msgctxt "13020_Akiyama"
+msgid ""
+"Maybe it's because I'm a man, but I've always been that way. Sometimes I "
+"want to scream at the screen because the plot's so unrealistic."
+msgstr ""
+
+msgctxt "13032_Erena"
+msgid "If I were watchin' a movie and someone did that, I'd get pretty upset."
+msgstr ""
+
+msgctxt "13044_Erena"
+msgid "I think I need a more romantic type of man."
+msgstr ""
+
+msgctxt "13056_Akiyama"
+msgid "I don't like happy endings. Maybe I'm just the twisted type."
+msgstr ""
+
+msgctxt "13068_Erena"
+msgid "Really? What kind of movies do you like?"
+msgstr ""
+
+msgctxt "13080_Akiyama"
+msgid ""
+"Well, more realistic stuff, I guess. You know, people doing the best they "
+"can, even if it doesn't end well."
+msgstr ""
+
+msgctxt "13092_Erena"
+msgid "I see. Why do you think you like that?"
+msgstr ""
+
+msgctxt "13104_Akiyama"
+msgid ""
+"Maybe it's because of my job. I get to see how lots of different kinds of "
+"people live. I know that life can be hard."
+msgstr ""
+
+msgctxt "13116_Erena"
+msgid ""
+"Hmm... That sounds convincing coming from an older gentleman.\r\n"
+" But I think I'll stick with my romantic comedies for the moment."
+msgstr ""
+
+msgctxt "13128_Akiyama"
+msgid "Heheh."
+msgstr ""
+
+msgctxt "13140_Akiyama"
+msgid "You're pretty cute sometimes."
+msgstr ""
+
+msgctxt "13152_Erena"
+msgid "I know."
+msgstr ""
+
+msgctxt "13164_Akiyama"
+msgid ""
+"Heheh. But don't you sometimes know exactly how a story's going to end, "
+"right when it starts?"
+msgstr ""
+
+msgctxt "13176_Akiyama"
+msgid "It's not like the two main characters aren't going to get together, right?"
+msgstr ""
+
+msgctxt "13188_Erena"
+msgid ""
+"That's okay. It's not the ending that's important. It's how they get there, "
+"how they overcome the obstacles in front of them."
+msgstr ""
+
+msgctxt "13200_Akiyama"
+msgid "Hmm... I haven't thought about it that way."
+msgstr ""
+
+msgctxt "13212_Erena"
+msgid "I've never met a man like you before."
+msgstr ""
+
+msgctxt "13224_Akiyama"
+msgid "Really?"
+msgstr ""
+
+msgctxt "13236_Erena"
+msgid ""
+"Yeah. Don't know what it is, but I really feel like I can be myself in "
+"front of you."
+msgstr ""
+
+msgctxt "13248_Akiyama"
+msgid "That's nice of you to say."
+msgstr ""
+
+msgctxt "13260_Erena"
+msgid "I feel like you accept me for who I am."
+msgstr ""
+
+msgctxt "13272_Erena"
+msgid ""
+"That's why I can talk to you about anything. You've really given me a lot "
+"of good advice."
+msgstr ""
+
+msgctxt "13284_Akiyama"
+msgid ""
+"You can't do that with other customers? Why don't you try being yourself "
+"with everyone?"
+msgstr ""
+
+msgctxt "13296_Erena"
+msgid ""
+"But I always have to leave a good impression on my customers. I can't talk "
+"about my private life."
+msgstr ""
+
+msgctxt "13308_Akiyama"
+msgid "But you do with me."
+msgstr ""
+
+msgctxt "13320_Erena"
+msgid "Is that a problem?"
+msgstr ""
+
+msgctxt "13332_Akiyama"
+msgid ""
+"A problem? Not at all. The fact that you feel you can talk about personal "
+"things with me shows that you trust me."
+msgstr ""
+
+msgctxt "13344_Erena"
+msgid "Really?"
+msgstr ""
+
+msgctxt "13356_Akiyama"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "13368_Erena"
+msgid "Thank you. You're so sweet. I love that about you."
+msgstr ""
+
+msgctxt "13380_Erena"
+msgid "But I should try and be more independent, and not rely on you all the time."
+msgstr ""
+
+msgctxt "13392_Akiyama"
+msgid ""
+"We do get along well, don't we? For some reason I feel really relaxed when "
+"I talk with you."
+msgstr ""
+
+msgctxt "13404_Erena"
+msgid "Really!? That's great!"
+msgstr ""
+
+msgctxt "13416_Erena"
+msgid ""
+"I know! If you got any problems that you can't discuss with other people, "
+"you can tell me!"
+msgstr ""
+
+msgctxt "13428_Akiyama"
+msgid "Well, I don't really have anything to say right now."
+msgstr ""
+
+msgctxt "13440_Erena"
+msgid ""
+"There's no reason to hide anything from me. Come on, tell me your deepest, "
+"darkest secrets!"
+msgstr ""
+
+msgctxt "13452_Akiyama"
+msgid "Oh, brother."
+msgstr ""
+
+msgctxt "13464_Akiyama"
+msgid "I'm nobody special. I haven't really done anything for you."
+msgstr ""
+
+msgctxt "13476_Erena"
+msgid "What? Why'd you say that?"
+msgstr ""
+
+msgctxt "13488_Erena"
+msgid ""
+"Here I am, telling you that you've helped me out a lot, and you go and "
+"brush it off like it means nothin'. Guess ya don't give a crap about me, "
+"huh?"
+msgstr ""
+
+msgctxt "13500_Akiyama"
+msgid ""
+"I just meant that I'm sure you would've made it through on your own, even "
+"if I hadn't been here. All I've done is listen to you."
+msgstr ""
+
+msgctxt "13512_Erena"
+msgid ""
+"You mean I've just been foolin' myself all this time? I thought we had a "
+"connection... Guess it was all in my head. Talk about disappointing."
+msgstr ""
+
+msgctxt "13524_Akiyama"
+msgid "......"
+msgstr ""
+
+msgctxt "13536_Erena"
+msgid "Do you know much about LA?"
+msgstr ""
+
+msgctxt "13548_Akiyama"
+msgid "You mean Los Angeles?"
+msgstr ""
+
+msgctxt "13560_Akiyama"
+msgid "Not really. I don't know much about foreign countries. Why do you ask?"
+msgstr ""
+
+msgctxt "13572_Erena"
+msgid ""
+"One of my cousins is there right now, and I just thought it'd be cool to "
+"visit him someday."
+msgstr ""
+
+msgctxt "13584_Akiyama"
+msgid "Why not? Sounds like it could be fun."
+msgstr ""
+
+msgctxt "13596_Erena"
+msgid "But I can't go right away. Plus, I also want to go to Hawaii sometime."
+msgstr ""
+
+msgctxt "13608_Akiyama"
+msgid "You could do both. You could fly to LA, then go back via Hawaii."
+msgstr ""
+
+msgctxt "13620_Erena"
+msgid "Guess that's an option... But I've always wanted to go to Guam, too."
+msgstr ""
+
+msgctxt "13632_Akiyama"
+msgid ""
+"Well, I guess you could go to LA, then Hawaii, and stop by Guam on the way "
+"home."
+msgstr ""
+
+msgctxt "13644_Erena"
+msgid "Are you teasing me?"
+msgstr ""
+
+msgctxt "13656_Akiyama"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "13668_Erena"
+msgid "I mean, that's impossible. You're obviously just bein' mean."
+msgstr ""
+
+msgctxt "13680_Akiyama"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "13692_Akiyama"
+msgid "Where else do you want to visit? You seem eager to travel."
+msgstr ""
+
+msgctxt "13704_Erena"
+msgid "Well... I've always wanted to see Guam."
+msgstr ""
+
+msgctxt "13716_Akiyama"
+msgid "Guam? Isn't Hawaii good enough?"
+msgstr ""
+
+msgctxt "13728_Erena"
+msgid "I guess I just can't get enough of the tropics."
+msgstr ""
+
+msgctxt "13740_Akiyama"
+msgid ""
+"Since you're being so extravagant, why don't you go to Bali and Fiji while "
+"you're at it?"
+msgstr ""
+
+msgctxt "13752_Erena"
+msgid ""
+"Hahahah! Maybe I should just make it a trip around the world. I know! You "
+"could take me!"
+msgstr ""
+
+msgctxt "13764_Akiyama"
+msgid "Whoa, don't get carried away there."
+msgstr ""
+
+msgctxt "13776_Akiyama"
+msgid ""
+"Wouldn't it be better to just travel in Japan? I personally don't like "
+"trips where your schedule is all packed."
+msgstr ""
+
+msgctxt "13788_Akiyama"
+msgid "Relaxing at a hot spring somewhere in Japan would be more my speed."
+msgstr ""
+
+msgctxt "13800_Erena"
+msgid "Ooh, hot springs are nice, too."
+msgstr ""
+
+msgctxt "13812_Akiyama"
+msgid "Do they have hot springs in Kyoto?"
+msgstr ""
+
+msgctxt "13824_Erena"
+msgid "Well, yes. Places like Ohara and Arashiyama."
+msgstr ""
+
+msgctxt "13836_Akiyama"
+msgid "I wouldn't mind visiting there sometime."
+msgstr ""
+
+msgctxt "13848_Erena"
+msgid "Really? I'd love to go, too!"
+msgstr ""
+
+msgctxt "13860_Akiyama"
+msgid "Huh? You're coming, too? How am I supposed to relax then?"
+msgstr ""
+
+msgctxt "13872_Erena"
+msgid "My sister got real mad at me recently."
+msgstr ""
+
+msgctxt "13884_Akiyama"
+msgid "What did you do?"
+msgstr ""
+
+msgctxt "13896_Erena"
+msgid ""
+"The problem is I did nothing. Literally. I mean, I didn't clean up the "
+"apartment."
+msgstr ""
+
+msgctxt "13908_Akiyama"
+msgid "Oh, I understand that. I never clean."
+msgstr ""
+
+msgctxt "13920_Erena"
+msgid "You too? My sister can be such a pain about it."
+msgstr ""
+
+msgctxt "13932_Akiyama"
+msgid "But you're the one who got the place dirty in the first place, right?"
+msgstr ""
+
+msgctxt "13944_Erena"
+msgid "Well..."
+msgstr ""
+
+msgctxt "13956_Erena"
+msgid "Yes."
+msgstr ""
+
+msgctxt "13968_Akiyama"
+msgid "I thought so. Then she's right."
+msgstr ""
+
+msgctxt "13980_Erena"
+msgid "But she's so annoying about it."
+msgstr ""
+
+msgctxt "13992_Akiyama"
+msgid "How annoying is she, exactly?"
+msgstr ""
+
+msgctxt "14004_Erena"
+msgid "Very?"
+msgstr ""
+
+msgctxt "14016_Akiyama"
+msgid "Is that all?"
+msgstr ""
+
+msgctxt "14028_Erena"
+msgid "Yeah. She's very annoying."
+msgstr ""
+
+msgctxt "14040_Akiyama"
+msgid "Would it kill you to be a little more descriptive?"
+msgstr ""
+
+msgctxt "14052_Erena"
+msgid "But it's true! She's <Italic>very</Italic> annoying!"
+msgstr ""
+
+msgctxt "14064_Akiyama"
+msgid "I understand what you mean, but..."
+msgstr ""
+
+msgctxt "14076_Erena"
+msgid ""
+"Ugh, you're just like my sister. Why do people get so upset about the "
+"littlest things?"
+msgstr ""
+
+msgctxt "14088_Akiyama"
+msgid "......"
+msgstr ""
+
+msgctxt "14100_Akiyama"
+msgid ""
+"When you live together, you have to get along. She came all the way here to "
+"Tokyo, right?"
+msgstr ""
+
+msgctxt "14112_Erena"
+msgid "That's true. But it isn't like we don't ever get along."
+msgstr ""
+
+msgctxt "14124_Erena"
+msgid "It's just that we occasionally－very occasionally－have a horrible fight."
+msgstr ""
+
+msgctxt "14136_Akiyama"
+msgid "That happens when you live together. It probably wouldn't matter who it was."
+msgstr ""
+
+msgctxt "14148_Erena"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "14160_Erena"
+msgid ""
+"I know! We could have separate rooms! Then she won't be able to complain "
+"about what I do in my own room!"
+msgstr ""
+
+msgctxt "14172_Akiyama"
+msgid "Do you have room for that?"
+msgstr ""
+
+msgctxt "14184_Erena"
+msgid "Well, no. We'd have to move."
+msgstr ""
+
+msgctxt "14196_Akiyama"
+msgid "Don't you think cleaning up would be easier than moving?"
+msgstr ""
+
+msgctxt "14208_Erena"
+msgid "Oh, I guess... Ugh, what a pain."
+msgstr ""
+
+msgctxt "14220_Akiyama"
+msgid ""
+"Why doesn't she just clean up? If she spent her time cleaning instead of "
+"complaining, the place would be spotless."
+msgstr ""
+
+msgctxt "14232_Erena"
+msgid "I like the way ya think!"
+msgstr ""
+
+msgctxt "14244_Akiyama"
+msgid "Heheh."
+msgstr ""
+
+msgctxt "14256_Erena"
+msgid "But my sister's busy with work. I don't want to cause more trouble for her."
+msgstr ""
+
+msgctxt "14268_Erena"
+msgid "I guess I've got to try and be neater."
+msgstr ""
+
+msgctxt "14280_Akiyama"
+msgid "You can do it."
+msgstr ""
+
+msgctxt "14292_Erena"
+msgid "You really think so?"
+msgstr ""
+
+msgctxt "14304_Akiyama"
+msgid "Sure. Why don't you try surprising her?"
+msgstr ""
+
+msgctxt "14316_Erena"
+msgid ""
+"  That might be fun. I can just imagine the look on her face if I started "
+"cleanin' up all of a sudden."
+msgstr ""
+
+msgctxt "14328_Erena"
+msgid "Alright. I'll do it!"
+msgstr ""
+
+msgctxt "14340_Erena"
+msgid "A friend of mine got married the other day."
+msgstr ""
+
+msgctxt "14352_Erena"
+msgid "She was so pretty in her wedding dress! The groom was... Well, he was okay."
+msgstr ""
+
+msgctxt "14364_Erena"
+msgid "But the bride! She was practically glowin'! I was so jealous!"
+msgstr ""
+
+msgctxt "14376_Akiyama"
+msgid "Heheh. You'll get your chance someday."
+msgstr ""
+
+msgctxt "14388_Erena"
+msgid "Maybe... I never really used to dream about getting married."
+msgstr ""
+
+msgctxt "14400_Erena"
+msgid ""
+"But that all changed when I saw my friend's wedding. Now I'm thinkin' about "
+"the kind of dress I want, and the kind of ceremony I'd have."
+msgstr ""
+
+msgctxt "14412_Akiyama"
+msgid "Sounds like you're itching to get hitched."
+msgstr ""
+
+msgctxt "14424_Erena"
+msgid ""
+"But of course I got no one to get married to. I am not sure there's anybody "
+"out there who'd want to marry somebody like me."
+msgstr ""
+
+msgctxt "14436_Erena"
+msgid "I'm so impatient. And even though I got the looks, I'm real lazy."
+msgstr ""
+
+msgctxt "14448_Erena"
+msgid ""
+"But I don't want to sit around doin' the same thing over and over again, "
+"either."
+msgstr ""
+
+msgctxt "14460_Akiyama"
+msgid "You don't have anything to worry about."
+msgstr ""
+
+msgctxt "14472_Erena"
+msgid "Really? You think somebody would want to marry me?"
+msgstr ""
+
+msgctxt "14484_Akiyama"
+msgid "Sure. Probably."
+msgstr ""
+
+msgctxt "14496_Erena"
+msgid "Probably? You don't sound real confident. Hey, what about you?"
+msgstr ""
+
+msgctxt "14508_Akiyama"
+msgid "What?"
+msgstr ""
+
+msgctxt "14520_Erena"
+msgid ""
+"You're getting older, too. Do you plan to stay single for the rest of your "
+"life?"
+msgstr ""
+
+msgctxt "14532_Akiyama"
+msgid "I wouldn't mind. I like being alone."
+msgstr ""
+
+msgctxt "14544_Erena"
+msgid ""
+"Of course a handsome man like you shouldn't have any trouble gettin' a "
+"girl, even if you're older."
+msgstr ""
+
+msgctxt "14556_Erena"
+msgid "Ugh... Women really get the short end of the stick."
+msgstr ""
+
+msgctxt "14568_Akiyama"
+msgid ""
+"Why are you saying all this now? Most girls your age have been thinking "
+"about marriage for years."
+msgstr ""
+
+msgctxt "14580_Erena"
+msgid "Really? Guess if I don't do something soon, it'll be too late for me."
+msgstr ""
+
+msgctxt "14592_Akiyama"
+msgid ""
+"Well, there's nothing to panic about. Some women get more attractive as "
+"they get older, you know."
+msgstr ""
+
+msgctxt "14604_Erena"
+msgid "Y'mean like one of those cougars?"
+msgstr ""
+
+msgctxt "14616_Akiyama"
+msgid "You just have to decide what kind of woman you want to be."
+msgstr ""
+
+msgctxt "14628_Erena"
+msgid "Guess yer right. I'll start planning right away!"
+msgstr ""
+
+msgctxt "14640_Akiyama"
+msgid ""
+"You're really worried about this, aren't you? I don't think I've seen you "
+"look so serious before."
+msgstr ""
+
+msgctxt "14652_Erena"
+msgid "Of course I'm worried. Isn't it every girl's dream to get married?"
+msgstr ""
+
+msgctxt "14664_Akiyama"
+msgid ""
+"I suppose so. I'll tell you what. If you haven't found anybody in five "
+"years, maybe we can get married."
+msgstr ""
+
+msgctxt "14676_Erena"
+msgid "Really!? Are you sure I'm good enough?"
+msgstr ""
+
+msgctxt "14688_Akiyama"
+msgid ""
+"Wait a minute. Are you saying you're not going to change at all in five "
+"years? That could be a problem."
+msgstr ""
+
+msgctxt "14700_Erena"
+msgid "Huh? Do ya want me or not!?"
+msgstr ""
+
+msgctxt "14712_Erena"
+msgid "I'm so tired..."
+msgstr ""
+
+msgctxt "14724_Akiyama"
+msgid "What's the problem?"
+msgstr ""
+
+msgctxt "14736_Erena"
+msgid "I didn't feel like going out, so I holed up in my apartment watching DVDs."
+msgstr ""
+
+msgctxt "14748_Akiyama"
+msgid "There's nothing wrong with that once in a while."
+msgstr ""
+
+msgctxt "14760_Erena"
+msgid "I watched four movies back to back."
+msgstr ""
+
+msgctxt "14772_Akiyama"
+msgid "That's a lot."
+msgstr ""
+
+msgctxt "14784_Erena"
+msgid ""
+"I got hungry in the middle, but it was too much trouble to cook anything, "
+"so I just kept watchin'."
+msgstr ""
+
+msgctxt "14796_Erena"
+msgid ""
+"After a while I stopped feeling hungry. I think maybe my stomach got a "
+"little flatter."
+msgstr ""
+
+msgctxt "14808_Akiyama"
+msgid ""
+"You shouldn't overdo it. If you go too long without eating, it can be a "
+"shock to your body when you finally do."
+msgstr ""
+
+msgctxt "14820_Erena"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "14832_Akiyama"
+msgid "Are you hungry now?"
+msgstr ""
+
+msgctxt "14844_Erena"
+msgid "Can I order something?"
+msgstr ""
+
+msgctxt "14856_Akiyama"
+msgid "Sure. Get whatever you like."
+msgstr ""
+
+msgctxt "14868_Erena"
+msgid ""
+"Thank you. But I think I'm okay for the moment. I'll have a proper meal "
+"later."
+msgstr ""
+
+msgctxt "14880_Akiyama"
+msgid "Oh... Okay then."
+msgstr ""
+
+msgctxt "14892_Akiyama"
+msgid ""
+"I know a good restaurant you might like. The food isn't very heavy. It "
+"should be perfect."
+msgstr ""
+
+msgctxt "14904_Erena"
+msgid "Really? What kind of food is it?"
+msgstr ""
+
+msgctxt "14916_Akiyama"
+msgid "Well, I guess you could say it's family style."
+msgstr ""
+
+msgctxt "14928_Akiyama"
+msgid ""
+"The atmosphere is very laid-back and comfortable, so you can just relax and "
+"talk to the owner while you're eating."
+msgstr ""
+
+msgctxt "14940_Erena"
+msgid ""
+"That sounds nice! Whenever I'm home by myself, I always think it's too much "
+"trouble to cook."
+msgstr ""
+
+msgctxt "14952_Akiyama"
+msgid ""
+"Maybe you should give it a try. But still, you need to be able to eat even "
+"when you're alone."
+msgstr ""
+
+msgctxt "14964_Erena"
+msgid "I know. Thanks for worrying about me."
+msgstr ""
+
+msgctxt "14976_Akiyama"
+msgid "That's not like you. You're usually a lot livelier than this."
+msgstr ""
+
+msgctxt "14988_Erena"
+msgid "What do you mean, it isn't like me?"
+msgstr ""
+
+msgctxt "15000_Akiyama"
+msgid ""
+"Well, I've always thought of you as an active, talkative girl who's a big "
+"eater. And now you're depressed and can't even bring yourself to eat?"
+msgstr ""
+
+msgctxt "15012_Erena"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "15024_Erena"
+msgid ""
+"Sorry, but I don't feel like that right now. If that's what ya want, maybe "
+"you should request someone else."
+msgstr ""
+
+msgctxt "15036_Akiyama"
+msgid " ......"
+msgstr ""
+
+msgctxt "15048_Erena"
+msgid "Ooh, I've got to tell ya something!"
+msgstr ""
+
+msgctxt "15060_Akiyama"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "15072_Erena"
+msgid "My sisters are comin' to Tokyo!"
+msgstr ""
+
+msgctxt "15084_Akiyama"
+msgid "So all four of you are getting together, huh?"
+msgstr ""
+
+msgctxt "15096_Erena"
+msgid ""
+"Yep! My other two sisters happened to be able to take time off at the same "
+"time, so we're all gonna travel around Tokyo together!"
+msgstr ""
+
+msgctxt "15108_Akiyama"
+msgid "That sounds like fun. Try not to get into any fights."
+msgstr ""
+
+msgctxt "15120_Erena"
+msgid "We get along just fine, so that isn't a problem."
+msgstr ""
+
+msgctxt "15132_Akiyama"
+msgid "How long will they be here?"
+msgstr ""
+
+msgctxt "15144_Erena"
+msgid "I think they said about five days."
+msgstr ""
+
+msgctxt "15156_Akiyama"
+msgid ""
+"That sounds like a nice amount of time. You can do some things together, "
+"but they'll still have time to go off on their own."
+msgstr ""
+
+msgctxt "15168_Erena"
+msgid "Yeah. I mean, if they're here too long, they might start to get annoyin'."
+msgstr ""
+
+msgctxt "15180_Akiyama"
+msgid "Are you sure you get along fine?"
+msgstr ""
+
+msgctxt "15192_Akiyama"
+msgid ""
+"What do the four of you talk about? A house full of girls... It's hard to "
+"imagine."
+msgstr ""
+
+msgctxt "15204_Erena"
+msgid "Hm... We usually tell each other dirty jokes."
+msgstr ""
+
+msgctxt "15216_Akiyama"
+msgid "Haha! Really?"
+msgstr ""
+
+msgctxt "15228_Erena"
+msgid "It can get real intense. If you were there, I bet you'd run away."
+msgstr ""
+
+msgctxt "15240_Akiyama"
+msgid "Wow."
+msgstr ""
+
+msgctxt "15252_Erena"
+msgid "Girls can be surprisingly nasty, when they're talking by themselves."
+msgstr ""
+
+msgctxt "15264_Akiyama"
+msgid "I don't want to think about it."
+msgstr ""
+
+msgctxt "15276_Akiyama"
+msgid "You'll have to introduce me to them."
+msgstr ""
+
+msgctxt "15288_Erena"
+msgid "Hm? Why?"
+msgstr ""
+
+msgctxt "15300_Akiyama"
+msgid "They're all pretty like you, right?"
+msgstr ""
+
+msgctxt "15312_Erena"
+msgid "Huh? Are you plannin' on makin' a move on my sisters!? I'm a little shocked."
+msgstr ""
+
+msgctxt "15324_Akiyama"
+msgid "I was just kidding!"
+msgstr ""
+
+msgctxt "15336_Erena"
+msgid "Well, it isn't funny. It's like you're just waitin' for the chance to cheat."
+msgstr ""
+
+msgctxt "15348_Akiyama"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "15360_Erena"
+msgid "Akiyama-san!"
+msgstr ""
+
+msgctxt "15372_Akiyama"
+msgid "Heheh. Why do you look so happy?"
+msgstr ""
+
+msgctxt "15384_Erena"
+msgid "Actually, I ran into Miyuki again and we became friends."
+msgstr ""
+
+msgctxt "15396_Akiyama"
+msgid "Miyuki?"
+msgstr ""
+
+msgctxt "15408_Erena"
+msgid ""
+"You know, the girl you helped the other day. The one who got dumped by that "
+"jerk."
+msgstr ""
+
+msgctxt "15420_Akiyama"
+msgid "Her!? When did this happen?"
+msgstr ""
+
+msgctxt "15432_Erena"
+msgid ""
+"I just happened to see her by the side of the road. I thought it might be "
+"her, so I approached her, and sure enough it was."
+msgstr ""
+
+msgctxt "15444_Akiyama"
+msgid ""
+"I'm surprised you remembered her. But I guess an experience like that "
+"sticks with you, huh?"
+msgstr ""
+
+msgctxt "15456_Erena"
+msgid ""
+"Actually, I wasn't sure it was her. At least not till I started talking to "
+"her."
+msgstr ""
+
+msgctxt "15468_Akiyama"
+msgid "Oh really?"
+msgstr ""
+
+msgctxt "15480_Erena"
+msgid ""
+"Her makeup was a little different, and she was smiling a lot. She was real "
+"cute. She seemed happy."
+msgstr ""
+
+msgctxt "15492_Erena"
+msgid ""
+"When I asked her what'd happened, she said that she'd decided to forget "
+"about that guy and concentrate on makin' herself more beautiful."
+msgstr ""
+
+msgctxt "15504_Akiyama"
+msgid "I see. I'm glad she was able to get over it."
+msgstr ""
+
+msgctxt "15516_Erena"
+msgid "I hope I can be that pretty someday."
+msgstr ""
+
+msgctxt "15528_Akiyama"
+msgid "I'm not sure if you can get any prettier."
+msgstr ""
+
+msgctxt "15540_Erena"
+msgid "You'll see. I'll be so pretty, ya won't believe it. You just wait!"
+msgstr ""
+
+msgctxt "15552_Akiyama"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "15564_Akiyama"
+msgid ""
+"She must've been surprised. She probably thought you were crazy or "
+"something."
+msgstr ""
+
+msgctxt "15576_Erena"
+msgid "Haha! Actually, she remembered me. We went straight to a café and had tea!"
+msgstr ""
+
+msgctxt "15588_Akiyama"
+msgid "How is she doing? Was she able to get over everything that happened?"
+msgstr ""
+
+msgctxt "15600_Erena"
+msgid ""
+"She's fine! She looks almost like a different person, she's so pretty! "
+"She's the type of girl that men stop to look at on the street."
+msgstr ""
+
+msgctxt "15612_Akiyama"
+msgid "Really? Wow. I'm surprised you recognized her if she changed so much."
+msgstr ""
+
+msgctxt "15624_Erena"
+msgid "If you wanna be a good hostess, ya gotta have a good memory for faces."
+msgstr ""
+
+msgctxt "15636_Akiyama"
+msgid "Heheh. I see."
+msgstr ""
+
+msgctxt "15648_Akiyama"
+msgid "You should introduce her to me sometime."
+msgstr ""
+
+msgctxt "15660_Erena"
+msgid "Why? Are you thinking of cheating on me?"
+msgstr ""
+
+msgctxt "15672_Akiyama"
+msgid ""
+"It's not that. I've just been a little worried about her. It must've been "
+"tough to get dumped that way."
+msgstr ""
+
+msgctxt "15684_Erena"
+msgid " Oh! Then I know the perfect time for you to meet her!"
+msgstr ""
+
+msgctxt "15696_Akiyama"
+msgid "When?"
+msgstr ""
+
+msgctxt "15708_Erena"
+msgid "Miyuki and I were talking about goin' to a hot spring together."
+msgstr ""
+
+msgctxt "15720_Akiyama"
+msgid "Wait a second. You're not asking me to pay for your trip, are you?"
+msgstr ""
+
+msgctxt "15732_Erena"
+msgid "You're right! Good guess."
+msgstr ""
+
+msgctxt "15744_Akiyama"
+msgid "Oh, all right. Let's make it a trip to remember, then."
+msgstr ""
+
+msgctxt "15756_Erena"
+msgid "Haha! I knew you'd understand."
+msgstr ""
+
+msgctxt "15768_Erena"
+msgid "Normal dialogue 31."
+msgstr ""
+
+msgctxt "15792_Erena"
+msgid "You came to see me again!"
+msgstr ""
+
+msgctxt "15828_Erena"
+msgid "Welcome!"
+msgstr ""
+
+msgctxt "15840_Erena"
+msgid "Thanks so much for coming!"
+msgstr ""
+
+msgctxt "15852_Erena"
+msgid "Did you come just to see me?"
+msgstr ""
+
+msgctxt "15864_Erena"
+msgid "Thanks for the other day. I had a wonderful time!"
+msgstr ""
+
+msgctxt "15876_Erena"
+msgid "Akiyama-san, I was waitin' for you to take me out..."
+msgstr ""
+
+msgctxt "15888_Erena"
+msgid "Sorry about before. We should go again."
+msgstr ""
+
+msgctxt "15900_Erena"
+msgid "Akiyama-san, I was lookin' forward to being your escort..."
+msgstr ""
+
+msgctxt "15912_Erena"
+msgid "Sorry about before. We should go again."
+msgstr ""
+
+msgctxt "15924_Erena"
+msgid "Let me introduce myself properly. I'm Erena."
+msgstr ""
+
+msgctxt "15936_Akiyama"
+msgid "Hi."
+msgstr ""
+
+msgctxt "15948_Erena"
+msgid "Welcome!"
+msgstr ""
+
+msgctxt "15960_Erena"
+msgid "Make yourself at home."
+msgstr ""
+
+msgctxt "15972_Erena"
+msgid "I hope you have a good time! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15984_Erena"
+msgid "Sit back and relax."
+msgstr ""
+
+msgctxt "15996_Erena"
+msgid "Thanks for takin' me out after work last time. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16008_Erena"
+msgid "We should go out again sometime."
+msgstr ""
+
+msgctxt "16020_Erena"
+msgid "We should go out again sometime."
+msgstr ""
+
+msgctxt "16032_Erena"
+msgid "We're gonna be together all day."
+msgstr ""
+
+msgctxt "16044_Erena"
+msgid "I hope you'll take me out again sometime."
+msgstr ""
+
+msgctxt "16056_Erena"
+msgid "I hope you'll take me out again sometime."
+msgstr ""
+
+msgctxt "16068_Erena"
+msgid "You're lookin' real manly today!"
+msgstr ""
+
+msgctxt "16080_Erena"
+msgid "You look real nice today!"
+msgstr ""
+
+msgctxt "16092_Erena"
+msgid "You always seem to look the same."
+msgstr ""
+
+msgctxt "16104_Erena"
+msgid "Um... Do you really like that outfit you're wearin'?"
+msgstr ""
+
+msgctxt "16116_Erena"
+msgid "About that outfit... You should really work a little harder on lookin' nice!"
+msgstr ""
+
+msgctxt "16128_Erena"
+msgid "You smell nice today. So sweet and musky!"
+msgstr ""
+
+msgctxt "16140_Erena"
+msgid "What? Is this for me!?"
+msgstr ""
+
+msgctxt "16152_F_cab_sitsofa_tlk_happy"
+msgid ""
+"Wow! I've been lookin' for something like this forever!\r\n"
+"Thank you!"
+msgstr ""
+
+msgctxt "16164_Erena"
+msgid "Is that for me?"
+msgstr ""
+
+msgctxt "16176_F_cab_sitsofa_tlk_tereruA"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "16188_Erena"
+msgid "Is that a present for me?"
+msgstr ""
+
+msgctxt "16212_Erena"
+msgid "Uh, what is that, exactly?"
+msgstr ""
+
+msgctxt "16236_Erena"
+msgid "Hey! What's the big idea!?"
+msgstr ""
+
+msgctxt "16248_F_cab_sitsofa_tlk_angry"
+msgid "Are you trying to tease me or somethin'!?"
+msgstr ""
+
+msgctxt "16260_Erena"
+msgid "You already gave me one of those."
+msgstr ""
+
+msgctxt "16272_Erena"
+msgid "Did you forget?"
+msgstr ""
+
+msgctxt "16284_Erena"
+msgid "I've been into perfumes recently, and I've wanted this one real bad!"
+msgstr ""
+
+msgctxt "16296_Erena"
+msgid "It smells like cassis and framboise! I just love it!"
+msgstr ""
+
+msgctxt "16308_Erena"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "16320_Erena"
+msgid "What would you like?"
+msgstr ""
+
+msgctxt "16344_Player"
+msgid "I'll have this, then."
+msgstr ""
+
+msgctxt "16356_Erena"
+msgid "You don't want a drink? I don't get it."
+msgstr ""
+
+msgctxt "16368_Erena"
+msgid "Your glass is empty. Would you like another drink?"
+msgstr ""
+
+msgctxt "16392_Player"
+msgid "I guess I'll have this."
+msgstr ""
+
+msgctxt "16404_Erena"
+msgid "Oh... You're not a very strong drinker, huh?"
+msgstr ""
+
+msgctxt "16416_Erena"
+msgid "I love that!"
+msgstr ""
+
+msgctxt "16428_Erena"
+msgid "You got good taste!"
+msgstr ""
+
+msgctxt "16440_Erena"
+msgid "I like that, too!"
+msgstr ""
+
+msgctxt "16452_Erena"
+msgid "It's tasty, isn't it?"
+msgstr ""
+
+msgctxt "16464_Erena"
+msgid "Okay."
+msgstr ""
+
+msgctxt "16476_Erena"
+msgid "You really want that?"
+msgstr ""
+
+msgctxt "16488_Erena"
+msgid "Well, okay..."
+msgstr ""
+
+msgctxt "16500_Erena"
+msgid "What do you want that for?"
+msgstr ""
+
+msgctxt "16512_Erena"
+msgid " Well, I guess it's okay if you really want it."
+msgstr ""
+
+msgctxt "16524_Erena"
+msgid "Want somethin' to eat?"
+msgstr ""
+
+msgctxt "16548_Player"
+msgid "I guess I'll have this."
+msgstr ""
+
+msgctxt "16560_Erena"
+msgid "Aren't you hungry?"
+msgstr ""
+
+msgctxt "16572_Erena"
+msgid "Want somethin' to eat?"
+msgstr ""
+
+msgctxt "16596_Player"
+msgid "I'll have this."
+msgstr ""
+
+msgctxt "16608_Erena"
+msgid "You're not a big eater, are ya?"
+msgstr ""
+
+msgctxt "16620_Erena"
+msgid "I love that!"
+msgstr ""
+
+msgctxt "16632_Erena"
+msgid "Can I sneak a bite?"
+msgstr ""
+
+msgctxt "16644_Erena"
+msgid "Good choice! That's delicious!"
+msgstr ""
+
+msgctxt "16656_Erena"
+msgid "Okay, gotcha."
+msgstr ""
+
+msgctxt "16668_Erena"
+msgid "You like that? I guess we have pretty different tastes."
+msgstr ""
+
+msgctxt "16680_Erena"
+msgid "I really don't like that."
+msgstr ""
+
+msgctxt "16692_Erena"
+msgid "I have no idea why some people think it tastes good."
+msgstr ""
+
+msgctxt "16704_Erena"
+msgid "I'll put in the order, then."
+msgstr ""
+
+msgctxt "16716_Erena"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "16728_Erena"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "16740_F_cab_sitsofa_tlk_tereruA"
+msgid "This is what we'll be havin'."
+msgstr ""
+
+msgctxt "16752_Erena"
+msgid "Very well."
+msgstr ""
+
+msgctxt "16776_Erena"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "16788_Erena"
+msgid "Cheers."
+msgstr ""
+
+msgctxt "16812_Erena"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "16824_Erena"
+msgid "Cheers."
+msgstr ""
+
+msgctxt "16848_Erena"
+msgid "Lemme get that for ya."
+msgstr ""
+
+msgctxt "16860_Erena"
+msgid "All right..."
+msgstr ""
+
+msgctxt "16896_Erena"
+msgid "I'm Erena. Nice to meet ya!"
+msgstr ""
+
+msgctxt "16908_Erena"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "16920_Erena"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+
+msgctxt "16932_Erena"
+msgid "You got a business card."
+msgstr ""
+
+msgctxt "16968_Erena"
+msgid "(Maybe I'll request her next time.)"
+msgstr ""
+
+msgctxt "16992_Erena"
+msgid "Come back soon, okay? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17004_Erena"
+msgid "I will."
+msgstr ""
+
+msgctxt "17016_Erena"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+
+msgctxt "17028_Erena"
+msgid "You got Erena's fancy business card."
+msgstr ""
+
+msgctxt "17076_Erena"
+msgid "Here ya go!"
+msgstr ""
+
+msgctxt "17088_Erena"
+msgid "......"
+msgstr ""
+
+msgctxt "17100_Erena"
+msgid "Do ya mind if I smoke?"
+msgstr ""
+
+msgctxt "17112_Erena"
+msgid "No, go ahead."
+msgstr ""
+
+msgctxt "17124_Erena"
+msgid "Come on. Have a drink!"
+msgstr ""
+
+msgctxt "17136_Erena"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "17148_Erena"
+msgid "I'll have some myself!"
+msgstr ""
+
+msgctxt "17160_Erena"
+msgid "Of course."
+msgstr ""
+
+msgctxt "17172_Akiyama"
+msgid "I should get going."
+msgstr ""
+
+msgctxt "17184_F_cab_sitsofa_tlk_noA"
+msgid "You're leavin' already?"
+msgstr ""
+
+msgctxt "17196_Erena"
+msgid "Guess your time is up."
+msgstr ""
+
+msgctxt "17208_P_sitsofaR_tlk_yes"
+msgid "Looks like it."
+msgstr ""
+
+msgctxt "17220_Erena"
+msgid "終了時_アフター_初。"
+msgstr ""
+
+msgctxt "17232_Erena"
+msgid "終了時_アフター_遅刻後。"
+msgstr ""
+
+msgctxt "17244_Erena"
+msgid "終了時_アフター_失敗後。"
+msgstr ""
+
+msgctxt "17256_Erena"
+msgid "終了時_同伴_初。"
+msgstr ""
+
+msgctxt "17268_Erena"
+msgid "終了時_同伴_遅刻後。"
+msgstr ""
+
+msgctxt "17280_Erena"
+msgid "終了時_同伴_失敗後。"
+msgstr ""
+
+msgctxt "17292_Erena"
+msgid "終了時_ミニミッション。"
+msgstr ""
+
+msgctxt "17304_Erena"
+msgid "終了時_クリア後。"
+msgstr ""
+
+msgctxt "17316_Erena"
+msgid "Thanks for comin'."
+msgstr ""
+
+msgctxt "17352_Erena"
+msgid "Come again!"
+msgstr ""
+
+msgctxt "17364_Erena"
+msgid "Of course."
+msgstr ""
+
+msgctxt "17376_F_cab_sitsofa_tlk_tereruA"
+msgid "See you soon..."
+msgstr ""
+
+msgctxt "17412_Erena"
+msgid "Believe it or not, I had a blast with you today. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17424_Erena"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "17436_F_cab_sitsofa_tlk_tereruA"
+msgid "See you soon..."
+msgstr ""
+
+msgctxt "17472_Erena"
+msgid "Thanks for today. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17484_Erena"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "17496_F_cab_sitsofa_tlk_tereruA"
+msgid "See you soon..."
+msgstr ""
+
+msgctxt "17532_Erena"
+msgid "I love you! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17544_Erena"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "17556_F_cab_sitsofa_tlk_tereruA"
+msgid "See you soon..."
+msgstr ""
+
+msgctxt "17604_Erena"
+msgid "Come again!"
+msgstr ""
+
+msgctxt "17616_Erena"
+msgid "I really had fun!"
+msgstr ""
+
+msgctxt "17628_Erena"
+msgid "Me too."
+msgstr ""
+
+msgctxt "17640_Erena"
+msgid "Have ya heard any news or gossip in this city recently?"
+msgstr ""
+
+msgctxt "17652_Erena"
+msgid "I haven't been keepin' up with the local gossip, but I bet you have."
+msgstr ""
+
+msgctxt "17664_P_sitsofaR_tlk_smile"
+msgid "Let me think..."
+msgstr ""
+
+msgctxt "17676_Akiyama"
+msgid "No... Nothing in particular."
+msgstr ""
+
+msgctxt "17808_Erena"
+msgid "Akiyama-san! How do you like today's look?"
+msgstr ""
+
+msgctxt "17820_Akiyama"
+msgid "You look great, but why do you ask?"
+msgstr ""
+
+msgctxt "17832_Erena"
+msgid "I just like to stand out. I want to make sure people look at me."
+msgstr ""
+
+msgctxt "17844_Akiyama"
+msgid "All right, all right."
+msgstr ""
+
+msgctxt "17856_Erena"
+msgid "What part of a woman's body do you like the best?"
+msgstr ""
+
+msgctxt "17868_Akiyama"
+msgid "I've never really thought about it."
+msgstr ""
+
+msgctxt "17880_Erena"
+msgid "I don't buy that! I bet ya like one part better than the rest."
+msgstr ""
+
+msgctxt "17892_Erena"
+msgid "Oh, I know! Which part of <Italic>my</Italic> body do you like the best?"
+msgstr ""
+
+msgctxt "17904_Akiyama"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "17940_Erena"
+msgid "Look! This is the present you gave me!"
+msgstr ""
+
+msgctxt "17952_Erena"
+msgid "I just love it!"
+msgstr ""
+
+msgctxt "17964_Erena"
+msgid "I'm a little thirsty. Is it cool if I order somethin'?"
+msgstr ""
+
+msgctxt "17988_Erena"
+msgid "Yay! I'll go ahead and order it, then."
+msgstr ""
+
+msgctxt "18000_F_cab_sitsofa_sync_order"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "18024_Erena"
+msgid "Aw. Why not?"
+msgstr ""
+
+msgctxt "18036_Erena"
+msgid "I'm kind of hungry. Can I order some <Color:7>Dried Ray Fin<Color:Default>?"
+msgstr ""
+
+msgctxt "18048_Erena"
+msgid "Really!? I'll go ahead and order, then."
+msgstr ""
+
+msgctxt "18060_F_cab_sitsofa_sync_order"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "18072_Akiyama"
+msgid "Oh, sorry. I don't have enough money."
+msgstr ""
+
+msgctxt "18084_Erena"
+msgid "What!? Seriously? I guess you're poorer than ya look."
+msgstr ""
+
+msgctxt "18096_Erena"
+msgid "Aw. I never thought you were the cheap type."
+msgstr ""
+
+msgctxt "18108_Erena"
+msgid "Thanks for your email! I guess I'm still getting used to life in Tokyo."
+msgstr ""
+
+msgctxt "18120_Erena"
+msgid ""
+"I was real happy when you said that I should just be myself. You really "
+"think that?"
+msgstr ""
+
+msgctxt "18132_Akiyama"
+msgid "Sure I do."
+msgstr ""
+
+msgctxt "18144_Erena"
+msgid ""
+"You must really like cherry blossoms if you go the day before just to find "
+"the best spot to view 'em."
+msgstr ""
+
+msgctxt "18156_Akiyama"
+msgid ""
+"There's nothing better than drinking sake under the cherry blossoms, if you "
+"ask me."
+msgstr ""
+
+msgctxt "18168_Erena"
+msgid ""
+"Then let me know if ya find a good spot. I wouldn't mind joinin' you for a "
+"drink."
+msgstr ""
+
+msgctxt "18180_Erena"
+msgid "I was people watching from inside a café the other day..."
+msgstr ""
+
+msgctxt "18192_Erena"
+msgid ""
+"...when I saw an employee from the café throw a sign to a man who was in a "
+"fight. The man caught the sign and smashed it into the guy's bottom!"
+msgstr ""
+
+msgctxt "18204_Erena"
+msgid ""
+"It was hilarious! I was too far away to see who it was, but there sure are "
+"some strange people in Tokyo."
+msgstr ""
+
+msgctxt "18216_Akiyama"
+msgid "Yeah... He sounds like a real weirdo..."
+msgstr ""
+
+msgctxt "18228_Erena"
+msgid "I ended up going to the beauty salon after I did some shoppin'."
+msgstr ""
+
+msgctxt "18240_Akiyama"
+msgid "Really? I don't think it's necessary, though."
+msgstr ""
+
+msgctxt "18252_Erena"
+msgid ""
+"I can't afford to think like that. I've got to work real hard to keep "
+"myself beautiful. I don't want you gettin' tired of me."
+msgstr ""
+
+msgctxt "18264_Akiyama"
+msgid "I don't think you have to worry about that."
+msgstr ""
+
+msgctxt "18276_Erena"
+msgid ""
+"You should really go get a massage yourself. You always seem to have a "
+"stiff neck."
+msgstr ""
+
+msgctxt "18288_Akiyama"
+msgid "You can tell? Yeah, it's a problem."
+msgstr ""
+
+msgctxt "18300_Erena"
+msgid "I'm always watching you. Ya can't hide somethin' like that from me."
+msgstr ""
+
+msgctxt "18312_Erena"
+msgid "What's your favorite place in Tokyo?"
+msgstr ""
+
+msgctxt "18324_Erena"
+msgid "You came to Tokyo all by yourself?"
+msgstr ""
+
+msgctxt "18336_Erena"
+msgid "I guess Kyoto is a bit slower-paced, huh?"
+msgstr ""
+
+msgctxt "18348_Erena"
+msgid "He picked you up, just like that!?"
+msgstr ""
+
+msgctxt "18360_Erena"
+msgid "What's with young girls these days?"
+msgstr ""
+
+msgctxt "18372_Erena"
+msgid "Is this something you tell all your customers?"
+msgstr ""
+
+msgctxt "18384_Erena"
+msgid "I guess you can be cute when you try."
+msgstr ""
+
+msgctxt "18396_Erena"
+msgid "Wouldn't you rather wear something you like?"
+msgstr ""
+
+msgctxt "18408_Erena"
+msgid "I think you've got it wrong."
+msgstr ""
+
+msgctxt "18420_Erena"
+msgid "Rich, huh? At least you're honest."
+msgstr ""
+
+msgctxt "18432_Erena"
+msgid "Isn't that asking a little much?"
+msgstr ""
+
+msgctxt "18444_Erena"
+msgid "Why do you like manly men?"
+msgstr ""
+
+msgctxt "18456_Erena"
+msgid "It sounds like he's trying pretty hard."
+msgstr ""
+
+msgctxt "18468_Erena"
+msgid "Maybe I should try that one myself."
+msgstr ""
+
+msgctxt "18480_Erena"
+msgid "I don't know... Putting it in her food?"
+msgstr ""
+
+msgctxt "18492_Erena"
+msgid "Even if it's not true?"
+msgstr ""
+
+msgctxt "18504_Erena"
+msgid "I'm no fan of empty flattery."
+msgstr ""
+
+msgctxt "18516_Erena"
+msgid "Yep, you sure are pretty."
+msgstr ""
+
+msgctxt "18528_Erena"
+msgid "Usually just canned beer."
+msgstr ""
+
+msgctxt "18540_Erena"
+msgid "I like shochu. You know, sweet potato liquor?"
+msgstr ""
+
+msgctxt "18552_Erena"
+msgid "I drink a lot of whiskey."
+msgstr ""
+
+msgctxt "18564_Erena"
+msgid "Somewhere with beautiful night scenery."
+msgstr ""
+
+msgctxt "18576_Erena"
+msgid "Someplace with great food."
+msgstr ""
+
+msgctxt "18588_Erena"
+msgid "That's a secret."
+msgstr ""
+
+msgctxt "18600_Erena"
+msgid "Two glasses? That's not very much."
+msgstr ""
+
+msgctxt "18612_Erena"
+msgid "You don't need to worry about that."
+msgstr ""
+
+msgctxt "18624_Erena"
+msgid "It takes more than just water."
+msgstr ""
+
+msgctxt "18636_Erena"
+msgid "Well, I don't know."
+msgstr ""
+
+msgctxt "18648_Erena"
+msgid "Doesn't matter to me."
+msgstr ""
+
+msgctxt "18660_Erena"
+msgid "Of course."
+msgstr ""
+
+msgctxt "18672_Erena"
+msgid "It sounds like you're having fun."
+msgstr ""
+
+msgctxt "18684_Erena"
+msgid "Maybe you're just tired."
+msgstr ""
+
+msgctxt "18696_Erena"
+msgid "You should make up with her."
+msgstr ""
+
+msgctxt "18708_Erena"
+msgid "I told you so."
+msgstr ""
+
+msgctxt "18720_Erena"
+msgid "Maybe you're just working too hard at it."
+msgstr ""
+
+msgctxt "18732_Erena"
+msgid "Are you breaking up with him already?"
+msgstr ""
+
+msgctxt "18744_Erena"
+msgid "That's not such a big deal."
+msgstr ""
+
+msgctxt "18756_Erena"
+msgid "I'd be a little surprised too."
+msgstr ""
+
+msgctxt "18768_Erena"
+msgid "It must've been a pretty boring movie."
+msgstr ""
+
+msgctxt "18780_Erena"
+msgid "It's great when women can cook."
+msgstr ""
+
+msgctxt "18792_Erena"
+msgid "So you try to look like you can't cook?"
+msgstr ""
+
+msgctxt "18804_Erena"
+msgid "You can't fool me."
+msgstr ""
+
+msgctxt "18816_Erena"
+msgid "Don't some people hate fake Kansai accents?"
+msgstr ""
+
+msgctxt "18828_Erena"
+msgid "There's nothing cute about a Kansai accent."
+msgstr ""
+
+msgctxt "18840_Erena"
+msgid "(I'll say something in a Kansai accent.)"
+msgstr ""
+
+msgctxt "18852_Erena"
+msgid "You certainly don't look it."
+msgstr ""
+
+msgctxt "18864_Erena"
+msgid "You want something to eat?"
+msgstr ""
+
+msgctxt "18876_Erena"
+msgid "You'll just have to grin and bear it for now."
+msgstr ""
+
+msgctxt "18888_Erena"
+msgid "Did she steal a boyfriend from you or something?"
+msgstr ""
+
+msgctxt "18900_Erena"
+msgid "Did she used to bully you or something?"
+msgstr ""
+
+msgctxt "18912_Erena"
+msgid "Sorry. I didn't mean to pry."
+msgstr ""
+
+msgctxt "18924_Erena"
+msgid "That's a little scary."
+msgstr ""
+
+msgctxt "18936_Erena"
+msgid "Your parents must've worked hard."
+msgstr ""
+
+msgctxt "18948_Erena"
+msgid "I can imagine how noisy that'd be."
+msgstr ""
+
+msgctxt "18960_Erena"
+msgid "If I like someone, I tell them right away."
+msgstr ""
+
+msgctxt "18972_Erena"
+msgid "I like to take my time."
+msgstr ""
+
+msgctxt "18984_Erena"
+msgid "It depends on the situation."
+msgstr ""
+
+msgctxt "18996_Erena"
+msgid "You keep making me fall for you all over again."
+msgstr ""
+
+msgctxt "19008_Erena"
+msgid "You buy things through mail-order, huh?"
+msgstr ""
+
+msgctxt "19020_Erena"
+msgid "Buying the equipment is just the first step."
+msgstr ""
+
+msgctxt "19032_Erena"
+msgid "This is your chance to end it."
+msgstr ""
+
+msgctxt "19044_Erena"
+msgid "Do you know how he feels?"
+msgstr ""
+
+msgctxt "19056_Erena"
+msgid "Maybe it's just temporary."
+msgstr ""
+
+msgctxt "19068_Erena"
+msgid "There's no need to be sad about it."
+msgstr ""
+
+msgctxt "19080_Erena"
+msgid "Are you sure you didn't love him?"
+msgstr ""
+
+msgctxt "19092_Erena"
+msgid "You jumped into that relationship too quickly."
+msgstr ""
+
+msgctxt "19104_Erena"
+msgid "Don't worry about what the other person thinks."
+msgstr ""
+
+msgctxt "19116_Erena"
+msgid "So what are you saying?"
+msgstr ""
+
+msgctxt "19128_Erena"
+msgid "Maybe the opposite would be better."
+msgstr ""
+
+msgctxt "19140_Erena"
+msgid "Real life never works out that way."
+msgstr ""
+
+msgctxt "19152_Erena"
+msgid "I don't like happy endings."
+msgstr ""
+
+msgctxt "19164_Erena"
+msgid "You're pretty cute sometimes."
+msgstr ""
+
+msgctxt "19176_Erena"
+msgid "You can't do that with other customers?"
+msgstr ""
+
+msgctxt "19188_Erena"
+msgid "We do get along well, don't we?"
+msgstr ""
+
+msgctxt "19200_Erena"
+msgid "I'm nobody special."
+msgstr ""
+
+msgctxt "19212_Erena"
+msgid "You could do both."
+msgstr ""
+
+msgctxt "19224_Erena"
+msgid "Where else do you want to visit?"
+msgstr ""
+
+msgctxt "19236_Erena"
+msgid "Wouldn't it be better to just travel in Japan?"
+msgstr ""
+
+msgctxt "19248_Erena"
+msgid "How annoying is she, exactly?"
+msgstr ""
+
+msgctxt "19260_Erena"
+msgid "If you live together, you have to get along."
+msgstr ""
+
+msgctxt "19272_Erena"
+msgid "Why doesn't she just clean up?"
+msgstr ""
+
+msgctxt "19284_Erena"
+msgid "You don't have anything to worry about."
+msgstr ""
+
+msgctxt "19296_Erena"
+msgid "Why are you saying this now?"
+msgstr ""
+
+msgctxt "19308_Erena"
+msgid "You're really worried about this, aren't you?"
+msgstr ""
+
+msgctxt "19320_Erena"
+msgid "You shouldn't overdo it."
+msgstr ""
+
+msgctxt "19332_Erena"
+msgid "I know a good restaurant you might like."
+msgstr ""
+
+msgctxt "19344_Erena"
+msgid "That's not like you."
+msgstr ""
+
+msgctxt "19356_Erena"
+msgid "That sounds like fun."
+msgstr ""
+
+msgctxt "19368_Erena"
+msgid "What do the four of you talk about?"
+msgstr ""
+
+msgctxt "19380_Erena"
+msgid "You'll have to introduce me to them."
+msgstr ""
+
+msgctxt "19392_Erena"
+msgid "I'm surprised you remembered her."
+msgstr ""
+
+msgctxt "19404_Erena"
+msgid "She must've been surprised."
+msgstr ""
+
+msgctxt "19416_Erena"
+msgid "You should introduce her to me sometime."
+msgstr ""
+
+msgctxt "19428_Erena"
+msgid "Nothing"
+msgstr ""
+
+msgctxt "19440_Erena"
+msgid "777 Town"
+msgstr ""
+
+msgctxt "19452_Erena"
+msgid "Amoebatar"
+msgstr ""
+
+msgctxt "19464_Erena"
+msgid "The Ghost in the Underground Mall"
+msgstr ""
+
+msgctxt "19476_Erena"
+msgid "The Footbaths at Yunosono Hot Springs"
+msgstr ""
+
+msgctxt "19488_Erena"
+msgid "Popular Golf Dates Among Women"
+msgstr ""
+
+msgctxt "19500_Erena"
+msgid "Eating Liver to Reverse Brain Aging"
+msgstr ""
+
+msgctxt "19512_Erena"
+msgid "The Pole Dancing Workout"
+msgstr ""
+
+msgctxt "19524_Erena"
+msgid "Popular Sweet Sake Among Women"
+msgstr ""
+
+msgctxt "19536_Erena"
+msgid "Sure."
+msgstr ""
+
+msgctxt "19548_Erena"
+msgid "No."
+msgstr ""
+
+msgctxt "19560_Erena"
+msgid "Sure, why not?"
+msgstr ""
+
+msgctxt "19572_Erena"
+msgid "No."
+msgstr ""

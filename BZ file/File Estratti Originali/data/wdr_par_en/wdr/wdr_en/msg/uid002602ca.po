@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1712"
+msgid "Elise Manager"
+msgstr ""
+
+msgctxt "1716"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1720"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1724"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "1728"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1732"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1736"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1740"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "112_Elise Manager"
+msgid "Hello, Akiyama-san."
+msgstr ""
+
+msgctxt "124_Akiyama"
+msgid ""
+"Yo. I thought I'd drop in and check on the club. How are\r\n"
+"things?"
+msgstr ""
+
+msgctxt "136_Elise Manager"
+msgid "Remarkably well, given the state of the economy."
+msgstr ""
+
+msgctxt "148_Akiyama"
+msgid "Really? That's good to hear."
+msgstr ""
+
+msgctxt "160_Elise Manager"
+msgid "But..."
+msgstr ""
+
+msgctxt "172_Akiyama"
+msgid "But what?"
+msgstr ""
+
+msgctxt "184_Elise Manager"
+msgid "Well, it's Miki..."
+msgstr ""
+
+msgctxt "196_Akiyama"
+msgid "What about her?"
+msgstr ""
+
+msgctxt "208_Elise Manager"
+msgid "Maybe you'd better ask her yourself. She's in today."
+msgstr ""
+
+msgctxt "220_Akiyama"
+msgid "All right. Have her stop by the dressing room."
+msgstr ""

@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "148"
+msgid "You handed over the <Color:8>Chain<Color:Default>."
+msgstr ""
+
+msgctxt "172"
+msgid "You handed over the <Color:8>Hoe<Color:Default>."
+msgstr ""
+
+msgctxt "280"
+msgid "You got the <Color:8>Chain and Grappling Hook<Color:Default>."
+msgstr ""
+
+msgctxt "12164"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "12168"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "12172"
+msgid "Kamiyama"
+msgstr ""
+
+msgctxt "12176"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12180"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "12184"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12188"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "12192"
+msgid "M_big_stand"
+msgstr ""
+
+msgctxt "12196"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "12200"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "136_Saejima"
+msgid "Got everythin' ya asked for. Now can ya fix me up that grapplin' hook?"
+msgstr ""
+
+msgctxt "196_Kamiyama"
+msgid ""
+"Wow... I'm amazed you actually scrounged up all the materials in here. This "
+"should be perfect, yes."
+msgstr ""
+
+msgctxt "208_Kamiyama"
+msgid "Pardon me a moment while I step into my workshop."
+msgstr ""
+
+msgctxt "268_Kamiyama"
+msgid "Sorry to keep you waiting. One grappling hook, just as ordered."
+msgstr ""
+
+msgctxt "304_Kamiyama"
+msgid ""
+"I don't know what you're planning, and I prefer to keep it that way... but "
+"please, don't tell anyone where you got this."
+msgstr ""
+
+msgctxt "316_Saejima"
+msgid "Don't worry, I ain't no snitch."
+msgstr ""
+
+msgctxt "328_Kamiyama"
+msgid ""
+"Great. Seeing how you seem to do things, I bet whatever you're planning "
+"is... big. I can't wait to find out what it is. Anyway, good luck."
+msgstr ""
+
+msgctxt "352_Kamiyama"
+msgid "I'm going to need something nice and metallic to fashion into a hook."
+msgstr ""
+
+msgctxt "364_Kamiyama"
+msgid ""
+"A pitchfork or hoe would work perfectly... so maybe you can ask an inmate "
+"on farm detail?"
+msgstr ""
+
+msgctxt "376_Saejima"
+msgid "Hey, got the chain."
+msgstr ""
+
+msgctxt "388_Kamiyama"
+msgid "Already? Wow, you're good. This should work quite nicely."
+msgstr ""
+
+msgctxt "400_Kamiyama"
+msgid "It's, uh, pretty heavy though. You sure that's okay?"
+msgstr ""
+
+msgctxt "412_Saejima"
+msgid "Not gonna be a problem."
+msgstr ""
+
+msgctxt "424_Kamiyama"
+msgid ""
+"If you say so. Now for the hook part of this whole arrangement... You "
+"wouldn't happen to have a pitchfork, would you?"
+msgstr ""
+
+msgctxt "436_Saejima"
+msgid "Uh, no."
+msgstr ""
+
+msgctxt "448_Kamiyama"
+msgid ""
+"Hm... Oh, I've got it! One of the guys they put on farm duty might have "
+"something you can use."
+msgstr ""
+
+msgctxt "460_Kamiyama"
+msgid ""
+"I mean, you can't farm without equipment. Think I can get by with a "
+"pitchfork or maybe even a hoe."
+msgstr ""
+
+msgctxt "472_Saejima"
+msgid "(Huh. Didn't think I'd be scroungin' up farm tools for this.)"
+msgstr ""
+
+msgctxt "496_Kamiyama"
+msgid ""
+"Start by getting me a chain, the thicker the better. I think I've seen one "
+"of the inmates swinging one around recently."
+msgstr ""
+
+msgctxt "508_Kamiyama"
+msgid ""
+"Oh, and... do try not to get into any fights. The guards here don't take "
+"too kindly to roughhousing."
+msgstr ""
+
+msgctxt "520_Saejima"
+msgid "Hey, got a sec?"
+msgstr ""
+
+msgctxt "532_Kamiyama"
+msgid "Oh, uh, sure. You're the one they hauled in yesterday, right?"
+msgstr ""
+
+msgctxt "544_Saejima"
+msgid "Yup. Heard you're good with your hands."
+msgstr ""
+
+msgctxt "556_Kamiyama"
+msgid ""
+"That's right, sir. I made a name for myself on these islands as, well... "
+"Let's just say I'm a craftsman of sorts. Or at least I "
+"<Italic>was</Italic>, until I got thrown in here."
+msgstr ""
+
+msgctxt "568_Saejima"
+msgid ""
+"What's a regular ol' citizen doing gettin' dumped in one of the highest "
+"security prisons in the country?"
+msgstr ""
+
+msgctxt "580_Kamiyama"
+msgid "I suppose I was just in the wrong place at the wrong time."
+msgstr ""
+
+msgctxt "592_Kamiyama"
+msgid ""
+"I was minding my own business, doing business with some fine gentlemen "
+"who... turned out to be yakuza. When the police showed up for them, they "
+"took me in, too."
+msgstr ""
+
+msgctxt "604_Kamiyama"
+msgid ""
+"Once they started looking into my livelihood, though, they figured out I "
+"was involved in some, uh, less than legal activities."
+msgstr ""
+
+msgctxt "616_Saejima"
+msgid "Folks in my line of work call those crimes. What kind we talkin'?"
+msgstr ""
+
+msgctxt "628_Kamiyama"
+msgid "Well, um... I made, modded, bought, and sold all kinds of deadly weapons."
+msgstr ""
+
+msgctxt "640_Saejima"
+msgid "Oh."
+msgstr ""
+
+msgctxt "652_Kamiyama"
+msgid ""
+"I never hurt a soul, though! No siree! Er, not directly, anyway. Not to "
+"mention the fact I got forced into the business to start with..."
+msgstr ""
+
+msgctxt "664_Saejima"
+msgid "Ya don't say. Well, whatever your story, I got a favor to ask."
+msgstr ""
+
+msgctxt "676_Saejima"
+msgid "Gonna need ya to make a grapplin' hook for me. Think ya can manage that?"
+msgstr ""
+
+msgctxt "688_Kamiyama"
+msgid "Anything's possible as long as I have the materials. May I ask why?"
+msgstr ""
+
+msgctxt "700_Saejima"
+msgid "Ya can ask, but I ain't tellin'. You'll be better off not knowin', anyhow."
+msgstr ""
+
+msgctxt "712_Kamiyama"
+msgid "I, uh... All right, then. Do you need it to be especially sturdy?"
+msgstr ""
+
+msgctxt "724_Saejima"
+msgid "Sturdy enough to hold a person or two."
+msgstr ""
+
+msgctxt "736_Kamiyama"
+msgid "I... see."
+msgstr ""
+
+msgctxt "748_Kamiyama"
+msgid "Well, all right. No more questions from me, then!"
+msgstr ""
+
+msgctxt "760_Kamiyama"
+msgid "Just bring me a nice, thick chain and that grappling hook should be a cinch."
+msgstr ""
+
+msgctxt "772_Kamiyama"
+msgid ""
+"Fortunately for you, I saw one of the inmates swinging one around the other "
+"day."
+msgstr ""
+
+msgctxt "784_Saejima"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "796_Kamiyama"
+msgid ""
+"Just try to keep things civil, okay? The guards would be on you in a flash "
+"if you start trouble."
+msgstr ""
+
+msgctxt "808_Saejima"
+msgid "Right, thanks."
+msgstr ""

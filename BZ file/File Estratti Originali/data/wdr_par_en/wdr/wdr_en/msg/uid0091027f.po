@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "4104"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "4108"
+msgid "Stranger"
+msgstr ""
+
+msgctxt "4112"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "4116"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4120"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4124"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "4128"
+msgid "Sodachi"
+msgstr ""
+
+msgctxt "4132"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "4136"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "4140"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "4144"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "4148"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4152"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4156"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "100_Saejima"
+msgid "(Gotta stay outta the cops' sight till I make it to the hideout...)"
+msgstr ""
+
+msgctxt "124_Stranger"
+msgid "Hey! Wait, Saejima-san!"
+msgstr ""
+
+msgctxt "148_Stranger"
+msgid ""
+"I just watched you fight! It was impressive how you withstood all that "
+"pain! I was moved!"
+msgstr ""
+
+msgctxt "160_Saejima"
+msgid "Who the hell are ya?"
+msgstr ""
+
+msgctxt "172_Stranger"
+msgid "Oh, sorry! My name is Sodachi. I run a dojo in the neighborhood."
+msgstr ""
+
+msgctxt "184_Saejima"
+msgid "Well whaddya want with me?"
+msgstr ""
+
+msgctxt "196_Sodachi"
+msgid "To tell you the truth, I was hoping you could help me with something."
+msgstr ""
+
+msgctxt "208_Saejima"
+msgid "Help ya...?"
+msgstr ""
+
+msgctxt "220_Sodachi"
+msgid ""
+"Yes... But let's talk at my dojo. That way you can see it for yourself. "
+"It's really close by. Do you have a little time to spare?"
+msgstr ""
+
+msgctxt "232_Saejima"
+msgid "Fine. But make it quick."
+msgstr ""
+
+msgctxt "244_Sodachi"
+msgid "Great! Woohoo! Just follow me and we'll be there in a jiffy!"
+msgstr ""
+
+msgctxt "268_Saejima"
+msgid "Sorry. Ain't got the time."
+msgstr ""
+
+msgctxt "280_Sodachi"
+msgid "I see... I bet you're a pretty busy guy! No worries! Heheh... Heh..."
+msgstr ""
+
+msgctxt "292_Sodachi"
+msgid "Rats... There's no hope left... My dojo is finished!"
+msgstr ""
+
+msgctxt "304_Sodachi"
+msgid "So, this is what utter despair feels like... My chest, oh, it hurts!"
+msgstr ""
+
+msgctxt "316_Saejima"
+msgid "Enough already. I'll go with ya. Just keep it short."
+msgstr ""
+
+msgctxt "328_Sodachi"
+msgid "Great! Woohoo! Follow me! Right this way! Let's go!"
+msgstr ""
+
+msgctxt "352_Saejima"
+msgid "Follow to the Dojo"
+msgstr ""
+
+msgctxt "364_Saejima"
+msgid "Decline"
+msgstr ""

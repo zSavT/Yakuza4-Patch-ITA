@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1020"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1024"
+msgid "HAL_stand_tlk_happy_big"
+msgstr ""
+
+msgctxt "1028"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1032"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "180_Haruka"
+msgid "That was amazing, Uncle Kaz! You're just like a pro golfer!"
+msgstr ""
+
+msgctxt "204_Haruka"
+msgid "Too bad."
+msgstr ""
+
+msgctxt "228_Haruka"
+msgid "Uncle Kaz! Get 500 points in the closest to the pin contest!"
+msgstr ""
+
+msgctxt "252_Haruka"
+msgid "Uncle Kaz! Get at least +2 in Competition Mode!"
+msgstr ""

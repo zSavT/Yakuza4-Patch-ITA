@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2196"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "2200"
+msgid "Shizuka"
+msgstr ""
+
+msgctxt "2204"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2208"
+msgid "Talk_Phone_ed"
+msgstr ""
+
+msgctxt "2212"
+msgid "dummy"
+msgstr ""
+
+msgctxt "92_Shizuka"
+msgid "Kiryu-san..."
+msgstr ""
+
+msgctxt "104_Kiryu"
+msgid "What's wrong? You sound down."
+msgstr ""
+
+msgctxt "116_Shizuka"
+msgid "Well, my purse got stolen..."
+msgstr ""
+
+msgctxt "128_Kiryu"
+msgid "What? Where?"
+msgstr ""
+
+msgctxt "140_Shizuka"
+msgid "Just a minute ago. I was walking down Pink Street."
+msgstr ""
+
+msgctxt "152_Shizuka"
+msgid "A man ran up behind me and snatched it."
+msgstr ""
+
+msgctxt "164_Kiryu"
+msgid "What did he look like?"
+msgstr ""
+
+msgctxt "176_Shizuka"
+msgid ""
+"It was so sudden... I didn't get a good look at him. I just know it was a "
+"man."
+msgstr ""
+
+msgctxt "188_Kiryu"
+msgid "Hmm... Still, a man walking around with a woman's purse will stand out."
+msgstr ""
+
+msgctxt "200_Kiryu"
+msgid "I'll take a look around there."
+msgstr ""
+
+msgctxt "212_Shizuka"
+msgid "Thank you. There were some important things in that purse..."
+msgstr ""
+
+msgctxt "224_Kiryu"
+msgid "I bet. I'll call you if I find anything."
+msgstr ""

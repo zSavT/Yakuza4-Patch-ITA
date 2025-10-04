@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "224"
+msgid "Quit"
+msgstr ""
+
+msgctxt "229"
+msgid "Cancel the order."
+msgstr ""
+
+msgctxt "247"
+msgid "Order"
+msgstr ""
+
+msgctxt "253"
+msgid "Order the currently selected item.  "
+msgstr ""
+
+msgctxt "290"
+msgid "(I haven't picked anything.)  "
+msgstr ""
+
+msgctxt "321"
+msgid "(I'm short on cash.)  "
+msgstr ""
+
+msgctxt "344"
+msgid "Thank you for business. %s, please."
+msgstr ""
+
+msgctxt "380"
+msgid "(I can't carry any more stuff.)"
+msgstr ""
+
+msgctxt "412"
+msgid "(They're sold out.)"
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"This should help increase your Heat when you're\n"
+"feeling down."
+msgstr ""
+
+msgctxt "494"
+msgid ""
+"This will give you a bigger Heat boost than the regular\n"
+"Tauriner."
+msgstr ""
+
+msgctxt "560"
+msgid ""
+"Heat up this sake to really bring out its flavor.  That's\n"
+"the only way to drink it if you ask me."
+msgstr ""

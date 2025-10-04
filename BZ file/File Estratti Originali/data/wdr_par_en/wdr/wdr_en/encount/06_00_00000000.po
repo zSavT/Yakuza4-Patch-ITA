@@ -1,0 +1,376 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "13716"
+msgid "Gangster-Looking Youth"
+msgstr ""
+
+msgctxt "13720"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "13724"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13728"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13732"
+msgid "Kanto Gangsters Member"
+msgstr ""
+
+msgctxt "13736"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13740"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "13744"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "13748"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "128_Gangster-Looking Youth"
+msgid "Uh, excuse me? Are you Kiryu-san?"
+msgstr ""
+
+msgctxt "140_Kiryu"
+msgid "Yeah, that's me."
+msgstr ""
+
+msgctxt "152_Gangster-Looking Youth"
+msgid "Thought so. It's nice to meet you."
+msgstr ""
+
+msgctxt "164_Kiryu"
+msgid "Can I help you?"
+msgstr ""
+
+msgctxt "176_Gangster-Looking Youth"
+msgid "Oh, yeah. So, I belong to the Kanto Gangsters, right? And I was just..."
+msgstr ""
+
+msgctxt "188_Kiryu"
+msgid "...Sent to take me out, is that it?"
+msgstr ""
+
+msgctxt "200_Kanto Gangsters Member"
+msgid ""
+"Heh, you saw right through that one! Didn't expect anything less. I can "
+"tell you've been around the block."
+msgstr ""
+
+msgctxt "212_Kiryu"
+msgid ""
+"I heard you were one of Kanto's top gangs. I expected tough enemies, but "
+"you're surprisingly laid-back."
+msgstr ""
+
+msgctxt "224_Kanto Gangsters Member"
+msgid "Haha. Yeah, well... I guess you could say we're just used to winning."
+msgstr ""
+
+msgctxt "236_Kiryu"
+msgid "Winning? Winning what?"
+msgstr ""
+
+msgctxt "248_Kanto Gangsters Member"
+msgid ""
+"Just about everything, I guess. Money, babes, fights... Our gang pretty "
+"much owns the competition, hands down. It's pretty sweet."
+msgstr ""
+
+msgctxt "260_Kanto Gangsters Member"
+msgid ""
+"All we gotta do is say our name, and your run-of-the-mill punk will just "
+"shut up and bow out. We got free rein, pretty much."
+msgstr ""
+
+msgctxt "272_Kanto Gangsters Member"
+msgid "But, long story short, we're getting bored. Everything's too easy, y'know?"
+msgstr ""
+
+msgctxt "284_Kanto Gangsters Member"
+msgid ""
+"So we thought we'd expand operations to Kamurocho and stir things up a "
+"little..."
+msgstr ""
+
+msgctxt "296_Kiryu"
+msgid ""
+"Expand operations? I get it. Sounds like a reasonable business move. And I "
+"take it this \"operation\" involves a lot of beatdowns?"
+msgstr ""
+
+msgctxt "308_Kanto Gangsters Member"
+msgid "Haha. Yeah, pretty much."
+msgstr ""
+
+msgctxt "320_Kanto Gangsters Member"
+msgid "Anyways, I hear it's a popular thing to start shit up with you in Kamurocho."
+msgstr ""
+
+msgctxt "332_Kanto Gangsters Member"
+msgid ""
+"And once we're finished with you, Kamurocho will be ours too. Pretty sweet "
+"deal, wouldn't you say?"
+msgstr ""
+
+msgctxt "344_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "356_Kanto Gangsters Member"
+msgid ""
+"But winning all the time gets pretty boring, so we added a new twist to "
+"spice things up."
+msgstr ""
+
+msgctxt "368_Kanto Gangsters Member"
+msgid ""
+"Whoever brings you down first gets a million yen! But we're figuring it "
+"ain't fair 'cause the first lucky bastard who runs into you will win."
+msgstr ""
+
+msgctxt "380_Kiryu"
+msgid "I see. I guess that makes you the lucky bastard."
+msgstr ""
+
+msgctxt "392_Kanto Gangsters Member"
+msgid "Haha! Yeah, I guess so!"
+msgstr ""
+
+msgctxt "404_Kiryu"
+msgid "I noticed your group's pretty small. Shouldn't you call for a few more guys?"
+msgstr ""
+
+msgctxt "416_Kanto Gangsters Member"
+msgid "Huh? Why? We'd have to split the reward money between more people."
+msgstr ""
+
+msgctxt "428_Kiryu"
+msgid "Makes sense. Fair enough."
+msgstr ""
+
+msgctxt "440_Kanto Gangsters Member"
+msgid "Really? Shouldn't you start getting mad or something? What's with the smile?"
+msgstr ""
+
+msgctxt "452_Kiryu"
+msgid "Sorry. It's just funny to think how unlucky you really are..."
+msgstr ""
+
+msgctxt "464_Kanto Gangsters Member"
+msgid ""
+"Was that a threat? Now <Italic>that's</Italic> funny! Anyways, don't take "
+"this personally, 'kay? We just want the dough."
+msgstr ""
+
+msgctxt "476_Gangster-Looking Youth"
+msgid "There you are. You're the guy we're after, right?"
+msgstr ""
+
+msgctxt "488_Kiryu"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "500_Kanto Gangsters Member"
+msgid ""
+"All right! Jackpot! I'm finally rich! I mean, <Italic>we're</Italic> "
+"finally rich!"
+msgstr ""
+
+msgctxt "512_Kanto Gangsters Member"
+msgid ""
+"To tell the truth, I've been a little short on cash since coming to "
+"Kamurocho."
+msgstr ""
+
+msgctxt "524_Kanto Gangsters Member"
+msgid "But now we got this bounty-hunt thing going on. This is gonna be sweet!"
+msgstr ""
+
+msgctxt "536_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "548_Kanto Gangsters Member"
+msgid "We're gonna hafta take you out so we can start livin' large, old man!"
+msgstr ""
+
+msgctxt "560_Gangster-Looking Youth"
+msgid ""
+"Hey! So you're the famous Kiryu-san? We'll be heroes once we take you down! "
+"Both Kamurocho and the money'll be ours!"
+msgstr ""
+
+msgctxt "572_Kanto Gangsters Member"
+msgid ""
+"But they say you're no pushover, so a one-on-one fight's outta the "
+"question. Just be good and let me and my boys get this over with."
+msgstr ""
+
+msgctxt "608_Gangster-Looking Youth"
+msgid "Too bad about that money."
+msgstr ""
+
+msgctxt "620_Kanto Gangsters Member"
+msgid "......"
+msgstr ""
+
+msgctxt "632_Kiryu"
+msgid ""
+"So that's the best you got? Go back and tell the rest of your friends to "
+"stay the hell out of Kamurocho."
+msgstr ""
+
+msgctxt "644_Kanto Gangsters Member"
+msgid "Heh. Things are really gonna start getting interesting now..."
+msgstr ""
+
+msgctxt "656_Kiryu"
+msgid "What?"
+msgstr ""
+
+msgctxt "668_Kanto Gangsters Member"
+msgid ""
+"I mean, we knew you were strong, but not this strong. Now the bounty's "
+"gonna skyrocket! It'll be fun to see who gets it..."
+msgstr ""
+
+msgctxt "680_Kiryu"
+msgid "Hmph..."
+msgstr ""
+
+msgctxt "692_Kanto Gangsters Member"
+msgid ""
+"You wait and see. Now all these broke-ass bitches will be crawling outta "
+"the woodwork to get a piece of you and that cash!"
+msgstr ""
+
+msgctxt "704_Kanto Gangsters Member"
+msgid "At any rate, I'm off to tell everybody I'm quitting!"
+msgstr ""
+
+msgctxt "716_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "728_Gangster-Looking Youth"
+msgid ""
+"Talk about ironic. Now you're in the hole for all the hospital bills you "
+"owe."
+msgstr ""
+
+msgctxt "740_Kanto Gangsters Member"
+msgid "Shit. Didn't think you were this strong..."
+msgstr ""
+
+msgctxt "752_Kiryu"
+msgid "I think it's about time you told me the name of your boss."
+msgstr ""
+
+msgctxt "764_Kanto Gangsters Member"
+msgid "Wha? Why?"
+msgstr ""
+
+msgctxt "776_Kiryu"
+msgid ""
+"What's with the big panic? Is it that strange I want to know the name of "
+"the man who put a bounty on my head?"
+msgstr ""
+
+msgctxt "788_Kanto Gangsters Member"
+msgid "Oh, um... no, I guess not. But, listen, I really don't know his name!"
+msgstr ""
+
+msgctxt "800_Kiryu"
+msgid "What? Then who's fronting the bounty money?"
+msgstr ""
+
+msgctxt "812_Kanto Gangsters Member"
+msgid "Some guy called RA. He's super rich."
+msgstr ""
+
+msgctxt "824_Kiryu"
+msgid "RA? And this guy isn't your boss?"
+msgstr ""
+
+msgctxt "836_Kanto Gangsters Member"
+msgid "That's right."
+msgstr ""
+
+msgctxt "848_Kanto Gangsters Member"
+msgid "Well, I lost, so I'll be on my way. Can't stay in Kamurocho forever, y'know!"
+msgstr ""
+
+msgctxt "860_Kiryu"
+msgid "Then tell me who your boss is before you go."
+msgstr ""
+
+msgctxt "872_Kanto Gangsters Member"
+msgid "Sorry. I, uh, swear I don't know. Haha. *cough*"
+msgstr ""
+
+msgctxt "884_Kiryu"
+msgid ""
+"(RA... Even if he's not the boss, he sounds like someone up high in the "
+"organization. If I find him, I bet he can lead me to the boss.)"
+msgstr ""
+
+msgctxt "896_Gangster-Looking Youth"
+msgid "Stop wasting my time and tell me who your boss is and where I can find him."
+msgstr ""
+
+msgctxt "908_Kanto Gangsters Member"
+msgid "Huh? Didn't the last guy tell you? Hmm... Now, that's weird! Haha..."
+msgstr ""
+
+msgctxt "920_Kiryu"
+msgid "Don't play dumb."
+msgstr ""
+
+msgctxt "932_Kanto Gangsters Member"
+msgid ""
+"Everything we do is being watched, and... Um, forget that! I didn't say a "
+"thing!"
+msgstr ""
+
+msgctxt "944_Kiryu"
+msgid ""
+"(That sounded like an important clue... But where could his boss see us "
+"from? Somewhere high up, maybe?)"
+msgstr ""
+
+msgctxt "980_Gangster-Looking Youth"
+msgid "Penniless criminals'll be crawling outta the woodwork for a piece of you."
+msgstr ""
+
+msgctxt "992_Gangster-Looking Youth"
+msgid "Haha. You really are strong. I guess you showed me..."
+msgstr ""
+
+msgctxt "1004_Gangster-Looking Youth"
+msgid "Everything we do is being watched, and... Oh, uh, never mind..."
+msgstr ""
+
+msgctxt "1016_Kiryu"
+msgid "(Being watched? From someplace up high, maybe?)"
+msgstr ""

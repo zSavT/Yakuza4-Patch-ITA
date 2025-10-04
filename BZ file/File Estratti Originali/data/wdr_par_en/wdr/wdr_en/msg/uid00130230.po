@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "You got <Color:8>15,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "228"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "3708"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "3712"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3716"
+msgid "Dine-and-Dasher"
+msgstr ""
+
+msgctxt "3720"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "3724"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "72_Tanimura"
+msgid "It's over."
+msgstr ""
+
+msgctxt "84_Dine-and-Dasher"
+msgid ""
+"*pant* *pant* Not bad. Fine, here's what I owe for the meal, along with a "
+"little something for your trouble."
+msgstr ""
+
+msgctxt "108_Tanimura"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "120_Dine-and-Dasher"
+msgid ""
+"Dine-and-dash is the ultimate sport, a true battle between men. Everyone "
+"knows that! Later, copper!"
+msgstr ""
+
+msgctxt "132_Tanimura"
+msgid "What's his problem?"
+msgstr ""
+
+msgctxt "204_Tanimura"
+msgid "End of the road. Give it up already!"
+msgstr ""
+
+msgctxt "216_Dine-and-Dasher"
+msgid ""
+"Heheheh... Well done, my eternal rival. This is payment for the food, and a "
+"little token of my respect."
+msgstr ""
+
+msgctxt "240_Tanimura"
+msgid "Eternal... rival?"
+msgstr ""
+
+msgctxt "252_Dine-and-Dasher"
+msgid "You haven't seen the last of me! I'll beat you next time!"
+msgstr ""
+
+msgctxt "264_Tanimura"
+msgid "I still don't know what he's talking about."
+msgstr ""

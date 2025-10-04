@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgid "Cancel"
+msgstr ""
+
+msgctxt "4"
+msgid "Don't ask for an appraisal."
+msgstr ""
+
+msgctxt "8"
+msgid "Appraise"
+msgstr ""
+
+msgctxt "12"
+msgid "Ask for an appraisal."
+msgstr ""
+
+msgctxt "16"
+msgid "(I don't have anything to get appraised.)"
+msgstr ""
+
+msgctxt "20"
+msgid "%d, huh? Want an appraisal?"
+msgstr ""
+
+msgctxt "24"
+msgid "That comes to %d points. Thanks."
+msgstr ""

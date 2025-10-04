@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1400"
+msgid "Player"
+msgstr ""
+
+msgctxt "188_Player"
+msgid "(Should I give her a present?)"
+msgstr ""
+
+msgctxt "212_Player"
+msgid "(This one, then?)"
+msgstr ""
+
+msgctxt "224_Player"
+msgid "(On second thought... maybe not.)"
+msgstr ""
+
+msgctxt "236_Player"
+msgid ""
+"(This might be a good time to leave, but I've got enough money. Should I "
+"stay a bit longer?)"
+msgstr ""
+
+msgctxt "248_Player"
+msgid "(I'll keep going a little longer, then.)"
+msgstr ""
+
+msgctxt "260_Player"
+msgid "(On second thought... maybe not.)"
+msgstr ""
+
+msgctxt "272_Player"
+msgid "Yes"
+msgstr ""
+
+msgctxt "284_Player"
+msgid "No"
+msgstr ""
+
+msgctxt "296_Player"
+msgid "Yes"
+msgstr ""
+
+msgctxt "308_Player"
+msgid "No"
+msgstr ""

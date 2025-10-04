@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "9180"
+msgid "Ill-natured Young Man"
+msgstr ""
+
+msgctxt "9184"
+msgid "M_ykzs_damage_tlk_no"
+msgstr ""
+
+msgctxt "9188"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "9192"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "9196"
+msgid "Kamurocho Aqua Devil Member"
+msgstr ""
+
+msgctxt "9200"
+msgid "M_ykz_damage_tlk_no"
+msgstr ""
+
+msgctxt "9204"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "9208"
+msgid "Idle"
+msgstr ""
+
+msgctxt "9212"
+msgid "Akaishi"
+msgstr ""
+
+msgctxt "9216"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "9220"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "9224"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "9228"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "9232"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9236"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "9240"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "9244"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "9248"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "9252"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "9256"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9260"
+msgid "Gang Encounters - Kiryu"
+msgstr ""
+
+msgctxt "9264"
+msgid "dummy"
+msgstr ""
+
+msgctxt "9268"
+msgid "0"
+msgstr ""
+
+msgctxt "84_Ill-natured Young Man"
+msgid "Aaargh... Ugh..."
+msgstr ""
+
+msgctxt "96_Ill-natured Young Man"
+msgid "You think you're gonna get away with this, man!?"
+msgstr ""
+
+msgctxt "108_Kiryu"
+msgid "There are no consequences for stepping on insects like you."
+msgstr ""
+
+msgctxt "120_Kamurocho Aqua Devil Member"
+msgid ""
+"Ha! You don't know who you're messing with. You just made enemies with the "
+"Kamurocho Aqua Devils!"
+msgstr ""
+
+msgctxt "132_Kamurocho Aqua Devil Member"
+msgid ""
+"The rest of our team is already on the lookout for your ass. You ain't "
+"gettin' off easy!"
+msgstr ""
+
+msgctxt "180_Akaishi"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "204_Akaishi"
+msgid "I heard that you helped one of our members."
+msgstr ""
+
+msgctxt "216_Akaishi"
+msgid "Oh! You're－!"
+msgstr ""
+
+msgctxt "228_Akaishi"
+msgid "Kiryu-san! I had a feeling it was you. So you're back in town?"
+msgstr ""
+
+msgctxt "240_Kiryu"
+msgid "And you are?"
+msgstr ""
+
+msgctxt "252_Akaishi"
+msgid "Oh, how rude of me. I am Akaishi, from the Kamurocho Guard."
+msgstr ""
+
+msgctxt "264_Akaishi"
+msgid "We volunteer our efforts in order to maintain peace and order in Kamurocho."
+msgstr ""
+
+msgctxt "276_Akaishi"
+msgid ""
+"I had no idea that I'd be meeting such a legend when I woke up this "
+"morning. I have heard so many things about you. It's an honor."
+msgstr ""
+
+msgctxt "288_Akaishi"
+msgid "I would like to offer you something, as thanks for helping us out."
+msgstr ""
+
+msgctxt "300_Kiryu"
+msgid ""
+"Don't need it. I just didn't want to see that go any further. By the way, "
+"who were those guys?"
+msgstr ""
+
+msgctxt "312_Akaishi"
+msgid "A gang with growing influence in the area."
+msgstr ""
+
+msgctxt "324_Kiryu"
+msgid "A gang, huh..."
+msgstr ""
+
+msgctxt "336_Akaishi"
+msgid ""
+"For the most part, things were relatively quiet when you were here. But "
+"after you left, young gangs like that began to multiply."
+msgstr ""
+
+msgctxt "348_Akaishi"
+msgid "They don't like what we do and take every chance they get to take us down."
+msgstr ""
+
+msgctxt "360_Akaishi"
+msgid "We've been trying to reason with them, but to no avail."
+msgstr ""
+
+msgctxt "372_Akaishi"
+msgid "We're still too small to carry out any real preventive measures."
+msgstr ""
+
+msgctxt "384_Kiryu"
+msgid "I see. You guys have your work cut out for you."
+msgstr ""
+
+msgctxt "396_Akaishi"
+msgid ""
+"We'll do anything to make the city we love a better place. But honestly, "
+"times in Kamurocho are tough."
+msgstr ""
+
+msgctxt "408_Akaishi"
+msgid ""
+"Either way, this isn't good, Kiryu-san. What you just did back there made "
+"you a target as well."
+msgstr ""
+
+msgctxt "420_Kiryu"
+msgid "It would appear so. But that's nothing for you to worry about."
+msgstr ""
+
+msgctxt "432_Kiryu"
+msgid ""
+"I don't plan on bothering them, but I don't plan to forgive them either if "
+"they try to start something with me."
+msgstr ""
+
+msgctxt "444_Kiryu"
+msgid ""
+"And if they learn their lesson after I'm through, it's better business for "
+"you, right?"
+msgstr ""
+
+msgctxt "456_Akaishi"
+msgid ""
+"You have a point there... But we were the reason the fight even started. "
+"Let us assist you, Kiryu-san."
+msgstr ""
+
+msgctxt "468_Kiryu"
+msgid ""
+"Assist me? Are you suggesting that we fight together? I don't think that's "
+"necessary."
+msgstr ""
+
+msgctxt "480_Akaishi"
+msgid "I see..."
+msgstr ""
+
+msgctxt "492_Akaishi"
+msgid "Okay, then..."
+msgstr ""
+
+msgctxt "504_Akaishi"
+msgid "How about letting me pay you for helping to get rid of that gang?"
+msgstr ""
+
+msgctxt "516_Kiryu"
+msgid "Pay me? No, sorry. I don't feel good about taking money from volunteers."
+msgstr ""
+
+msgctxt "528_Kiryu"
+msgid "But I appreciate the offer."
+msgstr ""
+
+msgctxt "540_Akaishi"
+msgid ""
+"No please－we get funding for our activities from various places. I had "
+"planned to use it to hire some professionals, actually."
+msgstr ""
+
+msgctxt "552_Akaishi"
+msgid ""
+"But I think you alone are equal to a dozen infantry troopers. Please help "
+"us, Kiryu-san."
+msgstr ""
+
+msgctxt "564_Kiryu"
+msgid "...All right. If you insist, I guess I'll accept the offer."
+msgstr ""
+
+msgctxt "576_Akaishi"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "588_Akaishi"
+msgid "After today, you're bound to see more of the gang come out and target you."
+msgstr ""
+
+msgctxt "600_Akaishi"
+msgid "Please be careful. Until next time."
+msgstr ""
+
+msgctxt "612_Ill-natured Young Man"
+msgid ""
+"This information has been added as a <Color:14>memo<Color:Default>.\r\n"
+"Read <Color:14>memos<Color:Default> by selecting "
+"<Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
+"You can access the Pause Menu with the <Action:Button_Options@Adventure> "
+"button."
+msgstr ""

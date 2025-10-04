@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "264"
+msgid "You gained 5,000 EXP."
+msgstr ""
+
+msgctxt "456"
+msgid "You gained 5,000 EXP."
+msgstr ""
+
+msgctxt "9632"
+msgid "Lame Scout"
+msgstr ""
+
+msgctxt "9636"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "9640"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "9644"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9648"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "9652"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "9656"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "9660"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "9664"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "9668"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "9672"
+msgid "dummy"
+msgstr ""
+
+msgctxt "9676"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "9680"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9684"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "9688"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "9692"
+msgid "Score Some Leads!"
+msgstr ""
+
+msgctxt "9696"
+msgid "0"
+msgstr ""
+
+msgctxt "72_Lame Scout"
+msgid "Harder than you remembered, eh, boss?"
+msgstr ""
+
+msgctxt "84_Akiyama"
+msgid "We'll see about that..."
+msgstr ""
+
+msgctxt "96_Lame Scout"
+msgid ""
+"See? I knew you were all talk! This doesn't make you look\r\n"
+"good, boss."
+msgstr ""
+
+msgctxt "108_Akiyama"
+msgid ""
+"There just weren't enough people out there today!\r\n"
+"Ordinarily, I'd pull in way more leads."
+msgstr ""
+
+msgctxt "120_Lame Scout"
+msgid "Sure, sure. Whatever helps you sleep at night..."
+msgstr ""
+
+msgctxt "132_Akiyama"
+msgid "You're really starting to piss me off you know that...?"
+msgstr ""
+
+msgctxt "144_Lame Scout"
+msgid ""
+"Seriously, though, boss, for you to get out there like that\r\n"
+"for my sake? That's pret-ty awesome."
+msgstr ""
+
+msgctxt "156_Lame Scout"
+msgid "I think I'll stay in the game a little longer."
+msgstr ""
+
+msgctxt "168_Akiyama"
+msgid ""
+"Oh, yeah? Good to hear. And this time, be sure to work\r\n"
+"hard, okay?"
+msgstr ""
+
+msgctxt "180_Lame Scout"
+msgid "You bet!"
+msgstr ""
+
+msgctxt "192_Akiyama"
+msgid "(I guess it turned out all right after all.)"
+msgstr ""
+
+msgctxt "276_Lame Scout"
+msgid "Whoa! You managed to get three leads? In only five minutes!?"
+msgstr ""
+
+msgctxt "288_Lame Scout"
+msgid "Whoa! You managed to get four leads? In only five minutes!?"
+msgstr ""
+
+msgctxt "300_Lame Scout"
+msgid "Whoa! Five leads!? That's a lead a minute!"
+msgstr ""
+
+msgctxt "312_Akiyama"
+msgid "Heheh. I could've done even better if I were younger."
+msgstr ""
+
+msgctxt "324_Lame Scout"
+msgid ""
+"Wow, boss, you really meant business out there! Now you've\r\n"
+"got me all motivated, too."
+msgstr ""
+
+msgctxt "336_Lame Scout"
+msgid "I'm gonna go and give it everything I've got!"
+msgstr ""
+
+msgctxt "348_Akiyama"
+msgid "Excellent. That's all I ask. Good luck."
+msgstr ""
+
+msgctxt "360_Lame Scout"
+msgid "Yes, sir!"
+msgstr ""
+
+msgctxt "372_Akiyama"
+msgid "(Heh...)"
+msgstr ""
+
+msgctxt "384_Akiyama"
+msgid "(And the bossman emerges with dignity intact!)"
+msgstr ""
+
+msgctxt "480_Akiyama"
+msgid "The First Rule of Scouting: \"Never let a girl pass you by.\""
+msgstr ""
+
+msgctxt "492_Akiyama"
+msgid ""
+"You've been standing around all day with only one lead to\r\n"
+"show for it, proof positive you've been playing hooky\r\n"
+"instead of working."
+msgstr ""
+
+msgctxt "504_Lame Scout"
+msgid ""
+"...Look, you can talk the talk, boss, and I see what you're\r\n"
+"saying, I do. But can you walk the walk? How good are you,\r\n"
+"really?"
+msgstr ""
+
+msgctxt "516_Lame Scout"
+msgid ""
+"You seem confident enough, so I guess you were probably\r\n"
+"really something at one point. Still, I get the feeling your\r\n"
+"skills are pretty rusty."
+msgstr ""
+
+msgctxt "528_Akiyama"
+msgid ""
+"You really want to go there? Okay, give me five minutes to\r\n"
+"do some scouting of my own, then."
+msgstr ""
+
+msgctxt "540_Akiyama"
+msgid ""
+"You tell me how many leads I should score in that amount of\r\n"
+"time."
+msgstr ""
+
+msgctxt "552_Lame Scout"
+msgid ""
+"Seriously!? Well, gee, I dunno! I'm kinda clueless when it\r\n"
+"comes to this stuff."
+msgstr ""
+
+msgctxt "564_Akiyama"
+msgid "I noticed."
+msgstr ""
+
+msgctxt "576_Lame Scout"
+msgid ""
+"Ouch. Fine. All right, if that's the way you're gonna be,\r\n"
+"then I'm not holding back..."
+msgstr ""
+
+msgctxt "588_Lame Scout"
+msgid ""
+"How about... three times the leads I pulled in? That's three\r\n"
+"people! You need three leads to win!"
+msgstr ""
+
+msgctxt "600_Akiyama"
+msgid "Fine. But why three, particularly?"
+msgstr ""
+
+msgctxt "612_Lame Scout"
+msgid ""
+"Because a real master ought to be able to do three times better than a "
+"normal person, right?"
+msgstr ""
+
+msgctxt "624_Akiyama"
+msgid "Whatever you say. Okay, then, here I go. Clock starts now!"
+msgstr ""
+
+msgctxt "636_Score Some Leads!"
+msgid ""
+"In the next five minutes, talk to as many women as possible and ask for "
+"their phone numbers (i.e., get leads). Do keep in mind, however, that "
+"you're scouting specifically for hostesses."
+msgstr ""

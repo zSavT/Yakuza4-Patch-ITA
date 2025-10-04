@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1492"
+msgid "Man"
+msgstr ""
+
+msgctxt "1496"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1500"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid ""
+"I know I told you to wait－aren't you listenin' to me? Hang on a sec. That "
+"look on your face."
+msgstr ""
+
+msgctxt "128_Man"
+msgid ""
+"I thought maybe I'd forgive you if the price was right, but I changed my "
+"mind. First I'll kick your ass, <Italic>then</Italic> I'll take your money!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "Please forgive me!"
+msgstr ""
+
+msgctxt "164_Man"
+msgid "I'm sorry! Here, this is for you..."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got an agreeable %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "Aw, crap! No please forgive me!"
+msgstr ""

@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1468"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "1472"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1476"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "80_Yuya"
+msgid "Oh, Kiryu-san!"
+msgstr ""
+
+msgctxt "92_Yuya"
+msgid "Boy, am I glad to see you. I thought you jumped ship and left town already."
+msgstr ""
+
+msgctxt "104_Kiryu"
+msgid "Hey, Yuya. What's up?"
+msgstr ""
+
+msgctxt "116_Yuya"
+msgid "You, uh, got a moment? There's something I need to show you."
+msgstr ""
+
+msgctxt "128_Kiryu"
+msgid "Of course. I always have time to help friends in need."
+msgstr ""

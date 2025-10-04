@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1720"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1724"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1728"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1732"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1736"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1740"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1744"
+msgid "0"
+msgstr ""
+
+msgctxt "148_Kiryu"
+msgid "Haruka..."
+msgstr ""
+
+msgctxt "160_Haruka"
+msgid "What is it, Uncle Kaz?"
+msgstr ""
+
+msgctxt "172_Kiryu"
+msgid "(Should I just keep her with me...?)"
+msgstr ""
+
+msgctxt "184_Kiryu"
+msgid "It's nothing."
+msgstr ""
+
+msgctxt "196_Haruka"
+msgid "Okay... You're acting kind of weird, you know."
+msgstr ""
+
+msgctxt "208_Kiryu"
+msgid "There's someplace I have to go alone."
+msgstr ""
+
+msgctxt "220_Haruka"
+msgid "Oh, okay. Let's spend some more time together soon, though!"
+msgstr ""
+
+msgctxt "304_Kiryu"
+msgid "Nah, it's nothing."
+msgstr ""
+
+msgctxt "316_Kiryu"
+msgid "There's something I need to do alone."
+msgstr ""

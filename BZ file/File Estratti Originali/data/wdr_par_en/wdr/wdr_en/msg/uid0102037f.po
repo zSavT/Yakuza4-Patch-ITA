@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "13412"
+msgid "Kido"
+msgstr ""
+
+msgctxt "13416"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "13420"
+msgid "M_ykz_sitchr"
+msgstr ""
+
+msgctxt "13424"
+msgid "Talk_Udekumi_lp"
+msgstr ""
+
+msgctxt "13428"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "13432"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13436"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "13440"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13444"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "13448"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "13452"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "13456"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "13460"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "68_Kido"
+msgid "*panting*"
+msgstr ""
+
+msgctxt "80_Kido"
+msgid "Who even <Italic>are</Italic> you?"
+msgstr ""
+
+msgctxt "92_Saejima"
+msgid "Just a guy lookin' for answers."
+msgstr ""
+
+msgctxt "104_Saejima"
+msgid "C'mon, kid, I need your help."
+msgstr ""
+
+msgctxt "116_Kido"
+msgid "Fine. Whatever. Just lemme catch my breath."
+msgstr ""
+
+msgctxt "176_Saejima"
+msgid "Damn... That's some heavy shit."
+msgstr ""
+
+msgctxt "188_Kido"
+msgid "You're telling me. I mean, my own clan's after me now."
+msgstr ""
+
+msgctxt "200_Saejima"
+msgid "How 'bout Arai? No sign of him yet?"
+msgstr ""
+
+msgctxt "212_Kido"
+msgid ""
+"Nope. Hard to find him with those Shibata thugs on my ass.\r\n"
+"And Akiyama-san can't help on this one."
+msgstr ""
+
+msgctxt "224_Kido"
+msgid "It's a goddamn nightmare, man."
+msgstr ""
+
+msgctxt "236_Saejima"
+msgid "Akiyama the moneylender－he okay?"
+msgstr ""
+
+msgctxt "248_Kido"
+msgid "Yeah, he'll be fine. The police have Sky Finance under 24-hour watch."
+msgstr ""
+
+msgctxt "260_Kido"
+msgid "Shibata can't risk messing with him for now."
+msgstr ""
+
+msgctxt "272_Saejima"
+msgid "The fuzz? Shit..."
+msgstr ""
+
+msgctxt "284_Kido"
+msgid "You okay, man? You look like you're gonna puke."
+msgstr ""
+
+msgctxt "296_Saejima"
+msgid "I'm fine. Anyway, good thing the cops are watchin' him."
+msgstr ""
+
+msgctxt "308_Kido"
+msgid "So wait, what the hell's this Sasai Family you keep talking about?"
+msgstr ""
+
+msgctxt "320_Saejima"
+msgid ""
+"A family run by Hideki Sasai. We're a third-tier group that's part of the "
+"Tojo. 'Least, we were 25 years ago."
+msgstr ""
+
+msgctxt "332_Kido"
+msgid "No shit? Just like Kanemura Enterprises."
+msgstr ""
+
+msgctxt "344_Saejima"
+msgid ""
+"Back then, the Sasai and Shibata families were rivals despite both bein' "
+"Tojo."
+msgstr ""
+
+msgctxt "356_Kido"
+msgid "Wait, our parent family!?"
+msgstr ""
+
+msgctxt "368_Saejima"
+msgid "Sasai-san and Shibata were both lookin' to climb the ladder."
+msgstr ""
+
+msgctxt "380_Kido"
+msgid "A good old power struggle between rival families, huh?"
+msgstr ""
+
+msgctxt "392_Saejima"
+msgid ""
+"I was ready to do whatever it took. Anything to get my patriarch a top spot "
+"in the clan."
+msgstr ""
+
+msgctxt "404_Saejima"
+msgid "So I agreed to the hit."
+msgstr ""
+
+msgctxt "416_Kido"
+msgid "Hit?"
+msgstr ""
+
+msgctxt "428_Saejima"
+msgid ""
+"Murder. I took out Yoshiharu Ueno and the other Ueno Seiwa brass who were "
+"jockeyin' with the Tojo."
+msgstr ""
+
+msgctxt "440_Saejima"
+msgid "Gunned 'em down in a ramen joint."
+msgstr ""
+
+msgctxt "452_Kido"
+msgid "The Ueno Seiwa－ Wait, you mean <Italic>that</Italic> hit!?"
+msgstr ""
+
+msgctxt "464_Saejima"
+msgid "Ya heard of it? Yeah, that was me."
+msgstr ""
+
+msgctxt "476_Kido"
+msgid "Hold on just a second, pops."
+msgstr ""
+
+msgctxt "488_Kido"
+msgid ""
+"That's the shooting where one dude took out like 18 people, isn't it? "
+"You're a living legend!"
+msgstr ""
+
+msgctxt "500_Saejima"
+msgid "Ain't nothin' legendary 'bout pointing a gun and pulling the trigger."
+msgstr ""
+
+msgctxt "512_Saejima"
+msgid ""
+"All I cared about was makin' sure my patriarch rose through the ranks. Even "
+"if I hung for it."
+msgstr ""
+
+msgctxt "524_Saejima"
+msgid "Surprisin' thing was, my time never came. 'Least not yet."
+msgstr ""
+
+msgctxt "536_Kido"
+msgid "Wait, if you got... If you're a... That means you..."
+msgstr ""
+
+msgctxt "548_Saejima"
+msgid "Busted out? Yup, jus' the other day."
+msgstr ""
+
+msgctxt "572_Kido"
+msgid "What the <Italic>fuck</Italic>!?"
+msgstr ""
+
+msgctxt "584_Saejima"
+msgid ""
+"Pipe down, kid. Relax. I just wanna know the truth. See it with my own two "
+"eyes before I bite the dust."
+msgstr ""
+
+msgctxt "596_Kido"
+msgid "The truth about what?"
+msgstr ""
+
+msgctxt "608_Saejima"
+msgid "Whether my boss really just up and vanished."
+msgstr ""
+
+msgctxt "620_Kido"
+msgid "Huh..."
+msgstr ""
+
+msgctxt "632_Saejima"
+msgid ""
+"And whether my bro Majima really did stab me in the back. So whaddya say? "
+"Think ya can help?"
+msgstr ""
+
+msgctxt "644_Kido"
+msgid "Whoa, whoa, whoa. Hold the phone, man!"
+msgstr ""
+
+msgctxt "656_Saejima"
+msgid "...What?"
+msgstr ""
+
+msgctxt "668_Kido"
+msgid "This shit's way out of my freaking league!"
+msgstr ""
+
+msgctxt "680_Kido"
+msgid "I mean, you're the legendary Taiga Saejima! There's no way I can help you!"
+msgstr ""
+
+msgctxt "692_Saejima"
+msgid "Why not?"
+msgstr ""
+
+msgctxt "704_Kido"
+msgid ""
+"C'mon, man. I'm a nobody－practically still a street punk. Hell, I've got my "
+"own family on my ass!"
+msgstr ""
+
+msgctxt "716_Kido"
+msgid ""
+"And you're asking <Italic>me</Italic> to help <Italic>you</Italic>? That's "
+"crazy talk!"
+msgstr ""
+
+msgctxt "728_Saejima"
+msgid "I ain't expectin' much."
+msgstr ""
+
+msgctxt "740_Kido"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "752_Saejima"
+msgid "Just need an introduction."
+msgstr ""
+
+msgctxt "764_Kido"
+msgid "To who?"
+msgstr ""
+
+msgctxt "776_Saejima"
+msgid ""
+"Someone who knows what went down in Kamurocho back in '85. Someone who "
+"knows the truth."
+msgstr ""
+
+msgctxt "788_Kido"
+msgid "Right. You said you were looking for the real story..."
+msgstr ""
+
+msgctxt "800_Saejima"
+msgid "Mhm. Any ideas?"
+msgstr ""
+
+msgctxt "812_Kido"
+msgid "...Aha!"
+msgstr ""
+
+msgctxt "824_Saejima"
+msgid "What?"
+msgstr ""
+
+msgctxt "836_Kido"
+msgid ""
+"There's a guy who can help. He'll definitely have the info you're looking "
+"for!"
+msgstr ""
+
+msgctxt "848_Saejima"
+msgid "Who?"
+msgstr ""
+
+msgctxt "860_Kido"
+msgid "An information broker. Best of the best."
+msgstr ""
+
+msgctxt "872_Saejima"
+msgid "An informant, huh?"
+msgstr ""
+
+msgctxt "884_Kido"
+msgid "Let's get out of here before the cops come by and start asking questions."
+msgstr ""
+
+msgctxt "896_Kido"
+msgid "And who knows when those Shibata assholes will show up again."
+msgstr ""
+
+msgctxt "908_Kido"
+msgid "Follow me. There's a place I go to when I need to lay low."
+msgstr ""
+
+msgctxt "920_Saejima"
+msgid "Ya got a hideout?"
+msgstr ""
+
+msgctxt "932_Kido"
+msgid "Yeah, come on."
+msgstr ""

@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "824"
+msgid "Cameraman Trainee"
+msgstr ""
+
+msgctxt "828"
+msgid "Cameraman Teacher"
+msgstr ""
+
+msgctxt "832"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "836"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "84_Cameraman Trainee"
+msgid "This building has such distinct architecture... It's very picturesque."
+msgstr ""
+
+msgctxt "96_Cameraman Teacher"
+msgid "It sure is. Then, how about we take a picture of this for today?"
+msgstr ""
+
+msgctxt "108_Cameraman Trainee"
+msgid "What about a nice low-angle shot?"
+msgstr ""
+
+msgctxt "120_Cameraman Teacher"
+msgid "Not bad, not bad. Now, try to get this brick wall and that tower in frame."
+msgstr ""

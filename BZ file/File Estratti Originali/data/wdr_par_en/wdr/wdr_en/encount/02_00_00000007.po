@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1316"
+msgid "Man"
+msgstr ""
+
+msgctxt "1320"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1324"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1328"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1332"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "116_Man"
+msgid "Aren't you the guy who beat up one of my underlings for his money?"
+msgstr ""
+
+msgctxt "128_Man"
+msgid ""
+"Don't pretend you ain't! Pull that shit on me and you know what's coming "
+"your way. Prepare to get your ass kicked!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "My apologies. Looks like I got the wrong guy."
+msgstr ""
+
+msgctxt "164_Man"
+msgid "This is for you."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a gelatinous %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "I really am sorry..."
+msgstr ""

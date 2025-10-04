@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "11020"
+msgid "Sodachi"
+msgstr ""
+
+msgctxt "11024"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11028"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "11032"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11036"
+msgid "Tokita"
+msgstr ""
+
+msgctxt "11040"
+msgid "ReM_nml_korobu_fr"
+msgstr ""
+
+msgctxt "11044"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "11048"
+msgid "SetM_nml_sitground_obie"
+msgstr ""
+
+msgctxt "11052"
+msgid "Student"
+msgstr ""
+
+msgctxt "11056"
+msgid "M_ykz_sitgrd_tlk_kamae_ed"
+msgstr ""
+
+msgctxt "11060"
+msgid "M_ykz_stand"
+msgstr ""
+
+msgctxt "11064"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "11068"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "11072"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "11076"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "11080"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "11084"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "11088"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "11092"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "11096"
+msgid "Watanabe"
+msgstr ""
+
+msgctxt "11100"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "11104"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "68_Sodachi"
+msgid ""
+"Thanks to our four apprentices, we've been getting new students and the "
+"dojo has been thriving!"
+msgstr ""
+
+msgctxt "80_Saejima"
+msgid "You're right. Guess you won't be needin' me much anymore."
+msgstr ""
+
+msgctxt "92_Sodachi"
+msgid "Whaaaat!? What are you saying!?"
+msgstr ""
+
+msgctxt "104_Sodachi"
+msgid "If you leave, things will just go back to the way they were!"
+msgstr ""
+
+msgctxt "116_Sodachi"
+msgid "Plus... The dojo won't be the same without you."
+msgstr ""
+
+msgctxt "128_Sodachi"
+msgid "If possible, I want you to stay here forever."
+msgstr ""
+
+msgctxt "140_Saejima"
+msgid "Thanks, but I can't stick around forever. I got my own life too."
+msgstr ""
+
+msgctxt "152_Saejima"
+msgid "You gotta start thinkin' about how to run things without me."
+msgstr ""
+
+msgctxt "164_Sodachi"
+msgid ""
+"But I'll be in a world of trouble if you up and leave now. Could you just "
+"stay for a little longer? Please?"
+msgstr ""
+
+msgctxt "176_Sodachi"
+msgid "That will give me enough time to think about the future of things."
+msgstr ""
+
+msgctxt "188_Saejima"
+msgid "All right, all right."
+msgstr ""
+
+msgctxt "200_Saejima"
+msgid ""
+"How's about I stick around to train just one more student? That'll be my "
+"last apprentice."
+msgstr ""
+
+msgctxt "212_Sodachi"
+msgid "All right. Just one more... I wonder who that will be..."
+msgstr ""
+
+msgctxt "224_Tokita"
+msgid "Aaaagh!"
+msgstr ""
+
+msgctxt "260_Saejima"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "284_Student"
+msgid "Sorry! Did I hurt you?"
+msgstr ""
+
+msgctxt "296_Tokita"
+msgid "Who do you think you are? I'm a champion, you know!"
+msgstr ""
+
+msgctxt "308_Tokita"
+msgid "What were you gonna do if I got injured? Huh!?"
+msgstr ""
+
+msgctxt "320_Student"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "332_Tokita"
+msgid "You should take it as an honor that I let you help me with my training!"
+msgstr ""
+
+msgctxt "344_Tokita"
+msgid ""
+"But you just throw me around like you're not thinking about anything at "
+"all! Unbelievable!"
+msgstr ""
+
+msgctxt "356_Student"
+msgid "Sorry! I didn't think that I could throw you that easily to be honest..."
+msgstr ""
+
+msgctxt "368_Tokita"
+msgid ""
+"You! Are you trying to start a fight!? I'm not going to let you get away "
+"with this, fat-ass!"
+msgstr ""
+
+msgctxt "380_Student"
+msgid "Nnngh..."
+msgstr ""
+
+msgctxt "392_Saejima"
+msgid "Who's that?"
+msgstr ""
+
+msgctxt "404_Sodachi"
+msgid "That's Tokita."
+msgstr ""
+
+msgctxt "416_Saejima"
+msgid "Not him, ya idiot. The guy next to 'im, gettin' chewed out."
+msgstr ""
+
+msgctxt "428_Sodachi"
+msgid "Oh, that's Masataka Watanabe-kun. A new student that just joined."
+msgstr ""
+
+msgctxt "440_Sodachi"
+msgid "He has a good build, and some pretty good skills to match."
+msgstr ""
+
+msgctxt "452_Sodachi"
+msgid ""
+"But... He's just too good of a person. He's afraid to hurt others, and so "
+"he can't make use of his skills in a fight."
+msgstr ""
+
+msgctxt "464_Sodachi"
+msgid ""
+"Apparently, he joined the dojo because he wanted to change that aspect of "
+"himself."
+msgstr ""
+
+msgctxt "476_Sodachi"
+msgid "But I guess it's not so easy to change..."
+msgstr ""
+
+msgctxt "488_Sodachi"
+msgid "I'm having trouble figuring out how to train him properly."
+msgstr ""
+
+msgctxt "500_Saejima"
+msgid "Too kind, huh? Heheh. Sounds interestin'."
+msgstr ""
+
+msgctxt "584_Watanabe"
+msgid ""
+"Are you absolutely sure that you want <Italic>me</Italic> to be your last "
+"apprentice?"
+msgstr ""
+
+msgctxt "596_Watanabe"
+msgid ""
+"There are loads of people that have been waiting to be taught by you, "
+"Saejima-san..."
+msgstr ""
+
+msgctxt "608_Sodachi"
+msgid "No worries! Saejima-san has made up his mind and it was his own decision."
+msgstr ""
+
+msgctxt "620_Watanabe"
+msgid "Thank you so much. But now I just feel bad for everyone else..."
+msgstr ""
+
+msgctxt "632_Saejima"
+msgid ""
+"Fine. Then why don't ya just quit? Course that'd mean you ain't never gonna "
+"change."
+msgstr ""
+
+msgctxt "644_Watanabe"
+msgid "Never... change..."
+msgstr ""
+
+msgctxt "656_Saejima"
+msgid "Is that what ya want?"
+msgstr ""
+
+msgctxt "668_Watanabe"
+msgid "No!"
+msgstr ""
+
+msgctxt "680_Watanabe"
+msgid ""
+"Saejima-san, help me become a strong man! I don't want to be Mr. Nice Guy "
+"anymore!"
+msgstr ""
+
+msgctxt "692_Watanabe"
+msgid "Please... Saejima-san!"
+msgstr ""
+
+msgctxt "704_Sodachi"
+msgid "Wow! I've never seen Watanabe this enthusiastic before!"
+msgstr ""
+
+msgctxt "716_Sodachi"
+msgid "This is good! I think he's worthy to be your last apprentice!"
+msgstr ""
+
+msgctxt "728_Saejima"
+msgid ""
+"Heh... All right. Try n' keep up with me, like yer life depends on it. I'll "
+"make you stronger. I give ya my word."
+msgstr ""
+
+msgctxt "740_Watanabe"
+msgid "Yes, sir! Saejima-sensei!"
+msgstr ""

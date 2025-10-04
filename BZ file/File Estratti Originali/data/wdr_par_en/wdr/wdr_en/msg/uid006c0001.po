@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "7708"
+msgid "Attendant"
+msgstr ""
+
+msgctxt "7712"
+msgid "M_shp_stand_tlk_ojigi"
+msgstr ""
+
+msgctxt "7716"
+msgid "Player"
+msgstr ""
+
+msgctxt "7720"
+msgid "P_sitsofaR_tlk_standup"
+msgstr ""
+
+msgctxt "412_Attendant"
+msgid "Hello, sir. Welcome to Jewel."
+msgstr ""
+
+msgctxt "424_Attendant"
+msgid "Please come inside when you are ready."
+msgstr ""
+
+msgctxt "436_Attendant"
+msgid "Hello, sir."
+msgstr ""
+
+msgctxt "448_Attendant"
+msgid "(Uh-oh. I don't have enough money.)"
+msgstr ""
+
+msgctxt "460_Attendant"
+msgid "Just a minute!"
+msgstr ""
+
+msgctxt "472_Attendant"
+msgid "Is something wrong?"
+msgstr ""
+
+msgctxt "484_Attendant"
+msgid "I'm sorry. I'll be back later."
+msgstr ""
+
+msgctxt "496_Attendant"
+msgid "(I'll need at least 20,000 yen.)"
+msgstr ""
+
+msgctxt "532_Attendant"
+msgid "Ah, I see you have a copy of Night Magazine. Would you like to use it?"
+msgstr ""
+
+msgctxt "544_Attendant"
+msgid ""
+"Excellent. Using your copy of Night Magazine entitles you to a 1,000 yen "
+"discount."
+msgstr ""
+
+msgctxt "556_Attendant"
+msgid "All right, then."
+msgstr ""
+
+msgctxt "568_Attendant"
+msgid "Would you like to request a specific girl?"
+msgstr ""
+
+msgctxt "640_Attendant"
+msgid "Error."
+msgstr ""
+
+msgctxt "664_Player"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "676_Player"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "688_Player"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "700_Player"
+msgid "Well..."
+msgstr ""
+
+msgctxt "712_Attendant"
+msgid "I see. Please come again."
+msgstr ""
+
+msgctxt "736_Attendant"
+msgid "No preference? Yes sir. Please come this way."
+msgstr ""
+
+msgctxt "760_Attendant"
+msgid "Noa-san? Excellent."
+msgstr ""
+
+msgctxt "784_Attendant"
+msgid "I'm sorry. Noa-san isn't working at the moment."
+msgstr ""
+
+msgctxt "820_Attendant"
+msgid "Erena-san? Excellent."
+msgstr ""
+
+msgctxt "844_Attendant"
+msgid "I'm sorry. Erena-san isn't working at the moment."
+msgstr ""
+
+msgctxt "880_Attendant"
+msgid "Chihiro-san? Excellent."
+msgstr ""
+
+msgctxt "904_Attendant"
+msgid "I'm sorry. Chihiro-san isn't working at the moment."
+msgstr ""
+
+msgctxt "940_Attendant"
+msgid "Maya-san? Excellent."
+msgstr ""
+
+msgctxt "964_Attendant"
+msgid "I'm sorry. Maya-san isn't working at the moment."
+msgstr ""
+
+msgctxt "988_Attendant"
+msgid "Please come again."
+msgstr ""
+
+msgctxt "1012_Attendant"
+msgid "Here is your bill."
+msgstr ""
+
+msgctxt "1024_Attendant"
+msgid "Of course."
+msgstr ""
+
+msgctxt "1036_M_shp_stand_tlk_ojigi"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "1048_Attendant"
+msgid "Please come again."
+msgstr ""
+
+msgctxt "1060_P_sitsofaR_tlk_standup"
+msgid "Now then..."
+msgstr ""
+
+msgctxt "1072_Attendant"
+msgid "Enter"
+msgstr ""
+
+msgctxt "1084_Attendant"
+msgid "Don't Enter"
+msgstr ""
+
+msgctxt "1096_Attendant"
+msgid "Use It"
+msgstr ""
+
+msgctxt "1108_Attendant"
+msgid "Don't Use It"
+msgstr ""
+
+msgctxt "1120_Attendant"
+msgid "Maya Mori"
+msgstr ""
+
+msgctxt "1132_Attendant"
+msgid "No preference."
+msgstr ""
+
+msgctxt "1144_Attendant"
+msgid "Actually, I have to go."
+msgstr ""
+
+msgctxt "1156_Attendant"
+msgid "Noa Mizutani"
+msgstr ""
+
+msgctxt "1168_Attendant"
+msgid "Erena Aihara"
+msgstr ""
+
+msgctxt "1180_Attendant"
+msgid "No preference."
+msgstr ""
+
+msgctxt "1192_Attendant"
+msgid "Actually, I have to go."
+msgstr ""
+
+msgctxt "1204_Attendant"
+msgid "No preference."
+msgstr ""
+
+msgctxt "1216_Attendant"
+msgid "Actually, I have to go."
+msgstr ""
+
+msgctxt "1228_Attendant"
+msgid "Chihiro Ikki"
+msgstr ""
+
+msgctxt "1240_Attendant"
+msgid "No preference."
+msgstr ""
+
+msgctxt "1252_Attendant"
+msgid "Actually, I have to go."
+msgstr ""

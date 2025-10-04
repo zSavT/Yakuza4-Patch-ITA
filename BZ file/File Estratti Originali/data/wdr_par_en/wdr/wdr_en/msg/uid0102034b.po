@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "5540"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "5544"
+msgid "Kido"
+msgstr ""
+
+msgctxt "5548"
+msgid "Midorikawa"
+msgstr ""
+
+msgctxt "5552"
+msgid "Hatsushiba"
+msgstr ""
+
+msgctxt "5556"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5560"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5564"
+msgid "Talk_SmileBig_lp"
+msgstr ""
+
+msgctxt "5568"
+msgid "Talk_SmileBig_ed"
+msgstr ""
+
+msgctxt "5572"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "56_Akiyama"
+msgid "Kido-chan!"
+msgstr ""
+
+msgctxt "68_Kido"
+msgid "Akiyama-san...!"
+msgstr ""
+
+msgctxt "80_Midorikawa"
+msgid "Hey, you're good. Real dedication to the job..."
+msgstr ""
+
+msgctxt "92_Akiyama"
+msgid "Midorikawa-san, I presume?"
+msgstr ""
+
+msgctxt "104_Akiyama"
+msgid "And I take it that's the Hatsushiba Clan chairman?"
+msgstr ""
+
+msgctxt "116_Akiyama"
+msgid ""
+"I don't know what you want with Kido-chan and my registry,\r\n"
+"but what do you say you give them back?"
+msgstr ""
+
+msgctxt "140_Midorikawa"
+msgid "You heard the man, boss. What's it gonna be?"
+msgstr ""
+
+msgctxt "164_Hatsushiba"
+msgid ""
+"Heheheh... Akiyama, was it? I'm afraid you've got the\r\n"
+"wrong idea."
+msgstr ""
+
+msgctxt "176_Akiyama"
+msgid "Oh, yeah? How you figure?"
+msgstr ""
+
+msgctxt "188_Hatsushiba"
+msgid "You didn't lend us shit. You <Italic>gave</Italic> it to us."
+msgstr ""
+
+msgctxt "200_Hatsushiba"
+msgid "So, you see, you can't ask for it back. That'd be just plain rude."
+msgstr ""
+
+msgctxt "212_Akiyama"
+msgid "Ohhh, why didn't you just say so? If I gave it to you, that's different."
+msgstr ""
+
+msgctxt "224_Hatsushiba"
+msgid "Damn straight. Glad we're seein' eye to eye."
+msgstr ""
+
+msgctxt "236_Akiyama"
+msgid "Absolutely. Now I'm gonna ask you to <Italic>give</Italic> it back to me."
+msgstr ""
+
+msgctxt "248_Hatsushiba"
+msgid "What?"
+msgstr ""
+
+msgctxt "260_Akiyama"
+msgid ""
+"Just playing along with your little game. Now give it back before things "
+"get ugly."
+msgstr ""
+
+msgctxt "272_Midorikawa"
+msgid "Hah, this guy's a riot! You seriously think you can take us?"
+msgstr ""
+
+msgctxt "284_Akiyama"
+msgid "We won't know unless I try, will we?"
+msgstr ""
+
+msgctxt "296_Midorikawa"
+msgid "Oh, I definitely know... But hey, why not?"
+msgstr ""
+
+msgctxt "308_Midorikawa"
+msgid "I'll send you back to your bitch secretary in a body bag!"
+msgstr ""

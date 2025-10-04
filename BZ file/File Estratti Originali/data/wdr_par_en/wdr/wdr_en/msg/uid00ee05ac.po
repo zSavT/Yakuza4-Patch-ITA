@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "548"
+msgid "You got a <Color:8>Small Bomb<Color:Default>."
+msgstr ""
+
+msgctxt "704"
+msgid "You got a <Color:8>Superalloy Pickaxe<Color:Default>."
+msgstr ""
+
+msgctxt "776"
+msgid "You got a K Works Catalog 1."
+msgstr ""
+
+msgctxt "920"
+msgid "You got a K Works Catalog 3."
+msgstr ""
+
+msgctxt "1064"
+msgid "You got a K Works Catalog 2."
+msgstr ""
+
+msgctxt "10236"
+msgid "Kamiyama"
+msgstr ""
+
+msgctxt "10240"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "440_Kamiyama"
+msgid "Oh, hello. What can I do for you today?"
+msgstr ""
+
+msgctxt "452_Saejima"
+msgid ""
+"Can you make me a small bomb from this high-grade explosive gunpowder and "
+"this battery?"
+msgstr ""
+
+msgctxt "464_Kamiyama"
+msgid "A bomb? You're not particular about the case or cables I use, right?"
+msgstr ""
+
+msgctxt "476_Kamiyama"
+msgid "I'll see what I can do."
+msgstr ""
+
+msgctxt "536_Kamiyama"
+msgid ""
+"I finished! It's not the prettiest thing in the world, but what it lacks in "
+"beauty, it makes up for with power."
+msgstr ""
+
+msgctxt "572_Kamiyama"
+msgid "No need to pay me! You've done a lot to help me, after all."
+msgstr ""
+
+msgctxt "584_Saejima"
+msgid "Thanks a lot. This'll be real helpful."
+msgstr ""
+
+msgctxt "596_Kamiyama"
+msgid "Oh, hello. What can I do for you today?"
+msgstr ""
+
+msgctxt "608_Saejima"
+msgid "Can you make me a pickaxe out of this Super Alloy and Chunk of Wood (Ash)?"
+msgstr ""
+
+msgctxt "620_Kamiyama"
+msgid "This alloy is of such incredible high quality! Wow."
+msgstr ""
+
+msgctxt "632_Kamiyama"
+msgid "I'll see what I can do."
+msgstr ""
+
+msgctxt "692_Kamiyama"
+msgid "I finished! This pickaxe will be able to break through anything."
+msgstr ""
+
+msgctxt "728_Kamiyama"
+msgid "No need to pay me! Getting to work with such a fine alloy is a rare treat."
+msgstr ""
+
+msgctxt "740_Saejima"
+msgid "Thanks a lot. This'll be real helpful."
+msgstr ""
+
+msgctxt "752_Kamiyama"
+msgid "Oh, hello, Saejima-san. I've started my own modding business."
+msgstr ""
+
+msgctxt "764_Kamiyama"
+msgid ""
+"In commemoration of my shop's opening, I'd like to give you a small gift. "
+"Please, take this."
+msgstr ""
+
+msgctxt "800_Kamiyama"
+msgid "So, what will it be today? My specialty is weapons modifications."
+msgstr ""
+
+msgctxt "884_Kamiyama"
+msgid "All right, then. Maybe next time."
+msgstr ""
+
+msgctxt "896_Kamiyama"
+msgid ""
+"Uh, hi there. I run a weapons modding shop here. I look forward to doing "
+"business with you."
+msgstr ""
+
+msgctxt "908_Kamiyama"
+msgid ""
+"In commemoration of my shop's opening, I'd like to give you a small gift. "
+"Please, take this."
+msgstr ""
+
+msgctxt "944_Kamiyama"
+msgid "So, what can I do for you today? My specialty is weapons modifications."
+msgstr ""
+
+msgctxt "1028_Kamiyama"
+msgid "All right, then. Maybe next time."
+msgstr ""
+
+msgctxt "1040_Kamiyama"
+msgid ""
+"Uh, hi there. I run a weapons modding shop here. I look forward to doing "
+"business with you."
+msgstr ""
+
+msgctxt "1052_Kamiyama"
+msgid ""
+"In commemoration of my shop's opening, I'd like to give you a small gift. "
+"Please, take this."
+msgstr ""
+
+msgctxt "1088_Kamiyama"
+msgid "So, what can I do for you today? My specialty is weapons modifications."
+msgstr ""
+
+msgctxt "1172_Kamiyama"
+msgid "All right, then. Maybe next time."
+msgstr ""
+
+msgctxt "1184_Kamiyama"
+msgid ""
+"Hey, there. I can help you mod or repair weapons. What can I do for you "
+"today?"
+msgstr ""
+
+msgctxt "1268_Kamiyama"
+msgid "All right, then. Maybe next time."
+msgstr ""
+
+msgctxt "1280_Kamiyama"
+msgid "Mod Gear or Accessories"
+msgstr ""
+
+msgctxt "1292_Kamiyama"
+msgid "View Designs"
+msgstr ""
+
+msgctxt "1304_Kamiyama"
+msgid "Buy Equipment/Designs"
+msgstr ""
+
+msgctxt "1316_Kamiyama"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "1328_Kamiyama"
+msgid "Mod Gear or Accessories"
+msgstr ""
+
+msgctxt "1340_Kamiyama"
+msgid "View Designs"
+msgstr ""
+
+msgctxt "1352_Kamiyama"
+msgid "Buy Equipment/Designs"
+msgstr ""
+
+msgctxt "1364_Kamiyama"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "1376_Kamiyama"
+msgid "Mod Gear or Accessories"
+msgstr ""
+
+msgctxt "1388_Kamiyama"
+msgid "View Designs"
+msgstr ""
+
+msgctxt "1400_Kamiyama"
+msgid "Buy Equipment/Designs"
+msgstr ""
+
+msgctxt "1412_Kamiyama"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "1424_Kamiyama"
+msgid "Mod Gear or Accessories"
+msgstr ""
+
+msgctxt "1436_Kamiyama"
+msgid "View Designs"
+msgstr ""
+
+msgctxt "1448_Kamiyama"
+msgid "Buy Equipment/Designs"
+msgstr ""
+
+msgctxt "1460_Kamiyama"
+msgid "Never Mind"
+msgstr ""

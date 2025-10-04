@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1332"
+msgid "Man"
+msgstr ""
+
+msgctxt "1336"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1340"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1344"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1348"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1352"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "116_Man"
+msgid "Who the fuck do you think you are, walking by without saying even a hello?"
+msgstr ""
+
+msgctxt "128_Man"
+msgid ""
+"That's how we do things here! Guess I'm gonna have to beat some manners "
+"into you!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "My apologies. I was the one who forgot his manners."
+msgstr ""
+
+msgctxt "164_Man"
+msgid "I hope this makes up for my rudeness."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a battered and bruised %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "I really do apologize."
+msgstr ""

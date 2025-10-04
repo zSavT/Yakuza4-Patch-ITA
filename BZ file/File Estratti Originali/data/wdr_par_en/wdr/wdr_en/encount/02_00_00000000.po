@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1424"
+msgid "Man"
+msgstr ""
+
+msgctxt "1428"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1432"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1436"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid ""
+"You can't walk past me without paying your respects! That's the rule around "
+"here!"
+msgstr ""
+
+msgctxt "128_Man"
+msgid ""
+"If you don't have my permission, you can't get by. I'll pound that lesson "
+"into you!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "Enough, please! I don't need any more respect outta you."
+msgstr ""
+
+msgctxt "164_Man"
+msgid "Here, take this as an apology. We're good now, yeah?"
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a slightly battered %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "No more..."
+msgstr ""

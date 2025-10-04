@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "210\tNAME"
+msgid "Hostess Trainee 1"
+msgstr ""
+
+msgctxt "230\tNAME"
+msgid "Hostess Trainee 2"
+msgstr ""
+
+msgctxt "250\tNAME"
+msgid "Hostess Trainee 3"
+msgstr ""
+
+msgctxt "292\tEXPLANATION"
+msgid "Your first trainee at Elise became a number one hostess."
+msgstr ""
+
+msgctxt "349\tEXPLANATION"
+msgid "Your second trainee at Elise became a number one hostess."
+msgstr ""
+
+msgctxt "407\tEXPLANATION"
+msgid "Your third trainee at Elise became a number one hostess."
+msgstr ""

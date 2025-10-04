@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2484"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "2488"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2492"
+msgid "Player"
+msgstr ""
+
+msgctxt "2496"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "140_Tanimura"
+msgid "Going out with Haruka-chan? Have fun."
+msgstr ""
+
+msgctxt "152_Tanimura"
+msgid "%s-san... I wouldn't mind patrolling a bit if you're tired."
+msgstr ""
+
+msgctxt "176_Player"
+msgid "I'll be okay on my own for now."
+msgstr ""
+
+msgctxt "188_Player"
+msgid "Sorry, gonna have to pass."
+msgstr ""
+
+msgctxt "200_Player"
+msgid "I'm good."
+msgstr ""
+
+msgctxt "212_Player"
+msgid "Nah, I'm fine."
+msgstr ""
+
+msgctxt "224_Tanimura"
+msgid "Oh. Well, as long as you know your limits."
+msgstr ""
+
+msgctxt "248_Player"
+msgid "That's a good idea. Go ahead."
+msgstr ""
+
+msgctxt "260_Player"
+msgid "Sure, why not. I'm always down to chill for a bit."
+msgstr ""
+
+msgctxt "272_Player"
+msgid "Guess I don't mind catchin' my breath."
+msgstr ""
+
+msgctxt "284_Player"
+msgid "All right, I'll let you take things from here."
+msgstr ""
+
+msgctxt "296_Tanimura"
+msgid "Leave everything to me."
+msgstr ""
+
+msgctxt "320_Tanimura"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "332_Tanimura"
+msgid "Switch to Tanimura"
+msgstr ""

@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "548"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "1028"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "13664"
+msgid "Shizuka"
+msgstr ""
+
+msgctxt "13668"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13672"
+msgid "Player"
+msgstr ""
+
+msgctxt "13676"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13680"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13684"
+msgid "0"
+msgstr ""
+
+msgctxt "13688"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "116_Shizuka"
+msgid "Up for a challenge, sir?"
+msgstr ""
+
+msgctxt "128_Player"
+msgid "I like that confidence. Let's do it."
+msgstr ""
+
+msgctxt "152_Shizuka"
+msgid "Up for a challenge, sir?"
+msgstr ""
+
+msgctxt "164_Shizuka"
+msgid "Oh, I can't wait. Let's go in!"
+msgstr ""
+
+msgctxt "176_Player"
+msgid "Hold on a sec. I just realized that I'm short on cash."
+msgstr ""
+
+msgctxt "188_Shizuka"
+msgid "Oh, really?"
+msgstr ""
+
+msgctxt "200_Player"
+msgid "Yeah. Sorry..."
+msgstr ""
+
+msgctxt "212_Shizuka"
+msgid ""
+"No, I'm the one who should apologize. I asked you out and inconvenienced "
+"you like this. I guess this is the end of our date for today..."
+msgstr ""
+
+msgctxt "224_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "332_Shizuka"
+msgid "That was impressive, sir! ♪ I see you're excellent at darts, too."
+msgstr ""
+
+msgctxt "344_Player"
+msgid "Heh. Thanks."
+msgstr ""
+
+msgctxt "356_Shizuka"
+msgid ""
+"It was a lot of fun, even if I did lose. May I ask you to take me out again "
+"sometime?"
+msgstr ""
+
+msgctxt "368_Player"
+msgid "Definitely."
+msgstr ""
+
+msgctxt "380_Shizuka"
+msgid "Hehehe! Then until we meet again!"
+msgstr ""
+
+msgctxt "404_Shizuka"
+msgid "Phew... It ended in a tie, I see."
+msgstr ""
+
+msgctxt "416_Player"
+msgid "Good match."
+msgstr ""
+
+msgctxt "428_Shizuka"
+msgid ""
+"I still had a great time regardless. May I ask you to take me out again "
+"sometime?"
+msgstr ""
+
+msgctxt "440_Player"
+msgid "Definitely."
+msgstr ""
+
+msgctxt "452_Shizuka"
+msgid "Hehehe! Then until we meet again!"
+msgstr ""
+
+msgctxt "476_Shizuka"
+msgid "Looks like I won!"
+msgstr ""
+
+msgctxt "488_Player"
+msgid "You sure did."
+msgstr ""
+
+msgctxt "500_Shizuka"
+msgid "I had such a good time today. May I ask you to take me out again sometime?"
+msgstr ""
+
+msgctxt "512_Player"
+msgid "Definitely."
+msgstr ""
+
+msgctxt "524_Shizuka"
+msgid "Hehehe! Then until we meet again!"
+msgstr ""
+
+msgctxt "632_Shizuka"
+msgid "Up for a challenge, sir?"
+msgstr ""
+
+msgctxt "644_Player"
+msgid "I like that confidence. Let's do it."
+msgstr ""
+
+msgctxt "668_Shizuka"
+msgid "Up for a challenge, sir?"
+msgstr ""
+
+msgctxt "680_Shizuka"
+msgid "Oh I can't wait. Let's go in!"
+msgstr ""
+
+msgctxt "692_Player"
+msgid "Hold on a sec. I just realized that I'm short on cash."
+msgstr ""
+
+msgctxt "704_Shizuka"
+msgid "Oh, really?"
+msgstr ""
+
+msgctxt "716_Player"
+msgid "Yeah. Sorry..."
+msgstr ""
+
+msgctxt "728_Shizuka"
+msgid ""
+"No, I'm the one who should apologize. I asked you out and inconvenienced "
+"you like this. I guess this is the end of our date for today..."
+msgstr ""
+
+msgctxt "740_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "848_Shizuka"
+msgid "That was impressive, sir! ♪ I see you're excellent at darts, too."
+msgstr ""
+
+msgctxt "860_Player"
+msgid "Heh. Thanks."
+msgstr ""
+
+msgctxt "872_Shizuka"
+msgid ""
+"It was a lot of fun, even if I did lose. Well, shall we head to the club "
+"now?"
+msgstr ""
+
+msgctxt "884_Player"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "908_Shizuka"
+msgid "Phew... It ended in a tie, I see."
+msgstr ""
+
+msgctxt "920_Player"
+msgid "Good match."
+msgstr ""
+
+msgctxt "932_Shizuka"
+msgid "I still had a great time regardless. Well, shall we head to the club now?"
+msgstr ""
+
+msgctxt "944_Player"
+msgid "Yeah, sounds good."
+msgstr ""
+
+msgctxt "968_Shizuka"
+msgid "Looks like I won!"
+msgstr ""
+
+msgctxt "980_Player"
+msgid "You sure did."
+msgstr ""
+
+msgctxt "992_Shizuka"
+msgid "I had such a good time today. Well, shall we head to the club now?"
+msgstr ""
+
+msgctxt "1004_Player"
+msgid "Yeah, sounds good."
+msgstr ""

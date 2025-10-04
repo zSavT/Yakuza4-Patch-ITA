@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "272"
+msgid "You gained 10,000 EXP."
+msgstr ""
+
+msgctxt "2844"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2848"
+msgid "F_sxy_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "2852"
+msgid "P_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "2856"
+msgid "Shizuka"
+msgstr ""
+
+msgctxt "2860"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2864"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "2868"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr ""
+
+msgctxt "2872"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2876"
+msgid "Idle"
+msgstr ""
+
+msgctxt "68_Kiryu"
+msgid ""
+"Heh, you never did get 'round to washing my back. You saw it, though, "
+"right? Are you... okay with what's on it?"
+msgstr ""
+
+msgctxt "92_Shizuka"
+msgid "Your back was very masculine... and beautiful."
+msgstr ""
+
+msgctxt "104_Shizuka"
+msgid ""
+"And I got the feeling that those strong shoulders of yours are burdened by "
+"more than I can imagine..."
+msgstr ""
+
+msgctxt "116_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "128_Shizuka"
+msgid "Maybe I can finally wash your back when I'm done with my studies."
+msgstr ""
+
+msgctxt "140_Kiryu"
+msgid "All right. I'll be waiting for you to return from America."
+msgstr ""
+
+msgctxt "152_Shizuka"
+msgid "Thank you! Um... Could I get one more hug before I go?"
+msgstr ""
+
+msgctxt "164_Kiryu"
+msgid "Of course."
+msgstr ""
+
+msgctxt "176_Shizuka"
+msgid "I love you. <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""

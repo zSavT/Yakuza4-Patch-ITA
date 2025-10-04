@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "10980"
+msgid "Annoyed Man"
+msgstr ""
+
+msgctxt "10984"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "10988"
+msgid "Man in Suit"
+msgstr ""
+
+msgctxt "10992"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10996"
+msgid "Owner of Kyushu No. 1 Star"
+msgstr ""
+
+msgctxt "11000"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11004"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "11008"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "11012"
+msgid "Ueda"
+msgstr ""
+
+msgctxt "11016"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "11020"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "11024"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "11028"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "116_Annoyed Man"
+msgid ""
+"How can this not be good enough? The texture of the noodles, the flavor of "
+"the soup... It's all exactly the same as Kyushu No. 1 Star ramen!"
+msgstr ""
+
+msgctxt "128_Man in Suit"
+msgid "True... There's no question that it's faithful to Kyushu No. 1 Star ramen."
+msgstr ""
+
+msgctxt "140_Annoyed Man"
+msgid ""
+"I don't see any reason why I can't open my own Kyushu No. 1 Star shop. This "
+"ramen couldn't possibly disgrace the name!"
+msgstr ""
+
+msgctxt "152_Owner of Kyushu No. 1 Star"
+msgid "Yes, the ramen you have here is very well-made."
+msgstr ""
+
+msgctxt "164_Annoyed Man"
+msgid "Okay, then why won't you let me open a new location!?"
+msgstr ""
+
+msgctxt "176_Owner of Kyushu No. 1 Star"
+msgid "Because no means no. Now, get back to work."
+msgstr ""
+
+msgctxt "188_Man in Suit"
+msgid "Ouch..."
+msgstr ""
+
+msgctxt "200_Annoyed Man"
+msgid "I know what it is! You just don't want me to go out on my own!"
+msgstr ""
+
+msgctxt "224_Owner of Kyushu No. 1 Star"
+msgid "......"
+msgstr ""
+
+msgctxt "236_Kiryu"
+msgid "Hey, I'll have a bowl."
+msgstr ""
+
+msgctxt "248_Owner of Kyushu No. 1 Star"
+msgid "Ah, if it isn't Kiryu-san!"
+msgstr ""
+
+msgctxt "260_Ueda"
+msgid "Oh, Kiryu-san! Remember me? Ueda, from Acecook. Nice to see you again!"
+msgstr ""
+
+msgctxt "272_Kiryu"
+msgid ""
+"Oh, right. You were the one who made an instant version of the ramen here. "
+"It's been a while. You still come here?"
+msgstr ""
+
+msgctxt "284_Ueda"
+msgid "Of course! I'm a huge fan of this place."
+msgstr ""
+
+msgctxt "296_Kiryu"
+msgid "Heh. Right, I remember."
+msgstr ""
+
+msgctxt "308_Kiryu"
+msgid "By the way, who was that just now? Your apprentice?"
+msgstr ""
+
+msgctxt "320_Owner of Kyushu No. 1 Star"
+msgid ""
+"That's right. His name's Matsuyama. He's young, but he's got plenty of "
+"determination and skill."
+msgstr ""
+
+msgctxt "332_Owner of Kyushu No. 1 Star"
+msgid ""
+"He's really mastered our ramen. I can't wait to see what he'll do in the "
+"future."
+msgstr ""
+
+msgctxt "344_Kiryu"
+msgid "But you don't want him to open his own shop?"
+msgstr ""
+
+msgctxt "356_Owner of Kyushu No. 1 Star"
+msgid "Well, that's..."
+msgstr ""
+
+msgctxt "368_Ueda"
+msgid ""
+"I'm sure it's not that you don't want to expand... I'm guessing you have "
+"your own reasons?"
+msgstr ""
+
+msgctxt "380_Owner of Kyushu No. 1 Star"
+msgid "......"
+msgstr ""
+
+msgctxt "392_Ueda"
+msgid "Would you like to talk about it? I'd like to help, if I could."
+msgstr ""
+
+msgctxt "404_Owner of Kyushu No. 1 Star"
+msgid ""
+"I hate to burden customers with our problems... but I suppose I can tell "
+"you."
+msgstr ""
+
+msgctxt "416_Owner of Kyushu No. 1 Star"
+msgid ""
+"Matsuyama's plenty good, that's for sure. But do you really think there's "
+"any point in him just making the same ramen as I do?"
+msgstr ""
+
+msgctxt "428_Owner of Kyushu No. 1 Star"
+msgid ""
+"With the skill and intensity he's got, I'd like to see him make something "
+"only he's capable of."
+msgstr ""
+
+msgctxt "440_Kiryu"
+msgid ""
+"So you think he ought to go into business on his own, rather than just "
+"opening a new branch of Kyushu No. 1 Star."
+msgstr ""
+
+msgctxt "452_Ueda"
+msgid "That's how you really feel?"
+msgstr ""
+
+msgctxt "464_Owner of Kyushu No. 1 Star"
+msgid "That's right..."
+msgstr ""
+
+msgctxt "476_Ueda"
+msgid ""
+"And you couldn't just say that to Matsuyama-san?\r\n"
+"Actually, knowing you, I guess that's not likely."
+msgstr ""
+
+msgctxt "488_Owner of Kyushu No. 1 Star"
+msgid ""
+"You nuts!? What good's it gonna do for me to tell him? He's gotta see it "
+"for himself."
+msgstr ""
+
+msgctxt "500_Ueda"
+msgid "It seems like he's really serious, though..."
+msgstr ""
+
+msgctxt "512_Owner of Kyushu No. 1 Star"
+msgid ""
+"Anyway, enough of this talk. Sorry to bother you with our troubles. Enjoy "
+"your ramen!"
+msgstr ""
+
+msgctxt "524_Kiryu"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "536_Ueda"
+msgid "Matsuyama-san really seemed to have his heart set on opening a new branch."
+msgstr ""
+
+msgctxt "548_Kiryu"
+msgid "Yeah, he seemed pretty upset about it."
+msgstr ""
+
+msgctxt "560_Ueda"
+msgid ""
+"Kiryu-san, I know it's none of my business, but do you think it would be "
+"okay to let Matsuyama-san know how the owner really feels about this whole "
+"thing?"
+msgstr ""
+
+msgctxt "572_Kiryu"
+msgid ""
+"Remember what the owner said? There are some things you have to figure out "
+"on your own."
+msgstr ""
+
+msgctxt "584_Ueda"
+msgid "I can see where he's coming from and all, but..."
+msgstr ""
+
+msgctxt "596_Kiryu"
+msgid "Yeah, it seems he will never know otherwise. I'll see what I can do to help."
+msgstr ""
+
+msgctxt "608_Ueda"
+msgid "You will!? Thanks! Let's go find Matsuyama-san!"
+msgstr ""
+
+msgctxt "620_Kiryu"
+msgid "Any idea where he might be?"
+msgstr ""
+
+msgctxt "632_Ueda"
+msgid "Uh, well..."
+msgstr ""
+
+msgctxt "644_Kiryu"
+msgid ""
+"No? Oh, well. It's not like he could've gone far. Let's split up and look "
+"for him."
+msgstr ""
+
+msgctxt "656_Ueda"
+msgid "Sounds good. I'll call you if I find him!"
+msgstr ""
+
+msgctxt "668_Kiryu"
+msgid "Sure. I'll do the same."
+msgstr ""
+
+msgctxt "680_Kiryu"
+msgid ""
+"(He just ran off with his uniform still on, so he should be easy to spot. I "
+"should try asking if anybody saw him.)"
+msgstr ""
+
+msgctxt "704_Annoyed Man"
+msgid "I could help with that."
+msgstr ""
+
+msgctxt "716_Annoyed Man"
+msgid "Just leave him be."
+msgstr ""

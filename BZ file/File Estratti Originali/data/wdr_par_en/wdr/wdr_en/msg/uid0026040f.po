@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1044"
+msgid "Alps Staff"
+msgstr ""
+
+msgctxt "1048"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1052"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "56_Alps Staff"
+msgid "Welcome, sir. How many in your party?"
+msgstr ""
+
+msgctxt "68_Kiryu"
+msgid "I was actually wondering if you guys do takeout. I need curry, stat."
+msgstr ""
+
+msgctxt "80_Alps Staff"
+msgid ""
+"I'm sorry, sir. We only offer our dining experience\r\n"
+"in-house."
+msgstr ""
+
+msgctxt "92_Kiryu"
+msgid ""
+"But I can't just leave him...! Guess I'll have to look\r\n"
+"somewhere else."
+msgstr ""
+
+msgctxt "104_Alps Staff"
+msgid "My deepest apologies, sir."
+msgstr ""
+
+msgctxt "116_Kiryu"
+msgid "(Where else can I get curry?)"
+msgstr ""

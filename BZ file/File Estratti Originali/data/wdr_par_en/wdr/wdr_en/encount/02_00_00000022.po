@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1380"
+msgid "Man"
+msgstr ""
+
+msgctxt "1384"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1388"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1392"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1396"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid ""
+"Please, won't you help me? I've been partying too hard and I've run out of "
+"money!"
+msgstr ""
+
+msgctxt "128_Man"
+msgid "Take out your wallet now and save me! C'mon pal, hand it over already!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "That's enough! Really!"
+msgstr ""
+
+msgctxt "164_Man"
+msgid ""
+"Your feelings came through loud and clear... and painfully. Please take "
+"this instead."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a creaky %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "Ouch..."
+msgstr ""

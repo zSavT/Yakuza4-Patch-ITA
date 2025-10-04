@@ -1,0 +1,568 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "588"
+msgid "<Color:9>You learned the Komaki Firearm Flip.<Color:Default>"
+msgstr ""
+
+msgctxt "17668"
+msgid "GG"
+msgstr ""
+
+msgctxt "17672"
+msgid "Nair"
+msgstr ""
+
+msgctxt "17676"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "17680"
+msgid "M_ykzs_damage_tlk_no"
+msgstr ""
+
+msgctxt "17684"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "17688"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "17692"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "17696"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "17700"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "17704"
+msgid "M_ykzs_damage_tlk_yes"
+msgstr ""
+
+msgctxt "17708"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "17712"
+msgid "P_tan_stand_tlk_musen_st"
+msgstr ""
+
+msgctxt "17716"
+msgid "M_gai_stand"
+msgstr ""
+
+msgctxt "17720"
+msgid "Idle"
+msgstr ""
+
+msgctxt "17724"
+msgid "SetM_nml_stand_talk_01"
+msgstr ""
+
+msgctxt "17728"
+msgid "SetM_nml_stand_listen_02"
+msgstr ""
+
+msgctxt "17732"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "17736"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "17740"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "17744"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "17748"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "17752"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "17756"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "17760"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "17764"
+msgid "Marcos"
+msgstr ""
+
+msgctxt "17768"
+msgid "dummy"
+msgstr ""
+
+msgctxt "17772"
+msgid "0"
+msgstr ""
+
+msgctxt "17776"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "72_GG"
+msgid "[This... can't... be...!]"
+msgstr ""
+
+msgctxt "84_Nair"
+msgid "[Give up! It's over for you!]"
+msgstr ""
+
+msgctxt "96_GG"
+msgid "[All I ever wanted was for you－just you－to be happy, Nair...]"
+msgstr ""
+
+msgctxt "108_Nair"
+msgid ""
+"[If that's the way you truly feel, then pay for your sins with the rest of "
+"your life.]"
+msgstr ""
+
+msgctxt "120_Nair"
+msgid "[That's my final wish, as your only family...]"
+msgstr ""
+
+msgctxt "132_GG"
+msgid "[......]"
+msgstr ""
+
+msgctxt "144_Tanimura"
+msgid ""
+"[Why did you kill your parents for money? You're the eldest son. You would "
+"have inherited the money either way, right?]"
+msgstr ""
+
+msgctxt "156_GG"
+msgid ""
+"[Those brainless idiots were wasting their own inheritance. How could I "
+"expect to inherit anything of my own? Waiting would've been futile.]"
+msgstr ""
+
+msgctxt "168_GG"
+msgid ""
+"[I tried reasoning with them. I even majored in management at college, but "
+"they would never even acknowledge what I was saying.]"
+msgstr ""
+
+msgctxt "180_GG"
+msgid ""
+"[They were so incompetent, they didn't even have the faculties to take "
+"notice of my talent.]"
+msgstr ""
+
+msgctxt "192_GG"
+msgid ""
+"[What's more, they didn't trust me, and were even looking for a new "
+"successor.]"
+msgstr ""
+
+msgctxt "204_GG"
+msgid ""
+"[They had no intention whatsoever to leave the family fortune to me and "
+"Nair.]"
+msgstr ""
+
+msgctxt "216_Nair"
+msgid "[It is true that our parents weren't interested in anything but money.]"
+msgstr ""
+
+msgctxt "228_Nair"
+msgid "[But you made the wrong decision. Nobody has the right to kill another.]"
+msgstr ""
+
+msgctxt "240_GG"
+msgid "[......]"
+msgstr ""
+
+msgctxt "252_GG"
+msgid ""
+"[Nair, you've grown up to be a wonderful person. I can rest easy knowing "
+"that.]"
+msgstr ""
+
+msgctxt "264_Nair"
+msgid "[......]"
+msgstr ""
+
+msgctxt "276_Nair"
+msgid "[Tanimura-san...]"
+msgstr ""
+
+msgctxt "288_Tanimura"
+msgid "[I know, Nair. I know.]"
+msgstr ""
+
+msgctxt "312_Tanimura"
+msgid ""
+"This is Tanimura from the Community Safety Division. I need men on the roof "
+"of the Millennium Tower right away."
+msgstr ""
+
+msgctxt "396_Nair"
+msgid "[Tanimura-san, thanks for everything. You really helped me a lot.]"
+msgstr ""
+
+msgctxt "408_Tanimura"
+msgid ""
+"[I guess you were pretty shocked to find out the murderer was really your "
+"brother.]"
+msgstr ""
+
+msgctxt "420_Nair"
+msgid ""
+"[Well, of course. But honestly, I'm a little happy to see that he's still "
+"alive.]"
+msgstr ""
+
+msgctxt "432_Tanimura"
+msgid "[Really?]"
+msgstr ""
+
+msgctxt "444_Nair"
+msgid ""
+"[Well, we got the bad guy. But I bet I'm going to be pretty busy for a "
+"while after this.]"
+msgstr ""
+
+msgctxt "456_Tanimura"
+msgid "[Why's that?]"
+msgstr ""
+
+msgctxt "468_Nair"
+msgid ""
+"[For starters, GG is going to be interrogated here in Japan, right? I also "
+"have to start on the extradition paperwork.]"
+msgstr ""
+
+msgctxt "480_Tanimura"
+msgid "[Oh, I see. So the worst of all of this is yet to come.]"
+msgstr ""
+
+msgctxt "492_Nair"
+msgid "[Tanimura-san! You're not going to help?]"
+msgstr ""
+
+msgctxt "504_Tanimura"
+msgid "[I think I'll pass on that part. I wish you all the best, Nair.]"
+msgstr ""
+
+msgctxt "516_Nair"
+msgid "[Hey! You can't leave me now!]"
+msgstr ""
+
+msgctxt "528_Nair"
+msgid "[...Just kidding!]"
+msgstr ""
+
+msgctxt "540_Nair"
+msgid ""
+"[You were more help than I could have ever imagined. We'll take care of the "
+"rest.]"
+msgstr ""
+
+msgctxt "552_Nair"
+msgid "[There has to be some way I can repay you.]"
+msgstr ""
+
+msgctxt "564_Tanimura"
+msgid "[No worries. I was just doing my job.]"
+msgstr ""
+
+msgctxt "576_Tanimura"
+msgid ""
+"[Plus, you taught me lots of new techniques. The whole experience was "
+"pretty inspirational too. That's enough reward for me.]"
+msgstr ""
+
+msgctxt "600_Nair"
+msgid "[You're too nice.]"
+msgstr ""
+
+msgctxt "612_Nair"
+msgid "[When I get back home I'll send you a bunch of fresh fruit!]"
+msgstr ""
+
+msgctxt "624_Tanimura"
+msgid "[Well, I am partial to fruit. I'll be looking forward to it then.]"
+msgstr ""
+
+msgctxt "636_Marcos"
+msgid "[Nair! Come here and help me fill these forms out!]"
+msgstr ""
+
+msgctxt "648_Nair"
+msgid "[Be right there!]"
+msgstr ""
+
+msgctxt "660_Nair"
+msgid "[Well, this is it, Tanimura-san. Thanks again.]"
+msgstr ""
+
+msgctxt "672_Tanimura"
+msgid "[Right back at ya.]"
+msgstr ""
+
+msgctxt "684_Nair"
+msgid "[See you around!]"
+msgstr ""
+
+msgctxt "756_Nair"
+msgid "[Marcos! Garcia!]"
+msgstr ""
+
+msgctxt "768_Tanimura"
+msgid "[Wait. Isn't that...]"
+msgstr ""
+
+msgctxt "792_Nair"
+msgid "[GG.]"
+msgstr ""
+
+msgctxt "804_GG"
+msgid ""
+"[I must give you credit for making it this far. However, your coming here "
+"was a mistake.]"
+msgstr ""
+
+msgctxt "816_GG"
+msgid "[And I take it you realize that now, no?]"
+msgstr ""
+
+msgctxt "840_Nair"
+msgid "[It can't be!]"
+msgstr ""
+
+msgctxt "852_Tanimura"
+msgid "[Are you sure that's GG?]"
+msgstr ""
+
+msgctxt "864_Nair"
+msgid "[Yeah...]"
+msgstr ""
+
+msgctxt "876_Tanimura"
+msgid "[Nair! What's gotten into you!?]"
+msgstr ""
+
+msgctxt "888_GG"
+msgid ""
+"[Can't blame you for being surprised. This is why I told you coming would "
+"be a mistake.]"
+msgstr ""
+
+msgctxt "900_Tanimura"
+msgid "[What's going on?]"
+msgstr ""
+
+msgctxt "912_Nair"
+msgid "[......]"
+msgstr ""
+
+msgctxt "924_Nair"
+msgid "[He's... my brother...]"
+msgstr ""
+
+msgctxt "936_Tanimura"
+msgid "[Your what!?]"
+msgstr ""
+
+msgctxt "948_Nair"
+msgid "[But why...?]"
+msgstr ""
+
+msgctxt "960_GG"
+msgid ""
+"[It's just as it appears. I killed our parents, faked my death, and took "
+"off with our family's massive fortune.]"
+msgstr ""
+
+msgctxt "972_Nair"
+msgid "[It can't be...]"
+msgstr ""
+
+msgctxt "984_GG"
+msgid "[I'm afraid it can. But the facts reported on the murder are all lies.]"
+msgstr ""
+
+msgctxt "996_Tanimura"
+msgid "[What do you mean?]"
+msgstr ""
+
+msgctxt "1008_GG"
+msgid "[Our family operated a plant, dealing mainly with automobile manufacturing.]"
+msgstr ""
+
+msgctxt "1020_GG"
+msgid "[But that business alone could never amass such wealth.]"
+msgstr ""
+
+msgctxt "1032_GG"
+msgid ""
+"[It was merely a front. Behind the scenes, they dealt in the munitions "
+"industry－selling arms. This was the true source of their enormous wealth.]"
+msgstr ""
+
+msgctxt "1044_GG"
+msgid "[Wealth that I took.]"
+msgstr ""
+
+msgctxt "1056_GG"
+msgid ""
+"[Publicizing my death freed me from all political and economic "
+"responsibility. Living behind the scenes has many advantages.]"
+msgstr ""
+
+msgctxt "1068_Nair"
+msgid "[It can't be...]"
+msgstr ""
+
+msgctxt "1080_Tanimura"
+msgid "[Nobody can just fake their death that easily!]"
+msgstr ""
+
+msgctxt "1092_GG"
+msgid ""
+"[Perhaps not in Japan. But the sleuthing techniques aren't so advanced "
+"where I'm from. It was hardly a challenge to find a loophole.]"
+msgstr ""
+
+msgctxt "1104_GG"
+msgid "[And I'm rich. Nothing is impossible for me now.]"
+msgstr ""
+
+msgctxt "1116_Tanimura"
+msgid "[This guy's ridiculous.]"
+msgstr ""
+
+msgctxt "1128_GG"
+msgid ""
+"[My parents and I never saw eye-to-eye when it came to their money. I had "
+"to get rid of them.]"
+msgstr ""
+
+msgctxt "1140_GG"
+msgid "[But Nair and Marcos were always there for me when I was alone.]"
+msgstr ""
+
+msgctxt "1152_GG"
+msgid "[I am grateful to both of them.]"
+msgstr ""
+
+msgctxt "1164_Tanimura"
+msgid ""
+"[That's why you told them to stay out of your way, right? You didn't want "
+"to kill them.]"
+msgstr ""
+
+msgctxt "1176_GG"
+msgid "[That's right.]"
+msgstr ""
+
+msgctxt "1188_Tanimura"
+msgid "[Even wicked people like you aren't able to forget the people they love.]"
+msgstr ""
+
+msgctxt "1200_Tanimura"
+msgid "[But do you think your friend and sister are happy with you now?]"
+msgstr ""
+
+msgctxt "1212_GG"
+msgid ""
+"[That's why I told them not to interfere. If they figured out who I really "
+"was, I would have to dispose of them regardless.]"
+msgstr ""
+
+msgctxt "1224_Nair"
+msgid "[Dispose?]"
+msgstr ""
+
+msgctxt "1236_Tanimura"
+msgid "[You gave yourself away the moment you said that word.]"
+msgstr ""
+
+msgctxt "1248_Tanimura"
+msgid ""
+"[If these people were truly important to you, you'd never talk of "
+"\"disposing\" them. Not ever.]"
+msgstr ""
+
+msgctxt "1260_Tanimura"
+msgid "[I'm sure even Nair has realized the truth about you now.]"
+msgstr ""
+
+msgctxt "1272_GG"
+msgid "[......]"
+msgstr ""
+
+msgctxt "1284_Nair"
+msgid "[......]"
+msgstr ""
+
+msgctxt "1296_Nair"
+msgid "[You're not my brother. My brother is nothing like you.]"
+msgstr ""
+
+msgctxt "1308_Nair"
+msgid "[My brother is dead! My brother died that day, along with my parents!]"
+msgstr ""
+
+msgctxt "1320_GG"
+msgid "[......]"
+msgstr ""
+
+msgctxt "1332_Nair"
+msgid ""
+"[You're just the criminal that murdered my family now. And you're not "
+"getting away with it.]"
+msgstr ""
+
+msgctxt "1344_GG"
+msgid ""
+"[That's too bad. I would have thought you of all people would at least try "
+"to understand.]"
+msgstr ""
+
+msgctxt "1356_Tanimura"
+msgid ""
+"[You can't force your ideas onto other people and expect them to agree with "
+"you.]"
+msgstr ""
+
+msgctxt "1368_GG"
+msgid "[That's enough. You will die now.]"
+msgstr ""
+
+msgctxt "1380_Nair"
+msgid "[I'm going to make you pay. Count on it.]"
+msgstr ""
+
+msgctxt "1392_GG"
+msgid "[I grow tired of this banter. Prepare yourself!]"
+msgstr ""

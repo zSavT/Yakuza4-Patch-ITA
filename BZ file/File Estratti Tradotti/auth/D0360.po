@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-10\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/auth/subtitle/D0360.po\n"
+"X-Crowdin-File-ID: 56248\n"
+"PO-Revision-Date: 2025-09-26 07:39\n"
+
+msgctxt "893\t959"
+msgid "Hey, Chairman! Chairman Dojima!"
+msgstr "Ehi, presidente! Presidente Dojima!"
+
+msgctxt "964\t1043"
+msgid "You're yakuza! You're powerful!"
+msgstr "Sei uno yakuza! Sei potente!"
+
+msgctxt "1044\t1104"
+msgid "Do something! Come on!"
+msgstr "Fai qualcosa! Forza!"
+
+msgctxt "1132\t1282"
+msgid "I should've known...\\nI'm no match for him."
+msgstr "Avrei dovuto saperlo...\\nNon posso competere."
+
+msgctxt "1395\t1546"
+msgid "I suggest you start thinking\\nabout what comes next."
+msgstr "Ti suggerisco di iniziare a\\npensare al dopo."
+
+msgctxt "1573\t1694"
+msgid "It's time we all face reality."
+msgstr "È tempo che tutti affrontino la realtà."
+
+msgctxt "1720\t1813"
+msgid "What're you saying?\\nCome on, get up!"
+msgstr "Che stai dicendo?\\nForza, alzati!"
+
+msgctxt "2191\t2217"
+msgid "Hey..."
+msgstr "Ehi..."
+
+msgctxt "2217\t2270"
+msgid "Wait."
+msgstr "Aspetta."
+
+msgctxt "2427\t2520"
+msgid "Tanimura-kun!\\nLet's not be hasty here!"
+msgstr "Tanimura-kun!\\nNon essere frettoloso!"
+
+msgctxt "2535\t2642"
+msgid "Do you have any idea what'll happen\\nif you go through with this!?"
+msgstr "Hai idea di cosa succederà se\\nnon ti fermi!?"
+
+msgctxt "3586\t3653"
+msgid "He doesn't have the right to die."
+msgstr "Non ha il diritto di morire."
+
+msgctxt "3684\t3744"
+msgid "I get it now."
+msgstr "Ora capisco."
+
+msgctxt "3754\t3814"
+msgid "Finally."
+msgstr "Finalmente."
+
+msgctxt "3867\t3926"
+msgid "Arai..."
+msgstr "Arai..."
+
+msgctxt "3927\t3987"
+msgid "Aniki."
+msgstr "Aniki."
+
+msgctxt "4240\t4300"
+msgid "Arai!"
+msgstr "Arai!"
+
+msgctxt "4325\t4394"
+msgid "You son of a...!"
+msgstr "Tu, figlio di...!"
+
+msgctxt "4427\t4536"
+msgid "Munakata-san.\\nAre you afraid?"
+msgstr "Munakata-san.\\nHai paura?"
+
+msgctxt "4580\t4658"
+msgid "Well, you'll need a lot more than that."
+msgstr "Beh, ce ne vorrà un po' di più."
+
+msgctxt "4663\t4838"
+msgid "After all the lives you've stamped out,\\na moment of fear simply doesn't equate."
+msgstr "Dopo tutte le vite che hai tolto,\\nun piccolo momento di paura non è abbastanza."
+
+msgctxt "4873\t4941"
+msgid "Death would be a mercy to you."
+msgstr "La morte per te sarebbe una pietà."
+
+msgctxt "4962\t5139"
+msgid "Instead you'll spend the rest of your life\\nin the very prisons you used on so many others."
+msgstr "Invece passerai il resto dei tuoi giorni\\nnelle stesse prigioni che hai usato per molti altri."
+
+msgctxt "5184\t5320"
+msgid "And I'll be right there next to you."
+msgstr "E io sarò lì accanto a te."
+
+msgctxt "5829\t5889"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "5947\t6115"
+msgid "The police force as I knew it...\\nonly cared about power and greed."
+msgstr "Le forze di polizia che conoscevo...\\nSi preoccupavano solo di avere potere."
+
+msgctxt "6134\t6342"
+msgid "But meeting a cop like you in the end...\\nmakes it a bit easier to pass the torch."
+msgstr "Ma infine, incontrare un poliziotto come te...\\nRende più facile passaggio di testimone."
+
+msgctxt "7214\t7342"
+msgid "You really believe this will bring me down?"
+msgstr "Pensi davvero che questo mi sconfiggerà?"
+
+msgctxt "7347\t7387"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "7532\t7605"
+msgid "Me, thrown in prison?"
+msgstr "Io, in prigione?"
+
+msgctxt "7622\t7698"
+msgid "Need I remind you who I am?"
+msgstr "Devo ricordarti chi sono?"
+
+msgctxt "7710\t7782"
+msgid "I'm second in command of the entire force."
+msgstr "Sono il secondo in comando nelle forze."
+
+msgctxt "7787\t7901"
+msgid "A couple of trumped-up charges means nothing to me!"
+msgstr "Un paio di accuse inventate non mi toccano!"
+
+msgctxt "7973\t8143"
+msgid "We can prove every single one of your crimes.\\nWe have the receipts."
+msgstr "Possiamo dimostrare ogni crimine.\\nAbbiamo le prove."
+
+msgctxt "8148\t8223"
+msgid "What's stopping me from hauling you in?"
+msgstr "Cosa mi impedisce di arrestarti?"
+
+msgctxt "8228\t8402"
+msgid "You beat cops are even dimmer than I thought."
+msgstr "I poliziotti sono più deboli di quel che pensassi."
+
+msgctxt "8413\t8495"
+msgid "The police are the law."
+msgstr "I poliziotti sono la legge."
+
+msgctxt "8496\t8619"
+msgid "A virtuous organization meting out\\njustice to the people of this country."
+msgstr "Un'organizzazione virtuosa che dona\\ngiustizia al suo paese."
+
+msgctxt "8624\t8753"
+msgid "What do you think happens if\\none of its figureheads is arrested?"
+msgstr "Cosa pensi succederebbe se uno\\ndi loro venisse arrestato?"
+
+msgctxt "8754\t8821"
+msgid "This nation of fools would plunge into chaos."
+msgstr "Questa nazione di babbei finirebbe nel caos."
+
+msgctxt "8826\t8942"
+msgid "The force would never stand for it."
+msgstr "Le forze dell'ordine non lo sopporterebbero."
+
+msgctxt "9001\t9120"
+msgid "Those who hold power are protected by it.\\nDo you know why?"
+msgstr "Coloro che detengono il potere ne sono protetti.\\nSai perché?"
+
+msgctxt "9125\t9242"
+msgid "Because that is this country's very foundation."
+msgstr "Perché è il fondamento di questo paese."
+
+msgctxt "9310\t9376"
+msgid "If you want to shoot, now's your chance."
+msgstr "Se vuoi sparare, questa è la tua occasione."
+
+msgctxt "9394\t9508"
+msgid "But know you'll all rot in prison if I die here."
+msgstr "Ma sappiate che, se muoio qui, marcirete in prigione."
+
+msgctxt "9548\t9606"
+msgid "Is that really what you want?"
+msgstr "È davvero quello che vuoi?"
+
+msgctxt "9634\t9725"
+msgid "Well, what'll it be?\\nI'm waiting!"
+msgstr "Beh, cosa volete fare?\\nSto aspettando!"
+
+msgctxt "9946\t10145"
+msgid "All this effort, just to choke\\nin the decisive moment! This is too funny!"
+msgstr "Tutto questo sforzo, per poi tirarsi\\nindietro al momento decisivo! Divertente!"
+
+msgctxt "10278\t10414"
+msgid "Hey. You want something to really chuckle about?"
+msgstr "Ehi. Vuoi una cosa su cui ridere?"
+
+msgctxt "10429\t10489"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "10617\t10666"
+msgid "Yup, it's me."
+msgstr "Sì, sono io."
+
+msgctxt "10669\t10718"
+msgid "You good to go?"
+msgstr "Sei a posto?"
+
+msgctxt "10766\t10857"
+msgid "Okay. Let her rip."
+msgstr "Bene. Lasciala andare."
+
+msgctxt "11448\t11543"
+msgid "It's showtime, Sudo!"
+msgstr "È l'ora dello spettacolo, Sudo!"
+
+msgctxt "11548\t11638"
+msgid "Date-san! You never mentioned this!"
+msgstr "Date-san! Non me l'hai mai detto!"
+
+msgctxt "11643\t11786"
+msgid "Using a police chopper for your personal paper?\\nHow am I supposed to justify that!?"
+msgstr "Usare un elicottero della polizia per affari personali?\\nCome posso giustificarlo!?"
+
+msgctxt "11877\t12046"
+msgid "This one's for the people of Japan!\\nYou can worry about justification later!"
+msgstr "Questo è per il popolo del Giappone!\\nPuoi pensare dopo alla giustificazione!"
+
+msgctxt "12420\t12480"
+msgid "What's this?"
+msgstr "Questo cos'è?"
+
+msgctxt "12945\t13080"
+msgid "<Italic>Tokyo PD Deputy Commissioner Corrupt!</Italic>"
+msgstr "<Italic>Vice Commissario della polizia di Tokyo Corrotto!</Italic>"
+
+msgctxt "13330\t13390"
+msgid "How did you..."
+msgstr "Ma come hai..."
+
+msgctxt "13409\t13551"
+msgid "We've got a damn fine journalist in our corner."
+msgstr "Abbiamo un grande giornalista al nostro fianco."
+
+msgctxt "13552\t13624"
+msgid "What do you think of his big scoop?"
+msgstr "Che ne pensi di questo scoop?"
+
+msgctxt "13658\t13784"
+msgid "Oh yeah, and you know that file you were after?"
+msgstr "Oh già, hai presente il file che cercavi?"
+
+msgctxt "13785\t13870"
+msgid "We're the ones who slipped him a copy."
+msgstr "Siamo stati noi a dargli una copia."
+
+msgctxt "13910\t13993"
+msgid "You son of a...!"
+msgstr "Tu, figlio di...!"
+
+msgctxt "13994\t14070"
+msgid "Might as well be your obituary."
+msgstr "Potrebbe anche essere il tuo necrologio."
+
+msgctxt "14232\t14300"
+msgid "Die!"
+msgstr "Muori!"
+
+msgctxt "14555\t14615"
+msgid "Akiyama!"
+msgstr "Akiyama!"
+
+msgctxt "14644\t14704"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "14678\t14708"
+msgid "Shit!"
+msgstr "Merda!"
+
+msgctxt "14753\t14853"
+msgid "Hey, Akiyama!\\nAkiyama! Hang in there!"
+msgstr "Ehi, Akiyama!\\nAkiyama! Resisti!"
+
+msgctxt "14864\t14923"
+msgid "Akiyama!"
+msgstr "Akiyama!"
+
+msgctxt "14928\t14954"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "14955\t15075"
+msgid "Where did he get you, Akiyama?\\nStay with me!"
+msgstr "Dove ti ha preso, Akiyama?\\nResta con me!"
+
+msgctxt "15311\t15371"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "15637\t15697"
+msgid "This."
+msgstr "Questo."
+
+msgctxt "15858\t15923"
+msgid "Fuckin' miracle."
+msgstr "Che cazzo di miracolo."
+
+msgctxt "16063\t16123"
+msgid "Arai..."
+msgstr "Arai..."
+
+msgctxt "16112\t16219"
+msgid "Let's stop this madness, Munakata-san."
+msgstr "Smettiamola con questa follia, Munakata-san."
+
+msgctxt "17616\t17672"
+msgid "Look at that."
+msgstr "Guarda."
+
+msgctxt "17673\t17798"
+msgid "Guess there's no escaping this stuff after all."
+msgstr "Non c'è modo di scappare a questa roba."
+
+msgctxt "17851\t17934"
+msgid "Here I thought to hell with it."
+msgstr "Io che pensavo di lanciarlo al diavolo."
+
+msgctxt "17956\t18043"
+msgid "And now it goes and saves my life."
+msgstr "E invece torna per salvarmi la vita."
+
+msgctxt "18518\t18600"
+msgid "Talk about another level."
+msgstr "Sono su un altro livello."
+
+msgctxt "18644\t18708"
+msgid "No topping those four."
+msgstr "Nessuno fermerà mai quei quattro."
+

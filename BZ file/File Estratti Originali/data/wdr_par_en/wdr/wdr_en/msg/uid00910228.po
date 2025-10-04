@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "380"
+msgid "）"
+msgstr ""
+
+msgctxt "4508"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "4512"
+msgid "Panicked Homeless Man"
+msgstr ""
+
+msgctxt "4516"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "4520"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4524"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4528"
+msgid "0"
+msgstr ""
+
+msgctxt "4532"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "68_Saejima"
+msgid "(Hm? A homeless guy... Maybe I could ask him about the info dealer.)"
+msgstr ""
+
+msgctxt "80_Saejima"
+msgid "Excuse me. Was wonderin' if I could ask ya something."
+msgstr ""
+
+msgctxt "92_Panicked Homeless Man"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "104_Panicked Homeless Man"
+msgid "You! Come over here!"
+msgstr ""
+
+msgctxt "116_Saejima"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "128_Panicked Homeless Man"
+msgid "We'll talk later! Just follow me!"
+msgstr ""
+
+msgctxt "224_Saejima"
+msgid "Hold yer horses, old man. Where the hell're ya headed in such a hurry?"
+msgstr ""
+
+msgctxt "236_Panicked Homeless Man"
+msgid "It's the Master! He's gonna die if we don't do something!"
+msgstr ""
+
+msgctxt "248_Saejima"
+msgid "The Master?"
+msgstr ""
+
+msgctxt "260_Panicked Homeless Man"
+msgid ""
+"Yeah. He's a famous old man around these parts. Been digging a hole down in "
+"the sewers for ages now."
+msgstr ""
+
+msgctxt "272_Panicked Homeless Man"
+msgid "But enough chitchat! We gotta hurry!"
+msgstr ""
+
+msgctxt "308_Saejima"
+msgid "A manhole? You sure about this?"
+msgstr ""
+
+msgctxt "320_Panicked Homeless Man"
+msgid "It's the fastest way! Just follow me!"
+msgstr ""
+
+msgctxt "332_Saejima"
+msgid "Easier said than done, old man. How am I supposed to get through a manhole?"
+msgstr ""
+
+msgctxt "344_Panicked Homeless Man"
+msgid ""
+"I got a special tool for opening manhole covers. But you're bigger than a "
+"buffalo, so you probably don't even need it."
+msgstr ""
+
+msgctxt "356_Panicked Homeless Man"
+msgid "Anyways, we oughta hurry! Come on!"
+msgstr ""

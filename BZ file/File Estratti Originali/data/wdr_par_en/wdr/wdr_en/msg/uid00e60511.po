@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1976"
+msgid "Baba"
+msgstr ""
+
+msgctxt "1980"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "1984"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1988"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1992"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1996"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "116_Baba"
+msgid ""
+"Hahaha! Well? Looks like this is one curveball you can't\r\n"
+"hit."
+msgstr ""
+
+msgctxt "128_Baba"
+msgid ""
+"What's wrong? Can't handle the bitter taste of defeat? Try\r\n"
+"again if you want. I'll still beat you, hahaha!"
+msgstr ""
+
+msgctxt "140_Baba"
+msgid "You ready for the pain? I'll bring it if you wanna take it!"
+msgstr ""
+
+msgctxt "152_Kiryu"
+msgid "Fine, but I won't be the one hurting."
+msgstr ""
+
+msgctxt "164_Baba"
+msgid ""
+"Heh, talk all you want! But all those words don't mean a\r\n"
+"damn thing if you can't back 'em up!"
+msgstr ""
+
+msgctxt "188_Kiryu"
+msgid "I think I'm good."
+msgstr ""
+
+msgctxt "200_Baba"
+msgid ""
+"Heh, the only thing you are is a sore loser! Oh well, just\r\n"
+"let me know if you're ever up for the challenge. Not that\r\n"
+"the outcome'll be any different."
+msgstr ""
+
+msgctxt "212_Baba"
+msgid "Challenge Baba"
+msgstr ""
+
+msgctxt "224_Baba"
+msgid "Not Now"
+msgstr ""

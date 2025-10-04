@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "7120"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "7124"
+msgid "Tadokoro"
+msgstr ""
+
+msgctxt "7128"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7132"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7136"
+msgid "P_sae_stand_tlk_udekumi_st"
+msgstr ""
+
+msgctxt "7140"
+msgid "P_sae_stand_tlk_udekumi_no"
+msgstr ""
+
+msgctxt "7144"
+msgid "P_sae_stand_tlk_udekumi_ed"
+msgstr ""
+
+msgctxt "7148"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "7152"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7156"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "7160"
+msgid "Tadashi"
+msgstr ""
+
+msgctxt "7164"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7168"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7172"
+msgid "0"
+msgstr ""
+
+msgctxt "84_Saejima"
+msgid "Here I am. Whaddya want me to do?"
+msgstr ""
+
+msgctxt "96_Tadokoro"
+msgid ""
+"I want you to take part in a special match tournament,\r\n"
+"Suzuki-san, and I want you to win."
+msgstr ""
+
+msgctxt "108_Saejima"
+msgid "Special what?"
+msgstr ""
+
+msgctxt "120_Tadokoro"
+msgid ""
+"Unlike regular tourneys, the special match tournament\r\n"
+"allows the use of weapons. However..."
+msgstr ""
+
+msgctxt "132_Saejima"
+msgid ""
+"You alone will be competing－and winning, mind you－\r\n"
+"without using any weapons whatsoever."
+msgstr ""
+
+msgctxt "144_Saejima"
+msgid ""
+"So I'm the only guy goin' in with a handicap. This ain't like all those "
+"other gigs, is it? Is this even a job at all?"
+msgstr ""
+
+msgctxt "156_Tadokoro"
+msgid ""
+"I have my reasons for giving you this assignment.\r\n"
+"Feel free to refuse at any time."
+msgstr ""
+
+msgctxt "168_Saejima"
+msgid "Who's refusin'?"
+msgstr ""
+
+msgctxt "180_Tadokoro"
+msgid ""
+"And to make absolutely certain you use no weapons,\r\n"
+"Tadashi-kun and I will be watching your every move."
+msgstr ""
+
+msgctxt "192_Saejima"
+msgid ""
+"Why'd ya hafta drag the kid into this? What, just to watch?\r\n"
+"Kinda pointless."
+msgstr ""
+
+msgctxt "204_Tadokoro"
+msgid "Heh. Not quite."
+msgstr ""
+
+msgctxt "216_Saejima"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "228_Tadokoro"
+msgid "Let's just say... it's educational."
+msgstr ""
+
+msgctxt "240_Saejima"
+msgid "What're ya talkin' about?"
+msgstr ""
+
+msgctxt "252_Tadokoro"
+msgid ""
+"I want the boy to see his oh-so-gallant benefactor\r\n"
+"putting his life on the line to pay off his debts."
+msgstr ""
+
+msgctxt "264_Saejima"
+msgid "What's the use in showin' him that?"
+msgstr ""
+
+msgctxt "276_Tadokoro"
+msgid ""
+"I want you to understand that this tournament is no walk\r\n"
+"in the park. It's unlikely you'll make it out unscathed."
+msgstr ""
+
+msgctxt "288_Tadokoro"
+msgid "In fact, I wager you'd be lucky to only lose a limb or two."
+msgstr ""
+
+msgctxt "300_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "312_Tadokoro"
+msgid ""
+"What can happen when you burden a trusted friend\r\n"
+"with your own financial obligations?"
+msgstr ""
+
+msgctxt "324_Tadokoro"
+msgid ""
+"He may be a child, but I believe Tadashi-kun here has\r\n"
+"a responsibility to see the answer to that question."
+msgstr ""
+
+msgctxt "336_Saejima"
+msgid "That's sick. Some things a kid ain't meant to see."
+msgstr ""
+
+msgctxt "348_Tadokoro"
+msgid ""
+"Consider it my own personal philosophy. Don't get me wrong;\r\n"
+"I'd like nothing better than for you to win, of course."
+msgstr ""
+
+msgctxt "360_Tadokoro"
+msgid ""
+"So fight, and fight well. You wouldn't want to check out\r\n"
+"right in front of the boy, now, would you?"
+msgstr ""
+
+msgctxt "372_Tadashi"
+msgid "Don't worry about me, big guy."
+msgstr ""
+
+msgctxt "384_Saejima"
+msgid "So what's my payment this time around?"
+msgstr ""
+
+msgctxt "396_Tadokoro"
+msgid ""
+"Let's see... Complete this job and I'll consider\r\n"
+"the debts repaid."
+msgstr ""
+
+msgctxt "408_Saejima"
+msgid "If I win this thing, you'll let Tadashi's sister go?"
+msgstr ""
+
+msgctxt "420_Tadokoro"
+msgid "Yes, that's right. Do your best out there."
+msgstr ""
+
+msgctxt "432_Tadashi"
+msgid "Big guy..."
+msgstr ""
+
+msgctxt "444_Saejima"
+msgid "Hear that, Tadashi? Once I'm done here, your sister's free."
+msgstr ""
+
+msgctxt "456_Tadokoro"
+msgid ""
+"We shall be watching from the audience, then.\r\n"
+"Speak to my underling when you're ready."
+msgstr ""

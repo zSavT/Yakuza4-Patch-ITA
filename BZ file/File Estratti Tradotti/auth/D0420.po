@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-10\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/auth/subtitle/D0420.po\n"
+"X-Crowdin-File-ID: 56280\n"
+"PO-Revision-Date: 2025-09-26 07:39\n"
+
+msgctxt "190\t274"
+msgid "Are you going now, Uncle Kaz?"
+msgstr "Te ne vai adesso, Zio Kaz?"
+
+msgctxt "309\t369"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "371\t493"
+msgid "I might be a while.\\nThink you'll be okay?"
+msgstr "Potrebbe volerci un po'.\\nStarete bene?"
+
+msgctxt "506\t579"
+msgid "Mhm. Take your time."
+msgstr "Mhm. Fai con calma."
+
+msgctxt "597\t662"
+msgid "All right. I'll be back."
+msgstr "Va bene. Tornerò."
+
+msgctxt "2823\t2887"
+msgid "Welcome back, sir!"
+msgstr "Bentornato, signore!"
+
+msgctxt "3714\t3898"
+msgid "This clan is the only proof\\nwe ever walked this earth."
+msgstr "Questo clan è l'unica prova\\nche gente come noi è esistita."
+
+msgctxt "3864\t3916"
+msgid "Yup."
+msgstr "Già."
+
+msgctxt "3917\t3992"
+msgid "Serve it well."
+msgstr "Servitelo bene."
+
+msgctxt "4017\t4102"
+msgid "You and the whole Saejima Family."
+msgstr "Tu e l'intera Famiglia Saejima."
+
+msgctxt "4209\t4272"
+msgid "Ya can count on it."
+msgstr "Ci puoi contare."
+
+msgctxt "4335\t4748"
+msgid "<Italic>Tojo Clan, Saejima Family\\nPatriarchal Inauguration</Italic>"
+msgstr "<Italic>Clan Tojo, Inaugurazione patriarcale\\ndella Famiglia Saejima</Italic>"
+
+msgctxt "5164\t5297"
+msgid "Come on.\\nWe have work to do."
+msgstr "Forza.\\nAbbiamo del lavoro da fare."
+

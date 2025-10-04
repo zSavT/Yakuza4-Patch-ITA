@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2232"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "2236"
+msgid "Erena"
+msgstr ""
+
+msgctxt "2240"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2244"
+msgid "Talk_Phone_ed"
+msgstr ""
+
+msgctxt "2248"
+msgid "dummy"
+msgstr ""
+
+msgctxt "92_Erena"
+msgid "Hey, Akiyama-san... Wanna go out on a date with me?"
+msgstr ""
+
+msgctxt "104_Akiyama"
+msgid ""
+"A date? Sure, I wouldn't mind that. But you sound kinda tired. Something "
+"wrong?"
+msgstr ""
+
+msgctxt "116_Erena"
+msgid "Nah, I'm fine... Guess I'm still not totally over my ex."
+msgstr ""
+
+msgctxt "128_Akiyama"
+msgid ""
+"Oh, right... How about we paint the town red today to take your mind off "
+"him?"
+msgstr ""
+
+msgctxt "140_Erena"
+msgid "Really!? That sounds fun!"
+msgstr ""
+
+msgctxt "152_Akiyama"
+msgid "Good. Where should I meet you?"
+msgstr ""
+
+msgctxt "164_Erena"
+msgid "The usual place?"
+msgstr ""
+
+msgctxt "176_Akiyama"
+msgid "Theater Square? Heheh... What if we see that couple again?"
+msgstr ""
+
+msgctxt "188_Erena"
+msgid "Haha! That'd be pretty funny."
+msgstr ""
+
+msgctxt "200_Erena"
+msgid "Well, bye. I'll be waiting for ya!"
+msgstr ""
+
+msgctxt "212_Akiyama"
+msgid "Okay, see you soon."
+msgstr ""

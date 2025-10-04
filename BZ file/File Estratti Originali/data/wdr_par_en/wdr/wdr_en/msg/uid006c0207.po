@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "3828"
+msgid "Rio"
+msgstr ""
+
+msgctxt "3832"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3836"
+msgid "Player"
+msgstr ""
+
+msgctxt "3840"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "68_Rio"
+msgid "Thanks for taking me out today!"
+msgstr ""
+
+msgctxt "80_Talk_Yes"
+msgid "How about a few drinks at the club?"
+msgstr ""
+
+msgctxt "104_Rio"
+msgid "Thanks for taking me out today!"
+msgstr ""
+
+msgctxt "116_Talk_Yes"
+msgid "How about a few drinks at the club?"
+msgstr ""
+
+msgctxt "128_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr ""
+
+msgctxt "140_Rio"
+msgid "Seriously? Not a single bill?"
+msgstr ""
+
+msgctxt "152_Player"
+msgid "Yeah. Sorry..."
+msgstr ""
+
+msgctxt "164_Rio"
+msgid "Oh. Um... That's... too bad. I should get going."
+msgstr ""

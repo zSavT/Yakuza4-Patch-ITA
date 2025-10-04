@@ -1,0 +1,618 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "584"
+msgid "You got <Color:8>100,000 yen<Color:Default> in training funds."
+msgstr ""
+
+msgctxt "860"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1148"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1304"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1760"
+msgid "The outfit you choose will be the one she wears in the club later on."
+msgstr ""
+
+msgctxt "1820"
+msgid "%s will now appear as a hostess in the club."
+msgstr ""
+
+msgctxt "2156"
+msgid "You got <Color:8>100,000 yen<Color:Default> in training funds."
+msgstr ""
+
+msgctxt "22928"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "22932"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "22936"
+msgid "Elise Manager"
+msgstr ""
+
+msgctxt "22940"
+msgid "Naoki"
+msgstr ""
+
+msgctxt "22944"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "22948"
+msgid "Manager"
+msgstr ""
+
+msgctxt "22952"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "22956"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "22960"
+msgid "Player"
+msgstr ""
+
+msgctxt "22964"
+msgid "Hostess Club Scouting"
+msgstr ""
+
+msgctxt "22968"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "22972"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "22976"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "22980"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "22984"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "500_Akiyama"
+msgid "Hey, is Lily-chan here yet?"
+msgstr ""
+
+msgctxt "512_Elise Manager"
+msgid "She's waiting in the back room, sir. Right this way."
+msgstr ""
+
+msgctxt "536_Akiyama"
+msgid "Hey, I'm here to train Lily-chan. She in?"
+msgstr ""
+
+msgctxt "548_Elise Manager"
+msgid "Yes, sir. She's waiting in the back room."
+msgstr ""
+
+msgctxt "560_Elise Manager"
+msgid ""
+"Oh, before you go, here are the funds we've set aside for her training. "
+"Please limit your spending on her to this alone."
+msgstr ""
+
+msgctxt "572_Akiyama"
+msgid ""
+"Guess I don't have much choice. Good idea keeping this separate from the "
+"club's finances, though."
+msgstr ""
+
+msgctxt "596_Elise Manager"
+msgid "I'll also assign Naoki to assist you."
+msgstr ""
+
+msgctxt "608_Naoki"
+msgid ""
+"Let me know if there's anything I can do for you, sir. I'll help however I "
+"can."
+msgstr ""
+
+msgctxt "620_Akiyama"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "632_Elise Manager"
+msgid "Now then, let me show you to the back room."
+msgstr ""
+
+msgctxt "656_Akiyama"
+msgid "Hi. I'm here to give Lily-chan her last training session."
+msgstr ""
+
+msgctxt "668_Elise Manager"
+msgid "Of course. Feel free to go to the back room."
+msgstr ""
+
+msgctxt "692_Elise Manager"
+msgid "Hello, sir. Thank you for coming all this way."
+msgstr ""
+
+msgctxt "704_Akiyama"
+msgid "Hi. So, how's the club doing?"
+msgstr ""
+
+msgctxt "716_Elise Manager"
+msgid "Well... As I said on the phone, business isn't very good."
+msgstr ""
+
+msgctxt "728_Akiyama"
+msgid "I see... What's the problem?"
+msgstr ""
+
+msgctxt "740_Elise Manager"
+msgid ""
+"We just don't have enough girls, sir. There is a lot of competition out "
+"there in Kamurocho, and everyone is looking for girls."
+msgstr ""
+
+msgctxt "752_Elise Manager"
+msgid ""
+"The other clubs employ scouts to find new girls,  and even hire "
+"professional trainers for the girls on their payroll."
+msgstr ""
+
+msgctxt "764_Manager"
+msgid ""
+"We should do the same if we want to compete. Otherwise, we'll keep losing "
+"money."
+msgstr ""
+
+msgctxt "776_Akiyama"
+msgid "I see. Well, good luck."
+msgstr ""
+
+msgctxt "788_Elise Manager"
+msgid "Thank you. I wish we could come up with a plan..."
+msgstr ""
+
+msgctxt "800_Akiyama"
+msgid "I see. I'll take care of this myself."
+msgstr ""
+
+msgctxt "812_Elise Manager"
+msgid "Huh!? But you're the owner!"
+msgstr ""
+
+msgctxt "824_Akiyama"
+msgid ""
+"I don't have a choice. It'll cost too much to  hire people to do it. "
+"Besides, I can handle it. I think."
+msgstr ""
+
+msgctxt "836_Elise Manager"
+msgid ""
+"As you say, sir. We'll leave it in your hands, then. Let us know if you "
+"need our help."
+msgstr ""
+
+msgctxt "848_Elise Manager"
+msgid ""
+"Here's a little money to use. I'm afraid we can only spare 100,000 yen "
+"right now."
+msgstr ""
+
+msgctxt "872_Player"
+msgid ""
+"Every little bit helps. I'll get more money once my girls start generating "
+"revenue for the club, right?"
+msgstr ""
+
+msgctxt "884_Elise Manager"
+msgid ""
+"Of course, sir. The more money your girls make for the club, the more money "
+"you will have available to use."
+msgstr ""
+
+msgctxt "896_Elise Manager"
+msgid "Naoki will assist you again."
+msgstr ""
+
+msgctxt "908_Naoki"
+msgid "It's a pleasure to be working with you again."
+msgstr ""
+
+msgctxt "920_Akiyama"
+msgid "Likewise."
+msgstr ""
+
+msgctxt "932_Elise Manager"
+msgid ""
+"The first step is finding some promising girls. If you find a girl that you "
+"like out on the street, bring her back here."
+msgstr ""
+
+msgctxt "944_Elise Manager"
+msgid "Good luck!"
+msgstr ""
+
+msgctxt "956_Hostess Club Scouting"
+msgid ""
+"The game's story will not advance while you are recruiting girls for the "
+"club. Walk around the streets of Kamurocho until you find a girl you like."
+msgstr ""
+
+msgctxt "980_Elise Manager"
+msgid "Hello, sir. I'm sorry to call you here again."
+msgstr ""
+
+msgctxt "992_Akiyama"
+msgid "How are things going with the club?"
+msgstr ""
+
+msgctxt "1004_Elise Manager"
+msgid ""
+"Things are getting better, thanks to you! We still have a shortage of "
+"girls, though."
+msgstr ""
+
+msgctxt "1016_Akiyama"
+msgid "Huh. That could be a problem."
+msgstr ""
+
+msgctxt "1028_Manager"
+msgid ""
+"Indeed. We simply must find more hostesses. Otherwise, our business won't "
+"improve."
+msgstr ""
+
+msgctxt "1040_Akiyama"
+msgid "I see. Well, good luck."
+msgstr ""
+
+msgctxt "1052_Elise Manager"
+msgid "Thank you. I wish we could come up with a plan..."
+msgstr ""
+
+msgctxt "1064_Akiyama"
+msgid "Okay, okay. I get the message. I'll sort it out again."
+msgstr ""
+
+msgctxt "1076_Elise Manager"
+msgid "You'll help us again, sir?"
+msgstr ""
+
+msgctxt "1088_Akiyama"
+msgid "It is what it is. This is my club, and I'll do whatever it takes to save it."
+msgstr ""
+
+msgctxt "1100_Elise Manager"
+msgid "Thank you, sir! We'll do what we can to help."
+msgstr ""
+
+msgctxt "1112_Elise Manager"
+msgid ""
+"Please start by recruiting a hostess. Look around town. If you find a "
+"promising girl, bring her back here."
+msgstr ""
+
+msgctxt "1124_Akiyama"
+msgid "Will do."
+msgstr ""
+
+msgctxt "1136_Elise Manager"
+msgid ""
+"Here are some funds to use. Unfortunately, we can't spare more than 100,000 "
+"yen."
+msgstr ""
+
+msgctxt "1160_Elise Manager"
+msgid "Good luck!"
+msgstr ""
+
+msgctxt "1172_Hostess Club Scouting"
+msgid ""
+"The game's story will not advance while you are recruiting girls for the "
+"club. Walk around the streets of Kamurocho until you find a girl you like."
+msgstr ""
+
+msgctxt "1196_Elise Manager"
+msgid "Thank you for coming, sir. I'm sorry to keep bothering you like this."
+msgstr ""
+
+msgctxt "1208_Akiyama"
+msgid "How are things going?"
+msgstr ""
+
+msgctxt "1220_Elise Manager"
+msgid "I'm afraid we still have too few hostesses."
+msgstr ""
+
+msgctxt "1232_Akiyama"
+msgid "I thought as much..."
+msgstr ""
+
+msgctxt "1244_Manager"
+msgid ""
+"I think one more could be enough to turn things around. Could I ask you to "
+"recruit another hostess for us?"
+msgstr ""
+
+msgctxt "1256_Akiyama"
+msgid "I'm sorry to hear about that, but I can't help out this time. Good luck."
+msgstr ""
+
+msgctxt "1268_Elise Manager"
+msgid "Ah, well. Hopefully things will work out..."
+msgstr ""
+
+msgctxt "1280_Akiyama"
+msgid "All right. I'll try and find one more girl."
+msgstr ""
+
+msgctxt "1292_Elise Manager"
+msgid ""
+"Thank you very much! First, let me give you your funds. As usual, I'm "
+"afraid we can only spare 100,000 yen."
+msgstr ""
+
+msgctxt "1316_Elise Manager"
+msgid "Good luck."
+msgstr ""
+
+msgctxt "1328_Hostess Club Scouting"
+msgid ""
+"The game's story will not advance while you are recruiting girls for the "
+"club. Walk around the streets of Kamurocho until you find a girl you like."
+msgstr ""
+
+msgctxt "1364_Elise Manager"
+msgid ""
+"We've got a bit of a problem, sir. %s left the club a while ago, and hasn't "
+"come back."
+msgstr ""
+
+msgctxt "1376_Elise Manager"
+msgid "She didn't seem to be upset or anything, but she's not answering her phone."
+msgstr ""
+
+msgctxt "1388_Akiyama"
+msgid "Okay. I'll try to find her."
+msgstr ""
+
+msgctxt "1400_Elise Manager"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "1412_Akiyama"
+msgid "(Hmm... Where would %s be likely to go?)"
+msgstr ""
+
+msgctxt "1448_Elise Manager"
+msgid ""
+"We've got a bit of a problem, sir. %s left the club a while ago, and hasn't "
+"come back."
+msgstr ""
+
+msgctxt "1460_Elise Manager"
+msgid "She didn't seem to be upset or anything, but she's not answering her phone."
+msgstr ""
+
+msgctxt "1472_Akiyama"
+msgid "Okay. I'll try to find her."
+msgstr ""
+
+msgctxt "1484_Elise Manager"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "1496_Akiyama"
+msgid "(Hmm... Where would %s be likely to go?)"
+msgstr ""
+
+msgctxt "1532_Elise Manager"
+msgid ""
+"We've got a bit of a problem, sir. %s left the club a while ago, and hasn't "
+"come back."
+msgstr ""
+
+msgctxt "1544_Elise Manager"
+msgid "She didn't seem to be upset or anything, but she's not answering her phone."
+msgstr ""
+
+msgctxt "1556_Akiyama"
+msgid "Okay. I'll try to find her."
+msgstr ""
+
+msgctxt "1568_Elise Manager"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "1580_Akiyama"
+msgid "(Hmm... Where would %s be likely to go?)"
+msgstr ""
+
+msgctxt "1616_Akiyama"
+msgid "Is %s-chan back?"
+msgstr ""
+
+msgctxt "1628_Elise Manager"
+msgid "Yes, sir. Thank you. I'm glad it was nothing."
+msgstr ""
+
+msgctxt "1640_Akiyama"
+msgid "Good."
+msgstr ""
+
+msgctxt "1652_Elise Manager"
+msgid "That's all for today. I'll see you when you return for %s's next session."
+msgstr ""
+
+msgctxt "1664_Akiyama"
+msgid "All right."
+msgstr ""
+
+msgctxt "1700_Elise Manager"
+msgid ""
+"%s-san is now our number one hostess at the club! Thank you for all of your "
+"hard work, sir!"
+msgstr ""
+
+msgctxt "1712_Akiyama"
+msgid "I didn't do that much."
+msgstr ""
+
+msgctxt "1724_Elise Manager"
+msgid "She's already a pro."
+msgstr ""
+
+msgctxt "1736_Elise Manager"
+msgid "Why don't you put together a special outfit for her to use from now on?"
+msgstr ""
+
+msgctxt "1748_Akiyama"
+msgid "Sure, whatever will help her do her best."
+msgstr ""
+
+msgctxt "1796_Elise Manager"
+msgid "Excellent choice, thank you."
+msgstr ""
+
+msgctxt "1808_Elise Manager"
+msgid "She'll be an asset to the club for a long time to come."
+msgstr ""
+
+msgctxt "1964_Elise Manager"
+msgid "Thank you for coming back, Kiryu-san!"
+msgstr ""
+
+msgctxt "1976_Elise Manager"
+msgid ""
+"We'd love for you to try and train a number one hostess again. I'm sure you "
+"could!"
+msgstr ""
+
+msgctxt "1988_Elise Manager"
+msgid ""
+"You'll start by recruiting a new hostess. If you have any questions, just "
+"ask Koji here."
+msgstr ""
+
+msgctxt "2012_Elise Manager"
+msgid "*sigh*"
+msgstr ""
+
+msgctxt "2024_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "2036_Elise Manager"
+msgid "...I've got it!"
+msgstr ""
+
+msgctxt "2048_Elise Manager"
+msgid "Why don't you work here for a while?"
+msgstr ""
+
+msgctxt "2060_Kiryu"
+msgid "Sorry. I'm just not cut out for that."
+msgstr ""
+
+msgctxt "2072_Elise Manager"
+msgid ""
+"That's not true! Our staff will be more than happy to explain how to do it! "
+"Please! We need your help!"
+msgstr ""
+
+msgctxt "2084_Kiryu"
+msgid "I don't know if I'll be any good, but I'll give it a try."
+msgstr ""
+
+msgctxt "2096_Elise Manager"
+msgid "Thank you! This will be a big help!"
+msgstr ""
+
+msgctxt "2108_Elise Manager"
+msgid ""
+"Allow me to introduce myself properly. My name is Sakaki. I'm the manager "
+"here."
+msgstr ""
+
+msgctxt "2120_Kiryu"
+msgid "I'm Kiryu."
+msgstr ""
+
+msgctxt "2132_Elise Manager"
+msgid "Very well, Kiryu-san. You'll start by recruiting a hostess."
+msgstr ""
+
+msgctxt "2144_Elise Manager"
+msgid ""
+"Here are the funds we have available for you. I'm sure you will need some "
+"spending money."
+msgstr ""
+
+msgctxt "2168_Elise Manager"
+msgid ""
+"You can go ahead and get started. Koji here will explain what you need to "
+"do."
+msgstr ""
+
+msgctxt "2192_Akiyama"
+msgid "I'll take care of this myself."
+msgstr ""
+
+msgctxt "2204_Akiyama"
+msgid "Well, good luck."
+msgstr ""
+
+msgctxt "2216_Akiyama"
+msgid "I'll sort it out."
+msgstr ""
+
+msgctxt "2228_Akiyama"
+msgid "Well, good luck."
+msgstr ""
+
+msgctxt "2240_Akiyama"
+msgid "All right."
+msgstr ""
+
+msgctxt "2252_Akiyama"
+msgid "Well, good luck."
+msgstr ""
+
+msgctxt "2264_Akiyama"
+msgid "Accept"
+msgstr ""
+
+msgctxt "2276_Akiyama"
+msgid "Decline"
+msgstr ""
+
+msgctxt "2288_Akiyama"
+msgid "Accept"
+msgstr ""
+
+msgctxt "2300_Akiyama"
+msgid "Decline"
+msgstr ""

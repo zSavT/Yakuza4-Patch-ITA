@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "156"
+msgid "You got a Manhole Opener."
+msgstr ""
+
+msgctxt "252"
+msgid "You got a Manhole Opener."
+msgstr ""
+
+msgctxt "2848"
+msgid "Homeless Man"
+msgstr ""
+
+msgctxt "2852"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2856"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2860"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2864"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2868"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "2872"
+msgid "Player"
+msgstr ""
+
+msgctxt "72_Homeless Man"
+msgid ""
+"Whoa, Kiryu-san! Never thought I'd run into ya down here.\r\n"
+"Didn't even realize you were back in town!"
+msgstr ""
+
+msgctxt "84_Kiryu"
+msgid "Do I know you?"
+msgstr ""
+
+msgctxt "96_Homeless Man"
+msgid "Heh. Much as you know any old homeless guy, I guess."
+msgstr ""
+
+msgctxt "108_Homeless Man"
+msgid "I know you, though. Owe you a lot, in fact."
+msgstr ""
+
+msgctxt "120_Homeless Man"
+msgid ""
+"You helped me out down in Purgatory before the Hills project\r\n"
+"kicked off, then there was that whole snafu with the Dragon Palace."
+msgstr ""
+
+msgctxt "132_Kiryu"
+msgid "Huh. Well, all right then."
+msgstr ""
+
+msgctxt "144_Homeless Man"
+msgid ""
+"By the way, you're gonna need one of these puppies if you\r\n"
+"wanna keep going."
+msgstr ""
+
+msgctxt "180_Homeless Man"
+msgid "This doohickey here'll open any ol' manhole you come across."
+msgstr ""
+
+msgctxt "192_Homeless Man"
+msgid ""
+"Though some guy came through earlier, pried the freaking\r\n"
+"thing open with his bare hands. Hardly believed my eyes."
+msgstr ""
+
+msgctxt "204_Homeless Man"
+msgid "Heyo, %s-san. Weird of you to be down here, gotta say."
+msgstr ""
+
+msgctxt "216_Player"
+msgid "And you are...?"
+msgstr ""
+
+msgctxt "228_Homeless Man"
+msgid "Oh just some old bum."
+msgstr ""
+
+msgctxt "240_Homeless Man"
+msgid ""
+"Anyway, you're gonna need one of these puppies if you wanna\r\n"
+"keep going past here."
+msgstr ""
+
+msgctxt "276_Homeless Man"
+msgid "This doohickey here'll open any ol' manhole you come across."
+msgstr ""

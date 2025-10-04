@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "6468"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "6472"
+msgid "Talk_Hirou_st"
+msgstr ""
+
+msgctxt "6476"
+msgid "Date"
+msgstr ""
+
+msgctxt "6480"
+msgid "P_sae_sitgrd_tlk_bed"
+msgstr ""
+
+msgctxt "6484"
+msgid "P_sae_sitgrd_tlk_bed_st"
+msgstr ""
+
+msgctxt "6488"
+msgid "Talk_Hirou_ed"
+msgstr ""
+
+msgctxt "6492"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6496"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6500"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6504"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "6508"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "6512"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "6516"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6520"
+msgid "0"
+msgstr ""
+
+msgctxt "72_Kiryu"
+msgid "Date-san? Date-san!"
+msgstr ""
+
+msgctxt "84_Date"
+msgid "......"
+msgstr ""
+
+msgctxt "96_Date"
+msgid "Ngh..."
+msgstr ""
+
+msgctxt "108_Kiryu"
+msgid "(Good. Looks like he's coming to.)"
+msgstr ""
+
+msgctxt "120_Kiryu"
+msgid "Date-san!"
+msgstr ""
+
+msgctxt "132_Date"
+msgid "Huh? Oh... Kiryu..."
+msgstr ""
+
+msgctxt "144_Kiryu"
+msgid "What happened? Are you okay?"
+msgstr ""
+
+msgctxt "156_Date"
+msgid "Think so... Guess I just blacked out or something."
+msgstr ""
+
+msgctxt "228_Kiryu"
+msgid "You sure you're okay?"
+msgstr ""
+
+msgctxt "240_Date"
+msgid "My head's still fuzzy as all heck, but yeah. I'll be fine."
+msgstr ""
+
+msgctxt "252_Kiryu"
+msgid "Do you remember what happened?"
+msgstr ""
+
+msgctxt "264_Date"
+msgid ""
+"Well, you and I had that chat outside, then I came back in to\r\n"
+"keep Yasuko-san company while you were gone. Next thing I\r\n"
+"knew I was waking up on the floor to you screaming."
+msgstr ""
+
+msgctxt "276_Kiryu"
+msgid "You don't remember anything else?"
+msgstr ""
+
+msgctxt "288_Date"
+msgid ""
+"Wait, now that you mention it... Yasuko-san poured us a\r\n"
+"couple drinks when I stepped back in."
+msgstr ""
+
+msgctxt "300_Kiryu"
+msgid "Drinks? You think there's a chance she drugged you?"
+msgstr ""
+
+msgctxt "312_Date"
+msgid ""
+"Can't rule out the possibility. They're still on the counter\r\n"
+"if you wanna have a sip for yourself."
+msgstr ""
+
+msgctxt "324_Kiryu"
+msgid ""
+"I think I'll pass. Anyway, do you have any idea where\r\n"
+"Yasuko-san might have gone?"
+msgstr ""
+
+msgctxt "336_Date"
+msgid "...Not a clue, sorry."
+msgstr ""
+
+msgctxt "348_Kiryu"
+msgid "Dammit..."
+msgstr ""
+
+msgctxt "360_Date"
+msgid ""
+"Look, I'm sorry. I was ready to throw down if some thugs\r\n"
+"barged in and tried to take her away... but I didn't think\r\n"
+"Yasuko-san herself would be the one fighting me."
+msgstr ""
+
+msgctxt "372_Kiryu"
+msgid "It's not your fault, Date-san."
+msgstr ""
+
+msgctxt "384_Kiryu"
+msgid ""
+"Guess I should probably get looking for her, though. I'll\r\n"
+"be back."
+msgstr ""
+
+msgctxt "396_Date"
+msgid "Wait, Kiryu! I'm coming, too!"
+msgstr ""
+
+msgctxt "408_Kiryu"
+msgid ""
+"No. I need you to stay here in case she comes back.\r\n"
+"This is probably the safest place in town at this point."
+msgstr ""
+
+msgctxt "420_Date"
+msgid "Right. Well, good luck out there."
+msgstr ""
+
+msgctxt "432_Kiryu"
+msgid "Thanks. I'll be back soon."
+msgstr ""
+
+msgctxt "492_Kiryu"
+msgid "(What the... Date-san!?)"
+msgstr ""

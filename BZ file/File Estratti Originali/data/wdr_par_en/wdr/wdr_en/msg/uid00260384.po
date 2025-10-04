@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "4416"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "4420"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4424"
+msgid "Smith"
+msgstr ""
+
+msgctxt "4428"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4432"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "4436"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4440"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "4444"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4448"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "4452"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4456"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "4460"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "4464"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "116_Tanimura"
+msgid "...So? How was it?"
+msgstr ""
+
+msgctxt "128_Smith"
+msgid "It was good! It was worth coming to Japan just for this!"
+msgstr ""
+
+msgctxt "140_Tanimura"
+msgid "Right? I knew this was the place you meant!"
+msgstr ""
+
+msgctxt "152_Smith"
+msgid "Actually, it wasn't."
+msgstr ""
+
+msgctxt "164_Tanimura"
+msgid "What the heck..."
+msgstr ""
+
+msgctxt "176_Smith"
+msgid ""
+"I mean, I did have a good time, but that's just a\r\n"
+"coincidence. This wasn't the place I was talking\r\n"
+"about originally."
+msgstr ""
+
+msgctxt "188_Smith"
+msgid ""
+"I'll tell you one more time. A men's only place\r\n"
+"where everybody's naked!"
+msgstr ""
+
+msgctxt "200_Tanimura"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "212_Tanimura"
+msgid "I know this place called Asia. We should go there."
+msgstr ""
+
+msgctxt "224_Smith"
+msgid "What's it all about?"
+msgstr ""
+
+msgctxt "236_Tanimura"
+msgid ""
+"Well, it's a gentlemen's club. There's nothing quite like\r\n"
+"crowding around a sweaty stage that inspires camaraderie\r\n"
+"among men. It's a very primal way of bonding, if you ask me."
+msgstr ""
+
+msgctxt "248_Smith"
+msgid ""
+"Right, that sense of masculine solidarity! Sounds like you\r\n"
+"hit the nail on the head with this one. Let's hop to it!"
+msgstr ""
+
+msgctxt "272_Tanimura"
+msgid "Let's go to Beam."
+msgstr ""
+
+msgctxt "284_Smith"
+msgid "\"Beam\"? Sounds a little suspect to me..."
+msgstr ""
+
+msgctxt "296_Tanimura"
+msgid ""
+"It's a video store stocked with everything you could\r\n"
+"possibly imagine, and more. I have a feeling it'll have\r\n"
+"those \"men only\" and \"communication\" elements you're after."
+msgstr ""
+
+msgctxt "308_Smith"
+msgid ""
+"Hmm, you sound like you know what you're talking about.\r\n"
+"Okay, then I look forward to seeing it. Let's try it out!"
+msgstr ""
+
+msgctxt "332_Tanimura"
+msgid "Then let's go to Yunosono Hot Springs."
+msgstr ""
+
+msgctxt "344_Smith"
+msgid "Yunosono Hot Springs?"
+msgstr ""
+
+msgctxt "356_Tanimura"
+msgid ""
+"Yeah, a hot spring is the place to be if you wanna get naked and "
+"communicate with other men."
+msgstr ""
+
+msgctxt "368_Smith"
+msgid "Sounds good to me! Then let's get crackin'!"
+msgstr ""
+
+msgctxt "392_Tanimura"
+msgid "A hot spring."
+msgstr ""
+
+msgctxt "404_Tanimura"
+msgid "A gentleman's club."
+msgstr ""
+
+msgctxt "416_Tanimura"
+msgid "A video store."
+msgstr ""

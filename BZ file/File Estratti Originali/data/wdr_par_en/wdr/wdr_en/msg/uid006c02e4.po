@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid ""
+"Major error! No flags set for conversation selection!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "1028"
+msgid ""
+"Major error! No flags set for conversation selection!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "14324"
+msgid "Erena"
+msgstr ""
+
+msgctxt "14328"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14332"
+msgid "Player"
+msgstr ""
+
+msgctxt "14336"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "14340"
+msgid "dummy"
+msgstr ""
+
+msgctxt "14344"
+msgid "0"
+msgstr ""
+
+msgctxt "14348"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "14352"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "14356"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "116_Erena"
+msgid "I usually like romantic bars, but Watami's great, too. It's pretty lively!"
+msgstr ""
+
+msgctxt "128_Player"
+msgid "Heh, good. Let's go inside."
+msgstr ""
+
+msgctxt "152_Erena"
+msgid "I usually like romantic bars, but Watami's great, too. It's pretty lively!"
+msgstr ""
+
+msgctxt "164_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr ""
+
+msgctxt "176_Erena"
+msgid "Huh? You serious?"
+msgstr ""
+
+msgctxt "188_Player"
+msgid "Yeah. Sorry..."
+msgstr ""
+
+msgctxt "200_Erena"
+msgid "Geez, I didn't think you were so poor... I'll go home, then."
+msgstr ""
+
+msgctxt "212_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr ""
+
+msgctxt "320_Erena"
+msgid "Whew... That was damn good."
+msgstr ""
+
+msgctxt "332_Player"
+msgid "Wow. You must've been hungry."
+msgstr ""
+
+msgctxt "344_Erena"
+msgid "Heh, I couldn't help myself! Everything in Tokyo's so delicious!"
+msgstr ""
+
+msgctxt "356_Talk_Ojigi"
+msgid "That was really fun. I'll see ya at the club."
+msgstr ""
+
+msgctxt "380_Erena"
+msgid "Thanks for the meal. It was real good, but I'm still kinda hungry."
+msgstr ""
+
+msgctxt "392_Player"
+msgid "You are? Certainly looked like you ate enough..."
+msgstr ""
+
+msgctxt "404_Erena"
+msgid "I still had a good time. I'll see ya at the club!"
+msgstr ""
+
+msgctxt "428_Erena"
+msgid "......"
+msgstr ""
+
+msgctxt "440_Player"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "452_Erena"
+msgid "Eh, the food was okay... Just wasn't really my favorite."
+msgstr ""
+
+msgctxt "464_Player"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "476_Erena"
+msgid "Don't worry about it. Anyway, I gotta go."
+msgstr ""
+
+msgctxt "488_Player"
+msgid "(Guess she didn't enjoy the food.)"
+msgstr ""
+
+msgctxt "596_Erena"
+msgid "I usually like romantic bars, but Watami's great, too. It's pretty lively!"
+msgstr ""
+
+msgctxt "608_Player"
+msgid "Heh, good. Let's go inside."
+msgstr ""
+
+msgctxt "620_Erena"
+msgid "Okay! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "644_Erena"
+msgid "I usually like romantic bars, but Watami's great, too. It's pretty lively!"
+msgstr ""
+
+msgctxt "656_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr ""
+
+msgctxt "668_Erena"
+msgid "Huh? You serious?"
+msgstr ""
+
+msgctxt "680_Player"
+msgid "Yeah. Sorry..."
+msgstr ""
+
+msgctxt "692_Erena"
+msgid "Geez, I didn't think you were so poor... I'll go home, then."
+msgstr ""
+
+msgctxt "704_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr ""
+
+msgctxt "812_Erena"
+msgid "Whew... That was damn good."
+msgstr ""
+
+msgctxt "824_Player"
+msgid "Wow. You must've been hungry."
+msgstr ""
+
+msgctxt "836_Erena"
+msgid "Heh, I couldn't help myself! Everything in Tokyo's so delicious!"
+msgstr ""
+
+msgctxt "848_Talk_Yes"
+msgid "I had a great time today! Wanna go to the club now?"
+msgstr ""
+
+msgctxt "860_Player"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "884_Erena"
+msgid "Thanks for the meal. It was real good, but I'm still kinda hungry."
+msgstr ""
+
+msgctxt "896_Player"
+msgid "You are? Certainly looked like you ate enough..."
+msgstr ""
+
+msgctxt "908_Erena"
+msgid "I still had a good time. Wanna go to the club now?"
+msgstr ""
+
+msgctxt "920_Player"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "944_Erena"
+msgid "......"
+msgstr ""
+
+msgctxt "956_Player"
+msgid "Something wrong?"
+msgstr ""
+
+msgctxt "968_Erena"
+msgid ""
+"Not really...\r\n"
+"\r\n"
+"Just didn't like the food too much."
+msgstr ""
+
+msgctxt "980_Player"
+msgid "Oh. Sorry about that."
+msgstr ""
+
+msgctxt "992_Erena"
+msgid "Don't worry about it. Anyway, let's head to the club now."
+msgstr ""
+
+msgctxt "1004_Player"
+msgid "(Guess she didn't enjoy the food.)"
+msgstr ""

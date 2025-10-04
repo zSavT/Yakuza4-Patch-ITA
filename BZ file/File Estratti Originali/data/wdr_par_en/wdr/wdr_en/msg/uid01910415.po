@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "136"
+msgid "Nothing happened."
+msgstr ""
+
+msgctxt "160"
+msgid "Nothing happened."
+msgstr ""
+
+msgctxt "2024"
+msgid "Player"
+msgstr ""
+
+msgctxt "2028"
+msgid "TNK_03_D_START"
+msgstr ""
+
+msgctxt "2032"
+msgid "TNK_03_D_E_START"
+msgstr ""
+
+msgctxt "2036"
+msgid "TNK_03_D_N_START"
+msgstr ""
+
+msgctxt "2040"
+msgid "TNK_03_A_START"
+msgstr ""
+
+msgctxt "2044"
+msgid "TNK_03_A_E_START"
+msgstr ""
+
+msgctxt "2048"
+msgid "TNK_03_A_N_START"
+msgstr ""
+
+msgctxt "148_Player"
+msgid "(I should take a break and come back later...)"
+msgstr ""
+
+msgctxt "172_Player"
+msgid "(I should take a break and come back later...)"
+msgstr ""
+
+msgctxt "196_Player"
+msgid "You learned the <Color:9>Essence of Merciless Throwing<Color:Default>."
+msgstr ""
+
+msgctxt "220_Player"
+msgid "You learned the <Color:9>Essence of Loin Reaving<Color:Default>."
+msgstr ""

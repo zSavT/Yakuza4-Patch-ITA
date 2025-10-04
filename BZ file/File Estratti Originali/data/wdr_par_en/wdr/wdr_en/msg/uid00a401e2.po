@@ -1,0 +1,396 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "14252"
+msgid "Minoru"
+msgstr ""
+
+msgctxt "14256"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "14260"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "14264"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14268"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "14272"
+msgid "Elderly Woman"
+msgstr ""
+
+msgctxt "14276"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "14280"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "14284"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "14288"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "14292"
+msgid "dummy"
+msgstr ""
+
+msgctxt "14296"
+msgid "0"
+msgstr ""
+
+msgctxt "14300"
+msgid "Girl"
+msgstr ""
+
+msgctxt "14304"
+msgid "Businessman"
+msgstr ""
+
+msgctxt "14308"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "14312"
+msgid "Little Girl"
+msgstr ""
+
+msgctxt "14316"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "14320"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "180_Minoru"
+msgid "Oh, Kiryu-san."
+msgstr ""
+
+msgctxt "192_Kiryu"
+msgid "You found his contact lenses?"
+msgstr ""
+
+msgctxt "204_Minoru"
+msgid "Yeah, thanks to you!"
+msgstr ""
+
+msgctxt "216_Kiryu"
+msgid "That's good."
+msgstr ""
+
+msgctxt "228_Minoru"
+msgid ""
+"The mother of that lost little girl came by for her, too. She said to tell "
+"you thank you."
+msgstr ""
+
+msgctxt "240_Kiryu"
+msgid "Great."
+msgstr ""
+
+msgctxt "252_Kiryu"
+msgid "Is this the purse that was stolen from you?"
+msgstr ""
+
+msgctxt "276_Elderly Woman"
+msgid "That's it! Let me look inside."
+msgstr ""
+
+msgctxt "288_Elderly Woman"
+msgid ""
+"Thank goodness! The fountain pen from my husband is still here. I don't "
+"know how I can ever thank you!"
+msgstr ""
+
+msgctxt "300_Kiryu"
+msgid "Don't worry about it. I couldn't just sit back and let your purse get taken."
+msgstr ""
+
+msgctxt "312_Elderly Woman"
+msgid "Thank you so much. Take care, young man!"
+msgstr ""
+
+msgctxt "372_Kiryu"
+msgid "Let's see. Guess that takes care of everything. Let's go find Saya."
+msgstr ""
+
+msgctxt "384_Minoru"
+msgid "Right!"
+msgstr ""
+
+msgctxt "408_Minoru"
+msgid "Oh, Kiryu-san."
+msgstr ""
+
+msgctxt "420_Minoru"
+msgid ""
+"The mother of that lost little girl came by for her, too. She said to tell "
+"you thank you."
+msgstr ""
+
+msgctxt "432_Kiryu"
+msgid "Great."
+msgstr ""
+
+msgctxt "444_Kiryu"
+msgid "Let's see. Guess that takes care of everything. Let's go find Saya."
+msgstr ""
+
+msgctxt "456_Minoru"
+msgid "Right!"
+msgstr ""
+
+msgctxt "480_Minoru"
+msgid "Oh, Kiryu-san."
+msgstr ""
+
+msgctxt "492_Kiryu"
+msgid "Is this the purse that was stolen from you?"
+msgstr ""
+
+msgctxt "516_Elderly Woman"
+msgid "That's it! Let me look inside."
+msgstr ""
+
+msgctxt "528_Elderly Woman"
+msgid ""
+"Thank goodness! The fountain pen from my husband is still here. I don't "
+"know how I can ever thank you!"
+msgstr ""
+
+msgctxt "540_Kiryu"
+msgid "Don't worry about it. I couldn't just sit back and let your purse get taken."
+msgstr ""
+
+msgctxt "552_Elderly Woman"
+msgid "Thank you so much. Take care, young man!"
+msgstr ""
+
+msgctxt "612_Kiryu"
+msgid "Let's see. Guess that takes care of everything. Let's go back to Saya."
+msgstr ""
+
+msgctxt "624_Minoru"
+msgid "Right!"
+msgstr ""
+
+msgctxt "648_Minoru"
+msgid "Oh, Kiryu-san."
+msgstr ""
+
+msgctxt "660_Kiryu"
+msgid "You found his contact lenses?"
+msgstr ""
+
+msgctxt "672_Minoru"
+msgid "Yeah, thanks to you!"
+msgstr ""
+
+msgctxt "684_Kiryu"
+msgid "It was nothing."
+msgstr ""
+
+msgctxt "696_Minoru"
+msgid ""
+"The mother of that lost little girl came by for her, too. She said to tell "
+"you thank you."
+msgstr ""
+
+msgctxt "708_Kiryu"
+msgid "Great."
+msgstr ""
+
+msgctxt "720_Minoru"
+msgid "Oh, Kiryu-san."
+msgstr ""
+
+msgctxt "732_Kiryu"
+msgid "You found his contact lenses?"
+msgstr ""
+
+msgctxt "744_Minoru"
+msgid "Yeah, thanks to you!"
+msgstr ""
+
+msgctxt "756_Kiryu"
+msgid "That's good."
+msgstr ""
+
+msgctxt "768_Kiryu"
+msgid "Is this the purse that was stolen from you?"
+msgstr ""
+
+msgctxt "792_Elderly Woman"
+msgid "That's it! Let me look inside."
+msgstr ""
+
+msgctxt "804_Elderly Woman"
+msgid ""
+"Thank goodness! The fountain pen from my husband is still here. I don't "
+"know how I can ever thank you!"
+msgstr ""
+
+msgctxt "816_Kiryu"
+msgid "Don't worry about it. I couldn't just sit back and let your purse get taken."
+msgstr ""
+
+msgctxt "828_Elderly Woman"
+msgid "Thank you so much. Take care, young man!"
+msgstr ""
+
+msgctxt "900_Kiryu"
+msgid "Hey, are you Minoru?"
+msgstr ""
+
+msgctxt "912_Minoru"
+msgid "Uh, that's right. Who are you?"
+msgstr ""
+
+msgctxt "924_Kiryu"
+msgid "I'm Kazuma Kiryu, a friend of Saya's father."
+msgstr ""
+
+msgctxt "936_Minoru"
+msgid "Oh, you know Saya? Nice to meet you. I'm Minoru Aihara."
+msgstr ""
+
+msgctxt "948_Kiryu"
+msgid "What are you doing hanging around here? Saya's been waiting for you forever."
+msgstr ""
+
+msgctxt "960_Minoru"
+msgid "Oh, it's this little girl... I've been trying to help her find her mother."
+msgstr ""
+
+msgctxt "972_Kiryu"
+msgid "Find her mother?"
+msgstr ""
+
+msgctxt "984_Minoru"
+msgid ""
+"She says she's lost. Sounds like she and her mom were supposed to be seeing "
+"a play at the theater."
+msgstr ""
+
+msgctxt "996_Girl"
+msgid "Waaaaaaah! Where's my mommy!?"
+msgstr ""
+
+msgctxt "1008_Kiryu"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "1020_Kiryu"
+msgid "Who's this lady, then?"
+msgstr ""
+
+msgctxt "1032_Minoru"
+msgid ""
+"While I was trying to look for this girl's mother, somebody ran off with "
+"this lady's purse."
+msgstr ""
+
+msgctxt "1044_Elderly Woman"
+msgid ""
+"That purse has a memento in it from my late husband. I just wish I could "
+"get his fountain pen back..."
+msgstr ""
+
+msgctxt "1056_Kiryu"
+msgid "I see."
+msgstr ""
+
+msgctxt "1068_Kiryu"
+msgid "And what about this guy?"
+msgstr ""
+
+msgctxt "1080_Minoru"
+msgid "When I tried to chase the thief down, I accidentally bumped into him."
+msgstr ""
+
+msgctxt "1092_Businessman"
+msgid "I lost my contact lenses! I'm blind as a bat without them!"
+msgstr ""
+
+msgctxt "1104_Kiryu"
+msgid "Well then."
+msgstr ""
+
+msgctxt "1116_Kiryu"
+msgid ""
+"Now I see why you've been tied up. But you should've at least called Saya "
+"to let her know."
+msgstr ""
+
+msgctxt "1128_Minoru"
+msgid "Actually... I sort of lost my cell phone somewhere along the way."
+msgstr ""
+
+msgctxt "1140_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "1152_Little Girl"
+msgid ""
+"Hey, mister... Can you find my mommy!? Waaaaaaah!\r\n"
+"Waaaaaaah! Where's my mommy!?"
+msgstr ""
+
+msgctxt "1164_Elderly Woman"
+msgid ""
+"Please, I could do without the purse, but could you get my husband's "
+"fountain pen back?"
+msgstr ""
+
+msgctxt "1176_Businessman"
+msgid "Hold on! Don't move! What if you step on my contacts!?"
+msgstr ""
+
+msgctxt "1188_Minoru"
+msgid "Man, what do I do?"
+msgstr ""
+
+msgctxt "1200_Kiryu"
+msgid "You just help him find his contact lenses, I'll handle the rest."
+msgstr ""
+
+msgctxt "1212_Minoru"
+msgid "What?"
+msgstr ""
+
+msgctxt "1224_Kiryu"
+msgid "I'll get this woman's purse back and find this girl's mother, too."
+msgstr ""
+
+msgctxt "1236_Minoru"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "1248_Kiryu"
+msgid "You want to keep Saya and her dad waiting any longer?"
+msgstr ""
+
+msgctxt "1260_Minoru"
+msgid "Kiryu-san... I appreciate this. I'll keep looking for this man's contacts."
+msgstr ""

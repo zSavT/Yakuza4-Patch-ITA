@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1464"
+msgid "Hamazaki"
+msgstr ""
+
+msgctxt "1468"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1472"
+msgid "Idle"
+msgstr ""
+
+msgctxt "1476"
+msgid "P_tan_stand"
+msgstr ""
+
+msgctxt "1480"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "68_Hamazaki"
+msgid "Saejima!"
+msgstr ""
+
+msgctxt "116_Hamazaki"
+msgid "Sorry to keep you waiting."
+msgstr ""
+
+msgctxt "128_Hamazaki"
+msgid "C'mon, let's move. We're getting close."
+msgstr ""

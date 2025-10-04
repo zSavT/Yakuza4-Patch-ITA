@@ -1,0 +1,550 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1048"
+msgid "Hehehe. ♪ What should I have you buy? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1360"
+msgid "But if that's where you wanna go, Akiyama-san, I guess I'll go."
+msgstr ""
+
+msgctxt "1552"
+msgid ""
+"Hehe... You certainly know how to heat things up! I hope you like my "
+"singing. ♪"
+msgstr ""
+
+msgctxt "1672"
+msgid ""
+"I only started playing recently. Hehehe... This should be a good matchup. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1732"
+msgid "Well, if that's where you wanna go, Akiyama-san, I guess I'll go."
+msgstr ""
+
+msgctxt "1804"
+msgid ""
+"Sounds fun! ♪ You'd better teach me how to play, then. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1864"
+msgid "Well, if that's where you wanna go, Akiyama-san, I guess I'll go."
+msgstr ""
+
+msgctxt "21288"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "21292"
+msgid "Rio"
+msgstr ""
+
+msgctxt "21296"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "21300"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "21304"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "21308"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "21312"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "21316"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "21320"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "21324"
+msgid "Player"
+msgstr ""
+
+msgctxt "496_Akiyama"
+msgid "This is the store?"
+msgstr ""
+
+msgctxt "508_Rio"
+msgid "Yes. What'll I do if he's still here?"
+msgstr ""
+
+msgctxt "568_Rio"
+msgid "Ooh, look at him!"
+msgstr ""
+
+msgctxt "580_Akiyama"
+msgid "You really bought him, huh?"
+msgstr ""
+
+msgctxt "592_Rio"
+msgid "Hey! You told me to do it!"
+msgstr ""
+
+msgctxt "604_Akiyama"
+msgid ""
+"You agonized about it for over an hour! If I hadn't said something, we'd "
+"still be in there."
+msgstr ""
+
+msgctxt "616_Rio"
+msgid "Yeah, you're right..."
+msgstr ""
+
+msgctxt "628_Akiyama"
+msgid "Well, I hope he gets along with your other dog."
+msgstr ""
+
+msgctxt "640_Rio"
+msgid ""
+"I'm sure he will. But first, I have to take him to the groomer. They'll "
+"make him nice and cute!"
+msgstr ""
+
+msgctxt "652_Akiyama"
+msgid "Groomer? Like a beauty salon for dogs?"
+msgstr ""
+
+msgctxt "664_Rio"
+msgid "That's right! I'm going to get him a full doggie makeover!"
+msgstr ""
+
+msgctxt "676_Akiyama"
+msgid ""
+"Sounds like that might take a while. Do you want to go somewhere else in "
+"the meantime?"
+msgstr ""
+
+msgctxt "688_Rio"
+msgid "Good idea! Where would you like to go?"
+msgstr ""
+
+msgctxt "700_Player"
+msgid "(What should we do?)"
+msgstr ""
+
+msgctxt "724_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "736_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "748_Player"
+msgid "(We could go shopping.)"
+msgstr ""
+
+msgctxt "760_Player"
+msgid "(We could go out to eat.)"
+msgstr ""
+
+msgctxt "784_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "796_Rio"
+msgid "Yakiniku? Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "808_Akiyama"
+msgid "Okay, let's go."
+msgstr ""
+
+msgctxt "832_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "844_Rio"
+msgid ""
+"Huh? Yakiniku again? I kinda wanted to eat something different today... "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "856_Rio"
+msgid "But if you really want to go, Akiyama-san, I could live with it..."
+msgstr ""
+
+msgctxt "868_Talk_Yes"
+msgid "Okay, let's go."
+msgstr ""
+
+msgctxt "904_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "916_Rio"
+msgid "Sushi? Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "928_Akiyama"
+msgid "Okay, let's go."
+msgstr ""
+
+msgctxt "952_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "964_Rio"
+msgid ""
+"Huh? Sushi again? I kinda wanted to eat something different today... "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "976_Rio"
+msgid "But if you really want to go, Akiyama-san, I could live with it..."
+msgstr ""
+
+msgctxt "988_Talk_Yes"
+msgid "Okay, let's go."
+msgstr ""
+
+msgctxt "1024_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "1036_Rio"
+msgid ""
+"Huh? Does that mean... You're going to buy me something? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1060_Talk_Yes"
+msgid "Okay, let's go."
+msgstr ""
+
+msgctxt "1084_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "1096_Rio"
+msgid "Hehehe. ♪ What should I have you buy? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1108_Talk_Yes"
+msgid "Okay, let's go."
+msgstr ""
+
+msgctxt "1144_Player"
+msgid "Wanna hit up Watami?"
+msgstr ""
+
+msgctxt "1156_Rio"
+msgid ""
+"I love Watami. <Color:7>♥<Color:Default> I'm so happy! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1168_Akiyama"
+msgid ""
+"Wonder what I'm gonna order... <Color:7>♥<Color:Default> Hehe... I'm "
+"excited. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1180_Talk_Yes"
+msgid "Okay, let's go."
+msgstr ""
+
+msgctxt "1204_Player"
+msgid "Wanna hit up Watami?"
+msgstr ""
+
+msgctxt "1216_Rio"
+msgid "Watami again? Hehehe. ♪ I do love Watami. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1228_Akiyama"
+msgid ""
+"Wonder what I'm gonna order... <Color:7>♥<Color:Default> Hehe... I'm "
+"excited. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1240_Talk_Yes"
+msgid "Okay, let's go."
+msgstr ""
+
+msgctxt "1276_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "1288_Rio"
+msgid "Bowling? I'm quite the bowler, you know."
+msgstr ""
+
+msgctxt "1300_Akiyama"
+msgid "Hehehe. ♪ Show me what you got, Akiyama-san."
+msgstr ""
+
+msgctxt "1312_Talk_Yes"
+msgid "Okay, let's go."
+msgstr ""
+
+msgctxt "1336_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "1348_Rio"
+msgid ""
+"Again? If we're going on a date, I'd rather we go somewhere different than "
+"last time..."
+msgstr ""
+
+msgctxt "1372_Akiyama"
+msgid "Okay, let's head out."
+msgstr ""
+
+msgctxt "1408_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "1420_Rio"
+msgid "What? I didn't know you played darts, Akiyama-san!"
+msgstr ""
+
+msgctxt "1432_Akiyama"
+msgid "I've got a little experience playing darts, too. Hehehe..."
+msgstr ""
+
+msgctxt "1444_Akiyama"
+msgid "Okay, let's go."
+msgstr ""
+
+msgctxt "1468_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "1480_Rio"
+msgid "Again? You must be really into darts."
+msgstr ""
+
+msgctxt "1492_Akiyama"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "1528_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "1540_Rio"
+msgid "Karaoke? I love karaoke! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1564_Talk_Yes"
+msgid "Okay, let's go."
+msgstr ""
+
+msgctxt "1588_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "1600_Rio"
+msgid "That sounds nice. ♪ I want to sing a whole lot! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1612_Talk_Smile"
+msgid "Hehehe... Okay, let's go."
+msgstr ""
+
+msgctxt "1648_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "1660_Rio"
+msgid "Pool? That's so you, Akiyama-san. ♪"
+msgstr ""
+
+msgctxt "1684_Talk_Yes"
+msgid "Okay, let's go."
+msgstr ""
+
+msgctxt "1708_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "1720_Rio"
+msgid ""
+"Again? If we're going on a date, I'd rather we go somewhere different than "
+"last time..."
+msgstr ""
+
+msgctxt "1744_Akiyama"
+msgid "Okay, let's head out."
+msgstr ""
+
+msgctxt "1780_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "1792_Rio"
+msgid "Golf!? Wow, I didn't know people went golfing on dates!"
+msgstr ""
+
+msgctxt "1816_Talk_Yes"
+msgid "Okay, let's go."
+msgstr ""
+
+msgctxt "1840_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "1852_Rio"
+msgid ""
+"Again? If we're going on a date, I'd rather we go somewhere different than "
+"last time..."
+msgstr ""
+
+msgctxt "1876_Talk_Angry"
+msgid "Okay, let's head out."
+msgstr ""
+
+msgctxt "1912_Player"
+msgid "Let's hit the hot springs."
+msgstr ""
+
+msgctxt "1924_Rio"
+msgid ""
+"The hot springs? Ooh, afterwards, let's play table tennis! ♪ I love playing "
+"table tennis! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1936_Akiyama"
+msgid "Hehehe, I'm rarin' to go!"
+msgstr ""
+
+msgctxt "1948_Talk_Yes"
+msgid "Okay, let's do it!"
+msgstr ""
+
+msgctxt "1972_Player"
+msgid "Let's hit the hot springs."
+msgstr ""
+
+msgctxt "1984_Rio"
+msgid ""
+"The hot springs? Let's play table tennis again this time! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1996_Akiyama"
+msgid "Hehehe, I'm rarin' to go!"
+msgstr ""
+
+msgctxt "2008_Talk_Yes"
+msgid "Okay, let's do it!"
+msgstr ""
+
+msgctxt "2032_Akiyama"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "2044_Akiyama"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "2056_Akiyama"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "2068_Akiyama"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "2080_Akiyama"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "2092_Akiyama"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "2104_Akiyama"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "2116_Akiyama"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "2128_Akiyama"
+msgid "How about we play some pool?"
+msgstr ""
+
+msgctxt "2140_Akiyama"
+msgid "We could hit the hot springs."
+msgstr ""
+
+msgctxt "2152_Akiyama"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "2164_Akiyama"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "2176_Akiyama"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "2188_Akiyama"
+msgid "How about we play some pool?"
+msgstr ""
+
+msgctxt "2200_Akiyama"
+msgid "We could golf."
+msgstr ""
+
+msgctxt "2212_Akiyama"
+msgid "We could hit the hot springs."
+msgstr ""
+
+msgctxt "2224_Akiyama"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "2236_Akiyama"
+msgid "We could go to Le Marche."
+msgstr ""
+
+msgctxt "2248_Akiyama"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "2260_Akiyama"
+msgid "How about some yakiniku?"
+msgstr ""
+
+msgctxt "2272_Akiyama"
+msgid "How does sushi sound?"
+msgstr ""
+
+msgctxt "2284_Akiyama"
+msgid "Wanna hit up Watami?"
+msgstr ""
+
+msgctxt "2296_Akiyama"
+msgid "Do something else."
+msgstr ""

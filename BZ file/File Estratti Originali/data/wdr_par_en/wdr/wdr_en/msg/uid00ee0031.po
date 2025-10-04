@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2384"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "2388"
+msgid "Man"
+msgstr ""
+
+msgctxt "2392"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2396"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2400"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "156_Tanimura"
+msgid "Excuse me, I'd like to pass through here."
+msgstr ""
+
+msgctxt "168_Man"
+msgid "這里是進入禁止。"
+msgstr ""
+
+msgctxt "180_Tanimura"
+msgid "(Doesn't look like he understands Japanese.)"
+msgstr ""
+
+msgctxt "192_Tanimura"
+msgid "\"Excuse me, are you Chinese? I'm a policeman. Could you let me through?\""
+msgstr ""
+
+msgctxt "204_Man"
+msgid "\"Go right ahead.\""
+msgstr ""
+
+msgctxt "264_Kiryu"
+msgid "Hey, could you move?"
+msgstr ""
+
+msgctxt "276_Akiyama"
+msgid "Hey there. Think you could move out of my way?"
+msgstr ""
+
+msgctxt "288_Saejima"
+msgid "Hey, you're in my way."
+msgstr ""
+
+msgctxt "300_Tanimura"
+msgid "This place definitely wouldn't have been chosen."
+msgstr ""
+
+msgctxt "312_Man"
+msgid "這里是進入禁止。"
+msgstr ""
+
+msgctxt "336_Kiryu"
+msgid ""
+"(A foreigner... Doesn't look like he understands Japanese, or wants to let "
+"me through.)"
+msgstr ""
+
+msgctxt "348_Akiyama"
+msgid "(Doesn't look like he speaks Japanese, or wants to let me through.)"
+msgstr ""
+
+msgctxt "360_Saejima"
+msgid ""
+"(Doesn't look like he's gonna let me through. Best to avoid causin' "
+"trouble.)"
+msgstr ""
+
+msgctxt "372_Tanimura"
+msgid "This place definitely wouldn't have been chosen."
+msgstr ""

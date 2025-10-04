@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "888"
+msgid "Gossipy Businessman"
+msgstr ""
+
+msgctxt "892"
+msgid "Curious Businesswoman"
+msgstr ""
+
+msgctxt "896"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "900"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "84_Gossipy Businessman"
+msgid "Did you know there was a murder right near here?"
+msgstr ""
+
+msgctxt "96_Curious Businesswoman"
+msgid "What!? Really!? Did they catch the killer yet?"
+msgstr ""
+
+msgctxt "108_Gossipy Businessman"
+msgid ""
+"I read about it online, but they haven't got the killer yet. Probably "
+"already skipped town."
+msgstr ""
+
+msgctxt "120_Curious Businesswoman"
+msgid "I sure hope so. Still, I think I'll go home early today."
+msgstr ""

@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "524"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "1052"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "13836"
+msgid "Chihiro"
+msgstr ""
+
+msgctxt "13840"
+msgid "Player"
+msgstr ""
+
+msgctxt "13844"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13848"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13852"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13856"
+msgid "0"
+msgstr ""
+
+msgctxt "13860"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13864"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "116_Chihiro"
+msgid "Okay, this match is for keeps."
+msgstr ""
+
+msgctxt "128_Player"
+msgid "Heh. You take this seriously, don't you?"
+msgstr ""
+
+msgctxt "140_Chihiro"
+msgid "Let's go in."
+msgstr ""
+
+msgctxt "164_Chihiro"
+msgid "Okay, this match is for keeps."
+msgstr ""
+
+msgctxt "176_Talk_Yes"
+msgid "Come on, let's go in."
+msgstr ""
+
+msgctxt "188_Player"
+msgid "Hold on a sec... Um, looks like I'm low on cash."
+msgstr ""
+
+msgctxt "200_Chihiro"
+msgid "What? You are!?"
+msgstr ""
+
+msgctxt "212_Player"
+msgid "Yeah. Sorry."
+msgstr ""
+
+msgctxt "224_Chihiro"
+msgid ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+msgstr ""
+
+msgctxt "236_Player"
+msgid "(I better find some money...)"
+msgstr ""
+
+msgctxt "344_Chihiro"
+msgid "Oh, I lost. You could've gone a bit easier on me!"
+msgstr ""
+
+msgctxt "356_Player"
+msgid "Hey, you said it was for keeps."
+msgstr ""
+
+msgctxt "368_Chihiro"
+msgid ""
+"Yeah, I did. And I had fun, too. I'll just have to practice! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "380_Chihiro"
+msgid "I'll be waiting for you at the club."
+msgstr ""
+
+msgctxt "404_Chihiro"
+msgid "Looks like a draw."
+msgstr ""
+
+msgctxt "416_Player"
+msgid "Yeah. You're pretty good."
+msgstr ""
+
+msgctxt "428_Chihiro"
+msgid "Thank you! That was intense, wasn't it?"
+msgstr ""
+
+msgctxt "440_Talk_Ojigi"
+msgid "Well, I'll see you at the club."
+msgstr ""
+
+msgctxt "464_Chihiro"
+msgid "I did it! I beat you!"
+msgstr ""
+
+msgctxt "476_Player"
+msgid "Yep, you sure did."
+msgstr ""
+
+msgctxt "488_Chihiro"
+msgid "That was fun! Darts is great, isn't it?"
+msgstr ""
+
+msgctxt "500_Talk_Ojigi"
+msgid "Okay, I'll see you at the club sometime."
+msgstr ""
+
+msgctxt "608_Chihiro"
+msgid "Okay, this match is for keeps."
+msgstr ""
+
+msgctxt "620_Player"
+msgid "Heh. You take this seriously, don't you?"
+msgstr ""
+
+msgctxt "632_Chihiro"
+msgid "Let's go in."
+msgstr ""
+
+msgctxt "656_Chihiro"
+msgid "Okay, this match is for keeps."
+msgstr ""
+
+msgctxt "668_Talk_Yes"
+msgid "Come on, let's go in."
+msgstr ""
+
+msgctxt "680_Player"
+msgid "Hold on a sec... Um, looks like I'm low on cash."
+msgstr ""
+
+msgctxt "692_Chihiro"
+msgid "What? You are!?"
+msgstr ""
+
+msgctxt "704_Player"
+msgid "Yeah. Sorry."
+msgstr ""
+
+msgctxt "716_Chihiro"
+msgid ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+msgstr ""
+
+msgctxt "728_Player"
+msgid "(I better find some money...)"
+msgstr ""
+
+msgctxt "836_Chihiro"
+msgid "Oh, I lost. You could've gone a bit easier on me!"
+msgstr ""
+
+msgctxt "848_Player"
+msgid "Hey, you said it was for keeps."
+msgstr ""
+
+msgctxt "860_Chihiro"
+msgid ""
+"Yeah, I did. And I had fun, too. I'll just have to practice! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "872_Chihiro"
+msgid "Wanna go to the club now?"
+msgstr ""
+
+msgctxt "884_Player"
+msgid "Sure."
+msgstr ""
+
+msgctxt "908_Chihiro"
+msgid "Looks like a draw."
+msgstr ""
+
+msgctxt "920_Player"
+msgid "Yeah. You're pretty good."
+msgstr ""
+
+msgctxt "932_Chihiro"
+msgid "Thank you! That was intense, wasn't it?"
+msgstr ""
+
+msgctxt "944_Chihiro"
+msgid "Wanna go to the club now?"
+msgstr ""
+
+msgctxt "956_Player"
+msgid "Sure."
+msgstr ""
+
+msgctxt "980_Chihiro"
+msgid "I did it! I beat you!"
+msgstr ""
+
+msgctxt "992_Player"
+msgid "Yep, you sure did."
+msgstr ""
+
+msgctxt "1004_Chihiro"
+msgid "That was fun! Darts is great, isn't it?"
+msgstr ""
+
+msgctxt "1016_Chihiro"
+msgid "Wanna go to the club now?"
+msgstr ""
+
+msgctxt "1028_Player"
+msgid "Sure."
+msgstr ""

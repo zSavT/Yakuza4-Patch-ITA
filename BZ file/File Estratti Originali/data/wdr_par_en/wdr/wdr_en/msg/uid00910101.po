@@ -1,0 +1,518 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "800"
+msgid "You got a <Color:8>Woodcarving Set<Color:Default>."
+msgstr ""
+
+msgctxt "18740"
+msgid "Punk-like Man"
+msgstr ""
+
+msgctxt "18744"
+msgid "M_ykz_damage_tlk_no"
+msgstr ""
+
+msgctxt "18748"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "18752"
+msgid "Old Man"
+msgstr ""
+
+msgctxt "18756"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "18760"
+msgid "Relieved Homeless Man"
+msgstr ""
+
+msgctxt "18764"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "18768"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "18772"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "18776"
+msgid "Master"
+msgstr ""
+
+msgctxt "18780"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "18784"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "18788"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "18792"
+msgid "Ken-chan"
+msgstr ""
+
+msgctxt "18796"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "18800"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "18804"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "18808"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "18812"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "18816"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "18820"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "18824"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "18828"
+msgid "Master's Helper - Saejima"
+msgstr ""
+
+msgctxt "18832"
+msgid "dummy"
+msgstr ""
+
+msgctxt "18836"
+msgid "Panicked Homeless Man"
+msgstr ""
+
+msgctxt "18840"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "18844"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "116_Punk-like Man"
+msgid "Who the hell is this guy? Some sorta monster or somethin'!?"
+msgstr ""
+
+msgctxt "128_Punk-like Man"
+msgid "Dammit! This ain't the last you heard of us, old man!"
+msgstr ""
+
+msgctxt "176_Saejima"
+msgid "Street punks and their cowardly lines never change."
+msgstr ""
+
+msgctxt "188_Old Man"
+msgid "You saved my life. Thank you."
+msgstr ""
+
+msgctxt "200_Saejima"
+msgid "Thank this guy, not me. He's the one that was doin' all the worryin'."
+msgstr ""
+
+msgctxt "224_Relieved Homeless Man"
+msgid "Master, you okay!? Did they hurt you?"
+msgstr ""
+
+msgctxt "236_Old Man"
+msgid "Oh, it's you. Yeah, I'm all right."
+msgstr ""
+
+msgctxt "248_Relieved Homeless Man"
+msgid "Thank goodness! I was scared outta my mind!"
+msgstr ""
+
+msgctxt "260_Relieved Homeless Man"
+msgid ""
+"I owe you, sir! You really are something! By the way, what was your name "
+"again?"
+msgstr ""
+
+msgctxt "272_Saejima"
+msgid "Saejima. You?"
+msgstr ""
+
+msgctxt "284_Relieved Homeless Man"
+msgid "People call me Ken-chan. And this here's the Master."
+msgstr ""
+
+msgctxt "296_Master"
+msgid "I didn't come up with that nickname, but call me whatever you want."
+msgstr ""
+
+msgctxt "308_Saejima"
+msgid "So why were them punks after ya anyways?"
+msgstr ""
+
+msgctxt "320_Master"
+msgid "Been down here lookin' for a certain somethin'. Somethin' important."
+msgstr ""
+
+msgctxt "332_Master"
+msgid ""
+"But then those hoodlums showed up, spoutin' nonsense about buried treasure "
+"and the like."
+msgstr ""
+
+msgctxt "344_Saejima"
+msgid "Somethin' important?"
+msgstr ""
+
+msgctxt "356_Master"
+msgid ""
+"Yep. Ain't even sure what it is exactly. My father only told me about it on "
+"his deathbed."
+msgstr ""
+
+msgctxt "368_Master"
+msgid "Said he buried somethin' important beneath the streets of Kamurocho."
+msgstr ""
+
+msgctxt "380_Saejima"
+msgid "I see..."
+msgstr ""
+
+msgctxt "392_Master"
+msgid ""
+"He told me the general location, but we got more sewers an' newfangled "
+"underground malls croppin' up every day. Makes things harder to find."
+msgstr ""
+
+msgctxt "404_Saejima"
+msgid "So ya mean he buried whatever it is before all this was built?"
+msgstr ""
+
+msgctxt "416_Master"
+msgid "Exactly. I reckon durin' the war."
+msgstr ""
+
+msgctxt "428_Saejima"
+msgid "Wow, that's a long time ago. So how many years ya been diggin'?"
+msgstr ""
+
+msgctxt "440_Master"
+msgid ""
+"Well, heard from my father 'bout it when I was 50, so I reckon maybe 25 "
+"years. Give or take a few."
+msgstr ""
+
+msgctxt "452_Saejima"
+msgid "25 years..."
+msgstr ""
+
+msgctxt "464_Ken-chan"
+msgid "Master, this guy's pretty strong. How about asking him to help you dig?"
+msgstr ""
+
+msgctxt "476_Master"
+msgid "And why would I do that?"
+msgstr ""
+
+msgctxt "488_Ken-chan"
+msgid ""
+"You've been saying your back hurts, right? And you're not getting any "
+"younger."
+msgstr ""
+
+msgctxt "500_Master"
+msgid "Oh, shut yer trap! I still got it in me!"
+msgstr ""
+
+msgctxt "512_Ken-chan"
+msgid ""
+"You don't have to be so hardheaded! Saejima-san, will you help the Master "
+"dig?"
+msgstr ""
+
+msgctxt "524_Ken-chan"
+msgid "Please!"
+msgstr ""
+
+msgctxt "536_Saejima"
+msgid "Ya really been digging this hole for 25 years?"
+msgstr ""
+
+msgctxt "548_Master"
+msgid "Pretty much."
+msgstr ""
+
+msgctxt "560_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "572_Saejima"
+msgid "I see. Well, I'll help whenever I got the time."
+msgstr ""
+
+msgctxt "584_Master"
+msgid ""
+"Seriously, kid? You ain't even involved. Might not be anything in it for ya "
+"either."
+msgstr ""
+
+msgctxt "596_Saejima"
+msgid ""
+"Consider it karma. Plus, haven't had a good workout since comin' to "
+"Kamurocho. Don't worry about it."
+msgstr ""
+
+msgctxt "608_Ken-chan"
+msgid ""
+"Perfect! You just might find what you're looking for before you pass on, "
+"Master!"
+msgstr ""
+
+msgctxt "620_Master"
+msgid "Will you quit talkin' about me dyin' already!? Geez!"
+msgstr ""
+
+msgctxt "632_Master"
+msgid ""
+"Saejima, was it? I may talk a lot, but I can't stop the years from pilin' "
+"on."
+msgstr ""
+
+msgctxt "644_Master"
+msgid ""
+"Honestly, this old man'd be really happy if ya lent a hand, even if it's "
+"only for a little."
+msgstr ""
+
+msgctxt "656_Saejima"
+msgid "Got it. I'll come by and help when I can."
+msgstr ""
+
+msgctxt "668_Master"
+msgid "Thank you, son. I'm in your debt."
+msgstr ""
+
+msgctxt "680_Master"
+msgid ""
+"Ain't much of a reward, I guess, but do ya know about "
+"<Color:7>Revelations<Color:Default>?"
+msgstr ""
+
+msgctxt "692_Saejima"
+msgid "Revelations?"
+msgstr ""
+
+msgctxt "704_Master"
+msgid ""
+"Yep. Revelations allow you to learn new techniques by observing various "
+"events around town."
+msgstr ""
+
+msgctxt "716_Master"
+msgid ""
+"Might just be able to discover somethin' new if ya capture those decisive "
+"moments in material form."
+msgstr ""
+
+msgctxt "728_Saejima"
+msgid "But I don't have a camera. Never been much good with machines anyway."
+msgstr ""
+
+msgctxt "740_Master"
+msgid "Same here. Couldn't afford it either. That's why I use these babies."
+msgstr ""
+
+msgctxt "752_Saejima"
+msgid "A hammer and chisel?"
+msgstr ""
+
+msgctxt "764_Master"
+msgid ""
+"I'll give ya some good carvin' wood too. Use that there hammer and chisel "
+"to carve the events you see."
+msgstr ""
+
+msgctxt "776_Master"
+msgid ""
+"Ask Ken-chan about what's goin' on above ground. He may have some good "
+"information."
+msgstr ""
+
+msgctxt "788_Saejima"
+msgid "I think I get it. I'll give it a try."
+msgstr ""
+
+msgctxt "824_Punk-like Man"
+msgid ""
+"This information has been added as a <Color:14>memo<Color:Default>.\r\n"
+"Read <Color:14>memos<Color:Default> by selecting "
+"<Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
+"You can access the Pause Menu with the <Action:Button_Options@Adventure> "
+"button."
+msgstr ""
+
+msgctxt "896_Saejima"
+msgid ""
+"(Well, looks like I've settled things here. Time to investigate that "
+"legendary info dealer. Wonder if any of the homeless might know "
+"something...)"
+msgstr ""
+
+msgctxt "944_Panicked Homeless Man"
+msgid "Over there!"
+msgstr ""
+
+msgctxt "968_Punk-like Man"
+msgid "Enough bull, old man. It's time you told us the truth."
+msgstr ""
+
+msgctxt "980_Punk-like Man"
+msgid ""
+"We don't like to get rough with frail geezers, so do us a favor and start "
+"talking."
+msgstr ""
+
+msgctxt "992_Old Man"
+msgid ""
+"I can't let you go any further! All these years o' hard work woulda been "
+"for nothing!"
+msgstr ""
+
+msgctxt "1004_Punk-like Man"
+msgid ""
+"We know you're hiding tons of buried treasure back there! That's why you "
+"been digging like this since the stone age!"
+msgstr ""
+
+msgctxt "1016_Old Man"
+msgid "There ain't no buried treasure! Now get the hell outta here!"
+msgstr ""
+
+msgctxt "1028_Punk-like Man"
+msgid ""
+"It's no fair if you hog all that money to yourself. Share the loot why "
+"don't you, grandpa?"
+msgstr ""
+
+msgctxt "1040_Punk-like Man"
+msgid ""
+"Come on, this is taking too long. If you're not gonna move, then we'll just "
+"have to move you!"
+msgstr ""
+
+msgctxt "1052_Panicked Homeless Man"
+msgid "Oh no! They're gonna kill the Master!"
+msgstr ""
+
+msgctxt "1064_Panicked Homeless Man"
+msgid ""
+"You look like a pretty strong guy. Please get rid of those hooligans and "
+"save the Master!"
+msgstr ""
+
+msgctxt "1076_Saejima"
+msgid "Sorry, can't get involved. Fight yer own battles with yer own friends."
+msgstr ""
+
+msgctxt "1088_Panicked Homeless Man"
+msgid "But nobody really likes the Master. He's not exactly the social type..."
+msgstr ""
+
+msgctxt "1100_Panicked Homeless Man"
+msgid "But he's still a good guy! You gotta help him out!"
+msgstr ""
+
+msgctxt "1112_Panicked Homeless Man"
+msgid "Please! You're my only hope!"
+msgstr ""
+
+msgctxt "1124_Saejima"
+msgid "...Oh, for crying out loud."
+msgstr ""
+
+msgctxt "1136_Saejima"
+msgid ""
+"Fine. When ya put it like that, guess I can't just sit back and watch the "
+"old man die."
+msgstr ""
+
+msgctxt "1148_Saejima"
+msgid "I'll talk to 'em."
+msgstr ""
+
+msgctxt "1160_Panicked Homeless Man"
+msgid "Really!? Thank you, kind sir!"
+msgstr ""
+
+msgctxt "1172_Punk-like Man"
+msgid ""
+"Listen, gramps, tell us what we wanna know or it ain't the retirement home "
+"you're headed for. Got it?"
+msgstr ""
+
+msgctxt "1184_Saejima"
+msgid "Wait right there."
+msgstr ""
+
+msgctxt "1208_Saejima"
+msgid ""
+"You kids havin' fun pickin' on senior citizens? Ain't ya supposed to care "
+"for the elderly?"
+msgstr ""
+
+msgctxt "1220_Punk-like Man"
+msgid "Who the fuck are you, huh? One of this guy's homeless friends?"
+msgstr ""
+
+msgctxt "1232_Saejima"
+msgid "Don't matter. Just let this whole thing go and get lost."
+msgstr ""
+
+msgctxt "1244_Punk-like Man"
+msgid "So you're after the loot too! You think we don't know what's up?"
+msgstr ""
+
+msgctxt "1256_Saejima"
+msgid "Gimme a break already. Kids these days dunno when to listen."
+msgstr ""
+
+msgctxt "1268_Punk-like Man"
+msgid ""
+"Enough talk! We're gonna float both your geriatric corpses down the fuckin' "
+"sewer!"
+msgstr ""
+
+msgctxt "1292_Punk-like Man"
+msgid "Help Him"
+msgstr ""
+
+msgctxt "1304_Punk-like Man"
+msgid "Don't Help"
+msgstr ""

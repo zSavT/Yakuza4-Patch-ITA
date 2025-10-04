@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-10\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/auth/subtitle/A0050.po\n"
+"X-Crowdin-File-ID: 56286\n"
+"PO-Revision-Date: 2025-09-26 07:32\n"
+
+msgctxt "6\t115"
+msgid "Though I will say, he's kinda <Italic>different</Italic>."
+msgstr "Anche se ti dirò, lui è un po' <Italic>diverso</Italic>."
+
+msgctxt "116\t288"
+msgid "His loan terms aren't exactly\\nwhat you'd call industry norm."
+msgstr "I suoi termini di contratto non sono\\nproprio nella norma."
+
+msgctxt "275\t318"
+msgid "Terms?"
+msgstr "Termini?"
+
+msgctxt "319\t415"
+msgid "Like some kinda special\\napplication process?"
+msgstr "Applica una sorta di applicazione\\nspeciale?"
+
+msgctxt "400\t443"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "442\t606"
+msgid "Before Sky Finance lends out their cash,\\nthey need to see if the loanee is worth it."
+msgstr "Prima che lo Sky Finance presti soldi,\\ndevono accertarsi che ne valga la pena."
+
+msgctxt "607\t749"
+msgid "So Akiyama comes up with a test\\nto figure out if they're up to snuff."
+msgstr "Quindi Akiyama fa un test per capire\\nse si è all'altezza del prestito."
+
+msgctxt "751\t900"
+msgid "Stuff like volunteering,\\nhelping at nursing homes."
+msgstr "Roba come volontariato,\\no aiuto in case di riposo."
+
+msgctxt "901\t970"
+msgid "Pretty weird, if you ask me."
+msgstr "A dirla tutta, è un po' strano."
+

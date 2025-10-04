@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "216"
+msgid "Take a copy of Kamuro Gourmet?"
+msgstr ""
+
+msgctxt "228"
+msgid "You got a copy of Kamuro Gourmet."
+msgstr ""
+
+msgctxt "1788"
+msgid "Player"
+msgstr ""
+
+msgctxt "1792"
+msgid "2d_cf_zasshi_3times00"
+msgstr ""
+
+msgctxt "156_Player"
+msgid "(Kamuro Gourmet, huh. I already have one, though.)"
+msgstr ""
+
+msgctxt "168_Player"
+msgid "(It's a food magazine called Kamuro Gourmet. Should I read it?)"
+msgstr ""
+
+msgctxt "192_Player"
+msgid ""
+"(It's a food magazine called Kamuro Gourmet. It showcases cool places to "
+"eat and coupons for great deals.)"
+msgstr ""
+
+msgctxt "252_Player"
+msgid "(Not right now...)"
+msgstr ""
+
+msgctxt "264_Player"
+msgid "(Not right now...)"
+msgstr ""
+
+msgctxt "276_Player"
+msgid "Read It"
+msgstr ""
+
+msgctxt "288_Player"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "300_Player"
+msgid "Take One"
+msgstr ""
+
+msgctxt "312_Player"
+msgid "Not Now"
+msgstr ""

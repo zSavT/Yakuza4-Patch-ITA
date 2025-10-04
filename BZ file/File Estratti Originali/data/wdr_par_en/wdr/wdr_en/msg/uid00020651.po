@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2788"
+msgid "Homeless Man"
+msgstr ""
+
+msgctxt "2792"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "2796"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2800"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "68_Homeless Man"
+msgid "Are you Tanimura-san?"
+msgstr ""
+
+msgctxt "80_Tanimura"
+msgid "That I am. You the one who called me?"
+msgstr ""
+
+msgctxt "92_Homeless Man"
+msgid ""
+"I don't know anything about a call... My boss just told me to come here and "
+"give this to you. Here, take it."
+msgstr ""
+
+msgctxt "128_Tanimura"
+msgid "What's this for?"
+msgstr ""
+
+msgctxt "140_Homeless Man"
+msgid ""
+"Heheh... I dunno, maybe you got a secret admirer? Either way, it's yours "
+"now."
+msgstr ""
+
+msgctxt "164_Tanimura"
+msgid "(A bouquet of flowers? I don't get it.)"
+msgstr ""
+
+msgctxt "176_Tanimura"
+msgid "(Wait, there's a note inside. It says...)"
+msgstr ""
+
+msgctxt "188_Tanimura"
+msgid ""
+"(\"Well done, gumshoe. You take after your papa more than I expected. I "
+"suppose I should uphold my end of the bargain.\")"
+msgstr ""
+
+msgctxt "200_Tanimura"
+msgid ""
+"(\"You'll be getting a call from Katsuragi soon. What you do next is up to "
+"you. Just see that you don't waste this chance.\")"
+msgstr ""
+
+msgctxt "212_Tanimura"
+msgid "(......)"
+msgstr ""

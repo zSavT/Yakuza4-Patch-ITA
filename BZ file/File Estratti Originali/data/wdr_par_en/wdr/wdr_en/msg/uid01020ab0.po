@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "112"
+msgid "Meet with Kido?"
+msgstr ""
+
+msgctxt "1356"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "100_Akiyama"
+msgid ""
+"(This is where I'm supposed to meet Kido-chan. I can access the roof from "
+"here.)"
+msgstr ""
+
+msgctxt "148_Akiyama"
+msgid "(Maybe later.)"
+msgstr ""
+
+msgctxt "184_Akiyama"
+msgid "(All right. Guess I'll go meet Kido-chan.)"
+msgstr ""
+
+msgctxt "208_Akiyama"
+msgid "Yes"
+msgstr ""
+
+msgctxt "220_Akiyama"
+msgid "No"
+msgstr ""

@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2128"
+msgid "Player"
+msgstr ""
+
+msgctxt "264_Player"
+msgid "(Should I give her a present?)"
+msgstr ""
+
+msgctxt "288_Player"
+msgid " (Maybe she'd like this.)"
+msgstr ""
+
+msgctxt "300_Player"
+msgid "(On second thought, maybe not.)"
+msgstr ""
+
+msgctxt "312_Player"
+msgid ""
+"(This might be a good time to leave, but I've got enough money. Should I "
+"stay a bit longer?)"
+msgstr ""
+
+msgctxt "324_Player"
+msgid " (I think I'll stay just a bit longer.)"
+msgstr ""
+
+msgctxt "336_Player"
+msgid "(I think it's time to go.)"
+msgstr ""
+
+msgctxt "348_Player"
+msgid "(What should I talk about?)"
+msgstr ""
+
+msgctxt "396_Player"
+msgid "Yes"
+msgstr ""
+
+msgctxt "408_Player"
+msgid "No"
+msgstr ""
+
+msgctxt "420_Player"
+msgid "Stay"
+msgstr ""
+
+msgctxt "432_Player"
+msgid "Leave"
+msgstr ""
+
+msgctxt "444_Player"
+msgid "The rumor about ramen."
+msgstr ""
+
+msgctxt "456_Player"
+msgid "The rumor about gelato."
+msgstr ""
+
+msgctxt "468_Player"
+msgid "The rumor about fake brand-name goods."
+msgstr ""

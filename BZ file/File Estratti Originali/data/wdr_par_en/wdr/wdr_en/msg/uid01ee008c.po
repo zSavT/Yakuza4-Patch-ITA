@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "6356"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "6360"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "6364"
+msgid "Lily"
+msgstr ""
+
+msgctxt "6368"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6372"
+msgid "Yasuko"
+msgstr ""
+
+msgctxt "6376"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "6380"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "6384"
+msgid "Player"
+msgstr ""
+
+msgctxt "280_Haruka"
+msgid "What took you so long, Uncle Kaz? I got tired of waiting..."
+msgstr ""
+
+msgctxt "304_Haruka"
+msgid "Oh, you're back, Akiyama-san. Shall we go, then?"
+msgstr ""
+
+msgctxt "316_Haruka"
+msgid "Oh, Kiryu-san, I've been waiting for you. Shall we go, then?"
+msgstr ""
+
+msgctxt "352_Tanimura"
+msgid ""
+"(This is no time to be making detours. They took Zhao-san somewhere off "
+"Senryo Avenue.)"
+msgstr ""
+
+msgctxt "376_Saejima"
+msgid ""
+"(Karaoke used to be in bars, but looks like there's places that specialize "
+"in it...)"
+msgstr ""
+
+msgctxt "388_Saejima"
+msgid "(Singin' just ain't my thing...)"
+msgstr ""
+
+msgctxt "424_Saejima"
+msgid "(A karaoke place, huh? Singin' just ain't my thing...)"
+msgstr ""
+
+msgctxt "472_Haruka"
+msgid "Are you... going in there, Uncle Kaz?"
+msgstr ""
+
+msgctxt "484_Player"
+msgid "(Haruka's with me. What should I do?)"
+msgstr ""
+
+msgctxt "496_Haruka"
+msgid "Yeah, sorry. Think you can be a big girl and wait here while I'm gone?"
+msgstr ""
+
+msgctxt "508_Haruka"
+msgid "...Okay. Have fun, Uncle Kaz."
+msgstr ""
+
+msgctxt "520_Haruka"
+msgid "No, I'm okay."
+msgstr ""
+
+msgctxt "532_Haruka"
+msgid "Really? I don't mind."
+msgstr ""
+
+msgctxt "556_Haruka"
+msgid "Um, are you going in here?"
+msgstr ""
+
+msgctxt "568_Player"
+msgid "(I forgot Lily-chan's with me. What to do...)"
+msgstr ""
+
+msgctxt "580_Haruka"
+msgid "Yeah. Sorry, but could you wait a bit out here?"
+msgstr ""
+
+msgctxt "592_Lily"
+msgid "Oh, sure. I understand."
+msgstr ""
+
+msgctxt "604_Haruka"
+msgid "Actually, never mind."
+msgstr ""
+
+msgctxt "616_Lily"
+msgid "I see... You don't have to worry about me though."
+msgstr ""
+
+msgctxt "628_Haruka"
+msgid "Um, are you going in here?"
+msgstr ""
+
+msgctxt "640_Player"
+msgid "(I forgot Yasuko-san's with me. What to do...)"
+msgstr ""
+
+msgctxt "652_Haruka"
+msgid "Sorry, but could you wait here for a bit?"
+msgstr ""
+
+msgctxt "664_Yasuko"
+msgid "Oh, sure. I understand."
+msgstr ""
+
+msgctxt "676_Haruka"
+msgid "Never mind."
+msgstr ""
+
+msgctxt "688_Yasuko"
+msgid "I see... You don't have to worry about me though."
+msgstr ""
+
+msgctxt "784_Haruka"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "796_Haruka"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "808_Haruka"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "820_Haruka"
+msgid "Forget It"
+msgstr ""
+
+msgctxt "832_Haruka"
+msgid "Go In Anyway"
+msgstr ""
+
+msgctxt "844_Haruka"
+msgid "Forget It"
+msgstr ""

@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "4384"
+msgid "Man"
+msgstr ""
+
+msgctxt "4388"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4392"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "4396"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4400"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "4404"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "4408"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4412"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "128_Man"
+msgid "I bet you know your way around a fight, old man."
+msgstr ""
+
+msgctxt "140_Man"
+msgid "Better brace yerself, 'cause this might sting a little!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "Lately, there hasn't been anything going on. It's enough to bum a guy out."
+msgstr ""
+
+msgctxt "164_Man"
+msgid ""
+"So I decided to go all-out and enjoy a night on the town. Too bad I don't "
+"have the money for it. So without further ado, hand over your cash!"
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You're a bad guy, aren't you? You like doing bad things to people, do you?"
+msgstr ""
+
+msgctxt "188_Man"
+msgid ""
+"Well, I'm the good guy who gets bad guys like you off our streets. Get "
+"ready for a good old-fashioned beatdown!"
+msgstr ""
+
+msgctxt "224_Man"
+msgid "How'd that happen? You're one strong S.O.B., you know that?"
+msgstr ""
+
+msgctxt "236_Man"
+msgid ""
+"Sorry for jumpin' you like that. Take this, and try to find it in your "
+"heart to forgive me."
+msgstr ""
+
+msgctxt "248_Man"
+msgid "You got a heartful %s."
+msgstr ""
+
+msgctxt "272_Man"
+msgid "Damn, you're strong! I've never been kicked that hard in my life."
+msgstr ""
+
+msgctxt "284_Man"
+msgid "There's no way I can beat you. Just take this and forget it ever happened."
+msgstr ""
+
+msgctxt "296_Man"
+msgid "You got a ramen-scented %s."
+msgstr ""
+
+msgctxt "320_Man"
+msgid ""
+"Ow... Shit, man. You got some muscles. Here I thought the good guy always "
+"wins. Guess I was wrong."
+msgstr ""
+
+msgctxt "332_Man"
+msgid "Here, uh... this is for you. Please forgive me."
+msgstr ""
+
+msgctxt "344_Man"
+msgid "You got a lint-covered %s."
+msgstr ""
+
+msgctxt "392_Man"
+msgid "I'm through pickin' fights. It just ain't my style."
+msgstr ""
+
+msgctxt "404_Man"
+msgid "Never thought I'd wind up so black and blue."
+msgstr ""
+
+msgctxt "416_Man"
+msgid "Forgive me, won't you? I'm a changed man."
+msgstr ""

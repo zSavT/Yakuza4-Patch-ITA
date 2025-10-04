@@ -1,0 +1,370 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "588"
+msgid "You got a <Color:8>Ruby<Color:Default>."
+msgstr ""
+
+msgctxt "684"
+msgid "You gained 5,000 EXP."
+msgstr ""
+
+msgctxt "13288"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "13292"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "13296"
+msgid "Yanagi"
+msgstr ""
+
+msgctxt "13300"
+msgid "Mei Hua"
+msgstr ""
+
+msgctxt "13304"
+msgid "Young Man from Little Asia"
+msgstr ""
+
+msgctxt "13308"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "13312"
+msgid "Young Woman from Little Asia"
+msgstr ""
+
+msgctxt "13316"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "13320"
+msgid "Boy from Little Asia"
+msgstr ""
+
+msgctxt "13324"
+msgid "CheerRand"
+msgstr ""
+
+msgctxt "13328"
+msgid "Man from Little Asia"
+msgstr ""
+
+msgctxt "13332"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "13336"
+msgid "Woman from Little Asia"
+msgstr ""
+
+msgctxt "13340"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "13344"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13348"
+msgid "Zhao"
+msgstr ""
+
+msgctxt "13352"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "13356"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "13360"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13364"
+msgid "Yanagi's Underling"
+msgstr ""
+
+msgctxt "13368"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13372"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "13376"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13380"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "13384"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13388"
+msgid "0"
+msgstr ""
+
+msgctxt "13392"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "72_Tanimura"
+msgid "All right. Now give me the money."
+msgstr ""
+
+msgctxt "84_Yanagi"
+msgid "I'll never give it back! Not to a dirty scoundrel like you!"
+msgstr ""
+
+msgctxt "96_Mei Hua"
+msgid "Ma-chan!"
+msgstr ""
+
+msgctxt "108_Tanimura"
+msgid "Mei Hua! What are you doing here!?"
+msgstr ""
+
+msgctxt "120_Mei Hua"
+msgid ""
+"I was so worried, I just had to come and check on you!\r\n"
+"And it's not just me..."
+msgstr ""
+
+msgctxt "132_Tanimura"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "144_Young Man from Little Asia"
+msgid "You good, Tanimura!?"
+msgstr ""
+
+msgctxt "156_Young Woman from Little Asia"
+msgid "Ma-kun, please tell me you're okay!"
+msgstr ""
+
+msgctxt "168_Boy from Little Asia"
+msgid "We're here for you, big bro!"
+msgstr ""
+
+msgctxt "180_Man from Little Asia"
+msgid "Yeah, now step away from Ma-chan this instant!"
+msgstr ""
+
+msgctxt "192_Woman from Little Asia"
+msgid "You'd better not have hurt him!"
+msgstr ""
+
+msgctxt "204_Yanagi"
+msgid "Who are all these people...?"
+msgstr ""
+
+msgctxt "288_Yanagi"
+msgid "I apologize. It looks like I made a terrible mistake."
+msgstr ""
+
+msgctxt "300_Mei Hua"
+msgid ""
+"How could you believe some stupid rumors!? And you better apologize to my "
+"dad, too!"
+msgstr ""
+
+msgctxt "312_Yanagi"
+msgid "I... I'm sorry. Please forgive me, sir."
+msgstr ""
+
+msgctxt "324_Zhao"
+msgid "That's enough, Mei Hua. It looks like it was just a misunderstanding."
+msgstr ""
+
+msgctxt "336_Tanimura"
+msgid "Maybe, but he just called you a \"chubby old man\" a few minutes ago."
+msgstr ""
+
+msgctxt "348_Zhao"
+msgid "What!?"
+msgstr ""
+
+msgctxt "360_Mei Hua"
+msgid ""
+"But you were in the wrong, too, Ma-chan. You knew it was a misunderstanding "
+"right from the start. You should've talked it out instead of fighting."
+msgstr ""
+
+msgctxt "372_Tanimura"
+msgid "Yeah, I guess you're right... It's just that negotiating's such a hassle."
+msgstr ""
+
+msgctxt "384_Mei Hua"
+msgid "Oh, Ma-chan!"
+msgstr ""
+
+msgctxt "396_Tanimura"
+msgid "So, Yanagi."
+msgstr ""
+
+msgctxt "408_Yanagi"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "420_Tanimura"
+msgid "All that talk about helping the weak just now... Was that for real?"
+msgstr ""
+
+msgctxt "432_Yanagi's Underling"
+msgid "Of course! He's already helped out plenty of people in this town!"
+msgstr ""
+
+msgctxt "444_Yanagi's Underling"
+msgid "This time was a bit of a clusterfuck, though..."
+msgstr ""
+
+msgctxt "456_Zhao"
+msgid ""
+"All right, then. Starting today, you're going to be helping the Asian "
+"Gateway."
+msgstr ""
+
+msgctxt "468_Yanagi"
+msgid "What?"
+msgstr ""
+
+msgctxt "480_Zhao"
+msgid ""
+"I imagine that you've been using those same violent methods\r\n"
+"that you used today in order to help people, correct?"
+msgstr ""
+
+msgctxt "492_Zhao"
+msgid ""
+"That may be one way of doing things, but too many things\r\n"
+"could go wrong. I can't just sit by and watch that happen."
+msgstr ""
+
+msgctxt "504_Zhao"
+msgid ""
+"All in all, I do believe we have the same goal. So we should be working "
+"together, don't you think?"
+msgstr ""
+
+msgctxt "516_Yanagi"
+msgid "Will... you forgive us for what happened today?"
+msgstr ""
+
+msgctxt "528_Zhao"
+msgid ""
+"We're not the yakuza. As far as I'm concerned, what happened today is over "
+"and done with. So will you agree to help?"
+msgstr ""
+
+msgctxt "540_Yanagi"
+msgid "I'd be honored to."
+msgstr ""
+
+msgctxt "552_Mei Hua"
+msgid ""
+"Okay, then I'll teach you all about what the Asian Gateway does. From here "
+"on out, you'll be my official understudy!"
+msgstr ""
+
+msgctxt "564_Yanagi"
+msgid "Sure... Looking forward to it."
+msgstr ""
+
+msgctxt "576_Yanagi"
+msgid ""
+"Hey, I'm really sorry about today. Please take this\r\n"
+"as my apology to you."
+msgstr ""
+
+msgctxt "612_Mei Hua"
+msgid "Come on! We've got a lot of work to do!"
+msgstr ""
+
+msgctxt "624_Yanagi"
+msgid "Coming!"
+msgstr ""
+
+msgctxt "708_Yanagi"
+msgid "Ah. We've been waiting for you."
+msgstr ""
+
+msgctxt "720_Yanagi"
+msgid ""
+"So you're the Parasite of Kamurocho, huh... A real pleasure,\r\n"
+"meeting the most crooked cop in town."
+msgstr ""
+
+msgctxt "732_Tanimura"
+msgid "You the guys who attacked Homeland? Why did you do it?"
+msgstr ""
+
+msgctxt "744_Yanagi"
+msgid "\"Why?\" You've got some nerve to ask."
+msgstr ""
+
+msgctxt "756_Yanagi"
+msgid "Our mission is to punish people like you who prey on the weak."
+msgstr ""
+
+msgctxt "768_Yanagi"
+msgid ""
+"I've heard all sorts of things about you－how you extort piles of money from "
+"women who can't go to the cops, for instance."
+msgstr ""
+
+msgctxt "780_Yanagi"
+msgid "And I know you and that chubby old man are in on it together."
+msgstr ""
+
+msgctxt "792_Tanimura"
+msgid "...What do you intend to do with the money?"
+msgstr ""
+
+msgctxt "804_Yanagi"
+msgid ""
+"What else but return it to the good, honest people you stole it from? "
+"That's why we brought you here, so you can get to telling us their names."
+msgstr ""
+
+msgctxt "816_Yanagi"
+msgid ""
+"Oh, and we were thinking we should break one or both of your\r\n"
+"arms for good measure. Otherwise, you'd go right back at it."
+msgstr ""
+
+msgctxt "828_Tanimura"
+msgid "I see. So, is that all you had to say?"
+msgstr ""
+
+msgctxt "840_Yanagi"
+msgid "What!?"
+msgstr ""
+
+msgctxt "852_Tanimura"
+msgid "Just give me back the money already... You are done talking, right?"
+msgstr ""
+
+msgctxt "864_Yanagi"
+msgid ""
+"You little prick... You think this is some kind of game!?\r\n"
+"Looks like we're gonna be breaking more than just your arms!"
+msgstr ""

@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1456"
+msgid "Angry Student"
+msgstr ""
+
+msgctxt "1460"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1464"
+msgid "Terrified Student"
+msgstr ""
+
+msgctxt "1468"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1472"
+msgid "Trembling Student"
+msgstr ""
+
+msgctxt "1476"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "1480"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1484"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1488"
+msgid "0"
+msgstr ""
+
+msgctxt "84_Angry Student"
+msgid "Asshole nearly killed me!"
+msgstr ""
+
+msgctxt "96_Terrified Student"
+msgid ""
+"What was a taxi doing here, anyway? Thing was moving like a\r\n"
+"bat out of hell!"
+msgstr ""
+
+msgctxt "108_Akiyama"
+msgid "Hey, you got a second? I'd like to ask you about that taxi."
+msgstr ""
+
+msgctxt "120_Angry Student"
+msgid "What about it?"
+msgstr ""
+
+msgctxt "132_Akiyama"
+msgid "Did you see which way it was headed?"
+msgstr ""
+
+msgctxt "144_Trembling Student"
+msgid "I think toward the Hotel District. It sped off that way."
+msgstr ""
+
+msgctxt "156_Akiyama"
+msgid "Got it. Thanks!"
+msgstr ""

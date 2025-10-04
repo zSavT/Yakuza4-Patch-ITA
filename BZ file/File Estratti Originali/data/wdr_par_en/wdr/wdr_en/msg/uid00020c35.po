@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1900"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1904"
+msgid "Police Officer"
+msgstr ""
+
+msgctxt "1908"
+msgid "Talker_FRONT_1.2_ON"
+msgstr ""
+
+msgctxt "104_Saejima"
+msgid "(A cop... Can't afford to get caught right now. Better take a detour.)"
+msgstr ""
+
+msgctxt "128_Police Officer"
+msgid "Huh? You there! Halt!"
+msgstr ""
+
+msgctxt "140_Saejima"
+msgid "(Damn, I was spotted!)"
+msgstr ""
+
+msgctxt "152_Police Officer"
+msgid ""
+"We're currently on high alert for suspicious persons. Sorry, but we need "
+"you to come with us to the station."
+msgstr ""
+
+msgctxt "176_Saejima"
+msgid "(A cop... Can't afford to get caught right now. Better take a detour.)"
+msgstr ""
+
+msgctxt "200_Police Officer"
+msgid "Huh? You there! Halt!"
+msgstr ""
+
+msgctxt "212_Saejima"
+msgid "(Damn, I was spotted!)"
+msgstr ""
+
+msgctxt "224_Police Officer"
+msgid ""
+"We're currently on high alert for suspicious persons. Sorry, but we need "
+"you to come with us to the station."
+msgstr ""

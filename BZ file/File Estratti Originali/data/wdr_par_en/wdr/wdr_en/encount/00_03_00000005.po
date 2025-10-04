@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1412"
+msgid "Man"
+msgstr ""
+
+msgctxt "1416"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1420"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1424"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1428"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "88_Man"
+msgid "You're not one of us, are you? Then you better pay the toll."
+msgstr ""
+
+msgctxt "100_Man"
+msgid "No? I'll show you what happens to cheap bastards who don't pay!"
+msgstr ""
+
+msgctxt "124_Man"
+msgid "Ow, that hurt!"
+msgstr ""
+
+msgctxt "136_Man"
+msgid ""
+"P-Please! I made it up! There's no toll! I'm real sorry. Here, you can keep "
+"this, all right?"
+msgstr ""
+
+msgctxt "148_Man"
+msgid "You got a traditional %s."
+msgstr ""
+
+msgctxt "184_Man"
+msgid "There never was any toll. Sorry about that..."
+msgstr ""

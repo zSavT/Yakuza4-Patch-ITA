@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1276"
+msgid "Man"
+msgstr ""
+
+msgctxt "1280"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1284"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1288"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1292"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1296"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "88_Man"
+msgid "Yo, buddy. You tryin' to start somethin'?"
+msgstr ""
+
+msgctxt "100_Man"
+msgid ""
+"You should know better'n to saunter out in front of me when I'm in a bad "
+"mood!"
+msgstr ""
+
+msgctxt "124_Man"
+msgid "Sorry, sorry! Didn't mean to just attack you like that."
+msgstr ""
+
+msgctxt "136_Man"
+msgid "Maybe this'll make up for it."
+msgstr ""
+
+msgctxt "148_Man"
+msgid "You got a lucky %s."
+msgstr ""
+
+msgctxt "184_Man"
+msgid "Pardon me for bein' so rude before..."
+msgstr ""

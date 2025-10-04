@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "248"
+msgid "You gained 10,000 EXP.\t"
+msgstr ""
+
+msgctxt "2048"
+msgid "F_sxy_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "2052"
+msgid "P_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "2056"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2060"
+msgid "Noa"
+msgstr ""
+
+msgctxt "2064"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2068"
+msgid "P_aki_stand"
+msgstr ""
+
+msgctxt "2072"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2076"
+msgid "0"
+msgstr ""
+
+msgctxt "104_Akiyama"
+msgid "What're you doing?"
+msgstr ""
+
+msgctxt "116_Noa"
+msgid "Hm? Oh, I was just checking to see if they were still following me."
+msgstr ""
+
+msgctxt "128_Akiyama"
+msgid "I don't think you have to worry about that."
+msgstr ""
+
+msgctxt "140_Noa"
+msgid "Aw... I wanted them to see how in love we are!"
+msgstr ""
+
+msgctxt "152_Akiyama"
+msgid "Give me a break..."
+msgstr ""
+
+msgctxt "164_Noa"
+msgid "Hahaha!"
+msgstr ""
+
+msgctxt "176_Noa"
+msgid ""
+"Thank you for everything. I love you. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""

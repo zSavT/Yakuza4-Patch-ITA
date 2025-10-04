@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "600"
+msgid "Welcome to the baccarat table."
+msgstr ""
+
+msgctxt "612"
+msgid "Let's begin."
+msgstr ""
+
+msgctxt "624"
+msgid "We look forward to seeing you again soon."
+msgstr ""
+
+msgctxt "636"
+msgid "You seem to be short on chips. Please come visit us again soon."
+msgstr ""
+
+msgctxt "648"
+msgid ""
+"Please select what you will bet on:\r\n"
+"the Player, the Banker, or a tie."
+msgstr ""
+
+msgctxt "660"
+msgid "Select a wager between the minimum and maximum betting limit."
+msgstr ""
+
+msgctxt "672"
+msgid "I will now deal the cards."
+msgstr ""
+
+msgctxt "684"
+msgid "I'll reveal the Player's first card."
+msgstr ""
+
+msgctxt "696"
+msgid "I'll reveal the Player's second card."
+msgstr ""
+
+msgctxt "708"
+msgid "The Player stands with 6."
+msgstr ""
+
+msgctxt "720"
+msgid "The Player stands with 7."
+msgstr ""
+
+msgctxt "732"
+msgid "The Player has a natural 8."
+msgstr ""
+
+msgctxt "744"
+msgid "The Player has a natural 9."
+msgstr ""
+
+msgctxt "756"
+msgid ""
+"A third card will be dealt if the Banker does\r\n"
+"not have an 8 or a 9."
+msgstr ""
+
+msgctxt "768"
+msgid "I'll reveal the Banker's first card."
+msgstr ""
+
+msgctxt "780"
+msgid "I'll reveal the Banker's second card."
+msgstr ""
+
+msgctxt "792"
+msgid "The Banker stands with 6."
+msgstr ""
+
+msgctxt "804"
+msgid ""
+"The Banker stands with 6.\r\n"
+"I'll deal a third card to the Player."
+msgstr ""
+
+msgctxt "816"
+msgid "The Banker stands with 7."
+msgstr ""
+
+msgctxt "828"
+msgid ""
+"The Banker stands with 7.\r\n"
+"I'll deal a third card to the Player."
+msgstr ""
+
+msgctxt "840"
+msgid "The Banker has a natural 8."
+msgstr ""
+
+msgctxt "852"
+msgid "The Banker has a natural 9."
+msgstr ""
+
+msgctxt "864"
+msgid ""
+"A third card will be dealt to the Banker, depending on the Player's third "
+"card."
+msgstr ""
+
+msgctxt "876"
+msgid ""
+"The Player stands.\r\n"
+"I'll deal a third card to the Banker."
+msgstr ""
+
+msgctxt "888"
+msgid "I'll reveal the Player's third card."
+msgstr ""
+
+msgctxt "900"
+msgid "Due to the outcome, the Banker will not be dealt a third card."
+msgstr ""
+
+msgctxt "912"
+msgid "Due to the outcome, the Banker will be dealt a third card."
+msgstr ""
+
+msgctxt "924"
+msgid "I'll reveal the Banker's third card."
+msgstr ""
+
+msgctxt "936"
+msgid "The Player wins."
+msgstr ""
+
+msgctxt "948"
+msgid "The Banker wins."
+msgstr ""
+
+msgctxt "960"
+msgid "It's a tie."
+msgstr ""
+
+msgctxt "972"
+msgid "Congratulations."
+msgstr ""
+
+msgctxt "984"
+msgid "That's too bad."
+msgstr ""
+
+msgctxt "996"
+msgid "Would you like to continue?"
+msgstr ""
+
+msgctxt "1008"
+msgid "Here you are."
+msgstr ""
+
+msgctxt "1020"
+msgid "The deck is running low, so I'll shuffle."
+msgstr ""

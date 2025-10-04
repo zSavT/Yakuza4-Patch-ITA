@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "13604"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "13608"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "13612"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13616"
+msgid "P_sitgrd_tlk_agura_kamae_ed"
+msgstr ""
+
+msgctxt "13620"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "13624"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13628"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "13632"
+msgid "P_sae_sitgrd_tlk_bed_st"
+msgstr ""
+
+msgctxt "84_Kiryu"
+msgid "How is he?"
+msgstr ""
+
+msgctxt "96_Haruka"
+msgid "Not good. It looks like he's been having nightmares."
+msgstr ""
+
+msgctxt "108_Kiryu"
+msgid "Right... The doctor said he's exhausted. Probably malnourished, too."
+msgstr ""
+
+msgctxt "120_Haruka"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "132_Kiryu"
+msgid "You're worried about him, aren't you? I can tell."
+msgstr ""
+
+msgctxt "144_Haruka"
+msgid "Yeah. That, and..."
+msgstr ""
+
+msgctxt "156_Kiryu"
+msgid "You're still thinking about what he said on the beach."
+msgstr ""
+
+msgctxt "168_Haruka"
+msgid "Uh-huh."
+msgstr ""
+
+msgctxt "180_Kiryu"
+msgid "What about it?"
+msgstr ""
+
+msgctxt "192_Haruka"
+msgid "That \"Hamazaki\" he mentioned... That's the guy who stabbed you last year."
+msgstr ""
+
+msgctxt "204_Haruka"
+msgid ""
+"I'd never forget that name. And I can't trust someone who says they're "
+"friends with him."
+msgstr ""
+
+msgctxt "216_Kiryu"
+msgid "Believe me, I know how you feel."
+msgstr ""
+
+msgctxt "228_Haruka"
+msgid "If he's really friends with Hamazaki, I... I..."
+msgstr ""
+
+msgctxt "240_Kiryu"
+msgid "Hate him?"
+msgstr ""
+
+msgctxt "252_Haruka"
+msgid "I... don't know."
+msgstr ""
+
+msgctxt "264_Kiryu"
+msgid "Listen, Haruka."
+msgstr ""
+
+msgctxt "276_Kiryu"
+msgid ""
+"Even if he does know Hamazaki, that doesn't automatically mean he's a bad "
+"person."
+msgstr ""
+
+msgctxt "288_Haruka"
+msgid "But－"
+msgstr ""
+
+msgctxt "300_Kiryu"
+msgid ""
+"Sure, Hamazaki was a bit unhinged the last time we met. But a lot can "
+"change in a year."
+msgstr ""
+
+msgctxt "312_Kiryu"
+msgid ""
+"When he lost the fight for the Tojo Clan, he lost the only thing that "
+"<Italic>meant</Italic> something to him. I was probably the only one he "
+"could take his anger out on."
+msgstr ""
+
+msgctxt "324_Haruka"
+msgid "Maybe..."
+msgstr ""
+
+msgctxt "336_Kiryu"
+msgid ""
+"If Hamazaki came to me now asking for help, I'd give it to him in a "
+"heartbeat."
+msgstr ""
+
+msgctxt "348_Kiryu"
+msgid "As long as he's learned to have some faith in his fellow man, that is."
+msgstr ""
+
+msgctxt "360_Haruka"
+msgid "Uncle Kaz..."
+msgstr ""
+
+msgctxt "384_Kiryu"
+msgid "So, what do you say, Haruka?"
+msgstr ""
+
+msgctxt "396_Haruka"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "408_Kiryu"
+msgid "Do you really think he's a bad guy just because he knows Hamazaki?"
+msgstr ""
+
+msgctxt "420_Haruka"
+msgid "I don't know <Italic>what</Italic> I think..."
+msgstr ""
+
+msgctxt "432_Kiryu"
+msgid "He's a yakuza, no question. The tattoo's a dead giveaway."
+msgstr ""
+
+msgctxt "444_Kiryu"
+msgid "But I have one of those too. He and I aren't so different in that respect."
+msgstr ""
+
+msgctxt "456_Haruka"
+msgid "Yeah, but..."
+msgstr ""
+
+msgctxt "468_Kiryu"
+msgid "You've seen plenty of men like us over the years. Some good, some bad."
+msgstr ""
+
+msgctxt "480_Kiryu"
+msgid "Where do you think he falls on that spectrum?"
+msgstr ""
+
+msgctxt "492_Haruka"
+msgid "Well, if I had to pick... I don't think he's a bad person."
+msgstr ""
+
+msgctxt "504_Kiryu"
+msgid "Yeah?"
+msgstr ""
+
+msgctxt "516_Haruka"
+msgid "But I can't say for sure. That's just the impression I get."
+msgstr ""
+
+msgctxt "528_Kiryu"
+msgid "All right, then. Good to know."
+msgstr ""
+
+msgctxt "540_Haruka"
+msgid "Huh? Are you going somewhere?"
+msgstr ""
+
+msgctxt "552_Kiryu"
+msgid "I have some shopping to do."
+msgstr ""
+
+msgctxt "564_Haruka"
+msgid "Right now?"
+msgstr ""
+
+msgctxt "576_Kiryu"
+msgid "Yeah. He'll need a nice meal when he comes to."
+msgstr ""
+
+msgctxt "588_Kiryu"
+msgid "The doctor said he hasn't been eating very well, after all."
+msgstr ""
+
+msgctxt "600_Haruka"
+msgid "But aren't all the stores closed by now?"
+msgstr ""
+
+msgctxt "612_Kiryu"
+msgid "Don't worry, I'm sure somewhere in town will still be open."
+msgstr ""
+
+msgctxt "624_Haruka"
+msgid "Maybe, but..."
+msgstr ""
+
+msgctxt "636_Kiryu"
+msgid "What's wrong? Are you worried about being left alone with him?"
+msgstr ""
+
+msgctxt "648_Haruka"
+msgid "No, it's not that. It's just..."
+msgstr ""
+
+msgctxt "660_Kiryu"
+msgid "Relax. He's not going to hurt you. That's not the kind of man he is."
+msgstr ""
+
+msgctxt "672_Haruka"
+msgid "...Okay."
+msgstr ""
+
+msgctxt "684_Kiryu"
+msgid "Well, I should be going. I won't be gone long."
+msgstr ""
+
+msgctxt "708_Haruka"
+msgid "Please wake up, mister..."
+msgstr ""
+
+msgctxt "720_Haruka"
+msgid "Oh, he's opening his eyes!"
+msgstr ""
+
+msgctxt "732_Saejima"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "744_Haruka"
+msgid "I'm so glad you're okay!"
+msgstr ""
+
+msgctxt "756_Saejima"
+msgid "Huh? Where... am I?"
+msgstr ""
+
+msgctxt "768_Haruka"
+msgid ""
+"This is Morning Glory Orphanage. We have lots of kids, but this is the "
+"first time we've taken in an adult."
+msgstr ""
+
+msgctxt "780_Saejima"
+msgid "An orphanage?"
+msgstr ""
+
+msgctxt "792_Haruka"
+msgid "Phew, I'm so glad you're okay, mister."
+msgstr ""
+
+msgctxt "804_Haruka"
+msgid "I was worried you were dead when I found you down on the beach..."
+msgstr ""
+
+msgctxt "816_Saejima"
+msgid "Beach? What beach?"
+msgstr ""
+
+msgctxt "840_Saejima"
+msgid "...Right. Must've washed up here."
+msgstr ""
+
+msgctxt "852_Haruka"
+msgid "Are you sure you're okay, mister?"
+msgstr ""
+
+msgctxt "864_Saejima"
+msgid "Think so."
+msgstr ""
+
+msgctxt "876_Haruka"
+msgid "My Uncle Kaz should be back any minute now."
+msgstr ""
+
+msgctxt "888_Haruka"
+msgid ""
+"He thought you might've been shipwrecked, so he's checking in with the "
+"police. Don't worry, everything's gonna be okay."
+msgstr ""
+
+msgctxt "900_Saejima"
+msgid "The cops!?"
+msgstr ""

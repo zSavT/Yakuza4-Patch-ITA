@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "3384"
+msgid "Player"
+msgstr ""
+
+msgctxt "3388"
+msgid "Taxi Driver"
+msgstr ""
+
+msgctxt "3392"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "112_Player"
+msgid "(I seriously don't have 710 yen for a taxi...?)"
+msgstr ""
+
+msgctxt "124_Taxi Driver"
+msgid "The minimum fare is 710 yen. Where would you like to go?"
+msgstr ""
+
+msgctxt "160_Tanimura"
+msgid ""
+"(There's no way I can avoid fighting. Should I get more prepared before I "
+"go?)"
+msgstr ""
+
+msgctxt "172_Tanimura"
+msgid "(I'll come back when I'm better prepared...)"
+msgstr ""
+
+msgctxt "184_Taxi Driver"
+msgid "Very well, sir."
+msgstr ""
+
+msgctxt "244_Taxi Driver"
+msgid "Very well, sir."
+msgstr ""
+
+msgctxt "304_Taxi Driver"
+msgid "I'm afraid you don't have enough money, sir. Please come again when you do."
+msgstr ""
+
+msgctxt "316_Taxi Driver"
+msgid "Very well, sir."
+msgstr ""
+
+msgctxt "400_Taxi Driver"
+msgid "Please come again soon."
+msgstr ""
+
+msgctxt "412_Player"
+msgid "Prepare a Little More"
+msgstr ""
+
+msgctxt "424_Player"
+msgid "Go Now"
+msgstr ""

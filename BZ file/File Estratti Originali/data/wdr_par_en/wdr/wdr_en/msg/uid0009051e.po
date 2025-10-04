@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2356"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "2360"
+msgid "Client"
+msgstr ""
+
+msgctxt "2364"
+msgid "Talk_Tabako_ed"
+msgstr ""
+
+msgctxt "2368"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2372"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "2376"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2380"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "68_Saejima"
+msgid "Gettin' close to the dropoff spot. Almost there, pal. Buck up."
+msgstr ""
+
+msgctxt "80_Client"
+msgid "Really? Just a little farther..."
+msgstr ""
+
+msgctxt "92_Saejima"
+msgid "I know I ain't s'posed to ask, but what'd you do, anyway?"
+msgstr ""
+
+msgctxt "104_Saejima"
+msgid "Frankly, ya don't look like a guy worth puttin' a hit on."
+msgstr ""
+
+msgctxt "116_Client"
+msgid "I can't tell you. It would invalidate my contract..."
+msgstr ""
+
+msgctxt "128_Saejima"
+msgid "Con... what?"
+msgstr ""
+
+msgctxt "164_Saejima"
+msgid "Dammit, another one. You be a good boy and stay outta the way!"
+msgstr ""
+
+msgctxt "176_Client"
+msgid "Yikes! I don't wanna die! Please, save me!"
+msgstr ""
+
+msgctxt "188_Saejima"
+msgid "I got this. Alright, bring it!"
+msgstr ""

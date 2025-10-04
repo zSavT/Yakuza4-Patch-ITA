@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2316"
+msgid "Yasu"
+msgstr ""
+
+msgctxt "2320"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2324"
+msgid "Employee"
+msgstr ""
+
+msgctxt "2328"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2332"
+msgid "M_nml_stand_tlk_surp"
+msgstr ""
+
+msgctxt "2336"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2340"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "2344"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2348"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "2352"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "2356"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2360"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "2364"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2368"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "56_Yasu"
+msgid ""
+"Um... I'd like to buy back that guitar I just pawned. I'll give you back "
+"the money you gave me."
+msgstr ""
+
+msgctxt "68_Employee"
+msgid "All right. With interest, it's 250,000 yen."
+msgstr ""
+
+msgctxt "80_Yasu"
+msgid "What!? I just sold it to you! Why do I have to pay interest!?"
+msgstr ""
+
+msgctxt "92_Employee"
+msgid "It's our store's policy, I'm afraid."
+msgstr ""
+
+msgctxt "104_Yasu"
+msgid "That's ridiculous! I don't have that kinda cash!"
+msgstr ""
+
+msgctxt "116_Kiryu"
+msgid "That's a pretty nice watch you have there."
+msgstr ""
+
+msgctxt "140_Yasu"
+msgid "What!? I ain't pawning my watch!"
+msgstr ""
+
+msgctxt "152_Kiryu"
+msgid "Seems you haven't learned your lesson yet then."
+msgstr ""
+
+msgctxt "164_Kiryu"
+msgid "I'm sure you bought it with stolen money anyway, right?"
+msgstr ""
+
+msgctxt "176_Yasu"
+msgid "Okay, okay! Damn it... This was expensive..."
+msgstr ""
+
+msgctxt "188_Kiryu"
+msgid "I'd better not catch you pulling this kind of stunt again."
+msgstr ""

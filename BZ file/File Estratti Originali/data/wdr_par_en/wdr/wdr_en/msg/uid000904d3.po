@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "8532"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8536"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "8540"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "8544"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8548"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "8552"
+msgid "Talk_Get"
+msgstr ""
+
+msgctxt "8556"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "8560"
+msgid "P_tan_stand"
+msgstr ""
+
+msgctxt "8564"
+msgid "P_tan_stand_tlk_letter"
+msgstr ""
+
+msgctxt "8568"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "8572"
+msgid "P_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "8576"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "8580"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8584"
+msgid "P_sae_stand"
+msgstr ""
+
+msgctxt "8588"
+msgid "P_sae_sitsofa_tlk_kamae_ed"
+msgstr ""
+
+msgctxt "8592"
+msgid "P_sae_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "8596"
+msgid "P_aki_stand"
+msgstr ""
+
+msgctxt "8600"
+msgid "P_aki_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "8604"
+msgid "P_aki_sitsofa_tlk_kamae_ed"
+msgstr ""
+
+msgctxt "8608"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8612"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "92_Kiryu"
+msgid "How's it going? You guys certainly look quite at home."
+msgstr ""
+
+msgctxt "104_Akiyama"
+msgid ""
+"Oh, you're back. I'm just taking a break. Had to tie up a few loose ends "
+"around the office."
+msgstr ""
+
+msgctxt "116_Saejima"
+msgid "I just finished some business of my own too."
+msgstr ""
+
+msgctxt "128_Kiryu"
+msgid ""
+"I see. Well, there were a few old friends I had to catch up with, but I'm "
+"about done as well."
+msgstr ""
+
+msgctxt "140_Tanimura"
+msgid "Oh, Kiryu-san, there you are. Glad I caught you."
+msgstr ""
+
+msgctxt "164_Kiryu"
+msgid "What's up?"
+msgstr ""
+
+msgctxt "176_Tanimura"
+msgid ""
+"Some guy in a suit and sunglasses asked me to deliver this to you "
+"personally."
+msgstr ""
+
+msgctxt "188_Kiryu"
+msgid "Really now? Let's see... A letter, huh?"
+msgstr ""
+
+msgctxt "224_Kiryu"
+msgid "Huh!? It can't be..."
+msgstr ""
+
+msgctxt "236_Akiyama"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "260_Kiryu"
+msgid "Amon. He's back."
+msgstr ""
+
+msgctxt "272_Saejima"
+msgid "Amon? Who the hell's that?"
+msgstr ""
+
+msgctxt "284_Kiryu"
+msgid ""
+"An extremely skilled and deadly assassin. He's been on my tail for a few "
+"years now."
+msgstr ""
+
+msgctxt "296_Kiryu"
+msgid ""
+"It says to come to the arena at the edge of town. Looks like I'm being "
+"called out."
+msgstr ""
+
+msgctxt "332_Akiyama"
+msgid ""
+"Some kinda stone-cold killer, huh? You probably ought to lay low and avoid "
+"this one. Got anywhere you can hide out?"
+msgstr ""
+
+msgctxt "344_Kiryu"
+msgid "No, we have a history together. I've fought Amon three times before."
+msgstr ""
+
+msgctxt "356_Kiryu"
+msgid ""
+"Besides, I couldn't run from him if I tried. I have no choice, I need to "
+"end this."
+msgstr ""
+
+msgctxt "368_Saejima"
+msgid "Hmph. This guy sounds like a real badass."
+msgstr ""
+
+msgctxt "380_Saejima"
+msgid "I'll go along for the ride."
+msgstr ""
+
+msgctxt "416_Akiyama"
+msgid "Good idea. I'll go, too. I figure I can lend a hand."
+msgstr ""
+
+msgctxt "428_Kiryu"
+msgid "No, this is between me and him. I appreciate it, but I'll do this alone."
+msgstr ""
+
+msgctxt "440_Akiyama"
+msgid "You sure?"
+msgstr ""
+
+msgctxt "452_Kiryu"
+msgid "Yeah, sorry."
+msgstr ""
+
+msgctxt "500_Akiyama"
+msgid "Well, if you say so..."
+msgstr ""
+
+msgctxt "512_Akiyama"
+msgid "Guess we hold down the fort, Saejima-san?"
+msgstr ""
+
+msgctxt "524_Saejima"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "536_Tanimura"
+msgid "......"
+msgstr ""

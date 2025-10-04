@@ -1,0 +1,400 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "15108"
+msgid "Street Punk"
+msgstr ""
+
+msgctxt "15112"
+msgid "M_ykzs_damage_tlk_no"
+msgstr ""
+
+msgctxt "15116"
+msgid "Kotaro"
+msgstr ""
+
+msgctxt "15120"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "15124"
+msgid "Other Street Punks"
+msgstr ""
+
+msgctxt "15128"
+msgid "M_ykz_damage_tlk_no"
+msgstr ""
+
+msgctxt "15132"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "15136"
+msgid "Okonomiyaki Store Manager"
+msgstr ""
+
+msgctxt "15140"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "15144"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "15148"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "15152"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "15156"
+msgid "M_yng_sitchr"
+msgstr ""
+
+msgctxt "15160"
+msgid "M_yng_sitchr_tlk_kamae"
+msgstr ""
+
+msgctxt "15164"
+msgid "M_yng_sitchr_tlk_no"
+msgstr ""
+
+msgctxt "15168"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "15172"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "15176"
+msgid "M_yng_stand"
+msgstr ""
+
+msgctxt "15180"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "15184"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "15188"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "15192"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "15196"
+msgid "0"
+msgstr ""
+
+msgctxt "15200"
+msgid "P_sitchr"
+msgstr ""
+
+msgctxt "15204"
+msgid "P_sitchr_tlk_kamae"
+msgstr ""
+
+msgctxt "15208"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "15212"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "15216"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "15220"
+msgid "P_sitchr_tlk_kamae_ed"
+msgstr ""
+
+msgctxt "15224"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "15228"
+msgid "dummy"
+msgstr ""
+
+msgctxt "15232"
+msgid "Other Street Punk"
+msgstr ""
+
+msgctxt "15236"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "188_Street Punk"
+msgid "Son of a... Who the hell are you two!?"
+msgstr ""
+
+msgctxt "200_Kotaro"
+msgid "I'm the ultimate busboy! In your <Italic>face</Italic>!"
+msgstr ""
+
+msgctxt "212_Other Street Punks"
+msgid "Just you wait! We'll get you!"
+msgstr ""
+
+msgctxt "236_Kotaro"
+msgid ""
+"Whew! Doing a good deed always gives you a warm feeling down deep in your "
+"heart, don't it?"
+msgstr ""
+
+msgctxt "248_Kotaro"
+msgid "Well, better get back to work."
+msgstr ""
+
+msgctxt "272_Okonomiyaki Store Manager"
+msgid "Sorry, but you're fired."
+msgstr ""
+
+msgctxt "284_Kotaro"
+msgid "What!? But why!?"
+msgstr ""
+
+msgctxt "296_Okonomiyaki Store Manager"
+msgid ""
+"Why!? Not only did you talk back to customers, you got into a street fight "
+"with them!"
+msgstr ""
+
+msgctxt "308_Okonomiyaki Store Manager"
+msgid "Sorry. There's no way I can let you work here. Please don't come back."
+msgstr ""
+
+msgctxt "380_Kotaro"
+msgid "I got fired again!? What am I doin' wrong?"
+msgstr ""
+
+msgctxt "392_Kiryu"
+msgid "Judging from what I just saw? A lot."
+msgstr ""
+
+msgctxt "404_Kiryu"
+msgid "Look, why don't you try and explain to me what happened?"
+msgstr ""
+
+msgctxt "416_Kotaro"
+msgid "Okay. Let's see..."
+msgstr ""
+
+msgctxt "488_Street Punk"
+msgid "Whaddya mean, you're packed!? We're starving!"
+msgstr ""
+
+msgctxt "500_Kotaro"
+msgid ""
+"I mean, there's no room for ya! We ain't got no seats left! What do you "
+"want me to say?"
+msgstr ""
+
+msgctxt "512_Other Street Punks"
+msgid "You sure got a funny way of talking to customers!"
+msgstr ""
+
+msgctxt "524_Street Punk"
+msgid "And what the hell is that back there, then!? Those seats are open!"
+msgstr ""
+
+msgctxt "536_Kotaro"
+msgid "They're reserved!"
+msgstr ""
+
+msgctxt "548_Street Punk"
+msgid "Reserved!? Like we give a shit! You got open seats, we're taking 'em!"
+msgstr ""
+
+msgctxt "560_Kotaro"
+msgid ""
+"The hell you are! If you wanna eat, wait like everybody else! Don't wanna "
+"wait? Then take a hike!"
+msgstr ""
+
+msgctxt "572_Street Punk"
+msgid "What the hell did you say, boy!? That the way you talk to paying customers!?"
+msgstr ""
+
+msgctxt "656_Kiryu"
+msgid "All right. I think I get it now."
+msgstr ""
+
+msgctxt "668_Kotaro"
+msgid "What did I say that was wrong?"
+msgstr ""
+
+msgctxt "680_Kiryu"
+msgid "It's not what you said."
+msgstr ""
+
+msgctxt "692_Kiryu"
+msgid ""
+"It's the way you said it. If you're an employee, then you've got to know "
+"how to act like one."
+msgstr ""
+
+msgctxt "704_Kotaro"
+msgid "Act like an employee? What's that mean?"
+msgstr ""
+
+msgctxt "716_Kiryu"
+msgid "Well, when you go eat out at a restaurant, all the staff are polite, right?"
+msgstr ""
+
+msgctxt "728_Kotaro"
+msgid "Yeah, that's true. They bow and smile and all that crap."
+msgstr ""
+
+msgctxt "740_Kotaro"
+msgid ""
+"What the hell is that about, anyway? Being a customer doesn't make you a "
+"god or something."
+msgstr ""
+
+msgctxt "752_Kiryu"
+msgid ""
+"That's not why employees are polite. It's because they want the customer to "
+"enjoy the time they spend at their restaurant."
+msgstr ""
+
+msgctxt "764_Kiryu"
+msgid ""
+"Sure, some customers act like jerks, but you've still gotta show them the "
+"same polite service. That's all part of the job."
+msgstr ""
+
+msgctxt "776_Kiryu"
+msgid ""
+"You can't be arguing with the customers, and you sure as hell can't get in "
+"fights with them."
+msgstr ""
+
+msgctxt "788_Kotaro"
+msgid "Okay... I don't really get it, but fine."
+msgstr ""
+
+msgctxt "800_Kotaro"
+msgid "It ain't exactly my strong suit, but I'll try being polite from now on!"
+msgstr ""
+
+msgctxt "812_Kotaro"
+msgid "Oh, and I won't punch my customers anymore, either. That much I promise!"
+msgstr ""
+
+msgctxt "824_Kiryu"
+msgid "Good. Don't you forget it."
+msgstr ""
+
+msgctxt "836_Kotaro"
+msgid "You got it! With that settled, I better start looking for another job!"
+msgstr ""
+
+msgctxt "848_Kotaro"
+msgid "Thanks, Kiryu-san! I'll let you know when I land something good!"
+msgstr ""
+
+msgctxt "932_Street Punk"
+msgid "What the hell did you say, boy!? That the way you talk to paying customers!?"
+msgstr ""
+
+msgctxt "944_Kotaro"
+msgid "That's the way I talk to anybody who acts like a dick, ya dick!"
+msgstr ""
+
+msgctxt "956_Kiryu"
+msgid "(That's Kotaro. Don't tell me he's getting into trouble at work again.)"
+msgstr ""
+
+msgctxt "968_Kiryu"
+msgid "(I'm kind of worried about him. Maybe I should step in?)"
+msgstr ""
+
+msgctxt "980_Kiryu"
+msgid "(He's not a little kid anymore. He needs to learn how to fend for himself.)"
+msgstr ""
+
+msgctxt "992_Kiryu"
+msgid "Hey, Kotaro. What's all this about?"
+msgstr ""
+
+msgctxt "1004_Kotaro"
+msgid "Kiryu-san! I'm, uh, just a little busy right now. Can it wait?"
+msgstr ""
+
+msgctxt "1016_Kiryu"
+msgid "What do you mean, busy? Aren't these guys your customers?"
+msgstr ""
+
+msgctxt "1028_Street Punk"
+msgid ""
+"Yeah, we <Italic>are</Italic> customers! You responsible for this kid? "
+"Where'd he learn his manners!?"
+msgstr ""
+
+msgctxt "1040_Kotaro"
+msgid "Leave Kiryu-san out of this, jackass!"
+msgstr ""
+
+msgctxt "1052_Street Punk"
+msgid "Jackass!? Who the hell you think you are, ya little brat!?"
+msgstr ""
+
+msgctxt "1064_Other Street Punk"
+msgid ""
+"Yeah, we'll see who the jackass is! You ready to get your teeth knocked in, "
+"busboy!?"
+msgstr ""
+
+msgctxt "1076_Kiryu"
+msgid ""
+"Come on, enough already. No need to keep this up out here. You're creating "
+"a public disturbance."
+msgstr ""
+
+msgctxt "1088_Street Punk"
+msgid ""
+"Put a sock in it, pops! If you're a friend of this kid, then we oughta "
+"teach you some respect, too!"
+msgstr ""
+
+msgctxt "1100_Other Street Punk"
+msgid ""
+"I don't know what kind of disco reject you're supposed to be, but you're "
+"both in for a beating!"
+msgstr ""
+
+msgctxt "1124_Street Punk"
+msgid "Break Things Up"
+msgstr ""
+
+msgctxt "1136_Street Punk"
+msgid "Don't Get Involved"
+msgstr ""
+
+msgctxt "1148_Street Punk"
+msgid "Break Things Up"
+msgstr ""
+
+msgctxt "1160_Street Punk"
+msgid "Don't Get Involved"
+msgstr ""

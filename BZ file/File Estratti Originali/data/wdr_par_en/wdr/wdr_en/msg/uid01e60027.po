@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2000"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "2004"
+msgid "Rio"
+msgstr ""
+
+msgctxt "2008"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2012"
+msgid "Talk_Phone_ed"
+msgstr ""
+
+msgctxt "2016"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2020"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "92_Rio"
+msgid "Akiyama-san? This is Rio! I need to talk to you!"
+msgstr ""
+
+msgctxt "104_Rio"
+msgid "That photographer called. The president of the agency wants to meet me!"
+msgstr ""
+
+msgctxt "116_Akiyama"
+msgid "That's kinda sudden... What was the agency called again?"
+msgstr ""
+
+msgctxt "128_Rio"
+msgid "Shino Productions. Have you heard of it?"
+msgstr ""
+
+msgctxt "140_Akiyama"
+msgid "Never heard of it."
+msgstr ""
+
+msgctxt "152_Rio"
+msgid ""
+"I'm going to their office to see what the president has to say before "
+"making my decision."
+msgstr ""
+
+msgctxt "164_Akiyama"
+msgid "Makes sense. Good luck!"
+msgstr ""
+
+msgctxt "176_Rio"
+msgid "Thanks!"
+msgstr ""
+
+msgctxt "236_Talk_Phone_st"
+msgid ""
+"(Shino Productions, huh? The <Color:7>manager over at Asia<Color:Default> "
+"knows a lot about this kind of thing. I should ask him about it.)"
+msgstr ""

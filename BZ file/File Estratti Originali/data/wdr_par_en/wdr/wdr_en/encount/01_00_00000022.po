@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1440"
+msgid "Man"
+msgstr ""
+
+msgctxt "1444"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1448"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1452"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1456"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "116_Man"
+msgid ""
+"Boy, you sure are lucky! After all, you met me, didn't you? So how about a "
+"little drinking money for your pal here, hmm?"
+msgstr ""
+
+msgctxt "128_Man"
+msgid "Now hand over the money!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "I give up. I shouldn't have picked that fight."
+msgstr ""
+
+msgctxt "164_Man"
+msgid "Here, take this－and please cut me some slack."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a pretty cool %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "I'll be good from now on, I swear."
+msgstr ""

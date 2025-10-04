@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "5468"
+msgid "Loan Shark"
+msgstr ""
+
+msgctxt "5472"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "5476"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "5480"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "5484"
+msgid "Shoko"
+msgstr ""
+
+msgctxt "5488"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5492"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "5496"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5500"
+msgid "0"
+msgstr ""
+
+msgctxt "5504"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "56_Loan Shark"
+msgid "What the fuck are you...?"
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid "Ah, sorry, I should've told you. I'm stronger than I look."
+msgstr ""
+
+msgctxt "80_Loan Shark"
+msgid "Dammit! You'll pay for this!"
+msgstr ""
+
+msgctxt "128_Akiyama"
+msgid ""
+"Never heard that one before... Do people really still talk\r\n"
+"like that?"
+msgstr ""
+
+msgctxt "140_Akiyama"
+msgid "(Okay, time to see how Shoko-san's doing.)"
+msgstr ""
+
+msgctxt "200_Shoko"
+msgid "Akiyama-san? What are you doing here?"
+msgstr ""
+
+msgctxt "212_Akiyama"
+msgid "Oh, er..."
+msgstr ""
+
+msgctxt "224_Shoko"
+msgid "Wait a minute. Have you been following me?"
+msgstr ""
+
+msgctxt "236_Akiyama"
+msgid ""
+"No, I was just in the neighborhood collecting a debt. What\r\n"
+"have you been up to?"
+msgstr ""
+
+msgctxt "248_Shoko"
+msgid ""
+"Me...? That doesn't really matter, does it? It has nothing\r\n"
+"to do with you, after all."
+msgstr ""
+
+msgctxt "272_Akiyama"
+msgid ""
+"Fair enough. By the way, did you figure out how to spend\r\n"
+"that million yen yet?"
+msgstr ""
+
+msgctxt "284_Shoko"
+msgid "No, not yet... Why? Are you curious?"
+msgstr ""
+
+msgctxt "296_Akiyama"
+msgid ""
+"Not especially. I mean, I gave you that money. It's yours to\r\n"
+"do with as you please."
+msgstr ""
+
+msgctxt "308_Shoko"
+msgid ""
+"Yes, well... I have someplace else I'd like to go, so if\r\n"
+"you'll excuse me..."
+msgstr ""
+
+msgctxt "332_Akiyama"
+msgid "(Someplace else she'd like to go? Where's she headed now?)"
+msgstr ""
+
+msgctxt "392_Akiyama"
+msgid "Fair enough. By the way, did you spend that million yen yet?"
+msgstr ""
+
+msgctxt "404_Shoko"
+msgid "I've decided how I'll use it."
+msgstr ""
+
+msgctxt "416_Akiyama"
+msgid ""
+"Is that so? Well then, I'll await your decision back at Sky\r\n"
+"Finance."
+msgstr ""
+
+msgctxt "428_Shoko"
+msgid "All right. I'll come by later."
+msgstr ""
+
+msgctxt "440_Akiyama"
+msgid "Sounds good. I'll see you there."
+msgstr ""

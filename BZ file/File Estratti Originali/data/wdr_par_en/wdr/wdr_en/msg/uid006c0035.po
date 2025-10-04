@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "412"
+msgid "Error."
+msgstr ""
+
+msgctxt "6176"
+msgid "Attendant"
+msgstr ""
+
+msgctxt "6180"
+msgid "M_shp_stand_tlk_ojigi"
+msgstr ""
+
+msgctxt "6184"
+msgid "Player"
+msgstr ""
+
+msgctxt "6188"
+msgid "Waiter"
+msgstr ""
+
+msgctxt "6192"
+msgid "P_sitsofaR_tlk_standup"
+msgstr ""
+
+msgctxt "172_Attendant"
+msgid "Hello. Thank you for coming."
+msgstr ""
+
+msgctxt "184_Attendant"
+msgid "Will you be enjoying our club today?"
+msgstr ""
+
+msgctxt "196_Attendant"
+msgid "Welcome, sir."
+msgstr ""
+
+msgctxt "208_Attendant"
+msgid "(Uh-oh. I don't have enough money.)"
+msgstr ""
+
+msgctxt "220_Attendant"
+msgid "Wait a second!"
+msgstr ""
+
+msgctxt "232_Attendant"
+msgid "What is it sir?"
+msgstr ""
+
+msgctxt "244_Attendant"
+msgid "Sorry, I'll come back later..."
+msgstr ""
+
+msgctxt "256_Attendant"
+msgid "(I should bring at least 20,000 yen...)"
+msgstr ""
+
+msgctxt "292_Attendant"
+msgid "Ah, I see you have a copy of Night Magazine. Would you like to use it?"
+msgstr ""
+
+msgctxt "304_Attendant"
+msgid ""
+"Excellent. Using your copy of Night Magazine entitles you to a 1,000 yen "
+"discount."
+msgstr ""
+
+msgctxt "316_Attendant"
+msgid "Very well."
+msgstr ""
+
+msgctxt "328_Attendant"
+msgid "Do you wish to request someone?"
+msgstr ""
+
+msgctxt "340_Attendant"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "436_Attendant"
+msgid "Very well. Please come again."
+msgstr ""
+
+msgctxt "460_Attendant"
+msgid "No preference? Yes sir. Please come this way."
+msgstr ""
+
+msgctxt "484_Attendant"
+msgid "%s? Excellent. Right this way, sir."
+msgstr ""
+
+msgctxt "508_Attendant"
+msgid "I'm sorry. %s-san isn't working at the moment."
+msgstr ""
+
+msgctxt "544_Attendant"
+msgid "%s-san? Excellent. Right this way, sir."
+msgstr ""
+
+msgctxt "568_Attendant"
+msgid "I'm sorry. %s-san isn't working at the moment."
+msgstr ""
+
+msgctxt "604_Attendant"
+msgid "%s-san? Excellent. Right this way, sir."
+msgstr ""
+
+msgctxt "628_Attendant"
+msgid "I'm sorry. %s-san isn't working at the moment."
+msgstr ""
+
+msgctxt "652_Player"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "664_Attendant"
+msgid "We look forward to serving you again."
+msgstr ""
+
+msgctxt "688_Attendant"
+msgid "Here is your bill, sir."
+msgstr ""
+
+msgctxt "700_Attendant"
+msgid "Of course."
+msgstr ""
+
+msgctxt "712_M_shp_stand_tlk_ojigi"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "724_Attendant"
+msgid "We hope to see you again."
+msgstr ""
+
+msgctxt "736_P_sitsofaR_tlk_standup"
+msgid "Now then..."
+msgstr ""
+
+msgctxt "748_Attendant"
+msgid "Enter"
+msgstr ""
+
+msgctxt "760_Attendant"
+msgid "Don't Enter"
+msgstr ""
+
+msgctxt "772_Attendant"
+msgid "Use It"
+msgstr ""
+
+msgctxt "784_Attendant"
+msgid "Don't Use It"
+msgstr ""

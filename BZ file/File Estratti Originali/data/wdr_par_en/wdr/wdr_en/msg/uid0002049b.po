@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "4356"
+msgid "Manager of Midori"
+msgstr ""
+
+msgctxt "4360"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4364"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "4368"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4372"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4376"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "4380"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "4384"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4388"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "4392"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "56_Manager of Midori"
+msgid "Ah, it's you, sir! The lady you're looking for is inside."
+msgstr ""
+
+msgctxt "68_Tanimura"
+msgid "Okay, can you get her for me?"
+msgstr ""
+
+msgctxt "80_Manager of Midori"
+msgid "Sure... I mean I would, but... Ah, it's a bit complicated."
+msgstr ""
+
+msgctxt "92_Tanimura"
+msgid "What, is she busy or something?"
+msgstr ""
+
+msgctxt "104_Manager of Midori"
+msgid "No, she's free... It's just..."
+msgstr ""
+
+msgctxt "116_Tanimura"
+msgid "Spit it out already."
+msgstr ""
+
+msgctxt "128_Manager of Midori"
+msgid ""
+"Well, I... Hah... I realize I'm actually in a pretty awkward position here. "
+"But if this woman really is the one you're looking for, then uh..."
+msgstr ""
+
+msgctxt "140_Tanimura"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "152_Manager of Midori"
+msgid "Could you, maybe... figure out a way to skip next month's inspection?"
+msgstr ""
+
+msgctxt "164_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "176_Manager of Midori"
+msgid ""
+"A bunch of new workers from Korea just arrived, you see, and another raid "
+"would ruin us!"
+msgstr ""
+
+msgctxt "188_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "200_Manager of Midori"
+msgid "I'm begging you! Think of all the good I'm doing for these people!"
+msgstr ""
+
+msgctxt "212_Tanimura"
+msgid "Uh-huh. Then I guess it wouldn't kill you to pay them right."
+msgstr ""
+
+msgctxt "224_Manager of Midori"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "236_Tanimura"
+msgid ""
+"I'm saying you need to give these girls the money they deserve. Don't just "
+"skim off the top 'cause you think no one's watching. Because someone is."
+msgstr ""
+
+msgctxt "248_Tanimura"
+msgid "Treat your workers with respect, and make sure they earn a decent living."
+msgstr ""
+
+msgctxt "260_Tanimura"
+msgid ""
+"Do that, and I'll see what I can do about the inspection. Maybe we can even "
+"be civil."
+msgstr ""
+
+msgctxt "272_Manager of Midori"
+msgid "Understood! It'll happen just as you said. You have my word!"
+msgstr ""
+
+msgctxt "284_Tanimura"
+msgid "Okay then. Let's see who you found."
+msgstr ""

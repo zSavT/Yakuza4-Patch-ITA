@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "4092"
+msgid "Noa"
+msgstr ""
+
+msgctxt "4096"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4100"
+msgid "Player"
+msgstr ""
+
+msgctxt "4104"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "68_Noa"
+msgid "Thank you for taking me out today. I don't want our date to end yet, though."
+msgstr ""
+
+msgctxt "80_Talk_Yes"
+msgid "Why not come inside for a couple of drinks? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "104_Noa"
+msgid "Thank you for taking me out today. I don't want our date to end yet, though."
+msgstr ""
+
+msgctxt "116_Talk_Yes"
+msgid "Why not come inside for a couple of drinks? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "128_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr ""
+
+msgctxt "140_Noa"
+msgid "Huh!? Really?"
+msgstr ""
+
+msgctxt "152_Player"
+msgid "Yeah. Sorry..."
+msgstr ""
+
+msgctxt "164_Noa"
+msgid ""
+"Oh. Well, that's too bad.\r\n"
+"Come back next time, okay...?"
+msgstr ""

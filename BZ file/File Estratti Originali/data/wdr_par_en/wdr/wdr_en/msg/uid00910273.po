@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1208"
+msgid "Senpai Businessman"
+msgstr ""
+
+msgctxt "1212"
+msgid "Kohai Businessman"
+msgstr ""
+
+msgctxt "1216"
+msgid "Talk_SmileBig_st"
+msgstr ""
+
+msgctxt "1220"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1224"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1228"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1232"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "84_Senpai Businessman"
+msgid ""
+"Have you heard about this married couple around here that are experts at "
+"kung fu?"
+msgstr ""
+
+msgctxt "96_Kohai Businessman"
+msgid "I wonder what their fights are like!"
+msgstr ""
+
+msgctxt "108_Kiryu"
+msgid "Error if this shows up."
+msgstr ""
+
+msgctxt "120_Akiyama"
+msgid ""
+"(I'm sure their fights are like a kung-fu movie. I should have a look. I "
+"may be able to have a <Color:7>Revelation<Color:Default>...)"
+msgstr ""
+
+msgctxt "132_Saejima"
+msgid ""
+"(A couple fighting, huh... Kamurocho has always had its fair share of rowdy "
+"couples. Maybe it'll give me a <Color:7>Revelation<Color:Default>...)"
+msgstr ""
+
+msgctxt "144_Tanimura"
+msgid "Error if this shows up."
+msgstr ""

@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "524"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "1016"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "12156"
+msgid "Chihiro"
+msgstr ""
+
+msgctxt "12160"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12164"
+msgid "Player"
+msgstr ""
+
+msgctxt "12168"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "12172"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12176"
+msgid "0"
+msgstr ""
+
+msgctxt "12180"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "116_Chihiro"
+msgid "I'm not going down without a fight."
+msgstr ""
+
+msgctxt "128_Chihiro"
+msgid "Let's do this!"
+msgstr ""
+
+msgctxt "140_Player"
+msgid "All right."
+msgstr ""
+
+msgctxt "164_Chihiro"
+msgid "I'm not going down without a fight."
+msgstr ""
+
+msgctxt "176_Chihiro"
+msgid "Let's do this!"
+msgstr ""
+
+msgctxt "188_Player"
+msgid "Hold on a sec... Um, looks like I'm low on cash."
+msgstr ""
+
+msgctxt "200_Chihiro"
+msgid "What? You are!?"
+msgstr ""
+
+msgctxt "212_Player"
+msgid "Yeah. Sorry."
+msgstr ""
+
+msgctxt "224_Chihiro"
+msgid ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+msgstr ""
+
+msgctxt "236_Player"
+msgid "(I better find some money...)"
+msgstr ""
+
+msgctxt "344_Chihiro"
+msgid "I should've guessed. You're a pro at pool, too."
+msgstr ""
+
+msgctxt "356_Player"
+msgid "Yeah, I'm not bad."
+msgstr ""
+
+msgctxt "368_Chihiro"
+msgid "That was really fun. Let's go out again, okay?"
+msgstr ""
+
+msgctxt "380_Chihiro"
+msgid "Bye for now."
+msgstr ""
+
+msgctxt "404_Chihiro"
+msgid "It's a draw."
+msgstr ""
+
+msgctxt "416_Player"
+msgid "Guess it is."
+msgstr ""
+
+msgctxt "428_Chihiro"
+msgid "That was really fun. Let's go out again, okay?"
+msgstr ""
+
+msgctxt "440_Chihiro"
+msgid "Bye for now."
+msgstr ""
+
+msgctxt "464_Chihiro"
+msgid "Sorry to break it to you, but I win."
+msgstr ""
+
+msgctxt "476_Player"
+msgid "Ouch. You got me good."
+msgstr ""
+
+msgctxt "488_Chihiro"
+msgid "That was really fun. Let's go out again, okay?"
+msgstr ""
+
+msgctxt "500_Chihiro"
+msgid "Bye for now."
+msgstr ""
+
+msgctxt "608_Chihiro"
+msgid "I'm not going down without a fight."
+msgstr ""
+
+msgctxt "620_Chihiro"
+msgid "Let's do this."
+msgstr ""
+
+msgctxt "632_Player"
+msgid "All right."
+msgstr ""
+
+msgctxt "656_Chihiro"
+msgid "I'm not going down without a fight."
+msgstr ""
+
+msgctxt "668_Chihiro"
+msgid "Let's do this."
+msgstr ""
+
+msgctxt "680_Player"
+msgid "Hold on a sec... Um, looks like I'm low on cash."
+msgstr ""
+
+msgctxt "692_Chihiro"
+msgid "What? You are!?"
+msgstr ""
+
+msgctxt "704_Player"
+msgid "Yeah. Sorry."
+msgstr ""
+
+msgctxt "716_Chihiro"
+msgid ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+msgstr ""
+
+msgctxt "728_Player"
+msgid "(I better find some money...)"
+msgstr ""
+
+msgctxt "836_Chihiro"
+msgid "I should've guessed. You're a pro at pool, too."
+msgstr ""
+
+msgctxt "848_Player"
+msgid "Yeah, I'm not bad."
+msgstr ""
+
+msgctxt "860_Chihiro"
+msgid "That was really fun. Wanna go to the club now?"
+msgstr ""
+
+msgctxt "872_Player"
+msgid "Sure."
+msgstr ""
+
+msgctxt "896_Chihiro"
+msgid "It's a draw."
+msgstr ""
+
+msgctxt "908_Player"
+msgid "Guess it is."
+msgstr ""
+
+msgctxt "920_Chihiro"
+msgid "That was really fun. Wanna go to the club now?"
+msgstr ""
+
+msgctxt "932_Player"
+msgid "Sure."
+msgstr ""
+
+msgctxt "956_Chihiro"
+msgid "Sorry to break it to you, but I win."
+msgstr ""
+
+msgctxt "968_Player"
+msgid "Ouch. You got me good."
+msgstr ""
+
+msgctxt "980_Chihiro"
+msgid "That was really fun. Wanna go to the club now?"
+msgstr ""
+
+msgctxt "992_Player"
+msgid "Sure."
+msgstr ""

@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "168"
+msgid "Quit"
+msgstr ""
+
+msgctxt "173"
+msgid "Cancel the order."
+msgstr ""
+
+msgctxt "191"
+msgid "Order"
+msgstr ""
+
+msgctxt "197"
+msgid "Order the currently selected item.  "
+msgstr ""
+
+msgctxt "234"
+msgid "(I haven't picked anything.)  "
+msgstr ""
+
+msgctxt "265"
+msgid "(I'm short on cash.)  "
+msgstr ""
+
+msgctxt "288"
+msgid "Thank you. That'll be %s."
+msgstr ""
+
+msgctxt "314"
+msgid "(I can't carry any more stuff.)"
+msgstr ""
+
+msgctxt "346"
+msgid "(They're sold out.)"
+msgstr ""
+
+msgctxt "366"
+msgid ""
+"Lemon soda packed with 70 lemons worth of\n"
+"vitamin C and juice squeezed from real lemons. It's\n"
+"both refreshing and healthy. "
+msgstr ""

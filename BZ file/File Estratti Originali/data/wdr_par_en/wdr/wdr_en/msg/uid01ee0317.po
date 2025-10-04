@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1736"
+msgid "Player"
+msgstr ""
+
+msgctxt "100_Player"
+msgid ""
+"(This is Virtua Fighter MVJC pachinko machine number 3. Maybe I should give "
+"it a try.)"
+msgstr ""
+
+msgctxt "112_Player"
+msgid "(Maybe later...)"
+msgstr ""
+
+msgctxt "148_Player"
+msgid "(I don't have the cash... Guess I should go scrounge up 1,000 yen.)"
+msgstr ""
+
+msgctxt "256_Player"
+msgid "(Okay, let's do this.)"
+msgstr ""
+
+msgctxt "280_Player"
+msgid "Play"
+msgstr ""
+
+msgctxt "292_Player"
+msgid "Not Now"
+msgstr ""

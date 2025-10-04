@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "296"
+msgid "Select the number of input devices to use."
+msgstr ""
+
+msgctxt "332"
+msgid "Select the number of frames you want to play."
+msgstr ""
+
+msgctxt "368"
+msgid "Do you want to play again?"
+msgstr ""
+
+msgctxt "404"
+msgid "Two input devices are required to play in this mode."
+msgstr ""
+
+msgctxt "416"
+msgid "Do you want to see the tutorial?"
+msgstr ""
+
+msgctxt "452"
+msgid "One"
+msgstr ""
+
+msgctxt "464"
+msgid "Two"
+msgstr ""
+
+msgctxt "476"
+msgid "Three Frames"
+msgstr ""
+
+msgctxt "488"
+msgid "Ten Frames"
+msgstr ""
+
+msgctxt "500"
+msgid "Play Again"
+msgstr ""
+
+msgctxt "512"
+msgid "Quit"
+msgstr ""
+
+msgctxt "524"
+msgid "Yes"
+msgstr ""
+
+msgctxt "536"
+msgid "No"
+msgstr ""

@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2408"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2412"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2416"
+msgid "Lily"
+msgstr ""
+
+msgctxt "2420"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2424"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "80_Akiyama"
+msgid "Phew... We should be safe here."
+msgstr ""
+
+msgctxt "92_Akiyama"
+msgid "Sorry you got dragged into that. It's been an interesting couple of days."
+msgstr ""
+
+msgctxt "104_Lily"
+msgid "It's okay..."
+msgstr ""
+
+msgctxt "116_Akiyama"
+msgid "Hey, are you all right? You're not hurt, are you?"
+msgstr ""
+
+msgctxt "128_Lily"
+msgid "No, I'm fine."
+msgstr ""
+
+msgctxt "140_Akiyama"
+msgid ""
+"Much as I hate to say it, we should probably call it a night. I'd hate to "
+"run into more of them."
+msgstr ""
+
+msgctxt "152_Lily"
+msgid "You're probably right."
+msgstr ""
+
+msgctxt "164_Akiyama"
+msgid ""
+"Well, do your best tomorrow, all right? I'll swing by and check in on you "
+"if I can."
+msgstr ""
+
+msgctxt "176_Lily"
+msgid "Okay. Good night, Akiyama-san."
+msgstr ""

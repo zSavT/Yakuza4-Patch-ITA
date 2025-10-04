@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1100"
+msgid "Chatty Guy"
+msgstr ""
+
+msgctxt "1104"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1108"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "1112"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1116"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "84_Chatty Guy"
+msgid ""
+"Hey, pal, you hear some shit's going down with the loan shark\r\n"
+"who lives here?"
+msgstr ""
+
+msgctxt "96_Kiryu"
+msgid "I didn't even know there <Italic>was</Italic> a loan shark here."
+msgstr ""
+
+msgctxt "108_Chatty Guy"
+msgid ""
+"Oh yeah, up on the top floor. Sounds like the cops are\r\n"
+"finally cracking down on him, though."
+msgstr ""
+
+msgctxt "120_Kiryu"
+msgid "Why, what did he do?"
+msgstr ""
+
+msgctxt "132_Chatty Guy"
+msgid ""
+"Dunno! I bet it was something nice and meaty, though. They\r\n"
+"were carrying out tons of stuff from his place!"
+msgstr ""

@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "312"
+msgid "You got SSS Gunpowder."
+msgstr ""
+
+msgctxt "10248"
+msgid "Onitake"
+msgstr ""
+
+msgctxt "10252"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "10256"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "10260"
+msgid "M_ykzs_damage_tlk_no"
+msgstr ""
+
+msgctxt "10264"
+msgid "Kamurocho Aqua Devil Member"
+msgstr ""
+
+msgctxt "10268"
+msgid "Idle"
+msgstr ""
+
+msgctxt "10272"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10276"
+msgid "Akaishi"
+msgstr ""
+
+msgctxt "10280"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "10284"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10288"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "10292"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "10296"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10300"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "10304"
+msgid "dummy"
+msgstr ""
+
+msgctxt "10308"
+msgid "0"
+msgstr ""
+
+msgctxt "10312"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "10316"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "10320"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "10324"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "10328"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "10332"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "10336"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "72_Onitake"
+msgid "Damn, you're one strong mother..."
+msgstr ""
+
+msgctxt "84_Kiryu"
+msgid "Remember your promise. Leave the Kamurocho Guard alone."
+msgstr ""
+
+msgctxt "96_Onitake"
+msgid "What, you think I don't know you, man? You're Kazuma Kiryu."
+msgstr ""
+
+msgctxt "108_Onitake"
+msgid "To think Kazuma Kiryu is back in Kamurocho..."
+msgstr ""
+
+msgctxt "120_Kamurocho Aqua Devil Member"
+msgid "Kiryu!? You mean, the Dragon of Dojima!? That Kiryu!?"
+msgstr ""
+
+msgctxt "132_Kamurocho Aqua Devil Member"
+msgid "Holy shit! Kiryu's here! Kazuma Kiryu's back in town!"
+msgstr ""
+
+msgctxt "144_Onitake"
+msgid ""
+"Heh, Kiryu-san, buddy... Don't think just 'cause you beat me, you can let "
+"your guard down."
+msgstr ""
+
+msgctxt "156_Kiryu"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "168_Onitake"
+msgid ""
+"I could care less about the Kamurocho Guard. From now on, the gangs are "
+"going to be fighting over who gets to take a shot at you."
+msgstr ""
+
+msgctxt "180_Onitake"
+msgid ""
+"The guy that ran off is sure to let everyone know that Kamurocho's "
+"strongest, Kazuma Kiryu, is back in town. The gangs'll have a field day."
+msgstr ""
+
+msgctxt "192_Onitake"
+msgid ""
+"But it ain't gonna stop at Kamurocho. They'll come from all over, hoping to "
+"get street cred by taking your ass down."
+msgstr ""
+
+msgctxt "204_Onitake"
+msgid ""
+"I heard that the most feared gang boss in all of Kanto is setting his "
+"sights on Kamurocho. I'd like to see who'd win that fight."
+msgstr ""
+
+msgctxt "276_Akaishi"
+msgid ""
+"You certainly managed to clean up the Aqua Devils quickly! Very impressive, "
+"Kiryu-san."
+msgstr ""
+
+msgctxt "288_Akaishi"
+msgid "With their leader removed, the gang should be much less of a threat now."
+msgstr ""
+
+msgctxt "300_Akaishi"
+msgid "Here's a little something to say thank you."
+msgstr ""
+
+msgctxt "336_Akaishi"
+msgid ""
+"There's always the chance that you may run into some of their remaining "
+"members."
+msgstr ""
+
+msgctxt "348_Akaishi"
+msgid ""
+"If you do come across any of them, please bring us some proof that you've "
+"driven them out of town."
+msgstr ""
+
+msgctxt "360_Akaishi"
+msgid ""
+"I'll be more than happy to offer you a reward. I'm normally standing in "
+"front of the theater, so you can come by any time."
+msgstr ""
+
+msgctxt "372_Kiryu"
+msgid "All right. I'll come to you if I take down their remaining members."
+msgstr ""
+
+msgctxt "384_Akaishi"
+msgid "I'll be waiting."
+msgstr ""
+
+msgctxt "396_Kiryu"
+msgid "Things are getting out of hand. Word is the gangs are all out to get me now."
+msgstr ""
+
+msgctxt "408_Kiryu"
+msgid "I hope I'm not putting you in danger."
+msgstr ""
+
+msgctxt "420_Akaishi"
+msgid ""
+"On the contrary, it was only a matter of time before gangs began to gather "
+"and fight in Kamurocho. Please don't blame yourself."
+msgstr ""
+
+msgctxt "432_Akaishi"
+msgid ""
+"Although we lack the strength to deal with them ourselves, we'll do "
+"whatever we can to help."
+msgstr ""
+
+msgctxt "444_Kiryu"
+msgid "All right."
+msgstr ""
+
+msgctxt "504_Onitake"
+msgid "Hey, you finally made it."
+msgstr ""
+
+msgctxt "516_Onitake"
+msgid ""
+"I hear you gave some of my boys a real talking to. Maybe I can return the "
+"fa－"
+msgstr ""
+
+msgctxt "528_Onitake"
+msgid "Whoa! You're... You're... him!"
+msgstr ""
+
+msgctxt "540_Kiryu"
+msgid "What's wrong? I thought you had some kind of business with me."
+msgstr ""
+
+msgctxt "552_Onitake"
+msgid "Um, well, uh... It's just..."
+msgstr ""
+
+msgctxt "564_Kamurocho Aqua Devil Member"
+msgid "What's wrong, Aniki? Let's take him out!"
+msgstr ""
+
+msgctxt "576_Onitake"
+msgid "I know! I don't need you to tell me that!"
+msgstr ""
+
+msgctxt "588_Onitake"
+msgid ""
+"Listen, Kir... I mean, old man! We Kamurocho Aqua Devils don't back down "
+"from a fight till we win!"
+msgstr ""
+
+msgctxt "600_Onitake"
+msgid "You must wanna die, just strollin' up here so tough n' all."
+msgstr ""
+
+msgctxt "612_Kiryu"
+msgid ""
+"All right, come at me any time then. I've got orders, too. I'm going to "
+"teach you punks a lesson."
+msgstr ""
+
+msgctxt "624_Kiryu"
+msgid ""
+"And after I beat you, you'd better stay away from the Kamurocho Guard. Got "
+"it?"
+msgstr ""
+
+msgctxt "636_Onitake"
+msgid "Good luck with that! You don't know who you're startin' shit with!"
+msgstr ""
+
+msgctxt "648_Onitake"
+msgid "Your ass is mine!"
+msgstr ""
