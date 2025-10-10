@@ -193,10 +193,13 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 Lista dei progetti di patch in italiano per i giochi della serie:
 - [Yakuza 0](https://letraduzionidirulesless.wordpress.com/yakuza0-2/)
     - Come indicato nell'introduzione, la patch di Yakuza 0 è l'unica completa al 100% (o quasi).
+    - La versione Director's Cut, presenta la lingua italiana.
 - [Yakuza Kiwami 1 e 2](https://vittolarosa93.wixsite.com/kiwamivideo)
     - L'autore ha rilasciato sul sito delle patch parziali dei giochi/video dimostrativi.
+    - Verrà pubblicata prossimamente una patch ufficiale con al suo interno anche la traduzione in italiano.
 - [Yakuza 3 Remastered](https://vittolarosa93.wixsite.com/kiwamivideo)
     - L'autore ha rilasciato sul sito delle patch parziali del gioco/video dimostrativo.
+    - Il remake del gioco (e non la remastered) sarà localizzata in italiano.
 - Yakuza 4 Remastered
     - Questo progetto
 - [Yakuza 5 Remastered](https://github.com/zSavT/Yakuza5-Patch-ITA)
@@ -204,9 +207,6 @@ Lista dei progetti di patch in italiano per i giochi della serie:
 - [Yakuza 6](https://www.nexusmods.com/yakuza6/mods/220)
     - Un ragazzo ha tradotto i sottotitoli delle cutscene e alcuni menu
 
-__N.B.__<br>
-Chi ha realizzato la patch per Yakuza 1 - 2 - 3, sta lavorando anche ad una patch totale per Yakuza 4 - 5 - 6.
-Gli autori sono liberi di attingere da questa progetto, previo avviso.
 
 ## Dipendenza e ringraziamenti
 Si ringrazia
