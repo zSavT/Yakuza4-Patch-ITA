@@ -185,7 +185,8 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 
 - [x] Codifica e decodifica dei file PAR
 - [x] Codifica e decodifica dei file BIN 2007.03.19
-- [ ] Codifica e decodifica dei file MSG
+- [x] Codifica e decodifica dei restanti file BIN
+- [x] Codifica e decodifica dei file MSG
 - [x] Modifica al Font
 
 # Altre patch della serie
@@ -199,7 +200,7 @@ Lista dei progetti di patch in italiano per i giochi della serie:
     - Verrà pubblicata prossimamente una patch ufficiale con al suo interno anche la traduzione in italiano.
 - [Yakuza 3 Remastered](https://vittolarosa93.wixsite.com/kiwamivideo)
     - L'autore ha rilasciato sul sito delle patch parziali del gioco/video dimostrativo.
-    - Il remake del gioco (e non la remastered) sarà localizzata in italiano.
+    - Il remake del gioco (e non la remastered) sarà localizzato in italiano.
 - Yakuza 4 Remastered
     - Questo progetto
 - [Yakuza 5 Remastered](https://github.com/zSavT/Yakuza5-Patch-ITA)
