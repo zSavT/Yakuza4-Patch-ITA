@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "476"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "956"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "13452"
+msgid "Rio"
+msgstr ""
+
+msgctxt "13456"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13460"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13464"
+msgid "Player"
+msgstr ""
+
+msgctxt "13468"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13472"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13476"
+msgid "0"
+msgstr ""
+
+msgctxt "13480"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "13484"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "116_Rio"
+msgid "I wonder what I should sing today?"
+msgstr ""
+
+msgctxt "128_Talk_Yes"
+msgid "Well, let's go in already!"
+msgstr ""
+
+msgctxt "152_Rio"
+msgid "I wonder what I should sing today?"
+msgstr ""
+
+msgctxt "164_Talk_Yes"
+msgid "Let's go in already."
+msgstr ""
+
+msgctxt "176_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr ""
+
+msgctxt "188_Rio"
+msgid "Seriously? Not a single bill?"
+msgstr ""
+
+msgctxt "200_Player"
+msgid "Yeah. Sorry..."
+msgstr ""
+
+msgctxt "212_Rio"
+msgid "Oh. Um... That's... too bad. I should get going."
+msgstr ""
+
+msgctxt "224_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "332_Rio"
+msgid ""
+"That felt good. I sang as hard as I could. I really gave\r\n"
+" it my all.  <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "344_Player"
+msgid "You're a great singer."
+msgstr ""
+
+msgctxt "356_Rio"
+msgid "Thanks for today. Let's go out again sometime. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "380_Rio"
+msgid "Whew! That was a lot of singing."
+msgstr ""
+
+msgctxt "392_Player"
+msgid "You're pretty good."
+msgstr ""
+
+msgctxt "404_Rio"
+msgid ""
+"Hehe, I know! Take me out again sometime, okay? <Color:7>♥<Color:Default> "
+"Well, see you."
+msgstr ""
+
+msgctxt "428_Rio"
+msgid "I didn't sing all that well..."
+msgstr ""
+
+msgctxt "440_Player"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "452_Rio"
+msgid "I think I'll just go home. See you at the club."
+msgstr ""
+
+msgctxt "560_Rio"
+msgid "Hmm. What do I want to sing today? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "572_Talk_Yes"
+msgid "Well, whatever! Let's just go in!"
+msgstr ""
+
+msgctxt "596_Rio"
+msgid "Hmm. What do I want to sing today? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "608_Talk_Yes"
+msgid "Well, whatever! Let's just go in!"
+msgstr ""
+
+msgctxt "620_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr ""
+
+msgctxt "632_Rio"
+msgid "Seriously? Not a single bill?"
+msgstr ""
+
+msgctxt "644_Player"
+msgid "Yeah. Sorry..."
+msgstr ""
+
+msgctxt "656_Rio"
+msgid "Oh. Um... That's... too bad. I should get going."
+msgstr ""
+
+msgctxt "668_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "776_Rio"
+msgid "That felt good. I sang my heart out! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "788_Player"
+msgid "You've got a great singing voice."
+msgstr ""
+
+msgctxt "800_Rio"
+msgid ""
+"Thanks for today. How about we go back to the club? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "812_Player"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "836_Rio"
+msgid "Whew! I feel like we sang a full concert!"
+msgstr ""
+
+msgctxt "848_Player"
+msgid "You've got a great singing voice."
+msgstr ""
+
+msgctxt "860_Rio"
+msgid "Aww, thanks! Let's head over to the club now. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "872_Player"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "896_Rio"
+msgid "I didn't sing all that well..."
+msgstr ""
+
+msgctxt "908_Player"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "920_Rio"
+msgid "Anyway, let's go to the club."
+msgstr ""
+
+msgctxt "932_Player"
+msgid "Sounds good."
+msgstr ""

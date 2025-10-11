@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1444"
+msgid "Manager"
+msgstr ""
+
+msgctxt "1448"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "144_Manager"
+msgid "Hello, sir. What can I do for you today?"
+msgstr ""
+
+msgctxt "156_Manager"
+msgid "What would you like to purchase?"
+msgstr ""
+
+msgctxt "216_Manager"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "228_Manager"
+msgid "What do you have to sell?"
+msgstr ""
+
+msgctxt "252_Manager"
+msgid "Thank you for your patronage."
+msgstr ""
+
+msgctxt "264_Manager"
+msgid "I'm here to buy."
+msgstr ""
+
+msgctxt "276_Manager"
+msgid "I'm here to sell."
+msgstr ""
+
+msgctxt "288_Manager"
+msgid "Never mind."
+msgstr ""

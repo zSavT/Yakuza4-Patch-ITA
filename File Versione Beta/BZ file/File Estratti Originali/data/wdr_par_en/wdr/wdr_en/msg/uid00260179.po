@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2132"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2136"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "2140"
+msgid "Yasu"
+msgstr ""
+
+msgctxt "2144"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2148"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "2152"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "2156"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "2160"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "2164"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2168"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "2172"
+msgid "Run_Start_L90"
+msgstr ""
+
+msgctxt "72_Kiryu"
+msgid "You're going nowhere! Tell me where the guitar is!"
+msgstr ""
+
+msgctxt "84_Yasu"
+msgid "Sorry, old man! I don't have it!"
+msgstr ""
+
+msgctxt "96_Kiryu"
+msgid "Where is it then!?"
+msgstr ""
+
+msgctxt "108_Yasu"
+msgid "I pawned it! Got some good cash for it too! Hahaha!"
+msgstr ""
+
+msgctxt "120_Kiryu"
+msgid "What!? Listen, punk! You're going to go buy it back, right now!"
+msgstr ""
+
+msgctxt "132_Yasu"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "156_Yasu"
+msgid "Heh. It's game over for that bitch now."
+msgstr ""
+
+msgctxt "168_Yasu"
+msgid "That was her number one axe. She'd never use another one."
+msgstr ""
+
+msgctxt "180_Kiryu"
+msgid "Hey! Where's the guitar you stole?"
+msgstr ""
+
+msgctxt "204_Yasu"
+msgid "You! Ahhh, I'm outta here!"
+msgstr ""

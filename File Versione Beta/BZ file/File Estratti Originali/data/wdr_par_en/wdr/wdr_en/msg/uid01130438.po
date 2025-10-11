@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "9408"
+msgid "Sodachi"
+msgstr ""
+
+msgctxt "9412"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "9416"
+msgid "M_big_stand"
+msgstr ""
+
+msgctxt "9420"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "9424"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "9428"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "9432"
+msgid "Tokita"
+msgstr ""
+
+msgctxt "9436"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "9440"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "9444"
+msgid "Watanabe"
+msgstr ""
+
+msgctxt "9448"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9452"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "9456"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "9460"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9464"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "9468"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "9472"
+msgid "dummy"
+msgstr ""
+
+msgctxt "9476"
+msgid "0"
+msgstr ""
+
+msgctxt "176_Sodachi"
+msgid ""
+"I tell you, it's wonderful to see the apprentices training together. It's "
+"just beautiful."
+msgstr ""
+
+msgctxt "188_Saejima"
+msgid "Yeah. It is."
+msgstr ""
+
+msgctxt "200_Sodachi"
+msgid ""
+"Hehe. If they kept just practicing amongst themselves, I wouldn't have to "
+"do a thing!"
+msgstr ""
+
+msgctxt "212_Sodachi"
+msgid "Heheheheh..."
+msgstr ""
+
+msgctxt "224_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "236_Tokita"
+msgid "Give me a break!"
+msgstr ""
+
+msgctxt "248_Saejima"
+msgid "Hm? What's the matter?"
+msgstr ""
+
+msgctxt "260_Tokita"
+msgid ""
+"This guy isn't even trying. Hmph! You'd better stop treating me like some "
+"idiot!"
+msgstr ""
+
+msgctxt "272_Watanabe"
+msgid "But, that's not what I'm doing..."
+msgstr ""
+
+msgctxt "284_Tokita"
+msgid "I've had enough! I don't want to see your face anymore!"
+msgstr ""
+
+msgctxt "296_Tokita"
+msgid "This just makes me sick... I'm going home!"
+msgstr ""
+
+msgctxt "320_Sodachi"
+msgid "Wow, looks like you pissed off Tokita-kun pretty good."
+msgstr ""
+
+msgctxt "332_Watanabe"
+msgid "But I didn't mean to... I just wanted Tokita-san to enjoy his sparring..."
+msgstr ""
+
+msgctxt "344_Sodachi"
+msgid "So, you took it easy on him?"
+msgstr ""
+
+msgctxt "356_Watanabe"
+msgid ""
+"Yeah... I thought it was a good idea. I was just trying to be nice. I don't "
+"understand what happened."
+msgstr ""
+
+msgctxt "368_Saejima"
+msgid ""
+"Hmph. 'Course he's angry. Tokita was tryin' to have a serious match with "
+"you. And ya sold him short."
+msgstr ""
+
+msgctxt "380_Watanabe"
+msgid "...!"
+msgstr ""
+
+msgctxt "392_Saejima"
+msgid ""
+"Makin' someone look good ain't always gonna go over well with 'em. You "
+"should remember that."
+msgstr ""
+
+msgctxt "404_Watanabe"
+msgid "I understand..."
+msgstr ""
+
+msgctxt "416_Watanabe"
+msgid ""
+"I thought it would be good for him, but I guess I wasn't really thinking "
+"about his feelings."
+msgstr ""
+
+msgctxt "428_Saejima"
+msgid "(Looks like he figured out his mistake. Guess it was a good talk.)"
+msgstr ""
+
+msgctxt "440_Saejima"
+msgid "You're a nice guy. But that didn't work for ya this time."
+msgstr ""
+
+msgctxt "452_Watanabe"
+msgid "I'll never forgive myself for this. But what did I do wrong?"
+msgstr ""
+
+msgctxt "464_Watanabe"
+msgid "How am I supposed to act around Tokita-san from now on?"
+msgstr ""
+
+msgctxt "476_Saejima"
+msgid ""
+"(Maybe I shoulda been more clear... Seems like he's even more depressed "
+"than before.)"
+msgstr ""
+
+msgctxt "488_Saejima"
+msgid "That ain't kindness."
+msgstr ""
+
+msgctxt "500_Watanabe"
+msgid "What do you mean!?"
+msgstr ""
+
+msgctxt "512_Saejima"
+msgid ""
+"If ya wanna be kind, you gotta take the feelin's of others into "
+"consideration."
+msgstr ""
+
+msgctxt "524_Saejima"
+msgid "Did ya even think about why Tokita wanted to fight ya?"
+msgstr ""
+
+msgctxt "536_Watanabe"
+msgid "......"
+msgstr ""
+
+msgctxt "548_Saejima"
+msgid ""
+"He wanted to have a serious match with ya. But you didn't take 'im "
+"seriously. Ya just took it easy on 'im."
+msgstr ""
+
+msgctxt "560_Saejima"
+msgid "Hmph. 'Course he's angry."
+msgstr ""
+
+msgctxt "572_Watanabe"
+msgid ""
+"I see... I just forced my own definition of \"kindness\" on him without "
+"thinking about his feelings."
+msgstr ""
+
+msgctxt "584_Watanabe"
+msgid ""
+"Maybe I've been running away from having to face people. I'm going to go "
+"apologize to Tokita-san!"
+msgstr ""
+
+msgctxt "596_Saejima"
+msgid "(Good. Looks like he's realized his mistake.)"
+msgstr ""
+
+msgctxt "680_Sodachi"
+msgid "Of course he's angry."
+msgstr ""
+
+msgctxt "692_Sodachi"
+msgid "You're a nice guy."
+msgstr ""
+
+msgctxt "704_Sodachi"
+msgid "That ain't kindness."
+msgstr ""

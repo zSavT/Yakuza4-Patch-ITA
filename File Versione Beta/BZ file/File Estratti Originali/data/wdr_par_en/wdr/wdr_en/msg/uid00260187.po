@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "348"
+msgid "You gained 100 EXP."
+msgstr ""
+
+msgctxt "684"
+msgid "You got an <Color:8>Artist's Likeness<Color:Default>."
+msgstr ""
+
+msgctxt "10656"
+msgid "Street Artist"
+msgstr ""
+
+msgctxt "10660"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "10664"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "10668"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10672"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "10676"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "10680"
+msgid "The Scelerophobic Sketcher"
+msgstr ""
+
+msgctxt "10684"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10688"
+msgid "dummy"
+msgstr ""
+
+msgctxt "10692"
+msgid "0"
+msgstr ""
+
+msgctxt "10696"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "10700"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "10704"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "10708"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "10712"
+msgid "Talk_Get"
+msgstr ""
+
+msgctxt "10716"
+msgid "2d_cf_pict_nigaoe_ekaki"
+msgstr ""
+
+msgctxt "10720"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "192_Street Artist"
+msgid ""
+"Seriously!? You got it wrong three times! Three! I'm sure the real culprits "
+"are long gone by now!"
+msgstr ""
+
+msgctxt "204_Tanimura"
+msgid "Yeah... looks like it. My bad."
+msgstr ""
+
+msgctxt "216_Street Artist"
+msgid ""
+"Sorry my ass! I'm still being hunted down here! And who knows when these "
+"men might come for my life!? I'll never be able to walk the streets again!"
+msgstr ""
+
+msgctxt "228_Street Artist"
+msgid ""
+"I'll have to eke out a living underground, spending my days in utter "
+"isolation while drawing whatever I see fit... For I am now the "
+"Scelerophobic Sketcher of Kamurocho!"
+msgstr ""
+
+msgctxt "240_The Scelerophobic Sketcher"
+msgid "Farewell!"
+msgstr ""
+
+msgctxt "288_Tanimura"
+msgid "(There he goes... I guess I let him down.)"
+msgstr ""
+
+msgctxt "360_Street Artist"
+msgid "I'm shocked. Speechless. Is this really happening right now?"
+msgstr ""
+
+msgctxt "372_Tanimura"
+msgid "Sorry. Tell me about this guy one more time?"
+msgstr ""
+
+msgctxt "384_Street Artist"
+msgid ""
+"He looks just like he does in that picture I gave you.\r\n"
+"All you have to do is look at the picture and you'll know\r\n"
+"who it is. Like any detective would do."
+msgstr ""
+
+msgctxt "396_Street Artist"
+msgid ""
+"You might not be good at telling people's faces\r\n"
+"apart, but just remember he's wearing a black jacket."
+msgstr ""
+
+msgctxt "408_Tanimura"
+msgid "Got it. The guy in the picture, with a black jacket."
+msgstr ""
+
+msgctxt "420_Street Artist"
+msgid ""
+"That's right. Are you sure you've got it this time?\r\n"
+"Repeat it once more."
+msgstr ""
+
+msgctxt "432_Tanimura"
+msgid "Guy in the picture... black jacket..."
+msgstr ""
+
+msgctxt "444_Street Artist"
+msgid ""
+"Okay. They've probably noticed that the fuzz are\r\n"
+"hot on their trail, so this might be your last chance!"
+msgstr ""
+
+msgctxt "504_Tanimura"
+msgid "(This guy watches too many crime dramas...)"
+msgstr ""
+
+msgctxt "516_Street Artist"
+msgid ""
+"Hey! What happened? I heard some kind of crazy commotion\r\n"
+"out there! Does that mean you got them!?"
+msgstr ""
+
+msgctxt "528_Tanimura"
+msgid ""
+"You're enjoying this, aren't you? No, I haven't caught them\r\n"
+"yet. There were several people who fit your description,\r\n"
+"and... Well, it was tough to tell them apart."
+msgstr ""
+
+msgctxt "540_Street Artist"
+msgid ""
+"Are you shitting me? You're a police officer, yet you\r\n"
+"can't even tell people's faces apart?"
+msgstr ""
+
+msgctxt "552_Street Artist"
+msgid ""
+"You... did use the picture, right? The guy looks just like what I drew, and "
+"he's wearing a black jacket."
+msgstr ""
+
+msgctxt "564_Street Artist"
+msgid ""
+"Look, you may not want to look at anybody who ain't as pretty as you, but "
+"that <Italic>is</Italic> your job, you know. You could at least try..."
+msgstr ""
+
+msgctxt "576_Tanimura"
+msgid ""
+"All right, all right, I get it... Guy in the picture, black\r\n"
+"jacket. I'm on it."
+msgstr ""
+
+msgctxt "588_Street Artist"
+msgid "Hurry up and arrest those scandalous... scoundrels!"
+msgstr ""
+
+msgctxt "600_Street Artist"
+msgid ""
+"Hey, Officer Pretty Boy! You gonna go arrest the robbers\r\n"
+"in Theater Square or what!?"
+msgstr ""
+
+msgctxt "612_Tanimura"
+msgid ""
+"(I kinda have been slacking lately... This might be a good chance to earn "
+"some points back at HQ.)"
+msgstr ""
+
+msgctxt "624_Tanimura"
+msgid "Fine, I'll go get 'em. But you have to show me where they are."
+msgstr ""
+
+msgctxt "636_Street Artist"
+msgid ""
+"What!? You want <Italic>me</Italic> to go, too? No way! What if I get "
+"killed!?"
+msgstr ""
+
+msgctxt "648_Tanimura"
+msgid "But you're the only one who knows the perp's face."
+msgstr ""
+
+msgctxt "660_Street Artist"
+msgid ""
+"Yeah, and I drew a picture of it, so why don't you use that\r\n"
+"instead of dragging me to my death!? He looks like this,\r\n"
+"he's wearing a black jacket, and he's at Theater Square!"
+msgstr ""
+
+msgctxt "708_Tanimura"
+msgid "Fair enough. I'll go see for myself, then."
+msgstr ""
+
+msgctxt "720_Street Artist"
+msgid ""
+"Thank you so much! You're one hell of an officer, you know that!? And a "
+"handsome one, to boot!"
+msgstr ""
+
+msgctxt "732_Tanimura"
+msgid "Heh... Kiss-ass."
+msgstr ""
+
+msgctxt "756_Tanimura"
+msgid "If you're that worried, then why don't you go to a station and report it?"
+msgstr ""
+
+msgctxt "768_Street Artist"
+msgid ""
+"I can't! They'd kill me! I won't move a muscle until all of those madmen "
+"are behind bars."
+msgstr ""
+
+msgctxt "828_Street Artist"
+msgid "Okay, I'll go get 'em."
+msgstr ""
+
+msgctxt "840_Street Artist"
+msgid "You worry too much."
+msgstr ""

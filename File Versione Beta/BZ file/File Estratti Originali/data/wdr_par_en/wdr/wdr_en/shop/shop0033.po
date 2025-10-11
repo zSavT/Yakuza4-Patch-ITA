@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "364"
+msgid "Quit"
+msgstr ""
+
+msgctxt "369"
+msgid "Cancel the order."
+msgstr ""
+
+msgctxt "387"
+msgid "Order"
+msgstr ""
+
+msgctxt "393"
+msgid "Order the currently selected item.  "
+msgstr ""
+
+msgctxt "430"
+msgid "(I haven't picked anything.)  "
+msgstr ""
+
+msgctxt "461"
+msgid "(I'm short on cash.)  "
+msgstr ""
+
+msgctxt "484"
+msgid "Let's see. That comes to %s."
+msgstr ""
+
+msgctxt "513"
+msgid "(I can't carry any more stuff.)"
+msgstr ""
+
+msgctxt "545"
+msgid "(They're sold out.)"
+msgstr ""
+
+msgctxt "565"
+msgid "A diamond. The king of precious stones."
+msgstr ""
+
+msgctxt "605"
+msgid ""
+"This is a plate made of platinum. Pretty rare and \n"
+"worth a lot."
+msgstr ""
+
+msgctxt "669"
+msgid ""
+"This plate is made of gold. It's worth its weight in... \n"
+"Well, it's made of gold. Need I say more?"
+msgstr ""
+
+msgctxt "768"
+msgid ""
+"This plate is made of silver. Only worth a fraction of a\n"
+"gold plate, but valuable nonetheless."
+msgstr ""
+
+msgctxt "863"
+msgid ""
+"A plate made of bronze. Nothing special, but it could\n"
+"probably fetch some decent cash."
+msgstr ""
+
+msgctxt "950"
+msgid ""
+"This plate is made of iron. Might be more useful for \n"
+"beating someone over the head, but it's still worth a\n"
+"fistful of yen."
+msgstr ""
+
+msgctxt "1074"
+msgid ""
+"This Kamaitachi Brand Cutter is a relatively practical \n"
+"prize with multiple uses."
+msgstr ""
+
+msgctxt "1156"
+msgid "Stronger than iron, as I'm sure you know."
+msgstr ""

@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1448"
+msgid "Man"
+msgstr ""
+
+msgctxt "1452"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1456"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1460"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1464"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "88_Man"
+msgid "Wait a minute, mister. Who gave you permission to come this way?"
+msgstr ""
+
+msgctxt "100_Man"
+msgid ""
+"It's called a toll, and you need to pay it. Now. C'mon, pay up or prepare "
+"for some bruising!"
+msgstr ""
+
+msgctxt "124_Man"
+msgid "I'm sorry! The toll? What toll? There's no toll. Hahaha!"
+msgstr ""
+
+msgctxt "136_Man"
+msgid "This won't make up for much, but please take it."
+msgstr ""
+
+msgctxt "148_Man"
+msgid "You got a tolerable %s."
+msgstr ""
+
+msgctxt "184_Man"
+msgid "You can come and go as you please..."
+msgstr ""

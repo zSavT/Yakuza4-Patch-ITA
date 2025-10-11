@@ -1,0 +1,4176 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "5048"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "5228"
+msgid "I only started playing recently. Hehehe..."
+msgstr ""
+
+msgctxt "5288"
+msgid "Well, if that's where you want to go, %s-san, then we'll go..."
+msgstr ""
+
+msgctxt "5420"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "6656"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "6836"
+msgid "I only started playing recently. Hehehe..."
+msgstr ""
+
+msgctxt "6896"
+msgid "Well, if that's where you want to go, %s-san, then we'll go..."
+msgstr ""
+
+msgctxt "7028"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "7196"
+msgid "Hehehe. I came here early too! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8264"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "8444"
+msgid "I only started playing recently. Hehehe..."
+msgstr ""
+
+msgctxt "8504"
+msgid "Well, if that's where you want to go, %s-san, then we'll go..."
+msgstr ""
+
+msgctxt "8636"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "9608"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "9788"
+msgid "I only started playing recently. Hehehe..."
+msgstr ""
+
+msgctxt "9848"
+msgid "Well, if that's where you want to go, %s-san, then we'll go..."
+msgstr ""
+
+msgctxt "9980"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "10928"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "11108"
+msgid "I only started playing recently. Hehehe..."
+msgstr ""
+
+msgctxt "11168"
+msgid "Well, if that's where you want to go, %s-san, then we'll go..."
+msgstr ""
+
+msgctxt "11300"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "11468"
+msgid "Hehehe. I came here early too! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12248"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "12428"
+msgid "I only started playing recently. Hehehe..."
+msgstr ""
+
+msgctxt "12488"
+msgid "Well, if that's where you want to go, %s-san, then we'll go..."
+msgstr ""
+
+msgctxt "12620"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "13592"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "13772"
+msgid "I only started playing recently. Hehehe..."
+msgstr ""
+
+msgctxt "13832"
+msgid "Well, if that's where you want to go, %s-san, then we'll go..."
+msgstr ""
+
+msgctxt "13964"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "14912"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "15092"
+msgid "I only started playing recently. Hehehe..."
+msgstr ""
+
+msgctxt "15152"
+msgid "Well, if that's where you want to go, %s-san, then we'll go..."
+msgstr ""
+
+msgctxt "15284"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "15452"
+msgid "Hehehe. I came here early too! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16232"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "16412"
+msgid "I only started playing recently. Hehehe..."
+msgstr ""
+
+msgctxt "16472"
+msgid "Well, if that's where you want to go, %s-san, then we'll go..."
+msgstr ""
+
+msgctxt "16604"
+msgid "Still, we can go if you want."
+msgstr ""
+
+msgctxt "185416"
+msgid "望月京子：源氏名"
+msgstr ""
+
+msgctxt "185420"
+msgid "Player"
+msgstr ""
+
+msgctxt "185424"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "185428"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "185432"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "185436"
+msgid "P_sitsofa_tlk_kamae"
+msgstr ""
+
+msgctxt "185440"
+msgid "P_sitsofa"
+msgstr ""
+
+msgctxt "185444"
+msgid "Yasu"
+msgstr ""
+
+msgctxt "185448"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "185452"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "185456"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "185460"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "3872_望月京子：源氏名"
+msgid "Kiryu-san!?"
+msgstr ""
+
+msgctxt "3884_Player"
+msgid "Sorry to keep you waiting."
+msgstr ""
+
+msgctxt "3896_望月京子：源氏名"
+msgid "Umm... Wasn't it supposed to be just us two?"
+msgstr ""
+
+msgctxt "3908_Talk_No"
+msgid "This isn't date-like at all..."
+msgstr ""
+
+msgctxt "3920_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "3932_望月京子：源氏名"
+msgid "I'll be waiting here, so come back on your own, okay?"
+msgstr ""
+
+msgctxt "3944_望月京子：源氏名"
+msgid "Hey! You're late! What, did you just forget about me!?"
+msgstr ""
+
+msgctxt "3956_Player"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "3968_望月京子：源氏名"
+msgid "Well, okay. But you'd better make it up to me."
+msgstr ""
+
+msgctxt "3980_Player"
+msgid "Okay."
+msgstr ""
+
+msgctxt "4040_Yasu"
+msgid "Well, well, look who it is. Kyoko, from my new favorite band, The Orpheus."
+msgstr ""
+
+msgctxt "4052_Yasu"
+msgid "Whoa. You're not on a date, are you?"
+msgstr ""
+
+msgctxt "4064_望月京子：源氏名"
+msgid "That's none of your business! Get lost!"
+msgstr ""
+
+msgctxt "4076_Yasu"
+msgid "Charming as always."
+msgstr ""
+
+msgctxt "4088_Player"
+msgid "Who are these guys?"
+msgstr ""
+
+msgctxt "4100_望月京子：源氏名"
+msgid "Don't worry about them."
+msgstr ""
+
+msgctxt "4112_Yasu"
+msgid ""
+"Wait, you work at a hostess club too, right? So this is a customer! Lucky "
+"you, he looks like quite a catch."
+msgstr ""
+
+msgctxt "4124_Yasu"
+msgid "And your band's getting sooo popular now, too."
+msgstr ""
+
+msgctxt "4136_望月京子：源氏名"
+msgid "You better cut it out or I'm gonna lose it!"
+msgstr ""
+
+msgctxt "4148_Yasu"
+msgid "I just hope your success doesn't affect your \"music.\" Haha!"
+msgstr ""
+
+msgctxt "4196_望月京子：源氏名"
+msgid "......"
+msgstr ""
+
+msgctxt "4208_Player"
+msgid "What's the deal with them?"
+msgstr ""
+
+msgctxt "4220_望月京子：源氏名"
+msgid ""
+"They're from a band called Bad Flag. They're infamous for being pretty "
+"aggressive."
+msgstr ""
+
+msgctxt "4232_望月京子：源氏名"
+msgid "I heard they target popular bands and try to take them down a notch or two."
+msgstr ""
+
+msgctxt "4244_Player"
+msgid "Is that so?"
+msgstr ""
+
+msgctxt "4256_望月京子：源氏名"
+msgid "Sorry about all of this. I didn't mean to ruin our date."
+msgstr ""
+
+msgctxt "4268_Player"
+msgid "Of course not."
+msgstr ""
+
+msgctxt "4280_望月京子：源氏名"
+msgid "Anyway, where do you want to go?"
+msgstr ""
+
+msgctxt "4304_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "4316_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "4328_Player"
+msgid "(We could go shopping.)"
+msgstr ""
+
+msgctxt "4340_Player"
+msgid "(We could go out to eat.)"
+msgstr ""
+
+msgctxt "4352_Player"
+msgid "(What should we do?)"
+msgstr ""
+
+msgctxt "4376_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "4388_望月京子：源氏名"
+msgid "Yakiniku? Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "4400_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "4424_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "4436_望月京子：源氏名"
+msgid "Yakiniku again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "4448_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "4460_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "4496_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "4508_望月京子：源氏名"
+msgid ""
+"Sushi? Heheh... It just so happens that I love sushi. "
+"<Color:7>♥<Color:Default> Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "4520_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "4544_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "4556_望月京子：源氏名"
+msgid "Sushi again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "4568_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "4580_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "4616_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "4628_望月京子：源氏名"
+msgid "Oh my gosh... You're going to buy me something?"
+msgstr ""
+
+msgctxt "4640_Talk_Angry"
+msgid ""
+"Seriously!? I'd be super happy to get a present from you, Kiryu-san! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4652_Talk_Yes"
+msgid "Alright, then let's get on over there! ♪"
+msgstr ""
+
+msgctxt "4676_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "4688_望月京子：源氏名"
+msgid ""
+"Oooh. Are you gonna buy me something again!? I feel kinda bad. That wasn't "
+"the reason I came on a date with you."
+msgstr ""
+
+msgctxt "4700_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "4736_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "4748_望月京子：源氏名"
+msgid ""
+"Hey, that's not a bad idea! ♪ We come to Watami a lot for after parties for "
+"our band. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4760_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "4784_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "4796_望月京子：源氏名"
+msgid ""
+"Okay! That's kinda your go-to date location, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4808_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "4844_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "4856_望月京子：源氏名"
+msgid ""
+"Bowling, huh? I haven't been playing much lately, so I wonder if I'll be "
+"any good."
+msgstr ""
+
+msgctxt "4868_Talk_Smile"
+msgid "It's on, Kiryu-san. ♪"
+msgstr ""
+
+msgctxt "4880_Talk_Yes"
+msgid "Let's head on over."
+msgstr ""
+
+msgctxt "4904_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "4916_望月京子：源氏名"
+msgid "Again? You sure like bowling, Kiryu-san."
+msgstr ""
+
+msgctxt "4928_Talk_Smile"
+msgid ""
+"If we're going on a date, I'd rather we go somewhere different than last "
+"time..."
+msgstr ""
+
+msgctxt "4940_Talk_Yes"
+msgid "Well, whatever. Let's head on over then."
+msgstr ""
+
+msgctxt "4976_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "4988_望月京子：源氏名"
+msgid "Ooh, darts! ♪ It's perfect for someone as cool as me. ♪"
+msgstr ""
+
+msgctxt "5000_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "5024_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "5036_望月京子：源氏名"
+msgid "Darts again? Mm, sorry, but couldn't we go somewhere different this time?"
+msgstr ""
+
+msgctxt "5060_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "5096_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "5108_望月京子：源氏名"
+msgid ""
+"Ahaha! Okay, okay! You want to hear me sing for you, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "5120_Talk_Smile"
+msgid "I'll sing my heart out for you, then!"
+msgstr ""
+
+msgctxt "5144_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "5156_望月京子：源氏名"
+msgid ""
+"Hehehe... You're completely hooked on my singing voice, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "5168_Talk_Yes"
+msgid "Okay, let's head out!"
+msgstr ""
+
+msgctxt "5204_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "5216_望月京子：源氏名"
+msgid "Pool? %s-san, you know how to play pool?"
+msgstr ""
+
+msgctxt "5240_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "5264_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "5276_望月京子：源氏名"
+msgid ""
+"Pool again? If we're going on a date, I'd rather we go somewhere different "
+"than last time..."
+msgstr ""
+
+msgctxt "5300_P_sitsofa_tlk_kamae"
+msgid "Let's get going, then."
+msgstr ""
+
+msgctxt "5336_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "5348_望月京子：源氏名"
+msgid "Golf? Wow, Kiryu-san, you play golf?"
+msgstr ""
+
+msgctxt "5360_P_sitsofa_tlk_kamae"
+msgid "I've never played before, so you better teach me how to play!"
+msgstr ""
+
+msgctxt "5372_Talk_Yes"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "5396_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "5408_望月京子：源氏名"
+msgid ""
+"Golf again? We just did that the other day, and it takes so long. I'd "
+"rather do something we can get over and done with quick."
+msgstr ""
+
+msgctxt "5432_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "5468_Player"
+msgid "Let's hit the hot springs."
+msgstr ""
+
+msgctxt "5480_望月京子：源氏名"
+msgid ""
+"Hot springs and table tennis? I'm pretty good at table tennis! I also sing "
+"in the bath! <Color:7>♥♥<Color:Default>"
+msgstr ""
+
+msgctxt "5492_Talk_Smile"
+msgid "Hehehe... What should I song today? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "5504_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "5528_Player"
+msgid "Let's play table tennis at the hot springs."
+msgstr ""
+
+msgctxt "5540_望月京子：源氏名"
+msgid "Again? %s-san, you must really like table tennis."
+msgstr ""
+
+msgctxt "5552_Talk_Yes"
+msgid "Heheheh. You can't beat me, Kiryu-san. Shall we get going?"
+msgstr ""
+
+msgctxt "5576_望月京子：源氏名"
+msgid "Oh, Kiryu-san. You're here!"
+msgstr ""
+
+msgctxt "5588_Talk_Smile"
+msgid "And just on time, too. That's so you, Kiryu-san."
+msgstr ""
+
+msgctxt "5648_Yasu"
+msgid "Well, well, look who it is. Kyoko, from my new favorite band, The Orpheus."
+msgstr ""
+
+msgctxt "5660_Yasu"
+msgid "Whoa. You're not on a date, are you?"
+msgstr ""
+
+msgctxt "5672_望月京子：源氏名"
+msgid "That's none of your business! Get lost!"
+msgstr ""
+
+msgctxt "5684_Yasu"
+msgid "Charming as always."
+msgstr ""
+
+msgctxt "5696_Player"
+msgid "Who are these guys?"
+msgstr ""
+
+msgctxt "5708_望月京子：源氏名"
+msgid "Don't worry about them."
+msgstr ""
+
+msgctxt "5720_Yasu"
+msgid ""
+"Wait, you work at a hostess club too, right? So this is a customer! Lucky "
+"you, he looks like quite a catch."
+msgstr ""
+
+msgctxt "5732_Yasu"
+msgid "And your band's getting sooo popular now, too."
+msgstr ""
+
+msgctxt "5744_望月京子：源氏名"
+msgid "You better cut it out or I'm gonna lose it!"
+msgstr ""
+
+msgctxt "5756_Yasu"
+msgid "I just hope your success doesn't affect your \"music.\" Haha!"
+msgstr ""
+
+msgctxt "5804_望月京子：源氏名"
+msgid "......"
+msgstr ""
+
+msgctxt "5816_Player"
+msgid "What's the deal with them?"
+msgstr ""
+
+msgctxt "5828_望月京子：源氏名"
+msgid ""
+"They're from a band called Bad Flag. They're infamous for being pretty "
+"aggressive."
+msgstr ""
+
+msgctxt "5840_望月京子：源氏名"
+msgid "I heard they target popular bands and try to take them down a notch or two."
+msgstr ""
+
+msgctxt "5852_Player"
+msgid "Is that so?"
+msgstr ""
+
+msgctxt "5864_望月京子：源氏名"
+msgid "Sorry about all of this. I didn't mean to ruin our date."
+msgstr ""
+
+msgctxt "5876_Player"
+msgid "Of course not."
+msgstr ""
+
+msgctxt "5888_望月京子：源氏名"
+msgid "Anyway, where do you want to go?"
+msgstr ""
+
+msgctxt "5912_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "5924_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "5936_Player"
+msgid "(We could go shopping.)"
+msgstr ""
+
+msgctxt "5948_Player"
+msgid "(We could go out to eat.)"
+msgstr ""
+
+msgctxt "5960_Player"
+msgid "(What should we do?)"
+msgstr ""
+
+msgctxt "5984_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "5996_望月京子：源氏名"
+msgid "Yakiniku? Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "6008_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "6032_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "6044_望月京子：源氏名"
+msgid "Yakiniku again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "6056_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "6068_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "6104_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "6116_望月京子：源氏名"
+msgid ""
+"Sushi? Heheh... It just so happens that I love sushi. "
+"<Color:7>♥<Color:Default> Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "6128_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "6152_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "6164_望月京子：源氏名"
+msgid "Sushi again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "6176_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "6188_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "6224_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "6236_望月京子：源氏名"
+msgid "Oh my gosh... You're going to buy me something?"
+msgstr ""
+
+msgctxt "6248_Talk_Angry"
+msgid ""
+"Seriously!? I'd be super happy to get a present from you, Kiryu-san! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6260_Talk_Yes"
+msgid "Alright, then let's get on over there! ♪"
+msgstr ""
+
+msgctxt "6284_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "6296_望月京子：源氏名"
+msgid ""
+"Oooh. Are you gonna buy me something again!? I feel kinda bad. That wasn't "
+"the reason I came on a date with you."
+msgstr ""
+
+msgctxt "6308_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "6344_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "6356_望月京子：源氏名"
+msgid ""
+"Hey, that's not a bad idea! ♪ We come to Watami a lot for after parties for "
+"our band. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6368_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "6392_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "6404_望月京子：源氏名"
+msgid ""
+"Okay! That's kinda your go-to date location, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6416_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "6452_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "6464_望月京子：源氏名"
+msgid ""
+"Bowling, huh? I haven't been playing much lately, so I wonder if I'll be "
+"any good."
+msgstr ""
+
+msgctxt "6476_Talk_Smile"
+msgid "It's on, Kiryu-san. ♪"
+msgstr ""
+
+msgctxt "6488_Talk_Yes"
+msgid "Let's head on over."
+msgstr ""
+
+msgctxt "6512_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "6524_望月京子：源氏名"
+msgid "Again? You sure like bowling, Kiryu-san."
+msgstr ""
+
+msgctxt "6536_Talk_Smile"
+msgid ""
+"If we're going on a date, I'd rather we go somewhere different than last "
+"time..."
+msgstr ""
+
+msgctxt "6548_Talk_Yes"
+msgid "Well, whatever. Let's head on over then."
+msgstr ""
+
+msgctxt "6584_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "6596_望月京子：源氏名"
+msgid "Ooh, darts! ♪ It's perfect for someone as cool as me. ♪"
+msgstr ""
+
+msgctxt "6608_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "6632_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "6644_望月京子：源氏名"
+msgid "Darts again? Mm, sorry, but couldn't we go somewhere different this time?"
+msgstr ""
+
+msgctxt "6668_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "6704_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "6716_望月京子：源氏名"
+msgid ""
+"Ahaha! Okay, okay! You want to hear me sing for you, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6728_Talk_Smile"
+msgid "I'll sing my heart out for you, then!"
+msgstr ""
+
+msgctxt "6752_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "6764_望月京子：源氏名"
+msgid ""
+"Hehehe... You're completely hooked on my singing voice, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6776_Talk_Yes"
+msgid "Okay, let's head out!"
+msgstr ""
+
+msgctxt "6812_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "6824_望月京子：源氏名"
+msgid "Pool? %s-san, you know how to play pool?"
+msgstr ""
+
+msgctxt "6848_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "6872_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "6884_望月京子：源氏名"
+msgid ""
+"Pool again? If we're going on a date, I'd rather we go somewhere different "
+"than last time..."
+msgstr ""
+
+msgctxt "6908_P_sitsofa_tlk_kamae"
+msgid "Let's get going, then."
+msgstr ""
+
+msgctxt "6944_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "6956_望月京子：源氏名"
+msgid "Golf? Wow, Kiryu-san, you play golf?"
+msgstr ""
+
+msgctxt "6968_P_sitsofa_tlk_kamae"
+msgid "I've never played before, so you better teach me how to play!"
+msgstr ""
+
+msgctxt "6980_Talk_Yes"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "7004_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "7016_望月京子：源氏名"
+msgid ""
+"Golf again? We just did that the other day, and it takes so long. I'd "
+"rather do something we can get over and done with quick."
+msgstr ""
+
+msgctxt "7040_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "7076_Player"
+msgid "Let's hit the hot springs."
+msgstr ""
+
+msgctxt "7088_望月京子：源氏名"
+msgid ""
+"Hot springs and table tennis? I'm pretty good at table tennis! I also sing "
+"in the bath! <Color:7>♥♥<Color:Default>"
+msgstr ""
+
+msgctxt "7100_Talk_Smile"
+msgid "Hehehe... What should I song today? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "7112_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "7136_Player"
+msgid "Let's play table tennis at the hot springs."
+msgstr ""
+
+msgctxt "7148_望月京子：源氏名"
+msgid "Again? %s-san, you must really like table tennis."
+msgstr ""
+
+msgctxt "7160_Talk_Yes"
+msgid "Heheheh. You can't beat me, Kiryu-san. Shall we get going?"
+msgstr ""
+
+msgctxt "7184_望月京子：源氏名"
+msgid "Oh, Kiryu-san. You're early!"
+msgstr ""
+
+msgctxt "7256_Yasu"
+msgid "Well, well, look who it is. Kyoko, from my new favorite band, The Orpheus."
+msgstr ""
+
+msgctxt "7268_Yasu"
+msgid "Whoa. You're not on a date, are you?"
+msgstr ""
+
+msgctxt "7280_望月京子：源氏名"
+msgid "That's none of your business! Get lost!"
+msgstr ""
+
+msgctxt "7292_Yasu"
+msgid "Charming as always."
+msgstr ""
+
+msgctxt "7304_Player"
+msgid "Who are these guys?"
+msgstr ""
+
+msgctxt "7316_望月京子：源氏名"
+msgid "Don't worry about them."
+msgstr ""
+
+msgctxt "7328_Yasu"
+msgid ""
+"Wait, you work at a hostess club too, right? So this is a customer! Lucky "
+"you, he looks like quite a catch."
+msgstr ""
+
+msgctxt "7340_Yasu"
+msgid "And your band's getting sooo popular now, too."
+msgstr ""
+
+msgctxt "7352_望月京子：源氏名"
+msgid "You better cut it out or I'm gonna lose it!"
+msgstr ""
+
+msgctxt "7364_Yasu"
+msgid "I just hope your success doesn't affect your \"music.\" Haha!"
+msgstr ""
+
+msgctxt "7412_望月京子：源氏名"
+msgid "......"
+msgstr ""
+
+msgctxt "7424_Player"
+msgid "What's the deal with them?"
+msgstr ""
+
+msgctxt "7436_望月京子：源氏名"
+msgid ""
+"They're from a band called Bad Flag. They're infamous for being pretty "
+"aggressive."
+msgstr ""
+
+msgctxt "7448_望月京子：源氏名"
+msgid "I heard they target popular bands and try to take them down a notch or two."
+msgstr ""
+
+msgctxt "7460_Player"
+msgid "Is that so?"
+msgstr ""
+
+msgctxt "7472_望月京子：源氏名"
+msgid "Sorry about all of this. I didn't mean to ruin our date."
+msgstr ""
+
+msgctxt "7484_Player"
+msgid "Of course not."
+msgstr ""
+
+msgctxt "7496_望月京子：源氏名"
+msgid "Anyway, where do you want to go?"
+msgstr ""
+
+msgctxt "7520_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "7532_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "7544_Player"
+msgid "(We could go shopping.)"
+msgstr ""
+
+msgctxt "7556_Player"
+msgid "(We could go out to eat.)"
+msgstr ""
+
+msgctxt "7568_Player"
+msgid "(What should we do?)"
+msgstr ""
+
+msgctxt "7592_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "7604_望月京子：源氏名"
+msgid "Yakiniku? Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "7616_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "7640_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "7652_望月京子：源氏名"
+msgid "Yakiniku again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "7664_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "7676_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "7712_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "7724_望月京子：源氏名"
+msgid ""
+"Sushi? Heheh... It just so happens that I love sushi. "
+"<Color:7>♥<Color:Default> Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "7736_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "7760_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "7772_望月京子：源氏名"
+msgid "Sushi again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "7784_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "7796_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "7832_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "7844_望月京子：源氏名"
+msgid "Oh my gosh... You're going to buy me something?"
+msgstr ""
+
+msgctxt "7856_Talk_Angry"
+msgid ""
+"Seriously!? I'd be super happy to get a present from you, Kiryu-san! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "7868_Talk_Yes"
+msgid "Alright, then let's get on over there! ♪"
+msgstr ""
+
+msgctxt "7892_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "7904_望月京子：源氏名"
+msgid ""
+"Oooh. Are you gonna buy me something again!? I feel kinda bad. That wasn't "
+"the reason I came on a date with you."
+msgstr ""
+
+msgctxt "7916_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "7952_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "7964_望月京子：源氏名"
+msgid ""
+"Hey, that's not a bad idea! ♪ We come to Watami a lot for after parties for "
+"our band. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "7976_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "8000_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "8012_望月京子：源氏名"
+msgid ""
+"Okay! That's kinda your go-to date location, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8024_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "8060_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "8072_望月京子：源氏名"
+msgid ""
+"Bowling, huh? I haven't been playing much lately, so I wonder if I'll be "
+"any good."
+msgstr ""
+
+msgctxt "8084_Talk_Smile"
+msgid "It's on, Kiryu-san. ♪"
+msgstr ""
+
+msgctxt "8096_Talk_Yes"
+msgid "Let's head on over."
+msgstr ""
+
+msgctxt "8120_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "8132_望月京子：源氏名"
+msgid "Again? You sure like bowling, Kiryu-san."
+msgstr ""
+
+msgctxt "8144_Talk_Smile"
+msgid ""
+"If we're going on a date, I'd rather we go somewhere different than last "
+"time..."
+msgstr ""
+
+msgctxt "8156_Talk_Yes"
+msgid "Well, whatever. Let's head on over then."
+msgstr ""
+
+msgctxt "8192_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "8204_望月京子：源氏名"
+msgid "Ooh, darts! ♪ It's perfect for someone as cool as me. ♪"
+msgstr ""
+
+msgctxt "8216_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "8240_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "8252_望月京子：源氏名"
+msgid "Darts again? Mm, sorry, but couldn't we go somewhere different this time?"
+msgstr ""
+
+msgctxt "8276_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "8312_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "8324_望月京子：源氏名"
+msgid ""
+"Ahaha! Okay, okay! You want to hear me sing for you, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8336_Talk_Smile"
+msgid "I'll sing my heart out for you, then!"
+msgstr ""
+
+msgctxt "8360_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "8372_望月京子：源氏名"
+msgid ""
+"Hehehe... You're completely hooked on my singing voice, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8384_Talk_Yes"
+msgid "Okay, let's head out!"
+msgstr ""
+
+msgctxt "8420_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "8432_望月京子：源氏名"
+msgid "Pool? %s-san, you know how to play pool?"
+msgstr ""
+
+msgctxt "8456_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "8480_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "8492_望月京子：源氏名"
+msgid ""
+"Pool again? If we're going on a date, I'd rather we go somewhere different "
+"than last time..."
+msgstr ""
+
+msgctxt "8516_P_sitsofa_tlk_kamae"
+msgid "Let's get going, then."
+msgstr ""
+
+msgctxt "8552_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "8564_望月京子：源氏名"
+msgid "Golf? Wow, Kiryu-san, you play golf?"
+msgstr ""
+
+msgctxt "8576_P_sitsofa_tlk_kamae"
+msgid "I've never played before, so you better teach me how to play!"
+msgstr ""
+
+msgctxt "8588_Talk_Yes"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "8612_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "8624_望月京子：源氏名"
+msgid ""
+"Golf again? We just did that the other day, and it takes so long. I'd "
+"rather do something we can get over and done with quick."
+msgstr ""
+
+msgctxt "8648_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "8684_Player"
+msgid "Let's hit the hot springs."
+msgstr ""
+
+msgctxt "8696_望月京子：源氏名"
+msgid ""
+"Hot springs and table tennis? I'm pretty good at table tennis! I also sing "
+"in the bath! <Color:7>♥♥<Color:Default>"
+msgstr ""
+
+msgctxt "8708_Talk_Smile"
+msgid "Hehehe... What should I song today? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8720_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "8744_Player"
+msgid "Let's play table tennis at the hot springs."
+msgstr ""
+
+msgctxt "8756_望月京子：源氏名"
+msgid "Again? %s-san, you must really like table tennis."
+msgstr ""
+
+msgctxt "8768_Talk_Yes"
+msgid "Heheheh. You can't beat me, Kiryu-san. Shall we get going?"
+msgstr ""
+
+msgctxt "8792_望月京子：源氏名"
+msgid "Hey! You're late! What, did you just forget about me!?"
+msgstr ""
+
+msgctxt "8804_Player"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "8816_望月京子：源氏名"
+msgid "Well, okay. But you'd better make it up to me."
+msgstr ""
+
+msgctxt "8828_Player"
+msgid "Okay."
+msgstr ""
+
+msgctxt "8840_望月京子：源氏名"
+msgid "Anyway, where do you want to go?"
+msgstr ""
+
+msgctxt "8864_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "8876_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "8888_Player"
+msgid "(We could go shopping.)"
+msgstr ""
+
+msgctxt "8900_Player"
+msgid "(We could go out to eat.)"
+msgstr ""
+
+msgctxt "8912_Player"
+msgid "(What should we do?)"
+msgstr ""
+
+msgctxt "8936_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "8948_望月京子：源氏名"
+msgid "Yakiniku? Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "8960_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "8984_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "8996_望月京子：源氏名"
+msgid "Yakiniku again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "9008_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "9020_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "9056_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "9068_望月京子：源氏名"
+msgid ""
+"Sushi? Heheh... It just so happens that I love sushi. "
+"<Color:7>♥<Color:Default> Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "9080_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "9104_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "9116_望月京子：源氏名"
+msgid "Sushi again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "9128_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "9140_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "9176_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "9188_望月京子：源氏名"
+msgid "Oh my gosh... You're going to buy me something?"
+msgstr ""
+
+msgctxt "9200_Talk_Angry"
+msgid ""
+"Seriously!? I'd be super happy to get a present from you, Kiryu-san! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "9212_Talk_Yes"
+msgid "Alright, then let's get on over there! ♪"
+msgstr ""
+
+msgctxt "9236_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "9248_望月京子：源氏名"
+msgid ""
+"Oooh. Are you gonna buy me something again!? I feel kinda bad. That wasn't "
+"the reason I came on a date with you."
+msgstr ""
+
+msgctxt "9260_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "9296_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "9308_望月京子：源氏名"
+msgid ""
+"Hey, that's not a bad idea! ♪ We come to Watami a lot for after parties for "
+"our band. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "9320_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "9344_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "9356_望月京子：源氏名"
+msgid ""
+"Okay! That's kinda your go-to date location, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "9368_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "9404_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "9416_望月京子：源氏名"
+msgid ""
+"Bowling, huh? I haven't been playing much lately, so I wonder if I'll be "
+"any good."
+msgstr ""
+
+msgctxt "9428_Talk_Smile"
+msgid "It's on, Kiryu-san. ♪"
+msgstr ""
+
+msgctxt "9440_Talk_Yes"
+msgid "Let's head on over."
+msgstr ""
+
+msgctxt "9464_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "9476_望月京子：源氏名"
+msgid "Again? You sure like bowling, Kiryu-san."
+msgstr ""
+
+msgctxt "9488_Talk_Smile"
+msgid ""
+"If we're going on a date, I'd rather we go somewhere different than last "
+"time..."
+msgstr ""
+
+msgctxt "9500_Talk_Yes"
+msgid "Well, whatever. Let's head on over then."
+msgstr ""
+
+msgctxt "9536_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "9548_望月京子：源氏名"
+msgid "Ooh, darts! ♪ It's perfect for someone as cool as me. ♪"
+msgstr ""
+
+msgctxt "9560_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "9584_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "9596_望月京子：源氏名"
+msgid "Darts again? Mm, sorry, but couldn't we go somewhere different this time?"
+msgstr ""
+
+msgctxt "9620_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "9656_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "9668_望月京子：源氏名"
+msgid ""
+"Ahaha! Okay, okay! You want to hear me sing for you, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "9680_Talk_Smile"
+msgid "I'll sing my heart out for you, then!"
+msgstr ""
+
+msgctxt "9704_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "9716_望月京子：源氏名"
+msgid ""
+"Hehehe... You're completely hooked on my singing voice, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "9728_Talk_Yes"
+msgid "Okay, let's head out!"
+msgstr ""
+
+msgctxt "9764_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "9776_望月京子：源氏名"
+msgid "Pool? %s-san, you know how to play pool?"
+msgstr ""
+
+msgctxt "9800_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "9824_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "9836_望月京子：源氏名"
+msgid ""
+"Pool again? If we're going on a date, I'd rather we go somewhere different "
+"than last time..."
+msgstr ""
+
+msgctxt "9860_P_sitsofa_tlk_kamae"
+msgid "Let's get going, then."
+msgstr ""
+
+msgctxt "9896_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "9908_望月京子：源氏名"
+msgid "Golf? Wow, Kiryu-san, you play golf?"
+msgstr ""
+
+msgctxt "9920_P_sitsofa_tlk_kamae"
+msgid "I've never played before, so you better teach me how to play!"
+msgstr ""
+
+msgctxt "9932_Talk_Yes"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "9956_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "9968_望月京子：源氏名"
+msgid ""
+"Golf again? We just did that the other day, and it takes so long. I'd "
+"rather do something we can get over and done with quick."
+msgstr ""
+
+msgctxt "9992_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "10028_Player"
+msgid "Let's hit the hot springs."
+msgstr ""
+
+msgctxt "10040_望月京子：源氏名"
+msgid ""
+"Hot springs and table tennis? I'm pretty good at table tennis! I also sing "
+"in the bath! <Color:7>♥♥<Color:Default>"
+msgstr ""
+
+msgctxt "10052_Talk_Smile"
+msgid "Hehehe... What should I song today? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "10064_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "10088_Player"
+msgid "Let's play table tennis at the hot springs."
+msgstr ""
+
+msgctxt "10100_望月京子：源氏名"
+msgid "Again? %s-san, you must really like table tennis."
+msgstr ""
+
+msgctxt "10112_Talk_Yes"
+msgid "Heheheh. You can't beat me, Kiryu-san. Shall we get going?"
+msgstr ""
+
+msgctxt "10136_望月京子：源氏名"
+msgid "You're here!"
+msgstr ""
+
+msgctxt "10148_Talk_Smile"
+msgid "And just on time, too. That's so you, Kiryu-san."
+msgstr ""
+
+msgctxt "10160_望月京子：源氏名"
+msgid "Anyway, where do you want to go?"
+msgstr ""
+
+msgctxt "10184_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "10196_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "10208_Player"
+msgid "(We could go shopping.)"
+msgstr ""
+
+msgctxt "10220_Player"
+msgid "(We could go out to eat.)"
+msgstr ""
+
+msgctxt "10232_Player"
+msgid "(What should we do?)"
+msgstr ""
+
+msgctxt "10256_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "10268_望月京子：源氏名"
+msgid "Yakiniku? Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "10280_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "10304_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "10316_望月京子：源氏名"
+msgid "Yakiniku again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "10328_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "10340_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "10376_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "10388_望月京子：源氏名"
+msgid ""
+"Sushi? Heheh... It just so happens that I love sushi. "
+"<Color:7>♥<Color:Default> Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "10400_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "10424_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "10436_望月京子：源氏名"
+msgid "Sushi again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "10448_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "10460_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "10496_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "10508_望月京子：源氏名"
+msgid "Oh my gosh... You're going to buy me something?"
+msgstr ""
+
+msgctxt "10520_Talk_Angry"
+msgid ""
+"Seriously!? I'd be super happy to get a present from you, Kiryu-san! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "10532_Talk_Yes"
+msgid "Alright, then let's get on over there! ♪"
+msgstr ""
+
+msgctxt "10556_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "10568_望月京子：源氏名"
+msgid ""
+"Oooh. Are you gonna buy me something again!? I feel kinda bad. That wasn't "
+"the reason I came on a date with you."
+msgstr ""
+
+msgctxt "10580_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "10616_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "10628_望月京子：源氏名"
+msgid ""
+"Hey, that's not a bad idea! ♪ We come to Watami a lot for after parties for "
+"our band. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "10640_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "10664_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "10676_望月京子：源氏名"
+msgid ""
+"Okay! That's kinda your go-to date location, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "10688_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "10724_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "10736_望月京子：源氏名"
+msgid ""
+"Bowling, huh? I haven't been playing much lately, so I wonder if I'll be "
+"any good."
+msgstr ""
+
+msgctxt "10748_Talk_Smile"
+msgid "It's on, Kiryu-san. ♪"
+msgstr ""
+
+msgctxt "10760_Talk_Yes"
+msgid "Let's head on over."
+msgstr ""
+
+msgctxt "10784_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "10796_望月京子：源氏名"
+msgid "Again? You sure like bowling, Kiryu-san."
+msgstr ""
+
+msgctxt "10808_Talk_Smile"
+msgid ""
+"If we're going on a date, I'd rather we go somewhere different than last "
+"time..."
+msgstr ""
+
+msgctxt "10820_Talk_Yes"
+msgid "Well, whatever. Let's head on over then."
+msgstr ""
+
+msgctxt "10856_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "10868_望月京子：源氏名"
+msgid "Ooh, darts! ♪ It's perfect for someone as cool as me. ♪"
+msgstr ""
+
+msgctxt "10880_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "10904_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "10916_望月京子：源氏名"
+msgid "Darts again? Mm, sorry, but couldn't we go somewhere different this time?"
+msgstr ""
+
+msgctxt "10940_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "10976_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "10988_望月京子：源氏名"
+msgid ""
+"Ahaha! Okay, okay! You want to hear me sing for you, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "11000_Talk_Smile"
+msgid "I'll sing my heart out for you, then!"
+msgstr ""
+
+msgctxt "11024_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "11036_望月京子：源氏名"
+msgid ""
+"Hehehe... You're completely hooked on my singing voice, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "11048_Talk_Yes"
+msgid "Okay, let's head out!"
+msgstr ""
+
+msgctxt "11084_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "11096_望月京子：源氏名"
+msgid "Pool? %s-san, you know how to play pool?"
+msgstr ""
+
+msgctxt "11120_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "11144_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "11156_望月京子：源氏名"
+msgid ""
+"Pool again? If we're going on a date, I'd rather we go somewhere different "
+"than last time..."
+msgstr ""
+
+msgctxt "11180_P_sitsofa_tlk_kamae"
+msgid "Let's get going, then."
+msgstr ""
+
+msgctxt "11216_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "11228_望月京子：源氏名"
+msgid "Golf? Wow, Kiryu-san, you play golf?"
+msgstr ""
+
+msgctxt "11240_P_sitsofa_tlk_kamae"
+msgid "I've never played before, so you better teach me how to play!"
+msgstr ""
+
+msgctxt "11252_Talk_Yes"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "11276_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "11288_望月京子：源氏名"
+msgid ""
+"Golf again? We just did that the other day, and it takes so long. I'd "
+"rather do something we can get over and done with quick."
+msgstr ""
+
+msgctxt "11312_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "11348_Player"
+msgid "Let's hit the hot springs."
+msgstr ""
+
+msgctxt "11360_望月京子：源氏名"
+msgid ""
+"Hot springs and table tennis? I'm pretty good at table tennis! I also sing "
+"in the bath! <Color:7>♥♥<Color:Default>"
+msgstr ""
+
+msgctxt "11372_Talk_Smile"
+msgid "Hehehe... What should I song today? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "11384_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "11408_Player"
+msgid "Let's play table tennis at the hot springs."
+msgstr ""
+
+msgctxt "11420_望月京子：源氏名"
+msgid "Again? %s-san, you must really like table tennis."
+msgstr ""
+
+msgctxt "11432_Talk_Yes"
+msgid "Heheheh. You can't beat me, Kiryu-san. Shall we get going?"
+msgstr ""
+
+msgctxt "11456_望月京子：源氏名"
+msgid "Oh, Kiryu-san. You're early!"
+msgstr ""
+
+msgctxt "11480_望月京子：源氏名"
+msgid "Anyway, where do you want to go?"
+msgstr ""
+
+msgctxt "11504_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "11516_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "11528_Player"
+msgid "(We could go shopping.)"
+msgstr ""
+
+msgctxt "11540_Player"
+msgid "(We could go out to eat.)"
+msgstr ""
+
+msgctxt "11552_Player"
+msgid "(What should we do?)"
+msgstr ""
+
+msgctxt "11576_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "11588_望月京子：源氏名"
+msgid "Yakiniku? Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "11600_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "11624_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "11636_望月京子：源氏名"
+msgid "Yakiniku again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "11648_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "11660_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "11696_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "11708_望月京子：源氏名"
+msgid ""
+"Sushi? Heheh... It just so happens that I love sushi. "
+"<Color:7>♥<Color:Default> Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "11720_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "11744_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "11756_望月京子：源氏名"
+msgid "Sushi again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "11768_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "11780_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "11816_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "11828_望月京子：源氏名"
+msgid "Oh my gosh... You're going to buy me something?"
+msgstr ""
+
+msgctxt "11840_Talk_Angry"
+msgid ""
+"Seriously!? I'd be super happy to get a present from you, Kiryu-san! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "11852_Talk_Yes"
+msgid "Alright, then let's get on over there! ♪"
+msgstr ""
+
+msgctxt "11876_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "11888_望月京子：源氏名"
+msgid ""
+"Oooh. Are you gonna buy me something again!? I feel kinda bad. That wasn't "
+"the reason I came on a date with you."
+msgstr ""
+
+msgctxt "11900_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "11936_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "11948_望月京子：源氏名"
+msgid ""
+"Hey, that's not a bad idea! ♪ We come to Watami a lot for after parties for "
+"our band. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "11960_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "11984_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "11996_望月京子：源氏名"
+msgid ""
+"Okay! That's kinda your go-to date location, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12008_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "12044_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "12056_望月京子：源氏名"
+msgid ""
+"Bowling, huh? I haven't been playing much lately, so I wonder if I'll be "
+"any good."
+msgstr ""
+
+msgctxt "12068_Talk_Smile"
+msgid "It's on, Kiryu-san. ♪"
+msgstr ""
+
+msgctxt "12080_Talk_Yes"
+msgid "Let's head on over."
+msgstr ""
+
+msgctxt "12104_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "12116_望月京子：源氏名"
+msgid "Again? You sure like bowling, Kiryu-san."
+msgstr ""
+
+msgctxt "12128_Talk_Smile"
+msgid ""
+"If we're going on a date, I'd rather we go somewhere different than last "
+"time..."
+msgstr ""
+
+msgctxt "12140_Talk_Yes"
+msgid "Well, whatever. Let's head on over then."
+msgstr ""
+
+msgctxt "12176_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "12188_望月京子：源氏名"
+msgid "Ooh, darts! ♪ It's perfect for someone as cool as me. ♪"
+msgstr ""
+
+msgctxt "12200_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "12224_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "12236_望月京子：源氏名"
+msgid "Darts again? Mm, sorry, but couldn't we go somewhere different this time?"
+msgstr ""
+
+msgctxt "12260_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "12296_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "12308_望月京子：源氏名"
+msgid ""
+"Ahaha! Okay, okay! You want to hear me sing for you, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12320_Talk_Smile"
+msgid "I'll sing my heart out for you, then!"
+msgstr ""
+
+msgctxt "12344_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "12356_望月京子：源氏名"
+msgid ""
+"Hehehe... You're completely hooked on my singing voice, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12368_Talk_Yes"
+msgid "Okay, let's head out!"
+msgstr ""
+
+msgctxt "12404_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "12416_望月京子：源氏名"
+msgid "Pool? %s-san, you know how to play pool?"
+msgstr ""
+
+msgctxt "12440_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "12464_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "12476_望月京子：源氏名"
+msgid ""
+"Pool again? If we're going on a date, I'd rather we go somewhere different "
+"than last time..."
+msgstr ""
+
+msgctxt "12500_P_sitsofa_tlk_kamae"
+msgid "Let's get going, then."
+msgstr ""
+
+msgctxt "12536_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "12548_望月京子：源氏名"
+msgid "Golf? Wow, Kiryu-san, you play golf?"
+msgstr ""
+
+msgctxt "12560_P_sitsofa_tlk_kamae"
+msgid "I've never played before, so you better teach me how to play!"
+msgstr ""
+
+msgctxt "12572_Talk_Yes"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "12596_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "12608_望月京子：源氏名"
+msgid ""
+"Golf again? We just did that the other day, and it takes so long. I'd "
+"rather do something we can get over and done with quick."
+msgstr ""
+
+msgctxt "12632_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "12668_Player"
+msgid "Let's hit the hot springs."
+msgstr ""
+
+msgctxt "12680_望月京子：源氏名"
+msgid ""
+"Hot springs and table tennis? I'm pretty good at table tennis! I also sing "
+"in the bath! <Color:7>♥♥<Color:Default>"
+msgstr ""
+
+msgctxt "12692_Talk_Smile"
+msgid "Hehehe... What should I song today? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12704_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "12728_Player"
+msgid "Let's play table tennis at the hot springs."
+msgstr ""
+
+msgctxt "12740_望月京子：源氏名"
+msgid "Again? %s-san, you must really like table tennis."
+msgstr ""
+
+msgctxt "12752_Talk_Yes"
+msgid "Heheheh. You can't beat me, Kiryu-san. Shall we get going?"
+msgstr ""
+
+msgctxt "12776_望月京子：源氏名"
+msgid "Hey! You're late! What, did you just forget about me!?"
+msgstr ""
+
+msgctxt "12788_Player"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "12800_望月京子：源氏名"
+msgid "Well, okay. But you'd better make it up to me."
+msgstr ""
+
+msgctxt "12812_Player"
+msgid "Okay."
+msgstr ""
+
+msgctxt "12824_望月京子：源氏名"
+msgid "Anyway, where do you want to go?"
+msgstr ""
+
+msgctxt "12848_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "12860_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "12872_Player"
+msgid "(We could go shopping.)"
+msgstr ""
+
+msgctxt "12884_Player"
+msgid "(We could go out to eat.)"
+msgstr ""
+
+msgctxt "12896_Player"
+msgid "(What should we do?)"
+msgstr ""
+
+msgctxt "12920_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "12932_望月京子：源氏名"
+msgid "Yakiniku? Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "12944_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "12968_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "12980_望月京子：源氏名"
+msgid "Yakiniku again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "12992_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "13004_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "13040_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "13052_望月京子：源氏名"
+msgid ""
+"Sushi? Heheh... It just so happens that I love sushi. "
+"<Color:7>♥<Color:Default> Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "13064_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "13088_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "13100_望月京子：源氏名"
+msgid "Sushi again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "13112_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "13124_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "13160_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "13172_望月京子：源氏名"
+msgid "Oh my gosh... You're going to buy me something?"
+msgstr ""
+
+msgctxt "13184_Talk_Angry"
+msgid ""
+"Seriously!? I'd be super happy to get a present from you, Kiryu-san! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13196_Talk_Yes"
+msgid "Alright, then let's get on over there! ♪"
+msgstr ""
+
+msgctxt "13220_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "13232_望月京子：源氏名"
+msgid ""
+"Oooh. Are you gonna buy me something again!? I feel kinda bad. That wasn't "
+"the reason I came on a date with you."
+msgstr ""
+
+msgctxt "13244_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "13280_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "13292_望月京子：源氏名"
+msgid ""
+"Hey, that's not a bad idea! ♪ We come to Watami a lot for after parties for "
+"our band. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13304_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "13328_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "13340_望月京子：源氏名"
+msgid ""
+"Okay! That's kinda your go-to date location, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13352_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "13388_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "13400_望月京子：源氏名"
+msgid ""
+"Bowling, huh? I haven't been playing much lately, so I wonder if I'll be "
+"any good."
+msgstr ""
+
+msgctxt "13412_Talk_Smile"
+msgid "It's on, Kiryu-san. ♪"
+msgstr ""
+
+msgctxt "13424_Talk_Yes"
+msgid "Let's head on over."
+msgstr ""
+
+msgctxt "13448_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "13460_望月京子：源氏名"
+msgid "Again? You sure like bowling, Kiryu-san."
+msgstr ""
+
+msgctxt "13472_Talk_Smile"
+msgid ""
+"If we're going on a date, I'd rather we go somewhere different than last "
+"time..."
+msgstr ""
+
+msgctxt "13484_Talk_Yes"
+msgid "Well, whatever. Let's head on over then."
+msgstr ""
+
+msgctxt "13520_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "13532_望月京子：源氏名"
+msgid "Ooh, darts! ♪ It's perfect for someone as cool as me. ♪"
+msgstr ""
+
+msgctxt "13544_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "13568_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "13580_望月京子：源氏名"
+msgid "Darts again? Mm, sorry, but couldn't we go somewhere different this time?"
+msgstr ""
+
+msgctxt "13604_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "13640_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "13652_望月京子：源氏名"
+msgid ""
+"Ahaha! Okay, okay! You want to hear me sing for you, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13664_Talk_Smile"
+msgid "I'll sing my heart out for you, then!"
+msgstr ""
+
+msgctxt "13688_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "13700_望月京子：源氏名"
+msgid ""
+"Hehehe... You're completely hooked on my singing voice, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13712_Talk_Yes"
+msgid "Okay, let's head out!"
+msgstr ""
+
+msgctxt "13748_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "13760_望月京子：源氏名"
+msgid "Pool? %s-san, you know how to play pool?"
+msgstr ""
+
+msgctxt "13784_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "13808_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "13820_望月京子：源氏名"
+msgid ""
+"Pool again? If we're going on a date, I'd rather we go somewhere different "
+"than last time..."
+msgstr ""
+
+msgctxt "13844_P_sitsofa_tlk_kamae"
+msgid "Let's get going, then."
+msgstr ""
+
+msgctxt "13880_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "13892_望月京子：源氏名"
+msgid "Golf? Wow, Kiryu-san, you play golf?"
+msgstr ""
+
+msgctxt "13904_P_sitsofa_tlk_kamae"
+msgid "I've never played before, so you better teach me how to play!"
+msgstr ""
+
+msgctxt "13916_Talk_Yes"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "13940_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "13952_望月京子：源氏名"
+msgid ""
+"Golf again? We just did that the other day, and it takes so long. I'd "
+"rather do something we can get over and done with quick."
+msgstr ""
+
+msgctxt "13976_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "14012_Player"
+msgid "Let's hit the hot springs."
+msgstr ""
+
+msgctxt "14024_望月京子：源氏名"
+msgid ""
+"Hot springs and table tennis? I'm pretty good at table tennis! I also sing "
+"in the bath! <Color:7>♥♥<Color:Default>"
+msgstr ""
+
+msgctxt "14036_Talk_Smile"
+msgid "Hehehe... What should I song today? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14048_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "14072_Player"
+msgid "Let's play table tennis at the hot springs."
+msgstr ""
+
+msgctxt "14084_望月京子：源氏名"
+msgid "Again? %s-san, you must really like table tennis."
+msgstr ""
+
+msgctxt "14096_Talk_Yes"
+msgid "Heheheh. You can't beat me, Kiryu-san. Shall we get going?"
+msgstr ""
+
+msgctxt "14120_望月京子：源氏名"
+msgid "You're here!"
+msgstr ""
+
+msgctxt "14132_Talk_Smile"
+msgid "And just on time, too. That's so you, Kiryu-san."
+msgstr ""
+
+msgctxt "14144_望月京子：源氏名"
+msgid "Anyway, where do you want to go?"
+msgstr ""
+
+msgctxt "14168_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "14180_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "14192_Player"
+msgid "(We could go shopping.)"
+msgstr ""
+
+msgctxt "14204_Player"
+msgid "(We could go out to eat.)"
+msgstr ""
+
+msgctxt "14216_Player"
+msgid "(What should we do?)"
+msgstr ""
+
+msgctxt "14240_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "14252_望月京子：源氏名"
+msgid "Yakiniku? Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "14264_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "14288_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "14300_望月京子：源氏名"
+msgid "Yakiniku again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "14312_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "14324_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "14360_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "14372_望月京子：源氏名"
+msgid ""
+"Sushi? Heheh... It just so happens that I love sushi. "
+"<Color:7>♥<Color:Default> Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "14384_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "14408_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "14420_望月京子：源氏名"
+msgid "Sushi again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "14432_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "14444_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "14480_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "14492_望月京子：源氏名"
+msgid "Oh my gosh... You're going to buy me something?"
+msgstr ""
+
+msgctxt "14504_Talk_Angry"
+msgid ""
+"Seriously!? I'd be super happy to get a present from you, Kiryu-san! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14516_Talk_Yes"
+msgid "Alright, then let's get on over there! ♪"
+msgstr ""
+
+msgctxt "14540_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "14552_望月京子：源氏名"
+msgid ""
+"Oooh. Are you gonna buy me something again!? I feel kinda bad. That wasn't "
+"the reason I came on a date with you."
+msgstr ""
+
+msgctxt "14564_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "14600_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "14612_望月京子：源氏名"
+msgid ""
+"Hey, that's not a bad idea! ♪ We come to Watami a lot for after parties for "
+"our band. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14624_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "14648_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "14660_望月京子：源氏名"
+msgid ""
+"Okay! That's kinda your go-to date location, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14672_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "14708_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "14720_望月京子：源氏名"
+msgid ""
+"Bowling, huh? I haven't been playing much lately, so I wonder if I'll be "
+"any good."
+msgstr ""
+
+msgctxt "14732_Talk_Smile"
+msgid "It's on, Kiryu-san. ♪"
+msgstr ""
+
+msgctxt "14744_Talk_Yes"
+msgid "Let's head on over."
+msgstr ""
+
+msgctxt "14768_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "14780_望月京子：源氏名"
+msgid "Again? You sure like bowling, Kiryu-san."
+msgstr ""
+
+msgctxt "14792_Talk_Smile"
+msgid ""
+"If we're going on a date, I'd rather we go somewhere different than last "
+"time..."
+msgstr ""
+
+msgctxt "14804_Talk_Yes"
+msgid "Well, whatever. Let's head on over then."
+msgstr ""
+
+msgctxt "14840_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "14852_望月京子：源氏名"
+msgid "Ooh, darts! ♪ It's perfect for someone as cool as me. ♪"
+msgstr ""
+
+msgctxt "14864_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "14888_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "14900_望月京子：源氏名"
+msgid "Darts again? Mm, sorry, but couldn't we go somewhere different this time?"
+msgstr ""
+
+msgctxt "14924_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "14960_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "14972_望月京子：源氏名"
+msgid ""
+"Ahaha! Okay, okay! You want to hear me sing for you, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14984_Talk_Smile"
+msgid "I'll sing my heart out for you, then!"
+msgstr ""
+
+msgctxt "15008_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "15020_望月京子：源氏名"
+msgid ""
+"Hehehe... You're completely hooked on my singing voice, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15032_Talk_Yes"
+msgid "Okay, let's head out!"
+msgstr ""
+
+msgctxt "15068_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "15080_望月京子：源氏名"
+msgid "Pool? %s-san, you know how to play pool?"
+msgstr ""
+
+msgctxt "15104_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "15128_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "15140_望月京子：源氏名"
+msgid ""
+"Pool again? If we're going on a date, I'd rather we go somewhere different "
+"than last time..."
+msgstr ""
+
+msgctxt "15164_P_sitsofa_tlk_kamae"
+msgid "Let's get going, then."
+msgstr ""
+
+msgctxt "15200_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "15212_望月京子：源氏名"
+msgid "Golf? Wow, Kiryu-san, you play golf?"
+msgstr ""
+
+msgctxt "15224_P_sitsofa_tlk_kamae"
+msgid "I've never played before, so you better teach me how to play!"
+msgstr ""
+
+msgctxt "15236_Talk_Yes"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "15260_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "15272_望月京子：源氏名"
+msgid ""
+"Golf again? We just did that the other day, and it takes so long. I'd "
+"rather do something we can get over and done with quick."
+msgstr ""
+
+msgctxt "15296_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "15332_Player"
+msgid "Let's hit the hot springs."
+msgstr ""
+
+msgctxt "15344_望月京子：源氏名"
+msgid ""
+"Hot springs and table tennis? I'm pretty good at table tennis! I also sing "
+"in the bath! <Color:7>♥♥<Color:Default>"
+msgstr ""
+
+msgctxt "15356_Talk_Smile"
+msgid "Hehehe... What should I song today? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15368_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "15392_Player"
+msgid "Let's play table tennis at the hot springs."
+msgstr ""
+
+msgctxt "15404_望月京子：源氏名"
+msgid "Again? %s-san, you must really like table tennis."
+msgstr ""
+
+msgctxt "15416_Talk_Yes"
+msgid "Heheheh. You can't beat me, Kiryu-san. Shall we get going?"
+msgstr ""
+
+msgctxt "15440_望月京子：源氏名"
+msgid "Oh, Kiryu-san. You're early!"
+msgstr ""
+
+msgctxt "15464_望月京子：源氏名"
+msgid "Anyway, where do you want to go?"
+msgstr ""
+
+msgctxt "15488_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "15500_Player"
+msgid "(Where should we go...)"
+msgstr ""
+
+msgctxt "15512_Player"
+msgid "(We could go shopping.)"
+msgstr ""
+
+msgctxt "15524_Player"
+msgid "(We could go out to eat.)"
+msgstr ""
+
+msgctxt "15536_Player"
+msgid "(What should we do?)"
+msgstr ""
+
+msgctxt "15560_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "15572_望月京子：源氏名"
+msgid "Yakiniku? Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "15584_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "15608_Player"
+msgid "How about Kanrai for some yakiniku?"
+msgstr ""
+
+msgctxt "15620_望月京子：源氏名"
+msgid "Yakiniku again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "15632_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "15644_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "15680_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "15692_望月京子：源氏名"
+msgid ""
+"Sushi? Heheh... It just so happens that I love sushi. "
+"<Color:7>♥<Color:Default> Now that I think of it, I am kinda hungry."
+msgstr ""
+
+msgctxt "15704_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "15728_Player"
+msgid "How does Sushi Gin sound?"
+msgstr ""
+
+msgctxt "15740_望月京子：源氏名"
+msgid "Sushi again? You sure like that stuff, huh?"
+msgstr ""
+
+msgctxt "15752_望月京子：源氏名"
+msgid ""
+"You just want to go there for yourself, right? Can't you ever think about "
+"what I want to eat?"
+msgstr ""
+
+msgctxt "15764_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "15800_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "15812_望月京子：源氏名"
+msgid "Oh my gosh... You're going to buy me something?"
+msgstr ""
+
+msgctxt "15824_Talk_Angry"
+msgid ""
+"Seriously!? I'd be super happy to get a present from you, Kiryu-san! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15836_Talk_Yes"
+msgid "Alright, then let's get on over there! ♪"
+msgstr ""
+
+msgctxt "15860_Player"
+msgid "Why don't we go shopping at Le Marche?"
+msgstr ""
+
+msgctxt "15872_望月京子：源氏名"
+msgid ""
+"Oooh. Are you gonna buy me something again!? I feel kinda bad. That wasn't "
+"the reason I came on a date with you."
+msgstr ""
+
+msgctxt "15884_Talk_Yes"
+msgid "Whatever. Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "15920_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "15932_望月京子：源氏名"
+msgid ""
+"Hey, that's not a bad idea! ♪ We come to Watami a lot for after parties for "
+"our band. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15944_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "15968_Player"
+msgid "Why don't we try something different and get a bite at Watami?"
+msgstr ""
+
+msgctxt "15980_望月京子：源氏名"
+msgid ""
+"Okay! That's kinda your go-to date location, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15992_Talk_Yes"
+msgid "Anyway, you wanna get going?"
+msgstr ""
+
+msgctxt "16028_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "16040_望月京子：源氏名"
+msgid ""
+"Bowling, huh? I haven't been playing much lately, so I wonder if I'll be "
+"any good."
+msgstr ""
+
+msgctxt "16052_Talk_Smile"
+msgid "It's on, Kiryu-san. ♪"
+msgstr ""
+
+msgctxt "16064_Talk_Yes"
+msgid "Let's head on over."
+msgstr ""
+
+msgctxt "16088_Player"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "16100_望月京子：源氏名"
+msgid "Again? You sure like bowling, Kiryu-san."
+msgstr ""
+
+msgctxt "16112_Talk_Smile"
+msgid ""
+"If we're going on a date, I'd rather we go somewhere different than last "
+"time..."
+msgstr ""
+
+msgctxt "16124_Talk_Yes"
+msgid "Well, whatever. Let's head on over then."
+msgstr ""
+
+msgctxt "16160_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "16172_望月京子：源氏名"
+msgid "Ooh, darts! ♪ It's perfect for someone as cool as me. ♪"
+msgstr ""
+
+msgctxt "16184_Talk_Yes"
+msgid "Awesome. Then let's head on over."
+msgstr ""
+
+msgctxt "16208_Player"
+msgid "Should we go play darts at Bantam?"
+msgstr ""
+
+msgctxt "16220_望月京子：源氏名"
+msgid "Darts again? Mm, sorry, but couldn't we go somewhere different this time?"
+msgstr ""
+
+msgctxt "16244_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "16280_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "16292_望月京子：源氏名"
+msgid ""
+"Ahaha! Okay, okay! You want to hear me sing for you, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16304_Talk_Smile"
+msgid "I'll sing my heart out for you, then!"
+msgstr ""
+
+msgctxt "16328_Player"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "16340_望月京子：源氏名"
+msgid ""
+"Hehehe... You're completely hooked on my singing voice, huh, Kiryu-san? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16352_Talk_Yes"
+msgid "Okay, let's head out!"
+msgstr ""
+
+msgctxt "16388_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "16400_望月京子：源氏名"
+msgid "Pool? %s-san, you know how to play pool?"
+msgstr ""
+
+msgctxt "16424_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "16448_Player"
+msgid "Let's shoot some pool."
+msgstr ""
+
+msgctxt "16460_望月京子：源氏名"
+msgid ""
+"Pool again? If we're going on a date, I'd rather we go somewhere different "
+"than last time..."
+msgstr ""
+
+msgctxt "16484_P_sitsofa_tlk_kamae"
+msgid "Let's get going, then."
+msgstr ""
+
+msgctxt "16520_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "16532_望月京子：源氏名"
+msgid "Golf? Wow, Kiryu-san, you play golf?"
+msgstr ""
+
+msgctxt "16544_P_sitsofa_tlk_kamae"
+msgid "I've never played before, so you better teach me how to play!"
+msgstr ""
+
+msgctxt "16556_Talk_Yes"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "16580_Player"
+msgid "Let's play golf."
+msgstr ""
+
+msgctxt "16592_望月京子：源氏名"
+msgid ""
+"Golf again? We just did that the other day, and it takes so long. I'd "
+"rather do something we can get over and done with quick."
+msgstr ""
+
+msgctxt "16616_P_sitsofa_tlk_kamae"
+msgid "Right, should we head out, then?"
+msgstr ""
+
+msgctxt "16652_Player"
+msgid "Let's hit the hot springs."
+msgstr ""
+
+msgctxt "16664_望月京子：源氏名"
+msgid ""
+"Hot springs and table tennis? I'm pretty good at table tennis! I also sing "
+"in the bath! <Color:7>♥♥<Color:Default>"
+msgstr ""
+
+msgctxt "16676_Talk_Smile"
+msgid "Hehehe... What should I song today? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16688_Talk_Yes"
+msgid "Shall we get going?"
+msgstr ""
+
+msgctxt "16712_Player"
+msgid "Let's play table tennis at the hot springs."
+msgstr ""
+
+msgctxt "16724_望月京子：源氏名"
+msgid "Again? %s-san, you must really like table tennis."
+msgstr ""
+
+msgctxt "16736_Talk_Yes"
+msgid "Heheheh. You can't beat me, Kiryu-san. Shall we get going?"
+msgstr ""
+
+msgctxt "16760_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "16772_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "16784_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "16796_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "16808_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "16820_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "16832_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "16844_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "16856_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "16868_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "16880_望月京子：源氏名"
+msgid "We could golf."
+msgstr ""
+
+msgctxt "16892_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "16904_望月京子：源氏名"
+msgid "We could go to Le Marche."
+msgstr ""
+
+msgctxt "16916_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "16928_望月京子：源氏名"
+msgid "How about some yakiniku?"
+msgstr ""
+
+msgctxt "16940_望月京子：源氏名"
+msgid "How does sushi sound?"
+msgstr ""
+
+msgctxt "16952_望月京子：源氏名"
+msgid "Wanna hit up Watami?"
+msgstr ""
+
+msgctxt "16964_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "16976_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "16988_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "17000_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "17012_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "17024_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "17036_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "17048_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "17060_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "17072_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "17084_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17096_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "17108_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "17120_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "17132_望月京子：源氏名"
+msgid "We could golf."
+msgstr ""
+
+msgctxt "17144_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17156_望月京子：源氏名"
+msgid "We could go to Le Marche."
+msgstr ""
+
+msgctxt "17168_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17180_望月京子：源氏名"
+msgid "How about some yakiniku?"
+msgstr ""
+
+msgctxt "17192_望月京子：源氏名"
+msgid "How does sushi sound?"
+msgstr ""
+
+msgctxt "17204_望月京子：源氏名"
+msgid "Wanna hit up Watami?"
+msgstr ""
+
+msgctxt "17216_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17228_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "17240_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "17252_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "17264_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "17276_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "17288_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "17300_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "17312_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "17324_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "17336_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17348_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "17360_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "17372_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "17384_望月京子：源氏名"
+msgid "We could golf."
+msgstr ""
+
+msgctxt "17396_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17408_望月京子：源氏名"
+msgid "We could go to Le Marche."
+msgstr ""
+
+msgctxt "17420_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17432_望月京子：源氏名"
+msgid "How about some yakiniku?"
+msgstr ""
+
+msgctxt "17444_望月京子：源氏名"
+msgid "How does sushi sound?"
+msgstr ""
+
+msgctxt "17456_望月京子：源氏名"
+msgid "Wanna hit up Watami?"
+msgstr ""
+
+msgctxt "17468_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17480_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "17492_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "17504_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "17516_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "17528_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "17540_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "17552_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "17564_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "17576_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "17588_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17600_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "17612_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "17624_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "17636_望月京子：源氏名"
+msgid "We could golf."
+msgstr ""
+
+msgctxt "17648_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17660_望月京子：源氏名"
+msgid "We could go to Le Marche."
+msgstr ""
+
+msgctxt "17672_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17684_望月京子：源氏名"
+msgid "How about some yakiniku?"
+msgstr ""
+
+msgctxt "17696_望月京子：源氏名"
+msgid "How does sushi sound?"
+msgstr ""
+
+msgctxt "17708_望月京子：源氏名"
+msgid "Wanna hit up Watami?"
+msgstr ""
+
+msgctxt "17720_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17732_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "17744_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "17756_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "17768_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "17780_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "17792_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "17804_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "17816_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "17828_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "17840_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17852_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "17864_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "17876_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "17888_望月京子：源氏名"
+msgid "We could golf."
+msgstr ""
+
+msgctxt "17900_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17912_望月京子：源氏名"
+msgid "We could go to Le Marche."
+msgstr ""
+
+msgctxt "17924_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17936_望月京子：源氏名"
+msgid "How about some yakiniku?"
+msgstr ""
+
+msgctxt "17948_望月京子：源氏名"
+msgid "How does sushi sound?"
+msgstr ""
+
+msgctxt "17960_望月京子：源氏名"
+msgid "Wanna hit up Watami?"
+msgstr ""
+
+msgctxt "17972_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "17984_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "17996_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "18008_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "18020_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "18032_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "18044_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "18056_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "18068_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "18080_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "18092_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18104_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "18116_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "18128_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "18140_望月京子：源氏名"
+msgid "We could golf."
+msgstr ""
+
+msgctxt "18152_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18164_望月京子：源氏名"
+msgid "We could go to Le Marche."
+msgstr ""
+
+msgctxt "18176_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18188_望月京子：源氏名"
+msgid "How about some yakiniku?"
+msgstr ""
+
+msgctxt "18200_望月京子：源氏名"
+msgid "How does sushi sound?"
+msgstr ""
+
+msgctxt "18212_望月京子：源氏名"
+msgid "Wanna hit up Watami?"
+msgstr ""
+
+msgctxt "18224_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18236_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "18248_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "18260_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "18272_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "18284_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "18296_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "18308_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "18320_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "18332_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "18344_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18356_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "18368_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "18380_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "18392_望月京子：源氏名"
+msgid "We could golf."
+msgstr ""
+
+msgctxt "18404_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18416_望月京子：源氏名"
+msgid "We could go to Le Marche."
+msgstr ""
+
+msgctxt "18428_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18440_望月京子：源氏名"
+msgid "How about some yakiniku?"
+msgstr ""
+
+msgctxt "18452_望月京子：源氏名"
+msgid "How does sushi sound?"
+msgstr ""
+
+msgctxt "18464_望月京子：源氏名"
+msgid "Wanna hit up Watami?"
+msgstr ""
+
+msgctxt "18476_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18488_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "18500_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "18512_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "18524_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "18536_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "18548_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "18560_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "18572_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "18584_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "18596_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18608_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "18620_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "18632_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "18644_望月京子：源氏名"
+msgid "We could golf."
+msgstr ""
+
+msgctxt "18656_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18668_望月京子：源氏名"
+msgid "We could go to Le Marche."
+msgstr ""
+
+msgctxt "18680_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18692_望月京子：源氏名"
+msgid "How about some yakiniku?"
+msgstr ""
+
+msgctxt "18704_望月京子：源氏名"
+msgid "How does sushi sound?"
+msgstr ""
+
+msgctxt "18716_望月京子：源氏名"
+msgid "Wanna hit up Watami?"
+msgstr ""
+
+msgctxt "18728_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18740_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "18752_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "18764_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "18776_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "18788_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "18800_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""
+
+msgctxt "18812_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "18824_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "18836_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "18848_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18860_望月京子：源氏名"
+msgid "Should we go bowling?"
+msgstr ""
+
+msgctxt "18872_望月京子：源氏名"
+msgid "How about some darts?"
+msgstr ""
+
+msgctxt "18884_望月京子：源氏名"
+msgid "Want to go sing karaoke?"
+msgstr ""
+
+msgctxt "18896_望月京子：源氏名"
+msgid "We could golf."
+msgstr ""
+
+msgctxt "18908_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18920_望月京子：源氏名"
+msgid "We could go to Le Marche."
+msgstr ""
+
+msgctxt "18932_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18944_望月京子：源氏名"
+msgid "How about some yakiniku?"
+msgstr ""
+
+msgctxt "18956_望月京子：源氏名"
+msgid "How does sushi sound?"
+msgstr ""
+
+msgctxt "18968_望月京子：源氏名"
+msgid "Wanna hit up Watami?"
+msgstr ""
+
+msgctxt "18980_望月京子：源氏名"
+msgid "Do something else."
+msgstr ""
+
+msgctxt "18992_望月京子：源氏名"
+msgid "Go Hang Out"
+msgstr ""
+
+msgctxt "19004_望月京子：源氏名"
+msgid "Go Shopping"
+msgstr ""
+
+msgctxt "19016_望月京子：源氏名"
+msgid "Go Out to Eat"
+msgstr ""

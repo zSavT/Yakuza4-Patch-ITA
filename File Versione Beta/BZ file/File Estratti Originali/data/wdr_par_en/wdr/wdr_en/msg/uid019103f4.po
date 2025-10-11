@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "88"
+msgid "Nothing happened."
+msgstr ""
+
+msgctxt "1008"
+msgid "Player"
+msgstr ""
+
+msgctxt "1012"
+msgid "TNK_07_C_START"
+msgstr ""
+
+msgctxt "1016"
+msgid "TNK_07_C_E_START"
+msgstr ""
+
+msgctxt "1020"
+msgid "TNK_07_C_N_START"
+msgstr ""
+
+msgctxt "100_Player"
+msgid "(I should take a break and come back later...)"
+msgstr ""
+
+msgctxt "124_Player"
+msgid "You learned the <Color:9>Essence of Guillotine Heel<Color:Default>."
+msgstr ""

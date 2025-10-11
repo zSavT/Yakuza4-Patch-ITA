@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2104"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "2108"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "2112"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2116"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2120"
+msgid "Player"
+msgstr ""
+
+msgctxt "196_Tanimura"
+msgid "(This building looks real old...)"
+msgstr ""
+
+msgctxt "208_Saejima"
+msgid "(A building in mid-construction... I got no business here.)"
+msgstr ""
+
+msgctxt "220_Akiyama"
+msgid ""
+"(A building in mid-construction... I can sense people inside, but I "
+"probably shouldn't go in for my own safety.)"
+msgstr ""
+
+msgctxt "232_Kiryu"
+msgid ""
+"(A building in mid-construction... I think the homeless recreation place "
+"called the Dragon Palace is in here.)"
+msgstr ""
+
+msgctxt "244_Kiryu"
+msgid "(Guess I'll check it out...)"
+msgstr ""
+
+msgctxt "256_Player"
+msgid "(An elevator. Hmm... Which floor?)"
+msgstr ""
+
+msgctxt "268_Player"
+msgid "(Not right now.)"
+msgstr ""
+
+msgctxt "280_Player"
+msgid "(I think I'll go to the dojo floor.)"
+msgstr ""
+
+msgctxt "304_Player"
+msgid "(Let's go to the casino floor.)"
+msgstr ""
+
+msgctxt "328_Player"
+msgid "(I think I'll go to the gambling hall floor.)"
+msgstr ""
+
+msgctxt "352_Tanimura"
+msgid "Dojo"
+msgstr ""
+
+msgctxt "364_Tanimura"
+msgid "Casino"
+msgstr ""
+
+msgctxt "376_Tanimura"
+msgid "Gambling Hall"
+msgstr ""
+
+msgctxt "388_Tanimura"
+msgid "Never Mind"
+msgstr ""

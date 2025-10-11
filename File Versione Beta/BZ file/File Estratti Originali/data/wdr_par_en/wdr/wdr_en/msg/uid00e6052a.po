@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "992"
+msgid "Matsuyama"
+msgstr ""
+
+msgctxt "996"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1000"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1004"
+msgid "Player"
+msgstr ""
+
+msgctxt "1008"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "56_Matsuyama"
+msgid "Welcome! Try our new \"Black Tonkotsu Ramen\"!"
+msgstr ""
+
+msgctxt "92_Matsuyama"
+msgid "Thank you! Come visit us again!"
+msgstr ""
+
+msgctxt "104_Matsuyama"
+msgid "(I'm pretty full right now.)"
+msgstr ""
+
+msgctxt "116_Player"
+msgid "Sorry, something came up."
+msgstr ""
+
+msgctxt "128_Matsuyama"
+msgid "Thank you! Come visit us again!"
+msgstr ""

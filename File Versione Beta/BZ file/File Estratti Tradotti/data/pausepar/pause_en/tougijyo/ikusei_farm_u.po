@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-04\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "272\tNAME"
+msgid "Punch Training"
+msgstr "Allenamento di Pugni"
+
+msgctxt "287\tNAME"
+msgid "Kick Training  "
+msgstr "Allenamento di Calcio"
+
+msgctxt "303\tNAME"
+msgid "Groundwork  "
+msgstr "Lavoro di base"
+
+msgctxt "316\tNAME"
+msgid "Strength Training  "
+msgstr "Allenamento della Forza"
+
+msgctxt "336\tNAME"
+msgid "Road Work  "
+msgstr "Corsa su strada"
+
+msgctxt "348\tNAME"
+msgid "Sprint"
+msgstr "Scatto"
+
+msgctxt "355\tNAME"
+msgid "Lecture  "
+msgstr "Lezione"
+
+msgctxt "365\tNAME"
+msgid "Stretch  "
+msgstr "Allungamento"
+
+msgctxt "375\tNAME"
+msgid "Rest  "
+msgstr "Riposo"

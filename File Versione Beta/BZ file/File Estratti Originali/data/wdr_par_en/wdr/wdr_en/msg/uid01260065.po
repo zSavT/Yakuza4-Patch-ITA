@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "4668"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "4672"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""
+
+msgctxt "4676"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "4680"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4684"
+msgid "HAL_stand_tlk_unhappy_big"
+msgstr ""
+
+msgctxt "4688"
+msgid "Player"
+msgstr ""
+
+msgctxt "4692"
+msgid "dummy"
+msgstr ""
+
+msgctxt "188_Haruka"
+msgid "Uncle Kaz! I want an <Color:8>AiAi<Color:Default>!"
+msgstr ""
+
+msgctxt "200_Kiryu"
+msgid ""
+"(Haruka wants an <Color:8>AiAi<Color:Default>... Three tries for 500 yen. "
+"Should I try it?)"
+msgstr ""
+
+msgctxt "224_Haruka"
+msgid "All right, I'll give it a shot."
+msgstr ""
+
+msgctxt "236_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "260_Haruka"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "272_Haruka"
+msgid "(Maybe later...)"
+msgstr ""
+
+msgctxt "284_Haruka"
+msgid "Aww, I really wanted that <Color:8>AiAi<Color:Default>..."
+msgstr ""
+
+msgctxt "296_Haruka"
+msgid "Uncle Kaz! I really want a <Color:8>Hito-nyan<Color:Default>!"
+msgstr ""
+
+msgctxt "308_Kiryu"
+msgid ""
+"(Haruka wants a <Color:8>Hito-nyan<Color:Default>... Three tries for 500 "
+"yen. Should I try it?)"
+msgstr ""
+
+msgctxt "332_Haruka"
+msgid "All right, I'll give it a shot."
+msgstr ""
+
+msgctxt "344_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "368_Haruka"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "380_Haruka"
+msgid "(Maybe later...)"
+msgstr ""
+
+msgctxt "392_Haruka"
+msgid "Aww, I really wanted that <Color:8>Hito-nyan<Color:Default>..."
+msgstr ""
+
+msgctxt "428_Player"
+msgid ""
+"(This UFO Catcher is completely empty. I should go ask an attendant to fill "
+"it with prizes.)"
+msgstr ""
+
+msgctxt "512_Player"
+msgid ""
+"(Three tries for 500 yen. I could give it a go, if I actually had 500 "
+"yen...)"
+msgstr ""
+
+msgctxt "536_Haruka"
+msgid "Play"
+msgstr ""
+
+msgctxt "548_Haruka"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "560_Haruka"
+msgid "Play"
+msgstr ""
+
+msgctxt "572_Haruka"
+msgid "Don't Play"
+msgstr ""

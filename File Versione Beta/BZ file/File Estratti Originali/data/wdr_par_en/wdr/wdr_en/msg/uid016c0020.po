@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "504"
+msgid "Controls"
+msgstr ""
+
+msgctxt "16836"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "16840"
+msgid "F_cab_sitsofa_hot_muneA"
+msgstr ""
+
+msgctxt "16844"
+msgid "Noa"
+msgstr ""
+
+msgctxt "16848"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "16852"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "16856"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "16860"
+msgid "F_cab_sitsofa_hot_momoA"
+msgstr ""
+
+msgctxt "516_Akiyama"
+msgid ""
+"Use "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_"
+"LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control where you look. "
+"This is your chance to feast your eyes on her beauty."
+msgstr ""
+
+msgctxt "528_Akiyama"
+msgid ""
+"Press <Action:Button_Cross@Cabaret> when you want to focus intently on one "
+"of her features. Holding down <Action:Button_Cross@Cabaret> allows you to "
+"focus your gaze."
+msgstr ""
+
+msgctxt "540_Akiyama"
+msgid "Note that her response will change depending on where you look."
+msgstr ""
+
+msgctxt "564_Akiyama"
+msgid "(She's got nice big eyes...)"
+msgstr ""
+
+msgctxt "576_Akiyama"
+msgid "(Her mouth is cute...)"
+msgstr ""
+
+msgctxt "588_Akiyama"
+msgid "(Her beautiful hands...)"
+msgstr ""
+
+msgctxt "600_Akiyama"
+msgid "(Hm, she's right...)"
+msgstr ""
+
+msgctxt "612_Akiyama"
+msgid "(She spent a lot of time on her hair...)"
+msgstr ""
+
+msgctxt "624_Akiyama"
+msgid "(When I think of a girl's figure...)"
+msgstr ""
+
+msgctxt "636_Akiyama"
+msgid "(Let's see...)"
+msgstr ""
+
+msgctxt "648_Akiyama"
+msgid "Your eyes are nice and big."
+msgstr ""
+
+msgctxt "660_Noa"
+msgid "Huh? Why are you talking about my eyes?"
+msgstr ""
+
+msgctxt "672_Akiyama"
+msgid "I've been thinking about them. They're quite charming."
+msgstr ""
+
+msgctxt "684_Noa"
+msgid "But I want you to look at my legs! Hmph, never mind."
+msgstr ""
+
+msgctxt "696_Akiyama"
+msgid "Um... Okay..."
+msgstr ""
+
+msgctxt "708_Akiyama"
+msgid "You've got a cute mouth."
+msgstr ""
+
+msgctxt "720_Noa"
+msgid "Really? What do you think is cute about it?"
+msgstr ""
+
+msgctxt "732_Akiyama"
+msgid "Uh, well... It looks very... kissable?"
+msgstr ""
+
+msgctxt "744_Noa"
+msgid "Hahaha! Nice try! Control yourself, please. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "756_Akiyama"
+msgid "Your hands are very pretty. You've got nice long fingers."
+msgstr ""
+
+msgctxt "768_Noa"
+msgid ""
+"Oh? Well, that's nice of you to say, but... I really wanted you to look at "
+"my legs. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "780_Akiyama"
+msgid "I like your hands better."
+msgstr ""
+
+msgctxt "792_Noa"
+msgid "Hehe, do you have some kind of hand fetish?"
+msgstr ""
+
+msgctxt "804_Akiyama"
+msgid "You're right. Your legs are very beautiful."
+msgstr ""
+
+msgctxt "816_Noa"
+msgid "Ha! I told you!"
+msgstr ""
+
+msgctxt "828_Akiyama"
+msgid "But I can't get a very good look because of that dress."
+msgstr ""
+
+msgctxt "840_Noa"
+msgid "Hmm. Would you like to see me in a leotard?"
+msgstr ""
+
+msgctxt "852_Akiyama"
+msgid "Heh, I sure would."
+msgstr ""
+
+msgctxt "864_Noa"
+msgid "Well then, I'll bring in one of my ballet photos."
+msgstr ""
+
+msgctxt "876_Akiyama"
+msgid "Oh. So I can't see it in person?"
+msgstr ""
+
+msgctxt "888_Akiyama"
+msgid "Your hair looks great today."
+msgstr ""
+
+msgctxt "900_Noa"
+msgid "My hair? What about my legs?"
+msgstr ""
+
+msgctxt "912_Akiyama"
+msgid "I just think your hair looks cute."
+msgstr ""
+
+msgctxt "924_Noa"
+msgid ""
+"But it doesn't have anything to do with ballet, does it? It's not like I "
+"work that hard on it."
+msgstr ""
+
+msgctxt "936_Akiyama"
+msgid "Oh, okay. Let's take a look at those legs of yours, then..."
+msgstr ""
+
+msgctxt "948_Noa"
+msgid "Hmph! I don't want to show you anymore! Too bad!"
+msgstr ""
+
+msgctxt "960_Akiyama"
+msgid "Hey, that's not fair."
+msgstr ""
+
+msgctxt "972_Akiyama"
+msgid "Yes, very nice indeed..."
+msgstr ""
+
+msgctxt "984_Noa"
+msgid "Hey! Watch where you're looking!"
+msgstr ""
+
+msgctxt "996_Akiyama"
+msgid "Well, you said you were confident about your figure, didn't you?"
+msgstr ""
+
+msgctxt "1008_Noa"
+msgid "Yes, but I just meant my legs!"
+msgstr ""
+
+msgctxt "1020_Noa"
+msgid "But thanks for the compliment anyway. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "1032_Akiyama"
+msgid "Heheh."
+msgstr ""
+
+msgctxt "1044_Noa"
+msgid "Hey! Watch where you're looking!"
+msgstr ""
+
+msgctxt "1056_Akiyama"
+msgid "Well, if I stared at your legs, that'd just make me a dirty old man, right?"
+msgstr ""
+
+msgctxt "1068_Noa"
+msgid "I didn't say stare. You're not embarrassed, are you?"
+msgstr ""
+
+msgctxt "1080_Akiyama"
+msgid "What? No, not at all."
+msgstr ""
+
+msgctxt "1092_Noa"
+msgid "Sure... You know, you can be pretty cute sometimes."
+msgstr ""
+
+msgctxt "1104_Akiyama"
+msgid "Hmph. Whatever..."
+msgstr ""
+
+msgctxt "1116_Akiyama"
+msgid "(Oh, I guess I'll play along...)"
+msgstr ""
+
+msgctxt "1128_Akiyama"
+msgid "(What's she mumbling, anyway?)"
+msgstr ""
+
+msgctxt "1140_Akiyama"
+msgid ""
+"(Aren't you supposed to move your fingers slowly in a circle when you do "
+"something like this?)"
+msgstr ""
+
+msgctxt "1152_Akiyama"
+msgid "(She has slender legs...)"
+msgstr ""
+
+msgctxt "1164_Akiyama"
+msgid "(Her hair is really pretty...)"
+msgstr ""
+
+msgctxt "1176_Akiyama"
+msgid "(If I have to look, might as well be here...)"
+msgstr ""
+
+msgctxt "1188_Akiyama"
+msgid "(I guess she wants me to look in her eyes...)"
+msgstr ""
+
+msgctxt "1200_Noa"
+msgid "You will fall in looove with me. You will fall in looove with me."
+msgstr ""
+
+msgctxt "1212_Akiyama"
+msgid "......"
+msgstr ""
+
+msgctxt "1224_Noa"
+msgid "How do you feel?"
+msgstr ""
+
+msgctxt "1236_Akiyama"
+msgid "Do you seriously think telling me to fall in love with you will work?"
+msgstr ""
+
+msgctxt "1248_Noa"
+msgid "What are you talking about?"
+msgstr ""
+
+msgctxt "1260_Akiyama"
+msgid "Don't play dumb. You've been mumbling to yourself this whole time."
+msgstr ""
+
+msgctxt "1272_Noa"
+msgid ""
+"Oh! You heard that!? Why didn't you say something earlier!? I'm so "
+"embarrassed..."
+msgstr ""
+
+msgctxt "1284_Akiyama"
+msgid "What are you saying? It was so soft that I couldn't quite make it out."
+msgstr ""
+
+msgctxt "1296_Noa"
+msgid "Oh? Hehe, don't worry about that."
+msgstr ""
+
+msgctxt "1308_Akiyama"
+msgid "Something about love?"
+msgstr ""
+
+msgctxt "1320_Noa"
+msgid "No, I didn't say anything like that. You must be hearing things."
+msgstr ""
+
+msgctxt "1332_Akiyama"
+msgid "You sure? It wasn't something about falling in love with you?"
+msgstr ""
+
+msgctxt "1344_Noa"
+msgid "Hey! You did hear me! You're so mean!"
+msgstr ""
+
+msgctxt "1356_Akiyama"
+msgid "Heheh."
+msgstr ""
+
+msgctxt "1368_Akiyama"
+msgid ""
+"Don't you have to move your fingers in a circle? Like, \"You are getting "
+"sleeeeepy...\""
+msgstr ""
+
+msgctxt "1380_Noa"
+msgid "Haha. I don't wanna put you to sleep."
+msgstr ""
+
+msgctxt "1392_Akiyama"
+msgid "No? Then what were you trying to do?"
+msgstr ""
+
+msgctxt "1404_Noa"
+msgid "That's a secret! Why can't you just do as you're told!?"
+msgstr ""
+
+msgctxt "1416_Akiyama"
+msgid "Your legs sure are slender. I guess it's because you're a ballerina."
+msgstr ""
+
+msgctxt "1428_Noa"
+msgid "Don't change the subject! You have to look into my eyes or this won't work!"
+msgstr ""
+
+msgctxt "1440_Akiyama"
+msgid "What won't work?"
+msgstr ""
+
+msgctxt "1452_Noa"
+msgid "Hypnotism?"
+msgstr ""
+
+msgctxt "1464_Akiyama"
+msgid "Ha! You really think that stuff works?"
+msgstr ""
+
+msgctxt "1476_Noa"
+msgid "Aw... That was my best chance!"
+msgstr ""
+
+msgctxt "1488_Akiyama"
+msgid "You've got such pretty hair. It must take quite a while to get it that way."
+msgstr ""
+
+msgctxt "1500_Noa"
+msgid "Don't change the subject! You have to look into my eyes or this won't work!"
+msgstr ""
+
+msgctxt "1512_Akiyama"
+msgid "What won't work?"
+msgstr ""
+
+msgctxt "1524_Noa"
+msgid "Hypnotism?"
+msgstr ""
+
+msgctxt "1536_Akiyama"
+msgid "Ha! You really think that stuff works?"
+msgstr ""
+
+msgctxt "1548_Noa"
+msgid "Aw... That was my best chance!"
+msgstr ""
+
+msgctxt "1560_Noa"
+msgid "Hey! Watch where you're looking!"
+msgstr ""
+
+msgctxt "1572_Akiyama"
+msgid "Why do I have to look into your eyes, anyway?"
+msgstr ""
+
+msgctxt "1584_Noa"
+msgid "Because otherwise it won't work!"
+msgstr ""
+
+msgctxt "1596_Akiyama"
+msgid "What won't work?"
+msgstr ""
+
+msgctxt "1608_Noa"
+msgid "Hypnotism?"
+msgstr ""
+
+msgctxt "1620_Akiyama"
+msgid "Ha! You really think that stuff works?"
+msgstr ""
+
+msgctxt "1632_Noa"
+msgid "Aw... That was my best chance!"
+msgstr ""
+
+msgctxt "1644_Noa"
+msgid "Hey! What are you looking at? You have to look in my eyes or it won't work!"
+msgstr ""
+
+msgctxt "1656_Akiyama"
+msgid "What won't work?"
+msgstr ""
+
+msgctxt "1668_Noa"
+msgid "Hypnotism?"
+msgstr ""
+
+msgctxt "1680_Akiyama"
+msgid "Ha! You really think that stuff works?"
+msgstr ""
+
+msgctxt "1692_Noa"
+msgid "Aw... That was my best chance!"
+msgstr ""

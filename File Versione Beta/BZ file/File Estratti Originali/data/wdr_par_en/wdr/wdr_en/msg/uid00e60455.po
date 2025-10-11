@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "6860"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "6864"
+msgid "Assassin"
+msgstr ""
+
+msgctxt "6868"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "6872"
+msgid "Saki-chan"
+msgstr ""
+
+msgctxt "6876"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6880"
+msgid "P_sae_stand_tlk_tukamu_st"
+msgstr ""
+
+msgctxt "6884"
+msgid "M_nml_stand_tlk_tukamu_st"
+msgstr ""
+
+msgctxt "6888"
+msgid "P_sae_stand_tlk_tukamu_ed"
+msgstr ""
+
+msgctxt "6892"
+msgid "M_nml_stand_tlk_tukamu_ed02"
+msgstr ""
+
+msgctxt "6896"
+msgid "P_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "6900"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "6904"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "6908"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6912"
+msgid "Talk_Phone_ed"
+msgstr ""
+
+msgctxt "6916"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "6920"
+msgid "F_sxy_stand"
+msgstr ""
+
+msgctxt "6924"
+msgid "0"
+msgstr ""
+
+msgctxt "6928"
+msgid "SetM_nml_sitgrd_down_02"
+msgstr ""
+
+msgctxt "6932"
+msgid "Naomi"
+msgstr ""
+
+msgctxt "6936"
+msgid "Talk_Phone_yes"
+msgstr ""
+
+msgctxt "6940"
+msgid "Talk_Hirou_st"
+msgstr ""
+
+msgctxt "56_Tanimura"
+msgid "Call your boss and tell him you've gotten rid of me."
+msgstr ""
+
+msgctxt "68_Assassin"
+msgid "......"
+msgstr ""
+
+msgctxt "80_Tanimura"
+msgid "Hurry up and do it!"
+msgstr ""
+
+msgctxt "92_Saki-chan"
+msgid "You're going way too soft on him, sweetie."
+msgstr ""
+
+msgctxt "104_Tanimura"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "116_Saki-chan"
+msgid ""
+"Back when I was cracking heads and solving cases with the Hiroshima PD, "
+"they had a little nickname for me. Ever heard of \"Saki the Demon,\" "
+"asshole!? No, of course you haven't..."
+msgstr ""
+
+msgctxt "128_Saki-chan"
+msgid "Then listen up good, you little shit!"
+msgstr ""
+
+msgctxt "140_Assassin"
+msgid "What's happening!?"
+msgstr ""
+
+msgctxt "152_Saki-chan"
+msgid ""
+"Are you fucking braindead? Make... the goddamn... <Italic>call</Italic>! Or "
+"I will pry open your skull like a sea otter cracking an oyster and canvas "
+"the street with your head goo!"
+msgstr ""
+
+msgctxt "164_Assassin"
+msgid "There's... no need to go that far! Fine, I'll do as you say!"
+msgstr ""
+
+msgctxt "188_Assassin"
+msgid "It's me. Tanimura's a done deal... That's right."
+msgstr ""
+
+msgctxt "200_Saki-chan"
+msgid "Good boy."
+msgstr ""
+
+msgctxt "284_Saki-chan"
+msgid "Well? How was I?"
+msgstr ""
+
+msgctxt "296_Tanimura"
+msgid "Scary as hell! You make one badass detective."
+msgstr ""
+
+msgctxt "356_Tanimura"
+msgid "Tanimura here."
+msgstr ""
+
+msgctxt "368_Naomi"
+msgid "I have some information for you."
+msgstr ""
+
+msgctxt "380_Tanimura"
+msgid "What?"
+msgstr ""
+
+msgctxt "392_Naomi"
+msgid ""
+"Next Monday, Katsuura will be holding a symposium at none other than the "
+"Millennium Tower."
+msgstr ""
+
+msgctxt "404_Naomi"
+msgid ""
+"And would you believe it, the name of this symposium is \"Empowering Asian "
+"Women.\""
+msgstr ""
+
+msgctxt "416_Naomi"
+msgid ""
+"Katsuura is apparently finishing his preparations there as we speak. It's "
+"rare for him to be out in public like this."
+msgstr ""
+
+msgctxt "428_Tanimura"
+msgid "Perfect. Then this is my chance to take him out."
+msgstr ""
+
+msgctxt "440_Naomi"
+msgid "I would exercise extreme caution if I were you."
+msgstr ""
+
+msgctxt "452_Tanimura"
+msgid "Appreciate the tip."
+msgstr ""
+
+msgctxt "488_Tanimura"
+msgid "Now I've got his ass."
+msgstr ""
+
+msgctxt "500_Saki-chan"
+msgid ""
+"I'll watch these three while you do what you have to do. Guess this is what "
+"we've been waiting for... Best of luck, hon!"
+msgstr ""
+
+msgctxt "512_Tanimura"
+msgid "Thanks. Hopefully I won't need it."
+msgstr ""

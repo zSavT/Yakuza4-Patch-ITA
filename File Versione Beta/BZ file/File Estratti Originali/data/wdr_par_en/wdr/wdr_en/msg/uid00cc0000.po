@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "544"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "548"
+msgid "adv_p1c1_010/akiyama_0094"
+msgstr ""
+
+msgctxt "552"
+msgid "adv_p1c1_010/akiyama_0103"
+msgstr ""
+
+msgctxt "556"
+msgid "adv_p1c1_010/akiyama_0109"
+msgstr ""
+
+msgctxt "560"
+msgid "Hana"
+msgstr ""
+
+msgctxt "564"
+msgid "adv_p1c1_010/hana_0019"
+msgstr ""
+
+msgctxt "568"
+msgid "adv_p1c1_010/hana_0025"
+msgstr ""
+
+msgctxt "572"
+msgid "adv_p1c1_010/hana_0029"
+msgstr ""
+
+msgctxt "56_Akiyama"
+msgid "test1"
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid "test2"
+msgstr ""
+
+msgctxt "80_Akiyama"
+msgid "test3"
+msgstr ""
+
+msgctxt "92_Hana"
+msgid "test4"
+msgstr ""
+
+msgctxt "104_Hana"
+msgid "test5"
+msgstr ""
+
+msgctxt "116_Hana"
+msgid "test6"
+msgstr ""

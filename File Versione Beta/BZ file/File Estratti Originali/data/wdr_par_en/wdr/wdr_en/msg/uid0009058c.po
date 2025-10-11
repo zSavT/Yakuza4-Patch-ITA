@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1968"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "1972"
+msgid "Businessman"
+msgstr ""
+
+msgctxt "1976"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1980"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1984"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "84_Tanimura"
+msgid "Hey, you there. Mind explaining why you're loitering around?"
+msgstr ""
+
+msgctxt "96_Businessman"
+msgid "Eep! Are you with the police!?"
+msgstr ""
+
+msgctxt "108_Tanimura"
+msgid ""
+"That's right. Now state your business here. If I didn't\r\n"
+"know any better, I'd say you were up to something shady."
+msgstr ""
+
+msgctxt "120_Businessman"
+msgid ""
+"Ah, no, that's not... Uh... Look, officer, I'm just a normal\r\n"
+"guy trying to decide which club to go. Honest to goodness!"
+msgstr ""
+
+msgctxt "132_Tanimura"
+msgid "What? Are you serious?"
+msgstr ""
+
+msgctxt "144_Businessman"
+msgid ""
+"Yeah... See, I've been hearing good things about both Midori over here and "
+"the massage parlor to the east."
+msgstr ""
+
+msgctxt "156_Businessman"
+msgid ""
+"I've been standing here for what feels like hours trying to\r\n"
+"decide, but... Agh! I still can't make up my mind!"
+msgstr ""
+
+msgctxt "168_Tanimura"
+msgid "Uh...huh. Well, okay then. Sorry to bother you."
+msgstr ""
+
+msgctxt "180_Businessman"
+msgid "Oh, no problem. I just wish I could make a decision..."
+msgstr ""

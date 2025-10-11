@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "984"
+msgid "Chatty Businesswoman"
+msgstr ""
+
+msgctxt "988"
+msgid "Reserved Businesswoman"
+msgstr ""
+
+msgctxt "992"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "996"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "84_Chatty Businesswoman"
+msgid "Doesn't it seem like there are more... thugs around town?"
+msgstr ""
+
+msgctxt "96_Reserved Businesswoman"
+msgid "Hm? I haven't noticed."
+msgstr ""
+
+msgctxt "108_Chatty Businesswoman"
+msgid ""
+"Well there totally are! People like that usually stick to\r\n"
+"shadows, yet here they are roaming around in broad daylight!"
+msgstr ""
+
+msgctxt "120_Chatty Businesswoman"
+msgid ""
+"I wonder if something's going on. Kamurocho is usually so\r\n"
+"safe and quiet, too!"
+msgstr ""
+
+msgctxt "132_Reserved Businesswoman"
+msgid "Is it, though...?"
+msgstr ""

@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2692"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2696"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2700"
+msgid "Homeless Man"
+msgstr ""
+
+msgctxt "2704"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "72_Akiyama"
+msgid "Hey, pal. You see some yakuza come through here?"
+msgstr ""
+
+msgctxt "84_Homeless Man"
+msgid "Oh, you bet. Those Hatsushiba punks."
+msgstr ""
+
+msgctxt "96_Akiyama"
+msgid "I knew it. Listen, I need to get by."
+msgstr ""
+
+msgctxt "108_Homeless Man"
+msgid "Sorry, no can do."
+msgstr ""
+
+msgctxt "120_Akiyama"
+msgid "Why not?"
+msgstr ""
+
+msgctxt "132_Homeless Man"
+msgid ""
+"The Hatsushiba boys locked the door down below after they passed through. "
+"And lemme tell ya, that door ain't nothing if not sturdy."
+msgstr ""
+
+msgctxt "144_Akiyama"
+msgid "Dammit... What now?"
+msgstr ""
+
+msgctxt "156_Homeless Man"
+msgid ""
+"Hold your horses. We can't stand those jerks, so we'll give you whatever "
+"help we can."
+msgstr ""
+
+msgctxt "168_Homeless Man"
+msgid "The tunnels here connect with the basement levels of the Millennium Tower."
+msgstr ""
+
+msgctxt "180_Homeless Man"
+msgid ""
+"All you gotta do is find the elevator at the back of the tower and you're "
+"golden. That'll take you right down where you need to go."
+msgstr ""
+
+msgctxt "192_Akiyama"
+msgid "Perfect, thanks."
+msgstr ""
+
+msgctxt "204_Homeless Man"
+msgid ""
+"That was our home before those Hatsushiba snots booted\r\n"
+"us out. If you help us return the favor, we can finally get\r\n"
+"it back."
+msgstr ""
+
+msgctxt "216_Akiyama"
+msgid "Oh yeah? Well, no guarantees, but I'll see what I can wrangle."
+msgstr ""
+
+msgctxt "240_Homeless Man"
+msgid "......"
+msgstr ""

@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "524"
+msgid ""
+"Major error! No flags set for conversation selection!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "1016"
+msgid ""
+"Major error! No flags set for conversation selection!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "12840"
+msgid "Erena"
+msgstr ""
+
+msgctxt "12844"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12848"
+msgid "Player"
+msgstr ""
+
+msgctxt "12852"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "12856"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12860"
+msgid "0"
+msgstr ""
+
+msgctxt "12864"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "116_Erena"
+msgid "I'm not gonna lose to you."
+msgstr ""
+
+msgctxt "128_Erena"
+msgid "Let's head in."
+msgstr ""
+
+msgctxt "140_Player"
+msgid "All right."
+msgstr ""
+
+msgctxt "164_Erena"
+msgid "I'm not gonna lose to you."
+msgstr ""
+
+msgctxt "176_Erena"
+msgid "Let's head in."
+msgstr ""
+
+msgctxt "188_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr ""
+
+msgctxt "200_Erena"
+msgid "Huh? You serious?"
+msgstr ""
+
+msgctxt "212_Player"
+msgid "Yeah. Sorry..."
+msgstr ""
+
+msgctxt "224_Erena"
+msgid "Geez, I didn't think you were so poor... I'll go home, then."
+msgstr ""
+
+msgctxt "236_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr ""
+
+msgctxt "344_Erena"
+msgid "I should've guessed. You're a pro at pool, too."
+msgstr ""
+
+msgctxt "356_Player"
+msgid "Guess so."
+msgstr ""
+
+msgctxt "368_Erena"
+msgid ""
+"I had a great time. Take me out again sometime, won't you? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "380_Erena"
+msgid "Well, see you soon."
+msgstr ""
+
+msgctxt "404_Erena"
+msgid "Hehe... Looks like a draw."
+msgstr ""
+
+msgctxt "416_Player"
+msgid "Guess so."
+msgstr ""
+
+msgctxt "428_Erena"
+msgid ""
+"I had a great time. Take me out again sometime, won't you? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "440_Erena"
+msgid "Well, see you soon."
+msgstr ""
+
+msgctxt "464_Erena"
+msgid "Too bad! Looks like I won this time. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "476_Player"
+msgid "Guess so."
+msgstr ""
+
+msgctxt "488_Erena"
+msgid ""
+"I had a great time. Take me out again sometime, won't you? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "500_Erena"
+msgid "Well, see you soon."
+msgstr ""
+
+msgctxt "608_Erena"
+msgid "I'm not gonna lose to you."
+msgstr ""
+
+msgctxt "620_Erena"
+msgid "Let's head in."
+msgstr ""
+
+msgctxt "632_Player"
+msgid "All right."
+msgstr ""
+
+msgctxt "656_Erena"
+msgid "I'm not gonna lose to you."
+msgstr ""
+
+msgctxt "668_Erena"
+msgid "Let's head in."
+msgstr ""
+
+msgctxt "680_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr ""
+
+msgctxt "692_Erena"
+msgid "Huh? You serious?"
+msgstr ""
+
+msgctxt "704_Player"
+msgid "Yeah. Sorry..."
+msgstr ""
+
+msgctxt "716_Erena"
+msgid "Geez, I didn't think you were so poor... I'll go home, then."
+msgstr ""
+
+msgctxt "728_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr ""
+
+msgctxt "836_Erena"
+msgid "I'm impressed. You're good at pool too?"
+msgstr ""
+
+msgctxt "848_Player"
+msgid "Guess so."
+msgstr ""
+
+msgctxt "860_Erena"
+msgid "That was a lot of fun. Let's head to the club now. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "872_Player"
+msgid "Okay."
+msgstr ""
+
+msgctxt "896_Erena"
+msgid "Hehe... Looks like a draw."
+msgstr ""
+
+msgctxt "908_Player"
+msgid "Guess so."
+msgstr ""
+
+msgctxt "920_Erena"
+msgid "That was a lot of fun. Let's head to the club now. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "932_Player"
+msgid "Okay."
+msgstr ""
+
+msgctxt "956_Erena"
+msgid "Too bad! Looks like I won this time. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "968_Player"
+msgid "Guess so."
+msgstr ""
+
+msgctxt "980_Erena"
+msgid "That was a lot of fun. Let's head to the club now. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "992_Player"
+msgid "Okay."
+msgstr ""

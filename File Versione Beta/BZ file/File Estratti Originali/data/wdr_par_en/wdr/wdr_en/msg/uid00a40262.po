@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "320"
+msgid "Scored one lead!"
+msgstr ""
+
+msgctxt "3664"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "3668"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "3672"
+msgid "Girl du Jour"
+msgstr ""
+
+msgctxt "3676"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3680"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "3684"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "3688"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "3692"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3696"
+msgid "dummy"
+msgstr ""
+
+msgctxt "3700"
+msgid "0"
+msgstr ""
+
+msgctxt "3704"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3708"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3712"
+msgid "Talk_Mail_st"
+msgstr ""
+
+msgctxt "3716"
+msgid "Talk_Mail_ed"
+msgstr ""
+
+msgctxt "128_Akiyama"
+msgid "Hi! I'm a scout for a hostess club. Do you have a second?"
+msgstr ""
+
+msgctxt "140_Girl du Jour"
+msgid "Huh? Why would you want to talk to me?"
+msgstr ""
+
+msgctxt "152_Akiyama"
+msgid "You kind of looked like you needed money."
+msgstr ""
+
+msgctxt "164_Girl du Jour"
+msgid "You jerk! Mind your own business!"
+msgstr ""
+
+msgctxt "176_Akiyama"
+msgid "Sorry! I was just kidding..."
+msgstr ""
+
+msgctxt "188_Girl du Jour"
+msgid "Hmph! Leave me alone!"
+msgstr ""
+
+msgctxt "200_Akiyama"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "248_Akiyama"
+msgid ""
+"Because you're cute! Got to be cute if you want to be a\r\n"
+"hostess."
+msgstr ""
+
+msgctxt "260_Girl du Jour"
+msgid "Oh, uh, I see..."
+msgstr ""
+
+msgctxt "272_Akiyama"
+msgid ""
+"That's right! So what do you think? It's not easy work, but\r\n"
+"it's good work if you give it your all."
+msgstr ""
+
+msgctxt "284_Girl du Jour"
+msgid "Hmm... Could you maybe tell me more?"
+msgstr ""
+
+msgctxt "296_Akiyama"
+msgid ""
+"Of course! Just leave me your cell number, and I'll be in\r\n"
+"touch."
+msgstr ""
+
+msgctxt "308_Girl du Jour"
+msgid "Okay, sure. And thank you."
+msgstr ""
+
+msgctxt "332_Akiyama"
+msgid "Talk to you later!"
+msgstr ""
+
+msgctxt "380_Akiyama"
+msgid "You looked like you needed money."
+msgstr ""
+
+msgctxt "392_Akiyama"
+msgid "You're cute."
+msgstr ""

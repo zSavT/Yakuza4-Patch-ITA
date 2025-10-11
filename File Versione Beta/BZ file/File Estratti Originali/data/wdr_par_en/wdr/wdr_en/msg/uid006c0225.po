@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "464"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "932"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "13052"
+msgid "Himeka"
+msgstr ""
+
+msgctxt "13056"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13060"
+msgid "Player"
+msgstr ""
+
+msgctxt "13064"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "13068"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13072"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13076"
+msgid "0"
+msgstr ""
+
+msgctxt "13080"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "13084"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13088"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "116_Himeka"
+msgid "Hmm, now what should I sing today?"
+msgstr ""
+
+msgctxt "128_Player"
+msgid "Should we head inside?"
+msgstr ""
+
+msgctxt "152_Himeka"
+msgid "Hmm, now what should I sing today?"
+msgstr ""
+
+msgctxt "164_Player"
+msgid "Uh... Hold on a second. I just realized I'm short on cash."
+msgstr ""
+
+msgctxt "176_Himeka"
+msgid "Huh? You're kiddin', right?"
+msgstr ""
+
+msgctxt "188_Tanimura"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "200_Himeka"
+msgid "Well, that's the end of our date for today. See ya later, Tanimura-san..."
+msgstr ""
+
+msgctxt "212_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "320_Himeka"
+msgid "Whew! That was awesome! You rocked out in there."
+msgstr ""
+
+msgctxt "332_Player"
+msgid "You're a great singer yourself."
+msgstr ""
+
+msgctxt "344_Himeka"
+msgid "I had a great time today! Let's do this again sometime. See ya!"
+msgstr ""
+
+msgctxt "368_Himeka"
+msgid "I really sang my heart out. And you weren't bad, either, Tanimura-san."
+msgstr ""
+
+msgctxt "380_Player"
+msgid "Heh."
+msgstr ""
+
+msgctxt "392_Himeka"
+msgid "I had a great time today. Let's do this again sometime. See ya!"
+msgstr ""
+
+msgctxt "416_Himeka"
+msgid "I just couldn't get into it today... And you didn't really help."
+msgstr ""
+
+msgctxt "428_Player"
+msgid "Oh... Sorry..."
+msgstr ""
+
+msgctxt "440_Himeka"
+msgid "I think I'll just go home. See you at the club."
+msgstr ""
+
+msgctxt "548_Himeka"
+msgid "Hmm, now what should I sing today?"
+msgstr ""
+
+msgctxt "560_Player"
+msgid "Should we head inside?"
+msgstr ""
+
+msgctxt "584_Himeka"
+msgid "Hmm, now what should I sing today?"
+msgstr ""
+
+msgctxt "596_Player"
+msgid "Uh... Hold on a second. I just realized I'm short on cash."
+msgstr ""
+
+msgctxt "608_Himeka"
+msgid "Huh? You're kiddin', right?"
+msgstr ""
+
+msgctxt "620_Tanimura"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "632_Himeka"
+msgid "Well, that's the end of our date for today. See ya later, Tanimura-san..."
+msgstr ""
+
+msgctxt "644_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "752_Himeka"
+msgid "Whew! That was awesome! You rocked out in there."
+msgstr ""
+
+msgctxt "764_Player"
+msgid "You're a great singer yourself."
+msgstr ""
+
+msgctxt "776_Himeka"
+msgid ""
+"I had a great time today! Let's do this again sometime. Wanna head over to "
+"the club now?"
+msgstr ""
+
+msgctxt "788_Player"
+msgid "Sure. Sounds good."
+msgstr ""
+
+msgctxt "812_Himeka"
+msgid "I really sang my heart out. And you weren't bad, either, Tanimura-san."
+msgstr ""
+
+msgctxt "824_Player"
+msgid "Heh."
+msgstr ""
+
+msgctxt "836_Himeka"
+msgid ""
+"I had a great time today. Let's do this again sometime. Wanna head over to "
+"the club now?"
+msgstr ""
+
+msgctxt "848_Player"
+msgid "Sure. Sounds good."
+msgstr ""
+
+msgctxt "872_Himeka"
+msgid "I just couldn't get into it today... And you didn't really help."
+msgstr ""
+
+msgctxt "884_Player"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "896_Himeka"
+msgid "Wanna head over to the club now?"
+msgstr ""
+
+msgctxt "908_Player"
+msgid "Sure. Sounds good."
+msgstr ""

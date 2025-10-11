@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1320"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "232_Akiyama"
+msgid "Let's choose the banker."
+msgstr ""
+
+msgctxt "244_Akiyama"
+msgid "Guess I'm the banker."
+msgstr ""
+
+msgctxt "256_Akiyama"
+msgid "(How much should I wager?)"
+msgstr ""
+
+msgctxt "268_Akiyama"
+msgid "Let's start the match."
+msgstr ""
+
+msgctxt "280_Akiyama"
+msgid "Looks like it's my turn."
+msgstr ""
+
+msgctxt "292_Akiyama"
+msgid "I'll roll again."
+msgstr ""
+
+msgctxt "304_Akiyama"
+msgid "Let's settle up."
+msgstr ""
+
+msgctxt "316_Akiyama"
+msgid "(You're the banker.)"
+msgstr ""
+
+msgctxt "328_Akiyama"
+msgid "Why don't we change the banker."
+msgstr ""
+
+msgctxt "340_Akiyama"
+msgid "(Play again?)"
+msgstr ""
+
+msgctxt "352_Akiyama"
+msgid "(I'm broke.)"
+msgstr ""
+
+msgctxt "364_Akiyama"
+msgid "(Try again next time.)"
+msgstr ""

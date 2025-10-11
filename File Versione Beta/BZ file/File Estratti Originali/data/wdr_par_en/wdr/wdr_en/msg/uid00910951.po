@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2176"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2180"
+msgid "Man with Dark Clan"
+msgstr ""
+
+msgctxt "2184"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2188"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2192"
+msgid "Blanc"
+msgstr ""
+
+msgctxt "2196"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "2200"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "2204"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "2208"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2212"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "2216"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "2220"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "56_Kiryu"
+msgid "You're one of the Dark Clan?"
+msgstr ""
+
+msgctxt "68_Man with Dark Clan"
+msgid "My name is Blanc. You are Kiryu?"
+msgstr ""
+
+msgctxt "80_Kiryu"
+msgid "Right. And I'm guessing you're not Japanese?"
+msgstr ""
+
+msgctxt "92_Blanc"
+msgid "Korean."
+msgstr ""
+
+msgctxt "104_Kiryu"
+msgid ""
+"Korean, huh? A while back, I had some trouble with a group called the "
+"Jingweon Mafia. You from the mafia, too?"
+msgstr ""
+
+msgctxt "116_Blanc"
+msgid "Not anymore. In Japan, mafia is weak. Dark Clan is better."
+msgstr ""
+
+msgctxt "128_Kiryu"
+msgid "Who's giving you your orders?"
+msgstr ""
+
+msgctxt "140_Blanc"
+msgid "Can not tell. But you, die. Is your fate."
+msgstr ""
+
+msgctxt "152_Kiryu"
+msgid "What do I have to do with anything?"
+msgstr ""
+
+msgctxt "164_Blanc"
+msgid ""
+"Power balance not good when you are here. Not good for Kamurocho. So they "
+"call me."
+msgstr ""
+
+msgctxt "176_Kiryu"
+msgid "Balance? What balance?"
+msgstr ""
+
+msgctxt "188_Blanc"
+msgid "You die, balance is okay."
+msgstr ""

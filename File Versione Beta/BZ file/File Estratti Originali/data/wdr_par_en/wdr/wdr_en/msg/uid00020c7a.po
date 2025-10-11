@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "68"
+msgid "You \"borrowed\" a <Color:8>Chain<Color:Default>."
+msgstr ""
+
+msgctxt "1648"
+msgid "Kataoka"
+msgstr ""
+
+msgctxt "1652"
+msgid "M_ykzs_damage"
+msgstr ""
+
+msgctxt "1656"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1660"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1664"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1668"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "56_Kataoka"
+msgid "Shit... Here, just take it."
+msgstr ""
+
+msgctxt "92_Saejima"
+msgid "Sorry again. Nothin' personal."
+msgstr ""
+
+msgctxt "104_Kataoka"
+msgid ""
+"Yeah, yeah, whatever. Look, I don't really care what you do with it, but "
+"you better give it back to me when you're done."
+msgstr ""
+
+msgctxt "116_Saejima"
+msgid "I'll see what I can do."
+msgstr ""

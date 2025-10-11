@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1964"
+msgid "Homeless Newcomer"
+msgstr ""
+
+msgctxt "1968"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1972"
+msgid "Homeless Veteran"
+msgstr ""
+
+msgctxt "1976"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1980"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1984"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "1988"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "84_Homeless Newcomer"
+msgid ""
+"What in tarnation... I dunno where I am anymore.\r\n"
+"How do I even get out of here?"
+msgstr ""
+
+msgctxt "96_Homeless Veteran"
+msgid "You new around here, chief? Where is it you want to go?"
+msgstr ""
+
+msgctxt "108_Homeless Newcomer"
+msgid ""
+"Oh, uh... I was just trying to get to Tenkaichi Street.\r\n"
+"Can you point me in the right direction?"
+msgstr ""
+
+msgctxt "120_Homeless Veteran"
+msgid ""
+"I can point you to a map in the underground parking lot.\r\n"
+"Makes navigating down here a cinch."
+msgstr ""
+
+msgctxt "132_Homeless Veteran"
+msgid ""
+"It's next to the exit, so if you wind up lost again,\r\n"
+"double back to the map and reorient yourself."
+msgstr ""
+
+msgctxt "156_Homeless Newcomer"
+msgid "A map is exactly what I needed. Thank you kindly."
+msgstr ""
+
+msgctxt "168_Homeless Veteran"
+msgid "You be careful now, chief. The underground's a wide and wild place."
+msgstr ""
+
+msgctxt "180_Saejima"
+msgid "(Glad I carry a map on me, so I don't get lost like that.)"
+msgstr ""

@@ -1,0 +1,193 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-04\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1552\tNAME"
+msgid "Yoshitaka Mine"
+msgstr "Yoshitaka Mine"
+
+msgctxt "1567\tNAME"
+msgid "Tsuyoshi Kanda"
+msgstr "Tsuyoshi Kanda"
+
+msgctxt "1582\tNAME"
+msgid "Joji Kazama"
+msgstr "Joji Kazama"
+
+msgctxt "1594\tNAME"
+msgid "Lau Ka Long"
+msgstr "Lau Ka Long"
+
+msgctxt "1606\tNAME"
+msgid "Tetsuo Tamashiro"
+msgstr "Tetsuo Tamashiro"
+
+msgctxt "1623\tNAME"
+msgid "Richardson"
+msgstr "Richardson"
+
+msgctxt "1634\tNAME"
+msgid "Goro Majima"
+msgstr "Goro Majima"
+
+msgctxt "1646\tNAME"
+msgid "Rikiya Shimabukuro"
+msgstr "Rikiya Shimabukuro"
+
+msgctxt "1665\tNAME"
+msgid "Goh Hamazaki"
+msgstr "Goh Hamazaki"
+
+msgctxt "1678\tNAME"
+msgid "Hasebe"
+msgstr "Hasebe"
+
+msgctxt "1685\tNAME"
+msgid "Mikio"
+msgstr "Mikio"
+
+msgctxt "1691\tNAME"
+msgid "Kazuki"
+msgstr "Kazuki"
+
+msgctxt "1698\tNAME"
+msgid "Yuya"
+msgstr "Yuya"
+
+msgctxt "1703\tNAME"
+msgid "Sotaro Komaki"
+msgstr "Sotaro Komaki"
+
+msgctxt "1717\tNAME"
+msgid "Shoji Yonashiro"
+msgstr "Shoji Yonashiro"
+
+msgctxt "1733\tCATCHPHRASE"
+msgid "The Lone Entrepreneur"
+msgstr "L'Imprenditore Solitario"
+
+msgctxt "1755\tCATCHPHRASE"
+msgid "The Raging Bull of Tojo"
+msgstr "Il Toro Infuriato di Tojo"
+
+msgctxt "1779\tCATCHPHRASE"
+msgid "The Righteous Runaway"
+msgstr "Il Giusto Fuggiasco"
+
+msgctxt "1801\tCATCHPHRASE"
+msgid "Snake Flower Boss"
+msgstr "Boss Fiore del Serpente"
+
+msgctxt "1819\tCATCHPHRASE"
+msgid "The Ryukyu Assassin"
+msgstr "L'Assassino di Ryukyu"
+
+msgctxt "1839\tCATCHPHRASE"
+msgid "Legendary Arms Dealer"
+msgstr "Trafficante d'armi leggendario"
+
+msgctxt "1861\tCATCHPHRASE"
+msgid "Mad Dog of Shimano"
+msgstr "Cane Pazzo di Shimano"
+
+msgctxt "1880\tCATCHPHRASE"
+msgid "The Fighting Viper"
+msgstr "La Vipera Combattente"
+
+msgctxt "1899\tCATCHPHRASE"
+msgid "Emperor of Hama"
+msgstr "Imperatore di Hama"
+
+msgctxt "1915\tCATCHPHRASE"
+msgid "none"
+msgstr "Nessuno"
+
+msgctxt "1920\tCATCHPHRASE"
+msgid "none"
+msgstr "Nessuno"
+
+msgctxt "1925\tCATCHPHRASE"
+msgid "none"
+msgstr "Nessuno"
+
+msgctxt "1930\tCATCHPHRASE"
+msgid "none"
+msgstr "Nessuno"
+
+msgctxt "1935\tCATCHPHRASE"
+msgid "none"
+msgstr "Nessuno"
+
+msgctxt "1940\tCATCHPHRASE"
+msgid "none"
+msgstr "Nessuno"
+
+msgctxt "2354\tSTYLE"
+msgid "MMA"
+msgstr "MMA"
+
+msgctxt "2358\tSTYLE"
+msgid "Street Fighting"
+msgstr "Combattimento di Strada"
+
+msgctxt "2374\tSTYLE"
+msgid "Karate"
+msgstr "Karate"
+
+msgctxt "2381\tSTYLE"
+msgid "Kung Fu"
+msgstr "Kung Fu"
+
+msgctxt "2389\tSTYLE"
+msgid "Street Fighting"
+msgstr "Combattimento di Strada"
+
+msgctxt "2405\tSTYLE"
+msgid "Guns"
+msgstr "Armi da fuoco"
+
+msgctxt "2410\tSTYLE"
+msgid "Street Fighting"
+msgstr "Rissa di Strada"
+
+msgctxt "2426\tSTYLE"
+msgid "Street Fighting"
+msgstr "Combattimento di Strada"
+
+msgctxt "2442\tSTYLE"
+msgid "Street Fighting"
+msgstr "Combattimento di Strada"
+
+msgctxt "2458\tSTYLE"
+msgid "none"
+msgstr "Nessuno"
+
+msgctxt "2463\tSTYLE"
+msgid "none"
+msgstr "Nessuno"
+
+msgctxt "2468\tSTYLE"
+msgid "none"
+msgstr "nessuno"
+
+msgctxt "2473\tSTYLE"
+msgid "none"
+msgstr "Nessuno"
+
+msgctxt "2478\tSTYLE"
+msgid "none"
+msgstr "Nessuno"
+
+msgctxt "2483\tSTYLE"
+msgid "none"
+msgstr "Nessuno"

@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "656"
+msgid "Player"
+msgstr ""
+
+msgctxt "100_Player"
+msgid "Do you want to leave?"
+msgstr ""
+
+msgctxt "124_Player"
+msgid "(I'd better get going...)"
+msgstr ""
+
+msgctxt "148_Player"
+msgid "Keep Watching"
+msgstr ""
+
+msgctxt "160_Player"
+msgid "Leave"
+msgstr ""

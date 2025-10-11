@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "7536"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "7540"
+msgid "Idle"
+msgstr ""
+
+msgctxt "7544"
+msgid "P_sae_stand_tlk_syagamu_st"
+msgstr ""
+
+msgctxt "7548"
+msgid "P_sae_stand_tlk_syagamu_ed"
+msgstr ""
+
+msgctxt "7552"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7556"
+msgid "P_sae_stand_tlk_kappa_get"
+msgstr ""
+
+msgctxt "7560"
+msgid "M_nml_stand_tlk_kappa_get"
+msgstr ""
+
+msgctxt "7564"
+msgid "0"
+msgstr ""
+
+msgctxt "7568"
+msgid "Kappa?"
+msgstr ""
+
+msgctxt "7572"
+msgid "Yoroke_FR_big"
+msgstr ""
+
+msgctxt "7576"
+msgid "Yoroke_FL_small"
+msgstr ""
+
+msgctxt "7580"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "72_Saejima"
+msgid ""
+"(Here's the manhole. Maybe I'll leave somethin' near it for shits and "
+"giggles.)"
+msgstr ""
+
+msgctxt "96_Saejima"
+msgid "(Alright, I'll just go ahead and put this here.)"
+msgstr ""
+
+msgctxt "108_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "120_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "132_Saejima"
+msgid "(Still no dice, huh? I oughta get somethin' that'd float a kappa's boat.)"
+msgstr ""
+
+msgctxt "144_Saejima"
+msgid ""
+"(I don't got nothin' good on me. Maybe I'll pick up some grub from the "
+"convenience store.)"
+msgstr ""
+
+msgctxt "156_Saejima"
+msgid ""
+"(If he ran off with miso paste cucumbers once, maybe he'll show up for 'em "
+"again.)"
+msgstr ""
+
+msgctxt "168_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "180_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "192_Saejima"
+msgid ""
+"(Nothin'. Fancy cukes ain't enough to lure him out twice. Gotta find "
+"somethin' else kappas like.)"
+msgstr ""
+
+msgctxt "204_Saejima"
+msgid "(What do kappas like, anyhow... Is Kappamaki too obvious?)"
+msgstr ""
+
+msgctxt "216_Saejima"
+msgid ""
+"(Well, they mentioned cukes. How 'bout cucumber sushi? If Kappamaki don't "
+"do the trick, nothin' will.)"
+msgstr ""
+
+msgctxt "240_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "252_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "276_Saejima"
+msgid "There ya are."
+msgstr ""
+
+msgctxt "312_Saejima"
+msgid "Gotcha!"
+msgstr ""
+
+msgctxt "360_Kappa?"
+msgid "Wargh!"
+msgstr ""
+
+msgctxt "384_Saejima"
+msgid "Hey, wait! Dammit!"
+msgstr ""
+
+msgctxt "432_Saejima"
+msgid ""
+"(Here's the manhole. Thief or kappa, I don't much care. I just wanna get to "
+"the bottom of this.)"
+msgstr ""
+
+msgctxt "444_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "456_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "468_Saejima"
+msgid "(This could take forever. If only there was some way to lure him out...)"
+msgstr ""
+
+msgctxt "480_Saejima"
+msgid ""
+"(They said he only steals food, right? Maybe I oughta leave out some grub "
+"as bait.)"
+msgstr ""
+
+msgctxt "504_Saejima"
+msgid "(Alright then, I'll just put this here.)"
+msgstr ""
+
+msgctxt "516_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "528_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "540_Saejima"
+msgid ""
+"(That didn't work... Didn't they say he stole cucumbers? The convenience "
+"store oughta have somethin' like that.)"
+msgstr ""
+
+msgctxt "552_Saejima"
+msgid ""
+"(I don't got nothin' good on me. Oughta hit up the convenience store and "
+"rustle up some grub.)"
+msgstr ""
+
+msgctxt "564_Saejima"
+msgid "(Well, they mentioned cukes. Miso paste cucumbers oughta get the job done.)"
+msgstr ""
+
+msgctxt "576_Saejima"
+msgid "Holy－!"
+msgstr ""
+
+msgctxt "588_Saejima"
+msgid "Shit! Where ya think you're goin'?"
+msgstr ""

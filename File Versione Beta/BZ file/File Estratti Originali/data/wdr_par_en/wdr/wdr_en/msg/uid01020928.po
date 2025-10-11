@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "4296"
+msgid "Ueno Seiwa Clan Member"
+msgstr ""
+
+msgctxt "4300"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4304"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "4308"
+msgid "F_cld_stand_bag"
+msgstr ""
+
+msgctxt "4312"
+msgid "Idle"
+msgstr ""
+
+msgctxt "4316"
+msgid "Girl"
+msgstr ""
+
+msgctxt "4320"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "4324"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "4328"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "96_Ueno Seiwa Clan Member"
+msgid "This it? Talk about hard to find."
+msgstr ""
+
+msgctxt "108_Ueno Seiwa Clan Member"
+msgid "Now scram. Wouldn't want ya getting hurt, now would we?"
+msgstr ""
+
+msgctxt "120_Tanimura"
+msgid "Hold it right there!"
+msgstr ""
+
+msgctxt "144_Ueno Seiwa Clan Member"
+msgid "Well, well... Kudos on making it this far."
+msgstr ""
+
+msgctxt "156_Tanimura"
+msgid "[Take this to Homeland for me.]"
+msgstr ""
+
+msgctxt "192_Girl"
+msgid "[Okay!]"
+msgstr ""
+
+msgctxt "216_Tanimura"
+msgid "I know you're after me, so leave these people out of it!"
+msgstr ""
+
+msgctxt "228_Ueno Seiwa Clan Member"
+msgid ""
+"We're actually more interested in that restaurant and the money than you, "
+"but if you want us to walk over your corpse to get 'em, hey, that's your "
+"call."
+msgstr ""
+
+msgctxt "252_Tanimura"
+msgid "(This is bad. This place is crawling with Katsuragi's goons.)"
+msgstr ""
+
+msgctxt "264_Ueno Seiwa Clan Member"
+msgid "There he is!"
+msgstr ""
+
+msgctxt "288_Tanimura"
+msgid "(Agh, I don't have time for this! Better make a run for it!)"
+msgstr ""

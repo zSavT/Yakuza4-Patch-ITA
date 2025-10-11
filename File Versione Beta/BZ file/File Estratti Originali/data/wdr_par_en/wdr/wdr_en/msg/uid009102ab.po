@@ -1,0 +1,500 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "16456"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "16460"
+msgid "Woman"
+msgstr ""
+
+msgctxt "16464"
+msgid "Officer"
+msgstr ""
+
+msgctxt "16468"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "16472"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "16476"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "16480"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "16484"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "16488"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "16492"
+msgid "Nair"
+msgstr ""
+
+msgctxt "16496"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "16500"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "16504"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "16508"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "16512"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "16516"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "16520"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "16524"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "16528"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "16532"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "16536"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "16540"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "16544"
+msgid "Supporting Detective Nair - Tanimura"
+msgstr ""
+
+msgctxt "16548"
+msgid "dummy"
+msgstr ""
+
+msgctxt "16552"
+msgid "0"
+msgstr ""
+
+msgctxt "56_Tanimura"
+msgid "(I wonder what the fastest way into Kamurocho Central Parking is...)"
+msgstr ""
+
+msgctxt "68_Woman"
+msgid "*speaking Tagalog*"
+msgstr ""
+
+msgctxt "92_Officer"
+msgid "You wouldn't happen to speak English as well, would you?"
+msgstr ""
+
+msgctxt "104_Woman"
+msgid "*speaking Tagalog*"
+msgstr ""
+
+msgctxt "116_Officer"
+msgid "It's no use. She doesn't understand a word I say."
+msgstr ""
+
+msgctxt "128_Tanimura"
+msgid "Hey there, officer."
+msgstr ""
+
+msgctxt "140_Officer"
+msgid "Oh, Tanimura-san! You couldn't have come at a better time!"
+msgstr ""
+
+msgctxt "152_Tanimura"
+msgid "Is something wrong?"
+msgstr ""
+
+msgctxt "164_Officer"
+msgid ""
+"No, but it sounds like this woman is looking for someone. But she can't "
+"speak Japanese, so I'm not really sure what to do."
+msgstr ""
+
+msgctxt "176_Officer"
+msgid ""
+"I was trying to get her to follow me back to the station so we could have "
+"an interpreter help us, but she doesn't seem keen on leaving this spot."
+msgstr ""
+
+msgctxt "188_Tanimura"
+msgid "I see. I'll take things from here."
+msgstr ""
+
+msgctxt "200_Officer"
+msgid "Thanks and sorry about this. Can I leave her to you then?"
+msgstr ""
+
+msgctxt "212_Tanimura"
+msgid ""
+"No worries. If you had taken her to the station I would have been the "
+"interpreter anyways. So it saves time if I just do it here instead."
+msgstr ""
+
+msgctxt "224_Officer"
+msgid "Heheh. You got a point there. Thanks again."
+msgstr ""
+
+msgctxt "248_Tanimura"
+msgid "Well then."
+msgstr ""
+
+msgctxt "260_Tanimura"
+msgid ""
+"[I'm a police officer. You can talk to me about whatever it is you're "
+"having trouble with.]"
+msgstr ""
+
+msgctxt "272_Woman"
+msgid "[Great! I finally found someone I can actually converse with!]"
+msgstr ""
+
+msgctxt "284_Tanimura"
+msgid ""
+"[My name is Tanimura. I'm with the Tokyo Metro Police Department. Who are "
+"you?]"
+msgstr ""
+
+msgctxt "296_Woman"
+msgid ""
+"[I'm Nair. This is my first trip to Japan, and I still haven't got my "
+"bearings quite yet.]"
+msgstr ""
+
+msgctxt "308_Tanimura"
+msgid "[Nair... Nice to meet you. I'm guessing you're from Southeast Asia?]"
+msgstr ""
+
+msgctxt "320_Tanimura"
+msgid "[Anyways, you're looking for someone right?]"
+msgstr ""
+
+msgctxt "332_Nair"
+msgid "[That's right. Well, actually I'm a detective too.]"
+msgstr ""
+
+msgctxt "344_Tanimura"
+msgid "[You? A detective?]"
+msgstr ""
+
+msgctxt "356_Nair"
+msgid "[That's right. I've followed a criminal to Japan to bring him to justice.]"
+msgstr ""
+
+msgctxt "368_Tanimura"
+msgid "[Can you just do that? Do the Japanese police know what you're up to here?]"
+msgstr ""
+
+msgctxt "380_Nair"
+msgid ""
+"[I contacted the Japanese police before I left. They're supposed to be "
+"helping...]"
+msgstr ""
+
+msgctxt "392_Nair"
+msgid ""
+"[But once I got here everyone seemed so busy. No one would help me with my "
+"investigation.]"
+msgstr ""
+
+msgctxt "404_Tanimura"
+msgid ""
+"[Oh, I see. Everything's a bit of a mess right now, so I bet not everyone "
+"knows you're even here.]"
+msgstr ""
+
+msgctxt "416_Nair"
+msgid "[I was also told I would be given an interpreter.]"
+msgstr ""
+
+msgctxt "428_Tanimura"
+msgid ""
+"[And I'm guessing you didn't get that either? I apologize for the "
+"inconvenience.]"
+msgstr ""
+
+msgctxt "440_Nair"
+msgid ""
+"[It's not your fault. I'm just happy to finally talk to someone I can "
+"understand.]"
+msgstr ""
+
+msgctxt "452_Tanimura"
+msgid "[Glad to be of assistance.]"
+msgstr ""
+
+msgctxt "464_Nair"
+msgid "[But I have a little dilemma.]"
+msgstr ""
+
+msgctxt "476_Nair"
+msgid ""
+"[We have permission to investigate, but we don't have the authority to make "
+"arrests.]"
+msgstr ""
+
+msgctxt "488_Nair"
+msgid "[In Japan, only the Japanese police are allowed to make arrests.]"
+msgstr ""
+
+msgctxt "500_Tanimura"
+msgid ""
+"[You've got a point there, but it's not our investigation. We can't make an "
+"arrest without sufficient evidence.]"
+msgstr ""
+
+msgctxt "512_Nair"
+msgid ""
+"[There is evidence. That's why my colleagues and I came to Japan, hoping "
+"for some help from you guys.]"
+msgstr ""
+
+msgctxt "524_Tanimura"
+msgid "[Colleagues?]"
+msgstr ""
+
+msgctxt "536_Nair"
+msgid "[They're out at the embassy now.]"
+msgstr ""
+
+msgctxt "548_Nair"
+msgid "[Tanimura-san, would you come with me for a bit?]"
+msgstr ""
+
+msgctxt "620_Tanimura"
+msgid "[What is this place?]"
+msgstr ""
+
+msgctxt "632_Nair"
+msgid ""
+"[We don't have cell phones that work in Japan right now, so this is our "
+"rendezvous point.]"
+msgstr ""
+
+msgctxt "644_Tanimura"
+msgid ""
+"[I see now. That's why you couldn't follow that officer to the police "
+"station.]"
+msgstr ""
+
+msgctxt "656_Nair"
+msgid ""
+"[The criminal we're seeking won't be in Japan for long. So we have to "
+"investigate quickly, along with the embassy and Japanese police.]"
+msgstr ""
+
+msgctxt "668_Nair"
+msgid "[Tanimura-san, would you please help us? We have to catch our criminal!]"
+msgstr ""
+
+msgctxt "680_Tanimura"
+msgid "[Me?]"
+msgstr ""
+
+msgctxt "692_Nair"
+msgid ""
+"[Yes, I beg of you! We'll take care of the investigation, but we need you "
+"to come along to make the arrest.]"
+msgstr ""
+
+msgctxt "704_Tanimura"
+msgid "[I'm not sure...]"
+msgstr ""
+
+msgctxt "716_Tanimura"
+msgid ""
+"(This sounds like more trouble than it's worth, but I guess the station "
+"will make me do it later, even if refuse right now.)"
+msgstr ""
+
+msgctxt "728_Tanimura"
+msgid "(If that's the case, then it'd be easier for me if I did this my way.)"
+msgstr ""
+
+msgctxt "740_Tanimura"
+msgid "[All right. I'll help.]"
+msgstr ""
+
+msgctxt "752_Nair"
+msgid "[Really!? Thank you! Thank you, Tanimura-san!]"
+msgstr ""
+
+msgctxt "764_Tanimura"
+msgid ""
+"[By the way, I have no problem arresting the criminal, but you guys don't "
+"have guns, right? Isn't that dangerous?]"
+msgstr ""
+
+msgctxt "776_Nair"
+msgid ""
+"[I don't usually carry a gun. A police officer's job is to capture "
+"criminals, not kill them.]"
+msgstr ""
+
+msgctxt "788_Tanimura"
+msgid ""
+"[If that's true, you've done a good job at staying alive. Don't you have "
+"dangerous cases?]"
+msgstr ""
+
+msgctxt "800_Nair"
+msgid ""
+"[I may not look it, but I pack a pretty strong punch. Stronger than any of "
+"the gangs here.]"
+msgstr ""
+
+msgctxt "812_Tanimura"
+msgid "[Really? I wouldn't have guessed.]"
+msgstr ""
+
+msgctxt "824_Nair"
+msgid ""
+"[I can't win a head-on slugfest with men though. I use their own strength "
+"against them.]"
+msgstr ""
+
+msgctxt "836_Tanimura"
+msgid ""
+"[So you're good at parrying, I guess? I prefer countering to simple brawls "
+"too, so I can understand your logic.]"
+msgstr ""
+
+msgctxt "848_Nair"
+msgid "[Oh yeah? We should try sparring together then!]"
+msgstr ""
+
+msgctxt "860_Tanimura"
+msgid "[Sparring?]"
+msgstr ""
+
+msgctxt "872_Nair"
+msgid ""
+"[Yeah. That way we can share techniques and help each other get better. "
+"Sparring is important, no matter what martial art you practice.]"
+msgstr ""
+
+msgctxt "884_Tanimura"
+msgid "[I dunno if my style could be called a martial art...]"
+msgstr ""
+
+msgctxt "896_Tanimura"
+msgid ""
+"[But all right. While we spar you can update me on the progress of the "
+"investigation.]"
+msgstr ""
+
+msgctxt "908_Nair"
+msgid "[Sounds great. You can come here anytime and I'll fill you in.]"
+msgstr ""
+
+msgctxt "920_Tanimura"
+msgid "[Okay. When I have time then.]"
+msgstr ""
+
+msgctxt "932_Nair"
+msgid "[Oh yeah, I was meaning to ask you something else.]"
+msgstr ""
+
+msgctxt "944_Nair"
+msgid "[Have you heard of <Color:7>Revelations<Color:Default>?]"
+msgstr ""
+
+msgctxt "956_Tanimura"
+msgid "[Revelations?]"
+msgstr ""
+
+msgctxt "968_Nair"
+msgid ""
+"[Yeah, I heard there are times you can have epic "
+"<Color:7>Revelations<Color:Default>, just by witnessing certain special "
+"events throughout the city.]"
+msgstr ""
+
+msgctxt "980_Nair"
+msgid ""
+"[People like us that train regularly can use that inspiration to discover "
+"new techniques.]"
+msgstr ""
+
+msgctxt "992_Tanimura"
+msgid ""
+"[Revelations, huh. I think I understand, but I'm not sure I know how it "
+"works.]"
+msgstr ""
+
+msgctxt "1004_Nair"
+msgid "[When you witness the perfect shot, make sure to record it somehow!]"
+msgstr ""
+
+msgctxt "1016_Nair"
+msgid "[At least that's what someone told me.]"
+msgstr ""
+
+msgctxt "1028_Nair"
+msgid ""
+"[I've been keeping memos of the various new things I've seen since coming "
+"to Japan, and I already have some technique-worthy material.]"
+msgstr ""
+
+msgctxt "1040_Tanimura"
+msgid ""
+"[That's interesting. I'll try using the notepad I always carry the next "
+"time I see something.]"
+msgstr ""
+
+msgctxt "1052_Nair"
+msgid "[Worth a try. I'll keep an eye out for things going on around town too.]"
+msgstr ""
+
+msgctxt "1064_Nair"
+msgid ""
+"[Anyways, sorry to ask so much of you. I may not be here for long, but I "
+"appreciate your help.]"
+msgstr ""
+
+msgctxt "1076_Tanimura"
+msgid ""
+"This information has been added as a <Color:14>memo<Color:Default>.\r\n"
+"Read <Color:14>memos<Color:Default> by selecting "
+"<Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
+"You can access the Pause Menu with the <Action:Button_Options@Adventure> "
+"button."
+msgstr ""

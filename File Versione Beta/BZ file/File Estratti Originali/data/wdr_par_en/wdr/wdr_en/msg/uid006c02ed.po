@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "1004"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "12760"
+msgid "Maya"
+msgstr ""
+
+msgctxt "12764"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "12768"
+msgid "Player"
+msgstr ""
+
+msgctxt "12772"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "12776"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "12780"
+msgid "dummy"
+msgstr ""
+
+msgctxt "12784"
+msgid "0"
+msgstr ""
+
+msgctxt "116_Maya"
+msgid "I'm not losing today!"
+msgstr ""
+
+msgctxt "128_Player"
+msgid "You're very confident."
+msgstr ""
+
+msgctxt "140_Maya"
+msgid "Let's go in."
+msgstr ""
+
+msgctxt "164_Maya"
+msgid "I'm not losing today!"
+msgstr ""
+
+msgctxt "176_Maya"
+msgid "Let's go in."
+msgstr ""
+
+msgctxt "188_Player"
+msgid "Hold up. I didn't bring enough money."
+msgstr ""
+
+msgctxt "200_Maya"
+msgid "Seriously? No credit card or anything?"
+msgstr ""
+
+msgctxt "212_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "224_Maya"
+msgid "Are you kidding me!? I'm going home. See you later."
+msgstr ""
+
+msgctxt "236_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr ""
+
+msgctxt "344_Maya"
+msgid ""
+"You're amazing! You wiped the floor with me. I really thought I was gonna "
+"win..."
+msgstr ""
+
+msgctxt "356_Player"
+msgid "Heh."
+msgstr ""
+
+msgctxt "368_Maya"
+msgid "That was a lot of fun! Wanna go out again?"
+msgstr ""
+
+msgctxt "380_Player"
+msgid "Of course."
+msgstr ""
+
+msgctxt "392_Maya"
+msgid "I should get going. See you at the club!"
+msgstr ""
+
+msgctxt "416_Maya"
+msgid "Haha. It's a draw."
+msgstr ""
+
+msgctxt "428_Player"
+msgid "Guess so."
+msgstr ""
+
+msgctxt "440_Maya"
+msgid ""
+"I was really getting into it. Let's definitely do this again! "
+"<Color:7>♥<Color:Default> I'll see you around."
+msgstr ""
+
+msgctxt "464_Maya"
+msgid "Sorry, Kiryu-san. I win this time!"
+msgstr ""
+
+msgctxt "476_Player"
+msgid "Heh. You got me."
+msgstr ""
+
+msgctxt "488_Maya"
+msgid "We should do this again sometime. <Color:7>♥<Color:Default> See you around."
+msgstr ""
+
+msgctxt "596_Maya"
+msgid "I'm not losing today!"
+msgstr ""
+
+msgctxt "608_Player"
+msgid "You're very confident."
+msgstr ""
+
+msgctxt "620_Maya"
+msgid "Let's go in."
+msgstr ""
+
+msgctxt "644_Maya"
+msgid "I'm not losing today!"
+msgstr ""
+
+msgctxt "656_Maya"
+msgid "Let's go in."
+msgstr ""
+
+msgctxt "668_Player"
+msgid "Hold up. I didn't bring enough money."
+msgstr ""
+
+msgctxt "680_Maya"
+msgid "Seriously? No credit card or anything?"
+msgstr ""
+
+msgctxt "692_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "704_Maya"
+msgid "Are you kidding me!? I'm going home. See you later."
+msgstr ""
+
+msgctxt "716_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr ""
+
+msgctxt "824_Maya"
+msgid ""
+"You're amazing! You wiped the floor with me. I really thought I was gonna "
+"win..."
+msgstr ""
+
+msgctxt "836_Player"
+msgid "Heh."
+msgstr ""
+
+msgctxt "848_Maya"
+msgid "That was a lot of fun! Wanna go out again?"
+msgstr ""
+
+msgctxt "860_Player"
+msgid "Of course."
+msgstr ""
+
+msgctxt "884_Maya"
+msgid "Haha. It's a draw."
+msgstr ""
+
+msgctxt "896_Player"
+msgid "Guess so."
+msgstr ""
+
+msgctxt "908_Maya"
+msgid "I was really getting into it. Wanna go to the club next?"
+msgstr ""
+
+msgctxt "920_Player"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "944_Maya"
+msgid "Sorry, Kiryu-san. I win this time!"
+msgstr ""
+
+msgctxt "956_Player"
+msgid "Heh. You got me."
+msgstr ""
+
+msgctxt "968_Maya"
+msgid "Wanna hit up the club now?"
+msgstr ""
+
+msgctxt "980_Player"
+msgid "Sure."
+msgstr ""

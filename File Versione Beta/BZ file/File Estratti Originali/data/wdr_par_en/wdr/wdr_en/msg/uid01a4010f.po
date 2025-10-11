@@ -1,0 +1,526 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "23604"
+msgid "Hana"
+msgstr ""
+
+msgctxt "23608"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "23612"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "23616"
+msgid "P_aki_sitsofa"
+msgstr ""
+
+msgctxt "23620"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "23624"
+msgid "0"
+msgstr ""
+
+msgctxt "23628"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "23632"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "23636"
+msgid "Man"
+msgstr ""
+
+msgctxt "23640"
+msgid "Hayashida"
+msgstr ""
+
+msgctxt "23644"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "23648"
+msgid "P_aki_sitsofa_tlk_kamae_ed"
+msgstr ""
+
+msgctxt "23652"
+msgid "P_aki_stand"
+msgstr ""
+
+msgctxt "23656"
+msgid "Idle"
+msgstr ""
+
+msgctxt "23660"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "23664"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "23668"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "23672"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "23676"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "23680"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "23684"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "23688"
+msgid "2d_cf_pict_nigaoe_hana"
+msgstr ""
+
+msgctxt "23692"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "180_Hana"
+msgid "Oh, Chief! Out wandering around as usual, I see."
+msgstr ""
+
+msgctxt "192_Akiyama"
+msgid ""
+"Well, I don't know about \"wandering around.\" I'm a busy guy,\r\n"
+"you know?"
+msgstr ""
+
+msgctxt "204_Hana"
+msgid ""
+"Oh, spare me! You were off playing pachinko or something,\r\n"
+"weren't you!?"
+msgstr ""
+
+msgctxt "216_Hana"
+msgid ""
+"Do you have any idea how many jobs I took care of while you\r\n"
+"were out goofing around?"
+msgstr ""
+
+msgctxt "228_Hana"
+msgid ""
+"Meanwhile, the world keeps turning. Apparently, some\r\n"
+"counterfeit bills have been making their way around town.\r\n"
+"I saw it on a news site."
+msgstr ""
+
+msgctxt "252_Akiyama"
+msgid "Aha! So you've been surfing the net all day, have you?"
+msgstr ""
+
+msgctxt "264_Hana"
+msgid "I've been gathering info for work!"
+msgstr ""
+
+msgctxt "276_Akiyama"
+msgid ""
+"Whatever you say... Counterfeit bills, huh? That's bad for\r\n"
+"business..."
+msgstr ""
+
+msgctxt "288_Hana"
+msgid "Tell me about it! I hope they catch the crook soon."
+msgstr ""
+
+msgctxt "300_Akiyama"
+msgid "I'm sure Tokyo's finest are on the case."
+msgstr ""
+
+msgctxt "312_Akiyama"
+msgid "*yawn*"
+msgstr ""
+
+msgctxt "324_Hana"
+msgid "Why do I even bother...?"
+msgstr ""
+
+msgctxt "372_Man"
+msgid "Hello?"
+msgstr ""
+
+msgctxt "384_Hana"
+msgid "Oh, hello. Chief! We've got a customer."
+msgstr ""
+
+msgctxt "396_Akiyama"
+msgid "Oh yeah? Who is it?"
+msgstr ""
+
+msgctxt "408_Akiyama"
+msgid "Ah, Hayashida-san. Is it payback day already?"
+msgstr ""
+
+msgctxt "420_Hana"
+msgid "Ugh, I wish you'd keep track of these things..."
+msgstr ""
+
+msgctxt "432_Hayashida"
+msgid "Here's this month's payment."
+msgstr ""
+
+msgctxt "444_Akiyama"
+msgid ""
+"Thank you. Just give me a moment to make sure we're all\r\n"
+"squared away..."
+msgstr ""
+
+msgctxt "504_Hana"
+msgid ""
+"You're always so prompt with your payments, Hayashida-san.\r\n"
+"We really appreciate it."
+msgstr ""
+
+msgctxt "516_Hayashida"
+msgid ""
+"Times are tough, so it certainly hasn't been easy...\r\n"
+"But I've managed to hang in there."
+msgstr ""
+
+msgctxt "528_Akiyama"
+msgid ""
+"Well, in this line of business, you're a rare bird, as far\r\n"
+"as customers go."
+msgstr ""
+
+msgctxt "540_Akiyama"
+msgid "...Huh?"
+msgstr ""
+
+msgctxt "552_Akiyama"
+msgid ""
+"Hayashida-san, did you, by any chance, withdraw this money\r\n"
+"from an ATM?"
+msgstr ""
+
+msgctxt "564_Hayashida"
+msgid "No, I took it from the safe at work..."
+msgstr ""
+
+msgctxt "576_Hana"
+msgid ""
+"You run a restaurant, don't you? A French restaurant! Ooh,\r\n"
+"I've got to try it out sometime."
+msgstr ""
+
+msgctxt "588_Akiyama"
+msgid "There are some, uh... counterfeit bills in here."
+msgstr ""
+
+msgctxt "600_Hayashida"
+msgid "What!?"
+msgstr ""
+
+msgctxt "612_Akiyama"
+msgid ""
+"They're actually pretty well done. Definitely good enough to\r\n"
+"fool the eye... Probably couldn't fool an ATM, though."
+msgstr ""
+
+msgctxt "624_Hana"
+msgid "Counterfeit bills? Like the ones I just read about online?"
+msgstr ""
+
+msgctxt "636_Akiyama"
+msgid ""
+"Could be... And I'm thinking we just found the man\r\n"
+"responsible."
+msgstr ""
+
+msgctxt "648_Hayashida"
+msgid "What are you saying!?"
+msgstr ""
+
+msgctxt "660_Akiyama"
+msgid ""
+"Sorry. Bad joke. I doubt you'd knowingly use fake bills. I'm\r\n"
+"sure you're beyond reproach."
+msgstr ""
+
+msgctxt "672_Hayashida"
+msgid ""
+"Of course I am! I've been working my fingers to the bone to\r\n"
+"pay back this money! Why would I try to swindle my way out\r\n"
+"now!?"
+msgstr ""
+
+msgctxt "684_Akiyama"
+msgid "Exactly. Do you remember when you got this money?"
+msgstr ""
+
+msgctxt "696_Hayashida"
+msgid ""
+"Let's see... Sorry, I'm a little frazzled...  Last week, I\r\n"
+"deposited everything at the bank, so this must've happened\r\n"
+"sometime after that."
+msgstr ""
+
+msgctxt "708_Akiyama"
+msgid ""
+"Well, that helps narrow it down. Any suspicious customers\r\n"
+"come by this past week?"
+msgstr ""
+
+msgctxt "720_Hayashida"
+msgid "Suspicious customers?"
+msgstr ""
+
+msgctxt "732_Akiyama"
+msgid ""
+"Say, someone who ordered a thousand yen dish and paid with a ten thousand "
+"yen bill?"
+msgstr ""
+
+msgctxt "744_Hayashida"
+msgid "Sure, that happens pretty often..."
+msgstr ""
+
+msgctxt "756_Akiyama"
+msgid "Anybody ask you to break big bills as they paid?"
+msgstr ""
+
+msgctxt "768_Hayashida"
+msgid ""
+"Yes! There was somebody like that a couple days ago.\r\n"
+"I couldn't exactly say no..."
+msgstr ""
+
+msgctxt "780_Akiyama"
+msgid "That might be our man. Do you remember what he looked like?"
+msgstr ""
+
+msgctxt "792_Hayashida"
+msgid ""
+"He struck me as kind of a yakuza type, and he was pretty\r\n"
+"intimidating, so it was kinda hard for me to turn him\r\n"
+"down..."
+msgstr ""
+
+msgctxt "804_Hana"
+msgid "That's got to be him! Super shady!"
+msgstr ""
+
+msgctxt "816_Akiyama"
+msgid ""
+"Very interesting. Now let me ask you this. Are you much of\r\n"
+"an artist, Hayashida-san?"
+msgstr ""
+
+msgctxt "828_Hayashida"
+msgid "Me? I don't draw very well, no..."
+msgstr ""
+
+msgctxt "840_Akiyama"
+msgid ""
+"Ah, I see. Well, I'm no Picasso myself. So that just\r\n"
+"leaves..."
+msgstr ""
+
+msgctxt "852_Hana"
+msgid "Who, me?"
+msgstr ""
+
+msgctxt "864_Akiyama"
+msgid ""
+"Yep. It's your time to shine, Hana-chan. Show us what you\r\n"
+"can do."
+msgstr ""
+
+msgctxt "876_Hana"
+msgid "Well, uh, all right..."
+msgstr ""
+
+msgctxt "888_Akiyama"
+msgid ""
+"Hayashida-san, would you please describe this customer?\r\n"
+"Whatever you can remember."
+msgstr ""
+
+msgctxt "900_Hayashida"
+msgid "Let's see. He was about forty years old and..."
+msgstr ""
+
+msgctxt "912_Hana"
+msgid "Uh-huh...  Forty years old..."
+msgstr ""
+
+msgctxt "972_Hayashida"
+msgid "That's about all I can remember..."
+msgstr ""
+
+msgctxt "984_Hana"
+msgid "I see... So, something like this?"
+msgstr ""
+
+msgctxt "996_Akiyama"
+msgid "......"
+msgstr ""
+
+msgctxt "1008_Hayashida"
+msgid "...Ahem."
+msgstr ""
+
+msgctxt "1020_Hana"
+msgid "Hm? What's wrong?"
+msgstr ""
+
+msgctxt "1032_Akiyama"
+msgid "So we're looking for some kind of ogre...?"
+msgstr ""
+
+msgctxt "1044_Hayashida"
+msgid "Oh, I don't know... It does kind of look like him."
+msgstr ""
+
+msgctxt "1056_Akiyama"
+msgid "Really!? You sure you're not just being polite?"
+msgstr ""
+
+msgctxt "1068_Hana"
+msgid "Oh, come on! You told me to draw, so I did!"
+msgstr ""
+
+msgctxt "1080_Akiyama"
+msgid ""
+"Hahaha! Forgive me, I had no idea you were so bad at it.\r\n"
+"Ahem... Now then, Hayashida-san, do you really see a\r\n"
+"resemblance?"
+msgstr ""
+
+msgctxt "1092_Hayashida"
+msgid "Yes... As a matter of fact, I do."
+msgstr ""
+
+msgctxt "1104_Akiyama"
+msgid "I see... And here I thought I was a man of the world..."
+msgstr ""
+
+msgctxt "1116_Hana"
+msgid "Chief..."
+msgstr ""
+
+msgctxt "1128_Akiyama"
+msgid ""
+"Never mind. Hana-chan, can you make me some copies of this?\r\n"
+"About fifty or so should do."
+msgstr ""
+
+msgctxt "1140_Hana"
+msgid ""
+"Like I'm not embarrassed enough? Look, I'll make the copies,\r\n"
+"but don't tell me you're going to try and find this guy\r\n"
+"yourself?"
+msgstr ""
+
+msgctxt "1152_Akiyama"
+msgid "Thinkin' about it..."
+msgstr ""
+
+msgctxt "1164_Hayashida"
+msgid ""
+"Oh, you don't have to go that far! I'll replace the fakes\r\n"
+"right away. Besides, wouldn't this be better left in the\r\n"
+"hands of the police?"
+msgstr ""
+
+msgctxt "1176_Akiyama"
+msgid ""
+"Don't worry. I'll take care of it. I'll be in touch if I\r\n"
+"find out anything."
+msgstr ""
+
+msgctxt "1188_Hayashida"
+msgid "If you say so... I suppose I'll be on my way, then."
+msgstr ""
+
+msgctxt "1248_Hana"
+msgid ""
+"I've got your copies ready. Are you really gonna go look\r\n"
+"for this guy?"
+msgstr ""
+
+msgctxt "1260_Akiyama"
+msgid "That's the plan."
+msgstr ""
+
+msgctxt "1272_Hana"
+msgid ""
+"What do you want to do that for? Weren't you just talking\r\n"
+"about how \"Tokyo's finest\" were on the case?"
+msgstr ""
+
+msgctxt "1284_Akiyama"
+msgid ""
+"I did intend to let them handle it, yes. But it's a\r\n"
+"different story when one of my customers is involved."
+msgstr ""
+
+msgctxt "1296_Akiyama"
+msgid ""
+"My customers' money holds a deep significance to them. For\r\n"
+"Hayashida-san, it's the tangible fruit of all the hard work\r\n"
+"he puts into making delicious food."
+msgstr ""
+
+msgctxt "1308_Akiyama"
+msgid ""
+"Way I see it, fake money is like spitting in the face of\r\n"
+"everyone who puts in a hard day's work, and well...\r\n"
+"Frankly, it pisses me off."
+msgstr ""
+
+msgctxt "1320_Hana"
+msgid "Chief..."
+msgstr ""
+
+msgctxt "1332_Akiyama"
+msgid ""
+"I'm not entirely sure this is the culprit, but it's all I\r\n"
+"have to go on right now. I'll ask around. Take care of the\r\n"
+"the office while I'm gone, all right?"
+msgstr ""
+
+msgctxt "1344_Hana"
+msgid ""
+"Aw, Chief, can't you at least try to get through some of\r\n"
+"this paperwork first...?"
+msgstr ""
+
+msgctxt "1404_Akiyama"
+msgid ""
+"(Hana-chan really slaved over this sketch... Guess I should start handing "
+"'em out.)"
+msgstr ""
+
+msgctxt "1416_Akiyama"
+msgid ""
+"(I'll stop by my friends' places first. Maybe somebody who usually deals in "
+"big bills, like the owner of Sushi Gin.)"
+msgstr ""

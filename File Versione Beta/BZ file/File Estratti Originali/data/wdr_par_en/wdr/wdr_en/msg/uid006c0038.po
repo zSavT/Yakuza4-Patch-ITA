@@ -1,0 +1,5567 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "15732"
+msgid "Thanks..."
+msgstr ""
+
+msgctxt "15804"
+msgid "Don't you remember?"
+msgstr ""
+
+msgctxt "16212"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "16368"
+msgid "Here you are!"
+msgstr ""
+
+msgctxt "16944"
+msgid "Kiryu-san!"
+msgstr ""
+
+msgctxt "17148"
+msgid "I see... Well, let me know if you hear anything."
+msgstr ""
+
+msgctxt "214496"
+msgid "望月京子：源氏名"
+msgstr ""
+
+msgctxt "214500"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr ""
+
+msgctxt "214504"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "214508"
+msgid "P_sitsofaR_tlk_yes"
+msgstr ""
+
+msgctxt "214512"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr ""
+
+msgctxt "214516"
+msgid "P_sitsofaR_tlk_smile"
+msgstr ""
+
+msgctxt "214520"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr ""
+
+msgctxt "214524"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr ""
+
+msgctxt "214528"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr ""
+
+msgctxt "214532"
+msgid "P_sitsofaR_tlk_no"
+msgstr ""
+
+msgctxt "214536"
+msgid "P_sitsofaR_tlk_quest"
+msgstr ""
+
+msgctxt "214540"
+msgid "P_sitsofaR_tlk_comment"
+msgstr ""
+
+msgctxt "214544"
+msgid "F_cab_sitsofa_tlk_thinkA"
+msgstr ""
+
+msgctxt "214548"
+msgid "F_cab_sitsofa_tlk_commentA"
+msgstr ""
+
+msgctxt "214552"
+msgid "F_cab_sitsofa_sp1_sync_yop"
+msgstr ""
+
+msgctxt "214556"
+msgid "P_sitsofaR_tlk_ase"
+msgstr ""
+
+msgctxt "214560"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr ""
+
+msgctxt "214564"
+msgid "P_sitsofaR_tlk_think"
+msgstr ""
+
+msgctxt "214568"
+msgid "F_cab_sitsofa_sp2_sync_hiza"
+msgstr ""
+
+msgctxt "214572"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr ""
+
+msgctxt "214576"
+msgid "F_cab_sitsofa_tlk_gakkariA"
+msgstr ""
+
+msgctxt "214580"
+msgid "F_cab_sitsofa_sp6_sync_kami"
+msgstr ""
+
+msgctxt "214584"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr ""
+
+msgctxt "214588"
+msgid "P_sitsofaR_tlk_angry"
+msgstr ""
+
+msgctxt "214592"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
+
+msgctxt "214596"
+msgid "F_cab_sitsofa_tlk_akubi"
+msgstr ""
+
+msgctxt "214600"
+msgid "F_cab_sitsofa_tlk_kamaeBtoA"
+msgstr ""
+
+msgctxt "214604"
+msgid "F_cab_sitsofa_tlk_refuse"
+msgstr ""
+
+msgctxt "214608"
+msgid "F_cab_sitsofa_tlk_appealA"
+msgstr ""
+
+msgctxt "214612"
+msgid "P_sitsofaR_tlk_surp"
+msgstr ""
+
+msgctxt "214616"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr ""
+
+msgctxt "214620"
+msgid "F_cab_stand_tlk_byeA"
+msgstr ""
+
+msgctxt "214624"
+msgid "F_cab_stand_tlk_byeB"
+msgstr ""
+
+msgctxt "214628"
+msgid "F_cab_sitsofa_tlk_ojigiA"
+msgstr ""
+
+msgctxt "214632"
+msgid "F_cab_sitsofa_sync_order"
+msgstr ""
+
+msgctxt "214636"
+msgid "M_shp_sitgrd_sync_order"
+msgstr ""
+
+msgctxt "214640"
+msgid "Attendant"
+msgstr ""
+
+msgctxt "214644"
+msgid "Player"
+msgstr ""
+
+msgctxt "214648"
+msgid "2d_cf_meishi_ki_kyoko00"
+msgstr ""
+
+msgctxt "214652"
+msgid "2d_cf_meishi_ki_kyoko01"
+msgstr ""
+
+msgctxt "214656"
+msgid "F_cab_stand_sync_byeC_st"
+msgstr ""
+
+msgctxt "214660"
+msgid "P_stand_sync_byeC_st"
+msgstr ""
+
+msgctxt "214664"
+msgid "F_cab_stand_sync_byeC_ed"
+msgstr ""
+
+msgctxt "214668"
+msgid "P_stand_sync_byeC_ed"
+msgstr ""
+
+msgctxt "214672"
+msgid "F_cab_stand_sp11_sync_mimi_st"
+msgstr ""
+
+msgctxt "214676"
+msgid "P_stand_sp11_sync_mimi_st"
+msgstr ""
+
+msgctxt "214680"
+msgid "F_cab_stand_sp11_sync_mimi_ed"
+msgstr ""
+
+msgctxt "214684"
+msgid "P_stand_sp11_sync_mimi_ed"
+msgstr ""
+
+msgctxt "214688"
+msgid "F_cab_stand_sp14_sync_hoho_st"
+msgstr ""
+
+msgctxt "214692"
+msgid "P_stand_sp14_sync_hoho_st"
+msgstr ""
+
+msgctxt "214696"
+msgid "F_cab_stand_sp16_sync_hoho_ed"
+msgstr ""
+
+msgctxt "214700"
+msgid "P_stand_sp16_sync_hoho_ed"
+msgstr ""
+
+msgctxt "214704"
+msgid "F_cab_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "214708"
+msgid "P_stand_sync_dakiA_st"
+msgstr ""
+
+msgctxt "214712"
+msgid "F_cab_stand_sync_dakiA_ed"
+msgstr ""
+
+msgctxt "214716"
+msgid "P_stand_sync_dakiA_ed"
+msgstr ""
+
+msgctxt "214720"
+msgid "F_cab_stand_tlk_ojigi_02"
+msgstr ""
+
+msgctxt "4080_望月京子：源氏名"
+msgid "I'm in a band, you know. We're hoping to get our big break soon."
+msgstr ""
+
+msgctxt "4092_Kiryu"
+msgid "Wow."
+msgstr ""
+
+msgctxt "4104_望月京子：源氏名"
+msgid ""
+"Our name is \"The Orpheus.\" There are three other people in the band, but "
+"I handle guitar and vocals. I'm kinda in charge."
+msgstr ""
+
+msgctxt "4116_Kiryu"
+msgid "You're the leader, huh?"
+msgstr ""
+
+msgctxt "4128_望月京子：源氏名"
+msgid ""
+"Yep! We're starting to get some fans, too. More people have been coming to "
+"our concerts recently."
+msgstr ""
+
+msgctxt "4140_Kiryu"
+msgid "It sounds like you're working hard."
+msgstr ""
+
+msgctxt "4152_望月京子：源氏名"
+msgid ""
+"Yeah, but I can't live off of what we make with the band. That's why I'm "
+"working here."
+msgstr ""
+
+msgctxt "4164_望月京子：源氏名"
+msgid ""
+"My parents were totally against me being in the band, so I sorta ran away "
+"from home and came to Tokyo. I can't go back now."
+msgstr ""
+
+msgctxt "4176_Kiryu"
+msgid "I guess you'll have to make it work then."
+msgstr ""
+
+msgctxt "4188_望月京子：源氏名"
+msgid "Definitely! I want to be a big success and surprise my parents."
+msgstr ""
+
+msgctxt "4200_望月京子：源氏名"
+msgid "Everybody in the band is super nice. Maybe you can come to a show sometime."
+msgstr ""
+
+msgctxt "4212_Kiryu"
+msgid "Sure. That sounds fun."
+msgstr ""
+
+msgctxt "4224_望月京子：源氏名"
+msgid "Really!? Thanks! When we make it big, maybe I can hire you as my bodyguard."
+msgstr ""
+
+msgctxt "4236_Kiryu"
+msgid "Heh, you've got big plans, huh?"
+msgstr ""
+
+msgctxt "4248_望月京子：源氏名"
+msgid ""
+"You bet! Once we're famous, we'll make our overseas debut. But I hear it "
+"can be dangerous in foreign countries, so you'll have to protect me."
+msgstr ""
+
+msgctxt "4260_Kiryu"
+msgid "Then you better get a move on, huh?"
+msgstr ""
+
+msgctxt "4272_望月京子：源氏名"
+msgid ""
+"Don't worry about that! I'm gonna make this work! And I'll take care of you "
+"when I do. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4284_Kiryu"
+msgid ""
+"Being a leader can be hard. You have to make sure the members get along. I "
+"hear bands don't last long if the members fall out."
+msgstr ""
+
+msgctxt "4296_望月京子：源氏名"
+msgid "Exactly! They also say that you shouldn't date somebody in the same band."
+msgstr ""
+
+msgctxt "4308_望月京子：源氏名"
+msgid "Are you a leader in your job too, Kiryu-san?"
+msgstr ""
+
+msgctxt "4320_Kiryu"
+msgid "I used to be..."
+msgstr ""
+
+msgctxt "4332_望月京子：源氏名"
+msgid "I thought so. You just seem like the leader type. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4344_望月京子：源氏名"
+msgid "Maybe you can give me some tips."
+msgstr ""
+
+msgctxt "4356_Kiryu"
+msgid "Sure."
+msgstr ""
+
+msgctxt "4368_Kiryu"
+msgid "I'd like to hear you play sometime. What kind of music is it, anyway?"
+msgstr ""
+
+msgctxt "4380_望月京子：源氏名"
+msgid ""
+"Well, it's sort of a mix of rock and rap. It might be a bit hard for "
+"someone your age to understand."
+msgstr ""
+
+msgctxt "4392_Kiryu"
+msgid "I see..."
+msgstr ""
+
+msgctxt "4404_望月京子：源氏名"
+msgid ""
+"I could give you a CD, but you really have to come to a gig to truly "
+"appreciate our music. It's totally different when we play live!"
+msgstr ""
+
+msgctxt "4416_Kiryu"
+msgid "Okay. I'd like to go sometime."
+msgstr ""
+
+msgctxt "4428_望月京子：源氏名"
+msgid "I'm sure you'll enjoy it!"
+msgstr ""
+
+msgctxt "4440_望月京子：源氏名"
+msgid ""
+"I'm from Fukuoka Prefecture originally. I was pretty wild back when I was a "
+"student."
+msgstr ""
+
+msgctxt "4452_望月京子：源氏名"
+msgid ""
+"Looking back on it now, I can see how stupid I was. But it was fun at the "
+"time."
+msgstr ""
+
+msgctxt "4464_Kiryu"
+msgid "Really? It's a little hard for me to imagine..."
+msgstr ""
+
+msgctxt "4476_望月京子：源氏名"
+msgid ""
+"Anyways, I went to my first live concert when I was sixteen. It blew me "
+"away!"
+msgstr ""
+
+msgctxt "4488_望月京子：源氏名"
+msgid "The band was amazing! I knew then that was what I wanted to do with my life."
+msgstr ""
+
+msgctxt "4500_Kiryu"
+msgid "So that's what got you interested in music?"
+msgstr ""
+
+msgctxt "4512_望月京子：源氏名"
+msgid ""
+"Yep. I stopped fighting and doing stupid stuff, and started working part "
+"time to earn money. I bought a used guitar and practiced every day."
+msgstr ""
+
+msgctxt "4524_望月京子：源氏名"
+msgid ""
+"I still have that guitar to this day. It's practically falling apart, but "
+"I'm pretty attached to it."
+msgstr ""
+
+msgctxt "4536_望月京子：源氏名"
+msgid "I've written a lot of songs with it. It's sort of a part of me and my music."
+msgstr ""
+
+msgctxt "4548_Kiryu"
+msgid "Take good care of it."
+msgstr ""
+
+msgctxt "4560_望月京子：源氏名"
+msgid "Oh, of course! I plan to be buried with it! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4572_Kiryu"
+msgid "Heh, really?"
+msgstr ""
+
+msgctxt "4584_望月京子：源氏名"
+msgid "Do you have anything you love that much?"
+msgstr ""
+
+msgctxt "4596_Kiryu"
+msgid "Hm... I guess I'm still looking."
+msgstr ""
+
+msgctxt "4608_望月京子：源氏名"
+msgid "I like the sound of that. It's kinda romantic. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4620_Kiryu"
+msgid "You think so?"
+msgstr ""
+
+msgctxt "4632_望月京子：源氏名"
+msgid ""
+"Ooh! I just thought of a great line for a song! Thanks! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4644_Kiryu"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "4656_Kiryu"
+msgid ""
+"You want me to buy you a new one? You can't get good sound if it's falling "
+"apart."
+msgstr ""
+
+msgctxt "4668_望月京子：源氏名"
+msgid "Huh? No thanks. I'm happy with the one I have."
+msgstr ""
+
+msgctxt "4680_Kiryu"
+msgid "No need to be modest. To be a good musician you need a good instrument."
+msgstr ""
+
+msgctxt "4692_望月京子：源氏名"
+msgid ""
+"Hey, that's not why I brought it up! Are you trying to bribe me or "
+"something!?"
+msgstr ""
+
+msgctxt "4704_Kiryu"
+msgid "No, that's not what I meant..."
+msgstr ""
+
+msgctxt "4716_望月京子：源氏名"
+msgid "I can't stand men like that! I didn't think you were that kind of guy!"
+msgstr ""
+
+msgctxt "4728_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "4740_Kiryu"
+msgid "I hope you have a big hit someday."
+msgstr ""
+
+msgctxt "4752_望月京子：源氏名"
+msgid ""
+"Yeah. Maybe I'll even win an award or something one day. Well, it's a nice "
+"dream anyways. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "4764_Kiryu"
+msgid "You want it to be more than a dream though, right?"
+msgstr ""
+
+msgctxt "4776_望月京子：源氏名"
+msgid "Of course! I'm gonna work as hard as I can to make it come true!"
+msgstr ""
+
+msgctxt "4788_望月京子：源氏名"
+msgid "Hey, you could be my escort to the awards ceremony!"
+msgstr ""
+
+msgctxt "4800_Kiryu"
+msgid "You sure I'm good enough?"
+msgstr ""
+
+msgctxt "4812_望月京子：源氏名"
+msgid "As long as you're still a fan when the time comes."
+msgstr ""
+
+msgctxt "4824_Kiryu"
+msgid "Heh, guess I'll be waiting a while then."
+msgstr ""
+
+msgctxt "4836_望月京子：源氏名"
+msgid "My ultimate goal is to go on a world tour with my band."
+msgstr ""
+
+msgctxt "4848_Kiryu"
+msgid "That's a big dream."
+msgstr ""
+
+msgctxt "4860_望月京子：源氏名"
+msgid "Yeah, but if you're gonna dream, you might as well dream big, right?"
+msgstr ""
+
+msgctxt "4872_望月京子：源氏名"
+msgid ""
+"I want to impress people all over the world by singing my songs and playing "
+"my guitar."
+msgstr ""
+
+msgctxt "4884_Kiryu"
+msgid "Do you sing in English?"
+msgstr ""
+
+msgctxt "4896_望月京子：源氏名"
+msgid ""
+"I know some English songs, but your heart is the most important thing. If "
+"your songs have heart, they break through any language barrier."
+msgstr ""
+
+msgctxt "4908_Kiryu"
+msgid "You're right. Great songs can really move you."
+msgstr ""
+
+msgctxt "4920_望月京子：源氏名"
+msgid "Right! Do you listen to Western music, Kiryu-san?"
+msgstr ""
+
+msgctxt "4932_Kiryu"
+msgid "No, not really. I don't like it very much actually."
+msgstr ""
+
+msgctxt "4944_望月京子：源氏名"
+msgid "Why? Because you don't understand the lyrics?"
+msgstr ""
+
+msgctxt "4956_Kiryu"
+msgid ""
+"No, I just don't like the songs. If they had songs in English that sounded "
+"like traditional Japanese ballads, I'd probably listen to them."
+msgstr ""
+
+msgctxt "4968_望月京子：源氏名"
+msgid "For reals? Hahaha!"
+msgstr ""
+
+msgctxt "4980_Kiryu"
+msgid "What's so funny?"
+msgstr ""
+
+msgctxt "4992_Kiryu"
+msgid "You're pretty confident, aren't you?"
+msgstr ""
+
+msgctxt "5004_望月京子：源氏名"
+msgid "Yeah, I am. I'm proud of my songs."
+msgstr ""
+
+msgctxt "5016_Kiryu"
+msgid "That's good."
+msgstr ""
+
+msgctxt "5028_望月京子：源氏名"
+msgid "Are you proud of anything, Kiryu-san?"
+msgstr ""
+
+msgctxt "5040_Kiryu"
+msgid "Yes. My family."
+msgstr ""
+
+msgctxt "5052_望月京子：源氏名"
+msgid "Wow. I didn't expect a guy like you to say that."
+msgstr ""
+
+msgctxt "5064_Kiryu"
+msgid "Something wrong with that?"
+msgstr ""
+
+msgctxt "5076_望月京子：源氏名"
+msgid ""
+"Not at all. I think it's wonderful. I like it when people surprise me like "
+"that. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "5088_Kiryu"
+msgid "Heh, I see."
+msgstr ""
+
+msgctxt "5100_Kiryu"
+msgid "Can I have your autograph? It'll be worth a fortune when you're famous."
+msgstr ""
+
+msgctxt "5112_望月京子：源氏名"
+msgid "Haha! I've never given anybody my autograph before!"
+msgstr ""
+
+msgctxt "5124_Kiryu"
+msgid "Then I'll be the first."
+msgstr ""
+
+msgctxt "5136_望月京子：源氏名"
+msgid "Well, I've never really thought about it... Can I do it another day?"
+msgstr ""
+
+msgctxt "5148_Kiryu"
+msgid "Why?"
+msgstr ""
+
+msgctxt "5160_望月京子：源氏名"
+msgid ""
+"I don't want it to look sloppy. I'm an artist, after all. I want to "
+"practice my signature a bit first."
+msgstr ""
+
+msgctxt "5172_Kiryu"
+msgid "Heh, all right. I'll look forward to it."
+msgstr ""
+
+msgctxt "5184_望月京子：源氏名"
+msgid "Are you in a relationship now? I'm having zero luck lately."
+msgstr ""
+
+msgctxt "5196_Kiryu"
+msgid "Why do you ask?"
+msgstr ""
+
+msgctxt "5208_望月京子：源氏名"
+msgid ""
+"I'm just curious. It's been six months since I broke up with my boyfriend. "
+"He cheated on me, so I punched him in the face."
+msgstr ""
+
+msgctxt "5220_望月京子：源氏名"
+msgid "Where are all the good guys hiding, am I right?"
+msgstr ""
+
+msgctxt "5232_Kiryu"
+msgid "What sort of guy do you like?"
+msgstr ""
+
+msgctxt "5244_望月京子：源氏名"
+msgid "Well... Forgetting looks for a minute, I like a man with integrity."
+msgstr ""
+
+msgctxt "5256_望月京子：源氏名"
+msgid "And I can't stand men who cheat or can't see things through."
+msgstr ""
+
+msgctxt "5268_望月京子：源氏名"
+msgid ""
+"But I haven't been able to find any men like that. What about you? Have you "
+"found anybody promising?"
+msgstr ""
+
+msgctxt "5280_Kiryu"
+msgid "I think I may have. Just now."
+msgstr ""
+
+msgctxt "5292_望月京子：源氏名"
+msgid "What!? You mean me!?"
+msgstr ""
+
+msgctxt "5304_Kiryu"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "5316_望月京子：源氏名"
+msgid "For reals? You're making me blush."
+msgstr ""
+
+msgctxt "5328_Kiryu"
+msgid "I'm serious."
+msgstr ""
+
+msgctxt "5340_望月京子：源氏名"
+msgid "You just come right out and say what you think, don't you?"
+msgstr ""
+
+msgctxt "5352_Kiryu"
+msgid "Sure. I find them every day."
+msgstr ""
+
+msgctxt "5364_望月京子：源氏名"
+msgid "What, you just go from one woman to another?"
+msgstr ""
+
+msgctxt "5376_Kiryu"
+msgid "It's not my fault that there are beautiful women everywhere."
+msgstr ""
+
+msgctxt "5388_望月京子：源氏名"
+msgid "That's terrible! I can't stand men who aren't faithful!"
+msgstr ""
+
+msgctxt "5400_Kiryu"
+msgid "It's not like I'm having affairs."
+msgstr ""
+
+msgctxt "5412_望月京子：源氏名"
+msgid ""
+"But you do check out other women while you're already with one, right? "
+"That's unacceptable!"
+msgstr ""
+
+msgctxt "5424_望月京子：源氏名"
+msgid "Man, I must have misjudged you, Kiryu-san..."
+msgstr ""
+
+msgctxt "5436_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "5448_Kiryu"
+msgid "Not recently."
+msgstr ""
+
+msgctxt "5460_望月京子：源氏名"
+msgid "No? That's too bad. It must be lonely..."
+msgstr ""
+
+msgctxt "5472_望月京子：源氏名"
+msgid "Or do you have somebody particular in mind?"
+msgstr ""
+
+msgctxt "5484_Kiryu"
+msgid "No, it's not that."
+msgstr ""
+
+msgctxt "5496_望月京子：源氏名"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "5508_望月京子：源氏名"
+msgid "Wait, does that mean you're not attracted to me either?"
+msgstr ""
+
+msgctxt "5520_Kiryu"
+msgid "Well..."
+msgstr ""
+
+msgctxt "5532_望月京子：源氏名"
+msgid "Hey! Don't play me like that!"
+msgstr ""
+
+msgctxt "5544_望月京子：源氏名"
+msgid "Come on! Oh, why can't guys just tell me how they really feel?"
+msgstr ""
+
+msgctxt "5556_望月京子：源氏名"
+msgid "You know, even when I do have a boyfriend, it never seems to last."
+msgstr ""
+
+msgctxt "5568_Kiryu"
+msgid "Why is that?"
+msgstr ""
+
+msgctxt "5580_望月京子：源氏名"
+msgid "I usually end up losing it and punch him."
+msgstr ""
+
+msgctxt "5592_望月京子：源氏名"
+msgid "They always deserve it, but I regret it a bit sometimes..."
+msgstr ""
+
+msgctxt "5604_Kiryu"
+msgid "You've got a short fuse."
+msgstr ""
+
+msgctxt "5616_望月京子：源氏名"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "5628_望月京子：源氏名"
+msgid "Should I try to be more gentle and ladylike?"
+msgstr ""
+
+msgctxt "5640_Kiryu"
+msgid ""
+"You shouldn't resort to violence. There must be a better way to solve your "
+"problems."
+msgstr ""
+
+msgctxt "5652_望月京子：源氏名"
+msgid "For sure..."
+msgstr ""
+
+msgctxt "5664_望月京子：源氏名"
+msgid ""
+"But you look like I could hit you with my best shot and you wouldn't even "
+"feel it."
+msgstr ""
+
+msgctxt "5676_Kiryu"
+msgid "You might be right."
+msgstr ""
+
+msgctxt "5688_望月京子：源氏名"
+msgid "Okay! So all I have to do is find a tough guy like you!"
+msgstr ""
+
+msgctxt "5700_Kiryu"
+msgid "Well then, how about me?"
+msgstr ""
+
+msgctxt "5712_望月京子：源氏名"
+msgid "That might not be a bad idea. I'll think about it. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "5724_Kiryu"
+msgid "You're not the one who needs to change. They were the ones in the wrong."
+msgstr ""
+
+msgctxt "5736_望月京子：源氏名"
+msgid "That's true. I suppose there's no reason for me to hold back."
+msgstr ""
+
+msgctxt "5748_Kiryu"
+msgid "But maybe you should try to find guys you don't need to hit."
+msgstr ""
+
+msgctxt "5760_望月京子：源氏名"
+msgid ""
+"You're right about that! I have the worst taste in men. They all turn out "
+"to be losers."
+msgstr ""
+
+msgctxt "5772_Kiryu"
+msgid "If you went out with me, you'd get a better idea of what a good man is like."
+msgstr ""
+
+msgctxt "5784_望月京子：源氏名"
+msgid "Haha. You're a pretty smooth talker, aren't you?"
+msgstr ""
+
+msgctxt "5796_Kiryu"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "5808_Kiryu"
+msgid "You have to find a man who's compatible."
+msgstr ""
+
+msgctxt "5820_望月京子：源氏名"
+msgid ""
+"But how can you know if somebody's gonna be a good match until you go out "
+"with them?"
+msgstr ""
+
+msgctxt "5832_Kiryu"
+msgid "You have a point."
+msgstr ""
+
+msgctxt "5844_望月京子：源氏名"
+msgid "Well, how do you tell if a girl is going to be a good match for you?"
+msgstr ""
+
+msgctxt "5856_Kiryu"
+msgid "I'm not sure. It's just a feeling I get."
+msgstr ""
+
+msgctxt "5868_望月京子：源氏名"
+msgid "That's pretty vague. Can't you do any better than that?"
+msgstr ""
+
+msgctxt "5880_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "5892_Kiryu"
+msgid "You've got guts."
+msgstr ""
+
+msgctxt "5904_望月京子：源氏名"
+msgid "Huh? Why do you say that?"
+msgstr ""
+
+msgctxt "5916_Kiryu"
+msgid ""
+"Most women are pretty reserved when they meet me for the first time, but "
+"not you."
+msgstr ""
+
+msgctxt "5928_望月京子：源氏名"
+msgid ""
+"Well, people do tell me I'm a little too forward. I've never been easily "
+"intimidated."
+msgstr ""
+
+msgctxt "5940_望月京子：源氏名"
+msgid ""
+"That's probably why scary looking customers tend to like me. You know, "
+"yakuza guys."
+msgstr ""
+
+msgctxt "5952_Kiryu"
+msgid "Wow."
+msgstr ""
+
+msgctxt "5964_望月京子：源氏名"
+msgid ""
+"I think I amuse them because I can go toe-to-toe with them from the get-go. "
+"But... are women really that afraid of you?"
+msgstr ""
+
+msgctxt "5976_Kiryu"
+msgid "Yeah, but kids like me."
+msgstr ""
+
+msgctxt "5988_望月京子：源氏名"
+msgid "Seriously? I would have thought they'd start crying at the sight of you."
+msgstr ""
+
+msgctxt "6000_Kiryu"
+msgid "Of course not. I'm known as a kind, gentle neighborhood guy back in Okinawa."
+msgstr ""
+
+msgctxt "6012_望月京子：源氏名"
+msgid "Gimme a break! Everybody's probably too scared of you to tell you the truth!"
+msgstr ""
+
+msgctxt "6024_Kiryu"
+msgid "You..."
+msgstr ""
+
+msgctxt "6036_Kiryu"
+msgid "You really think so?"
+msgstr ""
+
+msgctxt "6048_望月京子：源氏名"
+msgid "Hey, are you okay, Kiryu-san?"
+msgstr ""
+
+msgctxt "6060_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "6072_望月京子：源氏名"
+msgid ""
+"You're more sensitive than you look. That's so cute. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6084_Kiryu"
+msgid "You don't have to say everything that pops into your head, you know."
+msgstr ""
+
+msgctxt "6096_Kiryu"
+msgid "I don't care what people think. I live my life the way I want to."
+msgstr ""
+
+msgctxt "6108_望月京子：源氏名"
+msgid ""
+"Yeah. You don't look like the kind of guy who's concerned about the "
+"opinions of others."
+msgstr ""
+
+msgctxt "6120_望月京子：源氏名"
+msgid ""
+"I'm the same way. I do what I think is right, no matter what the people "
+"around me say."
+msgstr ""
+
+msgctxt "6132_Kiryu"
+msgid "Good. You keep that up and your life will be a success. I guarantee it."
+msgstr ""
+
+msgctxt "6144_望月京子：源氏名"
+msgid "For reals? I've got the Kiryu-san seal of approval?"
+msgstr ""
+
+msgctxt "6156_Kiryu"
+msgid "You do indeed."
+msgstr ""
+
+msgctxt "6168_望月京子：源氏名"
+msgid "Haha. Thanks! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6180_Kiryu"
+msgid "Yes, but my heart is pure."
+msgstr ""
+
+msgctxt "6192_望月京子：源氏名"
+msgid "Really? I can't imagine you being like that. In what way is your heart pure?"
+msgstr ""
+
+msgctxt "6204_Kiryu"
+msgid "Well... I'm pretty sentimental."
+msgstr ""
+
+msgctxt "6216_Kiryu"
+msgid "Whenever I watch a yakuza movie, I'm in tears by the end."
+msgstr ""
+
+msgctxt "6228_望月京子：源氏名"
+msgid ""
+"I'm not sure I'd call that pure... And who cries watching yakuza movies, "
+"anyway?"
+msgstr ""
+
+msgctxt "6240_Kiryu"
+msgid "Well, one of my favorites is－"
+msgstr ""
+
+msgctxt "6252_望月京子：源氏名"
+msgid "Uh, you know, maybe just tell me later."
+msgstr ""
+
+msgctxt "6264_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "6276_Kiryu"
+msgid "What kind of food do you like?"
+msgstr ""
+
+msgctxt "6288_望月京子：源氏名"
+msgid "Hmm... Well, I don't like fancy stuff."
+msgstr ""
+
+msgctxt "6300_望月京子：源氏名"
+msgid "When I go to a French restaurant, I get full just by looking at the decor."
+msgstr ""
+
+msgctxt "6312_望月京子：源氏名"
+msgid "I'm more of a hamburgers and pizza kind of girl. I love junk food."
+msgstr ""
+
+msgctxt "6324_Kiryu"
+msgid "I should've known."
+msgstr ""
+
+msgctxt "6336_望月京子：源氏名"
+msgid ""
+"I've always thought it was silly to spend a lot of time on meals. Just eat "
+"and get it over with!"
+msgstr ""
+
+msgctxt "6348_Kiryu"
+msgid "So that's why you eat nothing but junk food?"
+msgstr ""
+
+msgctxt "6360_望月京子：源氏名"
+msgid ""
+"That's right. Most of the time, anyway. Is there something strange about "
+"that?"
+msgstr ""
+
+msgctxt "6372_Kiryu"
+msgid "It's not strange, but... isn't it bad for your health?"
+msgstr ""
+
+msgctxt "6384_望月京子：源氏名"
+msgid "Nah, it's fine. Hamburgers and pizza both have vegetables on them, right?"
+msgstr ""
+
+msgctxt "6396_Kiryu"
+msgid "But aren't they pretty high in calories?"
+msgstr ""
+
+msgctxt "6408_望月京子：源氏名"
+msgid ""
+"Not a problem! I move enough every day to burn them all off. You should see "
+"me on stage!"
+msgstr ""
+
+msgctxt "6420_望月京子：源氏名"
+msgid ""
+"What about you? Have you had a physical exam recently? Sometimes people who "
+"look healthy can actually be overweight."
+msgstr ""
+
+msgctxt "6432_Kiryu"
+msgid "I don't think I have to worry about that."
+msgstr ""
+
+msgctxt "6444_望月京子：源氏名"
+msgid "You never know. Maybe you should follow my special junk food diet!"
+msgstr ""
+
+msgctxt "6456_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "6468_Kiryu"
+msgid "Don't you get tired of it?"
+msgstr ""
+
+msgctxt "6480_望月京子：源氏名"
+msgid "Nope! I try and rotate the menu so I get plenty of variety."
+msgstr ""
+
+msgctxt "6492_望月京子：源氏名"
+msgid ""
+"If I have a fish burger today, I'll have a cheeseburger tomorrow. Things "
+"like that."
+msgstr ""
+
+msgctxt "6504_望月京子：源氏名"
+msgid ""
+"Not having to think about what I'm going to eat saves a lot of time, too. "
+"You should try it!"
+msgstr ""
+
+msgctxt "6516_Kiryu"
+msgid "Um, I don't think so..."
+msgstr ""
+
+msgctxt "6528_望月京子：源氏名"
+msgid ""
+"You know, I keep recommending my diet to people, but no one takes me up on "
+"it."
+msgstr ""
+
+msgctxt "6540_望月京子：源氏名"
+msgid "I wonder why..."
+msgstr ""
+
+msgctxt "6552_Kiryu"
+msgid "It's a mystery all right..."
+msgstr ""
+
+msgctxt "6564_Kiryu"
+msgid "I like junk food myself. Sometimes I'm too busy to cook."
+msgstr ""
+
+msgctxt "6576_望月京子：源氏名"
+msgid "Right? So you eat a lot of junk food too, huh?"
+msgstr ""
+
+msgctxt "6588_Kiryu"
+msgid "Yeah. And on the worst occasions, I get by with just energy drinks."
+msgstr ""
+
+msgctxt "6600_望月京子：源氏名"
+msgid "Really!? You mean like Staminan or Tauriner? That can't be good for you."
+msgstr ""
+
+msgctxt "6612_望月京子：源氏名"
+msgid "You should try to eat better."
+msgstr ""
+
+msgctxt "6624_Kiryu"
+msgid "Heh. That's funny coming from you."
+msgstr ""
+
+msgctxt "6636_望月京子：源氏名"
+msgid "What's your favorite animal?"
+msgstr ""
+
+msgctxt "6648_Kiryu"
+msgid "Animal? Well, I've always liked dragons."
+msgstr ""
+
+msgctxt "6660_望月京子：源氏名"
+msgid ""
+"Dragons? No, I meant real animals! Like, what kind of pet would you like to "
+"have?"
+msgstr ""
+
+msgctxt "6672_Kiryu"
+msgid "Actually, I have a dog, though I'm not the one who takes care of him."
+msgstr ""
+
+msgctxt "6684_望月京子：源氏名"
+msgid "A dog? That's nice. I've got a bird, myself. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6696_Kiryu"
+msgid "Oh?"
+msgstr ""
+
+msgctxt "6708_望月京子：源氏名"
+msgid "Birds seem so much more free than cats or dogs. I mean, they can fly."
+msgstr ""
+
+msgctxt "6720_望月京子：源氏名"
+msgid "I bought a parakeet not long after I moved to Tokyo. His name is Kenny."
+msgstr ""
+
+msgctxt "6732_Kiryu"
+msgid "Kenny, huh? Does he talk?"
+msgstr ""
+
+msgctxt "6744_望月京子：源氏名"
+msgid ""
+"Yeah. When I tell him about my problems, he says, \"Hang in there!\" Pretty "
+"smart, huh? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "6756_Kiryu"
+msgid "That's impressive."
+msgstr ""
+
+msgctxt "6768_望月京子：源氏名"
+msgid ""
+"Right!? When I make it big with my music, I'm gonna build myself a big "
+"house and buy all kinds of birds!"
+msgstr ""
+
+msgctxt "6780_Kiryu"
+msgid "Wouldn't it be noisy to have so many birds?"
+msgstr ""
+
+msgctxt "6792_望月京子：源氏名"
+msgid "Hehe. No, I think it'd be fun."
+msgstr ""
+
+msgctxt "6804_望月京子：源氏名"
+msgid "I get lonely if it's too quiet. I don't like being alone."
+msgstr ""
+
+msgctxt "6816_Kiryu"
+msgid "That's a surprise."
+msgstr ""
+
+msgctxt "6828_望月京子：源氏名"
+msgid ""
+"That's why I want a lot of kids when I get married. I want a noisy, "
+"cheerful house."
+msgstr ""
+
+msgctxt "6840_Kiryu"
+msgid "Yeah. Kids are fun."
+msgstr ""
+
+msgctxt "6852_望月京子：源氏名"
+msgid "Huh? You have kids? Are you married, Kiryu-san?"
+msgstr ""
+
+msgctxt "6864_Kiryu"
+msgid ""
+"No, uh... I'm not married, but... I was just saying that I like kids. "
+"That's all."
+msgstr ""
+
+msgctxt "6876_望月京子：源氏名"
+msgid "Hehe. Okay then."
+msgstr ""
+
+msgctxt "6888_Kiryu"
+msgid "That sounds like it would be fun."
+msgstr ""
+
+msgctxt "6900_望月京子：源氏名"
+msgid "I know! I like things noisy and cheerful."
+msgstr ""
+
+msgctxt "6912_Kiryu"
+msgid "I don't know if your neighbors would agree, though."
+msgstr ""
+
+msgctxt "6924_望月京子：源氏名"
+msgid ""
+"Well, I won't have to worry about that. I'll make it a huge house, and I'll "
+"have it soundproofed, too!"
+msgstr ""
+
+msgctxt "6936_Kiryu"
+msgid "So you could scream as much as you want."
+msgstr ""
+
+msgctxt "6948_望月京子：源氏名"
+msgid "Come on, Kiryu-san! I don't sit around at home screaming all day, you know!"
+msgstr ""
+
+msgctxt "6960_Kiryu"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "6972_Kiryu"
+msgid "I still like dragons better."
+msgstr ""
+
+msgctxt "6984_望月京子：源氏名"
+msgid "Come on. Dragons aren't even real."
+msgstr ""
+
+msgctxt "6996_Kiryu"
+msgid "Oh, I don't know. There might be a dragon closer to you than you think."
+msgstr ""
+
+msgctxt "7008_望月京子：源氏名"
+msgid "Huh? What do you mean?"
+msgstr ""
+
+msgctxt "7020_Kiryu"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "7032_望月京子：源氏名"
+msgid "I have no idea what you're talking about..."
+msgstr ""
+
+msgctxt "7044_望月京子：源氏名"
+msgid "You're really buff, you know. You must work out a lot, huh?"
+msgstr ""
+
+msgctxt "7056_Kiryu"
+msgid "Not really. I'm just like this naturally."
+msgstr ""
+
+msgctxt "7068_望月京子：源氏名"
+msgid "Really? Wow, I'm jealous. I just started doing some weight training myself."
+msgstr ""
+
+msgctxt "7080_Kiryu"
+msgid "Oh?"
+msgstr ""
+
+msgctxt "7092_望月京子：源氏名"
+msgid ""
+"Yeah, I've been getting a little chubby in the tummy. So I've been doing "
+"sit-ups every day."
+msgstr ""
+
+msgctxt "7104_望月京子：源氏名"
+msgid ""
+"But they haven't helped much so far. My stomach is still pudgy, but I'm "
+"gonna keep doing sit-ups till I get rock hard abs!"
+msgstr ""
+
+msgctxt "7116_Kiryu"
+msgid "A well-defined waistline is important too."
+msgstr ""
+
+msgctxt "7128_望月京子：源氏名"
+msgid ""
+"I know. I want to wear outfits that show my bare midriff and stuff like "
+"that at our concerts."
+msgstr ""
+
+msgctxt "7140_Kiryu"
+msgid "Yeah, you don't want to have a muffin top."
+msgstr ""
+
+msgctxt "7152_望月京子：源氏名"
+msgid ""
+"What is it with you and my waistline? You got some kind of fetish, "
+"Kiryu-san?"
+msgstr ""
+
+msgctxt "7164_Kiryu"
+msgid "What? No, not really."
+msgstr ""
+
+msgctxt "7176_望月京子：源氏名"
+msgid ""
+"You don't have to hide it from me. It's okay. I'll keep working out until "
+"my waist is nice and slender for you."
+msgstr ""
+
+msgctxt "7188_Kiryu"
+msgid ""
+"You should try drinking protein shakes. That should make it easier to put "
+"on muscle."
+msgstr ""
+
+msgctxt "7200_望月京子：源氏名"
+msgid "I dunno. I don't wanna turn into some kind of no neck body builder."
+msgstr ""
+
+msgctxt "7212_Kiryu"
+msgid "You don't have to worry about that. It'll help you lose weight, too."
+msgstr ""
+
+msgctxt "7224_望月京子：源氏名"
+msgid "Really? Wow! I might give that a try!"
+msgstr ""
+
+msgctxt "7236_望月京子：源氏名"
+msgid ""
+"You know a lot of things, don't you? I'm kinda impressed. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "7248_Kiryu"
+msgid "Heh."
+msgstr ""
+
+msgctxt "7260_Kiryu"
+msgid "Are you sure you can stick with it? You won't give up partway through?"
+msgstr ""
+
+msgctxt "7272_望月京子：源氏名"
+msgid "Don't underestimate me. I may not look it, but I can be pretty tenacious!"
+msgstr ""
+
+msgctxt "7284_Kiryu"
+msgid ""
+"If you want ripped abs, you have to do more than sit-ups. You have to lose "
+"a lot of body fat."
+msgstr ""
+
+msgctxt "7296_望月京子：源氏名"
+msgid ""
+"Then I guess I'll have to start dieting, too. Don't worry. If I say I'm "
+"gonna do something, I do it!"
+msgstr ""
+
+msgctxt "7308_Kiryu"
+msgid "I just think you should aim a bit lower."
+msgstr ""
+
+msgctxt "7320_望月京子：源氏名"
+msgid ""
+"That's not very nice. I was all excited about this and now you're bringing "
+"me down."
+msgstr ""
+
+msgctxt "7332_Kiryu"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "7344_望月京子：源氏名"
+msgid ""
+"You look like you're a pretty strong drinker. You don't get red at all when "
+"you drink."
+msgstr ""
+
+msgctxt "7356_Kiryu"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "7368_望月京子：源氏名"
+msgid ""
+"I'm not too bad myself, but when I get drunk my personality completely "
+"changes."
+msgstr ""
+
+msgctxt "7380_Kiryu"
+msgid "How so?"
+msgstr ""
+
+msgctxt "7392_望月京子：源氏名"
+msgid ""
+"I start out really energetic and talkative, but as I drink I get more and "
+"more quiet."
+msgstr ""
+
+msgctxt "7404_望月京子：源氏名"
+msgid ""
+"When I'm totally drunk, I act like an innocent maiden. I never remember it, "
+"though."
+msgstr ""
+
+msgctxt "7416_Kiryu"
+msgid "You? An innocent maiden?"
+msgstr ""
+
+msgctxt "7428_望月京子：源氏名"
+msgid ""
+"Yeah. I break into tears for no reason, and I get really clingy. I'd never "
+"do that kind of thing if I was sober."
+msgstr ""
+
+msgctxt "7440_望月京子：源氏名"
+msgid "That's why I don't drink that much at the club."
+msgstr ""
+
+msgctxt "7452_Kiryu"
+msgid "I'd like to see that. I just can't picture you all cute and innocent."
+msgstr ""
+
+msgctxt "7464_望月京子：源氏名"
+msgid ""
+"Oh, sure. You just want to do things to me while I'm drunk, because you "
+"know I won't remember any of it."
+msgstr ""
+
+msgctxt "7476_Kiryu"
+msgid "What do you mean, things?"
+msgstr ""
+
+msgctxt "7488_望月京子：源氏名"
+msgid "Don't make me say it! That's sexual harassment!"
+msgstr ""
+
+msgctxt "7500_Kiryu"
+msgid "Hey, you're the one who came up with this \"things\" scenario."
+msgstr ""
+
+msgctxt "7512_望月京子：源氏名"
+msgid "Hehe. You're naughty, Kiryu-san! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "7524_Kiryu"
+msgid "What are you talking about?"
+msgstr ""
+
+msgctxt "7536_Kiryu"
+msgid "I guess you have a cute side too, huh?"
+msgstr ""
+
+msgctxt "7548_望月京子：源氏名"
+msgid "Sure. I am a girl, after all."
+msgstr ""
+
+msgctxt "7560_望月京子：源氏名"
+msgid "Do you prefer the girly girl type?"
+msgstr ""
+
+msgctxt "7572_Kiryu"
+msgid ""
+"I like women who are true to themselves. That's as important as what their "
+"personality is like."
+msgstr ""
+
+msgctxt "7584_望月京子：源氏名"
+msgid "Does that mean you wouldn't like the innocent maiden version of me?"
+msgstr ""
+
+msgctxt "7596_Kiryu"
+msgid ""
+"I didn't say that. The way you are now and the way you are when you're "
+"drunk are two sides of the same coin. I wouldn't try and change it."
+msgstr ""
+
+msgctxt "7608_望月京子：源氏名"
+msgid ""
+"Thank you, Kiryu-san. <Color:7>♥<Color:Default> I like the way I am too. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "7620_Kiryu"
+msgid "I can't imagine that."
+msgstr ""
+
+msgctxt "7632_望月京子：源氏名"
+msgid "No? Then I'd better drink up. It'll be a special treat, just for you."
+msgstr ""
+
+msgctxt "7644_Kiryu"
+msgid "Didn't you say that you start out energetic and talkative?"
+msgstr ""
+
+msgctxt "7656_望月京子：源氏名"
+msgid "Haha. Did I say that?"
+msgstr ""
+
+msgctxt "7668_Kiryu"
+msgid "So you can't switch it on right away, huh?"
+msgstr ""
+
+msgctxt "7680_望月京子：源氏名"
+msgid "No. I told you, I don't even remember when it happens."
+msgstr ""
+
+msgctxt "7692_望月京子：源氏名"
+msgid "I wish there was something I could do about it."
+msgstr ""
+
+msgctxt "7704_Kiryu"
+msgid "That's tough..."
+msgstr ""
+
+msgctxt "7716_Kiryu"
+msgid "Who were those guys from before, anyway?"
+msgstr ""
+
+msgctxt "7728_望月京子：源氏名"
+msgid ""
+"Oh, they're from Bad Flag. I hear they caused a lot of trouble at clubs in "
+"Osaka, and now they're in Kamurocho."
+msgstr ""
+
+msgctxt "7740_望月京子：源氏名"
+msgid "They're making things difficult for bands around here now."
+msgstr ""
+
+msgctxt "7752_望月京子：源氏名"
+msgid "They suck."
+msgstr ""
+
+msgctxt "7764_Kiryu"
+msgid "Is your band okay?"
+msgstr ""
+
+msgctxt "7776_望月京子：源氏名"
+msgid "For the moment. But I heard them talking smack about us."
+msgstr ""
+
+msgctxt "7788_望月京子：源氏名"
+msgid ""
+"They said I'm just a big tease with my lyrics. Man, I can't stand those "
+"guys!"
+msgstr ""
+
+msgctxt "7800_Kiryu"
+msgid "You shouldn't have anything to do with them."
+msgstr ""
+
+msgctxt "7812_望月京子：源氏名"
+msgid ""
+"Hey, I didn't start this. But I'll be damned if I'm just gonna sit back and "
+"do nothing while they talk smack like that!"
+msgstr ""
+
+msgctxt "7824_Kiryu"
+msgid ""
+"You can never tell what guys like that will do. And avoiding trouble is "
+"part of a leader's job, right?"
+msgstr ""
+
+msgctxt "7836_望月京子：源氏名"
+msgid "What's that supposed to mean? I didn't think you were such a wuss."
+msgstr ""
+
+msgctxt "7848_Kiryu"
+msgid "I'm just thinking of what's best for you."
+msgstr ""
+
+msgctxt "7860_望月京子：源氏名"
+msgid "Well, whatever."
+msgstr ""
+
+msgctxt "7872_Kiryu"
+msgid ""
+"You can't let them get the upper hand. Give them an inch and they'll take a "
+"mile."
+msgstr ""
+
+msgctxt "7884_望月京子：源氏名"
+msgid "I know that. Who do you think I am?"
+msgstr ""
+
+msgctxt "7896_望月京子：源氏名"
+msgid "If they want a fight, I'll give 'em one!"
+msgstr ""
+
+msgctxt "7908_Kiryu"
+msgid ""
+"I like your spirit. But you should be careful. You never know what they "
+"might do."
+msgstr ""
+
+msgctxt "7920_望月京子：源氏名"
+msgid "Hey, thanks, Kiryu-san. But I'm sure I'll be fine."
+msgstr ""
+
+msgctxt "7932_Kiryu"
+msgid ""
+"You want me to teach them a lesson? We shouldn't wait until something "
+"happens."
+msgstr ""
+
+msgctxt "7944_望月京子：源氏名"
+msgid "Thanks, I appreciate the thought. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "7956_望月京子：源氏名"
+msgid "But I want to handle this myself. That's how I've always done things."
+msgstr ""
+
+msgctxt "7968_Kiryu"
+msgid "Okay. Don't hesitate to call me if you're in trouble."
+msgstr ""
+
+msgctxt "7980_望月京子：源氏名"
+msgid "I won't. I'm glad you're on my side, Kiryu-san. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "7992_望月京子：源氏名"
+msgid "I just got some good news. Wanna hear?"
+msgstr ""
+
+msgctxt "8004_Kiryu"
+msgid "Sure, what is it?"
+msgstr ""
+
+msgctxt "8016_望月京子：源氏名"
+msgid ""
+"I was walking toward Kamurocho Station the other day when this young couple "
+"called out to me. I think they were in high school."
+msgstr ""
+
+msgctxt "8028_Kiryu"
+msgid "And?"
+msgstr ""
+
+msgctxt "8040_望月京子：源氏名"
+msgid "The two of them met at one of our gigs!"
+msgstr ""
+
+msgctxt "8052_望月京子：源氏名"
+msgid "So I'm like cupid to them, basically."
+msgstr ""
+
+msgctxt "8064_Kiryu"
+msgid "I see."
+msgstr ""
+
+msgctxt "8076_望月京子：源氏名"
+msgid ""
+"They said they're going to keep coming to our gigs together. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8088_望月京子：源氏名"
+msgid "It sounds silly, but... I felt like I'd made a difference in their lives."
+msgstr ""
+
+msgctxt "8100_望月京子：源氏名"
+msgid "It made me glad I chose to be a musician."
+msgstr ""
+
+msgctxt "8112_Kiryu"
+msgid "Keep working hard for your fans."
+msgstr ""
+
+msgctxt "8124_望月京子：源氏名"
+msgid "I will! It's nice to feel needed."
+msgstr ""
+
+msgctxt "8136_Kiryu"
+msgid "Sure. But it can sometimes be difficult to live up to people's expectations."
+msgstr ""
+
+msgctxt "8148_望月京子：源氏名"
+msgid ""
+"I don't think I have to worry. I've got a perfect ear for music and solid "
+"star potential. But you knew that, right?"
+msgstr ""
+
+msgctxt "8160_Kiryu"
+msgid "Right."
+msgstr ""
+
+msgctxt "8172_望月京子：源氏名"
+msgid "Hey, aren't you gonna tell me I should be more modest?"
+msgstr ""
+
+msgctxt "8184_Kiryu"
+msgid "Oh, I thought you were being serious..."
+msgstr ""
+
+msgctxt "8196_望月京子：源氏名"
+msgid "Haha. Even I'm not that full of myself."
+msgstr ""
+
+msgctxt "8208_Kiryu"
+msgid "So some of your fans are high school kids?"
+msgstr ""
+
+msgctxt "8220_望月京子：源氏名"
+msgid "Yeah. We have plenty of fans who are in high school."
+msgstr ""
+
+msgctxt "8232_望月京子：源氏名"
+msgid ""
+"Some of my lyrics are about my experiences when I was a teenager, so I "
+"guess they can identify with my songs."
+msgstr ""
+
+msgctxt "8244_Kiryu"
+msgid "I see... I hope you're not a bad influence on them."
+msgstr ""
+
+msgctxt "8256_望月京子：源氏名"
+msgid "Hey! What kind of things do you think I write about?"
+msgstr ""
+
+msgctxt "8268_望月京子：源氏名"
+msgid ""
+"I went through the same things any adolescent kid did. Love, pain, "
+"confusion..."
+msgstr ""
+
+msgctxt "8280_Kiryu"
+msgid "So which lyrics are we talking about, exactly?"
+msgstr ""
+
+msgctxt "8292_望月京子：源氏名"
+msgid "That's a secret. They're too embarrassing."
+msgstr ""
+
+msgctxt "8304_Kiryu"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "8316_Kiryu"
+msgid "It's ironic to think of you as cupid."
+msgstr ""
+
+msgctxt "8328_望月京子：源氏名"
+msgid "What's that supposed to mean, Kiryu-san?"
+msgstr ""
+
+msgctxt "8340_Kiryu"
+msgid ""
+"You brought these kids together when your own love life needs a lot more "
+"attention."
+msgstr ""
+
+msgctxt "8352_望月京子：源氏名"
+msgid "Okay, you've got me there. I'm the one who could sure use a cupid."
+msgstr ""
+
+msgctxt "8364_Kiryu"
+msgid "Maybe I could help. I know a lot of guys."
+msgstr ""
+
+msgctxt "8376_望月京子：源氏名"
+msgid "Does that mean you have no interest in me, Kiryu-san? That makes me sad..."
+msgstr ""
+
+msgctxt "8388_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "8400_望月京子：源氏名"
+msgid ""
+"I've been having writer's block recently. I can't seem to come up with any "
+"good songs."
+msgstr ""
+
+msgctxt "8412_Kiryu"
+msgid "That's too bad."
+msgstr ""
+
+msgctxt "8424_望月京子：源氏名"
+msgid ""
+"It used to come so naturally. The lyrics and melody would just pop into my "
+"head."
+msgstr ""
+
+msgctxt "8436_望月京子：源氏名"
+msgid ""
+"But now, even playing my guitar doesn't help. I can't come up with anything "
+"decent."
+msgstr ""
+
+msgctxt "8448_Kiryu"
+msgid "That happens sometimes."
+msgstr ""
+
+msgctxt "8460_望月京子：源氏名"
+msgid "But I'm worried that I'll never be able to write another song."
+msgstr ""
+
+msgctxt "8472_望月京子：源氏名"
+msgid "Maybe I already used up all my talent..."
+msgstr ""
+
+msgctxt "8484_Kiryu"
+msgid ""
+"I think you're just too busy. After all, you play in the band and work at "
+"the club."
+msgstr ""
+
+msgctxt "8496_望月京子：源氏名"
+msgid "You might be right... I haven't been able to relax much these days."
+msgstr ""
+
+msgctxt "8508_望月京子：源氏名"
+msgid ""
+"It's no good if my job at the club gets in the way of my music. Maybe I "
+"should quit and work on the band full time."
+msgstr ""
+
+msgctxt "8520_Kiryu"
+msgid ""
+"Even if you do that, you shouldn't push yourself too hard. Your brain can't "
+"work properly if you don't give it time to rest."
+msgstr ""
+
+msgctxt "8532_望月京子：源氏名"
+msgid ""
+"Right. Thanks for worrying about me. You're so sweet,\r\n"
+" Kiryu-san. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8544_Kiryu"
+msgid "Don't mention it."
+msgstr ""
+
+msgctxt "8556_Kiryu"
+msgid ""
+"You need a change of pace. You could branch out, try to find things that "
+"would get your creative juices flowing."
+msgstr ""
+
+msgctxt "8568_望月京子：源氏名"
+msgid "Come to think of it, I haven't seen a movie in a long time. That could help."
+msgstr ""
+
+msgctxt "8580_望月京子：源氏名"
+msgid "And I wouldn't mind taking a stroll through an art museum."
+msgstr ""
+
+msgctxt "8592_Kiryu"
+msgid "We could go together."
+msgstr ""
+
+msgctxt "8604_望月京子：源氏名"
+msgid "That sounds an awful lot like a date. You can't fool me that easily."
+msgstr ""
+
+msgctxt "8616_望月京子：源氏名"
+msgid "But I appreciate you worrying about me. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8628_Kiryu"
+msgid "Heh, sure thing."
+msgstr ""
+
+msgctxt "8640_Kiryu"
+msgid "Stop complaining. It's not like you."
+msgstr ""
+
+msgctxt "8652_望月京子：源氏名"
+msgid ""
+"I think I have the right to complain once in a while. I am only human, you "
+"know."
+msgstr ""
+
+msgctxt "8664_Kiryu"
+msgid ""
+"Yes, but what are the members of your band going to think if you start "
+"talking like that?"
+msgstr ""
+
+msgctxt "8676_Kiryu"
+msgid "A leader has to be strong, or their organization can't function."
+msgstr ""
+
+msgctxt "8688_望月京子：源氏名"
+msgid "That's easy for you to say, but..."
+msgstr ""
+
+msgctxt "8700_望月京子：源氏名"
+msgid ""
+"Look, you're a guy. Maybe that's the way things work for men. But women "
+"deal with things differently. You can't expect me to be exactly like you."
+msgstr ""
+
+msgctxt "8712_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "8724_望月京子：源氏名"
+msgid "What am I gonna do?"
+msgstr ""
+
+msgctxt "8736_望月京子：源氏名"
+msgid ""
+"I think a guy has to be able to fight to really be a man, don't you think "
+"so?"
+msgstr ""
+
+msgctxt "8748_Kiryu"
+msgid ""
+"Not necessarily. You have to have heart, too. That's the most important "
+"muscle of all."
+msgstr ""
+
+msgctxt "8760_望月京子：源氏名"
+msgid ""
+"I know what you mean. There are lots of good fighters who are jerks. But I "
+"do think a man has to be able to hold his own, too!"
+msgstr ""
+
+msgctxt "8772_Kiryu"
+msgid "Yeah, but there's really more to it than that..."
+msgstr ""
+
+msgctxt "8784_望月京子：源氏名"
+msgid "You look pretty tough, Kiryu-san. Are you a good fighter?"
+msgstr ""
+
+msgctxt "8796_Kiryu"
+msgid "I'm nothing special."
+msgstr ""
+
+msgctxt "8808_望月京子：源氏名"
+msgid ""
+"Oh, come on now. You're just being modest! I bet you've cracked a few heads "
+"in your time."
+msgstr ""
+
+msgctxt "8820_Kiryu"
+msgid "I don't really keep track of that kind of thing."
+msgstr ""
+
+msgctxt "8832_望月京子：源氏名"
+msgid ""
+"That's so cool! A real man doesn't make a big deal about how strong he is. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8844_Kiryu"
+msgid ""
+"It's really what's on the inside that counts. There's nothing wrong with "
+"being able to fight, but knowing when not to fight is far more important."
+msgstr ""
+
+msgctxt "8856_望月京子：源氏名"
+msgid ""
+"Huh. You're not just some run-of-the-mill thug, are you?\r\n"
+"I think I'm getting to like you more and more. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "8868_Kiryu"
+msgid "Everybody tries to pick fights with me."
+msgstr ""
+
+msgctxt "8880_望月京子：源氏名"
+msgid "I thought so. What do you do when that happens?"
+msgstr ""
+
+msgctxt "8892_Kiryu"
+msgid ""
+"I oblige them. I can't just run away. I punish them and I don't stop until "
+"they apologize."
+msgstr ""
+
+msgctxt "8904_望月京子：源氏名"
+msgid ""
+"If you're so strong, couldn't you let them go after a bit? You don't have "
+"to beat them to a pulp."
+msgstr ""
+
+msgctxt "8916_Kiryu"
+msgid "Hey, they're the ones who picked a fight with me."
+msgstr ""
+
+msgctxt "8928_望月京子：源氏名"
+msgid ""
+"Are you sure you don't just enjoy beating people up? Because that's not "
+"true strength."
+msgstr ""
+
+msgctxt "8940_望月京子：源氏名"
+msgid "I hate people like that."
+msgstr ""
+
+msgctxt "8952_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "8964_Kiryu"
+msgid "I'm a pacifist, so I try to avoid fighting. I'd never pick a fight."
+msgstr ""
+
+msgctxt "8976_望月京子：源氏名"
+msgid "Huh. I figured you were the short-tempered type."
+msgstr ""
+
+msgctxt "8988_Kiryu"
+msgid ""
+"I only fight as a last resort. If I can solve a problem by talking it out, "
+"that's what I do."
+msgstr ""
+
+msgctxt "9000_望月京子：源氏名"
+msgid ""
+"Oh, so your pacifism is like a code of honor for you. That's pretty cool. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "9012_Kiryu"
+msgid "Heh, thanks..."
+msgstr ""
+
+msgctxt "9024_望月京子：源氏名"
+msgid ""
+"I was thinking the other day when I was alone, and I realized something "
+"kinda shocking."
+msgstr ""
+
+msgctxt "9036_Kiryu"
+msgid "Shocking?"
+msgstr ""
+
+msgctxt "9048_望月京子：源氏名"
+msgid ""
+"Yeah. I may have a submissive streak. I always thought of myself as the "
+"opposite, so I was pretty surprised!"
+msgstr ""
+
+msgctxt "9060_Kiryu"
+msgid "Uh... How are you submissive?"
+msgstr ""
+
+msgctxt "9072_望月京子：源氏名"
+msgid "Well, I was daydreaming about what my ideal kiss might be like."
+msgstr ""
+
+msgctxt "9084_望月京子：源氏名"
+msgid "You know, what kind of man, what sort of situation, and so on."
+msgstr ""
+
+msgctxt "9096_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "9108_望月京子：源氏名"
+msgid "Hey, are you okay? You look a little uncomfortable."
+msgstr ""
+
+msgctxt "9120_Kiryu"
+msgid "It's, uh, nothing..."
+msgstr ""
+
+msgctxt "9132_望月京子：源氏名"
+msgid ""
+"Okay. Anyway, I found myself wanting a man to make the first move and steal "
+"a kiss from me."
+msgstr ""
+
+msgctxt "9144_望月京子：源氏名"
+msgid "Isn't that submissive?"
+msgstr ""
+
+msgctxt "9156_Kiryu"
+msgid "No. You're not submissive. Not when you fight your boyfriends so easily."
+msgstr ""
+
+msgctxt "9168_望月京子：源氏名"
+msgid "Really?"
+msgstr ""
+
+msgctxt "9180_Kiryu"
+msgid "You probably want a man who's tough like you."
+msgstr ""
+
+msgctxt "9192_望月京子：源氏名"
+msgid ""
+"I hadn't considered that. Maybe I'm attracted to men who are stronger than "
+"me. Somebody forceful that could dominate me..."
+msgstr ""
+
+msgctxt "9204_望月京子：源氏名"
+msgid "I think you'd fit the bill, Kiryu-san. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "9216_Kiryu"
+msgid "Heh. I'm not that forceful of a man."
+msgstr ""
+
+msgctxt "9228_望月京子：源氏名"
+msgid ""
+"Haha. Then I'll just have to become the kind of woman you'd want to "
+"dominate. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "9240_Kiryu"
+msgid "You're submissive all right."
+msgstr ""
+
+msgctxt "9252_望月京子：源氏名"
+msgid "I thought so."
+msgstr ""
+
+msgctxt "9264_Kiryu"
+msgid "Maybe you just want men to order you around."
+msgstr ""
+
+msgctxt "9276_望月京子：源氏名"
+msgid ""
+"But... if somebody weaker than me tried to do that, it'd just make me mad. "
+"Maybe if it was somebody I liked..."
+msgstr ""
+
+msgctxt "9288_Kiryu"
+msgid "Hmm. That's interesting."
+msgstr ""
+
+msgctxt "9300_望月京子：源氏名"
+msgid ""
+"Don't go getting any weird ideas. You're not planning on ordering me "
+"around, are you? I think you'd regret it!"
+msgstr ""
+
+msgctxt "9312_Kiryu"
+msgid "I wasn't planning anything of the kind."
+msgstr ""
+
+msgctxt "9324_望月京子：源氏名"
+msgid "I dunno... Maybe I shouldn't have mentioned it."
+msgstr ""
+
+msgctxt "9336_Kiryu"
+msgid ""
+"That seems pretty normal, actually. Everybody has a little bit of that in "
+"their personality."
+msgstr ""
+
+msgctxt "9348_望月京子：源氏名"
+msgid "You think so?"
+msgstr ""
+
+msgctxt "9360_Kiryu"
+msgid ""
+"I mean, if you have to know definitively yes or no, I'd say you're not "
+"submissive. Not by a long shot."
+msgstr ""
+
+msgctxt "9372_望月京子：源氏名"
+msgid "You don't have to try so hard to convince me."
+msgstr ""
+
+msgctxt "9384_望月京子：源氏名"
+msgid "But I feel a little better. There's nothing wrong with me, right?"
+msgstr ""
+
+msgctxt "9396_Kiryu"
+msgid ""
+"Right. But if you want somebody to forcefully steal a kiss from you, I "
+"could arrange something."
+msgstr ""
+
+msgctxt "9408_望月京子：源氏名"
+msgid "Haha! Maybe later. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "9420_望月京子：源氏名"
+msgid "......"
+msgstr ""
+
+msgctxt "9432_Kiryu"
+msgid "What's wrong? You seem distant."
+msgstr ""
+
+msgctxt "9444_望月京子：源氏名"
+msgid "Oh, I'm sorry. I'm just a little worried."
+msgstr ""
+
+msgctxt "9456_Kiryu"
+msgid "About what?"
+msgstr ""
+
+msgctxt "9468_望月京子：源氏名"
+msgid "Well, I had a fight with the guys in my band."
+msgstr ""
+
+msgctxt "9480_Kiryu"
+msgid "Ah."
+msgstr ""
+
+msgctxt "9492_望月京子：源氏名"
+msgid ""
+"We get together twice a week to practice, and yesterday I brought my new "
+"song."
+msgstr ""
+
+msgctxt "9504_望月京子：源氏名"
+msgid "It was a ballad. We've never done one of those before."
+msgstr ""
+
+msgctxt "9516_Kiryu"
+msgid "Yeah, ballads don't really fit your image."
+msgstr ""
+
+msgctxt "9528_望月京子：源氏名"
+msgid "What can I say? I like to try new things."
+msgstr ""
+
+msgctxt "9540_望月京子：源氏名"
+msgid ""
+"But the guys said they didn't want to change the band's direction. They "
+"refused to play my song."
+msgstr ""
+
+msgctxt "9552_望月京子：源氏名"
+msgid "It really pissed me off. I ended up leaving in the middle of practice."
+msgstr ""
+
+msgctxt "9564_Kiryu"
+msgid ""
+"You should sit down and talk this out. Make sure you're all on the same "
+"page for the band's future."
+msgstr ""
+
+msgctxt "9576_望月京子：源氏名"
+msgid "But I'm the one who's writing the songs. Shouldn't they play what I want?"
+msgstr ""
+
+msgctxt "9588_Kiryu"
+msgid ""
+"Not really. You need the other members as much as they need you, so you "
+"should try compromising a bit."
+msgstr ""
+
+msgctxt "9600_望月京子：源氏名"
+msgid "I think you're right..."
+msgstr ""
+
+msgctxt "9612_望月京子：源氏名"
+msgid ""
+"All right then. I'll listen to what they have to say. "
+"<Color:7>♥<Color:Default> Whew! I was worried the band would break up!"
+msgstr ""
+
+msgctxt "9624_Kiryu"
+msgid "Glad I could help."
+msgstr ""
+
+msgctxt "9636_Kiryu"
+msgid "You were wrong. You should apologize."
+msgstr ""
+
+msgctxt "9648_望月京子：源氏名"
+msgid "What!? Why should I apologize!?"
+msgstr ""
+
+msgctxt "9660_Kiryu"
+msgid ""
+"Once an organization loses faith in its leader, it's over. If you let them "
+"play the kind of songs they want, it might smooth things over."
+msgstr ""
+
+msgctxt "9672_望月京子：源氏名"
+msgid "But then they won't play my song."
+msgstr ""
+
+msgctxt "9684_Kiryu"
+msgid "Sometimes a leader has to make sacrifices."
+msgstr ""
+
+msgctxt "9696_望月京子：源氏名"
+msgid ""
+"I don't like the sound of that. A leader has to be strong and decide what "
+"the group will do, even if they don't like it."
+msgstr ""
+
+msgctxt "9708_Kiryu"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "9720_Kiryu"
+msgid "You'll make up sooner or later. Why don't you wait for things to cool off?"
+msgstr ""
+
+msgctxt "9732_望月京子：源氏名"
+msgid ""
+"I dunno. We've had arguments before, but this one seems like it's not going "
+"to just go away."
+msgstr ""
+
+msgctxt "9744_望月京子：源氏名"
+msgid "And it's like I'm the bad guy this time, too."
+msgstr ""
+
+msgctxt "9756_Kiryu"
+msgid "Wait a minute. You want to apologize, don't you?"
+msgstr ""
+
+msgctxt "9768_望月京子：源氏名"
+msgid "......"
+msgstr ""
+
+msgctxt "9780_Kiryu"
+msgid "Don't you?"
+msgstr ""
+
+msgctxt "9792_望月京子：源氏名"
+msgid "I suppose so. I hate fighting like this. But won't that make me look weak?"
+msgstr ""
+
+msgctxt "9804_Kiryu"
+msgid "You and your ego."
+msgstr ""
+
+msgctxt "9816_望月京子：源氏名"
+msgid "All right. I'll apologize if you think I should."
+msgstr ""
+
+msgctxt "9828_望月京子：源氏名"
+msgid "Ugh. But what should I say...?"
+msgstr ""
+
+msgctxt "9840_望月京子：源氏名"
+msgid ""
+"My friend and I were out drinking the other day, and one of those roadside "
+"fortune tellers called out to me."
+msgstr ""
+
+msgctxt "9852_Kiryu"
+msgid "Oh?"
+msgstr ""
+
+msgctxt "9864_望月京子：源氏名"
+msgid ""
+"I didn't want to do it, but my friend insisted on having her palm read, and "
+"somehow I ended up having mine done too."
+msgstr ""
+
+msgctxt "9876_望月京子：源氏名"
+msgid "And do you know what she said when she looked at my palm?"
+msgstr ""
+
+msgctxt "9888_Kiryu"
+msgid "No. What did she say?"
+msgstr ""
+
+msgctxt "9900_望月京子：源氏名"
+msgid "\"You will never be successful unless you change your lifestyle!\""
+msgstr ""
+
+msgctxt "9912_望月京子：源氏名"
+msgid "It really pissed me off. I got into a huge argument with the woman!"
+msgstr ""
+
+msgctxt "9924_Kiryu"
+msgid "That's too bad."
+msgstr ""
+
+msgctxt "9936_望月京子：源氏名"
+msgid "Do you believe in fortunetelling?"
+msgstr ""
+
+msgctxt "9948_Kiryu"
+msgid "I check my horoscope every day. I can't live without it."
+msgstr ""
+
+msgctxt "9960_望月京子：源氏名"
+msgid "Huh!? You really believe in fortunetelling? For reals?"
+msgstr ""
+
+msgctxt "9972_Kiryu"
+msgid "I do whatever I can to get good luck. I figure it can't hurt, right?"
+msgstr ""
+
+msgctxt "9984_望月京子：源氏名"
+msgid "But that kind of thing is wrong pretty often, isn't it?"
+msgstr ""
+
+msgctxt "9996_Kiryu"
+msgid "That's true..."
+msgstr ""
+
+msgctxt "10008_望月京子：源氏名"
+msgid "Then what's the point? It doesn't even give you a sense of security."
+msgstr ""
+
+msgctxt "10020_望月京子：源氏名"
+msgid ""
+"I'm pretty surprised. I thought you'd say you didn't believe in that kind "
+"of crap, Kiryu-san..."
+msgstr ""
+
+msgctxt "10032_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "10044_Kiryu"
+msgid "Well, sort of. But not those guys you see on the street."
+msgstr ""
+
+msgctxt "10056_望月京子：源氏名"
+msgid "So what kind of fortunetelling do you believe in?"
+msgstr ""
+
+msgctxt "10068_Kiryu"
+msgid "The fortunes in magazines are pretty good."
+msgstr ""
+
+msgctxt "10080_望月京子：源氏名"
+msgid "Is that right? Do you know what your fortune for today is?"
+msgstr ""
+
+msgctxt "10092_Kiryu"
+msgid "Yeah. It said I would meet the girl of my dreams."
+msgstr ""
+
+msgctxt "10104_望月京子：源氏名"
+msgid ""
+"Oh? You don't think it was talking about me, do you? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "10116_Kiryu"
+msgid "Heh. Could be."
+msgstr ""
+
+msgctxt "10128_望月京子：源氏名"
+msgid "Hmm... Maybe there is something to this fortunetelling stuff after all."
+msgstr ""
+
+msgctxt "10140_Kiryu"
+msgid "I'm usually the one telling people's fortunes. Want me to read your palm?"
+msgstr ""
+
+msgctxt "10152_望月京子：源氏名"
+msgid "Oh, stop it. Weren't you listening when I said I don't like fortune tellers?"
+msgstr ""
+
+msgctxt "10164_Kiryu"
+msgid "A lot of my fortunes come true, you know."
+msgstr ""
+
+msgctxt "10176_望月京子：源氏名"
+msgid ""
+"A lot? Then some of them don't come true, right?\r\n"
+"That's just guessing then!"
+msgstr ""
+
+msgctxt "10188_Kiryu"
+msgid "Look, you don't have to take my word for it. Just let me try it on you."
+msgstr ""
+
+msgctxt "10200_望月京子：源氏名"
+msgid ""
+"That's enough! It's obvious you're just looking for an excuse to touch my "
+"hands!"
+msgstr ""
+
+msgctxt "10212_Kiryu"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "10224_望月京子：源氏名"
+msgid ""
+"You know, I dress up nice for work, but when I'm off the clock I prefer "
+"casual streetwear."
+msgstr ""
+
+msgctxt "10236_望月京子：源氏名"
+msgid ""
+"I pretty much only wear jeans. You won't catch me in a skirt outside the "
+"club."
+msgstr ""
+
+msgctxt "10248_Kiryu"
+msgid "There's nothing wrong with that."
+msgstr ""
+
+msgctxt "10260_望月京子：源氏名"
+msgid "I don't know. Sometimes I think about changing my image."
+msgstr ""
+
+msgctxt "10272_Kiryu"
+msgid "What kind of change were you thinking of?"
+msgstr ""
+
+msgctxt "10284_望月京子：源氏名"
+msgid ""
+"Maybe going for an all leather look? Like leather pants and a leather "
+"jacket."
+msgstr ""
+
+msgctxt "10296_Kiryu"
+msgid "Sounds like you'd look like a musician."
+msgstr ""
+
+msgctxt "10308_望月京子：源氏名"
+msgid "But I <Italic>am</Italic> a musician! So, do you think it'd look good on me?"
+msgstr ""
+
+msgctxt "10320_Kiryu"
+msgid "Yeah, sounds like a real rock-n'-roll vibe to me. Should be perfect for you."
+msgstr ""
+
+msgctxt "10332_望月京子：源氏名"
+msgid "Really!? Maybe I'll go shopping then!"
+msgstr ""
+
+msgctxt "10344_Kiryu"
+msgid "You'll have to show it to me sometime."
+msgstr ""
+
+msgctxt "10356_望月京子：源氏名"
+msgid ""
+"Hehe. Come to one of our concerts and you can see it. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "10368_Kiryu"
+msgid "You're quite a promoter..."
+msgstr ""
+
+msgctxt "10380_Kiryu"
+msgid ""
+"That's not really much different, is it? Why don't you try wearing a skirt "
+"instead?"
+msgstr ""
+
+msgctxt "10392_望月京子：源氏名"
+msgid "Huh? You like girly stuff like that, Kiryu-san?"
+msgstr ""
+
+msgctxt "10404_Kiryu"
+msgid ""
+"Not really, but if you're going to change your image, you might as well "
+"make it a big change."
+msgstr ""
+
+msgctxt "10416_望月京子：源氏名"
+msgid ""
+"Are you the kind of guy who doesn't notice when a girl changes her "
+"hairstyle?"
+msgstr ""
+
+msgctxt "10428_Kiryu"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "10440_望月京子：源氏名"
+msgid ""
+"Lots of guys are bad about that. They never notice little changes. Makes me "
+"wonder what they're really paying attention to..."
+msgstr ""
+
+msgctxt "10452_Kiryu"
+msgid ""
+"But you can't expect a guy to notice a tiny change like that. You have to "
+"change something major."
+msgstr ""
+
+msgctxt "10464_望月京子：源氏名"
+msgid "No! Guys should pay more attention to how girls look!"
+msgstr ""
+
+msgctxt "10476_Kiryu"
+msgid "If you say so..."
+msgstr ""
+
+msgctxt "10488_Kiryu"
+msgid "I can't really say without seeing it first."
+msgstr ""
+
+msgctxt "10500_望月京子：源氏名"
+msgid "Well, I can't exactly show up for work dressed like that."
+msgstr ""
+
+msgctxt "10512_Kiryu"
+msgid ""
+"Who says it has to be here? I'd like to see how you dress when you're off "
+"work."
+msgstr ""
+
+msgctxt "10524_望月京子：源氏名"
+msgid ""
+"Are you trying to invite me on a date? That's kind of cute. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "10536_Kiryu"
+msgid "So? How about it?"
+msgstr ""
+
+msgctxt "10548_望月京子：源氏名"
+msgid ""
+"I'll think about it. I might be able to show you once I get to know you a "
+"little better. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "10560_Kiryu"
+msgid "I'll look forward to it."
+msgstr ""
+
+msgctxt "10572_望月京子：源氏名"
+msgid "Can I tell you something?"
+msgstr ""
+
+msgctxt "10584_Kiryu"
+msgid "Sure, what is it?"
+msgstr ""
+
+msgctxt "10596_望月京子：源氏名"
+msgid "Are you okay with scary stories?"
+msgstr ""
+
+msgctxt "10608_Kiryu"
+msgid "Of course."
+msgstr ""
+
+msgctxt "10620_望月京子：源氏名"
+msgid "Well... there was a ghost in my apartment."
+msgstr ""
+
+msgctxt "10632_Kiryu"
+msgid "A ghost?"
+msgstr ""
+
+msgctxt "10644_望月京子：源氏名"
+msgid ""
+"Yeah. I went home after work yesterday and went to bed... Then I suddenly "
+"woke up."
+msgstr ""
+
+msgctxt "10656_望月京子：源氏名"
+msgid "It felt like my whole body was wrapped in chains. I couldn't move at all!"
+msgstr ""
+
+msgctxt "10668_Kiryu"
+msgid "Uh-huh..."
+msgstr ""
+
+msgctxt "10680_望月京子：源氏名"
+msgid "I couldn't even breathe. And just when I was about to panic..."
+msgstr ""
+
+msgctxt "10692_望月京子：源氏名"
+msgid "The curtains started to flutter!"
+msgstr ""
+
+msgctxt "10704_Kiryu"
+msgid "And?"
+msgstr ""
+
+msgctxt "10716_望月京子：源氏名"
+msgid "And... that's it."
+msgstr ""
+
+msgctxt "10728_Kiryu"
+msgid "That's it?"
+msgstr ""
+
+msgctxt "10740_望月京子：源氏名"
+msgid ""
+"Yep. After a little bit I could move again, so that's when I screamed. "
+"Pretty scary, huh?"
+msgstr ""
+
+msgctxt "10752_Kiryu"
+msgid "Yeah, that's scary."
+msgstr ""
+
+msgctxt "10764_望月京子：源氏名"
+msgid "Hey, you look a little pale. Are you sure you're not afraid of ghosts?"
+msgstr ""
+
+msgctxt "10776_Kiryu"
+msgid "Of course not."
+msgstr ""
+
+msgctxt "10788_望月京子：源氏名"
+msgid "A big strong guy like you, afraid of ghosts! That's hilarious!"
+msgstr ""
+
+msgctxt "10800_Kiryu"
+msgid "I told you I'm not afraid! Let's just talk about something else, okay?"
+msgstr ""
+
+msgctxt "10812_望月京子：源氏名"
+msgid "Haha. Well, I know an even scarier story I can tell you!"
+msgstr ""
+
+msgctxt "10824_Kiryu"
+msgid "Oh, great."
+msgstr ""
+
+msgctxt "10836_Kiryu"
+msgid ""
+"That's got nothing to do with ghosts. It was just the wind blowing your "
+"curtains."
+msgstr ""
+
+msgctxt "10848_望月京子：源氏名"
+msgid "Nope. The window was closed."
+msgstr ""
+
+msgctxt "10860_Kiryu"
+msgid "Well, maybe you had the air conditioning on..."
+msgstr ""
+
+msgctxt "10872_望月京子：源氏名"
+msgid "No, that room is definitely haunted! Do you know anything about exorcisms?"
+msgstr ""
+
+msgctxt "10884_Kiryu"
+msgid "Oh, come on."
+msgstr ""
+
+msgctxt "10896_Kiryu"
+msgid ""
+"First off, there's a scientific explanation called sleep paralysis. And "
+"sometimes people just confuse dreams with reality."
+msgstr ""
+
+msgctxt "10908_望月京子：源氏名"
+msgid "What? Are you saying I was dreaming the whole thing!?"
+msgstr ""
+
+msgctxt "10920_Kiryu"
+msgid "Well, yeah."
+msgstr ""
+
+msgctxt "10932_望月京子：源氏名"
+msgid "I should never have brought this up. I thought you had an open mind."
+msgstr ""
+
+msgctxt "10944_Kiryu"
+msgid "I think my mind is pretty open..."
+msgstr ""
+
+msgctxt "10956_Kiryu"
+msgid ""
+"Maybe I should sleep with you next time. If any ghosts show up, I'll take "
+"care of them."
+msgstr ""
+
+msgctxt "10968_望月京子：源氏名"
+msgid ""
+"Haha! You'd be worse than the ghosts. I probably wouldn't sleep a wink for "
+"worrying about what you might do to me. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "10980_Kiryu"
+msgid "Hey, I'm not as bad as a ghost."
+msgstr ""
+
+msgctxt "10992_望月京子：源氏名"
+msgid "Sorry. I'm not gonna fall for that one. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "11004_望月京子：源氏名"
+msgid ""
+"Besides, if I got up in the middle of the night to go to the bathroom and "
+"ran into you, I'm sure I'd have a heart attack."
+msgstr ""
+
+msgctxt "11016_Kiryu"
+msgid "How rude..."
+msgstr ""
+
+msgctxt "11028_望月京子：源氏名"
+msgid "For some reason, people around me think of me as some kind of big sister."
+msgstr ""
+
+msgctxt "11040_望月京子：源氏名"
+msgid "They talk to me about their problems and ask me for advice."
+msgstr ""
+
+msgctxt "11052_Kiryu"
+msgid "What's wrong with that?"
+msgstr ""
+
+msgctxt "11064_望月京子：源氏名"
+msgid ""
+"Well, I don't really mind, but the other day I met a high school boy after "
+"a concert."
+msgstr ""
+
+msgctxt "11076_Kiryu"
+msgid "Oh?"
+msgstr ""
+
+msgctxt "11088_望月京子：源氏名"
+msgid "He walked right up to me and said, \"Please make me your apprentice!\""
+msgstr ""
+
+msgctxt "11100_Kiryu"
+msgid "Attracting apprentices, are you? That's pretty impressive."
+msgstr ""
+
+msgctxt "11112_望月京子：源氏名"
+msgid ""
+"I keep telling him that I'm not interested in training any apprentices, but "
+"he won't listen."
+msgstr ""
+
+msgctxt "11124_Kiryu"
+msgid "You can't do it half-heartedly. It won't be good for you or your apprentice."
+msgstr ""
+
+msgctxt "11136_望月京子：源氏名"
+msgid "I thought so. Do you have an apprentice, Kiryu-san?"
+msgstr ""
+
+msgctxt "11148_Kiryu"
+msgid "Sort of. He was like a younger brother to me."
+msgstr ""
+
+msgctxt "11160_望月京子：源氏名"
+msgid ""
+"I can totally picture that! Did he follow you around and call you Aniki or "
+"something? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "11172_Kiryu"
+msgid "Well, that's all in the past now..."
+msgstr ""
+
+msgctxt "11184_Kiryu"
+msgid ""
+"The point is that unless you truly intend to look after this kid, you "
+"should keep saying no."
+msgstr ""
+
+msgctxt "11196_望月京子：源氏名"
+msgid "I think you're right. I'll tell him."
+msgstr ""
+
+msgctxt "11208_Kiryu"
+msgid "What's wrong? Don't you think you can do it? Why not give it a try?"
+msgstr ""
+
+msgctxt "11220_望月京子：源氏名"
+msgid ""
+"No, it's not that... I just think I haven't done anything that'd be worth "
+"teaching to somebody."
+msgstr ""
+
+msgctxt "11232_望月京子：源氏名"
+msgid "I'm the one who should be the apprentice to somebody else."
+msgstr ""
+
+msgctxt "11244_Kiryu"
+msgid ""
+"What kind of attitude is that? You can't expect to make it big without any "
+"followers."
+msgstr ""
+
+msgctxt "11256_望月京子：源氏名"
+msgid ""
+"But I hate people who try to make themselves look more important than "
+"everybody else. My friends in the band are my equals."
+msgstr ""
+
+msgctxt "11268_望月京子：源氏名"
+msgid "I guess you'd never understand that, Kiryu-san..."
+msgstr ""
+
+msgctxt "11280_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "11292_Kiryu"
+msgid "Just ignore him. The kid'll give up sooner or later."
+msgstr ""
+
+msgctxt "11304_望月京子：源氏名"
+msgid "But..."
+msgstr ""
+
+msgctxt "11316_Kiryu"
+msgid ""
+"Besides, you don't need apprentices to teach people. They say a man teaches "
+"the most by the example he sets."
+msgstr ""
+
+msgctxt "11328_望月京子：源氏名"
+msgid ""
+"Hey, you don't have to be a guy to do that!\r\n"
+"But, I think I get what you mean."
+msgstr ""
+
+msgctxt "11340_望月京子：源氏名"
+msgid "I guess I just have to live a life that will be inspiring to kids like him."
+msgstr ""
+
+msgctxt "11352_Kiryu"
+msgid "That's right."
+msgstr ""
+
+msgctxt "11364_望月京子：源氏名"
+msgid ""
+"Thanks! I'll tell him that he can't be my apprentice, but if he wants to "
+"learn from my actions, I won't stop him."
+msgstr ""
+
+msgctxt "11376_Kiryu"
+msgid "Good."
+msgstr ""
+
+msgctxt "11388_望月京子：源氏名"
+msgid "So, um, Kiryu-san..."
+msgstr ""
+
+msgctxt "11400_Kiryu"
+msgid "Why the long face?"
+msgstr ""
+
+msgctxt "11412_望月京子：源氏名"
+msgid "The bassist in my band was attacked by someone last night."
+msgstr ""
+
+msgctxt "11424_Kiryu"
+msgid "What? Who did it?"
+msgstr ""
+
+msgctxt "11436_望月京子：源氏名"
+msgid "No idea... He was walking alone when somebody hit him from behind."
+msgstr ""
+
+msgctxt "11448_望月京子：源氏名"
+msgid "Luckily he wasn't seriously injured. Just knocked out."
+msgstr ""
+
+msgctxt "11460_望月京子：源氏名"
+msgid "But when I think about what could have happened... It makes me mad!"
+msgstr ""
+
+msgctxt "11472_Kiryu"
+msgid "Does he have any idea who it might've been?"
+msgstr ""
+
+msgctxt "11484_望月京子：源氏名"
+msgid "No. He's a great guy. I can't believe anybody would wanna hurt him."
+msgstr ""
+
+msgctxt "11496_望月京子：源氏名"
+msgid ""
+"But... those guys from Bad Flag do seem to be jealous of our band's "
+"popularity."
+msgstr ""
+
+msgctxt "11508_Kiryu"
+msgid "Those guys from before. Yeah, I wouldn't put it past them."
+msgstr ""
+
+msgctxt "11520_望月京子：源氏名"
+msgid "I can't stand those guys!"
+msgstr ""
+
+msgctxt "11532_Kiryu"
+msgid "Don't do anything hasty. And don't think about getting revenge."
+msgstr ""
+
+msgctxt "11544_望月京子：源氏名"
+msgid "So I'm supposed to just sit back while they attack my friends!?"
+msgstr ""
+
+msgctxt "11556_Kiryu"
+msgid ""
+"You'd just be doing them a favor. If they get the police involved in this, "
+"you won't be in a position to play in your band, will you?"
+msgstr ""
+
+msgctxt "11568_Kiryu"
+msgid "It would disappoint your fans, too."
+msgstr ""
+
+msgctxt "11580_望月京子：源氏名"
+msgid "That's true... I couldn't take it if it resulted in the band splitting up."
+msgstr ""
+
+msgctxt "11592_Kiryu"
+msgid "Just sit tight until we find out for sure who was behind this."
+msgstr ""
+
+msgctxt "11604_望月京子：源氏名"
+msgid "You're right. I was just so upset, I didn't think about my fans..."
+msgstr ""
+
+msgctxt "11616_望月京子：源氏名"
+msgid ""
+"Thanks, Kiryu-san. <Color:7>♥<Color:Default> I'll tell the other band "
+"members to stay outta trouble, too."
+msgstr ""
+
+msgctxt "11628_Kiryu"
+msgid "Good, that's for the best."
+msgstr ""
+
+msgctxt "11640_Kiryu"
+msgid "You should watch out. They might come after you next."
+msgstr ""
+
+msgctxt "11652_望月京子：源氏名"
+msgid "They can all bring it on! I'll make them sorry for hurting my friend!"
+msgstr ""
+
+msgctxt "11664_Kiryu"
+msgid ""
+"Don't underestimate them. Even you'd have trouble facing several men by "
+"yourself."
+msgstr ""
+
+msgctxt "11676_Kiryu"
+msgid ""
+"For now, just try to avoid doing anything alone. Maybe I should be your "
+"bodyguard."
+msgstr ""
+
+msgctxt "11688_望月京子：源氏名"
+msgid "Thanks. But you don't need to go out of your way for me like that."
+msgstr ""
+
+msgctxt "11700_望月京子：源氏名"
+msgid ""
+"I'll hang around with the other guys in the band. Thanks for the offer, "
+"though."
+msgstr ""
+
+msgctxt "11712_Kiryu"
+msgid "I see... Well, call me if anything else happens."
+msgstr ""
+
+msgctxt "11724_望月京子：源氏名"
+msgid "I will!"
+msgstr ""
+
+msgctxt "11736_Kiryu"
+msgid "I'll get revenge for you. Just tell me where to find them."
+msgstr ""
+
+msgctxt "11748_望月京子：源氏名"
+msgid "Hey! What're you talking about!?"
+msgstr ""
+
+msgctxt "11760_Kiryu"
+msgid ""
+"I'll teach them a lesson they won't soon forget. Don't worry, I'm used to "
+"this kind of thing."
+msgstr ""
+
+msgctxt "11772_望月京子：源氏名"
+msgid "No, that's okay. You don't have to do anything, Kiryu-san."
+msgstr ""
+
+msgctxt "11784_Kiryu"
+msgid "Huh? Aren't you angry about what they did?"
+msgstr ""
+
+msgctxt "11796_望月京子：源氏名"
+msgid ""
+"Of course I am! You'd just escalate the situation, though. This is our "
+"problem."
+msgstr ""
+
+msgctxt "11808_望月京子：源氏名"
+msgid "If you do something without telling me, I'll never forgive you!"
+msgstr ""
+
+msgctxt "11820_Kiryu"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "11832_望月京子：源氏名"
+msgid "Did you know there's gonna be a battle of the bands event in Kamurocho?"
+msgstr ""
+
+msgctxt "11844_Kiryu"
+msgid "No..."
+msgstr ""
+
+msgctxt "11856_望月京子：源氏名"
+msgid "They said the winner gets a record deal!"
+msgstr ""
+
+msgctxt "11868_Kiryu"
+msgid "You're entering, right?"
+msgstr ""
+
+msgctxt "11880_望月京子：源氏名"
+msgid ""
+"Of course! I heard other famous indie bands are entering too, but we'll "
+"beat 'em!"
+msgstr ""
+
+msgctxt "11892_Kiryu"
+msgid "You're pretty confident."
+msgstr ""
+
+msgctxt "11904_望月京子：源氏名"
+msgid "Sure am! We're the best band in the city! You gotta come and see us!"
+msgstr ""
+
+msgctxt "11916_Kiryu"
+msgid "Sure. I'll be there. Make sure you do your best."
+msgstr ""
+
+msgctxt "11928_望月京子：源氏名"
+msgid ""
+"Thanks! <Color:7>♥<Color:Default> This'll be the first time you've actually "
+"seen my band, huh?"
+msgstr ""
+
+msgctxt "11940_Kiryu"
+msgid "That's right."
+msgstr ""
+
+msgctxt "11952_望月京子：源氏名"
+msgid "Oh, but..."
+msgstr ""
+
+msgctxt "11964_Kiryu"
+msgid "What?"
+msgstr ""
+
+msgctxt "11976_望月京子：源氏名"
+msgid "I'm happy you're coming, but your clothes..."
+msgstr ""
+
+msgctxt "11988_Kiryu"
+msgid "No good, huh?"
+msgstr ""
+
+msgctxt "12000_望月京子：源氏名"
+msgid ""
+"Our fans are mostly younger. A lot of high school kids. You'd stick out "
+"like a sore thumb."
+msgstr ""
+
+msgctxt "12012_望月京子：源氏名"
+msgid "Well, it probably doesn't matter. Just having you there will help me relax."
+msgstr ""
+
+msgctxt "12024_Kiryu"
+msgid "Good."
+msgstr ""
+
+msgctxt "12036_Kiryu"
+msgid "If I can make it."
+msgstr ""
+
+msgctxt "12048_望月京子：源氏名"
+msgid "Oh... Right. Sure, if you're free..."
+msgstr ""
+
+msgctxt "12060_Kiryu"
+msgid "Sorry. I'm not always free to play around whenever I want."
+msgstr ""
+
+msgctxt "12072_望月京子：源氏名"
+msgid "Play around!? It sounds like this doesn't mean a thing to you."
+msgstr ""
+
+msgctxt "12084_Kiryu"
+msgid "I didn't mean it like that. It's just that I'm a pretty busy guy..."
+msgstr ""
+
+msgctxt "12096_望月京子：源氏名"
+msgid ""
+"Sorry for interrupting your busy schedule! Don't worry about trying to make "
+"it!"
+msgstr ""
+
+msgctxt "12108_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "12120_Kiryu"
+msgid "Maybe I could sing a song..."
+msgstr ""
+
+msgctxt "12132_望月京子：源氏名"
+msgid "Huh!? You want to sing, Kiryu-san?"
+msgstr ""
+
+msgctxt "12144_Kiryu"
+msgid "Sure. You don't get the chance to sing a song on stage every day."
+msgstr ""
+
+msgctxt "12156_望月京子：源氏名"
+msgid "Hey, this isn't karaoke! Don't be ridiculous!"
+msgstr ""
+
+msgctxt "12168_Kiryu"
+msgid "I'll take that as a no..."
+msgstr ""
+
+msgctxt "12180_望月京子：源氏名"
+msgid ""
+"Hey, maybe you and I could form a band ourselves. Then you could sing to "
+"your heart's content."
+msgstr ""
+
+msgctxt "12192_Kiryu"
+msgid "Heh, that's an interesting idea."
+msgstr ""
+
+msgctxt "12204_望月京子：源氏名"
+msgid "Kiryu-san, what would you do if my band won the contest?"
+msgstr ""
+
+msgctxt "12216_Kiryu"
+msgid "Well... I suppose I'd be surprised."
+msgstr ""
+
+msgctxt "12228_望月京子：源氏名"
+msgid "Is that it? Anything else?"
+msgstr ""
+
+msgctxt "12240_Kiryu"
+msgid "Like what?"
+msgstr ""
+
+msgctxt "12252_望月京子：源氏名"
+msgid ""
+"Well, you could get a present or two for me, in honor of my dream coming "
+"true and all."
+msgstr ""
+
+msgctxt "12264_Kiryu"
+msgid "A present, huh? Hmm..."
+msgstr ""
+
+msgctxt "12276_Kiryu"
+msgid "How about going out for a nice meal?"
+msgstr ""
+
+msgctxt "12288_望月京子：源氏名"
+msgid "Really!? Anything I want?"
+msgstr ""
+
+msgctxt "12300_Kiryu"
+msgid "Sure, anything. What do you feel like?"
+msgstr ""
+
+msgctxt "12312_望月京子：源氏名"
+msgid "Well... I want a huge Chinese feast!"
+msgstr ""
+
+msgctxt "12324_望月京子：源氏名"
+msgid ""
+"You know, where they keep bringing dish after dish after dish until you're "
+"like, \"I can't eat any more!\" I've always wanted to try that! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12336_Kiryu"
+msgid "That sounds expensive..."
+msgstr ""
+
+msgctxt "12348_望月京子：源氏名"
+msgid ""
+"I saw it on TV. I think they said it was roughly 3 million yen if you go to "
+"China."
+msgstr ""
+
+msgctxt "12360_Kiryu"
+msgid "3 million!? Um..."
+msgstr ""
+
+msgctxt "12372_望月京子：源氏名"
+msgid "Oh, don't look so worried! I was just kidding!"
+msgstr ""
+
+msgctxt "12384_Kiryu"
+msgid "Whew..."
+msgstr ""
+
+msgctxt "12396_Kiryu"
+msgid "I could take you on a trip somewhere. Is there someplace you want to go?"
+msgstr ""
+
+msgctxt "12408_望月京子：源氏名"
+msgid "For reals!? I don't know, that's a big question..."
+msgstr ""
+
+msgctxt "12420_望月京子：源氏名"
+msgid "I know! I wanna go to Waiha!"
+msgstr ""
+
+msgctxt "12432_Kiryu"
+msgid ""
+"Huh? You mean Hawaii? Why do kids think it's cool to say everything "
+"backwards these days? Hawaii doesn't seem quite your style, though."
+msgstr ""
+
+msgctxt "12444_望月京子：源氏名"
+msgid "I've just been so busy, a trip to Waiha might help me relax."
+msgstr ""
+
+msgctxt "12456_望月京子：源氏名"
+msgid ""
+"Besides, all the stars go to Waiha on their vacations. And I've never been "
+"to Waiha, so..."
+msgstr ""
+
+msgctxt "12468_Kiryu"
+msgid "You just wanted an excuse to say Waiha, didn't you?"
+msgstr ""
+
+msgctxt "12480_望月京子：源氏名"
+msgid "Haha! You got me! But I really would like to go to Hawaii!"
+msgstr ""
+
+msgctxt "12492_望月京子：源氏名"
+msgid "Thanks for offering to take me! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12504_Kiryu"
+msgid "Me and my big mouth..."
+msgstr ""
+
+msgctxt "12516_Kiryu"
+msgid "You want money?"
+msgstr ""
+
+msgctxt "12528_望月京子：源氏名"
+msgid ""
+"That's not what I meant! I want something special, something to remind me "
+"of the occasion."
+msgstr ""
+
+msgctxt "12540_Kiryu"
+msgid "Well, you can do a lot of things with money."
+msgstr ""
+
+msgctxt "12552_望月京子：源氏名"
+msgid "No, I want something that shows me how you feel. Something from your heart!"
+msgstr ""
+
+msgctxt "12564_望月京子：源氏名"
+msgid ""
+"It's hardly thoughtful if you just toss me some money and tell me to buy "
+"something, isn't it!?"
+msgstr ""
+
+msgctxt "12576_Kiryu"
+msgid "Well... Kids seem to like it..."
+msgstr ""
+
+msgctxt "12588_望月京子：源氏名"
+msgid "Oh, am I a kid now? You're just too lazy to think of something!"
+msgstr ""
+
+msgctxt "12600_望月京子：源氏名"
+msgid "Now I'm depressed..."
+msgstr ""
+
+msgctxt "12612_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "12624_望月京子：源氏名"
+msgid "Hey, Kiryu-san. Can we talk about something serious?"
+msgstr ""
+
+msgctxt "12636_Kiryu"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "12648_望月京子：源氏名"
+msgid "It may sound strange hearing this from me, but..."
+msgstr ""
+
+msgctxt "12660_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "12672_望月京子：源氏名"
+msgid "I can't seem to stop thinking about you."
+msgstr ""
+
+msgctxt "12684_望月京子：源氏名"
+msgid ""
+"It doesn't matter if I'm talking with another customer or rehearsing with "
+"the band."
+msgstr ""
+
+msgctxt "12696_望月京子：源氏名"
+msgid "I can't get you out of my head lately."
+msgstr ""
+
+msgctxt "12708_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "12720_望月京子：源氏名"
+msgid "I... I may be falling in love with you..."
+msgstr ""
+
+msgctxt "12732_Kiryu"
+msgid "Me too. I've been feeling that way about you for a while now."
+msgstr ""
+
+msgctxt "12744_望月京子：源氏名"
+msgid "Really!? You mean we both feel the same way?"
+msgstr ""
+
+msgctxt "12756_Kiryu"
+msgid "Looks like it."
+msgstr ""
+
+msgctxt "12768_望月京子：源氏名"
+msgid "I can't believe it! <Color:7>♥<Color:Default> What now? We start dating?"
+msgstr ""
+
+msgctxt "12780_Kiryu"
+msgid "We should wait until that competition of yours is over."
+msgstr ""
+
+msgctxt "12792_望月京子：源氏名"
+msgid "Right. I've really gotta give that my all."
+msgstr ""
+
+msgctxt "12804_望月京子：源氏名"
+msgid ""
+"I can't wait for it now. I'd better get in some more practice! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12816_Kiryu"
+msgid "Don't get too excited. Relax and be yourself."
+msgstr ""
+
+msgctxt "12828_Kiryu"
+msgid "You'd be a fool to fall in love with me."
+msgstr ""
+
+msgctxt "12840_望月京子：源氏名"
+msgid "Well, I guess that makes me a fool, because I'm falling for you."
+msgstr ""
+
+msgctxt "12852_Kiryu"
+msgid "I like that about you."
+msgstr ""
+
+msgctxt "12864_望月京子：源氏名"
+msgid "Huh? What do you mean? Do you like me, too?"
+msgstr ""
+
+msgctxt "12876_Kiryu"
+msgid "Yeah. Is there something wrong with that?"
+msgstr ""
+
+msgctxt "12888_望月京子：源氏名"
+msgid "No! Not at all! I'm ecstatic to hear that! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "12900_Kiryu"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "12912_Kiryu"
+msgid "Do you have a fever or something?"
+msgstr ""
+
+msgctxt "12924_望月京子：源氏名"
+msgid ""
+"No! I feel fine! But I can't stop thinking about you.\r\n"
+"Oh, my heart is racing..."
+msgstr ""
+
+msgctxt "12936_Kiryu"
+msgid "I bet you've got a cold. You should really see a doctor."
+msgstr ""
+
+msgctxt "12948_望月京子：源氏名"
+msgid ""
+"I'm not sick! What do you mean by saying that? Are you saying you don't "
+"like me?"
+msgstr ""
+
+msgctxt "12960_Kiryu"
+msgid "I wouldn't go that far, but..."
+msgstr ""
+
+msgctxt "12972_望月京子：源氏名"
+msgid "I see... You don't have to say any more."
+msgstr ""
+
+msgctxt "12984_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "12996_望月京子：源氏名"
+msgid "Sometimes I wonder what happiness really is."
+msgstr ""
+
+msgctxt "13008_Kiryu"
+msgid "That's a little philosophical for you, isn't it?"
+msgstr ""
+
+msgctxt "13020_望月京子：源氏名"
+msgid ""
+"I didn't mean it that way. I'm just wondering what would make me the "
+"happiest."
+msgstr ""
+
+msgctxt "13032_望月京子：源氏名"
+msgid ""
+"Maybe having my band hit number one? Being the top hostess at the club? Or "
+"maybe..."
+msgstr ""
+
+msgctxt "13044_Kiryu"
+msgid "Maybe what?"
+msgstr ""
+
+msgctxt "13056_望月京子：源氏名"
+msgid "Finding a man I love with all my heart?"
+msgstr ""
+
+msgctxt "13068_望月京子：源氏名"
+msgid "I wonder if I'll ever truly be happy..."
+msgstr ""
+
+msgctxt "13080_Kiryu"
+msgid "I can make you happy. Don't worry about it."
+msgstr ""
+
+msgctxt "13092_望月京子：源氏名"
+msgid "Really!? Thanks. <Color:7>♥<Color:Default> But how are you gonna do that?"
+msgstr ""
+
+msgctxt "13104_Kiryu"
+msgid "Well... I haven't worked out all the details."
+msgstr ""
+
+msgctxt "13116_望月京子：源氏名"
+msgid "Maybe you got a little ahead of yourself there?"
+msgstr ""
+
+msgctxt "13128_Kiryu"
+msgid "Maybe."
+msgstr ""
+
+msgctxt "13140_望月京子：源氏名"
+msgid "Thanks though. I appreciate the thought. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13152_Kiryu"
+msgid "Only heaven knows."
+msgstr ""
+
+msgctxt "13164_望月京子：源氏名"
+msgid "I suppose that's true. But what do you think?"
+msgstr ""
+
+msgctxt "13176_Kiryu"
+msgid "Well..."
+msgstr ""
+
+msgctxt "13188_Kiryu"
+msgid ""
+"I can't guarantee you'll be happy if you work hard, but I can guarantee you "
+"won't be if you don't."
+msgstr ""
+
+msgctxt "13200_望月京子：源氏名"
+msgid "So you don't know either."
+msgstr ""
+
+msgctxt "13212_Kiryu"
+msgid "Apparently not."
+msgstr ""
+
+msgctxt "13224_望月京子：源氏名"
+msgid ""
+"You could at least lie and tell me everything's gonna be okay. Now I'm even "
+"more depressed..."
+msgstr ""
+
+msgctxt "13236_Kiryu"
+msgid "Sorry..."
+msgstr ""
+
+msgctxt "13248_Kiryu"
+msgid "I'll do what I can to help."
+msgstr ""
+
+msgctxt "13260_望月京子：源氏名"
+msgid ""
+"Thanks! With you by my side, I really feel that everything is gonna work "
+"out fine. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13272_Kiryu"
+msgid "But you'll have to help me, too."
+msgstr ""
+
+msgctxt "13284_望月京子：源氏名"
+msgid "What would make you happy?"
+msgstr ""
+
+msgctxt "13296_Kiryu"
+msgid "Being with the woman I love, for example."
+msgstr ""
+
+msgctxt "13308_望月京子：源氏名"
+msgid "Huh? I can't help you with that."
+msgstr ""
+
+msgctxt "13320_Kiryu"
+msgid "Why not?"
+msgstr ""
+
+msgctxt "13332_望月京子：源氏名"
+msgid "Because I don't want to see you with anybody else, Kiryu-san..."
+msgstr ""
+
+msgctxt "13344_Kiryu"
+msgid "Hm? I didn't catch that."
+msgstr ""
+
+msgctxt "13356_望月京子：源氏名"
+msgid "Oh, nothing! Anyway, I'm counting on your support. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13368_Kiryu"
+msgid "Sure."
+msgstr ""
+
+msgctxt "13380_望月京子：源氏名"
+msgid ""
+"This might be a bit of a surprise, but I had it pretty good when I was "
+"little."
+msgstr ""
+
+msgctxt "13392_Kiryu"
+msgid "Really?"
+msgstr ""
+
+msgctxt "13404_望月京子：源氏名"
+msgid "My family in Fukuoka was quite well off, so I took all kinds of lessons."
+msgstr ""
+
+msgctxt "13416_望月京子：源氏名"
+msgid "That's why I can do both traditional Japanese dance and ballet."
+msgstr ""
+
+msgctxt "13428_Kiryu"
+msgid "I can't picture that."
+msgstr ""
+
+msgctxt "13440_望月京子：源氏名"
+msgid "Yeah, rock stars don't use Japanese dance in their work very much."
+msgstr ""
+
+msgctxt "13452_Kiryu"
+msgid "You could always use it as a party trick."
+msgstr ""
+
+msgctxt "13464_望月京子：源氏名"
+msgid ""
+"A party trick? No one would laugh at something like that. I'd be better off "
+"doing impressions or something."
+msgstr ""
+
+msgctxt "13476_Kiryu"
+msgid "So why did you learn it in the first place?"
+msgstr ""
+
+msgctxt "13488_望月京子：源氏名"
+msgid ""
+"It's not really good for anything, is it? I feel like I wasted a lot of "
+"time on it. This is so depressing..."
+msgstr ""
+
+msgctxt "13500_Kiryu"
+msgid "So why not get some use out of it at parties?"
+msgstr ""
+
+msgctxt "13512_望月京子：源氏名"
+msgid ""
+"I spent years learning how to do traditional Japanese dance just to use it "
+"at parties? That's really sad..."
+msgstr ""
+
+msgctxt "13524_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "13536_Kiryu"
+msgid ""
+"Maybe your whole band could do it together. You could all dance along with "
+"the beat. It would be interesting."
+msgstr ""
+
+msgctxt "13548_望月京子：源氏名"
+msgid "Hey, we're not a novelty band. We're a serious, hard rocking one!"
+msgstr ""
+
+msgctxt "13560_Kiryu"
+msgid ""
+"It might appeal to foreigners, though. If you want to make it overseas, it "
+"could work to your advantage."
+msgstr ""
+
+msgctxt "13572_望月京子：源氏名"
+msgid ""
+"Haha! You're probably right about that. I suppose it wouldn't hurt to give "
+"it a try."
+msgstr ""
+
+msgctxt "13584_Kiryu"
+msgid "That's all I'm saying."
+msgstr ""
+
+msgctxt "13596_Kiryu"
+msgid "Dance a little for me right now. There's a stage here, too."
+msgstr ""
+
+msgctxt "13608_望月京子：源氏名"
+msgid "Here!? No, it's too embarrassing!"
+msgstr ""
+
+msgctxt "13620_Kiryu"
+msgid "Don't worry about it. I'd like to see you dance."
+msgstr ""
+
+msgctxt "13632_望月京子：源氏名"
+msgid ""
+"It would bother the other people in the club. Besides, these aren't the "
+"right clothes."
+msgstr ""
+
+msgctxt "13644_Kiryu"
+msgid "Well, maybe you can show me later, when it's just you and me."
+msgstr ""
+
+msgctxt "13656_望月京子：源氏名"
+msgid ""
+"Hmm... Just the two of us? I think I'm okay with that... "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13668_Kiryu"
+msgid "All right, then. I'll hold you to it."
+msgstr ""
+
+msgctxt "13680_望月京子：源氏名"
+msgid "When I'm sad, I like to do kado."
+msgstr ""
+
+msgctxt "13692_Kiryu"
+msgid "You mean the flower arrangement? You learned that too?"
+msgstr ""
+
+msgctxt "13704_望月京子：源氏名"
+msgid "Totally. Do you like flowers, Kiryu-san?"
+msgstr ""
+
+msgctxt "13716_Kiryu"
+msgid "Well, I like looking at them. I don't grow any though."
+msgstr ""
+
+msgctxt "13728_望月京子：源氏名"
+msgid "My favorite flower is called the muscari."
+msgstr ""
+
+msgctxt "13740_Kiryu"
+msgid "I've never heard of that one. What's it look like?"
+msgstr ""
+
+msgctxt "13752_望月京子：源氏名"
+msgid ""
+"It has a gorgeous bluish purple color. But I really love what the muscari "
+"symbolizes. Do you know what that is?"
+msgstr ""
+
+msgctxt "13764_Kiryu"
+msgid "I love you?"
+msgstr ""
+
+msgctxt "13776_望月京子：源氏名"
+msgid "Nope! I think that's the anemone."
+msgstr ""
+
+msgctxt "13788_Kiryu"
+msgid "Oh... That's not it?"
+msgstr ""
+
+msgctxt "13800_望月京子：源氏名"
+msgid "Why do you look so sad?"
+msgstr ""
+
+msgctxt "13812_Kiryu"
+msgid "Oh, I hoped maybe that was your way of confessing your love to me..."
+msgstr ""
+
+msgctxt "13824_望月京子：源氏名"
+msgid "Hahaha! That's a good one!"
+msgstr ""
+
+msgctxt "13836_Kiryu"
+msgid "It wasn't a joke..."
+msgstr ""
+
+msgctxt "13848_望月京子：源氏名"
+msgid "Sorry, I'm not that romantic."
+msgstr ""
+
+msgctxt "13860_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "13872_Kiryu"
+msgid "A bright future?"
+msgstr ""
+
+msgctxt "13884_望月京子：源氏名"
+msgid "Huh!? Yes! You're right! How'd you know?"
+msgstr ""
+
+msgctxt "13896_Kiryu"
+msgid ""
+"Oh, I just had a feeling. You're such a positive thinker, it fits with your "
+"personality."
+msgstr ""
+
+msgctxt "13908_望月京子：源氏名"
+msgid "Hehe. The muscari also symbolizes understanding."
+msgstr ""
+
+msgctxt "13920_望月京子：源氏名"
+msgid "Just like you seem to understand me. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "13932_Kiryu"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "13944_Kiryu"
+msgid "Purity? Maybe?"
+msgstr ""
+
+msgctxt "13956_望月京子：源氏名"
+msgid "Nope! I think that's the lily."
+msgstr ""
+
+msgctxt "13968_Kiryu"
+msgid "Oh... I figured that would be perfect for you."
+msgstr ""
+
+msgctxt "13980_望月京子：源氏名"
+msgid ""
+"What do you mean by that? You think I'm an innocent little girl or "
+"something?"
+msgstr ""
+
+msgctxt "13992_Kiryu"
+msgid "I just meant that your love for music is pure."
+msgstr ""
+
+msgctxt "14004_望月京子：源氏名"
+msgid "Hm. You're a pretty smooth talker. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14016_望月京子：源氏名"
+msgid ""
+"Do you remember when I mentioned getting into a fight with the guys in my "
+"band?"
+msgstr ""
+
+msgctxt "14028_Kiryu"
+msgid "Sure."
+msgstr ""
+
+msgctxt "14040_望月京子：源氏名"
+msgid "Well, I followed your advice and apologized to them."
+msgstr ""
+
+msgctxt "14052_望月京子：源氏名"
+msgid ""
+"Now we're even closer than before. And it's all thanks to you. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14064_Kiryu"
+msgid "Really?"
+msgstr ""
+
+msgctxt "14076_望月京子：源氏名"
+msgid "I'd like to give you a kiss, to thank you."
+msgstr ""
+
+msgctxt "14088_Kiryu"
+msgid "Okay then..."
+msgstr ""
+
+msgctxt "14100_望月京子：源氏名"
+msgid ""
+"Okay then? You're just gonna let me do it? You're not embarrassed or "
+"anything?"
+msgstr ""
+
+msgctxt "14112_Kiryu"
+msgid "I don't mind."
+msgstr ""
+
+msgctxt "14124_望月京子：源氏名"
+msgid "Well, I do! I don't want to kiss someone who'd let me kiss them in public!"
+msgstr ""
+
+msgctxt "14136_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "14148_望月京子：源氏名"
+msgid "Are you mad at me?"
+msgstr ""
+
+msgctxt "14160_Kiryu"
+msgid "Not at all."
+msgstr ""
+
+msgctxt "14172_望月京子：源氏名"
+msgid ""
+"Hehe. I was just teasing. I mighta gone a little too far... We'll do it "
+"later, okay? <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14184_Kiryu"
+msgid ""
+"When we're alone. I don't want to do it here in front of everyone. Let's "
+"save it for later."
+msgstr ""
+
+msgctxt "14196_望月京子：源氏名"
+msgid "For reals? You think a kiss from me is that important?"
+msgstr ""
+
+msgctxt "14208_Kiryu"
+msgid "Of course I do."
+msgstr ""
+
+msgctxt "14220_望月京子：源氏名"
+msgid ""
+"You really know how to make a girl feel special! I'm glad you understand, "
+"Kiryu-san!"
+msgstr ""
+
+msgctxt "14232_Kiryu"
+msgid "Besides, we can do more if we're alone..."
+msgstr ""
+
+msgctxt "14244_望月京子：源氏名"
+msgid ""
+"Haha. I don't know about that. You'll have to wait and see. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14256_Kiryu"
+msgid "You don't need to thank me."
+msgstr ""
+
+msgctxt "14268_望月京子：源氏名"
+msgid "Hey. Don't you want a kiss from me?"
+msgstr ""
+
+msgctxt "14280_Kiryu"
+msgid "That's not what I meant..."
+msgstr ""
+
+msgctxt "14292_望月京子：源氏名"
+msgid "Uh-huh. Well, where do you want it?"
+msgstr ""
+
+msgctxt "14304_Kiryu"
+msgid "On the lips, please."
+msgstr ""
+
+msgctxt "14316_望月京子：源氏名"
+msgid "Aha! So you do want a reward. Naughty boy!"
+msgstr ""
+
+msgctxt "14328_Kiryu"
+msgid "Hey, this was all your idea."
+msgstr ""
+
+msgctxt "14340_望月京子：源氏名"
+msgid "I don't kiss naughty boys like you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14352_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "14364_望月京子：源氏名"
+msgid ""
+"By the way, all those sit-ups I've been doing are finally paying off. My "
+"tummy's getting nice and toned!"
+msgstr ""
+
+msgctxt "14376_望月京子：源氏名"
+msgid "Pretty impressive, right? I kinda want to show it off."
+msgstr ""
+
+msgctxt "14388_Kiryu"
+msgid "You've been working hard, huh?"
+msgstr ""
+
+msgctxt "14400_望月京子：源氏名"
+msgid "When the guys in the band saw it, they couldn't believe it."
+msgstr ""
+
+msgctxt "14412_Kiryu"
+msgid "Can I touch it?"
+msgstr ""
+
+msgctxt "14424_望月京子：源氏名"
+msgid ""
+"You mean right here? The customers aren't allowed to touch the girls here, "
+"you know!"
+msgstr ""
+
+msgctxt "14436_Kiryu"
+msgid "It's okay if it's not as toned as you said..."
+msgstr ""
+
+msgctxt "14448_望月京子：源氏名"
+msgid "I told you, it's not allowed! Besides, everybody's watching."
+msgstr ""
+
+msgctxt "14460_Kiryu"
+msgid "Don't worry about it. It's okay."
+msgstr ""
+
+msgctxt "14472_望月京子：源氏名"
+msgid "No, it's not! Have you listened to a word I've said!?"
+msgstr ""
+
+msgctxt "14484_Kiryu"
+msgid "......"
+msgstr ""
+
+msgctxt "14496_Kiryu"
+msgid "Keep up the good work. Stomach muscles can help your voice, too."
+msgstr ""
+
+msgctxt "14508_望月京子：源氏名"
+msgid ""
+"Yeah. I'm not going to let myself get flabby again after putting in all "
+"this work."
+msgstr ""
+
+msgctxt "14520_望月京子：源氏名"
+msgid ""
+"But if I keep it up too long, I might get all ripped like one of those "
+"female bodybuilders."
+msgstr ""
+
+msgctxt "14532_Kiryu"
+msgid "That might not be a bad thing."
+msgstr ""
+
+msgctxt "14544_望月京子：源氏名"
+msgid "You like muscular women?"
+msgstr ""
+
+msgctxt "14556_Kiryu"
+msgid "Well, I don't dislike them."
+msgstr ""
+
+msgctxt "14568_望月京子：源氏名"
+msgid ""
+"I guess I'll keep at it so I can get the ideal body for you. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14580_Kiryu"
+msgid "I don't believe it. Are you sure it's really toned?"
+msgstr ""
+
+msgctxt "14592_望月京子：源氏名"
+msgid "What, you think I'm lying?"
+msgstr ""
+
+msgctxt "14604_Kiryu"
+msgid ""
+"I didn't think you'd get results so fast. And your upper arms are still a "
+"bit soft."
+msgstr ""
+
+msgctxt "14616_望月京子：源氏名"
+msgid "My arms...? Yeah, they sorta are."
+msgstr ""
+
+msgctxt "14628_望月京子：源氏名"
+msgid "Okay then, pushups will be next! No, I'll work on my whole body! You'll see!"
+msgstr ""
+
+msgctxt "14640_Kiryu"
+msgid "Okay."
+msgstr ""
+
+msgctxt "14652_望月京子：源氏名"
+msgid "I'll do it! Just wait!"
+msgstr ""
+
+msgctxt "14664_望月京子：源氏名"
+msgid "We haven't known each other that long, but you've been a huge help to me."
+msgstr ""
+
+msgctxt "14676_Kiryu"
+msgid "Really?"
+msgstr ""
+
+msgctxt "14688_望月京子：源氏名"
+msgid "Sure. I'm always coming to you with my problems and getting advice."
+msgstr ""
+
+msgctxt "14700_望月京子：源氏名"
+msgid ""
+"I don't have much I can give you to express my thanks, but I would like to "
+"give you a song."
+msgstr ""
+
+msgctxt "14712_Kiryu"
+msgid "A song? That's appropriate."
+msgstr ""
+
+msgctxt "14724_望月京子：源氏名"
+msgid "So what kind of song would you like?"
+msgstr ""
+
+msgctxt "14736_Kiryu"
+msgid "A heartrending ballad. Something that'll have folks in tears."
+msgstr ""
+
+msgctxt "14748_望月京子：源氏名"
+msgid "Okay! It'll be about my feelings for you."
+msgstr ""
+
+msgctxt "14760_Kiryu"
+msgid "And that'll make people cry?"
+msgstr ""
+
+msgctxt "14772_望月京子：源氏名"
+msgid ""
+"Sure. It's a real-life love story. You can't tell something like that "
+"without a few tears."
+msgstr ""
+
+msgctxt "14784_Kiryu"
+msgid "I don't know..."
+msgstr ""
+
+msgctxt "14796_望月京子：源氏名"
+msgid "Just wait! You'll love it. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14808_Kiryu"
+msgid "All right."
+msgstr ""
+
+msgctxt "14820_Kiryu"
+msgid "Some upbeat hip-hop."
+msgstr ""
+
+msgctxt "14832_望月京子：源氏名"
+msgid "Hip-hop!? You like that kind of thing?"
+msgstr ""
+
+msgctxt "14844_Kiryu"
+msgid "It's a nice change every once in a while. Is that a no...?"
+msgstr ""
+
+msgctxt "14856_望月京子：源氏名"
+msgid ""
+"No, that works. My band raps on some of our tracks, and I listen to a lot "
+"of hip-hop."
+msgstr ""
+
+msgctxt "14868_Kiryu"
+msgid "Got it."
+msgstr ""
+
+msgctxt "14880_望月京子：源氏名"
+msgid ""
+"It might be cool to forget about rock for a bit and just concentrate on "
+"rap. Maybe I could even use it in the band."
+msgstr ""
+
+msgctxt "14892_望月京子：源氏名"
+msgid "I'll put some thought into it. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14904_Kiryu"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "14916_Kiryu"
+msgid ""
+"How about a traditional Japanese ballad? I'd like something that I could "
+"sing along to."
+msgstr ""
+
+msgctxt "14928_望月京子：源氏名"
+msgid ""
+"A traditional Japanese ballad, huh? You know, I sometimes sing them when I "
+"go to karaoke."
+msgstr ""
+
+msgctxt "14940_Kiryu"
+msgid "Really?"
+msgstr ""
+
+msgctxt "14952_望月京子：源氏名"
+msgid ""
+"A lot of girls do. Those ballads really let you sing your heart out. It's "
+"great for lowering stress. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "14964_Kiryu"
+msgid "I didn't know that."
+msgstr ""
+
+msgctxt "14976_望月京子：源氏名"
+msgid "I haven't written one before, so it could be fun."
+msgstr ""
+
+msgctxt "14988_Kiryu"
+msgid "I'm looking forward to hearing it."
+msgstr ""
+
+msgctxt "15000_望月京子：源氏名"
+msgid ""
+"So we didn't win the competition, but we've had some nibbles from record "
+"companies since then."
+msgstr ""
+
+msgctxt "15012_Kiryu"
+msgid "Wow, that's impressive."
+msgstr ""
+
+msgctxt "15024_望月京子：源氏名"
+msgid "Yeah, but we turned them all down."
+msgstr ""
+
+msgctxt "15036_Kiryu"
+msgid "Why?"
+msgstr ""
+
+msgctxt "15048_望月京子：源氏名"
+msgid ""
+"We don't think we're ready. We're gonna stay on the indie scene a while "
+"longer. So I guess I'll be working here a while longer too."
+msgstr ""
+
+msgctxt "15060_Kiryu"
+msgid "I see."
+msgstr ""
+
+msgctxt "15072_Kiryu"
+msgid "Be the best indie musician you can be. I think that suits you better anyway."
+msgstr ""
+
+msgctxt "15084_望月京子：源氏名"
+msgid "Yeah! I'll become queen of the indies!"
+msgstr ""
+
+msgctxt "15096_望月京子：源氏名"
+msgid "I'll show the Japanese music scene what I'm made of!"
+msgstr ""
+
+msgctxt "15108_Kiryu"
+msgid "That's the spirit."
+msgstr ""
+
+msgctxt "15120_望月京子：源氏名"
+msgid "Watch out, Japan! Here I come, ready or not!"
+msgstr ""
+
+msgctxt "15132_Kiryu"
+msgid "I hope you make it big soon."
+msgstr ""
+
+msgctxt "15144_望月京子：源氏名"
+msgid "We'll enter the band competition again next year. We'll definitely win then."
+msgstr ""
+
+msgctxt "15156_望月京子：源氏名"
+msgid "So we've got a year to practice."
+msgstr ""
+
+msgctxt "15168_Kiryu"
+msgid "Well, I'm behind you."
+msgstr ""
+
+msgctxt "15180_望月京子：源氏名"
+msgid "Thanks!"
+msgstr ""
+
+msgctxt "15192_Kiryu"
+msgid "Didn't you promise to write me a song? What happened to that?"
+msgstr ""
+
+msgctxt "15204_望月京子：源氏名"
+msgid "Oh! I'm sorry, I totally forgot."
+msgstr ""
+
+msgctxt "15216_Kiryu"
+msgid "Hey..."
+msgstr ""
+
+msgctxt "15228_望月京子：源氏名"
+msgid "I've just been so busy lately."
+msgstr ""
+
+msgctxt "15240_望月京子：源氏名"
+msgid "But I'll do it real soon, I promise! Maybe you could help me write it?"
+msgstr ""
+
+msgctxt "15252_Kiryu"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "15264_望月京子：源氏名"
+msgid "Normal dialogue 31."
+msgstr ""
+
+msgctxt "15288_望月京子：源氏名"
+msgid "You came! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15324_望月京子：源氏名"
+msgid "Thanks for coming!"
+msgstr ""
+
+msgctxt "15336_望月京子：源氏名"
+msgid "Yay! You came!"
+msgstr ""
+
+msgctxt "15348_望月京子：源氏名"
+msgid "I've been waiting for you! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15360_望月京子：源氏名"
+msgid "Thanks for the other day. I had fun. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15372_望月京子：源氏名"
+msgid "I was waiting for you, but you never showed up..."
+msgstr ""
+
+msgctxt "15384_望月京子：源氏名"
+msgid "Too bad about before. Let's go next time."
+msgstr ""
+
+msgctxt "15396_望月京子：源氏名"
+msgid "I was really looking forward to our date..."
+msgstr ""
+
+msgctxt "15408_望月京子：源氏名"
+msgid "Sorry about before. We should go again."
+msgstr ""
+
+msgctxt "15432_望月京子：源氏名"
+msgid "Thanks for requesting me! I'm %s!"
+msgstr ""
+
+msgctxt "15444_Kiryu"
+msgid "Hey there."
+msgstr ""
+
+msgctxt "15456_望月京子：源氏名"
+msgid "Did you come just to see me?"
+msgstr ""
+
+msgctxt "15468_望月京子：源氏名"
+msgid "I hope you have a nice time."
+msgstr ""
+
+msgctxt "15480_望月京子：源氏名"
+msgid "Hi! I'm so glad to see you! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15492_望月京子：源氏名"
+msgid "Thanks for coming! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15504_望月京子：源氏名"
+msgid "I had a lot of fun on our date. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15516_望月京子：源氏名"
+msgid "We should go out again sometime."
+msgstr ""
+
+msgctxt "15528_望月京子：源氏名"
+msgid "We should go out again sometime."
+msgstr ""
+
+msgctxt "15540_望月京子：源氏名"
+msgid "The party's just getting started! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15552_望月京子：源氏名"
+msgid "Do you want to go out again?"
+msgstr ""
+
+msgctxt "15564_望月京子：源氏名"
+msgid "Do you want to go out again?"
+msgstr ""
+
+msgctxt "15576_望月京子：源氏名"
+msgid "You're looking really nice today! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15588_望月京子：源氏名"
+msgid "You're looking pretty good today!"
+msgstr ""
+
+msgctxt "15600_望月京子：源氏名"
+msgid "You always look the same."
+msgstr ""
+
+msgctxt "15612_望月京子：源氏名"
+msgid "You really into that outfit? I'm not really feeling it..."
+msgstr ""
+
+msgctxt "15624_望月京子：源氏名"
+msgid "I'm surprised you're okay going out in public in that outfit."
+msgstr ""
+
+msgctxt "15636_望月京子：源氏名"
+msgid "Maybe you should pay a little more attention to your appearance..."
+msgstr ""
+
+msgctxt "15648_望月京子：源氏名"
+msgid "You're looking super today! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15660_望月京子：源氏名"
+msgid "Is that for me!?"
+msgstr ""
+
+msgctxt "15672_望月京子：源氏名"
+msgid "I've wanted one of these forever!"
+msgstr ""
+
+msgctxt "15684_F_cab_sitsofa_tlk_happy"
+msgid "Thank you so much! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15696_望月京子：源氏名"
+msgid "Is that for me?"
+msgstr ""
+
+msgctxt "15708_F_cab_sitsofa_tlk_yes"
+msgid "Thanks, Kiryu-san! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15720_望月京子：源氏名"
+msgid "Is that for me?"
+msgstr ""
+
+msgctxt "15744_望月京子：源氏名"
+msgid "You're giving that to me?"
+msgstr ""
+
+msgctxt "15756_F_cab_sitsofa_tlk_noA"
+msgid "Uh... No thanks."
+msgstr ""
+
+msgctxt "15768_望月京子：源氏名"
+msgid "Hey! I don't need something like that!"
+msgstr ""
+
+msgctxt "15780_F_cab_sitsofa_tlk_angry"
+msgid "Cut the crap!"
+msgstr ""
+
+msgctxt "15792_望月京子：源氏名"
+msgid "Hm? You already gave me one of those."
+msgstr ""
+
+msgctxt "15816_望月京子：源氏名"
+msgid "Is that for me!?"
+msgstr ""
+
+msgctxt "15828_望月京子：源氏名"
+msgid "I've wanted one of these forever!"
+msgstr ""
+
+msgctxt "15840_F_cab_sitsofa_tlk_happy"
+msgid "Thank you so much! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15852_望月京子：源氏名"
+msgid "What would you like?"
+msgstr ""
+
+msgctxt "15876_Kiryu"
+msgid "Okay, I'll have this."
+msgstr ""
+
+msgctxt "15888_望月京子：源氏名"
+msgid "You're no fun..."
+msgstr ""
+
+msgctxt "15900_望月京子：源氏名"
+msgid ""
+"Your glass is empty...\r\n"
+"Can I fix that for you?"
+msgstr ""
+
+msgctxt "15924_Kiryu"
+msgid "Okay, I'll have this."
+msgstr ""
+
+msgctxt "15936_望月京子：源氏名"
+msgid "Huh... I figured you'd be more of a drinker."
+msgstr ""
+
+msgctxt "15948_望月京子：源氏名"
+msgid "Oh, I like that too! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15960_望月京子：源氏名"
+msgid "I think I'm gonna enjoy drinking with you. <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "15972_望月京子：源氏名"
+msgid "Good choice."
+msgstr ""
+
+msgctxt "15984_望月京子：源氏名"
+msgid "Okay, then."
+msgstr ""
+
+msgctxt "15996_望月京子：源氏名"
+msgid "You really drink that stuff? Well, I guess if that's your thing..."
+msgstr ""
+
+msgctxt "16008_望月京子：源氏名"
+msgid "You want that?"
+msgstr ""
+
+msgctxt "16020_望月京子：源氏名"
+msgid "I'll never understand what people like about that stuff..."
+msgstr ""
+
+msgctxt "16032_望月京子：源氏名"
+msgid "What would you like to eat?"
+msgstr ""
+
+msgctxt "16056_Kiryu"
+msgid "Okay, I'll have this."
+msgstr ""
+
+msgctxt "16068_望月京子：源氏名"
+msgid "Not hungry, huh?"
+msgstr ""
+
+msgctxt "16080_望月京子：源氏名"
+msgid "Would you like some food?"
+msgstr ""
+
+msgctxt "16104_Kiryu"
+msgid "Okay, I'll have this."
+msgstr ""
+
+msgctxt "16116_望月京子：源氏名"
+msgid "You're full already?"
+msgstr ""
+
+msgctxt "16128_望月京子：源氏名"
+msgid "I love that."
+msgstr ""
+
+msgctxt "16140_望月京子：源氏名"
+msgid "Maybe I'll have a nibble too!"
+msgstr ""
+
+msgctxt "16152_望月京子：源氏名"
+msgid "Yeah, that's tasty."
+msgstr ""
+
+msgctxt "16164_望月京子：源氏名"
+msgid "Okay, then."
+msgstr ""
+
+msgctxt "16176_望月京子：源氏名"
+msgid "I never thought you'd eat that kind of thing."
+msgstr ""
+
+msgctxt "16188_望月京子：源氏名"
+msgid "I really can't stand that..."
+msgstr ""
+
+msgctxt "16200_望月京子：源氏名"
+msgid "Okay, I'll place our order."
+msgstr ""
+
+msgctxt "16224_望月京子：源氏名"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "16236_F_cab_sitsofa_talk_smileA"
+msgid "Here's our order."
+msgstr ""
+
+msgctxt "16248_望月京子：源氏名"
+msgid "Right away."
+msgstr ""
+
+msgctxt "16272_望月京子：源氏名"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "16284_望月京子：源氏名"
+msgid "Cheers."
+msgstr ""
+
+msgctxt "16296_F_cab_sitsofa_talk_smileA"
+msgid "I hope you have a good time."
+msgstr ""
+
+msgctxt "16308_望月京子：源氏名"
+msgid "Cheers!"
+msgstr ""
+
+msgctxt "16320_望月京子：源氏名"
+msgid "Cheers."
+msgstr ""
+
+msgctxt "16332_F_cab_sitsofa_talk_smileA"
+msgid "I hope you have a good time."
+msgstr ""
+
+msgctxt "16344_望月京子：源氏名"
+msgid "Just a minute."
+msgstr ""
+
+msgctxt "16356_望月京子：源氏名"
+msgid "Sure..."
+msgstr ""
+
+msgctxt "16392_望月京子：源氏名"
+msgid "Nice meeting you! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16404_望月京子：源氏名"
+msgid "Nice meeting you, too."
+msgstr ""
+
+msgctxt "16416_望月京子：源氏名"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+
+msgctxt "16428_望月京子：源氏名"
+msgid "You got a business card."
+msgstr ""
+
+msgctxt "16464_望月京子：源氏名"
+msgid "(Maybe I'll request her next time.)"
+msgstr ""
+
+msgctxt "16488_望月京子：源氏名"
+msgid "Come again soon! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16500_望月京子：源氏名"
+msgid "Sure."
+msgstr ""
+
+msgctxt "16512_望月京子：源氏名"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+
+msgctxt "16524_望月京子：源氏名"
+msgid "You got a fancy business card."
+msgstr ""
+
+msgctxt "16572_望月京子：源氏名"
+msgid "Here you are!"
+msgstr ""
+
+msgctxt "16584_望月京子：源氏名"
+msgid "......"
+msgstr ""
+
+msgctxt "16596_望月京子：源氏名"
+msgid "Mind if I smoke?"
+msgstr ""
+
+msgctxt "16608_望月京子：源氏名"
+msgid "No."
+msgstr ""
+
+msgctxt "16620_望月京子：源氏名"
+msgid "Come on. Drink up!"
+msgstr ""
+
+msgctxt "16632_望月京子：源氏名"
+msgid "All right."
+msgstr ""
+
+msgctxt "16644_望月京子：源氏名"
+msgid "Maybe I'll have a drink too!"
+msgstr ""
+
+msgctxt "16656_望月京子：源氏名"
+msgid "Sure."
+msgstr ""
+
+msgctxt "16668_Kiryu"
+msgid "I should get going."
+msgstr ""
+
+msgctxt "16680_F_cab_sitsofa_tlk_noA"
+msgid "You're leaving already?"
+msgstr ""
+
+msgctxt "16692_望月京子：源氏名"
+msgid "Is our time up already?"
+msgstr ""
+
+msgctxt "16704_P_sitsofaR_tlk_yes"
+msgid "Looks like it..."
+msgstr ""
+
+msgctxt "16716_望月京子：源氏名"
+msgid "終了時_アフター_初。"
+msgstr ""
+
+msgctxt "16728_望月京子：源氏名"
+msgid "終了時_アフター_遅刻後。"
+msgstr ""
+
+msgctxt "16740_望月京子：源氏名"
+msgid "終了時_アフター_失敗後。"
+msgstr ""
+
+msgctxt "16752_望月京子：源氏名"
+msgid "終了時_同伴_初。"
+msgstr ""
+
+msgctxt "16764_望月京子：源氏名"
+msgid "終了時_同伴_遅刻後。"
+msgstr ""
+
+msgctxt "16776_望月京子：源氏名"
+msgid "終了時_同伴_失敗後。"
+msgstr ""
+
+msgctxt "16788_望月京子：源氏名"
+msgid "終了時_ミニミッション。"
+msgstr ""
+
+msgctxt "16800_望月京子：源氏名"
+msgid "終了時_クリア後。"
+msgstr ""
+
+msgctxt "16812_望月京子：源氏名"
+msgid "Thanks for coming! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16836_望月京子：源氏名"
+msgid "I hope to see you again soon, Kiryu-san."
+msgstr ""
+
+msgctxt "16848_望月京子：源氏名"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "16860_F_cab_sitsofa_tlk_tereruA"
+msgid "Bye."
+msgstr ""
+
+msgctxt "16884_望月京子：源氏名"
+msgid "Thanks for today, Kiryu-san."
+msgstr ""
+
+msgctxt "16896_望月京子：源氏名"
+msgid "Please come again! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16908_望月京子：源氏名"
+msgid "Yeah..."
+msgstr ""
+
+msgctxt "16920_F_cab_sitsofa_tlk_tereruA"
+msgid "Bye."
+msgstr ""
+
+msgctxt "16956_望月京子：源氏名"
+msgid "I really had a good time! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "16968_望月京子：源氏名"
+msgid "Me too..."
+msgstr ""
+
+msgctxt "16980_F_cab_sitsofa_tlk_tereruA"
+msgid "Well, I'll be waiting for you."
+msgstr ""
+
+msgctxt "17004_望月京子：源氏名"
+msgid "I love you, Kiryu-san! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17016_望月京子：源氏名"
+msgid "Same..."
+msgstr ""
+
+msgctxt "17028_F_cab_sitsofa_tlk_tereruA"
+msgid "Well, I'll be waiting for you."
+msgstr ""
+
+msgctxt "17076_望月京子：源氏名"
+msgid "Watch your step on the way out."
+msgstr ""
+
+msgctxt "17088_望月京子：源氏名"
+msgid "After date."
+msgstr ""
+
+msgctxt "17100_望月京子：源氏名"
+msgid "By the way, Kiryu-san. Heard any interesting news around town?"
+msgstr ""
+
+msgctxt "17112_望月京子：源氏名"
+msgid "I figure somebody like you must have a lot of interesting stories, right?"
+msgstr ""
+
+msgctxt "17124_P_sitsofaR_tlk_smile"
+msgid "Something interesting, huh? Well..."
+msgstr ""
+
+msgctxt "17136_Kiryu"
+msgid "No... I can't think of anything right now."
+msgstr ""
+
+msgctxt "17256_望月京子：源氏名"
+msgid "I've been thinking about getting a tattoo. What do you think?"
+msgstr ""
+
+msgctxt "17268_Kiryu"
+msgid ""
+"That depends on what you get. You're not planning on a full-back tattoo, "
+"are you?"
+msgstr ""
+
+msgctxt "17280_望月京子：源氏名"
+msgid "Haha! No. I just thought it might be cute to get a small one somewhere."
+msgstr ""
+
+msgctxt "17292_Kiryu"
+msgid "I see. Well, if that's what you want, why not?"
+msgstr ""
+
+msgctxt "17304_望月京子：源氏名"
+msgid "The problem is where to do it. Where would you suggest?"
+msgstr ""
+
+msgctxt "17316_Kiryu"
+msgid "Well..."
+msgstr ""
+
+msgctxt "17328_望月京子：源氏名"
+msgid "What part of my body makes you most excited?"
+msgstr ""
+
+msgctxt "17340_Kiryu"
+msgid "Huh? Why do you ask that all of a sudden?"
+msgstr ""
+
+msgctxt "17352_望月京子：源氏名"
+msgid "Just answer me. I'm curious to know what you like."
+msgstr ""
+
+msgctxt "17364_望月京子：源氏名"
+msgid ""
+"It'd be easier to tell if I was wearing my stage outfit, but you haven't "
+"seen that. So, which part of me interests you?"
+msgstr ""
+
+msgctxt "17376_Kiryu"
+msgid "Well..."
+msgstr ""
+
+msgctxt "17412_望月京子：源氏名"
+msgid "Look! This is the present you gave me!"
+msgstr ""
+
+msgctxt "17424_望月京子：源氏名"
+msgid ""
+"It's totally fab! It's like one of my favorites! Thanks a lot, Kiryu-san! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "17436_望月京子：源氏名"
+msgid ""
+"I'm a little thirsty. I could go for some <Color:7>Yamazaki 12 "
+"Years<Color:Default> right about now."
+msgstr ""
+
+msgctxt "17448_望月京子：源氏名"
+msgid "For reals!? I knew you'd understand. You're the best, Kiryu-san."
+msgstr ""
+
+msgctxt "17460_F_cab_sitsofa_sync_order"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "17472_Kiryu"
+msgid "Sorry, I guess I don't have enough money..."
+msgstr ""
+
+msgctxt "17484_望月京子：源氏名"
+msgid "What!? Are you serious!? Maybe you need a little financial counseling."
+msgstr ""
+
+msgctxt "17496_望月京子：源氏名"
+msgid "You're no fun..."
+msgstr ""
+
+msgctxt "17508_望月京子：源氏名"
+msgid "I'm pretty hungry! Can I order something?"
+msgstr ""
+
+msgctxt "17532_望月京子：源氏名"
+msgid "Yay! Okay, I'll go ahead and order."
+msgstr ""
+
+msgctxt "17544_F_cab_sitsofa_sync_order"
+msgid "Excuse me!"
+msgstr ""
+
+msgctxt "17568_望月京子：源氏名"
+msgid "Aw... Why not?"
+msgstr ""
+
+msgctxt "17580_望月京子：源氏名"
+msgid ""
+"Thanks for your email. I'm not sure when our next gig will be, but we'll be "
+"taking part in a big event soon."
+msgstr ""
+
+msgctxt "17592_望月京子：源氏名"
+msgid "You should come if you're free!"
+msgstr ""
+
+msgctxt "17604_Kiryu"
+msgid "Sure."
+msgstr ""
+
+msgctxt "17616_望月京子：源氏名"
+msgid "I came to work on my motorcycle today. Maybe you could ride behind me?"
+msgstr ""
+
+msgctxt "17628_Kiryu"
+msgid "I think I'll pass..."
+msgstr ""
+
+msgctxt "17640_望月京子：源氏名"
+msgid "After getting your email, I sat down and added it all up!"
+msgstr ""
+
+msgctxt "17652_望月京子：源氏名"
+msgid ""
+"Taking a taxi was actually cheaper than parking in a parking lot. I was "
+"really surprised!"
+msgstr ""
+
+msgctxt "17664_Kiryu"
+msgid "They're expensive during the day."
+msgstr ""
+
+msgctxt "17676_望月京子：源氏名"
+msgid "I'm gonna try taking taxis more often. Thanks for the tip."
+msgstr ""
+
+msgctxt "17688_望月京子：源氏名"
+msgid "Remember when I had writer's block, you said that sleeping might help?"
+msgstr ""
+
+msgctxt "17700_望月京子：源氏名"
+msgid "Well, I fell asleep before I had a chance to read your email."
+msgstr ""
+
+msgctxt "17712_Kiryu"
+msgid "Oh, I see."
+msgstr ""
+
+msgctxt "17724_望月京子：源氏名"
+msgid ""
+"There's no point in agonizing over it when I can't write, is there? It's "
+"better to just go to bed."
+msgstr ""
+
+msgctxt "17736_望月京子：源氏名"
+msgid ""
+"Thanks for helping me out with that song before. I'd never expect you to "
+"think of something like the button from a school uniform."
+msgstr ""
+
+msgctxt "17748_Kiryu"
+msgid "Something wrong with that?"
+msgstr ""
+
+msgctxt "17760_望月京子：源氏名"
+msgid ""
+"Of course not! In fact, I did something similar when I graduated from high "
+"school."
+msgstr ""
+
+msgctxt "17772_望月京子：源氏名"
+msgid ""
+"But in my case, a boy asked me for my button, so I was the one doing the "
+"giving."
+msgstr ""
+
+msgctxt "17784_Kiryu"
+msgid "That sounds like you."
+msgstr ""
+
+msgctxt "17796_望月京子：源氏名"
+msgid "Sure. That sounds fun."
+msgstr ""
+
+msgctxt "17808_望月京子：源氏名"
+msgid "Being a leader can be hard."
+msgstr ""
+
+msgctxt "17820_望月京子：源氏名"
+msgid "I'd like to hear you play sometime."
+msgstr ""
+
+msgctxt "17832_望月京子：源氏名"
+msgid "Take good care of it."
+msgstr ""
+
+msgctxt "17844_望月京子：源氏名"
+msgid "You want me to buy you a new one?"
+msgstr ""
+
+msgctxt "17856_望月京子：源氏名"
+msgid "I hope you have a big hit someday."
+msgstr ""
+
+msgctxt "17868_望月京子：源氏名"
+msgid "You're right."
+msgstr ""
+
+msgctxt "17880_望月京子：源氏名"
+msgid "You're pretty confident, aren't you?"
+msgstr ""
+
+msgctxt "17892_望月京子：源氏名"
+msgid "Can I have your autograph?"
+msgstr ""
+
+msgctxt "17904_望月京子：源氏名"
+msgid "I think I may have. Just now."
+msgstr ""
+
+msgctxt "17916_望月京子：源氏名"
+msgid "Sure. I find them every day."
+msgstr ""
+
+msgctxt "17928_望月京子：源氏名"
+msgid "Not recently."
+msgstr ""
+
+msgctxt "17940_望月京子：源氏名"
+msgid "You shouldn't resort to violence."
+msgstr ""
+
+msgctxt "17952_望月京子：源氏名"
+msgid "You're not the one who needs to change."
+msgstr ""
+
+msgctxt "17964_望月京子：源氏名"
+msgid "You have to find a man who's compatible."
+msgstr ""
+
+msgctxt "17976_望月京子：源氏名"
+msgid "Yeah, but kids like me."
+msgstr ""
+
+msgctxt "17988_望月京子：源氏名"
+msgid "I don't care what people think."
+msgstr ""
+
+msgctxt "18000_望月京子：源氏名"
+msgid "Yes, but my heart is pure."
+msgstr ""
+
+msgctxt "18012_望月京子：源氏名"
+msgid "It's not strange, but..."
+msgstr ""
+
+msgctxt "18024_望月京子：源氏名"
+msgid "Don't you get tired of it?"
+msgstr ""
+
+msgctxt "18036_望月京子：源氏名"
+msgid "I like junk food myself."
+msgstr ""
+
+msgctxt "18048_望月京子：源氏名"
+msgid "Wouldn't it be noisy to have so many birds?"
+msgstr ""
+
+msgctxt "18060_望月京子：源氏名"
+msgid "That sounds like it would be fun."
+msgstr ""
+
+msgctxt "18072_望月京子：源氏名"
+msgid "I still like dragons better."
+msgstr ""
+
+msgctxt "18084_望月京子：源氏名"
+msgid "A well-defined waistline is important too."
+msgstr ""
+
+msgctxt "18096_望月京子：源氏名"
+msgid "You should try drinking protein shakes."
+msgstr ""
+
+msgctxt "18108_望月京子：源氏名"
+msgid "Are you sure you can stick with it?"
+msgstr ""
+
+msgctxt "18120_望月京子：源氏名"
+msgid "I'd like to see that."
+msgstr ""
+
+msgctxt "18132_望月京子：源氏名"
+msgid "I guess you have a cute side too, huh?"
+msgstr ""
+
+msgctxt "18144_望月京子：源氏名"
+msgid "I can't imagine that."
+msgstr ""
+
+msgctxt "18156_望月京子：源氏名"
+msgid "You shouldn't have anything to do with them."
+msgstr ""
+
+msgctxt "18168_望月京子：源氏名"
+msgid "You can't let them get the upper hand."
+msgstr ""
+
+msgctxt "18180_望月京子：源氏名"
+msgid "You want me to teach them a lesson?"
+msgstr ""
+
+msgctxt "18192_望月京子：源氏名"
+msgid "Keep working hard for your fans."
+msgstr ""
+
+msgctxt "18204_望月京子：源氏名"
+msgid "So some of your fans are high school kids?"
+msgstr ""
+
+msgctxt "18216_望月京子：源氏名"
+msgid "It's ironic to think of you as cupid."
+msgstr ""
+
+msgctxt "18228_望月京子：源氏名"
+msgid "I think you're just too busy."
+msgstr ""
+
+msgctxt "18240_望月京子：源氏名"
+msgid "You need a change of pace."
+msgstr ""
+
+msgctxt "18252_望月京子：源氏名"
+msgid "Stop complaining."
+msgstr ""
+
+msgctxt "18264_望月京子：源氏名"
+msgid "I'm nothing special."
+msgstr ""
+
+msgctxt "18276_望月京子：源氏名"
+msgid "Everybody tries to pick fights with me."
+msgstr ""
+
+msgctxt "18288_望月京子：源氏名"
+msgid "I'm a pacifist, so I try to avoid fighting."
+msgstr ""
+
+msgctxt "18300_望月京子：源氏名"
+msgid "No. You're not submissive."
+msgstr ""
+
+msgctxt "18312_望月京子：源氏名"
+msgid "Yep. You're submissive all right."
+msgstr ""
+
+msgctxt "18324_望月京子：源氏名"
+msgid "That seems pretty normal, actually."
+msgstr ""
+
+msgctxt "18336_望月京子：源氏名"
+msgid "You should sit down and talk this out."
+msgstr ""
+
+msgctxt "18348_望月京子：源氏名"
+msgid "You were wrong."
+msgstr ""
+
+msgctxt "18360_望月京子：源氏名"
+msgid "You'll make up sooner or later."
+msgstr ""
+
+msgctxt "18372_望月京子：源氏名"
+msgid "I check my horoscope every day."
+msgstr ""
+
+msgctxt "18384_望月京子：源氏名"
+msgid "Well, sort of."
+msgstr ""
+
+msgctxt "18396_望月京子：源氏名"
+msgid "I'm usually the one telling people's fortunes."
+msgstr ""
+
+msgctxt "18408_望月京子：源氏名"
+msgid "Sounds like you'd look like a musician."
+msgstr ""
+
+msgctxt "18420_望月京子：源氏名"
+msgid "That's not really much different, is it?"
+msgstr ""
+
+msgctxt "18432_望月京子：源氏名"
+msgid "I can't really say without seeing it first."
+msgstr ""
+
+msgctxt "18444_望月京子：源氏名"
+msgid "Yeah, that's scary."
+msgstr ""
+
+msgctxt "18456_望月京子：源氏名"
+msgid "That's got nothing to do with ghosts."
+msgstr ""
+
+msgctxt "18468_望月京子：源氏名"
+msgid "Maybe I should sleep with you next time."
+msgstr ""
+
+msgctxt "18480_望月京子：源氏名"
+msgid "You can't do it half-heartedly."
+msgstr ""
+
+msgctxt "18492_望月京子：源氏名"
+msgid "What's wrong? Don't you think you can do it?"
+msgstr ""
+
+msgctxt "18504_望月京子：源氏名"
+msgid "Just ignore him."
+msgstr ""
+
+msgctxt "18516_望月京子：源氏名"
+msgid "Don't do anything hasty."
+msgstr ""
+
+msgctxt "18528_望月京子：源氏名"
+msgid "You should watch out."
+msgstr ""
+
+msgctxt "18540_望月京子：源氏名"
+msgid "I'll get revenge for you."
+msgstr ""
+
+msgctxt "18552_望月京子：源氏名"
+msgid "Sure. I'll be there."
+msgstr ""
+
+msgctxt "18564_望月京子：源氏名"
+msgid "If I can make it."
+msgstr ""
+
+msgctxt "18576_望月京子：源氏名"
+msgid "Maybe I could sing a song..."
+msgstr ""
+
+msgctxt "18588_望月京子：源氏名"
+msgid "How about going out for a nice meal?"
+msgstr ""
+
+msgctxt "18600_望月京子：源氏名"
+msgid "I could take you on a trip somewhere."
+msgstr ""
+
+msgctxt "18612_望月京子：源氏名"
+msgid "You want money?"
+msgstr ""
+
+msgctxt "18624_望月京子：源氏名"
+msgid "Me too."
+msgstr ""
+
+msgctxt "18636_望月京子：源氏名"
+msgid "You'd be a fool to fall in love with me."
+msgstr ""
+
+msgctxt "18648_望月京子：源氏名"
+msgid "Do you have a fever or something?"
+msgstr ""
+
+msgctxt "18660_望月京子：源氏名"
+msgid "I can make you happy."
+msgstr ""
+
+msgctxt "18672_望月京子：源氏名"
+msgid "Only heaven knows."
+msgstr ""
+
+msgctxt "18684_望月京子：源氏名"
+msgid "I'll do what I can to help."
+msgstr ""
+
+msgctxt "18696_望月京子：源氏名"
+msgid "You could always use it as a party trick."
+msgstr ""
+
+msgctxt "18708_望月京子：源氏名"
+msgid "Maybe your whole band could do it together."
+msgstr ""
+
+msgctxt "18720_望月京子：源氏名"
+msgid "Dance a little for me right now."
+msgstr ""
+
+msgctxt "18732_望月京子：源氏名"
+msgid "I love you?"
+msgstr ""
+
+msgctxt "18744_望月京子：源氏名"
+msgid "A bright future?"
+msgstr ""
+
+msgctxt "18756_望月京子：源氏名"
+msgid "Purity?"
+msgstr ""
+
+msgctxt "18768_望月京子：源氏名"
+msgid "Okay then..."
+msgstr ""
+
+msgctxt "18780_望月京子：源氏名"
+msgid "When we're alone."
+msgstr ""
+
+msgctxt "18792_望月京子：源氏名"
+msgid "You don't need to thank me."
+msgstr ""
+
+msgctxt "18804_望月京子：源氏名"
+msgid "Can I touch it?"
+msgstr ""
+
+msgctxt "18816_望月京子：源氏名"
+msgid "Keep up the good work."
+msgstr ""
+
+msgctxt "18828_望月京子：源氏名"
+msgid "I don't believe it."
+msgstr ""
+
+msgctxt "18840_望月京子：源氏名"
+msgid "A heartrending ballad."
+msgstr ""
+
+msgctxt "18852_望月京子：源氏名"
+msgid "Some upbeat hip-hop."
+msgstr ""
+
+msgctxt "18864_望月京子：源氏名"
+msgid "How about a traditional Japanese ballad?"
+msgstr ""
+
+msgctxt "18876_望月京子：源氏名"
+msgid "Be the best indie musician you can be."
+msgstr ""
+
+msgctxt "18888_望月京子：源氏名"
+msgid "I hope you make it big soon."
+msgstr ""
+
+msgctxt "18900_望月京子：源氏名"
+msgid "Didn't you promise to write me a song?"
+msgstr ""
+
+msgctxt "18912_望月京子：源氏名"
+msgid "Nothing"
+msgstr ""
+
+msgctxt "18924_望月京子：源氏名"
+msgid "777 Town"
+msgstr ""
+
+msgctxt "18936_望月京子：源氏名"
+msgid "Amoebatar"
+msgstr ""
+
+msgctxt "18948_望月京子：源氏名"
+msgid "The Ghost in the Underground Mall"
+msgstr ""
+
+msgctxt "18960_望月京子：源氏名"
+msgid "The Footbaths at Yunosono Hot Springs"
+msgstr ""
+
+msgctxt "18972_望月京子：源氏名"
+msgid "Popular Golf Dates Among Women"
+msgstr ""
+
+msgctxt "18984_望月京子：源氏名"
+msgid "Eating Liver to Reverse Brain Aging"
+msgstr ""
+
+msgctxt "18996_望月京子：源氏名"
+msgid "The Pole Dancing Workout"
+msgstr ""
+
+msgctxt "19008_望月京子：源氏名"
+msgid "Popular Sweet Sake Among Women"
+msgstr ""
+
+msgctxt "19020_望月京子：源氏名"
+msgid "I'll order you one."
+msgstr ""
+
+msgctxt "19032_望月京子：源氏名"
+msgid "I think you'll live."
+msgstr ""
+
+msgctxt "19044_望月京子：源氏名"
+msgid "Sure."
+msgstr ""
+
+msgctxt "19056_望月京子：源氏名"
+msgid "No."
+msgstr ""

@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1348"
+msgid "Man"
+msgstr ""
+
+msgctxt "1352"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1356"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid ""
+"Here I am calling you, and you're ignoring me. That kind of attitude really "
+"pisses me off!"
+msgstr ""
+
+msgctxt "128_Man"
+msgid "I guess you won't mind if I smack you around a little, then!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "Oof. Please stop beating me! I just got carried away there!"
+msgstr ""
+
+msgctxt "164_Man"
+msgid "I hope this'll smooth things over between us."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a ratty %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "I gotta start going after wimpier marks..."
+msgstr ""

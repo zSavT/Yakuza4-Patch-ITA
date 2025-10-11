@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "1028"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "13476"
+msgid "峰村七海：源氏名"
+msgstr ""
+
+msgctxt "13480"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13484"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13488"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "13492"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13496"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13500"
+msgid "0"
+msgstr ""
+
+msgctxt "13504"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "116_峰村七海：源氏名"
+msgid "Ooh, I've been craving karaoke all day!"
+msgstr ""
+
+msgctxt "128_Talk_Yes"
+msgid "Come on, let's go inside."
+msgstr ""
+
+msgctxt "140_Tanimura"
+msgid "All right."
+msgstr ""
+
+msgctxt "164_峰村七海：源氏名"
+msgid "Ooh, I've been craving karaoke all day!"
+msgstr ""
+
+msgctxt "176_Talk_Yes"
+msgid "Come on, let's go inside."
+msgstr ""
+
+msgctxt "188_Tanimura"
+msgid "Hold on... Seems I didn't bring enough money."
+msgstr ""
+
+msgctxt "200_峰村七海：源氏名"
+msgid "I'm sorry, I must have misheard you. What did you say?"
+msgstr ""
+
+msgctxt "212_Tanimura"
+msgid "Um... I mean... Sorry."
+msgstr ""
+
+msgctxt "224_峰村七海：源氏名"
+msgid ""
+"Wow! You can't manage your own finances? How do you even survive as an "
+"adult? I'm going home."
+msgstr ""
+
+msgctxt "236_Tanimura"
+msgid "(I should've checked my money earlier...)"
+msgstr ""
+
+msgctxt "344_峰村七海：源氏名"
+msgid "That felt so great! What did you think of my singing?"
+msgstr ""
+
+msgctxt "356_Tanimura"
+msgid "You were really good."
+msgstr ""
+
+msgctxt "368_峰村七海：源氏名"
+msgid "Haha, thank you! With an audience like you, it felt so easy."
+msgstr ""
+
+msgctxt "380_峰村七海：源氏名"
+msgid "Well, bye!"
+msgstr ""
+
+msgctxt "404_峰村七海：源氏名"
+msgid "Whew! That was fun. What did you think of my singing?"
+msgstr ""
+
+msgctxt "416_Tanimura"
+msgid "You were really good."
+msgstr ""
+
+msgctxt "428_峰村七海：源氏名"
+msgid ""
+"Thanks. I'm usually better than that, though...  I think I messed up a "
+"little today."
+msgstr ""
+
+msgctxt "440_峰村七海：源氏名"
+msgid "Well, take me out again sometime. See you later."
+msgstr ""
+
+msgctxt "464_峰村七海：源氏名"
+msgid "That's weird. I just couldn't get into it today..."
+msgstr ""
+
+msgctxt "476_Tanimura"
+msgid "Oh? I didn't notice."
+msgstr ""
+
+msgctxt "488_峰村七海：源氏名"
+msgid "I'd better get home. I'll see you at the club."
+msgstr ""
+
+msgctxt "596_峰村七海：源氏名"
+msgid "Ooh, I've been craving karaoke all day!"
+msgstr ""
+
+msgctxt "608_Talk_Yes"
+msgid "Come on, let's go inside."
+msgstr ""
+
+msgctxt "620_Tanimura"
+msgid "All right."
+msgstr ""
+
+msgctxt "644_峰村七海：源氏名"
+msgid "Ooh, I've been craving karaoke all day!"
+msgstr ""
+
+msgctxt "656_Talk_Yes"
+msgid "C'mon, let's go!"
+msgstr ""
+
+msgctxt "668_Tanimura"
+msgid "Hold on... Seems I didn't bring enough money."
+msgstr ""
+
+msgctxt "680_峰村七海：源氏名"
+msgid "I'm sorry, I must have misheard you. What did you say?"
+msgstr ""
+
+msgctxt "692_Tanimura"
+msgid "Um... I mean... Sorry."
+msgstr ""
+
+msgctxt "704_峰村七海：源氏名"
+msgid ""
+"Wow! You can't manage your own finances? How do you even survive as an "
+"adult? I'm going home."
+msgstr ""
+
+msgctxt "716_Tanimura"
+msgid "(I should've checked my money earlier...)"
+msgstr ""
+
+msgctxt "824_峰村七海：源氏名"
+msgid "Man, that felt great! How did you like my singing?"
+msgstr ""
+
+msgctxt "836_Tanimura"
+msgid "It was really good."
+msgstr ""
+
+msgctxt "848_峰村七海：源氏名"
+msgid "Haha, thanks! It was easy with you rocking out like that."
+msgstr ""
+
+msgctxt "860_峰村七海：源氏名"
+msgid "Should we head to the club now?"
+msgstr ""
+
+msgctxt "872_Tanimura"
+msgid "Sure."
+msgstr ""
+
+msgctxt "896_峰村七海：源氏名"
+msgid "Whew, that was fun. Well? How was my singing?"
+msgstr ""
+
+msgctxt "908_Tanimura"
+msgid "It was really good."
+msgstr ""
+
+msgctxt "920_峰村七海：源氏名"
+msgid "You think so? I can usually sing much better. Oh well."
+msgstr ""
+
+msgctxt "932_峰村七海：源氏名"
+msgid "Wanna go to the club next?"
+msgstr ""
+
+msgctxt "944_Tanimura"
+msgid "Sure."
+msgstr ""
+
+msgctxt "968_峰村七海：源氏名"
+msgid "That's funny. I just couldn't get into it today..."
+msgstr ""
+
+msgctxt "980_Tanimura"
+msgid "Oh? I didn't notice."
+msgstr ""
+
+msgctxt "992_峰村七海：源氏名"
+msgid "Should we head to the club now?"
+msgstr ""
+
+msgctxt "1004_Tanimura"
+msgid "Sure."
+msgstr ""

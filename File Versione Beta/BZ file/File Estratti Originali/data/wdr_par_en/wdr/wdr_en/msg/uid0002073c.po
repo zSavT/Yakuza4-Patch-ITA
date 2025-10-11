@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "8044"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "8048"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8052"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8056"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8060"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8064"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "8068"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8072"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "8076"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "8080"
+msgid "dummy"
+msgstr ""
+
+msgctxt "8084"
+msgid "0"
+msgstr ""
+
+msgctxt "124_Haruka"
+msgid "Hi, %s-san!"
+msgstr ""
+
+msgctxt "136_Haruka"
+msgid "Good evening, %s-san!"
+msgstr ""
+
+msgctxt "244_Haruka"
+msgid ""
+"How long has Sky Finance been here? We spend a lot of time in Serena, so "
+"maybe we've passed by you before, Akiyama-san!"
+msgstr ""
+
+msgctxt "256_Haruka"
+msgid ""
+"I hope it rains! I love how shiny all the lights in the city get when it "
+"rains!"
+msgstr ""
+
+msgctxt "268_Haruka"
+msgid ""
+"You must be good at adding and subtracting if you have all that money, "
+"Akiyama-san. Can you come to Morning Glory sometime and teach everyone how "
+"to do math?"
+msgstr ""
+
+msgctxt "280_Haruka"
+msgid ""
+"I usually come visit Serena once every year or so. I wonder if it'll be "
+"more fun when I'm all grown up and I can drink..."
+msgstr ""
+
+msgctxt "292_Haruka"
+msgid ""
+"Are you and Hana-san dating, Akiyama-san? You guys seem really close... and "
+"you argue like a married couple!"
+msgstr ""
+
+msgctxt "376_Haruka"
+msgid ""
+"I'm so glad you're doing well, Saejima-san! I was really worried about you "
+"being hurt and all."
+msgstr ""
+
+msgctxt "388_Haruka"
+msgid "Um... Are you from Osaka, Saejima-san?"
+msgstr ""
+
+msgctxt "400_Haruka"
+msgid ""
+"I'm really good at making takoyaki! They always end up super round. Maybe "
+"I'll make some for you sometime!"
+msgstr ""
+
+msgctxt "412_Haruka"
+msgid "You and my Uncle Kaz are really similar, Saejima-san."
+msgstr ""
+
+msgctxt "424_Haruka"
+msgid ""
+"Like... instead of cutting up carrots, you probably just toss them into the "
+"pot whole."
+msgstr ""
+
+msgctxt "436_Haruka"
+msgid ""
+"Do you know how to play shogi, Saejima-san? It's not really fun to play "
+"with Uncle Kaz... He always wins."
+msgstr ""
+
+msgctxt "448_Haruka"
+msgid ""
+"Have you ever thought about shaving your head, Saejima-san? I think you'd "
+"look really cool!"
+msgstr ""
+
+msgctxt "532_Haruka"
+msgid "Thanks for looking after Uncle Kaz, Tanimura-san."
+msgstr ""
+
+msgctxt "544_Haruka"
+msgid ""
+"You're a police officer, right, Tanimura-san? That makes me kinda nervous "
+"for some reason!"
+msgstr ""
+
+msgctxt "556_Haruka"
+msgid "I feel like you remind me of someone, Tanimura-san... but I don't know who!"
+msgstr ""
+
+msgctxt "568_Haruka"
+msgid ""
+"Uncle Kaz didn't finish all his vegetables at dinner the other day... Can "
+"you arrest him for crimes against veggie-kind? Hehe, just kidding!"
+msgstr ""
+
+msgctxt "580_Haruka"
+msgid ""
+"Are you good at card games, Tanimura-san? I've been learning a lot of "
+"different ones lately! Maybe we could play together sometime!"
+msgstr ""
+
+msgctxt "592_Haruka"
+msgid "Going somewhere, Uncle Kaz?"
+msgstr ""
+
+msgctxt "604_Kiryu"
+msgid "Looks like it, yeah."
+msgstr ""
+
+msgctxt "616_Haruka"
+msgid "I wanna go, too! Can I come with you?"
+msgstr ""
+
+msgctxt "628_Kiryu"
+msgid "Sorry, Haruka. Not this time."
+msgstr ""
+
+msgctxt "640_Haruka"
+msgid "Oh... Then promise you'll take me next time!"
+msgstr ""
+
+msgctxt "652_Kiryu"
+msgid "All right, sure."
+msgstr ""
+
+msgctxt "664_Haruka"
+msgid "Hooray! So where're we going?"
+msgstr ""
+
+msgctxt "712_Haruka"
+msgid "Sorry, not this time."
+msgstr ""
+
+msgctxt "724_Haruka"
+msgid "All right, sure."
+msgstr ""

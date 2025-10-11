@@ -1,0 +1,881 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "652"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "760"
+msgid "You gained 2,000 EXP."
+msgstr ""
+
+msgctxt "30096"
+msgid "Short Man"
+msgstr ""
+
+msgctxt "30100"
+msgid "Tall Man"
+msgstr ""
+
+msgctxt "30104"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "30108"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "30112"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "30116"
+msgid "M_yng_stand"
+msgstr ""
+
+msgctxt "30120"
+msgid "Idle"
+msgstr ""
+
+msgctxt "30124"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "30128"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "30132"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "30136"
+msgid "Businessman"
+msgstr ""
+
+msgctxt "30140"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "30144"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "30148"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "30152"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "30156"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "30160"
+msgid "dummy"
+msgstr ""
+
+msgctxt "30164"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "30168"
+msgid "Talk_Get"
+msgstr ""
+
+msgctxt "30172"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "30176"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "30180"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "30184"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "30188"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "30192"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "30196"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "30200"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "30204"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "30208"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "30212"
+msgid "Catch the Car Burglars!"
+msgstr ""
+
+msgctxt "148_Short Man"
+msgid "Man, this guy is strong!"
+msgstr ""
+
+msgctxt "160_Tall Man"
+msgid "Yeah, this cop's no joke. He's the real deal."
+msgstr ""
+
+msgctxt "172_Tanimura"
+msgid ""
+"Come on, guys. You know us cops don't have a lot of time\r\n"
+"on our hands."
+msgstr ""
+
+msgctxt "184_Tanimura"
+msgid "Please don't make more work for us."
+msgstr ""
+
+msgctxt "196_Short Man"
+msgid "Yeah, but officer, you'd be out of a job without criminals like us!"
+msgstr ""
+
+msgctxt "208_Short Man"
+msgid "You wouldn't want that to happen, right?"
+msgstr ""
+
+msgctxt "220_Tall Man"
+msgid ""
+"Yo, wait a minute! If everybody became a good citizen, just think what a "
+"great place Kamurocho would be for everybody!"
+msgstr ""
+
+msgctxt "232_Short Man"
+msgid "Hey, you got a point..."
+msgstr ""
+
+msgctxt "244_Tall Man"
+msgid "Yeah! We should start a movement!"
+msgstr ""
+
+msgctxt "256_Tall Man"
+msgid ""
+"We won't do anything bad anymore! And that'll set off a chain reaction. "
+"Soon, all of Kamurocho will change!"
+msgstr ""
+
+msgctxt "268_Short Man"
+msgid "Dude, that's a great idea!"
+msgstr ""
+
+msgctxt "280_Short Man"
+msgid "I'm glad I chose to team up with you! I made the right choice, for sure!"
+msgstr ""
+
+msgctxt "292_Tall Man"
+msgid "Thank you! I mean it, man! Let's start right away!"
+msgstr ""
+
+msgctxt "304_Tanimura"
+msgid "We're still going to the station. You know that, right?"
+msgstr ""
+
+msgctxt "316_Short Man"
+msgid "Right. Sorry."
+msgstr ""
+
+msgctxt "388_Tanimura"
+msgid "Man... What a royal pain in the..."
+msgstr ""
+
+msgctxt "400_Businessman"
+msgid "Excuse me."
+msgstr ""
+
+msgctxt "412_Tanimura"
+msgid "Yes?"
+msgstr ""
+
+msgctxt "424_Businessman"
+msgid ""
+"This car... It's mine. Is there something I can\r\n"
+"help you with?"
+msgstr ""
+
+msgctxt "436_Tanimura"
+msgid ""
+"Oh, this is yours? I apologize. I'm from the KPD.\r\n"
+"I just caught a couple of men trying to break into\r\n"
+"your car."
+msgstr ""
+
+msgctxt "448_Businessman"
+msgid "They were what!? Is my car all right!?"
+msgstr ""
+
+msgctxt "460_Businessman"
+msgid "Oh my god! What did they do to it!?"
+msgstr ""
+
+msgctxt "472_Tanimura"
+msgid ""
+"Well, there was a bit of a scuffle when I tried\r\n"
+"to apprehend them..."
+msgstr ""
+
+msgctxt "484_Businessman"
+msgid "A scuffle? Who's going to pay for this!?"
+msgstr ""
+
+msgctxt "496_Tanimura"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "508_Tanimura"
+msgid ""
+"I'll have somebody from the station explain.\r\n"
+"Would you mind giving them a call?"
+msgstr ""
+
+msgctxt "520_Tanimura"
+msgid "Take care, sir!"
+msgstr ""
+
+msgctxt "532_Businessman"
+msgid "Hey, wait a second!"
+msgstr ""
+
+msgctxt "592_Tanimura"
+msgid "(Whew... Guess I got out of that one.)"
+msgstr ""
+
+msgctxt "604_Tanimura"
+msgid "(I feel sorry for whoever has to deal with that at HQ!)"
+msgstr ""
+
+msgctxt "616_Businessman"
+msgid "Oh, it looks unscathed... What a relief!"
+msgstr ""
+
+msgctxt "628_Tanimura"
+msgid ""
+"There've been a lot of these break-ins lately.\r\n"
+"Take care, okay?"
+msgstr ""
+
+msgctxt "640_Businessman"
+msgid ""
+"Oh, thank you, officer! Please take this. It's not much,\r\n"
+"but I want to reward you for your effort!"
+msgstr ""
+
+msgctxt "676_Businessman"
+msgid "Thank you again!"
+msgstr ""
+
+msgctxt "772_Short Man"
+msgid "Shit! Somebody's coming!"
+msgstr ""
+
+msgctxt "784_Tall Man"
+msgid "There is!? Dammit!"
+msgstr ""
+
+msgctxt "796_Short Man"
+msgid "Let's beat it!"
+msgstr ""
+
+msgctxt "808_Tanimura"
+msgid "(Damn. Those guys are fast.)"
+msgstr ""
+
+msgctxt "820_Tanimura"
+msgid "(If I see them again, I need to make sure I don't get noticed.)"
+msgstr ""
+
+msgctxt "832_Short Man"
+msgid "Huh? It won't open."
+msgstr ""
+
+msgctxt "844_Tall Man"
+msgid "Whaddya mean? The other one opened without a hitch."
+msgstr ""
+
+msgctxt "856_Tanimura"
+msgid "Hey, what are you guys up to?"
+msgstr ""
+
+msgctxt "868_Short Man"
+msgid "Huh? Oh, we can't get this lock to open."
+msgstr ""
+
+msgctxt "880_Tall Man"
+msgid "Why won't it budge!? C'mon!"
+msgstr ""
+
+msgctxt "892_Tanimura"
+msgid "Oh, a remote control key, huh?"
+msgstr ""
+
+msgctxt "904_Tanimura"
+msgid "Is that the key to that car?"
+msgstr ""
+
+msgctxt "916_Short Man"
+msgid ""
+"Well, not to this specific car, no, but it should work on all cars with "
+"keys like this."
+msgstr ""
+
+msgctxt "928_Tall Man"
+msgid "It just worked on another car."
+msgstr ""
+
+msgctxt "940_Tanimura"
+msgid "Wow, that sounds pretty convenient. Let me have a look at it."
+msgstr ""
+
+msgctxt "952_Short Man"
+msgid "Okay, but you can't have it."
+msgstr ""
+
+msgctxt "964_Tall Man"
+msgid "That's right. That key is a vital part of our business."
+msgstr ""
+
+msgctxt "976_Tanimura"
+msgid "Wow, I've never seen one of these before. Where'd you get it?"
+msgstr ""
+
+msgctxt "988_Short Man"
+msgid "Oh, they sell 'em on the Internet."
+msgstr ""
+
+msgctxt "1000_Tall Man"
+msgid "Yeah, you can get anything online nowadays."
+msgstr ""
+
+msgctxt "1012_Tanimura"
+msgid "Oh yeah? Tell me the name of the site, will you?"
+msgstr ""
+
+msgctxt "1024_Short Man"
+msgid ""
+"Psh, don't tell me you're one of those bozos who still picks\r\n"
+"locks by hand!"
+msgstr ""
+
+msgctxt "1036_Tall Man"
+msgid ""
+"You're way behind the times, man. This is the digital era,\r\n"
+"baby! All you gotta do is point, click, and <Italic>zap</Italic>－the shit "
+"pops right open!"
+msgstr ""
+
+msgctxt "1048_Tanimura"
+msgid "Yeah. By the way..."
+msgstr ""
+
+msgctxt "1060_Tanimura"
+msgid "I'm actually a cop."
+msgstr ""
+
+msgctxt "1072_Short Man"
+msgid "......"
+msgstr ""
+
+msgctxt "1084_Tall Man"
+msgid "......"
+msgstr ""
+
+msgctxt "1096_Tanimura"
+msgid "So what are you using this for again?"
+msgstr ""
+
+msgctxt "1108_Short Man"
+msgid "An... experiment?"
+msgstr ""
+
+msgctxt "1120_Tall Man"
+msgid ""
+"Yeah, that's right. Just to see if... you know...\r\n"
+"it would actually open... or not..."
+msgstr ""
+
+msgctxt "1132_Tanimura"
+msgid "Oh, yeah? Sounds like an interesting experiment."
+msgstr ""
+
+msgctxt "1144_Short Man"
+msgid "......"
+msgstr ""
+
+msgctxt "1156_Tall Man"
+msgid "......"
+msgstr ""
+
+msgctxt "1168_Short Man"
+msgid "(Hey, what do we do now!?)"
+msgstr ""
+
+msgctxt "1180_Tall Man"
+msgid "(We have to use our heads! We can think through this!)"
+msgstr ""
+
+msgctxt "1192_Tall Man"
+msgid "Excuse me, sir..."
+msgstr ""
+
+msgctxt "1204_Tanimura"
+msgid "Yeah?"
+msgstr ""
+
+msgctxt "1216_Tall Man"
+msgid "Here, we just got this wallet a minute ago."
+msgstr ""
+
+msgctxt "1228_Tall Man"
+msgid "I'll give you half of what's inside if you'll look the other way this time."
+msgstr ""
+
+msgctxt "1240_Short Man"
+msgid "Idiot! We already had him fooled with the line about it being an experiment!"
+msgstr ""
+
+msgctxt "1252_Tanimura"
+msgid "Actually, I didn't fall for that at all."
+msgstr ""
+
+msgctxt "1264_Short Man"
+msgid "You didn't?"
+msgstr ""
+
+msgctxt "1276_Tall Man"
+msgid "See! He's onto us, you shithead!"
+msgstr ""
+
+msgctxt "1288_Short Man"
+msgid "Hey, don't you get pissy with me!"
+msgstr ""
+
+msgctxt "1300_Tanimura"
+msgid ""
+"Well, I guess I could give it some thought,\r\n"
+"if you really are willing to give me half."
+msgstr ""
+
+msgctxt "1312_Tanimura"
+msgid ""
+"See, if I arrested you two clowns, I'd have to fill out a bunch of annoying "
+"paperwork... which is honestly a real drag."
+msgstr ""
+
+msgctxt "1324_Tall Man"
+msgid "Whoa! This cop is really understanding!"
+msgstr ""
+
+msgctxt "1336_Short Man"
+msgid "I'll say! I guess some cops really <Italic>are</Italic> good!"
+msgstr ""
+
+msgctxt "1348_Tall Man"
+msgid "Right, then let's divvy up what's inside this wallet."
+msgstr ""
+
+msgctxt "1360_Short Man"
+msgid "...Hey, what's the matter?"
+msgstr ""
+
+msgctxt "1372_Tall Man"
+msgid "......"
+msgstr ""
+
+msgctxt "1384_Short Man"
+msgid "Well, what is it!?"
+msgstr ""
+
+msgctxt "1396_Tall Man"
+msgid "(We just had some burgers, right?)"
+msgstr ""
+
+msgctxt "1408_Short Man"
+msgid "(Yeah, those sure were good.)"
+msgstr ""
+
+msgctxt "1420_Tall Man"
+msgid "(Yeah. They were. They were really good.)"
+msgstr ""
+
+msgctxt "1432_Short Man"
+msgid "(So what does that have to do with anything?)"
+msgstr ""
+
+msgctxt "1444_Tall Man"
+msgid "(We blew almost everything in the wallet on those burgers.)"
+msgstr ""
+
+msgctxt "1456_Short Man"
+msgid "(What!? How much is left!?)"
+msgstr ""
+
+msgctxt "1468_Tall Man"
+msgid "(Let's see... 420 yen.)"
+msgstr ""
+
+msgctxt "1480_Short Man"
+msgid ""
+"(So half of that is... 210 yen. I wonder if he'll let this slide for 210 "
+"yen?)"
+msgstr ""
+
+msgctxt "1492_Tall Man"
+msgid "(Not a chance, man. I wouldn't, if I was him.)"
+msgstr ""
+
+msgctxt "1504_Short Man"
+msgid "(This is where we should show our goodwill and give him the whole 420 yen.)"
+msgstr ""
+
+msgctxt "1516_Tall Man"
+msgid "(You're right! I'm sure he'll understand.)"
+msgstr ""
+
+msgctxt "1528_Tall Man"
+msgid "Sorry about the wait! Here you are."
+msgstr ""
+
+msgctxt "1540_Tanimura"
+msgid "I don't need that. I heard everything you guys were saying."
+msgstr ""
+
+msgctxt "1552_Tall Man"
+msgid "...You did?"
+msgstr ""
+
+msgctxt "1564_Tanimura"
+msgid ""
+"I'm not interested in spare change. This is a major pain, but follow me to "
+"the station."
+msgstr ""
+
+msgctxt "1576_Short Man"
+msgid "......"
+msgstr ""
+
+msgctxt "1588_Tall Man"
+msgid "......"
+msgstr ""
+
+msgctxt "1600_Short Man"
+msgid "We ain't going nowhere! We don't give up that easily!"
+msgstr ""
+
+msgctxt "1612_Tall Man"
+msgid "Raaaaagh!"
+msgstr ""
+
+msgctxt "1624_Tanimura"
+msgid "Maybe it needs a new battery."
+msgstr ""
+
+msgctxt "1636_Tall Man"
+msgid "Battery? You might be right."
+msgstr ""
+
+msgctxt "1648_Short Man"
+msgid "Hey, go to the store and get a new battery."
+msgstr ""
+
+msgctxt "1660_Tall Man"
+msgid "Gotcha. But you have to pay for half, okay?"
+msgstr ""
+
+msgctxt "1720_Tall Man"
+msgid "I got it!"
+msgstr ""
+
+msgctxt "1732_Short Man"
+msgid "Awright, let's try it again."
+msgstr ""
+
+msgctxt "1744_Tall Man"
+msgid "C'mon, c'mon!"
+msgstr ""
+
+msgctxt "1756_Tall Man"
+msgid "It worked! You're a genius, man!"
+msgstr ""
+
+msgctxt "1768_Short Man"
+msgid "You really helped us out, pal. We appreciate it."
+msgstr ""
+
+msgctxt "1780_Tanimura"
+msgid "Great."
+msgstr ""
+
+msgctxt "1792_Tall Man"
+msgid "By the way, what's your name?"
+msgstr ""
+
+msgctxt "1804_Tanimura"
+msgid "Tanimura－of the Kamurocho Police."
+msgstr ""
+
+msgctxt "1816_Short Man"
+msgid ""
+"Oh, cool, you work for the police! That's－\r\n"
+"Wait a minute... Wouldn't that mean...?"
+msgstr ""
+
+msgctxt "1828_Tall Man"
+msgid "You're a cop!?"
+msgstr ""
+
+msgctxt "1840_Tanimura"
+msgid "You bet I am."
+msgstr ""
+
+msgctxt "1852_Short Man"
+msgid "Heheh... You almost had me for a minute, man! Nice one!"
+msgstr ""
+
+msgctxt "1864_Tanimura"
+msgid "Do you wanna see my badge?"
+msgstr ""
+
+msgctxt "1876_Short Man"
+msgid "Heheh... No... No thank you."
+msgstr ""
+
+msgctxt "1888_Tanimura"
+msgid ""
+"So? You unlocked the door. Is that all you were\r\n"
+"planning on doing?"
+msgstr ""
+
+msgctxt "1900_Short Man"
+msgid "Well... uh..."
+msgstr ""
+
+msgctxt "1912_Tall Man"
+msgid "(What the hell are we supposed to do now!? A cop is on to us!)"
+msgstr ""
+
+msgctxt "1924_Short Man"
+msgid "(Aww, man, this is awful! He's gonna bust us for sure!)"
+msgstr ""
+
+msgctxt "1936_Tall Man"
+msgid "(Okay, lemme try something.)"
+msgstr ""
+
+msgctxt "1948_Tall Man"
+msgid "Officer!"
+msgstr ""
+
+msgctxt "1960_Tanimura"
+msgid "Yeah?"
+msgstr ""
+
+msgctxt "1972_Tall Man"
+msgid ""
+"It's true. We were trying to steal the wallet\r\n"
+"from this car. You caught us fair and square!"
+msgstr ""
+
+msgctxt "1984_Short Man"
+msgid "Hey..."
+msgstr ""
+
+msgctxt "1996_Tall Man"
+msgid "Truth is, we already stole another wallet earlier today."
+msgstr ""
+
+msgctxt "2008_Tanimura"
+msgid "Oh yeah?"
+msgstr ""
+
+msgctxt "2020_Tall Man"
+msgid ""
+"Yesterday too! And the day before that! We're\r\n"
+"the thieves everybody's been talking about all\r\n"
+"over town!"
+msgstr ""
+
+msgctxt "2032_Short Man"
+msgid "Yeah! That's us!"
+msgstr ""
+
+msgctxt "2044_Tall Man"
+msgid "There. We were honest! We told you everything!"
+msgstr ""
+
+msgctxt "2056_Tanimura"
+msgid "Yes, you sure did."
+msgstr ""
+
+msgctxt "2068_Tall Man"
+msgid ""
+"Doesn't that mean anything to you? Your heart isn't\r\n"
+"moved at all!?"
+msgstr ""
+
+msgctxt "2080_Tanimura"
+msgid "...You did?"
+msgstr ""
+
+msgctxt "2092_Tall Man"
+msgid "......"
+msgstr ""
+
+msgctxt "2104_Tall Man"
+msgid "(I tried to get him to take pity on us, but it didn't work!)"
+msgstr ""
+
+msgctxt "2116_Short Man"
+msgid "(No, wait! Lemme try!)"
+msgstr ""
+
+msgctxt "2128_Short Man"
+msgid "Please listen, officer!"
+msgstr ""
+
+msgctxt "2140_Tanimura"
+msgid "I've done enough listening. It's time for－"
+msgstr ""
+
+msgctxt "2152_Short Man"
+msgid "You just gotta hear me out! I'm beggin' ya!"
+msgstr ""
+
+msgctxt "2164_Tanimura"
+msgid "Uh... Okay then..."
+msgstr ""
+
+msgctxt "2176_Short Man"
+msgid "We had no choice!"
+msgstr ""
+
+msgctxt "2188_Short Man"
+msgid "No choice, I tell ya!"
+msgstr ""
+
+msgctxt "2200_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "2212_Tall Man"
+msgid ""
+"He's right! This was the only thing we could do\r\n"
+"with our lives!"
+msgstr ""
+
+msgctxt "2224_Tanimura"
+msgid "Really now..."
+msgstr ""
+
+msgctxt "2236_Tall Man"
+msgid "Uh..."
+msgstr ""
+
+msgctxt "2248_Tall Man"
+msgid "(What do you mean, \"We had no choice\"!?)"
+msgstr ""
+
+msgctxt "2260_Short Man"
+msgid "(...I don't know, man. It just popped out.)"
+msgstr ""
+
+msgctxt "2272_Tall Man"
+msgid "(What!?)"
+msgstr ""
+
+msgctxt "2284_Tanimura"
+msgid "Enough already. Just follow me to the station."
+msgstr ""
+
+msgctxt "2296_Short Man"
+msgid "(Shit! We're gonna get arrested!)"
+msgstr ""
+
+msgctxt "2308_Tall Man"
+msgid "(I guess there's no avoiding it now.)"
+msgstr ""
+
+msgctxt "2320_Short Man"
+msgid "We ain't going nowhere! We don't give up that easily!"
+msgstr ""
+
+msgctxt "2332_Tall Man"
+msgid "What!? Are you serious－ Ah, fuck it, let's just get him! Raaaaagh!"
+msgstr ""
+
+msgctxt "2356_Short Man"
+msgid ""
+"Hey, look at that sick-ass GPS system. That's one of the\r\n"
+"latest models, isn't it?"
+msgstr ""
+
+msgctxt "2368_Tall Man"
+msgid ""
+"Yeah, I saw it on the TV shopping channel.\r\n"
+"I've always wanted one of these!"
+msgstr ""
+
+msgctxt "2380_Short Man"
+msgid ""
+"But you don't even have a car! Well, whatever...\r\n"
+"Let's just hurry up and nab it."
+msgstr ""
+
+msgctxt "2392_Tanimura"
+msgid "(Aren't they the two thieves that gave me the slip before?)"
+msgstr ""
+
+msgctxt "2404_Tanimura"
+msgid ""
+"(I'd rather not deal with this crap, but I'll get my head chewed off later "
+"if I leave the scene of a crime in progress.)"
+msgstr ""
+
+msgctxt "2416_Tanimura"
+msgid ""
+"(If I charge in and they run, it'll be too much of a hassle. I should "
+"approach quietly so they don't notice me.)"
+msgstr ""
+
+msgctxt "2428_Catch the Car Burglars!"
+msgid ""
+"Don't miss your chance to arrest the thieves. But be careful－they'll notice "
+"you if you don't approach quietly."
+msgstr ""
+
+msgctxt "2452_Short Man"
+msgid "Is that the key to that car?"
+msgstr ""
+
+msgctxt "2464_Short Man"
+msgid "Maybe it needs a new battery."
+msgstr ""

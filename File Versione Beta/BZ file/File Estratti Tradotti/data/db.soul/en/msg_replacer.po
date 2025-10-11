@@ -1,0 +1,9709 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "0\t488\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "0\t489\t1\tCHK"
+msgid "NULL"
+msgstr ""
+
+msgctxt "0\t494\t2\tCHK"
+msgid "Maya Mori"
+msgstr ""
+
+msgctxt "0\t504\t3\tCHK"
+msgid "Rio"
+msgstr ""
+
+msgctxt "0\t508\t4\tCHK"
+msgid "Himeka Kawasaki"
+msgstr ""
+
+msgctxt "0\t524\t5\tCHK"
+msgid "Shizuka Saito"
+msgstr ""
+
+msgctxt "0\t538\t6\tCHK"
+msgid "Noa Mizutani"
+msgstr ""
+
+msgctxt "0\t551\t7\tCHK"
+msgid "Chihiro Ikki"
+msgstr ""
+
+msgctxt "0\t564\t8\tCHK"
+msgid "Erena Aihara"
+msgstr ""
+
+msgctxt "0\t577\t9\tCHK"
+msgid "Kyoko Mochizuki"
+msgstr ""
+
+msgctxt "0\t593\t10\tCHK"
+msgid "Hiyori Matsuoka"
+msgstr ""
+
+msgctxt "0\t609\t11\tCHK"
+msgid "Nanami Minemura"
+msgstr ""
+
+msgctxt "0\t625\t12\tCHK"
+msgid "Shogo Shiraishi"
+msgstr ""
+
+msgctxt "0\t641\t13\tCHK"
+msgid "Seiji Nakazato"
+msgstr ""
+
+msgctxt "0\t656\t14\tCHK"
+msgid "Kiko Hirakawa"
+msgstr ""
+
+msgctxt "0\t670\t15\tCHK"
+msgid "Shunichi Arahama"
+msgstr ""
+
+msgctxt "0\t687\t16\tCHK"
+msgid "Makoto Kanae"
+msgstr ""
+
+msgctxt "0\t700\t17\tCHK"
+msgid "NPC5"
+msgstr ""
+
+msgctxt "0\t705\t18\tCHK"
+msgid "NPC6"
+msgstr ""
+
+msgctxt "0\t710\t19\tCHK"
+msgid "NPC7"
+msgstr ""
+
+msgctxt "0\t715\t20\tCHK"
+msgid "NPC8"
+msgstr ""
+
+msgctxt "0\t720\t21\tCHK"
+msgid "Professional Player"
+msgstr ""
+
+msgctxt "1\t1912\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "1\t1913\t1\tCHK"
+msgid "Laura Rich"
+msgstr ""
+
+msgctxt "1\t1924\t2\tCHK"
+msgid "Tsk..."
+msgstr ""
+
+msgctxt "1\t1931\t3\tCHK"
+msgid "This will be hard..."
+msgstr ""
+
+msgctxt "1\t1952\t4\tCHK"
+msgid "Oh! A good hand!"
+msgstr ""
+
+msgctxt "1\t1969\t5\tCHK"
+msgid "I'm afraid you'll lose!"
+msgstr ""
+
+msgctxt "1\t1993\t6\tCHK"
+msgid "Shall we have a go?"
+msgstr ""
+
+msgctxt "1\t2013\t7\tCHK"
+msgid "You're skilled at poker..."
+msgstr ""
+
+msgctxt "1\t2040\t8\tCHK"
+msgid "Heh... You have no chips."
+msgstr ""
+
+msgctxt "1\t2066\t9\tCHK"
+msgid "Let's do this again."
+msgstr ""
+
+msgctxt "2\t2712\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "2\t2713\t1\tCHK"
+msgid "Polar Sink"
+msgstr ""
+
+msgctxt "2\t2724\t2\tCHK"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "2\t2730\t3\tCHK"
+msgid "Not bad."
+msgstr ""
+
+msgctxt "2\t2739\t4\tCHK"
+msgid "Looking good!"
+msgstr ""
+
+msgctxt "2\t2753\t5\tCHK"
+msgid "I got this!"
+msgstr ""
+
+msgctxt "3\t3416\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "3\t3417\t1\tCHK"
+msgid "Miracle Hamanaka"
+msgstr ""
+
+msgctxt "3\t3434\t2\tCHK"
+msgid "Not good..."
+msgstr ""
+
+msgctxt "3\t3446\t3\tCHK"
+msgid "Ain't over yet."
+msgstr ""
+
+msgctxt "3\t3462\t4\tCHK"
+msgid "My luck's turnin'!"
+msgstr ""
+
+msgctxt "3\t3481\t5\tCHK"
+msgid "Sweet victory, here I come!"
+msgstr ""
+
+msgctxt "3\t3509\t6\tCHK"
+msgid "I'll play ya!"
+msgstr ""
+
+msgctxt "3\t3523\t7\tCHK"
+msgid "See ya around!"
+msgstr ""
+
+msgctxt "3\t3538\t8\tCHK"
+msgid "Ya ain't got chips!?"
+msgstr ""
+
+msgctxt "3\t3559\t9\tCHK"
+msgid "That ain't right..."
+msgstr ""
+
+msgctxt "4\t4328\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "4\t4329\t1\tCHK"
+msgid "Janet Ross"
+msgstr ""
+
+msgctxt "4\t4340\t2\tCHK"
+msgid "That's odd..."
+msgstr ""
+
+msgctxt "4\t4354\t3\tCHK"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "4\t4361\t4\tCHK"
+msgid "This might work!"
+msgstr ""
+
+msgctxt "4\t4378\t5\tCHK"
+msgid "I'm gonna win!"
+msgstr ""
+
+msgctxt "4\t4393\t6\tCHK"
+msgid "Let's have fun!"
+msgstr ""
+
+msgctxt "4\t4409\t7\tCHK"
+msgid "See ya!"
+msgstr ""
+
+msgctxt "4\t4417\t8\tCHK"
+msgid "Outta chips?"
+msgstr ""
+
+msgctxt "4\t4430\t9\tCHK"
+msgid "Bye-bye!"
+msgstr ""
+
+msgctxt "5\t5192\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "5\t5193\t1\tCHK"
+msgid "Zhu Zhijun"
+msgstr ""
+
+msgctxt "5\t5204\t2\tCHK"
+msgid "No good..."
+msgstr ""
+
+msgctxt "5\t5215\t3\tCHK"
+msgid "This not over yet!"
+msgstr ""
+
+msgctxt "5\t5234\t4\tCHK"
+msgid "This work maybe!"
+msgstr ""
+
+msgctxt "5\t5251\t5\tCHK"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "5\t5257\t6\tCHK"
+msgid "I face you!"
+msgstr ""
+
+msgctxt "5\t5269\t7\tCHK"
+msgid "I cleaned out..."
+msgstr ""
+
+msgctxt "5\t5286\t8\tCHK"
+msgid "Be back with chips!"
+msgstr ""
+
+msgctxt "5\t5306\t9\tCHK"
+msgid "Come again!"
+msgstr ""
+
+msgctxt "6\t6136\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "6\t6137\t1\tCHK"
+msgid "Diana Morris"
+msgstr ""
+
+msgctxt "6\t6150\t2\tCHK"
+msgid "Not looking good..."
+msgstr ""
+
+msgctxt "6\t6170\t3\tCHK"
+msgid "Hmm... What to do?"
+msgstr ""
+
+msgctxt "6\t6189\t4\tCHK"
+msgid "This might work!"
+msgstr ""
+
+msgctxt "6\t6206\t5\tCHK"
+msgid "I'm gonna beat ya!"
+msgstr ""
+
+msgctxt "6\t6225\t6\tCHK"
+msgid "There's no way I'll lose!"
+msgstr ""
+
+msgctxt "6\t6251\t7\tCHK"
+msgid "Bad luck today..."
+msgstr ""
+
+msgctxt "6\t6269\t8\tCHK"
+msgid "You need chips!"
+msgstr ""
+
+msgctxt "6\t6285\t9\tCHK"
+msgid "I'll be waiting for ya."
+msgstr ""
+
+msgctxt "7\t7160\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "7\t7161\t1\tCHK"
+msgid "Reiko Nikaido"
+msgstr ""
+
+msgctxt "7\t7175\t2\tCHK"
+msgid "Oh no!"
+msgstr ""
+
+msgctxt "7\t7182\t3\tCHK"
+msgid "I still have much to learn..."
+msgstr ""
+
+msgctxt "7\t7212\t4\tCHK"
+msgid "This is going great!"
+msgstr ""
+
+msgctxt "7\t7233\t5\tCHK"
+msgid "Oh ho ho! I won!"
+msgstr ""
+
+msgctxt "7\t7250\t6\tCHK"
+msgid "Hurry and deal!"
+msgstr ""
+
+msgctxt "7\t7266\t7\tCHK"
+msgid "Me? Lose? How?"
+msgstr ""
+
+msgctxt "7\t7281\t8\tCHK"
+msgid "Oh? No chips?"
+msgstr ""
+
+msgctxt "7\t7295\t9\tCHK"
+msgid "Come by again."
+msgstr ""
+
+msgctxt "8\t8088\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "8\t8089\t1\tCHK"
+msgid "Michael King"
+msgstr ""
+
+msgctxt "8\t8102\t2\tCHK"
+msgid "No..."
+msgstr ""
+
+msgctxt "8\t8108\t3\tCHK"
+msgid "Just a bit more."
+msgstr ""
+
+msgctxt "8\t8125\t4\tCHK"
+msgid "I have victory in my sights!"
+msgstr ""
+
+msgctxt "8\t8154\t5\tCHK"
+msgid "Sweet victory is mine!"
+msgstr ""
+
+msgctxt "8\t8177\t6\tCHK"
+msgid "Let's have a good game."
+msgstr ""
+
+msgctxt "8\t8201\t7\tCHK"
+msgid "Think I'm done for the day."
+msgstr ""
+
+msgctxt "8\t8229\t8\tCHK"
+msgid "Want some of my chips?"
+msgstr ""
+
+msgctxt "8\t8252\t9\tCHK"
+msgid "See you around."
+msgstr ""
+
+msgctxt "9\t9080\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "9\t9081\t1\tCHK"
+msgid "Maxim Suematsu"
+msgstr ""
+
+msgctxt "9\t9096\t2\tCHK"
+msgid "I'm toast..."
+msgstr ""
+
+msgctxt "9\t9109\t3\tCHK"
+msgid "A single pair."
+msgstr ""
+
+msgctxt "9\t9124\t4\tCHK"
+msgid "A full house!"
+msgstr ""
+
+msgctxt "9\t9138\t5\tCHK"
+msgid "The Great Maxim never folds!"
+msgstr ""
+
+msgctxt "9\t9167\t6\tCHK"
+msgid "I came for a challenge!"
+msgstr ""
+
+msgctxt "9\t9191\t7\tCHK"
+msgid "It's time for a vacation..."
+msgstr ""
+
+msgctxt "9\t9219\t8\tCHK"
+msgid "What? No chips!?"
+msgstr ""
+
+msgctxt "9\t9236\t9\tCHK"
+msgid "Come back when you're ready!"
+msgstr ""
+
+msgctxt "10\t10072\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "10\t10073\t1\tCHK"
+msgid "Emma Turner"
+msgstr ""
+
+msgctxt "10\t10085\t2\tCHK"
+msgid "No go..."
+msgstr ""
+
+msgctxt "10\t10094\t3\tCHK"
+msgid "Not quite there yet."
+msgstr ""
+
+msgctxt "10\t10115\t4\tCHK"
+msgid "This is a good hand!"
+msgstr ""
+
+msgctxt "10\t10136\t5\tCHK"
+msgid "I'm definitely going to win!"
+msgstr ""
+
+msgctxt "10\t10165\t6\tCHK"
+msgid "It's a pleasure."
+msgstr ""
+
+msgctxt "10\t10182\t7\tCHK"
+msgid "Oh... That's too bad."
+msgstr ""
+
+msgctxt "10\t10204\t8\tCHK"
+msgid "Oh, you need more chips."
+msgstr ""
+
+msgctxt "10\t10229\t9\tCHK"
+msgid "You can't win them all."
+msgstr ""
+
+msgctxt "11\t11048\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "11\t11049\t1\tCHK"
+msgid "Wang Li-Hui"
+msgstr ""
+
+msgctxt "11\t11061\t2\tCHK"
+msgid "Wha..."
+msgstr ""
+
+msgctxt "11\t11068\t3\tCHK"
+msgid "Not there yet!"
+msgstr ""
+
+msgctxt "11\t11083\t4\tCHK"
+msgid "This is promising!"
+msgstr ""
+
+msgctxt "11\t11102\t5\tCHK"
+msgid "You're through!"
+msgstr ""
+
+msgctxt "11\t11118\t6\tCHK"
+msgid "I'm Li-Hui! Let's have fun!"
+msgstr ""
+
+msgctxt "11\t11146\t7\tCHK"
+msgid "Ooh... I lost..."
+msgstr ""
+
+msgctxt "11\t11163\t8\tCHK"
+msgid "You're outta chips!"
+msgstr ""
+
+msgctxt "11\t11183\t9\tCHK"
+msgid "Let's play again sometime!"
+msgstr ""
+
+msgctxt "12\t11992\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "12\t11993\t1\tCHK"
+msgid "Jack Ward"
+msgstr ""
+
+msgctxt "12\t12003\t2\tCHK"
+msgid "Damn..."
+msgstr ""
+
+msgctxt "12\t12011\t3\tCHK"
+msgid "Not done yet!"
+msgstr ""
+
+msgctxt "12\t12025\t4\tCHK"
+msgid "The tide's turnin'!"
+msgstr ""
+
+msgctxt "12\t12045\t5\tCHK"
+msgid "See ya!"
+msgstr ""
+
+msgctxt "12\t12053\t6\tCHK"
+msgid "All right! Let's do this!"
+msgstr ""
+
+msgctxt "12\t12079\t7\tCHK"
+msgid "I lost!?"
+msgstr ""
+
+msgctxt "12\t12088\t8\tCHK"
+msgid "You need more chips!"
+msgstr ""
+
+msgctxt "12\t12109\t9\tCHK"
+msgid "We're not done here!"
+msgstr ""
+
+msgctxt "13\t12872\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "13\t12873\t1\tCHK"
+msgid "Zidane MK2"
+msgstr ""
+
+msgctxt "13\t12884\t2\tCHK"
+msgid "No guts, no glory!"
+msgstr ""
+
+msgctxt "13\t12903\t3\tCHK"
+msgid "F..."
+msgstr ""
+
+msgctxt "13\t12908\t4\tCHK"
+msgid "F... F..."
+msgstr ""
+
+msgctxt "13\t12918\t5\tCHK"
+msgid "French Revolution!"
+msgstr ""
+
+msgctxt "13\t12937\t6\tCHK"
+msgid "I'll play you."
+msgstr ""
+
+msgctxt "13\t12952\t7\tCHK"
+msgid "Peasant!"
+msgstr ""
+
+msgctxt "13\t12961\t8\tCHK"
+msgid "You got no chips!"
+msgstr ""
+
+msgctxt "13\t12979\t9\tCHK"
+msgid "Chickening out?"
+msgstr ""
+
+msgctxt "14\t13832\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "14\t13833\t1\tCHK"
+msgid "Matsuya"
+msgstr ""
+
+msgctxt "14\t13841\t2\tCHK"
+msgid "Café Alps"
+msgstr ""
+
+msgctxt "14\t13852\t3\tCHK"
+msgid "Smile Burger"
+msgstr ""
+
+msgctxt "14\t13865\t4\tCHK"
+msgid "Pronto Café"
+msgstr ""
+
+msgctxt "14\t13878\t5\tCHK"
+msgid "Pronto Bar"
+msgstr ""
+
+msgctxt "14\t13889\t6\tCHK"
+msgid "Gelateria Kamuro"
+msgstr ""
+
+msgctxt "14\t13906\t7\tCHK"
+msgid "Kyushu No. 1 Star"
+msgstr ""
+
+msgctxt "14\t13924\t8\tCHK"
+msgid "Kanrai"
+msgstr ""
+
+msgctxt "14\t13931\t9\tCHK"
+msgid "Sushi Gin"
+msgstr ""
+
+msgctxt "14\t13941\t10\tCHK"
+msgid "Watami"
+msgstr ""
+
+msgctxt "14\t13948\t11\tCHK"
+msgid "Watami Drink"
+msgstr ""
+
+msgctxt "14\t13961\t12\tCHK"
+msgid "Food Distributor"
+msgstr ""
+
+msgctxt "14\t13978\t13\tCHK"
+msgid "Bantam"
+msgstr ""
+
+msgctxt "14\t13985\t14\tCHK"
+msgid "Earth Angel"
+msgstr ""
+
+msgctxt "14\t13997\t15\tCHK"
+msgid "Shellac"
+msgstr ""
+
+msgctxt "14\t14005\t16\tCHK"
+msgid "Cuez Bar"
+msgstr ""
+
+msgctxt "15\t20296\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "15\t20297\t1\tCHK"
+msgid "Off the Shoulder"
+msgstr ""
+
+msgctxt "15\t20314\t2\tCHK"
+msgid "Charming Bare Top"
+msgstr ""
+
+msgctxt "15\t20332\t3\tCHK"
+msgid "Belted Bare Top"
+msgstr ""
+
+msgctxt "15\t20348\t4\tCHK"
+msgid "Strapless Dress"
+msgstr ""
+
+msgctxt "15\t20364\t5\tCHK"
+msgid "Halterneck"
+msgstr ""
+
+msgctxt "15\t20375\t6\tCHK"
+msgid "Long Halter Top"
+msgstr ""
+
+msgctxt "15\t20391\t7\tCHK"
+msgid "Layered Dress"
+msgstr ""
+
+msgctxt "15\t20405\t8\tCHK"
+msgid "Sexy Dress"
+msgstr ""
+
+msgctxt "15\t20416\t9\tCHK"
+msgid "Mermaid Dress"
+msgstr ""
+
+msgctxt "15\t20430\t10\tCHK"
+msgid "Two-piece Dress"
+msgstr ""
+
+msgctxt "15\t20446\t11\tCHK"
+msgid "Short Halter Top"
+msgstr ""
+
+msgctxt "15\t20463\t12\tCHK"
+msgid "Long Two-piece Dress"
+msgstr ""
+
+msgctxt "15\t20484\t13\tCHK"
+msgid "Miniskirt Dress"
+msgstr ""
+
+msgctxt "15\t20500\t14\tCHK"
+msgid "Spaghetti Strap Dress"
+msgstr ""
+
+msgctxt "15\t20522\t15\tCHK"
+msgid "Balloon Dress"
+msgstr ""
+
+msgctxt "15\t20536\t16\tCHK"
+msgid "Lovely One-piece"
+msgstr ""
+
+msgctxt "15\t20553\t17\tCHK"
+msgid "Cami Dress"
+msgstr ""
+
+msgctxt "15\t20564\t18\tCHK"
+msgid "Cache-coeur"
+msgstr ""
+
+msgctxt "15\t20576\t19\tCHK"
+msgid "Ladies' Suit"
+msgstr ""
+
+msgctxt "15\t20589\t20\tCHK"
+msgid "Flashy Suit"
+msgstr ""
+
+msgctxt "15\t20601\t21\tCHK"
+msgid "Cheongsam"
+msgstr ""
+
+msgctxt "15\t20611\t22\tCHK"
+msgid "Maid Outfit"
+msgstr ""
+
+msgctxt "15\t20623\t23\tCHK"
+msgid "Schoolgirl Uniform"
+msgstr ""
+
+msgctxt "15\t20642\t24\tCHK"
+msgid "Standard"
+msgstr ""
+
+msgctxt "15\t20651\t25\tCHK"
+msgid "Curly Updo"
+msgstr ""
+
+msgctxt "15\t20662\t26\tCHK"
+msgid "Ponytail"
+msgstr ""
+
+msgctxt "15\t20671\t27\tCHK"
+msgid "Pigtails"
+msgstr ""
+
+msgctxt "15\t20680\t28\tCHK"
+msgid "Loose Dango Hair"
+msgstr ""
+
+msgctxt "15\t20697\t29\tCHK"
+msgid "Big Dango Hair"
+msgstr ""
+
+msgctxt "15\t20712\t30\tCHK"
+msgid "Short Hair"
+msgstr ""
+
+msgctxt "15\t20723\t31\tCHK"
+msgid "Straight and Long"
+msgstr ""
+
+msgctxt "15\t20741\t32\tCHK"
+msgid "Princess Curls"
+msgstr ""
+
+msgctxt "15\t20756\t33\tCHK"
+msgid "Straight Updo"
+msgstr ""
+
+msgctxt "15\t20770\t34\tCHK"
+msgid "Sisterly Updo"
+msgstr ""
+
+msgctxt "15\t20784\t35\tCHK"
+msgid "Voluminous Hairdo"
+msgstr ""
+
+msgctxt "15\t20802\t36\tCHK"
+msgid "Coronation Updo"
+msgstr ""
+
+msgctxt "15\t20818\t37\tCHK"
+msgid "Princess Bun"
+msgstr ""
+
+msgctxt "15\t20831\t38\tCHK"
+msgid "Medium Cut"
+msgstr ""
+
+msgctxt "15\t20842\t39\tCHK"
+msgid "Fluffy Bob Cut"
+msgstr ""
+
+msgctxt "15\t20857\t40\tCHK"
+msgid "Tiara"
+msgstr ""
+
+msgctxt "15\t20863\t41\tCHK"
+msgid "Double Headband"
+msgstr ""
+
+msgctxt "15\t20879\t42\tCHK"
+msgid "Headband"
+msgstr ""
+
+msgctxt "15\t20888\t43\tCHK"
+msgid "Cat Ears"
+msgstr ""
+
+msgctxt "15\t20897\t44\tCHK"
+msgid "Headdress"
+msgstr ""
+
+msgctxt "15\t20907\t45\tCHK"
+msgid "Framed Glasses"
+msgstr ""
+
+msgctxt "15\t20922\t46\tCHK"
+msgid "Frameless Glasses"
+msgstr ""
+
+msgctxt "15\t20940\t47\tCHK"
+msgid "Petite Earrings"
+msgstr ""
+
+msgctxt "15\t20956\t48\tCHK"
+msgid "Showy Rings"
+msgstr ""
+
+msgctxt "15\t20968\t49\tCHK"
+msgid "Hearts"
+msgstr ""
+
+msgctxt "15\t20975\t50\tCHK"
+msgid "Crosses"
+msgstr ""
+
+msgctxt "15\t20983\t51\tCHK"
+msgid "Gorgeous"
+msgstr ""
+
+msgctxt "15\t20992\t52\tCHK"
+msgid "Chic"
+msgstr ""
+
+msgctxt "15\t20997\t53\tCHK"
+msgid "Skull"
+msgstr ""
+
+msgctxt "15\t21003\t54\tCHK"
+msgid "Ornament"
+msgstr ""
+
+msgctxt "15\t21012\t55\tCHK"
+msgid "Circle"
+msgstr ""
+
+msgctxt "15\t21019\t56\tCHK"
+msgid "Elegant Necklace"
+msgstr ""
+
+msgctxt "15\t21036\t57\tCHK"
+msgid "Chain Necklace"
+msgstr ""
+
+msgctxt "15\t21051\t58\tCHK"
+msgid "Triple Strand Necklace"
+msgstr ""
+
+msgctxt "15\t21074\t59\tCHK"
+msgid "Brilliant"
+msgstr ""
+
+msgctxt "15\t21084\t60\tCHK"
+msgid "Pearl"
+msgstr ""
+
+msgctxt "15\t21090\t61\tCHK"
+msgid "Onyx"
+msgstr ""
+
+msgctxt "15\t21095\t62\tCHK"
+msgid "Cute Nails"
+msgstr ""
+
+msgctxt "15\t21106\t63\tCHK"
+msgid "Decorated Nails"
+msgstr ""
+
+msgctxt "15\t21122\t64\tCHK"
+msgid "Gorgeous Nails"
+msgstr ""
+
+msgctxt "15\t21137\t65\tCHK"
+msgid "Heart Ring"
+msgstr ""
+
+msgctxt "15\t21148\t66\tCHK"
+msgid "Cool Ring"
+msgstr ""
+
+msgctxt "15\t21158\t67\tCHK"
+msgid "Flower Ring"
+msgstr ""
+
+msgctxt "15\t21170\t68\tCHK"
+msgid "Gorgeous Watch"
+msgstr ""
+
+msgctxt "15\t21185\t69\tCHK"
+msgid "Designer Watch"
+msgstr ""
+
+msgctxt "15\t21200\t70\tCHK"
+msgid "Simple Watch"
+msgstr ""
+
+msgctxt "15\t21213\t71\tCHK"
+msgid "Onyx Bracelet"
+msgstr ""
+
+msgctxt "15\t21227\t72\tCHK"
+msgid "Gold Bracelet"
+msgstr ""
+
+msgctxt "15\t21241\t73\tCHK"
+msgid "Pearl Bracelet"
+msgstr ""
+
+msgctxt "15\t21256\t74\tCHK"
+msgid "Jewel Bracelet"
+msgstr ""
+
+msgctxt "15\t21271\t75\tCHK"
+msgid ""
+"A mature style that accentuates\n"
+"the wearer's femininity."
+msgstr ""
+
+msgctxt "15\t21328\t76\tCHK"
+msgid "A mature, standard dress."
+msgstr ""
+
+msgctxt "15\t21354\t77\tCHK"
+msgid "A vivid, mature dress."
+msgstr ""
+
+msgctxt "15\t21377\t78\tCHK"
+msgid ""
+"Makes its wearer look as cute as\n"
+"a button. "
+msgstr ""
+
+msgctxt "15\t21421\t79\tCHK"
+msgid "Seductive and elegant."
+msgstr ""
+
+msgctxt "15\t21444\t80\tCHK"
+msgid "Shows chic and mature charm."
+msgstr ""
+
+msgctxt "15\t21473\t81\tCHK"
+msgid "A lacy, comfortable dress."
+msgstr ""
+
+msgctxt "15\t21500\t82\tCHK"
+msgid ""
+"An elegant dress accented with a\n"
+"ribbon."
+msgstr ""
+
+msgctxt "15\t21541\t83\tCHK"
+msgid ""
+"A classic dress that hugs the body\n"
+"and accentuates a girl's curves."
+msgstr ""
+
+msgctxt "15\t21609\t84\tCHK"
+msgid ""
+"A cute dress that gives off an air\n"
+"of quality."
+msgstr ""
+
+msgctxt "15\t21656\t85\tCHK"
+msgid ""
+"A gorgeous dress with an accent on\n"
+"the chest."
+msgstr ""
+
+msgctxt "15\t21702\t86\tCHK"
+msgid "A sexy, mature dress."
+msgstr ""
+
+msgctxt "15\t21724\t87\tCHK"
+msgid ""
+"Sexy and cute. There's even a hint\n"
+"of mischief in there."
+msgstr ""
+
+msgctxt "15\t21781\t88\tCHK"
+msgid "A vividly colored, sexy dress."
+msgstr ""
+
+msgctxt "15\t21812\t89\tCHK"
+msgid ""
+"For when you want to look a little\n"
+"cuter than normal."
+msgstr ""
+
+msgctxt "15\t21866\t90\tCHK"
+msgid ""
+"The perfect foundation for a cute\n"
+"style."
+msgstr ""
+
+msgctxt "15\t21907\t91\tCHK"
+msgid "A pretty one-piece dress."
+msgstr ""
+
+msgctxt "15\t21933\t92\tCHK"
+msgid ""
+"A sexy, retro-styled dress. A real\n"
+"blast from the past."
+msgstr ""
+
+msgctxt "15\t21989\t93\tCHK"
+msgid "A sleek and sexy suit."
+msgstr ""
+
+msgctxt "15\t22012\t94\tCHK"
+msgid "An avant-garde, mature suit."
+msgstr ""
+
+msgctxt "15\t22041\t95\tSUS"
+msgid ""
+"A cosplay classic. As you wish,\n"
+"Master. ☆"
+msgstr ""
+
+msgctxt "15\t22085\t96\tCHK"
+msgid "Her default hair style.　"
+msgstr ""
+
+msgctxt "15\t22112\t97\tCHK"
+msgid "A standard perm."
+msgstr ""
+
+msgctxt "15\t22129\t98\tCHK"
+msgid "Modern and elegant."
+msgstr ""
+
+msgctxt "15\t22149\t99\tCHK"
+msgid "Perfect for cosplay!"
+msgstr ""
+
+msgctxt "15\t22170\t100\tCHK"
+msgid ""
+"A fancy look that's sure to raise\n"
+"spirits."
+msgstr ""
+
+msgctxt "15\t22213\t101\tCHK"
+msgid ""
+"A mature style that really packs a\n"
+"punch."
+msgstr ""
+
+msgctxt "15\t22255\t102\tCHK"
+msgid ""
+"Some might call it boyish, but who\n"
+"cares when it looks this good?"
+msgstr ""
+
+msgctxt "15\t22321\t103\tCHK"
+msgid "A mature style."
+msgstr ""
+
+msgctxt "15\t22337\t104\tCHK"
+msgid "Curls fit for royalty."
+msgstr ""
+
+msgctxt "15\t22360\t105\tCHK"
+msgid ""
+"There's nothing classier than this\n"
+"dignified look."
+msgstr ""
+
+msgctxt "15\t22411\t106\tCHK"
+msgid "A flashy style fit for a princess."
+msgstr ""
+
+msgctxt "15\t22446\t107\tCHK"
+msgid "Wows men with sexy appeal."
+msgstr ""
+
+msgctxt "15\t22473\t108\tCHK"
+msgid ""
+"Express your freedom with this\n"
+"relaxed style."
+msgstr ""
+
+msgctxt "15\t22519\t109\tCHK"
+msgid ""
+"Makes you feel like absolute\n"
+"royalty."
+msgstr ""
+
+msgctxt "15\t22557\t110\tCHK"
+msgid "Au naturel. No ifs, ands, or buts."
+msgstr ""
+
+msgctxt "15\t22592\t111\tCHK"
+msgid "Nice, casual, and clean."
+msgstr ""
+
+msgctxt "15\t22617\t112\tCHK"
+msgid "Overflowing with elegance."
+msgstr ""
+
+msgctxt "15\t22644\t113\tCHK"
+msgid "Gives off that girly vibe."
+msgstr ""
+
+msgctxt "15\t22671\t114\tCHK"
+msgid ""
+"A classic, simple headband. Some may\n"
+"say too simple, but they're wrong."
+msgstr ""
+
+msgctxt "15\t22743\t115\tCHK"
+msgid "A cosplay necessity."
+msgstr ""
+
+msgctxt "15\t22764\t116\tCHK"
+msgid "Casual glasses for everyday use."
+msgstr ""
+
+msgctxt "15\t22797\t117\tCHK"
+msgid ""
+"The finishing touch on any mature\n"
+"style."
+msgstr ""
+
+msgctxt "15\t22838\t118\tCHK"
+msgid "Clean, simple, refreshing."
+msgstr ""
+
+msgctxt "15\t22865\t119\tCHK"
+msgid "Inexpensive, but showy."
+msgstr ""
+
+msgctxt "15\t22889\t120\tCHK"
+msgid ""
+"These earrings make you feel like\n"
+"the cutest girl in town."
+msgstr ""
+
+msgctxt "15\t22948\t121\tCHK"
+msgid ""
+"An impressively gorgeous pair of\n"
+"earrings."
+msgstr ""
+
+msgctxt "15\t22991\t122\tCHK"
+msgid "Perfect for classy gatherings."
+msgstr ""
+
+msgctxt "15\t23022\t123\tCHK"
+msgid ""
+"Mature earrings punctuated by\n"
+"miniature gold butterflies."
+msgstr ""
+
+msgctxt "15\t23080\t124\tCHK"
+msgid ""
+"Drive away evil spirits with these\n"
+"talk-of-the-town earrings."
+msgstr ""
+
+msgctxt "15\t23142\t125\tCHK"
+msgid ""
+"Great for girls who love to\n"
+"accessorize."
+msgstr ""
+
+msgctxt "15\t23183\t126\tCHK"
+msgid ""
+"Polished earrings fit for almost\n"
+"every occasion."
+msgstr ""
+
+msgctxt "15\t23232\t127\tCHK"
+msgid ""
+"Makes any outfit just a little bit\n"
+"classier."
+msgstr ""
+
+msgctxt "15\t23277\t128\tCHK"
+msgid ""
+"The large ruby charm provides the\n"
+"perfect accent to any outfit."
+msgstr ""
+
+msgctxt "15\t23341\t129\tCHK"
+msgid ""
+"A simple design that will go with\n"
+"any outfit."
+msgstr ""
+
+msgctxt "15\t23387\t130\tCHK"
+msgid ""
+"A large stone that perfectly\n"
+"accentuates the chest area."
+msgstr ""
+
+msgctxt "15\t23444\t131\tCHK"
+msgid "Draws attention to the chest."
+msgstr ""
+
+msgctxt "15\t23474\t132\tCHK"
+msgid ""
+"An impactful piece that's difficult\n"
+"to fit into an ensemble."
+msgstr ""
+
+msgctxt "15\t23535\t133\tCHK"
+msgid "Vividly colored nails."
+msgstr ""
+
+msgctxt "15\t23558\t134\tCHK"
+msgid "Cute and full of life."
+msgstr ""
+
+msgctxt "15\t23581\t135\tCHK"
+msgid "Chic and mature."
+msgstr ""
+
+msgctxt "15\t23598\t136\tCHK"
+msgid ""
+"A cute ring accented by the\n"
+"heart-shaped gem in the center."
+msgstr ""
+
+msgctxt "15\t23658\t137\tCHK"
+msgid ""
+"A high-class ring encrusted with a\n"
+"massive blue gemstone."
+msgstr ""
+
+msgctxt "15\t23716\t138\tCHK"
+msgid ""
+"An ornate ring with a flower pattern\n"
+"emphasizing its extravagant gemstone."
+msgstr ""
+
+msgctxt "15\t23791\t139\tCHK"
+msgid ""
+"Looking for that luxurious style?\n"
+"Look no further."
+msgstr ""
+
+msgctxt "15\t23842\t140\tCHK"
+msgid "Pairs well with a nice suit."
+msgstr ""
+
+msgctxt "15\t23871\t141\tCHK"
+msgid ""
+"A cute, girly accessory that pairs\n"
+"well with a simple outfit."
+msgstr ""
+
+msgctxt "15\t23933\t142\tCHK"
+msgid ""
+"A chic bracelet with a bold onyx\n"
+"design."
+msgstr ""
+
+msgctxt "15\t23974\t143\tCHK"
+msgid ""
+"A brilliant bracelet that goes well\n"
+"with flashy outfits."
+msgstr ""
+
+msgctxt "15\t24031\t144\tCHK"
+msgid ""
+"A bracelet that exudes an air of\n"
+"maturity."
+msgstr ""
+
+msgctxt "15\t24074\t145\tCHK"
+msgid "A luxurious gem bracelet."
+msgstr ""
+
+msgctxt "16\t31976\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "16\t31977\t1\tCHK"
+msgid "Display Name"
+msgstr ""
+
+msgctxt "16\t31990\t2\tCHK"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "16\t31996\t3\tCHK"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "16\t32004\t4\tCHK"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "16\t32012\t5\tCHK"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "16\t32021\t6\tCHK"
+msgid "Unarmed Lackey"
+msgstr ""
+
+msgctxt "16\t32036\t7\tCHK"
+msgid "Unarmed Lackey(SOUL)"
+msgstr ""
+
+msgctxt "16\t32057\t8\tCHK"
+msgid "Gang Lackey"
+msgstr ""
+
+msgctxt "16\t32069\t9\tCHK"
+msgid "Strong Lackey"
+msgstr ""
+
+msgctxt "16\t32083\t10\tCHK"
+msgid "Strong Lackey(SOUL)"
+msgstr ""
+
+msgctxt "16\t32103\t11\tCHK"
+msgid "Fat Lackey"
+msgstr ""
+
+msgctxt "16\t32114\t12\tCHK"
+msgid "Boxer Lackey"
+msgstr ""
+
+msgctxt "16\t32127\t13\tCHK"
+msgid "Boxer Lackey(SOUL)"
+msgstr ""
+
+msgctxt "16\t32146\t14\tCHK"
+msgid "Kickboxer Grunt"
+msgstr ""
+
+msgctxt "16\t32162\t15\tCHK"
+msgid "Snake Flower Triad"
+msgstr ""
+
+msgctxt "16\t32181\t16\tCHK"
+msgid "Fleeing Lackey"
+msgstr ""
+
+msgctxt "16\t32196\t17\tCHK"
+msgid "Blocking Lackey"
+msgstr ""
+
+msgctxt "16\t32212\t18\tCHK"
+msgid "Stationary Grunt"
+msgstr ""
+
+msgctxt "16\t32229\t19\tCHK"
+msgid "Strong Armed Lackey"
+msgstr ""
+
+msgctxt "16\t32249\t20\tCHK"
+msgid "Hitman Lackey"
+msgstr ""
+
+msgctxt "16\t32263\t21\tCHK"
+msgid "Fat Boxer Lackey"
+msgstr ""
+
+msgctxt "16\t32280\t22\tCHK"
+msgid "Sword Lackey"
+msgstr ""
+
+msgctxt "16\t32293\t23\tCHK"
+msgid "Protector Lackey"
+msgstr ""
+
+msgctxt "16\t32310\t24\tCHK"
+msgid "Karate Lackey"
+msgstr ""
+
+msgctxt "16\t32324\t25\tCHK"
+msgid "Bomb Lackey(Tear Gas)"
+msgstr ""
+
+msgctxt "16\t32346\t26\tCHK"
+msgid "Bomb Lackey(Smoke Bomb)"
+msgstr ""
+
+msgctxt "16\t32370\t27\tCHK"
+msgid "Bomb Lackey(Flare)"
+msgstr ""
+
+msgctxt "16\t32389\t28\tCHK"
+msgid "Bomb Lackey(Flashbang)"
+msgstr ""
+
+msgctxt "16\t32412\t29\tCHK"
+msgid "Grabbing Lackey"
+msgstr ""
+
+msgctxt "16\t32428\t30\tCHK"
+msgid "Bat Lackey"
+msgstr ""
+
+msgctxt "16\t32439\t31\tCHK"
+msgid "Sniper"
+msgstr ""
+
+msgctxt "16\t32446\t32\tCHK"
+msgid "Zombie Lackey"
+msgstr ""
+
+msgctxt "16\t32460\t33\tCHK"
+msgid "Street Fighting Lackey"
+msgstr ""
+
+msgctxt "16\t32483\t34\tCHK"
+msgid "Punching Lackey"
+msgstr ""
+
+msgctxt "16\t32499\t35\tCHK"
+msgid "Munakata Elite Squad"
+msgstr ""
+
+msgctxt "16\t32520\t36\tCHK"
+msgid "Goro Majima (OGRE3)"
+msgstr ""
+
+msgctxt "16\t32540\t37\tCHK"
+msgid "Ihara"
+msgstr ""
+
+msgctxt "16\t32546\t38\tCHK"
+msgid "Saito"
+msgstr ""
+
+msgctxt "16\t32552\t39\tCHK"
+msgid "Midorikawa"
+msgstr ""
+
+msgctxt "16\t32563\t40\tCHK"
+msgid "Minami"
+msgstr ""
+
+msgctxt "16\t32570\t41\tCHK"
+msgid "Ivan Ibrahimovic"
+msgstr ""
+
+msgctxt "16\t32587\t42\tCHK"
+msgid "Sugiuchi"
+msgstr ""
+
+msgctxt "16\t32596\t43\tCHK"
+msgid "Kido"
+msgstr ""
+
+msgctxt "16\t32601\t44\tCHK"
+msgid "Arai"
+msgstr ""
+
+msgctxt "16\t32606\t45\tCHK"
+msgid "Goro Majima (SOUL)"
+msgstr ""
+
+msgctxt "16\t32625\t46\tCHK"
+msgid "Daigo"
+msgstr ""
+
+msgctxt "16\t32631\t47\tCHK"
+msgid "Munakata"
+msgstr ""
+
+msgctxt "16\t32640\t48\tCHK"
+msgid "Shibata Sword Boss"
+msgstr ""
+
+msgctxt "16\t32659\t49\tCHK"
+msgid "Shibata Gun Boss"
+msgstr ""
+
+msgctxt "16\t32676\t50\tCHK"
+msgid "Kiryu (Enemy)"
+msgstr ""
+
+msgctxt "16\t32690\t51\tCHK"
+msgid "Akiyama (Enemy)"
+msgstr ""
+
+msgctxt "16\t32706\t52\tCHK"
+msgid "Saejima (Enemy)"
+msgstr ""
+
+msgctxt "16\t32722\t53\tCHK"
+msgid "Tanimura (Enemy)"
+msgstr ""
+
+msgctxt "16\t32739\t54\tCHK"
+msgid "Kasai"
+msgstr ""
+
+msgctxt "16\t32745\t55\tCHK"
+msgid "Ayasaki"
+msgstr ""
+
+msgctxt "16\t32753\t56\tCHK"
+msgid "Toyosaki"
+msgstr ""
+
+msgctxt "16\t32762\t57\tCHK"
+msgid "Mikoshiba"
+msgstr ""
+
+msgctxt "16\t32772\t58\tCHK"
+msgid "Horie"
+msgstr ""
+
+msgctxt "16\t32778\t59\tCHK"
+msgid "Nakanowatari"
+msgstr ""
+
+msgctxt "16\t32791\t60\tCHK"
+msgid "Suzumiya"
+msgstr ""
+
+msgctxt "16\t32800\t61\tCHK"
+msgid "Ijuin"
+msgstr ""
+
+msgctxt "16\t32806\t62\tCHK"
+msgid "Onitake"
+msgstr ""
+
+msgctxt "16\t32814\t63\tCHK"
+msgid "Shark-killer Hide"
+msgstr ""
+
+msgctxt "16\t32832\t64\tCHK"
+msgid "Big Kid"
+msgstr ""
+
+msgctxt "16\t32840\t65\tCHK"
+msgid "King J"
+msgstr ""
+
+msgctxt "16\t32847\t66\tCHK"
+msgid "Mr. Purple"
+msgstr ""
+
+msgctxt "16\t32858\t67\tCHK"
+msgid "Third Chairman Daikokuin"
+msgstr ""
+
+msgctxt "16\t32883\t68\tCHK"
+msgid "DJ Black"
+msgstr ""
+
+msgctxt "16\t32892\t69\tCHK"
+msgid "Black Widow"
+msgstr ""
+
+msgctxt "16\t32904\t70\tCHK"
+msgid "Dark King"
+msgstr ""
+
+msgctxt "16\t32914\t71\tCHK"
+msgid "Dark God"
+msgstr ""
+
+msgctxt "16\t32923\t72\tCHK"
+msgid "Amon 1"
+msgstr ""
+
+msgctxt "16\t32930\t73\tCHK"
+msgid "Amon 2"
+msgstr ""
+
+msgctxt "16\t32937\t74\tCHK"
+msgid "Amon 3"
+msgstr ""
+
+msgctxt "16\t32944\t75\tCHK"
+msgid "Amon 4"
+msgstr ""
+
+msgctxt "16\t32951\t76\tCHK"
+msgid "Mic Minami"
+msgstr ""
+
+msgctxt "16\t32962\t77\tCHK"
+msgid "Chaser"
+msgstr ""
+
+msgctxt "16\t32969\t78\tCHK"
+msgid "Nair"
+msgstr ""
+
+msgctxt "16\t32974\t79\tCHK"
+msgid "Nair (NPC)"
+msgstr ""
+
+msgctxt "16\t32985\t80\tCHK"
+msgid "Master"
+msgstr ""
+
+msgctxt "16\t32992\t81\tCHK"
+msgid "GG"
+msgstr ""
+
+msgctxt "16\t32995\t82\tCHK"
+msgid "Saigo"
+msgstr ""
+
+msgctxt "16\t33001\t83\tCHK"
+msgid "Hana-chan"
+msgstr ""
+
+msgctxt "16\t33011\t84\tCHK"
+msgid "Kiryu (NPC)"
+msgstr ""
+
+msgctxt "16\t33023\t85\tCHK"
+msgid "Akiyama (NPC)"
+msgstr ""
+
+msgctxt "16\t33037\t86\tCHK"
+msgid "Saejima (NPC)"
+msgstr ""
+
+msgctxt "16\t33051\t87\tCHK"
+msgid "Tanimura (NPC)"
+msgstr ""
+
+msgctxt "16\t33066\t88\tCHK"
+msgid "Akaishi"
+msgstr ""
+
+msgctxt "16\t33074\t89\tCHK"
+msgid "Hamazaki (NPC)"
+msgstr ""
+
+msgctxt "16\t33089\t90\tCHK"
+msgid "Sukegawa (NPC)"
+msgstr ""
+
+msgctxt "16\t33104\t91\tCHK"
+msgid "Valery Garrett"
+msgstr ""
+
+msgctxt "16\t33119\t92\tCHK"
+msgid "Sotaro Komaki"
+msgstr ""
+
+msgctxt "16\t33133\t93\tCHK"
+msgid "Inzen Hozoin"
+msgstr ""
+
+msgctxt "16\t33146\t94\tCHK"
+msgid "Fredrick Blacks"
+msgstr ""
+
+msgctxt "16\t33162\t95\tCHK"
+msgid "Laos Waiwatt"
+msgstr ""
+
+msgctxt "16\t33175\t96\tCHK"
+msgid "Otaki Minotaur"
+msgstr ""
+
+msgctxt "16\t33190\t97\tCHK"
+msgid "Shoji Yonashiro"
+msgstr ""
+
+msgctxt "16\t33206\t98\tCHK"
+msgid "Norman C. Wade"
+msgstr ""
+
+msgctxt "16\t33221\t99\tCHK"
+msgid "Nobu Yamamoto"
+msgstr ""
+
+msgctxt "16\t33235\t100\tCHK"
+msgid "Romeo Nishikawa"
+msgstr ""
+
+msgctxt "16\t33251\t101\tCHK"
+msgid "Mike Berheart"
+msgstr ""
+
+msgctxt "16\t33265\t102\tCHK"
+msgid "Hunter Ozawa"
+msgstr ""
+
+msgctxt "16\t33278\t103\tCHK"
+msgid "Scorpio Kito"
+msgstr ""
+
+msgctxt "16\t33291\t104\tCHK"
+msgid "Lionel Klinsmann"
+msgstr ""
+
+msgctxt "16\t33308\t105\tCHK"
+msgid "Bleeder Rouge"
+msgstr ""
+
+msgctxt "16\t33322\t106\tCHK"
+msgid "Jon Carter"
+msgstr ""
+
+msgctxt "16\t33333\t107\tCHK"
+msgid "Torakichi Onigashima"
+msgstr ""
+
+msgctxt "16\t33354\t108\tCHK"
+msgid "S. G. Jack"
+msgstr ""
+
+msgctxt "16\t33365\t109\tCHK"
+msgid "Captain Hideaway"
+msgstr ""
+
+msgctxt "16\t33382\t110\tCHK"
+msgid "Dead Boy Jr."
+msgstr ""
+
+msgctxt "16\t33395\t111\tCHK"
+msgid "Renji Kamiyama"
+msgstr ""
+
+msgctxt "16\t33410\t112\tCHK"
+msgid "Tomahawk Mitsui"
+msgstr ""
+
+msgctxt "16\t33426\t113\tCHK"
+msgid "Don Carpaccio"
+msgstr ""
+
+msgctxt "16\t33440\t114\tCHK"
+msgid "Bruce Ebinuma"
+msgstr ""
+
+msgctxt "16\t33454\t115\tCHK"
+msgid "Kyosuke Muguruma"
+msgstr ""
+
+msgctxt "16\t33471\t116\tCHK"
+msgid "Ginjiro Izaka"
+msgstr ""
+
+msgctxt "16\t33485\t117\tCHK"
+msgid "Gunji Tachibana"
+msgstr ""
+
+msgctxt "16\t33501\t118\tCHK"
+msgid "Kamata"
+msgstr ""
+
+msgctxt "16\t33508\t119\tCHK"
+msgid "Antonio Vaquero"
+msgstr ""
+
+msgctxt "16\t33524\t120\tCHK"
+msgid "Dong-Joo Park"
+msgstr ""
+
+msgctxt "16\t33538\t121\tCHK"
+msgid "Mammoth Tatsu"
+msgstr ""
+
+msgctxt "16\t33552\t122\tCHK"
+msgid "Death Volley Sawai"
+msgstr ""
+
+msgctxt "16\t33571\t123\tCHK"
+msgid "Headhunter Kariya"
+msgstr ""
+
+msgctxt "16\t33589\t124\tCHK"
+msgid "Keisuke Uematsu"
+msgstr ""
+
+msgctxt "16\t33605\t125\tCHK"
+msgid "Grand Chef Cho"
+msgstr ""
+
+msgctxt "16\t33620\t126\tCHK"
+msgid "Kazuhiro"
+msgstr ""
+
+msgctxt "16\t33629\t127\tCHK"
+msgid "Justin Woods"
+msgstr ""
+
+msgctxt "16\t33642\t128\tCHK"
+msgid "Shogo Usui"
+msgstr ""
+
+msgctxt "16\t33653\t129\tCHK"
+msgid "Seiji Higuchi"
+msgstr ""
+
+msgctxt "16\t33667\t130\tCHK"
+msgid "Yi-san"
+msgstr ""
+
+msgctxt "16\t33674\t131\tCHK"
+msgid "Er-san"
+msgstr ""
+
+msgctxt "16\t33681\t132\tCHK"
+msgid "Akira Yamaoka"
+msgstr ""
+
+msgctxt "16\t33695\t133\tCHK"
+msgid "Hannya Kurokawa"
+msgstr ""
+
+msgctxt "16\t33711\t134\tCHK"
+msgid "Adabana"
+msgstr ""
+
+msgctxt "16\t33719\t135\tCHK"
+msgid "Kaname Ginga"
+msgstr ""
+
+msgctxt "16\t33732\t136\tCHK"
+msgid "Rayzy"
+msgstr ""
+
+msgctxt "16\t33738\t137\tCHK"
+msgid "Rei Himuro"
+msgstr ""
+
+msgctxt "16\t33749\t138\tCHK"
+msgid "Kurotaka"
+msgstr ""
+
+msgctxt "16\t33758\t139\tCHK"
+msgid "Robin Ashbourne"
+msgstr ""
+
+msgctxt "16\t33774\t140\tCHK"
+msgid "Utamaro VII"
+msgstr ""
+
+msgctxt "16\t33786\t141\tCHK"
+msgid "Count Albert"
+msgstr ""
+
+msgctxt "16\t33799\t142\tCHK"
+msgid "Jaon"
+msgstr ""
+
+msgctxt "16\t33804\t143\tCHK"
+msgid "Mister Chen"
+msgstr ""
+
+msgctxt "16\t33816\t144\tCHK"
+msgid "Kyoya Kawasaki"
+msgstr ""
+
+msgctxt "16\t33831\t145\tCHK"
+msgid "Kintaro Izaka"
+msgstr ""
+
+msgctxt "16\t33845\t146\tCHK"
+msgid "William Clerc"
+msgstr ""
+
+msgctxt "16\t33859\t147\tCHK"
+msgid "Zombino Shibusawa"
+msgstr ""
+
+msgctxt "16\t33877\t148\tCHK"
+msgid "Raging Joe"
+msgstr ""
+
+msgctxt "16\t33888\t149\tCHK"
+msgid "IF Majima (SOUL)"
+msgstr ""
+
+msgctxt "16\t33905\t150\tCHK"
+msgid "Flashback Kiryu"
+msgstr ""
+
+msgctxt "16\t33921\t151\tCHK"
+msgid "IF Akiyama"
+msgstr ""
+
+msgctxt "16\t33932\t152\tCHK"
+msgid "IF Saejima"
+msgstr ""
+
+msgctxt "16\t33943\t153\tCHK"
+msgid "IF Tanimura"
+msgstr ""
+
+msgctxt "16\t33955\t154\tCHK"
+msgid "IF Ihara"
+msgstr ""
+
+msgctxt "16\t33964\t155\tCHK"
+msgid "IF Midorikawa"
+msgstr ""
+
+msgctxt "16\t33978\t156\tCHK"
+msgid "IF Saito"
+msgstr ""
+
+msgctxt "16\t33987\t157\tCHK"
+msgid "IF Minami"
+msgstr ""
+
+msgctxt "16\t33997\t158\tCHK"
+msgid "IF Sugiuchi"
+msgstr ""
+
+msgctxt "16\t34009\t159\tCHK"
+msgid "Fukushi Ochiai"
+msgstr ""
+
+msgctxt "16\t34024\t160\tCHK"
+msgid "Hideo Sugiyama"
+msgstr ""
+
+msgctxt "16\t34039\t161\tCHK"
+msgid "Takehiro Ehama"
+msgstr ""
+
+msgctxt "16\t34054\t162\tCHK"
+msgid "Masataka Watanabe"
+msgstr ""
+
+msgctxt "16\t34072\t163\tCHK"
+msgid "Training: Street Fighter"
+msgstr ""
+
+msgctxt "16\t34097\t164\tCHK"
+msgid "Training: Strongman"
+msgstr ""
+
+msgctxt "16\t34117\t165\tCHK"
+msgid "Training: Boxer"
+msgstr ""
+
+msgctxt "16\t34133\t166\tCHK"
+msgid "Training: Kickboxer"
+msgstr ""
+
+msgctxt "16\t34153\t167\tCHK"
+msgid "Training: Wrestler"
+msgstr ""
+
+msgctxt "16\t34172\t168\tCHK"
+msgid "Training: Karate"
+msgstr ""
+
+msgctxt "16\t34189\t169\tCHK"
+msgid "Training: Technical MMA"
+msgstr ""
+
+msgctxt "16\t34213\t170\tCHK"
+msgid "Training: Striking MMA"
+msgstr ""
+
+msgctxt "16\t34236\t171\tCHK"
+msgid "Bodyguard (NPC)"
+msgstr ""
+
+msgctxt "16\t34252\t172\tCHK"
+msgid "Kotaro (NPC)"
+msgstr ""
+
+msgctxt "16\t34265\t173\tCHK"
+msgid "Man on the Run (NPC)"
+msgstr ""
+
+msgctxt "16\t34286\t174\tCHK"
+msgid "Makoto Tokita"
+msgstr ""
+
+msgctxt "17\t50280\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "17\t50281\t1\tCHK"
+msgid "Ihara"
+msgstr ""
+
+msgctxt "17\t50287\t2\tCHK"
+msgid "Mishima"
+msgstr ""
+
+msgctxt "17\t50295\t3\tCHK"
+msgid "Midorikawa"
+msgstr ""
+
+msgctxt "17\t50306\t4\tCHK"
+msgid "Minami"
+msgstr ""
+
+msgctxt "17\t50313\t5\tCHK"
+msgid "Saito"
+msgstr ""
+
+msgctxt "17\t50319\t6\tCHK"
+msgid "Kazuma Kiryu"
+msgstr ""
+
+msgctxt "17\t50332\t7\tCHK"
+msgid "Ibrahimovic"
+msgstr ""
+
+msgctxt "17\t50344\t8\tCHK"
+msgid "Goro Majima"
+msgstr ""
+
+msgctxt "17\t50356\t9\tCHK"
+msgid "Junji Sugiuchi"
+msgstr ""
+
+msgctxt "17\t50371\t10\tCHK"
+msgid "Shun Akiyama"
+msgstr ""
+
+msgctxt "17\t50384\t11\tCHK"
+msgid "Masayoshi Tanimura"
+msgstr ""
+
+msgctxt "17\t50403\t12\tCHK"
+msgid "Taiga Saejima"
+msgstr ""
+
+msgctxt "17\t50417\t13\tCHK"
+msgid "Takeshi Kido"
+msgstr ""
+
+msgctxt "17\t50430\t14\tCHK"
+msgid "Daigo Dojima"
+msgstr ""
+
+msgctxt "17\t50443\t15\tCHK"
+msgid "Hiroaki Arai"
+msgstr ""
+
+msgctxt "17\t50456\t16\tCHK"
+msgid "Seishiro Munakata"
+msgstr ""
+
+msgctxt "17\t50474\t17\tCHK"
+msgid "Kasai"
+msgstr ""
+
+msgctxt "17\t50480\t18\tCHK"
+msgid "Ayasaki"
+msgstr ""
+
+msgctxt "17\t50488\t19\tCHK"
+msgid "Toyosaki"
+msgstr ""
+
+msgctxt "17\t50497\t20\tCHK"
+msgid "Mikoshiba"
+msgstr ""
+
+msgctxt "17\t50507\t21\tCHK"
+msgid "Horie"
+msgstr ""
+
+msgctxt "17\t50513\t22\tCHK"
+msgid "Nakanowatari"
+msgstr ""
+
+msgctxt "17\t50526\t23\tCHK"
+msgid "Suzumiya"
+msgstr ""
+
+msgctxt "17\t50535\t24\tCHK"
+msgid "Ijuin"
+msgstr ""
+
+msgctxt "17\t50541\t25\tCHK"
+msgid "Sukegawa"
+msgstr ""
+
+msgctxt "17\t50550\t26\tCHK"
+msgid "Mysterious Foreigner A"
+msgstr ""
+
+msgctxt "17\t50573\t27\tCHK"
+msgid "Mysterious Foreigner B"
+msgstr ""
+
+msgctxt "17\t50596\t28\tCHK"
+msgid "Mysterious Foreigner C"
+msgstr ""
+
+msgctxt "17\t50619\t29\tCHK"
+msgid "Mysterious Foreigner D"
+msgstr ""
+
+msgctxt "17\t50642\t30\tCHK"
+msgid "Mysterious Foreigner E"
+msgstr ""
+
+msgctxt "17\t50665\t31\tCHK"
+msgid "Mysterious Foreigner F"
+msgstr ""
+
+msgctxt "17\t50688\t32\tCHK"
+msgid "Snake Flower Triad"
+msgstr ""
+
+msgctxt "17\t50707\t33\tCHK"
+msgid "Snake Flower Officer"
+msgstr ""
+
+msgctxt "17\t50728\t34\tCHK"
+msgid "CIA Man"
+msgstr ""
+
+msgctxt "17\t50736\t35\tCHK"
+msgid "CIA Agent"
+msgstr ""
+
+msgctxt "17\t50746\t36\tCHK"
+msgid "Hamazaki"
+msgstr ""
+
+msgctxt "17\t50755\t37\tCHK"
+msgid "Shady Man A"
+msgstr ""
+
+msgctxt "17\t50767\t38\tCHK"
+msgid "Shady Man B"
+msgstr ""
+
+msgctxt "17\t50779\t39\tCHK"
+msgid "Yakuza"
+msgstr ""
+
+msgctxt "17\t50786\t40\tCHK"
+msgid "Hakuho Clan Captain"
+msgstr ""
+
+msgctxt "17\t50806\t41\tCHK"
+msgid "Mikio"
+msgstr ""
+
+msgctxt "17\t50812\t42\tCHK"
+msgid "Akimoto-kun"
+msgstr ""
+
+msgctxt "17\t50824\t43\tCHK"
+msgid "Renji Kamiyama"
+msgstr ""
+
+msgctxt "17\t50839\t44\tCHK"
+msgid "Shoji Yonashiro"
+msgstr ""
+
+msgctxt "17\t50855\t45\tCHK"
+msgid "Makoto Date"
+msgstr ""
+
+msgctxt "17\t50867\t46\tCHK"
+msgid "Sotaro Komaki"
+msgstr ""
+
+msgctxt "17\t50881\t47\tCHK"
+msgid "Bodyguard"
+msgstr ""
+
+msgctxt "17\t50891\t48\tCHK"
+msgid "Elite Bodyguard"
+msgstr ""
+
+msgctxt "17\t50907\t49\tCHK"
+msgid "Bodyguard Captain"
+msgstr ""
+
+msgctxt "17\t50925\t50\tCHK"
+msgid "Onitake"
+msgstr ""
+
+msgctxt "17\t50933\t51\tCHK"
+msgid "Shark-killer Hide"
+msgstr ""
+
+msgctxt "17\t50951\t52\tCHK"
+msgid "Big Kid"
+msgstr ""
+
+msgctxt "17\t50959\t53\tCHK"
+msgid "King J"
+msgstr ""
+
+msgctxt "17\t50966\t54\tCHK"
+msgid "Mr. Purple"
+msgstr ""
+
+msgctxt "17\t50977\t55\tCHK"
+msgid "Daikokuin the Third"
+msgstr ""
+
+msgctxt "17\t50997\t56\tCHK"
+msgid "Dj Black"
+msgstr ""
+
+msgctxt "17\t51006\t57\tCHK"
+msgid "Black Widow"
+msgstr ""
+
+msgctxt "17\t51018\t58\tCHK"
+msgid "Dark King"
+msgstr ""
+
+msgctxt "17\t51028\t59\tCHK"
+msgid "Dark God"
+msgstr ""
+
+msgctxt "17\t51037\t60\tCHK"
+msgid "Gang Member"
+msgstr ""
+
+msgctxt "17\t51049\t61\tCHK"
+msgid "Street Punk"
+msgstr ""
+
+msgctxt "17\t51061\t62\tCHK"
+msgid "Man in Black"
+msgstr ""
+
+msgctxt "17\t51074\t63\tCHK"
+msgid "Wolf"
+msgstr ""
+
+msgctxt "17\t51079\t64\tCHK"
+msgid "Tall Man"
+msgstr ""
+
+msgctxt "17\t51088\t65\tCHK"
+msgid "Man with Glasses"
+msgstr ""
+
+msgctxt "17\t51105\t66\tCHK"
+msgid "Freedom-Loving Drunk"
+msgstr ""
+
+msgctxt "17\t51126\t67\tCHK"
+msgid "Fortune Teller's Oldest Son"
+msgstr ""
+
+msgctxt "17\t51154\t68\tCHK"
+msgid "Fortune Teller's Second Son"
+msgstr ""
+
+msgctxt "17\t51182\t69\tCHK"
+msgid "Fortune Teller's Third Son"
+msgstr ""
+
+msgctxt "17\t51209\t70\tCHK"
+msgid "Fortune Teller's Fourth Son"
+msgstr ""
+
+msgctxt "17\t51237\t71\tCHK"
+msgid "Fortune Teller's Fifth Son"
+msgstr ""
+
+msgctxt "17\t51264\t72\tCHK"
+msgid "Toru"
+msgstr ""
+
+msgctxt "17\t51269\t73\tCHK"
+msgid "Mr. Try and Hit Me"
+msgstr ""
+
+msgctxt "17\t51288\t74\tCHK"
+msgid "Street Vendor-Like Man"
+msgstr ""
+
+msgctxt "17\t51311\t75\tCHK"
+msgid "Black-Suited Man 1"
+msgstr ""
+
+msgctxt "17\t51330\t76\tCHK"
+msgid "Black-Suited Man 2"
+msgstr ""
+
+msgctxt "17\t51349\t77\tCHK"
+msgid "Black-Suited Man 3"
+msgstr ""
+
+msgctxt "17\t51368\t78\tCHK"
+msgid "Suspicious Man"
+msgstr ""
+
+msgctxt "17\t51383\t79\tCHK"
+msgid "Robber"
+msgstr ""
+
+msgctxt "17\t51390\t80\tCHK"
+msgid "Head Bag Snatcher"
+msgstr ""
+
+msgctxt "17\t51408\t81\tCHK"
+msgid "Bag Snatcher"
+msgstr ""
+
+msgctxt "17\t51421\t82\tCHK"
+msgid "Man in Cammies"
+msgstr ""
+
+msgctxt "17\t51436\t83\tCHK"
+msgid "Man in Red Sportswear"
+msgstr ""
+
+msgctxt "17\t51458\t84\tCHK"
+msgid "Red"
+msgstr ""
+
+msgctxt "17\t51462\t85\tCHK"
+msgid "Henry"
+msgstr ""
+
+msgctxt "17\t51468\t86\tCHK"
+msgid "Ed"
+msgstr ""
+
+msgctxt "17\t51471\t87\tCHK"
+msgid "Tom"
+msgstr ""
+
+msgctxt "17\t51475\t88\tCHK"
+msgid "President"
+msgstr ""
+
+msgctxt "17\t51485\t89\tCHK"
+msgid "Freeloader"
+msgstr ""
+
+msgctxt "17\t51496\t90\tCHK"
+msgid "Toguchi"
+msgstr ""
+
+msgctxt "17\t51504\t91\tCHK"
+msgid "Chrome"
+msgstr ""
+
+msgctxt "17\t51511\t92\tCHK"
+msgid "Tobita"
+msgstr ""
+
+msgctxt "17\t51518\t93\tCHK"
+msgid "Iwakuma"
+msgstr ""
+
+msgctxt "17\t51526\t94\tCHK"
+msgid "Nanba"
+msgstr ""
+
+msgctxt "17\t51532\t95\tCHK"
+msgid "Weapons Nut"
+msgstr ""
+
+msgctxt "17\t51544\t96\tCHK"
+msgid "Sendo"
+msgstr ""
+
+msgctxt "17\t51550\t97\tCHK"
+msgid "Loan Shark"
+msgstr ""
+
+msgctxt "17\t51561\t98\tCHK"
+msgid "Hiroto"
+msgstr ""
+
+msgctxt "17\t51568\t99\tCHK"
+msgid "Loan Shark Boss"
+msgstr ""
+
+msgctxt "17\t51584\t100\tCHK"
+msgid "Hanai"
+msgstr ""
+
+msgctxt "17\t51590\t101\tCHK"
+msgid "Narumi"
+msgstr ""
+
+msgctxt "17\t51597\t102\tCHK"
+msgid "Matsukaze"
+msgstr ""
+
+msgctxt "17\t51607\t103\tCHK"
+msgid "Otsuki"
+msgstr ""
+
+msgctxt "17\t51614\t104\tCHK"
+msgid "Bouncer"
+msgstr ""
+
+msgctxt "17\t51622\t105\tCHK"
+msgid "Yamashiro"
+msgstr ""
+
+msgctxt "17\t51632\t106\tCHK"
+msgid "Motoyama"
+msgstr ""
+
+msgctxt "17\t51641\t107\tCHK"
+msgid "Hirata's Son"
+msgstr ""
+
+msgctxt "17\t51654\t108\tCHK"
+msgid "Sawada"
+msgstr ""
+
+msgctxt "17\t51661\t109\tCHK"
+msgid "Bouncer 1"
+msgstr ""
+
+msgctxt "17\t51671\t110\tCHK"
+msgid "Bouncer 2"
+msgstr ""
+
+msgctxt "17\t51681\t111\tCHK"
+msgid "Bouncer 3"
+msgstr ""
+
+msgctxt "17\t51691\t112\tCHK"
+msgid "Bouncer 4"
+msgstr ""
+
+msgctxt "17\t51701\t113\tCHK"
+msgid "Michio"
+msgstr ""
+
+msgctxt "17\t51708\t114\tCHK"
+msgid "Kotaro"
+msgstr ""
+
+msgctxt "17\t51715\t115\tCHK"
+msgid "Oigawa"
+msgstr ""
+
+msgctxt "17\t51722\t116\tCHK"
+msgid "Masaya"
+msgstr ""
+
+msgctxt "17\t51729\t117\tCHK"
+msgid "Takeshita"
+msgstr ""
+
+msgctxt "17\t51739\t118\tCHK"
+msgid "Man in Suit"
+msgstr ""
+
+msgctxt "17\t51751\t119\tCHK"
+msgid "Kaneda"
+msgstr ""
+
+msgctxt "17\t51758\t120\tCHK"
+msgid "Moriyama"
+msgstr ""
+
+msgctxt "17\t51767\t121\tCHK"
+msgid "Domoto"
+msgstr ""
+
+msgctxt "17\t51774\t122\tCHK"
+msgid "Minamizawa"
+msgstr ""
+
+msgctxt "17\t51785\t123\tCHK"
+msgid "Homeless Hunter A"
+msgstr ""
+
+msgctxt "17\t51803\t124\tCHK"
+msgid "Homeless Hunter B"
+msgstr ""
+
+msgctxt "17\t51821\t125\tCHK"
+msgid "Homeless Hunter C"
+msgstr ""
+
+msgctxt "17\t51839\t126\tCHK"
+msgid "Homeless Hunter D"
+msgstr ""
+
+msgctxt "17\t51857\t127\tCHK"
+msgid "Homeless Hunter E"
+msgstr ""
+
+msgctxt "17\t51875\t128\tCHK"
+msgid "Head Homeless Hunter"
+msgstr ""
+
+msgctxt "17\t51896\t129\tCHK"
+msgid "Black Suit 1"
+msgstr ""
+
+msgctxt "17\t51909\t130\tCHK"
+msgid "Black Suit 2"
+msgstr ""
+
+msgctxt "17\t51922\t131\tCHK"
+msgid "Black Suit 3"
+msgstr ""
+
+msgctxt "17\t51935\t132\tCHK"
+msgid "Mike"
+msgstr ""
+
+msgctxt "17\t51940\t133\tCHK"
+msgid "Gates"
+msgstr ""
+
+msgctxt "17\t51946\t134\tCHK"
+msgid "Fujimoto"
+msgstr ""
+
+msgctxt "17\t51955\t135\tCHK"
+msgid "Eiji"
+msgstr ""
+
+msgctxt "17\t51960\t136\tCHK"
+msgid "Tsukishima's Man A"
+msgstr ""
+
+msgctxt "17\t51979\t137\tCHK"
+msgid "Tsukishima's Man B"
+msgstr ""
+
+msgctxt "17\t51998\t138\tCHK"
+msgid "Tsukishima's Man C"
+msgstr ""
+
+msgctxt "17\t52017\t139\tCHK"
+msgid "Tsukishima's Man D"
+msgstr ""
+
+msgctxt "17\t52036\t140\tCHK"
+msgid "Tsukishima's Man E"
+msgstr ""
+
+msgctxt "17\t52055\t141\tCHK"
+msgid "Tsukishima's Man F"
+msgstr ""
+
+msgctxt "17\t52074\t142\tCHK"
+msgid "Senior Kansai Yakuza"
+msgstr ""
+
+msgctxt "17\t52095\t143\tCHK"
+msgid "Kansai Yakuza Underling"
+msgstr ""
+
+msgctxt "17\t52119\t144\tCHK"
+msgid "Commerce Union President"
+msgstr ""
+
+msgctxt "17\t52144\t145\tCHK"
+msgid "Commerce Union Man A"
+msgstr ""
+
+msgctxt "17\t52165\t146\tCHK"
+msgid "Commerce Union Man B"
+msgstr ""
+
+msgctxt "17\t52186\t147\tCHK"
+msgid "Commerce Union Man C"
+msgstr ""
+
+msgctxt "17\t52207\t148\tCHK"
+msgid "Commerce Union Man D"
+msgstr ""
+
+msgctxt "17\t52228\t149\tCHK"
+msgid "Kyogoku"
+msgstr ""
+
+msgctxt "17\t52236\t150\tCHK"
+msgid "Bodyguard A"
+msgstr ""
+
+msgctxt "17\t52248\t151\tCHK"
+msgid "Bodyguard B"
+msgstr ""
+
+msgctxt "17\t52260\t152\tCHK"
+msgid "Bodyguard C"
+msgstr ""
+
+msgctxt "17\t52272\t153\tCHK"
+msgid "Broker"
+msgstr ""
+
+msgctxt "17\t52279\t154\tCHK"
+msgid "Tatsuo Hirata"
+msgstr ""
+
+msgctxt "17\t52293\t155\tCHK"
+msgid "Tough Woman"
+msgstr ""
+
+msgctxt "17\t52305\t156\tCHK"
+msgid "Jo Amon"
+msgstr ""
+
+msgctxt "17\t52313\t157\tCHK"
+msgid "Akai"
+msgstr ""
+
+msgctxt "17\t52318\t158\tCHK"
+msgid "Akada"
+msgstr ""
+
+msgctxt "17\t52324\t159\tCHK"
+msgid "Akagawa"
+msgstr ""
+
+msgctxt "17\t52332\t160\tCHK"
+msgid "Akamatsu"
+msgstr ""
+
+msgctxt "17\t52341\t161\tCHK"
+msgid "Akasaka"
+msgstr ""
+
+msgctxt "17\t52349\t162\tCHK"
+msgid "Kishima"
+msgstr ""
+
+msgctxt "17\t52357\t163\tCHK"
+msgid "Brad"
+msgstr ""
+
+msgctxt "17\t52362\t164\tCHK"
+msgid "Brawny Man"
+msgstr ""
+
+msgctxt "17\t52373\t165\tCHK"
+msgid "New Recruit"
+msgstr ""
+
+msgctxt "17\t52385\t166\tCHK"
+msgid "Chubby Man"
+msgstr ""
+
+msgctxt "17\t52396\t167\tCHK"
+msgid "Young Man"
+msgstr ""
+
+msgctxt "17\t52406\t168\tCHK"
+msgid "Man Up to No Good"
+msgstr ""
+
+msgctxt "17\t52424\t169\tCHK"
+msgid "Naked Man"
+msgstr ""
+
+msgctxt "17\t52434\t170\tCHK"
+msgid "Handsome Man"
+msgstr ""
+
+msgctxt "17\t52447\t171\tCHK"
+msgid "Blond Man"
+msgstr ""
+
+msgctxt "17\t52457\t172\tCHK"
+msgid "Man in Short Sleeves"
+msgstr ""
+
+msgctxt "17\t52478\t173\tCHK"
+msgid "Man in Parka"
+msgstr ""
+
+msgctxt "17\t52491\t174\tCHK"
+msgid "Flashy Man"
+msgstr ""
+
+msgctxt "17\t52502\t175\tCHK"
+msgid "Uniformed Man"
+msgstr ""
+
+msgctxt "17\t52516\t176\tCHK"
+msgid "Man in Hat"
+msgstr ""
+
+msgctxt "17\t52527\t177\tCHK"
+msgid "Masked Man"
+msgstr ""
+
+msgctxt "17\t52538\t178\tCHK"
+msgid "Chinese Man"
+msgstr ""
+
+msgctxt "17\t52550\t179\tCHK"
+msgid "Martial Artist"
+msgstr ""
+
+msgctxt "17\t52565\t180\tCHK"
+msgid "Scary Man"
+msgstr ""
+
+msgctxt "17\t52575\t181\tCHK"
+msgid "Motionless Man"
+msgstr ""
+
+msgctxt "17\t52590\t182\tCHK"
+msgid "Man on the Move"
+msgstr ""
+
+msgctxt "17\t52606\t183\tCHK"
+msgid "Assassin"
+msgstr ""
+
+msgctxt "17\t52615\t184\tCHK"
+msgid "Kuroda"
+msgstr ""
+
+msgctxt "17\t52622\t185\tCHK"
+msgid "Kuroyama"
+msgstr ""
+
+msgctxt "17\t52631\t186\tCHK"
+msgid "Kuroki"
+msgstr ""
+
+msgctxt "17\t52638\t187\tCHK"
+msgid "Kurono"
+msgstr ""
+
+msgctxt "17\t52645\t188\tCHK"
+msgid "Kurokawa"
+msgstr ""
+
+msgctxt "17\t52654\t189\tCHK"
+msgid "Kurosawa"
+msgstr ""
+
+msgctxt "17\t52663\t190\tCHK"
+msgid "Kuroshima"
+msgstr ""
+
+msgctxt "17\t52673\t191\tCHK"
+msgid "Sketchy Man"
+msgstr ""
+
+msgctxt "17\t52685\t192\tCHK"
+msgid "Fumiyoshi"
+msgstr ""
+
+msgctxt "17\t52695\t193\tCHK"
+msgid "Shady Man"
+msgstr ""
+
+msgctxt "17\t52705\t194\tCHK"
+msgid "Shady Man's Underling"
+msgstr ""
+
+msgctxt "17\t52727\t195\tCHK"
+msgid "Qiang Ka Long"
+msgstr ""
+
+msgctxt "17\t52741\t196\tCHK"
+msgid "Quan Ka Long"
+msgstr ""
+
+msgctxt "17\t52754\t197\tCHK"
+msgid "Gou Ka Long"
+msgstr ""
+
+msgctxt "17\t52766\t198\tCHK"
+msgid "Tamashiro 2008"
+msgstr ""
+
+msgctxt "17\t52781\t199\tCHK"
+msgid "Tamashiro 2009"
+msgstr ""
+
+msgctxt "17\t52796\t200\tCHK"
+msgid "Kashiwabara"
+msgstr ""
+
+msgctxt "17\t52808\t201\tCHK"
+msgid "Wilson"
+msgstr ""
+
+msgctxt "17\t52815\t202\tCHK"
+msgid "Lopez"
+msgstr ""
+
+msgctxt "17\t52821\t203\tCHK"
+msgid "Davis"
+msgstr ""
+
+msgctxt "17\t52827\t204\tCHK"
+msgid "Briant"
+msgstr ""
+
+msgctxt "17\t52834\t205\tCHK"
+msgid "Iverson"
+msgstr ""
+
+msgctxt "17\t52842\t206\tCHK"
+msgid "Zhao"
+msgstr ""
+
+msgctxt "17\t52847\t207\tCHK"
+msgid "Grand Chef Cho"
+msgstr ""
+
+msgctxt "17\t52862\t208\tCHK"
+msgid "Headhunter Kariya"
+msgstr ""
+
+msgctxt "17\t52880\t209\tCHK"
+msgid "Hunter Ozawa"
+msgstr ""
+
+msgctxt "17\t52893\t210\tCHK"
+msgid "Kazuya Amon"
+msgstr ""
+
+msgctxt "17\t52905\t211\tCHK"
+msgid "Jiro Amon"
+msgstr ""
+
+msgctxt "17\t52915\t212\tCHK"
+msgid "Sango Amon"
+msgstr ""
+
+msgctxt "17\t52926\t213\tCHK"
+msgid "Hannya Kurokawa"
+msgstr ""
+
+msgctxt "17\t52942\t214\tCHK"
+msgid "Akira Yamaoka"
+msgstr ""
+
+msgctxt "17\t52956\t215\tCHK"
+msgid "Butler"
+msgstr ""
+
+msgctxt "17\t52963\t216\tCHK"
+msgid "King"
+msgstr ""
+
+msgctxt "17\t52968\t217\tCHK"
+msgid "Mischievous Man"
+msgstr ""
+
+msgctxt "17\t52984\t218\tCHK"
+msgid "Confident Man"
+msgstr ""
+
+msgctxt "17\t52998\t219\tCHK"
+msgid "Contemporary Man"
+msgstr ""
+
+msgctxt "17\t53015\t220\tCHK"
+msgid "Delinquent"
+msgstr ""
+
+msgctxt "17\t53026\t221\tCHK"
+msgid "Rebellious Man"
+msgstr ""
+
+msgctxt "17\t53041\t222\tCHK"
+msgid "Angry Man"
+msgstr ""
+
+msgctxt "17\t53051\t223\tCHK"
+msgid "Tough Talking Man"
+msgstr ""
+
+msgctxt "17\t53069\t224\tCHK"
+msgid "Scary-looking Man"
+msgstr ""
+
+msgctxt "17\t53087\t225\tCHK"
+msgid "Heavy-set Man"
+msgstr ""
+
+msgctxt "17\t53101\t226\tCHK"
+msgid "Feather"
+msgstr ""
+
+msgctxt "17\t53109\t227\tCHK"
+msgid "Fake Kiryu"
+msgstr ""
+
+msgctxt "17\t53120\t228\tCHK"
+msgid "Smith"
+msgstr ""
+
+msgctxt "17\t53126\t229\tCHK"
+msgid "Johnson"
+msgstr ""
+
+msgctxt "17\t53134\t230\tCHK"
+msgid "Daijiro Saigo"
+msgstr ""
+
+msgctxt "17\t53148\t231\tCHK"
+msgid "Master"
+msgstr ""
+
+msgctxt "17\t53155\t232\tCHK"
+msgid "Nair"
+msgstr ""
+
+msgctxt "17\t53160\t233\tCHK"
+msgid "Mamoru Akaishi"
+msgstr ""
+
+msgctxt "17\t53175\t234\tCHK"
+msgid "Hideo Sugiyama"
+msgstr ""
+
+msgctxt "17\t53190\t235\tCHK"
+msgid "Takehiro Ehama"
+msgstr ""
+
+msgctxt "17\t53205\t236\tCHK"
+msgid "Fukushi Ochiai"
+msgstr ""
+
+msgctxt "17\t53220\t237\tCHK"
+msgid "Masataka Watanabe"
+msgstr ""
+
+msgctxt "17\t53238\t238\tCHK"
+msgid "Sato"
+msgstr ""
+
+msgctxt "17\t53243\t239\tCHK"
+msgid "Suzuki"
+msgstr ""
+
+msgctxt "17\t53250\t240\tCHK"
+msgid "Takahashi"
+msgstr ""
+
+msgctxt "17\t53260\t241\tCHK"
+msgid "Tanaka"
+msgstr ""
+
+msgctxt "17\t53267\t242\tCHK"
+msgid "Watanabe"
+msgstr ""
+
+msgctxt "17\t53276\t243\tCHK"
+msgid "Ito"
+msgstr ""
+
+msgctxt "17\t53280\t244\tCHK"
+msgid "Yamamoto"
+msgstr ""
+
+msgctxt "17\t53289\t245\tCHK"
+msgid "Nakamura"
+msgstr ""
+
+msgctxt "17\t53298\t246\tCHK"
+msgid "Kobayashi"
+msgstr ""
+
+msgctxt "17\t53308\t247\tCHK"
+msgid "Kato"
+msgstr ""
+
+msgctxt "17\t53313\t248\tCHK"
+msgid "Yoshida"
+msgstr ""
+
+msgctxt "17\t53321\t249\tCHK"
+msgid "Yamada"
+msgstr ""
+
+msgctxt "17\t53328\t250\tCHK"
+msgid "Matsumoto"
+msgstr ""
+
+msgctxt "17\t53338\t251\tCHK"
+msgid "Inoue"
+msgstr ""
+
+msgctxt "17\t53344\t252\tCHK"
+msgid "Kimura"
+msgstr ""
+
+msgctxt "17\t53351\t253\tCHK"
+msgid "Shimizu"
+msgstr ""
+
+msgctxt "17\t53359\t254\tCHK"
+msgid "Yamazaki"
+msgstr ""
+
+msgctxt "17\t53368\t255\tCHK"
+msgid "Ikeda"
+msgstr ""
+
+msgctxt "17\t53374\t256\tCHK"
+msgid "Abe"
+msgstr ""
+
+msgctxt "17\t53378\t257\tCHK"
+msgid "Mori"
+msgstr ""
+
+msgctxt "17\t53383\t258\tCHK"
+msgid "Hashimoto"
+msgstr ""
+
+msgctxt "17\t53393\t259\tCHK"
+msgid "Yamashita"
+msgstr ""
+
+msgctxt "17\t53403\t260\tCHK"
+msgid "Ishikawa"
+msgstr ""
+
+msgctxt "17\t53412\t261\tCHK"
+msgid "Nakajima"
+msgstr ""
+
+msgctxt "17\t53421\t262\tCHK"
+msgid "Maeda"
+msgstr ""
+
+msgctxt "17\t53427\t263\tCHK"
+msgid "Fujita"
+msgstr ""
+
+msgctxt "17\t53434\t264\tCHK"
+msgid "Ogawa"
+msgstr ""
+
+msgctxt "17\t53440\t265\tCHK"
+msgid "Okada"
+msgstr ""
+
+msgctxt "17\t53446\t266\tCHK"
+msgid "Goto"
+msgstr ""
+
+msgctxt "17\t53451\t267\tCHK"
+msgid "Murakami"
+msgstr ""
+
+msgctxt "17\t53460\t268\tCHK"
+msgid "Kondo"
+msgstr ""
+
+msgctxt "17\t53466\t269\tCHK"
+msgid "Ishii"
+msgstr ""
+
+msgctxt "17\t53472\t270\tCHK"
+msgid "Sakamoto"
+msgstr ""
+
+msgctxt "17\t53481\t271\tCHK"
+msgid "Endo"
+msgstr ""
+
+msgctxt "17\t53486\t272\tCHK"
+msgid "Aoki"
+msgstr ""
+
+msgctxt "17\t53491\t273\tCHK"
+msgid "Fujii"
+msgstr ""
+
+msgctxt "17\t53497\t274\tCHK"
+msgid "Nishimura"
+msgstr ""
+
+msgctxt "17\t53507\t275\tCHK"
+msgid "Fukuda"
+msgstr ""
+
+msgctxt "17\t53514\t276\tCHK"
+msgid "Ota"
+msgstr ""
+
+msgctxt "17\t53518\t277\tCHK"
+msgid "Miura"
+msgstr ""
+
+msgctxt "17\t53524\t278\tCHK"
+msgid "Fujiwara"
+msgstr ""
+
+msgctxt "17\t53533\t279\tCHK"
+msgid "Okamoto"
+msgstr ""
+
+msgctxt "17\t53541\t280\tCHK"
+msgid "Matsuda"
+msgstr ""
+
+msgctxt "17\t53549\t281\tCHK"
+msgid "Nakagawa"
+msgstr ""
+
+msgctxt "17\t53558\t282\tCHK"
+msgid "Nakano"
+msgstr ""
+
+msgctxt "17\t53565\t283\tCHK"
+msgid "Harada"
+msgstr ""
+
+msgctxt "17\t53572\t284\tCHK"
+msgid "Ono"
+msgstr ""
+
+msgctxt "17\t53576\t285\tCHK"
+msgid "Takeuchi"
+msgstr ""
+
+msgctxt "17\t53585\t286\tCHK"
+msgid "Tamura"
+msgstr ""
+
+msgctxt "17\t53592\t287\tCHK"
+msgid "Kaneko"
+msgstr ""
+
+msgctxt "17\t53599\t288\tCHK"
+msgid "Nakayama"
+msgstr ""
+
+msgctxt "17\t53608\t289\tCHK"
+msgid "Ishida"
+msgstr ""
+
+msgctxt "17\t53615\t290\tCHK"
+msgid "Ueda"
+msgstr ""
+
+msgctxt "17\t53620\t291\tCHK"
+msgid "Morita"
+msgstr ""
+
+msgctxt "17\t53627\t292\tCHK"
+msgid "Hara"
+msgstr ""
+
+msgctxt "17\t53632\t293\tCHK"
+msgid "Ashikaga"
+msgstr ""
+
+msgctxt "17\t53641\t294\tCHK"
+msgid "Sakai"
+msgstr ""
+
+msgctxt "17\t53647\t295\tCHK"
+msgid "Kudo"
+msgstr ""
+
+msgctxt "17\t53652\t296\tCHK"
+msgid "Yokoyama"
+msgstr ""
+
+msgctxt "17\t53661\t297\tCHK"
+msgid "Miyazaki"
+msgstr ""
+
+msgctxt "17\t53670\t298\tCHK"
+msgid "Miyamoto"
+msgstr ""
+
+msgctxt "17\t53679\t299\tCHK"
+msgid "Uchida"
+msgstr ""
+
+msgctxt "17\t53686\t300\tCHK"
+msgid "Takagi"
+msgstr ""
+
+msgctxt "17\t53693\t301\tCHK"
+msgid "Ando"
+msgstr ""
+
+msgctxt "17\t53698\t302\tCHK"
+msgid "Taniguchi"
+msgstr ""
+
+msgctxt "17\t53708\t303\tCHK"
+msgid "Imai"
+msgstr ""
+
+msgctxt "17\t53713\t304\tCHK"
+msgid "Maruyama"
+msgstr ""
+
+msgctxt "17\t53722\t305\tCHK"
+msgid "Takada"
+msgstr ""
+
+msgctxt "17\t53729\t306\tCHK"
+msgid "Kono"
+msgstr ""
+
+msgctxt "17\t53734\t307\tCHK"
+msgid "Kojima"
+msgstr ""
+
+msgctxt "17\t53741\t308\tCHK"
+msgid "Takeda"
+msgstr ""
+
+msgctxt "17\t53748\t309\tCHK"
+msgid "Murata"
+msgstr ""
+
+msgctxt "17\t53755\t310\tCHK"
+msgid "Ueno"
+msgstr ""
+
+msgctxt "17\t53760\t311\tCHK"
+msgid "Sugiyama"
+msgstr ""
+
+msgctxt "17\t53769\t312\tCHK"
+msgid "Masuda"
+msgstr ""
+
+msgctxt "17\t53776\t313\tCHK"
+msgid "Sugawara"
+msgstr ""
+
+msgctxt "17\t53785\t314\tCHK"
+msgid "Hirano"
+msgstr ""
+
+msgctxt "17\t53792\t315\tCHK"
+msgid "Koyama"
+msgstr ""
+
+msgctxt "17\t53799\t316\tCHK"
+msgid "Otsuka"
+msgstr ""
+
+msgctxt "17\t53806\t317\tCHK"
+msgid "Kubo"
+msgstr ""
+
+msgctxt "17\t53811\t318\tCHK"
+msgid "Chiba"
+msgstr ""
+
+msgctxt "17\t53817\t319\tCHK"
+msgid "Matsui"
+msgstr ""
+
+msgctxt "17\t53824\t320\tCHK"
+msgid "Iwasaki"
+msgstr ""
+
+msgctxt "17\t53832\t321\tCHK"
+msgid "Noguchi"
+msgstr ""
+
+msgctxt "17\t53840\t322\tCHK"
+msgid "Matsuo"
+msgstr ""
+
+msgctxt "17\t53847\t323\tCHK"
+msgid "Kinoshita"
+msgstr ""
+
+msgctxt "17\t53857\t324\tCHK"
+msgid "Kikuchi"
+msgstr ""
+
+msgctxt "17\t53865\t325\tCHK"
+msgid "Nomura"
+msgstr ""
+
+msgctxt "17\t53872\t326\tCHK"
+msgid "Sano"
+msgstr ""
+
+msgctxt "17\t53877\t327\tCHK"
+msgid "Nishimaki"
+msgstr ""
+
+msgctxt "17\t53887\t328\tCHK"
+msgid "Sugimoto"
+msgstr ""
+
+msgctxt "17\t53896\t329\tCHK"
+msgid "Onishi"
+msgstr ""
+
+msgctxt "17\t53903\t330\tCHK"
+msgid "Sakurai"
+msgstr ""
+
+msgctxt "17\t53911\t331\tCHK"
+msgid "Furukawa"
+msgstr ""
+
+msgctxt "17\t53920\t332\tCHK"
+msgid "Ichikawa"
+msgstr ""
+
+msgctxt "17\t53929\t333\tCHK"
+msgid "Shimada"
+msgstr ""
+
+msgctxt "17\t53937\t334\tCHK"
+msgid "Komatsu"
+msgstr ""
+
+msgctxt "17\t53945\t335\tCHK"
+msgid "Takano"
+msgstr ""
+
+msgctxt "17\t53952\t336\tCHK"
+msgid "Mizuno"
+msgstr ""
+
+msgctxt "17\t53959\t337\tCHK"
+msgid "Yoshikawa"
+msgstr ""
+
+msgctxt "17\t53969\t338\tCHK"
+msgid "Yamauchi"
+msgstr ""
+
+msgctxt "17\t53978\t339\tCHK"
+msgid "Nishida"
+msgstr ""
+
+msgctxt "17\t53986\t340\tCHK"
+msgid "Kitamura"
+msgstr ""
+
+msgctxt "17\t53995\t341\tCHK"
+msgid "Hamada"
+msgstr ""
+
+msgctxt "17\t54002\t342\tCHK"
+msgid "Yasuda"
+msgstr ""
+
+msgctxt "17\t54009\t343\tCHK"
+msgid "Nakata"
+msgstr ""
+
+msgctxt "17\t54016\t344\tCHK"
+msgid "Kawaguchi"
+msgstr ""
+
+msgctxt "17\t54026\t345\tCHK"
+msgid "Hirata"
+msgstr ""
+
+msgctxt "17\t54033\t346\tCHK"
+msgid "Kawasaki"
+msgstr ""
+
+msgctxt "17\t54042\t347\tCHK"
+msgid "Higashi"
+msgstr ""
+
+msgctxt "17\t54050\t348\tCHK"
+msgid "Iida"
+msgstr ""
+
+msgctxt "17\t54055\t349\tCHK"
+msgid "Honda"
+msgstr ""
+
+msgctxt "17\t54061\t350\tCHK"
+msgid "Yoshimura"
+msgstr ""
+
+msgctxt "17\t54071\t351\tCHK"
+msgid "Tsuji"
+msgstr ""
+
+msgctxt "17\t54077\t352\tCHK"
+msgid "Seki"
+msgstr ""
+
+msgctxt "17\t54082\t353\tCHK"
+msgid "Nakanishi"
+msgstr ""
+
+msgctxt "17\t54092\t354\tCHK"
+msgid "Fukushima"
+msgstr ""
+
+msgctxt "17\t54102\t355\tCHK"
+msgid "Iwata"
+msgstr ""
+
+msgctxt "17\t54108\t356\tCHK"
+msgid "Hattori"
+msgstr ""
+
+msgctxt "17\t54116\t357\tCHK"
+msgid "Higuchi"
+msgstr ""
+
+msgctxt "17\t54124\t358\tCHK"
+msgid "Kawakami"
+msgstr ""
+
+msgctxt "17\t54133\t359\tCHK"
+msgid "Matsuoka"
+msgstr ""
+
+msgctxt "17\t54142\t360\tCHK"
+msgid "Nagai"
+msgstr ""
+
+msgctxt "17\t54148\t361\tCHK"
+msgid "Yamanaka"
+msgstr ""
+
+msgctxt "17\t54157\t362\tCHK"
+msgid "Taguchi"
+msgstr ""
+
+msgctxt "17\t54165\t363\tCHK"
+msgid "Morimoto"
+msgstr ""
+
+msgctxt "17\t54174\t364\tCHK"
+msgid "Yano"
+msgstr ""
+
+msgctxt "17\t54179\t365\tCHK"
+msgid "Kizuka"
+msgstr ""
+
+msgctxt "17\t54186\t366\tCHK"
+msgid "Tsuchiya"
+msgstr ""
+
+msgctxt "17\t54195\t367\tCHK"
+msgid "Ishihara"
+msgstr ""
+
+msgctxt "17\t54204\t368\tCHK"
+msgid "Matsushita"
+msgstr ""
+
+msgctxt "17\t54215\t369\tCHK"
+msgid "Baba"
+msgstr ""
+
+msgctxt "17\t54220\t370\tCHK"
+msgid "Ohashi"
+msgstr ""
+
+msgctxt "17\t54227\t371\tCHK"
+msgid "Yoshioka"
+msgstr ""
+
+msgctxt "17\t54236\t372\tCHK"
+msgid "Matsuura"
+msgstr ""
+
+msgctxt "17\t54245\t373\tCHK"
+msgid "Koike"
+msgstr ""
+
+msgctxt "17\t54251\t374\tCHK"
+msgid "Asano"
+msgstr ""
+
+msgctxt "17\t54257\t375\tCHK"
+msgid "Kumagai"
+msgstr ""
+
+msgctxt "17\t54265\t376\tCHK"
+msgid "Araki"
+msgstr ""
+
+msgctxt "17\t54271\t377\tCHK"
+msgid "Noda"
+msgstr ""
+
+msgctxt "17\t54276\t378\tCHK"
+msgid "Kawamura"
+msgstr ""
+
+msgctxt "17\t54285\t379\tCHK"
+msgid "Hoshino"
+msgstr ""
+
+msgctxt "17\t54293\t380\tCHK"
+msgid "Hirose"
+msgstr ""
+
+msgctxt "17\t54300\t381\tCHK"
+msgid "Otani"
+msgstr ""
+
+msgctxt "17\t54306\t382\tCHK"
+msgid "Ozaki"
+msgstr ""
+
+msgctxt "17\t54312\t383\tCHK"
+msgid "Tanabe"
+msgstr ""
+
+msgctxt "17\t54319\t384\tCHK"
+msgid "Nagata"
+msgstr ""
+
+msgctxt "17\t54326\t385\tCHK"
+msgid "Matsumura"
+msgstr ""
+
+msgctxt "17\t54336\t386\tCHK"
+msgid "Mochizuki"
+msgstr ""
+
+msgctxt "17\t54346\t387\tCHK"
+msgid "Hori"
+msgstr ""
+
+msgctxt "17\t54351\t388\tCHK"
+msgid "Naito"
+msgstr ""
+
+msgctxt "17\t54357\t389\tCHK"
+msgid "Kanno"
+msgstr ""
+
+msgctxt "17\t54363\t390\tCHK"
+msgid "Nishiyama"
+msgstr ""
+
+msgctxt "17\t54373\t391\tCHK"
+msgid "Oshima"
+msgstr ""
+
+msgctxt "17\t54380\t392\tCHK"
+msgid "Hirai"
+msgstr ""
+
+msgctxt "17\t54386\t393\tCHK"
+msgid "Iwamoto"
+msgstr ""
+
+msgctxt "17\t54394\t394\tCHK"
+msgid "Katayama"
+msgstr ""
+
+msgctxt "17\t54403\t395\tCHK"
+msgid "Honma"
+msgstr ""
+
+msgctxt "17\t54409\t396\tCHK"
+msgid "Hayakawa"
+msgstr ""
+
+msgctxt "17\t54418\t397\tCHK"
+msgid "Yokota"
+msgstr ""
+
+msgctxt "17\t54425\t398\tCHK"
+msgid "Arai"
+msgstr ""
+
+msgctxt "17\t54430\t399\tCHK"
+msgid "Okazaki"
+msgstr ""
+
+msgctxt "17\t54438\t400\tCHK"
+msgid "Kamata"
+msgstr ""
+
+msgctxt "17\t54445\t401\tCHK"
+msgid "Oishi"
+msgstr ""
+
+msgctxt "17\t54451\t402\tCHK"
+msgid "Narita"
+msgstr ""
+
+msgctxt "17\t54458\t403\tCHK"
+msgid "Oda"
+msgstr ""
+
+msgctxt "17\t54462\t404\tCHK"
+msgid "Miyata"
+msgstr ""
+
+msgctxt "17\t54469\t405\tCHK"
+msgid "Ishibashi"
+msgstr ""
+
+msgctxt "17\t54479\t406\tCHK"
+msgid "Shinohara"
+msgstr ""
+
+msgctxt "17\t54489\t407\tCHK"
+msgid "Hagiwara"
+msgstr ""
+
+msgctxt "17\t54498\t408\tCHK"
+msgid "Takayama"
+msgstr ""
+
+msgctxt "17\t54507\t409\tCHK"
+msgid "Konishi"
+msgstr ""
+
+msgctxt "17\t54515\t410\tCHK"
+msgid "Kurihara"
+msgstr ""
+
+msgctxt "17\t54524\t411\tCHK"
+msgid "Matsubara"
+msgstr ""
+
+msgctxt "17\t54534\t412\tCHK"
+msgid "Miyake"
+msgstr ""
+
+msgctxt "17\t54541\t413\tCHK"
+msgid "Fukui"
+msgstr ""
+
+msgctxt "17\t54547\t414\tCHK"
+msgid "Ozawa"
+msgstr ""
+
+msgctxt "17\t54553\t415\tCHK"
+msgid "Ishimori"
+msgstr ""
+
+msgctxt "17\t54562\t416\tCHK"
+msgid "Omori"
+msgstr ""
+
+msgctxt "17\t54568\t417\tCHK"
+msgid "Okumura"
+msgstr ""
+
+msgctxt "17\t54576\t418\tCHK"
+msgid "Kataoka"
+msgstr ""
+
+msgctxt "17\t54584\t419\tCHK"
+msgid "Uchiyama"
+msgstr ""
+
+msgctxt "17\t54593\t420\tCHK"
+msgid "Kuwabara"
+msgstr ""
+
+msgctxt "17\t54602\t421\tCHK"
+msgid "Oka"
+msgstr ""
+
+msgctxt "17\t54606\t422\tCHK"
+msgid "Tomita"
+msgstr ""
+
+msgctxt "17\t54613\t423\tCHK"
+msgid "Sekiguchi"
+msgstr ""
+
+msgctxt "17\t54623\t424\tCHK"
+msgid "Matsunaga"
+msgstr ""
+
+msgctxt "17\t54633\t425\tCHK"
+msgid "Okuda"
+msgstr ""
+
+msgctxt "17\t54639\t426\tCHK"
+msgid "Kitagawa"
+msgstr ""
+
+msgctxt "17\t54648\t427\tCHK"
+msgid "Koga"
+msgstr ""
+
+msgctxt "17\t54653\t428\tCHK"
+msgid "Uehara"
+msgstr ""
+
+msgctxt "17\t54660\t429\tCHK"
+msgid "Yagi"
+msgstr ""
+
+msgctxt "17\t54665\t430\tCHK"
+msgid "Yoshino"
+msgstr ""
+
+msgctxt "17\t54673\t431\tCHK"
+msgid "Shiraishi"
+msgstr ""
+
+msgctxt "17\t54683\t432\tCHK"
+msgid "Imamura"
+msgstr ""
+
+msgctxt "17\t54691\t433\tCHK"
+msgid "Kawashima"
+msgstr ""
+
+msgctxt "17\t54701\t434\tCHK"
+msgid "Uemura"
+msgstr ""
+
+msgctxt "17\t54708\t435\tCHK"
+msgid "Koizumi"
+msgstr ""
+
+msgctxt "17\t54716\t436\tCHK"
+msgid "Nakao"
+msgstr ""
+
+msgctxt "17\t54722\t437\tCHK"
+msgid "Aoyama"
+msgstr ""
+
+msgctxt "17\t54729\t438\tCHK"
+msgid "Hirayama"
+msgstr ""
+
+msgctxt "17\t54738\t439\tCHK"
+msgid "Makino"
+msgstr ""
+
+msgctxt "17\t54745\t440\tCHK"
+msgid "Sanzenin"
+msgstr ""
+
+msgctxt "17\t54754\t441\tCHK"
+msgid "Shibuya"
+msgstr ""
+
+msgctxt "17\t54762\t442\tCHK"
+msgid "Okamura"
+msgstr ""
+
+msgctxt "17\t54770\t443\tCHK"
+msgid "Kodama"
+msgstr ""
+
+msgctxt "17\t54777\t444\tCHK"
+msgid "Sakaguchi"
+msgstr ""
+
+msgctxt "17\t54787\t445\tCHK"
+msgid "Kawai"
+msgstr ""
+
+msgctxt "17\t54793\t446\tCHK"
+msgid "Oyama"
+msgstr ""
+
+msgctxt "17\t54799\t447\tCHK"
+msgid "Tada"
+msgstr ""
+
+msgctxt "17\t54804\t448\tCHK"
+msgid "Miyashita"
+msgstr ""
+
+msgctxt "17\t54814\t449\tCHK"
+msgid "Ogura"
+msgstr ""
+
+msgctxt "17\t54820\t450\tCHK"
+msgid "Adachi"
+msgstr ""
+
+msgctxt "17\t54827\t451\tCHK"
+msgid "Amano"
+msgstr ""
+
+msgctxt "17\t54833\t452\tCHK"
+msgid "Murayama"
+msgstr ""
+
+msgctxt "17\t54842\t453\tCHK"
+msgid "Nishi"
+msgstr ""
+
+msgctxt "17\t54848\t454\tCHK"
+msgid "Sugiura"
+msgstr ""
+
+msgctxt "17\t54856\t455\tCHK"
+msgid "Sakata"
+msgstr ""
+
+msgctxt "17\t54863\t456\tCHK"
+msgid "Ohara"
+msgstr ""
+
+msgctxt "17\t54869\t457\tCHK"
+msgid "Toyoda"
+msgstr ""
+
+msgctxt "17\t54876\t458\tCHK"
+msgid "Tsunoda"
+msgstr ""
+
+msgctxt "17\t54884\t459\tCHK"
+msgid "Mizutani"
+msgstr ""
+
+msgctxt "17\t54893\t460\tCHK"
+msgid "Nemoto"
+msgstr ""
+
+msgctxt "17\t54900\t461\tCHK"
+msgid "Sekine"
+msgstr ""
+
+msgctxt "17\t54907\t462\tCHK"
+msgid "Morishita"
+msgstr ""
+
+msgctxt "17\t54917\t463\tCHK"
+msgid "Nakai"
+msgstr ""
+
+msgctxt "17\t54923\t464\tCHK"
+msgid "Tajima"
+msgstr ""
+
+msgctxt "17\t54930\t465\tCHK"
+msgid "Tsukamoto"
+msgstr ""
+
+msgctxt "17\t54940\t466\tCHK"
+msgid "Iizuka"
+msgstr ""
+
+msgctxt "17\t54947\t467\tCHK"
+msgid "Maekawa"
+msgstr ""
+
+msgctxt "17\t54955\t468\tCHK"
+msgid "Asai"
+msgstr ""
+
+msgctxt "17\t54960\t469\tCHK"
+msgid "Yamane"
+msgstr ""
+
+msgctxt "17\t54967\t470\tCHK"
+msgid "Shirai"
+msgstr ""
+
+msgctxt "17\t54974\t471\tCHK"
+msgid "Miyagawa"
+msgstr ""
+
+msgctxt "17\t54983\t472\tCHK"
+msgid "Okabe"
+msgstr ""
+
+msgctxt "17\t54989\t473\tCHK"
+msgid "Osawa"
+msgstr ""
+
+msgctxt "17\t54995\t474\tCHK"
+msgid "Okawa"
+msgstr ""
+
+msgctxt "17\t55001\t475\tCHK"
+msgid "Osada"
+msgstr ""
+
+msgctxt "17\t55007\t476\tCHK"
+msgid "Horiuchi"
+msgstr ""
+
+msgctxt "17\t55016\t477\tCHK"
+msgid "Inagaki"
+msgstr ""
+
+msgctxt "17\t55024\t478\tCHK"
+msgid "Wakabayashi"
+msgstr ""
+
+msgctxt "17\t55036\t479\tCHK"
+msgid "Matsuzaki"
+msgstr ""
+
+msgctxt "17\t55046\t480\tCHK"
+msgid "Enomoto"
+msgstr ""
+
+msgctxt "17\t55054\t481\tCHK"
+msgid "Kamiya"
+msgstr ""
+
+msgctxt "17\t55061\t482\tCHK"
+msgid "Nakazawa"
+msgstr ""
+
+msgctxt "17\t55070\t483\tCHK"
+msgid "Eguchi"
+msgstr ""
+
+msgctxt "17\t55077\t484\tCHK"
+msgid "Nakatani"
+msgstr ""
+
+msgctxt "17\t55086\t485\tCHK"
+msgid "Hatakeyama"
+msgstr ""
+
+msgctxt "17\t55097\t486\tCHK"
+msgid "Tani"
+msgstr ""
+
+msgctxt "17\t55102\t487\tCHK"
+msgid "Oikawa"
+msgstr ""
+
+msgctxt "17\t55109\t488\tCHK"
+msgid "Hosokawa"
+msgstr ""
+
+msgctxt "17\t55118\t489\tCHK"
+msgid "Mikami"
+msgstr ""
+
+msgctxt "17\t55125\t490\tCHK"
+msgid "Konno"
+msgstr ""
+
+msgctxt "17\t55131\t491\tCHK"
+msgid "Nishio"
+msgstr ""
+
+msgctxt "17\t55138\t492\tCHK"
+msgid "Fuyo"
+msgstr ""
+
+msgctxt "17\t55143\t493\tCHK"
+msgid "Iijima"
+msgstr ""
+
+msgctxt "17\t55150\t494\tCHK"
+msgid "Ishizuka"
+msgstr ""
+
+msgctxt "17\t55159\t495\tCHK"
+msgid "Tsuda"
+msgstr ""
+
+msgctxt "17\t55165\t496\tCHK"
+msgid "Kishimoto"
+msgstr ""
+
+msgctxt "17\t55175\t497\tCHK"
+msgid "Arakawa"
+msgstr ""
+
+msgctxt "17\t55183\t498\tCHK"
+msgid "Nagao"
+msgstr ""
+
+msgctxt "17\t55189\t499\tCHK"
+msgid "Doi"
+msgstr ""
+
+msgctxt "17\t55193\t500\tCHK"
+msgid "Morikawa"
+msgstr ""
+
+msgctxt "17\t55202\t501\tCHK"
+msgid "Miyoshi"
+msgstr ""
+
+msgctxt "17\t55210\t502\tCHK"
+msgid "Toda"
+msgstr ""
+
+msgctxt "17\t55215\t503\tCHK"
+msgid "Kanai"
+msgstr ""
+
+msgctxt "17\t55221\t504\tCHK"
+msgid "Yoneda"
+msgstr ""
+
+msgctxt "17\t55228\t505\tCHK"
+msgid "Inaba"
+msgstr ""
+
+msgctxt "17\t55234\t506\tCHK"
+msgid "Okano"
+msgstr ""
+
+msgctxt "17\t55240\t507\tCHK"
+msgid "Muramatsu"
+msgstr ""
+
+msgctxt "17\t55250\t508\tCHK"
+msgid "Matsuyama"
+msgstr ""
+
+msgctxt "17\t55260\t509\tCHK"
+msgid "Saeki"
+msgstr ""
+
+msgctxt "17\t55266\t510\tCHK"
+msgid "Nishioka"
+msgstr ""
+
+msgctxt "17\t55275\t511\tCHK"
+msgid "Kai"
+msgstr ""
+
+msgctxt "17\t55279\t512\tCHK"
+msgid "Hoshi"
+msgstr ""
+
+msgctxt "17\t55285\t513\tCHK"
+msgid "Iwai"
+msgstr ""
+
+msgctxt "17\t55290\t514\tCHK"
+msgid "Tsutsumi"
+msgstr ""
+
+msgctxt "17\t55299\t515\tCHK"
+msgid "Nozaki"
+msgstr ""
+
+msgctxt "17\t55306\t516\tCHK"
+msgid "Ochiai"
+msgstr ""
+
+msgctxt "17\t55313\t517\tCHK"
+msgid "Hotta"
+msgstr ""
+
+msgctxt "17\t55319\t518\tCHK"
+msgid "Nishino"
+msgstr ""
+
+msgctxt "17\t55327\t519\tCHK"
+msgid "Machida"
+msgstr ""
+
+msgctxt "17\t55335\t520\tCHK"
+msgid "Sasaki"
+msgstr ""
+
+msgctxt "17\t55342\t521\tCHK"
+msgid "Yamagishi"
+msgstr ""
+
+msgctxt "17\t55352\t522\tCHK"
+msgid "Nitta"
+msgstr ""
+
+msgctxt "17\t55358\t523\tCHK"
+msgid "Furuta"
+msgstr ""
+
+msgctxt "17\t55365\t524\tCHK"
+msgid "Tokunaga"
+msgstr ""
+
+msgctxt "17\t55374\t525\tCHK"
+msgid "Takizawa"
+msgstr ""
+
+msgctxt "17\t55383\t526\tCHK"
+msgid "Kawada"
+msgstr ""
+
+msgctxt "17\t55390\t527\tCHK"
+msgid "Yamakawa"
+msgstr ""
+
+msgctxt "17\t55399\t528\tCHK"
+msgid "Sugita"
+msgstr ""
+
+msgctxt "17\t55406\t529\tCHK"
+msgid "Tsuchida"
+msgstr ""
+
+msgctxt "17\t55415\t530\tCHK"
+msgid "Kasahara"
+msgstr ""
+
+msgctxt "17\t55424\t531\tCHK"
+msgid "Kanazawa"
+msgstr ""
+
+msgctxt "17\t55433\t532\tCHK"
+msgid "Okuyama"
+msgstr ""
+
+msgctxt "17\t55441\t533\tCHK"
+msgid "Miki"
+msgstr ""
+
+msgctxt "17\t55446\t534\tCHK"
+msgid "Umeda"
+msgstr ""
+
+msgctxt "17\t55452\t535\tCHK"
+msgid "Murai"
+msgstr ""
+
+msgctxt "17\t55458\t536\tCHK"
+msgid "Nonaka"
+msgstr ""
+
+msgctxt "17\t55465\t537\tCHK"
+msgid "Otake"
+msgstr ""
+
+msgctxt "17\t55471\t538\tCHK"
+msgid "Kawabata"
+msgstr ""
+
+msgctxt "17\t55480\t539\tCHK"
+msgid "Omura"
+msgstr ""
+
+msgctxt "17\t55486\t540\tCHK"
+msgid "Kishi"
+msgstr ""
+
+msgctxt "17\t55492\t541\tCHK"
+msgid "Hidaka"
+msgstr ""
+
+msgctxt "17\t55499\t542\tCHK"
+msgid "Kajiwara"
+msgstr ""
+
+msgctxt "17\t55508\t543\tCHK"
+msgid "Hirota"
+msgstr ""
+
+msgctxt "17\t55515\t544\tCHK"
+msgid "Fujisawa"
+msgstr ""
+
+msgctxt "17\t55524\t545\tCHK"
+msgid "Nishimoto"
+msgstr ""
+
+msgctxt "17\t55534\t546\tCHK"
+msgid "Iguchi"
+msgstr ""
+
+msgctxt "17\t55541\t547\tCHK"
+msgid "Mukai"
+msgstr ""
+
+msgctxt "17\t55547\t548\tCHK"
+msgid "Oki"
+msgstr ""
+
+msgctxt "17\t55551\t549\tCHK"
+msgid "Oba"
+msgstr ""
+
+msgctxt "17\t55555\t550\tCHK"
+msgid "Matsushima"
+msgstr ""
+
+msgctxt "17\t55566\t551\tCHK"
+msgid "Takenaka"
+msgstr ""
+
+msgctxt "17\t55575\t552\tCHK"
+msgid "Sakakibara"
+msgstr ""
+
+msgctxt "17\t55586\t553\tCHK"
+msgid "Fujikawa"
+msgstr ""
+
+msgctxt "17\t55595\t554\tCHK"
+msgid "Yoshimoto"
+msgstr ""
+
+msgctxt "17\t55605\t555\tCHK"
+msgid "Kawahara"
+msgstr ""
+
+msgctxt "17\t55614\t556\tCHK"
+msgid "Yasui"
+msgstr ""
+
+msgctxt "17\t55620\t557\tCHK"
+msgid "Ouchi"
+msgstr ""
+
+msgctxt "17\t55626\t558\tCHK"
+msgid "Yoshihara"
+msgstr ""
+
+msgctxt "17\t55636\t559\tCHK"
+msgid "Fujioka"
+msgstr ""
+
+msgctxt "17\t55644\t560\tCHK"
+msgid "Shoji"
+msgstr ""
+
+msgctxt "17\t55650\t561\tCHK"
+msgid "Tsukada"
+msgstr ""
+
+msgctxt "17\t55658\t562\tCHK"
+msgid "Fukumoto"
+msgstr ""
+
+msgctxt "17\t55667\t563\tCHK"
+msgid "Yanagisawa"
+msgstr ""
+
+msgctxt "17\t55678\t564\tCHK"
+msgid "Kotani"
+msgstr ""
+
+msgctxt "17\t55685\t565\tCHK"
+msgid "Hiiragi"
+msgstr ""
+
+msgctxt "17\t55693\t566\tCHK"
+msgid "Fujimura"
+msgstr ""
+
+msgctxt "17\t55702\t567\tCHK"
+msgid "Miyauchi"
+msgstr ""
+
+msgctxt "17\t55711\t568\tCHK"
+msgid "Takemoto"
+msgstr ""
+
+msgctxt "17\t55720\t569\tCHK"
+msgid "Tanigawa"
+msgstr ""
+
+msgctxt "17\t55729\t570\tCHK"
+msgid "Uno"
+msgstr ""
+
+msgctxt "17\t55733\t571\tCHK"
+msgid "Ogata"
+msgstr ""
+
+msgctxt "17\t55739\t572\tCHK"
+msgid "Okuno"
+msgstr ""
+
+msgctxt "17\t55745\t573\tCHK"
+msgid "Miyazawa"
+msgstr ""
+
+msgctxt "17\t55754\t574\tCHK"
+msgid "Kubota"
+msgstr ""
+
+msgctxt "17\t55761\t575\tCHK"
+msgid "Shimoda"
+msgstr ""
+
+msgctxt "17\t55769\t576\tCHK"
+msgid "Kitano"
+msgstr ""
+
+msgctxt "17\t55776\t577\tCHK"
+msgid "Kurita"
+msgstr ""
+
+msgctxt "17\t55783\t578\tCHK"
+msgid "Ishiguro"
+msgstr ""
+
+msgctxt "17\t55792\t579\tCHK"
+msgid "Kamei"
+msgstr ""
+
+msgctxt "17\t55798\t580\tCHK"
+msgid "Nagano"
+msgstr ""
+
+msgctxt "17\t55805\t581\tCHK"
+msgid "Hirakawa"
+msgstr ""
+
+msgctxt "17\t55814\t582\tCHK"
+msgid "Fujino"
+msgstr ""
+
+msgctxt "17\t55821\t583\tCHK"
+msgid "Miyahara"
+msgstr ""
+
+msgctxt "17\t55830\t584\tCHK"
+msgid "Nagashima"
+msgstr ""
+
+msgctxt "17\t55840\t585\tCHK"
+msgid "Kawamoto"
+msgstr ""
+
+msgctxt "17\t55849\t586\tCHK"
+msgid "Mogi"
+msgstr ""
+
+msgctxt "17\t55854\t587\tCHK"
+msgid "Miwa"
+msgstr ""
+
+msgctxt "17\t55859\t588\tCHK"
+msgid "Shimomura"
+msgstr ""
+
+msgctxt "17\t55869\t589\tCHK"
+msgid "Yamamura"
+msgstr ""
+
+msgctxt "17\t55878\t590\tCHK"
+msgid "Niwa"
+msgstr ""
+
+msgctxt "17\t55883\t591\tCHK"
+msgid "Takai"
+msgstr ""
+
+msgctxt "17\t55889\t592\tCHK"
+msgid "Furuya"
+msgstr ""
+
+msgctxt "17\t55896\t593\tCHK"
+msgid "Yoshizawa"
+msgstr ""
+
+msgctxt "17\t55906\t594\tCHK"
+msgid "Aoyagi"
+msgstr ""
+
+msgctxt "17\t55913\t595\tCHK"
+msgid "Takemura"
+msgstr ""
+
+msgctxt "17\t55922\t596\tCHK"
+msgid "Deguchi"
+msgstr ""
+
+msgctxt "17\t55930\t597\tCHK"
+msgid "Ogino"
+msgstr ""
+
+msgctxt "17\t55936\t598\tCHK"
+msgid "Komori"
+msgstr ""
+
+msgctxt "17\t55943\t599\tCHK"
+msgid "Tahara"
+msgstr ""
+
+msgctxt "17\t55950\t600\tCHK"
+msgid "Takase"
+msgstr ""
+
+msgctxt "17\t55957\t601\tCHK"
+msgid "Inada"
+msgstr ""
+
+msgctxt "17\t55963\t602\tCHK"
+msgid "Oshiro"
+msgstr ""
+
+msgctxt "17\t55970\t603\tCHK"
+msgid "Tsutsui"
+msgstr ""
+
+msgctxt "17\t55978\t604\tCHK"
+msgid "Fukuoka"
+msgstr ""
+
+msgctxt "17\t55986\t605\tCHK"
+msgid "Yokoi"
+msgstr ""
+
+msgctxt "17\t55992\t606\tCHK"
+msgid "Ohira"
+msgstr ""
+
+msgctxt "17\t55998\t607\tCHK"
+msgid "Miyagi"
+msgstr ""
+
+msgctxt "17\t56005\t608\tCHK"
+msgid "Fukunaga"
+msgstr ""
+
+msgctxt "17\t56014\t609\tCHK"
+msgid "Hayashida"
+msgstr ""
+
+msgctxt "17\t56024\t610\tCHK"
+msgid "Shinozaki"
+msgstr ""
+
+msgctxt "17\t56034\t611\tCHK"
+msgid "Tominaga"
+msgstr ""
+
+msgctxt "17\t56043\t612\tCHK"
+msgid "Nagaoka"
+msgstr ""
+
+msgctxt "17\t56051\t613\tCHK"
+msgid "Mizoguchi"
+msgstr ""
+
+msgctxt "17\t56061\t614\tCHK"
+msgid "Yamaoka"
+msgstr ""
+
+msgctxt "17\t56069\t615\tCHK"
+msgid "Hiramatsu"
+msgstr ""
+
+msgctxt "17\t56079\t616\tCHK"
+msgid "Kitahara"
+msgstr ""
+
+msgctxt "17\t56088\t617\tCHK"
+msgid "Asada"
+msgstr ""
+
+msgctxt "17\t56094\t618\tCHK"
+msgid "Ochi"
+msgstr ""
+
+msgctxt "17\t56099\t619\tCHK"
+msgid "Tsuruta"
+msgstr ""
+
+msgctxt "17\t56107\t620\tCHK"
+msgid "Takei"
+msgstr ""
+
+msgctxt "17\t56113\t621\tCHK"
+msgid "Yanagida"
+msgstr ""
+
+msgctxt "17\t56122\t622\tCHK"
+msgid "Nishizawa"
+msgstr ""
+
+msgctxt "17\t56132\t623\tCHK"
+msgid "Irie"
+msgstr ""
+
+msgctxt "17\t56137\t624\tCHK"
+msgid "Yuasa"
+msgstr ""
+
+msgctxt "17\t56143\t625\tCHK"
+msgid "Nagasawa"
+msgstr ""
+
+msgctxt "17\t56152\t626\tCHK"
+msgid "Souma"
+msgstr ""
+
+msgctxt "17\t56158\t627\tCHK"
+msgid "Ishiyama"
+msgstr ""
+
+msgctxt "17\t56167\t628\tCHK"
+msgid "Sonoda"
+msgstr ""
+
+msgctxt "17\t56174\t629\tCHK"
+msgid "Takamatsu"
+msgstr ""
+
+msgctxt "17\t56184\t630\tCHK"
+msgid "Horikawa"
+msgstr ""
+
+msgctxt "17\t56193\t631\tCHK"
+msgid "Ninomiya"
+msgstr ""
+
+msgctxt "17\t56202\t632\tCHK"
+msgid "Usui"
+msgstr ""
+
+msgctxt "17\t56207\t633\tCHK"
+msgid "Tezuka"
+msgstr ""
+
+msgctxt "17\t56214\t634\tCHK"
+msgid "Numata"
+msgstr ""
+
+msgctxt "17\t56221\t635\tCHK"
+msgid "Kawano"
+msgstr ""
+
+msgctxt "17\t56228\t636\tCHK"
+msgid "Ishizaki"
+msgstr ""
+
+msgctxt "17\t56237\t637\tCHK"
+msgid "Fukazawa"
+msgstr ""
+
+msgctxt "17\t56246\t638\tCHK"
+msgid "Hanada"
+msgstr ""
+
+msgctxt "17\t56253\t639\tCHK"
+msgid "Ikegami"
+msgstr ""
+
+msgctxt "17\t56261\t640\tCHK"
+msgid "Shinoda"
+msgstr ""
+
+msgctxt "17\t56269\t641\tCHK"
+msgid "Hiraoka"
+msgstr ""
+
+msgctxt "17\t56277\t642\tCHK"
+msgid "Tanimoto"
+msgstr ""
+
+msgctxt "17\t56286\t643\tCHK"
+msgid "Koide"
+msgstr ""
+
+msgctxt "17\t56292\t644\tCHK"
+msgid "Sugihara"
+msgstr ""
+
+msgctxt "17\t56301\t645\tCHK"
+msgid "Negishi"
+msgstr ""
+
+msgctxt "17\t56309\t646\tCHK"
+msgid "Nishihara"
+msgstr ""
+
+msgctxt "17\t56319\t647\tCHK"
+msgid "Seto"
+msgstr ""
+
+msgctxt "17\t56324\t648\tCHK"
+msgid "Tabata"
+msgstr ""
+
+msgctxt "17\t56331\t649\tCHK"
+msgid "Nozawa"
+msgstr ""
+
+msgctxt "17\t56338\t650\tCHK"
+msgid "Katagiri"
+msgstr ""
+
+msgctxt "17\t56347\t651\tCHK"
+msgid "Hamaguchi"
+msgstr ""
+
+msgctxt "17\t56357\t652\tCHK"
+msgid "Shimura"
+msgstr ""
+
+msgctxt "17\t56365\t653\tCHK"
+msgid "Aizawa"
+msgstr ""
+
+msgctxt "17\t56372\t654\tCHK"
+msgid "Yajima"
+msgstr ""
+
+msgctxt "17\t56379\t655\tCHK"
+msgid "Kosaka"
+msgstr ""
+
+msgctxt "17\t56386\t656\tCHK"
+msgid "Kurata"
+msgstr ""
+
+msgctxt "17\t56393\t657\tCHK"
+msgid "Hino"
+msgstr ""
+
+msgctxt "17\t56398\t658\tCHK"
+msgid "Fukuhara"
+msgstr ""
+
+msgctxt "17\t56407\t659\tCHK"
+msgid "Kano"
+msgstr ""
+
+msgctxt "17\t56412\t660\tCHK"
+msgid "Senda"
+msgstr ""
+
+msgctxt "17\t56418\t661\tCHK"
+msgid "Horiguchi"
+msgstr ""
+
+msgctxt "17\t56428\t662\tCHK"
+msgid "Shintani"
+msgstr ""
+
+msgctxt "17\t56437\t663\tCHK"
+msgid "Matsuno"
+msgstr ""
+
+msgctxt "17\t56445\t664\tCHK"
+msgid "Horii"
+msgstr ""
+
+msgctxt "17\t56451\t665\tCHK"
+msgid "Murase"
+msgstr ""
+
+msgctxt "17\t56458\t666\tCHK"
+msgid "Tokuda"
+msgstr ""
+
+msgctxt "17\t56465\t667\tCHK"
+msgid "Suga"
+msgstr ""
+
+msgctxt "17\t56470\t668\tCHK"
+msgid "Tagami"
+msgstr ""
+
+msgctxt "17\t56477\t669\tCHK"
+msgid "Morioka"
+msgstr ""
+
+msgctxt "17\t56485\t670\tCHK"
+msgid "Yoshii"
+msgstr ""
+
+msgctxt "17\t56492\t671\tCHK"
+msgid "Shimazaki"
+msgstr ""
+
+msgctxt "17\t56502\t672\tCHK"
+msgid "Kitajima"
+msgstr ""
+
+msgctxt "17\t56511\t673\tCHK"
+msgid "Hamano"
+msgstr ""
+
+msgctxt "17\t56518\t674\tCHK"
+msgid "Utsumi"
+msgstr ""
+
+msgctxt "17\t56525\t675\tCHK"
+msgid "Shirakawa"
+msgstr ""
+
+msgctxt "17\t56535\t676\tCHK"
+msgid "Nakamoto"
+msgstr ""
+
+msgctxt "17\t56544\t677\tCHK"
+msgid "Hatanaka"
+msgstr ""
+
+msgctxt "17\t56553\t678\tCHK"
+msgid "Iwase"
+msgstr ""
+
+msgctxt "17\t56559\t679\tCHK"
+msgid "Koyanagi"
+msgstr ""
+
+msgctxt "17\t56568\t680\tCHK"
+msgid "Mitani"
+msgstr ""
+
+msgctxt "17\t56575\t681\tCHK"
+msgid "Osaki"
+msgstr ""
+
+msgctxt "17\t56581\t682\tCHK"
+msgid "Akita"
+msgstr ""
+
+msgctxt "17\t56587\t683\tCHK"
+msgid "Haraguchi"
+msgstr ""
+
+msgctxt "17\t56597\t684\tCHK"
+msgid "Izumi"
+msgstr ""
+
+msgctxt "17\t56603\t685\tCHK"
+msgid "Ayanokoji"
+msgstr ""
+
+msgctxt "17\t56613\t686\tCHK"
+msgid "Asahina"
+msgstr ""
+
+msgctxt "17\t56621\t687\tCHK"
+msgid "Nagato"
+msgstr ""
+
+msgctxt "17\t56628\t688\tCHK"
+msgid "Miyajima"
+msgstr ""
+
+msgctxt "17\t56637\t689\tCHK"
+msgid "Tashiro"
+msgstr ""
+
+msgctxt "17\t56645\t690\tCHK"
+msgid "Amae"
+msgstr ""
+
+msgctxt "17\t56650\t691\tCHK"
+msgid "Nasuno"
+msgstr ""
+
+msgctxt "17\t56657\t692\tCHK"
+msgid "Urameshi"
+msgstr ""
+
+msgctxt "17\t56666\t693\tCHK"
+msgid "Nishihama"
+msgstr ""
+
+msgctxt "17\t56676\t694\tCHK"
+msgid "Arima"
+msgstr ""
+
+msgctxt "17\t56682\t695\tCHK"
+msgid "Komaki's Pupil"
+msgstr ""
+
+msgctxt "17\t56697\t696\tCHK"
+msgid "Jewelry Thief"
+msgstr ""
+
+msgctxt "17\t56711\t697\tCHK"
+msgid "Tsukushi"
+msgstr ""
+
+msgctxt "17\t56720\t698\tCHK"
+msgid "Masaoka"
+msgstr ""
+
+msgctxt "17\t56728\t699\tCHK"
+msgid "Gary Buster Holmes"
+msgstr ""
+
+msgctxt "17\t56747\t700\tCHK"
+msgid "Fuse"
+msgstr ""
+
+msgctxt "17\t56752\t701\tCHK"
+msgid "Tsugawa"
+msgstr ""
+
+msgctxt "17\t56760\t702\tCHK"
+msgid "Billy"
+msgstr ""
+
+msgctxt "17\t56766\t703\tCHK"
+msgid "Max"
+msgstr ""
+
+msgctxt "17\t56770\t704\tCHK"
+msgid "Samson"
+msgstr ""
+
+msgctxt "17\t56777\t705\tCHK"
+msgid "Tony"
+msgstr ""
+
+msgctxt "17\t56782\t706\tCHK"
+msgid "Carl"
+msgstr ""
+
+msgctxt "17\t56787\t707\tCHK"
+msgid "Kinugawa"
+msgstr ""
+
+msgctxt "17\t56796\t708\tCHK"
+msgid "Shiobara"
+msgstr ""
+
+msgctxt "17\t56805\t709\tCHK"
+msgid "Saki"
+msgstr ""
+
+msgctxt "17\t56810\t710\tCHK"
+msgid "Shino"
+msgstr ""
+
+msgctxt "17\t56816\t711\tCHK"
+msgid "0"
+msgstr ""
+
+msgctxt "17\t56818\t712\tCHK"
+msgid "Escort Target"
+msgstr ""
+
+msgctxt "17\t56832\t713\tCHK"
+msgid "Hitman"
+msgstr ""
+
+msgctxt "17\t56839\t714\tCHK"
+msgid "Terada"
+msgstr ""
+
+msgctxt "17\t56846\t715\tCHK"
+msgid "Tatekawa"
+msgstr ""
+
+msgctxt "17\t56855\t716\tCHK"
+msgid "Kusuno"
+msgstr ""
+
+msgctxt "17\t56862\t717\tCHK"
+msgid "Violently Drunk Husband"
+msgstr ""
+
+msgctxt "17\t56886\t718\tCHK"
+msgid "Masked Man B"
+msgstr ""
+
+msgctxt "17\t56899\t719\tCHK"
+msgid "Masked Man A"
+msgstr ""
+
+msgctxt "17\t56912\t720\tCHK"
+msgid "Masked Man C"
+msgstr ""
+
+msgctxt "17\t56925\t721\tCHK"
+msgid "Tadokoro"
+msgstr ""
+
+msgctxt "17\t56934\t722\tCHK"
+msgid "Isawa"
+msgstr ""
+
+msgctxt "17\t56940\t723\tCHK"
+msgid "Cao"
+msgstr ""
+
+msgctxt "17\t56944\t724\tCHK"
+msgid "Guo"
+msgstr ""
+
+msgctxt "17\t56948\t725\tCHK"
+msgid "Xu"
+msgstr ""
+
+msgctxt "17\t56951\t726\tCHK"
+msgid "Yu"
+msgstr ""
+
+msgctxt "17\t56954\t727\tCHK"
+msgid "Shinya"
+msgstr ""
+
+msgctxt "17\t56961\t728\tCHK"
+msgid "Son"
+msgstr ""
+
+msgctxt "17\t56965\t729\tCHK"
+msgid "Kim"
+msgstr ""
+
+msgctxt "17\t56969\t730\tCHK"
+msgid "Wang"
+msgstr ""
+
+msgctxt "17\t56974\t731\tCHK"
+msgid "Aota"
+msgstr ""
+
+msgctxt "17\t56979\t732\tCHK"
+msgid "Uchibori"
+msgstr ""
+
+msgctxt "17\t56988\t733\tCHK"
+msgid "Maeno"
+msgstr ""
+
+msgctxt "17\t56994\t734\tCHK"
+msgid "Toshi"
+msgstr ""
+
+msgctxt "17\t57000\t735\tCHK"
+msgid "Raymond"
+msgstr ""
+
+msgctxt "17\t57008\t736\tCHK"
+msgid "Reggie"
+msgstr ""
+
+msgctxt "17\t57015\t737\tCHK"
+msgid "Tim"
+msgstr ""
+
+msgctxt "17\t57019\t738\tCHK"
+msgid "Barry"
+msgstr ""
+
+msgctxt "17\t57025\t739\tCHK"
+msgid "Jamie"
+msgstr ""
+
+msgctxt "17\t57031\t740\tCHK"
+msgid "Eddy"
+msgstr ""
+
+msgctxt "17\t57036\t741\tCHK"
+msgid "Aigawa"
+msgstr ""
+
+msgctxt "17\t57043\t742\tCHK"
+msgid "Reign"
+msgstr ""
+
+msgctxt "17\t57049\t743\tCHK"
+msgid "Dee Jay"
+msgstr ""
+
+msgctxt "17\t57057\t744\tCHK"
+msgid "Chen"
+msgstr ""
+
+msgctxt "17\t57062\t745\tCHK"
+msgid "Rank 0"
+msgstr ""
+
+msgctxt "17\t57069\t746\tCHK"
+msgid "Rank 1"
+msgstr ""
+
+msgctxt "17\t57076\t747\tCHK"
+msgid "Blue"
+msgstr ""
+
+msgctxt "17\t57081\t748\tCHK"
+msgid "Rouge"
+msgstr ""
+
+msgctxt "17\t57087\t749\tCHK"
+msgid "GG"
+msgstr ""
+
+msgctxt "17\t57090\t750\tCHK"
+msgid "Edgar"
+msgstr ""
+
+msgctxt "17\t57096\t751\tCHK"
+msgid "Freddy"
+msgstr ""
+
+msgctxt "17\t57103\t752\tCHK"
+msgid "Jose"
+msgstr ""
+
+msgctxt "17\t57108\t753\tCHK"
+msgid "Florendo"
+msgstr ""
+
+msgctxt "17\t57117\t754\tCHK"
+msgid "Marlon"
+msgstr ""
+
+msgctxt "17\t57124\t755\tCHK"
+msgid "Randy"
+msgstr ""
+
+msgctxt "17\t57130\t756\tCHK"
+msgid "Kawana"
+msgstr ""
+
+msgctxt "17\t57137\t757\tCHK"
+msgid "Morinaga"
+msgstr ""
+
+msgctxt "17\t57146\t758\tCHK"
+msgid "Aoi"
+msgstr ""
+
+msgctxt "17\t57150\t759\tCHK"
+msgid "Aida"
+msgstr ""
+
+msgctxt "17\t57155\t760\tCHK"
+msgid "Noir"
+msgstr ""
+
+msgctxt "17\t57160\t761\tCHK"
+msgid "Blanc"
+msgstr ""
+
+msgctxt "17\t57166\t762\tCHK"
+msgid "Hayase"
+msgstr ""
+
+msgctxt "17\t57173\t763\tCHK"
+msgid "RA"
+msgstr ""
+
+msgctxt "17\t57176\t764\tCHK"
+msgid "Prison Guard"
+msgstr ""
+
+msgctxt "17\t57189\t765\tCHK"
+msgid "Makoto Tokita"
+msgstr ""
+
+msgctxt "18\t82824\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "18\t82825\t1\tCHK"
+msgid "Street Punks"
+msgstr ""
+
+msgctxt "18\t82838\t2\tCHK"
+msgid "Gang Members"
+msgstr ""
+
+msgctxt "18\t82851\t3\tCHK"
+msgid "Shifty-eyed Man"
+msgstr ""
+
+msgctxt "18\t82867\t4\tCHK"
+msgid "Street Thugs"
+msgstr ""
+
+msgctxt "18\t82880\t5\tCHK"
+msgid "Kamurocho Punks"
+msgstr ""
+
+msgctxt "18\t82896\t6\tCHK"
+msgid "Kamurocho Man"
+msgstr ""
+
+msgctxt "18\t82910\t7\tCHK"
+msgid "Kamurocho Yakuza"
+msgstr ""
+
+msgctxt "18\t82927\t8\tCHK"
+msgid "Town Yakuza"
+msgstr ""
+
+msgctxt "18\t82939\t9\tCHK"
+msgid "Yakuza"
+msgstr ""
+
+msgctxt "18\t82946\t10\tCHK"
+msgid "Drunk"
+msgstr ""
+
+msgctxt "18\t82952\t11\tCHK"
+msgid "Ueno Seiwa Clan Member Ihara"
+msgstr ""
+
+msgctxt "18\t82981\t12\tCHK"
+msgid "Shibata Family Members"
+msgstr ""
+
+msgctxt "18\t83004\t13\tCHK"
+msgid "Shibata Family Hitmen"
+msgstr ""
+
+msgctxt "18\t83026\t14\tCHK"
+msgid "Ueno Seiwa Clan Members"
+msgstr ""
+
+msgctxt "18\t83050\t15\tCHK"
+msgid "Hatsushiba Clan Members"
+msgstr ""
+
+msgctxt "18\t83074\t16\tCHK"
+msgid "Takumi Midorikawa  Hatsushiba Clan Lieutenant "
+msgstr ""
+
+msgctxt "18\t83121\t17\tCHK"
+msgid "Daisaku Minami  Junior Leader of the Majima Family, a Tojo Clan Subsidiary "
+msgstr ""
+
+msgctxt "18\t83197\t18\tCHK"
+msgid "Inmate"
+msgstr ""
+
+msgctxt "18\t83204\t19\tCHK"
+msgid "Prison Guard"
+msgstr ""
+
+msgctxt "18\t83217\t20\tCHK"
+msgid "Head to the Director's Office"
+msgstr ""
+
+msgctxt "18\t83247\t21\tCHK"
+msgid "Escape"
+msgstr ""
+
+msgctxt "18\t83254\t22\tCHK"
+msgid "Prison Guard Saito"
+msgstr ""
+
+msgctxt "18\t83273\t23\tCHK"
+msgid "Kazuma Kiryu"
+msgstr ""
+
+msgctxt "18\t83286\t24\tSUS"
+msgid "Ivan Ibrahimović"
+msgstr ""
+
+msgctxt "18\t83304\t25\tCHK"
+msgid "Majima Family Member"
+msgstr ""
+
+msgctxt "18\t83325\t26\tCHK"
+msgid "Patriarch of the Majima Family, a Tojo Clan Subsidiary, Goro Majima"
+msgstr ""
+
+msgctxt "18\t83393\t27\tCHK"
+msgid "Chase Sugiuchi"
+msgstr ""
+
+msgctxt "18\t83408\t28\tCHK"
+msgid "Junji Sugiuchi"
+msgstr ""
+
+msgctxt "18\t83423\t29\tCHK"
+msgid "Shun Akiyama and Masayoshi Tanimura"
+msgstr ""
+
+msgctxt "18\t83459\t30\tCHK"
+msgid "Head to the Roof!"
+msgstr ""
+
+msgctxt "18\t83477\t31\tCHK"
+msgid "Junior Leader of the Tojo Clan's Kanemura Kogyo Hiroaki Arai"
+msgstr ""
+
+msgctxt "18\t83538\t32\tCHK"
+msgid "Member of the Tojo Clan's Kanemura Kogyo Takeshi Kido"
+msgstr ""
+
+msgctxt "18\t83592\t33\tCHK"
+msgid "Sixth Chairman of the Tojo Clan, Daigo Dojima"
+msgstr ""
+
+msgctxt "18\t83638\t34\tCHK"
+msgid "Seishiro Munakata"
+msgstr ""
+
+msgctxt "18\t83656\t35\tCHK"
+msgid "Run!"
+msgstr ""
+
+msgctxt "18\t83661\t36\tCHK"
+msgid "Complete 10 Missions!"
+msgstr ""
+
+msgctxt "18\t83683\t37\tCHK"
+msgid "Protect the Master"
+msgstr ""
+
+msgctxt "18\t83702\t38\tCHK"
+msgid "Sparring with Nair"
+msgstr ""
+
+msgctxt "18\t83721\t39\tCHK"
+msgid "Komaki's Training"
+msgstr ""
+
+msgctxt "18\t83739\t40\tCHK"
+msgid "GG"
+msgstr ""
+
+msgctxt "18\t83742\t41\tCHK"
+msgid "Kamurocho Aqua Devils"
+msgstr ""
+
+msgctxt "18\t83764\t42\tCHK"
+msgid "Kamuro Phoenix"
+msgstr ""
+
+msgctxt "18\t83779\t43\tCHK"
+msgid "Kanto Gangsters"
+msgstr ""
+
+msgctxt "18\t83795\t44\tCHK"
+msgid "Slumdogs"
+msgstr ""
+
+msgctxt "18\t83804\t45\tCHK"
+msgid "Black Nightmare"
+msgstr ""
+
+msgctxt "18\t83820\t46\tCHK"
+msgid "Purple Killers"
+msgstr ""
+
+msgctxt "18\t83835\t47\tCHK"
+msgid "The Dark Clan"
+msgstr ""
+
+msgctxt "18\t83849\t48\tCHK"
+msgid "Jo Amon"
+msgstr ""
+
+msgctxt "18\t83857\t49\tCHK"
+msgid "Kazuya Amon"
+msgstr ""
+
+msgctxt "18\t83869\t50\tCHK"
+msgid "Jiro Amon"
+msgstr ""
+
+msgctxt "18\t83879\t51\tCHK"
+msgid "Sango Amon"
+msgstr ""
+
+msgctxt "18\t83890\t52\tCHK"
+msgid "Isawa"
+msgstr ""
+
+msgctxt "18\t83896\t53\tCHK"
+msgid "Sparring"
+msgstr ""
+
+msgctxt "18\t83905\t54\tCHK"
+msgid "Keep Digging"
+msgstr ""
+
+msgctxt "18\t83918\t55\tCHK"
+msgid "Master Grand Prix"
+msgstr ""
+
+msgctxt "18\t83936\t56\tCHK"
+msgid "Battle King Championship"
+msgstr ""
+
+msgctxt "18\t83961\t57\tCHK"
+msgid "Fastest Killer Championship"
+msgstr ""
+
+msgctxt "18\t83989\t58\tCHK"
+msgid "Tadokoro"
+msgstr ""
+
+msgctxt "18\t83998\t59\tCHK"
+msgid "Tadokoro's Subordinate"
+msgstr ""
+
+msgctxt "18\t84021\t60\tCHK"
+msgid "Saigo's Training"
+msgstr ""
+
+msgctxt "18\t84038\t61\tCHK"
+msgid "Collect Money"
+msgstr ""
+
+msgctxt "18\t84052\t62\tCHK"
+msgid "Go to Sky Finance"
+msgstr ""
+
+msgctxt "18\t84070\t63\tCHK"
+msgid "Run from the Cops!"
+msgstr ""
+
+msgctxt "18\t84089\t64\tCHK"
+msgid "Lily's Test"
+msgstr ""
+
+msgctxt "18\t84101\t65\tCHK"
+msgid "Head to Marimba"
+msgstr ""
+
+msgctxt "18\t84117\t66\tCHK"
+msgid "Chase Midorikawa"
+msgstr ""
+
+msgctxt "18\t84134\t67\tCHK"
+msgid "Head to the Millennium Tower"
+msgstr ""
+
+msgctxt "18\t84163\t68\tCHK"
+msgid "Chase Hana-chan"
+msgstr ""
+
+msgctxt "18\t84179\t69\tCHK"
+msgid "Prepare for Jailbreak"
+msgstr ""
+
+msgctxt "18\t84201\t70\tCHK"
+msgid "Find Sasai"
+msgstr ""
+
+msgctxt "18\t84212\t71\tCHK"
+msgid "Find Kido"
+msgstr ""
+
+msgctxt "18\t84222\t72\tCHK"
+msgid "Head to the Hideout"
+msgstr ""
+
+msgctxt "18\t84242\t73\tCHK"
+msgid "Go See the Florist"
+msgstr ""
+
+msgctxt "18\t84261\t74\tCHK"
+msgid "Find the Informant"
+msgstr ""
+
+msgctxt "18\t84280\t75\tCHK"
+msgid "Head to Kokyo"
+msgstr ""
+
+msgctxt "18\t84294\t76\tCHK"
+msgid "Head to Midori"
+msgstr ""
+
+msgctxt "18\t84309\t77\tCHK"
+msgid "Find Yasuko"
+msgstr ""
+
+msgctxt "18\t84321\t78\tCHK"
+msgid "Get the 100 Million Yen"
+msgstr ""
+
+msgctxt "18\t84345\t79\tCHK"
+msgid "Get in Contact with Katsuragi"
+msgstr ""
+
+msgctxt "18\t84375\t80\tCHK"
+msgid "Head to Police Headquarters"
+msgstr ""
+
+msgctxt "18\t84403\t81\tCHK"
+msgid "Go Meet Mishima at the Pier"
+msgstr ""
+
+msgctxt "18\t84431\t82\tCHK"
+msgid "Find Saejima"
+msgstr ""
+
+msgctxt "18\t84444\t83\tCHK"
+msgid "Hurry to New Serena"
+msgstr ""
+
+msgctxt "18\t84464\t84\tCHK"
+msgid "Head to Kamurocho Hills"
+msgstr ""
+
+msgctxt "18\t84488\t85\tCHK"
+msgid "Chase the Kappa(?)"
+msgstr ""
+
+msgctxt "18\t84507\t86\tCHK"
+msgid "Chase Isawa"
+msgstr ""
+
+msgctxt "18\t84519\t87\tCHK"
+msgid "Chase Tadokoro"
+msgstr ""
+
+msgctxt "18\t84534\t88\tCHK"
+msgid "Chase Saigo"
+msgstr ""
+
+msgctxt "18\t84546\t89\tCHK"
+msgid "Melee Match"
+msgstr ""
+
+msgctxt "18\t84558\t90\tCHK"
+msgid "One-on-One Match"
+msgstr ""
+
+msgctxt "18\t84575\t91\tCHK"
+msgid "Practice Match"
+msgstr ""
+
+msgctxt "18\t84590\t92\tCHK"
+msgid "Sprint Match"
+msgstr ""
+
+msgctxt "18\t84603\t93\tCHK"
+msgid "Ultimate Match"
+msgstr ""
+
+msgctxt "18\t84618\t94\tCHK"
+msgid "Sprint Match 1"
+msgstr ""
+
+msgctxt "18\t84633\t95\tCHK"
+msgid "Sprint Match 2"
+msgstr ""
+
+msgctxt "18\t84648\t96\tCHK"
+msgid "Sprint Match 3"
+msgstr ""
+
+msgctxt "18\t84663\t97\tCHK"
+msgid "Sprint Match 5"
+msgstr ""
+
+msgctxt "18\t84678\t98\tCHK"
+msgid "Speed King Championship"
+msgstr ""
+
+msgctxt "19\t91496\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "19\t91497\t1\tCHK"
+msgid "A Rainy Collection Day"
+msgstr ""
+
+msgctxt "19\t91520\t2\tCHK"
+msgid "Kanemura Enterprises"
+msgstr ""
+
+msgctxt "19\t91541\t3\tCHK"
+msgid "Lifeline of Kamurocho"
+msgstr ""
+
+msgctxt "19\t91563\t4\tCHK"
+msgid "My Fight"
+msgstr ""
+
+msgctxt "19\t91572\t5\tCHK"
+msgid "The Next Legend?"
+msgstr ""
+
+msgctxt "19\t91589\t6\tCHK"
+msgid "The Starting Point"
+msgstr ""
+
+msgctxt "19\t91608\t7\tCHK"
+msgid "Money from Heaven"
+msgstr ""
+
+msgctxt "19\t91626\t8\tCHK"
+msgid "A Moneylender's Conviction"
+msgstr ""
+
+msgctxt "19\t91653\t9\tCHK"
+msgid "A New Customer"
+msgstr ""
+
+msgctxt "19\t91668\t10\tCHK"
+msgid "A Woman's Resolve"
+msgstr ""
+
+msgctxt "19\t91686\t11\tCHK"
+msgid "Lily"
+msgstr ""
+
+msgctxt "19\t91691\t12\tCHK"
+msgid "The Death of Kanemura"
+msgstr ""
+
+msgctxt "19\t91713\t13\tCHK"
+msgid "Shibata Family Hitmen"
+msgstr ""
+
+msgctxt "19\t91735\t14\tCHK"
+msgid "Enter Sugiuchi"
+msgstr ""
+
+msgctxt "19\t91750\t15\tCHK"
+msgid "Beatdown"
+msgstr ""
+
+msgctxt "19\t91759\t16\tCHK"
+msgid "Diplomacy"
+msgstr ""
+
+msgctxt "19\t91769\t17\tCHK"
+msgid "Transformation"
+msgstr ""
+
+msgctxt "19\t91784\t18\tCHK"
+msgid "Hostess Debut"
+msgstr ""
+
+msgctxt "19\t91798\t19\tCHK"
+msgid "First Kiss in Five Years"
+msgstr ""
+
+msgctxt "19\t91823\t20\tCHK"
+msgid "Akiyama's Past"
+msgstr ""
+
+msgctxt "19\t91838\t21\tCHK"
+msgid "Akiyama's Past (Continued)"
+msgstr ""
+
+msgctxt "19\t91865\t22\tCHK"
+msgid "Sky Finance Violated"
+msgstr ""
+
+msgctxt "19\t91886\t23\tCHK"
+msgid "Midorikawa of the Hatsushiba Clan"
+msgstr ""
+
+msgctxt "19\t91920\t24\tCHK"
+msgid "A Violent Repo"
+msgstr ""
+
+msgctxt "19\t91935\t25\tCHK"
+msgid "Rendezvous"
+msgstr ""
+
+msgctxt "19\t91946\t26\tCHK"
+msgid "Money and Murder"
+msgstr ""
+
+msgctxt "19\t91963\t27\tCHK"
+msgid "Minami of the Majima Family"
+msgstr ""
+
+msgctxt "19\t91991\t28\tCHK"
+msgid "Majima Makes Amends"
+msgstr ""
+
+msgctxt "19\t92011\t29\tCHK"
+msgid "Happiness on a Spring Day"
+msgstr ""
+
+msgctxt "19\t92037\t30\tCHK"
+msgid "The Yoshiharu Ueno Hit"
+msgstr ""
+
+msgctxt "19\t92060\t31\tCHK"
+msgid "Okinawa Penitentiary No. 2"
+msgstr ""
+
+msgctxt "19\t92087\t32\tCHK"
+msgid "Death Row"
+msgstr ""
+
+msgctxt "19\t92097\t33\tCHK"
+msgid "Revenge"
+msgstr ""
+
+msgctxt "19\t92105\t34\tCHK"
+msgid "A Real Yakuza"
+msgstr ""
+
+msgctxt "19\t92119\t35\tCHK"
+msgid "Cruel and Unusual Punishment"
+msgstr ""
+
+msgctxt "19\t92148\t36\tCHK"
+msgid "The Next Day"
+msgstr ""
+
+msgctxt "19\t92161\t37\tCHK"
+msgid "The Unbearable Truth"
+msgstr ""
+
+msgctxt "19\t92182\t38\tCHK"
+msgid "The Escape"
+msgstr ""
+
+msgctxt "19\t92193\t39\tCHK"
+msgid "Surrounded"
+msgstr ""
+
+msgctxt "19\t92204\t40\tCHK"
+msgid "Sworn Brothers"
+msgstr ""
+
+msgctxt "19\t92219\t41\tCHK"
+msgid "Washed Ashore "
+msgstr ""
+
+msgctxt "19\t92234\t42\tCHK"
+msgid "Temptation"
+msgstr ""
+
+msgctxt "19\t92245\t43\tCHK"
+msgid "The Dragon and Tiger Clash"
+msgstr ""
+
+msgctxt "19\t92272\t44\tCHK"
+msgid "Worn and Weary"
+msgstr ""
+
+msgctxt "19\t92287\t45\tCHK"
+msgid "Kiryu's Lie"
+msgstr ""
+
+msgctxt "19\t92299\t46\tCHK"
+msgid "Departure"
+msgstr ""
+
+msgctxt "19\t92309\t47\tCHK"
+msgid "Kido's True Strength"
+msgstr ""
+
+msgctxt "19\t92330\t48\tCHK"
+msgid "Intruder"
+msgstr ""
+
+msgctxt "19\t92339\t49\tCHK"
+msgid "Deathmatch"
+msgstr ""
+
+msgctxt "19\t92350\t50\tCHK"
+msgid "The Price of Murder"
+msgstr ""
+
+msgctxt "19\t92370\t51\tCHK"
+msgid "Miracle"
+msgstr ""
+
+msgctxt "19\t92378\t52\tCHK"
+msgid "Invitation from Majima"
+msgstr ""
+
+msgctxt "19\t92401\t53\tCHK"
+msgid "A Man's Way of Life"
+msgstr ""
+
+msgctxt "19\t92421\t54\tCHK"
+msgid "Belated Reunion"
+msgstr ""
+
+msgctxt "19\t92437\t55\tCHK"
+msgid "Their Old Playground"
+msgstr ""
+
+msgctxt "19\t92458\t56\tCHK"
+msgid "Duty and Oath"
+msgstr ""
+
+msgctxt "19\t92472\t57\tCHK"
+msgid "The Reason for Betrayal"
+msgstr ""
+
+msgctxt "19\t92496\t58\tCHK"
+msgid "The Truth Behind the Scenes"
+msgstr ""
+
+msgctxt "19\t92524\t59\tCHK"
+msgid "Unbreakable"
+msgstr ""
+
+msgctxt "19\t92536\t60\tCHK"
+msgid "Interrogation"
+msgstr ""
+
+msgctxt "19\t92550\t61\tCHK"
+msgid "Cause for Concern"
+msgstr ""
+
+msgctxt "19\t92568\t62\tCHK"
+msgid "Little Asia"
+msgstr ""
+
+msgctxt "19\t92580\t63\tCHK"
+msgid "Dirty Money"
+msgstr ""
+
+msgctxt "19\t92592\t64\tCHK"
+msgid "The Woman with the Key"
+msgstr ""
+
+msgctxt "19\t92615\t65\tCHK"
+msgid "Fates Intertwined"
+msgstr ""
+
+msgctxt "19\t92633\t66\tCHK"
+msgid "Voluntary Questioning"
+msgstr ""
+
+msgctxt "19\t92655\t67\tCHK"
+msgid "A Tearful Plea"
+msgstr ""
+
+msgctxt "19\t92670\t68\tCHK"
+msgid "Isao Katsuragi"
+msgstr ""
+
+msgctxt "19\t92685\t69\tCHK"
+msgid "The Incredible Truth"
+msgstr ""
+
+msgctxt "19\t92706\t70\tCHK"
+msgid "The Money Trail Ends Here"
+msgstr ""
+
+msgctxt "19\t92732\t71\tCHK"
+msgid "My Life's Work"
+msgstr ""
+
+msgctxt "19\t92747\t72\tCHK"
+msgid "The Informant"
+msgstr ""
+
+msgctxt "19\t92761\t73\tCHK"
+msgid "The Traitor"
+msgstr ""
+
+msgctxt "19\t92773\t74\tCHK"
+msgid "Police Justice"
+msgstr ""
+
+msgctxt "19\t92788\t75\tCHK"
+msgid "Pursuit"
+msgstr ""
+
+msgctxt "19\t92796\t76\tCHK"
+msgid "Arrest"
+msgstr ""
+
+msgctxt "19\t92803\t77\tCHK"
+msgid "Detective and Yakuza"
+msgstr ""
+
+msgctxt "19\t92824\t78\tCHK"
+msgid "The Truth"
+msgstr ""
+
+msgctxt "19\t92834\t79\tCHK"
+msgid "The Mastermind"
+msgstr ""
+
+msgctxt "19\t92849\t80\tCHK"
+msgid "A Life of Lies"
+msgstr ""
+
+msgctxt "19\t92864\t81\tCHK"
+msgid "Another Traitor"
+msgstr ""
+
+msgctxt "19\t92880\t82\tCHK"
+msgid "Fearful Memories"
+msgstr ""
+
+msgctxt "19\t92897\t83\tCHK"
+msgid "A Once-in-a-Lifetime Favor"
+msgstr ""
+
+msgctxt "19\t92924\t84\tCHK"
+msgid "Truth of the Missing Money"
+msgstr ""
+
+msgctxt "19\t92951\t85\tCHK"
+msgid "Tojo Clan in Crisis"
+msgstr ""
+
+msgctxt "19\t92971\t86\tCHK"
+msgid "Faith"
+msgstr ""
+
+msgctxt "19\t92977\t87\tCHK"
+msgid "Hamazaki's Decision"
+msgstr ""
+
+msgctxt "19\t92997\t88\tCHK"
+msgid "A Chance Encounter"
+msgstr ""
+
+msgctxt "19\t93016\t89\tCHK"
+msgid "A Private Meeting"
+msgstr ""
+
+msgctxt "19\t93034\t90\tCHK"
+msgid "Danger Approaching"
+msgstr ""
+
+msgctxt "19\t93053\t91\tCHK"
+msgid "A Small Army"
+msgstr ""
+
+msgctxt "19\t93066\t92\tCHK"
+msgid "Saejima's Friend"
+msgstr ""
+
+msgctxt "19\t93083\t93\tCHK"
+msgid "A City Where Destinies Intertwine"
+msgstr ""
+
+msgctxt "19\t93117\t94\tCHK"
+msgid "A Reunion with Date"
+msgstr ""
+
+msgctxt "19\t93137\t95\tCHK"
+msgid "Yasuko's True Feelings"
+msgstr ""
+
+msgctxt "19\t93160\t96\tCHK"
+msgid "Majima Arrested"
+msgstr ""
+
+msgctxt "19\t93176\t97\tCHK"
+msgid "Rulers of Two Worlds"
+msgstr ""
+
+msgctxt "19\t93197\t98\tCHK"
+msgid "A Tiger in Chains"
+msgstr ""
+
+msgctxt "19\t93215\t99\tCHK"
+msgid "Yasuko's Protectors"
+msgstr ""
+
+msgctxt "19\t93235\t100\tCHK"
+msgid "The Legend Lives"
+msgstr ""
+
+msgctxt "19\t93252\t101\tCHK"
+msgid "After the Storm"
+msgstr ""
+
+msgctxt "19\t93268\t102\tCHK"
+msgid "Stolen Money"
+msgstr ""
+
+msgctxt "19\t93281\t103\tCHK"
+msgid "Hidden Safe"
+msgstr ""
+
+msgctxt "19\t93293\t104\tCHK"
+msgid "Smoking Gun"
+msgstr ""
+
+msgctxt "19\t93305\t105\tCHK"
+msgid "A Short-Lived Reunion"
+msgstr ""
+
+msgctxt "19\t93327\t106\tCHK"
+msgid "Arai's Justice"
+msgstr ""
+
+msgctxt "19\t93342\t107\tCHK"
+msgid "Emptiness"
+msgstr ""
+
+msgctxt "19\t93352\t108\tCHK"
+msgid "The Duty of Men"
+msgstr ""
+
+msgctxt "19\t93368\t109\tCHK"
+msgid "Striking Back"
+msgstr ""
+
+msgctxt "19\t93382\t110\tCHK"
+msgid "Resolve"
+msgstr ""
+
+msgctxt "19\t93390\t111\tCHK"
+msgid "The Man with Hidden Ambition"
+msgstr ""
+
+msgctxt "19\t93419\t112\tCHK"
+msgid "The Man Who Gambled"
+msgstr ""
+
+msgctxt "19\t93439\t113\tCHK"
+msgid "The Man Burdened by Fate"
+msgstr ""
+
+msgctxt "19\t93464\t114\tCHK"
+msgid "The Man at the Root of It All"
+msgstr ""
+
+msgctxt "19\t93494\t115\tCHK"
+msgid "Facing Justice"
+msgstr ""
+
+msgctxt "19\t93509\t116\tCHK"
+msgid "New Beginnings"
+msgstr ""
+
+msgctxt "19\t93524\t117\tCHK"
+msgid "A New Family"
+msgstr ""
+
+msgctxt "19\t93537\t118\tCHK"
+msgid "Bathing in Money"
+msgstr ""
+
+msgctxt "19\t93554\t119\tCHK"
+msgid "Money to Burn"
+msgstr ""
+
+msgctxt "19\t93568\t120\tCHK"
+msgid "Bouncer"
+msgstr ""
+
+msgctxt "19\t93576\t121\tCHK"
+msgid "Urban Legend"
+msgstr ""
+
+msgctxt "19\t93589\t122\tCHK"
+msgid "Detective at Work"
+msgstr ""
+
+msgctxt "19\t93607\t123\tCHK"
+msgid "Russian Roulette"
+msgstr ""
+
+msgctxt "19\t93624\t124\tCHK"
+msgid "What Did I Do?"
+msgstr ""
+
+msgctxt "19\t93639\t125\tCHK"
+msgid "The Patient Babysitter"
+msgstr ""
+
+msgctxt "19\t93662\t126\tCHK"
+msgid "Credits"
+msgstr ""
+
+msgctxt "19\t93670\t127\tCHK"
+msgid "Destiny Begins"
+msgstr ""
+
+msgctxt "19\t93685\t128\tCHK"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "19\t93692\t129\tCHK"
+msgid "Chasing the Money"
+msgstr ""
+
+msgctxt "19\t93710\t130\tCHK"
+msgid "The Struggle Ends"
+msgstr ""
+
+msgctxt "19\t93728\t131\tCHK"
+msgid "Assassination of the Fifth Chairman"
+msgstr ""
+
+msgctxt "19\t93764\t132\tCHK"
+msgid "The Dragon of Kansai"
+msgstr ""
+
+msgctxt "19\t93785\t133\tCHK"
+msgid "Two Detectives"
+msgstr ""
+
+msgctxt "19\t93800\t134\tCHK"
+msgid "Revenge's Endgame"
+msgstr ""
+
+msgctxt "19\t93818\t135\tCHK"
+msgid "Okinawa"
+msgstr ""
+
+msgctxt "19\t93826\t136\tCHK"
+msgid "Trouble in Paradise"
+msgstr ""
+
+msgctxt "19\t93846\t137\tCHK"
+msgid "The Whole Story"
+msgstr ""
+
+msgctxt "19\t93862\t138\tCHK"
+msgid "Beyond Love and Hate"
+msgstr ""
+
+msgctxt "20\t104792\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "20\t104793\t1\tCHK"
+msgid "Brawl 1"
+msgstr ""
+
+msgctxt "20\t104801\t2\tCHK"
+msgid "Brawl 2"
+msgstr ""
+
+msgctxt "20\t104809\t3\tCHK"
+msgid "Brawl 3"
+msgstr ""
+
+msgctxt "20\t104817\t4\tCHK"
+msgid "Brawl 4"
+msgstr ""
+
+msgctxt "20\t104825\t5\tCHK"
+msgid "Brawl 5"
+msgstr ""
+
+msgctxt "20\t104833\t6\tCHK"
+msgid "Brawl 6"
+msgstr ""
+
+msgctxt "20\t104841\t7\tCHK"
+msgid "Brawl 7"
+msgstr ""
+
+msgctxt "20\t104849\t8\tCHK"
+msgid "Brawl 8"
+msgstr ""
+
+msgctxt "20\t104857\t9\tCHK"
+msgid "Brawl 9"
+msgstr ""
+
+msgctxt "20\t104865\t10\tCHK"
+msgid "Brawl 10"
+msgstr ""
+
+msgctxt "20\t104874\t11\tCHK"
+msgid "Grudge Match 1"
+msgstr ""
+
+msgctxt "20\t104889\t12\tCHK"
+msgid "Grudge Match 2"
+msgstr ""
+
+msgctxt "20\t104904\t13\tCHK"
+msgid "Grudge Match 3"
+msgstr ""
+
+msgctxt "20\t104919\t14\tCHK"
+msgid "Grudge Match 4"
+msgstr ""
+
+msgctxt "20\t104934\t15\tCHK"
+msgid "Grudge Match 5"
+msgstr ""
+
+msgctxt "20\t104949\t16\tCHK"
+msgid "Proving Grounds 1"
+msgstr ""
+
+msgctxt "20\t104967\t17\tCHK"
+msgid "Proving Grounds 2"
+msgstr ""
+
+msgctxt "20\t104985\t18\tCHK"
+msgid "Proving Grounds 3"
+msgstr ""
+
+msgctxt "20\t105003\t19\tCHK"
+msgid "Proving Grounds 4"
+msgstr ""
+
+msgctxt "20\t105021\t20\tCHK"
+msgid "Proving Grounds 5"
+msgstr ""
+
+msgctxt "20\t105039\t21\tCHK"
+msgid "Proving Grounds 6"
+msgstr ""
+
+msgctxt "20\t105057\t22\tCHK"
+msgid "Proving Grounds 7"
+msgstr ""
+
+msgctxt "20\t105075\t23\tCHK"
+msgid "Proving Grounds 8"
+msgstr ""
+
+msgctxt "20\t105093\t24\tCHK"
+msgid "Proving Grounds 9"
+msgstr ""
+
+msgctxt "20\t105111\t25\tCHK"
+msgid "Proving Grounds 10"
+msgstr ""
+
+msgctxt "20\t105130\t26\tCHK"
+msgid "Speed 1"
+msgstr ""
+
+msgctxt "20\t105138\t27\tCHK"
+msgid "Speed 2"
+msgstr ""
+
+msgctxt "20\t105146\t28\tCHK"
+msgid "Speed 3"
+msgstr ""
+
+msgctxt "20\t105154\t29\tCHK"
+msgid "Speed 4"
+msgstr ""
+
+msgctxt "20\t105162\t30\tCHK"
+msgid "Speed 5"
+msgstr ""
+
+msgctxt "20\t105170\t31\tCHK"
+msgid "Ultimate Match 1"
+msgstr ""
+
+msgctxt "20\t105187\t32\tCHK"
+msgid "Ultimate Match 2"
+msgstr ""
+
+msgctxt "20\t105204\t33\tCHK"
+msgid "Ultimate Match 3"
+msgstr ""
+
+msgctxt "20\t105221\t34\tCHK"
+msgid "Ultimate Match 4"
+msgstr ""
+
+msgctxt "20\t105238\t35\tCHK"
+msgid "Ultimate Match 5"
+msgstr ""
+
+msgctxt "20\t105255\t36\tCHK"
+msgid "Kiryu_Weakest"
+msgstr ""
+
+msgctxt "20\t105269\t37\tCHK"
+msgid "Kiryu_Strongest"
+msgstr ""
+
+msgctxt "20\t105285\t38\tCHK"
+msgid "Akiyama_Weakest"
+msgstr ""
+
+msgctxt "20\t105301\t39\tCHK"
+msgid "Akiyama_Strongest"
+msgstr ""
+
+msgctxt "20\t105319\t40\tCHK"
+msgid "Saejima_Weakest"
+msgstr ""
+
+msgctxt "20\t105335\t41\tCHK"
+msgid "Saejima_Strongest"
+msgstr ""
+
+msgctxt "20\t105353\t42\tCHK"
+msgid "Tanimura_Weakest"
+msgstr ""
+
+msgctxt "20\t105370\t43\tCHK"
+msgid "Tanimura_Strongest"
+msgstr ""
+
+msgctxt "20\t105389\t44\tCHK"
+msgid "Strongest"
+msgstr ""
+
+msgctxt "20\t105399\t45\tCHK"
+msgid "Match 1: Strongest Kiryu <Color:255,255,0,255>[Weapons On]<Color:Default>"
+msgstr ""
+
+msgctxt "20\t105473\t46\tCHK"
+msgid "Match 2: Strongest Saejima <Color:255,255,0,255>[Weapons On]<Color:Default>"
+msgstr ""
+
+msgctxt "20\t105549\t47\tCHK"
+msgid "Match 3: Strongest Tanimura <Color:255,255,0,255>[Weapons On]<Color:Default>"
+msgstr ""
+
+msgctxt "20\t105626\t48\tCHK"
+msgid "Match 8: Weakest Kiryu <Color:255,255,0,255>[Weapons On]<Color:Default>"
+msgstr ""
+
+msgctxt "20\t105698\t49\tCHK"
+msgid "Match 4: Strongest Tanimura"
+msgstr ""
+
+msgctxt "20\t105726\t50\tCHK"
+msgid "Match 5: Strongest Kiryu"
+msgstr ""
+
+msgctxt "20\t105751\t51\tCHK"
+msgid "Eliminate all enemies within the time limit."
+msgstr ""
+
+msgctxt "20\t105796\t52\tCHK"
+msgid "Eliminate all enemies except the sniper within the time limit."
+msgstr ""
+
+msgctxt "20\t105859\t53\tCHK"
+msgid ""
+"Eliminate all enemies within the time limit.\n"
+"Only firearms will inflict damage."
+msgstr ""
+
+msgctxt "20\t105939\t54\tCHK"
+msgid ""
+"Eliminate the enemy within the time limit.\n"
+"Do not fall down."
+msgstr ""
+
+msgctxt "20\t106000\t55\tCHK"
+msgid "Eliminate all enemies."
+msgstr ""
+
+msgctxt "20\t106023\t56\tCHK"
+msgid "Eliminate Minami within the time limit."
+msgstr ""
+
+msgctxt "20\t106063\t57\tCHK"
+msgid "Eliminate Majima within the time limit."
+msgstr ""
+
+msgctxt "20\t106103\t58\tCHK"
+msgid "Eliminate Sugiuchi within the time limit."
+msgstr ""
+
+msgctxt "20\t106145\t59\tCHK"
+msgid "Eliminate Tanimura and Akiyama within the time limit."
+msgstr ""
+
+msgctxt "20\t106199\t60\tCHK"
+msgid "Eliminate more enemies than Hana-chan."
+msgstr ""
+
+msgctxt "20\t106238\t61\tCHK"
+msgid ""
+"Eliminate all enemies within the time limit using only "
+"<Action:Battle_Guard@Combat>."
+msgstr ""
+
+msgctxt "20\t106323\t62\tCHK"
+msgid "Eliminate the enemy. Attacks involving direct contact are prohibited."
+msgstr ""
+
+msgctxt "20\t106393\t63\tCHK"
+msgid "Eliminate the enemy with exactly 10 attacks."
+msgstr ""
+
+msgctxt "20\t106438\t64\tCHK"
+msgid "Stay alive. Attacking the enemy is prohibited."
+msgstr ""
+
+msgctxt "20\t106485\t65\tCHK"
+msgid "Keep Minami from picking up the microphone."
+msgstr ""
+
+msgctxt "20\t106529\t66\tCHK"
+msgid "Destroy the farthest stone wall within the time limit."
+msgstr ""
+
+msgctxt "20\t106584\t67\tCHK"
+msgid ""
+"Eliminate all enemies in time using only Heat Actions.\n"
+"Repeated Heat Actions will inflict no damage."
+msgstr ""
+
+msgctxt "20\t106685\t68\tCHK"
+msgid ""
+"Eliminate the enemies in red-blue-yellow order.\n"
+"Do not eliminate any enemy in black."
+msgstr ""
+
+msgctxt "20\t106770\t69\tCHK"
+msgid "Arrest everyone. Do not use any other means to eliminate anyone."
+msgstr ""
+
+msgctxt "20\t106835\t70\tCHK"
+msgid ""
+"Run to the finish line as quickly as possible.\n"
+"Do not knock over any buckets."
+msgstr ""
+
+msgctxt "20\t106913\t71\tCHK"
+msgid "Catch Ultimate Saigo. Tackles will not inflict damage."
+msgstr ""
+
+msgctxt "20\t106968\t72\tCHK"
+msgid "Outrun the kappa and head to the finish line as quickly as possible."
+msgstr ""
+
+msgctxt "20\t107037\t73\tCHK"
+msgid "Catch Ultimate Sugiuchi."
+msgstr ""
+
+msgctxt "20\t107062\t74\tCHK"
+msgid "Catch Ultimate Mack."
+msgstr ""
+
+msgctxt "20\t107083\t75\tCHK"
+msgid "Eliminate all rivals."
+msgstr ""
+
+msgctxt "20\t107105\t76\tCHK"
+msgid "Match 4: Strongest Saejima"
+msgstr ""
+
+msgctxt "20\t107132\t77\tCHK"
+msgid "Match 5: Weakest Kiryu"
+msgstr ""
+
+msgctxt "20\t107155\t78\tCHK"
+msgid "Match 6: Weakest Akiyama"
+msgstr ""
+
+msgctxt "20\t107180\t79\tCHK"
+msgid "Match 7: Strongest Akiyama"
+msgstr ""
+
+msgctxt "20\t107207\t80\tCHK"
+msgid "Match 9: Weakest Tanimura"
+msgstr ""
+
+msgctxt "20\t107233\t81\tCHK"
+msgid "Match 10: Weakest Kiryu"
+msgstr ""
+
+msgctxt "20\t107257\t82\tCHK"
+msgid "Match 1: Strongest Akiyama"
+msgstr ""
+
+msgctxt "20\t107284\t83\tCHK"
+msgid "Match 2: Strongest Saejima"
+msgstr ""
+
+msgctxt "20\t107311\t84\tCHK"
+msgid "Match 3: Strongest Tanimura"
+msgstr ""
+
+msgctxt "20\t107339\t85\tCHK"
+msgid "Match 4: Strongest Kiryu"
+msgstr ""
+
+msgctxt "20\t107364\t86\tCHK"
+msgid "Match 2: Weakest Tanimura"
+msgstr ""
+
+msgctxt "20\t107390\t87\tCHK"
+msgid "Match 3: Weakest Tanimura"
+msgstr ""
+
+msgctxt "20\t107416\t88\tCHK"
+msgid "Match 5: Weakest Tanimura"
+msgstr ""
+
+msgctxt "20\t107442\t89\tCHK"
+msgid "Match 7: Strongest Saejima"
+msgstr ""
+
+msgctxt "20\t107469\t90\tCHK"
+msgid "Match 8: Strongest Kiryu"
+msgstr ""
+
+msgctxt "20\t107494\t91\tCHK"
+msgid "Match 9: Strongest Akiyama"
+msgstr ""
+
+msgctxt "20\t107521\t92\tCHK"
+msgid "Match 10: Strongest Tanimura"
+msgstr ""
+
+msgctxt "20\t107550\t93\tCHK"
+msgid "Match 2: Strongest Akiyama"
+msgstr ""
+
+msgctxt "20\t107577\t94\tCHK"
+msgid "Match 3: Strongest Saejima"
+msgstr ""
+
+msgctxt "20\t107604\t95\tCHK"
+msgid "Match 5: Strongest All Characters"
+msgstr ""
+
+msgctxt "20\t107638\t96\tCHK"
+msgid "Eliminate 100 enemies within the time limit."
+msgstr ""
+
+msgctxt "20\t107683\t97\tCHK"
+msgid "Work with Akiyama to eliminate Daigo and Arai."
+msgstr ""
+
+msgctxt "21\t117624\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "21\t117625\t1\tCHK"
+msgid "Suppon Street"
+msgstr ""
+
+msgctxt "21\t117639\t2\tCHK"
+msgid "Champion District"
+msgstr ""
+
+msgctxt "21\t117657\t3\tCHK"
+msgid "Pink Street"
+msgstr ""
+
+msgctxt "21\t117669\t4\tCHK"
+msgid "Pink Street Entrance"
+msgstr ""
+
+msgctxt "21\t117690\t5\tCHK"
+msgid "North Pink Street"
+msgstr ""
+
+msgctxt "21\t117708\t6\tCHK"
+msgid "Pink Alley"
+msgstr ""
+
+msgctxt "21\t117719\t7\tCHK"
+msgid "Yoshida Batting Center"
+msgstr ""
+
+msgctxt "21\t117742\t8\tCHK"
+msgid "Theater Alley"
+msgstr ""
+
+msgctxt "21\t117756\t9\tCHK"
+msgid "Theater Square"
+msgstr ""
+
+msgctxt "21\t117771\t10\tCHK"
+msgid "Theater Avenue"
+msgstr ""
+
+msgctxt "21\t117786\t11\tCHK"
+msgid "North Theater Square"
+msgstr ""
+
+msgctxt "21\t117807\t12\tCHK"
+msgid "Northwest Theater Square"
+msgstr ""
+
+msgctxt "21\t117832\t13\tCHK"
+msgid "Park Boulevard"
+msgstr ""
+
+msgctxt "21\t117847\t14\tCHK"
+msgid "Park Alley"
+msgstr ""
+
+msgctxt "21\t117858\t15\tCHK"
+msgid "Shichifuku Parking Lot"
+msgstr ""
+
+msgctxt "21\t117881\t16\tCHK"
+msgid "West Shichifuku Street"
+msgstr ""
+
+msgctxt "21\t117904\t17\tCHK"
+msgid "East Shichifuku Street"
+msgstr ""
+
+msgctxt "21\t117927\t18\tCHK"
+msgid "Showa Street"
+msgstr ""
+
+msgctxt "21\t117940\t19\tCHK"
+msgid "West Showa Street"
+msgstr ""
+
+msgctxt "21\t117958\t20\tCHK"
+msgid "East Showa Street"
+msgstr ""
+
+msgctxt "21\t117976\t21\tCHK"
+msgid "Senryo Avenue"
+msgstr ""
+
+msgctxt "21\t117990\t22\tCHK"
+msgid "North Senryo Avenue"
+msgstr ""
+
+msgctxt "21\t118010\t23\tCHK"
+msgid "West Taihei Boulevard"
+msgstr ""
+
+msgctxt "21\t118032\t24\tCHK"
+msgid "East Taihei Boulevard"
+msgstr ""
+
+msgctxt "21\t118054\t25\tCHK"
+msgid "Public Park 3"
+msgstr ""
+
+msgctxt "21\t118068\t26\tCHK"
+msgid "Nakamichi Street"
+msgstr ""
+
+msgctxt "21\t118085\t27\tCHK"
+msgid "Nakamichi Street Entrance"
+msgstr ""
+
+msgctxt "21\t118111\t28\tCHK"
+msgid "Nakamichi Alley"
+msgstr ""
+
+msgctxt "21\t118127\t29\tCHK"
+msgid "Tenkaichi Street"
+msgstr ""
+
+msgctxt "21\t118144\t30\tCHK"
+msgid "Tenkaichi Street Entrance"
+msgstr ""
+
+msgctxt "21\t118170\t31\tCHK"
+msgid "Tenkaichi Alley"
+msgstr ""
+
+msgctxt "21\t118186\t32\tCHK"
+msgid "Matsuya Taihei Boulevard"
+msgstr ""
+
+msgctxt "21\t118211\t33\tCHK"
+msgid "Smile Burger"
+msgstr ""
+
+msgctxt "21\t118224\t34\tCHK"
+msgid "Kyushu No. 1 Star"
+msgstr ""
+
+msgctxt "21\t118242\t35\tCHK"
+msgid "Ebisu Pawn"
+msgstr ""
+
+msgctxt "21\t118253\t36\tCHK"
+msgid "Gelateria Kamuro"
+msgstr ""
+
+msgctxt "21\t118270\t37\tCHK"
+msgid "Pronto"
+msgstr ""
+
+msgctxt "21\t118277\t38\tCHK"
+msgid "Kotobuki Drugs"
+msgstr ""
+
+msgctxt "21\t118292\t39\tCHK"
+msgid "Poppo Showa Street"
+msgstr ""
+
+msgctxt "21\t118311\t40\tCHK"
+msgid "Hideout"
+msgstr ""
+
+msgctxt "21\t118319\t41\tCHK"
+msgid "Debolah"
+msgstr ""
+
+msgctxt "21\t118327\t42\tCHK"
+msgid "Café Alps"
+msgstr ""
+
+msgctxt "21\t118338\t43\tCHK"
+msgid "Club SEGA Theater Square"
+msgstr ""
+
+msgctxt "21\t118363\t44\tCHK"
+msgid "Club SEGA Nakamichi Street"
+msgstr ""
+
+msgctxt "21\t118390\t45\tCHK"
+msgid "Poppo Nakamichi Alley"
+msgstr ""
+
+msgctxt "21\t118412\t46\tCHK"
+msgid "Beam"
+msgstr ""
+
+msgctxt "21\t118417\t47\tCHK"
+msgid "Men's Entertainment Box"
+msgstr ""
+
+msgctxt "21\t118441\t48\tCHK"
+msgid "Lottery Sales Lot"
+msgstr ""
+
+msgctxt "21\t118459\t49\tCHK"
+msgid "Vacant Lot"
+msgstr ""
+
+msgctxt "21\t118470\t50\tCHK"
+msgid "New Serena Alley"
+msgstr ""
+
+msgctxt "21\t118487\t51\tCHK"
+msgid "Millennium Tower Garden"
+msgstr ""
+
+msgctxt "21\t118511\t52\tCHK"
+msgid "Weapon Shop"
+msgstr ""
+
+msgctxt "21\t118523\t53\tCHK"
+msgid "New Serena Elevator Hallway"
+msgstr ""
+
+msgctxt "21\t118551\t54\tCHK"
+msgid "Gambling Hall Corridor"
+msgstr ""
+
+msgctxt "21\t118574\t55\tCHK"
+msgid "Gambling Hall"
+msgstr ""
+
+msgctxt "21\t118588\t56\tCHK"
+msgid "Club Shine"
+msgstr ""
+
+msgctxt "21\t118599\t57\tCHK"
+msgid "Club Jewel"
+msgstr ""
+
+msgctxt "21\t118610\t58\tCHK"
+msgid "New Serena"
+msgstr ""
+
+msgctxt "21\t118621\t59\tCHK"
+msgid "Bantam"
+msgstr ""
+
+msgctxt "21\t118628\t60\tCHK"
+msgid "Stardust"
+msgstr ""
+
+msgctxt "21\t118637\t61\tCHK"
+msgid "Rune Casino"
+msgstr ""
+
+msgctxt "21\t118649\t62\tCHK"
+msgid "Earth Angel"
+msgstr ""
+
+msgctxt "21\t118661\t63\tCHK"
+msgid "Shellac"
+msgstr ""
+
+msgctxt "21\t118669\t64\tCHK"
+msgid "Club Asia"
+msgstr ""
+
+msgctxt "21\t118679\t65\tCHK"
+msgid "Love in Heart Massage Parlor"
+msgstr ""
+
+msgctxt "21\t118708\t66\tCHK"
+msgid "Volcanic Volcano"
+msgstr ""
+
+msgctxt "21\t118725\t67\tCHK"
+msgid "Matsuya Tenkaichi Street"
+msgstr ""
+
+msgctxt "21\t118750\t68\tCHK"
+msgid "Poppo Tenkaichi Street"
+msgstr ""
+
+msgctxt "21\t118773\t69\tCHK"
+msgid "North Millennium Tower"
+msgstr ""
+
+msgctxt "21\t118796\t70\tCHK"
+msgid "M Store"
+msgstr ""
+
+msgctxt "21\t118804\t71\tCHK"
+msgid "Don Quijote"
+msgstr ""
+
+msgctxt "21\t118816\t72\tCHK"
+msgid "Serena"
+msgstr ""
+
+msgctxt "21\t118823\t73\tCHK"
+msgid "Orchid Palace Mahjong"
+msgstr ""
+
+msgctxt "21\t118845\t74\tCHK"
+msgid "Ultrascreen"
+msgstr ""
+
+msgctxt "21\t118857\t75\tCHK"
+msgid "Kamurocho"
+msgstr ""
+
+msgctxt "21\t118867\t76\tCHK"
+msgid "Purgatory Entrance"
+msgstr ""
+
+msgctxt "21\t118886\t77\tCHK"
+msgid "West Park Entrance"
+msgstr ""
+
+msgctxt "21\t118905\t78\tCHK"
+msgid "Purgatory (West Park)"
+msgstr ""
+
+msgctxt "21\t118927\t79\tCHK"
+msgid "West Park"
+msgstr ""
+
+msgctxt "21\t118937\t80\tCHK"
+msgid "Dragon Palace"
+msgstr ""
+
+msgctxt "21\t118951\t81\tCHK"
+msgid "Red Brick Hotel"
+msgstr ""
+
+msgctxt "21\t118967\t82\tCHK"
+msgid "Mach Bowl"
+msgstr ""
+
+msgctxt "21\t118977\t83\tCHK"
+msgid "Shichifuku Street"
+msgstr ""
+
+msgctxt "21\t118995\t84\tCHK"
+msgid "Taihei Boulevard"
+msgstr ""
+
+msgctxt "21\t119012\t85\tCHK"
+msgid "HLA Headquarters"
+msgstr ""
+
+msgctxt "21\t119029\t86\tCHK"
+msgid "Hotel District"
+msgstr ""
+
+msgctxt "21\t119044\t87\tCHK"
+msgid "HLA Back Entrance"
+msgstr ""
+
+msgctxt "21\t119062\t88\tCHK"
+msgid "Kamiyama Works"
+msgstr ""
+
+msgctxt "21\t119077\t89\tCHK"
+msgid "Le Marche"
+msgstr ""
+
+msgctxt "21\t119087\t90\tCHK"
+msgid "Serena Alley"
+msgstr ""
+
+msgctxt "21\t119100\t91\tCHK"
+msgid "Children's Park"
+msgstr ""
+
+msgctxt "21\t119116\t92\tCHK"
+msgid "Kanrai"
+msgstr ""
+
+msgctxt "21\t119123\t93\tCHK"
+msgid "Karaokekan"
+msgstr ""
+
+msgctxt "21\t119134\t94\tCHK"
+msgid "Sushi Gin"
+msgstr ""
+
+msgctxt "21\t119144\t95\tCHK"
+msgid "Elise"
+msgstr ""
+
+msgctxt "21\t119150\t96\tCHK"
+msgid "Cuez Bar"
+msgstr ""
+
+msgctxt "21\t119159\t97\tCHK"
+msgid "Little Asia"
+msgstr ""
+
+msgctxt "21\t119171\t98\tCHK"
+msgid "Little Asia North Entrance"
+msgstr ""
+
+msgctxt "21\t119198\t99\tCHK"
+msgid "Little Asia South Entrance"
+msgstr ""
+
+msgctxt "21\t119225\t100\tCHK"
+msgid "Little Asia West Entrance"
+msgstr ""
+
+msgctxt "21\t119251\t101\tCHK"
+msgid "Little Asia East Entrance"
+msgstr ""
+
+msgctxt "21\t119277\t102\tCHK"
+msgid "Homeland"
+msgstr ""
+
+msgctxt "21\t119286\t103\tCHK"
+msgid "Drama Queen"
+msgstr ""
+
+msgctxt "21\t119298\t104\tCHK"
+msgid "Central Sewer Entrance"
+msgstr ""
+
+msgctxt "21\t119321\t105\tCHK"
+msgid "North Sewer Entrance"
+msgstr ""
+
+msgctxt "21\t119342\t106\tCHK"
+msgid "Kamuro Central Parking Lot"
+msgstr ""
+
+msgctxt "21\t119369\t107\tCHK"
+msgid "Naomi's Palace"
+msgstr ""
+
+msgctxt "21\t119384\t108\tCHK"
+msgid "Watami"
+msgstr ""
+
+msgctxt "21\t119391\t109\tCHK"
+msgid "Subway Service Road"
+msgstr ""
+
+msgctxt "21\t119411\t110\tCHK"
+msgid "Kamurocho Underground Mall"
+msgstr ""
+
+msgctxt "21\t119438\t111\tCHK"
+msgid "Theater Underground South Entrance"
+msgstr ""
+
+msgctxt "21\t119473\t112\tCHK"
+msgid "Theater Underground North Entrance"
+msgstr ""
+
+msgctxt "21\t119508\t113\tCHK"
+msgid "Theater Underground West Entrance"
+msgstr ""
+
+msgctxt "21\t119542\t114\tCHK"
+msgid "Sky Finance Entrance"
+msgstr ""
+
+msgctxt "21\t119563\t115\tCHK"
+msgid "Saejima's Old Apartment"
+msgstr ""
+
+msgctxt "21\t119587\t116\tCHK"
+msgid "Shoten Shogi"
+msgstr ""
+
+msgctxt "21\t119600\t117\tCHK"
+msgid "Yunosono Hot Springs"
+msgstr ""
+
+msgctxt "21\t119621\t118\tCHK"
+msgid "Theater Underground"
+msgstr ""
+
+msgctxt "21\t119641\t119\tCHK"
+msgid "Kamuro Central Parking Entrance A"
+msgstr ""
+
+msgctxt "21\t119675\t120\tCHK"
+msgid "Kamuro Central Parking Entrance B"
+msgstr ""
+
+msgctxt "21\t119709\t121\tCHK"
+msgid "Kamuro Central Parking Entrance C"
+msgstr ""
+
+msgctxt "21\t119743\t122\tCHK"
+msgid "Kamuro Central Parking Entrance D"
+msgstr ""
+
+msgctxt "21\t119777\t123\tCHK"
+msgid "Kamuro Central Parking Entrance E"
+msgstr ""
+
+msgctxt "21\t119811\t124\tCHK"
+msgid "Kamurocho West Rooftop Stairs"
+msgstr ""
+
+msgctxt "21\t119841\t125\tCHK"
+msgid "Kamurocho East Rooftop Stairs"
+msgstr ""
+
+msgctxt "21\t119871\t126\tCHK"
+msgid "Theater Underground Elevator"
+msgstr ""
+
+msgctxt "21\t119900\t127\tCHK"
+msgid "Exit 1"
+msgstr ""
+
+msgctxt "21\t119907\t128\tCHK"
+msgid "Exit 2"
+msgstr ""
+
+msgctxt "21\t119914\t129\tCHK"
+msgid "Exit 3"
+msgstr ""
+
+msgctxt "21\t119921\t130\tCHK"
+msgid "Milestone"
+msgstr ""
+
+msgctxt "21\t119931\t131\tCHK"
+msgid "East Millennium Tower Street"
+msgstr ""
+
+msgctxt "21\t119960\t132\tCHK"
+msgid "Sodachi Dojo"
+msgstr ""
+
+msgctxt "21\t119973\t133\tCHK"
+msgid "Kamuro Theater"
+msgstr ""
+
+msgctxt "21\t119988\t134\tCHK"
+msgid "Morning Glory Orphanage"
+msgstr ""
+
+msgctxt "21\t120012\t135\tCHK"
+msgid "Morning Glory Road"
+msgstr ""
+
+msgctxt "21\t120031\t136\tCHK"
+msgid "Morning Glory Beach"
+msgstr ""
+
+msgctxt "21\t120051\t137\tCHK"
+msgid "Elevator"
+msgstr ""
+
+msgctxt "21\t120060\t138\tCHK"
+msgid "Millennium Tower B1F"
+msgstr ""
+
+msgctxt "21\t120081\t139\tCHK"
+msgid "Millennium Tower B2F"
+msgstr ""
+
+msgctxt "21\t120102\t140\tCHK"
+msgid "Millennium Tower 1F"
+msgstr ""
+
+msgctxt "21\t120122\t141\tCHK"
+msgid "Millennium Tower 2F"
+msgstr ""
+
+msgctxt "21\t120142\t142\tCHK"
+msgid "Millennium Tower 3F"
+msgstr ""
+
+msgctxt "21\t120162\t143\tCHK"
+msgid "Millennium Tower 4F"
+msgstr ""
+
+msgctxt "21\t120182\t144\tCHK"
+msgid "Millennium Tower 5F"
+msgstr ""
+
+msgctxt "21\t120202\t145\tCHK"
+msgid "Millennium Tower Roof"
+msgstr ""
+
+msgctxt "21\t120224\t146\tCHK"
+msgid "Elevator Hall"
+msgstr ""
+
+msgctxt "21\t120238\t147\tCHK"
+msgid "Purgatory Underground"
+msgstr ""
+
+msgctxt "21\t120260\t148\tCHK"
+msgid "Coliseum"
+msgstr ""
+
+msgctxt "21\t120269\t149\tCHK"
+msgid "Fukuma Casino"
+msgstr ""
+
+msgctxt "21\t120283\t150\tCHK"
+msgid "Tojo Clan Headquarters"
+msgstr ""
+
+msgctxt "21\t120306\t151\tCHK"
+msgid "Kanda Hotel"
+msgstr ""
+
+msgctxt "21\t120318\t152\tCHK"
+msgid "Kanda Suite"
+msgstr ""
+
+msgctxt "21\t120330\t153\tCHK"
+msgid "Monitor Room"
+msgstr ""
+
+msgctxt "21\t120343\t154\tCHK"
+msgid "Hideout Entrance"
+msgstr ""
+
+msgctxt "21\t120360\t155\tCHK"
+msgid "Emoto Medical Clinic"
+msgstr ""
+
+msgctxt "21\t120381\t156\tCHK"
+msgid "Dojo"
+msgstr ""
+
+msgctxt "21\t120386\t157\tCHK"
+msgid "Office"
+msgstr ""
+
+msgctxt "21\t120393\t158\tCHK"
+msgid "Coliseum Lobby"
+msgstr ""
+
+msgctxt "21\t120408\t159\tCHK"
+msgid "Bayside Country Club"
+msgstr ""
+
+msgctxt "21\t120429\t160\tCHK"
+msgid "Archive Room 13"
+msgstr ""
+
+msgctxt "21\t120445\t161\tCHK"
+msgid "Central Sewer"
+msgstr ""
+
+msgctxt "21\t120459\t162\tCHK"
+msgid "Millennium Tower"
+msgstr ""
+
+msgctxt "21\t120476\t163\tCHK"
+msgid "To Kamurocho Central Parking Lot"
+msgstr ""
+
+msgctxt "21\t120509\t164\tCHK"
+msgid "North Sewer"
+msgstr ""
+
+msgctxt "21\t120521\t165\tCHK"
+msgid "To Purgatory Underground"
+msgstr ""
+
+msgctxt "21\t120546\t166\tCHK"
+msgid "To Children's Park"
+msgstr ""
+
+msgctxt "21\t120565\t167\tCHK"
+msgid "Drama Queen Office"
+msgstr ""
+
+msgctxt "21\t120584\t168\tCHK"
+msgid "Okinawa Police Dept"
+msgstr ""
+
+msgctxt "21\t120604\t169\tCHK"
+msgid "Kamurocho A Exit"
+msgstr ""
+
+msgctxt "21\t120621\t170\tCHK"
+msgid "Kamurocho B Exit"
+msgstr ""
+
+msgctxt "21\t120638\t171\tCHK"
+msgid "Kamurocho C Exit"
+msgstr ""
+
+msgctxt "21\t120655\t172\tCHK"
+msgid "Kamurocho D Exit"
+msgstr ""
+
+msgctxt "21\t120672\t173\tCHK"
+msgid "Kamurocho E Exit"
+msgstr ""
+
+msgctxt "21\t120689\t174\tCHK"
+msgid "Sewer 1 Entrance"
+msgstr ""
+
+msgctxt "21\t120706\t175\tCHK"
+msgid "Warehouse District"
+msgstr ""
+
+msgctxt "21\t120725\t176\tCHK"
+msgid "Docks"
+msgstr ""
+
+msgctxt "21\t120731\t177\tCHK"
+msgid "Warehouse"
+msgstr ""
+
+msgctxt "21\t120741\t178\tCHK"
+msgid "Sky Finance"
+msgstr ""
+
+msgctxt "21\t120753\t179\tCHK"
+msgid "Sky Finance Rooftop"
+msgstr ""
+
+msgctxt "21\t120773\t180\tCHK"
+msgid "Kamurocho West Rooftop"
+msgstr ""
+
+msgctxt "21\t120796\t181\tCHK"
+msgid "To Kamurocho Volcano"
+msgstr ""
+
+msgctxt "21\t120817\t182\tCHK"
+msgid "To Kamurocho Red Building"
+msgstr ""
+
+msgctxt "21\t120843\t183\tCHK"
+msgid "To Sky Finance"
+msgstr ""
+
+msgctxt "21\t120858\t184\tCHK"
+msgid "Kamiyama Works (Armor)"
+msgstr ""
+
+msgctxt "21\t120881\t185\tCHK"
+msgid "Kamurocho East Rooftops"
+msgstr ""
+
+msgctxt "21\t120905\t186\tCHK"
+msgid "To Ebisu Pawn"
+msgstr ""
+
+msgctxt "21\t120919\t187\tCHK"
+msgid "To Pink Alley"
+msgstr ""
+
+msgctxt "21\t120933\t188\tCHK"
+msgid "To Kyushu No. 1 Star"
+msgstr ""
+
+msgctxt "21\t120954\t189\tCHK"
+msgid "To Nakamichi Alley"
+msgstr ""
+
+msgctxt "21\t120973\t190\tCHK"
+msgid "Table Tennis Court"
+msgstr ""
+
+msgctxt "21\t120992\t191\tCHK"
+msgid "Hot Spring"
+msgstr ""
+
+msgctxt "21\t121003\t192\tCHK"
+msgid "Reception"
+msgstr ""
+
+msgctxt "21\t121013\t193\tCHK"
+msgid "Elnard"
+msgstr ""
+
+msgctxt "21\t121020\t194\tCHK"
+msgid "Theater Underground Office"
+msgstr ""
+
+msgctxt "21\t121047\t195\tCHK"
+msgid "Kamurocho Hills"
+msgstr ""
+
+msgctxt "21\t121063\t196\tCHK"
+msgid "Kamurocho Hills 1F"
+msgstr ""
+
+msgctxt "21\t121082\t197\tCHK"
+msgid "Kamurocho Hills 2F"
+msgstr ""
+
+msgctxt "21\t121101\t198\tCHK"
+msgid "Kamurocho Hills 3F"
+msgstr ""
+
+msgctxt "21\t121120\t199\tCHK"
+msgid "Kamurocho Hills 4F"
+msgstr ""
+
+msgctxt "21\t121139\t200\tCHK"
+msgid "Kamurocho Hills Roof"
+msgstr ""
+
+msgctxt "21\t121160\t201\tCHK"
+msgid "Millennium Tower Basement"
+msgstr ""
+
+msgctxt "21\t121186\t202\tCHK"
+msgid "To Millennium Tower Alley"
+msgstr ""
+
+msgctxt "21\t121212\t203\tCHK"
+msgid "To Theater"
+msgstr ""
+
+msgctxt "21\t121223\t204\tCHK"
+msgid "To Shichifuku Parking Lot"
+msgstr ""
+
+msgctxt "21\t121249\t205\tCHK"
+msgid "Hatsushiba Clan Office"
+msgstr ""
+
+msgctxt "21\t121272\t206\tCHK"
+msgid "Old Hatsushiba Clan Office"
+msgstr ""
+
+msgctxt "21\t121299\t207\tCHK"
+msgid "IF7"
+msgstr ""
+
+msgctxt "21\t121303\t208\tCHK"
+msgid "Theater Underground B1"
+msgstr ""
+
+msgctxt "21\t121326\t209\tCHK"
+msgid "Theater Underground B2"
+msgstr ""
+
+msgctxt "21\t121349\t210\tCHK"
+msgid "Theater Transformer Room"
+msgstr ""
+
+msgctxt "21\t121374\t211\tCHK"
+msgid "Roof"
+msgstr ""
+
+msgctxt "21\t121379\t212\tCHK"
+msgid "Cell"
+msgstr ""
+
+msgctxt "21\t121384\t213\tCHK"
+msgid "Cafeteria"
+msgstr ""
+
+msgctxt "21\t121394\t214\tCHK"
+msgid "Grounds"
+msgstr ""
+
+msgctxt "21\t121402\t215\tCHK"
+msgid "Guard Quarters"
+msgstr ""
+
+msgctxt "21\t121417\t216\tCHK"
+msgid "Okinawa Penitentiary No. 2, 1F"
+msgstr ""
+
+msgctxt "21\t121448\t217\tCHK"
+msgid "Okinawa Penitentiary No. 2, 2F"
+msgstr ""
+
+msgctxt "21\t121479\t218\tCHK"
+msgid "Okinawa Penitentiary No. 2, 3F"
+msgstr ""
+
+msgctxt "21\t121510\t219\tCHK"
+msgid "Solitary Confinement"
+msgstr ""
+
+msgctxt "21\t121531\t220\tCHK"
+msgid "Manager's Office"
+msgstr ""
+
+msgctxt "21\t121548\t221\tCHK"
+msgid "Okinawa Prison 1F"
+msgstr ""
+
+msgctxt "21\t121566\t222\tCHK"
+msgid "Okinawa Prison 2F"
+msgstr ""
+
+msgctxt "21\t121584\t223\tCHK"
+msgid "Okinawa Prison 3F"
+msgstr ""
+
+msgctxt "21\t121602\t224\tCHK"
+msgid "Warehouse Entrance"
+msgstr ""
+
+msgctxt "21\t121621\t225\tCHK"
+msgid "Former Tamashiro Family Office"
+msgstr ""
+
+msgctxt "21\t121652\t226\tCHK"
+msgid "Former Tamashiro Family Office 1F"
+msgstr ""
+
+msgctxt "21\t121686\t227\tCHK"
+msgid "Former Tamashiro Family Office 2F"
+msgstr ""
+
+msgctxt "21\t121720\t228\tCHK"
+msgid "Former Tamashiro Family Office 3F"
+msgstr ""
+
+msgctxt "21\t121754\t229\tCHK"
+msgid "Former Tamashiro Family Office 4F"
+msgstr ""
+
+msgctxt "21\t121788\t230\tCHK"
+msgid "Former Patriarch's Office"
+msgstr ""
+
+msgctxt "21\t121814\t231\tCHK"
+msgid "Dock"
+msgstr ""
+
+msgctxt "21\t121819\t232\tCHK"
+msgid "Isolated Arena"
+msgstr ""
+
+msgctxt "21\t121834\t233\tCHK"
+msgid "Tamashiro Family Office"
+msgstr ""
+
+msgctxt "21\t121858\t234\tCHK"
+msgid "Okinawa Penitentiary No. 2"
+msgstr ""
+
+msgctxt "22\t130680\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "22\t130681\t1\tCHK"
+msgid "Off"
+msgstr ""
+
+msgctxt "22\t130685\t2\tCHK"
+msgid "On"
+msgstr ""
+
+msgctxt "22\t130688\t3\tCHK"
+msgid "10th Kyu"
+msgstr ""
+
+msgctxt "22\t130697\t4\tCHK"
+msgid "9th Kyu"
+msgstr ""
+
+msgctxt "22\t130705\t5\tCHK"
+msgid "8th Kyu"
+msgstr ""
+
+msgctxt "22\t130713\t6\tCHK"
+msgid "7th Kyu"
+msgstr ""
+
+msgctxt "22\t130721\t7\tCHK"
+msgid "6th Kyu"
+msgstr ""
+
+msgctxt "22\t130729\t8\tCHK"
+msgid "5th Kyu"
+msgstr ""
+
+msgctxt "22\t130737\t9\tCHK"
+msgid "4th Kyu"
+msgstr ""
+
+msgctxt "22\t130745\t10\tCHK"
+msgid "3rd Kyu"
+msgstr ""
+
+msgctxt "22\t130753\t11\tCHK"
+msgid "2nd Kyu"
+msgstr ""
+
+msgctxt "22\t130761\t12\tCHK"
+msgid "1st Kyu"
+msgstr ""
+
+msgctxt "22\t130769\t13\tCHK"
+msgid "1st Dan"
+msgstr ""
+
+msgctxt "22\t130777\t14\tCHK"
+msgid "2nd Dan"
+msgstr ""
+
+msgctxt "22\t130785\t15\tCHK"
+msgid "3rd Dan"
+msgstr ""
+
+msgctxt "22\t130793\t16\tCHK"
+msgid "4th Dan"
+msgstr ""
+
+msgctxt "22\t130801\t17\tCHK"
+msgid "5th Dan"
+msgstr ""
+
+msgctxt "22\t130809\t18\tCHK"
+msgid "6th Dan"
+msgstr ""
+
+msgctxt "22\t130817\t19\tCHK"
+msgid "7th Dan"
+msgstr ""
+
+msgctxt "22\t130825\t20\tCHK"
+msgid "8th Dan"
+msgstr ""
+
+msgctxt "22\t130833\t21\tCHK"
+msgid "9th Dan"
+msgstr ""
+
+msgctxt "22\t130841\t22\tCHK"
+msgid "10th Dan"
+msgstr ""
+
+msgctxt "22\t130850\t23\tCHK"
+msgid "Shogi King"
+msgstr ""
+
+msgctxt "22\t130861\t24\tCHK"
+msgid "Mita"
+msgstr ""
+
+msgctxt "22\t130866\t25\tCHK"
+msgid "Aizawa"
+msgstr ""
+
+msgctxt "22\t130873\t26\tCHK"
+msgid "Maruyama"
+msgstr ""
+
+msgctxt "22\t130882\t27\tCHK"
+msgid "Nishino"
+msgstr ""
+
+msgctxt "22\t130890\t28\tCHK"
+msgid "Takahashi"
+msgstr ""
+
+msgctxt "22\t130900\t29\tCHK"
+msgid "Hirano"
+msgstr ""
+
+msgctxt "22\t130907\t30\tCHK"
+msgid "Kanai"
+msgstr ""
+
+msgctxt "22\t130913\t31\tCHK"
+msgid "Nagakura"
+msgstr ""
+
+msgctxt "22\t130922\t32\tCHK"
+msgid "Osaki"
+msgstr ""
+
+msgctxt "22\t130928\t33\tCHK"
+msgid "Fujimura"
+msgstr ""
+
+msgctxt "22\t130937\t34\tCHK"
+msgid "Katsuragi"
+msgstr ""
+
+msgctxt "22\t130947\t35\tCHK"
+msgid "Moriya"
+msgstr ""
+
+msgctxt "22\t130954\t36\tCHK"
+msgid "Sugishita"
+msgstr ""
+
+msgctxt "22\t130964\t37\tCHK"
+msgid "Kawakami"
+msgstr ""
+
+msgctxt "22\t130973\t38\tCHK"
+msgid "Sawanobori"
+msgstr ""
+
+msgctxt "22\t130984\t39\tCHK"
+msgid "Kunimi"
+msgstr ""
+
+msgctxt "22\t130991\t40\tCHK"
+msgid "Morikawa"
+msgstr ""
+
+msgctxt "22\t131000\t41\tCHK"
+msgid "Shiina"
+msgstr ""
+
+msgctxt "22\t131007\t42\tCHK"
+msgid "Tokunaga"
+msgstr ""
+
+msgctxt "22\t131016\t43\tCHK"
+msgid "Kimitsu"
+msgstr ""
+
+msgctxt "22\t131024\t44\tCHK"
+msgid "Tomitabayashi"
+msgstr ""
+
+msgctxt "22\t131038\t45\tCHK"
+msgid "Yuasa"
+msgstr ""
+
+msgctxt "22\t131044\t46\tCHK"
+msgid "Cho"
+msgstr ""
+
+msgctxt "22\t131048\t47\tCHK"
+msgid "Amenomori"
+msgstr ""
+
+msgctxt "22\t131058\t48\tCHK"
+msgid "Sama"
+msgstr ""
+
+msgctxt "22\t131063\t49\tCHK"
+msgid "Shinmon"
+msgstr ""
+
+msgctxt "22\t131071\t50\tCHK"
+msgid "Tachibana"
+msgstr ""
+
+msgctxt "22\t131081\t51\tCHK"
+msgid "Kuroda"
+msgstr ""
+
+msgctxt "22\t131088\t52\tCHK"
+msgid "Saki"
+msgstr ""
+
+msgctxt "22\t131093\t53\tCHK"
+msgid "Tuzuki"
+msgstr ""
+
+msgctxt "22\t131100\t54\tCHK"
+msgid "Mikogami"
+msgstr ""
+
+msgctxt "22\t131109\t55\tCHK"
+msgid "Impulsive beginner"
+msgstr ""
+
+msgctxt "22\t131128\t56\tCHK"
+msgid "Sloppy offense"
+msgstr ""
+
+msgctxt "22\t131143\t57\tCHK"
+msgid "Slow to defend"
+msgstr ""
+
+msgctxt "22\t131158\t58\tCHK"
+msgid "Always on offense"
+msgstr ""
+
+msgctxt "22\t131176\t59\tCHK"
+msgid "Well-balanced offense/defense"
+msgstr ""
+
+msgctxt "22\t131206\t60\tCHK"
+msgid "Builds a defensive wall"
+msgstr ""
+
+msgctxt "22\t131230\t61\tCHK"
+msgid "Attacks down the middle"
+msgstr ""
+
+msgctxt "22\t131254\t62\tCHK"
+msgid "Solid defense"
+msgstr ""
+
+msgctxt "22\t131268\t63\tCHK"
+msgid "Adapts to any situation"
+msgstr ""
+
+msgctxt "22\t131292\t64\tCHK"
+msgid "Endures lengthy strategic duels"
+msgstr ""
+
+msgctxt "22\t131324\t65\tCHK"
+msgid "Strong but inconsistent"
+msgstr ""
+
+msgctxt "22\t131348\t66\tCHK"
+msgid "Calm, collected offense"
+msgstr ""
+
+msgctxt "22\t131372\t67\tCHK"
+msgid "Attacks with major pieces"
+msgstr ""
+
+msgctxt "22\t131398\t68\tCHK"
+msgid "Creative with the rook"
+msgstr ""
+
+msgctxt "22\t131421\t69\tCHK"
+msgid "Balanced offense/defense"
+msgstr ""
+
+msgctxt "22\t131446\t70\tCHK"
+msgid "Likes to counterattack"
+msgstr ""
+
+msgctxt "22\t131469\t71\tCHK"
+msgid "Skilled with the rook"
+msgstr ""
+
+msgctxt "22\t131491\t72\tCHK"
+msgid "Good but impulsive"
+msgstr ""
+
+msgctxt "22\t131510\t73\tCHK"
+msgid "Builds a tough defense"
+msgstr ""
+
+msgctxt "22\t131533\t74\tCHK"
+msgid "Attacks your weak points"
+msgstr ""
+
+msgctxt "22\t131558\t75\tCHK"
+msgid "Solid offense/defense"
+msgstr ""
+
+msgctxt "22\t131580\t76\tCHK"
+msgid "Relentless offense"
+msgstr ""
+
+msgctxt "22\t131599\t77\tCHK"
+msgid "Known for strong defense"
+msgstr ""
+
+msgctxt "22\t131624\t78\tCHK"
+msgid "Uses varied tactics"
+msgstr ""
+
+msgctxt "22\t131644\t79\tCHK"
+msgid "Offensive expert"
+msgstr ""
+
+msgctxt "22\t131661\t80\tCHK"
+msgid "Attacks swiftly"
+msgstr ""
+
+msgctxt "22\t131677\t81\tCHK"
+msgid "Has a varied defense"
+msgstr ""
+
+msgctxt "22\t131698\t82\tCHK"
+msgid "Moves rook to center"
+msgstr ""
+
+msgctxt "22\t131719\t83\tCHK"
+msgid "Well-planned offense"
+msgstr ""
+
+msgctxt "22\t131740\t84\tCHK"
+msgid "Master of all tactics"
+msgstr ""
+
+msgctxt "22\t131762\t85\tCHK"
+msgid "Shogi is life"
+msgstr ""
+
+msgctxt "22\t131776\t86\tCHK"
+msgid "Challenge 1"
+msgstr ""
+
+msgctxt "22\t131788\t87\tCHK"
+msgid "Challenge 2"
+msgstr ""
+
+msgctxt "22\t131800\t88\tCHK"
+msgid "Challenge 3"
+msgstr ""
+
+msgctxt "22\t131812\t89\tCHK"
+msgid "Challenge 4"
+msgstr ""
+
+msgctxt "22\t131824\t90\tCHK"
+msgid "Challenge 5"
+msgstr ""
+
+msgctxt "22\t131836\t91\tCHK"
+msgid "Challenge 6"
+msgstr ""
+
+msgctxt "22\t131848\t92\tCHK"
+msgid "Challenge 7"
+msgstr ""
+
+msgctxt "22\t131860\t93\tCHK"
+msgid "Challenge 8"
+msgstr ""
+
+msgctxt "22\t131872\t94\tCHK"
+msgid "Challenge 9"
+msgstr ""
+
+msgctxt "22\t131884\t95\tCHK"
+msgid "Challenge 10"
+msgstr ""
+
+msgctxt "22\t131897\t96\tCHK"
+msgid "Final Battle"
+msgstr ""
+
+msgctxt "22\t131910\t97\tCHK"
+msgid "Desperation"
+msgstr ""
+
+msgctxt "23\t135176\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "23\t135177\t1\tCHK"
+msgid ""
+"April 21st, 1985\n"
+"In an abandoned warehouse..."
+msgstr ""
+
+msgctxt "23\t135223\t2\tCHK"
+msgid ""
+"March 4th\n"
+"3:00 PM"
+msgstr ""
+
+msgctxt "23\t135241\t3\tCHK"
+msgid ""
+"5:00 PM \n"
+"Okinawa Penitentiary No. 2  Cafeteria"
+msgstr ""
+
+msgctxt "23\t135288\t4\tCHK"
+msgid ""
+"March 6th, 2010\n"
+"Kamurocho, Tokyo"
+msgstr ""
+
+msgctxt "23\t135321\t5\tCHK"
+msgid ""
+"March 9th\n"
+"The next day..."
+msgstr ""
+
+msgctxt "23\t135347\t6\tCHK"
+msgid "The next day..."
+msgstr ""
+
+msgctxt "23\t135363\t7\tCHK"
+msgid ""
+"March 9th, 2010\n"
+"The next day..."
+msgstr ""
+
+msgctxt "25\t136184\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "25\t136185\t1\tCHK"
+msgid "Incomplete"
+msgstr ""
+
+msgctxt "25\t136196\t2\tCHK"
+msgid "<Sign:34>"
+msgstr ""
+
+msgctxt "25\t136206\t3\tCHK"
+msgid "Done"
+msgstr ""
+
+msgctxt "25\t136211\t4\tCHK"
+msgid "<Sign:33>"
+msgstr ""
+
+msgctxt "26\t139800\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "26\t139801\t1\tCHK"
+msgid "Golf Course"
+msgstr ""
+
+msgctxt "26\t139813\t2\tCHK"
+msgid "Docks"
+msgstr ""
+
+msgctxt "26\t139819\t3\tCHK"
+msgid "Pink Street Entrance"
+msgstr ""
+
+msgctxt "26\t139840\t4\tCHK"
+msgid "North Hotel District"
+msgstr ""
+
+msgctxt "26\t139861\t5\tCHK"
+msgid "Kamurocho Central Parking Lot"
+msgstr ""
+
+msgctxt "26\t139891\t6\tCHK"
+msgid "South Tenkaichi Street"
+msgstr ""
+
+msgctxt "26\t139914\t7\tCHK"
+msgid "East Park Boulevard"
+msgstr ""
+
+msgctxt "26\t139934\t8\tCHK"
+msgid "Suppon Street"
+msgstr ""
+
+msgctxt "26\t139948\t9\tCHK"
+msgid "Champion District"
+msgstr ""
+
+msgctxt "26\t139966\t10\tCHK"
+msgid "Pink Street"
+msgstr ""
+
+msgctxt "26\t139978\t11\tCHK"
+msgid "North Pink Street"
+msgstr ""
+
+msgctxt "26\t139996\t12\tCHK"
+msgid "Pink Alley"
+msgstr ""
+
+msgctxt "26\t140007\t13\tCHK"
+msgid "Hotel District"
+msgstr ""
+
+msgctxt "26\t140022\t14\tCHK"
+msgid "Millennium Tower Garden"
+msgstr ""
+
+msgctxt "26\t140046\t15\tCHK"
+msgid "North Millennium Tower"
+msgstr ""
+
+msgctxt "26\t140069\t16\tCHK"
+msgid "Theater Square"
+msgstr ""
+
+msgctxt "26\t140084\t17\tCHK"
+msgid "Theater Alley"
+msgstr ""
+
+msgctxt "26\t140098\t18\tCHK"
+msgid "Theater Avenue"
+msgstr ""
+
+msgctxt "26\t140113\t19\tCHK"
+msgid "Northwest Theater Square"
+msgstr ""
+
+msgctxt "26\t140138\t20\tCHK"
+msgid "Park Boulevard"
+msgstr ""
+
+msgctxt "26\t140153\t21\tCHK"
+msgid "Park Alley"
+msgstr ""
+
+msgctxt "26\t140164\t22\tCHK"
+msgid "Children's Park"
+msgstr ""
+
+msgctxt "26\t140180\t23\tCHK"
+msgid "Shichifuku Parking Lot"
+msgstr ""
+
+msgctxt "26\t140203\t24\tCHK"
+msgid "Shichifuku Street"
+msgstr ""
+
+msgctxt "26\t140221\t25\tCHK"
+msgid "East Shichifuku Street"
+msgstr ""
+
+msgctxt "26\t140244\t26\tCHK"
+msgid "Showa Street"
+msgstr ""
+
+msgctxt "26\t140257\t27\tCHK"
+msgid "West Showa Street"
+msgstr ""
+
+msgctxt "26\t140275\t28\tCHK"
+msgid "East Showa Street"
+msgstr ""
+
+msgctxt "26\t140293\t29\tCHK"
+msgid "Senryo Avenue"
+msgstr ""
+
+msgctxt "26\t140307\t30\tCHK"
+msgid "North Senryo Avenue"
+msgstr ""
+
+msgctxt "26\t140327\t31\tCHK"
+msgid "Taihei Boulevard"
+msgstr ""
+
+msgctxt "26\t140344\t32\tCHK"
+msgid "East Taihei Boulevard"
+msgstr ""
+
+msgctxt "26\t140366\t33\tCHK"
+msgid "Nakamichi Street"
+msgstr ""
+
+msgctxt "26\t140383\t34\tCHK"
+msgid "Nakamichi Street Entrance"
+msgstr ""
+
+msgctxt "26\t140409\t35\tCHK"
+msgid "East Millennium Tower Street"
+msgstr ""
+
+msgctxt "26\t140438\t36\tCHK"
+msgid "West Shichifuku Street"
+msgstr ""
+
+msgctxt "26\t140461\t37\tCHK"
+msgid "West Taihei Boulevard"
+msgstr ""
+
+msgctxt "26\t140483\t38\tCHK"
+msgid "Tenkaichi Alley"
+msgstr ""
+
+msgctxt "26\t140499\t39\tCHK"
+msgid "Serena Alley"
+msgstr ""
+
+msgctxt "26\t140512\t40\tCHK"
+msgid "Bantam"
+msgstr ""
+
+msgctxt "26\t140519\t41\tCHK"
+msgid "Shellac"
+msgstr ""
+
+msgctxt "26\t140527\t42\tCHK"
+msgid "Weapon Shop"
+msgstr ""
+
+msgctxt "26\t140539\t43\tCHK"
+msgid "Emoto Medical Clinic"
+msgstr ""
+
+msgctxt "26\t140560\t44\tCHK"
+msgid "Millennium Tower"
+msgstr ""
+
+msgctxt "26\t140577\t45\tCHK"
+msgid "Pronto"
+msgstr ""
+
+msgctxt "26\t140584\t46\tCHK"
+msgid "Ebisu Pawn"
+msgstr ""
+
+msgctxt "26\t140595\t47\tCHK"
+msgid "Stardust"
+msgstr ""
+
+msgctxt "26\t140604\t48\tCHK"
+msgid "Coliseum Lobby"
+msgstr ""
+
+msgctxt "26\t140619\t49\tCHK"
+msgid "Café Alps"
+msgstr ""
+
+msgctxt "26\t140630\t50\tCHK"
+msgid "Matsuya Tenkaichi Street"
+msgstr ""
+
+msgctxt "26\t140655\t51\tCHK"
+msgid "Watami"
+msgstr ""
+
+msgctxt "26\t140662\t52\tCHK"
+msgid "Gelateria Kamuro"
+msgstr ""
+
+msgctxt "26\t140679\t53\tCHK"
+msgid "Earth Angel"
+msgstr ""
+
+msgctxt "26\t140691\t54\tCHK"
+msgid "Smile Burger"
+msgstr ""
+
+msgctxt "26\t140704\t55\tCHK"
+msgid "Kyushu No. 1 Star"
+msgstr ""
+
+msgctxt "26\t140722\t56\tCHK"
+msgid "Sushi Gin"
+msgstr ""
+
+msgctxt "26\t140732\t57\tCHK"
+msgid "Matsuya Taihei Boulevard"
+msgstr ""
+
+msgctxt "26\t140757\t58\tCHK"
+msgid "Kanrai"
+msgstr ""
+
+msgctxt "26\t140764\t59\tCHK"
+msgid "M Store"
+msgstr ""
+
+msgctxt "26\t140772\t60\tCHK"
+msgid "Poppo Tenkaichi Street"
+msgstr ""
+
+msgctxt "26\t140795\t61\tCHK"
+msgid "Beam"
+msgstr ""
+
+msgctxt "26\t140800\t62\tCHK"
+msgid "Poppo Showa Street"
+msgstr ""
+
+msgctxt "26\t140819\t63\tCHK"
+msgid "Poppo Nakamichi Alley"
+msgstr ""
+
+msgctxt "26\t140841\t64\tCHK"
+msgid "Don Quijote"
+msgstr ""
+
+msgctxt "26\t140853\t65\tCHK"
+msgid "Le Marche"
+msgstr ""
+
+msgctxt "26\t140863\t66\tCHK"
+msgid "Kamiyama Works"
+msgstr ""
+
+msgctxt "26\t140878\t67\tCHK"
+msgid "Kotobuki Drugs"
+msgstr ""
+
+msgctxt "26\t140893\t68\tCHK"
+msgid "Dragon Palace"
+msgstr ""
+
+msgctxt "26\t140907\t69\tCHK"
+msgid "Volcanic Volcano"
+msgstr ""
+
+msgctxt "26\t140924\t70\tCHK"
+msgid "Shoten Shogi"
+msgstr ""
+
+msgctxt "26\t140937\t71\tCHK"
+msgid "Club SEGA Nakamichi Street"
+msgstr ""
+
+msgctxt "26\t140964\t72\tCHK"
+msgid "Orchid Palace Mahjong"
+msgstr ""
+
+msgctxt "26\t140986\t73\tCHK"
+msgid "Karaokekan"
+msgstr ""
+
+msgctxt "26\t140997\t74\tCHK"
+msgid "Club SEGA Theater Square"
+msgstr ""
+
+msgctxt "26\t141022\t75\tCHK"
+msgid "Yoshida Batting Center"
+msgstr ""
+
+msgctxt "26\t141045\t76\tCHK"
+msgid "Mach Bowl"
+msgstr ""
+
+msgctxt "26\t141055\t77\tCHK"
+msgid "Yunosono Hot Springs"
+msgstr ""
+
+msgctxt "26\t141076\t78\tCHK"
+msgid "New Serena"
+msgstr ""
+
+msgctxt "26\t141087\t79\tCHK"
+msgid "Sodachi Dojo"
+msgstr ""
+
+msgctxt "26\t141100\t80\tCHK"
+msgid "Purgatory (West Park)"
+msgstr ""
+
+msgctxt "26\t141122\t81\tCHK"
+msgid "Public Park 3"
+msgstr ""
+
+msgctxt "26\t141136\t82\tCHK"
+msgid "Naomi's Palace"
+msgstr ""
+
+msgctxt "26\t141151\t83\tCHK"
+msgid "Club Elise"
+msgstr ""
+
+msgctxt "26\t141162\t84\tCHK"
+msgid "Club Jewel"
+msgstr ""
+
+msgctxt "26\t141173\t85\tCHK"
+msgid "Club Shine"
+msgstr ""
+
+msgctxt "26\t141184\t86\tCHK"
+msgid "Club Asia"
+msgstr ""
+
+msgctxt "26\t141194\t87\tCHK"
+msgid "Love in Heart Massage Parlor"
+msgstr ""
+
+msgctxt "26\t141223\t88\tCHK"
+msgid "Men's Entertainment Box"
+msgstr ""
+
+msgctxt "26\t141247\t89\tCHK"
+msgid "Nakamichi Alley"
+msgstr ""
+
+msgctxt "26\t141263\t90\tCHK"
+msgid "Tenkaichi Street"
+msgstr ""
+
+msgctxt "26\t141280\t91\tCHK"
+msgid "New Serena Alley"
+msgstr ""
+
+msgctxt "26\t141297\t92\tCHK"
+msgid "Tenkaichi Street Entrance"
+msgstr ""
+
+msgctxt "26\t141323\t93\tCHK"
+msgid "Cuez Bar"
+msgstr ""
+
+msgctxt "26\t141332\t94\tCHK"
+msgid "Milestone"
+msgstr ""
+
+msgctxt "26\t141342\t95\tCHK"
+msgid "Fukuma Casino"
+msgstr ""
+
+msgctxt "26\t141356\t96\tCHK"
+msgid "Nair's Training Grounds"
+msgstr ""
+
+msgctxt "26\t141380\t97\tCHK"
+msgid "Saigo's Training Grounds"
+msgstr ""
+
+msgctxt "26\t141405\t98\tCHK"
+msgid "Master's Training Grounds"
+msgstr ""
+
+msgctxt "26\t141431\t99\tCHK"
+msgid "Kamiyama Works (Armor)"
+msgstr ""
+
+msgctxt "26\t141454\t100\tCHK"
+msgid "Food Stall"
+msgstr ""
+
+msgctxt "26\t141465\t101\tCHK"
+msgid "Homeland"
+msgstr ""
+
+msgctxt "26\t141474\t102\tCHK"
+msgid "Theater Underground Office"
+msgstr ""
+
+msgctxt "26\t141501\t103\tCHK"
+msgid "HLA Headquarters"
+msgstr ""
+
+msgctxt "159\t468216\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "159\t468217\t1\tCHK"
+msgid "*pant* *pant*"
+msgstr ""
+
+msgctxt "159\t468231\t2\tCHK"
+msgid "Knock it off!"
+msgstr ""
+
+msgctxt "159\t468245\t3\tCHK"
+msgid "You're not catching me!"
+msgstr ""
+
+msgctxt "159\t468269\t4\tCHK"
+msgid "Son of a...!"
+msgstr ""
+
+msgctxt "159\t468282\t5\tCHK"
+msgid "Just give it up!"
+msgstr ""
+
+msgctxt "159\t468299\t6\tCHK"
+msgid "Ugh!"
+msgstr ""
+
+msgctxt "159\t468304\t7\tCHK"
+msgid "C'mon!"
+msgstr ""
+
+msgctxt "159\t468311\t8\tCHK"
+msgid "C'mon c'mon!"
+msgstr ""
+
+msgctxt "159\t468324\t9\tCHK"
+msgid "Hrgh!"
+msgstr ""
+
+msgctxt "159\t468330\t10\tCHK"
+msgid "Officer"
+msgstr ""
+
+msgctxt "159\t468338\t11\tCHK"
+msgid "Hold it!"
+msgstr ""
+
+msgctxt "159\t468347\t12\tCHK"
+msgid "Stop right there!"
+msgstr ""
+
+msgctxt "159\t468365\t13\tCHK"
+msgid "What are you doing!?"
+msgstr ""
+
+msgctxt "159\t468386\t14\tCHK"
+msgid "No choice now!"
+msgstr ""
+
+msgctxt "159\t468401\t15\tCHK"
+msgid "Look out!"
+msgstr ""
+
+msgctxt "159\t468411\t16\tCHK"
+msgid "You're getting on my nerves!"
+msgstr ""
+
+msgctxt "159\t468440\t17\tCHK"
+msgid "Gah!"
+msgstr ""
+
+msgctxt "159\t468445\t18\tCHK"
+msgid "Take this!"
+msgstr ""
+
+msgctxt "159\t468456\t19\tCHK"
+msgid "Wait!"
+msgstr ""
+
+msgctxt "159\t468462\t20\tCHK"
+msgid "Hey!"
+msgstr ""
+
+msgctxt "159\t468467\t21\tCHK"
+msgid "Shit!"
+msgstr ""
+
+msgctxt "159\t468473\t22\tCHK"
+msgid "Hold up!"
+msgstr ""
+
+msgctxt "159\t468482\t23\tCHK"
+msgid "Just give up already!"
+msgstr ""
+
+msgctxt "159\t468504\t24\tCHK"
+msgid "Agh!"
+msgstr ""
+
+msgctxt "159\t468509\t25\tCHK"
+msgid "Got you now! "
+msgstr ""
+
+msgctxt "159\t468523\t26\tCHK"
+msgid "Why you...!"
+msgstr ""
+
+msgctxt "159\t468535\t27\tCHK"
+msgid "Get back!"
+msgstr ""
+
+msgctxt "159\t468545\t28\tCHK"
+msgid "Hah!"
+msgstr ""
+
+msgctxt "159\t468550\t29\tCHK"
+msgid "Ow!"
+msgstr ""
+
+msgctxt "159\t468554\t30\tCHK"
+msgid "Yah!"
+msgstr ""
+
+msgctxt "159\t468559\t31\tCHK"
+msgid "You piece of...!"
+msgstr ""
+
+msgctxt "159\t468576\t32\tCHK"
+msgid "Stay away from me!"
+msgstr ""
+
+msgctxt "159\t468595\t33\tCHK"
+msgid "Hyup!"
+msgstr ""
+
+msgctxt "159\t468601\t34\tCHK"
+msgid "That'll show you!"
+msgstr ""
+
+msgctxt "159\t468619\t35\tCHK"
+msgid "Take that!"
+msgstr ""
+
+msgctxt "159\t468630\t36\tCHK"
+msgid "Run faster!"
+msgstr ""
+
+msgctxt "159\t468642\t37\tCHK"
+msgid "Think you can keep up?"
+msgstr ""
+
+msgctxt "159\t468665\t38\tCHK"
+msgid "Hmph!"
+msgstr ""
+
+msgctxt "159\t468671\t39\tCHK"
+msgid "Keep pushing!"
+msgstr ""
+
+msgctxt "159\t468685\t40\tCHK"
+msgid "Woohoo!"
+msgstr ""
+
+msgctxt "159\t468693\t41\tCHK"
+msgid "Gotta go strong!"
+msgstr ""
+
+msgctxt "159\t468710\t42\tCHK"
+msgid "Got you in my sights!"
+msgstr ""
+
+msgctxt "159\t468732\t43\tCHK"
+msgid "Just getting started!"
+msgstr ""
+
+msgctxt "173\t481720\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "173\t481721\t1\tCHK"
+msgid "Arika"
+msgstr ""
+
+msgctxt "173\t481727\t2\tCHK"
+msgid "Hey, you're good!"
+msgstr ""
+
+msgctxt "173\t481745\t3\tCHK"
+msgid "Maybe next time!"
+msgstr ""
+
+msgctxt "173\t481762\t4\tCHK"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "173\t481768\t5\tCHK"
+msgid "Incredible!"
+msgstr ""
+
+msgctxt "173\t481780\t6\tCHK"
+msgid "Ah..."
+msgstr ""
+
+msgctxt "173\t481786\t7\tCHK"
+msgid "No..."
+msgstr ""
+
+msgctxt "173\t481792\t8\tCHK"
+msgid "What now?"
+msgstr ""
+
+msgctxt "173\t481802\t9\tCHK"
+msgid "My mind's made up!"
+msgstr ""
+
+msgctxt "173\t481821\t10\tCHK"
+msgid "Misato Kano"
+msgstr ""
+
+msgctxt "173\t481833\t11\tCHK"
+msgid "Very good!"
+msgstr ""
+
+msgctxt "173\t481844\t12\tCHK"
+msgid "No need to fret."
+msgstr ""
+
+msgctxt "173\t481861\t13\tCHK"
+msgid "I did it!"
+msgstr ""
+
+msgctxt "173\t481871\t14\tCHK"
+msgid "I'm on a roll!"
+msgstr ""
+
+msgctxt "173\t481886\t15\tCHK"
+msgid "Oh my..."
+msgstr ""
+
+msgctxt "173\t481895\t16\tCHK"
+msgid "This isn't good."
+msgstr ""
+
+msgctxt "173\t481912\t17\tCHK"
+msgid "This is a tough one."
+msgstr ""
+
+msgctxt "173\t481933\t18\tCHK"
+msgid "I've got it!"
+msgstr ""
+
+msgctxt "173\t481946\t19\tCHK"
+msgid "Hayato Sakagami"
+msgstr ""
+
+msgctxt "173\t481962\t20\tCHK"
+msgid "Wow, you're on fire!"
+msgstr ""
+
+msgctxt "173\t481983\t21\tCHK"
+msgid "Hahaha, it's all good!"
+msgstr ""
+
+msgctxt "173\t482006\t22\tCHK"
+msgid "That's it!"
+msgstr ""
+
+msgctxt "173\t482017\t23\tCHK"
+msgid "I'm in the zone!"
+msgstr ""
+
+msgctxt "173\t482034\t24\tCHK"
+msgid "Ow."
+msgstr ""
+
+msgctxt "173\t482038\t25\tCHK"
+msgid "Not good..."
+msgstr ""
+
+msgctxt "173\t482050\t26\tCHK"
+msgid "Lemme get my notes."
+msgstr ""
+
+msgctxt "173\t482070\t27\tCHK"
+msgid "Here we go!"
+msgstr ""
+
+msgctxt "173\t482082\t28\tCHK"
+msgid "Kaoru Takada"
+msgstr ""
+
+msgctxt "173\t482095\t29\tCHK"
+msgid "Wow!"
+msgstr ""
+
+msgctxt "173\t482100\t30\tCHK"
+msgid "Ouch..."
+msgstr ""
+
+msgctxt "173\t482108\t31\tCHK"
+msgid "I'm ready!"
+msgstr ""
+
+msgctxt "173\t482119\t32\tCHK"
+msgid "Yes! Again!"
+msgstr ""
+
+msgctxt "173\t482131\t33\tCHK"
+msgid "That wasn't the best..."
+msgstr ""
+
+msgctxt "173\t482155\t34\tCHK"
+msgid "I could use a nap after that."
+msgstr ""
+
+msgctxt "173\t482185\t35\tCHK"
+msgid "I've got you now! "
+msgstr ""
+
+msgctxt "173\t482204\t36\tCHK"
+msgid "Natasha"
+msgstr ""
+
+msgctxt "173\t482212\t37\tCHK"
+msgid "You're the real deal."
+msgstr ""
+
+msgctxt "173\t482234\t38\tCHK"
+msgid "No worries!"
+msgstr ""
+
+msgctxt "173\t482246\t39\tCHK"
+msgid "All right!"
+msgstr ""
+
+msgctxt "173\t482257\t40\tCHK"
+msgid "Here it comes!"
+msgstr ""
+
+msgctxt "173\t482272\t41\tCHK"
+msgid "Tsk..."
+msgstr ""
+
+msgctxt "173\t482279\t42\tCHK"
+msgid "What was that?"
+msgstr ""
+
+msgctxt "173\t482294\t43\tCHK"
+msgid "Gotta think..."
+msgstr ""
+
+msgctxt "173\t482309\t44\tCHK"
+msgid "Howard Garcia"
+msgstr ""
+
+msgctxt "173\t482323\t45\tCHK"
+msgid "Impressive."
+msgstr ""
+
+msgctxt "173\t482335\t46\tCHK"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "173\t482341\t47\tCHK"
+msgid "Oh yes!"
+msgstr ""
+
+msgctxt "173\t482349\t48\tCHK"
+msgid "Not bad!"
+msgstr ""
+
+msgctxt "173\t482358\t49\tCHK"
+msgid "Urgh."
+msgstr ""
+
+msgctxt "173\t482364\t50\tCHK"
+msgid "No go..."
+msgstr ""
+
+msgctxt "173\t482373\t51\tCHK"
+msgid "Hmmm..."
+msgstr ""
+
+msgctxt "173\t482381\t52\tCHK"
+msgid "This is the one!"
+msgstr ""
+
+msgctxt "173\t482398\t53\tCHK"
+msgid "Mark Davis"
+msgstr ""
+
+msgctxt "173\t482409\t54\tCHK"
+msgid "That's the ticket!"
+msgstr ""
+
+msgctxt "173\t482428\t55\tCHK"
+msgid "Next time, yeah?"
+msgstr ""
+
+msgctxt "173\t482445\t56\tCHK"
+msgid "Phew..."
+msgstr ""
+
+msgctxt "173\t482453\t57\tCHK"
+msgid "Who da man?"
+msgstr ""
+
+msgctxt "173\t482465\t58\tCHK"
+msgid "Darn."
+msgstr ""
+
+msgctxt "173\t482471\t59\tCHK"
+msgid "Is this the end?"
+msgstr ""
+
+msgctxt "173\t482488\t60\tCHK"
+msgid "How about... this?"
+msgstr ""
+
+msgctxt "173\t482507\t61\tCHK"
+msgid "Victory is mine!"
+msgstr ""
+
+msgctxt "173\t482524\t62\tCHK"
+msgid "Mikihisa Yaoi"
+msgstr ""
+
+msgctxt "173\t482538\t63\tCHK"
+msgid "Whoa!"
+msgstr ""
+
+msgctxt "173\t482544\t64\tCHK"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "173\t482548\t65\tCHK"
+msgid "It's go time!"
+msgstr ""
+
+msgctxt "173\t482562\t66\tCHK"
+msgid "Today's my lucky day!"
+msgstr ""
+
+msgctxt "173\t482584\t67\tCHK"
+msgid "Not a chance."
+msgstr ""
+
+msgctxt "173\t482598\t68\tCHK"
+msgid "Uh-oh."
+msgstr ""
+
+msgctxt "173\t482605\t69\tCHK"
+msgid "Eureka!"
+msgstr ""
+
+msgctxt "173\t482613\t70\tCHK"
+msgid "Randy Morris"
+msgstr ""
+
+msgctxt "173\t482626\t71\tCHK"
+msgid "You got lucky!"
+msgstr ""
+
+msgctxt "173\t482641\t72\tCHK"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "173\t482647\t73\tCHK"
+msgid "Yes!"
+msgstr ""
+
+msgctxt "173\t482652\t74\tCHK"
+msgid "Hahaha!"
+msgstr ""
+
+msgctxt "173\t482660\t75\tCHK"
+msgid "Darn it all."
+msgstr ""
+
+msgctxt "173\t482673\t76\tCHK"
+msgid "Crap on a stick."
+msgstr ""
+
+msgctxt "173\t482690\t77\tCHK"
+msgid "How's this?"
+msgstr ""
+
+msgctxt "173\t482702\t78\tCHK"
+msgid "It's all or nothing!"
+msgstr ""
+
+msgctxt "173\t482723\t79\tCHK"
+msgid "Travis Watanabe Jr"
+msgstr ""
+
+msgctxt "173\t482742\t80\tCHK"
+msgid "Whoa now!"
+msgstr ""
+
+msgctxt "173\t482752\t81\tCHK"
+msgid "Couldn't cut it?"
+msgstr ""
+
+msgctxt "173\t482769\t82\tCHK"
+msgid "I rock!"
+msgstr ""
+
+msgctxt "173\t482777\t83\tCHK"
+msgid "The wins just keep comin'!"
+msgstr ""
+
+msgctxt "173\t482804\t84\tCHK"
+msgid "I... lost."
+msgstr ""
+
+msgctxt "173\t482815\t85\tCHK"
+msgid "I lost again..."
+msgstr ""
+
+msgctxt "173\t482831\t86\tCHK"
+msgid "Don't think! Feel!"
+msgstr ""
+
+msgctxt "173\t482850\t87\tCHK"
+msgid "It's do or die..."
+msgstr ""
+
+msgctxt "174\t486808\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "174\t486809\t1\tCHK"
+msgid "It's a face card."
+msgstr ""
+
+msgctxt "174\t486827\t2\tCHK"
+msgid "Ya got a face card."
+msgstr ""
+
+msgctxt "174\t486847\t3\tCHK"
+msgid "Face card!"
+msgstr ""
+
+msgctxt "174\t486858\t4\tCHK"
+msgid "An ace!"
+msgstr ""
+
+msgctxt "174\t486866\t5\tCHK"
+msgid "Well that's an ace."
+msgstr ""
+
+msgctxt "174\t486886\t6\tCHK"
+msgid "A 6."
+msgstr ""
+
+msgctxt "174\t486891\t7\tCHK"
+msgid "A 6...?"
+msgstr ""
+
+msgctxt "174\t486899\t8\tCHK"
+msgid "That's a 6 if I ever saw one."
+msgstr ""
+
+msgctxt "174\t486929\t9\tCHK"
+msgid "Three pips, so..."
+msgstr ""
+
+msgctxt "174\t486947\t10\tCHK"
+msgid "It's a 9 or 10!"
+msgstr ""
+
+msgctxt "174\t486963\t11\tCHK"
+msgid "Four pips, so..."
+msgstr ""
+
+msgctxt "174\t486980\t12\tCHK"
+msgid "It's a 9."
+msgstr ""
+
+msgctxt "174\t486990\t13\tCHK"
+msgid "A 9...?"
+msgstr ""
+
+msgctxt "174\t486998\t14\tCHK"
+msgid "A 9, no doubt."
+msgstr ""
+
+msgctxt "174\t487013\t15\tCHK"
+msgid "It's a 10."
+msgstr ""
+
+msgctxt "174\t487024\t16\tCHK"
+msgid "A 10...?"
+msgstr ""
+
+msgctxt "174\t487033\t17\tCHK"
+msgid "Looks like a 10 to me."
+msgstr ""
+
+msgctxt "174\t487056\t18\tCHK"
+msgid ""
+"A 2?\n"
+"Or maybe a 3?"
+msgstr ""
+
+msgctxt "174\t487075\t19\tCHK"
+msgid "2... 3..."
+msgstr ""
+
+msgctxt "174\t487085\t20\tCHK"
+msgid "Gotta be a 2 or 3."
+msgstr ""
+
+msgctxt "174\t487104\t21\tCHK"
+msgid "I just know it's a 2 or 3!"
+msgstr ""
+
+msgctxt "174\t487131\t22\tCHK"
+msgid ""
+"A 4?\n"
+"Or maybe a 5?"
+msgstr ""
+
+msgctxt "174\t487150\t23\tCHK"
+msgid ""
+"4?\n"
+"No, wait... 5?"
+msgstr ""
+
+msgctxt "174\t487168\t24\tCHK"
+msgid ""
+"4?\n"
+"Nah, maybe a 5."
+msgstr ""
+
+msgctxt "174\t487187\t25\tCHK"
+msgid "It's a 4 or a 5!"
+msgstr ""
+
+msgctxt "174\t487204\t26\tCHK"
+msgid ""
+"A 7?\n"
+"Or maybe an 8?"
+msgstr ""
+
+msgctxt "174\t487224\t27\tCHK"
+msgid ""
+"Gotta be a 7!\n"
+"Or is it 8?"
+msgstr ""
+
+msgctxt "174\t487250\t28\tCHK"
+msgid ""
+"7 or 8...\n"
+"Which is it!?"
+msgstr ""
+
+msgctxt "174\t487274\t29\tCHK"
+msgid "It's a 7 or 8!"
+msgstr ""
+
+msgctxt "175\t489736\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "175\t489737\t1\tCHK"
+msgid "It's a face card."
+msgstr ""
+
+msgctxt "175\t489755\t2\tCHK"
+msgid "Ya got a face card."
+msgstr ""
+
+msgctxt "175\t489775\t3\tCHK"
+msgid "Face card!"
+msgstr ""
+
+msgctxt "175\t489786\t4\tCHK"
+msgid "Ah, an ace!"
+msgstr ""
+
+msgctxt "175\t489798\t5\tCHK"
+msgid "Well that's an ace."
+msgstr ""
+
+msgctxt "175\t489818\t6\tCHK"
+msgid "A 6."
+msgstr ""
+
+msgctxt "175\t489823\t7\tCHK"
+msgid "A 6...?"
+msgstr ""
+
+msgctxt "175\t489831\t8\tCHK"
+msgid "That's a 6 if I ever saw one."
+msgstr ""
+
+msgctxt "175\t489861\t9\tCHK"
+msgid "Three pips, so..."
+msgstr ""
+
+msgctxt "175\t489879\t10\tCHK"
+msgid "It's a 9 or 10!"
+msgstr ""
+
+msgctxt "175\t489895\t11\tCHK"
+msgid "Four pips, so..."
+msgstr ""
+
+msgctxt "175\t489912\t12\tCHK"
+msgid "It's a 9."
+msgstr ""
+
+msgctxt "175\t489922\t13\tCHK"
+msgid "A 9...?"
+msgstr ""
+
+msgctxt "175\t489930\t14\tCHK"
+msgid "A 9, no doubt."
+msgstr ""
+
+msgctxt "175\t489945\t15\tCHK"
+msgid "It's a 10."
+msgstr ""
+
+msgctxt "175\t489956\t16\tCHK"
+msgid "A 10...?"
+msgstr ""
+
+msgctxt "175\t489965\t17\tCHK"
+msgid "Looks like a 10 to me."
+msgstr ""
+
+msgctxt "175\t489988\t18\tCHK"
+msgid ""
+"A 2?\n"
+"Or maybe a 3?"
+msgstr ""
+
+msgctxt "175\t490007\t19\tCHK"
+msgid "2... 3..."
+msgstr ""
+
+msgctxt "175\t490017\t20\tCHK"
+msgid "Gotta be a 2 or 3."
+msgstr ""
+
+msgctxt "175\t490036\t21\tCHK"
+msgid "I just know it's a 2 or 3!"
+msgstr ""
+
+msgctxt "175\t490063\t22\tCHK"
+msgid ""
+"A 4?\n"
+"Or maybe a 5?"
+msgstr ""
+
+msgctxt "175\t490082\t23\tCHK"
+msgid ""
+"4?\n"
+"No, wait... 5?"
+msgstr ""
+
+msgctxt "175\t490100\t24\tCHK"
+msgid ""
+"4?\n"
+"Nah, maybe a 5."
+msgstr ""
+
+msgctxt "175\t490119\t25\tCHK"
+msgid "It's a 4 or a 5!"
+msgstr ""
+
+msgctxt "175\t490136\t26\tCHK"
+msgid ""
+"A 7?\n"
+"Or maybe an 8?"
+msgstr ""
+
+msgctxt "175\t490156\t27\tCHK"
+msgid ""
+"Gotta be a 7!\n"
+"Or is it 8?"
+msgstr ""
+
+msgctxt "175\t490182\t28\tCHK"
+msgid ""
+"7 or 8...\n"
+"Which is it!?"
+msgstr ""
+
+msgctxt "175\t490206\t29\tCHK"
+msgid "It's a 7 or 8!"
+msgstr ""
+
+msgctxt "176\t493560\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "176\t493561\t1\tCHK"
+msgid "Hm, counterattacking after someone breaks your guard?"
+msgstr ""
+
+msgctxt "176\t493615\t2\tCHK"
+msgid "Cheating out in the open like that? He deserves what he got."
+msgstr ""
+
+msgctxt "176\t493676\t3\tCHK"
+msgid "She used that narrow alleyway to her advantage."
+msgstr ""
+
+msgctxt "176\t493724\t4\tCHK"
+msgid "Nobody likes a cheater."
+msgstr ""
+
+msgctxt "176\t493748\t5\tCHK"
+msgid "Damn, she kicked clean through his guard."
+msgstr ""
+
+msgctxt "176\t493790\t6\tCHK"
+msgid "Is everyone 'round here some kinda kung fu master?"
+msgstr ""
+
+msgctxt "176\t493841\t7\tCHK"
+msgid "Those leaps and bounds were something else."
+msgstr ""
+
+msgctxt "176\t493885\t8\tCHK"
+msgid "What's with the suspenders?"
+msgstr ""
+
+msgctxt "176\t493913\t9\tCHK"
+msgid "You know, that girl was actually kinda cute."
+msgstr ""
+
+msgctxt "176\t493958\t10\tCHK"
+msgid "Fancy-lookin' ride. Wonder if it's alright."
+msgstr ""
+
+msgctxt "176\t494002\t11\tCHK"
+msgid "Guy slammed straight into the wall."
+msgstr ""
+
+msgctxt "176\t494038\t12\tCHK"
+msgid "This hitman tryin' to off himself first?"
+msgstr ""
+
+msgctxt "176\t494079\t13\tCHK"
+msgid "Kidnappings sure are scary."
+msgstr ""
+
+msgctxt "176\t494107\t14\tCHK"
+msgid "I wonder what color they were..."
+msgstr ""
+
+msgctxt "176\t494140\t15\tCHK"
+msgid "Right in the jewels. That's gotta hurt."
+msgstr ""
+
+msgctxt "176\t494180\t16\tCHK"
+msgid "She really gave him the ol' one-two."
+msgstr ""
+
+msgctxt "176\t494217\t17\tCHK"
+msgid "There's no escape when you're up on the roof."
+msgstr ""
+
+msgctxt "176\t494263\t18\tCHK"
+msgid "Nice work, kid."
+msgstr ""
+
+msgctxt "176\t494279\t19\tCHK"
+msgid "That's how it goes in the yakuza world."
+msgstr ""
+
+msgctxt "176\t494319\t20\tCHK"
+msgid "Somethin' that heavy's sure to do damage."
+msgstr ""
+
+msgctxt "176\t494361\t21\tCHK"
+msgid "Shoulda just rolled him in from the start."
+msgstr ""
+
+msgctxt "176\t494404\t22\tCHK"
+msgid "It wasn't his money to begin with."
+msgstr ""
+
+msgctxt "176\t494439\t23\tCHK"
+msgid "Backwards between the legs?"
+msgstr ""
+
+msgctxt "176\t494467\t24\tCHK"
+msgid "Dang, that girl made a pretty nice catch."
+msgstr ""
+
+msgctxt "176\t494509\t25\tCHK"
+msgid "Guy was probably tryin' to drink away his troubles."
+msgstr ""
+
+msgctxt "176\t494561\t26\tCHK"
+msgid "Brave man, goin' up against that young kid."
+msgstr ""
+
+msgctxt "176\t494605\t27\tCHK"
+msgid "The momentum helped him land a big hit."
+msgstr ""
+
+msgctxt "176\t494645\t28\tCHK"
+msgid "A strong hit after a taunt, huh?"
+msgstr ""
+
+msgctxt "176\t494678\t29\tCHK"
+msgid "A tie around the head... I should try it sometime."
+msgstr ""
+
+msgctxt "176\t494729\t30\tCHK"
+msgid "More momentum means more power."
+msgstr ""
+
+msgctxt "176\t494761\t31\tCHK"
+msgid "I don't think that's how it's supposed to work."
+msgstr ""
+
+msgctxt "176\t494809\t32\tCHK"
+msgid "Hm, he hit one toy with the other to make it fall..."
+msgstr ""
+
+msgctxt "176\t494862\t33\tCHK"
+msgid "I wonder if I can do that, too."
+msgstr ""
+
+msgctxt "176\t494894\t34\tCHK"
+msgid "He was no match for the hustle and bustle of Kamurocho."
+msgstr ""
+
+msgctxt "176\t494950\t35\tCHK"
+msgid "He got clocked hard when he was off guard..."
+msgstr ""
+
+msgctxt "176\t494995\t36\tCHK"
+msgid "Karma's a bitch, huh?"
+msgstr ""
+
+msgctxt "177\t497352\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "177\t497353\t1\tCHK"
+msgid "Bare-Handed Attacks"
+msgstr ""
+
+msgctxt "177\t497373\t2\tCHK"
+msgid "Finishing Blows"
+msgstr ""
+
+msgctxt "177\t497389\t3\tCHK"
+msgid "Grabbing Enemies"
+msgstr ""
+
+msgctxt "177\t497406\t4\tCHK"
+msgid "Grabbing Objects"
+msgstr ""
+
+msgctxt "177\t497423\t5\tCHK"
+msgid "Tutorial Complete"
+msgstr ""
+
+msgctxt "177\t497441\t6\tCHK"
+msgid "Strafing Around Enemies"
+msgstr ""
+
+msgctxt "177\t497465\t7\tCHK"
+msgid "Bare-Handed Defense"
+msgstr ""
+
+msgctxt "177\t497485\t8\tCHK"
+msgid "Quickstep"
+msgstr ""
+
+msgctxt "177\t497495\t9\tCHK"
+msgid "Heat Gauge"
+msgstr ""
+
+msgctxt "177\t497506\t10\tCHK"
+msgid "Heat Actions"
+msgstr ""
+
+msgctxt "177\t497519\t11\tCHK"
+msgid "Charge Attack"
+msgstr ""
+
+msgctxt "177\t497533\t12\tCHK"
+msgid "Parry"
+msgstr ""
+
+msgctxt "177\t497539\t13\tCHK"
+msgid "%2d more time(s)"
+msgstr ""
+
+msgctxt "177\t497556\t14\tCHK"
+msgid "%2d more second(s)"
+msgstr ""
+
+msgctxt "177\t497575\t15\tCHK"
+msgid ""
+"Use <Action:Battle_Normal_Attack@Combat> to execute a combo attack while "
+"unarmed"
+msgstr ""
+
+msgctxt "177\t497656\t16\tCHK"
+msgid ""
+"Attack with <Action:Battle_Heavy_Attack@Combat> after an unarmed combo with "
+"<Action:Battle_Normal_Attack@Combat>"
+msgstr ""
+
+msgctxt "177\t497769\t17\tCHK"
+msgid ""
+"Grab an enemy with <Action:Battle_Drop_Weapon@Combat>, then attack with "
+"<Action:Battle_Drop_Weapon@Combat>, <Action:Battle_Heavy_Attack@Combat>, or "
+"<Action:Battle_Normal_Attack@Combat>"
+msgstr ""
+
+msgctxt "177\t497954\t18\tCHK"
+msgid ""
+"Pick up a weapon with <Action:Battle_Drop_Weapon@Combat>, then attack with "
+"<Action:Battle_Drop_Weapon@Combat>, <Action:Battle_Heavy_Attack@Combat>, or "
+"<Action:Battle_Normal_Attack@Combat>"
+msgstr ""
+
+msgctxt "177\t498142\t19\tCHK"
+msgid "Defeat all remaining enemies!"
+msgstr ""
+
+msgctxt "177\t498172\t20\tCHK"
+msgid ""
+"<Action:Battle_Fight_Stance@Combat> while using "
+"<Action:Move_Forward@Combat><Action:Move_Back@Combat><Action:Move_"
+"Left@Combat><Action:Move_Right@Combat> to strafe while in Fighting Stance"
+msgstr ""
+
+msgctxt "177\t498360\t21\tCHK"
+msgid "Guard against attacks from the front with <Action:Battle_Guard@Combat>"
+msgstr ""
+
+msgctxt "177\t498431\t22\tCHK"
+msgid "<Action:Battle_Dodge@Combat> to Quickstep"
+msgstr ""
+
+msgctxt "177\t498473\t23\tCHK"
+msgid ""
+"Attack to increase the <Color:109,193,240,255>Heat Gauge<Color:Default> at "
+"top left of screen"
+msgstr ""
+
+msgctxt "177\t498567\t24\tCHK"
+msgid ""
+"Grab enemy or hold weapon + <Action:Battle_Heavy_Attack@Combat> to execute "
+"a <Color:7>Heat Action<Color:Default>"
+msgstr ""
+
+msgctxt "177\t498680\t25\tCHK"
+msgid ""
+"Hold down <Action:Battle_Heavy_Attack@Combat> while after an unarmed combo "
+"with <Action:Battle_Normal_Attack@Combat> to execute a Charge Attack"
+msgstr ""
+
+msgctxt "177\t498824\t26\tCHK"
+msgid "<Action:Battle_Guard@Combat> against an enemy attack to parry"
+msgstr ""
+
+msgctxt "185\t520200\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "185\t520201\t1\tCHK"
+msgid "You're lookin' fine as ever, babe!"
+msgstr ""
+
+msgctxt "185\t520236\t2\tCHK"
+msgid "Really? It's all for you, darling."
+msgstr ""
+
+msgctxt "185\t520271\t3\tCHK"
+msgid "Oh, you!"
+msgstr ""
+
+msgctxt "185\t520280\t4\tCHK"
+msgid "Hold it!"
+msgstr ""
+
+msgctxt "185\t520289\t5\tCHK"
+msgid ""
+"I turn my back for one second,\n"
+"and this happens!?"
+msgstr ""
+
+msgctxt "185\t520339\t6\tCHK"
+msgid "You no-good son-of-a-bitch!"
+msgstr ""
+
+msgctxt "185\t520367\t7\tCHK"
+msgid ""
+"Well, \"darling\"...\n"
+"Get ready to die!"
+msgstr ""
+
+msgctxt "186\t520968\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "186\t520969\t1\tCHK"
+msgid ""
+"Stop!\n"
+"Give those back!"
+msgstr ""
+
+msgctxt "186\t520992\t2\tCHK"
+msgid "Thief!"
+msgstr ""
+
+msgctxt "187\t521592\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "187\t521593\t1\tCHK"
+msgid "Yes. I understand."
+msgstr ""
+
+msgctxt "187\t521612\t2\tCHK"
+msgid "Now then..."
+msgstr ""
+
+msgctxt "187\t521624\t3\tCHK"
+msgid ""
+"On second thought...\n"
+"I gotta postpone."
+msgstr ""
+
+msgctxt "187\t521663\t4\tCHK"
+msgid "Wire it to my usual account."
+msgstr ""
+
+msgctxt "187\t521692\t5\tCHK"
+msgid "I'll be done in a flash."
+msgstr ""
+
+msgctxt "188\t522488\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "188\t522489\t1\tCHK"
+msgid "End of the line!"
+msgstr ""
+
+msgctxt "188\t522506\t2\tCHK"
+msgid ""
+"Bullshit it is!\n"
+"You want the kid to get it!?"
+msgstr ""
+
+msgctxt "188\t522551\t3\tCHK"
+msgid "Answer me."
+msgstr ""
+
+msgctxt "188\t522562\t4\tCHK"
+msgid ""
+"Which wire should I cut?\n"
+"The blue one or the red one!?"
+msgstr ""
+
+msgctxt "188\t522617\t5\tCHK"
+msgid "Just drop the piece, lady!"
+msgstr ""
+
+msgctxt "188\t522644\t6\tCHK"
+msgid "You want a dead kid on your hands?"
+msgstr ""
+
+msgctxt "188\t522679\t7\tCHK"
+msgid "Take this!"
+msgstr ""
+
+msgctxt "188\t522690\t8\tCHK"
+msgid "You... pervert!"
+msgstr ""
+
+msgctxt "189\t523864\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "189\t523865\t1\tCHK"
+msgid "Nooo!"
+msgstr ""
+
+msgctxt "189\t523871\t2\tCHK"
+msgid "I don't wanna die!"
+msgstr ""
+
+msgctxt "189\t523890\t3\tCHK"
+msgid "It's your own damn fault."
+msgstr ""
+
+msgctxt "189\t523916\t4\tCHK"
+msgid "You did this to yourself, pal."
+msgstr ""
+
+msgctxt "189\t523947\t5\tCHK"
+msgid "Help!"
+msgstr ""
+
+msgctxt "189\t523953\t6\tCHK"
+msgid "Please, somebody help!"
+msgstr ""
+
+msgctxt "189\t523976\t7\tCHK"
+msgid "One, two...!"
+msgstr ""
+
+msgctxt "189\t523989\t8\tCHK"
+msgid "Shit, this thing weighs a fuckin' ton!"
+msgstr ""
+
+msgctxt "189\t524028\t9\tCHK"
+msgid "Keep lifting!"
+msgstr ""
+
+msgctxt "189\t524042\t10\tCHK"
+msgid "No, please!"
+msgstr ""
+
+msgctxt "189\t524054\t11\tCHK"
+msgid "C'mon, lift your side!"
+msgstr ""
+
+msgctxt "189\t524077\t12\tCHK"
+msgid ""
+"You hear me?\n"
+"You're not even lifting!"
+msgstr ""
+
+msgctxt "189\t524115\t13\tCHK"
+msgid ""
+"I'm trying!\n"
+"I'm trying, man!"
+msgstr ""
+
+msgctxt "189\t524144\t14\tCHK"
+msgid ""
+"Wait, hold it!\n"
+"Quit moving!"
+msgstr ""
+
+msgctxt "189\t524172\t15\tCHK"
+msgid ""
+"Stay still, you idiot!\n"
+"Stay still!"
+msgstr ""
+
+msgctxt "189\t524207\t16\tCHK"
+msgid "I'm alive!"
+msgstr ""
+
+msgctxt "189\t524218\t17\tCHK"
+msgid "I'm gonna die!"
+msgstr ""
+
+msgctxt "189\t524233\t18\tCHK"
+msgid "Noooooo!"
+msgstr ""
+
+msgctxt "190\t525336\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "190\t525337\t1\tCHK"
+msgid "Ugh, no luck..."
+msgstr ""
+
+msgctxt "190\t525353\t2\tCHK"
+msgid "Oh, I got one!"
+msgstr ""
+
+msgctxt "190\t525368\t3\tCHK"
+msgid "Wait, come back!"
+msgstr ""
+
+msgctxt "190\t525385\t4\tCHK"
+msgid "You're mine!"
+msgstr ""
+
+msgctxt "190\t525398\t5\tCHK"
+msgid "Five hundred!?"
+msgstr ""
+
+msgctxt "190\t525413\t6\tCHK"
+msgid "Thank you very much, sir!"
+msgstr ""
+
+msgctxt "190\t525439\t7\tCHK"
+msgid "Please take this."
+msgstr ""
+
+msgctxt "190\t525457\t8\tCHK"
+msgid "You can..."
+msgstr ""
+
+msgctxt "190\t525468\t9\tCHK"
+msgid "Keep it."
+msgstr ""
+
+msgctxt "191\t526472\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "191\t526473\t1\tCHK"
+msgid "C'mon! It's all good, babe."
+msgstr ""
+
+msgctxt "191\t526501\t2\tCHK"
+msgid "Just leave me alone!"
+msgstr ""
+
+msgctxt "191\t526522\t3\tCHK"
+msgid "Let me go!"
+msgstr ""
+
+msgctxt "191\t526533\t4\tCHK"
+msgid "Unhand her, foul beast!"
+msgstr ""
+
+msgctxt "191\t526557\t5\tCHK"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "191\t526562\t6\tCHK"
+msgid ""
+"Can't you tell...\n"
+"she's not interested in you?"
+msgstr ""
+
+msgctxt "191\t526609\t7\tCHK"
+msgid "Just get the hell outta here!"
+msgstr ""
+
+msgctxt "191\t526639\t8\tCHK"
+msgid "What was that?"
+msgstr ""
+
+msgctxt "191\t526654\t9\tCHK"
+msgid "You need your ears cleaned or somethin'?"
+msgstr ""
+
+msgctxt "191\t526695\t10\tCHK"
+msgid "In that case... I'll gladly do it for ya!"
+msgstr ""
+
+msgctxt "191\t526737\t11\tCHK"
+msgid "Bring it!"
+msgstr ""
+
+msgctxt "191\t526747\t12\tCHK"
+msgid "It won't take long, pinky swear."
+msgstr ""
+
+msgctxt "192\t527784\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "192\t527785\t1\tCHK"
+msgid "All right, I got it!"
+msgstr ""
+
+msgctxt "192\t527806\t2\tCHK"
+msgid "This is tough..."
+msgstr ""
+
+msgctxt "192\t527823\t3\tCHK"
+msgid "You're mine this time!"
+msgstr ""
+
+msgctxt "192\t527846\t4\tCHK"
+msgid "You're doing it! You're doing it!"
+msgstr ""
+
+msgctxt "192\t527880\t5\tCHK"
+msgid "What the? It's broken or something!"
+msgstr ""
+
+msgctxt "192\t527916\t6\tCHK"
+msgid "The hell's it doing!?"
+msgstr ""
+
+msgctxt "192\t527938\t7\tCHK"
+msgid "You did it!"
+msgstr ""
+
+msgctxt "192\t527950\t8\tCHK"
+msgid "Guess I did! Look at that!"
+msgstr ""
+
+msgctxt "192\t527977\t9\tCHK"
+msgid "You little!"
+msgstr ""
+
+msgctxt "193\t528728\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "193\t528729\t1\tCHK"
+msgid "The hell?"
+msgstr ""
+
+msgctxt "193\t528739\t2\tCHK"
+msgid "Ah, excuse me!"
+msgstr ""
+
+msgctxt "193\t528754\t3\tCHK"
+msgid ""
+"Watch where you're going, brat!\n"
+"You know who I am!?"
+msgstr ""
+
+msgctxt "193\t528806\t4\tCHK"
+msgid "Heh."
+msgstr ""
+
+msgctxt "193\t528811\t5\tCHK"
+msgid "Ow!"
+msgstr ""
+
+msgctxt "193\t528815\t6\tCHK"
+msgid "You son of a...!"
+msgstr ""
+
+msgctxt "194\t529448\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "194\t529449\t1\tCHK"
+msgid ""
+"\"Suicide Suspected In Deputy Commissioner's Death\n"
+"Part Of A Corruption Cover-Up?\""
+msgstr ""

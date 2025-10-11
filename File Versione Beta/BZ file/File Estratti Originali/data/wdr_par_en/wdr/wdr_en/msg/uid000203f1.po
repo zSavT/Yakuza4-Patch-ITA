@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "384"
+msgid "Blue Collar Worker"
+msgstr ""
+
+msgctxt "388"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "392"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "56_Blue Collar Worker"
+msgid "Excuse me, sir. We're performing an inspection right now."
+msgstr ""
+
+msgctxt "68_Blue Collar Worker"
+msgid "It's dangerous here, so please step back."
+msgstr ""

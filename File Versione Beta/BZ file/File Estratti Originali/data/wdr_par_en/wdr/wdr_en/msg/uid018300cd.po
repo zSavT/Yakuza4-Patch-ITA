@@ -1,0 +1,463 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1516"
+msgid "You got <Color:8>3,000,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "22300"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "22304"
+msgid "Affluent Old Man"
+msgstr ""
+
+msgctxt "22308"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "22312"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "22316"
+msgid "M_old_sitchr_tlk_gan_get"
+msgstr ""
+
+msgctxt "22320"
+msgid "M_old_sitchr_tlk_gan_st"
+msgstr ""
+
+msgctxt "22324"
+msgid "M_old_sitchr_tlk_gan_shoot"
+msgstr ""
+
+msgctxt "22328"
+msgid "M_old_sitchr_tlk_gan_ed"
+msgstr ""
+
+msgctxt "22332"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "22336"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "22340"
+msgid "P_tan_sitchr_tlk_gan_st"
+msgstr ""
+
+msgctxt "22344"
+msgid "P_tan_sitchr_tlk_gan_lp"
+msgstr ""
+
+msgctxt "22348"
+msgid "P_tan_sitchr_tlk_gan_shoot"
+msgstr ""
+
+msgctxt "22352"
+msgid "P_tan_sitchr_tlk_gan_ed"
+msgstr ""
+
+msgctxt "22356"
+msgid "P_tan_stand"
+msgstr ""
+
+msgctxt "22360"
+msgid "P_tan_sitchr_tlk_kamae_ed"
+msgstr ""
+
+msgctxt "22364"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "22368"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "22372"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "22376"
+msgid "M_nml_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "22380"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "22384"
+msgid "Talk_Get"
+msgstr ""
+
+msgctxt "22388"
+msgid "P_tan_stand_tlk_kamae_gun"
+msgstr ""
+
+msgctxt "22392"
+msgid "P_tan_stand_tlk_gan_shoot"
+msgstr ""
+
+msgctxt "292_Tanimura"
+msgid "What is this place?"
+msgstr ""
+
+msgctxt "304_Affluent Old Man"
+msgid ""
+"Hahaha. Looks bleak, I know. But don't worry.\r\n"
+"No one will disturb us here."
+msgstr ""
+
+msgctxt "316_Affluent Old Man"
+msgid "Come, come, don't be shy. Have yourself a seat."
+msgstr ""
+
+msgctxt "388_Tanimura"
+msgid "So what is this game, exactly?"
+msgstr ""
+
+msgctxt "400_Affluent Old Man"
+msgid "Patience, patience, my son."
+msgstr ""
+
+msgctxt "412_Affluent Old Man"
+msgid "For our game, we will be using... this."
+msgstr ""
+
+msgctxt "436_Tanimura"
+msgid ""
+"Ever heard of the \"Firearms and Swords Control Law\"? It's still a thing, "
+"you know."
+msgstr ""
+
+msgctxt "448_Affluent Old Man"
+msgid "Hahaha! That's hilarious."
+msgstr ""
+
+msgctxt "460_Affluent Old Man"
+msgid "...You probably figured it out by now, but the game is Russian roulette."
+msgstr ""
+
+msgctxt "472_Affluent Old Man"
+msgid "The chambers hold six bullets. One of which is live."
+msgstr ""
+
+msgctxt "484_Affluent Old Man"
+msgid ""
+"We'll take turns pulling the trigger. If you survive, you\r\n"
+"pass the gun. If you don't... then you'll just pass away."
+msgstr ""
+
+msgctxt "496_Affluent Old Man"
+msgid "Stay alive until the end and you win the three million."
+msgstr ""
+
+msgctxt "508_Affluent Old Man"
+msgid ""
+"Oh, and you can quit anytime after the first round,\r\n"
+"but if you do－needless to say, you'd forfeit everything."
+msgstr ""
+
+msgctxt "520_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "532_Affluent Old Man"
+msgid "Heheheh. Don't tell me you're getting cold feet now?"
+msgstr ""
+
+msgctxt "544_Tanimura"
+msgid ""
+"Even if I was, I doubt you'd just let me walk out of here...\r\n"
+"Now are we doing this thing or what?"
+msgstr ""
+
+msgctxt "556_Affluent Old Man"
+msgid "Hahaha... Attaboy!"
+msgstr ""
+
+msgctxt "568_Affluent Old Man"
+msgid "Then let the game begin."
+msgstr ""
+
+msgctxt "592_Affluent Old Man"
+msgid "Heheh. You really are a brave kid. Not a hint of nervousness."
+msgstr ""
+
+msgctxt "604_Affluent Old Man"
+msgid ""
+"Or maybe you just fail to realize the gravity of your\r\n"
+"situation? You could be knocking on death's door."
+msgstr ""
+
+msgctxt "616_Tanimura"
+msgid ""
+"You look pretty smug yourself. Does that mean\r\n"
+"the older you get, the less you care about dying?"
+msgstr ""
+
+msgctxt "628_Affluent Old Man"
+msgid ""
+"Hardly. Put simply, I've accepted my decisions in life,\r\n"
+"and I know what fate is coming to me. So why should I let\r\n"
+"a silly game like this bring me down?"
+msgstr ""
+
+msgctxt "688_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "700_Affluent Old Man"
+msgid "All right. It's your turn again. What'll it be, boy?"
+msgstr ""
+
+msgctxt "712_Tanimura"
+msgid "Nope. Screw this. I'm out."
+msgstr ""
+
+msgctxt "724_Affluent Old Man"
+msgid ""
+"Hahaha! You're more of a coward than I thought!\r\n"
+"I was sure you'd hold out longer."
+msgstr ""
+
+msgctxt "736_Affluent Old Man"
+msgid ""
+"But I guess kids these days lack the gumption to stake their\r\n"
+"life on something... Very well, our guest is going home!"
+msgstr ""
+
+msgctxt "748_Tanimura"
+msgid "I'm still in."
+msgstr ""
+
+msgctxt "760_Affluent Old Man"
+msgid ""
+"Ahaha, that's more like it! Now, the question is, how long will that "
+"bravado last...?"
+msgstr ""
+
+msgctxt "964_Affluent Old Man"
+msgid ""
+"Ohoho, that's twice in a row! And you hardly so much as\r\n"
+"blinked. You truly are a daredevil."
+msgstr ""
+
+msgctxt "976_Tanimura"
+msgid "...Uh-huh. It's your move."
+msgstr ""
+
+msgctxt "988_Affluent Old Man"
+msgid ""
+"Heheh. That would make this bullet number four.\r\n"
+"Now, there's a one-in-three chance that I'll bite the dust\r\n"
+"right here in front of you. If you'll allow me a moment..."
+msgstr ""
+
+msgctxt "1048_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "1060_Affluent Old Man"
+msgid ""
+"...There we are. Now it's down to one in two. Does it weigh\r\n"
+"heavy on your mind? Leaving here in comfort or as a cadaver.\r\n"
+"I suppose you could opt out and leave as a failure, too..."
+msgstr ""
+
+msgctxt "1072_Tanimura"
+msgid ""
+"(One more shot and I'll be up three million yen... But, if things go wrong, "
+"I'll be down six feet under. What the heck should I do?)"
+msgstr ""
+
+msgctxt "1084_Tanimura"
+msgid "Nope. Screw this. I'm out."
+msgstr ""
+
+msgctxt "1096_Affluent Old Man"
+msgid ""
+"But you only had one more turn before you got the three\r\n"
+"million! Surely you could have entertained me a little longer..."
+msgstr ""
+
+msgctxt "1108_Affluent Old Man"
+msgid ""
+"But I guess kids these days lack the gumption to stake their\r\n"
+"life on something... Very well, our guest is going home!"
+msgstr ""
+
+msgctxt "1120_Tanimura"
+msgid "You think I'd back out now? I'm all in."
+msgstr ""
+
+msgctxt "1132_Affluent Old Man"
+msgid ""
+"Well, well, well! So you're riding it out to the end!\r\n"
+"That's what I like to see! I sure hope your gamble is worth it!"
+msgstr ""
+
+msgctxt "1348_Tanimura"
+msgid "Looks like that money's all mine."
+msgstr ""
+
+msgctxt "1372_Affluent Old Man"
+msgid "...So you caught on, did you?"
+msgstr ""
+
+msgctxt "1384_Tanimura"
+msgid "Caught on to what?"
+msgstr ""
+
+msgctxt "1396_Affluent Old Man"
+msgid ""
+"Don't play dumb. You knew all along there were\r\n"
+"no real bullets in this gun, didn't you?"
+msgstr ""
+
+msgctxt "1408_Tanimura"
+msgid ""
+"Actually... I didn't know for sure. What I did notice was\r\n"
+"how little you were concerned whenever you pulled the trigger."
+msgstr ""
+
+msgctxt "1420_Tanimura"
+msgid ""
+"And what about all these suits standing around?\r\n"
+"What were they gonna do if an actual bullet went off?"
+msgstr ""
+
+msgctxt "1432_Tanimura"
+msgid ""
+"I mean, they could've been hit by a stray.\r\n"
+"That's what made me think this was all a bluff."
+msgstr ""
+
+msgctxt "1444_Affluent Old Man"
+msgid ""
+"...All reasoning aside, I must say it takes quite a bit of\r\n"
+"nerve to trust your instincts like that, especially with your life on the "
+"line."
+msgstr ""
+
+msgctxt "1456_Tanimura"
+msgid "So how about my three million yen?"
+msgstr ""
+
+msgctxt "1468_Affluent Old Man"
+msgid "Yes, yes. Here it is, as promised."
+msgstr ""
+
+msgctxt "1528_Tanimura"
+msgid "Thanks... And I'm gone."
+msgstr ""
+
+msgctxt "1564_Affluent Old Man"
+msgid "Oh, and guess what?"
+msgstr ""
+
+msgctxt "1612_Tanimura"
+msgid "...Holy shit!"
+msgstr ""
+
+msgctxt "1624_Affluent Old Man"
+msgid "In fact, it was a real bullet all along! Hahahahaha!"
+msgstr ""
+
+msgctxt "1636_Tanimura"
+msgid "What... is wrong with you?"
+msgstr ""
+
+msgctxt "1648_Affluent Old Man"
+msgid ""
+"Ah... To be young again... Trusting your gut and running\r\n"
+"full speed ahead, without the crushing grip of fear to hold you back... "
+"That's what I've been after."
+msgstr ""
+
+msgctxt "1660_Affluent Old Man"
+msgid ""
+"Anyway. I learned a lot from you today. Are you going to\r\n"
+"arrest me under the Firearms and Swords Control Law?"
+msgstr ""
+
+msgctxt "1672_Tanimura"
+msgid "For what? I didn't see anything... except for this cash."
+msgstr ""
+
+msgctxt "1684_Tanimura"
+msgid ""
+"Besides, I think I learned a little lesson myself,\r\n"
+"about the value of life."
+msgstr ""
+
+msgctxt "1768_Tanimura"
+msgid "...What the shit!?"
+msgstr ""
+
+msgctxt "1780_Affluent Old Man"
+msgid "Hahaha! Surprised? Don't worry. It was a blank all along."
+msgstr ""
+
+msgctxt "1792_Affluent Old Man"
+msgid ""
+"I guess you weren't that lucky after all. But I appreciate\r\n"
+"you giving me a good time."
+msgstr ""
+
+msgctxt "1804_Affluent Old Man"
+msgid "Gentlemen, our guest is going home!"
+msgstr ""
+
+msgctxt "1828_Tanimura"
+msgid "I'm still in."
+msgstr ""
+
+msgctxt "1840_Tanimura"
+msgid "Nope, I'm out."
+msgstr ""
+
+msgctxt "1852_Tanimura"
+msgid "Pull the Trigger Fearlessly"
+msgstr ""
+
+msgctxt "1864_Tanimura"
+msgid "Pull the Trigger Impassively"
+msgstr ""
+
+msgctxt "1876_Tanimura"
+msgid "Pull the Trigger Nervously"
+msgstr ""
+
+msgctxt "1888_Tanimura"
+msgid "Finish It"
+msgstr ""
+
+msgctxt "1900_Tanimura"
+msgid "Back Out"
+msgstr ""
+
+msgctxt "1912_Tanimura"
+msgid "Pull the Trigger Fearlessly"
+msgstr ""
+
+msgctxt "1924_Tanimura"
+msgid "Pull the Trigger Impassively"
+msgstr ""
+
+msgctxt "1936_Tanimura"
+msgid "Pull the Trigger Nervously"
+msgstr ""

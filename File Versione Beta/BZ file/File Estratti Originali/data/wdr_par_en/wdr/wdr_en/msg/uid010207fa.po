@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "4472"
+msgid "P_aki_stand"
+msgstr ""
+
+msgctxt "4476"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4480"
+msgid "Minamida"
+msgstr ""
+
+msgctxt "4484"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "4488"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "4492"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "4496"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4500"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "4504"
+msgid "Yakuza"
+msgstr ""
+
+msgctxt "4508"
+msgid "Sukegawa"
+msgstr ""
+
+msgctxt "4512"
+msgid "Kakuda"
+msgstr ""
+
+msgctxt "104_Minamida"
+msgid "Hm... My machine might come in handy if I can actually fix the darn thing!"
+msgstr ""
+
+msgctxt "116_Minamida"
+msgid "You're a real lifesaver, by the way. Thank you!"
+msgstr ""
+
+msgctxt "128_Akiyama"
+msgid "Glad I could help. That's some machine you have there."
+msgstr ""
+
+msgctxt "140_Minamida"
+msgid ""
+"You want to know about my machine? Oh, I'm so glad you asked! This is the "
+"IF7-R, a creation of mine that allows you to relive your－"
+msgstr ""
+
+msgctxt "152_Akiyama"
+msgid "Hey, I actually don't have that much time to chat right now. As for you..."
+msgstr ""
+
+msgctxt "164_Yakuza"
+msgid "Shit..."
+msgstr ""
+
+msgctxt "176_Akiyama"
+msgid "I take it Hatsushiba-san's somewhere up ahead?"
+msgstr ""
+
+msgctxt "188_Yakuza"
+msgid ""
+"Damn right he is. It's not gonna be the cakewalk you're expecting, though. "
+"He's gonna wreck your scrawny ass."
+msgstr ""
+
+msgctxt "200_Akiyama"
+msgid "Sorry, Suke-san, but I'll be going it alone from here."
+msgstr ""
+
+msgctxt "212_Sukegawa"
+msgid "Hey, I get it. You were a big help. Just be careful, you hear?"
+msgstr ""
+
+msgctxt "224_Akiyama"
+msgid "I will, thanks. Okay, Kaku-san, one more door."
+msgstr ""
+
+msgctxt "236_Kakuda"
+msgid "Sure thing."
+msgstr ""
+
+msgctxt "296_Akiyama"
+msgid "Thanks. See you guys later."
+msgstr ""

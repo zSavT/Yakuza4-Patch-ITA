@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "512"
+msgid ""
+"You exchanged the <Color:8>Stomach Medicine<Color:Default> for the "
+"<Color:8>Stylish Ballpoint Pen<Color:Default>."
+msgstr ""
+
+msgctxt "6904"
+msgid "Writhing Man"
+msgstr ""
+
+msgctxt "6908"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "6912"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6916"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6920"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "6924"
+msgid "Idle"
+msgstr ""
+
+msgctxt "6928"
+msgid "Composed Man"
+msgstr ""
+
+msgctxt "6932"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "6936"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "6940"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "6944"
+msgid "Yoshio Iketeru"
+msgstr ""
+
+msgctxt "6948"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6952"
+msgid "0"
+msgstr ""
+
+msgctxt "140_Writhing Man"
+msgid ""
+"Oh, no, no, no, no! I can't hold it. My poor designer suit.\r\n"
+"The cleaning bills alone!"
+msgstr ""
+
+msgctxt "152_Akiyama"
+msgid "Hey there. Everything all right?"
+msgstr ""
+
+msgctxt "164_Writhing Man"
+msgid ""
+"Urgh. Ooh. I know there's a one-in-a-million chance of this,\r\n"
+"but do you happen to have any stomach medicine on you? Oh,\r\n"
+"please say yes..."
+msgstr ""
+
+msgctxt "188_Writhing Man"
+msgid "No, I don't. I'm sorry."
+msgstr ""
+
+msgctxt "200_Writhing Man"
+msgid "Oh, I... Okay..."
+msgstr ""
+
+msgctxt "212_Writhing Man"
+msgid "Oh, you know what? I do!"
+msgstr ""
+
+msgctxt "224_Writhing Man"
+msgid "Are you serious!? Oh, thank goodness! Please, can I have it?"
+msgstr ""
+
+msgctxt "236_Akiyama"
+msgid ""
+"I feel bad saying it, but I'm afraid I can't let you have it\r\n"
+"for free. Sorry."
+msgstr ""
+
+msgctxt "248_Writhing Man"
+msgid ""
+"I'll pay! Oh, I'll pay! Before it's too late... Please!\r\n"
+"Quickly! Help, help, help!"
+msgstr ""
+
+msgctxt "260_Akiyama"
+msgid "I really am sorry."
+msgstr ""
+
+msgctxt "272_Writhing Man"
+msgid ""
+"Oh, god. I told you I'd pay, didn't I? I'm at the end of my\r\n"
+"rope here!"
+msgstr ""
+
+msgctxt "284_Akiyama"
+msgid ""
+"(I feel bad for the guy, but there might be a better trade out there with "
+"my name on it.)"
+msgstr ""
+
+msgctxt "296_Akiyama"
+msgid "All right, fine. Take this, then."
+msgstr ""
+
+msgctxt "368_Composed Man"
+msgid "Aaah... I'm saved. ♥"
+msgstr ""
+
+msgctxt "380_Composed Man"
+msgid ""
+"Sorry you had to see me like that. It wasn't pretty. I mean,\r\n"
+"talk about catching a man at his worst! Heheheh."
+msgstr ""
+
+msgctxt "392_Akiyama"
+msgid "No problem..."
+msgstr ""
+
+msgctxt "404_Composed Man"
+msgid ""
+"Oh, that's right! I must thank you. I forgot myself for a\r\n"
+"moment there."
+msgstr ""
+
+msgctxt "416_Composed Man"
+msgid ""
+"It's a little on the small side. I pray you won't take\r\n"
+"offense."
+msgstr ""
+
+msgctxt "428_Akiyama"
+msgid "Er, do you have anything besides money? Anything will do."
+msgstr ""
+
+msgctxt "440_Composed Man"
+msgid ""
+"Hmm, anything but money? Don't hear that too often. You one\r\n"
+"of those minimalist types or something?"
+msgstr ""
+
+msgctxt "452_Composed Man"
+msgid ""
+"One moment. Let's see what I have here... What can I give\r\n"
+"you...?"
+msgstr ""
+
+msgctxt "464_Yoshio Iketeru"
+msgid ""
+"Oh, I know. Would this do the trick? This is a ballpoint pen\r\n"
+"that popular model Yoshio Iketeru－aka yours truly－\r\n"
+"helped design."
+msgstr ""
+
+msgctxt "476_Akiyama"
+msgid "A pen...?"
+msgstr ""
+
+msgctxt "488_Yoshio Iketeru"
+msgid ""
+"Geez, don't get so excited... This is all I have. Well,\r\n"
+"this, and money."
+msgstr ""
+
+msgctxt "500_Akiyama"
+msgid "Hmm. All right, I'll take it. Thanks."
+msgstr ""
+
+msgctxt "536_Yoshio Iketeru"
+msgid "Can you be any less enthusiastic?"
+msgstr ""
+
+msgctxt "548_Akiyama"
+msgid "Oh, no, this is great. See you around."
+msgstr ""
+
+msgctxt "596_Writhing Man"
+msgid "Give It to Him"
+msgstr ""
+
+msgctxt "608_Writhing Man"
+msgid "Never Mind"
+msgstr ""

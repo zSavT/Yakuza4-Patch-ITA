@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2220"
+msgid "Owner"
+msgstr ""
+
+msgctxt "2224"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2228"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2232"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2236"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2240"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "56_Owner"
+msgid "Hi, welcome! Ah, if it isn't Akiyama-san."
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid ""
+"Hi there. I think you got a call from Hana-chan, right? So\r\n"
+"how did Shoko-san do?"
+msgstr ""
+
+msgctxt "80_Owner"
+msgid ""
+"I have some great tuna today, so I recommended the otoro.\r\n"
+"But wouldn't you know it? All she ate was the daily special\r\n"
+"before going on her way."
+msgstr ""
+
+msgctxt "92_Akiyama"
+msgid "How much is the special?"
+msgstr ""
+
+msgctxt "104_Owner"
+msgid "980 yen."
+msgstr ""
+
+msgctxt "116_Akiyama"
+msgid "Wow, cheap! Can I have one?"
+msgstr ""
+
+msgctxt "128_Owner"
+msgid ""
+"All sold out, I'm afraid. But, you know, she was a little\r\n"
+"off today. She usually only eats uni, awabi－you know, the\r\n"
+"pricey stuff. What's going on?"
+msgstr ""
+
+msgctxt "140_Akiyama"
+msgid "Hmm. So I guess she hasn't touched that million yen, then."
+msgstr ""
+
+msgctxt "152_Owner"
+msgid ""
+"Wait, what? When Hana-chan told me to make her spend\r\n"
+"money... Hey, is this another one of your tests?"
+msgstr ""
+
+msgctxt "164_Akiyama"
+msgid ""
+"Something like that. Thanks for your help. I'll have to drop\r\n"
+"by again soon."
+msgstr ""

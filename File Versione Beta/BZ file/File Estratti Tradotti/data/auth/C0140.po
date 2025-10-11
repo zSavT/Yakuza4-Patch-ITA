@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-10\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/auth/subtitle/C0140.po\n"
+"X-Crowdin-File-ID: 56262\n"
+"PO-Revision-Date: 2025-09-26 07:36\n"
+
+msgctxt "206\t284"
+msgid "Hello? Anyone home?"
+msgstr "Salve? C'è nessuno?"
+
+msgctxt "493\t553"
+msgid "Can I help you?"
+msgstr "Posso aiutarla?"
+
+msgctxt "562\t641"
+msgid "Are you... Akiyama-san?"
+msgstr "Lei è... Akiyama-san?"
+
+msgctxt "654\t716"
+msgid "Last I checked."
+msgstr "Sì, sono io."
+
+msgctxt "886\t971"
+msgid "Do I know you from somewhere?"
+msgstr "L'ho già vista in giro?"
+
+msgctxt "1069\t1159"
+msgid "Wait, you're that guy!"
+msgstr "Aspetta, sei quel tipo!"
+
+msgctxt "1327\t1463"
+msgid "Huh. So you're the one who\\nlent Yasuko-san that 100 mil."
+msgstr "Uh. Quindi sei tu quello che ha\\ndato a Yasuko-san i 100 milioni."
+
+msgctxt "1470\t1521"
+msgid "Yasuko?"
+msgstr "Yasuko?"
+
+msgctxt "1522\t1603"
+msgid "Don't you mean Lily-chan?"
+msgstr "Vuoi dire Lily-chan?"
+
+msgctxt "1613\t1704"
+msgid "How do you know her real name?"
+msgstr "Come sai il suo vero nome?"
+

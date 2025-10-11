@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1804"
+msgid "Man"
+msgstr ""
+
+msgctxt "1808"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1812"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1816"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1820"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1824"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid "You there, did you just give me the stink eye?"
+msgstr ""
+
+msgctxt "128_Man"
+msgid ""
+"Know what happens when you do that in this part of town? I'd be more than "
+"happy to demonstrate!"
+msgstr ""
+
+msgctxt "140_Man"
+msgid "I saw you giving me a dirty look just now. Don't fuck with me, buddy!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "I'll teach you what happens when you mess with yakuza!"
+msgstr ""
+
+msgctxt "176_Man"
+msgid "What happened? You're way too strong."
+msgstr ""
+
+msgctxt "188_Man"
+msgid ""
+"I'm sorry! I obviously didn't know what I was getting into. I hope you'll "
+"accept this and forgive me!"
+msgstr ""
+
+msgctxt "200_Man"
+msgid "You got a breathtaking %s."
+msgstr ""
+
+msgctxt "236_Man"
+msgid "I'll never bother you again..."
+msgstr ""

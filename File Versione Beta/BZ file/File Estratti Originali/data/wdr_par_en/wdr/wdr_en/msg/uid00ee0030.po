@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2788"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "2792"
+msgid "Man"
+msgstr ""
+
+msgctxt "2796"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2800"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "2804"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2808"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2812"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2816"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "156_Tanimura"
+msgid "Excuse me, I'd like to pass through here."
+msgstr ""
+
+msgctxt "168_Man"
+msgid "這里是進入禁止。"
+msgstr ""
+
+msgctxt "180_Tanimura"
+msgid "(Doesn't look like he understands Japanese.)"
+msgstr ""
+
+msgctxt "192_Tanimura"
+msgid ""
+"\"Excuse me, are you Chinese?\"\r\n"
+"　\"I'm a policeman. Could you let me through?\""
+msgstr ""
+
+msgctxt "204_Man"
+msgid "\"Oh, shoot, really? Sure, you can go right ahead.\""
+msgstr ""
+
+msgctxt "276_Kiryu"
+msgid "Wait... I thought this was a passageway."
+msgstr ""
+
+msgctxt "288_Akiyama"
+msgid "Hey there. Think you could move out of my way?"
+msgstr ""
+
+msgctxt "300_Saejima"
+msgid "Hey, think you could let me through?"
+msgstr ""
+
+msgctxt "312_Tanimura"
+msgid "This place definitely wouldn't have been chosen."
+msgstr ""
+
+msgctxt "324_Man"
+msgid "這里是進入禁止。"
+msgstr ""
+
+msgctxt "348_Kiryu"
+msgid ""
+"(A foreigner... Doesn't look like he understands Japanese, or wants to let "
+"me through.)"
+msgstr ""
+
+msgctxt "360_Akiyama"
+msgid "(Doesn't look like he speaks Japanese, or wants to let me through.)"
+msgstr ""
+
+msgctxt "372_Saejima"
+msgid ""
+"(Doesn't speak Japanese, huh? Looks like the inside's just a kitchen, so no "
+"reason for me to go forcin' my way in there.)"
+msgstr ""
+
+msgctxt "384_Tanimura"
+msgid "This place definitely wouldn't have been chosen."
+msgstr ""

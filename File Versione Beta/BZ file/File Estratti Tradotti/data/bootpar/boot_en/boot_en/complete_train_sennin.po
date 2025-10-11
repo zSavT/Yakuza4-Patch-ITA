@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.7\n"
+
+#, fuzzy
+msgctxt "210\tNAME"
+msgid "Sewer Path"
+msgstr "Percorso fognario"
+
+#, fuzzy
+msgctxt "223\tNAME"
+msgid "Air Raid Shelter No. 1, West"
+msgstr "Rifugio antiaereo n. 1, Ovest"
+
+#, fuzzy
+msgctxt "254\tNAME"
+msgid "Air Raid Shelter No. 1, South"
+msgstr "Rifugio antiaereo n. 1, Sud"
+
+msgctxt "286\tNAME"
+msgid "Old Access Tunnel"
+msgstr "Vecchio Accesso Tunnel"
+
+#, fuzzy
+msgctxt "306\tNAME"
+msgid "Air Raid Shelter No. 2"
+msgstr "Rifugio antiaereo n. 2"
+
+#, fuzzy
+msgctxt "369\tEXPLANATION"
+msgid "You dug out the Sewer Path and reached Air Raid Shelter No. 1."
+msgstr "Hai scavato il sentiero delle fogne e hai raggiunto il Rifugio antiaereo n. 1."
+
+#, fuzzy
+msgctxt "432\tEXPLANATION"
+msgid ""
+"You dug out the west side of Air Raid Shelter No. 1, but couldn't find\n"
+"a path."
+msgstr ""
+"Hai scavato il lato ovest del Rifugio antiaereo n. 1, ma non sei riuscito a trovare\n"
+"un sentiero."
+
+msgctxt "511\tEXPLANATION"
+msgid ""
+"You dug out the south side of Air Raid Shelter No. 1 and reached the\n"
+"Old Access Tunnel."
+msgstr ""
+"Hai scavato il lato sud del Rifugio antiaereo n. 1 e hai raggiunto\n"
+"il Vecchio Accesso Tunnel."
+
+msgctxt "599\tEXPLANATION"
+msgid "You dug out the Old Access Tunnel and reached Air Raid Shelter No. 2."
+msgstr "Hai scavato il Vecchio Accesso Tunnel e hai raggiunto il Rifugio antiaereo n. 2."
+
+#, fuzzy
+msgctxt "669\tEXPLANATION"
+msgid "You dug out Air Raid Shelter No. 2 and found the Master's important item."
+msgstr "Hai scavato nel rifugio antiaereo n. 2 e hai trovato l'oggetto importante del Maestro."

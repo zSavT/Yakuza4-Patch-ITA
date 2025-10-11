@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "9396"
+msgid "Tadashi"
+msgstr ""
+
+msgctxt "9400"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "9404"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9408"
+msgid "Tadokoro's Subordinate"
+msgstr ""
+
+msgctxt "9412"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9416"
+msgid "P_sae_stand_tlk_udekumi_st"
+msgstr ""
+
+msgctxt "9420"
+msgid "P_sae_stand_tlk_udekumi_no"
+msgstr ""
+
+msgctxt "9424"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "9428"
+msgid "P_sae_stand_tlk_udekumi_ed"
+msgstr ""
+
+msgctxt "9432"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "9436"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "9440"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "9444"
+msgid "0"
+msgstr ""
+
+msgctxt "9448"
+msgid "M_cld_sitsofa_tlk_kamae"
+msgstr ""
+
+msgctxt "9452"
+msgid "M_cld_stand"
+msgstr ""
+
+msgctxt "9456"
+msgid "M_cld_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "9460"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "9464"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "80_Tadashi"
+msgid "Zzz... Akiko..."
+msgstr ""
+
+msgctxt "92_Saejima"
+msgid "(Kid even talks about his big sis in his sleep. Must be real worried.)"
+msgstr ""
+
+msgctxt "104_Saejima"
+msgid ""
+"(Yasuko was about his age when I beat the piss outta that relative of ours "
+"and we began livin' on our lonesome.)"
+msgstr ""
+
+msgctxt "116_Saejima"
+msgid "(I remember her mutterin' my name in her sleep, too.)"
+msgstr ""
+
+msgctxt "140_Saejima"
+msgid "Who's there?"
+msgstr ""
+
+msgctxt "152_Tadokoro's Subordinate"
+msgid "I have a message from Tadokoro."
+msgstr ""
+
+msgctxt "164_Saejima"
+msgid "Come in."
+msgstr ""
+
+msgctxt "188_Tadokoro's Subordinate"
+msgid "We have a job for you, Suzuki-san."
+msgstr ""
+
+msgctxt "200_Saejima"
+msgid "Great. Lemme hear it."
+msgstr ""
+
+msgctxt "212_Tadokoro's Subordinate"
+msgid "Very well, allow me to explain."
+msgstr ""
+
+msgctxt "224_Tadokoro's Subordinate"
+msgid ""
+"Your assignment will be to chase out the... undesirables\r\n"
+"who are squatting in a building down Nakamichi Alley."
+msgstr ""
+
+msgctxt "236_Saejima"
+msgid "That it? Easy peasy."
+msgstr ""
+
+msgctxt "248_Tadokoro's Subordinate"
+msgid ""
+"Indeed, you need only force them to vacate the premises.\r\n"
+"On the other hand, they number in the dozens－about 30.\r\n"
+"Do you still think it'll be \"easy peasy\"?"
+msgstr ""
+
+msgctxt "260_Saejima"
+msgid "Eh, I'll figure somethin' out."
+msgstr ""
+
+msgctxt "272_Tadokoro's Subordinate"
+msgid ""
+"Oh really. Against 30 some-odd assailants? Very well.\r\n"
+"Then allow me to make an additional request."
+msgstr ""
+
+msgctxt "284_Saejima"
+msgid "Spit it out."
+msgstr ""
+
+msgctxt "296_Tadokoro's Subordinate"
+msgid ""
+"We would like you to apprehend their ringleader\r\n"
+"and hand him over to us."
+msgstr ""
+
+msgctxt "308_Saejima"
+msgid "What for?"
+msgstr ""
+
+msgctxt "320_Tadokoro's Subordinate"
+msgid "It can't hurt to learn who's putting these punks up to it."
+msgstr ""
+
+msgctxt "332_Saejima"
+msgid "Gotcha. So how much am I gettin' paid for this?"
+msgstr ""
+
+msgctxt "344_Tadokoro's Subordinate"
+msgid "Your payment will be one million yen."
+msgstr ""
+
+msgctxt "356_Saejima"
+msgid "Nice round number."
+msgstr ""
+
+msgctxt "368_Tadokoro's Subordinate"
+msgid ""
+"It's commensurate with the danger this job entails.\r\n"
+"Although I doubt it will pose any trouble at all\r\n"
+"for a man with your credentials. Heh."
+msgstr ""
+
+msgctxt "380_Saejima"
+msgid "Enough with the bullshit. Where's this building at?"
+msgstr ""
+
+msgctxt "392_Tadokoro's Subordinate"
+msgid ""
+"In Nakamichi Alley, across from Orchid Palace Mahjong.\r\n"
+"Just look for their bottom-feeders loitering outside."
+msgstr ""
+
+msgctxt "404_Tadokoro's Subordinate"
+msgid "Please don't forget to capture their leader... alive."
+msgstr ""
+
+msgctxt "416_Saejima"
+msgid "I won't. Just across from Orchid Palace Mahjong, yeah?"
+msgstr ""
+
+msgctxt "428_Tadokoro's Subordinate"
+msgid "Quite right. Godspeed, Suzuki-san."
+msgstr ""
+
+msgctxt "488_Saejima"
+msgid "Hmm. Wonder what crap I'm gettin' myself into here."
+msgstr ""
+
+msgctxt "500_Tadashi"
+msgid "Big guy, are you really going to take that job?"
+msgstr ""
+
+msgctxt "512_Saejima"
+msgid "Hey there, Tadashi. Didn't know you were awake."
+msgstr ""
+
+msgctxt "524_Tadashi"
+msgid "The knocking woke me up."
+msgstr ""
+
+msgctxt "536_Saejima"
+msgid "Good timing. Watch the place for me, will ya?"
+msgstr ""
+
+msgctxt "548_Tadashi"
+msgid "I'm coming too."
+msgstr ""
+
+msgctxt "560_Saejima"
+msgid "No way."
+msgstr ""
+
+msgctxt "572_Tadashi"
+msgid ""
+"But I can't sit around doing nothing while you're out\r\n"
+"doing all these dangerous things for me."
+msgstr ""
+
+msgctxt "584_Saejima"
+msgid "Frankly, kid, if ya came with me you'd just get in my way."
+msgstr ""
+
+msgctxt "596_Tadashi"
+msgid "Aww, man..."
+msgstr ""
+
+msgctxt "608_Saejima"
+msgid "Just relax and think about seein' your sis again, alright?"
+msgstr ""
+
+msgctxt "620_Tadashi"
+msgid "All right, big guy..."
+msgstr ""
+
+msgctxt "632_Saejima"
+msgid "I'll be back real quick. Keep an eye on the joint."
+msgstr ""
+
+msgctxt "644_Tadashi"
+msgid "Okay."
+msgstr ""
+
+msgctxt "656_Saejima"
+msgid ""
+"(So I'm lookin' for a building near Orchid Palace Mahjong, in Nakamichi "
+"Alley. Guess I'd better get to it.)"
+msgstr ""

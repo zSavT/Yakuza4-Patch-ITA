@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "604"
+msgid "Game on!"
+msgstr ""
+
+msgctxt "796"
+msgid "Promise me you'll be back."
+msgstr ""
+
+msgctxt "820"
+msgid "I do have a thing for strong men."
+msgstr ""
+
+msgctxt "5584"
+msgid "Dealer"
+msgstr ""
+
+msgctxt "5588"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "5592"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "5596"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "5600"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "5604"
+msgid "Player"
+msgstr ""
+
+msgctxt "520_Dealer"
+msgid "Welcome. Go easy on me, please..."
+msgstr ""
+
+msgctxt "532_Dealer"
+msgid "Welcome back. Heh... Go easy on me, please..."
+msgstr ""
+
+msgctxt "544_Dealer"
+msgid "Nice of you to join us. Here we go."
+msgstr ""
+
+msgctxt "556_Dealer"
+msgid "I was waiting for you. Here we go."
+msgstr ""
+
+msgctxt "568_Dealer"
+msgid "Ready? Here we go."
+msgstr ""
+
+msgctxt "580_Dealer"
+msgid "What's it gonna be!?"
+msgstr ""
+
+msgctxt "592_Dealer"
+msgid "Now they fall."
+msgstr ""
+
+msgctxt "616_Dealer"
+msgid "Hm, not bad."
+msgstr ""
+
+msgctxt "628_Dealer"
+msgid "Not too bad!"
+msgstr ""
+
+msgctxt "640_Dealer"
+msgid "Impressive!"
+msgstr ""
+
+msgctxt "652_Dealer"
+msgid "I knew you'd get it."
+msgstr ""
+
+msgctxt "664_Dealer"
+msgid "Hm, that's the way it goes."
+msgstr ""
+
+msgctxt "676_Dealer"
+msgid "That's the way it goes."
+msgstr ""
+
+msgctxt "688_Dealer"
+msgid "What's wrong? I've never seen you like this."
+msgstr ""
+
+msgctxt "700_Dealer"
+msgid "Don't worry. You'll make up for it next time."
+msgstr ""
+
+msgctxt "712_Dealer"
+msgid "So, what'll it be?"
+msgstr ""
+
+msgctxt "724_Dealer"
+msgid "So, what'll it be?"
+msgstr ""
+
+msgctxt "736_Dealer"
+msgid "So, what'll it be?"
+msgstr ""
+
+msgctxt "748_Dealer"
+msgid "So, what'll it be?"
+msgstr ""
+
+msgctxt "760_Dealer"
+msgid "Heh, try again next time."
+msgstr ""
+
+msgctxt "772_Dealer"
+msgid "Come again."
+msgstr ""
+
+msgctxt "784_Dealer"
+msgid "Hold on now..."
+msgstr ""
+
+msgctxt "808_Dealer"
+msgid "Hold on now..."
+msgstr ""
+
+msgctxt "832_Dealer"
+msgid "Try again next time!"
+msgstr ""
+
+msgctxt "844_Dealer"
+msgid "What're you goin' on about!? Quit making excuses and make a bet already!"
+msgstr ""
+
+msgctxt "856_Kiryu"
+msgid "Heh... Fine."
+msgstr ""
+
+msgctxt "868_Akiyama"
+msgid "Heh... All right."
+msgstr ""
+
+msgctxt "880_Saejima"
+msgid "Hmph... Fine."
+msgstr ""
+
+msgctxt "892_Tanimura"
+msgid "Heh... Okay."
+msgstr ""
+
+msgctxt "904_Dealer"
+msgid "Hmph... You don't have a shred of proof, so just bet!"
+msgstr ""
+
+msgctxt "916_Player"
+msgid "......"
+msgstr ""
+
+msgctxt "928_Dealer"
+msgid "(She kept her cool... Guess I was wrong.)"
+msgstr ""
+
+msgctxt "940_Dealer"
+msgid "(She's not even fazed. Was I mistaken?)"
+msgstr ""
+
+msgctxt "952_Dealer"
+msgid "(She ain't even fazed. Was I wrong?)"
+msgstr ""
+
+msgctxt "964_Dealer"
+msgid "(She kept her cool... Guess I was wrong.)"
+msgstr ""
+
+msgctxt "976_Dealer"
+msgid "Carry over your winnings to play the house?"
+msgstr ""
+
+msgctxt "988_Dealer"
+msgid "Carry over your winnings to play the house?"
+msgstr ""
+
+msgctxt "1000_Dealer"
+msgid "Carry over your winnings to play the house?"
+msgstr ""
+
+msgctxt "1012_Dealer"
+msgid "Carry over your winnings to play the house?"
+msgstr ""

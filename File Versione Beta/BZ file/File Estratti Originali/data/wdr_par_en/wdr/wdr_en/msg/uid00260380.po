@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "6580"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "6584"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "6588"
+msgid "Smith"
+msgstr ""
+
+msgctxt "6592"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "6596"
+msgid "Dejected Gambler"
+msgstr ""
+
+msgctxt "6600"
+msgid "Nml_TurnR180"
+msgstr ""
+
+msgctxt "6604"
+msgid "Exuberant Gambler"
+msgstr ""
+
+msgctxt "6608"
+msgid "Nml_TurnL180"
+msgstr ""
+
+msgctxt "6612"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "6616"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "6620"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "6624"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "6628"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6632"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "6636"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "6640"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6644"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "6648"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "6652"
+msgid "Talk_Udekumi_Yes"
+msgstr ""
+
+msgctxt "116_Tanimura"
+msgid "This is the place. So, what do you think?"
+msgstr ""
+
+msgctxt "128_Smith"
+msgid "Yeah, this has to be it! Good shit, Tanimura-san!"
+msgstr ""
+
+msgctxt "140_Dejected Gambler"
+msgid "Damn! How could I lose again!?"
+msgstr ""
+
+msgctxt "152_Exuberant Gambler"
+msgid "Aww yeah, bring Papa home that jackpot, baby!"
+msgstr ""
+
+msgctxt "164_Smith"
+msgid ""
+"...What is this \"lost\" and \"jackpot\" these people speak of?\r\n"
+"What the heck is going on here?"
+msgstr ""
+
+msgctxt "176_Tanimura"
+msgid ""
+"Oh, they're just talking about whether they won or lost\r\n"
+"their bets. Pretty appropriate for a gambling hall, I'd say."
+msgstr ""
+
+msgctxt "188_Smith"
+msgid ""
+"This... is a gambling hall!? No! <Italic>No</Italic>! I did not sign up "
+"for\r\n"
+"this! I, for one, am vehemently opposed to the wanton spending－and "
+"wasting－of money!"
+msgstr ""
+
+msgctxt "200_Tanimura"
+msgid "What."
+msgstr ""
+
+msgctxt "212_Smith"
+msgid ""
+"Come on, Tanimura-san! I told it to you pretty plainly.\r\n"
+"This is a depressing haunt for lost souls, not a place of\r\n"
+"joy for both girls and boys. What were you thinking?"
+msgstr ""
+
+msgctxt "224_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "236_Smith"
+msgid ""
+"I'll tell you one more time. I wanna see a traditional,\r\n"
+"one versus one, tabletop battle of intelligence."
+msgstr ""
+
+msgctxt "248_Smith"
+msgid ""
+"I hear it's a game for everybody－men, women, boys, girls,\r\n"
+"you name it."
+msgstr ""
+
+msgctxt "260_Tanimura"
+msgid "Hmm... Then I think you'd want to check out..."
+msgstr ""
+
+msgctxt "272_Tanimura"
+msgid "A video arcade, right?"
+msgstr ""
+
+msgctxt "284_Smith"
+msgid ""
+"A video arcade? Was that where I was thinking of?\r\n"
+"But, now that you mention it, it could have been\r\n"
+"a video arcade."
+msgstr ""
+
+msgctxt "296_Tanimura"
+msgid ""
+"Yeah, arcades can make you think, and it's the kind of place\r\n"
+"anybody can enjoy. I bet that's what you're looking for."
+msgstr ""
+
+msgctxt "308_Smith"
+msgid "Sweet! Then let's go check it out!"
+msgstr ""
+
+msgctxt "332_Tanimura"
+msgid "How about Shoten on Senryo Avenue?"
+msgstr ""
+
+msgctxt "344_Smith"
+msgid "Huh? What's a Shoten?"
+msgstr ""
+
+msgctxt "356_Tanimura"
+msgid ""
+"Somewhere that fits your description perfectly.\r\n"
+"I'm sure that's the place you mean."
+msgstr ""
+
+msgctxt "368_Smith"
+msgid ""
+"Yeah? You are? I dunno, man. Your confidence is pretty\r\n"
+"unnerving..."
+msgstr ""
+
+msgctxt "380_Smith"
+msgid "But fuck it! Let's go check it out anyway!"
+msgstr ""
+
+msgctxt "404_Tanimura"
+msgid "How about Volcano on Theater Avenue?"
+msgstr ""
+
+msgctxt "416_Smith"
+msgid "Volcano?"
+msgstr ""
+
+msgctxt "428_Tanimura"
+msgid ""
+"That's the name of a pachinko parlor. Pachinko's been around\r\n"
+"for a decently long time, so it can sort of be considered\r\n"
+"traditional. At least I'd say so."
+msgstr ""
+
+msgctxt "440_Smith"
+msgid "I dunno, man... You don't seem too sure of yourself here."
+msgstr ""
+
+msgctxt "452_Tanimura"
+msgid "Of course I am. I'm a local, remember?"
+msgstr ""
+
+msgctxt "464_Smith"
+msgid ""
+"True, true! Okay, that's good enough for me.\r\n"
+"Volcano it is!"
+msgstr ""
+
+msgctxt "488_Tanimura"
+msgid "A video arcade."
+msgstr ""
+
+msgctxt "500_Tanimura"
+msgid "A shogi salon."
+msgstr ""
+
+msgctxt "512_Tanimura"
+msgid "A pachinko parlor."
+msgstr ""

@@ -1,0 +1,491 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-10\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/auth/subtitle/D0230.po\n"
+"X-Crowdin-File-ID: 56334\n"
+"PO-Revision-Date: 2025-09-26 07:38\n"
+
+msgctxt "766\t828"
+msgid "Katsuragi!"
+msgstr "Katsuragi!"
+
+msgctxt "951\t1052"
+msgid "I'm impressed you made it up here."
+msgstr "Impressionante tu sia arrivato fin qui."
+
+msgctxt "1081\t1193"
+msgid "I suppose not all legends are mere fiction."
+msgstr "Non tutte le leggende sono mera finzione."
+
+msgctxt "1199\t1293"
+msgid "Enough games.\\nLet's finish this."
+msgstr "Basta scherzi.\\nFiniamola."
+
+msgctxt "1298\t1345"
+msgid "Fine by me."
+msgstr "A me sta bene."
+
+msgctxt "1348\t1410"
+msgid "I'm a man of my word, after all."
+msgstr "Sono un uomo di parola, dopotutto."
+
+msgctxt "1422\t1529"
+msgid "What I lack in brawn,\\nI make up for with honor."
+msgstr "Ciò che mi manca con la lotta,\\nlo compenso in onore."
+
+msgctxt "1571\t1645"
+msgid "Here's the file you want."
+msgstr "Ecco il file che volevi."
+
+msgctxt "1653\t1768"
+msgid "Now let those two go.\\nAnd hand over the hundred billion!"
+msgstr "Ora lasciali andare.\\nE riconsegna i cento miliardi!"
+
+msgctxt "1781\t1985"
+msgid "Relax, relax. A mountain of cash that big\\nisn't the easiest thing to move around."
+msgstr "Rilassati. Una montagna di soldi del genere\\nnon è facile da spostare."
+
+msgctxt "1999\t2082"
+msgid "Sounds like it's just arriving now."
+msgstr "Immagino stia arrivando."
+
+msgctxt "2651\t2708"
+msgid "Sorry for the wait."
+msgstr "Perdona l'attesa."
+
+msgctxt "2716\t2825"
+msgid "Here's the cash, as promised.\\nAll one hundred bil."
+msgstr "Ecco i soldi, come promesso.\\nTutti i cento miliardi."
+
+msgctxt "3220\t3293"
+msgid "So, you're Kido."
+msgstr "Quindi tu sei Kido."
+
+msgctxt "3336\t3401"
+msgid "And you must be Kazuma Kiryu."
+msgstr "E tu devi essere Kazuma Kiryu."
+
+msgctxt "3425\t3541"
+msgid "It's an honor to meet you. Truly."
+msgstr "È un onore incontrarti. Davvero."
+
+msgctxt "3560\t3729"
+msgid "Now that introductions are out of the way,\\nlet's get down to business."
+msgstr "Ora che le introduzioni sono finite,\\nparliamo di affari."
+
+msgctxt "3749\t3785"
+msgid "Fine."
+msgstr "Va bene."
+
+msgctxt "3816\t3895"
+msgid "We'll do this one step at a time."
+msgstr "Un passo alla volta."
+
+msgctxt "4631\t4705"
+msgid "First, Yasuko Saejima."
+msgstr "Prima, Yasuko Saejima."
+
+msgctxt "4713\t4796"
+msgid "Don't take a single step from that spot."
+msgstr "Non fare un passo oltre quel punto."
+
+msgctxt "4858\t5019"
+msgid "When Kido comes to you, he'll hand over the girl\\nand you'll give him the file."
+msgstr "Quando Kido si avvicinerà, lui ti darà lei\\ne tu gli darai il file."
+
+msgctxt "5029\t5246"
+msgid "Once I've confirmed its contents, we'll leave you\\nhere with Saejima and the money. And that'll be it."
+msgstr "Una volta confermato il contenuto, ti lasceremo\\nanche Saejima e i soldi. E poi, affare fatto."
+
+msgctxt "5262\t5320"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "5345\t5517"
+msgid "Impressive resolve. Not a sliver of doubt,\\neven at a time like this."
+msgstr "Che determinazione. Neanche un dubbio,\\nin una situazione del genere."
+
+msgctxt "5574\t5615"
+msgid "Fine, then."
+msgstr "Bene, allora."
+
+msgctxt "5628\t5672"
+msgid "Go."
+msgstr "Vai."
+
+msgctxt "6309\t6372"
+msgid "Sorry about all this."
+msgstr "Mi spiace per tutto."
+
+msgctxt "6518\t6578"
+msgid "The file."
+msgstr "Il file."
+
+msgctxt "7040\t7076"
+msgid "Are you okay?"
+msgstr "Stai bene?"
+
+msgctxt "7078\t7195"
+msgid "I'm sorry.\\nI should've listened to you."
+msgstr "Mi spiace.\\nAvrei dovuto ascoltarti."
+
+msgctxt "7200\t7299"
+msgid "What's done is done.\\nDid you talk to your brother?"
+msgstr "Ciò che è fatto è fatto.\\nHai parlato con tuo fratello?"
+
+msgctxt "7312\t7428"
+msgid "Yes. We had plenty of time\\nwhile we were locked up together."
+msgstr "Sì. Abbiamo avuto molto tempo\\nmentre ci teneva in gabbia."
+
+msgctxt "7443\t7500"
+msgid "Glad to hear it."
+msgstr "Mi fa piacere."
+
+msgctxt "8144\t8198"
+msgid "You're bigger fools than I realized!"
+msgstr "Sei più stupido di quello che pensavo!"
+
+msgctxt "8205\t8350"
+msgid "Did you really believe I'd let you\\nwalk out of here alive?"
+msgstr "Davvero pensavi di potertene\\nandare via da qui vivo?"
+
+msgctxt "8357\t8407"
+msgid "Katsuragi!"
+msgstr "Katsuragi!"
+
+msgctxt "8418\t8497"
+msgid "Kido... Do it!"
+msgstr "Kido... Fallo!"
+
+msgctxt "9072\t9145"
+msgid "Why...?"
+msgstr "Perché...?"
+
+msgctxt "9654\t9725"
+msgid "Watch close."
+msgstr "Guarda attentamente."
+
+msgctxt "9989\t10075"
+msgid "You!"
+msgstr "Tu!"
+
+msgctxt "10093\t10190"
+msgid "It's him... Arai."
+msgstr "È lui... Arai."
+
+msgctxt "10197\t10248"
+msgid "Arai!?"
+msgstr "Arai!?"
+
+msgctxt "10553\t10612"
+msgid "Katsuragi-san."
+msgstr "Katsuragi-san."
+
+msgctxt "10617\t10726"
+msgid "You should've known I'm not the kinda guy\\nto stab his aniki in the back."
+msgstr "Avresti dovuto sapere che non sono il tipo da\\ncolpire alle spalle un Aniki."
+
+msgctxt "10821\t10900"
+msgid "Aniki. Here it is."
+msgstr "Aniki. Eccolo."
+
+msgctxt "11069\t11130"
+msgid "I knew I could count on you."
+msgstr "Sapevo ce l'avresti fatta."
+
+msgctxt "11135\t11193"
+msgid "Nicely done, Kido."
+msgstr "Ben fatto, Kido."
+
+msgctxt "11206\t11266"
+msgid "Thanks!"
+msgstr "Grazie!"
+
+msgctxt "11622\t11684"
+msgid "Ani...ki?"
+msgstr "Ani... ki?"
+
+msgctxt "12204\t12282"
+msgid "Aniki..."
+msgstr "Aniki..."
+
+msgctxt "12282\t12360"
+msgid "You..."
+msgstr "Tu..."
+
+msgctxt "12806\t12866"
+msgid "How could you?"
+msgstr "Come hai potuto?"
+
+msgctxt "13005\t13071"
+msgid "Kazuma Kiryu-san, yes?"
+msgstr "Kazuma Kiryu-san, corretto?"
+
+msgctxt "13089\t13254"
+msgid "I'm the captain of Kanemura Enterprises,\\nunder the Tojo's Shibata Family. The name's Arai."
+msgstr "Sono il capitano della Kanemura Enterprises,\\nsotto la Famiglia Shibata del Tojo. Mi chiamo Arai."
+
+msgctxt "13311\t13396"
+msgid "I'm honored to finally meet you face-to-face."
+msgstr "È un onore conoscerti di persona."
+
+msgctxt "13405\t13470"
+msgid "Don't talk to me about honor."
+msgstr "Non parlarmi di onore."
+
+msgctxt "13485\t13616"
+msgid "Do you have any idea what you just did?"
+msgstr "Hai idea di cosa hai appena fatto?"
+
+msgctxt "13625\t13761"
+msgid "There's nothing more disgraceful\\nthan betraying a sworn brother."
+msgstr "Non c'è niente di peggio che\\ntradire un fratello giurato."
+
+msgctxt "13762\t13844"
+msgid "You understand me!?"
+msgstr "Mi hai capito!?"
+
+msgctxt "13858\t14000"
+msgid "I do, in fact.\\nBetter than you realize."
+msgstr "Sì, lo so bene.\\nMeglio di quanto credi."
+
+msgctxt "14097\t14163"
+msgid "Listen, Arai!"
+msgstr "Ascolta, Arai!"
+
+msgctxt "14199\t14295"
+msgid "The Tojo Clan will never be yours."
+msgstr "Il Tojo Clan non sarà mai tuo!"
+
+msgctxt "14297\t14445"
+msgid "I'll see to that myself.\\nNo matter what it takes."
+msgstr "Ci penserò da solo.\\nA qualunque costo."
+
+msgctxt "14448\t14510"
+msgid "Hear me?"
+msgstr "Mi hai sentito?"
+
+msgctxt "14523\t14591"
+msgid "You're too late."
+msgstr "Troppo tardi."
+
+msgctxt "14662\t14741"
+msgid "You're always too late."
+msgstr "Arrivi sempre troppo tardi."
+
+msgctxt "14751\t14816"
+msgid "That's why these things happen."
+msgstr "Ecco perché succedono queste cose."
+
+msgctxt "14878\t14938"
+msgid "Bye now."
+msgstr "Per ora, ciao."
+
+msgctxt "15074\t15125"
+msgid "Taiga!"
+msgstr "Taiga!"
+
+msgctxt "15343\t15393"
+msgid "Yasuko, hurry!"
+msgstr "Yasuko, presto!"
+
+msgctxt "15412\t15460"
+msgid "The bastard's still breathin'!"
+msgstr "Il bastardo respira ancora!"
+
+msgctxt "15477\t15537"
+msgid "Katsuragi!"
+msgstr "Katsuragi!"
+
+msgctxt "15674\t15738"
+msgid "Good for you."
+msgstr "Buon per te."
+
+msgctxt "15743\t15873"
+msgid "You're not the same dumb ox\\nyou were twenty-five years ago."
+msgstr "Non sei lo stesso stupido di\\nventicinque anni fa."
+
+msgctxt "15902\t15968"
+msgid "What was that?"
+msgstr "Cos'hai detto?"
+
+msgctxt "16030\t16187"
+msgid "But in the end...\\nyou didn't snuff out a single life that day."
+msgstr "Ma infine...\\nQuel giorno non hai spento nessuna vita."
+
+msgctxt "16189\t16282"
+msgid "A total failure of a hitman."
+msgstr "Sei un fallito come sicario."
+
+msgctxt "16394\t16495"
+msgid "I feel sorry for that fool Sasai."
+msgstr "Mi spiace per quello sciocco di Sasai."
+
+msgctxt "16500\t16606"
+msgid "Footing the bill on a halfwit like you."
+msgstr "Prendersi la colpa per uno come te."
+
+msgctxt "17143\t17203"
+msgid "Not today."
+msgstr "Non oggi."
+
+msgctxt "17288\t17405"
+msgid "Scum low as you ain't even worth killin'."
+msgstr "Non ti meriti neanche di essere ucciso."
+
+msgctxt "17434\t17505"
+msgid "You can lie there till ya rot."
+msgstr "Puoi rimanere lì a decomporti."
+
+msgctxt "17896\t17950"
+msgid "Taiga!"
+msgstr "Taiga!"
+
+msgctxt "17983\t18088"
+msgid "You... fuckin' coward!"
+msgstr "Tu... Fottuto codardo!"
+
+msgctxt "18288\t18390"
+msgid "Yasuko?\\nHey, Yasuko?"
+msgstr "Yasuko?\\nEhi, Yasuko?"
+
+msgctxt "18391\t18437"
+msgid "Yasuko!"
+msgstr "Yasuko!"
+
+msgctxt "18494\t18586"
+msgid "Give me... a minute."
+msgstr "Dammi... Un minuto."
+
+msgctxt "18689\t18767"
+msgid "Yasuko? Wait..."
+msgstr "Yasuko? Aspetta..."
+
+msgctxt "18781\t18877"
+msgid "What're ya doin'? Answer me!"
+msgstr "Che stai facendo? Rispondimi!"
+
+msgctxt "18948\t19057"
+msgid "I... I don't get it."
+msgstr "Io... Io non capisco."
+
+msgctxt "19416\t19457"
+msgid "Get back..."
+msgstr "Stai indietro..."
+
+msgctxt "19459\t19519"
+msgid "Get back!"
+msgstr "Stai indietro!"
+
+msgctxt "20289\t20420"
+msgid "What are you doing... with that?"
+msgstr "Che vuoi fare... Con quella?"
+
+msgctxt "20426\t20515"
+msgid "Tanimura-san gave it to me."
+msgstr "Me l'ha data Tanimura-san."
+
+msgctxt "20556\t20619"
+msgid "This gun..."
+msgstr "Questa pistola..."
+
+msgctxt "20620\t20825"
+msgid "Is going to avenge his father's death.\\nI owe him that much at least."
+msgstr "Vendicherà la morte di suo padre.\\nQuesto glielo devo."
+
+msgctxt "21033\t21121"
+msgid "Wait! Ya can't do this!"
+msgstr "Ferma! Non puoi farlo!"
+
+msgctxt "21123\t21179"
+msgid "Stay back."
+msgstr "Stai indietro."
+
+msgctxt "21280\t21389"
+msgid "Thank you, Taiga."
+msgstr "Grazie, Taiga."
+
+msgctxt "21410\t21487"
+msgid "It may have just been today..."
+msgstr "Potrebbe essere stato solo per oggi..."
+
+msgctxt "21508\t21627"
+msgid "But I'm glad I got to see you one last time."
+msgstr "Ma sono contenta di averti rivisto, un'ultima volta."
+
+msgctxt "21708\t21760"
+msgid "Yasuko."
+msgstr "Yasuko."
+
+msgctxt "21765\t21885"
+msgid "You're an innocent man, Taiga."
+msgstr "Sei un uomo innocente, Taiga."
+
+msgctxt "21887\t21953"
+msgid "But me..."
+msgstr "Io invece..."
+
+msgctxt "21957\t22054"
+msgid "I already have so much blood on my hands."
+msgstr "Ho versato fin troppo sangue."
+
+msgctxt "22068\t22193"
+msgid "That's why... it has to be me."
+msgstr "Ecco perché... Devo farlo io."
+
+msgctxt "22228\t22266"
+msgid "N-No!"
+msgstr "N-no!"
+
+msgctxt "22268\t22318"
+msgid "You can't!"
+msgstr "Non puoi!"
+
+msgctxt "22345\t22513"
+msgid "This is the only way...\\nI can repay you for all you've done."
+msgstr "Questo è l'unico modo...\\nPer ripagarti di tutto ciò che hai fatto."
+
+msgctxt "22530\t22579"
+msgid "Forgive me."
+msgstr "Perdonami."
+
+msgctxt "22926\t22993"
+msgid "Yasuko!"
+msgstr "Yasuko!"
+
+msgctxt "23033\t23129"
+msgid "Hey, Yasuko?\\nYasuko!?"
+msgstr "Ehi, Yasuko?\\nYasuko!?"
+
+msgctxt "23130\t23207"
+msgid "Say somethin', please!"
+msgstr "Dì qualcosa, ti prego!"
+
+msgctxt "23228\t23315"
+msgid "I'm... sorry."
+msgstr "Mi... Dispiace."
+
+msgctxt "23380\t23509"
+msgid "Tai...ga..."
+msgstr "Tai..ga..."
+
+msgctxt "23522\t23601"
+msgid "Hey! Yasuko?"
+msgstr "Ehi! Yasuko?"
+
+msgctxt "23606\t23728"
+msgid "Yasuko! Wake up!"
+msgstr "Yasuko! Svegliati!"
+

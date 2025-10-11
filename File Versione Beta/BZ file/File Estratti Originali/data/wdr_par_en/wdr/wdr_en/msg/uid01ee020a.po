@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "188"
+msgid "Go to the rooftop?"
+msgstr ""
+
+msgctxt "1408"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1412"
+msgid "Player"
+msgstr ""
+
+msgctxt "176_Akiyama"
+msgid ""
+"(This is where I'm supposed to meet up with Kido-chan. Guess I should start "
+"climbing.)"
+msgstr ""
+
+msgctxt "200_Akiyama"
+msgid "(Maybe later.)"
+msgstr ""
+
+msgctxt "212_Akiyama"
+msgid "(Okay, I better go see what Kido-chan wants.)"
+msgstr ""
+
+msgctxt "236_Player"
+msgid ""
+"(I'm not alone right now... Would be dangerous to take them to the rooftop "
+"with me.)"
+msgstr ""
+
+msgctxt "248_Player"
+msgid ""
+"(It's dangerous to go to the rooftops in the rain. I shouldn't do that "
+"right now.)"
+msgstr ""
+
+msgctxt "272_Akiyama"
+msgid "Yes"
+msgstr ""
+
+msgctxt "284_Akiyama"
+msgid "No"
+msgstr ""

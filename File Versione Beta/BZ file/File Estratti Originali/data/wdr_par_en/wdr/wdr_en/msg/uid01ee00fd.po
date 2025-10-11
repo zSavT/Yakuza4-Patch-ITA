@@ -1,0 +1,1750 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1868"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "1928"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han."
+msgstr ""
+
+msgctxt "1976"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr ""
+
+msgctxt "2036"
+msgid "You got <Color:8>Haruka's First-aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "2096"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "2156"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "2216"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "2276"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "2720"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+
+msgctxt "3080"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+
+msgctxt "3440"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+
+msgctxt "3800"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+
+msgctxt "4160"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+
+msgctxt "4520"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+
+msgctxt "4880"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+
+msgctxt "5240"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+
+msgctxt "5600"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+
+msgctxt "5960"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+
+msgctxt "6524"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+
+msgctxt "7736"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+
+msgctxt "8348"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+
+msgctxt "8984"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+
+msgctxt "9920"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+
+msgctxt "103736"
+msgid "Employee"
+msgstr ""
+
+msgctxt "103740"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "103744"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "103748"
+msgid "Owner"
+msgstr ""
+
+msgctxt "103752"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "103756"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "103760"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "103764"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "103768"
+msgid "HAL_sitcnt_tlk_eat_sushi"
+msgstr ""
+
+msgctxt "103772"
+msgid "Idle"
+msgstr ""
+
+msgctxt "103776"
+msgid "HAL_sitcnt_tlk_gochisousama"
+msgstr ""
+
+msgctxt "103780"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "103784"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "103788"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "103792"
+msgid "P_sitcnt_tlk_kamae"
+msgstr ""
+
+msgctxt "103796"
+msgid "Player"
+msgstr ""
+
+msgctxt "103800"
+msgid "Noa"
+msgstr ""
+
+msgctxt "103804"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "103808"
+msgid "Erena"
+msgstr ""
+
+msgctxt "103812"
+msgid "Chihiro"
+msgstr ""
+
+msgctxt "103816"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "103820"
+msgid "Maya"
+msgstr ""
+
+msgctxt "103824"
+msgid "Rio"
+msgstr ""
+
+msgctxt "103828"
+msgid "Himeka"
+msgstr ""
+
+msgctxt "103832"
+msgid "Shizuka"
+msgstr ""
+
+msgctxt "103836"
+msgid "松岡里緒奈：源氏名"
+msgstr ""
+
+msgctxt "103840"
+msgid "望月京子：源氏名"
+msgstr ""
+
+msgctxt "103844"
+msgid "峰村七海：源氏名"
+msgstr ""
+
+msgctxt "103848"
+msgid "P_sitcnt_tlk_no"
+msgstr ""
+
+msgctxt "103852"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "103856"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "103860"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1124_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "1136_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "1208_Owner"
+msgid "Welcome, welcome! What can I get you today?"
+msgstr ""
+
+msgctxt "1232_Haruka"
+msgid ""
+"Uncle Kaz, I'm kinda hungry. Will you order me some "
+"<Color:8>Tamago<Color:Default>? Please?"
+msgstr ""
+
+msgctxt "1244_Kiryu"
+msgid "(Haruka wants me to get her some <Color:8>Tamago<Color:Default>...)"
+msgstr ""
+
+msgctxt "1268_Haruka"
+msgid "Thanks, Uncle Kaz! I'm gonna dig right in!"
+msgstr ""
+
+msgctxt "1340_Haruka"
+msgid "Mmm. ♥ That was good! Thanks for treating me, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1352_Kiryu"
+msgid "(Haruka sure is happy...)"
+msgstr ""
+
+msgctxt "1364_Kiryu"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "1376_Owner"
+msgid "Yes, sir! Thank you kindly!"
+msgstr ""
+
+msgctxt "1424_Employee"
+msgid "Sorry, but something's come up. I'll have to step out for a while."
+msgstr ""
+
+msgctxt "1436_Owner"
+msgid "Oh, yeah? Well, be sure to come back again soon, all right?"
+msgstr ""
+
+msgctxt "1448_Haruka"
+msgid "Aww, I wanted some <Color:8>Tamago<Color:Default>..."
+msgstr ""
+
+msgctxt "1496_Haruka"
+msgid ""
+"Uncle Kaz, I'm super duper hungry. Can I have some "
+"<Color:8>Amaebi<Color:Default>? Please?"
+msgstr ""
+
+msgctxt "1508_Kiryu"
+msgid "(Haruka wants me to get her some <Color:8>Amaebi<Color:Default>...)"
+msgstr ""
+
+msgctxt "1532_Haruka"
+msgid "Thanks, Uncle Kaz! I can't wait to dig in!"
+msgstr ""
+
+msgctxt "1604_Haruka"
+msgid "Mmm. ♥ That was super good! Thanks for treating me, Uncle Kaz!"
+msgstr ""
+
+msgctxt "1616_Kiryu"
+msgid "(Haruka sure is happy...)"
+msgstr ""
+
+msgctxt "1628_Kiryu"
+msgid "Check, please."
+msgstr ""
+
+msgctxt "1640_Owner"
+msgid "Yes, sir! Thank you kindly!"
+msgstr ""
+
+msgctxt "1688_Employee"
+msgid "Sorry, but something's come up. I'll have to step out for a while."
+msgstr ""
+
+msgctxt "1700_Owner"
+msgid "Oh, yeah? Well, be sure to come back again soon, all right?"
+msgstr ""
+
+msgctxt "1712_Haruka"
+msgid "I was so hungry, though... Goodbye, <Color:8>Amaebi<Color:Default>..."
+msgstr ""
+
+msgctxt "1796_Employee"
+msgid "Thank you very much. Your bill comes to %s."
+msgstr ""
+
+msgctxt "1808_Employee"
+msgid "Please come again soon."
+msgstr ""
+
+msgctxt "1856_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "1916_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come to play cho-han with you next time, "
+"okay?"
+msgstr ""
+
+msgctxt "1964_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "2024_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "2084_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "2144_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "2204_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "2264_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "2372_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "2396_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "2420_Employee"
+msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr ""
+
+msgctxt "2432_Employee"
+msgid "You'll be using the coupon then? Thank you!"
+msgstr ""
+
+msgctxt "2444_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "2540_Owner"
+msgid "Welcome, welcome! What can I get started for ya?"
+msgstr ""
+
+msgctxt "2552_Player"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "2612_Noa"
+msgid "Wait, you're going to make me choose? You have to choose, Akiyama-san!"
+msgstr ""
+
+msgctxt "2624_Akiyama"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "2672_Employee"
+msgid "Here's your bill, sir."
+msgstr ""
+
+msgctxt "2696_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "2756_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "2780_Employee"
+msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr ""
+
+msgctxt "2792_Employee"
+msgid "You'll be using the coupon then? Thank you!"
+msgstr ""
+
+msgctxt "2804_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "2900_Owner"
+msgid "Welcome, welcome! What can I get started for ya?"
+msgstr ""
+
+msgctxt "2912_Player"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "2972_Erena"
+msgid "C'mon, pick something already! I'm tired of waiting!"
+msgstr ""
+
+msgctxt "2984_Akiyama"
+msgid "Right, sorry about that."
+msgstr ""
+
+msgctxt "3032_Employee"
+msgid "Here's your bill, sir."
+msgstr ""
+
+msgctxt "3056_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "3116_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "3140_Employee"
+msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr ""
+
+msgctxt "3152_Employee"
+msgid "You'll be using the coupon then? Thank you!"
+msgstr ""
+
+msgctxt "3164_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "3260_Owner"
+msgid "Welcome, welcome! What can I get started for ya?"
+msgstr ""
+
+msgctxt "3272_Player"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "3332_Chihiro"
+msgid ""
+"Huh? I have to choose? Oh gosh, I can't, I won't be able to! I want you to "
+"choose for me, Tanimura-san!"
+msgstr ""
+
+msgctxt "3344_Tanimura"
+msgid "Oh, sorry about that..."
+msgstr ""
+
+msgctxt "3392_Employee"
+msgid "Here's your bill, sir."
+msgstr ""
+
+msgctxt "3416_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "3476_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "3500_Employee"
+msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr ""
+
+msgctxt "3512_Employee"
+msgid "You'll be using the coupon then? Thank you!"
+msgstr ""
+
+msgctxt "3524_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "3620_Owner"
+msgid "Welcome, welcome! What can I get started for ya?"
+msgstr ""
+
+msgctxt "3632_Player"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "3692_Maya"
+msgid "Wait, you're gonna, like, make me choose? You have to choose, Kiryu-san!"
+msgstr ""
+
+msgctxt "3704_Player"
+msgid "Oh, right..."
+msgstr ""
+
+msgctxt "3752_Employee"
+msgid "Here's your bill, sir."
+msgstr ""
+
+msgctxt "3776_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "3836_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "3860_Employee"
+msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr ""
+
+msgctxt "3872_Employee"
+msgid "You'll be using the coupon then? Thank you!"
+msgstr ""
+
+msgctxt "3884_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "3980_Owner"
+msgid "Welcome, welcome! What can I get started for ya?"
+msgstr ""
+
+msgctxt "3992_Player"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "4052_Rio"
+msgid "Huh? I have to choose? I want you to choose for me, Akiyama-san."
+msgstr ""
+
+msgctxt "4064_Player"
+msgid "Oh, okay..."
+msgstr ""
+
+msgctxt "4112_Employee"
+msgid "Here's your bill, sir."
+msgstr ""
+
+msgctxt "4136_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "4196_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "4220_Employee"
+msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr ""
+
+msgctxt "4232_Employee"
+msgid "You'll be using the coupon then? Thank you!"
+msgstr ""
+
+msgctxt "4244_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "4340_Owner"
+msgid "Welcome, welcome! What can I get started for ya?"
+msgstr ""
+
+msgctxt "4352_Player"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "4412_Himeka"
+msgid "Is there something wrong? Please pick something already."
+msgstr ""
+
+msgctxt "4424_Player"
+msgid "Oh, right..."
+msgstr ""
+
+msgctxt "4472_Employee"
+msgid "Here's your bill, sir."
+msgstr ""
+
+msgctxt "4496_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "4556_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "4580_Employee"
+msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr ""
+
+msgctxt "4592_Employee"
+msgid "You'll be using the coupon then? Thank you!"
+msgstr ""
+
+msgctxt "4604_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "4700_Owner"
+msgid "Welcome, welcome! What can I get started for ya?"
+msgstr ""
+
+msgctxt "4712_Player"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "4772_Shizuka"
+msgid "Um, what's wrong? Are you ready to order?"
+msgstr ""
+
+msgctxt "4784_Player"
+msgid "Yeah, just give me a second."
+msgstr ""
+
+msgctxt "4832_Employee"
+msgid "Here's your bill, sir."
+msgstr ""
+
+msgctxt "4856_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "4916_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "4940_Employee"
+msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr ""
+
+msgctxt "4952_Employee"
+msgid "You'll be using the coupon then? Thank you!"
+msgstr ""
+
+msgctxt "4964_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "5060_Owner"
+msgid "Welcome, welcome! What can I get started for ya?"
+msgstr ""
+
+msgctxt "5072_Player"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "5132_松岡里緒奈：源氏名"
+msgid ""
+"Huh? You really okay with me ordering? Your wallet is gonna regret it when "
+"we go to get the bill!"
+msgstr ""
+
+msgctxt "5144_Player"
+msgid "Hold on, let me order."
+msgstr ""
+
+msgctxt "5192_Employee"
+msgid "Here's your bill, sir."
+msgstr ""
+
+msgctxt "5216_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "5276_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "5300_Employee"
+msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr ""
+
+msgctxt "5312_Employee"
+msgid "You'll be using the coupon then? Thank you!"
+msgstr ""
+
+msgctxt "5324_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "5420_Owner"
+msgid "Welcome, welcome! What can I get started for ya?"
+msgstr ""
+
+msgctxt "5432_Player"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "5492_望月京子：源氏名"
+msgid "C'mon, you're a man, aren't you? Man up and decide already!"
+msgstr ""
+
+msgctxt "5504_Player"
+msgid "Yeah, just give me a second..."
+msgstr ""
+
+msgctxt "5552_Employee"
+msgid "Here's your bill, sir."
+msgstr ""
+
+msgctxt "5576_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "5636_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "5660_Employee"
+msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr ""
+
+msgctxt "5672_Employee"
+msgid "You'll be using the coupon then? Thank you!"
+msgstr ""
+
+msgctxt "5684_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "5780_Owner"
+msgid "Welcome, welcome! What can I get started for ya?"
+msgstr ""
+
+msgctxt "5792_Player"
+msgid "(Maybe I should order for the both of us.)"
+msgstr ""
+
+msgctxt "5852_峰村七海：源氏名"
+msgid ""
+"Is there something wrong? Don't worry about me. Just get something you'll "
+"like."
+msgstr ""
+
+msgctxt "5864_Player"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "5912_Employee"
+msgid "Here's your bill, sir."
+msgstr ""
+
+msgctxt "5936_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "5996_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "6104_Player"
+msgid "I don't have enough money...)"
+msgstr ""
+
+msgctxt "6128_Player"
+msgid "(I'm pretty full right now.)"
+msgstr ""
+
+msgctxt "6140_Player"
+msgid "Sorry, just remembered I got something to do first."
+msgstr ""
+
+msgctxt "6152_Employee"
+msgid "All right. Please come again."
+msgstr ""
+
+msgctxt "6188_Employee"
+msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr ""
+
+msgctxt "6200_Employee"
+msgid "You'll be using the coupon then? Thank you!"
+msgstr ""
+
+msgctxt "6212_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "6272_Owner"
+msgid "Welcome, sir. What can I get started for you?"
+msgstr ""
+
+msgctxt "6308_Employee"
+msgid "Sorry, but something's come up. I'll have to step out for a while."
+msgstr ""
+
+msgctxt "6320_Owner"
+msgid "Oh, yeah? Well, be sure to come back again soon, all right?"
+msgstr ""
+
+msgctxt "6392_Employee"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "6500_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "6596_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "6620_Employee"
+msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
+msgstr ""
+
+msgctxt "6632_Player"
+msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi."
+msgstr ""
+
+msgctxt "6644_Employee"
+msgid ""
+"I completely agree, but have you heard of the most recent sake trend? "
+"Nowadays, sweet sake is all the rage."
+msgstr ""
+
+msgctxt "6656_Player"
+msgid "Huh. Why do you think that is?"
+msgstr ""
+
+msgctxt "6668_Employee"
+msgid ""
+"Traditionally, sake has more of a dry flavor, but recently, companies have "
+"started coming out with fruitier, more refreshing sake."
+msgstr ""
+
+msgctxt "6680_Employee"
+msgid ""
+"It doesn't have too much alcohol in it－plus, you can cook with it! Makes "
+"sense why it's getting to be big, even with girls who usually can't handle "
+"something as strong as sake."
+msgstr ""
+
+msgctxt "6692_Employee"
+msgid ""
+"Before, people might've said that cocktails were the trendiest thing you "
+"could order at the bar, but nowadays, it's hip to order a small cup of sake "
+"instead."
+msgstr ""
+
+msgctxt "6704_Player"
+msgid ""
+"(Sweet sake growing popular, especially with women... I bet the girls at "
+"the club would love to hear about it.)"
+msgstr ""
+
+msgctxt "6716_Employee"
+msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
+msgstr ""
+
+msgctxt "6728_Player"
+msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi."
+msgstr ""
+
+msgctxt "6740_Employee"
+msgid ""
+"I completely agree, but have you heard of the most recent sake trend? "
+"Nowadays, sweet sake is all the rage."
+msgstr ""
+
+msgctxt "6752_Player"
+msgid "Huh. Why do you think that is?"
+msgstr ""
+
+msgctxt "6764_Employee"
+msgid ""
+"Traditionally, sake has more of a dry flavor, but recently, companies have "
+"started coming out with fruitier, more refreshing sake."
+msgstr ""
+
+msgctxt "6776_Employee"
+msgid ""
+"It doesn't have too much alcohol in it－plus, you can cook with it! Makes "
+"sense why it's getting to be big, even with girls who usually can't handle "
+"something as strong as sake."
+msgstr ""
+
+msgctxt "6788_Employee"
+msgid ""
+"Before, people might've said that cocktails were the trendiest thing you "
+"could order at the bar, but nowadays, it's hip to order a small cup of sake "
+"instead."
+msgstr ""
+
+msgctxt "6800_Player"
+msgid ""
+"(Sweet sake growing popular, especially with women... I bet the girls at "
+"the club would love to hear about it.)"
+msgstr ""
+
+msgctxt "6812_Employee"
+msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
+msgstr ""
+
+msgctxt "6824_Player"
+msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi."
+msgstr ""
+
+msgctxt "6836_Employee"
+msgid ""
+"I completely agree, but have you heard of the most recent sake trend? "
+"Nowadays, sweet sake is all the rage."
+msgstr ""
+
+msgctxt "6848_Player"
+msgid "Huh. Why do you think that is?"
+msgstr ""
+
+msgctxt "6860_Employee"
+msgid ""
+"Traditionally, sake has more of a dry flavor, but recently, companies have "
+"started coming out with fruitier, more refreshing sake."
+msgstr ""
+
+msgctxt "6872_Employee"
+msgid ""
+"It doesn't have too much alcohol in it－plus, you can cook with it! Makes "
+"sense why it's getting to be big, even with girls who usually can't handle "
+"something as strong as sake."
+msgstr ""
+
+msgctxt "6884_Employee"
+msgid ""
+"Before, people might've said that cocktails were the trendiest thing you "
+"could order at the bar, but nowadays, it's hip to order a small cup of sake "
+"instead."
+msgstr ""
+
+msgctxt "6896_Player"
+msgid ""
+"(Sweet sake growing popular, especially with women... I bet the girls at "
+"the club would love to hear about it.)"
+msgstr ""
+
+msgctxt "6908_Employee"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "6920_Saejima"
+msgid "(Might be able to find something that kappas like here...)"
+msgstr ""
+
+msgctxt "6932_Employee"
+msgid "Let me show you to a seat."
+msgstr ""
+
+msgctxt "6956_Saejima"
+msgid ""
+"Actually, I'd just like to order a kappamaki. Bringing it back for someone "
+"as a souvenir."
+msgstr ""
+
+msgctxt "6968_Employee"
+msgid "A... kappamaki? Sure, uh... that'll be 750 yen."
+msgstr ""
+
+msgctxt "6980_Saejima"
+msgid ""
+"Sure thing, let me... Really? Must've forgotten to bring cash with me. "
+"Sorry for the trouble. I'll be back."
+msgstr ""
+
+msgctxt "6992_Employee"
+msgid "Oh... All right. Thanks for stopping in."
+msgstr ""
+
+msgctxt "7004_Saejima"
+msgid "(Well, that was embarrassing... Better get out there and make some money.)"
+msgstr ""
+
+msgctxt "7040_Saejima"
+msgid ""
+"Actually, I'd just like to order a kappamaki. Bringing it back for someone "
+"as a souvenir."
+msgstr ""
+
+msgctxt "7052_Employee"
+msgid ""
+"A... kappamaki? I'm sorry, sir, but we're all out of cucumbers right now. "
+"We won't be able to make any for you."
+msgstr ""
+
+msgctxt "7064_Saejima"
+msgid ""
+"I've got a cucumber right here. Could you take it and make me a kappamaki? "
+"I know it's not that big, but it should do the job."
+msgstr ""
+
+msgctxt "7076_Employee"
+msgid "Oh, uh... Okay...?"
+msgstr ""
+
+msgctxt "7088_Saejima"
+msgid "Thanks. I know it's weird, but I really need me a kappamaki."
+msgstr ""
+
+msgctxt "7100_Employee"
+msgid ""
+"Sure... Could you wait here for a moment? I'll go back and, uh, see what "
+"they can do..."
+msgstr ""
+
+msgctxt "7160_Employee"
+msgid "...Well, uh, here you go. One kappamaki. That'll be 750 yen."
+msgstr ""
+
+msgctxt "7172_Saejima"
+msgid "Here you go. Thank you so much, and sorry for all the trouble."
+msgstr ""
+
+msgctxt "7196_Employee"
+msgid ""
+"No, no, it's all right. Thank you for coming in. We hope you'll stop by "
+"again soon!"
+msgstr ""
+
+msgctxt "7208_Saejima"
+msgid ""
+"(I got myself a kappamaki... I should stop by the manhole by the Children's "
+"Park again.)"
+msgstr ""
+
+msgctxt "7232_Saejima"
+msgid ""
+"Actually, I'd just like to order a kappamaki. Bringing it back for someone "
+"as a souvenir."
+msgstr ""
+
+msgctxt "7244_Employee"
+msgid ""
+"A... kappamaki? I'm sorry, sir, but we're all out of cucumbers right now. "
+"We won't be able to make any for you."
+msgstr ""
+
+msgctxt "7256_Saejima"
+msgid "Damn. If I brought you a cucumber, do you think you could make me one?"
+msgstr ""
+
+msgctxt "7268_Employee"
+msgid ""
+"Huh? I suppose? I mean, if all we're missing is a cucumber, then logically, "
+"yes, we could make you one..."
+msgstr ""
+
+msgctxt "7280_Saejima"
+msgid "Okay. I'll be back with a cucumber, then."
+msgstr ""
+
+msgctxt "7292_Saejima"
+msgid ""
+"(Last time I was at the convenience store, I noticed they were selling "
+"cucumbers. I should go pick one up there.)"
+msgstr ""
+
+msgctxt "7316_Employee"
+msgid "Let me show you to your seats."
+msgstr ""
+
+msgctxt "7424_Player"
+msgid "(I don't have enough money...)"
+msgstr ""
+
+msgctxt "7448_Player"
+msgid "(No point eating now. I'm not even hungry.)"
+msgstr ""
+
+msgctxt "7460_Player"
+msgid "Sorry, just remembered I got something to do first."
+msgstr ""
+
+msgctxt "7472_Employee"
+msgid "All right. Please come again."
+msgstr ""
+
+msgctxt "7508_Employee"
+msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr ""
+
+msgctxt "7520_Employee"
+msgid "You'll be using the coupon then? Thank you!"
+msgstr ""
+
+msgctxt "7532_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "7592_Owner"
+msgid "Welcome, sir. What can I get started for you?"
+msgstr ""
+
+msgctxt "7628_Employee"
+msgid "Sorry, but something's come up. I'll have to step out for a while."
+msgstr ""
+
+msgctxt "7640_Owner"
+msgid "Oh, yeah? Well, be sure to come back again soon, all right?"
+msgstr ""
+
+msgctxt "7688_Employee"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "7712_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "7808_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "7832_Employee"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "7844_Saejima"
+msgid "(Might be able to find something that kappas like here...)"
+msgstr ""
+
+msgctxt "7856_Employee"
+msgid "Let me show you to a seat."
+msgstr ""
+
+msgctxt "7868_Saejima"
+msgid ""
+"Actually, I'd just like to order a kappamaki. Bringing it back for someone "
+"as a souvenir."
+msgstr ""
+
+msgctxt "7880_Employee"
+msgid ""
+"A... kappamaki? I'm sorry, sir, but we're all out of cucumbers right now. "
+"We won't be able to make any for you."
+msgstr ""
+
+msgctxt "7892_Saejima"
+msgid "Oh... Damn. I'll come back another time, then."
+msgstr ""
+
+msgctxt "7904_Employee"
+msgid "All right. Please come again."
+msgstr ""
+
+msgctxt "7928_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "8036_Player"
+msgid "(I don't have the cash...)"
+msgstr ""
+
+msgctxt "8060_Player"
+msgid "(I'm not hungry right now...)"
+msgstr ""
+
+msgctxt "8072_Player"
+msgid "Sorry, just remembered I got something to do first."
+msgstr ""
+
+msgctxt "8084_Employee"
+msgid "All right. Please come again."
+msgstr ""
+
+msgctxt "8120_Employee"
+msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr ""
+
+msgctxt "8132_Employee"
+msgid "You'll be using the coupon then? Thank you!"
+msgstr ""
+
+msgctxt "8144_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "8204_Owner"
+msgid "Welcome, sir. What can I get started for you?"
+msgstr ""
+
+msgctxt "8240_Employee"
+msgid "Sorry, but something's come up. I'll have to step out for a while."
+msgstr ""
+
+msgctxt "8252_Owner"
+msgid "Oh, yeah? Well, be sure to come back again soon, all right?"
+msgstr ""
+
+msgctxt "8300_Employee"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "8324_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "8420_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "8480_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "8588_Player"
+msgid "(I don't have any money on me...)"
+msgstr ""
+
+msgctxt "8612_Player"
+msgid "(I'm pretty full right now.)"
+msgstr ""
+
+msgctxt "8624_Player"
+msgid "Sorry, just remembered I got something to do first."
+msgstr ""
+
+msgctxt "8636_Employee"
+msgid "All right. Please come again."
+msgstr ""
+
+msgctxt "8672_Employee"
+msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr ""
+
+msgctxt "8684_Employee"
+msgid "You'll be using the coupon then? Thank you!"
+msgstr ""
+
+msgctxt "8696_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "8756_Owner"
+msgid "Welcome, sir. What can I get started for you?"
+msgstr ""
+
+msgctxt "8792_Employee"
+msgid "Sorry, but something's come up. I'll have to step out for a while."
+msgstr ""
+
+msgctxt "8804_Owner"
+msgid "Oh, yeah? Well, be sure to come back again soon, all right?"
+msgstr ""
+
+msgctxt "8852_Employee"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "8960_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "9056_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "9080_Employee"
+msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
+msgstr ""
+
+msgctxt "9092_Player"
+msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi."
+msgstr ""
+
+msgctxt "9104_Employee"
+msgid ""
+"I completely agree, but have you heard of the most recent sake trend? "
+"Nowadays, sweet sake is all the rage."
+msgstr ""
+
+msgctxt "9116_Player"
+msgid "Huh. Why do you think that is?"
+msgstr ""
+
+msgctxt "9128_Employee"
+msgid ""
+"Traditionally, sake has more of a dry flavor, but recently, companies have "
+"started coming out with fruitier, more refreshing sake."
+msgstr ""
+
+msgctxt "9140_Employee"
+msgid ""
+"It doesn't have too much alcohol in it－plus, you can cook with it! Makes "
+"sense why it's getting to be big, even with girls who usually can't handle "
+"something as strong as sake."
+msgstr ""
+
+msgctxt "9152_Employee"
+msgid ""
+"Before, people might've said that cocktails were the trendiest thing you "
+"could order at the bar, but nowadays, it's hip to order a small cup of sake "
+"instead."
+msgstr ""
+
+msgctxt "9164_Player"
+msgid ""
+"(Sweet sake growing popular, especially with women... I bet the girls at "
+"the club would love to hear about it.)"
+msgstr ""
+
+msgctxt "9176_Employee"
+msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
+msgstr ""
+
+msgctxt "9188_Player"
+msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi."
+msgstr ""
+
+msgctxt "9200_Employee"
+msgid ""
+"I completely agree, but have you heard of the most recent sake trend? "
+"Nowadays, sweet sake is all the rage."
+msgstr ""
+
+msgctxt "9212_Player"
+msgid "Huh. Why do you think that is?"
+msgstr ""
+
+msgctxt "9224_Employee"
+msgid ""
+"Traditionally, sake has more of a dry flavor, but recently, companies have "
+"started coming out with fruitier, more refreshing sake."
+msgstr ""
+
+msgctxt "9236_Employee"
+msgid ""
+"It doesn't have too much alcohol in it－plus, you can cook with it! Makes "
+"sense why it's getting to be big, even with girls who usually can't handle "
+"something as strong as sake."
+msgstr ""
+
+msgctxt "9248_Employee"
+msgid ""
+"Before, people might've said that cocktails were the trendiest thing you "
+"could order at the bar, but nowadays, it's hip to order a small cup of sake "
+"instead."
+msgstr ""
+
+msgctxt "9260_Player"
+msgid ""
+"(Sweet sake growing popular, especially with women... I bet the girls at "
+"the club would love to hear about it.)"
+msgstr ""
+
+msgctxt "9272_Employee"
+msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
+msgstr ""
+
+msgctxt "9284_Player"
+msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi."
+msgstr ""
+
+msgctxt "9296_Employee"
+msgid ""
+"I completely agree, but have you heard of the most recent sake trend? "
+"Nowadays, sweet sake is all the rage."
+msgstr ""
+
+msgctxt "9308_Player"
+msgid "Huh. Why do you think that is?"
+msgstr ""
+
+msgctxt "9320_Employee"
+msgid ""
+"Traditionally, sake has more of a dry flavor, but recently, companies have "
+"started coming out with fruitier, more refreshing sake."
+msgstr ""
+
+msgctxt "9332_Employee"
+msgid ""
+"It doesn't have too much alcohol in it－plus, you can cook with it! Makes "
+"sense why it's getting to be big, even with girls who usually can't handle "
+"something as strong as sake."
+msgstr ""
+
+msgctxt "9344_Employee"
+msgid ""
+"Before, people might've said that cocktails were the trendiest thing you "
+"could order at the bar, but nowadays, it's hip to order a small cup of sake "
+"instead."
+msgstr ""
+
+msgctxt "9356_Player"
+msgid ""
+"(Sweet sake growing popular, especially with women... I bet the girls at "
+"the club would love to hear about it.)"
+msgstr ""
+
+msgctxt "9368_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr ""
+
+msgctxt "9476_Player"
+msgid "(I don't have any money on me...)"
+msgstr ""
+
+msgctxt "9500_Player"
+msgid "(I'm not hungry right now...)"
+msgstr ""
+
+msgctxt "9512_Player"
+msgid "Sorry, just remembered I got something to do first."
+msgstr ""
+
+msgctxt "9524_Employee"
+msgid "All right. Please come again."
+msgstr ""
+
+msgctxt "9560_Employee"
+msgid "Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr ""
+
+msgctxt "9572_Employee"
+msgid "You'll be using the coupon then? Thank you!"
+msgstr ""
+
+msgctxt "9584_Employee"
+msgid "Right this way."
+msgstr ""
+
+msgctxt "9644_Owner"
+msgid "Welcome, sir. What can I get started for you?"
+msgstr ""
+
+msgctxt "9668_Player"
+msgid "(Ugh, so full...)"
+msgstr ""
+
+msgctxt "9704_Employee"
+msgid "Sorry, but something's come up. I'll have to step out for a while."
+msgstr ""
+
+msgctxt "9716_Owner"
+msgid "Oh, yeah? Well, be sure to come back again soon, all right?"
+msgstr ""
+
+msgctxt "9788_Employee"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "9896_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "9992_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr ""
+
+msgctxt "10016_Employee"
+msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
+msgstr ""
+
+msgctxt "10028_Player"
+msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi."
+msgstr ""
+
+msgctxt "10040_Employee"
+msgid ""
+"I completely agree, but have you heard of the most recent sake trend? "
+"Nowadays, sweet sake is all the rage."
+msgstr ""
+
+msgctxt "10052_Player"
+msgid "Huh. Why do you think that is?"
+msgstr ""
+
+msgctxt "10064_Employee"
+msgid ""
+"Traditionally, sake has more of a dry flavor, but recently, companies have "
+"started coming out with fruitier, more refreshing sake."
+msgstr ""
+
+msgctxt "10076_Employee"
+msgid ""
+"It doesn't have too much alcohol in it－plus, you can cook with it! Makes "
+"sense why it's getting to be big, even with girls who usually can't handle "
+"something as strong as sake."
+msgstr ""
+
+msgctxt "10088_Employee"
+msgid ""
+"Before, people might've said that cocktails were the trendiest thing you "
+"could order at the bar, but nowadays, it's hip to order a small cup of sake "
+"instead."
+msgstr ""
+
+msgctxt "10100_Player"
+msgid ""
+"(Sweet sake growing popular, especially with women... I bet the girls at "
+"the club would love to hear about it.)"
+msgstr ""
+
+msgctxt "10112_Employee"
+msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
+msgstr ""
+
+msgctxt "10124_Player"
+msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi."
+msgstr ""
+
+msgctxt "10136_Employee"
+msgid ""
+"I completely agree, but have you heard of the most recent sake trend? "
+"Nowadays, sweet sake is all the rage."
+msgstr ""
+
+msgctxt "10148_Player"
+msgid "Huh. Why do you think that is?"
+msgstr ""
+
+msgctxt "10160_Employee"
+msgid ""
+"Traditionally, sake has more of a dry flavor, but recently, companies have "
+"started coming out with fruitier, more refreshing sake."
+msgstr ""
+
+msgctxt "10172_Employee"
+msgid ""
+"It doesn't have too much alcohol in it－plus, you can cook with it! Makes "
+"sense why it's getting to be big, even with girls who usually can't handle "
+"something as strong as sake."
+msgstr ""
+
+msgctxt "10184_Employee"
+msgid ""
+"Before, people might've said that cocktails were the trendiest thing you "
+"could order at the bar, but nowadays, it's hip to order a small cup of sake "
+"instead."
+msgstr ""
+
+msgctxt "10196_Player"
+msgid ""
+"(Sweet sake growing popular, especially with women... I bet the girls at "
+"the club would love to hear about it.)"
+msgstr ""
+
+msgctxt "10208_Employee"
+msgid "Thank you for your patronage. Oh! Do you like sake, sir?"
+msgstr ""
+
+msgctxt "10220_Player"
+msgid "Huh? Yeah, I do. It's got great mouthfeel－plus, it goes well with sushi."
+msgstr ""
+
+msgctxt "10232_Employee"
+msgid ""
+"I completely agree, but have you heard of the most recent sake trend? "
+"Nowadays, sweet sake is all the rage."
+msgstr ""
+
+msgctxt "10244_Player"
+msgid "Huh. Why do you think that is?"
+msgstr ""
+
+msgctxt "10256_Employee"
+msgid ""
+"Traditionally, sake has more of a dry flavor, but recently, companies have "
+"started coming out with fruitier, more refreshing sake."
+msgstr ""
+
+msgctxt "10268_Employee"
+msgid ""
+"It doesn't have too much alcohol in it－plus, you can cook with it! Makes "
+"sense why it's getting to be big, even with girls who usually can't handle "
+"something as strong as sake."
+msgstr ""
+
+msgctxt "10280_Employee"
+msgid ""
+"Before, people might've said that cocktails were the trendiest thing you "
+"could order at the bar, but nowadays, it's hip to order a small cup of sake "
+"instead."
+msgstr ""
+
+msgctxt "10292_Player"
+msgid ""
+"(Sweet sake growing popular, especially with women... I bet the girls at "
+"the club would love to hear about it.)"
+msgstr ""
+
+msgctxt "10328_Employee"
+msgid "Use"
+msgstr ""
+
+msgctxt "10340_Employee"
+msgid "Don't Use"
+msgstr ""
+
+msgctxt "10352_Employee"
+msgid "Use"
+msgstr ""
+
+msgctxt "10364_Employee"
+msgid "Don't Use"
+msgstr ""
+
+msgctxt "10376_Employee"
+msgid "Use"
+msgstr ""
+
+msgctxt "10388_Employee"
+msgid "Don't Use"
+msgstr ""
+
+msgctxt "10400_Employee"
+msgid "Use"
+msgstr ""
+
+msgctxt "10412_Employee"
+msgid "Don't Use"
+msgstr ""
+
+msgctxt "10424_Employee"
+msgid "Use"
+msgstr ""
+
+msgctxt "10436_Employee"
+msgid "Don't Use"
+msgstr ""
+
+msgctxt "10448_Employee"
+msgid "Use"
+msgstr ""
+
+msgctxt "10460_Employee"
+msgid "Don't Use"
+msgstr ""
+
+msgctxt "10472_Employee"
+msgid "Use"
+msgstr ""
+
+msgctxt "10484_Employee"
+msgid "Don't Use"
+msgstr ""
+
+msgctxt "10496_Employee"
+msgid "Use"
+msgstr ""
+
+msgctxt "10508_Employee"
+msgid "Don't Use"
+msgstr ""
+
+msgctxt "10520_Employee"
+msgid "Use"
+msgstr ""
+
+msgctxt "10532_Employee"
+msgid "Don't Use"
+msgstr ""
+
+msgctxt "10544_Employee"
+msgid "Use"
+msgstr ""
+
+msgctxt "10556_Employee"
+msgid "Don't Use"
+msgstr ""
+
+msgctxt "10568_Employee"
+msgid "Use"
+msgstr ""
+
+msgctxt "10580_Employee"
+msgid "Don't Use"
+msgstr ""
+
+msgctxt "10592_Employee"
+msgid "Eat Here"
+msgstr ""
+
+msgctxt "10604_Employee"
+msgid "Order Kappamaki"
+msgstr ""
+
+msgctxt "10616_Employee"
+msgid "Use"
+msgstr ""
+
+msgctxt "10628_Employee"
+msgid "Don't Use"
+msgstr ""
+
+msgctxt "10640_Employee"
+msgid "Eat Here"
+msgstr ""
+
+msgctxt "10652_Employee"
+msgid "Order Kappamaki"
+msgstr ""
+
+msgctxt "10664_Employee"
+msgid "Use"
+msgstr ""
+
+msgctxt "10676_Employee"
+msgid "Don't Use"
+msgstr ""
+
+msgctxt "10688_Employee"
+msgid "Use"
+msgstr ""
+
+msgctxt "10700_Employee"
+msgid "Don't Use"
+msgstr ""
+
+msgctxt "10712_Employee"
+msgid "Use"
+msgstr ""
+
+msgctxt "10724_Employee"
+msgid "Don't Use"
+msgstr ""

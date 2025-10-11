@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "6292"
+msgid "Ajikawa"
+msgstr ""
+
+msgctxt "6296"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "6300"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6304"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "6308"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6312"
+msgid "SetM_nml_sitcnt_phone"
+msgstr ""
+
+msgctxt "280_Ajikawa"
+msgid "Akiyama-san! You got that stock and topping info for me yet?"
+msgstr ""
+
+msgctxt "292_Akiyama"
+msgid "Sure, I'm ready."
+msgstr ""
+
+msgctxt "304_Ajikawa"
+msgid ""
+"First, please tell me what your favorite ramen shop is\r\n"
+"called."
+msgstr ""
+
+msgctxt "316_Akiyama"
+msgid "It's \"Konjo No. 1 Star,\" in Pink Alley."
+msgstr ""
+
+msgctxt "328_Akiyama"
+msgid "It's \"Hakata No. 1 Star,\" in Pink Alley."
+msgstr ""
+
+msgctxt "340_Akiyama"
+msgid "It's \"Kyushu No. 1 Star,\" in Pink Alley."
+msgstr ""
+
+msgctxt "352_Ajikawa"
+msgid ""
+"It sounds like a real hidden gem. And what can you tell me\r\n"
+"about the stock they use?"
+msgstr ""
+
+msgctxt "364_Akiyama"
+msgid "It's a simple bonito stock."
+msgstr ""
+
+msgctxt "376_Akiyama"
+msgid "It's chicken stock from an ancient Chinese recipe."
+msgstr ""
+
+msgctxt "388_Akiyama"
+msgid "It's a rich, authentic pork bone stock. Aka tonkotsu."
+msgstr ""
+
+msgctxt "400_Ajikawa"
+msgid ""
+"They must be very particular about their soup! Now, what\r\n"
+"sort of distinctive toppings might they offer?"
+msgstr ""
+
+msgctxt "412_Akiyama"
+msgid "They have Tokyo-style littleneck clams."
+msgstr ""
+
+msgctxt "424_Akiyama"
+msgid "They have braised pork from Okinawa."
+msgstr ""
+
+msgctxt "436_Akiyama"
+msgid "They have cod roe straight from Kyushu."
+msgstr ""
+
+msgctxt "448_Ajikawa"
+msgid ""
+"Oh, how wonderful! I'm definitely going to have to try it\r\n"
+"for myself!"
+msgstr ""
+
+msgctxt "460_Ajikawa"
+msgid ""
+"You've really piqued my interest. I think I'll head over\r\n"
+"there right now."
+msgstr ""
+
+msgctxt "472_Akiyama"
+msgid "I hope you like it."
+msgstr ""
+
+msgctxt "484_Ajikawa"
+msgid ""
+"When it comes to food, I trust your intuition! Oh, and about\r\n"
+"your compensation... Think it can it wait till I get back\r\n"
+"from the ramen shop?"
+msgstr ""
+
+msgctxt "496_Akiyama"
+msgid "Sure, I don't mind. You want to meet here again?"
+msgstr ""
+
+msgctxt "508_Ajikawa"
+msgid ""
+"Yes. Thank you very much! I have visions of ramen dancing\r\n"
+"in my head already... I'll meet you here later!"
+msgstr ""
+
+msgctxt "568_Akiyama"
+msgid ""
+"Uh... My memory's pretty foggy. Let me check again, and I'll\r\n"
+"be right back."
+msgstr ""
+
+msgctxt "580_Ajikawa"
+msgid ""
+"Oh, okay. I really am sorry to be putting you through all\r\n"
+"this. Thank you for your help."
+msgstr ""
+
+msgctxt "628_Ajikawa"
+msgid "Tell Him"
+msgstr ""
+
+msgctxt "640_Ajikawa"
+msgid "Double-check It First"
+msgstr ""
+
+msgctxt "652_Ajikawa"
+msgid "\"Konjo No. 1 Star,\" in Pink Alley"
+msgstr ""
+
+msgctxt "664_Ajikawa"
+msgid "\"Hakata No. 1 Star,\" in Pink Alley"
+msgstr ""
+
+msgctxt "676_Ajikawa"
+msgid "\"Kyushu No. 1 Star,\" in Pink Alley"
+msgstr ""
+
+msgctxt "688_Ajikawa"
+msgid "It's a simple bonito stock."
+msgstr ""
+
+msgctxt "700_Ajikawa"
+msgid "It's a rich, authentic pork bone stock."
+msgstr ""
+
+msgctxt "712_Ajikawa"
+msgid "It's chicken stock from an ancient Chinese recipe."
+msgstr ""
+
+msgctxt "724_Ajikawa"
+msgid "Tokyo-style littleneck clams."
+msgstr ""
+
+msgctxt "736_Ajikawa"
+msgid "Spicy roe imported straight from Kyushu."
+msgstr ""
+
+msgctxt "748_Ajikawa"
+msgid "Braised pork from Okinawa."
+msgstr ""

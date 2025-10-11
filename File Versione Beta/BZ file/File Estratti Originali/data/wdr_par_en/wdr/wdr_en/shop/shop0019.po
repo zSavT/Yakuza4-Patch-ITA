@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "252"
+msgid "Quit"
+msgstr ""
+
+msgctxt "257"
+msgid "Cancel the order."
+msgstr ""
+
+msgctxt "275"
+msgid "Order"
+msgstr ""
+
+msgctxt "281"
+msgid "Order the currently selected item.  "
+msgstr ""
+
+msgctxt "318"
+msgid "(I haven't picked anything.)  "
+msgstr ""
+
+msgctxt "349"
+msgid "(I'm short on cash.)  "
+msgstr ""
+
+msgctxt "372"
+msgid "Hey, thanks! That'll be %s."
+msgstr ""
+
+msgctxt "400"
+msgid "(I can't carry any more stuff.)"
+msgstr ""
+
+msgctxt "432"
+msgid "(They're sold out.)"
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"A popular after work drink. It charges up your health\n"
+"and Heat a little."
+msgstr ""
+
+msgctxt "525"
+msgid ""
+"One of our most popular products. It'll charge up your\n"
+"Heat a bit."
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"You like that black umbrella? You could probably use\n"
+"it for a weapon. Hell, my pops was a beast with one."
+msgstr ""
+
+msgctxt "698"
+msgid ""
+"This smells so bad, it might save your ass in a fight. \n"
+"Just leave it behind when you go to the club!"
+msgstr ""

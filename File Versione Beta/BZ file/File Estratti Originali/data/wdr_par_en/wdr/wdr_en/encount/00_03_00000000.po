@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1372"
+msgid "Man"
+msgstr ""
+
+msgctxt "1376"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1380"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1384"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1388"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1392"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "88_Man"
+msgid "Hey, hold up there, asshole!"
+msgstr ""
+
+msgctxt "100_Man"
+msgid ""
+"Think ya can ignore me and walk away!? Ya better bow yer fuckin' head when "
+"ya see me, or yer gonna get fucked up!"
+msgstr ""
+
+msgctxt "124_Man"
+msgid "Aaaaagh! Sorry! No more...!"
+msgstr ""
+
+msgctxt "136_Man"
+msgid ""
+"I get it now. I'm the one that's gotta bow their head... Lemme off the hook "
+"with this, won't ya...?"
+msgstr ""
+
+msgctxt "148_Man"
+msgid "You got a respectful %s and a respectful bow."
+msgstr ""
+
+msgctxt "184_Man"
+msgid "No more...!"
+msgstr ""

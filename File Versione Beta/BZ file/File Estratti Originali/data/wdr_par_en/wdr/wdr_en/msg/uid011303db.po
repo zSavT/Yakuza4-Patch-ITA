@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "14784"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "14788"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "14792"
+msgid "Ochiai"
+msgstr ""
+
+msgctxt "14796"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "14800"
+msgid "Sodachi"
+msgstr ""
+
+msgctxt "14804"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "14808"
+msgid "P_sae_stand"
+msgstr ""
+
+msgctxt "14812"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "14816"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "14820"
+msgid "Fukushi's Father"
+msgstr ""
+
+msgctxt "14824"
+msgid "ToG_shadow"
+msgstr ""
+
+msgctxt "14828"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "14832"
+msgid "Talk_Phone_ed"
+msgstr ""
+
+msgctxt "14836"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "14840"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "14844"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14848"
+msgid "dummy"
+msgstr ""
+
+msgctxt "14852"
+msgid "0"
+msgstr ""
+
+msgctxt "164_Saejima"
+msgid ""
+"Seems like you've still got a bit o' fuel left in yer tank. We're "
+"practicin' a bit more today."
+msgstr ""
+
+msgctxt "176_Ochiai"
+msgid ""
+"What? Uh, no. That's enough for today. And anyway, I'm starting to get "
+"sleepy."
+msgstr ""
+
+msgctxt "188_Sodachi"
+msgid "Oh, no you don't! You know what they say, perseverance leads to success!"
+msgstr ""
+
+msgctxt "200_Sodachi"
+msgid "You're never going to become a champion with an attitude like that!"
+msgstr ""
+
+msgctxt "212_Ochiai"
+msgid "Oh, shut up. I don't take orders from weaklings like you."
+msgstr ""
+
+msgctxt "224_Ochiai"
+msgid "I'm going to sleep, and that's that. Seeya, old man."
+msgstr ""
+
+msgctxt "236_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "260_Sodachi"
+msgid "Hm? Is that a cell phone ringing?"
+msgstr ""
+
+msgctxt "272_Ochiai"
+msgid "Oh, it's mine! Ugh..."
+msgstr ""
+
+msgctxt "284_Sodachi"
+msgid "What is it?"
+msgstr ""
+
+msgctxt "296_Ochiai"
+msgid "Shit. It's my dad..."
+msgstr ""
+
+msgctxt "308_Saejima"
+msgid "Dad?"
+msgstr ""
+
+msgctxt "344_Ochiai"
+msgid "Hello? How's it going? Okay... Hm... Yeah... Okay..."
+msgstr ""
+
+msgctxt "356_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "368_Ochiai"
+msgid ""
+"Right now? I'm training at the dojo. And really hard too! You'd be "
+"impressed!"
+msgstr ""
+
+msgctxt "380_Ochiai"
+msgid ""
+"No, I'm serious. I'm not sleeping! I promise! I've been training without "
+"breaks! Boy, am I tired!"
+msgstr ""
+
+msgctxt "392_Ochiai"
+msgid "Huh? That sounds suspicious? You want to talk to my teacher?"
+msgstr ""
+
+msgctxt "404_Ochiai"
+msgid "Okay... Hold on..."
+msgstr ""
+
+msgctxt "464_Ochiai"
+msgid ""
+"You're going to have to talk to my dad. And don't think about saying "
+"anything funny, got it?"
+msgstr ""
+
+msgctxt "476_Ochiai"
+msgid "Tell him I'm an excellent and talented student!"
+msgstr ""
+
+msgctxt "548_Saejima"
+msgid "Hello. The name's Saejima. I handle all o' the teachin' at this dojo."
+msgstr ""
+
+msgctxt "560_Fukushi's Father"
+msgid "Oh, you work at the dojo?"
+msgstr ""
+
+msgctxt "572_Fukushi's Father"
+msgid "I'm Fukushi Ochiai's father. Thank you for looking after him."
+msgstr ""
+
+msgctxt "584_Fukushi's Father"
+msgid "I just wanted to ask... Is he causing you any trouble?"
+msgstr ""
+
+msgctxt "596_Fukushi's Father"
+msgid ""
+"I'm a little bit worried. He tends to... march to the beat of his own drum, "
+"if you know what I mean."
+msgstr ""
+
+msgctxt "608_Saejima"
+msgid "Well, now that ya mention it..."
+msgstr ""
+
+msgctxt "620_Ochiai"
+msgid "Aaaaaaargh!"
+msgstr ""
+
+msgctxt "632_Ochiai"
+msgid "Raaa! Aaah! This training is really kicking my butt today!"
+msgstr ""
+
+msgctxt "644_Ochiai"
+msgid "But I have to keep on working! Aaaaaargh! Haaa!"
+msgstr ""
+
+msgctxt "656_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "668_Fukushi's Father"
+msgid "Is my son taking his training seriously?"
+msgstr ""
+
+msgctxt "680_Saejima"
+msgid "To be honest, he ain't serious at all. But he's got potential."
+msgstr ""
+
+msgctxt "692_Fukushi's Father"
+msgid "I see. I'm sorry, but do you think that you could put Fukushi back on?"
+msgstr ""
+
+msgctxt "704_Saejima"
+msgid "Uh... Right..."
+msgstr ""
+
+msgctxt "716_Ochiai"
+msgid "Fuckin' bastard... You're going to regret that!"
+msgstr ""
+
+msgctxt "752_Ochiai"
+msgid "Hello, Dad? Oh, that guy? Yeah, he just likes to joke around."
+msgstr ""
+
+msgctxt "764_Ochiai"
+msgid "That was just a lie, you know. I'm working really hard. Yep... you bet."
+msgstr ""
+
+msgctxt "812_Ochiai"
+msgid ""
+"Why didn't you listen to me!? I had to listen to him lecture me for like an "
+"hour after that! Give me a fuckin' break already!"
+msgstr ""
+
+msgctxt "824_Saejima"
+msgid "(Serves 'im right. But now our relationship's turned for the worse.)"
+msgstr ""
+
+msgctxt "848_Saejima"
+msgid "He's been trainin' hard. Ya ain't got a reason to worry."
+msgstr ""
+
+msgctxt "860_Fukushi's Father"
+msgid "Really? That's a big relief to hear. Tell him to keep up the hard work."
+msgstr ""
+
+msgctxt "872_Fukushi's Father"
+msgid "Thank you, Saejima-san."
+msgstr ""
+
+msgctxt "944_Saejima"
+msgid "There. Is that what ya wanted?"
+msgstr ""
+
+msgctxt "956_Ochiai"
+msgid ""
+"Thanks, old man! You were perfect! You ever consider being an actor? What a "
+"convincing performance. My trust in you has grown. Slightly."
+msgstr ""
+
+msgctxt "968_Ochiai"
+msgid "Well, I'm going to sleep. Night, old man!"
+msgstr ""
+
+msgctxt "980_Saejima"
+msgid "(Well, at least he trusts me more now...)"
+msgstr ""
+
+msgctxt "1004_Saejima"
+msgid ""
+"He's a phenomenon! One-in-a-million! He's the model apprentice－always "
+"workin' hard, and always aspirin' to be better."
+msgstr ""
+
+msgctxt "1016_Fukushi's Father"
+msgid "Really... Did Fukushi tell you to say that?"
+msgstr ""
+
+msgctxt "1028_Saejima"
+msgid "That's not..."
+msgstr ""
+
+msgctxt "1040_Fukushi's Father"
+msgid "Sorry to have caused you trouble. Please give the phone back to Fukushi."
+msgstr ""
+
+msgctxt "1052_Saejima"
+msgid "Uh... Right..."
+msgstr ""
+
+msgctxt "1064_Ochiai"
+msgid ""
+"Come on! What the hell are you doing!? You didn't have to take it that far! "
+"Make it sound at least a little realistic!"
+msgstr ""
+
+msgctxt "1100_Ochiai"
+msgid ""
+"Dad? Yeah... No, I wouldn't do such a thing. I'm training really hard, you "
+"know... Yeah..."
+msgstr ""
+
+msgctxt "1148_Ochiai"
+msgid ""
+"I was stupid to trust you! That was such a lame attempt! You're a terrible "
+"actor! Absolute crap! Idiot!"
+msgstr ""
+
+msgctxt "1160_Saejima"
+msgid "(Fuckin' kid.)"
+msgstr ""
+
+msgctxt "1256_Saejima"
+msgid "He ain't serious at all."
+msgstr ""
+
+msgctxt "1268_Saejima"
+msgid "He's been trainin' seriously."
+msgstr ""
+
+msgctxt "1280_Saejima"
+msgid "He's one-in-a-million."
+msgstr ""

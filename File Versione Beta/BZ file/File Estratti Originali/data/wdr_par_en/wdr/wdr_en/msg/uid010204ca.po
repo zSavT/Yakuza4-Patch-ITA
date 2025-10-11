@@ -1,0 +1,354 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "8560"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "8564"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "8568"
+msgid "Katsuragi"
+msgstr ""
+
+msgctxt "8572"
+msgid "adv_p3c2_030/katsuragi_0042"
+msgstr ""
+
+msgctxt "8576"
+msgid "adv_p3c2_030/tanimura_0117"
+msgstr ""
+
+msgctxt "8580"
+msgid "adv_p3c2_030/katsuragi_0043"
+msgstr ""
+
+msgctxt "8584"
+msgid "adv_p3c2_030/tanimura_0118"
+msgstr ""
+
+msgctxt "8588"
+msgid "adv_p3c2_030/tanimura_0119"
+msgstr ""
+
+msgctxt "8592"
+msgid "adv_p3c2_030/katsuragi_0045"
+msgstr ""
+
+msgctxt "8596"
+msgid "adv_p3c2_030/tanimura_0120"
+msgstr ""
+
+msgctxt "8600"
+msgid "Talk_Phone_yes"
+msgstr ""
+
+msgctxt "8604"
+msgid "adv_p3c2_030/tanimura_0121"
+msgstr ""
+
+msgctxt "8608"
+msgid "adv_p3c2_030/tanimura_0122"
+msgstr ""
+
+msgctxt "8612"
+msgid "adv_p3c2_030/katsuragi_0047"
+msgstr ""
+
+msgctxt "8616"
+msgid "adv_p3c2_030/tanimura_0123"
+msgstr ""
+
+msgctxt "8620"
+msgid "adv_p3c2_030/katsuragi_0048"
+msgstr ""
+
+msgctxt "8624"
+msgid "adv_p3c2_030/tanimura_0124"
+msgstr ""
+
+msgctxt "8628"
+msgid "adv_p3c2_030/tanimura_0125"
+msgstr ""
+
+msgctxt "8632"
+msgid "adv_p3c2_030/katsuragi_0049"
+msgstr ""
+
+msgctxt "8636"
+msgid "adv_p3c2_030/tanimura_0126"
+msgstr ""
+
+msgctxt "8640"
+msgid "adv_p3c2_030/katsuragi_0050"
+msgstr ""
+
+msgctxt "8644"
+msgid "adv_p3c2_030/katsuragi_0051"
+msgstr ""
+
+msgctxt "8648"
+msgid "adv_p3c2_030/katsuragi_0052"
+msgstr ""
+
+msgctxt "8652"
+msgid "adv_p3c2_030/tanimura_0127"
+msgstr ""
+
+msgctxt "8656"
+msgid "adv_p3c2_030/katsuragi_0053"
+msgstr ""
+
+msgctxt "8660"
+msgid "adv_p3c2_030/tanimura_0128"
+msgstr ""
+
+msgctxt "8664"
+msgid "adv_p3c2_030/tanimura_0129"
+msgstr ""
+
+msgctxt "8668"
+msgid "adv_p3c2_030/tanimura_0130"
+msgstr ""
+
+msgctxt "8672"
+msgid "adv_p3c2_030/katsuragi_0055"
+msgstr ""
+
+msgctxt "8676"
+msgid "adv_p3c2_030/katsuragi_0056"
+msgstr ""
+
+msgctxt "8680"
+msgid "adv_p3c2_030/tanimura_0131"
+msgstr ""
+
+msgctxt "8684"
+msgid "adv_p3c2_030/katsuragi_0057"
+msgstr ""
+
+msgctxt "8688"
+msgid "adv_p3c2_030/tanimura_0132"
+msgstr ""
+
+msgctxt "8692"
+msgid "adv_p3c2_030/katsuragi_0058"
+msgstr ""
+
+msgctxt "8696"
+msgid "adv_p3c2_030/katsuragi_0059"
+msgstr ""
+
+msgctxt "8700"
+msgid "adv_p3c2_030/katsuragi_0060"
+msgstr ""
+
+msgctxt "8704"
+msgid "adv_p3c2_030/katsuragi_0060b"
+msgstr ""
+
+msgctxt "8708"
+msgid "adv_p3c2_030/tanimura_0134"
+msgstr ""
+
+msgctxt "8712"
+msgid "adv_p3c2_030/katsuragi_0061"
+msgstr ""
+
+msgctxt "8716"
+msgid "Talk_Phone_ed"
+msgstr ""
+
+msgctxt "8720"
+msgid "dummy"
+msgstr ""
+
+msgctxt "72_Tanimura"
+msgid ""
+"(I'm meeting Katsuragi tomorrow at 5:00 PM. I think I'll go rest at "
+"<Color:7>Homeland<Color:Default> till then.)"
+msgstr ""
+
+msgctxt "132_Katsuragi"
+msgid "Tanimura-san, one of Kamurocho's finest. To what do I owe the honor?"
+msgstr ""
+
+msgctxt "144_Tanimura"
+msgid "I have a deal for you."
+msgstr ""
+
+msgctxt "156_Katsuragi"
+msgid "Do you now..."
+msgstr ""
+
+msgctxt "168_Tanimura"
+msgid "Yeah. I've got Yasuko Saejima in my custody."
+msgstr ""
+
+msgctxt "180_Katsuragi"
+msgid "......"
+msgstr ""
+
+msgctxt "192_Tanimura"
+msgid ""
+"I haven't called it in yet, either. Making me the only one who knows her "
+"whereabouts."
+msgstr ""
+
+msgctxt "204_Katsuragi"
+msgid "I see."
+msgstr ""
+
+msgctxt "216_Tanimura"
+msgid ""
+"I know some interesting things about you. For instance, how you ordered "
+"Yasuko to murder Shibata Family men."
+msgstr ""
+
+msgctxt "228_Tanimura"
+msgid "Classy way to cover up a mass shooting, I know."
+msgstr ""
+
+msgctxt "240_Katsuragi"
+msgid "......"
+msgstr ""
+
+msgctxt "252_Tanimura"
+msgid "And if I'm not mistaken, you still need Yasuko around. Don't you?"
+msgstr ""
+
+msgctxt "264_Katsuragi"
+msgid "What is it you want in return?"
+msgstr ""
+
+msgctxt "276_Tanimura"
+msgid ""
+"I want the truth about the Ueno Seiwa hit. Specifically, Taigi Tanimura, "
+"the lead detective on the case. Why did he have to die?"
+msgstr ""
+
+msgctxt "288_Katsuragi"
+msgid "Could it be... I'm speaking to his son right now?"
+msgstr ""
+
+msgctxt "300_Tanimura"
+msgid "Look, if you give me the information I want, Yasuko's all yours."
+msgstr ""
+
+msgctxt "312_Tanimura"
+msgid "So what'll it be? I imagine it's tough keeping a secret for 25 years."
+msgstr ""
+
+msgctxt "336_Katsuragi"
+msgid "Fine, under one condition."
+msgstr ""
+
+msgctxt "348_Tanimura"
+msgid "Name it."
+msgstr ""
+
+msgctxt "360_Katsuragi"
+msgid ""
+"Unfortunately for you, I'm not the kind of man who goes sharing his heart "
+"with a stranger."
+msgstr ""
+
+msgctxt "372_Katsuragi"
+msgid "And there's no way I can confirm you have Yasuko in custody over the phone."
+msgstr ""
+
+msgctxt "384_Katsuragi"
+msgid "So I would need solid proof you're connected to her."
+msgstr ""
+
+msgctxt "396_Tanimura"
+msgid "All right. How about I bring the 100 million? Would that convince you?"
+msgstr ""
+
+msgctxt "408_Katsuragi"
+msgid "Beg your pardon?"
+msgstr ""
+
+msgctxt "420_Tanimura"
+msgid "The money you told Yasuko-san to give you. I have it all with me right now."
+msgstr ""
+
+msgctxt "432_Katsuragi"
+msgid "......"
+msgstr ""
+
+msgctxt "444_Tanimura"
+msgid ""
+"She managed to come up with it herself. It's yours if you make good on the "
+"deal."
+msgstr ""
+
+msgctxt "456_Tanimura"
+msgid "You can even have someone confirm it's all there. How's that sound?"
+msgstr ""
+
+msgctxt "468_Katsuragi"
+msgid ""
+"Hmm... I doubt a street cop like you could get that kind of money to run a "
+"sting."
+msgstr ""
+
+msgctxt "480_Katsuragi"
+msgid "All right then. Pick a date."
+msgstr ""
+
+msgctxt "492_Tanimura"
+msgid "How about tomorrow?"
+msgstr ""
+
+msgctxt "504_Katsuragi"
+msgid "Not a problem. The place?"
+msgstr ""
+
+msgctxt "516_Tanimura"
+msgid "Kamurocho. 5:00 PM in front of the Millennium Tower."
+msgstr ""
+
+msgctxt "528_Katsuragi"
+msgid "Heheh. I see you thought this through."
+msgstr ""
+
+msgctxt "540_Katsuragi"
+msgid ""
+"No danger of being attacked in public, at a place and time with high foot "
+"traffic."
+msgstr ""
+
+msgctxt "552_Tanimura"
+msgid "......"
+msgstr ""
+
+msgctxt "564_Katsuragi"
+msgid "Very well. 5:00 PM in front of the Millennium Tower it is."
+msgstr ""
+
+msgctxt "576_Katsuragi"
+msgid ""
+"One of my men will confirm that 100 million. You mentioned that won't be a "
+"problem?"
+msgstr ""
+
+msgctxt "588_Tanimura"
+msgid "Not at all."
+msgstr ""
+
+msgctxt "600_Katsuragi"
+msgid "Tomorrow, then."
+msgstr ""

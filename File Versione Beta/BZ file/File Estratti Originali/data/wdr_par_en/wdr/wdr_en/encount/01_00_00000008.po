@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1216"
+msgid "Man"
+msgstr ""
+
+msgctxt "1220"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1224"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1228"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid "You! I know you ain't from around here!"
+msgstr ""
+
+msgctxt "128_Man"
+msgid "Think you can just walk around on my turf!?"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "How'd the hell you get so strong?"
+msgstr ""
+
+msgctxt "164_Man"
+msgid "Fine! Take this and fuck off already!"
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a metallic %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "Just who are you, anyway?"
+msgstr ""

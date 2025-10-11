@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1404"
+msgid "Man"
+msgstr ""
+
+msgctxt "1408"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1412"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "1416"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1420"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid ""
+"Yo, you the guy that took my girl!? Ya look real similar to the guy my "
+"buddy was tellin' me about."
+msgstr ""
+
+msgctxt "128_Man"
+msgid "I ain't taking excuses! I'll be messin' up that lady-stealin' face, dingus!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "My bad... I mistook ya for someone else..."
+msgstr ""
+
+msgctxt "164_Man"
+msgid "Here's somethin' as an apology. Please take it."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a suspicious %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "Where's this guy that took my girl..."
+msgstr ""

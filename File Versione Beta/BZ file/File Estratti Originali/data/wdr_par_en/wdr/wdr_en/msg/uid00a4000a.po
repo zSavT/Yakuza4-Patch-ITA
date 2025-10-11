@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "3976"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "3980"
+msgid "Femme Fatale"
+msgstr ""
+
+msgctxt "3984"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3988"
+msgid "Suited Goon"
+msgstr ""
+
+msgctxt "3992"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "3996"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "4000"
+msgid "Suited Henchman"
+msgstr ""
+
+msgctxt "4004"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "112_Saejima"
+msgid "For a buncha men in suits, this don't look too gentlemanly."
+msgstr ""
+
+msgctxt "124_Femme Fatale"
+msgid "Please, help me!"
+msgstr ""
+
+msgctxt "184_Suited Goon"
+msgid "Not so fast."
+msgstr ""
+
+msgctxt "208_Suited Goon"
+msgid "You? I thought I told you to get lost!"
+msgstr ""
+
+msgctxt "220_Saejima"
+msgid "It's clear as a kappa you're up to some shady shit..."
+msgstr ""
+
+msgctxt "232_Suited Goon"
+msgid "Which isn't your problem, so beat it already!"
+msgstr ""
+
+msgctxt "244_Saejima"
+msgid ""
+"When someone asks me for help, it becomes my problem.\r\n"
+"'Specially when they're surrounded by a buncha suits."
+msgstr ""
+
+msgctxt "256_Suited Goon"
+msgid "Great, we've got us a wannabe hero..."
+msgstr ""
+
+msgctxt "268_Suited Henchman"
+msgid ""
+"Look, this is one damsel in distress you don't wanna save.\r\n"
+"Meddle in our business and there will be real consequences."
+msgstr ""
+
+msgctxt "280_Saejima"
+msgid "That a threat?"
+msgstr ""
+
+msgctxt "292_Suited Henchman"
+msgid ""
+"No, it's a promise. Playing hero for some woman you've never even met will "
+"get you killed."
+msgstr ""
+
+msgctxt "304_Saejima"
+msgid "......"
+msgstr ""
+
+msgctxt "316_Suited Goon"
+msgid "Hey, dumbass! Hello in there!"
+msgstr ""
+
+msgctxt "328_Suited Henchman"
+msgid "I guess you're ignoring my warning."
+msgstr ""
+
+msgctxt "340_Saejima"
+msgid "Guess I am."
+msgstr ""
+
+msgctxt "352_Suited Henchman"
+msgid "Then you've painted us into a corner. Try not to get your blood on my suit!"
+msgstr ""

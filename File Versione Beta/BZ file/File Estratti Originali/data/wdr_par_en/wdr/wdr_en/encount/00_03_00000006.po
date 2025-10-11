@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1452"
+msgid "Man"
+msgstr ""
+
+msgctxt "1456"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1460"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "1464"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1468"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1472"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "88_Man"
+msgid ""
+"Hold on, man. When you bumped into me just now, you snatched my wallet, "
+"didn't you?"
+msgstr ""
+
+msgctxt "100_Man"
+msgid "Give it back, or I'll beat the stuffing outta you!"
+msgstr ""
+
+msgctxt "124_Man"
+msgid ""
+"I give up! It was all a lie! I never had a wallet in the first place! I was "
+"fibbing about you swiping it!"
+msgstr ""
+
+msgctxt "136_Man"
+msgid "Here. Take this and forget this ever happened..."
+msgstr ""
+
+msgctxt "148_Man"
+msgid "You got a forgotten %s."
+msgstr ""
+
+msgctxt "184_Man"
+msgid "I'll never try to pull that cheap scam again!"
+msgstr ""

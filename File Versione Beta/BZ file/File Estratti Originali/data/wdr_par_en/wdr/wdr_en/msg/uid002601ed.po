@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2328"
+msgid "Injured Man"
+msgstr ""
+
+msgctxt "2332"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2336"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2340"
+msgid "Talk_Hirou_st"
+msgstr ""
+
+msgctxt "2344"
+msgid "Talk_Hirou_ed"
+msgstr ""
+
+msgctxt "2348"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "2352"
+msgid "Talk_Phone_ed"
+msgstr ""
+
+msgctxt "2356"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "84_Injured Man"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "96_Kiryu"
+msgid "Hey, you all right?"
+msgstr ""
+
+msgctxt "108_Injured Man"
+msgid "Help..."
+msgstr ""
+
+msgctxt "120_Kiryu"
+msgid "You're beat up pretty bad. What happened to you?"
+msgstr ""
+
+msgctxt "132_Injured Man"
+msgid "......"
+msgstr ""
+
+msgctxt "144_Kiryu"
+msgid "What's the matter? Is it something you can't talk about?"
+msgstr ""
+
+msgctxt "156_Injured Man"
+msgid "......"
+msgstr ""
+
+msgctxt "168_Kiryu"
+msgid ""
+"All right, have it your way. I'll call an ambulance, and you can deal with "
+"the rest."
+msgstr ""
+
+msgctxt "192_Kiryu"
+msgid "I should let the police know, too."
+msgstr ""
+
+msgctxt "204_Injured Man"
+msgid "No!"
+msgstr ""
+
+msgctxt "216_Kiryu"
+msgid "Huh?"
+msgstr ""
+
+msgctxt "228_Injured Man"
+msgid "No police!"
+msgstr ""
+
+msgctxt "240_Kiryu"
+msgid "I see... This smells like trouble."
+msgstr ""
+
+msgctxt "252_Injured Man"
+msgid "......"
+msgstr ""
+
+msgctxt "264_Kiryu"
+msgid ""
+"(Guess I can bring him to Emoto Medical Clinic. Maybe Doc Emoto can help "
+"him there.)"
+msgstr ""

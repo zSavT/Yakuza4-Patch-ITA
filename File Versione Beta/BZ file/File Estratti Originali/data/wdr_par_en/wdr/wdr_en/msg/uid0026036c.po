@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "7344"
+msgid "Whiny Man"
+msgstr ""
+
+msgctxt "7348"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "7352"
+msgid "Calming Woman"
+msgstr ""
+
+msgctxt "7356"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7360"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "7364"
+msgid "Talk_CryBig_st"
+msgstr ""
+
+msgctxt "7368"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "7372"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "7376"
+msgid "Talk_CryBig_ed"
+msgstr ""
+
+msgctxt "7380"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "7384"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7388"
+msgid "Minamizawa"
+msgstr ""
+
+msgctxt "7392"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "7396"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "7400"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "7404"
+msgid "Ashibe"
+msgstr ""
+
+msgctxt "7408"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "7412"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "7416"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "7420"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "7424"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "7428"
+msgid "dummy"
+msgstr ""
+
+msgctxt "7432"
+msgid "0"
+msgstr ""
+
+msgctxt "56_Whiny Man"
+msgid "Forget it! Those girls hate my guts!"
+msgstr ""
+
+msgctxt "68_Calming Woman"
+msgid ""
+"Don't give up now... After all, you've only seen three of\r\n"
+"them."
+msgstr ""
+
+msgctxt "80_Whiny Man"
+msgid ""
+"Yeah, and each one gave me the same open-mouthed stare. My\r\n"
+"best jokes flew right over their heads!"
+msgstr ""
+
+msgctxt "92_Whiny Man"
+msgid ""
+"I'm tellin' you, it isn't workin' out! It's no use. I'll\r\n"
+"never manage an article on hostess club tips and tricks."
+msgstr ""
+
+msgctxt "104_Akiyama"
+msgid ""
+"Excuse me. I hate to interrupt, but if you're not going in,\r\n"
+"would you mind moving aside?"
+msgstr ""
+
+msgctxt "128_Calming Woman"
+msgid "Ah, sorry! We'll get out of your way."
+msgstr ""
+
+msgctxt "140_Akiyama"
+msgid ""
+"Wait, aren't you Minamizawa-san? From the Mars Fighters\r\n"
+"comedy duo? Wow! I'm a big fan of yours!"
+msgstr ""
+
+msgctxt "152_Calming Woman"
+msgid ""
+"See, Minamizawa-san? I told you you had plenty of fans in\r\n"
+"Kanto."
+msgstr ""
+
+msgctxt "164_Akiyama"
+msgid ""
+"Are you here for work? Hope it goes well. I'll be rooting\r\n"
+"for you."
+msgstr ""
+
+msgctxt "176_Minamizawa"
+msgid "Thanks a lot. I appreciate it!"
+msgstr ""
+
+msgctxt "188_Calming Woman"
+msgid ""
+"(Minamizawa-san, this is your chance! This fan of yours seems to know the "
+"nightlife around here. Maybe he can tell us about the hostess clubs.)"
+msgstr ""
+
+msgctxt "200_Minamizawa"
+msgid ""
+"(What are you talkin' about? You want me to embarrass myself in front of a "
+"fan!?)"
+msgstr ""
+
+msgctxt "212_Calming Woman"
+msgid ""
+"(Here's the thing, Minamizawa-san. Entertainers have to be responsible if "
+"they want to get hired back. Fulfilling your assignment is paramount.)"
+msgstr ""
+
+msgctxt "224_Calming Woman"
+msgid ""
+"(Keep up the spoiled-brat act, and I'll see to it you never darken the "
+"doorstep of our publishing house again.)"
+msgstr ""
+
+msgctxt "236_Minamizawa"
+msgid "All right. Okay. I'll do it."
+msgstr ""
+
+msgctxt "248_Calming Woman"
+msgid ""
+"Excuse me! Do you happen to frequent hostess clubs, if I may\r\n"
+"be so bold as to ask?"
+msgstr ""
+
+msgctxt "260_Akiyama"
+msgid "Hm? Yeah, I guess you could say that."
+msgstr ""
+
+msgctxt "272_Ashibe"
+msgid ""
+"Wonderful! Allow me to introduce myself. I am Ashibe, an\r\n"
+"editor for \"Casanova,\" a magazine for men who want to\r\n"
+"become more popular with the ladies. And, er..."
+msgstr ""
+
+msgctxt "284_Akiyama"
+msgid "Oh, I'm Akiyama."
+msgstr ""
+
+msgctxt "296_Ashibe"
+msgid ""
+"The thing is, Akiyama-san, we've commissioned a series of\r\n"
+"articles from Minamizawa-san here on some tips to use at the\r\n"
+"clubs Jewel and Shine."
+msgstr ""
+
+msgctxt "308_Ashibe"
+msgid ""
+"But it seems they do things differently out west, where\r\n"
+"Minamizawa-san is from. He's having a hard time hitting it off with these "
+"Tokyo girls."
+msgstr ""
+
+msgctxt "320_Akiyama"
+msgid "Oh, I'm sorry to hear that..."
+msgstr ""
+
+msgctxt "332_Ashibe"
+msgid ""
+"Do you think you could give Minamizawa-san a little info on\r\n"
+"some of the girls at the clubs I've mentioned?"
+msgstr ""
+
+msgctxt "344_Ashibe"
+msgid ""
+"I'll pay you for your time, of course. Come on,\r\n"
+"Minamizawa-san. Don't you have something to add?"
+msgstr ""
+
+msgctxt "356_Minamizawa"
+msgid "Please...?"
+msgstr ""
+
+msgctxt "368_Akiyama"
+msgid ""
+"Well, I guess I could tell you about a couple of my\r\n"
+"favorites..."
+msgstr ""
+
+msgctxt "380_Ashibe"
+msgid "That would be wonderful! Thank you very much!"
+msgstr ""
+
+msgctxt "392_Ashibe"
+msgid ""
+"We're working out of Cuez Bar in the Kamurocho Underground\r\n"
+"Mall. Could you stop by there when you have some info for\r\n"
+"us?"
+msgstr ""
+
+msgctxt "404_Minamizawa"
+msgid "Please, whenever you can!"
+msgstr ""
+
+msgctxt "416_Akiyama"
+msgid "Sure thing. I'll see you later, then."
+msgstr ""

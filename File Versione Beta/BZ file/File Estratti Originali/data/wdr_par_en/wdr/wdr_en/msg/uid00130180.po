@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "172"
+msgid "You got <Color:8>5,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "2212"
+msgid "Persistent Barker"
+msgstr ""
+
+msgctxt "2216"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "2220"
+msgid "Man That Can't Decline"
+msgstr ""
+
+msgctxt "2224"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2228"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "100_Persistent Barker"
+msgid "Yikes!"
+msgstr ""
+
+msgctxt "124_Tanimura"
+msgid "Those guys sure know how to run away. Oh, are you all right?"
+msgstr ""
+
+msgctxt "136_Man That Can't Decline"
+msgid ""
+"Oh, um... I'm just fine. How much do I owe you for this? I really have no "
+"idea."
+msgstr ""
+
+msgctxt "148_Tanimura"
+msgid "How much? Oh, uh... Just whatever you feel is right."
+msgstr ""
+
+msgctxt "160_Man That Can't Decline"
+msgid "How about this?"
+msgstr ""
+
+msgctxt "244_Man That Can't Decline"
+msgid "Thanks for helping me out."
+msgstr ""

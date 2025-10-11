@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "240"
+msgid "You gained 100 EXP."
+msgstr ""
+
+msgctxt "5388"
+msgid "Hirauchi"
+msgstr ""
+
+msgctxt "5392"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "5396"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "5400"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "5404"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5408"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5412"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5416"
+msgid "dummy"
+msgstr ""
+
+msgctxt "5420"
+msgid "0"
+msgstr ""
+
+msgctxt "5424"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "5428"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "5432"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5436"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "120_Hirauchi"
+msgid "The audience has left."
+msgstr ""
+
+msgctxt "132_Saejima"
+msgid "Guess I'm the one who caused a disturbance this time. Sorry 'bout that."
+msgstr ""
+
+msgctxt "144_Hirauchi"
+msgid ""
+"No, it was our fault for so readily relying on an unpaid and undocumented "
+"intern."
+msgstr ""
+
+msgctxt "156_Hirauchi"
+msgid ""
+"Numai-sensei and I will reflect on how to recover in the polls as we move "
+"forward with our campaign."
+msgstr ""
+
+msgctxt "168_Saejima"
+msgid "Alright..."
+msgstr ""
+
+msgctxt "180_Hirauchi"
+msgid "Thank you for your efforts."
+msgstr ""
+
+msgctxt "252_Hirauchi"
+msgid "(Be careful, now! Didn't I tell you to only target the troublemakers?)"
+msgstr ""
+
+msgctxt "264_Saejima"
+msgid "Yeah. Sorry."
+msgstr ""
+
+msgctxt "276_Hirauchi"
+msgid ""
+"A lot of voters were really put off, which is already hurting our approval "
+"rate. If this gets any uglier, we're done for."
+msgstr ""
+
+msgctxt "288_Hirauchi"
+msgid ""
+"Before engaging a suspect, approach carefully and listen to what they're "
+"saying first."
+msgstr ""
+
+msgctxt "300_Saejima"
+msgid "Gotcha. I'll be more careful next time."
+msgstr ""
+
+msgctxt "312_Hirauchi"
+msgid "I should hope so."
+msgstr ""
+
+msgctxt "336_Hirauchi"
+msgid "(Watch who you're throwing out! You have to be careful, you know!)"
+msgstr ""
+
+msgctxt "348_Saejima"
+msgid "Yeah. Sorry."
+msgstr ""
+
+msgctxt "360_Hirauchi"
+msgid "It's difficult to ascertain trouble from a distance."
+msgstr ""
+
+msgctxt "372_Hirauchi"
+msgid ""
+"First, approach a potential troublemaker to find out what they're saying "
+"before you call them out."
+msgstr ""
+
+msgctxt "384_Saejima"
+msgid "Gotcha. I'll be real careful."
+msgstr ""
+
+msgctxt "396_Hirauchi"
+msgid "All right, you can go back to your patrol now."
+msgstr ""
+
+msgctxt "432_Saejima"
+msgid "Quite a crowd."
+msgstr ""
+
+msgctxt "444_Hirauchi"
+msgid "Indeed. There might already be a handful of rabble-rousers in there."
+msgstr ""
+
+msgctxt "456_Hirauchi"
+msgid "I hate to ask, but could you please start patrolling the area?"
+msgstr ""
+
+msgctxt "468_Saejima"
+msgid ""
+"Sure thing. And if I find somebody tryin' to interrupt the speech, I toss "
+"'em out, yeah?"
+msgstr ""
+
+msgctxt "480_Hirauchi"
+msgid ""
+"Yes, but just because someone's speaking up doesn't always mean they're "
+"working against us."
+msgstr ""
+
+msgctxt "492_Hirauchi"
+msgid "So please observe carefully before throwing them out."
+msgstr ""
+
+msgctxt "504_Saejima"
+msgid "Don't jump the gun, ya mean. Alright."
+msgstr ""
+
+msgctxt "516_Hirauchi"
+msgid "Right. Thank you!"
+msgstr ""

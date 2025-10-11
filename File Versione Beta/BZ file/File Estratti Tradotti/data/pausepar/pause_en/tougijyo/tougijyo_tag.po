@@ -1,0 +1,645 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-04\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "784\tNAME"
+msgid "The Sanctuary"
+msgstr "Il Santuario"
+
+msgctxt "798\tNAME"
+msgid "Elite Alliance"
+msgstr "Alleanza d'Élite"
+
+msgctxt "813\tNAME"
+msgid "Traitor Rikishi"
+msgstr "Rikishi Traditore"
+
+msgctxt "829\tNAME"
+msgid "Hell's Impulse"
+msgstr "Impulso dell'Inferno"
+
+msgctxt "844\tNAME"
+msgid "The Mad Killers"
+msgstr "I Folli Assassini"
+
+msgctxt "860\tNAME"
+msgid "Love & Death"
+msgstr "Amore & Morte"
+
+msgctxt "873\tNAME"
+msgid "Dark Heroes"
+msgstr "Eroi Oscuri"
+
+msgctxt "885\tNAME"
+msgid "Hell Club"
+msgstr "Inferno Club"
+
+msgctxt "895\tNAME"
+msgid "The Entertainers"
+msgstr "Gli Intrattenitori"
+
+msgctxt "912\tNAME"
+msgid "P Celebrities"
+msgstr "Celebrità P"
+
+msgctxt "926\tNAME"
+msgid "Izaka Brothers"
+msgstr "Fratelli Izaka"
+
+msgctxt "941\tNAME"
+msgid "Masked Justice"
+msgstr "Giustizia Mascherata"
+
+msgctxt "956\tNAME"
+msgid "True Dual Fist Fighters"
+msgstr "Veri Combattenti dei Doppi Pugni"
+
+msgctxt "980\tNAME"
+msgid "The Super Express Duo"
+msgstr "Il Super Express Duo"
+
+msgctxt "1002\tNAME"
+msgid "Troublemakers"
+msgstr "Piantagrane"
+
+msgctxt "1016\tNAME"
+msgid "Indoor Defenders"
+msgstr "Difensori Interni"
+
+msgctxt "1033\tNAME"
+msgid "Kamurocho Hooligans"
+msgstr "Teppisti di Kamurocho"
+
+msgctxt "1053\tNAME"
+msgid "Yi-san and Er-san"
+msgstr "Yi-san e Er-san"
+
+msgctxt "1071\tNAME"
+msgid "Torpedo Massacre Brothers"
+msgstr "Fratelli del Massacro Siluro"
+
+msgctxt "1097\tNAME"
+msgid "Divine Wrath Alliance"
+msgstr "Alleanza dell'Ira Divina"
+
+msgctxt "1127\tCATCHPHRASE"
+msgid "The Hall of Famers"
+msgstr "I membri della Hall of Fame"
+
+msgctxt "1146\tCATCHPHRASE"
+msgid "The Chosen Ones"
+msgstr "I Prescelti"
+
+msgctxt "1162\tCATCHPHRASE"
+msgid "The Sumo Wrestlers from Hell"
+msgstr "I lottatori di sumo dall'Inferno"
+
+msgctxt "1191\tCATCHPHRASE"
+msgid "The Demons That Shake Heaven and Earth"
+msgstr "I Demoni Che Scuotono Cielo e Terra"
+
+msgctxt "1230\tCATCHPHRASE"
+msgid "Scares Kids Quiet"
+msgstr "Terrifica i bambini e li ammutolisce"
+
+msgctxt "1248\tCATCHPHRASE"
+msgid "Flowers from the Battlefield"
+msgstr "Fiori dal Campo di Battaglia"
+
+msgctxt "1277\tCATCHPHRASE"
+msgid "Heroes Dyed in Black"
+msgstr "Eroi tinti di nero"
+
+msgctxt "1298\tCATCHPHRASE"
+msgid "Hate Inc."
+msgstr "Odio S.p.A."
+
+msgctxt "1308\tCATCHPHRASE"
+msgid "The Charming Killers"
+msgstr "Gli Affascinanti Assassini"
+
+msgctxt "1329\tCATCHPHRASE"
+msgid "The Ruthless Money Mongers"
+msgstr "I Spietati Trafficanti di Soldi"
+
+msgctxt "1356\tCATCHPHRASE"
+msgid "Gold and Silver Bound by Blood"
+msgstr "Oro e Argento Legati dal Sangue"
+
+msgctxt "1387\tCATCHPHRASE"
+msgid "The Iron Fists of Justice"
+msgstr "I Pugni di Ferro della Giustizia"
+
+msgctxt "1413\tCATCHPHRASE"
+msgid "God's Karate Chop and Devil's Kick"
+msgstr "Fendente di Karate di Dio e Calcio del Diavolo"
+
+msgctxt "1448\tCATCHPHRASE"
+msgid "One-Way Ticket to Death"
+msgstr "Biglietto di sola andata per la Morte"
+
+msgctxt "1472\tCATCHPHRASE"
+msgid "Bad Meets Worse"
+msgstr "Il male incontra il peggio"
+
+msgctxt "1488\tCATCHPHRASE"
+msgid "The Home Security Force"
+msgstr "La Forza di Sicurezza Domestica"
+
+msgctxt "1512\tCATCHPHRASE"
+msgid "The Fists of Fire and Ice"
+msgstr "I Pugni di Fuoco e Ghiaccio"
+
+msgctxt "1538\tCATCHPHRASE"
+msgid "The Chinese Octomillennium"
+msgstr "L'Ottomillennio Cinese"
+
+msgctxt "1565\tCATCHPHRASE"
+msgid "The Men Who Never Miss a Punch"
+msgstr "Gli uomini che non mancano mai un colpo"
+
+msgctxt "1596\tCATCHPHRASE"
+msgid "The Deliverymen of Divine Punishment"
+msgstr "I Portatori della Punizione Divina"
+
+msgctxt "1878\tATTACK"
+msgid "55"
+msgstr ""
+
+msgctxt "1881\tATTACK"
+msgid "65"
+msgstr ""
+
+msgctxt "1884\tATTACK"
+msgid "55"
+msgstr ""
+
+msgctxt "1887\tATTACK"
+msgid "50"
+msgstr ""
+
+msgctxt "1890\tATTACK"
+msgid "55"
+msgstr ""
+
+msgctxt "1893\tATTACK"
+msgid "65"
+msgstr ""
+
+msgctxt "1896\tATTACK"
+msgid "45"
+msgstr ""
+
+msgctxt "1899\tATTACK"
+msgid "45"
+msgstr ""
+
+msgctxt "1902\tATTACK"
+msgid "30"
+msgstr ""
+
+msgctxt "1905\tATTACK"
+msgid "55"
+msgstr ""
+
+msgctxt "1908\tATTACK"
+msgid "55"
+msgstr ""
+
+msgctxt "1911\tATTACK"
+msgid "70"
+msgstr ""
+
+msgctxt "1914\tATTACK"
+msgid "50"
+msgstr ""
+
+msgctxt "1917\tATTACK"
+msgid "60"
+msgstr ""
+
+msgctxt "1920\tATTACK"
+msgid "60"
+msgstr ""
+
+msgctxt "1923\tATTACK"
+msgid "55"
+msgstr ""
+
+msgctxt "1926\tATTACK"
+msgid "30"
+msgstr ""
+
+msgctxt "1929\tATTACK"
+msgid "40"
+msgstr ""
+
+msgctxt "1932\tATTACK"
+msgid "40"
+msgstr ""
+
+msgctxt "1935\tATTACK"
+msgid "20"
+msgstr ""
+
+msgctxt "1939\tTHROW"
+msgid "20"
+msgstr ""
+
+msgctxt "1942\tTHROW"
+msgid "10"
+msgstr ""
+
+msgctxt "1945\tTHROW"
+msgid "10"
+msgstr ""
+
+msgctxt "1948\tTHROW"
+msgid "45"
+msgstr ""
+
+msgctxt "1951\tTHROW"
+msgid "10"
+msgstr ""
+
+msgctxt "1954\tTHROW"
+msgid "50"
+msgstr ""
+
+msgctxt "1957\tTHROW"
+msgid "10"
+msgstr ""
+
+msgctxt "1960\tTHROW"
+msgid "50"
+msgstr ""
+
+msgctxt "1963\tTHROW"
+msgid "20"
+msgstr ""
+
+msgctxt "1966\tTHROW"
+msgid "60"
+msgstr ""
+
+msgctxt "1969\tTHROW"
+msgid "30"
+msgstr ""
+
+msgctxt "1972\tTHROW"
+msgid "40"
+msgstr ""
+
+msgctxt "1975\tTHROW"
+msgid "40"
+msgstr ""
+
+msgctxt "1978\tTHROW"
+msgid "10"
+msgstr ""
+
+msgctxt "1981\tTHROW"
+msgid "30"
+msgstr ""
+
+msgctxt "1984\tTHROW"
+msgid "10"
+msgstr ""
+
+msgctxt "1987\tTHROW"
+msgid "20"
+msgstr ""
+
+msgctxt "1990\tTHROW"
+msgid "35"
+msgstr ""
+
+msgctxt "1993\tTHROW"
+msgid "20"
+msgstr ""
+
+msgctxt "1996\tTHROW"
+msgid "10"
+msgstr ""
+
+msgctxt "2061\tATTACK_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2063\tATTACK_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2065\tATTACK_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2067\tATTACK_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2069\tATTACK_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2071\tATTACK_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2073\tATTACK_GLOWUP"
+msgid "50"
+msgstr ""
+
+msgctxt "2076\tATTACK_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2078\tATTACK_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2080\tATTACK_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2082\tATTACK_GLOWUP"
+msgid "60"
+msgstr ""
+
+msgctxt "2085\tATTACK_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2087\tATTACK_GLOWUP"
+msgid "60"
+msgstr ""
+
+msgctxt "2090\tATTACK_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2092\tATTACK_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2094\tATTACK_GLOWUP"
+msgid "65"
+msgstr ""
+
+msgctxt "2097\tATTACK_GLOWUP"
+msgid "40"
+msgstr ""
+
+msgctxt "2100\tATTACK_GLOWUP"
+msgid "45"
+msgstr ""
+
+msgctxt "2103\tATTACK_GLOWUP"
+msgid "25"
+msgstr ""
+
+msgctxt "2108\tTHROW_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2110\tTHROW_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2112\tTHROW_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2114\tTHROW_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2116\tTHROW_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2118\tTHROW_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2120\tTHROW_GLOWUP"
+msgid "10"
+msgstr ""
+
+msgctxt "2123\tTHROW_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2125\tTHROW_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2127\tTHROW_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2129\tTHROW_GLOWUP"
+msgid "40"
+msgstr ""
+
+msgctxt "2132\tTHROW_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2134\tTHROW_GLOWUP"
+msgid "50"
+msgstr ""
+
+msgctxt "2137\tTHROW_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2139\tTHROW_GLOWUP"
+msgid "0"
+msgstr ""
+
+msgctxt "2141\tTHROW_GLOWUP"
+msgid "10"
+msgstr ""
+
+msgctxt "2144\tTHROW_GLOWUP"
+msgid "20"
+msgstr ""
+
+msgctxt "2147\tTHROW_GLOWUP"
+msgid "50"
+msgstr ""
+
+msgctxt "2150\tTHROW_GLOWUP"
+msgid "20"
+msgstr ""
+
+msgctxt "2243\tSWAY"
+msgid "10"
+msgstr ""
+
+msgctxt "2246\tSWAY"
+msgid "30"
+msgstr ""
+
+msgctxt "2249\tSWAY"
+msgid "25"
+msgstr ""
+
+msgctxt "2252\tSWAY"
+msgid "15"
+msgstr ""
+
+msgctxt "2255\tSWAY"
+msgid "25"
+msgstr ""
+
+msgctxt "2258\tSWAY"
+msgid "25"
+msgstr ""
+
+msgctxt "2261\tSWAY"
+msgid "35"
+msgstr ""
+
+msgctxt "2264\tSWAY"
+msgid "25"
+msgstr ""
+
+msgctxt "2267\tSWAY"
+msgid "20"
+msgstr ""
+
+msgctxt "2270\tSWAY"
+msgid "30"
+msgstr ""
+
+msgctxt "2273\tSWAY"
+msgid "25"
+msgstr ""
+
+msgctxt "2276\tSWAY"
+msgid "35"
+msgstr ""
+
+msgctxt "2279\tSWAY"
+msgid "35"
+msgstr ""
+
+msgctxt "2282\tSWAY"
+msgid "40"
+msgstr ""
+
+msgctxt "2285\tSWAY"
+msgid "35"
+msgstr ""
+
+msgctxt "2288\tSWAY"
+msgid "25"
+msgstr ""
+
+msgctxt "2291\tSWAY"
+msgid "10"
+msgstr ""
+
+msgctxt "2294\tSWAY"
+msgid "20"
+msgstr ""
+
+msgctxt "2297\tSWAY"
+msgid "15"
+msgstr ""
+
+msgctxt "2300\tSWAY"
+msgid "10"
+msgstr ""
+
+msgctxt "2304\tSWAY_GLOWUP"
+msgid "10"
+msgstr ""
+
+msgctxt "2307\tSWAY_GLOWUP"
+msgid "30"
+msgstr ""
+
+msgctxt "2310\tSWAY_GLOWUP"
+msgid "25"
+msgstr ""
+
+msgctxt "2313\tSWAY_GLOWUP"
+msgid "15"
+msgstr ""
+
+msgctxt "2316\tSWAY_GLOWUP"
+msgid "25"
+msgstr ""
+
+msgctxt "2319\tSWAY_GLOWUP"
+msgid "25"
+msgstr ""
+
+msgctxt "2322\tSWAY_GLOWUP"
+msgid "35"
+msgstr ""
+
+msgctxt "2325\tSWAY_GLOWUP"
+msgid "25"
+msgstr ""
+
+msgctxt "2328\tSWAY_GLOWUP"
+msgid "20"
+msgstr ""
+
+msgctxt "2331\tSWAY_GLOWUP"
+msgid "30"
+msgstr ""
+
+msgctxt "2334\tSWAY_GLOWUP"
+msgid "25"
+msgstr ""
+
+msgctxt "2337\tSWAY_GLOWUP"
+msgid "35"
+msgstr ""
+
+msgctxt "2340\tSWAY_GLOWUP"
+msgid "35"
+msgstr ""
+
+msgctxt "2343\tSWAY_GLOWUP"
+msgid "40"
+msgstr ""
+
+msgctxt "2346\tSWAY_GLOWUP"
+msgid "35"
+msgstr ""
+
+msgctxt "2349\tSWAY_GLOWUP"
+msgid "25"
+msgstr ""
+
+msgctxt "2352\tSWAY_GLOWUP"
+msgid "10"
+msgstr ""
+
+msgctxt "2355\tSWAY_GLOWUP"
+msgid "20"
+msgstr ""
+
+msgctxt "2358\tSWAY_GLOWUP"
+msgid "15"
+msgstr ""
+
+msgctxt "2361\tSWAY_GLOWUP"
+msgid "10"
+msgstr ""

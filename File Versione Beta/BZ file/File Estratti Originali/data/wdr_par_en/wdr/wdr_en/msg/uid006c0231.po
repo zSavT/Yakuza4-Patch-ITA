@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "380"
+msgid ""
+"I had a lot of fun. We should do this again sometime. Okay, I should be "
+"going."
+msgstr ""
+
+msgctxt "536"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "884"
+msgid "Wanna head over to the club?"
+msgstr ""
+
+msgctxt "1064"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+
+msgctxt "14108"
+msgid "Noa"
+msgstr ""
+
+msgctxt "14112"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "14116"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "14120"
+msgid "Player"
+msgstr ""
+
+msgctxt "14124"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "14128"
+msgid "dummy"
+msgstr ""
+
+msgctxt "14132"
+msgid "0"
+msgstr ""
+
+msgctxt "14136"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "14140"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "116_Noa"
+msgid "I'm just crazy about sushi. I can't wait."
+msgstr ""
+
+msgctxt "128_Talk_Yes"
+msgid "Let's go inside."
+msgstr ""
+
+msgctxt "140_Player"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "164_Noa"
+msgid "I'm just crazy about sushi. I can't wait."
+msgstr ""
+
+msgctxt "176_Talk_Yes"
+msgid "Let's do this already!"
+msgstr ""
+
+msgctxt "188_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr ""
+
+msgctxt "200_Noa"
+msgid "Huh!? Really?"
+msgstr ""
+
+msgctxt "212_Player"
+msgid "Yeah. Sorry..."
+msgstr ""
+
+msgctxt "224_Noa"
+msgid ""
+"Oh. Well, that's too bad. This'll be the end of our date then. See you "
+"around."
+msgstr ""
+
+msgctxt "236_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "344_Noa"
+msgid "That sushi was delicious! I'm so happy right now! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "356_Player"
+msgid "Haha, good to hear."
+msgstr ""
+
+msgctxt "368_Noa"
+msgid "Thank you so much for the meal!"
+msgstr ""
+
+msgctxt "404_Noa"
+msgid ""
+"That was pretty good. Not great, though. Maybe I've eaten here too many "
+"times."
+msgstr ""
+
+msgctxt "416_Player"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "428_Noa"
+msgid "We should go out again sometime. See you later!"
+msgstr ""
+
+msgctxt "452_Noa"
+msgid "......"
+msgstr ""
+
+msgctxt "464_Player"
+msgid "Is something wrong?"
+msgstr ""
+
+msgctxt "476_Noa"
+msgid ""
+"Oh, nothing. I just didn't care for the fish today. Maybe we should've gone "
+"somewhere else."
+msgstr ""
+
+msgctxt "488_Player"
+msgid "Is that so..."
+msgstr ""
+
+msgctxt "500_Noa"
+msgid "I think I'll go home now. See you at the club..."
+msgstr ""
+
+msgctxt "512_Player"
+msgid "(I shouldn't have ordered something she doesn't like...)"
+msgstr ""
+
+msgctxt "620_Noa"
+msgid "I'm just crazy about sushi. I can't wait."
+msgstr ""
+
+msgctxt "632_Talk_Yes"
+msgid "Let's go in."
+msgstr ""
+
+msgctxt "644_Player"
+msgid "Yeah."
+msgstr ""
+
+msgctxt "668_Noa"
+msgid "I'm just crazy about sushi. I can't wait."
+msgstr ""
+
+msgctxt "680_Noa"
+msgid "Let's head in."
+msgstr ""
+
+msgctxt "692_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr ""
+
+msgctxt "704_Noa"
+msgid "Huh!? Really?"
+msgstr ""
+
+msgctxt "716_Player"
+msgid "Yeah. Sorry..."
+msgstr ""
+
+msgctxt "728_Noa"
+msgid ""
+"Oh. Well, that's too bad. This'll be the end of our date then. See you "
+"around."
+msgstr ""
+
+msgctxt "740_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+
+msgctxt "848_Noa"
+msgid "That sushi was delicious! I'm so happy right now! <Color:7>♥<Color:Default>"
+msgstr ""
+
+msgctxt "860_Player"
+msgid "Haha, good to hear."
+msgstr ""
+
+msgctxt "872_Noa"
+msgid "Thank you so much for the meal! I had such a good time!"
+msgstr ""
+
+msgctxt "896_Player"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "920_Noa"
+msgid ""
+"That was pretty good. Not great, though. Maybe I've eaten here too many "
+"times."
+msgstr ""
+
+msgctxt "932_Player"
+msgid "Oh..."
+msgstr ""
+
+msgctxt "944_Noa"
+msgid "Shall we head over to the club, then?"
+msgstr ""
+
+msgctxt "956_Player"
+msgid "Sounds good."
+msgstr ""
+
+msgctxt "980_Noa"
+msgid "......"
+msgstr ""
+
+msgctxt "992_Player"
+msgid "Is something wrong?"
+msgstr ""
+
+msgctxt "1004_Noa"
+msgid ""
+"Oh, nothing. I just didn't care for the fish today. Maybe we should've gone "
+"somewhere else."
+msgstr ""
+
+msgctxt "1016_Player"
+msgid "Is that so..."
+msgstr ""
+
+msgctxt "1028_Noa"
+msgid "Shall we head over to the club, then?"
+msgstr ""
+
+msgctxt "1040_Player"
+msgid "(I shouldn't have ordered something she doesn't like...)"
+msgstr ""

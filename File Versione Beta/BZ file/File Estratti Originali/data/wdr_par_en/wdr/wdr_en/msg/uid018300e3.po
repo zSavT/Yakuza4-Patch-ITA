@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "636"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "640"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "644"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "104_Akiyama"
+msgid "(Need to focus on the barkers right now. No time for detours.)"
+msgstr ""
+
+msgctxt "116_Saejima"
+msgid "(Ain't got no time for this... I should probably follow Kido.)"
+msgstr ""
+
+msgctxt "128_Saejima"
+msgid "(This place like a coffee shop...? Looks mighty fancy...)"
+msgstr ""

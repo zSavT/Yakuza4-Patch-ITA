@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1084"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "1088"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "1092"
+msgid "Businessman"
+msgstr ""
+
+msgctxt "1096"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1100"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "84_Saejima"
+msgid "Hey, punk. You one of Shirakawa's agents?"
+msgstr ""
+
+msgctxt "96_Businessman"
+msgid ""
+"If you must know, I am planning on voting for Shirakawa-san in the upcoming "
+"election. Is that a problem?"
+msgstr ""
+
+msgctxt "108_Businessman"
+msgid ""
+"Wait, are you trying to scare me into changing my vote?\r\n"
+"Who does Numai think he is, a yakuza?"
+msgstr ""
+
+msgctxt "120_Saejima"
+msgid "(Well, fuck me. Came to listen after all.)"
+msgstr ""

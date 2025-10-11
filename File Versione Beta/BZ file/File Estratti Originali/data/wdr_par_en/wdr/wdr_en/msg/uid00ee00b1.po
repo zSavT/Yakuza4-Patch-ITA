@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "284"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr ""
+
+msgctxt "344"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han."
+msgstr ""
+
+msgctxt "392"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr ""
+
+msgctxt "452"
+msgid "You got <Color:8>Haruka's First-aid Kit<Color:Default>."
+msgstr ""
+
+msgctxt "512"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr ""
+
+msgctxt "572"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr ""
+
+msgctxt "632"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr ""
+
+msgctxt "692"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr ""
+
+msgctxt "788"
+msgid "The manager of Poppo Tenkaichi Street is now your ally."
+msgstr ""
+
+msgctxt "8892"
+msgid "Manager"
+msgstr ""
+
+msgctxt "8896"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8900"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "8904"
+msgid "HAL_stand_tlk_happy_small"
+msgstr ""
+
+msgctxt "8908"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8912"
+msgid "HAL_stand_tlk_unhappy_small"
+msgstr ""
+
+msgctxt "104_Manager"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "116_Haruka"
+msgid "Uncle Kaz! Will you buy me a <Color:8>Tauriner<Color:Default>?"
+msgstr ""
+
+msgctxt "128_Kiryu"
+msgid "(Haruka wants a <Color:8>Tauriner<Color:Default>...)"
+msgstr ""
+
+msgctxt "152_Haruka"
+msgid "Aww, I wanted a <Color:8>Tauriner<Color:Default>..."
+msgstr ""
+
+msgctxt "164_Manager"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "188_Haruka"
+msgid "Thanks, Uncle Kaz!"
+msgstr ""
+
+msgctxt "200_Kiryu"
+msgid "(Haruka sure is happy...)"
+msgstr ""
+
+msgctxt "272_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "332_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come to play cho-han with you next time, "
+"okay?"
+msgstr ""
+
+msgctxt "380_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "440_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "500_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "560_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "620_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "680_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr ""
+
+msgctxt "740_Manager"
+msgid ""
+"Thank you very much. You're Akiyama-san, right? We really appreciate your "
+"frequent visits to our store."
+msgstr ""
+
+msgctxt "752_Manager"
+msgid "You may not remember, but you've actually helped me out in the past."
+msgstr ""
+
+msgctxt "764_Manager"
+msgid ""
+"I was able to turn over a new leaf because of the money that you lent me. "
+"Thanks to you, I'm the manager of this store now."
+msgstr ""
+
+msgctxt "776_Manager"
+msgid ""
+"Now it's my turn to pay you back. I'll be there for you if you ever get "
+"caught in a fight nearby!"
+msgstr ""
+
+msgctxt "800_Manager"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "824_Manager"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "836_Manager"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "848_Manager"
+msgid "Welcome."
+msgstr ""
+
+msgctxt "872_Manager"
+msgid "Thank you, sir. Please come again soon."
+msgstr ""
+
+msgctxt "884_Manager"
+msgid "Thank you very much."
+msgstr ""

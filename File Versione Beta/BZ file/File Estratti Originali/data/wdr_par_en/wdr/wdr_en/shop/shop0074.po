@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "224"
+msgid "Quit"
+msgstr ""
+
+msgctxt "229"
+msgid "Cancel the order."
+msgstr ""
+
+msgctxt "247"
+msgid "Order"
+msgstr ""
+
+msgctxt "253"
+msgid "Order the currently selected item.  "
+msgstr ""
+
+msgctxt "290"
+msgid "(I haven't picked anything.)  "
+msgstr ""
+
+msgctxt "321"
+msgid "(I'm short on cash.)  "
+msgstr ""
+
+msgctxt "344"
+msgid "Thank you for business. %s, please."
+msgstr ""
+
+msgctxt "380"
+msgid "(I can't carry any more stuff.)"
+msgstr ""
+
+msgctxt "412"
+msgid "(They're sold out.)"
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"Should help you get back on your feet when you're\n"
+"low on health and Heat."
+msgstr ""
+
+msgctxt "506"
+msgid ""
+"More effective at revitalizing your health and Heat\n"
+"than a regular Staminan X."
+msgstr ""
+
+msgctxt "585"
+msgid ""
+"One of the most potent energy drinks on the market.\n"
+"It'll dramatically restore your health and Heat."
+msgstr ""

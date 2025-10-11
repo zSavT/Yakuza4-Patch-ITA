@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "8512"
+msgid "Sodachi"
+msgstr ""
+
+msgctxt "8516"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8520"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "8524"
+msgid "Man's Voice"
+msgstr ""
+
+msgctxt "8528"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "8532"
+msgid "Ochiai"
+msgstr ""
+
+msgctxt "8536"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8540"
+msgid "Sugiyama"
+msgstr ""
+
+msgctxt "8544"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "8548"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "8552"
+msgid "Ehama"
+msgstr ""
+
+msgctxt "8556"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8560"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "8564"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "8568"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "68_Sodachi"
+msgid "Now we've raised two champions. Let's keep up the hard work!"
+msgstr ""
+
+msgctxt "80_Saejima"
+msgid "Right. Now we just gotta wait for another apprentice to show up."
+msgstr ""
+
+msgctxt "92_Man's Voice"
+msgid "Whaaaaaaaaaaaat!?"
+msgstr ""
+
+msgctxt "104_Man's Voice"
+msgid "What is this!? Huh!?"
+msgstr ""
+
+msgctxt "116_Saejima"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "128_Ochiai"
+msgid "Yo, Sodachi! What is this? Why are there championship trophies here?"
+msgstr ""
+
+msgctxt "140_Sodachi"
+msgid ""
+"Oh, those. While you were dead asleep, our apprentices were working their "
+"butts off to win championships."
+msgstr ""
+
+msgctxt "152_Ochiai"
+msgid "Wha－ <Italic>Championships</Italic>!?"
+msgstr ""
+
+msgctxt "164_Ochiai"
+msgid ""
+"You must be joking... These two won!? Geeky four-eyes and the old dude in "
+"the friggin' mask?"
+msgstr ""
+
+msgctxt "176_Sugiyama"
+msgid "Hey! People happen to have taken a liking to guys in glasses lately!"
+msgstr ""
+
+msgctxt "188_Sugiyama"
+msgid "Plus, I'm only wearing these for fashion purposes."
+msgstr ""
+
+msgctxt "200_Ochiai"
+msgid ""
+"Oh, shut it already. Do you even know who I am? I'm Fukushi Ochiai! I write "
+"columns for magazines! I'm sure you've heard of me... Right!?"
+msgstr ""
+
+msgctxt "212_Ehama"
+msgid "...Never heard of you."
+msgstr ""
+
+msgctxt "224_Ochiai"
+msgid "You son of a－"
+msgstr ""
+
+msgctxt "236_Sodachi"
+msgid ""
+"Hey, hey, hey! This is a place of peace. I don't want my apprentice getting "
+"injured in a petty fight."
+msgstr ""
+
+msgctxt "248_Ochiai"
+msgid "What do you mean? I'm an apprentice, too! Why aren't you worried about me!?"
+msgstr ""
+
+msgctxt "260_Sodachi"
+msgid ""
+"What!? You're one of my apprentices? If that's the case, then you need to "
+"pay the fee!"
+msgstr ""
+
+msgctxt "272_Ochiai"
+msgid "Shut up. I don't worry about shit like that... Okay! I've made up my mind!"
+msgstr ""
+
+msgctxt "284_Sodachi"
+msgid "About what...? Did you decide to pay the monthly fee?"
+msgstr ""
+
+msgctxt "296_Ochiai"
+msgid "Not a chance! I decided that I'm going to be a champion, too!"
+msgstr ""
+
+msgctxt "308_Sodachi"
+msgid "Whaaaat!? Are you serious...!?"
+msgstr ""
+
+msgctxt "320_Ochiai"
+msgid ""
+"Of course I am. If these two losers can become champions, then it won't "
+"take long for a stud like me to be one either."
+msgstr ""
+
+msgctxt "332_Ochiai"
+msgid "Fukushi Ochiai, the champion... Doesn't sound too bad, huh? Hehehe."
+msgstr ""
+
+msgctxt "344_Sodachi"
+msgid ""
+"What should we do, Saejima-san? He does have some potential, but to be "
+"honest, he's probably going to be a real handful."
+msgstr ""
+
+msgctxt "356_Saejima"
+msgid ""
+"Yeah, but that ain't no reason to turn him down, either. Besides, we were "
+"just lookin' for a new apprentice."
+msgstr ""
+
+msgctxt "368_Ochiai"
+msgid ""
+"Who's this shabby old man? I guess it doesn't matter. He looks more useful "
+"than you, Sodachi. Hurry up and make me a champion!"
+msgstr ""
+
+msgctxt "380_Ochiai"
+msgid ""
+"Oh, and by the way, I absolutely hate to train. Just thought I should let "
+"you know."
+msgstr ""
+
+msgctxt "392_Sodachi"
+msgid ""
+"Shabby old man? Uh-oh... Saejima-san, you may be shabby and you may be old, "
+"but don't listen to him. Haha..."
+msgstr ""
+
+msgctxt "404_Saejima"
+msgid ""
+"Heh. Funny kid. He might just be worth trainin'. Let's see how big yer "
+"balls are, kid."
+msgstr ""
+
+msgctxt "488_Ochiai"
+msgid ""
+"All right let's do it already then! And make sure you know what an honor it "
+"is to train someone as famous as me!"
+msgstr ""
+
+msgctxt "500_Sodachi"
+msgid "Ugh... I'm not sure if this is a good idea..."
+msgstr ""

@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2512"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2516"
+msgid "Bartender"
+msgstr ""
+
+msgctxt "2520"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2524"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2528"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2532"
+msgid "Talk_Info_R"
+msgstr ""
+
+msgctxt "2536"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "2540"
+msgid "P_sitcnt_tlk_kamae"
+msgstr ""
+
+msgctxt "68_Kiryu"
+msgid "Evening. Mind if I take this seat?"
+msgstr ""
+
+msgctxt "80_Bartender"
+msgid ""
+"Apologies, sir, but that one specifically is reserved for\r\n"
+"the rest of the night."
+msgstr ""
+
+msgctxt "92_Kiryu"
+msgid "A reserved seat? At the counter? That's strange."
+msgstr ""
+
+msgctxt "104_Bartender"
+msgid "I won't disagree with that, sir."
+msgstr ""
+
+msgctxt "116_Kiryu"
+msgid "Guess I'll just sit here instead. This one's not reserved, is it?"
+msgstr ""
+
+msgctxt "128_Bartender"
+msgid "Most certainly not. Go right ahead, sir."
+msgstr ""
+
+msgctxt "200_Kiryu"
+msgid "(What's the glass for? Nobody's even sitting there.)"
+msgstr ""
+
+msgctxt "212_Bartender"
+msgid "I see you've noticed, sir. To tell the truth, that seat is－"
+msgstr ""
+
+msgctxt "236_Bartender"
+msgid "Ah, Chigusa-san..."
+msgstr ""

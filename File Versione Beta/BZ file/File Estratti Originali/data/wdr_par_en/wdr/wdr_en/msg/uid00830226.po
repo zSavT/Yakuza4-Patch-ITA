@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "300"
+msgid ""
+"You exchanged the <Color:8>Concert Tickets<Color:Default> for the "
+"<Color:8>Business Card<Color:Default>."
+msgstr ""
+
+msgctxt "6672"
+msgid "Celeb Gal"
+msgstr ""
+
+msgctxt "6676"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "6680"
+msgid "Celeb Dude"
+msgstr ""
+
+msgctxt "6684"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "6688"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "6692"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "6696"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6700"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "6704"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "6708"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "6712"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "6716"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "6720"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6724"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6728"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6732"
+msgid "0"
+msgstr ""
+
+msgctxt "96_Celeb Gal"
+msgid "I can't believe it! How could you forget our tickets?"
+msgstr ""
+
+msgctxt "108_Celeb Dude"
+msgid ""
+"It's all very strange. If I told Makieda once, I told him a\r\n"
+"thousand times. As soon as we get back, he's fired."
+msgstr ""
+
+msgctxt "120_Celeb Gal"
+msgid "Who's Makieda?"
+msgstr ""
+
+msgctxt "132_Celeb Dude"
+msgid ""
+"My assistant! It was his job to put today's tickets in my\r\n"
+"breast pocket!"
+msgstr ""
+
+msgctxt "144_Celeb Dude"
+msgid ""
+"Now I'm going to have to fire Tachigawa, too. It was his\r\n"
+"job to tell Makieda about the tickets!"
+msgstr ""
+
+msgctxt "156_Celeb Gal"
+msgid ""
+"You sure have a lot of assistants... I hope you have a\r\n"
+"backup plan or else I'm going home!"
+msgstr ""
+
+msgctxt "168_Celeb Dude"
+msgid "No, wait!"
+msgstr ""
+
+msgctxt "180_Akiyama"
+msgid "(Tickets, huh? I wonder...)"
+msgstr ""
+
+msgctxt "192_Akiyama"
+msgid "Excuse me. Did you mean these tickets?"
+msgstr ""
+
+msgctxt "204_Celeb Dude"
+msgid ""
+"Huh? Who are you? Listen, I'm a little busy at the－ Ah!\r\n"
+"That's them!"
+msgstr ""
+
+msgctxt "216_Celeb Dude"
+msgid ""
+"Talk about being in the right place at the right time.\r\n"
+"It's almost spooky."
+msgstr ""
+
+msgctxt "228_Celeb Dude"
+msgid ""
+"But that's beside the point. Please let me have these\r\n"
+"tickets. I beg of you."
+msgstr ""
+
+msgctxt "240_Celeb Dude"
+msgid ""
+"I'll pay you for them, of course. How much? I'm afraid I'm\r\n"
+"out of cash. Do you accept checks?"
+msgstr ""
+
+msgctxt "252_Akiyama"
+msgid "Actually, I'd prefer something other than money if possible..."
+msgstr ""
+
+msgctxt "264_Celeb Dude"
+msgid ""
+"What? Money's no good? Hmm. It's a strange world we live\r\n"
+"in..."
+msgstr ""
+
+msgctxt "276_Celeb Dude"
+msgid ""
+"It's not every day I meet interesting people like you. A\r\n"
+"charming little encounter brought about by an untimely misfortune. How "
+"delightful!"
+msgstr ""
+
+msgctxt "288_Celeb Dude"
+msgid "You may have this, then."
+msgstr ""
+
+msgctxt "324_Akiyama"
+msgid ""
+"A business card? I think the tickets were a little more\r\n"
+"valuable than that..."
+msgstr ""
+
+msgctxt "336_Celeb Dude"
+msgid "Trust me! Just take it."
+msgstr ""
+
+msgctxt "348_Akiyama"
+msgid ""
+"Hmm. Omori-san, Ginrei Association President? What kind of\r\n"
+"association is this?"
+msgstr ""
+
+msgctxt "360_Celeb Dude"
+msgid ""
+"Hahaha! You'll find out some day. You really saved my skin.\r\n"
+"Until we meet again!"
+msgstr ""
+
+msgctxt "372_Celeb Gal"
+msgid ""
+"Hey! Who is that? And how long are you two going to keep\r\n"
+"chatting away?"
+msgstr ""
+
+msgctxt "384_Celeb Dude"
+msgid ""
+"Hahaha! Now, now. A lady like yourself must always keep her\r\n"
+"cool. Shall we go to the concert, my dear?"
+msgstr ""
+
+msgctxt "396_Celeb Gal"
+msgid "Huh? What about the tickets?"
+msgstr ""
+
+msgctxt "408_Celeb Dude"
+msgid ""
+"Delivered right on time! Haha! This is Oyama-kun. It's his\r\n"
+"job to pick up the slack when Makieda and Tachigawa drop the\r\n"
+"ball."
+msgstr ""
+
+msgctxt "420_Celeb Gal"
+msgid ""
+"How many assistants do you have, anyway? Oh, well. At least\r\n"
+"it all worked out in the end. Let's be on our way, then.\r\n"
+"Thank you, Oyama-san."
+msgstr ""
+
+msgctxt "432_Akiyama"
+msgid "...Yeah, sure."
+msgstr ""

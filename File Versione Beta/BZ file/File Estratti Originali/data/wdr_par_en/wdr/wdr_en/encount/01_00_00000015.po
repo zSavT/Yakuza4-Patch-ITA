@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1432"
+msgid "Man"
+msgstr ""
+
+msgctxt "1436"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1440"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1444"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid "Hey there, pal. You're the punk who beat up our young'uns, right?"
+msgstr ""
+
+msgctxt "128_Man"
+msgid ""
+"Don't even bother denyin' it! Just shut up and take your medicine like the "
+"man you wish you were!"
+msgstr ""
+
+msgctxt "152_Man"
+msgid "Oof. Young'uns never stood a chance..."
+msgstr ""
+
+msgctxt "164_Man"
+msgid "Here, my way of sayin' sorry. Go on, take it."
+msgstr ""
+
+msgctxt "176_Man"
+msgid "You got a fresh %s."
+msgstr ""
+
+msgctxt "212_Man"
+msgid "So you weren't the guy after all? Damn."
+msgstr ""

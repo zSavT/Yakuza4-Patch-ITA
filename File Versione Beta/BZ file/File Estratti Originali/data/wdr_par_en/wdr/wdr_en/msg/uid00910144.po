@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "248"
+msgid "<Color:9>You learned Dash Kick.<Color:Default>"
+msgstr ""
+
+msgctxt "6444"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "6448"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "6452"
+msgid "Saigo"
+msgstr ""
+
+msgctxt "6456"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "6460"
+msgid "P_stand_tlk_udekumi_yes"
+msgstr ""
+
+msgctxt "6464"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6468"
+msgid "P_stand_tlk_udekumi_ed"
+msgstr ""
+
+msgctxt "6472"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "6476"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "6480"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "6484"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "6488"
+msgid "Abilities Learned via Training"
+msgstr ""
+
+msgctxt "6492"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "6496"
+msgid "Daijiro Saigo's Training - Akiyama"
+msgstr ""
+
+msgctxt "6500"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6504"
+msgid "0"
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid "So what did you want to talk about?"
+msgstr ""
+
+msgctxt "80_Saigo"
+msgid "Hey, don't look so sour. Anyways, what should I call you?"
+msgstr ""
+
+msgctxt "92_Akiyama"
+msgid "The name's Akiyama."
+msgstr ""
+
+msgctxt "104_Saigo"
+msgid "Akiyama-kun. Seems like you get into fights nearly every day."
+msgstr ""
+
+msgctxt "116_Akiyama"
+msgid ""
+"Well, I wouldn't if I had a choice. But that's just the way things have "
+"been working out."
+msgstr ""
+
+msgctxt "128_Saigo"
+msgid ""
+"It's clear you have a strong talent for fighting. It'd be a tragedy to see "
+"it go to waste."
+msgstr ""
+
+msgctxt "140_Saigo"
+msgid "Are you interested in tapping into your dormant abilities? I can help you."
+msgstr ""
+
+msgctxt "152_Akiyama"
+msgid ""
+"What do you mean, dormant? Pretty sure I hand out maximum beatings every "
+"day of the week."
+msgstr ""
+
+msgctxt "164_Saigo"
+msgid "Hmm... Then let me ask you: do you feel any change in your body right now?"
+msgstr ""
+
+msgctxt "176_Akiyama"
+msgid "Uh, change?"
+msgstr ""
+
+msgctxt "188_Saigo"
+msgid ""
+"A few moments ago you ran after my pupil. But you weren't simply running "
+"for running's sake."
+msgstr ""
+
+msgctxt "200_Saigo"
+msgid ""
+"My pupil forced you to run in a style which would use your muscles in the "
+"most efficient manner."
+msgstr ""
+
+msgctxt "212_Saigo"
+msgid "So, how do you feel? Is your body somewhat lighter than before?"
+msgstr ""
+
+msgctxt "224_Akiyama"
+msgid "Hm..."
+msgstr ""
+
+msgctxt "236_Akiyama"
+msgid "I guess now that you say so, I do feel lighter."
+msgstr ""
+
+msgctxt "260_Abilities Learned via Training"
+msgid ""
+"You can check abilities learned via training in the "
+"<Color:14>Abilities<Color:Default> screen in the Pause Menu."
+msgstr ""
+
+msgctxt "272_Saigo"
+msgid ""
+"Every person has to train differently, depending on their build and usual "
+"exercise regimen."
+msgstr ""
+
+msgctxt "284_Saigo"
+msgid "Train correctly, and I guarantee your strength will be multiplied."
+msgstr ""
+
+msgctxt "296_Akiyama"
+msgid "Yeah, I think I'm starting to see that."
+msgstr ""
+
+msgctxt "308_Saigo"
+msgid ""
+"I'm pretty much always here, so come back whenever you want to train "
+"further."
+msgstr ""
+
+msgctxt "320_Akiyama"
+msgid "That's a really nice offer and all, but can I ask you something first?"
+msgstr ""
+
+msgctxt "332_Saigo"
+msgid "What?"
+msgstr ""
+
+msgctxt "344_Akiyama"
+msgid "Why me? You don't even know me."
+msgstr ""
+
+msgctxt "356_Saigo"
+msgid "Heh. I guess it's natural to be curious."
+msgstr ""
+
+msgctxt "368_Saigo"
+msgid "It's hard to explain, but there is a reason why I chose you and only you."
+msgstr ""
+
+msgctxt "380_Saigo"
+msgid "I'll tell you more if you agree to come back."
+msgstr ""
+
+msgctxt "392_Akiyama"
+msgid "At least you sound like you know what you're talking about. All right then."
+msgstr ""
+
+msgctxt "404_Akiyama"
+msgid "I'll stop by whenever I have the time."
+msgstr ""
+
+msgctxt "416_Saigo"
+msgid "Great. I'll be waiting."
+msgstr ""
+
+msgctxt "428_Akiyama"
+msgid ""
+"This information has been added as a <Color:14>memo<Color:Default>.\r\n"
+"Read <Color:14>memos<Color:Default> by selecting "
+"<Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
+"You can access the Pause Menu with the <Action:Button_Options@Adventure> "
+"button."
+msgstr ""

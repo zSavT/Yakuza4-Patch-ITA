@@ -1,0 +1,37 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-04\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "210\tNAME"
+msgid "Hostess Trainee 1"
+msgstr "Hostess Tirocinante 1"
+
+msgctxt "230\tNAME"
+msgid "Hostess Trainee 2"
+msgstr "Tirocinante Hostess 2"
+
+msgctxt "250\tNAME"
+msgid "Hostess Trainee 3"
+msgstr "Hostess Tirocinante 3"
+
+msgctxt "292\tEXPLANATION"
+msgid "Your first trainee at Elise became a number one hostess."
+msgstr "La tua prima tirocinante ad Elise è diventata una hostess numero uno."
+
+msgctxt "349\tEXPLANATION"
+msgid "Your second trainee at Elise became a number one hostess."
+msgstr "La tua seconda allieva ad Elise è diventata la hostess numero uno."
+
+msgctxt "407\tEXPLANATION"
+msgid "Your third trainee at Elise became a number one hostess."
+msgstr "La tua terza apprendista ad Elise è diventata una hostess numero uno."

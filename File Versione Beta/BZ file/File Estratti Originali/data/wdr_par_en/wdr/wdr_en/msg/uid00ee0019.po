@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "3252"
+msgid "Employee"
+msgstr ""
+
+msgctxt "3256"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3260"
+msgid "Player"
+msgstr ""
+
+msgctxt "3264"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "248_Employee"
+msgid "Will this be for here or to go?"
+msgstr ""
+
+msgctxt "260_Employee"
+msgid "(No point eating now. I'm not even hungry.)"
+msgstr ""
+
+msgctxt "272_Player"
+msgid "Sorry, I've got to go take care of something..."
+msgstr ""
+
+msgctxt "284_Employee"
+msgid "No problem. Please come again."
+msgstr ""
+
+msgctxt "296_Employee"
+msgid "All right. Will that be all for you today?"
+msgstr ""
+
+msgctxt "320_Employee"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "332_Player"
+msgid "Sorry, something just came up."
+msgstr ""
+
+msgctxt "344_Employee"
+msgid "No problem. Please come again."
+msgstr ""
+
+msgctxt "356_Employee"
+msgid "Welcome. Will this be for here or to go?"
+msgstr ""
+
+msgctxt "368_Employee"
+msgid "All right. Will that be all for you today?"
+msgstr ""
+
+msgctxt "392_Employee"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "404_Player"
+msgid "Sorry, something just came up."
+msgstr ""
+
+msgctxt "416_Employee"
+msgid "No problem. Please come again."
+msgstr ""
+
+msgctxt "428_Employee"
+msgid "All right. Are you ready to order?"
+msgstr ""
+
+msgctxt "476_Employee"
+msgid "Thank you very much."
+msgstr ""
+
+msgctxt "488_Employee"
+msgid "Eat Here"
+msgstr ""
+
+msgctxt "500_Employee"
+msgid "Purchase To Go"
+msgstr ""
+
+msgctxt "512_Employee"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "524_Employee"
+msgid "Eat Here"
+msgstr ""
+
+msgctxt "536_Employee"
+msgid "Purchase To Go"
+msgstr ""
+
+msgctxt "548_Employee"
+msgid "Never Mind"
+msgstr ""

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "188"
+msgid "You got <Color:8>Large Curry Take-home Packs<Color:Default>."
+msgstr ""
+
+msgctxt "2080"
+msgid "Matsuya Staff"
+msgstr ""
+
+msgctxt "2084"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2088"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "2092"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "56_Matsuya Staff"
+msgid "Hello, sir."
+msgstr ""
+
+msgctxt "68_Kiryu"
+msgid "I need to get some curry."
+msgstr ""
+
+msgctxt "80_Matsuya Staff"
+msgid "All right, certainly. What kind would you like?"
+msgstr ""
+
+msgctxt "92_Kiryu"
+msgid ""
+"Can I order it to go? And if you have them, some of those packs of just the "
+"sauce would be great."
+msgstr ""
+
+msgctxt "104_Matsuya Staff"
+msgid ""
+"How about our Original Curry take-home packs? They are easy to prepare and "
+"can be enjoyed in the comfort of your home."
+msgstr ""
+
+msgctxt "116_Kiryu"
+msgid "Sounds good. Can you get me a big box of them?"
+msgstr ""
+
+msgctxt "128_Matsuya Staff"
+msgid "Certainly. Just a moment, please."
+msgstr ""
+
+msgctxt "176_Matsuya Staff"
+msgid "Here you go, sir."
+msgstr ""
+
+msgctxt "212_Kiryu"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "224_Matsuya Staff"
+msgid "Thank you for visiting Matsuya!"
+msgstr ""

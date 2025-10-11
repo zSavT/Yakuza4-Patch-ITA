@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "210\tNAME"
+msgid "Running"
+msgstr ""
+
+msgctxt "220\tNAME"
+msgid "Shooting"
+msgstr ""
+
+msgctxt "231\tNAME"
+msgid "Combat"
+msgstr ""
+
+msgctxt "240\tNAME"
+msgid "Suicidal Running"
+msgstr ""
+
+msgctxt "259\tNAME"
+msgid "Suicidal Shooting"
+msgstr ""
+
+msgctxt "279\tNAME"
+msgid "Suicidal Combat"
+msgstr ""
+
+msgctxt "343\tEXPLANATION"
+msgid "You completed Saigo's Training: Running."
+msgstr ""
+
+msgctxt "384\tEXPLANATION"
+msgid "You completed Saigo's Training: Shooting."
+msgstr ""
+
+msgctxt "426\tEXPLANATION"
+msgid "You completed Saigo's Training: Combat."
+msgstr ""
+
+msgctxt "466\tEXPLANATION"
+msgid "You completed Saigo's Training: Suicidal Running."
+msgstr ""
+
+msgctxt "516\tEXPLANATION"
+msgid "You completed Saigo's Training: Suicidal Shooting."
+msgstr ""
+
+msgctxt "567\tEXPLANATION"
+msgid "You completed Saigo's Training: Suicidal Combat."
+msgstr ""

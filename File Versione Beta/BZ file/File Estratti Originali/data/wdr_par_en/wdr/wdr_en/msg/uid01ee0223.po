@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "8640"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "8644"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "8648"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "8652"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "8656"
+msgid "Talk_Udekumi_ed"
+msgstr ""
+
+msgctxt "8660"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8664"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8668"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "8672"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8676"
+msgid "Player"
+msgstr ""
+
+msgctxt "248_Haruka"
+msgid ""
+"Uncle Kaz, I heard you can catch <Color:8>Giant Crabs<Color:Default> around "
+"here. I'd love to bring one back as a present. You know, to eat!"
+msgstr ""
+
+msgctxt "260_Kiryu"
+msgid ""
+"(<Color:8>Giant Crabs<Color:Default>, huh? I'm not sure they'd be a good "
+"souvenir... But I guess I could, if it'd make Haruka happy.)"
+msgstr ""
+
+msgctxt "272_Kiryu"
+msgid "A <Color:8>Giant Crab<Color:Default>, huh? Wish I knew how to catch one..."
+msgstr ""
+
+msgctxt "284_Haruka"
+msgid ""
+"Ooh, I heard a fisherman talking about them! He said you can catch "
+"<Color:8>Giant Crabs<Color:Default> 100 to 150 meters from the shore."
+msgstr ""
+
+msgctxt "296_Kiryu"
+msgid ""
+"Huh, is that right? That's pretty far out there. What kind of bait do they "
+"like?"
+msgstr ""
+
+msgctxt "308_Haruka"
+msgid ""
+"Apparently, they like things like <Color:8>Vinegar Squid "
+"(Bait)<Color:Default> and <Color:8>Manila Clams<Color:Default>. Oh, and I "
+"heard you can catch them with <Color:8>Chili Peppers<Color:Default>, too. "
+"Isn't that funny?"
+msgstr ""
+
+msgctxt "320_Kiryu"
+msgid ""
+"Heh, who knew you were such a crab enthusiast? Well, thanks to you, I feel "
+"like I could go out there and catch us a few <Color:8>Giant "
+"Crabs<Color:Default>."
+msgstr ""
+
+msgctxt "344_Kiryu"
+msgid "Okay, I'll give it a try."
+msgstr ""
+
+msgctxt "356_Haruka"
+msgid "Yay! Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "380_Kiryu"
+msgid "(Hold on, I don't have any bait.)"
+msgstr ""
+
+msgctxt "392_Haruka"
+msgid "Aww, that's too bad..."
+msgstr ""
+
+msgctxt "404_Kiryu"
+msgid "(Not right now.)"
+msgstr ""
+
+msgctxt "416_Haruka"
+msgid "Aww, c'mon, let's do some fishing!"
+msgstr ""
+
+msgctxt "428_Haruka"
+msgid ""
+"Can you catch a <Color:8>Marlin<Color:Default>, Uncle Kaz? Everyone at "
+"Morning Glory likes fish, you know. I bet they'd love to get one of these!"
+msgstr ""
+
+msgctxt "440_Kiryu"
+msgid ""
+"(A <Color:8>Marlin<Color:Default>, huh? Could be pretty hard to get home, "
+"but if it'll make Haruka happy, I guess I could give it a try...)"
+msgstr ""
+
+msgctxt "452_Kiryu"
+msgid ""
+"Heh. So you want a <Color:8>Marlin<Color:Default> this time, huh? Do you "
+"happen to know how to catch one?"
+msgstr ""
+
+msgctxt "464_Haruka"
+msgid "Actually, I do! I heard you can catch them 120 to 150 meters from the shore."
+msgstr ""
+
+msgctxt "476_Kiryu"
+msgid ""
+"Huh, is that right? That's pretty far. What kind of bait do they usually go "
+"for?"
+msgstr ""
+
+msgctxt "488_Haruka"
+msgid ""
+"Bait? Let me think... Uh... Sorry, Uncle Kaz, I don't remember hearing "
+"anything about bait."
+msgstr ""
+
+msgctxt "500_Kiryu"
+msgid ""
+"Huh... The <Color:8>Marlin<Color:Default> must be a hard fish to catch if "
+"even you don't know how to catch it."
+msgstr ""
+
+msgctxt "512_Haruka"
+msgid "I'm sorry, Uncle Kaz. I should've done more research."
+msgstr ""
+
+msgctxt "524_Kiryu"
+msgid ""
+"Heh, it's all right. You shouldn't be expected to know everything.\r\n"
+"A <Color:8>Marlin<Color:Default>'s going to be a real good challenge."
+msgstr ""
+
+msgctxt "548_Kiryu"
+msgid "Okay, I'll give it a try."
+msgstr ""
+
+msgctxt "560_Haruka"
+msgid "Yay! Good luck, Uncle Kaz!"
+msgstr ""
+
+msgctxt "584_Kiryu"
+msgid "(Hold on, I don't have any bait.)"
+msgstr ""
+
+msgctxt "596_Haruka"
+msgid "Aww, that's too bad..."
+msgstr ""
+
+msgctxt "608_Kiryu"
+msgid "(Not right now.)"
+msgstr ""
+
+msgctxt "620_Haruka"
+msgid "Aww, c'mon, let's do some fishing!"
+msgstr ""
+
+msgctxt "632_Player"
+msgid "(This is a perfect place to fish. Should I do a bit of fishing?)"
+msgstr ""
+
+msgctxt "656_Haruka"
+msgid "(All right, let's give it a go.)"
+msgstr ""
+
+msgctxt "680_Haruka"
+msgid "(Not right now.)"
+msgstr ""
+
+msgctxt "692_Player"
+msgid "(I don't have anything to use as bait...)"
+msgstr ""
+
+msgctxt "704_Player"
+msgid "(Not right now.)"
+msgstr ""
+
+msgctxt "716_Haruka"
+msgid "Try"
+msgstr ""
+
+msgctxt "728_Haruka"
+msgid "Ask for a Tip"
+msgstr ""
+
+msgctxt "740_Haruka"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "752_Haruka"
+msgid "Try"
+msgstr ""
+
+msgctxt "764_Haruka"
+msgid "Ask for a Tip"
+msgstr ""
+
+msgctxt "776_Haruka"
+msgid "Not Now"
+msgstr ""
+
+msgctxt "788_Haruka"
+msgid "Go Fishing"
+msgstr ""
+
+msgctxt "800_Haruka"
+msgid "Not Now"
+msgstr ""

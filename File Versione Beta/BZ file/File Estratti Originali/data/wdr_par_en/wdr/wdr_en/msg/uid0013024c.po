@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-10-04\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "2540"
+msgid "Officer"
+msgstr ""
+
+msgctxt "2544"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "2548"
+msgid "Gun-toting Foreigner"
+msgstr ""
+
+msgctxt "2552"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "2556"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2560"
+msgid "Idle"
+msgstr ""
+
+msgctxt "2564"
+msgid "Knife-wielding Foreigner"
+msgstr ""
+
+msgctxt "2568"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "84_Officer"
+msgid "Lay down your concealed weapons and surrender yourselves!"
+msgstr ""
+
+msgctxt "96_Gun-toting Foreigner"
+msgid "Get out of way! Or we kill you!"
+msgstr ""
+
+msgctxt "108_Tanimura"
+msgid "Hey, you guys okay?"
+msgstr ""
+
+msgctxt "120_Officer"
+msgid ""
+"Oh, Detective Tanimura! Glad you're here. They don't seem to understand a "
+"lot of Japanese. We're having some trouble..."
+msgstr ""
+
+msgctxt "132_Tanimura"
+msgid "All right, I'll see what I can do. Can you shoo off the rubberneckers?"
+msgstr ""
+
+msgctxt "144_Tanimura"
+msgid "[Hey, you guys. How about you give it a rest?]"
+msgstr ""
+
+msgctxt "156_Gun-toting Foreigner"
+msgid ""
+"[Bah! We know you Japanese police can't even shoot your guns or it'd be "
+"against the law!]"
+msgstr ""
+
+msgctxt "168_Knife-wielding Foreigner"
+msgid "[What a bunch of cowards! Step aside!]"
+msgstr ""
+
+msgctxt "180_Tanimura"
+msgid ""
+"[Hey, don't think I'm the same as you guys. You aren't tough at all without "
+"your guns.]"
+msgstr ""
+
+msgctxt "192_Gun-toting Foreigner"
+msgid "[The hell did you say!? I'll end you right now!]"
+msgstr ""
