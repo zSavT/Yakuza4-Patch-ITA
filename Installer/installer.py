@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 # Installer Patch ITA Yakuza 4 Remastered
 # Autore: SavT
-# Versione: v2.3
+# Versione: v2.4
 # -----------------------------------------------------------------------------
 
 import sys
@@ -52,7 +52,7 @@ HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "v0.1"
+VERSIONE = "v1.0"
 ALT_SITE_NAME = "TBA"
 ALT_SITE_URL = "https://www.youtube.com/@zSavT"
 CREDITI = "Patch By SavT e Lowrentio"
@@ -865,7 +865,7 @@ class InstallScreen(QWidget):
         self.backup_checkbox.setToolTip("Se selezionato, i file che verranno sovrascritti dalla patch\nsaranno prima copiati in una sottocartella '_backup_patch_ita_...'")
 
         # Checkbox per la patch alternativa
-        self.alt_patch_checkbox = QCheckBox("Installa anche la traduzione delle quest secondarie (tradotte tramite Gemini)")
+        self.alt_patch_checkbox = QCheckBox("Installa la traduzione quest secondarie, pre-tradotte con Gemini ma non revisionate a mano (In futuro verranno riviste manualmente)")
         self.alt_patch_checkbox.setToolTip("Se selezionato, verrà installato il file 'patch_ai.pkg' al posto di quello standard.")
 
         # Pulsanti Install/Cancel
