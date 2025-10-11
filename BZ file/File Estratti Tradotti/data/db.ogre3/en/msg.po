@@ -1,0 +1,9280 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt-BR\n"
+"Language-Team: Brazil Alliance\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-15\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "0\t156\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "0\t157\t1\tCHK"
+msgid "Yes."
+msgstr ""
+
+msgctxt "0\t162\t2\tCHK"
+msgid "No."
+msgstr ""
+
+msgctxt "0\t166\t3\tCHK"
+msgid "${value} times"
+msgstr ""
+
+msgctxt "0\t181\t4\tCHK"
+msgid "0"
+msgstr ""
+
+msgctxt "0\t183\t5\tCHK"
+msgid "1"
+msgstr ""
+
+msgctxt "0\t185\t6\tCHK"
+msgid "2"
+msgstr ""
+
+msgctxt "0\t187\t7\tCHK"
+msgid "3"
+msgstr ""
+
+msgctxt "0\t189\t8\tCHK"
+msgid "4"
+msgstr ""
+
+msgctxt "0\t191\t9\tCHK"
+msgid "5"
+msgstr ""
+
+msgctxt "0\t193\t10\tCHK"
+msgid "6"
+msgstr ""
+
+msgctxt "0\t195\t11\tCHK"
+msgid "7"
+msgstr ""
+
+msgctxt "0\t197\t12\tCHK"
+msgid "8"
+msgstr ""
+
+msgctxt "0\t199\t13\tCHK"
+msgid "9"
+msgstr ""
+
+msgctxt "0\t201\t14\tCHK"
+msgid "　　 Try Again 　　"
+msgstr ""
+
+msgctxt "0\t225\t15\tCHK"
+msgid "Load & Try Again"
+msgstr ""
+
+msgctxt "0\t242\t16\tCHK"
+msgid "Exit Game"
+msgstr ""
+
+msgctxt "0\t252\t17\tCHK"
+msgid " yen"
+msgstr ""
+
+msgctxt "0\t257\t18\tCHK"
+msgid "Points"
+msgstr ""
+
+msgctxt "0\t264\t19\tCHK"
+msgid "Chips"
+msgstr ""
+
+msgctxt "0\t270\t20\tCHK"
+msgid "Money"
+msgstr ""
+
+msgctxt "0\t276\t21\tCHK"
+msgid "Pts."
+msgstr ""
+
+msgctxt "0\t281\t22\tCHK"
+msgid "Your Pts"
+msgstr ""
+
+msgctxt "0\t290\t23\tCHK"
+msgid "Coliseum Pts"
+msgstr ""
+
+msgctxt "0\t303\t24\tCHK"
+msgid "Funds"
+msgstr ""
+
+msgctxt "0\t309\t25\tCHK"
+msgid "-"
+msgstr ""
+
+msgctxt "0\t311\t26\tCHK"
+msgid ""
+"Use <Action:Button_LS_Up@Adventure><Action:Button_LS_Down@Adventure> to "
+"select a destination."
+msgstr ""
+
+msgctxt "0\t405\t27\tCHK"
+msgid "Save"
+msgstr ""
+
+msgctxt "0\t410\t28\tCHK"
+msgid "Item Box"
+msgstr ""
+
+msgctxt "0\t419\t29\tCHK"
+msgid "Memories"
+msgstr ""
+
+msgctxt "0\t428\t30\tCHK"
+msgid "Stats"
+msgstr ""
+
+msgctxt "0\t434\t31\tCHK"
+msgid "Change"
+msgstr ""
+
+msgctxt "0\t441\t32\tCHK"
+msgid "Normal"
+msgstr ""
+
+msgctxt "0\t448\t33\tCHK"
+msgid ""
+"You are able to change the costumes of Kiryu, Haruka, and Rikiya. \n"
+"Please select the character that you wish to change costumes for."
+msgstr ""
+
+msgctxt "0\t581\t34\tCHK"
+msgid ""
+"Certain locations and situations in Kamurocho and Downtown Ryukyu \n"
+"will change your costume automatically to a specific one."
+msgstr ""
+
+msgctxt "0\t706\t35\tCHK"
+msgid ""
+"Outside of a few instances, the chosen costume will be displayed \n"
+"regardless of location or situation."
+msgstr ""
+
+msgctxt "0\t809\t36\tCHK"
+msgid "Replay"
+msgstr ""
+
+msgctxt "0\t816\t37\tCHK"
+msgid "Yakuza"
+msgstr ""
+
+msgctxt "0\t823\t38\tCHK"
+msgid "Yakuza 2"
+msgstr ""
+
+msgctxt "0\t832\t39\tCHK"
+msgid "Prologue"
+msgstr ""
+
+msgctxt "0\t841\t40\tCHK"
+msgid "Chapter 1: New Beginnings"
+msgstr ""
+
+msgctxt "0\t867\t41\tCHK"
+msgid "Chapter 2: The Ryudo Encounter"
+msgstr ""
+
+msgctxt "0\t898\t42\tCHK"
+msgid "Chapter 3: Power Struggle"
+msgstr ""
+
+msgctxt "0\t924\t43\tCHK"
+msgid "Chapter 4: The Man in the Sketch"
+msgstr ""
+
+msgctxt "0\t957\t44\tCHK"
+msgid "Chapter 5: The Curtain Rises"
+msgstr ""
+
+msgctxt "0\t986\t45\tCHK"
+msgid "Chapter 6: Gameplan"
+msgstr ""
+
+msgctxt "0\t1006\t46\tCHK"
+msgid "Chapter 7: The Mad Dog"
+msgstr ""
+
+msgctxt "0\t1029\t47\tCHK"
+msgid "Chapter 8: Conspirators"
+msgstr ""
+
+msgctxt "0\t1053\t48\tCHK"
+msgid "Chapter 9: The Plot"
+msgstr ""
+
+msgctxt "0\t1073\t49\tCHK"
+msgid "Chapter 10: Unfinished Business"
+msgstr ""
+
+msgctxt "0\t1105\t50\tCHK"
+msgid "Chapter 11: Crisis"
+msgstr ""
+
+msgctxt "0\t1124\t51\tCHK"
+msgid "Final Chapter: The End of Ambition"
+msgstr ""
+
+msgctxt "0\t1159\t52\tCHK"
+msgid "Date's Pride"
+msgstr ""
+
+msgctxt "0\t1172\t53\tCHK"
+msgid "Two Fathers"
+msgstr ""
+
+msgctxt "0\t1184\t54\tCHK"
+msgid "Hometown Girl"
+msgstr ""
+
+msgctxt "0\t1198\t55\tCHK"
+msgid "Dotting the Eye"
+msgstr ""
+
+msgctxt "0\t1214\t56\tCHK"
+msgid "Premarital Honeymooners"
+msgstr ""
+
+msgctxt "0\t1238\t57\tCHK"
+msgid "A Lesson Never Learned"
+msgstr ""
+
+msgctxt "0\t1261\t58\tCHK"
+msgid "Silver Screen Dragon"
+msgstr ""
+
+msgctxt "0\t1282\t59\tCHK"
+msgid "The Comforting Yakuza"
+msgstr ""
+
+msgctxt "0\t1304\t60\tCHK"
+msgid "Murder at Café Alps"
+msgstr ""
+
+msgctxt "0\t1325\t61\tCHK"
+msgid "Credits"
+msgstr ""
+
+msgctxt "0\t1333\t62\tCHK"
+msgid "Tsuyoshi Kanda"
+msgstr ""
+
+msgctxt "0\t1348\t63\tCHK"
+msgid "Yoshitaka Mine"
+msgstr ""
+
+msgctxt "0\t1363\t64\tCHK"
+msgid "Goh Hamazaki"
+msgstr ""
+
+msgctxt "0\t1376\t65\tCHK"
+msgid "Nothing more to ask."
+msgstr ""
+
+msgctxt "0\t1397\t66\tCHK"
+msgid "Masaru Kinoshita"
+msgstr ""
+
+msgctxt "0\t1414\t67\tCHK"
+msgid "Sawako Usami"
+msgstr ""
+
+msgctxt "0\t1427\t68\tCHK"
+msgid "Soichiro Asai"
+msgstr ""
+
+msgctxt "0\t1441\t69\tCHK"
+msgid "Tadashi Imagawa"
+msgstr ""
+
+msgctxt "0\t1457\t70\tCHK"
+msgid "Nozomi Akechi"
+msgstr ""
+
+msgctxt "0\t1471\t71\tCHK"
+msgid "Junji Maeda"
+msgstr ""
+
+msgctxt "0\t1483\t72\tCHK"
+msgid "Yuko Kinoshita"
+msgstr ""
+
+msgctxt "0\t1498\t73\tCHK"
+msgid "Yuichi Akechi"
+msgstr ""
+
+msgctxt "0\t1512\t74\tCHK"
+msgid "${value} Experience Points"
+msgstr ""
+
+msgctxt "0\t1539\t75\tCHK"
+msgid "${value} Coliseum Points"
+msgstr ""
+
+msgctxt "0\t1564\t76\tCHK"
+msgid "No Email"
+msgstr ""
+
+msgctxt "0\t1573\t77\tCHK"
+msgid "No Unread Email"
+msgstr ""
+
+msgctxt "0\t1589\t78\tCHK"
+msgid "Inbox"
+msgstr ""
+
+msgctxt "0\t1595\t79\tCHK"
+msgid "Received Emails"
+msgstr ""
+
+msgctxt "0\t1611\t80\tCHK"
+msgid "${value1}/${value2}"
+msgstr ""
+
+msgctxt "0\t1631\t81\tCHK"
+msgid "Select an email to read."
+msgstr ""
+
+msgctxt "0\t1656\t82\tCHK"
+msgid "${value1} ${value2}"
+msgstr ""
+
+msgctxt "0\t1676\t83\tCHK"
+msgid "Ascending Order"
+msgstr ""
+
+msgctxt "0\t1692\t84\tCHK"
+msgid "Descending Order"
+msgstr ""
+
+msgctxt "0\t1709\t85\tCHK"
+msgid "Received"
+msgstr ""
+
+msgctxt "0\t1718\t86\tCHK"
+msgid "Unread"
+msgstr ""
+
+msgctxt "0\t1725\t87\tCHK"
+msgid "Sender"
+msgstr ""
+
+msgctxt "0\t1732\t88\tCHK"
+msgid "Email"
+msgstr ""
+
+msgctxt "0\t1738\t89\tCHK"
+msgid ""
+"Couldn't send to Item Box due to it being full.\n"
+"Returning item to locker."
+msgstr ""
+
+msgctxt "0\t1812\t90\tCHK"
+msgid "Returned item to locker."
+msgstr ""
+
+msgctxt "0\t1837\t91\tCHK"
+msgid "Sent item to hideout."
+msgstr ""
+
+msgctxt "0\t1859\t92\tCHK"
+msgid ""
+"You can't carry any more items.\n"
+"Returning item to locker."
+msgstr ""
+
+msgctxt "0\t1917\t93\tCHK"
+msgid "Choose which locker you would like to open."
+msgstr ""
+
+msgctxt "0\t1961\t94\tCHK"
+msgid ""
+"You can't carry any more equipment.\n"
+"Returning item to locker."
+msgstr ""
+
+msgctxt "0\t2023\t95\tCHK"
+msgid "Ultimate Match"
+msgstr ""
+
+msgctxt "0\t2038\t96\tCHK"
+msgid "? ? ?"
+msgstr ""
+
+msgctxt "0\t2044\t97\tCHK"
+msgid "Melee"
+msgstr ""
+
+msgctxt "0\t2050\t98\tCHK"
+msgid "One-on-One"
+msgstr ""
+
+msgctxt "0\t2061\t99\tCHK"
+msgid "Challenge"
+msgstr ""
+
+msgctxt "0\t2071\t100\tCHK"
+msgid "Team"
+msgstr ""
+
+msgctxt "0\t2076\t101\tCHK"
+msgid "Ultimate"
+msgstr ""
+
+msgctxt "0\t2085\t102\tCHK"
+msgid "Rebirth"
+msgstr ""
+
+msgctxt "0\t2093\t103\tCHK"
+msgid "Defeat multiple enemies under various situations and conditions."
+msgstr ""
+
+msgctxt "0\t2158\t104\tCHK"
+msgid "Battle strong enemies one-on-one in various situations."
+msgstr ""
+
+msgctxt "0\t2214\t105\tCHK"
+msgid "Succeed through various unique conditions."
+msgstr ""
+
+msgctxt "0\t2257\t106\tCHK"
+msgid "Fight off strong enemies with a partner by your side."
+msgstr ""
+
+msgctxt "0\t2311\t107\tCHK"
+msgid "Take down multiple strong enemies in consecutive matches."
+msgstr ""
+
+msgctxt "0\t2369\t108\tCHK"
+msgid "Match 1"
+msgstr ""
+
+msgctxt "0\t2377\t109\tCHK"
+msgid "Match 2"
+msgstr ""
+
+msgctxt "0\t2385\t110\tCHK"
+msgid "Match 3"
+msgstr ""
+
+msgctxt "0\t2393\t111\tCHK"
+msgid "Match 4"
+msgstr ""
+
+msgctxt "0\t2401\t112\tCHK"
+msgid "Match 5"
+msgstr ""
+
+msgctxt "0\t2409\t113\tCHK"
+msgid "Match 6"
+msgstr ""
+
+msgctxt "0\t2417\t114\tCHK"
+msgid "Match 7"
+msgstr ""
+
+msgctxt "0\t2425\t115\tCHK"
+msgid "Match 8"
+msgstr ""
+
+msgctxt "0\t2433\t116\tCHK"
+msgid "Match 9"
+msgstr ""
+
+msgctxt "0\t2441\t117\tCHK"
+msgid "Match 10"
+msgstr ""
+
+msgctxt "0\t2450\t118\tCHK"
+msgid "Completion Time"
+msgstr ""
+
+msgctxt "0\t2466\t119\tCHK"
+msgid "Health Remaining"
+msgstr ""
+
+msgctxt "0\t2483\t120\tCHK"
+msgid "Time Remaining"
+msgstr ""
+
+msgctxt "0\t2498\t121\tCHK"
+msgid "Total Damage"
+msgstr ""
+
+msgctxt "0\t2511\t122\tCHK"
+msgid "Completion Time ${min}：${sec}：${hmsec}"
+msgstr ""
+
+msgctxt "0\t2554\t123\tCHK"
+msgid "Time Remaining ${min}：${sec}：${hmsec}"
+msgstr ""
+
+msgctxt "0\t2596\t124\tCHK"
+msgid "Total Damage ${value}"
+msgstr ""
+
+msgctxt "0\t2618\t125\tCHK"
+msgid "${value} hits"
+msgstr ""
+
+msgctxt "0\t2632\t126\tCHK"
+msgid "You can now select ${name} ${index}."
+msgstr ""
+
+msgctxt "0\t2669\t127\tCHK"
+msgid "${value} people left"
+msgstr ""
+
+msgctxt "0\t2690\t128\tCHK"
+msgid "You got ${item}."
+msgstr ""
+
+msgctxt "0\t2707\t129\tCHK"
+msgid "stop autoplay"
+msgstr ""
+
+msgctxt "0\t2721\t130\tCHK"
+msgid "autoplaying"
+msgstr ""
+
+msgctxt "0\t2733\t131\tCHK"
+msgid "<Action:Button_R3@UI> autoplay"
+msgstr ""
+
+msgctxt "0\t2764\t132\tCHK"
+msgid "There is no Save Data."
+msgstr ""
+
+msgctxt "0\t2787\t133\tCHK"
+msgid "There is no System Data."
+msgstr ""
+
+msgctxt "0\t2812\t134\tCHK"
+msgid "There is no Clear Data."
+msgstr ""
+
+msgctxt "0\t2836\t135\tCHK"
+msgid "Your inventory is full."
+msgstr ""
+
+msgctxt "0\t2860\t136\tCHK"
+msgid "Premium Adventure"
+msgstr ""
+
+msgctxt "0\t2878\t137\tCHK"
+msgid "Enjoy the sights at your leisure. The world is your oyster!"
+msgstr ""
+
+msgctxt "0\t2938\t138\tCHK"
+msgid ""
+"${title}\n"
+"Play time: ${hour}:${min}:${sec}\n"
+"Number of saves: ${save} times\n"
+"Number of continues: ${continue} times\n"
+"Difficulty: ${difficulty}\n"
+"${hint}"
+msgstr ""
+
+msgctxt "0\t3084\t139\tCHK"
+msgid ""
+"Clear Data\n"
+"Clear time: ${hour}:${min}:${sec}\n"
+"Number of saves: ${save} times\n"
+"Number of continues: ${continue} times\n"
+"Difficulty: ${difficulty}"
+msgstr ""
+
+msgctxt "0\t3225\t140\tCHK"
+msgid ""
+"Premium Adventure\n"
+"Play time: ${hour}:${min}:${sec}\n"
+"Number of saves: ${save} times\n"
+"Number of continues: ${continue} times\n"
+"${hint}"
+msgstr ""
+
+msgctxt "0\t3354\t141\tCHK"
+msgid "Save Data ${value}"
+msgstr ""
+
+msgctxt "0\t3373\t142\tCHK"
+msgid "Kamurocho"
+msgstr ""
+
+msgctxt "0\t3383\t143\tCHK"
+msgid "Downtown Ryukyu"
+msgstr ""
+
+msgctxt "0\t3399\t144\tCHK"
+msgid "Requests"
+msgstr ""
+
+msgctxt "0\t3408\t145\tCHK"
+msgid "Reward: ${value}"
+msgstr ""
+
+msgctxt "0\t3425\t146\tCHK"
+msgid "Investigation Details"
+msgstr ""
+
+msgctxt "0\t3447\t147\tCHK"
+msgid "Target Information"
+msgstr ""
+
+msgctxt "0\t3466\t148\tCHK"
+msgid "Name"
+msgstr ""
+
+msgctxt "0\t3471\t149\tCHK"
+msgid "Reward"
+msgstr ""
+
+msgctxt "0\t3478\t150\tCHK"
+msgid "Details"
+msgstr ""
+
+msgctxt "0\t3486\t151\tCHK"
+msgid "Location"
+msgstr ""
+
+msgctxt "0\t3495\t152\tCHK"
+msgid "<Action:Button_Cross@UI> Confirm"
+msgstr ""
+
+msgctxt "0\t3528\t153\tCHK"
+msgid "<Action:Button_Circle@UI> Return"
+msgstr ""
+
+msgctxt "0\t3561\t154\tCHK"
+msgid "<Action:Button_Cross@UI> Accept"
+msgstr ""
+
+msgctxt "0\t3593\t155\tCHK"
+msgid "Never mind"
+msgstr ""
+
+msgctxt "0\t3604\t156\tCHK"
+msgid "Accept this Request"
+msgstr ""
+
+msgctxt "0\t3624\t157\tCHK"
+msgid "There are no missions at this time."
+msgstr ""
+
+msgctxt "0\t3660\t158\tCHK"
+msgid "There is no new information about hitmen."
+msgstr ""
+
+msgctxt "0\t3702\t159\tCHK"
+msgid "Reaper Boss"
+msgstr ""
+
+msgctxt "0\t3714\t160\tCHK"
+msgid "Training A"
+msgstr ""
+
+msgctxt "0\t3725\t161\tCHK"
+msgid "Training B"
+msgstr ""
+
+msgctxt "0\t3736\t162\tCHK"
+msgid "Training C"
+msgstr ""
+
+msgctxt "0\t3747\t163\tCHK"
+msgid "Ultimate Training"
+msgstr ""
+
+msgctxt "0\t3765\t164\tCHK"
+msgid "Extra Modes"
+msgstr ""
+
+msgctxt "0\t3777\t165\tCHK"
+msgid "Manual Update"
+msgstr ""
+
+msgctxt "0\t3791\t166\tCHK"
+msgid "Connect 2 input devices."
+msgstr ""
+
+msgctxt "0\t3816\t167\tCHK"
+msgid "Checking contents of Extra Modes and starting up Extra Modes only game."
+msgstr ""
+
+msgctxt "0\t3888\t168\tCHK"
+msgid ""
+"Updates will occur automatically when the console has a network connection, "
+"but if the console is disconnected and a failure occures, you are able to "
+"manually update from here."
+msgstr ""
+
+msgctxt "0\t4065\t169\tCHK"
+msgid ""
+"Within Extra Modes, you can enjoy the following minigames from Yakuza 3 "
+"with two players: Pool, Darts, Bowling, and Golf. "
+msgstr ""
+
+msgctxt "0\t4188\t170\tCHK"
+msgid ""
+"In addition, you can check the additional game modes and costumes that are "
+"added with Premium Adventure, which is playable after your first clear of "
+"the story."
+msgstr ""
+
+msgctxt "0\t4348\t171\tCHK"
+msgid ""
+"Continue the game without saving the System Data? (Please be aware that if "
+"you do not save the System Data, then you may lose settings and game clear "
+"information.)"
+msgstr ""
+
+msgctxt "0\t4512\t172\tCHK"
+msgid "Continue without saving?"
+msgstr ""
+
+msgctxt "0\t4537\t173\tCHK"
+msgid ""
+"If you do not save the Clear Data, then the additional menus that appear "
+"after a clear will not be saved. Return to title without saving Clear Data?"
+msgstr ""
+
+msgctxt "0\t4686\t174\tCHK"
+msgid "Delete other data?"
+msgstr ""
+
+msgctxt "0\t4705\t175\tCHK"
+msgid "Save data?"
+msgstr ""
+
+msgctxt "0\t4716\t176\tCHK"
+msgid ""
+"You cannot turn back from this point. It is recommended to not overwrite "
+"the Save Data and create a new file. Do you want to save?"
+msgstr ""
+
+msgctxt "0\t4847\t177\tCHK"
+msgid ""
+"You will create data that will be used for the newly unlocked post-clear "
+"mode. This will save all elements, but if you begin a \"New Game using "
+"Clear Data,\" then elements such as substory progression will not be saved. "
+"It is recommended to create a new Save Data. Please be aware of this when "
+"overwriting an existing Save Data. Save this Clear Data?"
+msgstr ""
+
+msgctxt "0\t5196\t178\tCHK"
+msgid "Received Ukiyo Bell as a present."
+msgstr ""
+
+msgctxt "0\t5230\t179\tCHK"
+msgid "No new updates found."
+msgstr ""
+
+msgctxt "0\t5252\t180\tCHK"
+msgid "Update canceled."
+msgstr ""
+
+msgctxt "0\t5269\t181\tCHK"
+msgid "An error occurred."
+msgstr ""
+
+msgctxt "0\t5288\t182\tCHK"
+msgid "Failed to acquire trophy."
+msgstr ""
+
+msgctxt "0\t5314\t183\tCHK"
+msgid "A trophy error occurred."
+msgstr ""
+
+msgctxt "0\t5339\t184\tCHK"
+msgid "Save completed."
+msgstr ""
+
+msgctxt "0\t5355\t185\tCHK"
+msgid "New System Data"
+msgstr ""
+
+msgctxt "0\t5371\t186\tCHK"
+msgid "New Save Data"
+msgstr ""
+
+msgctxt "0\t5385\t187\tCHK"
+msgid "Saving..."
+msgstr ""
+
+msgctxt "0\t5395\t188\tCHK"
+msgid "Loading..."
+msgstr ""
+
+msgctxt "0\t5406\t189\tCHK"
+msgid "System Data"
+msgstr ""
+
+msgctxt "0\t5418\t190\tSUS"
+msgid "★"
+msgstr ""
+
+msgctxt "0\t5422\t191\tCHK"
+msgid "YAKUZA 3 system data."
+msgstr ""
+
+msgctxt "0\t5444\t192\tCHK"
+msgid "Cancel saving?"
+msgstr ""
+
+msgctxt "0\t5459\t193\tCHK"
+msgid "Cancel loading?"
+msgstr ""
+
+msgctxt "0\t5475\t194\tCHK"
+msgid "Load completed."
+msgstr ""
+
+msgctxt "0\t5491\t195\tCHK"
+msgid "Save Data"
+msgstr ""
+
+msgctxt "0\t5501\t196\tCHK"
+msgid "YAKUZA 3"
+msgstr ""
+
+msgctxt "0\t5510\t197\tCHK"
+msgid ""
+"To load this Save Data,\n"
+"you will need to wait for the game to be installed first."
+msgstr ""
+
+msgctxt "0\t5592\t198\tCHK"
+msgid "Super Finish"
+msgstr ""
+
+msgctxt "0\t5605\t199\tCHK"
+msgid ""
+"When nearing victory against a powerful enemy, you are able to perform a "
+"<Color:7>Super Finish<Color:Default>. If your <Color:9>Heat "
+"Gauge<Color:Default> isn't filled, rapidly press "
+"<Action:Battle_Extreme_Heat@Combat> to enter <Color:9>Heat "
+"mode<Color:Default> within the given amount of time."
+msgstr ""
+
+msgctxt "0\t5899\t200\tCHK"
+msgid "Unacquired"
+msgstr ""
+
+msgctxt "0\t5910\t201\tCHK"
+msgid "Head Press"
+msgstr ""
+
+msgctxt "0\t5921\t202\tCHK"
+msgid "Knock Down"
+msgstr ""
+
+msgctxt "0\t5932\t203\tCHK"
+msgid "Hell's Gauntlet"
+msgstr ""
+
+msgctxt "0\t5948\t204\tCHK"
+msgid "Profile"
+msgstr ""
+
+msgctxt "0\t5956\t205\tSUS"
+msgid "｜Article List｜"
+msgstr ""
+
+msgctxt "0\t5975\t206\tSUS"
+msgid "≪ Previous article"
+msgstr ""
+
+msgctxt "0\t5996\t207\tSUS"
+msgid "Next article ≫"
+msgstr ""
+
+msgctxt "0\t6013\t208\tCHK"
+msgid "Theme: Revelations"
+msgstr ""
+
+msgctxt "0\t6032\t209\tCHK"
+msgid "<Action:Button_Circle@UI> Close"
+msgstr ""
+
+msgctxt "0\t6064\t210\tCHK"
+msgid "If only he hadn't been holding that soba..."
+msgstr ""
+
+msgctxt "0\t6108\t211\tCHK"
+msgid "He wasted the power of that amazing landing..."
+msgstr ""
+
+msgctxt "0\t6155\t212\tCHK"
+msgid "That scooter crash sent him flying."
+msgstr ""
+
+msgctxt "0\t6191\t213\tCHK"
+msgid "Incredible fall. Can I use height to double my power?"
+msgstr ""
+
+msgctxt "0\t6245\t214\tCHK"
+msgid "Amazing dance. Can I use my legs like that, too?"
+msgstr ""
+
+msgctxt "0\t6294\t215\tCHK"
+msgid "Charming guy. Guess everyone's a star when they're drunk."
+msgstr ""
+
+msgctxt "0\t6352\t216\tCHK"
+msgid "That girl... Did her screams awaken a hidden power?"
+msgstr ""
+
+msgctxt "0\t6404\t217\tCHK"
+msgid "That drunk... Only a stuntman could fly like that."
+msgstr ""
+
+msgctxt "0\t6455\t218\tCHK"
+msgid "Wow... She countered his grapple like a pro."
+msgstr ""
+
+msgctxt "0\t6500\t219\tCHK"
+msgid "The alcohol made him limber and streamlined his power."
+msgstr ""
+
+msgctxt "0\t6555\t220\tCHK"
+msgid "He faked being drunk to throw his enemy off guard."
+msgstr ""
+
+msgctxt "0\t6606\t221\tCHK"
+msgid "Being drunk made him realize his potential."
+msgstr ""
+
+msgctxt "0\t6650\t222\tCHK"
+msgid "That stance is the secret to explosive speed."
+msgstr ""
+
+msgctxt "0\t6696\t223\tCHK"
+msgid "Fleet feet are the secret to dealing with crowds."
+msgstr ""
+
+msgctxt "0\t6746\t224\tCHK"
+msgid "That pose could make me the star of Ninja Village."
+msgstr ""
+
+msgctxt "0\t6797\t225\tCHK"
+msgid "No one gets off scot-free after hurling a banana peel."
+msgstr ""
+
+msgctxt "0\t6852\t226\tCHK"
+msgid "Are you taking a nap on the street again?"
+msgstr ""
+
+msgctxt "0\t6894\t227\tCHK"
+msgid "Poor guy just had some tough luck."
+msgstr ""
+
+msgctxt "0\t6929\t228\tCHK"
+msgid "You could knock down everything with a ball his size."
+msgstr ""
+
+msgctxt "0\t6983\t229\tCHK"
+msgid "Never underestimate the power of inertia."
+msgstr ""
+
+msgctxt "0\t7025\t230\tCHK"
+msgid "He's the real winner for entertaining everyone."
+msgstr ""
+
+msgctxt "0\t7073\t231\tCHK"
+msgid "Kids are unpredictable when they lose their temper."
+msgstr ""
+
+msgctxt "0\t7125\t232\tCHK"
+msgid "He underestimated his son because he was lying down."
+msgstr ""
+
+msgctxt "0\t7178\t233\tCHK"
+msgid "He should have explained it was an adults-only store."
+msgstr ""
+
+msgctxt "0\t7232\t234\tCHK"
+msgid "The ball's trajectory depends on how the ball is hit."
+msgstr ""
+
+msgctxt "0\t7286\t235\tCHK"
+msgid "Guys like showing off when girls are around."
+msgstr ""
+
+msgctxt "0\t7331\t236\tCHK"
+msgid "Hit 'em low, then hit 'em high."
+msgstr ""
+
+msgctxt "0\t7363\t237\tCHK"
+msgid "Leap, flip, and stick the landing. Magnificent..."
+msgstr ""
+
+msgctxt "0\t7413\t238\tCHK"
+msgid "Hit the enemy while they're distracted. Sneaky."
+msgstr ""
+
+msgctxt "0\t7461\t239\tCHK"
+msgid "She stayed upright the whole time. Must be pretty tough."
+msgstr ""
+
+msgctxt "0\t7518\t240\tCHK"
+msgid ""
+"Installation must complete to proceed.\n"
+"Time remaining: ${hour} hour(s), ${min} minute(s)"
+msgstr ""
+
+msgctxt "0\t7607\t241\tCHK"
+msgid "Bullring"
+msgstr ""
+
+msgctxt "0\t7616\t242\tCHK"
+msgid "Airport (To Kamurocho)"
+msgstr ""
+
+msgctxt "0\t7639\t243\tCHK"
+msgid "Airport (To Okinawa)"
+msgstr ""
+
+msgctxt "0\t7660\t244\tCHK"
+msgid "Futenma Airfield (To Kamurocho)"
+msgstr ""
+
+msgctxt "0\t7692\t245\tCHK"
+msgid "Yokoda Airfield (To Okinawa)"
+msgstr ""
+
+msgctxt "0\t7721\t246\tCHK"
+msgid "Touto Hospital"
+msgstr ""
+
+msgctxt "0\t7736\t247\tCHK"
+msgid "Ranking"
+msgstr ""
+
+msgctxt "0\t7744\t248\tCHK"
+msgid "This Save Data is not compatible with the trial version."
+msgstr ""
+
+msgctxt "0\t7801\t249\tCHK"
+msgid ""
+"A Yakuza series title was found installed on your device. Received Gold "
+"Plate as a present."
+msgstr ""
+
+msgctxt "0\t7893\t250\tCHK"
+msgid ""
+"System data from Fist of the North Star: Lost Paradise has been found. "
+"Received Gold Plate as a present."
+msgstr ""
+
+msgctxt "0\t7998\t251\tCHK"
+msgid "System data from Judgment has been found. Received Gold Plate as a present."
+msgstr ""
+
+msgctxt "0\t8074\t252\tCHK"
+msgid "Play Time"
+msgstr ""
+
+msgctxt "0\t8084\t253\tCHK"
+msgid "Create save on new slot"
+msgstr ""
+
+msgctxt "0\t8108\t254\tCHK"
+msgid "Save Game"
+msgstr ""
+
+msgctxt "0\t8118\t255\tCHK"
+msgid "Manual"
+msgstr ""
+
+msgctxt "0\t8125\t256\tCHK"
+msgid "Create new save"
+msgstr ""
+
+msgctxt "0\t8141\t257\tCHK"
+msgid "Load Game"
+msgstr ""
+
+msgctxt "0\t8151\t258\tCHK"
+msgid "Load"
+msgstr ""
+
+msgctxt "0\t8156\t259\tCHK"
+msgid "Delete"
+msgstr ""
+
+msgctxt "0\t8163\t260\tCHK"
+msgid "Reset all game modes"
+msgstr ""
+
+msgctxt "0\t8184\t261\tCHK"
+msgid "Reset current game mode"
+msgstr ""
+
+msgctxt "0\t8208\t262\tCHK"
+msgid ""
+"Player 1, press a button on the input device\n"
+"you wish to use to control the game."
+msgstr ""
+
+msgctxt "0\t8290\t263\tCHK"
+msgid ""
+"Player 2, press a button on the input device\n"
+"you wish to use to control the game."
+msgstr ""
+
+msgctxt "0\t8372\t264\tCHK"
+msgid "*unused*"
+msgstr ""
+
+msgctxt "0\t8381\t265\tCHK"
+msgid "Resume"
+msgstr ""
+
+msgctxt "0\t8388\t266\tCHK"
+msgid "Press key to rebind"
+msgstr ""
+
+msgctxt "1\t16668\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "1\t16669\t1\tCHK"
+msgid "I Wanna Change Myself"
+msgstr ""
+
+msgctxt "1\t16691\t2\tCHK"
+msgid "Kamurocho Lullaby"
+msgstr ""
+
+msgctxt "1\t16709\t3\tCHK"
+msgid "Where Has Your Touch Gone?"
+msgstr ""
+
+msgctxt "1\t16736\t4\tCHK"
+msgid "Shooting Star"
+msgstr ""
+
+msgctxt "1\t16750\t5\tSUS"
+msgid "Saturday Night☆Lover"
+msgstr ""
+
+msgctxt "1\t16773\t6\tCHK"
+msgid "Summer Memories"
+msgstr ""
+
+msgctxt "1\t16789\t7\tCHK"
+msgid ""
+"Play Count: ${num}; Last Score: ${prev_pt} points; High Score: ${max_pt} "
+"points"
+msgstr ""
+
+msgctxt "1\t16869\t8\tCHK"
+msgid "Play Count: 0; Last Score: None; High Score: None"
+msgstr ""
+
+msgctxt "1\t16919\t9\tCHK"
+msgid "Karaoke Dragon"
+msgstr ""
+
+msgctxt "1\t16934\t10\tCHK"
+msgid "Karaoke King"
+msgstr ""
+
+msgctxt "1\t16947\t11\tCHK"
+msgid "Karaoke Pro"
+msgstr ""
+
+msgctxt "1\t16959\t12\tCHK"
+msgid "Karaoke Bozo"
+msgstr ""
+
+msgctxt "1\t16972\t13\tCHK"
+msgid "Tone Deaf"
+msgstr ""
+
+msgctxt "1\t16982\t14\tCHK"
+msgid "First-timer"
+msgstr ""
+
+msgctxt "1\t16994\t15\tCHK"
+msgid "Regular"
+msgstr ""
+
+msgctxt "1\t17002\t16\tCHK"
+msgid "Passionate"
+msgstr ""
+
+msgctxt "1\t17013\t17\tCHK"
+msgid "Easy"
+msgstr ""
+
+msgctxt "1\t17018\t18\tCHK"
+msgid "Hard"
+msgstr ""
+
+msgctxt "1\t17023\t19\tCHK"
+msgid "${music}; Difficulty: ${difficulty}"
+msgstr ""
+
+msgctxt "1\t17059\t20\tCHK"
+msgid "Style"
+msgstr ""
+
+msgctxt "1\t17065\t21\tCHK"
+msgid "GREAT!"
+msgstr ""
+
+msgctxt "1\t17072\t22\tCHK"
+msgid "GOOD"
+msgstr ""
+
+msgctxt "1\t17077\t23\tCHK"
+msgid "BAD"
+msgstr ""
+
+msgctxt "1\t17081\t24\tCHK"
+msgid "Score"
+msgstr ""
+
+msgctxt "1\t17087\t25\tCHK"
+msgid "High Score"
+msgstr ""
+
+msgctxt "1\t17098\t26\tCHK"
+msgid "Rank"
+msgstr ""
+
+msgctxt "1\t17103\t27\tCHK"
+msgid "Even"
+msgstr ""
+
+msgctxt "1\t17108\t28\tCHK"
+msgid "Odd"
+msgstr ""
+
+msgctxt "1\t17112\t29\tCHK"
+msgid "           Continue           "
+msgstr ""
+
+msgctxt "1\t17143\t30\tCHK"
+msgid "Quit"
+msgstr ""
+
+msgctxt "1\t17148\t31\tCHK"
+msgid "            Yes            "
+msgstr ""
+
+msgctxt "1\t17176\t32\tCHK"
+msgid "           No           "
+msgstr ""
+
+msgctxt "1\t17201\t33\tCHK"
+msgid "It's even!"
+msgstr ""
+
+msgctxt "1\t17212\t34\tCHK"
+msgid "It's odd!"
+msgstr ""
+
+msgctxt "1\t17222\t35\tCHK"
+msgid "Even!"
+msgstr ""
+
+msgctxt "1\t17228\t36\tCHK"
+msgid "Odd!"
+msgstr ""
+
+msgctxt "1\t17233\t37\tCHK"
+msgid "Even...?"
+msgstr ""
+
+msgctxt "1\t17242\t38\tCHK"
+msgid "Odd...?"
+msgstr ""
+
+msgctxt "1\t17250\t39\tCHK"
+msgid "Even...!"
+msgstr ""
+
+msgctxt "1\t17259\t40\tCHK"
+msgid "Odd...!"
+msgstr ""
+
+msgctxt "1\t17267\t41\tCHK"
+msgid "Lookin' good..."
+msgstr ""
+
+msgctxt "1\t17283\t42\tCHK"
+msgid "Pretty good."
+msgstr ""
+
+msgctxt "1\t17296\t43\tCHK"
+msgid "You're not half bad."
+msgstr ""
+
+msgctxt "1\t17317\t44\tCHK"
+msgid "That's it..."
+msgstr ""
+
+msgctxt "1\t17330\t45\tCHK"
+msgid "Should'a known..."
+msgstr ""
+
+msgctxt "1\t17348\t46\tCHK"
+msgid "Good job."
+msgstr ""
+
+msgctxt "1\t17358\t47\tCHK"
+msgid "Guess this one's yours..."
+msgstr ""
+
+msgctxt "1\t17384\t48\tCHK"
+msgid "Amazing..."
+msgstr ""
+
+msgctxt "1\t17395\t49\tCHK"
+msgid "Take that..."
+msgstr ""
+
+msgctxt "1\t17408\t50\tCHK"
+msgid "Hehehe..."
+msgstr ""
+
+msgctxt "1\t17418\t51\tCHK"
+msgid "Aww..."
+msgstr ""
+
+msgctxt "1\t17425\t52\tCHK"
+msgid "Too bad."
+msgstr ""
+
+msgctxt "1\t17434\t53\tCHK"
+msgid "Close."
+msgstr ""
+
+msgctxt "1\t17441\t54\tCHK"
+msgid "Could'a gone better."
+msgstr ""
+
+msgctxt "1\t17462\t55\tCHK"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "1\t17469\t56\tCHK"
+msgid "Told you it'd be ${result}."
+msgstr ""
+
+msgctxt "1\t17497\t57\tCHK"
+msgid "Should'a been ${result}..."
+msgstr ""
+
+msgctxt "1\t17524\t58\tCHK"
+msgid "How could it be ${result}...?"
+msgstr ""
+
+msgctxt "1\t17554\t59\tCHK"
+msgid "${result}, huh?"
+msgstr ""
+
+msgctxt "1\t17570\t60\tCHK"
+msgid "Figures it'd be ${result}."
+msgstr ""
+
+msgctxt "1\t17597\t61\tCHK"
+msgid "${result}..."
+msgstr ""
+
+msgctxt "1\t17610\t62\tCHK"
+msgid "${result} this time?"
+msgstr ""
+
+msgctxt "1\t17631\t63\tCHK"
+msgid "${result}!?"
+msgstr ""
+
+msgctxt "1\t17643\t64\tCHK"
+msgid "${value} time(s)"
+msgstr ""
+
+msgctxt "1\t17660\t65\tCHK"
+msgid "${value} people"
+msgstr ""
+
+msgctxt "1\t17676\t66\tCHK"
+msgid "Your Total"
+msgstr ""
+
+msgctxt "1\t17687\t67\tCHK"
+msgid "Wager"
+msgstr ""
+
+msgctxt "1\t17693\t68\tCHK"
+msgid "Payout"
+msgstr ""
+
+msgctxt "1\t17700\t69\tCHK"
+msgid "Old Man"
+msgstr ""
+
+msgctxt "1\t17708\t70\tCHK"
+msgid "Promote"
+msgstr ""
+
+msgctxt "1\t17716\t71\tCHK"
+msgid "Don't Promote"
+msgstr ""
+
+msgctxt "1\t17730\t72\tCHK"
+msgid "Use a take back?"
+msgstr ""
+
+msgctxt "1\t17747\t73\tCHK"
+msgid "No"
+msgstr ""
+
+msgctxt "1\t17750\t74\tCHK"
+msgid "Yes"
+msgstr ""
+
+msgctxt "1\t17754\t75\tCHK"
+msgid "Checkmate. Use a take back?"
+msgstr ""
+
+msgctxt "1\t17782\t76\tCHK"
+msgid "Toss pieces to determine who goes first."
+msgstr ""
+
+msgctxt "1\t17823\t77\tCHK"
+msgid "Press <Action:Button_Cross@Shogi> to stop pieces."
+msgstr ""
+
+msgctxt "1\t17873\t78\tCHK"
+msgid "More pawns. You go first."
+msgstr ""
+
+msgctxt "1\t17899\t79\tCHK"
+msgid "More promoted pawns. Opponent goes first."
+msgstr ""
+
+msgctxt "1\t17941\t80\tCHK"
+msgid "As you are playing with a handicap, you go first."
+msgstr ""
+
+msgctxt "1\t17991\t81\tCHK"
+msgid "As your opponent is playing with a handicap, you will go second."
+msgstr ""
+
+msgctxt "1\t18056\t82\tCHK"
+msgid "Haha! Now you've done it!"
+msgstr ""
+
+msgctxt "1\t18082\t83\tCHK"
+msgid "I know your every move!"
+msgstr ""
+
+msgctxt "1\t18106\t84\tCHK"
+msgid "Mmm..."
+msgstr ""
+
+msgctxt "1\t18113\t85\tCHK"
+msgid "Can't keep this up..."
+msgstr ""
+
+msgctxt "1\t18135\t86\tCHK"
+msgid "Ugh... This is tough."
+msgstr ""
+
+msgctxt "1\t18157\t87\tCHK"
+msgid "I think I'm done..."
+msgstr ""
+
+msgctxt "1\t18177\t88\tCHK"
+msgid "I got it!"
+msgstr ""
+
+msgctxt "1\t18187\t89\tCHK"
+msgid "You sure about that, friend?"
+msgstr ""
+
+msgctxt "1\t18216\t90\tCHK"
+msgid "Mm..."
+msgstr ""
+
+msgctxt "1\t18222\t91\tCHK"
+msgid "Aha!"
+msgstr ""
+
+msgctxt "1\t18227\t92\tCHK"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "1\t18234\t93\tCHK"
+msgid "Can't get a break..."
+msgstr ""
+
+msgctxt "1\t18255\t94\tCHK"
+msgid "View Rules"
+msgstr ""
+
+msgctxt "1\t18266\t95\tCHK"
+msgid "Types of Pieces"
+msgstr ""
+
+msgctxt "1\t18282\t96\tCHK"
+msgid "Fouls"
+msgstr ""
+
+msgctxt "1\t18288\t97\tCHK"
+msgid "Close"
+msgstr ""
+
+msgctxt "1\t18294\t98\tCHK"
+msgid "Take Back"
+msgstr ""
+
+msgctxt "1\t18304\t99\tCHK"
+msgid "Time Limit"
+msgstr ""
+
+msgctxt "1\t18315\t100\tCHK"
+msgid "Start Game"
+msgstr ""
+
+msgctxt "1\t18326\t101\tCHK"
+msgid "Throw 1"
+msgstr ""
+
+msgctxt "1\t18334\t102\tCHK"
+msgid "Throw 2"
+msgstr ""
+
+msgctxt "1\t18342\t103\tCHK"
+msgid "Throw 3"
+msgstr ""
+
+msgctxt "1\t18350\t104\tCHK"
+msgid "No Point"
+msgstr ""
+
+msgctxt "1\t18359\t105\tCHK"
+msgid "Missed the Pot"
+msgstr ""
+
+msgctxt "1\t18374\t106\tCHK"
+msgid "　　${level}"
+msgstr ""
+
+msgctxt "1\t18389\t107\tCHK"
+msgid "${name}　　${level}"
+msgstr ""
+
+msgctxt "1\t18411\t108\tCHK"
+msgid "Turn ${value}"
+msgstr ""
+
+msgctxt "1\t18425\t109\tCHK"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "1\t18434\t110\tCHK"
+msgid "Handicap"
+msgstr ""
+
+msgctxt "1\t18443\t111\tCHK"
+msgid ""
+"\n"
+"Who do you want to play?"
+msgstr ""
+
+msgctxt "1\t18469\t112\tCHK"
+msgid ""
+"\n"
+"Which challenge do you want to try?"
+msgstr ""
+
+msgctxt "1\t18506\t113\tCHK"
+msgid ""
+"\n"
+"Play this opponent?"
+msgstr ""
+
+msgctxt "1\t18527\t114\tCHK"
+msgid "Receipt"
+msgstr ""
+
+msgctxt "1\t18535\t115\tCHK"
+msgid "Cover Charge"
+msgstr ""
+
+msgctxt "1\t18548\t116\tCHK"
+msgid "Hostess Selection"
+msgstr ""
+
+msgctxt "1\t18566\t117\tCHK"
+msgid "Food/Drink"
+msgstr ""
+
+msgctxt "1\t18577\t118\tCHK"
+msgid "Service Charge"
+msgstr ""
+
+msgctxt "1\t18592\t119\tCHK"
+msgid "Total"
+msgstr ""
+
+msgctxt "1\t18598\t120\tCHK"
+msgid "Pyrrhic Sabu"
+msgstr ""
+
+msgctxt "1\t18611\t121\tCHK"
+msgid "Three-fans Taka"
+msgstr ""
+
+msgctxt "1\t18627\t122\tCHK"
+msgid "One-yen Shiro"
+msgstr ""
+
+msgctxt "1\t18641\t123\tCHK"
+msgid "1,000-arm Hana"
+msgstr ""
+
+msgctxt "1\t18656\t124\tCHK"
+msgid "Moon/C. Blossom Viewing"
+msgstr ""
+
+msgctxt "1\t18680\t125\tCHK"
+msgid "Rounds"
+msgstr ""
+
+msgctxt "1\t18687\t126\tCHK"
+msgid "Month ${value}"
+msgstr ""
+
+msgctxt "1\t18702\t127\tCHK"
+msgid "${value} point(s)"
+msgstr ""
+
+msgctxt "1\t18720\t128\tCHK"
+msgid "Total: ${value} point(s)"
+msgstr ""
+
+msgctxt "1\t18745\t129\tCHK"
+msgid "Five Lights"
+msgstr ""
+
+msgctxt "1\t18757\t130\tCHK"
+msgid "Four Lights"
+msgstr ""
+
+msgctxt "1\t18769\t131\tCHK"
+msgid "Rainy Four Lights"
+msgstr ""
+
+msgctxt "1\t18787\t132\tCHK"
+msgid "Three Lights"
+msgstr ""
+
+msgctxt "1\t18800\t133\tCHK"
+msgid "Cherry Blossom Viewing"
+msgstr ""
+
+msgctxt "1\t18823\t134\tCHK"
+msgid "Moon Viewing"
+msgstr ""
+
+msgctxt "1\t18836\t135\tCHK"
+msgid "Boar, Deer, Butterfly"
+msgstr ""
+
+msgctxt "1\t18858\t136\tCHK"
+msgid "Red Poetry Ribbons"
+msgstr ""
+
+msgctxt "1\t18877\t137\tCHK"
+msgid "Blue Poetry Ribbons"
+msgstr ""
+
+msgctxt "1\t18897\t138\tCHK"
+msgid "Variety"
+msgstr ""
+
+msgctxt "1\t18905\t139\tCHK"
+msgid "Poetry Ribbons"
+msgstr ""
+
+msgctxt "1\t18920\t140\tCHK"
+msgid "Junk"
+msgstr ""
+
+msgctxt "1\t18925\t141\tCHK"
+msgid "Four of a Kind"
+msgstr ""
+
+msgctxt "1\t18940\t142\tCHK"
+msgid "Four Pairs"
+msgstr ""
+
+msgctxt "1\t18951\t143\tCHK"
+msgid "Result"
+msgstr ""
+
+msgctxt "1\t18958\t144\tCHK"
+msgid "${value}-round match"
+msgstr ""
+
+msgctxt "1\t18979\t145\tCHK"
+msgid "Opponent"
+msgstr ""
+
+msgctxt "1\t18988\t146\tCHK"
+msgid "You won!"
+msgstr ""
+
+msgctxt "1\t18997\t147\tCHK"
+msgid "You lost."
+msgstr ""
+
+msgctxt "1\t19007\t148\tCHK"
+msgid "Draw."
+msgstr ""
+
+msgctxt "1\t19013\t149\tCHK"
+msgid "Total 　${value1} × ${value2}  =  ${value3} points"
+msgstr ""
+
+msgctxt "1\t19066\t150\tCHK"
+msgid "Please select the rules."
+msgstr ""
+
+msgctxt "1\t19091\t151\tCHK"
+msgid "Pick a card to determine the dealer."
+msgstr ""
+
+msgctxt "1\t19128\t152\tCHK"
+msgid "You are the dealer."
+msgstr ""
+
+msgctxt "1\t19148\t153\tCHK"
+msgid "Your opponent is the dealer."
+msgstr ""
+
+msgctxt "1\t19177\t154\tCHK"
+msgid "No hands were formed. Dealer changes."
+msgstr ""
+
+msgctxt "1\t19215\t155\tCHK"
+msgid "Rate"
+msgstr ""
+
+msgctxt "1\t19220\t156\tCHK"
+msgid "Change Settings"
+msgstr ""
+
+msgctxt "1\t19236\t157\tCHK"
+msgid "<Action:Button_Cross@UI> Confirm <Action:Button_Circle@UI> Return"
+msgstr ""
+
+msgctxt "1\t19302\t158\tCHK"
+msgid "<Action:Button_Circle@UI> Return"
+msgstr ""
+
+msgctxt "1\t19335\t159\tCHK"
+msgid "Your Pts"
+msgstr ""
+
+msgctxt "1\t19344\t160\tCHK"
+msgid "Difficulty"
+msgstr ""
+
+msgctxt "1\t19355\t161\tCHK"
+msgid "Double pts. for 7+"
+msgstr ""
+
+msgctxt "1\t19374\t162\tCHK"
+msgid "View Settings"
+msgstr ""
+
+msgctxt "1\t19388\t163\tCHK"
+msgid "View Hands"
+msgstr ""
+
+msgctxt "1\t19399\t164\tCHK"
+msgid "Call Koi"
+msgstr ""
+
+msgctxt "1\t19408\t165\tCHK"
+msgid "Don't Call Koi"
+msgstr ""
+
+msgctxt "1\t19423\t166\tCHK"
+msgid "Play Again"
+msgstr ""
+
+msgctxt "1\t19434\t167\tCHK"
+msgid "You need at least 200 points to play."
+msgstr ""
+
+msgctxt "1\t19472\t168\tCHK"
+msgid "1"
+msgstr ""
+
+msgctxt "1\t19474\t169\tCHK"
+msgid "2"
+msgstr ""
+
+msgctxt "1\t19476\t170\tCHK"
+msgid "3"
+msgstr ""
+
+msgctxt "1\t19478\t171\tCHK"
+msgid "4"
+msgstr ""
+
+msgctxt "1\t19480\t172\tCHK"
+msgid "5"
+msgstr ""
+
+msgctxt "1\t19482\t173\tCHK"
+msgid "6"
+msgstr ""
+
+msgctxt "1\t19484\t174\tCHK"
+msgid "7"
+msgstr ""
+
+msgctxt "1\t19486\t175\tCHK"
+msgid "8"
+msgstr ""
+
+msgctxt "1\t19488\t176\tCHK"
+msgid "9"
+msgstr ""
+
+msgctxt "1\t19490\t177\tCHK"
+msgid "10"
+msgstr ""
+
+msgctxt "1\t19493\t178\tCHK"
+msgid "11"
+msgstr ""
+
+msgctxt "1\t19496\t179\tCHK"
+msgid "12"
+msgstr ""
+
+msgctxt "1\t19499\t180\tCHK"
+msgid "Advanced difficulty unlocked."
+msgstr ""
+
+msgctxt "1\t19529\t181\tCHK"
+msgid "Expert difficulty unlocked."
+msgstr ""
+
+msgctxt "1\t19557\t182\tCHK"
+msgid "x2  "
+msgstr ""
+
+msgctxt "1\t19562\t183\tCHK"
+msgid "Total   ${value1}<Color:255,128,128,255>x2<Color:Default> = ${value2} points"
+msgstr ""
+
+msgctxt "1\t19639\t184\tCHK"
+msgid ""
+"(I don't think I have any bait I can use...\n"
+"I'll come back when I find some.)"
+msgstr ""
+
+msgctxt "1\t19717\t185\tCHK"
+msgid "Do you want to use this as bait?"
+msgstr ""
+
+msgctxt "1\t19750\t186\tCHK"
+msgid ""
+"You caught a ${value} cm <Color:8>maguro<Color:Default>! You won't find a "
+"top-grade bluefin tuna like this very often."
+msgstr ""
+
+msgctxt "1\t19869\t187\tCHK"
+msgid ""
+"You caught a ${value} cm <Color:8>gurukun<Color:Default>! Also called a "
+"\"takasago\" or \"banana fish.\" Tastes good fried."
+msgstr ""
+
+msgctxt "1\t19989\t188\tCHK"
+msgid ""
+"You caught a ${value} cm <Color:8>abasa<Color:Default>! \"Abasa\" is "
+"Okinawan for blowfish. Great for Abasa Stew."
+msgstr ""
+
+msgctxt "1\t20101\t189\tCHK"
+msgid ""
+"You caught a ${value} cm <Color:8>mibai<Color:Default>! \"Mibai\" is "
+"Okinawan for grouper, a fish with a light, delicious flavor."
+msgstr ""
+
+msgctxt "1\t20229\t190\tCHK"
+msgid ""
+"You caught a ${value} cm <Color:8>irabucha<Color:Default>! This is a parrot "
+"fish. Cut it up into sashimi while it's still fresh."
+msgstr ""
+
+msgctxt "1\t20358\t191\tCHK"
+msgid ""
+"You caught a ${value} cm <Color:8>green turban<Color:Default>! Turbans "
+"taste great when steamed."
+msgstr ""
+
+msgctxt "1\t20455\t192\tCHK"
+msgid ""
+"You caught a ${value} cm <Color:8>coral branch<Color:Default>! It's just a "
+"piece of coral."
+msgstr ""
+
+msgctxt "1\t20546\t193\tCHK"
+msgid "You caught a ${value} cm <Color:8>umbrella<Color:Default>! It's broken."
+msgstr ""
+
+msgctxt "1\t20618\t194\tCHK"
+msgid "Continue"
+msgstr ""
+
+msgctxt "1\t20627\t195\tCHK"
+msgid "? ? ?"
+msgstr ""
+
+msgctxt "1\t20633\t196\tCHK"
+msgid "Maguro"
+msgstr ""
+
+msgctxt "1\t20640\t197\tCHK"
+msgid "Gurukun"
+msgstr ""
+
+msgctxt "1\t20648\t198\tCHK"
+msgid "Abasa"
+msgstr ""
+
+msgctxt "1\t20654\t199\tCHK"
+msgid "Mibai"
+msgstr ""
+
+msgctxt "1\t20660\t200\tCHK"
+msgid "Irabucha"
+msgstr ""
+
+msgctxt "1\t20669\t201\tCHK"
+msgid "Green Turban"
+msgstr ""
+
+msgctxt "1\t20682\t202\tCHK"
+msgid "Coral Branch"
+msgstr ""
+
+msgctxt "1\t20695\t203\tCHK"
+msgid "Umbrella"
+msgstr ""
+
+msgctxt "1\t20704\t204\tCHK"
+msgid "Select Outfit"
+msgstr ""
+
+msgctxt "1\t20718\t205\tCHK"
+msgid "Hairstyle"
+msgstr ""
+
+msgctxt "1\t20728\t206\tCHK"
+msgid "Makeup"
+msgstr ""
+
+msgctxt "1\t20735\t207\tCHK"
+msgid "Accessory"
+msgstr ""
+
+msgctxt "1\t20745\t208\tCHK"
+msgid "Eyebrows"
+msgstr ""
+
+msgctxt "1\t20754\t209\tCHK"
+msgid "Eyelashes"
+msgstr ""
+
+msgctxt "1\t20764\t210\tCHK"
+msgid "Eyeliner"
+msgstr ""
+
+msgctxt "1\t20773\t211\tCHK"
+msgid "Eye Shadow"
+msgstr ""
+
+msgctxt "1\t20784\t212\tCHK"
+msgid "Glitter Eye Shadow"
+msgstr ""
+
+msgctxt "1\t20803\t213\tCHK"
+msgid "Color Contacts"
+msgstr ""
+
+msgctxt "1\t20818\t214\tCHK"
+msgid "Blush"
+msgstr ""
+
+msgctxt "1\t20824\t215\tCHK"
+msgid "Glitter Blush"
+msgstr ""
+
+msgctxt "1\t20838\t216\tCHK"
+msgid "Lipstick"
+msgstr ""
+
+msgctxt "1\t20847\t217\tCHK"
+msgid "Lip Gloss"
+msgstr ""
+
+msgctxt "1\t20857\t218\tCHK"
+msgid "Tiaras"
+msgstr ""
+
+msgctxt "1\t20864\t219\tCHK"
+msgid "Glasses"
+msgstr ""
+
+msgctxt "1\t20872\t220\tCHK"
+msgid "Earrings"
+msgstr ""
+
+msgctxt "1\t20881\t221\tCHK"
+msgid "Chokers"
+msgstr ""
+
+msgctxt "1\t20889\t222\tCHK"
+msgid "Necklaces"
+msgstr ""
+
+msgctxt "1\t20899\t223\tCHK"
+msgid "Corsage"
+msgstr ""
+
+msgctxt "1\t20907\t224\tCHK"
+msgid "Black"
+msgstr ""
+
+msgctxt "1\t20913\t225\tCHK"
+msgid "Gold"
+msgstr ""
+
+msgctxt "1\t20918\t226\tCHK"
+msgid "Brown"
+msgstr ""
+
+msgctxt "1\t20924\t227\tCHK"
+msgid "Color A"
+msgstr ""
+
+msgctxt "1\t20932\t228\tCHK"
+msgid "Color B"
+msgstr ""
+
+msgctxt "1\t20940\t229\tCHK"
+msgid "Color C"
+msgstr ""
+
+msgctxt "1\t20948\t230\tCHK"
+msgid "Color D"
+msgstr ""
+
+msgctxt "1\t20956\t231\tCHK"
+msgid "Color E"
+msgstr ""
+
+msgctxt "1\t20964\t232\tCHK"
+msgid "Casual Wear"
+msgstr ""
+
+msgctxt "1\t20976\t233\tCHK"
+msgid "None"
+msgstr ""
+
+msgctxt "1\t20981\t234\tCHK"
+msgid "Owned"
+msgstr ""
+
+msgctxt "1\t20987\t235\tCHK"
+msgid "Default Hairstyle"
+msgstr ""
+
+msgctxt "1\t21005\t236\tCHK"
+msgid "Please choose clothes to replace casual wear."
+msgstr ""
+
+msgctxt "1\t21051\t237\tCHK"
+msgid "Cannot change into casual wear."
+msgstr ""
+
+msgctxt "1\t21083\t238\tCHK"
+msgid "Each command can be used once."
+msgstr ""
+
+msgctxt "1\t21114\t239\tCHK"
+msgid "You don't have enough money."
+msgstr ""
+
+msgctxt "1\t21143\t240\tCHK"
+msgid "Revert to the default outfit?"
+msgstr ""
+
+msgctxt "1\t21173\t241\tCHK"
+msgid "Continue with this outfit?"
+msgstr ""
+
+msgctxt "1\t21200\t242\tCHK"
+msgid "Earned ${value} regular customers!"
+msgstr ""
+
+msgctxt "1\t21235\t243\tCHK"
+msgid "Received a gift!"
+msgstr ""
+
+msgctxt "1\t21252\t244\tCHK"
+msgid "Angered the customer."
+msgstr ""
+
+msgctxt "1\t21274\t245\tCHK"
+msgid "Satisfied the customer!"
+msgstr ""
+
+msgctxt "1\t21298\t246\tCHK"
+msgid "Enter Name"
+msgstr ""
+
+msgctxt "1\t21309\t247\tCHK"
+msgid "Refined"
+msgstr ""
+
+msgctxt "1\t21317\t248\tCHK"
+msgid "Gorgeous"
+msgstr ""
+
+msgctxt "1\t21326\t249\tCHK"
+msgid "Cute"
+msgstr ""
+
+msgctxt "1\t21331\t250\tCHK"
+msgid "Flashy"
+msgstr ""
+
+msgctxt "1\t21338\t251\tCHK"
+msgid "Total Sales"
+msgstr ""
+
+msgctxt "1\t21350\t252\tCHK"
+msgid " Individual Sales"
+msgstr ""
+
+msgctxt "1\t21368\t253\tCHK"
+msgid "Requested"
+msgstr ""
+
+msgctxt "1\t21378\t254\tCHK"
+msgid "Bonus"
+msgstr ""
+
+msgctxt "1\t21384\t255\tCHK"
+msgid "Profit"
+msgstr ""
+
+msgctxt "1\t21391\t256\tCHK"
+msgid "Remaining Balance"
+msgstr ""
+
+msgctxt "1\t21409\t257\tCHK"
+msgid "Keep Going"
+msgstr ""
+
+msgctxt "1\t21420\t258\tCHK"
+msgid "Start Over"
+msgstr ""
+
+msgctxt "1\t21431\t259\tCHK"
+msgid "Retry"
+msgstr ""
+
+msgctxt "1\t21437\t260\tCHK"
+msgid "End"
+msgstr ""
+
+msgctxt "1\t21441\t261\tCHK"
+msgid ""
+"You can retry this shot if you like.\n"
+"Take a mulligan?"
+msgstr ""
+
+msgctxt "1\t21495\t262\tCHK"
+msgid "Play the tutorial?"
+msgstr ""
+
+msgctxt "1\t21514\t263\tCHK"
+msgid "${name}'s turn."
+msgstr ""
+
+msgctxt "1\t21530\t264\tSUS"
+msgid "　－  ±${value}"
+msgstr ""
+
+msgctxt "1\t21549\t265\tSUS"
+msgid "　↓  －${value}"
+msgstr ""
+
+msgctxt "1\t21569\t266\tSUS"
+msgid "　↑  ＋${value}"
+msgstr ""
+
+msgctxt "1\t21589\t267\tSUS"
+msgid "　　±${value}"
+msgstr ""
+
+msgctxt "1\t21606\t268\tCHK"
+msgid "　　－${value}"
+msgstr ""
+
+msgctxt "1\t21624\t269\tCHK"
+msgid "　　＋${value}"
+msgstr ""
+
+msgctxt "1\t21642\t270\tCHK"
+msgid "×"
+msgstr ""
+
+msgctxt "1\t21645\t271\tSUS"
+msgid "○"
+msgstr ""
+
+msgctxt "1\t21649\t272\tCHK"
+msgid "${value}"
+msgstr ""
+
+msgctxt "1\t21658\t273\tCHK"
+msgid "－${value}"
+msgstr ""
+
+msgctxt "1\t21670\t274\tCHK"
+msgid "＋${value}"
+msgstr ""
+
+msgctxt "1\t21682\t275\tCHK"
+msgid "Course"
+msgstr ""
+
+msgctxt "1\t21689\t276\tCHK"
+msgid "Standard Massage"
+msgstr ""
+
+msgctxt "1\t21706\t277\tCHK"
+msgid "Oil Massage & Ear Cleaning"
+msgstr ""
+
+msgctxt "1\t21733\t278\tCHK"
+msgid "Satisfaction"
+msgstr ""
+
+msgctxt "1\t21746\t279\tCHK"
+msgid "Finish Bonus"
+msgstr ""
+
+msgctxt "1\t21759\t280\tCHK"
+msgid "Total Satisfaction"
+msgstr ""
+
+msgctxt "1\t21778\t281\tCHK"
+msgid "Highest Total Satisfaction"
+msgstr ""
+
+msgctxt "1\t21805\t282\tCHK"
+msgid "Disappointed Dragon"
+msgstr ""
+
+msgctxt "1\t21825\t283\tCHK"
+msgid "Appeased Dragon"
+msgstr ""
+
+msgctxt "1\t21841\t284\tCHK"
+msgid "Satisfied Dragon"
+msgstr ""
+
+msgctxt "1\t21858\t285\tCHK"
+msgid "Serene Dragon"
+msgstr ""
+
+msgctxt "1\t21872\t286\tCHK"
+msgid "Select Frame"
+msgstr ""
+
+msgctxt "1\t21885\t287\tCHK"
+msgid "Split Conversion"
+msgstr ""
+
+msgctxt "1\t21902\t288\tCHK"
+msgid "Balls Left"
+msgstr ""
+
+msgctxt "1\t21913\t289\tCHK"
+msgid "Stand"
+msgstr ""
+
+msgctxt "1\t21919\t290\tCHK"
+msgid "One More"
+msgstr ""
+
+msgctxt "1\t21928\t291\tCHK"
+msgid "One more!"
+msgstr ""
+
+msgctxt "1\t21938\t292\tCHK"
+msgid "Showdown with three!"
+msgstr ""
+
+msgctxt "1\t21959\t293\tCHK"
+msgid "Alright, you're on!"
+msgstr ""
+
+msgctxt "1\t21979\t294\tCHK"
+msgid "Showdown"
+msgstr ""
+
+msgctxt "1\t21988\t295\tCHK"
+msgid "Kiryu is the banker."
+msgstr ""
+
+msgctxt "1\t22009\t296\tCHK"
+msgid "Select where to place your bet."
+msgstr ""
+
+msgctxt "1\t22041\t297\tCHK"
+msgid "Decide how much to bet."
+msgstr ""
+
+msgctxt "1\t22065\t298\tCHK"
+msgid "Other players are selecting bets."
+msgstr ""
+
+msgctxt "1\t22099\t299\tCHK"
+msgid "Select player to challenge."
+msgstr ""
+
+msgctxt "1\t22127\t300\tCHK"
+msgid "Stay with this hand."
+msgstr ""
+
+msgctxt "1\t22148\t301\tCHK"
+msgid "The dealer is challenging."
+msgstr ""
+
+msgctxt "1\t22175\t302\tCHK"
+msgid "Out of points. Exiting."
+msgstr ""
+
+msgctxt "1\t22199\t303\tCHK"
+msgid ""
+"Place your bet.\n"
+"Betting ends when time runs out."
+msgstr ""
+
+msgctxt "1\t22248\t304\tCHK"
+msgid "Are you done betting?"
+msgstr ""
+
+msgctxt "1\t22270\t305\tCHK"
+msgid ""
+"The odds here are ${odds}.\n"
+"You can bet ${value} more chips."
+msgstr ""
+
+msgctxt "1\t22330\t306\tCHK"
+msgid ""
+"The odds here are ${odds}.\n"
+"You can bet up to ${value} chips."
+msgstr ""
+
+msgctxt "1\t22391\t307\tCHK"
+msgid ""
+"The odds here are ${odds}.\n"
+"You cannot bet any more chips."
+msgstr ""
+
+msgctxt "1\t22449\t308\tCHK"
+msgid "You don't have enough chips."
+msgstr ""
+
+msgctxt "1\t22478\t309\tCHK"
+msgid ""
+"Total bet: ${bet}\n"
+"Payout: ${reward}"
+msgstr ""
+
+msgctxt "1\t22514\t310\tCHK"
+msgid "Would you like to keep playing?"
+msgstr ""
+
+msgctxt "1\t22546\t311\tCHK"
+msgid "Wagered Chips:"
+msgstr ""
+
+msgctxt "1\t22561\t312\tCHK"
+msgid "Chips Left:"
+msgstr ""
+
+msgctxt "1\t22573\t313\tCHK"
+msgid "Rules"
+msgstr ""
+
+msgctxt "1\t22579\t314\tCHK"
+msgid "Bets"
+msgstr ""
+
+msgctxt "1\t22584\t315\tCHK"
+msgid "Strategies"
+msgstr ""
+
+msgctxt "1\t22595\t316\tCHK"
+msgid "Back"
+msgstr ""
+
+msgctxt "1\t22600\t317\tCHK"
+msgid "Take insurance?"
+msgstr ""
+
+msgctxt "1\t22616\t318\tCHK"
+msgid "Bet"
+msgstr ""
+
+msgctxt "1\t22620\t319\tCHK"
+msgid "Re-bet"
+msgstr ""
+
+msgctxt "1\t22627\t320\tCHK"
+msgid "Hit"
+msgstr ""
+
+msgctxt "1\t22631\t321\tCHK"
+msgid "Double Down"
+msgstr ""
+
+msgctxt "1\t22643\t322\tCHK"
+msgid "Split"
+msgstr ""
+
+msgctxt "1\t22649\t323\tCHK"
+msgid "Surrender"
+msgstr ""
+
+msgctxt "1\t22659\t324\tCHK"
+msgid "Normal Rules"
+msgstr ""
+
+msgctxt "1\t22672\t325\tCHK"
+msgid "No 2/3/4 cards"
+msgstr ""
+
+msgctxt "1\t22687\t326\tCHK"
+msgid "No 7/8/9 cards"
+msgstr ""
+
+msgctxt "1\t22702\t327\tCHK"
+msgid "No J/Q/K cards"
+msgstr ""
+
+msgctxt "1\t22717\t328\tCHK"
+msgid "Low Stakes (10/100)"
+msgstr ""
+
+msgctxt "1\t22737\t329\tCHK"
+msgid "High Stakes (100/1000)"
+msgstr ""
+
+msgctxt "1\t22760\t330\tCHK"
+msgid "Play for High Stakes"
+msgstr ""
+
+msgctxt "1\t22781\t331\tCHK"
+msgid "Continue Standard Game"
+msgstr ""
+
+msgctxt "1\t22804\t332\tCHK"
+msgid "Standard Game"
+msgstr ""
+
+msgctxt "1\t22818\t333\tCHK"
+msgid "Play Against the House"
+msgstr ""
+
+msgctxt "1\t22841\t334\tCHK"
+msgid "Gain"
+msgstr ""
+
+msgctxt "1\t22846\t335\tCHK"
+msgid "${value} chips"
+msgstr ""
+
+msgctxt "1\t22861\t336\tCHK"
+msgid "?????"
+msgstr ""
+
+msgctxt "1\t22867\t337\tCHK"
+msgid "Piyo-chan"
+msgstr ""
+
+msgctxt "1\t22877\t338\tCHK"
+msgid "Silkie Piyo-chan"
+msgstr ""
+
+msgctxt "1\t22894\t339\tCHK"
+msgid "Sky Piyo-chan"
+msgstr ""
+
+msgctxt "1\t22908\t340\tCHK"
+msgid "Peach Piyo-chan"
+msgstr ""
+
+msgctxt "1\t22924\t341\tCHK"
+msgid "Kitty Kat (Tiger)"
+msgstr ""
+
+msgctxt "1\t22942\t342\tCHK"
+msgid "Kitty Kat (Shorthair)"
+msgstr ""
+
+msgctxt "1\t22964\t343\tCHK"
+msgid "Kitty Kat (Blue)"
+msgstr ""
+
+msgctxt "1\t22981\t344\tCHK"
+msgid "Kitty Kat (Calico)"
+msgstr ""
+
+msgctxt "1\t23000\t345\tCHK"
+msgid "Beary Bear (Brown)"
+msgstr ""
+
+msgctxt "1\t23019\t346\tCHK"
+msgid "Beary Bear (Gray)"
+msgstr ""
+
+msgctxt "1\t23037\t347\tCHK"
+msgid "Beary Bear (Blue)"
+msgstr ""
+
+msgctxt "1\t23055\t348\tCHK"
+msgid "Beary Bear (Pink)"
+msgstr ""
+
+msgctxt "1\t23073\t349\tCHK"
+msgid "Yummy Bar (Corn)"
+msgstr ""
+
+msgctxt "1\t23090\t350\tCHK"
+msgid "Yummy Bar (Cheese)"
+msgstr ""
+
+msgctxt "1\t23109\t351\tCHK"
+msgid "Yummy Bar (Natto)"
+msgstr ""
+
+msgctxt "1\t23127\t352\tCHK"
+msgid "Chura-chan"
+msgstr ""
+
+msgctxt "1\t23138\t353\tCHK"
+msgid "Big Piyo-chan"
+msgstr ""
+
+msgctxt "1\t23152\t354\tCHK"
+msgid "Fat Cat (Tiger)"
+msgstr ""
+
+msgctxt "1\t23168\t355\tCHK"
+msgid "Fat Cat (Shorthair)"
+msgstr ""
+
+msgctxt "1\t23188\t356\tCHK"
+msgid "Fat Cat (Blue)"
+msgstr ""
+
+msgctxt "1\t23203\t357\tCHK"
+msgid "Fat Cat (Calico)"
+msgstr ""
+
+msgctxt "1\t23220\t358\tCHK"
+msgid "Biggy Bear (Brown)"
+msgstr ""
+
+msgctxt "1\t23239\t359\tCHK"
+msgid "Biggy Bear (Gray)"
+msgstr ""
+
+msgctxt "1\t23257\t360\tCHK"
+msgid "Biggy Bear (Blue)"
+msgstr ""
+
+msgctxt "1\t23275\t361\tCHK"
+msgid "Biggy Bear (Pink)"
+msgstr ""
+
+msgctxt "1\t23293\t362\tCHK"
+msgid "Level"
+msgstr ""
+
+msgctxt "1\t23299\t363\tCHK"
+msgid "Time Remaining"
+msgstr ""
+
+msgctxt "1\t23314\t364\tCHK"
+msgid "Ranking"
+msgstr ""
+
+msgctxt "1\t23322\t365\tCHK"
+msgid "${rank}st"
+msgstr ""
+
+msgctxt "1\t23332\t366\tCHK"
+msgid "${rank}nd"
+msgstr ""
+
+msgctxt "1\t23342\t367\tCHK"
+msgid "${rank}rd"
+msgstr ""
+
+msgctxt "1\t23352\t368\tCHK"
+msgid "${rank}th"
+msgstr ""
+
+msgctxt "1\t23362\t369\tCHK"
+msgid "Results"
+msgstr ""
+
+msgctxt "1\t23370\t370\tCHK"
+msgid "Money Earned"
+msgstr ""
+
+msgctxt "1\t23383\t371\tCHK"
+msgid "Game Over Penalty"
+msgstr ""
+
+msgctxt "1\t23401\t372\tCHK"
+msgid "Experience Points Earned"
+msgstr ""
+
+msgctxt "1\t23426\t373\tCHK"
+msgid "Boss Clear Points"
+msgstr ""
+
+msgctxt "1\t23444\t374\tCHK"
+msgid "Reward"
+msgstr ""
+
+msgctxt "1\t23451\t375\tCHK"
+msgid "x${value}"
+msgstr ""
+
+msgctxt "1\t23461\t376\tCHK"
+msgid "Cleared Objectives"
+msgstr ""
+
+msgctxt "1\t23480\t377\tCHK"
+msgid "Remaining Time"
+msgstr ""
+
+msgctxt "1\t23495\t378\tCHK"
+msgid "Completion Bonus"
+msgstr ""
+
+msgctxt "1\t23512\t379\tCHK"
+msgid "NULL"
+msgstr ""
+
+msgctxt "1\t23517\t380\tCHK"
+msgid "Don't bet."
+msgstr ""
+
+msgctxt "1\t23528\t381\tCHK"
+msgid "Match previous player's bet."
+msgstr ""
+
+msgctxt "1\t23557\t382\tCHK"
+msgid "Bet more than previous player."
+msgstr ""
+
+msgctxt "1\t23588\t383\tCHK"
+msgid "Bet a fixed amount."
+msgstr ""
+
+msgctxt "1\t23608\t384\tCHK"
+msgid "Stop betting and forfeit."
+msgstr ""
+
+msgctxt "1\t23634\t385\tCHK"
+msgid "End this round."
+msgstr ""
+
+msgctxt "1\t23650\t386\tCHK"
+msgid "$5 / $10"
+msgstr ""
+
+msgctxt "1\t23659\t387\tCHK"
+msgid "$50  /  $100"
+msgstr ""
+
+msgctxt "1\t23672\t388\tCHK"
+msgid "Basic Rules"
+msgstr ""
+
+msgctxt "1\t23684\t389\tCHK"
+msgid "List of Hands"
+msgstr ""
+
+msgctxt "1\t23698\t390\tCHK"
+msgid "Select the betting limit."
+msgstr ""
+
+msgctxt "1\t23724\t391\tCHK"
+msgid "Panther Pose"
+msgstr ""
+
+msgctxt "1\t23737\t392\tCHK"
+msgid "Mission Reward"
+msgstr ""
+
+msgctxt "1\t23752\t393\tCHK"
+msgid "${value} yen"
+msgstr ""
+
+msgctxt "1\t23765\t394\tCHK"
+msgid "Remaining Time (seconds)"
+msgstr ""
+
+msgctxt "1\t23790\t395\tCHK"
+msgid "Time Bonus"
+msgstr ""
+
+msgctxt "1\t23801\t396\tCHK"
+msgid "Total Reward"
+msgstr ""
+
+msgctxt "1\t23814\t397\tCHK"
+msgid " Han"
+msgstr ""
+
+msgctxt "1\t23819\t398\tCHK"
+msgid " Fu"
+msgstr ""
+
+msgctxt "1\t23823\t399\tCHK"
+msgid " pts"
+msgstr ""
+
+msgctxt "1\t23828\t400\tCHK"
+msgid "Dora"
+msgstr ""
+
+msgctxt "1\t23833\t401\tCHK"
+msgid "Ura-Dora"
+msgstr ""
+
+msgctxt "1\t23842\t402\tCHK"
+msgid "Your Total:"
+msgstr ""
+
+msgctxt "1\t23854\t403\tCHK"
+msgid "Quit: <Action:Button_Circle@Mahjong>"
+msgstr ""
+
+msgctxt "1\t23891\t404\tCHK"
+msgid "Hide Window: <Action:Button_Square@Mahjong>"
+msgstr ""
+
+msgctxt "1\t23935\t405\tCHK"
+msgid "Current Winning Streak: ${value}"
+msgstr ""
+
+msgctxt "1\t23968\t406\tCHK"
+msgid "　　Winning Streak: ${value}"
+msgstr ""
+
+msgctxt "1\t23999\t407\tCHK"
+msgid "Highest Winning Streak: ${value} wins"
+msgstr ""
+
+msgctxt "1\t24037\t408\tCHK"
+msgid "Declare nine terminals/honors for draw?"
+msgstr ""
+
+msgctxt "1\t24077\t409\tCHK"
+msgid "Quit game?"
+msgstr ""
+
+msgctxt "1\t24088\t410\tCHK"
+msgid "Start Ranked Match"
+msgstr ""
+
+msgctxt "1\t24107\t411\tCHK"
+msgid "Quit Game"
+msgstr ""
+
+msgctxt "1\t24117\t412\tCHK"
+msgid "Change Rules"
+msgstr ""
+
+msgctxt "1\t24130\t413\tCHK"
+msgid "Mahjong Basics"
+msgstr ""
+
+msgctxt "1\t24145\t414\tCHK"
+msgid "View Rankings"
+msgstr ""
+
+msgctxt "1\t24159\t415\tCHK"
+msgid "Game Style"
+msgstr ""
+
+msgctxt "1\t24170\t416\tCHK"
+msgid "Kuitan"
+msgstr ""
+
+msgctxt "1\t24177\t417\tCHK"
+msgid "Two Han Minimum"
+msgstr ""
+
+msgctxt "1\t24193\t418\tCHK"
+msgid "Red Dora"
+msgstr ""
+
+msgctxt "1\t24202\t419\tCHK"
+msgid "Pon"
+msgstr ""
+
+msgctxt "1\t24206\t420\tCHK"
+msgid "Chi"
+msgstr ""
+
+msgctxt "1\t24210\t421\tCHK"
+msgid "Kan"
+msgstr ""
+
+msgctxt "1\t24214\t422\tCHK"
+msgid "Tsumo"
+msgstr ""
+
+msgctxt "1\t24220\t423\tCHK"
+msgid "Ron"
+msgstr ""
+
+msgctxt "1\t24224\t424\tCHK"
+msgid "Riichi"
+msgstr ""
+
+msgctxt "1\t24231\t425\tCHK"
+msgid "Sacred Discard"
+msgstr ""
+
+msgctxt "1\t24246\t426\tCHK"
+msgid "Foul"
+msgstr ""
+
+msgctxt "1\t24251\t427\tCHK"
+msgid "Illegal Riichi"
+msgstr ""
+
+msgctxt "1\t24266\t428\tCHK"
+msgid "Four Kan Draw"
+msgstr ""
+
+msgctxt "1\t24280\t429\tCHK"
+msgid "Four Riichi Draw"
+msgstr ""
+
+msgctxt "1\t24297\t430\tCHK"
+msgid "Triple Ron"
+msgstr ""
+
+msgctxt "1\t24308\t431\tCHK"
+msgid "Wind Discard Draw"
+msgstr ""
+
+msgctxt "1\t24326\t432\tCHK"
+msgid "Nine Terminal/Honor Draw"
+msgstr ""
+
+msgctxt "1\t24351\t433\tCHK"
+msgid "East 1"
+msgstr ""
+
+msgctxt "1\t24358\t434\tCHK"
+msgid "East 2"
+msgstr ""
+
+msgctxt "1\t24365\t435\tCHK"
+msgid "East 3"
+msgstr ""
+
+msgctxt "1\t24372\t436\tCHK"
+msgid "East 4"
+msgstr ""
+
+msgctxt "1\t24379\t437\tCHK"
+msgid "South 1"
+msgstr ""
+
+msgctxt "1\t24387\t438\tCHK"
+msgid "South 2"
+msgstr ""
+
+msgctxt "1\t24395\t439\tCHK"
+msgid "South 3"
+msgstr ""
+
+msgctxt "1\t24403\t440\tCHK"
+msgid "South 4"
+msgstr ""
+
+msgctxt "1\t24411\t441\tCHK"
+msgid "West 1"
+msgstr ""
+
+msgctxt "1\t24418\t442\tCHK"
+msgid "West 2"
+msgstr ""
+
+msgctxt "1\t24425\t443\tCHK"
+msgid "West 3"
+msgstr ""
+
+msgctxt "1\t24432\t444\tCHK"
+msgid "West 4"
+msgstr ""
+
+msgctxt "1\t24439\t445\tCHK"
+msgid "North 1"
+msgstr ""
+
+msgctxt "1\t24447\t446\tCHK"
+msgid "North 2"
+msgstr ""
+
+msgctxt "1\t24455\t447\tCHK"
+msgid "North 3"
+msgstr ""
+
+msgctxt "1\t24463\t448\tCHK"
+msgid "North 4"
+msgstr ""
+
+msgctxt "1\t24471\t449\tCHK"
+msgid " Mangan"
+msgstr ""
+
+msgctxt "1\t24479\t450\tCHK"
+msgid " Haneman"
+msgstr ""
+
+msgctxt "1\t24488\t451\tCHK"
+msgid " Baiman"
+msgstr ""
+
+msgctxt "1\t24496\t452\tCHK"
+msgid " Sanbaiman"
+msgstr ""
+
+msgctxt "1\t24507\t453\tCHK"
+msgid " Yakuman"
+msgstr ""
+
+msgctxt "1\t24516\t454\tCHK"
+msgid "Exhaustive Draw"
+msgstr ""
+
+msgctxt "1\t24532\t455\tCHK"
+msgid "Yakuman"
+msgstr ""
+
+msgctxt "1\t24540\t456\tCHK"
+msgid "Double Yakuman"
+msgstr ""
+
+msgctxt "1\t24555\t457\tCHK"
+msgid "Triple Yakuman"
+msgstr ""
+
+msgctxt "1\t24570\t458\tCHK"
+msgid "4x Yakuman"
+msgstr ""
+
+msgctxt "1\t24581\t459\tCHK"
+msgid "5x Yakuman"
+msgstr ""
+
+msgctxt "1\t24592\t460\tCHK"
+msgid "6x Yakuman"
+msgstr ""
+
+msgctxt "1\t24603\t461\tCHK"
+msgid "7x Yakuman"
+msgstr ""
+
+msgctxt "1\t24614\t462\tCHK"
+msgid "No-Points Hand"
+msgstr ""
+
+msgctxt "1\t24629\t463\tCHK"
+msgid "East"
+msgstr ""
+
+msgctxt "1\t24634\t464\tCHK"
+msgid "Double East"
+msgstr ""
+
+msgctxt "1\t24646\t465\tCHK"
+msgid "South"
+msgstr ""
+
+msgctxt "1\t24652\t466\tCHK"
+msgid "Double South"
+msgstr ""
+
+msgctxt "1\t24665\t467\tCHK"
+msgid "West"
+msgstr ""
+
+msgctxt "1\t24670\t468\tCHK"
+msgid "Double West"
+msgstr ""
+
+msgctxt "1\t24682\t469\tCHK"
+msgid "North"
+msgstr ""
+
+msgctxt "1\t24688\t470\tCHK"
+msgid "Double North"
+msgstr ""
+
+msgctxt "1\t24701\t471\tCHK"
+msgid "White Dragon"
+msgstr ""
+
+msgctxt "1\t24714\t472\tCHK"
+msgid "Green Dragon"
+msgstr ""
+
+msgctxt "1\t24727\t473\tCHK"
+msgid "Red Dragon"
+msgstr ""
+
+msgctxt "1\t24738\t474\tCHK"
+msgid "All Simples"
+msgstr ""
+
+msgctxt "1\t24750\t475\tCHK"
+msgid "Identical Sequences"
+msgstr ""
+
+msgctxt "1\t24770\t476\tCHK"
+msgid "Ippatsu"
+msgstr ""
+
+msgctxt "1\t24778\t477\tCHK"
+msgid "Fully Concealed Hand"
+msgstr ""
+
+msgctxt "1\t24799\t478\tCHK"
+msgid "Dead Wall Draw"
+msgstr ""
+
+msgctxt "1\t24814\t479\tCHK"
+msgid "Last Tile Draw - Tsumo"
+msgstr ""
+
+msgctxt "1\t24837\t480\tCHK"
+msgid "Last Tile Discard - Ron"
+msgstr ""
+
+msgctxt "1\t24861\t481\tCHK"
+msgid "Mixed Outside Hand"
+msgstr ""
+
+msgctxt "1\t24880\t482\tCHK"
+msgid "All Terminals and Honors"
+msgstr ""
+
+msgctxt "1\t24905\t483\tCHK"
+msgid "Full Straight"
+msgstr ""
+
+msgctxt "1\t24919\t484\tCHK"
+msgid "All Triplet Hand"
+msgstr ""
+
+msgctxt "1\t24936\t485\tCHK"
+msgid "Three Concealed Triplets"
+msgstr ""
+
+msgctxt "1\t24961\t486\tCHK"
+msgid "Three Consecutive Pons"
+msgstr ""
+
+msgctxt "1\t24984\t487\tCHK"
+msgid "Three Quads"
+msgstr ""
+
+msgctxt "1\t24996\t488\tCHK"
+msgid "Seven Pairs"
+msgstr ""
+
+msgctxt "1\t25008\t489\tCHK"
+msgid "Three Color Straight"
+msgstr ""
+
+msgctxt "1\t25029\t490\tCHK"
+msgid "Three Color Triplets"
+msgstr ""
+
+msgctxt "1\t25050\t491\tCHK"
+msgid "Little Three Dragons"
+msgstr ""
+
+msgctxt "1\t25071\t492\tCHK"
+msgid "Double Riichi"
+msgstr ""
+
+msgctxt "1\t25085\t493\tCHK"
+msgid "Pure Outside Hand"
+msgstr ""
+
+msgctxt "1\t25103\t494\tCHK"
+msgid "Half Flush"
+msgstr ""
+
+msgctxt "1\t25114\t495\tCHK"
+msgid "Double Identical Sequences"
+msgstr ""
+
+msgctxt "1\t25141\t496\tCHK"
+msgid "Full Flush"
+msgstr ""
+
+msgctxt "1\t25152\t497\tCHK"
+msgid "All Honors"
+msgstr ""
+
+msgctxt "1\t25163\t498\tCHK"
+msgid "All Green"
+msgstr ""
+
+msgctxt "1\t25173\t499\tCHK"
+msgid "Nine Gates"
+msgstr ""
+
+msgctxt "1\t25184\t500\tCHK"
+msgid "Pure Nine Gates"
+msgstr ""
+
+msgctxt "1\t25200\t501\tCHK"
+msgid "Four Concealed Triplets"
+msgstr ""
+
+msgctxt "1\t25224\t502\tCHK"
+msgid "Four Concealed Triplets w/ Single Wait"
+msgstr ""
+
+msgctxt "1\t25263\t503\tCHK"
+msgid "Four Quads"
+msgstr ""
+
+msgctxt "1\t25274\t504\tCHK"
+msgid "Big Three Dragons"
+msgstr ""
+
+msgctxt "1\t25292\t505\tCHK"
+msgid "Big Four Winds"
+msgstr ""
+
+msgctxt "1\t25307\t506\tCHK"
+msgid "Little Four Winds"
+msgstr ""
+
+msgctxt "1\t25325\t507\tCHK"
+msgid "All Terminals"
+msgstr ""
+
+msgctxt "1\t25339\t508\tCHK"
+msgid "Heavenly Hand"
+msgstr ""
+
+msgctxt "1\t25353\t509\tCHK"
+msgid "Earthly Hand"
+msgstr ""
+
+msgctxt "1\t25366\t510\tCHK"
+msgid "Thirteen Orphans"
+msgstr ""
+
+msgctxt "1\t25383\t511\tCHK"
+msgid "Pure Thirteen Orphans"
+msgstr ""
+
+msgctxt "1\t25405\t512\tCHK"
+msgid "Broken Thirteen"
+msgstr ""
+
+msgctxt "1\t25421\t513\tCHK"
+msgid "Blessing of Man"
+msgstr ""
+
+msgctxt "1\t25437\t514\tCHK"
+msgid "Robbing a Quad"
+msgstr ""
+
+msgctxt "1\t25452\t515\tCHK"
+msgid "Big Wheel"
+msgstr ""
+
+msgctxt "1\t25462\t516\tCHK"
+msgid "Terminal Discard"
+msgstr ""
+
+msgctxt "1\t25479\t517\tCHK"
+msgid "All object balls were sunk. Reracking."
+msgstr ""
+
+msgctxt "1\t25518\t518\tCHK"
+msgid "Foul by both players."
+msgstr ""
+
+msgctxt "1\t25540\t519\tCHK"
+msgid "${name} goes first."
+msgstr ""
+
+msgctxt "1\t25560\t520\tCHK"
+msgid "Redo break shot?"
+msgstr ""
+
+msgctxt "1\t25577\t521\tCHK"
+msgid "Lows"
+msgstr ""
+
+msgctxt "1\t25582\t522\tCHK"
+msgid "Highs"
+msgstr ""
+
+msgctxt "1\t25588\t523\tCHK"
+msgid ""
+"Lows/highs decided.\n"
+"\n"
+"${name1} : ${name2}\n"
+"${name3} : ${name4}"
+msgstr ""
+
+msgctxt "1\t25649\t524\tCHK"
+msgid "Place the cue ball."
+msgstr ""
+
+msgctxt "1\t25669\t525\tCHK"
+msgid "Thinking..."
+msgstr ""
+
+msgctxt "1\t25681\t526\tCHK"
+msgid "Select a pocket in which to sink the ball."
+msgstr ""
+
+msgctxt "1\t25724\t527\tCHK"
+msgid ""
+"<Action:Button_LS_Up@Billard><Action:Button_LS_Down@Billard><Action:Button_"
+"LS_Left@Billard><Action:Button_LS_Right@Billard> Select direction\n"
+"<Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_"
+"Down@Adventure><Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_"
+"Right@Adventure> Camera controls\n"
+"<Action:Button_Circle@Billard> Shooting mode"
+msgstr ""
+
+msgctxt "1\t26066\t528\tCHK"
+msgid "<Action:Button_L2@Billard> Reset camera"
+msgstr ""
+
+msgctxt "1\t26106\t529\tCHK"
+msgid "<Action:Turn_Camera_Up@Billard><Action:Turn_Camera_Down@Billard> Shoot"
+msgstr ""
+
+msgctxt "1\t26177\t530\tCHK"
+msgid ""
+"<Action:Button_LS_Up@Billard><Action:Button_LS_Down@Billard><Action:Button_"
+"LS_Left@Billard><Action:Button_LS_Right@Billard> Adjust impact point\n"
+"<Action:Turn_Camera_Up@Billard><Action:Turn_Camera_Down@Billard> Shoot \n"
+"<Action:Button_Cross@Billard> View mode"
+msgstr ""
+
+msgctxt "1\t26433\t531\tCHK"
+msgid "<Action:Button_Triangle@Billard> Change camera"
+msgstr ""
+
+msgctxt "1\t26480\t532\tCHK"
+msgid ""
+"Results\n"
+"\n"
+"Accuracy: ${value1}\n"
+"Shots: ${value2}\n"
+"Fouls: ${value3}\n"
+"Combination Shots: ${value4}\n"
+"Kiss Shots: ${value5}\n"
+"Cannon Shots: ${value6}"
+msgstr ""
+
+msgctxt "1\t26618\t533\tCHK"
+msgid ""
+"Results:\n"
+"\n"
+"${name1}    ${name2}\n"
+"\n"
+"${value11}    Accuracy   ${value21}\n"
+"    ${value12}    Shots    ${value22}\n"
+"${value13}    Fouls    ${value23}\n"
+"${value14} Combination Shots ${value24}\n"
+"${value15}    Kiss Shots    ${value25}\n"
+"${value16}    Cannon Shots    ${value26}\n"
+msgstr ""
+
+msgctxt "1\t26879\t534\tCHK"
+msgid "Tokyo"
+msgstr ""
+
+msgctxt "1\t26885\t535\tCHK"
+msgid ""
+"Club SEGA\n"
+"Theater Square"
+msgstr ""
+
+msgctxt "1\t26910\t536\tCHK"
+msgid ""
+"Club SEGA\n"
+"Nakamichi Street"
+msgstr ""
+
+msgctxt "1\t26937\t537\tCHK"
+msgid "Choose the related word from the following words."
+msgstr ""
+
+msgctxt "1\t26987\t538\tCHK"
+msgid "Balls left: ${value} "
+msgstr ""
+
+msgctxt "1\t27009\t539\tCHK"
+msgid "Don't have anything I can use."
+msgstr ""
+
+msgctxt "1\t27040\t540\tCHK"
+msgid "What should I use?"
+msgstr ""
+
+msgctxt "1\t27059\t541\tCHK"
+msgid "Use this item?"
+msgstr ""
+
+msgctxt "1\t27074\t542\tCHK"
+msgid "Please enter your name on your new card."
+msgstr ""
+
+msgctxt "1\t27115\t543\tCHK"
+msgid "Aqua Sky"
+msgstr ""
+
+msgctxt "1\t27124\t544\tCHK"
+msgid "Bantam"
+msgstr ""
+
+msgctxt "1\t27131\t545\tCHK"
+msgid "-"
+msgstr ""
+
+msgctxt "1\t27133\t546\tCHK"
+msgid "${value} pts"
+msgstr ""
+
+msgctxt "1\t27146\t547\tCHK"
+msgid "Current Winnings"
+msgstr ""
+
+msgctxt "1\t27163\t548\tCHK"
+msgid "Current Bets"
+msgstr ""
+
+msgctxt "1\t27176\t549\tCHK"
+msgid "          ${value1} people; ${value2} pts"
+msgstr ""
+
+msgctxt "1\t27218\t550\tCHK"
+msgid "Yeeeah, baby!"
+msgstr ""
+
+msgctxt "1\t27232\t551\tCHK"
+msgid "Awww..."
+msgstr ""
+
+msgctxt "1\t27240\t552\tCHK"
+msgid "Pretty good!"
+msgstr ""
+
+msgctxt "1\t27253\t553\tCHK"
+msgid "Ahahaha!"
+msgstr ""
+
+msgctxt "1\t27262\t554\tCHK"
+msgid "Gotta be even!"
+msgstr ""
+
+msgctxt "1\t27277\t555\tCHK"
+msgid "Odd, right?"
+msgstr ""
+
+msgctxt "1\t27289\t556\tCHK"
+msgid "No way!"
+msgstr ""
+
+msgctxt "1\t27297\t557\tCHK"
+msgid "Niiiice!"
+msgstr ""
+
+msgctxt "1\t27306\t558\tCHK"
+msgid "Choke!"
+msgstr ""
+
+msgctxt "1\t27313\t559\tCHK"
+msgid "Heh..."
+msgstr ""
+
+msgctxt "1\t27320\t560\tCHK"
+msgid "Ngh..."
+msgstr ""
+
+msgctxt "1\t27327\t561\tCHK"
+msgid "Wow..."
+msgstr ""
+
+msgctxt "1\t27334\t562\tCHK"
+msgid "Even."
+msgstr ""
+
+msgctxt "1\t27340\t563\tCHK"
+msgid "Odd."
+msgstr ""
+
+msgctxt "1\t27345\t564\tCHK"
+msgid "Yes!"
+msgstr ""
+
+msgctxt "1\t27350\t565\tCHK"
+msgid "Damn it..."
+msgstr ""
+
+msgctxt "1\t27361\t566\tCHK"
+msgid "Well done."
+msgstr ""
+
+msgctxt "1\t27372\t567\tCHK"
+msgid "My, my..."
+msgstr ""
+
+msgctxt "1\t27382\t568\tCHK"
+msgid "Hehehe."
+msgstr ""
+
+msgctxt "1\t27390\t569\tCHK"
+msgid "Hrm..."
+msgstr ""
+
+msgctxt "1\t27397\t570\tCHK"
+msgid "Got it."
+msgstr ""
+
+msgctxt "1\t27405\t571\tCHK"
+msgid "Figured as much..."
+msgstr ""
+
+msgctxt "1\t27424\t572\tCHK"
+msgid "Wow, impressive..."
+msgstr ""
+
+msgctxt "1\t27443\t573\tCHK"
+msgid "Don't worry..."
+msgstr ""
+
+msgctxt "1\t27458\t574\tCHK"
+msgid "That's just great..."
+msgstr ""
+
+msgctxt "1\t27479\t575\tCHK"
+msgid "Aw..."
+msgstr ""
+
+msgctxt "1\t27485\t576\tCHK"
+msgid "Lame..."
+msgstr ""
+
+msgctxt "1\t27493\t577\tCHK"
+msgid "Bet it's even."
+msgstr ""
+
+msgctxt "1\t27508\t578\tCHK"
+msgid "Bet it's odd."
+msgstr ""
+
+msgctxt "1\t27522\t579\tCHK"
+msgid "Yeah baby!"
+msgstr ""
+
+msgctxt "1\t27533\t580\tCHK"
+msgid "Hell no!"
+msgstr ""
+
+msgctxt "1\t27542\t581\tCHK"
+msgid "Great!"
+msgstr ""
+
+msgctxt "1\t27549\t582\tCHK"
+msgid "No sweat, bro."
+msgstr ""
+
+msgctxt "1\t27564\t583\tCHK"
+msgid "My money's on odd!"
+msgstr ""
+
+msgctxt "1\t27583\t584\tCHK"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "1\t27589\t585\tCHK"
+msgid "Damn!"
+msgstr ""
+
+msgctxt "1\t27595\t586\tCHK"
+msgid "Oh man!"
+msgstr ""
+
+msgctxt "1\t27603\t587\tCHK"
+msgid "Whoa..."
+msgstr ""
+
+msgctxt "1\t27611\t588\tCHK"
+msgid "For real!?"
+msgstr ""
+
+msgctxt "1\t27622\t589\tCHK"
+msgid "Awww yes!"
+msgstr ""
+
+msgctxt "1\t27632\t590\tCHK"
+msgid "What?"
+msgstr ""
+
+msgctxt "1\t27638\t591\tCHK"
+msgid "             Even             "
+msgstr ""
+
+msgctxt "1\t27669\t592\tCHK"
+msgid "Guess One Number"
+msgstr ""
+
+msgctxt "1\t27686\t593\tCHK"
+msgid "Guess Both Numbers"
+msgstr ""
+
+msgctxt "1\t27705\t594\tCHK"
+msgid "Wager: ${value} points"
+msgstr ""
+
+msgctxt "1\t27728\t595\tCHK"
+msgid "Result: ${value} points"
+msgstr ""
+
+msgctxt "1\t27752\t596\tCHK"
+msgid "Kiss on the Cheek"
+msgstr ""
+
+msgctxt "1\t27770\t597\tCHK"
+msgid "Description"
+msgstr ""
+
+msgctxt "1\t27782\t598\tCHK"
+msgid "OK"
+msgstr ""
+
+msgctxt "2\t47292\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "2\t47293\t1\tCHK"
+msgid "Trouble's on the horizon..."
+msgstr ""
+
+msgctxt "2\t47321\t2\tCHK"
+msgid "Now... What have we here?"
+msgstr ""
+
+msgctxt "2\t47347\t3\tCHK"
+msgid "Slow down!"
+msgstr ""
+
+msgctxt "2\t47358\t4\tCHK"
+msgid "What is there to think about?"
+msgstr ""
+
+msgctxt "2\t47388\t5\tCHK"
+msgid "You don't stand a chance."
+msgstr ""
+
+msgctxt "2\t47414\t6\tCHK"
+msgid "What a boring victory."
+msgstr ""
+
+msgctxt "2\t47437\t7\tCHK"
+msgid "Can't I catch a break...?"
+msgstr ""
+
+msgctxt "2\t47463\t8\tCHK"
+msgid "Just as I thought."
+msgstr ""
+
+msgctxt "2\t47482\t9\tCHK"
+msgid "I like how this is going."
+msgstr ""
+
+msgctxt "2\t47508\t10\tCHK"
+msgid "This doesn't look good..."
+msgstr ""
+
+msgctxt "2\t47534\t11\tCHK"
+msgid "You sure about that, junior?"
+msgstr ""
+
+msgctxt "2\t47563\t12\tCHK"
+msgid "I hate leaving things to chance..."
+msgstr ""
+
+msgctxt "2\t47598\t13\tCHK"
+msgid "Hah. Of course I won."
+msgstr ""
+
+msgctxt "2\t47620\t14\tCHK"
+msgid "This game's all mine."
+msgstr ""
+
+msgctxt "2\t47642\t15\tCHK"
+msgid "Mm, this is good."
+msgstr ""
+
+msgctxt "2\t47660\t16\tCHK"
+msgid "Enough of this."
+msgstr ""
+
+msgctxt "2\t47676\t17\tCHK"
+msgid "Are you stupid or something?"
+msgstr ""
+
+msgctxt "2\t47705\t18\tCHK"
+msgid "Now it's getting interesting."
+msgstr ""
+
+msgctxt "2\t47735\t19\tCHK"
+msgid "Let's see how it goes."
+msgstr ""
+
+msgctxt "2\t47758\t20\tCHK"
+msgid "Could have done better..."
+msgstr ""
+
+msgctxt "2\t47784\t21\tCHK"
+msgid "All according to plan."
+msgstr ""
+
+msgctxt "2\t47807\t22\tCHK"
+msgid "Perfect."
+msgstr ""
+
+msgctxt "2\t47816\t23\tCHK"
+msgid "You got me..."
+msgstr ""
+
+msgctxt "2\t47830\t24\tCHK"
+msgid "Victory is within my grasp."
+msgstr ""
+
+msgctxt "2\t47858\t25\tCHK"
+msgid "Don't get ahead of yourself."
+msgstr ""
+
+msgctxt "2\t47887\t26\tCHK"
+msgid "Not gonna lose to you."
+msgstr ""
+
+msgctxt "2\t47910\t27\tCHK"
+msgid "How simple you are."
+msgstr ""
+
+msgctxt "2\t47930\t28\tCHK"
+msgid "Luck is on my side, baby!"
+msgstr ""
+
+msgctxt "2\t47956\t29\tCHK"
+msgid "It ain't over till it's over!"
+msgstr ""
+
+msgctxt "2\t47986\t30\tCHK"
+msgid "Awright!"
+msgstr ""
+
+msgctxt "2\t47995\t31\tCHK"
+msgid "Yeah, think I got it!"
+msgstr ""
+
+msgctxt "2\t48017\t32\tCHK"
+msgid "...You're kinda dull, ain't ya?"
+msgstr ""
+
+msgctxt "2\t48049\t33\tCHK"
+msgid "Damn, outta luck!"
+msgstr ""
+
+msgctxt "2\t48067\t34\tCHK"
+msgid "Oh, no, no, no!"
+msgstr ""
+
+msgctxt "2\t48083\t35\tCHK"
+msgid "I'm likin' these odds!"
+msgstr ""
+
+msgctxt "2\t48106\t36\tCHK"
+msgid "This ain't gonna work..."
+msgstr ""
+
+msgctxt "2\t48131\t37\tCHK"
+msgid "So much for a perfect score..."
+msgstr ""
+
+msgctxt "2\t48162\t38\tCHK"
+msgid "Dunno 'bout these tiles..."
+msgstr ""
+
+msgctxt "2\t48189\t39\tCHK"
+msgid "This doesn't mean you've won."
+msgstr ""
+
+msgctxt "2\t48219\t40\tCHK"
+msgid "Argh! I messed up!"
+msgstr ""
+
+msgctxt "2\t48238\t41\tCHK"
+msgid "You Tokyo folks're somethin' else..."
+msgstr ""
+
+msgctxt "2\t48275\t42\tCHK"
+msgid "Wish I could mulligan..."
+msgstr ""
+
+msgctxt "2\t48300\t43\tCHK"
+msgid "Wake me up when he's done..."
+msgstr ""
+
+msgctxt "2\t48329\t44\tCHK"
+msgid "Think I'm gonna cry..."
+msgstr ""
+
+msgctxt "2\t48352\t45\tCHK"
+msgid "Learn some tact, dimwit."
+msgstr ""
+
+msgctxt "2\t48377\t46\tCHK"
+msgid "Pick on someone else."
+msgstr ""
+
+msgctxt "2\t48399\t47\tCHK"
+msgid "Sweet! Pay up, buddy."
+msgstr ""
+
+msgctxt "2\t48421\t48\tCHK"
+msgid "Did it!"
+msgstr ""
+
+msgctxt "2\t48429\t49\tCHK"
+msgid "Think you're all that, huh?"
+msgstr ""
+
+msgctxt "2\t48457\t50\tCHK"
+msgid "This is how we play in Osaka!"
+msgstr ""
+
+msgctxt "2\t48487\t51\tCHK"
+msgid "My tsumo's so far off..."
+msgstr ""
+
+msgctxt "2\t48512\t52\tCHK"
+msgid "What a waste..."
+msgstr ""
+
+msgctxt "2\t48528\t53\tCHK"
+msgid "Lady luck's smilin' on me!"
+msgstr ""
+
+msgctxt "2\t48555\t54\tCHK"
+msgid "So this is it, eh?"
+msgstr ""
+
+msgctxt "2\t48574\t55\tCHK"
+msgid "Yer too easy, kiddo."
+msgstr ""
+
+msgctxt "2\t48595\t56\tCHK"
+msgid "Wanna hurry up a li'l?"
+msgstr ""
+
+msgctxt "2\t48618\t57\tCHK"
+msgid "You're goin' down."
+msgstr ""
+
+msgctxt "2\t48637\t58\tCHK"
+msgid "I'll let you have this one."
+msgstr ""
+
+msgctxt "2\t48665\t59\tCHK"
+msgid "Heh, shit happens."
+msgstr ""
+
+msgctxt "2\t48684\t60\tCHK"
+msgid "Looking good now."
+msgstr ""
+
+msgctxt "2\t48702\t61\tCHK"
+msgid "Okay!"
+msgstr ""
+
+msgctxt "2\t48708\t62\tCHK"
+msgid "Aww, come on..."
+msgstr ""
+
+msgctxt "2\t48724\t63\tCHK"
+msgid "I got this..."
+msgstr ""
+
+msgctxt "2\t48738\t64\tCHK"
+msgid "Think you can win with that hand?"
+msgstr ""
+
+msgctxt "2\t48772\t65\tCHK"
+msgid "You're gonna hate me for this."
+msgstr ""
+
+msgctxt "2\t48803\t66\tCHK"
+msgid "What to do, what to do..."
+msgstr ""
+
+msgctxt "2\t48829\t67\tCHK"
+msgid "How can I win...?"
+msgstr ""
+
+msgctxt "2\t48847\t68\tCHK"
+msgid "Don't be in such a rush."
+msgstr ""
+
+msgctxt "2\t48872\t69\tCHK"
+msgid "Just discard one of your edge tiles."
+msgstr ""
+
+msgctxt "2\t48909\t70\tCHK"
+msgid "This might work."
+msgstr ""
+
+msgctxt "2\t48926\t71\tCHK"
+msgid "You're not that bad."
+msgstr ""
+
+msgctxt "2\t48947\t72\tCHK"
+msgid "Learn your place."
+msgstr ""
+
+msgctxt "2\t48965\t73\tCHK"
+msgid "No surprise there, heh."
+msgstr ""
+
+msgctxt "2\t48989\t74\tCHK"
+msgid "Going well."
+msgstr ""
+
+msgctxt "2\t49001\t75\tCHK"
+msgid "Crap..."
+msgstr ""
+
+msgctxt "2\t49009\t76\tCHK"
+msgid "For fuck's sake..."
+msgstr ""
+
+msgctxt "2\t49028\t77\tCHK"
+msgid "Gimme what I need, dammit."
+msgstr ""
+
+msgctxt "2\t49055\t78\tCHK"
+msgid "Someone put a stop to this."
+msgstr ""
+
+msgctxt "2\t49083\t79\tCHK"
+msgid "Getting bored..."
+msgstr ""
+
+msgctxt "2\t49100\t80\tCHK"
+msgid "You suck."
+msgstr ""
+
+msgctxt "2\t49110\t81\tCHK"
+msgid "Riichi? Seriously?"
+msgstr ""
+
+msgctxt "2\t49129\t82\tCHK"
+msgid "Any day now!"
+msgstr ""
+
+msgctxt "2\t49142\t83\tCHK"
+msgid "Just what're ya schemin' over there?"
+msgstr ""
+
+msgctxt "2\t49179\t84\tCHK"
+msgid "I love strong men."
+msgstr ""
+
+msgctxt "2\t49198\t85\tCHK"
+msgid "I'm not holdin' back."
+msgstr ""
+
+msgctxt "2\t49220\t86\tCHK"
+msgid "Praise be to Billiken!"
+msgstr ""
+
+msgctxt "2\t49243\t87\tCHK"
+msgid "Nice, nice!"
+msgstr ""
+
+msgctxt "2\t49255\t88\tCHK"
+msgid "This won't do..."
+msgstr ""
+
+msgctxt "2\t49272\t89\tCHK"
+msgid "I'm starving..."
+msgstr ""
+
+msgctxt "2\t49288\t90\tCHK"
+msgid "Need a better hand..."
+msgstr ""
+
+msgctxt "2\t49310\t91\tCHK"
+msgid "Just lemme have this, yeah?"
+msgstr ""
+
+msgctxt "2\t49338\t92\tCHK"
+msgid "I can't lose."
+msgstr ""
+
+msgctxt "2\t49352\t93\tCHK"
+msgid "If this is what we're doing, then... Here."
+msgstr ""
+
+msgctxt "2\t49395\t94\tCHK"
+msgid "Easy peasy."
+msgstr ""
+
+msgctxt "2\t49407\t95\tCHK"
+msgid "Go home if you're tired."
+msgstr ""
+
+msgctxt "2\t49432\t96\tCHK"
+msgid "Time for some fun."
+msgstr ""
+
+msgctxt "2\t49451\t97\tCHK"
+msgid "That can't be right."
+msgstr ""
+
+msgctxt "2\t49472\t98\tCHK"
+msgid "Shit, can't believe this."
+msgstr ""
+
+msgctxt "2\t49498\t99\tCHK"
+msgid "This is why I can never quit."
+msgstr ""
+
+msgctxt "2\t49528\t100\tCHK"
+msgid "Take that!"
+msgstr ""
+
+msgctxt "2\t49539\t101\tCHK"
+msgid "Hey, what gives!?"
+msgstr ""
+
+msgctxt "2\t49557\t102\tCHK"
+msgid "I can feel the number tiles."
+msgstr ""
+
+msgctxt "2\t49586\t103\tCHK"
+msgid "Single suit, huh?"
+msgstr ""
+
+msgctxt "2\t49604\t104\tCHK"
+msgid "What are you waiting for? Hurry up!"
+msgstr ""
+
+msgctxt "2\t49640\t105\tCHK"
+msgid "Don't be so sure of yourself, kid."
+msgstr ""
+
+msgctxt "2\t49675\t106\tCHK"
+msgid "I'll show you why you'll never beat me."
+msgstr ""
+
+msgctxt "2\t49715\t107\tCHK"
+msgid "All right, calm down."
+msgstr ""
+
+msgctxt "2\t49737\t108\tCHK"
+msgid "You're gonna lose, just accept it."
+msgstr ""
+
+msgctxt "2\t49772\t109\tCHK"
+msgid "Surrendering is a strategy, I guess..."
+msgstr ""
+
+msgctxt "2\t49811\t110\tCHK"
+msgid "Well that's no fun."
+msgstr ""
+
+msgctxt "2\t49831\t111\tCHK"
+msgid "My luck ran out."
+msgstr ""
+
+msgctxt "2\t49848\t112\tCHK"
+msgid "You'll never beat me."
+msgstr ""
+
+msgctxt "2\t49870\t113\tCHK"
+msgid "I can work with this."
+msgstr ""
+
+msgctxt "2\t49892\t114\tCHK"
+msgid "I can't accept this..."
+msgstr ""
+
+msgctxt "2\t49915\t115\tCHK"
+msgid "You're killin' me."
+msgstr ""
+
+msgctxt "2\t49934\t116\tCHK"
+msgid "What a slow game..."
+msgstr ""
+
+msgctxt "2\t49954\t117\tCHK"
+msgid "Is that all?"
+msgstr ""
+
+msgctxt "2\t49967\t118\tCHK"
+msgid "Someone tell me a joke."
+msgstr ""
+
+msgctxt "2\t49991\t119\tCHK"
+msgid "Need a new hand."
+msgstr ""
+
+msgctxt "2\t50008\t120\tCHK"
+msgid "We're waitin', dumbass."
+msgstr ""
+
+msgctxt "2\t50032\t121\tCHK"
+msgid "Hey, idiot, what're ya doin'?"
+msgstr ""
+
+msgctxt "2\t50062\t122\tCHK"
+msgid "You wanna get hit?"
+msgstr ""
+
+msgctxt "2\t50081\t123\tCHK"
+msgid "Sorry for the cheap hand."
+msgstr ""
+
+msgctxt "2\t50107\t124\tCHK"
+msgid "Oh yeah!"
+msgstr ""
+
+msgctxt "2\t50116\t125\tCHK"
+msgid "It ain't over yet."
+msgstr ""
+
+msgctxt "2\t50135\t126\tCHK"
+msgid "Don't underestimate us Osakans."
+msgstr ""
+
+msgctxt "2\t50167\t127\tCHK"
+msgid "I should get married soon..."
+msgstr ""
+
+msgctxt "2\t50196\t128\tCHK"
+msgid "Feelin' pretty confident here."
+msgstr ""
+
+msgctxt "2\t50227\t129\tCHK"
+msgid "Is this table rigged?"
+msgstr ""
+
+msgctxt "2\t50249\t130\tCHK"
+msgid "Businessmen know how to play too, y'know."
+msgstr ""
+
+msgctxt "2\t50291\t131\tCHK"
+msgid "Easy every time."
+msgstr ""
+
+msgctxt "2\t50308\t132\tCHK"
+msgid "I hate waiting."
+msgstr ""
+
+msgctxt "2\t50324\t133\tCHK"
+msgid "Go easy on me, okay?"
+msgstr ""
+
+msgctxt "2\t50345\t134\tCHK"
+msgid "Where's my tsumo?"
+msgstr ""
+
+msgctxt "2\t50363\t135\tCHK"
+msgid "That could've gone better..."
+msgstr ""
+
+msgctxt "2\t50392\t136\tCHK"
+msgid "Sorry about the cheap win."
+msgstr ""
+
+msgctxt "2\t50419\t137\tCHK"
+msgid "Right on."
+msgstr ""
+
+msgctxt "2\t50429\t138\tCHK"
+msgid "Shit..."
+msgstr ""
+
+msgctxt "2\t50437\t139\tCHK"
+msgid "Never gonna get a raise..."
+msgstr ""
+
+msgctxt "2\t50464\t140\tCHK"
+msgid "My wife'll be home soon."
+msgstr ""
+
+msgctxt "2\t50489\t141\tCHK"
+msgid "Got an exam in the new year."
+msgstr ""
+
+msgctxt "2\t50518\t142\tCHK"
+msgid "Someone bring me some tea!"
+msgstr ""
+
+msgctxt "2\t50545\t143\tCHK"
+msgid "Better prepare yourself."
+msgstr ""
+
+msgctxt "2\t50570\t144\tCHK"
+msgid "You think I'm gonna just let you win?"
+msgstr ""
+
+msgctxt "2\t50608\t145\tCHK"
+msgid "I'll teach you some manners."
+msgstr ""
+
+msgctxt "2\t50637\t146\tCHK"
+msgid "I'm not playing around here, you know."
+msgstr ""
+
+msgctxt "2\t50676\t147\tCHK"
+msgid "Enough already!"
+msgstr ""
+
+msgctxt "2\t50692\t148\tCHK"
+msgid "My, my, what's this?"
+msgstr ""
+
+msgctxt "2\t50713\t149\tCHK"
+msgid "I'll let you off easy."
+msgstr ""
+
+msgctxt "2\t50736\t150\tCHK"
+msgid "Ooh, well done!"
+msgstr ""
+
+msgctxt "2\t50752\t151\tCHK"
+msgid "It's not fair!"
+msgstr ""
+
+msgctxt "2\t50767\t152\tCHK"
+msgid "I can do better..."
+msgstr ""
+
+msgctxt "2\t50786\t153\tCHK"
+msgid "I'm so going to enjoy this."
+msgstr ""
+
+msgctxt "2\t50814\t154\tCHK"
+msgid "You should come to my club sometime."
+msgstr ""
+
+msgctxt "2\t50851\t155\tCHK"
+msgid "It can't end like this."
+msgstr ""
+
+msgctxt "2\t50875\t156\tCHK"
+msgid "I want some curry udon."
+msgstr ""
+
+msgctxt "2\t50899\t157\tCHK"
+msgid "Now we're talking."
+msgstr ""
+
+msgctxt "2\t50918\t158\tCHK"
+msgid "How long do we have to wait?"
+msgstr ""
+
+msgctxt "2\t50947\t159\tCHK"
+msgid "No mercy."
+msgstr ""
+
+msgctxt "2\t50957\t160\tCHK"
+msgid "Too early to celebrate!"
+msgstr ""
+
+msgctxt "2\t50981\t161\tCHK"
+msgid "Dammit, how could this happen?"
+msgstr ""
+
+msgctxt "2\t51012\t162\tCHK"
+msgid "I got skills <Italic>and</Italic> luck."
+msgstr ""
+
+msgctxt "2\t51052\t163\tCHK"
+msgid "Yes, yes, yes!"
+msgstr ""
+
+msgctxt "2\t51067\t164\tCHK"
+msgid "What a letdown."
+msgstr ""
+
+msgctxt "2\t51083\t165\tCHK"
+msgid "I was doin' good though..."
+msgstr ""
+
+msgctxt "2\t51110\t166\tCHK"
+msgid "Well, it's somethin'."
+msgstr ""
+
+msgctxt "2\t51132\t167\tCHK"
+msgid "Gotta take a call."
+msgstr ""
+
+msgctxt "2\t51151\t168\tCHK"
+msgid "I'll fight till the end!"
+msgstr ""
+
+msgctxt "2\t51176\t169\tCHK"
+msgid "Can't stop me now!"
+msgstr ""
+
+msgctxt "2\t51195\t170\tCHK"
+msgid "Chill out, junior."
+msgstr ""
+
+msgctxt "2\t51214\t171\tCHK"
+msgid "Cut the crap. Let's go."
+msgstr ""
+
+msgctxt "2\t51238\t172\tCHK"
+msgid "This is getting interesting."
+msgstr ""
+
+msgctxt "2\t51267\t173\tCHK"
+msgid "At least I have good luck."
+msgstr ""
+
+msgctxt "2\t51294\t174\tCHK"
+msgid "Un-fucking-believable!"
+msgstr ""
+
+msgctxt "2\t51317\t175\tCHK"
+msgid "That's it! "
+msgstr ""
+
+msgctxt "2\t51329\t176\tCHK"
+msgid "All right!"
+msgstr ""
+
+msgctxt "2\t51340\t177\tCHK"
+msgid "Oh, damn it."
+msgstr ""
+
+msgctxt "2\t51353\t178\tCHK"
+msgid "Gotta be careful with this."
+msgstr ""
+
+msgctxt "2\t51381\t179\tCHK"
+msgid "Does no one play with house rules?"
+msgstr ""
+
+msgctxt "2\t51416\t180\tCHK"
+msgid "It's just a game! Geez!"
+msgstr ""
+
+msgctxt "2\t51440\t181\tCHK"
+msgid "This game sucks..."
+msgstr ""
+
+msgctxt "2\t51459\t182\tCHK"
+msgid "You... You're terrible."
+msgstr ""
+
+msgctxt "2\t51483\t183\tCHK"
+msgid "Got a lot of safe tiles..."
+msgstr ""
+
+msgctxt "2\t51510\t184\tCHK"
+msgid "Can't think your way outta this one."
+msgstr ""
+
+msgctxt "2\t51547\t185\tCHK"
+msgid "You're not even close to my level."
+msgstr ""
+
+msgctxt "2\t51582\t186\tCHK"
+msgid "Gotta stay on my toes..."
+msgstr ""
+
+msgctxt "2\t51607\t187\tCHK"
+msgid "You'll regret this!"
+msgstr ""
+
+msgctxt "2\t51627\t188\tCHK"
+msgid "Sorry I'm so good."
+msgstr ""
+
+msgctxt "2\t51646\t189\tCHK"
+msgid "Whoa, sweet!"
+msgstr ""
+
+msgctxt "2\t51659\t190\tCHK"
+msgid "Not great..."
+msgstr ""
+
+msgctxt "2\t51672\t191\tCHK"
+msgid "But the winds were blowing for me..."
+msgstr ""
+
+msgctxt "2\t51709\t192\tCHK"
+msgid "Bento for lunch tomorrow."
+msgstr ""
+
+msgctxt "2\t51735\t193\tCHK"
+msgid "Such a deviant you are..."
+msgstr ""
+
+msgctxt "2\t51761\t194\tCHK"
+msgid "All right, let's do it."
+msgstr ""
+
+msgctxt "2\t51785\t195\tCHK"
+msgid "No way I can lose now."
+msgstr ""
+
+msgctxt "2\t51808\t196\tCHK"
+msgid "Agh. Bad hand..."
+msgstr ""
+
+msgctxt "2\t51825\t197\tCHK"
+msgid "Just put somethin' down already!"
+msgstr ""
+
+msgctxt "2\t51858\t198\tCHK"
+msgid "No fair..."
+msgstr ""
+
+msgctxt "2\t51869\t199\tCHK"
+msgid "Don't get ahead of yourself, dummy."
+msgstr ""
+
+msgctxt "2\t51905\t200\tCHK"
+msgid "What the heck?"
+msgstr ""
+
+msgctxt "2\t51920\t201\tCHK"
+msgid "You'll forgive me, right?"
+msgstr ""
+
+msgctxt "2\t51946\t202\tCHK"
+msgid "Lovin' this."
+msgstr ""
+
+msgctxt "2\t51959\t203\tCHK"
+msgid "Yer not so hot."
+msgstr ""
+
+msgctxt "2\t51975\t204\tCHK"
+msgid "Ready fer some fun?"
+msgstr ""
+
+msgctxt "2\t51995\t205\tCHK"
+msgid "Lemme borrow some cash?"
+msgstr ""
+
+msgctxt "2\t52019\t206\tCHK"
+msgid "Get outta here."
+msgstr ""
+
+msgctxt "2\t52035\t207\tCHK"
+msgid "Something wrong with you?"
+msgstr ""
+
+msgctxt "2\t52061\t208\tCHK"
+msgid "Yes, this is good."
+msgstr ""
+
+msgctxt "2\t52080\t209\tCHK"
+msgid "Should I go for the flashy win...?"
+msgstr ""
+
+msgctxt "2\t52115\t210\tCHK"
+msgid "Think I can make this work."
+msgstr ""
+
+msgctxt "2\t52143\t211\tCHK"
+msgid "You're pretty confident, huh?"
+msgstr ""
+
+msgctxt "2\t52173\t212\tCHK"
+msgid "You got a lot to learn, kid."
+msgstr ""
+
+msgctxt "2\t52202\t213\tCHK"
+msgid "Now... What to do?"
+msgstr ""
+
+msgctxt "2\t52221\t214\tCHK"
+msgid "Just one game..."
+msgstr ""
+
+msgctxt "2\t52238\t215\tCHK"
+msgid "When am I gonna get an opening?"
+msgstr ""
+
+msgctxt "2\t52270\t216\tCHK"
+msgid "Say your prayers."
+msgstr ""
+
+msgctxt "2\t52288\t217\tCHK"
+msgid "Gonna win it big."
+msgstr ""
+
+msgctxt "2\t52306\t218\tCHK"
+msgid "I don't wanna lose this one."
+msgstr ""
+
+msgctxt "2\t52335\t219\tCHK"
+msgid "I might even win!"
+msgstr ""
+
+msgctxt "2\t52353\t220\tCHK"
+msgid "Maybe I should try..."
+msgstr ""
+
+msgctxt "2\t52375\t221\tCHK"
+msgid "This is so exciting!"
+msgstr ""
+
+msgctxt "2\t52396\t222\tCHK"
+msgid "Wanna hurry it up a little?"
+msgstr ""
+
+msgctxt "2\t52424\t223\tCHK"
+msgid "I'll play it safe for now."
+msgstr ""
+
+msgctxt "2\t52451\t224\tCHK"
+msgid "Hmm... Good job."
+msgstr ""
+
+msgctxt "2\t52468\t225\tCHK"
+msgid "You could've let it slide!"
+msgstr ""
+
+msgctxt "2\t52495\t226\tCHK"
+msgid "I'll admit it. That felt good."
+msgstr ""
+
+msgctxt "2\t52526\t227\tCHK"
+msgid "So far, so good."
+msgstr ""
+
+msgctxt "2\t52543\t228\tCHK"
+msgid "How is that possible!?"
+msgstr ""
+
+msgctxt "2\t52566\t229\tCHK"
+msgid "...We are cleared for takeoff!"
+msgstr ""
+
+msgctxt "2\t52597\t230\tCHK"
+msgid "There's this bag I want..."
+msgstr ""
+
+msgctxt "2\t52624\t231\tCHK"
+msgid "Where's a good place to drink?"
+msgstr ""
+
+msgctxt "2\t52655\t232\tCHK"
+msgid "It's like this every time."
+msgstr ""
+
+msgctxt "2\t52682\t233\tCHK"
+msgid "Where'd I go wrong?"
+msgstr ""
+
+msgctxt "2\t52702\t234\tCHK"
+msgid "You fool!"
+msgstr ""
+
+msgctxt "2\t52712\t235\tCHK"
+msgid "Did Akemi just email me?"
+msgstr ""
+
+msgctxt "2\t52737\t236\tCHK"
+msgid "Let's just end this in a draw."
+msgstr ""
+
+msgctxt "2\t52768\t237\tCHK"
+msgid "Something's up with this table."
+msgstr ""
+
+msgctxt "2\t52800\t238\tCHK"
+msgid "Are you braindead?"
+msgstr ""
+
+msgctxt "2\t52819\t239\tCHK"
+msgid "These tiles aren't so great..."
+msgstr ""
+
+msgctxt "2\t52850\t240\tCHK"
+msgid "Tch... Knew this'd happen."
+msgstr ""
+
+msgctxt "2\t52877\t241\tCHK"
+msgid "Just as I predicted."
+msgstr ""
+
+msgctxt "2\t52898\t242\tCHK"
+msgid "All right."
+msgstr ""
+
+msgctxt "2\t52909\t243\tCHK"
+msgid "I'm not giving up."
+msgstr ""
+
+msgctxt "2\t52928\t244\tCHK"
+msgid "I do <Italic>not</Italic> want to lose."
+msgstr ""
+
+msgctxt "2\t52968\t245\tCHK"
+msgid "Gotta find a job."
+msgstr ""
+
+msgctxt "2\t52986\t246\tCHK"
+msgid "Now it's gettin' good!"
+msgstr ""
+
+msgctxt "2\t53009\t247\tCHK"
+msgid "You ain't so special."
+msgstr ""
+
+msgctxt "2\t53031\t248\tCHK"
+msgid "All right, all right."
+msgstr ""
+
+msgctxt "2\t53053\t249\tCHK"
+msgid "Oh, no, no, no."
+msgstr ""
+
+msgctxt "2\t53069\t250\tCHK"
+msgid "At least I got luck on my side!"
+msgstr ""
+
+msgctxt "2\t53101\t251\tCHK"
+msgid "A tsumo would be bad right now..."
+msgstr ""
+
+msgctxt "2\t53135\t252\tCHK"
+msgid "Oh, I see!"
+msgstr ""
+
+msgctxt "2\t53146\t253\tCHK"
+msgid "Hurry it up."
+msgstr ""
+
+msgctxt "2\t53159\t254\tCHK"
+msgid "I like a good challenge."
+msgstr ""
+
+msgctxt "2\t53184\t255\tCHK"
+msgid "Don't mess with me!"
+msgstr ""
+
+msgctxt "2\t53204\t256\tCHK"
+msgid "No frickin' way!"
+msgstr ""
+
+msgctxt "2\t53221\t257\tCHK"
+msgid "Working at a manga café is rough."
+msgstr ""
+
+msgctxt "2\t53256\t258\tCHK"
+msgid "Someone find me a part-time job."
+msgstr ""
+
+msgctxt "2\t53289\t259\tCHK"
+msgid "But I was doing so well..."
+msgstr ""
+
+msgctxt "2\t53316\t260\tCHK"
+msgid "Anyone got a smoke?"
+msgstr ""
+
+msgctxt "2\t53336\t261\tCHK"
+msgid "Talk about unlucky..."
+msgstr ""
+
+msgctxt "2\t53358\t262\tCHK"
+msgid "No way am I giving up."
+msgstr ""
+
+msgctxt "2\t53381\t263\tCHK"
+msgid "I've got a date after this."
+msgstr ""
+
+msgctxt "2\t53409\t264\tCHK"
+msgid "Think I'm easy? Wrong!"
+msgstr ""
+
+msgctxt "2\t53432\t265\tCHK"
+msgid "I hate losing!"
+msgstr ""
+
+msgctxt "2\t53447\t266\tCHK"
+msgid "Wish I could undo that."
+msgstr ""
+
+msgctxt "2\t53471\t267\tCHK"
+msgid "Keep it up..."
+msgstr ""
+
+msgctxt "2\t53485\t268\tCHK"
+msgid "Guess that works."
+msgstr ""
+
+msgctxt "2\t53503\t269\tCHK"
+msgid "Don't you make fun of me."
+msgstr ""
+
+msgctxt "2\t53529\t270\tCHK"
+msgid "Are you sure about that?"
+msgstr ""
+
+msgctxt "2\t53554\t271\tCHK"
+msgid "I have work tomorrow..."
+msgstr ""
+
+msgctxt "2\t53578\t272\tCHK"
+msgid "Let's not have a draw..."
+msgstr ""
+
+msgctxt "2\t53603\t273\tCHK"
+msgid "I don't feel like losing."
+msgstr ""
+
+msgctxt "2\t53629\t274\tCHK"
+msgid "I got skill <Italic>and</Italic> luck."
+msgstr ""
+
+msgctxt "2\t53668\t275\tCHK"
+msgid "That was pretty good, though."
+msgstr ""
+
+msgctxt "2\t53698\t276\tCHK"
+msgid "Gotta have soy sauce with egg rice."
+msgstr ""
+
+msgctxt "2\t53734\t277\tCHK"
+msgid "So what?"
+msgstr ""
+
+msgctxt "2\t53743\t278\tCHK"
+msgid "Can't I just cheat?"
+msgstr ""
+
+msgctxt "2\t53763\t279\tCHK"
+msgid "I might be slow, but I'm good."
+msgstr ""
+
+msgctxt "2\t53794\t280\tCHK"
+msgid "I'm different from y'all."
+msgstr ""
+
+msgctxt "2\t53820\t281\tCHK"
+msgid "Ya can't do that..."
+msgstr ""
+
+msgctxt "2\t53840\t282\tCHK"
+msgid "Let's just go."
+msgstr ""
+
+msgctxt "2\t53855\t283\tCHK"
+msgid "In for another all-nighter!"
+msgstr ""
+
+msgctxt "2\t53883\t284\tCHK"
+msgid "I should get a discount."
+msgstr ""
+
+msgctxt "2\t53908\t285\tCHK"
+msgid "Gotta make a change..."
+msgstr ""
+
+msgctxt "2\t53931\t286\tCHK"
+msgid "Thinking won't help."
+msgstr ""
+
+msgctxt "2\t53952\t287\tCHK"
+msgid "This is rough..."
+msgstr ""
+
+msgctxt "2\t53969\t288\tCHK"
+msgid "This can't be happening..."
+msgstr ""
+
+msgctxt "2\t53996\t289\tCHK"
+msgid "Sorry for kickin' your ass."
+msgstr ""
+
+msgctxt "2\t54024\t290\tCHK"
+msgid "I got crazy good luck."
+msgstr ""
+
+msgctxt "2\t54047\t291\tCHK"
+msgid "Gotta work tomorrow..."
+msgstr ""
+
+msgctxt "2\t54070\t292\tCHK"
+msgid "Think I can win the lottery?"
+msgstr ""
+
+msgctxt "2\t54099\t293\tCHK"
+msgid "Go a little easier on me, eh?"
+msgstr ""
+
+msgctxt "2\t54129\t294\tCHK"
+msgid "Calm down a little..."
+msgstr ""
+
+msgctxt "2\t54151\t295\tCHK"
+msgid "I hate slow players."
+msgstr ""
+
+msgctxt "2\t54172\t296\tCHK"
+msgid "Hey, that was pretty good! "
+msgstr ""
+
+msgctxt "2\t54200\t297\tCHK"
+msgid "You're pretty lucky!"
+msgstr ""
+
+msgctxt "2\t54221\t298\tCHK"
+msgid "Aww man... Huh?"
+msgstr ""
+
+msgctxt "2\t54237\t299\tCHK"
+msgid "Aww, that was a fluke!"
+msgstr ""
+
+msgctxt "2\t54260\t300\tCHK"
+msgid "So far, so good..."
+msgstr ""
+
+msgctxt "2\t54279\t301\tCHK"
+msgid "How's that possible!?"
+msgstr ""
+
+msgctxt "2\t54301\t302\tCHK"
+msgid "For cryin' out loud!"
+msgstr ""
+
+msgctxt "2\t54322\t303\tCHK"
+msgid "Time to get serious."
+msgstr ""
+
+msgctxt "2\t54343\t304\tCHK"
+msgid "What should I toss?"
+msgstr ""
+
+msgctxt "2\t54363\t305\tCHK"
+msgid "Gotta get married soon..."
+msgstr ""
+
+msgctxt "2\t54389\t306\tCHK"
+msgid "I shouldn't dip into my savings, but..."
+msgstr ""
+
+msgctxt "2\t54429\t307\tCHK"
+msgid "Just need one good tile!"
+msgstr ""
+
+msgctxt "2\t54454\t308\tCHK"
+msgid "Don't fuck with me!"
+msgstr ""
+
+msgctxt "2\t54474\t309\tCHK"
+msgid "I did it!"
+msgstr ""
+
+msgctxt "2\t54484\t310\tCHK"
+msgid "No way..."
+msgstr ""
+
+msgctxt "2\t54494\t311\tCHK"
+msgid "No tsumo, not now!"
+msgstr ""
+
+msgctxt "2\t54513\t312\tCHK"
+msgid "I'm so hungry..."
+msgstr ""
+
+msgctxt "2\t54530\t313\tCHK"
+msgid "I got the devil's luck!"
+msgstr ""
+
+msgctxt "2\t54554\t314\tCHK"
+msgid "Can't get what I want..."
+msgstr ""
+
+msgctxt "2\t54579\t315\tCHK"
+msgid "I should probably toss this..."
+msgstr ""
+
+msgctxt "2\t54610\t316\tCHK"
+msgid "Hehehe... Got it."
+msgstr ""
+
+msgctxt "2\t54628\t317\tCHK"
+msgid "I'm just getting started!"
+msgstr ""
+
+msgctxt "2\t54654\t318\tCHK"
+msgid "Come on, next."
+msgstr ""
+
+msgctxt "2\t54669\t319\tCHK"
+msgid "That was fun."
+msgstr ""
+
+msgctxt "2\t54683\t320\tCHK"
+msgid "I think I can do this..."
+msgstr ""
+
+msgctxt "2\t54708\t321\tCHK"
+msgid "Let's get started, shall we?"
+msgstr ""
+
+msgctxt "2\t54737\t322\tCHK"
+msgid "Hmm..."
+msgstr ""
+
+msgctxt "2\t54744\t323\tCHK"
+msgid "Gotta stretch."
+msgstr ""
+
+msgctxt "2\t54759\t324\tCHK"
+msgid "Now we're gettin' somewhere!"
+msgstr ""
+
+msgctxt "2\t54788\t325\tCHK"
+msgid "Interesting move..."
+msgstr ""
+
+msgctxt "2\t54808\t326\tCHK"
+msgid "That's one hell of a strategy."
+msgstr ""
+
+msgctxt "2\t54839\t327\tCHK"
+msgid "What to have for dinner..."
+msgstr ""
+
+msgctxt "2\t54866\t328\tCHK"
+msgid "Gonna win big!"
+msgstr ""
+
+msgctxt "2\t54881\t329\tCHK"
+msgid "That was close..."
+msgstr ""
+
+msgctxt "2\t54899\t330\tCHK"
+msgid "You're no match for this lady."
+msgstr ""
+
+msgctxt "2\t54930\t331\tCHK"
+msgid "I don't get it."
+msgstr ""
+
+msgctxt "2\t54946\t332\tCHK"
+msgid "Luck's a skill too."
+msgstr ""
+
+msgctxt "2\t54966\t333\tCHK"
+msgid "Wanna buy me some cigarettes?"
+msgstr ""
+
+msgctxt "2\t54996\t334\tCHK"
+msgid "I don't actually have time to play..."
+msgstr ""
+
+msgctxt "2\t55034\t335\tCHK"
+msgid "Don't you get ahead of yourself."
+msgstr ""
+
+msgctxt "2\t55067\t336\tCHK"
+msgid "Where's the takoyaki?"
+msgstr ""
+
+msgctxt "2\t55089\t337\tCHK"
+msgid "Can I just not lose?"
+msgstr ""
+
+msgctxt "2\t55110\t338\tCHK"
+msgid "We ain't strong enough."
+msgstr ""
+
+msgctxt "2\t55134\t339\tCHK"
+msgid "Help me, God!"
+msgstr ""
+
+msgctxt "2\t55148\t340\tCHK"
+msgid "Time to go."
+msgstr ""
+
+msgctxt "2\t55160\t341\tCHK"
+msgid "Got a message."
+msgstr ""
+
+msgctxt "2\t55175\t342\tCHK"
+msgid "Businessmen do know how to play, y'know."
+msgstr ""
+
+msgctxt "2\t55216\t343\tCHK"
+msgid "There goes my pay..."
+msgstr ""
+
+msgctxt "2\t55237\t344\tCHK"
+msgid "My wife's so annoying."
+msgstr ""
+
+msgctxt "2\t55260\t345\tCHK"
+msgid "Maybe I should quit smoking."
+msgstr ""
+
+msgctxt "2\t55289\t346\tCHK"
+msgid "Aren't you aggressive?"
+msgstr ""
+
+msgctxt "2\t55312\t347\tCHK"
+msgid "You're thinking a lot. Good hand?"
+msgstr ""
+
+msgctxt "2\t55346\t348\tCHK"
+msgid "Hehe... I'll give you a head start."
+msgstr ""
+
+msgctxt "2\t55382\t349\tCHK"
+msgid "Aw, I'm sorry for you."
+msgstr ""
+
+msgctxt "2\t55405\t350\tCHK"
+msgid "Aren't you getting too excited?"
+msgstr ""
+
+msgctxt "2\t55437\t351\tCHK"
+msgid "Just let me win."
+msgstr ""
+
+msgctxt "2\t55454\t352\tCHK"
+msgid "Don't harsh my groove."
+msgstr ""
+
+msgctxt "2\t55477\t353\tCHK"
+msgid "Hey, pretty good! "
+msgstr ""
+
+msgctxt "2\t55496\t354\tCHK"
+msgid "Heh, going well."
+msgstr ""
+
+msgctxt "2\t55513\t355\tCHK"
+msgid "Hurry up!"
+msgstr ""
+
+msgctxt "2\t55523\t356\tCHK"
+msgid "I'm not losing, okay?"
+msgstr ""
+
+msgctxt "2\t55545\t357\tCHK"
+msgid "That's pretty big."
+msgstr ""
+
+msgctxt "2\t55564\t358\tCHK"
+msgid "I'll destroy you now."
+msgstr ""
+
+msgctxt "2\t55586\t359\tCHK"
+msgid "Not bad, not bad."
+msgstr ""
+
+msgctxt "2\t55604\t360\tCHK"
+msgid "Damn!"
+msgstr ""
+
+msgctxt "2\t55610\t361\tCHK"
+msgid "Wonder who's winning this one?"
+msgstr ""
+
+msgctxt "2\t55641\t362\tCHK"
+msgid "Can I bum a smoke?"
+msgstr ""
+
+msgctxt "2\t55660\t363\tCHK"
+msgid "This sucks."
+msgstr ""
+
+msgctxt "2\t55672\t364\tCHK"
+msgid "No damn way!"
+msgstr ""
+
+msgctxt "2\t55685\t365\tCHK"
+msgid "I'm having so much fun!"
+msgstr ""
+
+msgctxt "2\t55709\t366\tCHK"
+msgid "Enough already."
+msgstr ""
+
+msgctxt "2\t55725\t367\tCHK"
+msgid "Haven't been eating meat lately."
+msgstr ""
+
+msgctxt "2\t55758\t368\tCHK"
+msgid "Wonder if I can earn a bit of cash."
+msgstr ""
+
+msgctxt "2\t55794\t369\tCHK"
+msgid "Gettin' real good!"
+msgstr ""
+
+msgctxt "2\t55813\t370\tCHK"
+msgid "I want to just cheat!"
+msgstr ""
+
+msgctxt "2\t55835\t371\tCHK"
+msgid "I might be boring, but I'm good."
+msgstr ""
+
+msgctxt "2\t55868\t372\tCHK"
+msgid "This ain't a comedy."
+msgstr ""
+
+msgctxt "2\t55889\t373\tCHK"
+msgid "Of course I won."
+msgstr ""
+
+msgctxt "2\t55906\t374\tCHK"
+msgid "I hate slow guys."
+msgstr ""
+
+msgctxt "2\t55924\t375\tCHK"
+msgid "Let me do this."
+msgstr ""
+
+msgctxt "2\t55940\t376\tCHK"
+msgid "Aww man... Uh..."
+msgstr ""
+
+msgctxt "2\t55957\t377\tCHK"
+msgid "It felt so nice..."
+msgstr ""
+
+msgctxt "2\t55976\t378\tCHK"
+msgid "Yes!"
+msgstr ""
+
+msgctxt "2\t55981\t379\tCHK"
+msgid "Gah! This sucks!"
+msgstr ""
+
+msgctxt "2\t55998\t380\tCHK"
+msgid "I'm damn lucky!"
+msgstr ""
+
+msgctxt "2\t56014\t381\tCHK"
+msgid "Well that ain't no fun at all."
+msgstr ""
+
+msgctxt "2\t56045\t382\tCHK"
+msgid "I gotta go to work after this."
+msgstr ""
+
+msgctxt "2\t56076\t383\tCHK"
+msgid "Hey, that ain't fair!"
+msgstr ""
+
+msgctxt "2\t56098\t384\tCHK"
+msgid "Didja pass out?"
+msgstr ""
+
+msgctxt "2\t56114\t385\tCHK"
+msgid "Goin' in guns blazin', eh?"
+msgstr ""
+
+msgctxt "2\t56141\t386\tCHK"
+msgid "Not half bad!"
+msgstr ""
+
+msgctxt "2\t56155\t387\tCHK"
+msgid "What're ya doin'!?"
+msgstr ""
+
+msgctxt "2\t56174\t388\tCHK"
+msgid "Oh my gosh, I'm doin' it!"
+msgstr ""
+
+msgctxt "2\t56200\t389\tCHK"
+msgid "Woohoo!"
+msgstr ""
+
+msgctxt "2\t56208\t390\tCHK"
+msgid "Why'd ya go and do that?"
+msgstr ""
+
+msgctxt "2\t56233\t391\tCHK"
+msgid "I'm gonna murder ya."
+msgstr ""
+
+msgctxt "2\t56254\t392\tCHK"
+msgid "I dunno what to get rid of..."
+msgstr ""
+
+msgctxt "2\t56284\t393\tCHK"
+msgid "I ain't givin' up till I win!"
+msgstr ""
+
+msgctxt "3\t71868\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "3\t71869\t1\tCHK"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "3\t71875\t2\tCHK"
+msgid "Kazuma Kiryu"
+msgstr ""
+
+msgctxt "3\t71888\t3\tCHK"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "3\t71895\t4\tCHK"
+msgid "Haruka Sawamura"
+msgstr ""
+
+msgctxt "3\t71911\t5\tCHK"
+msgid "Rikiya"
+msgstr ""
+
+msgctxt "3\t71918\t6\tCHK"
+msgid "Rikiya Shimabukuro"
+msgstr ""
+
+msgctxt "3\t71937\t7\tCHK"
+msgid "Reimi Hanayama"
+msgstr ""
+
+msgctxt "3\t71952\t8\tCHK"
+msgid "Rin Sasaba"
+msgstr ""
+
+msgctxt "3\t71963\t9\tCHK"
+msgid "Kana Momonogi"
+msgstr ""
+
+msgctxt "3\t71977\t10\tCHK"
+msgid "Ranko Yazuki"
+msgstr ""
+
+msgctxt "3\t71990\t11\tCHK"
+msgid "Miyu Shiraboshi"
+msgstr ""
+
+msgctxt "3\t72006\t12\tCHK"
+msgid "Shiori Nagamori"
+msgstr ""
+
+msgctxt "3\t72022\t13\tCHK"
+msgid "Yui Hatano"
+msgstr ""
+
+msgctxt "3\t72033\t14\tCHK"
+msgid "Mika Tsuchiya"
+msgstr ""
+
+msgctxt "3\t72047\t15\tCHK"
+msgid "Nao Kaneshiro"
+msgstr ""
+
+msgctxt "3\t72061\t16\tCHK"
+msgid "Saya Unten"
+msgstr ""
+
+msgctxt "3\t72072\t17\tCHK"
+msgid "Reimi"
+msgstr ""
+
+msgctxt "3\t72078\t18\tCHK"
+msgid "Rin"
+msgstr ""
+
+msgctxt "3\t72082\t19\tCHK"
+msgid "Kana"
+msgstr ""
+
+msgctxt "3\t72087\t20\tCHK"
+msgid "Miyu"
+msgstr ""
+
+msgctxt "3\t72092\t21\tCHK"
+msgid "Shiori"
+msgstr ""
+
+msgctxt "3\t72099\t22\tCHK"
+msgid "Yui"
+msgstr ""
+
+msgctxt "3\t72103\t23\tCHK"
+msgid "Mika"
+msgstr ""
+
+msgctxt "3\t72108\t24\tCHK"
+msgid "Nao"
+msgstr ""
+
+msgctxt "3\t72112\t25\tCHK"
+msgid "Saya"
+msgstr ""
+
+msgctxt "3\t72117\t26\tCHK"
+msgid "P1"
+msgstr ""
+
+msgctxt "3\t72120\t27\tCHK"
+msgid "P2"
+msgstr ""
+
+msgctxt "3\t72123\t28\tCHK"
+msgid "Lau Ka Long"
+msgstr ""
+
+msgctxt "3\t72135\t29\tCHK"
+msgid "Tetsuo Tamashiro"
+msgstr ""
+
+msgctxt "3\t72152\t30\tCHK"
+msgid "Goh Hamazaki"
+msgstr ""
+
+msgctxt "3\t72165\t31\tCHK"
+msgid "Moderate Akira"
+msgstr ""
+
+msgctxt "3\t72180\t32\tCHK"
+msgid "Striking Tetsu"
+msgstr ""
+
+msgctxt "3\t72195\t33\tCHK"
+msgid "Silent Tatsu"
+msgstr ""
+
+msgctxt "3\t72208\t34\tCHK"
+msgid "Laidback Sachiko"
+msgstr ""
+
+msgctxt "3\t72225\t35\tCHK"
+msgid "Razor Gen"
+msgstr ""
+
+msgctxt "3\t72235\t36\tCHK"
+msgid "Miracle Masa"
+msgstr ""
+
+msgctxt "3\t72248\t37\tCHK"
+msgid "Cowardly Yuta"
+msgstr ""
+
+msgctxt "3\t72262\t38\tCHK"
+msgid "Instinctive Billy"
+msgstr ""
+
+msgctxt "3\t72280\t39\tCHK"
+msgid "Smart Ken"
+msgstr ""
+
+msgctxt "3\t72290\t40\tCHK"
+msgid "Nagaharu"
+msgstr ""
+
+msgctxt "3\t72299\t41\tCHK"
+msgid "Petty Mitsuru"
+msgstr ""
+
+msgctxt "3\t72313\t42\tCHK"
+msgid "Stormy Minamoto"
+msgstr ""
+
+msgctxt "3\t72329\t43\tCHK"
+msgid "Broadsword Hide"
+msgstr ""
+
+msgctxt "3\t72345\t44\tCHK"
+msgid "Fuyumi 456"
+msgstr ""
+
+msgctxt "3\t72356\t45\tCHK"
+msgid "Psychic Kihachi"
+msgstr ""
+
+msgctxt "3\t72372\t46\tCHK"
+msgid "Beanpole Naoki"
+msgstr ""
+
+msgctxt "3\t72387\t47\tCHK"
+msgid "Yutaka the Hyena"
+msgstr ""
+
+msgctxt "3\t72404\t48\tCHK"
+msgid "Strongarm Eddie"
+msgstr ""
+
+msgctxt "3\t72420\t49\tCHK"
+msgid "Satoru the Mouse"
+msgstr ""
+
+msgctxt "3\t72437\t50\tCHK"
+msgid "Mystery Gambler 1"
+msgstr ""
+
+msgctxt "3\t72455\t51\tCHK"
+msgid "Mystery Gambler 2"
+msgstr ""
+
+msgctxt "3\t72473\t52\tCHK"
+msgid "Mystery Gambler 3"
+msgstr ""
+
+msgctxt "3\t72491\t53\tCHK"
+msgid "Jon Hawk"
+msgstr ""
+
+msgctxt "3\t72500\t54\tCHK"
+msgid "Sakura Aragaki"
+msgstr ""
+
+msgctxt "3\t72515\t55\tCHK"
+msgid "Shinji Oshiro"
+msgstr ""
+
+msgctxt "3\t72529\t56\tCHK"
+msgid "Steven Right"
+msgstr ""
+
+msgctxt "3\t72542\t57\tCHK"
+msgid "Masaaki Tsuji"
+msgstr ""
+
+msgctxt "3\t72556\t58\tCHK"
+msgid "Yukihira Tanihara"
+msgstr ""
+
+msgctxt "3\t72574\t59\tCHK"
+msgid "Miki Kinjo"
+msgstr ""
+
+msgctxt "3\t72585\t60\tCHK"
+msgid "Yosuke Taira"
+msgstr ""
+
+msgctxt "3\t72598\t61\tCHK"
+msgid "Akasaka"
+msgstr ""
+
+msgctxt "3\t72606\t62\tCHK"
+msgid "President"
+msgstr ""
+
+msgctxt "3\t72616\t63\tCHK"
+msgid "Shogo Shiraishi"
+msgstr ""
+
+msgctxt "3\t72632\t64\tCHK"
+msgid "Seiji Nakazato"
+msgstr ""
+
+msgctxt "3\t72647\t65\tCHK"
+msgid "Kiko Hirakawa"
+msgstr ""
+
+msgctxt "3\t72661\t66\tCHK"
+msgid "Shunichi Arahama"
+msgstr ""
+
+msgctxt "3\t72678\t67\tCHK"
+msgid "Makoto Kano"
+msgstr ""
+
+msgctxt "3\t72690\t68\tCHK"
+msgid "Susumu Yamagata"
+msgstr ""
+
+msgctxt "3\t72706\t69\tCHK"
+msgid "Satoru Hayashida"
+msgstr ""
+
+msgctxt "3\t72723\t70\tCHK"
+msgid "Koji Iba"
+msgstr ""
+
+msgctxt "3\t72732\t71\tCHK"
+msgid "Kota Hatano"
+msgstr ""
+
+msgctxt "3\t72744\t72\tCHK"
+msgid "Kazuhiro Hirai"
+msgstr ""
+
+msgctxt "3\t72759\t73\tCHK"
+msgid "Shigeru Honma"
+msgstr ""
+
+msgctxt "3\t72773\t74\tCHK"
+msgid "Masaki"
+msgstr ""
+
+msgctxt "3\t72780\t75\tCHK"
+msgid "Opponent"
+msgstr ""
+
+msgctxt "3\t72789\t76\tCHK"
+msgid "King Unchiku"
+msgstr ""
+
+msgctxt "3\t72802\t77\tCHK"
+msgid "Player 1"
+msgstr ""
+
+msgctxt "3\t72811\t78\tCHK"
+msgid "Player 2"
+msgstr ""
+
+msgctxt "3\t72820\t79\tCHK"
+msgid "Hiromi"
+msgstr ""
+
+msgctxt "3\t72827\t80\tCHK"
+msgid "Ritsuko"
+msgstr ""
+
+msgctxt "3\t72835\t81\tCHK"
+msgid "Jo"
+msgstr ""
+
+msgctxt "3\t72838\t82\tCHK"
+msgid "Kirie"
+msgstr ""
+
+msgctxt "3\t72844\t83\tCHK"
+msgid "Shoko"
+msgstr ""
+
+msgctxt "3\t72850\t84\tCHK"
+msgid "ESP-User Honda"
+msgstr ""
+
+msgctxt "3\t72865\t85\tCHK"
+msgid "Chilly Nomura"
+msgstr ""
+
+msgctxt "3\t72879\t86\tCHK"
+msgid "Wasteful Komiyama"
+msgstr ""
+
+msgctxt "3\t72897\t87\tCHK"
+msgid "Delicate Tanabe"
+msgstr ""
+
+msgctxt "3\t72913\t88\tCHK"
+msgid "Calm Yoshioka"
+msgstr ""
+
+msgctxt "3\t72927\t89\tCHK"
+msgid "Bold Kishigawa"
+msgstr ""
+
+msgctxt "3\t72942\t90\tCHK"
+msgid "Hurricane Maeda"
+msgstr ""
+
+msgctxt "3\t72958\t91\tCHK"
+msgid "Hot Blooded Momoi"
+msgstr ""
+
+msgctxt "3\t72976\t92\tCHK"
+msgid "Selfless Naito"
+msgstr ""
+
+msgctxt "3\t72991\t93\tCHK"
+msgid "King Kazunobu"
+msgstr ""
+
+msgctxt "3\t73005\t94\tCHK"
+msgid "Risa-tan"
+msgstr ""
+
+msgctxt "3\t73014\t95\tCHK"
+msgid "Nanae"
+msgstr ""
+
+msgctxt "3\t73020\t96\tCHK"
+msgid "Uraraka Potato"
+msgstr ""
+
+msgctxt "3\t73035\t97\tCHK"
+msgid "Bhasi"
+msgstr ""
+
+msgctxt "3\t73041\t98\tCHK"
+msgid "G"
+msgstr ""
+
+msgctxt "3\t73043\t99\tCHK"
+msgid "Kaji-san"
+msgstr ""
+
+msgctxt "3\t73052\t100\tCHK"
+msgid "Ehama"
+msgstr ""
+
+msgctxt "3\t73058\t101\tCHK"
+msgid "Nishina"
+msgstr ""
+
+msgctxt "3\t73066\t102\tCHK"
+msgid "Matsukofu"
+msgstr ""
+
+msgctxt "3\t73076\t103\tCHK"
+msgid "Manager"
+msgstr ""
+
+msgctxt "3\t73084\t104\tCHK"
+msgid "D.B."
+msgstr ""
+
+msgctxt "3\t73089\t105\tCHK"
+msgid "Death Bowler"
+msgstr ""
+
+msgctxt "3\t73102\t106\tCHK"
+msgid "King of Kamurocho"
+msgstr ""
+
+msgctxt "3\t73120\t107\tCHK"
+msgid "Supreme Yamazaki"
+msgstr ""
+
+msgctxt "3\t73137\t108\tCHK"
+msgid "10k Oryo"
+msgstr ""
+
+msgctxt "3\t73146\t109\tCHK"
+msgid "Magician of Naniwa"
+msgstr ""
+
+msgctxt "3\t73165\t110\tCHK"
+msgid "Heaven's Eye Ukyo"
+msgstr ""
+
+msgctxt "3\t73183\t111\tCHK"
+msgid "Dusky Zenjiro"
+msgstr ""
+
+msgctxt "3\t73197\t112\tCHK"
+msgid "Lucky Fumiko"
+msgstr ""
+
+msgctxt "3\t73210\t113\tCHK"
+msgid "Manzu Hunter Jin"
+msgstr ""
+
+msgctxt "3\t73227\t114\tCHK"
+msgid "Sakai the Slob"
+msgstr ""
+
+msgctxt "3\t73242\t115\tCHK"
+msgid "Bulldozer Maeda"
+msgstr ""
+
+msgctxt "3\t73258\t116\tCHK"
+msgid "One-Punch Karasawa"
+msgstr ""
+
+msgctxt "3\t73277\t117\tCHK"
+msgid "Ginza-Boy Shizuka"
+msgstr ""
+
+msgctxt "3\t73295\t118\tCHK"
+msgid "Daily Tatsukawa"
+msgstr ""
+
+msgctxt "3\t73311\t119\tCHK"
+msgid "Silent Yusaku"
+msgstr ""
+
+msgctxt "3\t73325\t120\tCHK"
+msgid "North Wind Mamiko"
+msgstr ""
+
+msgctxt "3\t73343\t121\tCHK"
+msgid "Demon Banker Suzu"
+msgstr ""
+
+msgctxt "3\t73361\t122\tCHK"
+msgid "Iron Mask Matsu"
+msgstr ""
+
+msgctxt "3\t73377\t123\tCHK"
+msgid "Praying Kikugoro"
+msgstr ""
+
+msgctxt "3\t73394\t124\tCHK"
+msgid "Sumire Haneda"
+msgstr ""
+
+msgctxt "3\t73408\t125\tCHK"
+msgid "Midnight Junichi"
+msgstr ""
+
+msgctxt "3\t73425\t126\tCHK"
+msgid "Snake Eyes"
+msgstr ""
+
+msgctxt "3\t73436\t127\tCHK"
+msgid "Boppin' Arakawa"
+msgstr ""
+
+msgctxt "3\t73452\t128\tCHK"
+msgid "Broke Takego"
+msgstr ""
+
+msgctxt "3\t73465\t129\tCHK"
+msgid "Cougar Oyuki"
+msgstr ""
+
+msgctxt "3\t73478\t130\tCHK"
+msgid "Zanky Zankuro"
+msgstr ""
+
+msgctxt "3\t73492\t131\tCHK"
+msgid "All Night Tetsuya"
+msgstr ""
+
+msgctxt "3\t73510\t132\tCHK"
+msgid "Gamblin' Hideaki"
+msgstr ""
+
+msgctxt "3\t73527\t133\tCHK"
+msgid "Tanyao Yoriko"
+msgstr ""
+
+msgctxt "3\t73541\t134\tCHK"
+msgid "Cautious Wataru"
+msgstr ""
+
+msgctxt "3\t73557\t135\tCHK"
+msgid "Nankuru Naizawa"
+msgstr ""
+
+msgctxt "3\t73573\t136\tCHK"
+msgid "Flinger Hyodo"
+msgstr ""
+
+msgctxt "3\t73587\t137\tCHK"
+msgid "Godly Kazuya"
+msgstr ""
+
+msgctxt "3\t73600\t138\tCHK"
+msgid "Ittetsu Ryuzoji"
+msgstr ""
+
+msgctxt "3\t73616\t139\tCHK"
+msgid "Shiisa Kuniko"
+msgstr ""
+
+msgctxt "3\t73630\t140\tCHK"
+msgid "Passing Isoroku"
+msgstr ""
+
+msgctxt "3\t73646\t141\tCHK"
+msgid "Kijimuna Sota"
+msgstr ""
+
+msgctxt "3\t73660\t142\tCHK"
+msgid "Camo Sobei"
+msgstr ""
+
+msgctxt "3\t73671\t143\tCHK"
+msgid "Sanshin Ogin"
+msgstr ""
+
+msgctxt "3\t73684\t144\tCHK"
+msgid "Yuka the Dunker"
+msgstr ""
+
+msgctxt "3\t73700\t145\tCHK"
+msgid "Stir-Fry Yutaka"
+msgstr ""
+
+msgctxt "3\t73716\t146\tCHK"
+msgid "Mensore Takeshi"
+msgstr ""
+
+msgctxt "3\t73732\t147\tCHK"
+msgid "Cheapo Masuoka"
+msgstr ""
+
+msgctxt "3\t73747\t148\tCHK"
+msgid "Night Stall Reiko"
+msgstr ""
+
+msgctxt "3\t73765\t149\tCHK"
+msgid "In-debt Asami"
+msgstr ""
+
+msgctxt "3\t73779\t150\tCHK"
+msgid "Ranko"
+msgstr ""
+
+msgctxt "3\t73785\t151\tCHK"
+msgid ""
+"Chairman of the Hakuho Clan, a Tojo Clan Subsidiary\n"
+"Yoshitaka Mine"
+msgstr ""
+
+msgctxt "3\t73852\t152\tCHK"
+msgid ""
+"Patriarch of the Hamazaki Family, a Tojo Clan Subsidiary\n"
+"Goh Hamazaki"
+msgstr ""
+
+msgctxt "3\t73922\t153\tCHK"
+msgid ""
+"Third Patriarch of the Nishikiyama Family, a Tojo Clan Subsidiary\n"
+"Tsuyoshi Kanda"
+msgstr ""
+
+msgctxt "3\t74003\t154\tCHK"
+msgid ""
+"Tojo Clan Captain and Second Patriarch of the Kazama Family, a Tojo Clan "
+"Subsidiary\n"
+"Osamu Kashiwagi"
+msgstr ""
+
+msgctxt "3\t74103\t155\tCHK"
+msgid ""
+"Patriarch of the Majima Family, a Tojo Clan Subsidiary\n"
+"Goro Majima"
+msgstr ""
+
+msgctxt "3\t74170\t156\tCHK"
+msgid "Hostess Trainee"
+msgstr ""
+
+msgctxt "3\t74186\t157\tCHK"
+msgid "Hostess Rival"
+msgstr ""
+
+msgctxt "4\t78932\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "4\t78933\t1\tCHK"
+msgid "Return to Title"
+msgstr ""
+
+msgctxt "4\t78949\t2\tCHK"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "4\t78956\t3\tCHK"
+msgid "Controls"
+msgstr ""
+
+msgctxt "4\t78965\t4\tCHK"
+msgid "Quit"
+msgstr ""
+
+msgctxt "4\t78970\t5\tCHK"
+msgid "Try Again"
+msgstr ""
+
+msgctxt "4\t78980\t6\tCHK"
+msgid "Yes"
+msgstr ""
+
+msgctxt "4\t78984\t7\tCHK"
+msgid "No"
+msgstr ""
+
+msgctxt "4\t78987\t8\tCHK"
+msgid "Return to title screen?"
+msgstr ""
+
+msgctxt "4\t79011\t9\tCHK"
+msgid "Are you sure you want to quit?"
+msgstr ""
+
+msgctxt "4\t79042\t10\tCHK"
+msgid "Are you sure you want to retry?"
+msgstr ""
+
+msgctxt "4\t79074\t11\tCHK"
+msgid "If you quit now, you will lose. Are you sure you want to quit?"
+msgstr ""
+
+msgctxt "4\t79137\t12\tCHK"
+msgid "You cannot quit now."
+msgstr ""
+
+msgctxt "4\t79158\t13\tCHK"
+msgid "Pause Menu"
+msgstr ""
+
+msgctxt "4\t79169\t14\tCHK"
+msgid "Items"
+msgstr ""
+
+msgctxt "4\t79175\t15\tCHK"
+msgid "Map"
+msgstr ""
+
+msgctxt "4\t79179\t16\tCHK"
+msgid "Upgrades"
+msgstr ""
+
+msgctxt "4\t79188\t17\tCHK"
+msgid "Email"
+msgstr ""
+
+msgctxt "4\t79194\t18\tCHK"
+msgid "Profiles"
+msgstr ""
+
+msgctxt "4\t79203\t19\tCHK"
+msgid "Substories"
+msgstr ""
+
+msgctxt "4\t79214\t20\tCHK"
+msgid "Completion"
+msgstr ""
+
+msgctxt "4\t79225\t21\tCHK"
+msgid "Options"
+msgstr ""
+
+msgctxt "4\t79233\t22\tCHK"
+msgid "Valuables"
+msgstr ""
+
+msgctxt "4\t79243\t23\tCHK"
+msgid "View Abilities"
+msgstr ""
+
+msgctxt "4\t79258\t24\tCHK"
+msgid "You can upgrade abilities."
+msgstr ""
+
+msgctxt "4\t79285\t25\tCHK"
+msgid "Battle for Survival in Progress"
+msgstr ""
+
+msgctxt "4\t79317\t26\tCHK"
+msgid "Survival Tag in Progress"
+msgstr ""
+
+msgctxt "4\t79342\t27\tCHK"
+msgid "All-Star Tournament in Progress"
+msgstr ""
+
+msgctxt "4\t79374\t28\tCHK"
+msgid "All-Star Tag Tournament in Progress"
+msgstr ""
+
+msgctxt "4\t79410\t29\tCHK"
+msgid "You cannot change equipment now."
+msgstr ""
+
+msgctxt "4\t79443\t30\tCHK"
+msgid "ATK ${value}"
+msgstr ""
+
+msgctxt "4\t79456\t31\tCHK"
+msgid "DEF ${value1} Blades ${value2} Guns ${value3}"
+msgstr ""
+
+msgctxt "4\t79502\t32\tCHK"
+msgid "Stock"
+msgstr ""
+
+msgctxt "4\t79508\t33\tCHK"
+msgid "Experience Points / Total"
+msgstr ""
+
+msgctxt "4\t79534\t34\tCHK"
+msgid "Soul"
+msgstr ""
+
+msgctxt "4\t79539\t35\tCHK"
+msgid "Tech"
+msgstr ""
+
+msgctxt "4\t79544\t36\tCHK"
+msgid "Body"
+msgstr ""
+
+msgctxt "4\t79549\t37\tCHK"
+msgid "Heat"
+msgstr ""
+
+msgctxt "4\t79554\t38\tCHK"
+msgid "Soul Lv. ${value}"
+msgstr ""
+
+msgctxt "4\t79572\t39\tCHK"
+msgid "Tech Lv. ${value}"
+msgstr ""
+
+msgctxt "4\t79590\t40\tCHK"
+msgid "Body Lv. ${value}"
+msgstr ""
+
+msgctxt "4\t79608\t41\tCHK"
+msgid "Heat Lv. ${value}"
+msgstr ""
+
+msgctxt "4\t79626\t42\tCHK"
+msgid "MAX"
+msgstr ""
+
+msgctxt "4\t79630\t43\tCHK"
+msgid ""
+"Move the cursor up and down to select an ability, then move\n"
+"the cursor left and right to confirm the ability you would\n"
+"like to acquire. Hold <Action:Button_Cross@UI> to spend experience points."
+msgstr ""
+
+msgctxt "4\t79824\t44\tCHK"
+msgid ""
+"You can learn ${color3}1${color4} ${color1}${category}${color2} ability "
+"next level."
+msgstr ""
+
+msgctxt "4\t79908\t45\tCHK"
+msgid ""
+"You can learn ${color3}2${color4} ${color1}${category}${color2} abilities "
+"next level."
+msgstr ""
+
+msgctxt "4\t79994\t46\tCHK"
+msgid "You have achieved max level in ${color1}${category}${color2}."
+msgstr ""
+
+msgctxt "4\t80056\t47\tCHK"
+msgid "Category"
+msgstr ""
+
+msgctxt "4\t80065\t48\tCHK"
+msgid "Ability Name"
+msgstr ""
+
+msgctxt "4\t80078\t49\tCHK"
+msgid "Acquired"
+msgstr ""
+
+msgctxt "4\t80087\t50\tCHK"
+msgid ""
+"Abilities can be acquired. <Color:109,193,240,255>Blue "
+"letters<Color:Default> indicate that the ability is\n"
+"a Heat Action, while <Color:255,100,100,255>red letters<Color:Default> "
+"indicate that the ability can only\n"
+"be activated when the Heat Gauge is in the red."
+msgstr ""
+
+msgctxt "4\t80348\t51\tCHK"
+msgid ""
+"Move the cursor up and down, then press <Action:Button_Cross@UI> to view a "
+"category."
+msgstr ""
+
+msgctxt "4\t80433\t52\tCHK"
+msgid "As ${timing} Level Increases"
+msgstr ""
+
+msgctxt "4\t80462\t53\tCHK"
+msgid "${timing} Level ${value}"
+msgstr ""
+
+msgctxt "4\t80487\t54\tCHK"
+msgid "? ? ?"
+msgstr ""
+
+msgctxt "4\t80493\t55\tCHK"
+msgid "－－－－－"
+msgstr ""
+
+msgctxt "4\t80509\t56\tCHK"
+msgid "Use item?"
+msgstr ""
+
+msgctxt "4\t80519\t57\tCHK"
+msgid "Discard item?"
+msgstr ""
+
+msgctxt "4\t80533\t58\tCHK"
+msgid "Save game?"
+msgstr ""
+
+msgctxt "4\t80544\t59\tCHK"
+msgid "Temporarily switch to Easy difficulty?"
+msgstr ""
+
+msgctxt "4\t80583\t60\tCHK"
+msgid "Are you sure you want to switch to Easy?"
+msgstr ""
+
+msgctxt "4\t80624\t61\tCHK"
+msgid "Watch the rest?"
+msgstr ""
+
+msgctxt "4\t80640\t62\tCHK"
+msgid ""
+"You may now end the Battle for Survival.\n"
+"If you choose to do so, you will keep the money and experience points plus "
+"bonus money you've earned so far.\n"
+"Continue the Battle for Survival?"
+msgstr ""
+
+msgctxt "4\t80824\t63\tCHK"
+msgid "Rewind time and redo this fighting lesson?"
+msgstr ""
+
+msgctxt "4\t80867\t64\tCHK"
+msgid "You don't need to use that now."
+msgstr ""
+
+msgctxt "4\t80899\t65\tCHK"
+msgid "You can't use that here."
+msgstr ""
+
+msgctxt "4\t80924\t66\tCHK"
+msgid "You can't discard that."
+msgstr ""
+
+msgctxt "4\t80948\t67\tCHK"
+msgid "You can't discard equipped items."
+msgstr ""
+
+msgctxt "4\t80982\t68\tCHK"
+msgid "Hitman Missions"
+msgstr ""
+
+msgctxt "4\t80998\t69\tCHK"
+msgid "Reward:"
+msgstr ""
+
+msgctxt "4\t81006\t70\tCHK"
+msgid "Completion  "
+msgstr ""
+
+msgctxt "4\t81019\t71\tCHK"
+msgid "Bare-Handed"
+msgstr ""
+
+msgctxt "4\t81031\t72\tCHK"
+msgid "Impact"
+msgstr ""
+
+msgctxt "4\t81038\t73\tCHK"
+msgid "Blade"
+msgstr ""
+
+msgctxt "4\t81044\t74\tCHK"
+msgid "Bullet"
+msgstr ""
+
+msgctxt "4\t81051\t75\tCHK"
+msgid "Burn"
+msgstr ""
+
+msgctxt "4\t81056\t76\tCHK"
+msgid "Slow"
+msgstr ""
+
+msgctxt "4\t81061\t77\tCHK"
+msgid "Normal"
+msgstr ""
+
+msgctxt "4\t81068\t78\tCHK"
+msgid "Fast"
+msgstr ""
+
+msgctxt "4\t81073\t79\tCHK"
+msgid "Hyper"
+msgstr ""
+
+msgctxt "4\t81079\t80\tCHK"
+msgid "Restaurants"
+msgstr ""
+
+msgctxt "4\t81091\t81\tCHK"
+msgid "Stores"
+msgstr ""
+
+msgctxt "4\t81098\t82\tCHK"
+msgid "Amusements"
+msgstr ""
+
+msgctxt "4\t81109\t83\tCHK"
+msgid "Important"
+msgstr ""
+
+msgctxt "4\t81119\t84\tCHK"
+msgid "Training"
+msgstr ""
+
+msgctxt "4\t81128\t85\tCHK"
+msgid "Nightlife"
+msgstr ""
+
+msgctxt "4\t81138\t86\tCHK"
+msgid "Save Point"
+msgstr ""
+
+msgctxt "4\t81149\t87\tCHK"
+msgid "Taxi"
+msgstr ""
+
+msgctxt "4\t81154\t88\tCHK"
+msgid "Coin Lockers"
+msgstr ""
+
+msgctxt "4\t81167\t89\tCHK"
+msgid ""
+"Zoom in with <Action:Button_Cross@UI>, <Action:Button_L2@UI>, or "
+"<Action:Button_R2@UI>.\n"
+"Press <Action:Button_Square@UI>, <Action:Button_L1@UI>, or "
+"<Action:Button_R1@UI> to go to the Map Select screen."
+msgstr ""
+
+msgctxt "4\t81368\t90\tCHK"
+msgid ""
+"Zoom in with <Action:Button_Cross@UI>, <Action:Button_L2@UI>, or "
+"<Action:Button_R2@UI>."
+msgstr ""
+
+msgctxt "4\t81456\t91\tCHK"
+msgid ""
+"Zoom out with <Action:Button_Square@UI>, <Action:Button_L1@UI>, or "
+"<Action:Button_R1@UI>."
+msgstr ""
+
+msgctxt "4\t81546\t92\tCHK"
+msgid "No Map"
+msgstr ""
+
+msgctxt "4\t81553\t93\tCHK"
+msgid "Press <Action:Button_Triangle@UI> to return to the map screen."
+msgstr ""
+
+msgctxt "4\t81616\t94\tCHK"
+msgid "Please select a starting point."
+msgstr ""
+
+msgctxt "4\t81648\t95\tCHK"
+msgid "Please select a destination."
+msgstr ""
+
+msgctxt "4\t81677\t96\tCHK"
+msgid "Hostesses"
+msgstr ""
+
+msgctxt "4\t81687\t97\tCHK"
+msgid "Food/Drink"
+msgstr ""
+
+msgctxt "4\t81698\t98\tCHK"
+msgid "Heat Actions"
+msgstr ""
+
+msgctxt "4\t81711\t99\tCHK"
+msgid "Coliseum"
+msgstr ""
+
+msgctxt "4\t81720\t100\tCHK"
+msgid "Weapon Modding"
+msgstr ""
+
+msgctxt "4\t81735\t101\tCHK"
+msgid "Revelations"
+msgstr ""
+
+msgctxt "4\t81747\t102\tCHK"
+msgid "Minigames"
+msgstr ""
+
+msgctxt "4\t81757\t103\tCHK"
+msgid "?????"
+msgstr ""
+
+msgctxt "4\t81763\t104\tCHK"
+msgid "---"
+msgstr ""
+
+msgctxt "4\t81767\t105\tCHK"
+msgid "Birthday"
+msgstr ""
+
+msgctxt "4\t81776\t106\tCHK"
+msgid "Height"
+msgstr ""
+
+msgctxt "4\t81783\t107\tCHK"
+msgid "Blood Type"
+msgstr ""
+
+msgctxt "4\t81794\t108\tCHK"
+msgid "Zodiac"
+msgstr ""
+
+msgctxt "4\t81801\t109\tCHK"
+msgid "Likes"
+msgstr ""
+
+msgctxt "4\t81807\t110\tCHK"
+msgid "Dislikes"
+msgstr ""
+
+msgctxt "4\t81816\t111\tCHK"
+msgid "Times Requested"
+msgstr ""
+
+msgctxt "4\t81832\t112\tCHK"
+msgid "${value}"
+msgstr ""
+
+msgctxt "4\t81841\t113\tCHK"
+msgid "Money Spent"
+msgstr ""
+
+msgctxt "4\t81853\t114\tCHK"
+msgid "${money} yen"
+msgstr ""
+
+msgctxt "4\t81866\t115\tCHK"
+msgid "Most Recent Gift"
+msgstr ""
+
+msgctxt "4\t81883\t116\tCHK"
+msgid "None"
+msgstr ""
+
+msgctxt "4\t81888\t117\tCHK"
+msgid "Defeat"
+msgstr ""
+
+msgctxt "4\t81895\t118\tCHK"
+msgid "Victory"
+msgstr ""
+
+msgctxt "4\t81903\t119\tCHK"
+msgid "Completed"
+msgstr ""
+
+msgctxt "4\t81913\t120\tCHK"
+msgid "Completion: Minigames"
+msgstr ""
+
+msgctxt "4\t81935\t121\tCHK"
+msgid "Unattempted"
+msgstr ""
+
+msgctxt "4\t81947\t122\tCHK"
+msgid "'01 Game Unattempted"
+msgstr ""
+
+msgctxt "4\t81968\t123\tCHK"
+msgid "'01 Game "
+msgstr ""
+
+msgctxt "4\t81978\t124\tCHK"
+msgid "Unacquired"
+msgstr ""
+
+msgctxt "4\t81989\t125\tCHK"
+msgid "Unranked"
+msgstr ""
+
+msgctxt "4\t81998\t126\tCHK"
+msgid "Rank ${value}"
+msgstr ""
+
+msgctxt "4\t82012\t127\tCHK"
+msgid "Completion: Hostesses"
+msgstr ""
+
+msgctxt "4\t82034\t128\tCHK"
+msgid "Completion: Coin Lockers"
+msgstr ""
+
+msgctxt "4\t82059\t129\tCHK"
+msgid "Kamurocho"
+msgstr ""
+
+msgctxt "4\t82069\t130\tCHK"
+msgid "Ryukyu"
+msgstr ""
+
+msgctxt "4\t82076\t131\tCHK"
+msgid "Completion: Food/Drink"
+msgstr ""
+
+msgctxt "4\t82099\t132\tCHK"
+msgid "Completion: Heat Actions"
+msgstr ""
+
+msgctxt "4\t82124\t133\tCHK"
+msgid "Completion: Weapon Modding"
+msgstr ""
+
+msgctxt "4\t82151\t134\tCHK"
+msgid "Weapons"
+msgstr ""
+
+msgctxt "4\t82159\t135\tCHK"
+msgid "Equipment"
+msgstr ""
+
+msgctxt "4\t82169\t136\tCHK"
+msgid "Completion: Coliseum"
+msgstr ""
+
+msgctxt "4\t82190\t137\tCHK"
+msgid "Solo Tournament"
+msgstr ""
+
+msgctxt "4\t82206\t138\tCHK"
+msgid "Tag Team Tournament"
+msgstr ""
+
+msgctxt "4\t82226\t139\tCHK"
+msgid "Completion: Revelations"
+msgstr ""
+
+msgctxt "4\t82250\t140\tCHK"
+msgid "A"
+msgstr ""
+
+msgctxt "4\t82252\t141\tCHK"
+msgid "Ka"
+msgstr ""
+
+msgctxt "4\t82255\t142\tCHK"
+msgid "Sa"
+msgstr ""
+
+msgctxt "4\t82258\t143\tCHK"
+msgid "Ta"
+msgstr ""
+
+msgctxt "4\t82261\t144\tCHK"
+msgid "Na"
+msgstr ""
+
+msgctxt "4\t82264\t145\tCHK"
+msgid "Ha"
+msgstr ""
+
+msgctxt "4\t82267\t146\tCHK"
+msgid "Ma"
+msgstr ""
+
+msgctxt "4\t82270\t147\tCHK"
+msgid "Ya"
+msgstr ""
+
+msgctxt "4\t82273\t148\tCHK"
+msgid "Ra"
+msgstr ""
+
+msgctxt "4\t82276\t149\tCHK"
+msgid "Wa"
+msgstr ""
+
+msgctxt "4\t82279\t150\tCHK"
+msgid "Game"
+msgstr ""
+
+msgctxt "4\t82284\t151\tCHK"
+msgid "Travel"
+msgstr ""
+
+msgctxt "4\t82291\t152\tCHK"
+msgid "10th Kyu"
+msgstr ""
+
+msgctxt "4\t82300\t153\tCHK"
+msgid "9th Kyu"
+msgstr ""
+
+msgctxt "4\t82308\t154\tCHK"
+msgid "8th Kyu"
+msgstr ""
+
+msgctxt "4\t82316\t155\tCHK"
+msgid "7th Kyu"
+msgstr ""
+
+msgctxt "4\t82324\t156\tCHK"
+msgid "6th Kyu"
+msgstr ""
+
+msgctxt "4\t82332\t157\tCHK"
+msgid "5th Kyu"
+msgstr ""
+
+msgctxt "4\t82340\t158\tCHK"
+msgid "4th Kyu"
+msgstr ""
+
+msgctxt "4\t82348\t159\tCHK"
+msgid "3rd Kyu"
+msgstr ""
+
+msgctxt "4\t82356\t160\tCHK"
+msgid "2nd Kyu"
+msgstr ""
+
+msgctxt "4\t82364\t161\tCHK"
+msgid "1st Kyu"
+msgstr ""
+
+msgctxt "4\t82372\t162\tCHK"
+msgid "1st Dan"
+msgstr ""
+
+msgctxt "4\t82380\t163\tCHK"
+msgid "2nd Dan"
+msgstr ""
+
+msgctxt "4\t82388\t164\tCHK"
+msgid "3rd Dan"
+msgstr ""
+
+msgctxt "4\t82396\t165\tCHK"
+msgid "4th Dan"
+msgstr ""
+
+msgctxt "4\t82404\t166\tCHK"
+msgid "5th Dan"
+msgstr ""
+
+msgctxt "4\t82412\t167\tCHK"
+msgid "6th Dan"
+msgstr ""
+
+msgctxt "4\t82420\t168\tCHK"
+msgid "7th Dan"
+msgstr ""
+
+msgctxt "4\t82428\t169\tCHK"
+msgid "8th Dan"
+msgstr ""
+
+msgctxt "4\t82436\t170\tCHK"
+msgid "9th Dan"
+msgstr ""
+
+msgctxt "4\t82444\t171\tCHK"
+msgid "10th Dan"
+msgstr ""
+
+msgctxt "4\t82453\t172\tCHK"
+msgid "Shogi King"
+msgstr ""
+
+msgctxt "4\t82464\t173\tCHK"
+msgid "12 years old"
+msgstr ""
+
+msgctxt "4\t82477\t174\tCHK"
+msgid "Trial 1"
+msgstr ""
+
+msgctxt "4\t82485\t175\tCHK"
+msgid "Trial 2"
+msgstr ""
+
+msgctxt "4\t82493\t176\tCHK"
+msgid "Trial 3"
+msgstr ""
+
+msgctxt "4\t82501\t177\tCHK"
+msgid "Trial 4"
+msgstr ""
+
+msgctxt "4\t82509\t178\tCHK"
+msgid "Trial 5"
+msgstr ""
+
+msgctxt "4\t82517\t179\tCHK"
+msgid "Trial 6"
+msgstr ""
+
+msgctxt "4\t82525\t180\tCHK"
+msgid "Trial 7"
+msgstr ""
+
+msgctxt "4\t82533\t181\tCHK"
+msgid "Trial 8"
+msgstr ""
+
+msgctxt "4\t82541\t182\tCHK"
+msgid "Trial 9"
+msgstr ""
+
+msgctxt "4\t82549\t183\tCHK"
+msgid "Trial 10"
+msgstr ""
+
+msgctxt "4\t82558\t184\tCHK"
+msgid "Final Trial"
+msgstr ""
+
+msgctxt "4\t82570\t185\tCHK"
+msgid "${value}${color1} / 200 points${color2}"
+msgstr ""
+
+msgctxt "4\t82610\t186\tCHK"
+msgid "${value} / 200 points"
+msgstr ""
+
+msgctxt "4\t82632\t187\tCHK"
+msgid "${value}${color1} / 20,000 points${color2}"
+msgstr ""
+
+msgctxt "4\t82675\t188\tCHK"
+msgid "${value} / 20,000 points"
+msgstr ""
+
+msgctxt "4\t82700\t189\tCHK"
+msgid "${value}${color1} / 10,000 points${color2}"
+msgstr ""
+
+msgctxt "4\t82743\t190\tCHK"
+msgid "${value} / 10,000 points"
+msgstr ""
+
+msgctxt "4\t82768\t191\tCHK"
+msgid "${value} / 20,000"
+msgstr ""
+
+msgctxt "4\t82786\t192\tCHK"
+msgid "${value}${color1} / 10,000${color2}"
+msgstr ""
+
+msgctxt "4\t82822\t193\tCHK"
+msgid "${value} / 10,000"
+msgstr ""
+
+msgctxt "4\t82840\t194\tCHK"
+msgid "${value}${color1} / 5 wins${color2}"
+msgstr ""
+
+msgctxt "4\t82876\t195\tCHK"
+msgid "${value} / 5 wins"
+msgstr ""
+
+msgctxt "4\t82894\t196\tCHK"
+msgid "${value}${color1} / 5 times${color2}"
+msgstr ""
+
+msgctxt "4\t82931\t197\tCHK"
+msgid "${value} / 5 times"
+msgstr ""
+
+msgctxt "4\t82950\t198\tCHK"
+msgid "${value}${color1} / 50,000 points${color2}"
+msgstr ""
+
+msgctxt "4\t82993\t199\tCHK"
+msgid "${value} / 50,000 points"
+msgstr ""
+
+msgctxt "4\t83018\t200\tCHK"
+msgid "${value}${color1} / ${value2} points${color2}"
+msgstr ""
+
+msgctxt "4\t83064\t201\tCHK"
+msgid "${value} / ${value2} points"
+msgstr ""
+
+msgctxt "4\t83092\t202\tCHK"
+msgid "${value}${color1} / -5${color2}"
+msgstr ""
+
+msgctxt "4\t83124\t203\tCHK"
+msgid "${value} / -5"
+msgstr ""
+
+msgctxt "4\t83138\t204\tCHK"
+msgid "${value}${color1} / ${value2}${color2}"
+msgstr ""
+
+msgctxt "4\t83177\t205\tCHK"
+msgid "${value} / ${value2}"
+msgstr ""
+
+msgctxt "4\t83198\t206\tCHK"
+msgid "[Independent Individual Name]"
+msgstr ""
+
+msgctxt "4\t83228\t207\tCHK"
+msgid "Categories"
+msgstr ""
+
+msgctxt "4\t83239\t208\tCHK"
+msgid "Recovery"
+msgstr ""
+
+msgctxt "4\t83248\t209\tCHK"
+msgid "Gear"
+msgstr ""
+
+msgctxt "4\t83253\t210\tCHK"
+msgid "Mystery"
+msgstr ""
+
+msgctxt "4\t83261\t211\tCHK"
+msgid "Other"
+msgstr ""
+
+msgctxt "4\t83267\t212\tCHK"
+msgid "　　 －－－－END－－－－"
+msgstr ""
+
+msgctxt "4\t83302\t213\tCHK"
+msgid "[Individual]"
+msgstr ""
+
+msgctxt "4\t83315\t214\tCHK"
+msgid "<Sign:34>"
+msgstr ""
+
+msgctxt "4\t83325\t215\tCHK"
+msgid "<Sign:33>"
+msgstr ""
+
+msgctxt "4\t83335\t216\tCHK"
+msgid "OK"
+msgstr ""
+
+msgctxt "4\t83338\t217\tCHK"
+msgid "Do you really want to exit game?"
+msgstr ""
+
+msgctxt "4\t83371\t218\tCHK"
+msgid "Sound device has changed. Click OK to continue."
+msgstr ""
+
+msgctxt "4\t83419\t219\tCHK"
+msgid ""
+"A change sound sample rate has been detected.\n"
+"Click OK to continue without sounds.\n"
+"To get sounds back, quit and restart the game..."
+msgstr ""
+
+msgctxt "4\t83551\t220\tCHK"
+msgid "Skip cinematic?"
+msgstr ""
+
+msgctxt "4\t83567\t221\tCHK"
+msgid ""
+"Save will be overwritten.\n"
+"Do you want to proceed?"
+msgstr ""
+
+msgctxt "4\t83617\t222\tCHK"
+msgid ""
+"Save will be deleted permanently.\n"
+"Do you want to proceed?"
+msgstr ""
+
+msgctxt "4\t83675\t223\tCHK"
+msgid "No saves available."
+msgstr ""
+
+msgctxt "4\t83695\t224\tCHK"
+msgid "No more save slots available."
+msgstr ""
+
+msgctxt "4\t83725\t225\tCHK"
+msgid "Restore default settings?"
+msgstr ""
+
+msgctxt "4\t83751\t226\tCHK"
+msgid ""
+"Use these settings?\n"
+"Previous settings will be restored in %i seconds."
+msgstr ""
+
+msgctxt "4\t83821\t227\tCHK"
+msgid "Use these settings?"
+msgstr ""
+
+msgctxt "4\t83841\t228\tCHK"
+msgid "Reset current game mode control bindings?"
+msgstr ""
+
+msgctxt "4\t83883\t229\tCHK"
+msgid "Reset all control bindings?"
+msgstr ""
+
+msgctxt "4\t83911\t230\tCHK"
+msgid "Game Paused"
+msgstr ""
+
+msgctxt "4\t83923\t231\tCHK"
+msgid ""
+"Do you really want to quit to Windows?\n"
+"Your progress will not be saved."
+msgstr ""
+
+msgctxt "4\t83995\t232\tCHK"
+msgid ""
+"Do you really want to quit to title screen?\n"
+"Your progress will not be saved."
+msgstr ""
+
+msgctxt "4\t84072\t233\tCHK"
+msgid ""
+"Please enter your name:\n"
+"\n"
+"\n"
+msgstr ""
+
+msgctxt "4\t84099\t234\tCHK"
+msgid ""
+"There are changes that weren't applied.\n"
+"Do you really want to revert changes and leave?"
+msgstr ""
+
+msgctxt "4\t84187\t235\tCHK"
+msgid ""
+"The controller was disconnected.\n"
+"Please reconnect it or use a different controller to resume playing."
+msgstr ""
+
+msgctxt "4\t84289\t236\tCHK"
+msgid "Would you like to revert all controls binding?"
+msgstr ""
+
+msgctxt "4\t84336\t237\tCHK"
+msgid "PLACEHOLDER"
+msgstr ""
+
+msgctxt "4\t84348\t238\tCHK"
+msgid "Adjust Aim"
+msgstr ""
+
+msgctxt "4\t84359\t239\tCHK"
+msgid "Adjust Position / Spin Level Down"
+msgstr ""
+
+msgctxt "4\t84393\t240\tCHK"
+msgid "Adjust Position / Spin Level Left"
+msgstr ""
+
+msgctxt "4\t84427\t241\tCHK"
+msgid "Adjust Position / Spin Level Right"
+msgstr ""
+
+msgctxt "4\t84462\t242\tCHK"
+msgid "Adjust Position / Spin Level Up"
+msgstr ""
+
+msgctxt "4\t84494\t243\tCHK"
+msgid "Adjust Shot Direction "
+msgstr ""
+
+msgctxt "4\t84517\t244\tCHK"
+msgid "Adjust Trajectory / Ball Placement Down"
+msgstr ""
+
+msgctxt "4\t84557\t245\tCHK"
+msgid "Adjust Trajectory / Ball Placement Left"
+msgstr ""
+
+msgctxt "4\t84597\t246\tCHK"
+msgid "Adjust Trajectory / Ball Placement Right"
+msgstr ""
+
+msgctxt "4\t84638\t247\tCHK"
+msgid "Adjust Trajectory / Ball Placement Up"
+msgstr ""
+
+msgctxt "4\t84676\t248\tCHK"
+msgid "Back"
+msgstr ""
+
+msgctxt "4\t84681\t249\tCHK"
+msgid "Back (in menus)"
+msgstr ""
+
+msgctxt "4\t84697\t250\tCHK"
+msgid "Bash"
+msgstr ""
+
+msgctxt "4\t84702\t251\tCHK"
+msgid "Camera Control Down"
+msgstr ""
+
+msgctxt "4\t84722\t252\tCHK"
+msgid "Camera Control Left"
+msgstr ""
+
+msgctxt "4\t84742\t253\tCHK"
+msgid "Camera Control Right"
+msgstr ""
+
+msgctxt "4\t84763\t254\tCHK"
+msgid "Camera Control Up"
+msgstr ""
+
+msgctxt "4\t84781\t255\tCHK"
+msgid "Cancel / Close Item Screen"
+msgstr ""
+
+msgctxt "4\t84808\t256\tCHK"
+msgid "Cancel / Close Item Use Screen / Close Item Screen"
+msgstr ""
+
+msgctxt "4\t84859\t257\tCHK"
+msgid "Cancel / Roll History / Close Item Screen"
+msgstr ""
+
+msgctxt "4\t84901\t258\tCHK"
+msgid "Center View "
+msgstr ""
+
+msgctxt "4\t84914\t259\tCHK"
+msgid "Change Score Display"
+msgstr ""
+
+msgctxt "4\t84935\t260\tCHK"
+msgid "Change Shot Direction"
+msgstr ""
+
+msgctxt "4\t84957\t261\tCHK"
+msgid "Change Shot Range"
+msgstr ""
+
+msgctxt "4\t84975\t262\tCHK"
+msgid "Change View"
+msgstr ""
+
+msgctxt "4\t84987\t263\tCHK"
+msgid "Change View Left"
+msgstr ""
+
+msgctxt "4\t85004\t264\tCHK"
+msgid "Change View Right"
+msgstr ""
+
+msgctxt "4\t85022\t265\tCHK"
+msgid "Character Movement Down"
+msgstr ""
+
+msgctxt "4\t85046\t266\tCHK"
+msgid "Character Movement Left"
+msgstr ""
+
+msgctxt "4\t85070\t267\tCHK"
+msgid "Character Movement Right"
+msgstr ""
+
+msgctxt "4\t85095\t268\tCHK"
+msgid "Character Movement Up"
+msgstr ""
+
+msgctxt "4\t85117\t269\tCHK"
+msgid "Chase Heat Action"
+msgstr ""
+
+msgctxt "4\t85135\t270\tCHK"
+msgid "Check Discard"
+msgstr ""
+
+msgctxt "4\t85149\t271\tCHK"
+msgid "Clap"
+msgstr ""
+
+msgctxt "4\t85154\t272\tCHK"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "4\t85162\t273\tCHK"
+msgid "Confirm / Pull Rod"
+msgstr ""
+
+msgctxt "4\t85181\t274\tCHK"
+msgid "Confirm Bet"
+msgstr ""
+
+msgctxt "4\t85193\t275\tCHK"
+msgid "Confirm Bet / Roll Dice"
+msgstr ""
+
+msgctxt "4\t85217\t276\tCHK"
+msgid "Dash"
+msgstr ""
+
+msgctxt "4\t85222\t277\tCHK"
+msgid "Decrease Gauge"
+msgstr ""
+
+msgctxt "4\t85237\t278\tCHK"
+msgid "Display / Hide Ball Number"
+msgstr ""
+
+msgctxt "4\t85264\t279\tCHK"
+msgid "Display / Hide Info"
+msgstr ""
+
+msgctxt "4\t85284\t280\tCHK"
+msgid "Display Item Screen"
+msgstr ""
+
+msgctxt "4\t85304\t281\tCHK"
+msgid "Display Roll History Screen"
+msgstr ""
+
+msgctxt "4\t85332\t282\tCHK"
+msgid "Display Scores"
+msgstr ""
+
+msgctxt "4\t85347\t283\tCHK"
+msgid "Enter Shot Mode"
+msgstr ""
+
+msgctxt "4\t85363\t284\tCHK"
+msgid "Examine / Use / Talk "
+msgstr ""
+
+msgctxt "4\t85385\t285\tCHK"
+msgid "Exit minigame"
+msgstr ""
+
+msgctxt "4\t85399\t286\tCHK"
+msgid "Fighting Stance"
+msgstr ""
+
+msgctxt "4\t85415\t287\tCHK"
+msgid "Finisher A"
+msgstr ""
+
+msgctxt "4\t85426\t288\tCHK"
+msgid "Finisher A - Left"
+msgstr ""
+
+msgctxt "4\t85444\t289\tCHK"
+msgid "Finisher A - Right"
+msgstr ""
+
+msgctxt "4\t85463\t290\tCHK"
+msgid "Finisher B"
+msgstr ""
+
+msgctxt "4\t85474\t291\tCHK"
+msgid "Finisher B - Left"
+msgstr ""
+
+msgctxt "4\t85492\t292\tCHK"
+msgid "Finisher B - Right"
+msgstr ""
+
+msgctxt "4\t85511\t293\tCHK"
+msgid "First Person View "
+msgstr ""
+
+msgctxt "4\t85530\t294\tCHK"
+msgid "Focus"
+msgstr ""
+
+msgctxt "4\t85536\t295\tCHK"
+msgid "Forward"
+msgstr ""
+
+msgctxt "4\t85544\t296\tCHK"
+msgid "Give Reel Slack"
+msgstr ""
+
+msgctxt "4\t85560\t297\tCHK"
+msgid "Guard/Change Grab Type"
+msgstr ""
+
+msgctxt "4\t85583\t298\tCHK"
+msgid "Help"
+msgstr ""
+
+msgctxt "4\t85588\t299\tCHK"
+msgid "Hide/Drop Weapon"
+msgstr ""
+
+msgctxt "4\t85605\t300\tCHK"
+msgid "Increase Gauge"
+msgstr ""
+
+msgctxt "4\t85620\t301\tCHK"
+msgid "Insert Coin"
+msgstr ""
+
+msgctxt "4\t85632\t302\tCHK"
+msgid "Jump"
+msgstr ""
+
+msgctxt "4\t85637\t303\tCHK"
+msgid "Left"
+msgstr ""
+
+msgctxt "4\t85642\t304\tCHK"
+msgid "Line"
+msgstr ""
+
+msgctxt "4\t85647\t305\tCHK"
+msgid "Look Back while Dashing"
+msgstr ""
+
+msgctxt "4\t85671\t306\tCHK"
+msgid "Look / Investigate"
+msgstr ""
+
+msgctxt "4\t85690\t307\tCHK"
+msgid "Maracas"
+msgstr ""
+
+msgctxt "4\t85698\t308\tCHK"
+msgid "MiniMap Size"
+msgstr ""
+
+msgctxt "4\t85711\t309\tCHK"
+msgid "Move Bat Down"
+msgstr ""
+
+msgctxt "4\t85725\t310\tCHK"
+msgid "Move Bat Left"
+msgstr ""
+
+msgctxt "4\t85739\t311\tCHK"
+msgid "Move Bat Right"
+msgstr ""
+
+msgctxt "4\t85754\t312\tCHK"
+msgid "Move Bat Up"
+msgstr ""
+
+msgctxt "4\t85766\t313\tCHK"
+msgid "Move Camera (Left)"
+msgstr ""
+
+msgctxt "4\t85785\t314\tCHK"
+msgid "Move Camera (Right)"
+msgstr ""
+
+msgctxt "4\t85805\t315\tCHK"
+msgid "Move Camera Left"
+msgstr ""
+
+msgctxt "4\t85822\t316\tCHK"
+msgid "Move Camera Right"
+msgstr ""
+
+msgctxt "4\t85840\t317\tCHK"
+msgid "Move Crane"
+msgstr ""
+
+msgctxt "4\t85851\t318\tCHK"
+msgid "Move Cursor (Down)"
+msgstr ""
+
+msgctxt "4\t85870\t319\tCHK"
+msgid "Move Cursor (Down) / Change Category (Down)"
+msgstr ""
+
+msgctxt "4\t85914\t320\tCHK"
+msgid "Move Cursor (Left)"
+msgstr ""
+
+msgctxt "4\t85933\t321\tCHK"
+msgid "Move Cursor (Left) / Change Category (Left) "
+msgstr ""
+
+msgctxt "4\t85978\t322\tCHK"
+msgid "Move Cursor (Right)"
+msgstr ""
+
+msgctxt "4\t85998\t323\tCHK"
+msgid "Move Cursor (Right) / Change Category (Right) "
+msgstr ""
+
+msgctxt "4\t86045\t324\tCHK"
+msgid "Move Cursor (Up)"
+msgstr ""
+
+msgctxt "4\t86062\t325\tCHK"
+msgid "Move Cursor (Up) / Change Category (Up) "
+msgstr ""
+
+msgctxt "4\t86103\t326\tCHK"
+msgid "Move Cursor / Change Bet Down"
+msgstr ""
+
+msgctxt "4\t86133\t327\tCHK"
+msgid "Move Cursor / Change Bet Left"
+msgstr ""
+
+msgctxt "4\t86163\t328\tCHK"
+msgid "Move Cursor / Change Bet Right"
+msgstr ""
+
+msgctxt "4\t86194\t329\tCHK"
+msgid "Move Cursor / Change Bet Up"
+msgstr ""
+
+msgctxt "4\t86222\t330\tCHK"
+msgid "Move Cursor / Change Category Down"
+msgstr ""
+
+msgctxt "4\t86257\t331\tCHK"
+msgid "Move Cursor / Change Category Left"
+msgstr ""
+
+msgctxt "4\t86292\t332\tCHK"
+msgid "Move Cursor / Change Category Right"
+msgstr ""
+
+msgctxt "4\t86328\t333\tCHK"
+msgid "Move Cursor / Change Category Up"
+msgstr ""
+
+msgctxt "4\t86361\t334\tCHK"
+msgid "Move Cursor / Rod Down"
+msgstr ""
+
+msgctxt "4\t86384\t335\tCHK"
+msgid "Move Cursor / Rod Left"
+msgstr ""
+
+msgctxt "4\t86407\t336\tCHK"
+msgid "Move Cursor / Rod Right"
+msgstr ""
+
+msgctxt "4\t86431\t337\tCHK"
+msgid "Move Cursor / Rod Up"
+msgstr ""
+
+msgctxt "4\t86452\t338\tCHK"
+msgid "Move Cursor Down"
+msgstr ""
+
+msgctxt "4\t86469\t339\tCHK"
+msgid "Move Cursor Left"
+msgstr ""
+
+msgctxt "4\t86486\t340\tCHK"
+msgid "Move Cursor Right"
+msgstr ""
+
+msgctxt "4\t86504\t341\tCHK"
+msgid "Move Cursor Up"
+msgstr ""
+
+msgctxt "4\t86519\t342\tCHK"
+msgid "Move Down"
+msgstr ""
+
+msgctxt "4\t86529\t343\tCHK"
+msgid "Move Up"
+msgstr ""
+
+msgctxt "4\t86537\t344\tCHK"
+msgid "Move Left"
+msgstr ""
+
+msgctxt "4\t86547\t345\tCHK"
+msgid "Move Right"
+msgstr ""
+
+msgctxt "4\t86558\t346\tCHK"
+msgid "Move Ship Down"
+msgstr ""
+
+msgctxt "4\t86573\t347\tCHK"
+msgid "Move Ship Left"
+msgstr ""
+
+msgctxt "4\t86588\t348\tCHK"
+msgid "Move Ship Right"
+msgstr ""
+
+msgctxt "4\t86604\t349\tCHK"
+msgid "Move Ship Up"
+msgstr ""
+
+msgctxt "4\t86617\t350\tCHK"
+msgid "Move Impact Point"
+msgstr ""
+
+msgctxt "4\t86635\t351\tCHK"
+msgid "Pause / Quit"
+msgstr ""
+
+msgctxt "4\t86648\t352\tCHK"
+msgid "Pause Menu "
+msgstr ""
+
+msgctxt "4\t86660\t353\tCHK"
+msgid "Pick Up / Throw"
+msgstr ""
+
+msgctxt "4\t86676\t354\tCHK"
+msgid "Place the Same Bet"
+msgstr ""
+
+msgctxt "4\t86695\t355\tCHK"
+msgid "Quickstep"
+msgstr ""
+
+msgctxt "4\t86705\t356\tCHK"
+msgid "Quickturn"
+msgstr ""
+
+msgctxt "4\t86715\t357\tCHK"
+msgid "Quit / Back"
+msgstr ""
+
+msgctxt "4\t86727\t358\tCHK"
+msgid "Reel In"
+msgstr ""
+
+msgctxt "4\t86735\t359\tCHK"
+msgid "Reset Camera"
+msgstr ""
+
+msgctxt "4\t86748\t360\tCHK"
+msgid "Result Table Controls"
+msgstr ""
+
+msgctxt "4\t86770\t361\tCHK"
+msgid "Return to Title menu"
+msgstr ""
+
+msgctxt "4\t86791\t362\tCHK"
+msgid "Reverse Up and Down"
+msgstr ""
+
+msgctxt "4\t86811\t363\tCHK"
+msgid "Right"
+msgstr ""
+
+msgctxt "4\t86817\t364\tCHK"
+msgid "Scroll Through History Left"
+msgstr ""
+
+msgctxt "4\t86845\t365\tCHK"
+msgid "Scroll Through History Right"
+msgstr ""
+
+msgctxt "4\t86874\t366\tCHK"
+msgid "Select Action"
+msgstr ""
+
+msgctxt "4\t86888\t367\tCHK"
+msgid "Select Action Down"
+msgstr ""
+
+msgctxt "4\t86907\t368\tCHK"
+msgid "Select Action Up"
+msgstr ""
+
+msgctxt "4\t86924\t369\tCHK"
+msgid "Select Down"
+msgstr ""
+
+msgctxt "4\t86936\t370\tCHK"
+msgid "Select Left"
+msgstr ""
+
+msgctxt "4\t86948\t371\tCHK"
+msgid "Select Next Club"
+msgstr ""
+
+msgctxt "4\t86965\t372\tCHK"
+msgid "Select Previous Club"
+msgstr ""
+
+msgctxt "4\t86986\t373\tCHK"
+msgid "Select Right"
+msgstr ""
+
+msgctxt "4\t86999\t374\tCHK"
+msgid "Select Tile Down"
+msgstr ""
+
+msgctxt "4\t87016\t375\tCHK"
+msgid "Select Tile Left"
+msgstr ""
+
+msgctxt "4\t87033\t376\tCHK"
+msgid "Select Tile Right"
+msgstr ""
+
+msgctxt "4\t87051\t377\tCHK"
+msgid "Select Tile Up"
+msgstr ""
+
+msgctxt "4\t87066\t378\tCHK"
+msgid "Select Up"
+msgstr ""
+
+msgctxt "4\t87076\t379\tCHK"
+msgid "Serve OK / Normal Shot / Sinking Shot (Press and hold)"
+msgstr ""
+
+msgctxt "4\t87131\t380\tCHK"
+msgid "Shoot"
+msgstr ""
+
+msgctxt "4\t87137\t381\tCHK"
+msgid "Shout, Interject"
+msgstr ""
+
+msgctxt "4\t87154\t382\tCHK"
+msgid "Show Rules"
+msgstr ""
+
+msgctxt "4\t87165\t383\tCHK"
+msgid "Show Rules\t"
+msgstr ""
+
+msgctxt "4\t87177\t384\tCHK"
+msgid "Show/Hide"
+msgstr ""
+
+msgctxt "4\t87187\t385\tCHK"
+msgid "Smash (Only in Heat Mode)"
+msgstr ""
+
+msgctxt "4\t87213\t386\tCHK"
+msgid "Sprint"
+msgstr ""
+
+msgctxt "4\t87220\t387\tCHK"
+msgid "Squeeze"
+msgstr ""
+
+msgctxt "4\t87228\t388\tCHK"
+msgid "Staring Mode (Press and hold)"
+msgstr ""
+
+msgctxt "4\t87258\t389\tCHK"
+msgid "Strong Attack/Heat Action"
+msgstr ""
+
+msgctxt "4\t87284\t390\tCHK"
+msgid "Swing Bat"
+msgstr ""
+
+msgctxt "4\t87294\t391\tCHK"
+msgid "Switch to Camera Mode"
+msgstr ""
+
+msgctxt "4\t87316\t392\tCHK"
+msgid "Take Back"
+msgstr ""
+
+msgctxt "4\t87326\t393\tCHK"
+msgid "Take Weapon 1 Out"
+msgstr ""
+
+msgctxt "4\t87344\t394\tCHK"
+msgid "Take Weapon 2 Out"
+msgstr ""
+
+msgctxt "4\t87362\t395\tCHK"
+msgid "Take Weapon 3 Out"
+msgstr ""
+
+msgctxt "4\t87380\t396\tCHK"
+msgid "Tambourine"
+msgstr ""
+
+msgctxt "4\t87391\t397\tCHK"
+msgid "Taunt"
+msgstr ""
+
+msgctxt "4\t87397\t398\tCHK"
+msgid "Throw"
+msgstr ""
+
+msgctxt "4\t87403\t399\tCHK"
+msgid "Use Item"
+msgstr ""
+
+msgctxt "4\t87412\t400\tCHK"
+msgid "View Controls"
+msgstr ""
+
+msgctxt "4\t87426\t401\tCHK"
+msgid "View Controls\t"
+msgstr ""
+
+msgctxt "4\t87441\t402\tCHK"
+msgid "View Hands"
+msgstr ""
+
+msgctxt "4\t87452\t403\tCHK"
+msgid "View Tutorial"
+msgstr ""
+
+msgctxt "4\t87466\t404\tCHK"
+msgid "Weak Attack"
+msgstr ""
+
+msgctxt "4\t87478\t405\tCHK"
+msgid "Look Back while Dashing (Right)"
+msgstr ""
+
+msgctxt "4\t87510\t406\tCHK"
+msgid "Look Back while Dashing (Left)"
+msgstr ""
+
+msgctxt "4\t87541\t407\tCHK"
+msgid "Adjust Throw Strength"
+msgstr ""
+
+msgctxt "4\t87563\t408\tCHK"
+msgid "Display 10 Frames"
+msgstr ""
+
+msgctxt "4\t87581\t409\tCHK"
+msgid "<Action:Button_R3,Darts> + <Action:Button_LS_Down,Darts>"
+msgstr ""
+
+msgctxt "4\t87638\t410\tCHK"
+msgid "<Action:Button_RS_Down,Darts>"
+msgstr ""
+
+msgctxt "4\t87668\t411\tCHK"
+msgid "Walk"
+msgstr ""
+
+msgctxt "5\t100652\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "5\t100653\t1\tCHK"
+msgid "Stats:"
+msgstr ""
+
+msgctxt "5\t100660\t2\tCHK"
+msgid "Easy"
+msgstr ""
+
+msgctxt "5\t100665\t3\tCHK"
+msgid "Normal"
+msgstr ""
+
+msgctxt "5\t100672\t4\tCHK"
+msgid "Hard"
+msgstr ""
+
+msgctxt "5\t100677\t5\tCHK"
+msgid "Legend"
+msgstr ""
+
+msgctxt "5\t100684\t6\tCHK"
+msgid "${value}"
+msgstr ""
+
+msgctxt "5\t100693\t7\tCHK"
+msgid "${value}%"
+msgstr ""
+
+msgctxt "5\t100703\t8\tCHK"
+msgid "Completion Rate "
+msgstr ""
+
+msgctxt "5\t100720\t9\tCHK"
+msgid "${value}Km"
+msgstr ""
+
+msgctxt "5\t100731\t10\tCHK"
+msgid "Difficulty"
+msgstr ""
+
+msgctxt "5\t100742\t11\tCHK"
+msgid "Times Difficulty was Changed"
+msgstr ""
+
+msgctxt "5\t100771\t12\tCHK"
+msgid "Continues"
+msgstr ""
+
+msgctxt "5\t100781\t13\tCHK"
+msgid "Pedestrians Knocked Down"
+msgstr ""
+
+msgctxt "5\t100806\t14\tCHK"
+msgid "Weapons Broken"
+msgstr ""
+
+msgctxt "5\t100821\t15\tCHK"
+msgid "Distance Traveled"
+msgstr ""
+
+msgctxt "5\t100839\t16\tCHK"
+msgid "Heat Action Finishes"
+msgstr ""
+
+msgctxt "5\t100860\t17\tCHK"
+msgid "Street Battles"
+msgstr ""
+
+msgctxt "5\t100875\t18\tCHK"
+msgid "Haruka's Trust Level"
+msgstr ""
+
+msgctxt "5\t100896\t19\tCHK"
+msgid "Completion Total"
+msgstr ""
+
+msgctxt "5\t100913\t20\tCHK"
+msgid "Play Time"
+msgstr ""
+
+msgctxt "5\t100923\t21\tCHK"
+msgid "F"
+msgstr ""
+
+msgctxt "5\t100925\t22\tCHK"
+msgid "E"
+msgstr ""
+
+msgctxt "5\t100927\t23\tCHK"
+msgid "D"
+msgstr ""
+
+msgctxt "5\t100929\t24\tCHK"
+msgid "C"
+msgstr ""
+
+msgctxt "5\t100931\t25\tCHK"
+msgid "B"
+msgstr ""
+
+msgctxt "5\t100933\t26\tCHK"
+msgid "A"
+msgstr ""
+
+msgctxt "5\t100935\t27\tCHK"
+msgid "S"
+msgstr ""
+
+msgctxt "5\t100937\t28\tCHK"
+msgid "SS"
+msgstr ""
+
+msgctxt "5\t100940\t29\tCHK"
+msgid "SSS"
+msgstr ""
+
+msgctxt "5\t100944\t30\tCHK"
+msgid "EX"
+msgstr ""
+
+msgctxt "5\t100947\t31\tCHK"
+msgid "You got ${value}0,000 yen."
+msgstr ""
+
+msgctxt "5\t100974\t32\tCHK"
+msgid "${item} can now be collected."
+msgstr ""
+
+msgctxt "5\t101004\t33\tCHK"
+msgid "You got ${item}."
+msgstr ""
+
+msgctxt "5\t101021\t34\tCHK"
+msgid "A new mode has been added to the main menu."
+msgstr ""
+
+msgctxt "5\t101065\t35\tCHK"
+msgid "Legend difficulty has been unlocked."
+msgstr ""
+
+msgctxt "5\t101102\t36\tCHK"
+msgid ""
+"You can obtain this item from a certain character in New Game+ \n"
+"or Premium Adventure."
+msgstr ""
+
+msgctxt "5\t101188\t37\tCHK"
+msgid ""
+"He stands out from the crowd, so see if you can find him in \n"
+"Kamurocho and Downtown Ryukyu!"
+msgstr ""
+
+msgctxt "5\t101280\t38\tCHK"
+msgid "here"
+msgstr ""
+
+msgctxt "5\t101285\t39\tCHK"
+msgid "Kamurocho"
+msgstr ""
+
+msgctxt "6\t102676\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "6\t102677\t1\tCHK"
+msgid "Total"
+msgstr ""
+
+msgctxt "6\t102683\t2\tCHK"
+msgid "Fee"
+msgstr ""
+
+msgctxt "6\t102687\t3\tCHK"
+msgid "Free"
+msgstr ""
+
+msgctxt "6\t102692\t4\tCHK"
+msgid "(Throwing this away would be a waste...)"
+msgstr ""
+
+msgctxt "6\t102733\t5\tCHK"
+msgid "(Throwing this weapon away would be a waste...)"
+msgstr ""
+
+msgctxt "6\t102781\t6\tCHK"
+msgid "(I already have one of these...)"
+msgstr ""
+
+msgctxt "6\t102814\t7\tCHK"
+msgid "Threw away ${item}."
+msgstr ""
+
+msgctxt "6\t102834\t8\tCHK"
+msgid "Sent ${item} to the Item Box."
+msgstr ""
+
+msgctxt "6\t102864\t9\tCHK"
+msgid "Upgrade List"
+msgstr ""
+
+msgctxt "6\t102877\t10\tCHK"
+msgid "Upgrades"
+msgstr ""
+
+msgctxt "6\t102886\t11\tCHK"
+msgid "Inventions"
+msgstr ""
+
+msgctxt "6\t102897\t12\tCHK"
+msgid "Power"
+msgstr ""
+
+msgctxt "6\t102903\t13\tCHK"
+msgid "Durability"
+msgstr ""
+
+msgctxt "6\t102914\t14\tCHK"
+msgid "Defense"
+msgstr ""
+
+msgctxt "6\t102922\t15\tCHK"
+msgid "Blade"
+msgstr ""
+
+msgctxt "6\t102928\t16\tCHK"
+msgid "Bullet"
+msgstr ""
+
+msgctxt "6\t102935\t17\tCHK"
+msgid "Materials:"
+msgstr ""
+
+msgctxt "6\t102946\t18\tCHK"
+msgid "Material 1:"
+msgstr ""
+
+msgctxt "6\t102958\t19\tCHK"
+msgid "Material 2:"
+msgstr ""
+
+msgctxt "6\t102970\t20\tCHK"
+msgid "Material 3:"
+msgstr ""
+
+msgctxt "6\t102982\t21\tCHK"
+msgid "×"
+msgstr ""
+
+msgctxt "6\t102985\t22\tSUS"
+msgid "○"
+msgstr ""
+
+msgctxt "6\t102989\t23\tCHK"
+msgid ""
+"You will need the following items to upgrade this\n"
+"weapon:"
+msgstr ""
+
+msgctxt "6\t103047\t24\tCHK"
+msgid ""
+"You will need the following items to upgrade this\n"
+"gear:"
+msgstr ""
+
+msgctxt "6\t103103\t25\tCHK"
+msgid ""
+"You will need the following items to upgrade this\n"
+"accessory:"
+msgstr ""
+
+msgctxt "6\t103164\t26\tCHK"
+msgid ""
+"You will need the following items to upgrade this\n"
+"item:"
+msgstr ""
+
+msgctxt "6\t103220\t27\tCHK"
+msgid "(I don't have any weapons that need repairing...)"
+msgstr ""
+
+msgctxt "6\t103270\t28\tCHK"
+msgid "(I don't have any weapons that need to be reloaded...)"
+msgstr ""
+
+msgctxt "6\t103325\t29\tCHK"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "6\t103332\t30\tCHK"
+msgid "It'll be %s."
+msgstr ""
+
+msgctxt "6\t103345\t31\tCHK"
+msgid "(Looks like I'm short on cash...)"
+msgstr ""
+
+msgctxt "6\t103379\t32\tCHK"
+msgid "(I don't have the right recipe...)"
+msgstr ""
+
+msgctxt "6\t103414\t33\tCHK"
+msgid "(Read text on <Sign:D>)"
+msgstr ""
+
+msgctxt "6\t103438\t34\tCHK"
+msgid "Weapon Selection Ability"
+msgstr ""
+
+msgctxt "6\t103463\t35\tCHK"
+msgid "Gear Selection Ability"
+msgstr ""
+
+msgctxt "6\t103486\t36\tCHK"
+msgid "Currently Equipped"
+msgstr ""
+
+msgctxt "6\t103505\t37\tCHK"
+msgid "Weapons"
+msgstr ""
+
+msgctxt "6\t103513\t38\tCHK"
+msgid "Gear"
+msgstr ""
+
+msgctxt "6\t103518\t39\tCHK"
+msgid "Attack"
+msgstr ""
+
+msgctxt "6\t103525\t40\tCHK"
+msgid "Force"
+msgstr ""
+
+msgctxt "6\t103531\t41\tCHK"
+msgid "Speed"
+msgstr ""
+
+msgctxt "6\t103537\t42\tCHK"
+msgid "Quantity"
+msgstr ""
+
+msgctxt "6\t103546\t43\tCHK"
+msgid "Quantity on Hand"
+msgstr ""
+
+msgctxt "6\t103563\t44\tCHK"
+msgid "${value} items"
+msgstr ""
+
+msgctxt "6\t103578\t45\tCHK"
+msgid "Got ${item}."
+msgstr ""
+
+msgctxt "6\t103591\t46\tCHK"
+msgid "Repaired ${item}."
+msgstr ""
+
+msgctxt "6\t103609\t47\tCHK"
+msgid "Replenished ${item} ammo."
+msgstr ""
+
+msgctxt "6\t103635\t48\tCHK"
+msgid "Bats/Clubs"
+msgstr ""
+
+msgctxt "6\t103646\t49\tCHK"
+msgid "Polearms"
+msgstr ""
+
+msgctxt "6\t103655\t50\tCHK"
+msgid "Blades"
+msgstr ""
+
+msgctxt "6\t103662\t51\tCHK"
+msgid "Hammers"
+msgstr ""
+
+msgctxt "6\t103670\t52\tCHK"
+msgid "Knuckles"
+msgstr ""
+
+msgctxt "6\t103679\t53\tCHK"
+msgid "Tonfa"
+msgstr ""
+
+msgctxt "6\t103685\t54\tCHK"
+msgid "Nunchaku"
+msgstr ""
+
+msgctxt "6\t103694\t55\tCHK"
+msgid "Kali Sticks"
+msgstr ""
+
+msgctxt "6\t103706\t56\tCHK"
+msgid "Guns"
+msgstr ""
+
+msgctxt "6\t103711\t57\tCHK"
+msgid "Others"
+msgstr ""
+
+msgctxt "6\t103718\t58\tCHK"
+msgid "Accessories"
+msgstr ""
+
+msgctxt "6\t103730\t59\tCHK"
+msgid "Order"
+msgstr ""
+
+msgctxt "6\t103736\t60\tCHK"
+msgid "-"
+msgstr ""
+
+msgctxt "6\t103738\t61\tCHK"
+msgid "${value1}/${value2}${unit}"
+msgstr ""
+
+msgctxt "6\t103765\t62\tCHK"
+msgid "${value1}/${value2}"
+msgstr ""
+
+msgctxt "6\t103785\t63\tCHK"
+msgid "${value}${unit}"
+msgstr ""
+
+msgctxt "6\t103801\t64\tCHK"
+msgid "${value}"
+msgstr ""
+
+msgctxt "6\t103810\t65\tCHK"
+msgid "Lost ${item}."
+msgstr ""
+
+msgctxt "7\t105972\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "7\t105973\t1\tCHK"
+msgid "Easy"
+msgstr ""
+
+msgctxt "7\t105978\t2\tCHK"
+msgid "Normal"
+msgstr ""
+
+msgctxt "7\t105985\t3\tCHK"
+msgid "Hard"
+msgstr ""
+
+msgctxt "7\t105990\t4\tCHK"
+msgid "Legend"
+msgstr ""
+
+msgctxt "7\t105997\t5\tCHK"
+msgid "New Game"
+msgstr ""
+
+msgctxt "7\t106006\t6\tCHK"
+msgid "Load Game"
+msgstr ""
+
+msgctxt "7\t106016\t7\tCHK"
+msgid "New Game+"
+msgstr ""
+
+msgctxt "7\t106026\t8\tCHK"
+msgid "Premium Adventure"
+msgstr ""
+
+msgctxt "7\t106044\t9\tCHK"
+msgid "Ultimate Match"
+msgstr ""
+
+msgctxt "7\t106059\t10\tCHK"
+msgid "Memories"
+msgstr ""
+
+msgctxt "7\t106068\t11\tCHK"
+msgid "Extra"
+msgstr ""
+
+msgctxt "7\t106074\t12\tCHK"
+msgid "Options"
+msgstr ""
+
+msgctxt "7\t106082\t13\tCHK"
+msgid "The Story from Yakuza"
+msgstr ""
+
+msgctxt "7\t106104\t14\tCHK"
+msgid "The Story from Yakuza 2"
+msgstr ""
+
+msgctxt "7\t106128\t15\tCHK"
+msgid "Load Clear Data"
+msgstr ""
+
+msgctxt "7\t106144\t16\tCHK"
+msgid "Start New Game"
+msgstr ""
+
+msgctxt "7\t106159\t17\tCHK"
+msgid "Start a new game from the beginning."
+msgstr ""
+
+msgctxt "7\t106196\t18\tCHK"
+msgid "Continue from save data."
+msgstr ""
+
+msgctxt "7\t106221\t19\tCHK"
+msgid ""
+"Start a new game from the beginning, retaining all abilities,\n"
+"items, and money from clear data."
+msgstr ""
+
+msgctxt "7\t106317\t20\tCHK"
+msgid "Explore the game world without following the story."
+msgstr ""
+
+msgctxt "7\t106369\t21\tCHK"
+msgid ""
+"In this game mode, clear the specified battle missions.\n"
+"Earn a ranking depending on how well you clear the mission."
+msgstr ""
+
+msgctxt "7\t106485\t22\tCHK"
+msgid "View previously seen story events."
+msgstr ""
+
+msgctxt "7\t106520\t23\tCHK"
+msgid "Look at extra modes."
+msgstr ""
+
+msgctxt "7\t106541\t24\tCHK"
+msgid "View and change settings."
+msgstr ""
+
+msgctxt "7\t106567\t25\tCHK"
+msgid "Watch the story of Yakuza."
+msgstr ""
+
+msgctxt "7\t106594\t26\tCHK"
+msgid "Watch the story of Yakuza 2."
+msgstr ""
+
+msgctxt "7\t106623\t27\tCHK"
+msgid "Play the minigames from the game."
+msgstr ""
+
+msgctxt "7\t106657\t28\tCHK"
+msgid ""
+"Retain clear data and explore the game world\n"
+"without following the story."
+msgstr ""
+
+msgctxt "7\t106731\t29\tCHK"
+msgid ""
+"Start a new game from scratch and explore the\n"
+"game world without following the story."
+msgstr ""
+
+msgctxt "7\t106817\t30\tCHK"
+msgid ""
+"Recommended for players who are new to action games\n"
+"or to the Yakuza series."
+msgstr ""
+
+msgctxt "7\t106894\t31\tCHK"
+msgid "This is the standard difficulty level."
+msgstr ""
+
+msgctxt "7\t106933\t32\tCHK"
+msgid "Recommended for players who are skilled at action games."
+msgstr ""
+
+msgctxt "7\t106990\t33\tCHK"
+msgid "In this mode, you cannot continue after getting a game over."
+msgstr ""
+
+msgctxt "7\t107051\t34\tCHK"
+msgid "Camera Control (Vertical)"
+msgstr ""
+
+msgctxt "7\t107077\t35\tCHK"
+msgid "Camera Control (Horizontal)"
+msgstr ""
+
+msgctxt "7\t107105\t36\tCHK"
+msgid "First-Person View (Vertical)"
+msgstr ""
+
+msgctxt "7\t107134\t37\tCHK"
+msgid "First-Person View (Horizontal)"
+msgstr ""
+
+msgctxt "7\t107165\t38\tCHK"
+msgid "Minimap Rotation"
+msgstr ""
+
+msgctxt "7\t107182\t39\tCHK"
+msgid "Subtitles"
+msgstr ""
+
+msgctxt "7\t107192\t40\tCHK"
+msgid "Event Skip"
+msgstr ""
+
+msgctxt "7\t107203\t41\tCHK"
+msgid "Screen Brightness"
+msgstr ""
+
+msgctxt "7\t107221\t42\tCHK"
+msgid "Set Font"
+msgstr ""
+
+msgctxt "7\t107230\t43\tCHK"
+msgid "Inverted"
+msgstr ""
+
+msgctxt "7\t107239\t44\tCHK"
+msgid "Fixed"
+msgstr ""
+
+msgctxt "7\t107245\t45\tCHK"
+msgid "Rotating"
+msgstr ""
+
+msgctxt "7\t107254\t46\tCHK"
+msgid "Off"
+msgstr ""
+
+msgctxt "7\t107258\t47\tCHK"
+msgid "On"
+msgstr ""
+
+msgctxt "7\t107261\t48\tCHK"
+msgid "Auto"
+msgstr ""
+
+msgctxt "7\t107266\t49\tCHK"
+msgid "Serif"
+msgstr ""
+
+msgctxt "7\t107272\t50\tCHK"
+msgid "Sans Serif"
+msgstr ""
+
+msgctxt "7\t107283\t51\tCHK"
+msgid ""
+"Change how to move the camera vertically.\n"
+"Normal moves the camera in the direction you moved the "
+"<Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>.\n"
+"Inverted moves the camera opposite to the direction you moved "
+"<Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>."
+msgstr ""
+
+msgctxt "7\t107582\t52\tCHK"
+msgid ""
+"Change how to move the camera horizontally.\n"
+"Normal moves the camera in the direction you moved the "
+"<Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>.\n"
+"Inverted moves the camera opposite to the direction you moved "
+"<Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>."
+msgstr ""
+
+msgctxt "7\t107889\t53\tCHK"
+msgid ""
+"Change how to move the first-person camera vertically.\n"
+"Normal moves the camera in the direction you moved the "
+"<Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>.\n"
+"Inverted moves the camera opposite to the direction you moved "
+"<Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>."
+msgstr ""
+
+msgctxt "7\t108201\t54\tCHK"
+msgid ""
+"Change how to move the first-person camera horizontally.\n"
+"Normal moves the camera in the direction you moved the "
+"<Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>.\n"
+"Inverted moves the camera opposite to the direction you moved "
+"<Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>."
+msgstr ""
+
+msgctxt "7\t108521\t55\tCHK"
+msgid ""
+"Switch minimap rotation on/off. If turned on, the minimap\n"
+"will rotate with the camera."
+msgstr ""
+
+msgctxt "7\t108608\t56\tCHK"
+msgid "Switch subtitles on/off for movie scenes."
+msgstr ""
+
+msgctxt "7\t108650\t57\tCHK"
+msgid ""
+"Turn the ability to skip movie scenes on/off. Press the\n"
+"<Action:Button_Options@Adventure> during a scene to skip it."
+msgstr ""
+
+msgctxt "7\t108767\t58\tCHK"
+msgid "Adjust the screen brightness."
+msgstr ""
+
+msgctxt "7\t108797\t59\tCHK"
+msgid "Change the font used during the game."
+msgstr ""
+
+msgctxt "7\t108835\t60\tCHK"
+msgid "display"
+msgstr ""
+
+msgctxt "7\t108843\t61\tCHK"
+msgid ""
+"While this is on, English translations of the original Japanese\n"
+"lyrics will display during karaoke. While off, the original\n"
+"Japanese lyrics will display with pronunciations underneath."
+msgstr ""
+
+msgctxt "7\t109028\t62\tCHK"
+msgid "English Karaoke Lyrics"
+msgstr ""
+
+msgctxt "7\t109051\t63\tCHK"
+msgid "Graphics"
+msgstr ""
+
+msgctxt "7\t109060\t64\tCHK"
+msgid "View and change graphics options."
+msgstr ""
+
+msgctxt "7\t109094\t65\tCHK"
+msgid "Controls"
+msgstr ""
+
+msgctxt "7\t109103\t66\tCHK"
+msgid "View and change game controls options."
+msgstr ""
+
+msgctxt "7\t109142\t67\tCHK"
+msgid "Gameplay"
+msgstr ""
+
+msgctxt "7\t109151\t68\tCHK"
+msgid "View and change gameplay options."
+msgstr ""
+
+msgctxt "7\t109185\t69\tCHK"
+msgid "Audio"
+msgstr ""
+
+msgctxt "7\t109191\t70\tCHK"
+msgid "View and change audio options."
+msgstr ""
+
+msgctxt "7\t109222\t71\tCHK"
+msgid "Exit Game"
+msgstr ""
+
+msgctxt "7\t109232\t72\tCHK"
+msgid "Quit the game to desktop."
+msgstr ""
+
+msgctxt "7\t109258\t73\tCHK"
+msgid "Master Volume"
+msgstr ""
+
+msgctxt "7\t109272\t74\tCHK"
+msgid "Set main volume."
+msgstr ""
+
+msgctxt "7\t109289\t75\tCHK"
+msgid "Music"
+msgstr ""
+
+msgctxt "7\t109295\t76\tCHK"
+msgid "Set music volume."
+msgstr ""
+
+msgctxt "7\t109313\t77\tCHK"
+msgid "Special Effects"
+msgstr ""
+
+msgctxt "7\t109329\t78\tCHK"
+msgid "Set special effects volume."
+msgstr ""
+
+msgctxt "7\t109357\t79\tCHK"
+msgid "Dialogues"
+msgstr ""
+
+msgctxt "7\t109367\t80\tCHK"
+msgid "Set voice volume in dialogues."
+msgstr ""
+
+msgctxt "7\t109398\t81\tCHK"
+msgid "Cinematics"
+msgstr ""
+
+msgctxt "7\t109409\t82\tCHK"
+msgid "Set volume for cinematic sequences."
+msgstr ""
+
+msgctxt "7\t109445\t83\tCHK"
+msgid "Speaker Type"
+msgstr ""
+
+msgctxt "7\t109458\t84\tCHK"
+msgid "Set type of connected audio device."
+msgstr ""
+
+msgctxt "7\t109494\t85\tCHK"
+msgid "Type 1"
+msgstr ""
+
+msgctxt "7\t109501\t86\tCHK"
+msgid "Type 2"
+msgstr ""
+
+msgctxt "7\t109508\t87\tCHK"
+msgid "Type 3"
+msgstr ""
+
+msgctxt "7\t109515\t88\tCHK"
+msgid "Output Device"
+msgstr ""
+
+msgctxt "7\t109529\t89\tCHK"
+msgid "Set video output device."
+msgstr ""
+
+msgctxt "7\t109554\t90\tCHK"
+msgid "Display Mode"
+msgstr ""
+
+msgctxt "7\t109567\t91\tCHK"
+msgid "Configure display mode."
+msgstr ""
+
+msgctxt "7\t109591\t92\tCHK"
+msgid "Resolution"
+msgstr ""
+
+msgctxt "7\t109602\t93\tCHK"
+msgid "Set display resolution."
+msgstr ""
+
+msgctxt "7\t109626\t94\tCHK"
+msgid "Refresh Rate"
+msgstr ""
+
+msgctxt "7\t109639\t95\tCHK"
+msgid "Set screen refresh rate."
+msgstr ""
+
+msgctxt "7\t109664\t96\tCHK"
+msgid "Vertical Sync"
+msgstr ""
+
+msgctxt "7\t109678\t97\tCHK"
+msgid "Enable or disable display vertical synchronization."
+msgstr ""
+
+msgctxt "7\t109730\t98\tCHK"
+msgid "FPS Cap"
+msgstr ""
+
+msgctxt "7\t109738\t99\tCHK"
+msgid "Set limit for number of displayed frames per second."
+msgstr ""
+
+msgctxt "7\t109791\t100\tCHK"
+msgid "Field of View"
+msgstr ""
+
+msgctxt "7\t109805\t101\tCHK"
+msgid "Configure camera field of view."
+msgstr ""
+
+msgctxt "7\t109837\t102\tCHK"
+msgid "Depth of Field"
+msgstr ""
+
+msgctxt "7\t109852\t103\tCHK"
+msgid "Configure depth of field effect."
+msgstr ""
+
+msgctxt "7\t109885\t104\tCHK"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "7\t109894\t105\tCHK"
+msgid "Advanced graphics options."
+msgstr ""
+
+msgctxt "7\t109921\t106\tCHK"
+msgid "Input Type"
+msgstr ""
+
+msgctxt "7\t109932\t107\tCHK"
+msgid "Select input type."
+msgstr ""
+
+msgctxt "7\t109951\t108\tCHK"
+msgid "Device"
+msgstr ""
+
+msgctxt "7\t109958\t109\tCHK"
+msgid "Select input device."
+msgstr ""
+
+msgctxt "7\t109979\t110\tCHK"
+msgid "Pad"
+msgstr ""
+
+msgctxt "7\t109983\t111\tCHK"
+msgid "Keyboard and Mouse"
+msgstr ""
+
+msgctxt "7\t110002\t112\tCHK"
+msgid "Fullscreen"
+msgstr ""
+
+msgctxt "7\t110013\t113\tCHK"
+msgid "Windowed"
+msgstr ""
+
+msgctxt "7\t110022\t114\tCHK"
+msgid "Borderless"
+msgstr ""
+
+msgctxt "7\t110033\t115\tCHK"
+msgid "Letterbox Artworks"
+msgstr ""
+
+msgctxt "7\t110052\t116\tCHK"
+msgid ""
+"Enable or disable tattoo letterbox artwork\n"
+"used in aspect ratios different than 16:9."
+msgstr ""
+
+msgctxt "7\t110138\t117\tCHK"
+msgid "Texture Quality"
+msgstr ""
+
+msgctxt "7\t110154\t118\tCHK"
+msgid "Set texture quality."
+msgstr ""
+
+msgctxt "7\t110175\t119\tCHK"
+msgid "Texture Filtering"
+msgstr ""
+
+msgctxt "7\t110193\t120\tCHK"
+msgid "Set anisotropic texture filtering."
+msgstr ""
+
+msgctxt "7\t110228\t121\tCHK"
+msgid "Shadow Quality"
+msgstr ""
+
+msgctxt "7\t110243\t122\tCHK"
+msgid "Set shadow quality."
+msgstr ""
+
+msgctxt "7\t110263\t123\tCHK"
+msgid "Geometry Quality"
+msgstr ""
+
+msgctxt "7\t110280\t124\tCHK"
+msgid "Set quality of geometry meshes."
+msgstr ""
+
+msgctxt "7\t110312\t125\tCHK"
+msgid "Anti-aliasing"
+msgstr ""
+
+msgctxt "7\t110326\t126\tCHK"
+msgid "Set anti-aliasing type or disable it."
+msgstr ""
+
+msgctxt "7\t110364\t127\tCHK"
+msgid "Render Scale"
+msgstr ""
+
+msgctxt "7\t110377\t128\tCHK"
+msgid "Set render scaling."
+msgstr ""
+
+msgctxt "7\t110397\t129\tCHK"
+msgid "FidelityFX CAS"
+msgstr ""
+
+msgctxt "7\t110412\t130\tCHK"
+msgid "Enable or disable FidelityFX Contrast Adaptive Sharpening."
+msgstr ""
+
+msgctxt "7\t110471\t131\tCHK"
+msgid "FidelityFX CAS Sharpen level"
+msgstr ""
+
+msgctxt "7\t110500\t132\tCHK"
+msgid "Set FidelityFX sharpen level."
+msgstr ""
+
+msgctxt "7\t110530\t133\tCHK"
+msgid "SSAO"
+msgstr ""
+
+msgctxt "7\t110535\t134\tCHK"
+msgid "Enable or disable Screen Space Ambient Occlusion."
+msgstr ""
+
+msgctxt "7\t110585\t135\tCHK"
+msgid "Low"
+msgstr ""
+
+msgctxt "7\t110589\t136\tCHK"
+msgid "Medium"
+msgstr ""
+
+msgctxt "7\t110596\t137\tCHK"
+msgid "High"
+msgstr ""
+
+msgctxt "7\t110601\t138\tCHK"
+msgid "2x"
+msgstr ""
+
+msgctxt "7\t110604\t139\tCHK"
+msgid "4x"
+msgstr ""
+
+msgctxt "7\t110607\t140\tCHK"
+msgid "8x"
+msgstr ""
+
+msgctxt "7\t110610\t141\tCHK"
+msgid "16x"
+msgstr ""
+
+msgctxt "7\t110614\t142\tCHK"
+msgid "FXAA"
+msgstr ""
+
+msgctxt "7\t110619\t143\tCHK"
+msgid "CMAA"
+msgstr ""
+
+msgctxt "7\t110624\t144\tCHK"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "7\t110633\t145\tCHK"
+msgid "Upsample and Sharpen"
+msgstr ""
+
+msgctxt "7\t110654\t146\tCHK"
+msgid "Sharpen"
+msgstr ""
+
+msgctxt "7\t110662\t147\tCHK"
+msgid "Game Mode"
+msgstr ""
+
+msgctxt "7\t110672\t148\tCHK"
+msgid "Pad icons"
+msgstr ""
+
+msgctxt "7\t110682\t149\tCHK"
+msgid ""
+"<Action:Button_Cross@UI><Action:Button_Circle@UI><Action:Button_"
+"Square@UI><Action:Button_Triangle@UI>"
+msgstr ""
+
+msgctxt "7\t110784\t150\tCHK"
+msgid "System Cursor"
+msgstr ""
+
+msgctxt "7\t110798\t151\tCHK"
+msgid "Game Cursor"
+msgstr ""
+
+msgctxt "7\t110810\t152\tCHK"
+msgid "Hide HUD"
+msgstr ""
+
+msgctxt "7\t110819\t153\tCHK"
+msgid "Toggle in-game HUD on or off."
+msgstr ""
+
+msgctxt "7\t110849\t154\tCHK"
+msgid "Icon Select"
+msgstr ""
+
+msgctxt "7\t110861\t155\tCHK"
+msgid "Option to choose what icons will be used."
+msgstr ""
+
+msgctxt "7\t110903\t156\tCHK"
+msgid "Controller Vibration"
+msgstr ""
+
+msgctxt "7\t110924\t157\tCHK"
+msgid "Switch on/off the controller vibration."
+msgstr ""
+
+msgctxt "7\t110964\t158\tCHK"
+msgid "Controller Sensitivity"
+msgstr ""
+
+msgctxt "7\t110987\t159\tCHK"
+msgid "Change controller sensitivity."
+msgstr ""
+
+msgctxt "7\t111018\t160\tCHK"
+msgid "Mouse Sensitivity"
+msgstr ""
+
+msgctxt "7\t111036\t161\tCHK"
+msgid "Change mouse sensitivity."
+msgstr ""
+
+msgctxt "7\t111062\t162\tCHK"
+msgid "Mouse Cursor"
+msgstr ""
+
+msgctxt "7\t111075\t163\tCHK"
+msgid "Enable system cursor."
+msgstr ""
+
+msgctxt "7\t111097\t164\tCHK"
+msgid "%dx%d"
+msgstr ""
+
+msgctxt "7\t111103\t165\tCHK"
+msgid "%.2f Hz"
+msgstr ""
+
+msgctxt "7\t111111\t166\tCHK"
+msgid "Load"
+msgstr ""
+
+msgctxt "7\t111116\t167\tCHK"
+msgid "Exit to Title"
+msgstr ""
+
+msgctxt "7\t111130\t168\tCHK"
+msgid "Exit to title screen."
+msgstr ""
+
+msgctxt "7\t111152\t169\tCHK"
+msgid "Exit to Windows"
+msgstr ""
+
+msgctxt "7\t111168\t170\tCHK"
+msgid "Exit to Windows desktop."
+msgstr ""
+
+msgctxt "7\t111193\t171\tCHK"
+msgid "Japan Button Layout"
+msgstr ""
+
+msgctxt "7\t111213\t172\tCHK"
+msgid ""
+"Changes \"Confirm\" and \"Back\" buttons.\n"
+"To apply changes in all game modes of the title (not only menu)\n"
+"controls settings must be reverted to default."
+msgstr ""
+
+msgctxt "7\t111362\t173\tCHK"
+msgid "LOD Distance"
+msgstr ""
+
+msgctxt "7\t111375\t174\tCHK"
+msgid "Set LOD draw distance."
+msgstr ""
+
+msgctxt "7\t111398\t175\tCHK"
+msgid "NPC Density"
+msgstr ""
+
+msgctxt "7\t111410\t176\tCHK"
+msgid "Set NPC Density level."
+msgstr ""
+
+msgctxt "7\t111433\t177\tCHK"
+msgid "Far"
+msgstr ""
+
+msgctxt "7\t111437\t178\tCHK"
+msgid "Close"
+msgstr ""
+
+msgctxt "7\t111443\t179\tCHK"
+msgid "Mid"
+msgstr ""
+
+msgctxt "7\t111447\t180\tCHK"
+msgid "Maximum"
+msgstr ""
+
+msgctxt "7\t111455\t181\tCHK"
+msgid "Ultra"
+msgstr ""
+
+msgctxt "7\t111461\t182\tCHK"
+msgid "Graphics Quality"
+msgstr ""
+
+msgctxt "7\t111478\t183\tCHK"
+msgid "Use presets to easily control advanced graphics settings."
+msgstr ""
+
+msgctxt "7\t111536\t184\tCHK"
+msgid "Custom"
+msgstr ""
+
+msgctxt "7\t111543\t185\tCHK"
+msgid "Direct Input"
+msgstr ""
+
+msgctxt "7\t111556\t186\tCHK"
+msgid "Adventure"
+msgstr ""
+
+msgctxt "7\t111566\t187\tCHK"
+msgid "Combat"
+msgstr ""
+
+msgctxt "7\t111573\t188\tCHK"
+msgid "UI"
+msgstr ""
+
+msgctxt "7\t111576\t189\tCHK"
+msgid "Debug_Menu"
+msgstr ""
+
+msgctxt "7\t111587\t190\tCHK"
+msgid "Current"
+msgstr ""
+
+msgctxt "7\t111595\t191\tCHK"
+msgid "Cabaret"
+msgstr ""
+
+msgctxt "7\t111603\t192\tCHK"
+msgid "Massage"
+msgstr ""
+
+msgctxt "7\t111611\t193\tCHK"
+msgid "Pool"
+msgstr ""
+
+msgctxt "7\t111616\t194\tCHK"
+msgid "Karaoke"
+msgstr ""
+
+msgctxt "7\t111624\t195\tCHK"
+msgid "Bowling"
+msgstr ""
+
+msgctxt "7\t111632\t196\tCHK"
+msgid "Cee-Lo"
+msgstr ""
+
+msgctxt "7\t111639\t197\tCHK"
+msgid "Cho-Han"
+msgstr ""
+
+msgctxt "7\t111647\t198\tCHK"
+msgid "Koi-Koi"
+msgstr ""
+
+msgctxt "7\t111655\t199\tCHK"
+msgid "Roulette"
+msgstr ""
+
+msgctxt "7\t111664\t200\tCHK"
+msgid "Poker"
+msgstr ""
+
+msgctxt "7\t111670\t201\tCHK"
+msgid "Blackjack"
+msgstr ""
+
+msgctxt "7\t111680\t202\tCHK"
+msgid "UFO Catcher"
+msgstr ""
+
+msgctxt "7\t111692\t203\tCHK"
+msgid "AnswerAnswer"
+msgstr ""
+
+msgctxt "7\t111705\t204\tCHK"
+msgid "Shogi"
+msgstr ""
+
+msgctxt "7\t111711\t205\tCHK"
+msgid "Mahjong"
+msgstr ""
+
+msgctxt "7\t111719\t206\tCHK"
+msgid "Batting Center"
+msgstr ""
+
+msgctxt "7\t111734\t207\tCHK"
+msgid "Golf"
+msgstr ""
+
+msgctxt "7\t111739\t208\tCHK"
+msgid "Oicho-Kabu"
+msgstr ""
+
+msgctxt "7\t111750\t209\tCHK"
+msgid "Fishing"
+msgstr ""
+
+msgctxt "7\t111758\t210\tCHK"
+msgid "Darts"
+msgstr ""
+
+msgctxt "7\t111764\t211\tCHK"
+msgid "Boxcelios"
+msgstr ""
+
+msgctxt "7\t111774\t212\tCHK"
+msgid "Pachinko"
+msgstr ""
+
+msgctxt "7\t111783\t213\tCHK"
+msgid "Chase"
+msgstr ""
+
+msgctxt "7\t111789\t214\tCHK"
+msgid "Table Tenis"
+msgstr ""
+
+msgctxt "7\t111801\t215\tCHK"
+msgid "Baccarat"
+msgstr ""
+
+msgctxt "7\t111810\t216\tCHK"
+msgid "Boat Chase"
+msgstr ""
+
+msgctxt "7\t111821\t217\tCHK"
+msgid "PressAnyButton"
+msgstr ""
+
+msgctxt "7\t111836\t218\tCHK"
+msgid "Survival Tag"
+msgstr ""
+
+msgctxt "8\t118596\t0\tSUS"
+msgid ""
+msgstr ""
+
+msgctxt "8\t118597\t1\tCHK"
+msgid "Deliver the finishing blow!"
+msgstr ""
+
+msgctxt "8\t118625\t2\tCHK"
+msgid "   Brace yourself!"
+msgstr ""
+
+msgctxt "8\t118644\t3\tCHK"
+msgid "Knock 'em back!"
+msgstr ""
+
+msgctxt "8\t118660\t4\tCHK"
+msgid "Fight with all your might!"
+msgstr ""
+
+msgctxt "8\t118687\t5\tCHK"
+msgid "Pro Wrestler Exhibition!"
+msgstr ""
+
+msgctxt "8\t118712\t6\tCHK"
+msgid "Don't get hit!"
+msgstr ""
+
+msgctxt "8\t118727\t7\tCHK"
+msgid "   Push 'em back!"
+msgstr ""
+
+msgctxt "8\t118745\t8\tCHK"
+msgid "Impress the crowd!"
+msgstr ""
+
+msgctxt "8\t118764\t9\tCHK"
+msgid "Attack!"
+msgstr ""
+
+msgctxt "8\t118772\t10\tCHK"
+msgid "Use a midair technique!"
+msgstr ""
+
+msgctxt "8\t118796\t11\tCHK"
+msgid "Brace yourself!"
+msgstr ""
+
+msgctxt "8\t118812\t12\tCHK"
+msgid "Concentrate attacks!"
+msgstr ""
+
+msgctxt "8\t118833\t13\tCHK"
+msgid "Don't let your health drop!"
+msgstr ""
+
+msgctxt "8\t118861\t14\tCHK"
+msgid "Beat 'em down!"
+msgstr ""
+
+msgctxt "8\t118876\t15\tCHK"
+msgid "Be sturdy!"
+msgstr ""
+
+msgctxt "8\t118887\t16\tCHK"
+msgid "Be interesting!"
+msgstr ""
+
+msgctxt "8\t118903\t17\tCHK"
+msgid "Be flashy!"
+msgstr ""
+
+msgctxt "8\t118914\t18\tCHK"
+msgid "Stay Out of It"
+msgstr ""
+
+msgctxt "8\t118929\t19\tCHK"
+msgid "Item usage is restricted to ${item} in this match."
+msgstr ""
+
+msgctxt "8\t118980\t20\tCHK"
+msgid "Participants"
+msgstr ""
+
+msgctxt "8\t118993\t21\tCHK"
+msgid "Enter"
+msgstr ""
+
+msgctxt "8\t118999\t22\tCHK"
+msgid "Don't Enter"
+msgstr ""
+
+msgctxt "8\t119011\t23\tCHK"
+msgid "Masayuki Hatae"
+msgstr ""
+
+msgctxt "8\t119026\t24\tCHK"
+msgid "Keigo Jinno"
+msgstr ""
+
+msgctxt "8\t119038\t25\tCHK"
+msgid "Select a tag team partner."
+msgstr ""
+
+msgctxt "8\t119065\t26\tCHK"
+msgid "Partner"
+msgstr ""
+
+msgctxt "8\t119073\t27\tCHK"
+msgid "Select ${name} as your partner?"
+msgstr ""
+
+msgctxt "8\t119105\t28\tCHK"
+msgid "You do not currently have a tag team partner selected."
+msgstr ""
+
+msgctxt "8\t119160\t29\tCHK"
+msgid "Difficulty:"
+msgstr ""
+
+msgctxt "8\t119172\t30\tCHK"
+msgid "? ? ? ?"
+msgstr ""
+
+msgctxt "8\t119180\t31\tCHK"
+msgid "Katana"
+msgstr ""
+
+msgctxt "8\t119187\t32\tCHK"
+msgid "Dagger"
+msgstr ""
+
+msgctxt "8\t119194\t33\tCHK"
+msgid "Metal Bat"
+msgstr ""
+
+msgctxt "8\t119204\t34\tCHK"
+msgid "Brass Knuckles"
+msgstr ""
+
+msgctxt "8\t119219\t35\tCHK"
+msgid "Nunchaku"
+msgstr ""
+
+msgctxt "8\t119228\t36\tCHK"
+msgid "${match} Matches ${win} Wins ${lose} Losses"
+msgstr ""
+
+msgctxt "8\t119272\t37\tCHK"
+msgid "${match} Matches ${win} Wins ${lose} Losses  Win Ratio: ${ratio}％ "
+msgstr ""
+
+msgctxt "8\t119341\t38\tCHK"
+msgid "${match} Matches ${win} Wins ${lose} Losses   Win Ratio: ${ratio}％ "
+msgstr ""
+
+msgctxt "8\t119411\t39\tCHK"
+msgid "? Matches  ? Wins  ? Losses   Win Ratio: ?%"
+msgstr ""
+
+msgctxt "8\t119455\t40\tCHK"
+msgid "The Dragon of Dojima"
+msgstr ""
+
+msgctxt "8\t119476\t41\tCHK"
+msgid "Coliseum Entertainer"
+msgstr ""
+
+msgctxt "8\t119497\t42\tCHK"
+msgid "Purgatory's Rising Star"
+msgstr ""
+
+msgctxt "8\t119521\t43\tCHK"
+msgid "Veteran Gladiator"
+msgstr ""
+
+msgctxt "8\t119539\t44\tCHK"
+msgid "Fist of the Lost Paradise"
+msgstr ""
+
+msgctxt "8\t119565\t45\tCHK"
+msgid "Ultimate Warrior"
+msgstr ""
+
+msgctxt "8\t119582\t46\tCHK"
+msgid "Supreme Champion"
+msgstr ""
+
+msgctxt "8\t119599\t47\tCHK"
+msgid "The Cage Match King"
+msgstr ""
+
+msgctxt "8\t119619\t48\tCHK"
+msgid "Emperor of the Underground"
+msgstr ""
+
+msgctxt "8\t119646\t49\tCHK"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "8\t119667\t50\tCHK"
+msgid "Nickname:"
+msgstr ""
+
+msgctxt "8\t119677\t51\tCHK"
+msgid "Tag Team"
+msgstr ""
+
+msgctxt "8\t119686\t52\tCHK"
+msgid "Titles Earned"
+msgstr ""
+
+msgctxt "8\t119700\t53\tCHK"
+msgid "Kazuma Kiryu"
+msgstr ""
+
+msgctxt "8\t119713\t54\tCHK"
+msgid "JPN"
+msgstr ""
+
+msgctxt "8\t119717\t55\tCHK"
+msgid "184 cm"
+msgstr ""
+
+msgctxt "8\t119724\t56\tCHK"
+msgid "88 kg"
+msgstr ""
+
+msgctxt "8\t119730\t57\tCHK"
+msgid "Dragon"
+msgstr ""
+
+msgctxt "8\t119737\t58\tCHK"
+msgid "40"
+msgstr ""
+
+msgctxt "8\t119740\t59\tCHK"
+msgid "O"
+msgstr ""
+
+msgctxt "8\t119742\t60\tCHK"
+msgid "Kazuma Kiryu's Own"
+msgstr ""
+
+msgctxt "8\t119761\t61\tCHK"
+msgid "Team Dragon"
+msgstr ""
+
+msgctxt "8\t119773\t62\tCHK"
+msgid "Popularity:"
+msgstr ""
+
+msgctxt "8\t119785\t63\tCHK"
+msgid "Fight History:"
+msgstr ""
+
+msgctxt "8\t119800\t64\tCHK"
+msgid "Thomas Loyd"
+msgstr ""
+
+msgctxt "8\t119812\t65\tCHK"
+msgid "Rex Yasunishi"
+msgstr ""
+
+msgctxt "8\t119826\t66\tCHK"
+msgid "Cerberus Fujishiro"
+msgstr ""
+
+msgctxt "8\t119845\t67\tCHK"
+msgid "Shogo Usui"
+msgstr ""
+
+msgctxt "8\t119856\t68\tCHK"
+msgid "Seiji Higuchi"
+msgstr ""
+
+msgctxt "8\t119870\t69\tCHK"
+msgid "Justin Woods"
+msgstr ""
+
+msgctxt "8\t119883\t70\tCHK"
+msgid "Round 1 ${name}"
+msgstr ""
+
+msgctxt "8\t119899\t71\tCHK"
+msgid "Semifinals ${name}"
+msgstr ""
+
+msgctxt "8\t119918\t72\tCHK"
+msgid "Finals ${name}"
+msgstr ""
+
+msgctxt "8\t119933\t73\tCHK"
+msgid "K.O."
+msgstr ""
+
+msgctxt "8\t119938\t74\tCHK"
+msgid "LOST"
+msgstr ""
+
+msgctxt "8\t119943\t75\tCHK"
+msgid "\\${value}"
+msgstr ""
+
+msgctxt "8\t119953\t76\tCHK"
+msgid "Popularity Gained:"
+msgstr ""
+
+msgctxt "8\t119972\t77\tCHK"
+msgid "TOTAL"
+msgstr ""
+
+msgctxt "8\t119978\t78\tCHK"
+msgid "\\500 x ${value}"
+msgstr ""
+
+msgctxt "8\t119994\t79\tCHK"
+msgid "All-Star Tournament"
+msgstr ""
+
+msgctxt "8\t120014\t80\tCHK"
+msgid "All-Star Tag Tournament"
+msgstr ""
+
+msgctxt "8\t120038\t81\tCHK"
+msgid "Maximum Grand Prix"
+msgstr ""
+
+msgctxt "8\t120057\t82\tCHK"
+msgid "Magnum Force Grand Prix"
+msgstr ""
+
+msgctxt "8\t120081\t83\tCHK"
+msgid "Hyper Grand Prix"
+msgstr ""
+
+msgctxt "8\t120098\t84\tCHK"
+msgid "Weapon Master Grand Prix"
+msgstr ""
+
+msgctxt "8\t120123\t85\tCHK"
+msgid "Twin Dragon Grand Prix"
+msgstr ""
+
+msgctxt "8\t120146\t86\tCHK"
+msgid "Tag Match Grand Prix"
+msgstr ""
+
+msgctxt "8\t120167\t87\tCHK"
+msgid "Golden Gloves Grand Prix"
+msgstr ""
+
+msgctxt "8\t120192\t88\tCHK"
+msgid "Bomber Grand Prix"
+msgstr ""
+
+msgctxt "8\t120210\t89\tCHK"
+msgid "Pounding Grand Prix"
+msgstr ""
+
+msgctxt "8\t120230\t90\tCHK"
+msgid "Heat Grand Prix"
+msgstr ""
+
+msgctxt "8\t120246\t91\tCHK"
+msgid "Breakout Grand Prix"
+msgstr ""
+
+msgctxt "8\t120266\t92\tCHK"
+msgid "Street Fight Grand Prix"
+msgstr ""
+
+msgctxt "8\t120290\t93\tCHK"
+msgid "Exhibition Tournament"
+msgstr ""
+
+msgctxt "8\t120312\t94\tCHK"
+msgid "All-Star Tourney"
+msgstr ""
+
+msgctxt "8\t120329\t95\tCHK"
+msgid "All-Star Tag Tourney"
+msgstr ""
+
+msgctxt "8\t120350\t96\tCHK"
+msgid "Round 1"
+msgstr ""
+
+msgctxt "8\t120358\t97\tCHK"
+msgid "Semifinals"
+msgstr ""
+
+msgctxt "8\t120369\t98\tCHK"
+msgid "Finals"
+msgstr ""

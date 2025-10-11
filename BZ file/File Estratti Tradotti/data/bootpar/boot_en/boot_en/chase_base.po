@@ -1,0 +1,947 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.7\n"
+
+#, fuzzy
+msgctxt "2073\tSTART_CAMERA_NAME"
+msgid "billiards"
+msgstr "biliardo"
+
+#, fuzzy
+msgctxt "2083\tSTART_CAMERA_NAME"
+msgid "daytona"
+msgstr "daytona"
+
+msgctxt "2091\tSTART_CAMERA_NAME"
+msgid "simple"
+msgstr "semplice"
+
+msgctxt "2098\tSTART_CAMERA_NAME"
+msgid "simple"
+msgstr "semplice"
+
+#, fuzzy
+msgctxt "2105\tSTART_CAMERA_NAME"
+msgid "billiards"
+msgstr "biliardo"
+
+#, fuzzy
+msgctxt "2118\tSTART_CAMERA_NAME"
+msgid "daytona"
+msgstr "daytona"
+
+#, fuzzy
+msgctxt "2128\tSTART_CAMERA_NAME"
+msgid "billiards"
+msgstr "biliardo"
+
+msgctxt "2138\tSTART_CAMERA_NAME"
+msgid "simple"
+msgstr "semplice"
+
+msgctxt "2145\tSTART_CAMERA_NAME"
+msgid "simple"
+msgstr "semplice"
+
+#, fuzzy
+msgctxt "2152\tSTART_CAMERA_NAME"
+msgid "billiards"
+msgstr "biliardo"
+
+#, fuzzy
+msgctxt "2163\tSTART_CAMERA_NAME"
+msgid "daytona"
+msgstr "daytona"
+
+#, fuzzy
+msgctxt "2172\tSTART_CAMERA_NAME"
+msgid "billiards"
+msgstr "biliardo"
+
+#, fuzzy
+msgctxt "2183\tSTART_CAMERA_NAME"
+msgid "billiards"
+msgstr "biliardo"
+
+#, fuzzy
+msgctxt "2193\tSTART_CAMERA_NAME"
+msgid "daytona"
+msgstr "daytona"
+
+#, fuzzy
+msgctxt "2201\tSTART_CAMERA_NAME"
+msgid "daytona"
+msgstr "daytona"
+
+#, fuzzy
+msgctxt "2209\tSTART_CAMERA_NAME"
+msgid "daytona"
+msgstr "daytona"
+
+#, fuzzy
+msgctxt "2221\tSTART_CAMERA_NAME"
+msgid "billiards"
+msgstr "biliardo"
+
+#, fuzzy
+msgctxt "2233\tSTART_CAMERA_NAME"
+msgid "daytona"
+msgstr "daytona"
+
+#, fuzzy
+msgctxt "2241\tSTART_CAMERA_NAME"
+msgid "billiards"
+msgstr "biliardo"
+
+#, fuzzy
+msgctxt "2252\tSTART_CAMERA_NAME"
+msgid "billiards"
+msgstr "biliardo"
+
+msgctxt "2267\tSTART_CAMERA_DEGREE"
+msgid "0"
+msgstr "0"
+
+msgctxt "2269\tSTART_CAMERA_DEGREE"
+msgid "0"
+msgstr "0"
+
+#, fuzzy
+msgctxt "2271\tSTART_CAMERA_DEGREE"
+msgid "78"
+msgstr "78"
+
+msgctxt "2275\tSTART_CAMERA_DEGREE"
+msgid "90"
+msgstr "90"
+
+msgctxt "2278\tSTART_CAMERA_DEGREE"
+msgid "90"
+msgstr "90"
+
+msgctxt "2281\tSTART_CAMERA_DEGREE"
+msgid "180"
+msgstr "180"
+
+msgctxt "2285\tSTART_CAMERA_DEGREE"
+msgid "0"
+msgstr "0"
+
+msgctxt "2287\tSTART_CAMERA_DEGREE"
+msgid "180"
+msgstr "180"
+
+msgctxt "2292\tSTART_CAMERA_DEGREE"
+msgid "90"
+msgstr "90"
+
+msgctxt "2296\tSTART_CAMERA_DEGREE"
+msgid "90"
+msgstr "90"
+
+msgctxt "2299\tSTART_CAMERA_DEGREE"
+msgid "0"
+msgstr "0"
+
+msgctxt "2302\tSTART_CAMERA_DEGREE"
+msgid "90"
+msgstr "90"
+
+msgctxt "2305\tSTART_CAMERA_DEGREE"
+msgid "0"
+msgstr "0"
+
+msgctxt "2307\tSTART_CAMERA_DEGREE"
+msgid "0"
+msgstr "0"
+
+msgctxt "2309\tSTART_CAMERA_DEGREE"
+msgid "90"
+msgstr "90"
+
+msgctxt "2312\tSTART_CAMERA_DEGREE"
+msgid "180"
+msgstr "180"
+
+msgctxt "2316\tSTART_CAMERA_DEGREE"
+msgid "180"
+msgstr "180"
+
+msgctxt "2320\tSTART_CAMERA_DEGREE"
+msgid "0"
+msgstr "0"
+
+msgctxt "2322\tSTART_CAMERA_DEGREE"
+msgid "90"
+msgstr "90"
+
+msgctxt "2325\tSTART_CAMERA_DEGREE"
+msgid "180"
+msgstr "180"
+
+msgctxt "2329\tSTART_CAMERA_DEGREE"
+msgid "180"
+msgstr "180"
+
+msgctxt "2333\tSTART_CAMERA_DEGREE"
+msgid "180"
+msgstr "180"
+
+msgctxt "2338\tSTART_CAMERA_DEGREE"
+msgid "90"
+msgstr "90"
+
+msgctxt "2341\tSTART_CAMERA_DEGREE"
+msgid "180"
+msgstr "180"
+
+msgctxt "2345\tSTART_CAMERA_DEGREE"
+msgid "180"
+msgstr "180"
+
+msgctxt "2349\tSTART_CAMERA_DEGREE"
+msgid "180"
+msgstr "180"
+
+msgctxt "2353\tSTART_CAMERA_DEGREE"
+msgid "180"
+msgstr "180"
+
+msgctxt "2357\tSTART_CAMERA_DEGREE"
+msgid "180"
+msgstr "180"
+
+msgctxt "2361\tSTART_CAMERA_DEGREE"
+msgid "0"
+msgstr "0"
+
+msgctxt "2363\tSTART_CAMERA_DEGREE"
+msgid "180"
+msgstr "180"
+
+msgctxt "2367\tSTART_CAMERA_DEGREE"
+msgid "0"
+msgstr "0"
+
+msgctxt "2369\tSTART_CAMERA_DEGREE"
+msgid "90"
+msgstr "90"
+
+msgctxt "2372\tSTART_CAMERA_DEGREE"
+msgid "0"
+msgstr "0"
+
+msgctxt "2374\tSTART_CAMERA_DEGREE"
+msgid "180"
+msgstr "180"
+
+msgctxt "2379\tSTART_CAMERA_DEGREE"
+msgid "90"
+msgstr "90"
+
+msgctxt "2382\tSTART_CAMERA_DEGREE"
+msgid "0"
+msgstr "0"
+
+msgctxt "2384\tSTART_CAMERA_DEGREE"
+msgid "0"
+msgstr "0"
+
+msgctxt "2386\tSTART_CAMERA_DEGREE"
+msgid "0"
+msgstr "0"
+
+msgctxt "2388\tSTART_CAMERA_DEGREE"
+msgid "0"
+msgstr "0"
+
+msgctxt "2390\tSTART_CAMERA_DEGREE"
+msgid "0"
+msgstr "0"
+
+msgctxt "2392\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2394\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+#, fuzzy
+msgctxt "2396\tSTART_CAMERA_PARAM"
+msgid "256"
+msgstr "256"
+
+#, fuzzy
+msgctxt "2400\tSTART_CAMERA_PARAM"
+msgid "256"
+msgstr "256"
+
+msgctxt "2404\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2406\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2408\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2410\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2412\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2414\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2416\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2418\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2420\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2422\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2424\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2426\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2428\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2430\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2432\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2434\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2436\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2438\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2440\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2442\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2444\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2446\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2448\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2450\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2452\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2454\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2456\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2458\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2460\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2462\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2464\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2466\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2468\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2470\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2472\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2474\tSTART_CAMERA_PARAM"
+msgid "0"
+msgstr "0"
+
+#, fuzzy
+msgctxt "2476\tNAME_ENEMY"
+msgid "Shady Man"
+msgstr "Uomo Ombroso"
+
+#, fuzzy
+msgctxt "2486\tNAME_ENEMY"
+msgid "Bag Snatcher"
+msgstr "Ladro di borse"
+
+#, fuzzy
+msgctxt "2499\tNAME_ENEMY"
+msgid "Shady Man"
+msgstr "Uomo Ombroso"
+
+msgctxt "2509\tNAME_ENEMY"
+msgid "Officer"
+msgstr "Ufficiale"
+
+#, fuzzy
+msgctxt "2517\tNAME_ENEMY"
+msgid "Hana-chan"
+msgstr "Hana-chan"
+
+#, fuzzy
+msgctxt "2527\tNAME_ENEMY"
+msgid "Ueno Seiwa Thug"
+msgstr "Teppista di Ueno Seiwa"
+
+#, fuzzy
+msgctxt "2543\tNAME_ENEMY"
+msgid "Ueno Seiwa Thug"
+msgstr "Teppista di Ueno Seiwa"
+
+#, fuzzy
+msgctxt "2559\tNAME_ENEMY"
+msgid "Ueno Seiwa Thug"
+msgstr "Teppista di Ueno Seiwa"
+
+#, fuzzy
+msgctxt "2575\tNAME_ENEMY"
+msgid "Saigo's Pupil"
+msgstr "L'allievo di Saigo"
+
+#, fuzzy
+msgctxt "2589\tNAME_ENEMY"
+msgid "Saigo"
+msgstr "Saigo"
+
+#, fuzzy
+msgctxt "2595\tNAME_ENEMY"
+msgid "Saigo"
+msgstr "Saigo"
+
+#, fuzzy
+msgctxt "2601\tNAME_ENEMY"
+msgid "Kido"
+msgstr "Kido"
+
+#, fuzzy
+msgctxt "2606\tNAME_ENEMY"
+msgid "Test Person"
+msgstr "Persona di prova"
+
+msgctxt "2618\tNAME_ENEMY"
+msgid "Officer"
+msgstr "Ufficiale"
+
+#, fuzzy
+msgctxt "2626\tNAME_ENEMY"
+msgid "Man in Sketch"
+msgstr "Uomo in schizzo"
+
+#, fuzzy
+msgctxt "2640\tNAME_ENEMY"
+msgid "Akune"
+msgstr "Akune"
+
+#, fuzzy
+msgctxt "2647\tNAME_ENEMY"
+msgid "Kappa\""
+msgstr "Kappa\""
+
+#, fuzzy
+msgctxt "2654\tNAME_ENEMY"
+msgid "Isawa"
+msgstr "Isawa"
+
+#, fuzzy
+msgctxt "2660\tNAME_ENEMY"
+msgid "Saki"
+msgstr "Saki"
+
+#, fuzzy
+msgctxt "2665\tNAME_ENEMY"
+msgid "Katsuura"
+msgstr "Katsuura"
+
+#, fuzzy
+msgctxt "2674\tNAME_ENEMY"
+msgid "Tadokoro"
+msgstr "Tadokoro"
+
+#, fuzzy
+msgctxt "2683\tNAME_ENEMY"
+msgid "Pervert"
+msgstr "Pervertito"
+
+#, fuzzy
+msgctxt "2691\tNAME_ENEMY"
+msgid "Bag Snatcher"
+msgstr "Ladro di borse"
+
+#, fuzzy
+msgctxt "2704\tNAME_ENEMY"
+msgid "Yasu"
+msgstr "Yasu"
+
+#, fuzzy
+msgctxt "2709\tNAME_ENEMY"
+msgid "Yasu"
+msgstr "Yasu"
+
+msgctxt "2714\tNAME_ENEMY"
+msgid "Officer"
+msgstr "Ufficiale"
+
+msgctxt "2722\tNAME_ENEMY"
+msgid "Officer"
+msgstr "Ufficiale"
+
+msgctxt "2730\tNAME_ENEMY"
+msgid "Officer"
+msgstr "Ufficiale"
+
+#, fuzzy
+msgctxt "2738\tNAME_ENEMY"
+msgid "Yakuza"
+msgstr "Yakuza"
+
+#, fuzzy
+msgctxt "2745\tNAME_ENEMY"
+msgid "Bag Snatcher"
+msgstr "Ladro di borse"
+
+#, fuzzy
+msgctxt "2758\tNAME_ENEMY"
+msgid "Bag Snatcher"
+msgstr "Ladro di borse"
+
+#, fuzzy
+msgctxt "2771\tNAME_ENEMY"
+msgid "Shady Man"
+msgstr "Uomo Ombroso"
+
+#, fuzzy
+msgctxt "2781\tNAME_ENEMY"
+msgid "Suspicious Man"
+msgstr "Uomo sospetto"
+
+#, fuzzy
+msgctxt "2796\tNAME_ENEMY"
+msgid "Peeping Tom"
+msgstr "Guardone"
+
+#, fuzzy
+msgctxt "2808\tNAME_ENEMY"
+msgid "Dine and Dash Pro"
+msgstr "Dine and Dash Pro"
+
+msgctxt "2826\tNAME_ENEMY"
+msgid "Ultimate"
+msgstr "Ultimate"
+
+#, fuzzy
+msgctxt "2835\tNAME_ENEMY"
+msgid "Ultimate Saigo"
+msgstr "Ultimate Saigo"
+
+#, fuzzy
+msgctxt "2850\tNAME_ENEMY"
+msgid "Kappa"
+msgstr "Kappa"
+
+#, fuzzy
+msgctxt "2856\tNAME_ENEMY"
+msgid "Ultimate Mack"
+msgstr "Ultimate Mack"
+
+#, fuzzy
+msgctxt "2870\tNAME_ENEMY"
+msgid "Speed King"
+msgstr "Re della velocità"
+
+msgctxt "2982\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2984\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2986\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2988\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2990\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2992\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2994\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2996\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "2998\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3000\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3002\tLAP_NUM"
+msgid "5"
+msgstr "5"
+
+msgctxt "3004\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3006\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3008\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3010\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3012\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3014\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3016\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3018\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3020\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3022\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3024\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3026\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3028\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3030\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3032\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3034\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3036\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3038\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3040\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3042\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3044\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3046\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3048\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3050\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3052\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3054\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3056\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3058\tLAP_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3060\tLAP_NUM"
+msgid "3"
+msgstr "3"
+
+msgctxt "3062\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3064\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3066\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3068\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3070\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3072\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3074\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3076\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3078\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3080\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3082\tCHECK_POINT_NUM"
+msgid "4"
+msgstr "4"
+
+msgctxt "3084\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3086\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3088\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3090\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3092\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3094\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3096\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3098\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3100\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3102\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3104\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3106\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3108\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3110\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3112\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3114\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3116\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3118\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3120\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3122\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3124\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3126\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3128\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3130\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3132\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3134\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3136\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3138\tCHECK_POINT_NUM"
+msgid "0"
+msgstr "0"
+
+msgctxt "3140\tCHECK_POINT_NUM"
+msgid "4"
+msgstr "4"

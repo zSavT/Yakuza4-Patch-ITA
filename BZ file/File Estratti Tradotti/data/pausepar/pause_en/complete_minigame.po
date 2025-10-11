@@ -1,0 +1,517 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-04\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "210\tNAME"
+msgid "Aromatherapy Massage"
+msgstr "Massaggio Aromaterapico"
+
+msgctxt "233\tNAME"
+msgid "Table Tennis"
+msgstr "Tennistavolo"
+
+msgctxt "248\tNAME"
+msgid "Darts"
+msgstr "Freccette"
+
+msgctxt "256\tNAME"
+msgid "Pool"
+msgstr "Biliardo"
+
+msgctxt "263\tNAME"
+msgid "Bowling"
+msgstr "Bowling"
+
+msgctxt "273\tNAME"
+msgid "Karaoke"
+msgstr "Karaoke"
+
+msgctxt "283\tNAME"
+msgid "Cee-lo"
+msgstr "Cee-lo"
+
+msgctxt "292\tNAME"
+msgid "Cho-han"
+msgstr "Cho-han"
+
+msgctxt "302\tNAME"
+msgid "Koi-koi"
+msgstr "Koi-koi"
+
+msgctxt "312\tNAME"
+msgid "Oicho-kabu"
+msgstr "Oicho-kabu"
+
+msgctxt "325\tNAME"
+msgid "Roulette"
+msgstr "Roulette"
+
+msgctxt "336\tNAME"
+msgid "Poker"
+msgstr "Poker"
+
+msgctxt "344\tNAME"
+msgid "Blackjack"
+msgstr "Blackjack"
+
+msgctxt "356\tNAME"
+msgid "Baccarat"
+msgstr "Baccarat"
+
+msgctxt "367\tNAME"
+msgid "UFO Catcher"
+msgstr "UFO Catcher"
+
+msgctxt "381\tNAME"
+msgid "Answer x Answer"
+msgstr "Risposta x Risposta"
+
+msgctxt "399\tNAME"
+msgid "Boxcelios"
+msgstr "Boxcelios"
+
+msgctxt "411\tNAME"
+msgid "Boxcelios 2"
+msgstr "Boxcelios 2"
+
+msgctxt "425\tNAME"
+msgid "Pachinko"
+msgstr "Pachinko"
+
+msgctxt "436\tNAME"
+msgid "Shogi"
+msgstr "Shogi"
+
+msgctxt "444\tNAME"
+msgid "Mahjong"
+msgstr "Mahjong"
+
+msgctxt "454\tNAME"
+msgid "Batting Cage"
+msgstr "Gabbia di battuta"
+
+msgctxt "469\tNAME"
+msgid "Golf"
+msgstr "Golf"
+
+msgctxt "476\tNAME"
+msgid "Fishing"
+msgstr "Pesca"
+
+msgctxt "486\tEXP"
+msgid "Attained by achieving the highest rating in all courses."
+msgstr "Ottenuto raggiungendo la valutazione più alta in tutti i corsi."
+
+msgctxt "545\tEXP"
+msgid "Attained by defeating your opponent in all matches."
+msgstr "Ottenuto sconfiggendo il tuo avversario in tutti gli incontri."
+
+msgctxt "599\tEXP"
+msgid "Attained by defeating your opponent in all modes."
+msgstr "Si ottiene sconfiggendo il tuo avversario in tutte le modalità."
+
+msgctxt "651\tEXP"
+msgid "Attained by defeating your opponent in all modes."
+msgstr "Si ottiene sconfiggendo il tuo avversario in tutte le modalità."
+
+msgctxt "703\tEXP"
+msgid "Attained by scoring at least 200 in 10 frames."
+msgstr "Ottenuto segnando almeno 200 in 10 frame."
+
+msgctxt "752\tEXP"
+msgid "Attained by getting the highest rank for all songs."
+msgstr "Ottenuto raggiungendo il massimo grado in tutte le canzoni."
+
+msgctxt "806\tEXP"
+msgid "Attained by scoring a cumulative total of more than 20,000 points."
+msgstr ""
+"Si ottiene totalizzando un punteggio cumulativo di più di 20.000 punti."
+
+msgctxt "875\tEXP"
+msgid "Attained by scoring a cumulative total of more than 20,000 points."
+msgstr ""
+"Ottenuto raggiungendo un punteggio totale cumulativo superiore a 20.000 "
+"punti."
+
+msgctxt "944\tEXP"
+msgid "Attained by scoring a cumulative total of more than 20,000 points."
+msgstr "Si ottiene segnando un totale cumulativo di più di 20.000 punti."
+
+msgctxt "1013\tEXP"
+msgid "Attained by scoring a cumulative total of more than 10,000 points."
+msgstr "Raggiunto totalizzando un punteggio cumulativo di oltre 10.000 punti."
+
+msgctxt "1082\tEXP"
+msgid "Attained by winning a cumulative total of more than 20,000 chips."
+msgstr "Si ottiene vincendo un totale cumulativo di più di 20.000 fiches."
+
+msgctxt "1150\tEXP"
+msgid "Attained by winning more than 10,000 chips in a single session."
+msgstr "Ottenuto vincendo più di 10.000 fiches in una singola sessione."
+
+msgctxt "1216\tEXP"
+msgid "Attained by winning more than 10,000 chips in a single session."
+msgstr "Si ottiene vincendo più di 10.000 fiches in una singola sessione."
+
+msgctxt "1282\tEXP"
+msgid "Attained by winning a cumulative total of more than 20,000 chips."
+msgstr "Si ottiene vincendo un totale complessivo di oltre 20.000 fiches."
+
+msgctxt "1350\tEXP"
+msgid "Attained by winning all prizes."
+msgstr "Ottenuto vincendo tutti i premi."
+
+msgctxt "1384\tEXP"
+msgid "Attained by winning each quiz at least once."
+msgstr "Ottenuto vincendo ogni quiz almeno una volta."
+
+msgctxt "1431\tEXP"
+msgid "Attained by reaching level 50."
+msgstr "Ottenuto raggiungendo il livello 50."
+
+msgctxt "1464\tEXP"
+msgid "Attained by reaching level 50."
+msgstr "Si ottiene raggiungendo il livello 50."
+
+msgctxt "1497\tEXP"
+msgid ""
+"Attained by winning more than 5,000 balls in a single play session\n"
+"on any machine."
+msgstr ""
+"Si ottiene vincendo più di 5.000 palline in una singola sessione di gioco su"
+" qualsiasi macchina."
+
+msgctxt "1582\tEXP"
+msgid "Attained by winning more than 5 times."
+msgstr "Si ottiene vincendo più di 5 volte."
+
+msgctxt "1623\tEXP"
+msgid "Attained by scoring more than 50,000 points in a single game."
+msgstr "Ottenuto segnando più di 50.000 punti in una singola partita."
+
+msgctxt "1687\tEXP"
+msgid ""
+"Attained by scoring more than the specified number of points in all games."
+msgstr "Si ottiene segnando più del punteggio specificato in tutti i giochi."
+
+msgctxt "1764\tEXP"
+msgid "Attained by scoring -5 or less in a competition."
+msgstr "Si ottiene segnando -5 o meno in una competizione."
+
+msgctxt "1815\tEXP"
+msgid "Attained by catching every type of fish."
+msgstr "Ottenuto catturando ogni tipo di pesce."
+
+msgctxt "1856\tSTRING"
+msgid "Standard Massage Course"
+msgstr "Corso di Massaggio Standard"
+
+msgctxt "1880\tSTRING"
+msgid "Deluxe Massage Course"
+msgstr "Corso Massaggio Deluxe"
+
+msgctxt "1902\tSTRING"
+msgid "VIP Oil Massage Course"
+msgstr "Corso VIP di Massaggio con Olio"
+
+msgctxt "1925\tSTRING"
+msgid "Super VIP Massage Course"
+msgstr "Corso di Massaggio Super VIP"
+
+msgctxt "1950\tSTRING"
+msgid "Go Easy"
+msgstr "Gioca facile"
+
+msgctxt "1958\tSTRING"
+msgid "Play Normally"
+msgstr "Giocare normalmente"
+
+msgctxt "1972\tSTRING"
+msgid "Go All Out"
+msgstr "Dai il massimo"
+
+msgctxt "1984\tSTRING"
+msgid "01 (Beginner)"
+msgstr "01 (Principiante)"
+
+msgctxt "1999\tSTRING"
+msgid "01 (Intermediate)"
+msgstr "01 (Intermedio)"
+
+msgctxt "2018\tSTRING"
+msgid "01 (Advanced)"
+msgstr "01 (Avanzato)"
+
+msgctxt "2032\tSTRING"
+msgid "Standard Cricket (Beginner)"
+msgstr "Cricket Standard (Principiante)"
+
+msgctxt "2060\tSTRING"
+msgid "Standard Cricket (Intermediate)"
+msgstr "Standard Cricket (Intermedio)"
+
+msgctxt "2092\tSTRING"
+msgid "Standard Cricket (Advanced)"
+msgstr "Cricket Standard (Avanzato)"
+
+msgctxt "2120\tSTRING"
+msgid "Random Cricket (Beginner)"
+msgstr "Cricket Casuale (Principiante)"
+
+msgctxt "2146\tSTRING"
+msgid "Random Cricket (Intermediate)"
+msgstr "Cricket Casuale (Intermedio)"
+
+msgctxt "2176\tSTRING"
+msgid "Random Cricket (Advanced)"
+msgstr "Cricket Casuale (Avanzato)"
+
+msgctxt "2202\tSTRING"
+msgid "Hidden Cricket (Beginner)"
+msgstr "Cricket Nascosto (Principiante)"
+
+msgctxt "2228\tSTRING"
+msgid "Hidden Cricket (Intermediate)"
+msgstr "Cricket Nascosto (Intermedio)"
+
+msgctxt "2258\tSTRING"
+msgid "Hidden Cricket (Advanced)"
+msgstr "Grillo Nascosto (Avanzato)"
+
+msgctxt "2284\tSTRING"
+msgid "Count-Up (Beginner)"
+msgstr "Count-Up (Principiante)"
+
+msgctxt "2304\tSTRING"
+msgid "Count-Up (Intermediate)"
+msgstr "Count-Up (Intermedio)"
+
+msgctxt "2328\tSTRING"
+msgid "Count-Up (Advanced)"
+msgstr "Count-Up (Avanzato)"
+
+msgctxt "2348\tSTRING"
+msgid "Nine-Ball (Beginner)"
+msgstr "Palla 9 (Principiante)"
+
+msgctxt "2369\tSTRING"
+msgid "Nine-Ball (Intermediate)"
+msgstr "Palla 9 (Intermedio)"
+
+msgctxt "2394\tSTRING"
+msgid "Nine-Ball (Advanced)"
+msgstr "Palla 9 (Avanzato)"
+
+msgctxt "2415\tSTRING"
+msgid "Nine-Ball (Expert)"
+msgstr "Palla 9 (Esperto)"
+
+msgctxt "2434\tSTRING"
+msgid "Rotation (Beginner)"
+msgstr "Rotazione (Principiante)"
+
+msgctxt "2454\tSTRING"
+msgid "Rotation (Intermediate)"
+msgstr "Rotazione (Intermedio)"
+
+msgctxt "2478\tSTRING"
+msgid "Rotation (Advanced)"
+msgstr "Rotazione (Avanzato)"
+
+msgctxt "2498\tSTRING"
+msgid "Rotation (Expert)"
+msgstr "Rotazione (Esperto)"
+
+msgctxt "2516\tSTRING"
+msgid "Eight-Ball (Beginner)"
+msgstr "Palla otto (Principiante)"
+
+msgctxt "2538\tSTRING"
+msgid "Eight-Ball (Intermediate)"
+msgstr "Palla 8 (Intermedio)"
+
+msgctxt "2564\tSTRING"
+msgid "Eight-Ball (Advanced)"
+msgstr "Otto Palle (Avanzato)"
+
+msgctxt "2586\tSTRING"
+msgid "Eight-Ball (Expert)"
+msgstr "Eight-Ball (Esperto)"
+
+msgctxt "2606\tSTRING"
+msgid "Four-Ball (Beginner)"
+msgstr "Palla 4 (Principiante)"
+
+msgctxt "2627\tSTRING"
+msgid "Four-Ball (Intermediate)"
+msgstr "Quattro Palle (Intermedio)"
+
+msgctxt "2652\tSTRING"
+msgid "Four-Ball (Advanced)"
+msgstr "Palla a quattro (Avanzato)"
+
+msgctxt "2673\tSTRING"
+msgid "Four-Ball (Expert)"
+msgstr "Palla Quattro (Esperto)"
+
+msgctxt "2692\tSTRING"
+msgid "10-Frame Scoring"
+msgstr "Punteggio a 10 frame"
+
+msgctxt "2709\tSTRING"
+msgid "Otomeiro My Life"
+msgstr "Otomeiro La mia vita"
+
+msgctxt "2726\tSTRING"
+msgid "Machine Gun Kiss"
+msgstr "Bacio Mitragliatrice"
+
+msgctxt "2743\tSTRING"
+msgid "Pure Love in Kamurocho"
+msgstr "Puro Amore a Kamurocho"
+
+msgctxt "2766\tSTRING"
+msgid "Raindrops"
+msgstr "Gocce di pioggia"
+
+msgctxt "2776\tSTRING"
+msgid "Get to the Top!"
+msgstr "Raggiungi la cima!"
+
+msgctxt "2792\tSTRING"
+msgid "I Wanna Change Myself"
+msgstr "Voglio Cambiare Me Stesso"
+
+msgctxt "2814\tSTRING"
+msgid "Kamurocho Lullaby"
+msgstr "Ninna Nanna di Kamurocho"
+
+msgctxt "2832\tSTRING"
+msgid "Summer Memories"
+msgstr "Ricordi Estivi"
+
+msgctxt "2848\tSTRING"
+msgid "Where Has Your Touch Gone?"
+msgstr "Dov'è finito il tuo tocco?"
+
+msgctxt "2875\tSTRING"
+msgid "Saturday Night☆Lover"
+msgstr "Sabato Sera☆Amante"
+
+msgctxt "2898\tSTRING"
+msgid "Shooting Star"
+msgstr "Stella Cadente"
+
+msgctxt "2912\tSTRING"
+msgid "Cumulative Score"
+msgstr "Punteggio Cumulativo"
+
+msgctxt "2929\tSTRING"
+msgid "Cumulative Score"
+msgstr "Punteggio Cumulativo"
+
+msgctxt "2946\tSTRING"
+msgid "Cumulative Score"
+msgstr "Punteggio cumulativo"
+
+msgctxt "2963\tSTRING"
+msgid "Cumulative Score"
+msgstr "Punteggio Cumulativo"
+
+msgctxt "2980\tSTRING"
+msgid "Cumulative Chip Total"
+msgstr "Totale chip cumulativo"
+
+msgctxt "3002\tSTRING"
+msgid "Chips Won in a Single Session"
+msgstr "Fiches vinte in una singola sessione"
+
+msgctxt "3032\tSTRING"
+msgid "Chips Won in a Single Session"
+msgstr "Fiches vinte in una singola sessione"
+
+msgctxt "3062\tSTRING"
+msgid "Cumulative Chip Total"
+msgstr "Totale Fiches Accumulato"
+
+msgctxt "3084\tSTRING"
+msgid "Prizes Won"
+msgstr "Premi Vinti"
+
+msgctxt "3095\tSTRING"
+msgid "Buzz-In"
+msgstr "Rispondi al Volo"
+
+msgctxt "3103\tSTRING"
+msgid "Buzz-In Word Association"
+msgstr "Associazione di Parole al Volo"
+
+msgctxt "3128\tSTRING"
+msgid "Chicken"
+msgstr "Pollo"
+
+msgctxt "3136\tSTRING"
+msgid "Multiple Answers"
+msgstr "Risposte Multiple"
+
+msgctxt "3153\tSTRING"
+msgid "Multiple Answer Buildup"
+msgstr "Accumulo di Risposte Multiple"
+
+msgctxt "3177\tSTRING"
+msgid "Where Does It Go?"
+msgstr "Dove va?"
+
+msgctxt "3195\tSTRING"
+msgid "Level Reached"
+msgstr "Livello Raggiunto"
+
+msgctxt "3209\tSTRING"
+msgid "Level Reached"
+msgstr "Livello Raggiunto"
+
+msgctxt "3223\tSTRING"
+msgid "Maximum Balls Won"
+msgstr "Massimo di palle vinte"
+
+msgctxt "3241\tSTRING"
+msgid "Cumulative Win Total"
+msgstr "Totale vittorie cumulative"
+
+msgctxt "3262\tSTRING"
+msgid "Points Scored in a Single Game"
+msgstr "Punti fatti in una singola partita"
+
+msgctxt "3293\tSTRING"
+msgid "Easy Game"
+msgstr "Gioco Facile"
+
+msgctxt "3303\tSTRING"
+msgid "Normal Game"
+msgstr "Gioco normale"
+
+msgctxt "3315\tSTRING"
+msgid "Hard Game"
+msgstr "Partita Difficile"
+
+msgctxt "3325\tSTRING"
+msgid "Extra Hard Game"
+msgstr "Gioco Extra Difficile"
+
+msgctxt "3341\tSTRING"
+msgid "High Score"
+msgstr "Punteggio più alto"
+
+msgctxt "3352\tSTRING"
+msgid "Fish Caught"
+msgstr "Pesci Catturati"

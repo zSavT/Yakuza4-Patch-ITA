@@ -1,0 +1,1048 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"PO-Revision-Date: 2025-09-30 17:53+0200\n"
+"Last-Translator: AI Assistant\n"
+"Language-Team: it\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.7\n"
+
+msgctxt "274\tCATEGORY"
+msgid "Terrain Moves"
+msgstr "Mosse d'Ambiente"
+
+msgctxt "290\tCATEGORY"
+msgid "Weapon Moves"
+msgstr "Mosse con Armi"
+
+msgctxt "305\tCATEGORY"
+msgid "Finishing Moves"
+msgstr "Mosse Finali"
+
+msgctxt "323\tCATEGORY"
+msgid "Power Moves"
+msgstr "Mosse Potenti"
+
+msgctxt "337\tCATEGORY"
+msgid "Ancient Martial Arts"
+msgstr "Arti Marziali Antiche"
+
+msgctxt "360\tCATEGORY"
+msgid "Ancient Techniques"
+msgstr "Tecniche Antiche"
+
+msgctxt "381\tCATEGORY"
+msgid "Others"
+msgstr "Altro"
+
+msgctxt "388\tNAME"
+msgid "Wall Crush"
+msgstr "Schianto al Muro"
+
+msgctxt "399\tNAME"
+msgid "Back Crush"
+msgstr "Schianto da Dietro"
+
+msgctxt "410\tNAME"
+msgid "Forward Head Crush"
+msgstr "Schianto Frontale di Testa"
+
+msgctxt "429\tNAME"
+msgid "Rear Head Crush"
+msgstr "Schianto di Testa da Dietro"
+
+msgctxt "445\tNAME"
+msgid "Essence of Pole Crush"
+msgstr "Essenza dello Schianto al Palo"
+
+msgctxt "467\tNAME"
+msgid "Essence of Throwing"
+msgstr "Essenza del Lancio"
+
+msgctxt "487\tNAME"
+msgid "Essence of Butt Breaking"
+msgstr "Essenza della Rottura di Sedere"
+
+msgctxt "512\tNAME"
+msgid "Essence of Back Breaking"
+msgstr "Essenza della Rottura di Schiena"
+
+msgctxt "537\tNAME"
+msgid "Essence of Fence Smashing"
+msgstr "Essenza dello Spacco sulla Recinzione"
+
+msgctxt "563\tNAME"
+msgid "Essence of Fence Bashing"
+msgstr "Essenza della Percossa sulla Recinzione"
+
+msgctxt "588\tNAME"
+msgid "Guard Rail Crush"
+msgstr "Schianto al Guardrail"
+
+msgctxt "605\tNAME"
+msgid "Pole Crush"
+msgstr "Schianto sul Palo"
+
+msgctxt "616\tNAME"
+msgid "Essence of Wall Throwing"
+msgstr "Essenza del Lancio sul Muro"
+
+msgctxt "641\tNAME"
+msgid "Wall Smash"
+msgstr "Spaccata al Muro"
+
+msgctxt "652\tNAME"
+msgid "Essence of Beatdown"
+msgstr "Essenza del Pestaggio"
+
+msgctxt "672\tNAME"
+msgid "Essence of Umbrella"
+msgstr "Essenza dell'Ombrello"
+
+msgctxt "692\tNAME"
+msgid "Essence of Bowling"
+msgstr "Essenza del Bowling"
+
+msgctxt "711\tNAME"
+msgid "Essence of Guzzling"
+msgstr "Essenza del Tracanno"
+
+msgctxt "731\tNAME"
+msgid "Essence of Syringe"
+msgstr "Essenza della Siringa"
+
+msgctxt "750\tNAME"
+msgid "Essence of Salting"
+msgstr "Essenza della Salatura"
+
+msgctxt "769\tNAME"
+msgid "Essence of Grilling"
+msgstr "Essenza della Griglia"
+
+msgctxt "789\tNAME"
+msgid "Essence of Pliers (Teeth)"
+msgstr "Essenza delle Pinze (Denti)"
+
+msgctxt "815\tNAME"
+msgid "Essence of Pliers (Nails)"
+msgstr "Essenza delle Pinze (Unghie)"
+
+msgctxt "841\tNAME"
+msgid "Essence of Rope"
+msgstr "Essenza della Corda"
+
+msgctxt "857\tNAME"
+msgid "Essence of Daggers"
+msgstr "Essenza dei Pugnali"
+
+msgctxt "876\tNAME"
+msgid "Essence of Stun Gun"
+msgstr "Essenza della Pistola Stordente"
+
+msgctxt "896\tNAME"
+msgid "Essence of Batting"
+msgstr "Essenza della Battuta"
+
+msgctxt "915\tNAME"
+msgid "Essence of Golfing"
+msgstr "Essenza del Golf"
+
+msgctxt "934\tNAME"
+msgid "Essence of Sweeping"
+msgstr "Essenza della Spazzata"
+
+msgctxt "954\tNAME"
+msgid "Essence of Brick Breaking"
+msgstr "Essenza della Rottura di Mattoni"
+
+msgctxt "980\tNAME"
+msgid "Essence of Lotus Staff"
+msgstr "Essenza del Bastone di Loto"
+
+msgctxt "1003\tNAME"
+msgid "Essence of Hammers"
+msgstr "Essenza dei Martelli"
+
+msgctxt "1022\tNAME"
+msgid "Essence of Signage"
+msgstr "Essenza della Cartellonistica"
+
+msgctxt "1041\tNAME"
+msgid "Essence of Gravity"
+msgstr "Essenza della Gravità"
+
+msgctxt "1060\tNAME"
+msgid "Essence of Crushing"
+msgstr "Essenza dello Schiacciamento"
+
+msgctxt "1080\tNAME"
+msgid "Essence of Nunchaku"
+msgstr "Essenza del Nunchaku"
+
+msgctxt "1100\tNAME"
+msgid "Essence of Tonfas"
+msgstr "Essenza delle Tonfa"
+
+msgctxt "1118\tNAME"
+msgid "Tonfa Abuser"
+msgstr "Abuso di Tonfa"
+
+msgctxt "1131\tNAME"
+msgid "Essence of Kali Sticks"
+msgstr "Essenza dei Bastoni Kali"
+
+msgctxt "1154\tNAME"
+msgid "Kali Abuser"
+msgstr "Abuso di Kali"
+
+msgctxt "1166\tNAME"
+msgid "Essence of Brass Knuckles"
+msgstr "Essenza del Tirapugni"
+
+msgctxt "1192\tNAME"
+msgid "Essence of Bo Staff"
+msgstr "Essenza del Bastone Bo"
+
+msgctxt "1212\tNAME"
+msgid "Essence of Heavy Weapons"
+msgstr "Essenza di Armi Pesanti"
+
+msgctxt "1237\tNAME"
+msgid "Essence of Finishing"
+msgstr "Essenza del Finisher"
+
+msgctxt "1258\tNAME"
+msgid "Essence of Finishing Weapon"
+msgstr "Essenza del Finisher con Arma"
+
+msgctxt "1286\tNAME"
+msgid "Essence of Finishing Pressure"
+msgstr "Essenza della Pressione Finale"
+
+msgctxt "1316\tNAME"
+msgid "Essence of Finishing Stomp"
+msgstr "Essenza del Pestaggio Finale"
+
+msgctxt "1343\tNAME"
+msgid "Essence of Finishing Kick"
+msgstr "Essenza del Calcio Finale"
+
+msgctxt "1369\tNAME"
+msgid "Essence of Finishing Knuckle"
+msgstr "Essenza della Nocche Finale"
+
+msgctxt "1398\tNAME"
+msgid "Essence of Finishing Hammer"
+msgstr "Essenza del Martello Finale"
+
+msgctxt "1426\tNAME"
+msgid "Essence of Mounting"
+msgstr "Essenza della Monta"
+
+msgctxt "1446\tNAME"
+msgid "Essence of Head Press"
+msgstr "Essenza della Pressione di Testa"
+
+msgctxt "1468\tNAME"
+msgid "Essence of Armbarring"
+msgstr "Essenza della Leva al Braccio"
+
+msgctxt "1490\tNAME"
+msgid "Essence of Slamming (Front)"
+msgstr "Essenza dello Schianto (Frontale)"
+
+msgctxt "1518\tNAME"
+msgid "Essence of Slamming (Back)"
+msgstr "Essenza dello Schianto (Posteriore)"
+
+msgctxt "1545\tNAME"
+msgid "Essence of Swinging"
+msgstr "Essenza dell'Oscillazione"
+
+msgctxt "1565\tNAME"
+msgid "Hellish Swing"
+msgstr "Oscillazione Infernale"
+
+msgctxt "1579\tNAME"
+msgid "Heavenly Swing"
+msgstr "Oscillazione Celeste"
+
+msgctxt "1594\tNAME"
+msgid "Cyclops Roll"
+msgstr "Rotolamento del Ciclope"
+
+msgctxt "1607\tNAME"
+msgid "Essence of Car Crushing"
+msgstr "Essenza dello Schianto sull'Auto"
+
+msgctxt "1631\tNAME"
+msgid "Essence of Head Bashing"
+msgstr "Essenza della Percossa di Testa"
+
+msgctxt "1655\tNAME"
+msgid "Essence of Might (Front)"
+msgstr "Essenza della Potenza (Frontale)"
+
+msgctxt "1680\tNAME"
+msgid "Essence of Might (Back)"
+msgstr "Essenza della Potenza (Posteriore)"
+
+msgctxt "1704\tNAME"
+msgid "Essence of Knock Down"
+msgstr "Essenza dell'Atterramento"
+
+msgctxt "1726\tNAME"
+msgid "Komaki Sword Draw"
+msgstr "Estrazione della Spada Komaki"
+
+msgctxt "1744\tNAME"
+msgid "Komaki Fist Reversal (Tortoise)"
+msgstr "Contrattacco a Pugno Komaki (Tartaruga)"
+
+msgctxt "1776\tNAME"
+msgid "Komaki Fist Reversal (Phoenix)"
+msgstr "Contrattacco a Pugno Komaki (Fenice)"
+
+msgctxt "1807\tNAME"
+msgid "Komaki Fist Reversal (Dragon)"
+msgstr "Contrattacco a Pugno Komaki (Drago)"
+
+msgctxt "1837\tNAME"
+msgid "Komaki Fist Reversal (Tiger)"
+msgstr "Contrattacco a Pugno Komaki (Tigre)"
+
+msgctxt "1866\tNAME"
+msgid "Komaki Firearm Flip (Handgun)"
+msgstr "Ribaltamento d'Arma Komaki (Pistola)"
+
+msgctxt "1896\tNAME"
+msgid "Komaki Firearm Flip (Shotgun)"
+msgstr "Ribaltamento d'Arma Komaki (Fucile)"
+
+msgctxt "1926\tNAME"
+msgid "Komaki Swordless Rebirth"
+msgstr "Rinascita Senza Spada Komaki"
+
+msgctxt "1951\tNAME"
+msgid "Komaki Bowl Crusher"
+msgstr "Distruttore di Ciotole Komaki"
+
+msgctxt "1971\tNAME"
+msgid "Komaki Dragon King Essence"
+msgstr "Essenza del Re Drago Komaki"
+
+msgctxt "1998\tNAME"
+msgid "Hidden Blade: Hook"
+msgstr "Lama Nascosta: Gancio"
+
+msgctxt "2017\tNAME"
+msgid "Hidden Blade: Raging Bull"
+msgstr "Lama Nascosta: Toro Infuriato"
+
+msgctxt "2043\tNAME"
+msgid "Finish Blade: Dancing Cat"
+msgstr "Lama Finale: Gatto Danzante"
+
+msgctxt "2069\tNAME"
+msgid "Finish Blade: Musashi"
+msgstr "Lama Finale: Musashi"
+
+msgctxt "2091\tNAME"
+msgid "Heavy Maul: Fly Swatter"
+msgstr "Mazza Pesante: Schiaccia-Mosche"
+
+msgctxt "2115\tNAME"
+msgid "Dual Short Sword: Sly Wolf"
+msgstr "Doppia Spada Corta: Lupo Furtivo"
+
+msgctxt "2142\tNAME"
+msgid "Essence of Smoking"
+msgstr "Essenza del Fumo"
+
+msgctxt "2161\tNAME"
+msgid "Essence of Combo Stomp"
+msgstr "Essenza del Pestaggio Combo"
+
+msgctxt "2184\tNAME"
+msgid "Essence of Flying Knee"
+msgstr "Essenza del Ginocchio Volante"
+
+msgctxt "2207\tNAME"
+msgid "Essence of Falling Knee"
+msgstr "Essenza del Ginocchio Cadente"
+
+msgctxt "2231\tNAME"
+msgid "Essence of Jumping"
+msgstr "Essenza del Salto"
+
+msgctxt "2250\tNAME"
+msgid "Essence of Pole Dancing"
+msgstr "Essenza del Pole Dance"
+
+msgctxt "2274\tNAME"
+msgid "Essence of Rolling"
+msgstr "Essenza del Rotolamento"
+
+msgctxt "2293\tNAME"
+msgid "Essence of Self-Destruction"
+msgstr "Essenza dell'Autodistruzione"
+
+msgctxt "2321\tNAME"
+msgid "Essence of Hurling"
+msgstr "Essenza del Lancio Violento"
+
+msgctxt "2340\tNAME"
+msgid "Essence of Reversing"
+msgstr "Essenza del Contrattacco"
+
+msgctxt "2361\tNAME"
+msgid "Essence of Drunken Thrust"
+msgstr "Essenza dell'Affondo Ubriaco"
+
+msgctxt "2387\tNAME"
+msgid "Essence of Terror"
+msgstr "Essenza del Terrore"
+
+msgctxt "2405\tNAME"
+msgid "Ultimate Essence"
+msgstr "Essenza Finale"
+
+msgctxt "2422\tNAME"
+msgid "Essence of Triple Strike"
+msgstr "Essenza del Triplo Colpo"
+
+msgctxt "2447\tNAME"
+msgid "Essence of Loin Reaving"
+msgstr "Essenza dello Squarcio d'Anca"
+
+msgctxt "2471\tNAME"
+msgid "Essence of Comebacks"
+msgstr "Essenza del Ritorno"
+
+msgctxt "2492\tNAME"
+msgid "Essence of Clotheslining"
+msgstr "Essenza del Clothesline"
+
+msgctxt "2517\tNAME"
+msgid "Essence of Bell Ringing"
+msgstr "Essenza del Rintocco di Campana"
+
+msgctxt "2541\tNAME"
+msgid "Essence of Smashing"
+msgstr "Essenza dello Spacco"
+
+msgctxt "2561\tNAME"
+msgid "Essence of Arresting"
+msgstr "Essenza dell'Arresto"
+
+msgctxt "2582\tNAME"
+msgid "Essence of Combos I"
+msgstr "Essenza delle Combo I"
+
+msgctxt "2602\tNAME"
+msgid "Essence of Combos II"
+msgstr "Essenza delle Combo II"
+
+msgctxt "2623\tNAME"
+msgid "Essence of Combos III"
+msgstr "Essenza delle Combo III"
+
+msgctxt "2645\tNAME"
+msgid "Essence of Combos IV"
+msgstr "Essenza delle Combo IV"
+
+msgctxt "2666\tNAME"
+msgid "Essence of Combos V"
+msgstr "Essenza delle Combo V"
+
+msgctxt "2686\tNAME"
+msgid "Essence of Ball and Chain"
+msgstr "Essenza della Palla al Piede"
+
+msgctxt "2712\tNAME"
+msgid "Essence of Guillotine Heel"
+msgstr "Essenza del Tacco Ghigliottina"
+
+msgctxt "2739\tNAME"
+msgid "Essence of Arm Dragging"
+msgstr "Essenza del Trascinamento del Braccio"
+
+msgctxt "2763\tNAME"
+msgid "Essence of Skull-Crushing"
+msgstr "Essenza dello Schiacciateschi"
+
+msgctxt "2789\tNAME"
+msgid "Essence of Seizing"
+msgstr "Essenza della Confisca"
+
+msgctxt "2808\tNAME"
+msgid "Essence of Merciless Throwing"
+msgstr "Essenza del Lancio Spietato"
+
+msgctxt "2838\tNAME"
+msgid "Essence of Taunting"
+msgstr "Essenza della Provocazione"
+
+msgctxt "3786\tEXPLANATION"
+msgid "Smash an opponent against a wall. The most basic of Heat Actions.\n"
+msgstr "Schianta un avversario contro un muro. La più basilare delle Azioni Heat.\n"
+
+msgctxt "3853\tEXPLANATION"
+msgid "Crush an opponent from behind. Takes a bit of finesse to pull off."
+msgstr "Schiaccia un avversario da dietro. Richiede un po' di finezza per essere eseguita."
+
+msgctxt "3920\tEXPLANATION"
+msgid "Smash an opponent's head against an object."
+msgstr "Schianta la testa di un avversario contro un oggetto."
+
+msgctxt "3964\tEXPLANATION"
+msgid "Smash an opponent's head against an object from behind."
+msgstr "Schianta la testa di un avversario contro un oggetto da dietro."
+
+msgctxt "4020\tEXPLANATION"
+msgid "Use a nearby pole to crush an unsuspecting opponent."
+msgstr "Usa un palo vicino per schiacciare un avversario ignaro."
+
+msgctxt "4073\tEXPLANATION"
+msgid "Quickly eliminate an opponent by throwing them off of a high place."
+msgstr "Elimina rapidamente un avversario lanciandolo da un luogo elevato."
+
+msgctxt "4141\tEXPLANATION"
+msgid "A fierce attack that destroys an opponent's tailbone."
+msgstr "Un attacco feroce che distrugge il coccige di un avversario."
+
+msgctxt "4195\tEXPLANATION"
+msgid "Drop an opponent on a protruding object. It's a real brain buster."
+msgstr "Lascia cadere un avversario su un oggetto sporgente. È un vero rompicapo."
+
+msgctxt "4262\tEXPLANATION"
+msgid "Smash an opponent against a fence and grate their head with it. Take a little off the top."
+msgstr "Schianta un avversario contro una recinzione e grattugia la sua testa. Dai una bella accorciatina."
+
+msgctxt "4353\tEXPLANATION"
+msgid "Fling your opponent into a chain-link fence, and then fling yourself into your opponent."
+msgstr "Lancia il tuo avversario contro una recinzione a rete, e poi lancia te stesso contro l'avversario."
+
+msgctxt "4442\tEXPLANATION"
+msgid "Kick and smash your opponent into a guard rail after throwing him with this relentless move."
+msgstr ""
+"Calcia e schianta il tuo avversario contro un guardrail dopo averlo lanciato con questa mossa "
+"implacabile."
+
+msgctxt "4535\tEXPLANATION"
+msgid "Use a pole to crash down on an enemy with your knees from a high altitude."
+msgstr "Usa un palo per abbattersi su un nemico con le ginocchia da un'altezza elevata."
+
+msgctxt "4610\tEXPLANATION"
+msgid "Lift up an enemy and give him a giant heave into the wall. A move for Saejima only."
+msgstr "Solleva un nemico e sferragli un'enorme spinta contro il muro. Una mossa solo per Saejima."
+
+msgctxt "4694\tEXPLANATION"
+msgid "This deadly move will let you kick your opponent into the wall repeatedly."
+msgstr "Questa mossa letale ti permetterà di calciare ripetutamente il tuo avversario contro il muro."
+
+msgctxt "4769\tEXPLANATION"
+msgid "Beat an enemy with a one-handed weapon."
+msgstr "Colpisci un nemico con un'arma a una mano."
+
+msgctxt "4809\tEXPLANATION"
+msgid "Use an umbrella's hooked handle to reel an enemy in and then cast them out."
+msgstr "Usa il manico ricurvo di un ombrello per attirare un nemico e poi sbalzarlo via."
+
+msgctxt "4885\tEXPLANATION"
+msgid "Get a strike on your opponent's shins and bowl them into the gutter. Spare no mercy."
+msgstr "Colpisci gli stinchi dell'avversario e mandalo in canalina come nel bowling. Non avere pietà."
+
+msgctxt "4970\tEXPLANATION"
+msgid ""
+"Force a mystery liquid down an enemy's throat. Does more psychological damage than physical... Probably."
+msgstr ""
+"Forza un liquido misterioso giù per la gola di un nemico. Causa più danni psicologici che fisici... "
+"Probabilmente."
+
+msgctxt "5075\tEXPLANATION"
+msgid "Inject a mysterious syringe into an opponent's posterior. Hopefully it isn't too dangerous."
+msgstr ""
+"Inietta una siringa misteriosa nel posteriore di un avversario. Speriamo che non sia troppo pericoloso."
+
+msgctxt "5167\tEXPLANATION"
+msgid ""
+"Rub salt into an enemy's eyes. Show your enemies what it truly means to be salty. Even works on those "
+"wearing glasses!"
+msgstr ""
+"Strofinagli il sale negli occhi. Mostra ai tuoi nemici cosa significa veramente essere salati. Funziona "
+"anche su chi porta gli occhiali!"
+
+msgctxt "5286\tEXPLANATION"
+msgid ""
+"Grill an enemy's face with a gas burner. As simple as throwing a pie, and more painful than you can "
+"imagine."
+msgstr ""
+"Griglia la faccia di un nemico con un fornello a gas. Semplice come lanciare una torta, e più doloroso "
+"di quanto tu possa immaginare."
+
+msgctxt "5395\tEXPLANATION"
+msgid "Forcefully extract an opponent's tooth."
+msgstr "Estrai con forza un dente a un avversario."
+
+msgctxt "5435\tEXPLANATION"
+msgid "Give your opponents a free manicure, Dragon of Dojima style."
+msgstr "Regala ai tuoi avversari una manicure gratuita, in stile Drago di Dojima."
+
+msgctxt "5496\tEXPLANATION"
+msgid "Strangle an opponent with a rope. They might have trouble breathing for a while."
+msgstr "Strangola un avversario con una corda. Potrebbe avere difficoltà a respirare per un po'."
+
+msgctxt "5577\tEXPLANATION"
+msgid "Stab your opponent through the gut."
+msgstr "Accoltella il tuo avversario allo stomaco."
+
+msgctxt "5613\tEXPLANATION"
+msgid ""
+"Charge your stun gun with electrified passion, powering it up beyond its physical limits. Transcends "
+"modern understanding of physics."
+msgstr ""
+"Carica la tua pistola stordente con passione elettrizzata, potenziandola oltre i suoi limiti fisici. "
+"Trascende la moderna comprensione della fisica."
+
+msgctxt "5747\tEXPLANATION"
+msgid "Send enemies out of the park with a powerful swing."
+msgstr "Manda i nemici fuori campo con un potente swing."
+
+msgctxt "5799\tEXPLANATION"
+msgid "Send an opponent flying down range. Not a fair way to play, but a nice shot nonetheless."
+msgstr "Manda un avversario a volare lontano. Non è un modo onesto di giocare, ma comunque un bel colpo."
+
+msgctxt "5888\tEXPLANATION"
+msgid "Lift enemies up from between their legs and slam them onto the ground."
+msgstr "Solleva i nemici da in mezzo alle gambe e schiantali a terra."
+
+msgctxt "5959\tEXPLANATION"
+msgid ""
+"Force something on an opponent's head and spin it. Then break them with a knifehand strike as though "
+"they were a pile of bricks."
+msgstr ""
+"Forza qualcosa sulla testa di un avversario e fallo girare. Poi spezzalo con un colpo a mano di coltello "
+"come se fosse una pila di mattoni."
+
+msgctxt "6088\tEXPLANATION"
+msgid ""
+"A basic attack passed down through the Lotus School. Trips the opponent, and then deals additional "
+"attacks."
+msgstr ""
+"Un attacco base tramandato dalla Scuola del Loto. Fa inciampare l'avversario e poi infligge attacchi "
+"aggiuntivi."
+
+msgctxt "6196\tEXPLANATION"
+msgid "Use the weight of the hammer to pound enemies into the ground with a series of powerful blows."
+msgstr "Usa il peso del martello per schiacciare i nemici a terra con una serie di potenti colpi."
+
+msgctxt "6291\tEXPLANATION"
+msgid "Trap your opponent and send them flying. Makes use of powerful centrifugal force. "
+msgstr "Intrappola il tuo avversario e fallo volare via. Sfrutta una potente forza centrifuga. "
+
+msgctxt "6374\tEXPLANATION"
+msgid "Drop something heavy on an enemy's head. Sometimes simple is best."
+msgstr "Fai cadere qualcosa di pesante sulla testa di un nemico. A volte la semplicità è la cosa migliore."
+
+msgctxt "6441\tEXPLANATION"
+msgid "Rattle an enemy's brains with a blow to the head, then finish him with a final blow."
+msgstr "Scuoti il cervello di un nemico con un colpo alla testa, poi finiscilo con un colpo finale."
+
+msgctxt "6526\tEXPLANATION"
+msgid "A graceful, majestic strike that uses nunchaku to their utmost potential."
+msgstr "Un colpo elegante e maestoso che usa il nunchaku al suo massimo potenziale."
+
+msgctxt "6600\tEXPLANATION"
+msgid "An attack utilizing basic tonfa techniques."
+msgstr "Un attacco che utilizza tecniche di tonfa di base."
+
+msgctxt "6644\tEXPLANATION"
+msgid "An extremely painful attack with a tonfa. You can use this when Tanimura has a tonfa equipped."
+msgstr ""
+"Un attacco estremamente doloroso con una tonfa. Puoi usarlo quando Tanimura ha una tonfa equipaggiata."
+
+msgctxt "6739\tEXPLANATION"
+msgid "A free attack where you use the two kali sticks in your hands to unleash multiple blows."
+msgstr "Un attacco libero in cui usi i due bastoni kali che hai tra le mani per scatenare colpi multipli."
+
+msgctxt "6828\tEXPLANATION"
+msgid "An unparalleled combo attack using kali sticks. A move for Akiyama only."
+msgstr "Un attacco combo impareggiabile usando i bastoni kali. Una mossa solo per Akiyama."
+
+msgctxt "6901\tEXPLANATION"
+msgid ""
+"A relentless three-punch combo using brass knuckles. You can use this when Saejima has brass knuckles "
+"equipped."
+msgstr ""
+"Una inarrestabile combo di tre pugni usando il tirapugni. Puoi usarla quando Saejima ha il tirapugni "
+"equipaggiato."
+
+msgctxt "7013\tEXPLANATION"
+msgid ""
+"Use a bo to entangle your enemy and then throw him. Use when Tanimura has a pole-like object equipped."
+msgstr ""
+"Usa un bō per intrappolare il tuo nemico e poi lanciarlo. Usa quando Tanimura ha un oggetto simile a un "
+"palo equipaggiato."
+
+msgctxt "7116\tEXPLANATION"
+msgid "Pick up a super-heavy object and heave it into an enemy. A move for Saejima only."
+msgstr "Raccogli un oggetto super-pesante e scaglialo contro un nemico. Una mossa solo per Saejima."
+
+msgctxt "7198\tEXPLANATION"
+msgid ""
+"A simple stomp to the face of enemies. Strengthen your abilities to expand the scope of this attack."
+msgstr ""
+"Un semplice pestaggio sul volto dei nemici. Rafforza le tue abilità per espandere il raggio di "
+"quest'attacco."
+
+msgctxt "7299\tEXPLANATION"
+msgid ""
+"A simple and popular attack. Throw an object onto a downed enemy, putting the force of your body and "
+"soul behind it."
+msgstr ""
+"Un attacco semplice e popolare. Lancia un oggetto su un nemico a terra, mettendoci tutta la forza del "
+"tuo corpo e della tua anima."
+
+msgctxt "7416\tEXPLANATION"
+msgid ""
+"A devastating attack. Just when the enemy thinks you're finished, come down upon them with all your "
+"might."
+msgstr ""
+"Un attacco devastante. Proprio quando il nemico pensa che tu abbia finito, piomba su di lui con tutta la "
+"tua potenza."
+
+msgctxt "7523\tEXPLANATION"
+msgid "No need to damage your weapons this time. Just stomp on your opponent."
+msgstr "Questa volta non c'è bisogno di danneggiare le tue armi. Basta pestare l'avversario."
+
+msgctxt "7594\tEXPLANATION"
+msgid ""
+"Keep your weapons pristine and send your enemy flying with a well-placed kick. Make them wish you had "
+"used a weapon."
+msgstr ""
+"Mantieni intatte le tue armi e spedisci il tuo nemico a volare con un calcio ben piazzato. Fallo pentire "
+"di non aver usato un'arma."
+
+msgctxt "7711\tEXPLANATION"
+msgid "Put all your weight into a blow to the enemy's face."
+msgstr "Metti tutto il tuo peso in un colpo al volto del nemico."
+
+msgctxt "7764\tEXPLANATION"
+msgid "Bring the hammer down on your foe. Literally."
+msgstr "Abbatti il martello sul tuo nemico. Letteralmente."
+
+msgctxt "7810\tEXPLANATION"
+msgid ""
+"Turn the tables by tackling the opponent and punching them while they're down. A vicious attack for a "
+"cornered attacker."
+msgstr ""
+"Ribalta la situazione atterrando l'avversario e colpendolo con pugni mentre è a terra. Un attacco "
+"brutale per un aggressore messo alle strette."
+
+msgctxt "7931\tEXPLANATION"
+msgid "Knee and headbutt a rising opponent to break his nose."
+msgstr "Colpisci con ginocchiate e testate un avversario che si sta rialzando per rompergli il naso."
+
+msgctxt "7986\tEXPLANATION"
+msgid "A quick move where you jump on a rising opponent to stretch his arm into an armbar."
+msgstr ""
+"Una mossa rapida in cui salti su un avversario che si sta rialzando per allungargli il braccio in una "
+"leva."
+
+msgctxt "8070\tEXPLANATION"
+msgid "Take out two birds with one stone by dropping one enemy onto another who's lying on the ground."
+msgstr "Prendi due piccioni con una fava lasciando cadere un nemico su un altro che è a terra."
+
+msgctxt "8166\tEXPLANATION"
+msgid ""
+"Take out two birds with one stone by dropping one enemy onto another who's lying on the ground. Deals a "
+"bit more damage from behind."
+msgstr ""
+"Prendi due piccioni con una fava lasciando cadere un nemico su un altro che è a terra. Infligge un po' "
+"più di danni da dietro."
+
+msgctxt "8299\tEXPLANATION"
+msgid "Swing a foe around and use them as a weapon. Those involved catch a glimpse into hell."
+msgstr "Fai roteare un nemico e usalo come arma. I coinvolti hanno un assaggio dell'inferno."
+
+msgctxt "8386\tEXPLANATION"
+msgid "Show your devilish side by picking up an enemy and swinging them into a wall. "
+msgstr "Mostra il tuo lato diabolico sollevando un nemico e schiantandolo contro un muro. "
+
+msgctxt "8465\tEXPLANATION"
+msgid ""
+"Pick up a foe and swing them into a pole. Maybe catching a glimpse of heaven will help them realize the "
+"error of their ways."
+msgstr ""
+"Afferra un nemico e fallo roteare contro un palo. Forse intravedere il paradiso li aiuterà a rendersi "
+"conto dei loro errori."
+
+msgctxt "8590\tEXPLANATION"
+msgid "Grab your opponent by the feet and ruthlessly plow them into a surface."
+msgstr "Afferra il tuo avversario per i piedi e schiantalo spietatamente su una superficie."
+
+msgctxt "8662\tEXPLANATION"
+msgid "Mercilessly swing an enemy into a car windshield."
+msgstr "Scaglia senza pietà un nemico contro il parabrezza di un'auto."
+
+msgctxt "8712\tEXPLANATION"
+msgid "Viciously bash two enemies' heads together."
+msgstr "Schianta ferocemente le teste di due nemici tra loro."
+
+msgctxt "8756\tEXPLANATION"
+msgid ""
+"Grab an opponent and smash them into the ground. Put all your strength, spirit, and weight into a single "
+"devastating blow!"
+msgstr ""
+"Afferra un avversario e schiantalo a terra. Metti tutta la tua forza, spirito e peso in un singolo colpo "
+"devastante!"
+
+msgctxt "8879\tEXPLANATION"
+msgid ""
+"Grab an opponent from behind and smash them into the ground. Put all your strength, spirit, and weight "
+"into a single devastating blow!"
+msgstr ""
+"Afferra un avversario da dietro e schiantalo a terra. Metti tutta la tua forza, spirito e peso in un "
+"singolo colpo devastante!"
+
+msgctxt "9014\tEXPLANATION"
+msgid ""
+"Pick up an enemy and throw him into a group of enemies. Causes extensive damage to everyone caught in "
+"the crossfire."
+msgstr ""
+"Afferra un nemico e lancialo in un gruppo di nemici. Causa danni ingenti a tutti quelli coinvolti nel "
+"fuoco incrociato."
+
+msgctxt "9131\tEXPLANATION"
+msgid "A basic sword attack learned from Master Komaki."
+msgstr "Un attacco di spada di base appreso dal Maestro Komaki."
+
+msgctxt "9180\tEXPLANATION"
+msgid "A solid attack strong enough to crack the shell of a divine tortoise."
+msgstr "Un attacco solido abbastanza forte da rompere il guscio di una tartaruga divina."
+
+msgctxt "9250\tEXPLANATION"
+msgid "A graceful attack swift enough to strike a divine phoenix from the air."
+msgstr "Un attacco aggraziato e abbastanza veloce da colpire una fenice divina in volo."
+
+msgctxt "9322\tEXPLANATION"
+msgid "A magnificent attack powerful enough to take down a divine dragon."
+msgstr "Un magnifico attacco abbastanza potente da abbattere un drago divino."
+
+msgctxt "9389\tEXPLANATION"
+msgid "A brutal attack fierce enough to vanquish a divine tiger."
+msgstr "Un attacco brutale e abbastanza feroce da sconfiggere una tigre divina."
+
+msgctxt "9447\tEXPLANATION"
+msgid "Defend yourself against an enemy with a handgun by bringing them down before they can fire."
+msgstr "Difenditi da un nemico con una pistola atterrandolo prima che possa sparare."
+
+msgctxt "9539\tEXPLANATION"
+msgid ""
+"Punish an opponent for bringing a shotgun to a fist fight. Redirect their shot, disarm them, then take "
+"them down with a kick to the face."
+msgstr ""
+"Punisci un avversario per aver portato un fucile a pompa in un combattimento a pugni. Reindirizza il "
+"loro colpo, disarmali e poi abbattili con un calcio in faccia."
+
+msgctxt "9677\tEXPLANATION"
+msgid ""
+"Komaki has revived an ancient unarmed attack and repurposed it for the modern era as a non-lethal "
+"takedown."
+msgstr ""
+"Komaki ha fatto rivivere un antico attacco disarmato e lo ha riproposto per l'era moderna come un "
+"takedown non letale."
+
+msgctxt "9785\tEXPLANATION"
+msgid ""
+"An ancient attack that splits open an enemy's head using their own body weight. Learn from the past to "
+"protect the future."
+msgstr ""
+"Un antico attacco che spacca la testa di un nemico usando il peso del suo stesso corpo. Impara dal "
+"passato per proteggere il futuro."
+
+msgctxt "9908\tEXPLANATION"
+msgid ""
+"A visionary move created in Sozaemon Komaki's later years. He was said to have been the most powerful "
+"disciple of the Komaki style."
+msgstr ""
+"Una mossa visionaria creata negli ultimi anni di Sozaemon Komaki. Si diceva fosse il discepolo più "
+"potente dello stile Komaki."
+
+msgctxt "10040\tEXPLANATION"
+msgid "One of Miyamoto Musashi's secret techniques. Reminiscent of a bird capturing its prey."
+msgstr "Una delle tecniche segrete di Miyamoto Musashi. Ricorda un uccello che cattura la sua preda."
+
+msgctxt "10127\tEXPLANATION"
+msgid "One of Miyamoto Musashi's secret techniques. Reminiscent of a charging bull."
+msgstr "Una delle tecniche segrete di Miyamoto Musashi. Ricorda un toro in carica."
+
+msgctxt "10204\tEXPLANATION"
+msgid "One of Miyamoto Musashi's secret techniques. Reminiscent of a cat's nimble two-step leap."
+msgstr "Una delle tecniche segrete di Miyamoto Musashi. Ricorda il balzo agile in due passi di un gatto."
+
+msgctxt "10294\tEXPLANATION"
+msgid ""
+"One of Miyamoto Musashi's secret techniques. Epitomizes the ferocity of his unique double-bladed style."
+msgstr ""
+"Una delle tecniche segrete di Miyamoto Musashi. Incarna la ferocia del suo stile unico a doppia lama."
+
+msgctxt "10398\tEXPLANATION"
+msgid "One of Miyamoto Musashi's secret techniques. Swat down your foes as though they were but flies."
+msgstr ""
+"Una delle tecniche segrete di Miyamoto Musashi. Schiaccia i tuoi nemici come se fossero solo mosche."
+
+msgctxt "10494\tEXPLANATION"
+msgid "One of Miyamoto Musashi's secret techniques. Reminiscent of a wolf's swift and accurate strike."
+msgstr "Una delle tecniche segrete di Miyamoto Musashi. Ricorda il colpo rapido e preciso di un lupo."
+
+msgctxt "10590\tEXPLANATION"
+msgid "A secret street fighting technique. Skillfully use a lit cigarette to create an opening."
+msgstr "Una tecnica segreta di lotta di strada. Usa abilmente una sigaretta accesa per creare un'apertura."
+
+msgctxt "10679\tEXPLANATION"
+msgid ""
+"After an ally smashes the back of your opponent's head into the ground with a powerbomb, cave in their "
+"face with a stomp."
+msgstr ""
+"Dopo che un alleato ha schiantato la nuca del tuo avversario a terra con una powerbomb, sfondagli la "
+"faccia con un pestaggio."
+
+msgctxt "10801\tEXPLANATION"
+msgid "Drive your knee into an opponent's face while they're being restrained by an ally."
+msgstr "Spingi il tuo ginocchio nella faccia di un avversario mentre è trattenuto da un alleato."
+
+msgctxt "10884\tEXPLANATION"
+msgid "A secret technique where you jump and knee the face of an enemy that was picked up and thrown."
+msgstr ""
+"Una tecnica segreta in cui salti e colpisci con una ginocchiata la faccia di un nemico che è stato "
+"sollevato e lanciato."
+
+msgctxt "10979\tEXPLANATION"
+msgid "Jump off guard rails and other objects."
+msgstr "Salta da guardrail e altri oggetti."
+
+msgctxt "11019\tEXPLANATION"
+msgid "Wrap around an enemy and bring them to the ground in a truly impressive feat of acrobatics."
+msgstr "Avvolgiti attorno a un nemico e portalo a terra in una vera e propria impresa di acrobatica."
+
+msgctxt "11111\tEXPLANATION"
+msgid "A flowing attack from a forward roll."
+msgstr "Un attacco fluido da un rotolamento in avanti."
+
+msgctxt "11149\tEXPLANATION"
+msgid "Disarm a foe wielding a large weapon, then use it to beat them into submission."
+msgstr "Disarma un nemico che brandisce un'arma grande, quindi usala per sottometterlo a suon di botte."
+
+msgctxt "11229\tEXPLANATION"
+msgid "Show an enemy grabbing you to keep their hands to themselves by piledriving them."
+msgstr "Mostra a un nemico che ti sta afferrando di tenere le mani a posto, facendogli una piledriver."
+
+msgctxt "11311\tEXPLANATION"
+msgid "Surprise an opponent while you're knocked down by breaking their shins."
+msgstr "Sorprendi un avversario mentre sei a terra rompendogli gli stinchi."
+
+msgctxt "11383\tEXPLANATION"
+msgid "Drunkenly attack an opponent with a deft shoulder thrust."
+msgstr "Attacca un avversario con una abile spallata da ubriaco."
+
+msgctxt "11441\tEXPLANATION"
+msgid "Strike down your opponents with frightful speed."
+msgstr "Abbatti i tuoi avversari con una velocità spaventosa."
+
+msgctxt "11490\tEXPLANATION"
+msgid "An attack whose immense power belies its simplicity. Legend has it that one punch can reform a man."
+msgstr ""
+"Un attacco la cui immensa potenza nasconde la sua semplicità. La leggenda narra che un pugno possa "
+"redimere un uomo."
+
+msgctxt "11590\tEXPLANATION"
+msgid "Kick an enemy back and then jump off him to down two more. Kill three birds with one stone."
+msgstr ""
+"Calcia indietro un nemico e poi salta su di lui per abbatterne altri due. Tre piccioni con una fava."
+
+msgctxt "11682\tEXPLANATION"
+msgid "A cruel move where you kick your enemy in the groin with an overhead kick."
+msgstr "Una mossa crudele in cui colpisci il tuo nemico all'inguine con un calcio dall'alto."
+
+msgctxt "11757\tEXPLANATION"
+msgid "A quick counter kick that enables you to turn the tables when your guard is taken out."
+msgstr ""
+"Un rapido contrattacco a calcio che ti permette di ribaltare la situazione quando la tua guardia viene "
+"rotta."
+
+msgctxt "11844\tEXPLANATION"
+msgid "Grab the legs of an enemy to give him a brutal clothesline and a nice view of the sky."
+msgstr "Afferra le gambe di un nemico per fargli una brutale clothesline e una bella vista del cielo."
+
+msgctxt "11931\tEXPLANATION"
+msgid "Pick up an enemy and slam him into the wall. This is sure to terrify your opponent."
+msgstr "Solleva un nemico e schiantalo contro il muro. Questo terrorizzerà sicuramente il tuo avversario."
+
+msgctxt "12015\tEXPLANATION"
+msgid "Catch your opponents \"on\" guard! Sweep out the feet of guarding enemies to watch them crumble."
+msgstr ""
+"Cogli i tuoi avversari \"con\" la guardia! Spazza via i piedi dei nemici in guardia per vederli crollare."
+
+msgctxt "12110\tEXPLANATION"
+msgid "Handcuff to immediately stop your opponent. Show your enemies who the good guys are."
+msgstr "Ammanetta per fermare immediatamente il tuo avversario. Mostra ai tuoi nemici chi sono i buoni."
+
+msgctxt "12195\tEXPLANATION"
+msgid "Tie up legs of enemy staggering from horizontal cut."
+msgstr "Lega le gambe del nemico che barcolla per un taglio orizzontale."
+
+msgctxt "12248\tEXPLANATION"
+msgid "Throw an enemy that is wobbly after being kneed."
+msgstr "Lancia un nemico che è instabile dopo essere stato colpito con una ginocchiata."
+
+msgctxt "12297\tEXPLANATION"
+msgid "Break arm of enemy staggering after being side kicked."
+msgstr "Rompi il braccio del nemico che barcolla dopo essere stato colpito con un calcio laterale."
+
+msgctxt "12352\tEXPLANATION"
+msgid "Kick enemy that you pounded into the ground with your fist."
+msgstr "Calcia il nemico che hai schiantato a terra con il tuo pugno."
+
+msgctxt "12412\tEXPLANATION"
+msgid "Shower kicks on an enemy you sent flying with a previous kick."
+msgstr "Inonda di calci un nemico che hai mandato a volare con un calcio precedente."
+
+msgctxt "12475\tEXPLANATION"
+msgid "Grab your enemy's hand and send them spinning."
+msgstr "Afferra la mano del tuo nemico e fallo girare."
+
+msgctxt "12522\tEXPLANATION"
+msgid "Kill two birds with one stone by using the heel of an enemy you throw to attack another enemy."
+msgstr "Prendi due piccioni con una fava usando il tallone di un nemico che lanci per attaccarne un altro."
+
+msgctxt "12617\tEXPLANATION"
+msgid "A master submission technique where you use an enemy's opening to execute an arm lock."
+msgstr ""
+"Una tecnica di sottomissione magistrale in cui usi un'apertura del nemico per eseguire una leva al "
+"braccio."
+
+msgctxt "12704\tEXPLANATION"
+msgid "Knock a defenseless opponent in the head and say sweet dreams with this brutal attack."
+msgstr "Colpisci alla testa un avversario indifeso e auguragli sogni d'oro con questo attacco brutale."
+
+msgctxt "12791\tEXPLANATION"
+msgid "A grand technique where you defend against an enemy that has a small weapon and then steal it."
+msgstr "Una grande tecnica in cui ti difendi da un nemico che ha una piccola arma e poi la rubi."
+
+msgctxt "12886\tEXPLANATION"
+msgid "Force a fallen enemy up without waiting and give him a big throw. Time is money."
+msgstr ""
+"Costringi un nemico a terra ad alzarsi senza aspettare e lanciagli un grande tiro. Il tempo è denaro."
+
+msgctxt "12967\tEXPLANATION"
+msgid "Rain down a powerful counter punch on opponents that rush you after being taunted."
+msgstr ""
+"Scatena un potente contrattacco a pugno sugli avversari che ti caricano dopo essere stati provocati."
