@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1348"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1352"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1356"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1360"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "You saw me and you ran off, didn't you? What are you doing sneaking around, anyway?"
+msgstr "Mi hai visto e sei scappato, vero? Cosa ci fai qui a gironzolare furtivamente, comunque?"
+
+msgctxt "128_Man"
+msgid "I'll kick your ass for messin' around!"
+msgstr "Ti prenderò a calci in culo per aver cazzeggiato!"
+
+msgctxt "152_Man"
+msgid "You're damn strong."
+msgstr "Sei dannatamente forte."
+
+msgctxt "164_Man"
+msgid "Sorry for accusing you like that. Here, take this."
+msgstr "Scusa per averti accusato in quel modo. Tieni, prendi questo."
+
+msgctxt "176_Man"
+msgid "You got a leathery %s."
+msgstr "Hai ottenuto un %s coriaceo."
+
+msgctxt "212_Man"
+msgid "You could always try not walking around so suspicious-like, you know..."
+msgstr "Potresti sempre provare a non camminare in modo così sospetto, sai..."

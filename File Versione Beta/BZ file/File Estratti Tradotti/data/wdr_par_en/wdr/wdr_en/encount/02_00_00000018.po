@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1532"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1536"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1540"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1544"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1548"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "116_Man"
+msgid "I caught that dirty look you shot my way. Fact is, I have what's probably the world's shortest temper. And that means..."
+msgstr "Ho visto l'occhiataccia che mi hai lanciato. Il fatto è che ho probabilmente il carattere più irascibile del mondo. E questo significa..."
+
+msgctxt "128_Man"
+msgid "...there's no way in hell I'm gonna let that slide!"
+msgstr "...che non te la farò passare liscia, cazzo!"
+
+msgctxt "152_Man"
+msgid "Ow, ow..."
+msgstr "Ahi, ahi..."
+
+msgctxt "164_Man"
+msgid "I'm so sorry! Here. This comes with a magic charm to cool your temper!"
+msgstr "Mi dispiace tanto! Tieni. Questo è accompagnato da un amuleto magico per calmare il tuo temperamento!"
+
+msgctxt "176_Man"
+msgid "You got a chewed-on %s."
+msgstr "Hai ottenuto un %s masticato."
+
+msgctxt "212_Man"
+msgid "What? I sure didn't give you the stink eye. No, sir. I would never do that. P-Perhaps you should work on your temper."
+msgstr "Cosa? Io non ti ho lanciato un'occhiataccia, assolutamente. No, signore. Non lo farei mai. F-Forse dovresti lavorare sul tuo carattere."

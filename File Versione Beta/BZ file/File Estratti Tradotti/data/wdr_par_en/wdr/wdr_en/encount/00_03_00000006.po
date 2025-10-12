@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1452"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1456"
+msgid "P_stand_sync_btl_neck_st"
+msgstr "P_stand_sync_btl_neck_st"
+
+msgctxt "1460"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr "M_ykz_stand_sync_btl_neck_st"
+
+msgctxt "1464"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1468"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1472"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "88_Man"
+msgid "Hold on, man. When you bumped into me just now, you snatched my wallet, didn't you?"
+msgstr "Aspetta un attimo, amico. Quando mi hai urtato poco fa, mi hai fregato il portafoglio, vero?"
+
+msgctxt "100_Man"
+msgid "Give it back, or I'll beat the stuffing outta you!"
+msgstr "Restituiscilo, o ti gonfio di botte!"
+
+msgctxt "124_Man"
+msgid "I give up! It was all a lie! I never had a wallet in the first place! I was fibbing about you swiping it!"
+msgstr "Mi arrendo! Era tutta una bugia! Non ho mai avuto un portafoglio! Stavo mentendo sul fatto che me lo avessi rubato!"
+
+msgctxt "136_Man"
+msgid "Here. Take this and forget this ever happened..."
+msgstr "Tieni. Prendi questo e dimentica tutto quello che è successo..."
+
+msgctxt "148_Man"
+msgid "You got a forgotten %s."
+msgstr "Hai ottenuto un %s dimenticato."
+
+msgctxt "184_Man"
+msgid "I'll never try to pull that cheap scam again!"
+msgstr "Non proverò mai più a fare quella truffa da quattro soldi!"

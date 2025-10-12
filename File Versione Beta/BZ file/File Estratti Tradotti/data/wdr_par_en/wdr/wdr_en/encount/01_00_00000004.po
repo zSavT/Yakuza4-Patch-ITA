@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1436"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1440"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1444"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1448"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1452"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid "Feelin' a little cocky there, pal? C'mere. Lemme have a word witcha."
+msgstr "Ti senti un po' presuntuoso, amico? Vieni qui. Lascia che ti dica una cosa."
+
+msgctxt "128_Man"
+msgid "I'ma teach you how it's gonna be in this part of town, so brace yerself!"
+msgstr "Ti insegnerò come funzionano le cose da queste parti, quindi preparati!"
+
+msgctxt "152_Man"
+msgid "Sorry 'bout that. I was feelin' a little cocky myself."
+msgstr "Scusa. Mi sentivo un po' presuntuoso anch'io."
+
+msgctxt "164_Man"
+msgid "Here, this is for you. I shoulda known better."
+msgstr "Tieni, questo è per te. Avrei dovuto immaginarlo."
+
+msgctxt "176_Man"
+msgid "You got a firm %s."
+msgstr "Hai ottenuto un %s solido."
+
+msgctxt "212_Man"
+msgid "I really am sorry, I got carried away, that's all."
+msgstr "Mi dispiace davvero, mi sono lasciato trasportare, tutto qui."

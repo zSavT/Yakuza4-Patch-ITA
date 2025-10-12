@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1408"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1412"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1416"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1420"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "You look like you got some time on your hands! And hey, you must be a pretty strong guy, am I right?"
+msgstr "Sembri uno che ha del tempo da perdere! Ehi, devi essere un tipo piuttosto forte, giusto?"
+
+msgctxt "128_Man"
+msgid "Since you're here and all, why not hang out with me a little before you go on your way?"
+msgstr "Visto che sei qui, perché non passi un po' di tempo con me prima di andartene?"
+
+msgctxt "152_Man"
+msgid "I just wanted to have a little fun. Not get my teeth knocked out."
+msgstr "Volevo solo divertirmi un po'. Non farmi spaccare i denti."
+
+msgctxt "164_Man"
+msgid "Here. Sorry for bothering you."
+msgstr "Tieni. Scusa per il disturbo."
+
+msgctxt "176_Man"
+msgid "You got a fine %s."
+msgstr "Hai ottenuto un %s pregiato."
+
+msgctxt "212_Man"
+msgid "Let's do that again sometime."
+msgstr "Rifacciamolo qualche volta."

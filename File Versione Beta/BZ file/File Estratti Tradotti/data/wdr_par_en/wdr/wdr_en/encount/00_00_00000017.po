@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1476"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1480"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1484"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1488"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1492"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid "Now hold up! You just stepped on my foot, didn't you!?"
+msgstr "Ehi, aspetta! Mi hai appena pestato un piede, non è vero!?"
+
+msgctxt "128_Man"
+msgid "That freakin' hurt, asshole! And you ruined my expensive ass shoes! Pay up!"
+msgstr "Fa un male cane, stronzo! E mi hai rovinato le scarpe costose! Paga!"
+
+msgctxt "152_Man"
+msgid "I'm sorry, I actually stepped on my right foot with my left foot..."
+msgstr "Scusa, in realtà mi sono pestato il piede destro con il sinistro..."
+
+msgctxt "164_Man"
+msgid "I'll shine my own shoes... Treat yourself with this, won't you?"
+msgstr "Le scarpe me le lucido da solo... Fatti un regalo con questo, ok?"
+
+msgctxt "176_Man"
+msgid "You got a snot-covered %s."
+msgstr "Hai ottenuto un %s coperto di moccio."
+
+msgctxt "212_Man"
+msgid "I won't lie about getting my feet stepped on again. Forgive me!"
+msgstr "Non mentirò più dicendo che mi hanno pestato i piedi. Perdonami!"

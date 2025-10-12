@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "224"
+msgid "Quit"
+msgstr "Esci"
+
+msgctxt "229"
+msgid "Cancel the order."
+msgstr "Annulla l'ordine."
+
+msgctxt "247"
+msgid "Order"
+msgstr "Ordina"
+
+msgctxt "253"
+msgid "Order the currently selected item.  "
+msgstr "Ordina l'articolo selezionato."
+
+msgctxt "290"
+msgid "(I haven't picked anything.)  "
+msgstr "(Non ho scelto nulla.)"
+
+msgctxt "321"
+msgid "(I'm short on cash.)  "
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "344"
+msgid "That comes to %s."
+msgstr "Il totale è di %s."
+
+msgctxt "362"
+msgid "(I can't carry any more stuff.)"
+msgstr "(Non posso trasportare altri oggetti.)"
+
+msgctxt "394"
+msgid "(They're sold out.)"
+msgstr "(Sono esauriti.)"
+
+msgctxt "414"
+msgid ""
+"This is Temp 1. Its unique sweet flavor sets it apart\n"
+"from Temp 2."
+msgstr ""
+"Questo è Temp 1. Il suo sapore dolce e unico lo distingue\n"
+"dal Temp 2."
+
+msgctxt "481"
+msgid ""
+"Temp 2 is a popular product of Settsu province, made\n"
+"traditionally with their famous water."
+msgstr ""
+"Il Temp 2 è un prodotto popolare della provincia di Settsu, prodotto\n"
+"tradizionalmente con la loro famosa acqua."
+
+msgctxt "573"
+msgid ""
+"This strong Temp 3 was made from Satsuma's famous\n"
+"sweet potatoes."
+msgstr ""
+"Questo forte Temp 3 è stato prodotto con le famose\n"
+"patate dolci di Satsuma."

@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1380"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1384"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1388"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1392"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1396"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "I wanna be a boxer someday. And you know, I could use you for my trainin'..."
+msgstr "Un giorno voglio diventare un pugile. E sai, potrei usarti per il mio allenamento..."
+
+msgctxt "128_Man"
+msgid "...as a punchin' bag, that is! Now stand still  and lemme smack the stuffin' outta you!"
+msgstr "...come sacco da boxe, cioè! Ora stai fermo e lascia che ti prenda a pugni!"
+
+msgctxt "152_Man"
+msgid "Please stop hittin' me. I ain't cut out to be a punchin' bag..."
+msgstr "Ti prego, smetti di picchiarmi. Non sono tagliato per fare da sacco da boxe..."
+
+msgctxt "164_Man"
+msgid "Here's your trainer's fee."
+msgstr "Ecco la tua parcella da allenatore."
+
+msgctxt "176_Man"
+msgid "You got a prim and proper %s."
+msgstr "Hai ottenuto un %s formale e corretto."
+
+msgctxt "212_Man"
+msgid "I'm givin' up on my boxin' dreams."
+msgstr "Rinuncio ai miei sogni di pugilato."

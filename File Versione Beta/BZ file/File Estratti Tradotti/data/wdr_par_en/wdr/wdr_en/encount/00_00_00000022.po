@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1492"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1496"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1500"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1504"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "Excuse me, do you know who I am? I can't remember anything..."
+msgstr "Mi scusi, sa chi sono? Non ricordo nulla..."
+
+msgctxt "128_Man"
+msgid "Wait, I do remember something... I used to beat the crap out of people on the street..."
+msgstr "Aspetta, qualcosa mi ricordo... Ero solito pestare a sangue la gente per strada..."
+
+msgctxt "152_Man"
+msgid "Stop, stop! I remember now, I remember everything!"
+msgstr "Basta, basta! Ora ricordo, ricordo tutto!"
+
+msgctxt "164_Man"
+msgid "P-Please, take this if you'd like! You cured my amnesia, after all..."
+msgstr "P-Prego, prenda questo se le va! Dopotutto, mi ha curato l'amnesia..."
+
+msgctxt "176_Man"
+msgid "You got a nice %s."
+msgstr "Hai ottenuto un bel %s."
+
+msgctxt "212_Man"
+msgid "I think those punches mighta actually given me brain damage..."
+msgstr "Penso che quei pugni mi abbiano causato un danno cerebrale..."

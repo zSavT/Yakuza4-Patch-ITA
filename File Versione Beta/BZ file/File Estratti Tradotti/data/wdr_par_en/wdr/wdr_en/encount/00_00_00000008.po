@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1560"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1564"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "1568"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1572"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1576"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1580"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "116_Man"
+msgid ""
+"Hey... I know some real nice gals. Wanna have some fun with 'em? I'll make "
+"it cheap, my guy."
+msgstr ""
+"Ehi... Conosco delle ragazze davvero carine. Vuoi divertirti un po' con "
+"loro? Ti faccio un prezzo basso, amico."
+
+msgctxt "128_Man"
+msgid "The hell, ya doubtin' me? Don't ya fuck with me!"
+msgstr "Che diavolo, dubiti di me? Non prendermi per il culo!"
+
+msgctxt "152_Man"
+msgid "Sorry... I lied about the gals. Was tryin' to trick ya and get your money..."
+msgstr "Scusa... Ho mentito sulle ragazze. Stavo cercando di imbrogliarti per prenderti i soldi..."
+
+msgctxt "164_Man"
+msgid ""
+"Take this... I hope ya keep quiet about this. I'm real sorry for this, my "
+"guy."
+msgstr ""
+"Prendi questo... Spero tu non ne parli con nessuno. Mi dispiace davvero "
+"per questo, amico."
+
+msgctxt "176_Man"
+msgid "You got a moldy %s."
+msgstr "Hai ottenuto un %s ammuffito."
+
+msgctxt "212_Man"
+msgid "Was that not enough? Please, no more..."
+msgstr "Non era abbastanza? Ti prego, basta..."

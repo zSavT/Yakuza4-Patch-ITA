@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "7636"
+msgid "M_ykzs_damage_tlk_kamae"
+msgstr ""
+
+msgctxt "7640"
+msgid "M_ykz_damage_tlk_kamae"
+msgstr ""
+
+msgctxt "7644"
+msgid "M_yng_damage_tlk_kamae"
+msgstr ""
+
+msgctxt "7648"
+msgid "p_dam_lp"
+msgstr ""
+
+msgctxt "7652"
+msgid "SetM_nml_sitgrd_down_01"
+msgstr ""

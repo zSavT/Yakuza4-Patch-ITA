@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1456"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1460"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "1464"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1468"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "116_Man"
+msgid "Hey, you from around here? I came here to have some fun, but I ran out of money."
+msgstr "Ehi, sei di queste parti? Sono venuto qui per divertirmi, ma ho finito i soldi."
+
+msgctxt "128_Man"
+msgid "You think you could let me borrow some money? No? Well, then, I'm gonna take it from you!"
+msgstr "Pensi di potermi prestare dei soldi? No? Beh, allora, te li prenderò con la forza!"
+
+msgctxt "152_Man"
+msgid "I'm sorry for underestimating you!"
+msgstr "Mi dispiace per averti sottovalutato!"
+
+msgctxt "164_Man"
+msgid "I really don't have a lot of money, so could you forgive me with this instead?"
+msgstr "Non ho davvero molti soldi, quindi potresti perdonarmi con questo invece?"
+
+msgctxt "176_Man"
+msgid "You got a cheap %s."
+msgstr "Hai ottenuto un %s economico."
+
+msgctxt "212_Man"
+msgid "'Scuse me, you know any doctors 'round here?"
+msgstr "Mi scusi, conosce qualche medico da queste parti?"

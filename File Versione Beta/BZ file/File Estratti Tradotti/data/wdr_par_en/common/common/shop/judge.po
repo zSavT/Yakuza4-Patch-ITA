@@ -1,0 +1,40 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "4"
+msgid "Don't ask for an appraisal."
+msgstr "Non chiedere una valutazione."
+
+msgctxt "8"
+msgid "Appraise"
+msgstr "Valutare"
+
+msgctxt "12"
+msgid "Ask for an appraisal."
+msgstr "Chiedi una valutazione."
+
+msgctxt "16"
+msgid "(I don't have anything to get appraised.)"
+msgstr "(Non ho niente da far valutare.)"
+
+msgctxt "20"
+msgid "%d, huh? Want an appraisal?"
+msgstr "%d, eh? Vuoi una valutazione?"
+
+msgctxt "24"
+msgid "That comes to %d points. Thanks."
+msgstr "Sono %d punti. Grazie."

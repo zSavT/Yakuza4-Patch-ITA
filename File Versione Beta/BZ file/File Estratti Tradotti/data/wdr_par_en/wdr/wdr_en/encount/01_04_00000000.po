@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1356"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1360"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1364"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1368"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "You're the punk who clobbered some of our clan's best and brightest, ain't you?"
+msgstr "Sei tu il pivello che ha pestato alcuni dei migliori e più brillanti del nostro clan, vero?"
+
+msgctxt "128_Man"
+msgid "It ain't much, but we'd like to give you a token of our appreciation! Right, boys?"
+msgstr "Non è molto, ma vorremmo darti un segno del nostro apprezzamento! Vero, ragazzi?"
+
+msgctxt "152_Man"
+msgid "Thought for sure I had enough manpower..."
+msgstr "Ero sicuro di avere abbastanza uomini..."
+
+msgctxt "164_Man"
+msgid "Sorry. We won't mess with you again. Take this and forget about us."
+msgstr "Scusa. Non ti disturberemo più. Prendi questo e dimenticati di noi."
+
+msgctxt "176_Man"
+msgid "You got a promising %s."
+msgstr "Hai ottenuto un %s promettente."
+
+msgctxt "212_Man"
+msgid "We're pathetic..."
+msgstr "Siamo patetici..."

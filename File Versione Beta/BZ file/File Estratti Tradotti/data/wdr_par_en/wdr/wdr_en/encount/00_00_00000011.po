@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1592"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1596"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1600"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1604"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1608"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1612"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid ""
+"You notice how it's really peaceful lately? That's all me. I've been "
+"working hard for it. Got it? So how about a gratitude fee?"
+msgstr "Hai notato com'è tranquillo ultimamente? È tutto merito mio. Ho lavorato sodo per questo. Capito? Che ne dici di una tassa di gratitudine?"
+
+msgctxt "128_Man"
+msgid ""
+"What's a gratitude fee, you ask? Hah, it can be anything, stupid! But "
+"anyway, why don't you just gimme all your money to start!"
+msgstr "Cos'è una tassa di gratitudine, chiedi? Hah, può essere qualsiasi cosa, stupido! Ma comunque, perché non inizi a darmi tutti i tuoi soldi!"
+
+msgctxt "152_Man"
+msgid "Shit! I'm so sorry!"
+msgstr "Merda! Mi dispiace tanto!"
+
+msgctxt "164_Man"
+msgid "This might not be enough but please! Forgive me!"
+msgstr "Questo potrebbe non bastare, ma ti prego! Perdonami!"
+
+msgctxt "176_Man"
+msgid "You got a dirt-covered %s."
+msgstr "Hai ottenuto un %s coperto di sporco."
+
+msgctxt "212_Man"
+msgid "I'm so so sorry! Please, let me go..."
+msgstr "Mi dispiace tanto, tanto! Ti prego, lasciami andare..."

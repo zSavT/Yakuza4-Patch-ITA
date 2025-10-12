@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1316"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1320"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1324"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1328"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1332"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "1336"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1340"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "132_Man"
+msgid "test!!"
+msgstr "test!!"
+
+msgctxt "144_Man"
+msgid "test!!"
+msgstr "test!!"
+
+msgctxt "168_Kiryu"
+msgid "test!!"
+msgstr "test!!"
+
+msgctxt "180_Kiryu"
+msgid "test!!"
+msgstr "test!!"
+
+msgctxt "204_Man"
+msgid "test!!"
+msgstr "test!!"
+
+msgctxt "216_Talk_Yes"
+msgid "test!!"
+msgstr "test!!"
+
+msgctxt "228_Man"
+msgid "You got %s."
+msgstr "Hai ottenuto %s."
+
+msgctxt "264_Man"
+msgid "test!!"
+msgstr "test!!"

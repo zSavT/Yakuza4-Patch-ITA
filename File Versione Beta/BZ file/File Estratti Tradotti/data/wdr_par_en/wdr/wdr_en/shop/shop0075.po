@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "392"
+msgid "Quit"
+msgstr "Esci"
+
+msgctxt "397"
+msgid "Cancel the order."
+msgstr "Annulla l'ordine."
+
+msgctxt "415"
+msgid "Order"
+msgstr "Ordina"
+
+msgctxt "421"
+msgid "Order the currently selected item.  "
+msgstr "Ordina l'articolo selezionato."
+
+msgctxt "458"
+msgid "(I haven't picked anything.)  "
+msgstr "(Non ho scelto nulla.)"
+
+msgctxt "489"
+msgid "(I'm short on cash.)  "
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "512"
+msgid "Yes, yes, that'll be %s."
+msgstr "Sì, sì, il totale è di %s."
+
+msgctxt "537"
+msgid "(I can't carry any more stuff.)"
+msgstr "(Non posso trasportare altri oggetti.)"
+
+msgctxt "569"
+msgid "(They're sold out.)"
+msgstr "(Sono esauriti.)"
+
+msgctxt "589"
+msgid "Filleted horse mackerel is great for bait."
+msgstr "Lo sgombro sfilettato è un'ottima esca."
+
+msgctxt "632"
+msgid "Filleted squid makes good bait."
+msgstr "Il calamaro sfilettato è una buona esca."
+
+msgctxt "664"
+msgid "This shrimp makes fine bait."
+msgstr "Questo gambero è un'ottima esca."
+
+msgctxt "693"
+msgid "This pickled squid makes good fishing bait."
+msgstr "Questo calamaro sottaceto è una buona esca da pesca."
+
+msgctxt "737"
+msgid "A plain old earthworm. Classic bait."
+msgstr "Un semplice lombrico. Un'esca classica."
+
+msgctxt "774"
+msgid "This common shellfish can be used for bait."
+msgstr "Questo comune mollusco può essere usato come esca."
+
+msgctxt "818"
+msgid "This clam is small but makes good bait."
+msgstr "Questa vongola è piccola ma è una buona esca."
+
+msgctxt "858"
+msgid ""
+"These large prawns are tasty, but they can be used as\n"
+"bait as well."
+msgstr ""
+"Questi gamberoni sono gustosi, ma possono essere usati anche\n"
+"come esca."
+
+msgctxt "926"
+msgid ""
+"Lobster is a delicious treat, but it can be used as bait,\n"
+"too."
+msgstr ""
+"L'aragosta è una prelibatezza, ma può essere usata anche\n"
+"come esca."

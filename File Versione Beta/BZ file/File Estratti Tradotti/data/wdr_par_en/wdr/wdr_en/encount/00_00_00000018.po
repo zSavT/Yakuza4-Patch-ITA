@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1244"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1248"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1252"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1256"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1260"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid "Hey, man... Never mind, it's a hassle."
+msgstr "Ehi, amico... Lascia perdere, è una seccatura."
+
+msgctxt "128_Man"
+msgid "Just leave your money and get outta here."
+msgstr "Lascia i tuoi soldi e sparisci."
+
+msgctxt "152_Man"
+msgid "Don't hit me anymore..."
+msgstr "Non picchiarmi più..."
+
+msgctxt "164_Man"
+msgid "Sorry about that. Please take this."
+msgstr "Scusa per quello. Per favore, prendi questo."
+
+msgctxt "176_Man"
+msgid "You got a funny-looking %s."
+msgstr "Hai ottenuto un %s dall'aspetto strano."
+
+msgctxt "212_Man"
+msgid "Please, no more..."
+msgstr "Ti prego, basta..."

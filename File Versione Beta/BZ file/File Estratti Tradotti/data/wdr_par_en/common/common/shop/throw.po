@@ -1,0 +1,38 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "12"
+msgid "Don't discard the item."
+msgstr "Non scartare l'oggetto."
+
+msgctxt "16"
+msgid "Discard"
+msgstr "Scarta"
+
+msgctxt "20"
+msgid "Discard the item."
+msgstr "Scarta l'oggetto."
+
+msgctxt "24"
+msgid "(I can't carry any more stuff... Better toss something.)"
+msgstr ""
+"(Non posso portare altra roba... Sarebbe meglio buttare via qualcosa.)"
+
+msgctxt "28"
+msgid "Are you sure you want to discard this?"
+msgstr "Sei sicuro di voler scartare questo?"

@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1400"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1404"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1408"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1412"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1416"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid "I saw you lookin' this way! You got somethin' to say to me?"
+msgstr "Ti ho visto guardare da questa parte! Hai qualcosa da dirmi?"
+
+msgctxt "128_Man"
+msgid "Don't push your luck, buddy! I'll wring your neck!"
+msgstr "Non tirare la corda, amico! Ti torco il collo!"
+
+msgctxt "152_Man"
+msgid "Please forgive me. I don't know what came over me..."
+msgstr "Ti prego, perdonami. Non so cosa mi sia preso..."
+
+msgctxt "164_Man"
+msgid "Maybe this'll help clear the air. I really am sorry."
+msgstr "Forse questo aiuterà a chiarire le cose. Mi dispiace davvero."
+
+msgctxt "176_Man"
+msgid "You got an air-clearing %s."
+msgstr "Hai ottenuto un %s chiarificatore."
+
+msgctxt "212_Man"
+msgid "Sorry 'bout that. I've gotta stop taking my aggression out on people like that."
+msgstr "Scusa. Devo smetterla di sfogare la mia aggressività sulla gente in quel modo."

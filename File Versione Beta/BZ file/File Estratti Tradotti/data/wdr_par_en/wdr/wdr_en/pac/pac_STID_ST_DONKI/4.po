@@ -1,0 +1,37 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-04\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "168"
+msgid "Thanks, Uncle Kaz!"
+msgstr "Grazie, Zio Kaz!"
+
+msgctxt "192"
+msgid "But I wanted that..."
+msgstr "Ma io lo volevo..."
+
+msgctxt "216"
+msgid "Uncle Kaz!"
+msgstr "Zio Kaz!"
+
+msgctxt "228"
+msgid "I want some <Color:8>Goma-Mugi Tea<Color:Default>."
+msgstr "Voglio del <Color:8>Goma-Mugi Tea<Color:Default>."
+
+msgctxt "252"
+msgid "Uncle Kaz!"
+msgstr "Zio Kaz!"
+
+msgctxt "264"
+msgid "I want a <Color:8>C.C. Lemon<Color:Default>..."
+msgstr "Voglio una <Color:8>C.C. Lemon<Color:Default>..."

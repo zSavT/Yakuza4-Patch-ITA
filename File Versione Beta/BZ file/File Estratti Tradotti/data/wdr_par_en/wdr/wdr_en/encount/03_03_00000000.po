@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt-BR\n"
+"Language-Team: Brazil Alliance\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-15\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "96"
+msgid "Activating Street Encounter Test A."
+msgstr ""
+
+msgctxt "120"
+msgid "test"
+msgstr ""
+
+msgctxt "132"
+msgid "test"
+msgstr ""
+
+msgctxt "144"
+msgid "You got a middle-of-the-road %s."
+msgstr ""
+
+msgctxt "180"
+msgid "test.."
+msgstr ""
+
+msgctxt "773"
+msgid "Man"
+msgstr ""
+
+msgctxt "777"
+msgid "P_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "781"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr ""
+
+msgctxt "785"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "789"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "793"
+msgid "Talk_Send"
+msgstr ""

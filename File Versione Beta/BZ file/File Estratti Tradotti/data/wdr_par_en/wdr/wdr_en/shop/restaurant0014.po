@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "172"
+msgid "Quit"
+msgstr "Esci"
+
+msgctxt "177"
+msgid "Cancel the order."
+msgstr "Annulla l'ordine."
+
+msgctxt "195"
+msgid "Order"
+msgstr "Ordina"
+
+msgctxt "201"
+msgid "Order the currently selected item."
+msgstr "Ordina l'articolo selezionato."
+
+msgctxt "236"
+msgid "(I haven't picked anything.)"
+msgstr "(Non ho scelto nulla.)"
+
+msgctxt "265"
+msgid "(I'm short on cash.)"
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "286"
+msgid "Thank you. Your total comes to %s."
+msgstr "Grazie. Il suo totale è di %s."
+
+msgctxt "321"
+msgid "(I can't eat anymore...)"
+msgstr "(Non riesco a mangiare altro...)"
+
+msgctxt "365"
+msgid ""
+"Tonkotsu ramen flavored with fragrant black garlic oil.\n"
+"Truly an inspired dish."
+msgstr ""
+"Ramen tonkotsu aromatizzato con fragrante olio all'aglio nero.\n"
+"Un piatto davvero ispirato."

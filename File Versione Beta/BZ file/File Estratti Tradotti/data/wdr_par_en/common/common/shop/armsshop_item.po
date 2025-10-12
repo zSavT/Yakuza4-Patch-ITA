@@ -1,0 +1,47 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.7\n"
+
+msgctxt "8"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "12"
+msgid "Cancel modding."
+msgstr "Annulla modifica."
+
+msgctxt "16"
+msgid "(I'm short on cash.)"
+msgstr "(Sono a corto di contanti.)"
+
+msgctxt "20"
+msgid "(I don't have any moddable gear or accessories.)"
+msgstr "(Non ho nessun equipaggiamento o accessori modificabili.)"
+
+msgctxt "24"
+msgid "(I don't have any items.)"
+msgstr "(Non ho alcun oggetto.)"
+
+msgctxt "28"
+msgid "Thanks. That'll be %s."
+msgstr "Grazie. Saranno %s."
+
+msgctxt "32"
+msgid "(I need more materials.)"
+msgstr "(Ho bisogno di più materiali.)"
+
+msgctxt "36"
+msgid "���h��"
+msgstr "���h��"

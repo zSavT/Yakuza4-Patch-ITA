@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1368"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1372"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1376"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1380"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1384"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "You wanna walk around here like a big shot, you gotta pay the toll. So cough up."
+msgstr "Se vuoi fare il pezzo grosso da queste parti, devi pagare il pedaggio. Quindi sgancia."
+
+msgctxt "128_Man"
+msgid "No? You better do as you're told when it's a yakuza doing the telling!"
+msgstr "No? Farai meglio a fare come ti è stato detto quando è uno yakuza a parlare!"
+
+msgctxt "152_Man"
+msgid "Ow ow ow... forget it. You can keep the toll."
+msgstr "Ahi ahi ahi... lascia perdere. Puoi tenerti il pedaggio."
+
+msgctxt "164_Man"
+msgid "Here, this is yours."
+msgstr "Tieni, questo è tuo."
+
+msgctxt "176_Man"
+msgid "You got a superb %s."
+msgstr "Hai ottenuto un %s superbo."
+
+msgctxt "212_Man"
+msgid "Yikes! No more, please!"
+msgstr "Accidenti! Basta, per favore!"

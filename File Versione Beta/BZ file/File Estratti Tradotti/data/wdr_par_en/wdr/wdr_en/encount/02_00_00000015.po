@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1512"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1516"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1520"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1524"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "Word is someone's been on the rampage, tearing this place apart. Is it you?"
+msgstr "Si dice che qualcuno si sia scatenato, devastando questo posto. Sei tu?"
+
+msgctxt "128_Man"
+msgid "Well, all right. It might not be you after all, but I still have all this pent-up aggression and you're a convenient outlet!"
+msgstr "Beh, d'accordo. Forse non sei tu, dopotutto, ma ho ancora tutta questa aggressività repressa e tu sei uno sfogo comodo!"
+
+msgctxt "152_Man"
+msgid "How did you get so strong? I'll never beat the likes of you..."
+msgstr "Come hai fatto a diventare così forte? Non batterò mai gente come te..."
+
+msgctxt "164_Man"
+msgid "Sorry for turning on you like that. Take this, with my apologies."
+msgstr "Scusa per averti aggredito così. Prendi questo, con le mie scuse."
+
+msgctxt "176_Man"
+msgid "You got a disturbingly warm %s."
+msgstr "Hai ottenuto un %s inquietantemente caldo."
+
+msgctxt "212_Man"
+msgid "That didn't do much to cool my head. Ow..."
+msgstr "Questo non è servito a molto per calmarmi. Ahi..."

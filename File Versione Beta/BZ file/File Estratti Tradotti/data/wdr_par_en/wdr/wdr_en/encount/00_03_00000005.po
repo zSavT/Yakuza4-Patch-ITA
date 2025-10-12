@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1412"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1416"
+msgid "P_stand_sync_btl_neck_st"
+msgstr "P_stand_sync_btl_neck_st"
+
+msgctxt "1420"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr "M_ykz_stand_sync_btl_neck_st"
+
+msgctxt "1424"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1428"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "88_Man"
+msgid "You're not one of us, are you? Then you better pay the toll."
+msgstr "Non sei uno di noi, vero? Allora faresti meglio a pagare il pedaggio."
+
+msgctxt "100_Man"
+msgid "No? I'll show you what happens to cheap bastards who don't pay!"
+msgstr "No? Ti mostrerò cosa succede ai bastardi tirchi che non pagano!"
+
+msgctxt "124_Man"
+msgid "Ow, that hurt!"
+msgstr "Ahi, che male!"
+
+msgctxt "136_Man"
+msgid "P-Please! I made it up! There's no toll! I'm real sorry. Here, you can keep this, all right?"
+msgstr "P-Per favore! Me lo sono inventato! Non c'è nessun pedaggio! Mi dispiace davvero. Tieni, puoi tenertelo, ok?"
+
+msgctxt "148_Man"
+msgid "You got a traditional %s."
+msgstr "Hai ottenuto un %s tradizionale."
+
+msgctxt "184_Man"
+msgid "There never was any toll. Sorry about that..."
+msgstr "Non c'è mai stato nessun pedaggio. Scusa per quello..."

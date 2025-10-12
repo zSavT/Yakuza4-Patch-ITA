@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "224"
+msgid "Quit"
+msgstr "Esci"
+
+msgctxt "229"
+msgid "Cancel the order."
+msgstr "Annulla l'ordine."
+
+msgctxt "247"
+msgid "Order"
+msgstr "Ordina"
+
+msgctxt "253"
+msgid "Order the currently selected item.  "
+msgstr "Ordina l'articolo selezionato."
+
+msgctxt "290"
+msgid "(I haven't picked anything.)  "
+msgstr "(Non ho scelto nulla.)"
+
+msgctxt "321"
+msgid "(I'm short on cash.)  "
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "344"
+msgid "Thank you for business. %s, please."
+msgstr "Grazie per averci scelto. %s, per favore."
+
+msgctxt "380"
+msgid "(I can't carry any more stuff.)"
+msgstr "(Non posso trasportare altri oggetti.)"
+
+msgctxt "412"
+msgid "(They're sold out.)"
+msgstr "(Sono esauriti.)"
+
+msgctxt "432"
+msgid ""
+"Should help you get back on your feet when you're\n"
+"low on health and Heat."
+msgstr ""
+"Dovrebbe aiutarti a rimetterti in sesto quando sei\n"
+"a corto di salute e Heat."
+
+msgctxt "506"
+msgid ""
+"More effective at revitalizing your health and Heat\n"
+"than a regular Staminan X."
+msgstr ""
+"Più efficace nel rivitalizzare la tua salute e Heat\n"
+"di uno Staminan X normale."
+
+msgctxt "585"
+msgid ""
+"One of the most potent energy drinks on the market.\n"
+"It'll dramatically restore your health and Heat."
+msgstr ""
+"Una delle bevande energetiche più potenti sul mercato.\n"
+"Ripristinerà drasticamente la tua salute e la tua Heat."

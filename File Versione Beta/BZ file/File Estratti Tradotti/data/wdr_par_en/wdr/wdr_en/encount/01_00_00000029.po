@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt-BR\n"
+"Language-Team: Brazil Alliance\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-15\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Haven't seen you before. You in the business?"
+msgstr ""
+
+msgctxt "136"
+msgid "This town ain't kind to strangers. I'll make sure you never forget that."
+msgstr ""
+
+msgctxt "160"
+msgid "Damn, you're a strong bastard... Sorry 'bout that."
+msgstr ""
+
+msgctxt "172"
+msgid "You really beat some sense into me."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a sensible %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Sorry again!"
+msgstr ""
+
+msgctxt "1146"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1150"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1154"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1158"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1162"
+msgid "Sync_Send"
+msgstr ""

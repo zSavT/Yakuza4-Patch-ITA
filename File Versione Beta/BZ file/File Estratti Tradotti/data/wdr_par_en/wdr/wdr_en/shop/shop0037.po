@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "168"
+msgid "Quit"
+msgstr "Esci"
+
+msgctxt "173"
+msgid "Cancel the order."
+msgstr "Annulla l'ordine."
+
+msgctxt "191"
+msgid "Order"
+msgstr "Ordina"
+
+msgctxt "197"
+msgid "Order the currently selected item.  "
+msgstr "Ordina l'oggetto selezionato."
+
+msgctxt "234"
+msgid "(I haven't picked anything.)  "
+msgstr "(Non ho scelto niente.)"
+
+msgctxt "265"
+msgid "(I'm short on cash.)  "
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "288"
+msgid "Thank you. That'll be %s."
+msgstr "Grazie. Fanno %s."
+
+msgctxt "314"
+msgid "(I can't carry any more stuff.)"
+msgstr "(Non posso trasportare altri oggetti.)"
+
+msgctxt "346"
+msgid "(They're sold out.)"
+msgstr "(È esaurito.)"
+
+msgctxt "366"
+msgid ""
+"Matsuya curry in a take-home pack. All you need to do\n"
+"is boil it."
+msgstr ""
+"Curry di Matsuya in confezione d'asporto. Tutto ciò che\n"
+"devi fare è bollirlo."

@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "12"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "20"
+msgid "Sell"
+msgstr "Vendi"
+
+msgctxt "28"
+msgid "(I don't have anything to sell...)"
+msgstr "(Non ho nulla da vendere...)"
+
+msgctxt "32"
+msgid "(I haven't picked anything.)"
+msgstr "(Non ho scelto niente.)"
+
+msgctxt "36"
+msgid "I'll give you %s. What do you say?"
+msgstr "Ti do %s. Che ne dici?"

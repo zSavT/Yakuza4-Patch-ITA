@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "252"
+msgid "Quit"
+msgstr "Esci"
+
+msgctxt "257"
+msgid "Cancel the order."
+msgstr "Annulla l'ordine."
+
+msgctxt "275"
+msgid "Order"
+msgstr "Ordina"
+
+msgctxt "281"
+msgid "Order the currently selected item.  "
+msgstr "Ordina l'oggetto selezionato."
+
+msgctxt "318"
+msgid "(I haven't picked anything.)  "
+msgstr "(Non ho scelto niente.)"
+
+msgctxt "349"
+msgid "(I'm short on cash.)  "
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "372"
+msgid "Thanks... %s, please."
+msgstr "Grazie... Sono %s, prego."
+
+msgctxt "394"
+msgid "(I can't carry any more stuff.)"
+msgstr "(Non posso trasportare altri oggetti.)"
+
+msgctxt "426"
+msgid "(They're sold out.)"
+msgstr "(È esaurito.)"
+
+msgctxt "446"
+msgid ""
+"Standard issue for Special Weapons and Tactics units.\n"
+"It holds up well against bullets."
+msgstr "In dotazione standard alle unità S.W.A.T.\n"
+"Resiste bene ai proiettili."
+
+msgctxt "534"
+msgid ""
+"This light-weight breastplate protects against bullets \n"
+"and can be worn under a suit."
+msgstr "Questo pettorale leggero protegge dai proiettili\n"
+"e può essere indossato sotto un abito."
+
+msgctxt "620"
+msgid "Will really help psych you up before a fight."
+msgstr "Ti darà la carica giusta prima di un combattimento."
+
+msgctxt "666"
+msgid ""
+"Only for those who truly understand the dangers of \n"
+"the business."
+msgstr "Solo per chi capisce veramente i pericoli\n"
+"del mestiere."

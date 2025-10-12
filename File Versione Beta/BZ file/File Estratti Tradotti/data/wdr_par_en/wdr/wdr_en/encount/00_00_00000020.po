@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1456"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1460"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1464"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1468"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid ""
+"You know, I'm pretty freakin' strong. I've done karate, boxing, and muay "
+"thai. You don't like getting hurt, do you?"
+msgstr "Sai, sono fottutamente forte. Ho fatto karate, pugilato e muay thai. Non ti piace farti male, vero?"
+
+msgctxt "128_Man"
+msgid "Just leave your wallet and get outta here."
+msgstr "Lascia il portafoglio e vattene da qui."
+
+msgctxt "152_Man"
+msgid "My bad... To be honest, I've never done any martial arts."
+msgstr "Colpa mia... A dire il vero, non ho mai praticato arti marziali."
+
+msgctxt "164_Man"
+msgid "Here, please have mercy."
+msgstr "Tieni, ti prego abbi pietà."
+
+msgctxt "176_Man"
+msgid "You got a lovely %s."
+msgstr "Hai ottenuto un %s adorabile."
+
+msgctxt "212_Man"
+msgid "I mean... I did watch a ton of DVDs..."
+msgstr "Voglio dire... ho guardato un sacco di DVD..."

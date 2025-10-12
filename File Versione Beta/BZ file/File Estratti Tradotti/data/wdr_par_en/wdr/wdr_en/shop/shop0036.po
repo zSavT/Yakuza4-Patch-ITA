@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "196"
+msgid "Quit"
+msgstr "Esci"
+
+msgctxt "201"
+msgid "Cancel the order."
+msgstr "Annulla l'ordine."
+
+msgctxt "219"
+msgid "Order"
+msgstr "Ordina"
+
+msgctxt "225"
+msgid "Order the currently selected item.  "
+msgstr "Ordina l'oggetto selezionato."
+
+msgctxt "262"
+msgid "(I haven't picked anything.)  "
+msgstr "(Non ho scelto niente.)"
+
+msgctxt "293"
+msgid "(I'm short on cash.)  "
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "316"
+msgid "Thank you. That'll be %s."
+msgstr "Grazie. Fanno %s."
+
+msgctxt "342"
+msgid "(I can't carry any more stuff.)"
+msgstr "(Non posso trasportare altri oggetti.)"
+
+msgctxt "374"
+msgid "(They're sold out.)"
+msgstr "(È esaurito.)"
+
+msgctxt "394"
+msgid ""
+"A body-hugging, halter-neck dress that amplifies its\n"
+"wearer's sexiness."
+msgstr ""
+"Un abito aderente con allacciatura al collo che amplifica\n"
+"la sensualità di chi lo indossa."
+
+msgctxt "466"
+msgid ""
+"The elegant body line and sophisticated color of this\n"
+"dress are sure to turn heads."
+msgstr ""
+"La linea elegante e il colore sofisticato di questo\n"
+"vestito faranno sicuramente girare la testa."

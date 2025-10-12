@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1284"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1288"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1292"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1296"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1300"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid ""
+"Sheesh, I can't stand the sight of you. You'd better apologize for dirtying "
+"my eyes!"
+msgstr "Accidenti, non sopporto la tua vista. Faresti meglio a scusarti per avermi sporcato gli occhi!"
+
+msgctxt "128_Man"
+msgid "Get on the ground and kneel, bitch!"
+msgstr "Mettiti a terra e inginocchiati, stronzo!"
+
+msgctxt "152_Man"
+msgid "Guess I've just got shit eyes..."
+msgstr "Credo di avere solo degli occhi di merda..."
+
+msgctxt "164_Man"
+msgid "Take this as an apology. Please."
+msgstr "Prendi questo come scusa. Per favore."
+
+msgctxt "176_Man"
+msgid "You got a busted %s."
+msgstr "Hai ottenuto un %s rotto."
+
+msgctxt "212_Man"
+msgid "Sorry, didn't mean to bother ya..."
+msgstr "Scusa, non volevo disturbarti..."

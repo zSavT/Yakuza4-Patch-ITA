@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "168"
+msgid "Quit"
+msgstr "Esci"
+
+msgctxt "173"
+msgid "Cancel the order."
+msgstr "Annulla l'ordine."
+
+msgctxt "191"
+msgid "Order"
+msgstr "Ordina"
+
+msgctxt "197"
+msgid "Order the currently selected item.  "
+msgstr "Ordina l'articolo selezionato."
+
+msgctxt "234"
+msgid "(I haven't picked anything.)  "
+msgstr "(Non ho scelto nulla.)"
+
+msgctxt "265"
+msgid "(I'm short on cash.)  "
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "288"
+msgid "Thank you. That'll be %s."
+msgstr "Grazie. Il totale è di %s."
+
+msgctxt "314"
+msgid "(I can't carry any more stuff.)"
+msgstr "(Non posso trasportare altri oggetti.)"
+
+msgctxt "346"
+msgid "(They're sold out.)"
+msgstr "(Sono esauriti.)"
+
+msgctxt "366"
+msgid ""
+"I take special pride in our egg sushi. It's simple, but they\n"
+"say you can determine the quality of an entire shop\n"
+"based only on how their egg is cooked!"
+msgstr ""
+"Sono particolarmente orgoglioso del nostro sushi all'uovo. È semplice, ma dicono\n"
+"che si possa determinare la qualità di un intero locale\n"
+"solo da come viene cucinato il loro uovo!"

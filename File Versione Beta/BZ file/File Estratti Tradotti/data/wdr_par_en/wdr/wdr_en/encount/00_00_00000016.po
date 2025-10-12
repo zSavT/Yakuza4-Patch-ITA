@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1544"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1548"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1552"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1556"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid ""
+"I've seen you wandering around here lately. Everyone's saying you're a good "
+"target, you know?"
+msgstr "Ti ho visto gironzolare da queste parti ultimamente. Dicono tutti che sei un buon bersaglio, sai?"
+
+msgctxt "128_Man"
+msgid "I went outta my way to warn you, so why don't you reward me, huh?"
+msgstr "Mi sono fatto in quattro per avvertirti, quindi perché non mi ricompensi, eh?"
+
+msgctxt "152_Man"
+msgid "I'm sorry. I'll make sure to tell the other guys around here..."
+msgstr "Mi dispiace. Mi assicurerò di dirlo agli altri ragazzi qui intorno..."
+
+msgctxt "164_Man"
+msgid "Oh uh, I hope this helps you out."
+msgstr "Oh uh, spero che questo ti sia d'aiuto."
+
+msgctxt "176_Man"
+msgid "You got a second hand %s."
+msgstr "Hai ottenuto un %s di seconda mano."
+
+msgctxt "212_Man"
+msgid ""
+"Looks like we bump into each other often... We've been spreading rumors "
+"about you, saying there's a real swell guy around town. Hahaha..."
+msgstr "Sembra che ci incontriamo spesso... Abbiamo messo in giro delle voci su di te, dicendo che c'è un tipo davvero in gamba in città. Hahaha..."

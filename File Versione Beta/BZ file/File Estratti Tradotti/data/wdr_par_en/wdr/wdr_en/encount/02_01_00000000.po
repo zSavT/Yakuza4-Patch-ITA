@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1504"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1508"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1512"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1516"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_Man"
+msgid "Hey, mister! Wanna play a game with us? It's a punching bag game!"
+msgstr "Ehi, signore! Vuoi fare un gioco con noi? È il gioco del sacco da boxe!"
+
+msgctxt "128_Man"
+msgid ""
+"I really, really love this game. Ready? Here we go! Oh, did I mention you "
+"get to be the punching bag?"
+msgstr "Adoro questo gioco, davvero. Pronto? Si comincia! Oh, ho detto che tu farai da sacco da boxe?"
+
+msgctxt "152_Man"
+msgid "Ow... So that's what a punching bag feels like..."
+msgstr "Ahi... Allora è così che si sente un sacco da boxe..."
+
+msgctxt "164_Man"
+msgid "We don't wanna play anymore! Take this. We're sorry for bothering you."
+msgstr "Non vogliamo più giocare! Prendi questo. Ci dispiace per il disturbo."
+
+msgctxt "176_Man"
+msgid "You got a bitter %s."
+msgstr "Hai ottenuto un %s amaro."
+
+msgctxt "212_Man"
+msgid "Being a punching bag is no fun at all..."
+msgstr "Fare da sacco da boxe non è affatto divertente..."

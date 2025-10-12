@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1492"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1496"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1500"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1504"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1508"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid "We're here to have some fun, but we've run out of money."
+msgstr "Siamo qui per divertirci, ma abbiamo finito i soldi."
+
+msgctxt "128_Man"
+msgid "Would you lend us some? Just don't expect us to ever pay it back!"
+msgstr "Ce ne presteresti un po'? Non aspettarti che te li restituiamo!"
+
+msgctxt "152_Man"
+msgid "Yikes! No, you're right. If you borrow money, you have to pay it back. It's only fair!"
+msgstr "Accidenti! No, hai ragione. Se prendi in prestito dei soldi, devi restituirli. È giusto così!"
+
+msgctxt "164_Man"
+msgid "We're real sorry for bothering you. Will this help smooth things over?"
+msgstr "Ci dispiace davvero per il disturbo. Questo aiuterà a sistemare le cose?"
+
+msgctxt "176_Man"
+msgid "You got a moth-eaten %s."
+msgstr "Hai ottenuto un %s mangiato dalle tarme."
+
+msgctxt "212_Man"
+msgid "Guess we'll be headed back to the 'burbs. We really are sorry."
+msgstr "Credo che torneremo in periferia. Ci dispiace davvero."

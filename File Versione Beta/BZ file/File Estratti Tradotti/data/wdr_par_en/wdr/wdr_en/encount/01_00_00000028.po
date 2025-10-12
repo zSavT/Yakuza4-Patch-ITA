@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt-BR\n"
+"Language-Team: Brazil Alliance\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-15\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "I haven't seen you around before."
+msgstr ""
+
+msgctxt "136"
+msgid "This is our turf. You think you can just ignore us 'round here?"
+msgstr ""
+
+msgctxt "160"
+msgid "Sorry I stopped you..."
+msgstr ""
+
+msgctxt "172"
+msgid "Take this as a sign of our respect..."
+msgstr ""
+
+msgctxt "184"
+msgid "You got a respectful %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Don't mind me, road's all yours!"
+msgstr ""
+
+msgctxt "1153"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1157"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1161"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1165"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "1169"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1173"
+msgid "Talk_Yes"
+msgstr ""

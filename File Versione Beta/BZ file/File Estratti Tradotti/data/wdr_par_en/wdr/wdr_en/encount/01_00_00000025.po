@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1348"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1352"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1356"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "1360"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "You look pretty strong! I gotta say, you got my attention!"
+msgstr "Sembri piuttosto forte! Devo dire che hai attirato la mia attenzione!"
+
+msgctxt "128_Man"
+msgid "Okay, enough small talk. Time for us to fight!"
+msgstr "Ok, basta chiacchiere. È ora di combattere!"
+
+msgctxt "152_Man"
+msgid "Phew... You're strong all right－just like I thought."
+msgstr "Phew... Sei forte, eccome... proprio come pensavo."
+
+msgctxt "164_Man"
+msgid "Sorry I sprung that on you. Here, take this."
+msgstr "Scusa se ti sono piombato addosso così. Tieni, prendi questo."
+
+msgctxt "176_Man"
+msgid "You got a well-made %s."
+msgstr "Hai ottenuto un %s di buona fattura."
+
+msgctxt "212_Man"
+msgid "Let's fight again sometime."
+msgstr "Combattiamo ancora qualche volta."

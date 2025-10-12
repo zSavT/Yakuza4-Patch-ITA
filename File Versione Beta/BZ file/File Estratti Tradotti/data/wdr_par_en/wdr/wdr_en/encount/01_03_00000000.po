@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1448"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1452"
+msgid "P_stand_sync_btl_neck_st"
+msgstr "P_stand_sync_btl_neck_st"
+
+msgctxt "1456"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr "M_ykz_stand_sync_btl_neck_st"
+
+msgctxt "1460"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1464"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "88_Man"
+msgid "Wait a minute, mister. Who gave you permission to come this way?"
+msgstr "Aspetti un attimo, signore. Chi le ha dato il permesso di passare di qui?"
+
+msgctxt "100_Man"
+msgid "It's called a toll, and you need to pay it. Now. C'mon, pay up or prepare for some bruising!"
+msgstr "Si chiama pedaggio, e devi pagarlo. Adesso. Dai, paga o preparati a qualche livido!"
+
+msgctxt "124_Man"
+msgid "I'm sorry! The toll? What toll? There's no toll. Hahaha!"
+msgstr "Mi dispiace! Il pedaggio? Quale pedaggio? Non c'è nessun pedaggio. Hahaha!"
+
+msgctxt "136_Man"
+msgid "This won't make up for much, but please take it."
+msgstr "Questo non compenserà molto, ma ti prego, prendilo."
+
+msgctxt "148_Man"
+msgid "You got a tolerable %s."
+msgstr "Hai ottenuto un %s tollerabile."
+
+msgctxt "184_Man"
+msgid "You can come and go as you please..."
+msgstr "Puoi andare e venire come ti pare..."

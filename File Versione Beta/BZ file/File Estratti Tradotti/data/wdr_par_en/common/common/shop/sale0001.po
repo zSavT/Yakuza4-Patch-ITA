@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt-BR\n"
+"Language-Team: Brazil Alliance\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-15\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "12"
+msgid "Never Mind"
+msgstr ""
+
+msgctxt "16"
+msgid "Sell"
+msgstr ""
+
+msgctxt "20"
+msgid "(I don't have anything I can sell.)"
+msgstr ""
+
+msgctxt "24"
+msgid "(I didn't choose anything.)"
+msgstr ""
+
+msgctxt "28"
+msgid "That all comes to %s. Are you sure?"
+msgstr ""

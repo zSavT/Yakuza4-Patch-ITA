@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1388"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1392"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1396"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1400"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1404"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid "I hear you've been walking around town as if you owned the place. Fact is, you're an eyesore."
+msgstr "Sento dire che te ne vai in giro per la città come se fosse tua. Il fatto è che sei un pugno in un occhio."
+
+msgctxt "128_Man"
+msgid "Here, let us show you how it's gonna be around here. It might hurt a little."
+msgstr "Ecco, lascia che ti mostriamo come funzionano le cose da queste parti. Potrebbe fare un po' male."
+
+msgctxt "152_Man"
+msgid "Sorry about that. You've taught us a valuable lesson."
+msgstr "Ci dispiace. Ci hai insegnato una lezione preziosa."
+
+msgctxt "164_Man"
+msgid "This is to thank you for your time. My apologies."
+msgstr "Questo è per ringraziarti del tuo tempo. Le mie scuse."
+
+msgctxt "176_Man"
+msgid "You got a bland %s."
+msgstr "Hai ottenuto un %s insipido."
+
+msgctxt "212_Man"
+msgid "I'm deeply sorry."
+msgstr "Sono profondamente dispiaciuto."

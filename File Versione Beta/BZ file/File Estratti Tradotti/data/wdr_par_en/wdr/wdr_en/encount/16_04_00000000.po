@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "932"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "936"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "940"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "944"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "116_Man"
+msgid "Activating Surrounding Test A"
+msgstr "Attivazione Test Accerchiamento A"
+
+msgctxt "140_Man"
+msgid "test!!"
+msgstr "test!!"
+
+msgctxt "152_Talk_Yes"
+msgid "Heh, if it isn't a surrounding test..."
+msgstr "Heh, se non è un test di accerchiamento..."
+
+msgctxt "164_Man"
+msgid "You got %s."
+msgstr "Hai ottenuto %s."
+
+msgctxt "200_Man"
+msgid "test!!"
+msgstr "test!!"

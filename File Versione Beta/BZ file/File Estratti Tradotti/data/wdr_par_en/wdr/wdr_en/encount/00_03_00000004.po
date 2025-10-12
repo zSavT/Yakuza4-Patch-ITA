@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1540"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1544"
+msgid "P_stand_sync_btl_neck_st"
+msgstr "P_stand_sync_btl_neck_st"
+
+msgctxt "1548"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr "M_ykz_stand_sync_btl_neck_st"
+
+msgctxt "1552"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "1556"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1560"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "88_Man"
+msgid "Sheesh, buddy, where's the fire? Sure are in one hell of a hurry, aintcha? In fact, looks like you forgot somethin'."
+msgstr "Accidenti, amico, dove scappi? Hai una fretta del diavolo, non è vero? Anzi, sembra che tu abbia dimenticato qualcosa."
+
+msgctxt "100_Man"
+msgid "You forgot to pay your respects, punk! Am I gonna have to give you a refresher on basic street manners? Maybe this'll remind ya!"
+msgstr "Hai dimenticato di portare rispetto, pivello! Devo rinfrescarti la memoria sulle buone maniere di strada? Forse questo ti aiuterà a ricordare!"
+
+msgctxt "124_Man"
+msgid "Sorry! I'm sorryyy!"
+msgstr "Scusa! Mi dispiaceee!"
+
+msgctxt "136_Man"
+msgid "Musta forgot my own manners for a second there! Hope this'll make up for it."
+msgstr "Devo aver dimenticato le mie buone maniere per un secondo! Spero che questo possa rimediare."
+
+msgctxt "148_Man"
+msgid "You got an ancient %s."
+msgstr "Hai ottenuto un %s antico."
+
+msgctxt "184_Man"
+msgid "Can't believe I was so rude to ya back there..."
+msgstr "Non posso credere di essere stato così maleducato con te prima..."

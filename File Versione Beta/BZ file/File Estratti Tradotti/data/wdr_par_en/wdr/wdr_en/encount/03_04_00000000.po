@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt-BR\n"
+"Language-Team: Brazil Alliance\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-15\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "Activating Surrounding Test A"
+msgstr ""
+
+msgctxt "148"
+msgid "test"
+msgstr ""
+
+msgctxt "160"
+msgid "Oof... Wasn't this supposed to be a surrounding test...?"
+msgstr ""
+
+msgctxt "172"
+msgid "You got a disappointing %s."
+msgstr ""
+
+msgctxt "208"
+msgid "test.."
+msgstr ""
+
+msgctxt "907"
+msgid "Man"
+msgstr ""
+
+msgctxt "911"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "915"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "919"
+msgid "Talk_Send"
+msgstr ""

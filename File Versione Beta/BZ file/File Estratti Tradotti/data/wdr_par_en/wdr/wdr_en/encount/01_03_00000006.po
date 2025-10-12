@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1276"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1280"
+msgid "P_stand_sync_btl_neck_st"
+msgstr "P_stand_sync_btl_neck_st"
+
+msgctxt "1284"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr "M_ykz_stand_sync_btl_neck_st"
+
+msgctxt "1288"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1292"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1296"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "88_Man"
+msgid "Yo, buddy. You tryin' to start somethin'?"
+msgstr "Ehi, amico. Stai cercando di iniziare qualcosa?"
+
+msgctxt "100_Man"
+msgid "You should know better'n to saunter out in front of me when I'm in a bad mood!"
+msgstr "Dovresti sapere che non si passa davanti a me quando sono di cattivo umore!"
+
+msgctxt "124_Man"
+msgid "Sorry, sorry! Didn't mean to just attack you like that."
+msgstr "Scusa, scusa! Non volevo attaccarti così."
+
+msgctxt "136_Man"
+msgid "Maybe this'll make up for it."
+msgstr "Forse questo compenserà."
+
+msgctxt "148_Man"
+msgid "You got a lucky %s."
+msgstr "Hai ottenuto un %s fortunato."
+
+msgctxt "184_Man"
+msgid "Pardon me for bein' so rude before..."
+msgstr "Perdonami per essere stato così maleducato prima..."

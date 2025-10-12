@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1384"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1388"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1392"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1396"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1400"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1404"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "116_Man"
+msgid "Pardon me. Got a second? I'm conducting a survey."
+msgstr "Mi scusi. Ha un secondo? Sto conducendo un sondaggio."
+
+msgctxt "128_Man"
+msgid "How do you like getting your ass kicked? And remember, this is for posterity, so be honest!"
+msgstr "Quanto le piace prenderle? E ricordi, è per i posteri, quindi sia onesto!"
+
+msgctxt "152_Man"
+msgid "That's enough! Thank you for your valuable contribution to my research!"
+msgstr "Basta così! Grazie per il suo prezioso contributo alla mia ricerca!"
+
+msgctxt "164_Man"
+msgid "This is for you－for helping with my survey."
+msgstr "Questo è per lei, per avermi aiutato con il sondaggio."
+
+msgctxt "176_Man"
+msgid "You got a stimulating %s."
+msgstr "Hai ottenuto un %s stimolante."
+
+msgctxt "212_Man"
+msgid "The survey's closed..."
+msgstr "Il sondaggio è chiuso..."

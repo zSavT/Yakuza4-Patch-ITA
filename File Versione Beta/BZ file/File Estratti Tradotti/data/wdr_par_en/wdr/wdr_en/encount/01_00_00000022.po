@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1440"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1444"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1448"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1452"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1456"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_Man"
+msgid "Boy, you sure are lucky! After all, you met me, didn't you? So how about a little drinking money for your pal here, hmm?"
+msgstr "Ragazzo, sei davvero fortunato! Dopotutto, mi hai incontrato, no? Che ne dici di un po' di soldi per bere per il tuo amico qui, hmm?"
+
+msgctxt "128_Man"
+msgid "Now hand over the money!"
+msgstr "Ora sgancia i soldi!"
+
+msgctxt "152_Man"
+msgid "I give up. I shouldn't have picked that fight."
+msgstr "Mi arrendo. Non avrei dovuto iniziare questa rissa."
+
+msgctxt "164_Man"
+msgid "Here, take this－and please cut me some slack."
+msgstr "Tieni, prendi questo... e per favore, dammi un po' di tregua."
+
+msgctxt "176_Man"
+msgid "You got a pretty cool %s."
+msgstr "Hai ottenuto un %s davvero fico."
+
+msgctxt "212_Man"
+msgid "I'll be good from now on, I swear."
+msgstr "D'ora in poi farò il bravo, lo giuro."

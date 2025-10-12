@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-04\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "232"
+msgid "You're amazing, Uncle Kaz!"
+msgstr "Sei incredibile, Zio Kaz!"
+
+msgctxt "244"
+msgid "You're a master!"
+msgstr "Sei un maestro!"
+
+msgctxt "280"
+msgid "You were so close!"
+msgstr "Eri così vicino!"
+
+msgctxt "292"
+msgid "I really wanted a stuffed animal."
+msgstr "Volevo davvero un peluche."
+
+msgctxt "340"
+msgid "Uncle Kaz!"
+msgstr "Zio Kaz!"
+
+msgctxt "352"
+msgid "Catch a <Color:8>Hito-nyan<Color:Default>!"
+msgstr "Cattura un <Color:8>Hito-nyan<Color:Default>!"
+
+msgctxt "376"
+msgid "Uncle Kaz!"
+msgstr "Zio Kaz!"
+
+msgctxt "388"
+msgid "I want an <Color:8>AiAi<Color:Default>!"
+msgstr "Voglio un <Color:8>AiAi<Color:Default>!"

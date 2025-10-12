@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1500"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1504"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1508"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1512"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1516"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "Well, well! You must be feelin' pretty good right about now."
+msgstr "Bene, bene! Devi sentirti piuttosto bene in questo momento."
+
+msgctxt "128_Man"
+msgid "Wish I could be knocking 'em back, too. How about giving me some drinking money? Hand it over, if you know what's good for you!"
+msgstr "Vorrei poter bere anch'io. Che ne dici di darmi un po' di soldi per bere? Sgancia, se sai cosa ti conviene!"
+
+msgctxt "152_Man"
+msgid "Please forgive us. We're very sorry."
+msgstr "Ti preghiamo di perdonarci. Siamo molto dispiaciuti."
+
+msgctxt "164_Man"
+msgid "I have enough money for a drink or two. Sorry for bothering you, mister. Here, take this."
+msgstr "Ho abbastanza soldi per un drink o due. Scusi per il disturbo, signore. Tenga, prenda questo."
+
+msgctxt "176_Man"
+msgid "You got a weighty %s."
+msgstr "Hai ottenuto un %s pesante."
+
+msgctxt "212_Man"
+msgid "Sorry..."
+msgstr "Scusa..."

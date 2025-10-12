@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1452"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1456"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1460"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1464"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1468"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid ""
+"Heheh... Hey man, not gonna lie... Your existence just annoys the piss "
+"outta me."
+msgstr "Heheh... Ehi amico, non mentirò... La tua sola esistenza mi fa incazzare a morte."
+
+msgctxt "128_Man"
+msgid ""
+"And to top it off, I just got through some bad shit earlier, so I'm real "
+"stressed right now. So why don't you be my punching bag!"
+msgstr "E per finire, ho appena passato un brutto momento, quindi sono molto stressato. Perché non mi fai da sacco da boxe?"
+
+msgctxt "152_Man"
+msgid "I'm sorry... I won't do it again, promise..."
+msgstr "Mi dispiace... non lo farò più, promesso..."
+
+msgctxt "164_Man"
+msgid "Please, take this..."
+msgstr "Ti prego, prendi questo..."
+
+msgctxt "176_Man"
+msgid "You got a stinky %s."
+msgstr "Hai ottenuto un %s puzzolente."
+
+msgctxt "212_Man"
+msgid "Urgh. *sniffle*"
+msgstr "Urgh. *tira su col naso*"

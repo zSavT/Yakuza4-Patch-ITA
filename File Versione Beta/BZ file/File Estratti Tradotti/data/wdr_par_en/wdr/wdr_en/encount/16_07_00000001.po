@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.7\n"
+
+msgctxt "1208"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1212"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1216"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1220"
+msgid "Talk_Send"
+msgstr ""
+
+msgctxt "116_Man"
+msgid "Why you glarin' at us like that?"
+msgstr "Perché ci stai fissando?"
+
+msgctxt "128_Man"
+msgid "You want me to deck you!?"
+msgstr "Vuoi che ti smonti!?"
+
+msgctxt "152_Man"
+msgid "Nghhh..."
+msgstr ""
+
+msgctxt "164_Talk_Yes"
+msgid ""
+"Oof... Hnngh. You really pack a punch... I'll let you off the hook for it "
+"today."
+msgstr "Uff… Cavolo. Sai come tirare un pugno… per oggi te la cavi."
+
+msgctxt "176_Man"
+msgid "You got %s."
+msgstr "Hai ottenuto %s."
+
+msgctxt "212_Man"
+msgid "You won't get off so easy next time."
+msgstr "La prossima volta non andrà così."

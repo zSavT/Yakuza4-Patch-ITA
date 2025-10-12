@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1028"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1032"
+msgid "M_ykz_damage"
+msgstr "M_ykz_damage"
+
+msgctxt "1036"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "1040"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1044"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "116_Man"
+msgid "Activating Subject Test A"
+msgstr "Attivazione Test Soggetto A"
+
+msgctxt "140_Man"
+msgid "Nghhh..."
+msgstr "Nghhh..."
+
+msgctxt "152_Talk_Yes"
+msgid ""
+"Heh, if it isn't a subject test...\r\n"
+"I'll let you off the hook for it today."
+msgstr ""
+"Heh, se non è un test del soggetto...\r\n"
+"Per oggi ti lascio andare."
+
+msgctxt "164_Man"
+msgid "You got %s."
+msgstr "Hai ottenuto %s."
+
+msgctxt "200_Man"
+msgid "You won't get off so easy next time."
+msgstr "La prossima volta non te la caverai così facilmente."

@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "196"
+msgid "Quit"
+msgstr "Esci"
+
+msgctxt "201"
+msgid "Cancel the order."
+msgstr "Annulla l'ordine."
+
+msgctxt "219"
+msgid "Order"
+msgstr "Ordina"
+
+msgctxt "225"
+msgid "Order the currently selected item.  "
+msgstr "Ordina l'oggetto selezionato."
+
+msgctxt "262"
+msgid "(I haven't picked anything.)  "
+msgstr "(Non ho scelto niente.)"
+
+msgctxt "293"
+msgid "(I'm short on cash.)  "
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "316"
+msgid "Thank you. That'll be %s."
+msgstr "Grazie. Fanno %s."
+
+msgctxt "342"
+msgid "(I can't carry any more stuff.)"
+msgstr "(Non posso trasportare altri oggetti.)"
+
+msgctxt "374"
+msgid "(They're sold out.)"
+msgstr "(È esaurito.)"
+
+msgctxt "394"
+msgid ""
+"A good match for a cute look. A great present\n"
+"for those who like this style."
+msgstr "Si abbina bene a un look grazioso. Un ottimo regalo\n"
+"per chi ama questo stile."
+
+msgctxt "471"
+msgid ""
+"A necklace with a wild feel to it. A great\n"
+"present for those who like this style."
+msgstr "Una collana dall'aria selvaggia. Un ottimo\n"
+"regalo per chi ama questo stile."

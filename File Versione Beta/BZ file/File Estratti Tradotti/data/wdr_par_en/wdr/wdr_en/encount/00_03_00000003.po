@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "4080"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "4084"
+msgid "P_stand_sync_btl_neck_st"
+msgstr "P_stand_sync_btl_neck_st"
+
+msgctxt "4088"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr "M_ykz_stand_sync_btl_neck_st"
+
+msgctxt "4092"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "4096"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4100"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "100_Man"
+msgid "Okay, stop! We're kinda busy down here. Can you do me a favor and turn around?"
+msgstr "Ok, fermo! Siamo un po' impegnati qui. Puoi farmi un favore e girarti?"
+
+msgctxt "112_Man"
+msgid "What's with that look? You saying you don't want to? Maybe you will once I beat you to a pulp!"
+msgstr "Cos'è quello sguardo? Stai dicendo che non vuoi? Forse lo farai quando ti avrò ridotto in poltiglia!"
+
+msgctxt "124_Man"
+msgid "Real sorry, but this road's closed."
+msgstr "Siamo spiacenti, ma questa strada è chiusa."
+
+msgctxt "136_Man"
+msgid "So hand over yer wallet and turn the fuck around! I ain't lettin' ya off without it!"
+msgstr "Quindi consegna il portafoglio e gira i tacchi, cazzo! Non ti lascerò andare senza!"
+
+msgctxt "148_Man"
+msgid "Hey there! I'm selling something great over here! Wanna make a purchase?"
+msgstr "Ehilà! Sto vendendo qualcosa di fantastico qui! Vuoi fare un acquisto?"
+
+msgctxt "160_Man"
+msgid "What am I selling, you ask? A knuckle sandwich, of course!"
+msgstr "Cosa vendo, chiedi? Un pugno in faccia, ovviamente!"
+
+msgctxt "196_Man"
+msgid "We didn't know what we were getting into..."
+msgstr "Non sapevamo in che guaio ci stavamo cacciando..."
+
+msgctxt "208_Man"
+msgid "Please, pass right on through! You can even have this. Please, just don't hit us any more..."
+msgstr "Prego, passa pure! Puoi anche prendere questo. Ti prego, non picchiarci più..."
+
+msgctxt "220_Man"
+msgid "You got a right of passage %s."
+msgstr "Hai ottenuto un %s per il diritto di passaggio."
+
+msgctxt "244_Man"
+msgid "Oh... Oh man... You nearly kicked me to death..."
+msgstr "Oh... oh cavolo... Mi hai quasi ammazzato di calci..."
+
+msgctxt "256_Man"
+msgid "Here, take this and let me go..."
+msgstr "Tieni, prendi questo e lasciami andare..."
+
+msgctxt "268_Man"
+msgid "You got a beefy %s."
+msgstr "Hai ottenuto un %s robusto."
+
+msgctxt "292_Man"
+msgid "Thank you for your purchase... You're quite strong, sir..."
+msgstr "Grazie per il suo acquisto... È piuttosto forte, signore..."
+
+msgctxt "304_Man"
+msgid "Here's your change, sir."
+msgstr "Ecco il suo resto, signore."
+
+msgctxt "316_Man"
+msgid "You got a chunky %s."
+msgstr "Hai ottenuto un %s massiccio."
+
+msgctxt "364_Man"
+msgid "Huh? What were we busy with? Well... Our aniki was just picking up chicks down this way."
+msgstr "Eh? In cosa eravamo impegnati? Beh... il nostro aniki stava solo rimorchiando ragazze da queste parti."
+
+msgctxt "376_Man"
+msgid "Cut me some slack, please..."
+msgstr "Dammi un po' di tregua, per favore..."
+
+msgctxt "388_Man"
+msgid "I'm closing up shop for today..."
+msgstr "Chiudo bottega per oggi..."

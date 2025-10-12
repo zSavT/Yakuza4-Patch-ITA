@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8"
+msgid "�"
+msgstr "�"
+
+msgctxt "12"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "16"
+msgid "Don't give the item."
+msgstr "Non dare l'oggetto."
+
+msgctxt "20"
+msgid "Give"
+msgstr "Dai"
+
+msgctxt "24"
+msgid "Give the item."
+msgstr "Dai l'oggetto."
+
+msgctxt "28"
+msgid "(I don't have anything I can give.)"
+msgstr "(Non ho niente da dare.)"
+
+msgctxt "32"
+msgid "(What shall I give?)"
+msgstr "(Cosa devo dare?)"
+
+msgctxt "36"
+msgid "Are you sure you want to give this?"
+msgstr "Sei sicuro di voler dare questo?"

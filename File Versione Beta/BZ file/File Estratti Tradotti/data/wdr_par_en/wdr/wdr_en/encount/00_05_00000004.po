@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1556"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1560"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1564"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1568"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1572"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid "Hey, you sure look like you've been havin' some fun, knockin' back a few drinks and all. But you're not from around here, are ya?"
+msgstr "Ehi, sembra proprio che ti stia divertendo, a tracannare drink e tutto il resto. Ma non sei di queste parti, vero?"
+
+msgctxt "128_Man"
+msgid "You got balls to be hangin' out here on our turf, friend!"
+msgstr "Hai delle belle palle a ciondolare qui nel nostro territorio, amico!"
+
+msgctxt "152_Man"
+msgid "You made me realize I was being way too close-minded. Sorry 'bout that."
+msgstr "Mi hai fatto capire che ero troppo di mentalità chiusa. Scusa."
+
+msgctxt "164_Man"
+msgid "Booze is a man's best friend! Drink up, my man, drink up!"
+msgstr "L'alcol è il miglior amico dell'uomo! Bevi, amico mio, bevi!"
+
+msgctxt "176_Man"
+msgid "You got a beer-stained %s."
+msgstr "Hai ottenuto un %s macchiato di birra."
+
+msgctxt "212_Man"
+msgid "I'm glad to see you're givin' our local businesses a boost, that's all."
+msgstr "Sono solo felice di vedere che stai dando una mano alle attività locali, tutto qui."

@@ -1,0 +1,77 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "252"
+msgid "Quit"
+msgstr "Esci"
+
+msgctxt "257"
+msgid "Cancel the order."
+msgstr "Annulla l'ordine."
+
+msgctxt "275"
+msgid "Order"
+msgstr "Ordina"
+
+msgctxt "281"
+msgid "Order the currently selected item.  "
+msgstr "Ordina l'oggetto selezionato."
+
+msgctxt "318"
+msgid "(I haven't picked anything.)  "
+msgstr "(Non ho scelto niente.)"
+
+msgctxt "349"
+msgid "(I'm short on cash.)  "
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "372"
+msgid "Thank you. That'll be %s."
+msgstr "Grazie. Fanno %s."
+
+msgctxt "398"
+msgid "(I can't carry any more stuff.)"
+msgstr "(Non posso trasportare altri oggetti.)"
+
+msgctxt "430"
+msgid "(They're sold out.)"
+msgstr "(È esaurito.)"
+
+msgctxt "450"
+msgid "Our standard massage option. Simple, but relaxing."
+msgstr "La nostra opzione di massaggio standard. Semplice, ma rilassante."
+
+msgctxt "501"
+msgid ""
+"A more lavish massage option. You'll feel all your\n"
+"worries bursting out of you."
+msgstr ""
+"Un'opzione di massaggio più sontuosa. Sentirai tutte le tue\n"
+"preoccupazioni svanire."
+
+msgctxt "581"
+msgid ""
+"Reserved for regular customers, this VIP massage\n"
+"option is sure to impress."
+msgstr ""
+"Riservata ai clienti abituali, questa opzione di massaggio\n"
+"VIP ti lascerà sicuramente a bocca aperta."
+
+msgctxt "657"
+msgid ""
+"The ultimate massage experience, only available to\n"
+"the most select few."
+msgstr ""
+"L'esperienza di massaggio definitiva, disponibile solo per\n"
+"i più selezionati."

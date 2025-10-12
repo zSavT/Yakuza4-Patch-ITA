@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt-BR\n"
+"Language-Team: Brazil Alliance\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-15\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "This is our turf. You gonna pay our protection fee or what?"
+msgstr ""
+
+msgctxt "136"
+msgid "Hey, I'm tellin' you, hand over your wallet!"
+msgstr ""
+
+msgctxt "160"
+msgid "I'm sorry! It's all my fault! I'll never do it again!"
+msgstr ""
+
+msgctxt "172"
+msgid "Here, this should cover the protection fee, right?"
+msgstr ""
+
+msgctxt "184"
+msgid "You got a rewarding %s."
+msgstr ""
+
+msgctxt "220"
+msgid "I... I got nothin' else."
+msgstr ""
+
+msgctxt "1243"
+msgid "Disgruntled Yakuza"
+msgstr ""
+
+msgctxt "1247"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1251"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "1255"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1259"
+msgid "Talk_No"
+msgstr ""

@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "2916"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "2920"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2924"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "2928"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "2932"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2936"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "128_Man"
+msgid "Mind if I ask ya for a little advice? Y'see I'm in town to have myself a good time, but I'm plumb out o' cash."
+msgstr "Ti dispiace se ti chiedo un piccolo consiglio? Vedi, sono in città per divertirmi, ma sono completamente al verde."
+
+msgctxt "140_Man"
+msgid "So, to make a long story short. Why dontcha hand over your wallet? 'Cause there's no tellin' what'll happen if you don't!"
+msgstr "Quindi, per farla breve. Perché non mi dai il tuo portafoglio? Perché non si sa cosa potrebbe succedere se non lo fai!"
+
+msgctxt "152_Man"
+msgid "We're findin' ourselves runnin' low on the ol' cashola, and you look like you wouldn't notice if a healthy handful o' yen went missin'."
+msgstr "Ci stiamo ritrovando a corto di contanti, e tu sembri uno che non si accorgerebbe se una bella manciata di yen sparisse."
+
+msgctxt "164_Man"
+msgid "No hard feelin's, right?"
+msgstr "Nessun rancore, vero?"
+
+msgctxt "200_Man"
+msgid "Whoa! That was somethin' else! You sure don't mess around."
+msgstr "Whoa! Quello sì che è stato un colpo! Tu non scherzi affatto."
+
+msgctxt "212_Man"
+msgid "Sorry 'bout that. Guess I picked on the wrong guy. Take this, will ya?"
+msgstr "Scusa. Credo di aver scelto il tipo sbagliato. Prendi questo, ok?"
+
+msgctxt "224_Man"
+msgid "You got a hindsight-colored %s."
+msgstr "Hai ottenuto un %s color senno di poi."
+
+msgctxt "248_Man"
+msgid "Shit, he's really powerful. Why'd it have to be this guy?"
+msgstr "Merda, è davvero potente. Perché doveva capitare proprio questo tipo?"
+
+msgctxt "260_Man"
+msgid "Just take this and forget you ever saw us."
+msgstr "Prendi questo e dimentica di averci mai visto."
+
+msgctxt "272_Man"
+msgid "You got an unmemorable %s."
+msgstr "Hai ottenuto un %s insignificante."
+
+msgctxt "320_Man"
+msgid "You're one strong fella, I can tell ya that."
+msgstr "Sei un tipo forte, te lo posso assicurare."
+
+msgctxt "332_Man"
+msgid "*pant* *pant*"
+msgstr "*ansima* *ansima*"

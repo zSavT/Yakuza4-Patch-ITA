@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1348"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1352"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1356"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1360"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1364"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "My girl told me that you assaulted her. Why don't you pay up, as an apology?"
+msgstr "La mia ragazza mi ha detto che l'hai aggredita. Perché non paghi come scusa?"
+
+msgctxt "128_Man"
+msgid "If you don't pay, I'll just have to punch you instead!"
+msgstr "Se non paghi, dovrò prenderti a pugni!"
+
+msgctxt "152_Man"
+msgid "Gah... I lied. Please, no more. I was joking!"
+msgstr "Gah... Ho mentito. Ti prego, basta. Stavo scherzando!"
+
+msgctxt "164_Man"
+msgid "Maybe you'll forgive me with this..."
+msgstr "Forse mi perdonerai con questo..."
+
+msgctxt "176_Man"
+msgid "You got a dented %s."
+msgstr "Hai ottenuto un %s ammaccato."
+
+msgctxt "212_Man"
+msgid "I won't do it again..."
+msgstr "Non lo farò più..."

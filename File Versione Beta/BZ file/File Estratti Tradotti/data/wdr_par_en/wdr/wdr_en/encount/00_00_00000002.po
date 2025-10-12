@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+
+msgctxt "1280"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1284"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1288"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1292"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1296"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid ""
+"You've been attracting a lot of attention around here lately. You shoulda "
+"done that after you got my permission."
+msgstr ""
+"Ultimamente hai attirato molta attenzione da queste parti. Avresti dovuto "
+"farlo dopo aver ottenuto il mio permesso."
+
+msgctxt "128_Man"
+msgid "So I guess I'll hafta say hello with my fists!"
+msgstr "Quindi immagino che dovrò salutarti con i miei pugni!"
+
+msgctxt "152_Man"
+msgid "Ugh... It hurts."
+msgstr "Ugh... Fa male."
+
+msgctxt "164_Man"
+msgid "I'm sorry, please take this."
+msgstr "Mi dispiace, ti prego prendi questo."
+
+msgctxt "176_Man"
+msgid "You got a sweat-stained %s."
+msgstr "Hai ottenuto un %s macchiato di sudore."
+
+msgctxt "212_Man"
+msgid "I won't complain about you anymore..."
+msgstr "Non mi lamenterò più di te..."

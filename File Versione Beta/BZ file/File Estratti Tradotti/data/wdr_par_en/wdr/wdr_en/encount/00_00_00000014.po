@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "1508"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1512"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1516"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "1520"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1524"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "You ever wish you could get money without working? You have, right?"
+msgstr "Hai mai desiderato di fare soldi senza lavorare? Certo che sì, vero?"
+
+msgctxt "128_Man"
+msgid ""
+"Well, you can if you just take people's money. Easy, right? So, how about "
+"you give up yours!?"
+msgstr "Beh, puoi farlo se prendi i soldi della gente. Facile, no? Allora, che ne dici di darmi i tuoi!?"
+
+msgctxt "152_Man"
+msgid "Eeek! I was cocky, sorry!"
+msgstr "Eeek! Sono stato presuntuoso, scusa!"
+
+msgctxt "164_Man"
+msgid ""
+"The world isn't such an easy place, I guess... Here, please take this for "
+"my lesson fee..."
+msgstr "Il mondo non è un posto così facile, immagino... Tieni, per favore prendi questo come compenso per la lezione..."
+
+msgctxt "176_Man"
+msgid "You got a pretty nice %s."
+msgstr "Hai ottenuto un %s niente male."
+
+msgctxt "212_Man"
+msgid "Man... Guess I gotta find a job."
+msgstr "Amico... credo che dovrò trovarmi un lavoro."

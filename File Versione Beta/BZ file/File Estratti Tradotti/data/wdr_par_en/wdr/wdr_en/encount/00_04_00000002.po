@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1596"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1600"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1604"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1608"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1612"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1616"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid "'Scuse me. You have a second? It turns out a certain someone thinks you're a real nuisance."
+msgstr "Mi scusi. Ha un secondo? Si dà il caso che un certo qualcuno pensi che lei sia un vero fastidio."
+
+msgctxt "128_Man"
+msgid "Now, are you gonna let us beat you up so we can collect our paycheck?"
+msgstr "Allora, ci lascerà pestarla così possiamo incassare la nostra paga?"
+
+msgctxt "152_Man"
+msgid "Sorry. Actually, no one sent us to rough you up. We thought the cops would let us off easier if we told them we were hired muscle."
+msgstr "Scusa. In realtà, nessuno ci ha mandato a pestarti. Pensavamo che i poliziotti ci avrebbero lasciato andare più facilmente se avessimo detto che eravamo stati ingaggiati."
+
+msgctxt "164_Man"
+msgid "We did it for the money, that's all. Totally an impulse beating. Hope this makes up for it."
+msgstr "L'abbiamo fatto per i soldi, tutto qui. Un pestaggio totalmente impulsivo. Spero che questo possa rimediare."
+
+msgctxt "176_Man"
+msgid "You got an impulsive %s."
+msgstr "Hai ottenuto un %s impulsivo."
+
+msgctxt "212_Man"
+msgid "We'll stay on the straight and narrow, promise!"
+msgstr "Riggeremo dritto, promesso!"

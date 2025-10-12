@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: pt-BR\n"
+"Language-Team: Brazil Alliance\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-15\n"
+"Project-Id-Version: yakuza-3-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "124"
+msgid "You look like you got some fat pockets, man. How 'bout you share the wealth?"
+msgstr ""
+
+msgctxt "136"
+msgid "...Or do I gotta beat it outta you!?"
+msgstr ""
+
+msgctxt "160"
+msgid "Ow, dammit!"
+msgstr ""
+
+msgctxt "172"
+msgid "On second thought, I don't think I need any cash right now! Here!"
+msgstr ""
+
+msgctxt "184"
+msgid "You got a cool %s."
+msgstr ""
+
+msgctxt "220"
+msgid "Yup, all good! Keep your money!"
+msgstr ""
+
+msgctxt "1211"
+msgid "Angry Punk"
+msgstr ""
+
+msgctxt "1215"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1219"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "1223"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "1227"
+msgid "Talk_No"
+msgstr ""
