@@ -1,0 +1,117 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2988"
+msgid "Takashi"
+msgstr "Takashi"
+
+msgctxt "2992"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2996"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "3000"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "3004"
+msgid "P_aki_stand"
+msgstr "P_aki_stand"
+
+msgctxt "3008"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "3012"
+msgid "Talk_Phone_yes"
+msgstr "Talk_Phone_yes"
+
+msgctxt "3016"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "3020"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "3024"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "3028"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "56_Takashi"
+msgid "Oh, Kiryu-san."
+msgstr "Oh, Kiryu-san."
+
+msgctxt "68_Kiryu"
+msgid "You hear back from the Florist yet?"
+msgstr "You hear back from the Florist yet?"
+
+msgctxt "80_Takashi"
+msgid "Not a peep, no..."
+msgstr "Not a peep, no..."
+
+msgctxt "116_Takashi"
+msgid "Hello?"
+msgstr "Salve?"
+
+msgctxt "128_Takashi"
+msgid "Yeah... okay. In the casino?"
+msgstr "Yeah... okay. In the casino?"
+
+msgctxt "140_Takashi"
+msgid "Consider it done!"
+msgstr "Consider it done!"
+
+msgctxt "164_Kiryu"
+msgid "So, what did he ask you to do?"
+msgstr "So, what did he ask you to do?"
+
+msgctxt "176_Takashi"
+msgid ""
+"He was saying there's some guy in the underground casino who\r\n"
+"just won't stop winning."
+msgstr ""
+"He was saying there's some guy in the underground casino who\r\n"
+"just won't stop winning."
+
+msgctxt "188_Takashi"
+msgid ""
+"And he's got a hunch this guy is using more than luck to get\r\n"
+"the job done, if you catch my drift. So I have to go down\r\n"
+"and figure out what the deal is."
+msgstr ""
+"And he's got a hunch this guy is using more than luck to get\r\n"
+"the job done, if you catch my drift. So I have to go down\r\n"
+"and figure out what the deal is."
+
+msgctxt "200_Kiryu"
+msgid "Think you can handle it?"
+msgstr "Think you can handle it?"
+
+msgctxt "212_Takashi"
+msgid "Think? I know I can!"
+msgstr "Think? I know I can!"
+
+msgctxt "236_Kiryu"
+msgid ""
+"(Hope he'll be okay. I should probably go check on him, just to be safe.)"
+msgstr ""
+"(Hope he'll be okay. I should probably go check on him, just to be safe.)"

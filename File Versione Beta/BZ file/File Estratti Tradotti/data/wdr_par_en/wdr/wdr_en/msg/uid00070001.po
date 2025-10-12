@@ -1,0 +1,341 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "12016"
+msgid "Receptionist"
+msgstr "Receptionist"
+
+msgctxt "12020"
+msgid "The Underground Coliseum"
+msgstr "The Underground Coliseum"
+
+msgctxt "740_Receptionist"
+msgid "This facility is for members only."
+msgstr "This facility is for members only."
+
+msgctxt "752_Receptionist"
+msgid "I'm sorry, only registered customers can enter this facility."
+msgstr "I'm sorry, only registered customers can enter this facility."
+
+msgctxt "764_Receptionist"
+msgid "Thank you very much. Come back when you want to fight again."
+msgstr "Thank you very much. Come back when you want to fight again."
+
+msgctxt "800_Receptionist"
+msgid "Congratulations. Here is your reward for winning."
+msgstr "Congratulations. Here is your reward for winning."
+
+msgctxt "836_Receptionist"
+msgid "Congratulations!"
+msgstr "Congratulations!"
+
+msgctxt "848_Receptionist"
+msgid "Your nickname has been upgraded! You can check it out from the menu."
+msgstr "Your nickname has been upgraded! You can check it out from the menu."
+
+msgctxt "860_Receptionist"
+msgid "Welcome. This is the Underground Coliseum."
+msgstr "Welcome. This is the Underground Coliseum."
+
+msgctxt "872_Receptionist"
+msgid ""
+"Is this your first time here? We will have to register you first.\r\n"
+"Have a look at the rules while you wait."
+msgstr ""
+"Is this your first time here? We will have to register you first.\r\n"
+"Have a look at the rules while you wait."
+
+msgctxt "896_Receptionist"
+msgid "Your registration is complete."
+msgstr "Your registration is complete."
+
+msgctxt "908_Receptionist"
+msgid ""
+"This information has been added as a <Color:14>memo<Color:Default>.\r\n"
+"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
+"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr ""
+"This information has been added as a <Color:14>memo<Color:Default>.\r\n"
+"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
+"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+
+msgctxt "920_Receptionist"
+msgid "What would you like to do?"
+msgstr "What would you like to do?"
+
+msgctxt "932_Receptionist"
+msgid "What would you like to ask about?"
+msgstr "What would you like to ask about?"
+
+msgctxt "944_Receptionist"
+msgid "What would you like to view?"
+msgstr "What would you like to view?"
+
+msgctxt "956_Receptionist"
+msgid ""
+"Be forewarned: you will not be able to use any weapons or defensive gear."
+msgstr ""
+"Be forewarned: you will not be able to use any weapons or defensive gear."
+
+msgctxt "968_Receptionist"
+msgid "Please select a tournament."
+msgstr "Please select a tournament."
+
+msgctxt "1004_Receptionist"
+msgid "Best of luck, and have a good fight."
+msgstr "Best of luck, and have a good fight."
+
+msgctxt "1028_Receptionist"
+msgid "Here are the rules of the Underground Coliseum."
+msgstr "Here are the rules of the Underground Coliseum."
+
+msgctxt "1052_Receptionist"
+msgid "What information would you like to view?"
+msgstr "What information would you like to view?"
+
+msgctxt "1064_Receptionist"
+msgid "Here is information on individual match opponents."
+msgstr "Here is information on individual match opponents."
+
+msgctxt "1088_Receptionist"
+msgid "Here is information on tag match opponents."
+msgstr "Here is information on tag match opponents."
+
+msgctxt "1112_Receptionist"
+msgid "You can trade points here for items and other things."
+msgstr "You can trade points here for items and other things."
+
+msgctxt "1124_Receptionist"
+msgid "What would you like to trade for?"
+msgstr "What would you like to trade for?"
+
+msgctxt "1148_Receptionist"
+msgid "These are your fight stats."
+msgstr "These are your fight stats."
+
+msgctxt "1172_Receptionist"
+msgid ""
+"This is a compilation of information about popularity in the Underground "
+"Coliseum."
+msgstr ""
+"This is a compilation of information about popularity in the Underground "
+"Coliseum."
+
+msgctxt "1196_Receptionist"
+msgid "This is a compilation of information about tag matches."
+msgstr "This is a compilation of information about tag matches."
+
+msgctxt "1220_Receptionist"
+msgid "Thank you. Please come again."
+msgstr "Thank you. Please come again."
+
+msgctxt "1244_Receptionist"
+msgid ""
+"This information has been added as a <Color:14>memo<Color:Default>.\r\n"
+"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
+"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr ""
+"This information has been added as a <Color:14>memo<Color:Default>.\r\n"
+"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
+"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+
+msgctxt "1256_Receptionist"
+msgid "What would you like to do?"
+msgstr "What would you like to do?"
+
+msgctxt "1268_Receptionist"
+msgid "What would you like to ask about?"
+msgstr "What would you like to ask about?"
+
+msgctxt "1280_Receptionist"
+msgid "What would you like to ask about?"
+msgstr "What would you like to ask about?"
+
+msgctxt "1292_Receptionist"
+msgid ""
+"Be forewarned: you will not be able to use any weapons or defensive gear."
+msgstr ""
+"Be forewarned: you will not be able to use any weapons or defensive gear."
+
+msgctxt "1304_Receptionist"
+msgid "Please select a tournament."
+msgstr "Please select a tournament."
+
+msgctxt "1340_Receptionist"
+msgid "Thank you, and good luck."
+msgstr "Thank you, and good luck."
+
+msgctxt "1364_Receptionist"
+msgid "Here are the rules of the Underground Coliseum."
+msgstr "Here are the rules of the Underground Coliseum."
+
+msgctxt "1388_Receptionist"
+msgid "What information would you like to view?"
+msgstr "What information would you like to view?"
+
+msgctxt "1400_Receptionist"
+msgid "Here is information on individual match opponents."
+msgstr "Here is information on individual match opponents."
+
+msgctxt "1424_Receptionist"
+msgid "Here is information on tag match opponents."
+msgstr "Here is information on tag match opponents."
+
+msgctxt "1448_Receptionist"
+msgid "You can trade points here for items and other things."
+msgstr "You can trade points here for items and other things."
+
+msgctxt "1460_Receptionist"
+msgid "What would you like to trade for?"
+msgstr "What would you like to trade for?"
+
+msgctxt "1484_Receptionist"
+msgid "These are your fight stats."
+msgstr "These are your fight stats."
+
+msgctxt "1508_Receptionist"
+msgid ""
+"This is a compilation of information about popularity in the Underground "
+"Coliseum."
+msgstr ""
+"This is a compilation of information about popularity in the Underground "
+"Coliseum."
+
+msgctxt "1532_Receptionist"
+msgid "This is a compilation of information about tag matches."
+msgstr "This is a compilation of information about tag matches."
+
+msgctxt "1556_Receptionist"
+msgid "Thank you. Please come again."
+msgstr "Thank you. Please come again."
+
+msgctxt "1568_Receptionist"
+msgid "Fight in a Match"
+msgstr "Fight in a Match"
+
+msgctxt "1580_Receptionist"
+msgid "Ask about the Coliseum"
+msgstr "Ask about the Coliseum"
+
+msgctxt "1592_Receptionist"
+msgid "View Fighter Stats"
+msgstr "View Fighter Stats"
+
+msgctxt "1604_Receptionist"
+msgid "Exchange Points"
+msgstr "Exchange Points"
+
+msgctxt "1616_Receptionist"
+msgid "Nothing"
+msgstr "Niente"
+
+msgctxt "1628_Receptionist"
+msgid "The Rules"
+msgstr "The Rules"
+
+msgctxt "1640_Receptionist"
+msgid "Ask About Popularity"
+msgstr "Ask About Popularity"
+
+msgctxt "1652_Receptionist"
+msgid "Ask About Tag Matches"
+msgstr "Ask About Tag Matches"
+
+msgctxt "1664_Receptionist"
+msgid "Back"
+msgstr "Back"
+
+msgctxt "1676_Receptionist"
+msgid "Opponent Info"
+msgstr "Opponent Info"
+
+msgctxt "1688_Receptionist"
+msgid "Fight Stats"
+msgstr "Fight Stats"
+
+msgctxt "1700_Receptionist"
+msgid "Back"
+msgstr "Back"
+
+msgctxt "1712_Receptionist"
+msgid "Individual Match Opponent Info"
+msgstr "Individual Match Opponent Info"
+
+msgctxt "1724_Receptionist"
+msgid "Tag Match Opponent Info"
+msgstr "Tag Match Opponent Info"
+
+msgctxt "1736_Receptionist"
+msgid "Back"
+msgstr "Back"
+
+msgctxt "1748_Receptionist"
+msgid "Fight in a Match"
+msgstr "Fight in a Match"
+
+msgctxt "1760_Receptionist"
+msgid "Ask about the Coliseum"
+msgstr "Ask about the Coliseum"
+
+msgctxt "1772_Receptionist"
+msgid "View Fighter Stats"
+msgstr "View Fighter Stats"
+
+msgctxt "1784_Receptionist"
+msgid "Exchange Points"
+msgstr "Exchange Points"
+
+msgctxt "1796_Receptionist"
+msgid "Nothing"
+msgstr "Niente"
+
+msgctxt "1808_Receptionist"
+msgid "The Rules"
+msgstr "The Rules"
+
+msgctxt "1820_Receptionist"
+msgid "Ask About Popularity"
+msgstr "Ask About Popularity"
+
+msgctxt "1832_Receptionist"
+msgid "Ask About Tag Matches"
+msgstr "Ask About Tag Matches"
+
+msgctxt "1844_Receptionist"
+msgid "Back"
+msgstr "Back"
+
+msgctxt "1856_Receptionist"
+msgid "Opponent Info"
+msgstr "Opponent Info"
+
+msgctxt "1868_Receptionist"
+msgid "Fight Stats"
+msgstr "Fight Stats"
+
+msgctxt "1880_Receptionist"
+msgid "Back"
+msgstr "Back"
+
+msgctxt "1892_Receptionist"
+msgid "Individual Match Opponent Info"
+msgstr "Individual Match Opponent Info"
+
+msgctxt "1904_Receptionist"
+msgid "Tag Match Opponent Info"
+msgstr "Tag Match Opponent Info"
+
+msgctxt "1916_Receptionist"
+msgid "Back"
+msgstr "Back"

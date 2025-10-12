@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1280"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1284"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "1288"
+msgid "Shizuka"
+msgstr "Shizuka"
+
+msgctxt "1292"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "1296"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "56_Kiryu"
+msgid "(All right, I got Shizuka's purse back. I'll give her a call.)"
+msgstr "(All right, I got Shizuka's purse back. I'll give her a call.)"
+
+msgctxt "104_Kiryu"
+msgid "Shizuka? It's me. I got your purse back."
+msgstr "Shizuka? It's me. I got your purse back."
+
+msgctxt "116_Shizuka"
+msgid "Really!? Are you okay? You didn't get hurt, did you!?"
+msgstr "Really!? Are you okay? You didn't get hurt, did you!?"
+
+msgctxt "128_Kiryu"
+msgid "I'm fine. Meet me in front of the Millennium Tower."
+msgstr "I'm fine. Meet me in front of the Millennium Tower."
+
+msgctxt "140_Shizuka"
+msgid "Okay!"
+msgstr "Ok!"

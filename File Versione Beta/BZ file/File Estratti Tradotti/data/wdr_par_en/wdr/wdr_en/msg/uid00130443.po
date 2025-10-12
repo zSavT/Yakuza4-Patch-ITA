@@ -1,0 +1,201 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "308"
+msgid "You got an <Color:8>SSS Gun Powder<Color:Default>."
+msgstr "You got an <Color:8>SSS Gun Powder<Color:Default>."
+
+msgctxt "6716"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "6720"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "6724"
+msgid "Sodachi"
+msgstr "Sodachi"
+
+msgctxt "6728"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6732"
+msgid "Talk_CryBig_st"
+msgstr "Talk_CryBig_st"
+
+msgctxt "6736"
+msgid "Sugiyama"
+msgstr "Sugiyama"
+
+msgctxt "6740"
+msgid "Talk_CryBig_ed"
+msgstr "Talk_CryBig_ed"
+
+msgctxt "6744"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "6748"
+msgid "Ochiai"
+msgstr "Ochiai"
+
+msgctxt "6752"
+msgid "Everyone"
+msgstr "Everyone"
+
+msgctxt "6756"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "6760"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "6764"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "6768"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "6772"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "6776"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "56_Saejima"
+msgid "It's time for me to go."
+msgstr "It's time for me to go."
+
+msgctxt "68_Sodachi"
+msgid "Are you really leaving!?"
+msgstr "Are you really leaving!?"
+
+msgctxt "80_Saejima"
+msgid ""
+"I can't just stay here forever. Plus you got a lot more students now, and "
+"the dojo's become real impressive."
+msgstr ""
+"I can't just stay here forever. Plus you got a lot more students now, and "
+"the dojo's become real impressive."
+
+msgctxt "92_Saejima"
+msgid "You don't need me no more."
+msgstr "You don't need me no more."
+
+msgctxt "104_Sodachi"
+msgid ""
+"Oh, no! Please... Please don't go! Don't go, Saejima-san! Nooooooooooo!"
+msgstr ""
+"Oh, no! Please... Please don't go! Don't go, Saejima-san! Nooooooooooo!"
+
+msgctxt "116_Sugiyama"
+msgid "Sodachi-san... He has no choice. He has other things to do."
+msgstr "Sodachi-san... He has no choice. He has other things to do."
+
+msgctxt "128_Sodachi"
+msgid ""
+"You're right. It's truly unfortunate... But I guess I should see you off "
+"with a smile."
+msgstr ""
+"You're right. It's truly unfortunate... But I guess I should see you off "
+"with a smile."
+
+msgctxt "140_Sodachi"
+msgid "Saejima-san... Really, thank you for everything."
+msgstr "Saejima-san... Really, thank you for everything."
+
+msgctxt "152_Sodachi"
+msgid "If it weren't for you, my dojo would not be here today."
+msgstr "If it weren't for you, my dojo would not be here today."
+
+msgctxt "164_Sodachi"
+msgid ""
+"And not just the dojo. If it weren't for you, these students wouldn't have "
+"been able to grow as much as they have."
+msgstr ""
+"And not just the dojo. If it weren't for you, these students wouldn't have "
+"been able to grow as much as they have."
+
+msgctxt "176_Sodachi"
+msgid "We'll continue to work as hard as we can."
+msgstr "We'll continue to work as hard as we can."
+
+msgctxt "188_Sodachi"
+msgid ""
+"You come back and visit anytime you want. We'll always be waiting for you!"
+msgstr ""
+"You come back and visit anytime you want. We'll always be waiting for you!"
+
+msgctxt "200_Saejima"
+msgid ""
+"Right. I'll come and check on ya every once in a while to make sure you "
+"ain't gone soft. Especially you, Fukushi."
+msgstr ""
+"Right. I'll come and check on ya every once in a while to make sure you "
+"ain't gone soft. Especially you, Fukushi."
+
+msgctxt "212_Ochiai"
+msgid "What!? Why me!? I'm gonna work harder than ever!"
+msgstr "What!? Why me!? I'm gonna work harder than ever!"
+
+msgctxt "224_Everyone"
+msgid "Hahaha!"
+msgstr "Hahaha!"
+
+msgctxt "236_Saejima"
+msgid ""
+"I ain't a sentimental man, so I'm only sayin' this once. I'm glad I met all "
+"of ya. And I mean that from the bottom of my heart."
+msgstr ""
+"I ain't a sentimental man, so I'm only sayin' this once. I'm glad I met all "
+"of ya. And I mean that from the bottom of my heart."
+
+msgctxt "248_Saejima"
+msgid "Even after I leave the dojo, our bond ain't never gonna change."
+msgstr "Even after I leave the dojo, our bond ain't never gonna change."
+
+msgctxt "260_Saejima"
+msgid "We'll always be together."
+msgstr "We'll always be together."
+
+msgctxt "272_Sodachi"
+msgid "Saejima-san..."
+msgstr "Saejima-san..."
+
+msgctxt "284_Sodachi"
+msgid "Thank you... Thank you so much!"
+msgstr "Thank you... Thank you so much!"
+
+msgctxt "296_Sodachi"
+msgid ""
+"This is a little token of appreciation for all that you've done for us. "
+"Please, take it on behalf of all of us."
+msgstr ""
+"This is a little token of appreciation for all that you've done for us. "
+"Please, take it on behalf of all of us."
+
+msgctxt "332_Saejima"
+msgid "All right. It's been fun. You guys be good now. See ya around."
+msgstr "All right. It's been fun. You guys be good now. See ya around."
+
+msgctxt "344_Sodachi"
+msgid "Come back anytime, Saejima-san. We'll be waiting for you!"
+msgstr "Come back anytime, Saejima-san. We'll be waiting for you!"

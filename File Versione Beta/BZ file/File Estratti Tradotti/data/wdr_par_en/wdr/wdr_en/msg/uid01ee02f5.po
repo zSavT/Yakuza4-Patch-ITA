@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "980"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "984"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "988"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_Player"
+msgid "(Hey, a fishing pole. Might be fun to do a little fishing.)"
+msgstr "(Hey, a fishing pole. Might be fun to do a little fishing.)"
+
+msgctxt "140_Player"
+msgid "(Okay, let's do this.)"
+msgstr "(Okay, let's do this.)"
+
+msgctxt "164_Player"
+msgid "(I don't have anything to use as bait...)"
+msgstr "(I don't have anything to use as bait...)"
+
+msgctxt "176_Player"
+msgid "(Not right now.)"
+msgstr "(Not right now.)"
+
+msgctxt "200_Player"
+msgid "Start Fishing"
+msgstr "Start Fishing"
+
+msgctxt "212_Player"
+msgid "Not Now"
+msgstr "Not Now"

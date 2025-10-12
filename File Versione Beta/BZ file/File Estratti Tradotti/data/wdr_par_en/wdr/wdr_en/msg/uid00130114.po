@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "96"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr "You got <Color:8>20,000 yen<Color:Default>."
+
+msgctxt "1520"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1524"
+msgid "Drunk That Was Angry"
+msgstr "Drunk That Was Angry"
+
+msgctxt "1528"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1532"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "72_Tanimura"
+msgid ""
+"Geez, what the hell are you guys doing? Don't you even worry about what "
+"people will think?"
+msgstr ""
+"Geez, what the hell are you guys doing? Don't you even worry about what "
+"people will think?"
+
+msgctxt "84_Drunk That Was Angry"
+msgid ""
+"Ugh... Whatever happens, I can't let the guys at work hear about this one. "
+"Please, just take this and forget about it..."
+msgstr ""
+"Ugh... Whatever happens, I can't let the guys at work hear about this one. "
+"Please, just take this and forget about it..."
+
+msgctxt "168_Drunk That Was Angry"
+msgid "Man, if my co-workers hear about this..."
+msgstr "Man, if my co-workers hear about this..."

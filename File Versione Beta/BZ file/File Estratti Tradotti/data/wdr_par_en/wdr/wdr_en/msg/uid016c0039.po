@@ -1,0 +1,439 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "504"
+msgid "Controls"
+msgstr "Controls"
+
+msgctxt "14280"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "14284"
+msgid "F_cab_sitsofa_hot_muneA"
+msgstr "F_cab_sitsofa_hot_muneA"
+
+msgctxt "14288"
+msgid "望月京子：源氏名"
+msgstr "望月京子：源氏名"
+
+msgctxt "14292"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "14296"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr "F_cab_sitsofa_tlk_angry"
+
+msgctxt "14300"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr "F_cab_sitsofa_talk_smileA"
+
+msgctxt "516_Kiryu"
+msgid ""
+"Use "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret>"
+" to control where you look. This is your chance to feast your eyes on her "
+"beauty."
+msgstr ""
+"Use "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret>"
+" to control where you look. This is your chance to feast your eyes on her "
+"beauty."
+
+msgctxt "528_Kiryu"
+msgid ""
+"Press <Action:Button_Cross@Cabaret> when you want to focus intently on one "
+"of her features. Holding down <Action:Button_Cross@Cabaret> allows you to "
+"focus your gaze."
+msgstr ""
+"Press <Action:Button_Cross@Cabaret> when you want to focus intently on one "
+"of her features. Holding down <Action:Button_Cross@Cabaret> allows you to "
+"focus your gaze."
+
+msgctxt "540_Kiryu"
+msgid "Note that her response will change depending on where you look."
+msgstr "Note that her response will change depending on where you look."
+
+msgctxt "564_Kiryu"
+msgid "(Her eyes?)"
+msgstr "(Her eyes?)"
+
+msgctxt "576_Kiryu"
+msgid "(Her mouth?)"
+msgstr "(Her mouth?)"
+
+msgctxt "588_Kiryu"
+msgid "(Her hands?)"
+msgstr "(Her hands?)"
+
+msgctxt "600_Kiryu"
+msgid "(Her thighs?)"
+msgstr "(Her thighs?)"
+
+msgctxt "612_Kiryu"
+msgid "(Her forehead?)"
+msgstr "(Her forehead?)"
+
+msgctxt "624_Kiryu"
+msgid "(Her chest?)"
+msgstr "(Her chest?)"
+
+msgctxt "636_Kiryu"
+msgid "(Hmm...)"
+msgstr "(Hmm...)"
+
+msgctxt "648_Kiryu"
+msgid "What about your eyes? I've heard of women getting eyeliner tattoos."
+msgstr "What about your eyes? I've heard of women getting eyeliner tattoos."
+
+msgctxt "660_望月京子：源氏名"
+msgid ""
+"It would make it simpler to put on makeup. I wouldn't have to draw it on "
+"every day."
+msgstr ""
+"It would make it simpler to put on makeup. I wouldn't have to draw it on "
+"every day."
+
+msgctxt "672_望月京子：源氏名"
+msgid ""
+"But not what I had in mind. I wanted a picture. Like a fashion accessory."
+msgstr ""
+"But not what I had in mind. I wanted a picture. Like a fashion accessory."
+
+msgctxt "684_Kiryu"
+msgid "Oh, I see."
+msgstr "Oh, I see."
+
+msgctxt "696_Kiryu"
+msgid ""
+"What about your lips or tongue? You'd only be able to see it when you opened"
+" your mouth."
+msgstr ""
+"What about your lips or tongue? You'd only be able to see it when you opened"
+" your mouth."
+
+msgctxt "708_望月京子：源氏名"
+msgid "My mouth!? I don't know about that..."
+msgstr "My mouth!? I don't know about that..."
+
+msgctxt "720_Kiryu"
+msgid "Oh?"
+msgstr "Oh?"
+
+msgctxt "732_望月京子：源氏名"
+msgid ""
+"I'm a singer. I open my mouth all the time, so if I got a tattoo there, it "
+"would really change my image."
+msgstr ""
+"I'm a singer. I open my mouth all the time, so if I got a tattoo there, it "
+"would really change my image."
+
+msgctxt "744_Kiryu"
+msgid "I see. That might be a little much then, huh?"
+msgstr "I see. That might be a little much then, huh?"
+
+msgctxt "756_Kiryu"
+msgid "What about the back of your hand?"
+msgstr "What about the back of your hand?"
+
+msgctxt "768_望月京子：源氏名"
+msgid ""
+"That's not a bad idea. It would stand out when I'm playing my guitar or "
+"holding a mic."
+msgstr ""
+"That's not a bad idea. It would stand out when I'm playing my guitar or "
+"holding a mic."
+
+msgctxt "780_Kiryu"
+msgid "Do you know what kind of tattoo you want?"
+msgstr "Do you know what kind of tattoo you want?"
+
+msgctxt "792_望月京子：源氏名"
+msgid ""
+"Hmm... Maybe I'll go with one of my favorite flowers. I bet that'd be cute. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Hmm... Maybe I'll go with one of my favorite flowers. I bet that'd be cute. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "804_Kiryu"
+msgid "What about your thighs?"
+msgstr "What about your thighs?"
+
+msgctxt "816_望月京子：源氏名"
+msgid "Maybe... I suppose you could see it when I wear a miniskirt."
+msgstr "Maybe... I suppose you could see it when I wear a miniskirt."
+
+msgctxt "828_Kiryu"
+msgid "Do you know what kind of tattoo you want?"
+msgstr "Do you know what kind of tattoo you want?"
+
+msgctxt "840_望月京子：源氏名"
+msgid ""
+"Hmm... I might go with one of my favorite flowers. I bet that'd be cute. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Hmm... I might go with one of my favorite flowers. I bet that'd be cute. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "852_Kiryu"
+msgid "What about your forehead?"
+msgstr "What about your forehead?"
+
+msgctxt "864_望月京子：源氏名"
+msgid ""
+"My forehead!? Are you insane!? That'd stand out a little much, don't you "
+"think?"
+msgstr ""
+"My forehead!? Are you insane!? That'd stand out a little much, don't you "
+"think?"
+
+msgctxt "876_Kiryu"
+msgid "Well, it would certainly have an impact."
+msgstr "Well, it would certainly have an impact."
+
+msgctxt "888_望月京子：源氏名"
+msgid "I don't need that kind of impact! People would think I was crazy!"
+msgstr "I don't need that kind of impact! People would think I was crazy!"
+
+msgctxt "900_Kiryu"
+msgid "What about your chest? It would emphasize your sexy side."
+msgstr "What about your chest? It would emphasize your sexy side."
+
+msgctxt "912_望月京子：源氏名"
+msgid "Hmm. That's not a bad idea, but..."
+msgstr "Hmm. That's not a bad idea, but..."
+
+msgctxt "924_Kiryu"
+msgid "But?"
+msgstr "But?"
+
+msgctxt "936_望月京子：源氏名"
+msgid ""
+"I don't like the idea of the tattooist seeing my chest while I had it done. "
+"I want to save that for someone special."
+msgstr ""
+"I don't like the idea of the tattooist seeing my chest while I had it done. "
+"I want to save that for someone special."
+
+msgctxt "948_Kiryu"
+msgid "Heh, I see..."
+msgstr "Eh, capisco..."
+
+msgctxt "960_望月京子：源氏名"
+msgid "Hey, what're you looking at?"
+msgstr "Hey, what're you looking at?"
+
+msgctxt "972_望月京子：源氏名"
+msgid "This is important. Pay a little more attention!"
+msgstr "This is important. Pay a little more attention!"
+
+msgctxt "984_Kiryu"
+msgid ""
+"If you can't decide on your own, maybe you shouldn't do it. You can't take "
+"it back once you get a tattoo, you know."
+msgstr ""
+"If you can't decide on your own, maybe you shouldn't do it. You can't take "
+"it back once you get a tattoo, you know."
+
+msgctxt "996_望月京子：源氏名"
+msgid ""
+"I've heard they can remove tattoos now. It does leave a small scar, though."
+msgstr ""
+"I've heard they can remove tattoos now. It does leave a small scar, though."
+
+msgctxt "1008_望月京子：源氏名"
+msgid "Okay. I'll give it a little more thought."
+msgstr "Okay. I'll give it a little more thought."
+
+msgctxt "1020_Kiryu"
+msgid "(Her almond-shaped eyes?)"
+msgstr "(Her almond-shaped eyes?)"
+
+msgctxt "1032_Kiryu"
+msgid "(Her strong lips?)"
+msgstr "(Her strong lips?)"
+
+msgctxt "1044_Kiryu"
+msgid "(Her slender hands?)"
+msgstr "(Her slender hands?)"
+
+msgctxt "1056_Kiryu"
+msgid "(Her pretty legs?)"
+msgstr "(Her pretty legs?)"
+
+msgctxt "1068_Kiryu"
+msgid "(Her beautiful hair?)"
+msgstr "(Her beautiful hair?)"
+
+msgctxt "1080_Kiryu"
+msgid "(Pretty impressive...)"
+msgstr "(Pretty impressive...)"
+
+msgctxt "1092_Kiryu"
+msgid "(Well...)"
+msgstr "(Well...)"
+
+msgctxt "1104_Kiryu"
+msgid "I'd say your almond-shaped eyes."
+msgstr "I'd say your almond-shaped eyes."
+
+msgctxt "1116_望月京子：源氏名"
+msgid ""
+"Good answer. They are pretty sexy, if I do say so myself. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Good answer. They are pretty sexy, if I do say so myself. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "1128_Kiryu"
+msgid "I always get a little thrill when you look at me with those eyes."
+msgstr "I always get a little thrill when you look at me with those eyes."
+
+msgctxt "1140_望月京子：源氏名"
+msgid "Hahaha! I guess that makes two of us."
+msgstr "Hahaha! I guess that makes two of us."
+
+msgctxt "1152_Kiryu"
+msgid "Hm? Two of us?"
+msgstr "Hm? Two of us?"
+
+msgctxt "1164_望月京子：源氏名"
+msgid ""
+"Oh, never mind! I was just talking to myself. <Color:7>♥<Color:Default>"
+msgstr ""
+"Oh, never mind! I was just talking to myself. <Color:7>♥<Color:Default>"
+
+msgctxt "1176_Kiryu"
+msgid "I'd say your strong lips."
+msgstr "I'd say your strong lips."
+
+msgctxt "1188_望月京子：源氏名"
+msgid ""
+"Actually, I'm pretty proud of my lips. As a singer, my lips are important."
+msgstr ""
+"Actually, I'm pretty proud of my lips. As a singer, my lips are important."
+
+msgctxt "1200_Kiryu"
+msgid "I like it when they're moist and supple."
+msgstr "I like it when they're moist and supple."
+
+msgctxt "1212_望月京子：源氏名"
+msgid " Is that so? Sounds like you have a thing for lips..."
+msgstr "Is that so? Sounds like you have a thing for lips..."
+
+msgctxt "1224_Kiryu"
+msgid "I'd say your slender hands."
+msgstr "I'd say your slender hands."
+
+msgctxt "1236_望月京子：源氏名"
+msgid ""
+"You really think so? Everybody says I'm such a tomboy. Nobody's ever "
+"complimented me on my hands before."
+msgstr ""
+"You really think so? Everybody says I'm such a tomboy. Nobody's ever "
+"complimented me on my hands before."
+
+msgctxt "1248_Kiryu"
+msgid "Heh... They don't appreciate you enough."
+msgstr "Heh... They don't appreciate you enough."
+
+msgctxt "1260_望月京子：源氏名"
+msgid ""
+"Hahaha! You sure have a silver tongue, don't you? But thanks. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Hahaha! You sure have a silver tongue, don't you? But thanks. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "1272_Kiryu"
+msgid "I'd say your pretty legs."
+msgstr "I'd say your pretty legs."
+
+msgctxt "1284_望月京子：源氏名"
+msgid "Oh, I see. You're a leg man."
+msgstr "Oh, I see. You're a leg man."
+
+msgctxt "1296_Kiryu"
+msgid "Not really. But anyone can appreciate legs as nice as yours."
+msgstr "Not really. But anyone can appreciate legs as nice as yours."
+
+msgctxt "1308_望月京子：源氏名"
+msgid ""
+"Hahaha! You sure have a silver tongue, don't you? But thanks. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Hahaha! You sure have a silver tongue, don't you? But thanks. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "1320_Kiryu"
+msgid "I'd say your beautiful hair."
+msgstr "I'd say your beautiful hair."
+
+msgctxt "1332_望月京子：源氏名"
+msgid "Really? You think it's beautiful?"
+msgstr "Really? You think it's beautiful?"
+
+msgctxt "1344_Kiryu"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "1356_望月京子：源氏名"
+msgid ""
+"Wow. I wear hats pretty often, but maybe I shouldn't be hiding this "
+"beautiful hair of mine."
+msgstr ""
+"Wow. I wear hats pretty often, but maybe I shouldn't be hiding this "
+"beautiful hair of mine."
+
+msgctxt "1368_望月京子：源氏名"
+msgid "Hey, what're you looking at?"
+msgstr "Hey, what're you looking at?"
+
+msgctxt "1380_Kiryu"
+msgid "I know what's most attractive."
+msgstr "I know what's most attractive."
+
+msgctxt "1392_望月京子：源氏名"
+msgid "Haha! At least you're direct. I like that about you."
+msgstr "Haha! At least you're direct. I like that about you."
+
+msgctxt "1404_Kiryu"
+msgid "Heh..."
+msgstr "Heh..."
+
+msgctxt "1416_望月京子：源氏名"
+msgid "Hey, what're you looking at!?"
+msgstr "Hey, what're you looking at!?"
+
+msgctxt "1428_望月京子：源氏名"
+msgid "So no part of me is attractive, huh?"
+msgstr "So no part of me is attractive, huh?"
+
+msgctxt "1440_Kiryu"
+msgid "I didn't mean that."
+msgstr "I didn't mean that."
+
+msgctxt "1452_望月京子：源氏名"
+msgid ""
+"I'm disappointed. Hundreds of people look at me on stage, but I can't even "
+"get you to give me a second glance."
+msgstr ""
+"I'm disappointed. Hundreds of people look at me on stage, but I can't even "
+"get you to give me a second glance."
+
+msgctxt "1464_Kiryu"
+msgid "......"
+msgstr "......"

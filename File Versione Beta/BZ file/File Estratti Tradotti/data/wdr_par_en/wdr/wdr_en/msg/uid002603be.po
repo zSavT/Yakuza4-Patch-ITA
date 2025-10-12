@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1240"
+msgid "Irritable Voter"
+msgstr "Irritable Voter"
+
+msgctxt "1244"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1248"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1252"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "1256"
+msgid "Honest Voter"
+msgstr "Honest Voter"
+
+msgctxt "1260"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "1264"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "84_Irritable Voter"
+msgid "That Numai sure has a sneaky way of getting publicity."
+msgstr "That Numai sure has a sneaky way of getting publicity."
+
+msgctxt "96_Saejima"
+msgid "Hey, you two. Somebody send ya here to make trouble?"
+msgstr "Hey, you two. Somebody send ya here to make trouble?"
+
+msgctxt "108_Irritable Voter"
+msgid "Excuse me? I don't know what you're talking about."
+msgstr "Excuse me? I don't know what you're talking about."
+
+msgctxt "120_Honest Voter"
+msgid ""
+"Wait, what? Is Numai-san the kind of person who'd slap\r\n"
+"a gag order on voters? Pretty shocking, if you ask me."
+msgstr ""
+"Wait, what? Is Numai-san the kind of person who'd slap\r\n"
+"a gag order on voters? Pretty shocking, if you ask me."
+
+msgctxt "132_Saejima"
+msgid "(Aw, shit. He actually wanted to hear what the guy had to say.)"
+msgstr "(Aw, shit. He actually wanted to hear what the guy had to say.)"

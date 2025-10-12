@@ -1,0 +1,67 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1212"
+msgid "Older Businessman"
+msgstr "Older Businessman"
+
+msgctxt "1216"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1220"
+msgid "Younger Businessman"
+msgstr "Younger Businessman"
+
+msgctxt "1224"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1228"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "84_Older Businessman"
+msgid "Why all the cops? Something happen?"
+msgstr "Why all the cops? Something happen?"
+
+msgctxt "96_Younger Businessman"
+msgid ""
+"Didn't you hear? Someone got straight-up murdered behind this building."
+msgstr ""
+"Didn't you hear? Someone got straight-up murdered behind this building."
+
+msgctxt "108_Older Businessman"
+msgid "Really!? What for!?"
+msgstr "Really!? What for!?"
+
+msgctxt "120_Younger Businessman"
+msgid ""
+"I hear it's some kind of feud between yakuza clans. I thought we'd finally "
+"have some peace around here, but I guess I was wrong."
+msgstr ""
+"I hear it's some kind of feud between yakuza clans. I thought we'd finally "
+"have some peace around here, but I guess I was wrong."
+
+msgctxt "132_Younger Businessman"
+msgid ""
+"The moneylender here was the first person to stumble on the crime scene. The"
+" police are here to protect him from the yakuza."
+msgstr ""
+"The moneylender here was the first person to stumble on the crime scene. The"
+" police are here to protect him from the yakuza."
+
+msgctxt "144_Older Businessman"
+msgid "No kidding? I guess it's back to business as usual for Kamurocho."
+msgstr "No kidding? I guess it's back to business as usual for Kamurocho."

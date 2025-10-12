@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4092"
+msgid "Noa"
+msgstr "Noa"
+
+msgctxt "4096"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4100"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "4104"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "68_Noa"
+msgid ""
+"Thank you for taking me out today. I don't want our date to end yet, though."
+msgstr ""
+"Thank you for taking me out today. I don't want our date to end yet, though."
+
+msgctxt "80_Talk_Yes"
+msgid "Why not come inside for a couple of drinks? <Color:7>♥<Color:Default>"
+msgstr "Why not come inside for a couple of drinks? <Color:7>♥<Color:Default>"
+
+msgctxt "104_Noa"
+msgid ""
+"Thank you for taking me out today. I don't want our date to end yet, though."
+msgstr ""
+"Thank you for taking me out today. I don't want our date to end yet, though."
+
+msgctxt "116_Talk_Yes"
+msgid "Why not come inside for a couple of drinks? <Color:7>♥<Color:Default>"
+msgstr "Why not come inside for a couple of drinks? <Color:7>♥<Color:Default>"
+
+msgctxt "128_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr "Um, wait a moment. I thought I had more cash than this..."
+
+msgctxt "140_Noa"
+msgid "Huh!? Really?"
+msgstr "Huh!? Really?"
+
+msgctxt "152_Player"
+msgid "Yeah. Sorry..."
+msgstr "Yeah. Sorry..."
+
+msgctxt "164_Noa"
+msgid ""
+"Oh. Well, that's too bad.\r\n"
+"Come back next time, okay...?"
+msgstr ""
+"Oh. Well, that's too bad.\r\n"
+"Come back next time, okay...?"

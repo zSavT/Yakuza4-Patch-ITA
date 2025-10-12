@@ -1,0 +1,83 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2000"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "2004"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "2008"
+msgid "Lily"
+msgstr "Lily"
+
+msgctxt "2012"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2016"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "2020"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "2024"
+msgid "0"
+msgstr ""
+
+msgctxt "72_Akiyama"
+msgid "That just leaves your hair, makeup, and nails."
+msgstr "That just leaves your hair, makeup, and nails."
+
+msgctxt "84_Akiyama"
+msgid ""
+"You mind going it alone from here? All that will probably take a while."
+msgstr ""
+"You mind going it alone from here? All that will probably take a while."
+
+msgctxt "96_Akiyama"
+msgid "Just tell them Akiyama said to put it on Sky Finance's tab."
+msgstr "Just tell them Akiyama said to put it on Sky Finance's tab."
+
+msgctxt "108_Lily"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "120_Akiyama"
+msgid ""
+"Meet me over at Elise once you're done. It's right across the street from "
+"the Millennium Tower. I'll be waiting for you."
+msgstr ""
+"Meet me over at Elise once you're done. It's right across the street from "
+"the Millennium Tower. I'll be waiting for you."
+
+msgctxt "132_Lily"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "192_Akiyama"
+msgid ""
+"That's it for the accessories. Next comes the dress.\r\n"
+"Let's head over to <Color:7>Milestone<Color:Default> in the underground mall."
+msgstr ""
+"Con gli accessori abbiamo finito. Ora tocca al vestito.\r\n"
+"Andiamo al <Color:7>Milestone<Color:Default> nel centro commerciale sotterraneo."
+
+msgctxt "204_Lily"
+msgid "Okay..."
+msgstr "Okay..."

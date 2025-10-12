@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "88"
+msgid "Welcome to the poker table."
+msgstr "Welcome to the poker table."
+
+msgctxt "100"
+msgid "Let's begin the game."
+msgstr "Let's begin the game."
+
+msgctxt "112"
+msgid "We look forward to seeing you again soon."
+msgstr "We look forward to seeing you again soon."
+
+msgctxt "124"
+msgid "You seem to be short on chips. Please come visit us again soon."
+msgstr "You seem to be short on chips. Please come visit us again soon."

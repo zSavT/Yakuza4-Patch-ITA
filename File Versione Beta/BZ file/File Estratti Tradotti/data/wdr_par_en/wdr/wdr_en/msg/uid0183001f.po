@@ -1,0 +1,54 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1264"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1268"
+msgid "HAL_stand_tlk_happy_small"
+msgstr "HAL_stand_tlk_happy_small"
+
+msgctxt "1272"
+msgid "HAL_stand_tlk_unhappy_small"
+msgstr "HAL_stand_tlk_unhappy_small"
+
+msgctxt "180_Haruka"
+msgid "That was delicious! I hope we come back here some time!"
+msgstr "That was delicious! I hope we come back here some time!"
+
+msgctxt "204_Haruka"
+msgid "But I wanted that..."
+msgstr "But I wanted that..."
+
+msgctxt "228_Haruka"
+msgid ""
+"Uncle Kaz! Can we stop and get a <Color:8>Demitama Hamburg "
+"Meal<Color:Default>?"
+msgstr ""
+"Uncle Kaz! Can we stop and get a <Color:8>Demitama Hamburg "
+"Meal<Color:Default>?"
+
+msgctxt "240_Haruka"
+msgid "I'm starving!"
+msgstr "I'm starving!"
+
+msgctxt "264_Haruka"
+msgid "Uncle Kaz! Can we stop and get some <Color:8>Pork Rice<Color:Default>?"
+msgstr ""
+"Uncle Kaz! Can we stop and get some <Color:8>Pork Rice<Color:Default>?"
+
+msgctxt "276_Haruka"
+msgid "I'm starving!"
+msgstr "I'm starving!"

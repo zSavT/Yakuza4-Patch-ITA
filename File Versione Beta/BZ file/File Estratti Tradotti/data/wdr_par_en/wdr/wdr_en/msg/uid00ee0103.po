@@ -1,0 +1,375 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "20420"
+msgid "Employee"
+msgstr "Employee"
+
+msgctxt "20424"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "20428"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "20432"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "20436"
+msgid "Noa"
+msgstr "Noa"
+
+msgctxt "20440"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "20444"
+msgid "Erena"
+msgstr "Erena"
+
+msgctxt "20448"
+msgid "Chihiro"
+msgstr "Chihiro"
+
+msgctxt "20452"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "20456"
+msgid "Maya"
+msgstr "Maya"
+
+msgctxt "20460"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "20464"
+msgid "Rio"
+msgstr "Rio"
+
+msgctxt "20468"
+msgid "Himeka"
+msgstr "Himeka"
+
+msgctxt "20472"
+msgid "Shizuka"
+msgstr "Shizuka"
+
+msgctxt "20476"
+msgid "松岡里緒奈：源氏名"
+msgstr "松岡里緒奈：源氏名"
+
+msgctxt "20480"
+msgid "望月京子：源氏名"
+msgstr "望月京子：源氏名"
+
+msgctxt "20484"
+msgid "峰村七海：源氏名"
+msgstr "峰村七海：源氏名"
+
+msgctxt "20488"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "304_Employee"
+msgid "Welcome, Akiyama-sama. Looking for something in particular?"
+msgstr "Welcome, Akiyama-sama. Looking for something in particular?"
+
+msgctxt "328_Player"
+msgid "(No, I've got to buy it here.)"
+msgstr "(No, I've got to buy it here.)"
+
+msgctxt "340_Employee"
+msgid "Will that be all for you, sir?"
+msgstr "Will that be all for you, sir?"
+
+msgctxt "352_Employee"
+msgid "Will that be all for you, sir?"
+msgstr "Will that be all for you, sir?"
+
+msgctxt "364_Employee"
+msgid "Will that be all for you, sir?"
+msgstr "Will that be all for you, sir?"
+
+msgctxt "376_Player"
+msgid ""
+"Yeah, that's all. You can send the bill over to my secretary Hana-chan. "
+"Sorry for the trouble."
+msgstr ""
+"Yeah, that's all. You can send the bill over to my secretary Hana-chan. "
+"Sorry for the trouble."
+
+msgctxt "388_Employee"
+msgid "No trouble at all, sir. Let me walk you to the door."
+msgstr "No trouble at all, sir. Let me walk you to the door."
+
+msgctxt "424_Employee"
+msgid "Hello, sir. Can I help you find something today?"
+msgstr "Hello, sir. Can I help you find something today?"
+
+msgctxt "484_Noa"
+msgid "Huh? You're not going to get anything? You're kidding, right?"
+msgstr "Huh? You're not going to get anything? You're kidding, right?"
+
+msgctxt "496_Akiyama"
+msgid "Yeah, sorry about that..."
+msgstr "Yeah, sorry about that..."
+
+msgctxt "520_Akiyama"
+msgid "I'll take this."
+msgstr "I'll take this."
+
+msgctxt "532_Employee"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr "Thank you very much! Let me walk you to the door."
+
+msgctxt "556_Employee"
+msgid "Hello, sir. Are you looking for anything in particular?"
+msgstr "Hello, sir. Are you looking for anything in particular?"
+
+msgctxt "616_Erena"
+msgid ""
+"Huh? Tell me I'm dreamin', 'cause it looks like yer not gonna buy anythin'."
+msgstr ""
+"Huh? Tell me I'm dreamin', 'cause it looks like yer not gonna buy anythin'."
+
+msgctxt "628_Akiyama"
+msgid "Yeah, uh, here's the thing..."
+msgstr "Yeah, uh, here's the thing..."
+
+msgctxt "652_Akiyama"
+msgid "I'll take this."
+msgstr "I'll take this."
+
+msgctxt "664_Employee"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr "Thank you very much! Let me walk you to the door."
+
+msgctxt "688_Employee"
+msgid "Hello, sir. Are you looking for anything in particular?"
+msgstr "Hello, sir. Are you looking for anything in particular?"
+
+msgctxt "748_Chihiro"
+msgid ""
+"Huh? You're not going to get anything? I mean, I guess this stuff is pretty "
+"expensive..."
+msgstr ""
+"Huh? You're not going to get anything? I mean, I guess this stuff is pretty "
+"expensive..."
+
+msgctxt "760_Tanimura"
+msgid "Sorry, it's just... My bad."
+msgstr "Sorry, it's just... My bad."
+
+msgctxt "784_Tanimura"
+msgid "I'll take this."
+msgstr "I'll take this."
+
+msgctxt "796_Employee"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr "Thank you very much! Let me walk you to the door."
+
+msgctxt "820_Employee"
+msgid "Hello, sir. Are you looking for anything in particular?"
+msgstr "Hello, sir. Are you looking for anything in particular?"
+
+msgctxt "880_Maya"
+msgid ""
+"Huh? You're not going to buy anything? Is this some kind of twisted prank, "
+"or are you just dumb?"
+msgstr ""
+"Huh? You're not going to buy anything? Is this some kind of twisted prank, "
+"or are you just dumb?"
+
+msgctxt "892_Kiryu"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "916_Kiryu"
+msgid "I'll take this."
+msgstr "I'll take this."
+
+msgctxt "928_Employee"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr "Thank you very much! Let me walk you to the door."
+
+msgctxt "952_Employee"
+msgid "Hello, sir. Are you looking for anything in particular?"
+msgstr "Hello, sir. Are you looking for anything in particular?"
+
+msgctxt "1012_Rio"
+msgid "Huh? You're not going to get anything? Uh... Really?"
+msgstr "Huh? You're not going to get anything? Uh... Really?"
+
+msgctxt "1024_Akiyama"
+msgid "Sorry about this..."
+msgstr "Sorry about this..."
+
+msgctxt "1048_Akiyama"
+msgid "I'll take this."
+msgstr "I'll take this."
+
+msgctxt "1060_Employee"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr "Thank you very much! Let me walk you to the door."
+
+msgctxt "1084_Employee"
+msgid "Hello, sir. Are you looking for anything in particular?"
+msgstr "Hello, sir. Are you looking for anything in particular?"
+
+msgctxt "1144_Himeka"
+msgid ""
+"Hold on a sec. Yer really not gonna buy anythin'? Why'd you even take me "
+"here?"
+msgstr ""
+"Hold on a sec. Yer really not gonna buy anythin'? Why'd you even take me "
+"here?"
+
+msgctxt "1156_Tanimura"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "1180_Tanimura"
+msgid "Excellent."
+msgstr "Excellent."
+
+msgctxt "1192_Employee"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr "Thank you very much! Let me walk you to the door."
+
+msgctxt "1216_Employee"
+msgid "Hello, sir. Are you looking for anything in particular?"
+msgstr "Hello, sir. Are you looking for anything in particular?"
+
+msgctxt "1276_Shizuka"
+msgid "Huh? You're not going to buy anything? Is everything all right?"
+msgstr "Huh? You're not going to buy anything? Is everything all right?"
+
+msgctxt "1288_Kiryu"
+msgid "No, it's just... Sorry about this."
+msgstr "No, it's just... Sorry about this."
+
+msgctxt "1312_Kiryu"
+msgid "I'll take this."
+msgstr "I'll take this."
+
+msgctxt "1324_Employee"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr "Thank you very much! Let me walk you to the door."
+
+msgctxt "1348_Employee"
+msgid "Welcome. What are you looking for today?"
+msgstr "Welcome. What are you looking for today?"
+
+msgctxt "1408_松岡里緒奈：源氏名"
+msgid "Which one're you gonna buy for me? ♪ I can't wait! ♪"
+msgstr "Which one're you gonna buy for me? ♪ I can't wait! ♪"
+
+msgctxt "1420_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "1444_Kiryu"
+msgid "I'll take this."
+msgstr "I'll take this."
+
+msgctxt "1456_Employee"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr "Thank you very much! Let me walk you to the door."
+
+msgctxt "1480_Employee"
+msgid "Hello, sir. Are you looking for anything in particular?"
+msgstr "Hello, sir. Are you looking for anything in particular?"
+
+msgctxt "1540_望月京子：源氏名"
+msgid ""
+"What? You're not gonna buy anything? What was the point of coming here, "
+"then?"
+msgstr ""
+"What? You're not gonna buy anything? What was the point of coming here, "
+"then?"
+
+msgctxt "1552_Kiryu"
+msgid "Oh, I'm just kidding..."
+msgstr "Oh, I'm just kidding..."
+
+msgctxt "1576_Kiryu"
+msgid "I'll take this."
+msgstr "I'll take this."
+
+msgctxt "1588_Employee"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr "Thank you very much! Let me walk you to the door."
+
+msgctxt "1612_Employee"
+msgid "Welcome. What are you looking for today?"
+msgstr "Welcome. What are you looking for today?"
+
+msgctxt "1672_峰村七海：源氏名"
+msgid ""
+"Huh? You're not going to get anything? You're joking, right? Please tell me "
+"this is a joke."
+msgstr ""
+"Huh? You're not going to get anything? You're joking, right? Please tell me "
+"this is a joke."
+
+msgctxt "1684_Tanimura"
+msgid "Of course, I'm only joking."
+msgstr "Of course, I'm only joking."
+
+msgctxt "1708_Tanimura"
+msgid "I'll take this."
+msgstr "I'll take this."
+
+msgctxt "1720_Employee"
+msgid "Thank you very much! Let me walk you to the door."
+msgstr "Thank you very much! Let me walk you to the door."
+
+msgctxt "1744_Employee"
+msgid "Welcome. What are you looking for today?"
+msgstr "Welcome. What are you looking for today?"
+
+msgctxt "1768_Employee"
+msgid "Will that be all for you, sir?"
+msgstr "Will that be all for you, sir?"
+
+msgctxt "1780_Player"
+msgid "No, I'm not done yet."
+msgstr "No, I'm not done yet."
+
+msgctxt "1792_Employee"
+msgid "All right. Might I ask what you're looking for?"
+msgstr "All right. Might I ask what you're looking for?"
+
+msgctxt "1816_Employee"
+msgid "We hope to see you again soon."
+msgstr "We hope to see you again soon."
+
+msgctxt "1828_Player"
+msgid "Yeah, that'll be all."
+msgstr "Yeah, that'll be all."
+
+msgctxt "1840_Employee"
+msgid "Very well, sir. Let me walk you to the door."
+msgstr "Very well, sir. Let me walk you to the door."
+
+msgctxt "1876_Employee"
+msgid "Yeah, that's it."
+msgstr "Yeah, that's it."
+
+msgctxt "1888_Employee"
+msgid "No, not yet."
+msgstr "No, not yet."

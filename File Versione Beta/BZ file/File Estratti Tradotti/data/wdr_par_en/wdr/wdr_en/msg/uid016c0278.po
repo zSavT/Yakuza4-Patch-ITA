@@ -1,0 +1,970 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "29812"
+msgid "Attendant"
+msgstr "Attendant"
+
+msgctxt "29816"
+msgid "M_stand_tlk_shoukai"
+msgstr "M_stand_tlk_shoukai"
+
+msgctxt "29820"
+msgid "F_cab_stand_tlk_shoukai"
+msgstr "F_cab_stand_tlk_shoukai"
+
+msgctxt "29824"
+msgid "Noa"
+msgstr "Noa"
+
+msgctxt "29828"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr "F_cab_stand_tlk_ojigi_01"
+
+msgctxt "29832"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr "F_cab_sitsofa_tlk_suprise"
+
+msgctxt "29836"
+msgid "P_sitsofaR_tlk_yes"
+msgstr "P_sitsofaR_tlk_yes"
+
+msgctxt "29840"
+msgid "F_cab_sitsofa_tlk_ojigiA"
+msgstr "F_cab_sitsofa_tlk_ojigiA"
+
+msgctxt "29844"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "29848"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr "F_cab_sitsofa_tlk_yes"
+
+msgctxt "29852"
+msgid "P_sitsofaR_tlk_no"
+msgstr "P_sitsofaR_tlk_no"
+
+msgctxt "29856"
+msgid "F_cab_sitsofa_sp6_sync_kami"
+msgstr "F_cab_sitsofa_sp6_sync_kami"
+
+msgctxt "29860"
+msgid "P_sitsofaR_tlk_smile"
+msgstr "P_sitsofaR_tlk_smile"
+
+msgctxt "29864"
+msgid "Erena"
+msgstr "Erena"
+
+msgctxt "29868"
+msgid "F_cab_sitsofa_tlk_he_smile"
+msgstr "F_cab_sitsofa_tlk_he_smile"
+
+msgctxt "29872"
+msgid "F_cab_sitsofa_sp2_sync_hiza"
+msgstr "F_cab_sitsofa_sp2_sync_hiza"
+
+msgctxt "29876"
+msgid "P_sitsofaR_tlk_quest"
+msgstr "P_sitsofaR_tlk_quest"
+
+msgctxt "29880"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr "F_cab_sitsofa_talk_smileA"
+
+msgctxt "29884"
+msgid "P_sitsofaR_tlk_comment"
+msgstr "P_sitsofaR_tlk_comment"
+
+msgctxt "29888"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "29892"
+msgid "F_cab_sitsofa_tlk_he_yes"
+msgstr "F_cab_sitsofa_tlk_he_yes"
+
+msgctxt "29896"
+msgid "P_sitsofaR_tlk_ase"
+msgstr "P_sitsofaR_tlk_ase"
+
+msgctxt "29900"
+msgid "F_cab_sitsofa_tlk_gakkariA"
+msgstr "F_cab_sitsofa_tlk_gakkariA"
+
+msgctxt "29904"
+msgid "P_sitsofaR_tlk_surp"
+msgstr "P_sitsofaR_tlk_surp"
+
+msgctxt "29908"
+msgid "F_cab_sitsofa_tlk_thinkA"
+msgstr "F_cab_sitsofa_tlk_thinkA"
+
+msgctxt "29912"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr "F_cab_sitsofa_tlk_noA"
+
+msgctxt "29916"
+msgid "F_cab_sitsofa_tlk_onedariA"
+msgstr "F_cab_sitsofa_tlk_onedariA"
+
+msgctxt "29920"
+msgid "P_sitsofaR_tlk_think"
+msgstr "P_sitsofaR_tlk_think"
+
+msgctxt "29924"
+msgid "F_cab_sitsofa_tlk_betaA"
+msgstr "F_cab_sitsofa_tlk_betaA"
+
+msgctxt "29928"
+msgid "F_cab_sitsofa_sp1_sync_yop"
+msgstr "F_cab_sitsofa_sp1_sync_yop"
+
+msgctxt "29932"
+msgid "Himeka"
+msgstr "Himeka"
+
+msgctxt "29936"
+msgid "F_cab_sitsofa_tlk_commentA"
+msgstr "F_cab_sitsofa_tlk_commentA"
+
+msgctxt "29940"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "29944"
+msgid "P_sitsofaL_tlk_yes"
+msgstr "P_sitsofaL_tlk_yes"
+
+msgctxt "29948"
+msgid "F_cab_sitsofa_tlk_he_surp"
+msgstr "F_cab_sitsofa_tlk_he_surp"
+
+msgctxt "29952"
+msgid "P_sitsofaL_tlk_no"
+msgstr "P_sitsofaL_tlk_no"
+
+msgctxt "29956"
+msgid "F_cab_sitsofa_tlk_he_no"
+msgstr "F_cab_sitsofa_tlk_he_no"
+
+msgctxt "29960"
+msgid "F_cab_sitsofa_tlk_he_happy"
+msgstr "F_cab_sitsofa_tlk_he_happy"
+
+msgctxt "29964"
+msgid "P_sitsofaL_tlk_smile"
+msgstr "P_sitsofaL_tlk_smile"
+
+msgctxt "924_Attendant"
+msgid "Sorry to keep you waiting."
+msgstr "Sorry to keep you waiting."
+
+msgctxt "948_Attendant"
+msgid "This is Noa."
+msgstr "This is Noa."
+
+msgctxt "972_Attendant"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1008_Attendant"
+msgid "Sorry to keep you waiting."
+msgstr "Sorry to keep you waiting."
+
+msgctxt "1032_Attendant"
+msgid "This is Noa."
+msgstr "This is Noa."
+
+msgctxt "1056_Attendant"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1092_Attendant"
+msgid "Thanks for waiting."
+msgstr "Thanks for waiting."
+
+msgctxt "1116_Attendant"
+msgid "This is Noa."
+msgstr "This is Noa."
+
+msgctxt "1140_Attendant"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1164_Noa"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1188_Attendant"
+msgid "I'm Noa!"
+msgstr "I'm Noa!"
+
+msgctxt "1200_Noa"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1224_Attendant"
+msgid "I'm Noa!"
+msgstr "I'm Noa!"
+
+msgctxt "1236_Noa"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1260_Attendant"
+msgid "I'm Noa!"
+msgstr "I'm Noa!"
+
+msgctxt "1272_Noa"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1284_Attendant"
+msgid "I'm Noa!"
+msgstr "I'm Noa!"
+
+msgctxt "1320_Noa"
+msgid "Hello."
+msgstr "Hello."
+
+msgctxt "1332_Attendant"
+msgid "Oh, you're back!"
+msgstr "Oh, è tornato!"
+
+msgctxt "1368_Noa"
+msgid "Hello."
+msgstr "Hello."
+
+msgctxt "1380_Attendant"
+msgid "Oh, Akiyama-san. You didn't request me today?"
+msgstr "Oh, Akiyama-san. You didn't request me today?"
+
+msgctxt "1392_Noa"
+msgid "It looks like someone's requesting me."
+msgstr "It looks like someone's requesting me."
+
+msgctxt "1404_Noa"
+msgid "Please enjoy your stay."
+msgstr "Please enjoy your stay."
+
+msgctxt "1416_Noa"
+msgid "Bye for now."
+msgstr "Bye for now."
+
+msgctxt "1428_Noa"
+msgid ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1440_Noa"
+msgid ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1452_Noa"
+msgid ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1464_Noa"
+msgid ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1476_Noa"
+msgid ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1488_Noa"
+msgid ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1500_Noa"
+msgid ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1512_Noa"
+msgid ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1524_Noa"
+msgid ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1536_Noa"
+msgid ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1548_Noa"
+msgid ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1560_Noa"
+msgid ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not show up when enter this store as Kiryu.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1572_Noa"
+msgid "I'm Noa. Nice to meet you. <Color:7>♥<Color:Default>"
+msgstr "I'm Noa. Nice to meet you. <Color:7>♥<Color:Default>"
+
+msgctxt "1584_Akiyama"
+msgid "Hi. I'm Shun Akiyama."
+msgstr "Hi. I'm Shun Akiyama."
+
+msgctxt "1596_Noa"
+msgid ""
+"Hello, Akiyama-san. You seem like you know your way around a hostess club."
+msgstr ""
+"Hello, Akiyama-san. You seem like you know your way around a hostess club."
+
+msgctxt "1608_Akiyama"
+msgid ""
+"I suppose... But I don't come by myself very often. I can get a little "
+"too... relaxed."
+msgstr ""
+"I suppose... But I don't come by myself very often. I can get a little "
+"too... relaxed."
+
+msgctxt "1620_Noa"
+msgid ""
+"Ahahah! That's my favorite type of customer. I can just take it easy and be "
+"myself."
+msgstr ""
+"Ahahah! That's my favorite type of customer. I can just take it easy and be "
+"myself."
+
+msgctxt "1632_Noa"
+msgid ""
+"Sometimes CEOs will drag some of their new employees here. The poor boys get"
+" so nervous, it terrifies me."
+msgstr ""
+"Sometimes CEOs will drag some of their new employees here. The poor boys get"
+" so nervous, it terrifies me."
+
+msgctxt "1644_Akiyama"
+msgid ""
+"Yeah, I remember those days. My boss took me to a really expensive club "
+"once."
+msgstr ""
+"Yeah, I remember those days. My boss took me to a really expensive club "
+"once."
+
+msgctxt "1656_Noa"
+msgid "Really? Were you nervous?"
+msgstr "Really? Were you nervous?"
+
+msgctxt "1668_Akiyama"
+msgid "No. But I tried so hard to pick up a hostess."
+msgstr "No. But I tried so hard to pick up a hostess."
+
+msgctxt "1680_Erena"
+msgid "Ahaha! Wow, you're really something!"
+msgstr "Ahaha! Wow, you're really something!"
+
+msgctxt "1692_Noa"
+msgid "So, how'd it go?"
+msgstr "So, how'd it go?"
+
+msgctxt "1704_Akiyama"
+msgid "You mean, did I pick her up?"
+msgstr "You mean, did I pick her up?"
+
+msgctxt "1716_Noa"
+msgid "Yes! ♪"
+msgstr "Yes! ♪"
+
+msgctxt "1728_Akiyama"
+msgid ""
+"No, I had no money. And there's no way a hostess at a top club would go out "
+"with a guy like me."
+msgstr ""
+"No, I had no money. And there's no way a hostess at a top club would go out "
+"with a guy like me."
+
+msgctxt "1740_Noa"
+msgid "Haha! I suppose you're right!"
+msgstr "Haha! I suppose you're right!"
+
+msgctxt "1752_Akiyama"
+msgid ""
+"That's understandable they get nervous. You can't blame a guy for that when "
+"he's around so many beautiful girls."
+msgstr ""
+"That's understandable they get nervous. You can't blame a guy for that when "
+"he's around so many beautiful girls."
+
+msgctxt "1764_Noa"
+msgid ""
+"Haha. You're a pretty smooth talker, aren't you? <Color:7>♥<Color:Default>"
+msgstr ""
+"Haha. You're a pretty smooth talker, aren't you? <Color:7>♥<Color:Default>"
+
+msgctxt "1776_Erena"
+msgid ""
+"Hahaha! You sure have a silver tongue, don't you? <Color:7>♥<Color:Default>"
+msgstr ""
+"Hahaha! You sure have a silver tongue, don't you? <Color:7>♥<Color:Default>"
+
+msgctxt "1788_Akiyama"
+msgid "No, it's true! My heart's racing just talking to you two."
+msgstr "No, it's true! My heart's racing just talking to you two."
+
+msgctxt "1800_Noa"
+msgid "Oh... Then what could we do to help you relax?"
+msgstr "Oh... Then what could we do to help you relax?"
+
+msgctxt "1812_Akiyama"
+msgid "I'll get used to it sooner or later. Come on, let's drink."
+msgstr "I'll get used to it sooner or later. Come on, let's drink."
+
+msgctxt "1824_Noa"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "1836_Akiyama"
+msgid "Well, I'm always pretty calm, at home or at work."
+msgstr "Well, I'm always pretty calm, at home or at work."
+
+msgctxt "1848_Noa"
+msgid ""
+"Hahah! You're the first one I've ever met who's as comfortable here as he is"
+" at home."
+msgstr ""
+"Hahah! You're the first one I've ever met who's as comfortable here as he is"
+" at home."
+
+msgctxt "1860_Erena"
+msgid "You look like you could curl up on the sofa and take a nap."
+msgstr "You look like you could curl up on the sofa and take a nap."
+
+msgctxt "1872_Akiyama"
+msgid ""
+"You know, guys often go out of their way to impress girls, but I don't think"
+" they buy it one bit."
+msgstr ""
+"You know, guys often go out of their way to impress girls, but I don't think"
+" they buy it one bit."
+
+msgctxt "1884_Akiyama"
+msgid "You've got to be yourself. That way there aren't any surprises."
+msgstr "You've got to be yourself. That way there aren't any surprises."
+
+msgctxt "1896_Noa"
+msgid "It's true! That's a really good observation."
+msgstr "It's true! That's a really good observation."
+
+msgctxt "1908_Akiyama"
+msgid "Heheh."
+msgstr "Heheh."
+
+msgctxt "1920_Noa"
+msgid "So, what kind of girls do you like?"
+msgstr "So, what kind of girls do you like?"
+
+msgctxt "1932_Erena"
+msgid "That's a good question!"
+msgstr "That's a good question!"
+
+msgctxt "1944_Akiyama"
+msgid ""
+"Oh, come on. You don't really want to know that, do you? Here, let's drink."
+msgstr ""
+"Oh, come on. You don't really want to know that, do you? Here, let's drink."
+
+msgctxt "1956_Noa"
+msgid "So that must mean I'm not your type..."
+msgstr "So that must mean I'm not your type..."
+
+msgctxt "1968_Akiyama"
+msgid "Hey, why are you looking so down?"
+msgstr "Hey, why are you looking so down?"
+
+msgctxt "1980_Noa"
+msgid "My last customer said he wanted a girl who was more ladylike."
+msgstr "My last customer said he wanted a girl who was more ladylike."
+
+msgctxt "1992_Noa"
+msgid "I don't think he's going to be requesting me next time."
+msgstr "I don't think he's going to be requesting me next time."
+
+msgctxt "2004_Akiyama"
+msgid "Don't worry about it. That was just one guy, who cares what he thinks?"
+msgstr ""
+"Don't worry about it. That was just one guy, who cares what he thinks?"
+
+msgctxt "2016_Noa"
+msgid "But don't most clients want a girl like that?"
+msgstr "But don't most clients want a girl like that?"
+
+msgctxt "2028_Akiyama"
+msgid ""
+"I don't know. If this club hadn't found you attractive, they wouldn't have "
+"hired you, right?"
+msgstr ""
+"I don't know. If this club hadn't found you attractive, they wouldn't have "
+"hired you, right?"
+
+msgctxt "2040_Noa"
+msgid "Oh... I hadn't thought of it that way."
+msgstr "Oh... I hadn't thought of it that way."
+
+msgctxt "2052_Akiyama"
+msgid "You just keep on doing what you're doing."
+msgstr "You just keep on doing what you're doing."
+
+msgctxt "2064_Noa"
+msgid "Thanks! I feel better now."
+msgstr "Thanks! I feel better now."
+
+msgctxt "2076_Akiyama"
+msgid "Hey, I like you. You're nice and easy to talk to."
+msgstr "Hey, I like you. You're nice and easy to talk to."
+
+msgctxt "2088_Noa"
+msgid "Really? Thanks!"
+msgstr "Really? Thanks!"
+
+msgctxt "2100_Akiyama"
+msgid "I bet you're popular."
+msgstr "I bet you're popular."
+
+msgctxt "2112_Noa"
+msgid "Hmm... Well, sort of. I have some regulars, but not that many."
+msgstr "Hmm... Well, sort of. I have some regulars, but not that many."
+
+msgctxt "2124_Akiyama"
+msgid "Then you'll be fine. Don't worry about it."
+msgstr "Then you'll be fine. Don't worry about it."
+
+msgctxt "2136_Noa"
+msgid "If you're concerned, you could try requesting me!"
+msgstr "If you're concerned, you could try requesting me!"
+
+msgctxt "2148_Akiyama"
+msgid "Heheh. Next time I will."
+msgstr "Heheh. Next time I will."
+
+msgctxt "2160_Noa"
+msgid "Hehe. Cross your heart? <Color:7>♥<Color:Default>"
+msgstr "Hehe. Cross your heart? <Color:7>♥<Color:Default>"
+
+msgctxt "2172_Akiyama"
+msgid ""
+"Maybe you could try changing your image. You might be more popular that way."
+msgstr ""
+"Maybe you could try changing your image. You might be more popular that way."
+
+msgctxt "2184_Noa"
+msgid "What kind of image should I try?"
+msgstr "What kind of image should I try?"
+
+msgctxt "2196_Akiyama"
+msgid "Well... Maybe you could try the pristine young maiden type."
+msgstr "Well... Maybe you could try the pristine young maiden type."
+
+msgctxt "2208_Noa"
+msgid ""
+"Ahahahah! I could never do that. My real personality would come out right "
+"away."
+msgstr ""
+"Ahahahah! I could never do that. My real personality would come out right "
+"away."
+
+msgctxt "2220_Akiyama"
+msgid "Okay, then... I wonder what else would work."
+msgstr "Okay, then... I wonder what else would work."
+
+msgctxt "2232_Noa"
+msgid "I think I'll stay the way I am. I've got some regulars, even now."
+msgstr "I think I'll stay the way I am. I've got some regulars, even now."
+
+msgctxt "2244_Akiyama"
+msgid "Heheh. Fair enough."
+msgstr "Heheh. Fair enough."
+
+msgctxt "2256_Noa"
+msgid "Thanks for coming to see me."
+msgstr "Thanks for coming to see me."
+
+msgctxt "2268_Akiyama"
+msgid "Heheh. You haven't changed, I see."
+msgstr "Heheh. You haven't changed, I see."
+
+msgctxt "2280_Noa"
+msgid "Huh? What do you mean?"
+msgstr "Eh? Cosa intendi?"
+
+msgctxt "2292_Akiyama"
+msgid "Friendly as usual. Do you get even friendlier with your regulars?"
+msgstr "Friendly as usual. Do you get even friendlier with your regulars?"
+
+msgctxt "2304_Noa"
+msgid "Of course! You can count on it."
+msgstr "Of course! You can count on it."
+
+msgctxt "2316_Akiyama"
+msgid "Ah. Must be tough."
+msgstr "Ah. Must be tough."
+
+msgctxt "2328_Himeka"
+msgid ""
+"The dialogue will end after one round if you've entered a club more than once.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"The dialogue will end after one round if you've entered a club more than once.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2340_Noa"
+msgid "How come didn't you request me today?"
+msgstr "How come didn't you request me today?"
+
+msgctxt "2352_Akiyama"
+msgid ""
+"Hey, you don't need me to request you to know how I feel about you, right?"
+msgstr ""
+"Hey, you don't need me to request you to know how I feel about you, right?"
+
+msgctxt "2364_Noa"
+msgid "That sounds kind of like an excuse to me."
+msgstr "That sounds kind of like an excuse to me."
+
+msgctxt "2376_Akiyama"
+msgid "Not at all. Look, I'll request you next time. I promise."
+msgstr "Not at all. Look, I'll request you next time. I promise."
+
+msgctxt "2388_Noa"
+msgid "Really? I'll hold you to that, then."
+msgstr "Really? I'll hold you to that, then."
+
+msgctxt "2400_Himeka"
+msgid ""
+"The dialogue will end after one round if you've entered a club more than once.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"The dialogue will end after one round if you've entered a club more than once.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2412_Noa"
+msgid ""
+"Noa Mizutani does not appear for Akiyama's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not appear for Akiyama's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2424_Noa"
+msgid ""
+"Noa Mizutani does not appear for Akiyama's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not appear for Akiyama's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2436_Noa"
+msgid ""
+"Noa Mizutani does not appear for Akiyama's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not appear for Akiyama's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2448_Noa"
+msgid ""
+"Noa Mizutani does not appear for Akiyama's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not appear for Akiyama's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2460_Noa"
+msgid ""
+"Noa Mizutani does not appear for Akiyama's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not appear for Akiyama's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2472_Noa"
+msgid ""
+"Noa Mizutani does not appear for Akiyama's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not appear for Akiyama's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2484_Noa"
+msgid ""
+"Noa Mizutani does not appear for Tanimura's 1st or 3rd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not appear for Tanimura's 1st or 3rd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2496_Noa"
+msgid ""
+"Noa Mizutani does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2508_Noa"
+msgid ""
+"Noa Mizutani does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2520_Noa"
+msgid ""
+"Noa Mizutani does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Noa Mizutani does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2532_Noa"
+msgid ""
+"Tanimura cannot request Himeka Kawasaki.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Tanimura cannot request Himeka Kawasaki.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2544_Noa"
+msgid ""
+"Tanimura cannot request Himeka Kawasaki.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Tanimura cannot request Himeka Kawasaki.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2556_Tanimura"
+msgid "Your name's Noa, right? I'm Tanimura. Nice meeting you."
+msgstr "Your name's Noa, right? I'm Tanimura. Nice meeting you."
+
+msgctxt "2568_Noa"
+msgid "Yep, I'm Noa! Nice to meet you."
+msgstr "Yep, I'm Noa! Nice to meet you."
+
+msgctxt "2580_Tanimura"
+msgid "So, what kind of men do you like?"
+msgstr "So, what kind of men do you like?"
+
+msgctxt "2592_Noa"
+msgid "Well... Somebody who's a good driver."
+msgstr "Well... Somebody who's a good driver."
+
+msgctxt "2604_Tanimura"
+msgid "A good driver, huh? Yeah, a fender bender can sure ruin a date."
+msgstr "A good driver, huh? Yeah, a fender bender can sure ruin a date."
+
+msgctxt "2616_Noa"
+msgid "What kind of car do you usually ride in?"
+msgstr "What kind of car do you usually ride in?"
+
+msgctxt "2628_Tanimura"
+msgid "Usually a police car."
+msgstr "Usually a police car."
+
+msgctxt "2640_Noa"
+msgid "Huh!? You mean you're a policeman?"
+msgstr "Huh!? You mean you're a policeman?"
+
+msgctxt "2652_Tanimura"
+msgid "I didn't say that. Criminals ride in police cars too, you know."
+msgstr "I didn't say that. Criminals ride in police cars too, you know."
+
+msgctxt "2664_Noa"
+msgid "Well, which is it!? I have to know!"
+msgstr "Well, which is it!? I have to know!"
+
+msgctxt "2676_Noa"
+msgid "Do you come to hostess clubs often?"
+msgstr "Do you come to hostess clubs often?"
+
+msgctxt "2688_Tanimura"
+msgid ""
+"Not really. I'm more of a mahjong kind of guy. I guess I'm sort of "
+"competitive."
+msgstr ""
+"Not really. I'm more of a mahjong kind of guy. I guess I'm sort of "
+"competitive."
+
+msgctxt "2700_Noa"
+msgid "Really... Do you play pachinko, too?"
+msgstr "Really... Do you play pachinko, too?"
+
+msgctxt "2712_Tanimura"
+msgid ""
+"Of course. Oh, I don't line up in the morning waiting for the parlor to "
+"open, but I'll play when I've got the time."
+msgstr ""
+"Of course. Oh, I don't line up in the morning waiting for the parlor to "
+"open, but I'll play when I've got the time."
+
+msgctxt "2724_Noa"
+msgid ""
+"I love pachinko! <Color:7>♥<Color:Default> Let me know if you hear about any"
+" machines that are lucky!"
+msgstr ""
+"I love pachinko! <Color:7>♥<Color:Default> Let me know if you hear about any"
+" machines that are lucky!"
+
+msgctxt "2736_Tanimura"
+msgid "Heheh. I like straightforward girls."
+msgstr "Heheh. I like straightforward girls."
+
+msgctxt "2748_Noa"
+msgid "Welcome back!"
+msgstr "Welcome back!"
+
+msgctxt "2760_Tanimura"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "2772_Noa"
+msgid ""
+"You said you don't visit clubs very often. You must've had a good time here."
+msgstr ""
+"You said you don't visit clubs very often. You must've had a good time here."
+
+msgctxt "2784_Tanimura"
+msgid "Is that a problem?"
+msgstr "È un problema?"
+
+msgctxt "2796_Noa"
+msgid ""
+"I may work here, but I wouldn't want my boyfriend cavorting at hostess bars."
+msgstr ""
+"I may work here, but I wouldn't want my boyfriend cavorting at hostess bars."
+
+msgctxt "2808_Tanimura"
+msgid "Huh? You think he'd be cheating on you?"
+msgstr "Huh? You think he'd be cheating on you?"
+
+msgctxt "2820_Noa"
+msgid ""
+"Of course! He'd be paying up the wazoo to drink and hang out with other "
+"women!"
+msgstr ""
+"Of course! He'd be paying up the wazoo to drink and hang out with other "
+"women!"
+
+msgctxt "2832_Tanimura"
+msgid "That makes sense, but lecturing me won't help."
+msgstr "That makes sense, but lecturing me won't help."
+
+msgctxt "2844_Himeka"
+msgid ""
+"The dialogue will end after one round if you've entered a club more than once.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"The dialogue will end after one round if you've entered a club more than once.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2856_Noa"
+msgid ""
+"Tanimura cannot request Himeka Kawasaki.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Tanimura cannot request Himeka Kawasaki.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2868_Noa"
+msgid ""
+"Tanimura cannot request Himeka Kawasaki.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Tanimura cannot request Himeka Kawasaki.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "2880_Noa"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "2892_Erena"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "2904_Attendant"
+msgid "Yeah, I remember those days."
+msgstr "Yeah, I remember those days."
+
+msgctxt "2916_Attendant"
+msgid "That's understandable."
+msgstr "That's understandable."
+
+msgctxt "2928_Attendant"
+msgid "Well, I'm always pretty calm."
+msgstr "Well, I'm always pretty calm."
+
+msgctxt "2940_Attendant"
+msgid "Don't worry about it."
+msgstr "Don't worry about it."
+
+msgctxt "2952_Attendant"
+msgid "Hey, I like you."
+msgstr "Hey, I like you."
+
+msgctxt "2964_Attendant"
+msgid "Maybe you could try changing your image."
+msgstr "Maybe you could try changing your image."

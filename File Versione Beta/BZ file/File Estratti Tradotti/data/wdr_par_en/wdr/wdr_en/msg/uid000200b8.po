@@ -1,0 +1,83 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2160"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2164"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "2168"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2172"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "100_Kiryu"
+msgid ""
+"You should rest up, %s. I'd be glad to take over for you if you need it."
+msgstr ""
+"You should rest up, %s. I'd be glad to take over for you if you need it."
+
+msgctxt "124_Player"
+msgid "I'll be okay on my own for now."
+msgstr "I'll be okay on my own for now."
+
+msgctxt "136_Player"
+msgid "Sorry, gonna have to pass."
+msgstr "Sorry, gonna have to pass."
+
+msgctxt "148_Player"
+msgid "I'm good."
+msgstr "I'm good."
+
+msgctxt "160_Player"
+msgid "Nah, I'm fine."
+msgstr "Nah, I'm fine."
+
+msgctxt "172_Kiryu"
+msgid "Right. Try not to overdo it."
+msgstr "Right. Try not to overdo it."
+
+msgctxt "196_Player"
+msgid "That's a good idea. Go ahead."
+msgstr "That's a good idea. Go ahead."
+
+msgctxt "208_Player"
+msgid "Sure, why not. I'm always down to chill for a bit."
+msgstr "Sure, why not. I'm always down to chill for a bit."
+
+msgctxt "220_Player"
+msgid "Guess I don't mind catchin' my breath."
+msgstr "Guess I don't mind catchin' my breath."
+
+msgctxt "232_Player"
+msgid "All right, I'll let you take things from here."
+msgstr "All right, I'll let you take things from here."
+
+msgctxt "244_Kiryu"
+msgid "Okay, take it easy for a while. I'll be back soon."
+msgstr "Okay, take it easy for a while. I'll be back soon."
+
+msgctxt "268_Kiryu"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "280_Kiryu"
+msgid "Switch to Kiryu"
+msgstr "Passa a Kiryu"

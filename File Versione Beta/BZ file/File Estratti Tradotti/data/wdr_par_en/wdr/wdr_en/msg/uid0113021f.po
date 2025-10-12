@@ -1,0 +1,39 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "140"
+msgid "You got <Color:8>30,000 yen<Color:Default>."
+msgstr "You got <Color:8>30,000 yen<Color:Default>."
+
+msgctxt "1932"
+msgid "Officer"
+msgstr "Ufficiale"
+
+msgctxt "1936"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "104_Officer"
+msgid "Nice work!"
+msgstr "Nice work!"
+
+msgctxt "116_Officer"
+msgid ""
+"To think that you captured the entire group alone. That's really something!"
+msgstr ""
+"To think that you captured the entire group alone. That's really something!"
+
+msgctxt "128_Officer"
+msgid "This is a little something for all the help. Thank you so much!"
+msgstr "This is a little something for all the help. Thank you so much!"

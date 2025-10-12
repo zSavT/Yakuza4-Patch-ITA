@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1676"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "1680"
+msgid "Homeless Man"
+msgstr "Homeless Man"
+
+msgctxt "1684"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1688"
+msgid "Talk_Phone_yes"
+msgstr "Talk_Phone_yes"
+
+msgctxt "1692"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "1696"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "92_Homeless Man"
+msgid "Hey, Akiyama, is that you?"
+msgstr "Hey, Akiyama, is that you?"
+
+msgctxt "104_Akiyama"
+msgid "Uh-huh. You find him?"
+msgstr "Uh-huh. You find him?"
+
+msgctxt "116_Homeless Man"
+msgid "Yup. My buddy said he was skulkin' around Pink Street."
+msgstr "Yup. My buddy said he was skulkin' around Pink Street."
+
+msgctxt "128_Homeless Man"
+msgid "Couldn't believe how much he looked like the picture, neither."
+msgstr "Couldn't believe how much he looked like the picture, neither."
+
+msgctxt "140_Akiyama"
+msgid ""
+"Wow, that's pretty incredible. Okay, I'll go check it out.\r\n"
+"Thanks. I owe you one."
+msgstr ""
+"Wow, that's pretty incredible. Okay, I'll go check it out.\r\n"
+"Thanks. I owe you one."
+
+msgctxt "152_Homeless Man"
+msgid "Aw, it's nothin'! See ya later."
+msgstr "Aw, it's nothin'! See ya later."
+
+msgctxt "212_Akiyama"
+msgid "(Pink Street, huh...? If I hurry, I might still catch him.)"
+msgstr "(Pink Street, huh...? If I hurry, I might still catch him.)"

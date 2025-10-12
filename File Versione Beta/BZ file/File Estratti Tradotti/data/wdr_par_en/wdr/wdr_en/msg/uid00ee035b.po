@@ -1,0 +1,690 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "584"
+msgid "You got <Color:8>100,000 yen<Color:Default> in training funds."
+msgstr ""
+"Hai ottenuto <Color:8>100.000 yen<Color:Default> in fondi per l'allenamento."
+
+msgctxt "860"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>100.000 yen<Color:Default>."
+
+msgctxt "1148"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>100.000 yen<Color:Default>."
+
+msgctxt "1304"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>100.000 yen<Color:Default>."
+
+msgctxt "1760"
+msgid "The outfit you choose will be the one she wears in the club later on."
+msgstr "L'abito che sceglierai sarà quello che indosserà al locale più tardi."
+
+msgctxt "1820"
+msgid "%s will now appear as a hostess in the club."
+msgstr "%s apparirà ora come hostess nel locale."
+
+msgctxt "2156"
+msgid "You got <Color:8>100,000 yen<Color:Default> in training funds."
+msgstr ""
+"Hai ottenuto <Color:8>100.000 yen<Color:Default> in fondi per l'allenamento."
+
+msgctxt "22928"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "22932"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "22936"
+msgid "Elise Manager"
+msgstr "Direttore dell'Elise"
+
+msgctxt "22940"
+msgid "Naoki"
+msgstr "Naoki"
+
+msgctxt "22944"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "22948"
+msgid "Manager"
+msgstr "Direttore"
+
+msgctxt "22952"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "22956"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "22960"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "22964"
+msgid "Hostess Club Scouting"
+msgstr "Scouting per hostess club"
+
+msgctxt "22968"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "22972"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "22976"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "22980"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "22984"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "500_Akiyama"
+msgid "Hey, is Lily-chan here yet?"
+msgstr "Ehi, Lily-chan è già qui?"
+
+msgctxt "512_Elise Manager"
+msgid "She's waiting in the back room, sir. Right this way."
+msgstr "La sta aspettando nel retro, signore. Da questa parte."
+
+msgctxt "536_Akiyama"
+msgid "Hey, I'm here to train Lily-chan. She in?"
+msgstr "Ehi, sono qui per allenare Lily-chan. È dentro?"
+
+msgctxt "548_Elise Manager"
+msgid "Yes, sir. She's waiting in the back room."
+msgstr "Sì, signore. La sta aspettando nel retro."
+
+msgctxt "560_Elise Manager"
+msgid ""
+"Oh, before you go, here are the funds we've set aside for her training. "
+"Please limit your spending on her to this alone."
+msgstr ""
+"Oh, prima che vada, ecco i fondi che abbiamo messo da parte per il suo "
+"allenamento. La prego di limitare le sue spese per lei solo a questo."
+
+msgctxt "572_Akiyama"
+msgid ""
+"Guess I don't have much choice. Good idea keeping this separate from the "
+"club's finances, though."
+msgstr ""
+"Immagino di non avere molta scelta. Buona idea tenere questo separato dalle "
+"finanze del locale, però."
+
+msgctxt "596_Elise Manager"
+msgid "I'll also assign Naoki to assist you."
+msgstr "Assegnerò anche Naoki per assisterla."
+
+msgctxt "608_Naoki"
+msgid ""
+"Let me know if there's anything I can do for you, sir. I'll help however I "
+"can."
+msgstr ""
+"Mi faccia sapere se c'è qualcosa che posso fare per lei, signore. L'aiuterò "
+"come posso."
+
+msgctxt "620_Akiyama"
+msgid "Sounds good."
+msgstr "Mi sembra ottimo."
+
+msgctxt "632_Elise Manager"
+msgid "Now then, let me show you to the back room."
+msgstr "E allora, mi lasci accompagnarla nel retro."
+
+msgctxt "656_Akiyama"
+msgid "Hi. I'm here to give Lily-chan her last training session."
+msgstr "Salve. Sono qui per l'ultima sessione di allenamento di Lily-chan."
+
+msgctxt "668_Elise Manager"
+msgid "Of course. Feel free to go to the back room."
+msgstr "Certo. Vada pure nel retro."
+
+msgctxt "692_Elise Manager"
+msgid "Hello, sir. Thank you for coming all this way."
+msgstr "Salve, signore. Grazie per essere venuto fin qui."
+
+msgctxt "704_Akiyama"
+msgid "Hi. So, how's the club doing?"
+msgstr "Salve. Allora, come va il locale?"
+
+msgctxt "716_Elise Manager"
+msgid "Well... As I said on the phone, business isn't very good."
+msgstr "Beh... Come le dicevo al telefono, gli affari non vanno molto bene."
+
+msgctxt "728_Akiyama"
+msgid "I see... What's the problem?"
+msgstr "Capisco... Qual è il problema?"
+
+msgctxt "740_Elise Manager"
+msgid ""
+"We just don't have enough girls, sir. There is a lot of competition out "
+"there in Kamurocho, and everyone is looking for girls."
+msgstr ""
+"Non abbiamo abbastanza ragazze, signore. C'è molta competizione a Kamurocho "
+"e tutti cercano ragazze."
+
+msgctxt "752_Elise Manager"
+msgid ""
+"The other clubs employ scouts to find new girls,  and even hire professional"
+" trainers for the girls on their payroll."
+msgstr ""
+"Gli altri locali assumono scout per trovare nuove ragazze e ingaggiano "
+"persino addestratori professionisti per le ragazze che hanno a libro paga."
+
+msgctxt "764_Manager"
+msgid ""
+"We should do the same if we want to compete. Otherwise, we'll keep losing "
+"money."
+msgstr ""
+"Dovremmo fare lo stesso se vogliamo competere. Altrimenti, continueremo a "
+"perdere soldi."
+
+msgctxt "776_Akiyama"
+msgid "I see. Well, good luck."
+msgstr "Capisco. Beh, buona fortuna."
+
+msgctxt "788_Elise Manager"
+msgid "Thank you. I wish we could come up with a plan..."
+msgstr "Grazie. Vorrei che potessimo trovare un piano..."
+
+msgctxt "800_Akiyama"
+msgid "I see. I'll take care of this myself."
+msgstr "Capisco. Me ne occuperò io stesso."
+
+msgctxt "812_Elise Manager"
+msgid "Huh!? But you're the owner!"
+msgstr "Eh!? Ma lei è il proprietario!"
+
+msgctxt "824_Akiyama"
+msgid ""
+"I don't have a choice. It'll cost too much to  hire people to do it. "
+"Besides, I can handle it. I think."
+msgstr ""
+"Non ho scelta. Costerebbe troppo assumere qualcuno per farlo. Inoltre, posso"
+" gestirlo io. Credo."
+
+msgctxt "836_Elise Manager"
+msgid ""
+"As you say, sir. We'll leave it in your hands, then. Let us know if you need"
+" our help."
+msgstr ""
+"Come dice lei, signore. Lasceremo la cosa nelle sue mani, allora. Ci faccia "
+"sapere se ha bisogno del nostro aiuto."
+
+msgctxt "848_Elise Manager"
+msgid ""
+"Here's a little money to use. I'm afraid we can only spare 100,000 yen right"
+" now."
+msgstr ""
+"Ecco un po' di soldi da usare. Temo che al momento possiamo darle solo "
+"100.000 yen."
+
+msgctxt "872_Player"
+msgid ""
+"Every little bit helps. I'll get more money once my girls start generating "
+"revenue for the club, right?"
+msgstr ""
+"Ogni piccolo aiuto è importante. Riceverò più soldi una volta che le mie "
+"ragazze inizieranno a generare entrate per il locale, giusto?"
+
+msgctxt "884_Elise Manager"
+msgid ""
+"Of course, sir. The more money your girls make for the club, the more money "
+"you will have available to use."
+msgstr ""
+"Certo, signore. Più soldi guadagneranno le sue ragazze per il locale, più "
+"soldi avrà a disposizione."
+
+msgctxt "896_Elise Manager"
+msgid "Naoki will assist you again."
+msgstr "Naoki la assisterà di nuovo."
+
+msgctxt "908_Naoki"
+msgid "It's a pleasure to be working with you again."
+msgstr "È un piacere lavorare di nuovo con lei."
+
+msgctxt "920_Akiyama"
+msgid "Likewise."
+msgstr "Anche per me."
+
+msgctxt "932_Elise Manager"
+msgid ""
+"The first step is finding some promising girls. If you find a girl that you "
+"like out on the street, bring her back here."
+msgstr ""
+"Il primo passo è trovare delle ragazze promettenti. Se ne trova una che le "
+"piace per strada, la porti qui."
+
+msgctxt "944_Elise Manager"
+msgid "Good luck!"
+msgstr "Buona fortuna!"
+
+msgctxt "956_Hostess Club Scouting"
+msgid ""
+"The game's story will not advance while you are recruiting girls for the "
+"club. Walk around the streets of Kamurocho until you find a girl you like."
+msgstr ""
+"La storia del gioco non avanzerà mentre recluti ragazze per il locale. Gira "
+"per le strade di Kamurocho finché non trovi una ragazza che ti piace."
+
+msgctxt "980_Elise Manager"
+msgid "Hello, sir. I'm sorry to call you here again."
+msgstr "Salve, signore. Mi dispiace disturbarla di nuovo."
+
+msgctxt "992_Akiyama"
+msgid "How are things going with the club?"
+msgstr "Come vanno le cose con il locale?"
+
+msgctxt "1004_Elise Manager"
+msgid ""
+"Things are getting better, thanks to you! We still have a shortage of girls,"
+" though."
+msgstr ""
+"Le cose stanno migliorando, grazie a lei! Abbiamo ancora una carenza di "
+"ragazze, però."
+
+msgctxt "1016_Akiyama"
+msgid "Huh. That could be a problem."
+msgstr "Eh. Potrebbe essere un problema."
+
+msgctxt "1028_Manager"
+msgid ""
+"Indeed. We simply must find more hostesses. Otherwise, our business won't "
+"improve."
+msgstr ""
+"Infatti. Dobbiamo assolutamente trovare più hostess. Altrimenti, i nostri "
+"affari non miglioreranno."
+
+msgctxt "1040_Akiyama"
+msgid "I see. Well, good luck."
+msgstr "Capisco. Beh, buona fortuna."
+
+msgctxt "1052_Elise Manager"
+msgid "Thank you. I wish we could come up with a plan..."
+msgstr "Grazie. Vorrei che potessimo trovare un piano..."
+
+msgctxt "1064_Akiyama"
+msgid "Okay, okay. I get the message. I'll sort it out again."
+msgstr "Ok, ok. Ho capito il messaggio. Me ne occuperò di nuovo io."
+
+msgctxt "1076_Elise Manager"
+msgid "You'll help us again, sir?"
+msgstr "Ci aiuterà di nuovo, signore?"
+
+msgctxt "1088_Akiyama"
+msgid ""
+"It is what it is. This is my club, and I'll do whatever it takes to save it."
+msgstr ""
+"È quello che è. Questo è il mio locale e farò tutto il necessario per "
+"salvarlo."
+
+msgctxt "1100_Elise Manager"
+msgid "Thank you, sir! We'll do what we can to help."
+msgstr "Grazie, signore! Faremo il possibile per aiutare."
+
+msgctxt "1112_Elise Manager"
+msgid ""
+"Please start by recruiting a hostess. Look around town. If you find a "
+"promising girl, bring her back here."
+msgstr ""
+"Per favore, inizi reclutando un'hostess. Guardi in giro per la città. Se "
+"trova una ragazza promettente, la porti qui."
+
+msgctxt "1124_Akiyama"
+msgid "Will do."
+msgstr "Lo farò."
+
+msgctxt "1136_Elise Manager"
+msgid ""
+"Here are some funds to use. Unfortunately, we can't spare more than 100,000 "
+"yen."
+msgstr ""
+"Ecco alcuni fondi da usare. Sfortunatamente, non possiamo darle più di "
+"100.000 yen."
+
+msgctxt "1160_Elise Manager"
+msgid "Good luck!"
+msgstr "Buona fortuna!"
+
+msgctxt "1172_Hostess Club Scouting"
+msgid ""
+"The game's story will not advance while you are recruiting girls for the "
+"club. Walk around the streets of Kamurocho until you find a girl you like."
+msgstr ""
+"La storia del gioco non avanzerà mentre recluti ragazze per il locale. Gira "
+"per le strade di Kamurocho finché non trovi una ragazza che ti piace."
+
+msgctxt "1196_Elise Manager"
+msgid "Thank you for coming, sir. I'm sorry to keep bothering you like this."
+msgstr "Grazie per essere venuto, signore. Mi dispiace disturbarla così."
+
+msgctxt "1208_Akiyama"
+msgid "How are things going?"
+msgstr "Come vanno le cose?"
+
+msgctxt "1220_Elise Manager"
+msgid "I'm afraid we still have too few hostesses."
+msgstr "Temo che abbiamo ancora troppo poche hostess."
+
+msgctxt "1232_Akiyama"
+msgid "I thought as much..."
+msgstr "Lo immaginavo..."
+
+msgctxt "1244_Manager"
+msgid ""
+"I think one more could be enough to turn things around. Could I ask you to "
+"recruit another hostess for us?"
+msgstr ""
+"Penso che un'altra potrebbe bastare per cambiare le cose. Potrei chiederle "
+"di reclutare un'altra hostess per noi?"
+
+msgctxt "1256_Akiyama"
+msgid ""
+"I'm sorry to hear about that, but I can't help out this time. Good luck."
+msgstr "Mi dispiace sentirlo, ma stavolta non posso aiutare. Buona fortuna."
+
+msgctxt "1268_Elise Manager"
+msgid "Ah, well. Hopefully things will work out..."
+msgstr "Ah, beh. Speriamo che le cose si sistemino..."
+
+msgctxt "1280_Akiyama"
+msgid "All right. I'll try and find one more girl."
+msgstr "Va bene. Proverò a trovare un'altra ragazza."
+
+msgctxt "1292_Elise Manager"
+msgid ""
+"Thank you very much! First, let me give you your funds. As usual, I'm afraid"
+" we can only spare 100,000 yen."
+msgstr ""
+"Molte grazie! Per prima cosa, le do i suoi fondi. Come al solito, temo che "
+"possiamo darle solo 100.000 yen."
+
+msgctxt "1316_Elise Manager"
+msgid "Good luck."
+msgstr "Buona fortuna."
+
+msgctxt "1328_Hostess Club Scouting"
+msgid ""
+"The game's story will not advance while you are recruiting girls for the "
+"club. Walk around the streets of Kamurocho until you find a girl you like."
+msgstr ""
+"La storia del gioco non avanzerà mentre recluti ragazze per il locale. Gira "
+"per le strade di Kamurocho finché non trovi una ragazza che ti piace."
+
+msgctxt "1364_Elise Manager"
+msgid ""
+"We've got a bit of a problem, sir. %s left the club a while ago, and hasn't "
+"come back."
+msgstr ""
+"Abbiamo un piccolo problema, signore. %s ha lasciato il locale un po' di "
+"tempo fa e non è più tornata."
+
+msgctxt "1376_Elise Manager"
+msgid ""
+"She didn't seem to be upset or anything, but she's not answering her phone."
+msgstr "Non sembrava arrabbiata o altro, ma non risponde al telefono."
+
+msgctxt "1388_Akiyama"
+msgid "Okay. I'll try to find her."
+msgstr "Ok. Proverò a trovarla."
+
+msgctxt "1400_Elise Manager"
+msgid "Thank you!"
+msgstr "Grazie!"
+
+msgctxt "1412_Akiyama"
+msgid "(Hmm... Where would %s be likely to go?)"
+msgstr "(Mmm... Dove potrebbe essere andata %s?)"
+
+msgctxt "1448_Elise Manager"
+msgid ""
+"We've got a bit of a problem, sir. %s left the club a while ago, and hasn't "
+"come back."
+msgstr ""
+"Abbiamo un piccolo problema, signore. %s ha lasciato il locale un po' di "
+"tempo fa e non è più tornata."
+
+msgctxt "1460_Elise Manager"
+msgid ""
+"She didn't seem to be upset or anything, but she's not answering her phone."
+msgstr "Non sembrava arrabbiata o altro, ma non risponde al telefono."
+
+msgctxt "1472_Akiyama"
+msgid "Okay. I'll try to find her."
+msgstr "Ok. Proverò a trovarla."
+
+msgctxt "1484_Elise Manager"
+msgid "Thank you!"
+msgstr "Grazie!"
+
+msgctxt "1496_Akiyama"
+msgid "(Hmm... Where would %s be likely to go?)"
+msgstr "(Mmm... Dove potrebbe essere andata %s?)"
+
+msgctxt "1532_Elise Manager"
+msgid ""
+"We've got a bit of a problem, sir. %s left the club a while ago, and hasn't "
+"come back."
+msgstr ""
+"Abbiamo un piccolo problema, signore. %s ha lasciato il locale un po' di "
+"tempo fa e non è più tornata."
+
+msgctxt "1544_Elise Manager"
+msgid ""
+"She didn't seem to be upset or anything, but she's not answering her phone."
+msgstr "Non sembrava arrabbiata o altro, ma non risponde al telefono."
+
+msgctxt "1556_Akiyama"
+msgid "Okay. I'll try to find her."
+msgstr "Ok. Proverò a trovarla."
+
+msgctxt "1568_Elise Manager"
+msgid "Thank you!"
+msgstr "Grazie!"
+
+msgctxt "1580_Akiyama"
+msgid "(Hmm... Where would %s be likely to go?)"
+msgstr "(Mmm... Dove potrebbe essere andata %s?)"
+
+msgctxt "1616_Akiyama"
+msgid "Is %s-chan back?"
+msgstr "%s-chan è tornata?"
+
+msgctxt "1628_Elise Manager"
+msgid "Yes, sir. Thank you. I'm glad it was nothing."
+msgstr "Sì, signore. Grazie. Sono contento che non fosse niente."
+
+msgctxt "1640_Akiyama"
+msgid "Good."
+msgstr "Bene."
+
+msgctxt "1652_Elise Manager"
+msgid ""
+"That's all for today. I'll see you when you return for %s's next session."
+msgstr ""
+"Per oggi è tutto. Ci vediamo quando tornerà per la prossima sessione di %s."
+
+msgctxt "1664_Akiyama"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "1700_Elise Manager"
+msgid ""
+"%s-san is now our number one hostess at the club! Thank you for all of your "
+"hard work, sir!"
+msgstr ""
+"%s-san è ora la nostra hostess numero uno al locale! Grazie per tutto il suo"
+" duro lavoro, signore!"
+
+msgctxt "1712_Akiyama"
+msgid "I didn't do that much."
+msgstr "Non ho fatto molto."
+
+msgctxt "1724_Elise Manager"
+msgid "She's already a pro."
+msgstr "È già una professionista."
+
+msgctxt "1736_Elise Manager"
+msgid ""
+"Why don't you put together a special outfit for her to use from now on?"
+msgstr "Perché non le prepara un abito speciale da usare d'ora in poi?"
+
+msgctxt "1748_Akiyama"
+msgid "Sure, whatever will help her do her best."
+msgstr "Certo, qualsiasi cosa la aiuti a fare del suo meglio."
+
+msgctxt "1796_Elise Manager"
+msgid "Excellent choice, thank you."
+msgstr "Scelta eccellente, grazie."
+
+msgctxt "1808_Elise Manager"
+msgid "She'll be an asset to the club for a long time to come."
+msgstr "Sarà una risorsa per il locale per molto tempo a venire."
+
+msgctxt "1964_Elise Manager"
+msgid "Thank you for coming back, Kiryu-san!"
+msgstr "Grazie per essere tornato, Kiryu-san!"
+
+msgctxt "1976_Elise Manager"
+msgid ""
+"We'd love for you to try and train a number one hostess again. I'm sure you "
+"could!"
+msgstr ""
+"Ci piacerebbe che provasse di nuovo ad allenare un'hostess numero uno. Sono "
+"sicuro che ci riuscirebbe!"
+
+msgctxt "1988_Elise Manager"
+msgid ""
+"You'll start by recruiting a new hostess. If you have any questions, just "
+"ask Koji here."
+msgstr ""
+"Inizierà reclutando una nuova hostess. Se ha domande, chieda pure a Koji."
+
+msgctxt "2012_Elise Manager"
+msgid "*sigh*"
+msgstr "*sospiro*"
+
+msgctxt "2024_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "2036_Elise Manager"
+msgid "...I've got it!"
+msgstr "...Ci sono!"
+
+msgctxt "2048_Elise Manager"
+msgid "Why don't you work here for a while?"
+msgstr "Perché non lavora qui per un po'?"
+
+msgctxt "2060_Kiryu"
+msgid "Sorry. I'm just not cut out for that."
+msgstr "Scusi. Non sono tagliato per questo."
+
+msgctxt "2072_Elise Manager"
+msgid ""
+"That's not true! Our staff will be more than happy to explain how to do it! "
+"Please! We need your help!"
+msgstr ""
+"Non è vero! Il nostro staff sarà più che felice di spiegarle come fare! Per "
+"favore! Abbiamo bisogno del suo aiuto!"
+
+msgctxt "2084_Kiryu"
+msgid "I don't know if I'll be any good, but I'll give it a try."
+msgstr "Non so se sarò bravo, ma ci proverò."
+
+msgctxt "2096_Elise Manager"
+msgid "Thank you! This will be a big help!"
+msgstr "Grazie! Sarà di grande aiuto!"
+
+msgctxt "2108_Elise Manager"
+msgid ""
+"Allow me to introduce myself properly. My name is Sakaki. I'm the manager "
+"here."
+msgstr ""
+"Mi permetta di presentarmi correttamente. Mi chiamo Sakaki. Sono il "
+"direttore qui."
+
+msgctxt "2120_Kiryu"
+msgid "I'm Kiryu."
+msgstr "Sono Kiryu."
+
+msgctxt "2132_Elise Manager"
+msgid "Very well, Kiryu-san. You'll start by recruiting a hostess."
+msgstr "Benissimo, Kiryu-san. Inizierà reclutando un'hostess."
+
+msgctxt "2144_Elise Manager"
+msgid ""
+"Here are the funds we have available for you. I'm sure you will need some "
+"spending money."
+msgstr ""
+"Ecco i fondi che abbiamo a disposizione per lei. Sono sicuro che le "
+"serviranno dei soldi."
+
+msgctxt "2168_Elise Manager"
+msgid ""
+"You can go ahead and get started. Koji here will explain what you need to "
+"do."
+msgstr "Può iniziare. Koji le spiegherà cosa deve fare."
+
+msgctxt "2192_Akiyama"
+msgid "I'll take care of this myself."
+msgstr "Me ne occuperò io stesso."
+
+msgctxt "2204_Akiyama"
+msgid "Well, good luck."
+msgstr "Beh, buona fortuna."
+
+msgctxt "2216_Akiyama"
+msgid "I'll sort it out."
+msgstr "Ci penso io."
+
+msgctxt "2228_Akiyama"
+msgid "Well, good luck."
+msgstr "Beh, buona fortuna."
+
+msgctxt "2240_Akiyama"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "2252_Akiyama"
+msgid "Well, good luck."
+msgstr "Beh, buona fortuna."
+
+msgctxt "2264_Akiyama"
+msgid "Accept"
+msgstr "Accetta"
+
+msgctxt "2276_Akiyama"
+msgid "Decline"
+msgstr "Rifiuta"
+
+msgctxt "2288_Akiyama"
+msgid "Accept"
+msgstr "Accetta"
+
+msgctxt "2300_Akiyama"
+msgid "Decline"
+msgstr "Rifiuta"

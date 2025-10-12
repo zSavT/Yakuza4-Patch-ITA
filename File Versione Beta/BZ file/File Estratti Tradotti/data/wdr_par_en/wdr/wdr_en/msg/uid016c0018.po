@@ -1,0 +1,470 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "504"
+msgid "Controls"
+msgstr "Controls"
+
+msgctxt "672"
+msgid ""
+"Sometimes it can help to put a warm, damp cloth on your eyes. It improves "
+"the blood flow."
+msgstr ""
+"Sometimes it can help to put a warm, damp cloth on your eyes. It improves "
+"the blood flow."
+
+msgctxt "708"
+msgid "True enough."
+msgstr "True enough."
+
+msgctxt "744"
+msgid ""
+"And besides, I move my mouth all the time when I talk. I don't need to worry"
+" about it."
+msgstr ""
+"And besides, I move my mouth all the time when I talk. I don't need to worry"
+" about it."
+
+msgctxt "852"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "900"
+msgid "Not a bad idea, right?"
+msgstr "Not a bad idea, right?"
+
+msgctxt "1392"
+msgid "Me? No way."
+msgstr "Me? No way."
+
+msgctxt "13440"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "13444"
+msgid "F_cab_sitsofa_hot_muneA"
+msgstr "F_cab_sitsofa_hot_muneA"
+
+msgctxt "13448"
+msgid "Himeka"
+msgstr "Himeka"
+
+msgctxt "13452"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr "F_cab_sitsofa_tlk_suprise"
+
+msgctxt "13456"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "13460"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr "F_cab_sitsofa_tlk_noA"
+
+msgctxt "13464"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr "F_cab_sitsofa_talk_smileA"
+
+msgctxt "13468"
+msgid "F_cab_sitsofa_tlk_refuse"
+msgstr "F_cab_sitsofa_tlk_refuse"
+
+msgctxt "13472"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr "F_cab_sitsofa_tlk_angry"
+
+msgctxt "13476"
+msgid "F_cab_sitsofa_hot_momoA"
+msgstr "F_cab_sitsofa_hot_momoA"
+
+msgctxt "13480"
+msgid "P_sitsofaR_tlk_yes"
+msgstr "P_sitsofaR_tlk_yes"
+
+msgctxt "13484"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr "F_cab_sitsofa_sp5_sync_laugh"
+
+msgctxt "13488"
+msgid "P_sitsofa_sp5_sync_laugh"
+msgstr "P_sitsofa_sp5_sync_laugh"
+
+msgctxt "516_Tanimura"
+msgid ""
+"Use "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret>"
+" to control where you look. This is your chance to feast your eyes on her "
+"beauty."
+msgstr ""
+"Use "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret>"
+" to control where you look. This is your chance to feast your eyes on her "
+"beauty."
+
+msgctxt "528_Tanimura"
+msgid ""
+"Press <Action:Button_Cross@Cabaret> when you want to focus intently on one "
+"of her features. Holding down <Action:Button_Cross@Cabaret> allows you to "
+"focus your gaze."
+msgstr ""
+"Press <Action:Button_Cross@Cabaret> when you want to focus intently on one "
+"of her features. Holding down <Action:Button_Cross@Cabaret> allows you to "
+"focus your gaze."
+
+msgctxt "540_Tanimura"
+msgid "Note that her response will change depending on where you look."
+msgstr "Note that her response will change depending on where you look."
+
+msgctxt "564_Tanimura"
+msgid "(Should I choose her eyes?)"
+msgstr "(Should I choose her eyes?)"
+
+msgctxt "576_Tanimura"
+msgid "(Should I choose her mouth?)"
+msgstr "(Should I choose her mouth?)"
+
+msgctxt "588_Tanimura"
+msgid "(Maybe her hands...)"
+msgstr "(Maybe her hands...)"
+
+msgctxt "600_Tanimura"
+msgid "(Maybe her legs...)"
+msgstr "(Maybe her legs...)"
+
+msgctxt "612_Tanimura"
+msgid "(Maybe her head...)"
+msgstr "(Maybe her head...)"
+
+msgctxt "624_Tanimura"
+msgid "(Well...)"
+msgstr "(Well...)"
+
+msgctxt "636_Tanimura"
+msgid "(Let me think...)"
+msgstr "(Let me think...)"
+
+msgctxt "648_Tanimura"
+msgid "Your eyes look tired. A nice eye massage would do the trick."
+msgstr "Your eyes look tired. A nice eye massage would do the trick."
+
+msgctxt "660_Tanimura"
+msgid ""
+"Ya think so? It's true that I haven't been gettin' enough sleep lately."
+msgstr ""
+"Ya think so? It's true that I haven't been gettin' enough sleep lately."
+
+msgctxt "684_F_cab_sitsofa_tlk_happy"
+msgid "Wow, you sure know your stuff Tanimura-san. <Color:7>♥<Color:Default>"
+msgstr "Wow, you sure know your stuff Tanimura-san. <Color:7>♥<Color:Default>"
+
+msgctxt "696_F_cab_sitsofa_tlk_noA"
+msgid "But wouldn't that ruin my makeup? ♪"
+msgstr "But wouldn't that ruin my makeup? ♪"
+
+msgctxt "720_Tanimura"
+msgid ""
+"I could massage the area around your mouth. It could help relax your cheek "
+"muscles and even improve your smile."
+msgstr ""
+"I could massage the area around your mouth. It could help relax your cheek "
+"muscles and even improve your smile."
+
+msgctxt "732_Tanimura"
+msgid "What? You think my smile needs improvin'?"
+msgstr "What? You think my smile needs improvin'?"
+
+msgctxt "756_Tanimura"
+msgid "Suit yourself."
+msgstr "Accomodati."
+
+msgctxt "768_Tanimura"
+msgid "I could try the pressure points in your hand."
+msgstr "I could try the pressure points in your hand."
+
+msgctxt "780_F_cab_sitsofa_tlk_happy"
+msgid "Yeah, that sounds good."
+msgstr "Yeah, that sounds good."
+
+msgctxt "792_Tanimura"
+msgid "But I could do that myself. I was thinkin' of someplace else."
+msgstr "But I could do that myself. I was thinkin' of someplace else."
+
+msgctxt "804_Tanimura"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "816_Tanimura"
+msgid ""
+"How about your legs? Massaging different parts of your legs and feet can "
+"really have an effect."
+msgstr ""
+"How about your legs? Massaging different parts of your legs and feet can "
+"really have an effect."
+
+msgctxt "828_F_cab_sitsofa_tlk_happy"
+msgid "That sounds wonderful! ♪ I love gettin' foot massages. ♪"
+msgstr "That sounds wonderful! ♪ I love gettin' foot massages. ♪"
+
+msgctxt "840_Tanimura"
+msgid ""
+"But they don't allow touching at this club. Maybe some other time? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"But they don't allow touching at this club. Maybe some other time? "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "864_Tanimura"
+msgid "Maybe I could massage your head a bit?"
+msgstr "Maybe I could massage your head a bit?"
+
+msgctxt "876_Tanimura"
+msgid "My head? That's a surprisin' choice. ♪"
+msgstr "My head? That's a surprisin' choice. ♪"
+
+msgctxt "888_F_cab_sitsofa_talk_smileA"
+msgid ""
+"But come to think of it, I get a head massage when I get my hair shampooed "
+"at the beauty salon and I love that. <Color:7>♥<Color:Default>"
+msgstr ""
+"But come to think of it, I get a head massage when I get my hair shampooed "
+"at the beauty salon and I love that. <Color:7>♥<Color:Default>"
+
+msgctxt "912_Himeka"
+msgid "Tanimura-san! What are you thinking of massaging!?"
+msgstr "Tanimura-san! What are you thinking of massaging!?"
+
+msgctxt "924_Tanimura"
+msgid "Oh, uh... Sorry..."
+msgstr "Oh, uh... Sorry..."
+
+msgctxt "936_Himeka"
+msgid ""
+"I think massagin' my chest would be more of a treat for you than for me! Ya "
+"pervert!"
+msgstr ""
+"I think massagin' my chest would be more of a treat for you than for me! Ya "
+"pervert!"
+
+msgctxt "948_Himeka"
+msgid "I didn't think you were that kinda guy!"
+msgstr "I didn't think you were that kinda guy!"
+
+msgctxt "960_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "972_Himeka"
+msgid "What are you lookin' at?"
+msgstr "What are you lookin' at?"
+
+msgctxt "984_Tanimura"
+msgid "Huh? Oh, I just..."
+msgstr "Huh? Oh, I just..."
+
+msgctxt "996_F_cab_sitsofa_tlk_angry"
+msgid "Ya didn't really want to give me a massage, did ya?"
+msgstr "Ya didn't really want to give me a massage, did ya?"
+
+msgctxt "1008_Tanimura"
+msgid "Sure I did..."
+msgstr "Sure I did..."
+
+msgctxt "1020_Tanimura"
+msgid "(Her face?)"
+msgstr "(Her face?)"
+
+msgctxt "1032_Tanimura"
+msgid "(Her face?)"
+msgstr "(Her face?)"
+
+msgctxt "1044_Tanimura"
+msgid "(Her hands?)"
+msgstr "(Her hands?)"
+
+msgctxt "1056_Tanimura"
+msgid "(Her feet?)"
+msgstr "(Her feet?)"
+
+msgctxt "1068_Tanimura"
+msgid "(Her hair?)"
+msgstr "(Her hair?)"
+
+msgctxt "1080_Tanimura"
+msgid "(Her chest?)"
+msgstr "(Her chest?)"
+
+msgctxt "1092_Tanimura"
+msgid "(I really don't know what to pick.)"
+msgstr "(I really don't know what to pick.)"
+
+msgctxt "1104_Tanimura"
+msgid "Your face?"
+msgstr "Your face?"
+
+msgctxt "1116_Tanimura"
+msgid "You got it! I guess you know me pretty well. <Color:7>♥<Color:Default>"
+msgstr ""
+"You got it! I guess you know me pretty well. <Color:7>♥<Color:Default>"
+
+msgctxt "1128_P_sitsofaR_tlk_yes"
+msgid "It's always so pretty."
+msgstr "It's always so pretty."
+
+msgctxt "1140_F_cab_sitsofa_sp5_sync_laugh"
+msgid "Oh, you... Yer so damn honest..."
+msgstr "Oh, you... Yer so damn honest..."
+
+msgctxt "1152_Tanimura"
+msgid ""
+"I always make sure to wash off my makeup before I get into\r\n"
+"the tub. <Color:7>♥<Color:Default>"
+msgstr ""
+"I always make sure to wash off my makeup before I get into\r\n"
+"the tub. <Color:7>♥<Color:Default>"
+
+msgctxt "1164_Tanimura"
+msgid "Your face?"
+msgstr "Your face?"
+
+msgctxt "1176_Tanimura"
+msgid ""
+"You got it! ♪ I guess you know me pretty well. <Color:7>♥<Color:Default>"
+msgstr ""
+"You got it! ♪ I guess you know me pretty well. <Color:7>♥<Color:Default>"
+
+msgctxt "1188_Tanimura"
+msgid "It's always so pretty."
+msgstr "It's always so pretty."
+
+msgctxt "1200_F_cab_sitsofa_sp5_sync_laugh"
+msgid "Oh, you... You're so damn honest... ♪"
+msgstr "Oh, you... You're so damn honest... ♪"
+
+msgctxt "1212_Tanimura"
+msgid ""
+"I always make sure to wash off my makeup before I get into\r\n"
+"the tub. <Color:7>♥<Color:Default>"
+msgstr ""
+"I always make sure to wash off my makeup before I get into\r\n"
+"the tub. <Color:7>♥<Color:Default>"
+
+msgctxt "1224_Tanimura"
+msgid "Your hands?"
+msgstr "Your hands?"
+
+msgctxt "1236_Tanimura"
+msgid ""
+"Nope! ♪ I get my hands sparklin' clean in the sink before taking a bath."
+msgstr ""
+"Nope! ♪ I get my hands sparklin' clean in the sink before taking a bath."
+
+msgctxt "1248_F_cab_sitsofa_sp5_sync_laugh"
+msgid "The correct answer is... my face! ♪"
+msgstr "The correct answer is... my face! ♪"
+
+msgctxt "1260_Tanimura"
+msgid ""
+"I always make sure to wash off my makeup before I get into\r\n"
+"the tub. <Color:7>♥<Color:Default>"
+msgstr ""
+"I always make sure to wash off my makeup before I get into\r\n"
+"the tub. <Color:7>♥<Color:Default>"
+
+msgctxt "1272_Tanimura"
+msgid "Your feet?"
+msgstr "Your feet?"
+
+msgctxt "1284_Tanimura"
+msgid ""
+"Nope! ♪ I wash someplace else before starting on my feet! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Nope! ♪ I wash someplace else before starting on my feet! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "1296_F_cab_sitsofa_sp5_sync_laugh"
+msgid "The correct answer is... my face! ♪"
+msgstr "The correct answer is... my face! ♪"
+
+msgctxt "1308_Tanimura"
+msgid ""
+"I always make sure to wash off my makeup before I get into\r\n"
+"the tub. <Color:7>♥<Color:Default>"
+msgstr ""
+"I always make sure to wash off my makeup before I get into\r\n"
+"the tub. <Color:7>♥<Color:Default>"
+
+msgctxt "1320_Tanimura"
+msgid "Your hair?"
+msgstr "Your hair?"
+
+msgctxt "1332_Tanimura"
+msgid "Nope! ♪ My hair takes a lotta time, so I save it for later."
+msgstr "Nope! ♪ My hair takes a lotta time, so I save it for later."
+
+msgctxt "1344_F_cab_sitsofa_sp5_sync_laugh"
+msgid "The correct answer is... my face! ♪"
+msgstr "The correct answer is... my face! ♪"
+
+msgctxt "1356_Tanimura"
+msgid ""
+"I always make sure to wash off my makeup before I get into\r\n"
+"the tub. <Color:7>♥<Color:Default>"
+msgstr ""
+"I always make sure to wash off my makeup before I get into\r\n"
+"the tub. <Color:7>♥<Color:Default>"
+
+msgctxt "1368_Tanimura"
+msgid "Your chest?"
+msgstr "Your chest?"
+
+msgctxt "1380_Tanimura"
+msgid "Wrong! Too bad! ♪ You thinkin' somethin' dirty there?"
+msgstr "Wrong! Too bad! ♪ You thinkin' somethin' dirty there?"
+
+msgctxt "1404_F_cab_sitsofa_sp5_sync_laugh"
+msgid "The correct answer is... my face! ♪"
+msgstr "The correct answer is... my face! ♪"
+
+msgctxt "1416_Tanimura"
+msgid ""
+"I always make sure to wash off my makeup before I get into\r\n"
+"the tub. <Color:7>♥<Color:Default>"
+msgstr ""
+"I always make sure to wash off my makeup before I get into\r\n"
+"the tub. <Color:7>♥<Color:Default>"
+
+msgctxt "1428_Tanimura"
+msgid "(There's no way I'd know this...)"
+msgstr "(There's no way I'd know this...)"
+
+msgctxt "1440_F_cab_sitsofa_tlk_angry"
+msgid "Oh, c'mon! You even tryin'? Get that noggin joggin'!"
+msgstr "Oh, c'mon! You even tryin'? Get that noggin joggin'!"
+
+msgctxt "1452_Tanimura"
+msgid "I give up. Tell me."
+msgstr "I give up. Tell me."
+
+msgctxt "1464_F_cab_sitsofa_sp5_sync_laugh"
+msgid "The correct answer is... my face! ♪"
+msgstr "The correct answer is... my face! ♪"
+
+msgctxt "1476_Tanimura"
+msgid ""
+"I always make sure to wash off my makeup before I get into\r\n"
+"the tub. <Color:7>♥<Color:Default>"
+msgstr ""
+"I always make sure to wash off my makeup before I get into\r\n"
+"the tub. <Color:7>♥<Color:Default>"

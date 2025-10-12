@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1168"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "1172"
+msgid "HAL_stand_tlk_happy_small"
+msgstr "HAL_stand_tlk_happy_small"
+
+msgctxt "1176"
+msgid "HAL_stand_tlk_unhappy_small"
+msgstr "HAL_stand_tlk_unhappy_small"
+
+msgctxt "180_Haruka"
+msgid "Thanks, Uncle Kaz!"
+msgstr "Thanks, Uncle Kaz!"
+
+msgctxt "192_Haruka"
+msgid "It's really sweet and delicious!"
+msgstr "It's really sweet and delicious!"
+
+msgctxt "216_Haruka"
+msgid "Aww, I really wanted that."
+msgstr "Aww, I really wanted that."
+
+msgctxt "240_Haruka"
+msgid "Uncle Kaz! I want a <Color:8>Double Scoop<Color:Default>!"
+msgstr "Uncle Kaz! I want a <Color:8>Double Scoop<Color:Default>!"
+
+msgctxt "264_Haruka"
+msgid "Uncle Kaz! I want some <Color:8>Strawberry Gelato<Color:Default>!"
+msgstr "Uncle Kaz! I want some <Color:8>Strawberry Gelato<Color:Default>!"

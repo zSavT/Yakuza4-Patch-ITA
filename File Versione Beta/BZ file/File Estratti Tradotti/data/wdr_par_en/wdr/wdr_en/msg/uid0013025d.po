@@ -1,0 +1,109 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3004"
+msgid "Man in Disguise"
+msgstr "Man in Disguise"
+
+msgctxt "3008"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3012"
+msgid "Buyer"
+msgstr "Buyer"
+
+msgctxt "3016"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "3020"
+msgid "Talk_Kosite_lp"
+msgstr "Talk_Kosite_lp"
+
+msgctxt "3024"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "3028"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "3032"
+msgid "Talk_Kosite_Yes"
+msgstr "Talk_Kosite_Yes"
+
+msgctxt "3036"
+msgid "Talk_Kosite_ed"
+msgstr "Talk_Kosite_ed"
+
+msgctxt "3040"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "3044"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "96_Man in Disguise"
+msgid "Heheh, thanks again."
+msgstr "Heheh, thanks again."
+
+msgctxt "108_Buyer"
+msgid "I really owe you for this. Talk to you later."
+msgstr "I really owe you for this. Talk to you later."
+
+msgctxt "120_Man in Disguise"
+msgid "No problem."
+msgstr "No problem."
+
+msgctxt "204_Man in Disguise"
+msgid ""
+"This lets me sell my stuff without anyone suspecting a thing. Even if I "
+"raise suspicions, people will think it's the Kamurocho Guard."
+msgstr ""
+"This lets me sell my stuff without anyone suspecting a thing. Even if I "
+"raise suspicions, people will think it's the Kamurocho Guard."
+
+msgctxt "216_Tanimura"
+msgid "Hey."
+msgstr "Ehi."
+
+msgctxt "228_Man in Disguise"
+msgid "Yikes!"
+msgstr "Yikes!"
+
+msgctxt "240_Tanimura"
+msgid "Cosplaying and selling weapons? Real nice."
+msgstr "Cosplaying and selling weapons? Real nice."
+
+msgctxt "252_Tanimura"
+msgid ""
+"Look, you're causing a lot of headaches by dressing up like that. But I'm "
+"sure you already know that, don't you?"
+msgstr ""
+"Look, you're causing a lot of headaches by dressing up like that. But I'm "
+"sure you already know that, don't you?"
+
+msgctxt "264_Tanimura"
+msgid "I have some questions for you, so how about you come with me?"
+msgstr "I have some questions for you, so how about you come with me?"
+
+msgctxt "276_Man in Disguise"
+msgid ""
+"The hell I will! Shit, this's become a real pain in the ass, 'cause now I "
+"gotta get rid of you!"
+msgstr ""
+"The hell I will! Shit, this's become a real pain in the ass, 'cause now I "
+"gotta get rid of you!"

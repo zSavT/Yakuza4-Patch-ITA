@@ -1,0 +1,253 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "512"
+msgid ""
+"Major error! No flags set for conversation selection!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+"Major error! No flags set for conversation selection!\r\n"
+"No flags set for conversation selection!"
+
+msgctxt "1016"
+msgid ""
+"Major error! No flags set for conversation selection!\r\n"
+"No flags set for conversation selection!"
+msgstr ""
+"Major error! No flags set for conversation selection!\r\n"
+"No flags set for conversation selection!"
+
+msgctxt "13620"
+msgid "Erena"
+msgstr "Erena"
+
+msgctxt "13624"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13628"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "13632"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "13636"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13640"
+msgid "0"
+msgstr ""
+
+msgctxt "13644"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "13648"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13652"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_Erena"
+msgid "I wonder what you're gonna buy me..."
+msgstr "I wonder what you're gonna buy me..."
+
+msgctxt "128_Player"
+msgid "Let's go in and find out."
+msgstr "Let's go in and find out."
+
+msgctxt "152_Erena"
+msgid "I wonder what you're gonna buy me..."
+msgstr "I wonder what you're gonna buy me..."
+
+msgctxt "164_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr "Um, wait a moment. I thought I had more cash than this..."
+
+msgctxt "176_Erena"
+msgid "Huh? You serious?"
+msgstr "Huh? You serious?"
+
+msgctxt "188_Player"
+msgid "Yeah. Sorry..."
+msgstr "Yeah. Sorry..."
+
+msgctxt "200_Erena"
+msgid "Geez, I didn't think you were so poor... I'll go home, then."
+msgstr "Geez, I didn't think you were so poor... I'll go home, then."
+
+msgctxt "212_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr "(I should've made sure I had some cash...)"
+
+msgctxt "320_Erena"
+msgid "This is awesome! Thank you so much!"
+msgstr "This is awesome! Thank you so much!"
+
+msgctxt "332_Player"
+msgid "Heh."
+msgstr "Heh."
+
+msgctxt "344_Erena"
+msgid "It was so sweet of you to get me this! Thanks for a great date!"
+msgstr "It was so sweet of you to get me this! Thanks for a great date!"
+
+msgctxt "356_Talk_Ojigi"
+msgid "I'll see ya at the club!"
+msgstr "I'll see ya at the club!"
+
+msgctxt "380_Erena"
+msgid ""
+"You sure it's okay for me to take this? 'Cause I won't let you have it back "
+"later!"
+msgstr ""
+"You sure it's okay for me to take this? 'Cause I won't let you have it back "
+"later!"
+
+msgctxt "392_Player"
+msgid "Heh."
+msgstr "Heh."
+
+msgctxt "404_Erena"
+msgid "I had a great time today. I'll see ya at the club."
+msgstr "I had a great time today. I'll see ya at the club."
+
+msgctxt "428_Erena"
+msgid "......"
+msgstr "......"
+
+msgctxt "440_Player"
+msgid "Something wrong?"
+msgstr "Something wrong?"
+
+msgctxt "452_Erena"
+msgid "You wanna give this to me? It's not exactly what I would've gotten..."
+msgstr "You wanna give this to me? It's not exactly what I would've gotten..."
+
+msgctxt "464_Player"
+msgid "Oh, it's not?"
+msgstr "Oh, it's not?"
+
+msgctxt "476_Erena"
+msgid "But I guess it's okay... Well, I'd better get goin'."
+msgstr "But I guess it's okay... Well, I'd better get goin'."
+
+msgctxt "488_Player"
+msgid "(Next time I'll give her something she likes better...)"
+msgstr "(Next time I'll give her something she likes better...)"
+
+msgctxt "596_Erena"
+msgid "I wonder what you're gonna buy me..."
+msgstr "I wonder what you're gonna buy me..."
+
+msgctxt "608_Player"
+msgid "We can figure that out inside."
+msgstr "We can figure that out inside."
+
+msgctxt "632_Erena"
+msgid "I wonder what you're gonna buy me..."
+msgstr "I wonder what you're gonna buy me..."
+
+msgctxt "644_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr "Um, wait a moment. I thought I had more cash than this..."
+
+msgctxt "656_Erena"
+msgid "Huh? You serious?"
+msgstr "Huh? You serious?"
+
+msgctxt "668_Player"
+msgid "Yeah. Sorry..."
+msgstr "Yeah. Sorry..."
+
+msgctxt "680_Erena"
+msgid "Geez, I didn't think you were so poor... I'll go home, then."
+msgstr "Geez, I didn't think you were so poor... I'll go home, then."
+
+msgctxt "692_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr "(I should've made sure I had some cash...)"
+
+msgctxt "800_Erena"
+msgid "This is awesome! Thank you so much!"
+msgstr "This is awesome! Thank you so much!"
+
+msgctxt "812_Player"
+msgid "Heh."
+msgstr "Heh."
+
+msgctxt "824_Erena"
+msgid ""
+"It was so sweet of you to get me this! I'll treasure it forever. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"It was so sweet of you to get me this! I'll treasure it forever. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "836_Talk_Ojigi"
+msgid "I had a great time today! Wanna go to the club now?"
+msgstr "I had a great time today! Wanna go to the club now?"
+
+msgctxt "848_Player"
+msgid "Sounds good."
+msgstr "Sounds good."
+
+msgctxt "872_Erena"
+msgid ""
+"You sure it's okay for me to take this? 'Cause I won't let you have it back "
+"later!"
+msgstr ""
+"You sure it's okay for me to take this? 'Cause I won't let you have it back "
+"later!"
+
+msgctxt "884_Player"
+msgid "Heh."
+msgstr "Heh."
+
+msgctxt "896_Erena"
+msgid "I had a good time today. Wanna go to the club now?"
+msgstr "I had a good time today. Wanna go to the club now?"
+
+msgctxt "908_Player"
+msgid "Sounds good."
+msgstr "Sounds good."
+
+msgctxt "932_Erena"
+msgid "......"
+msgstr "......"
+
+msgctxt "944_Player"
+msgid "Something wrong?"
+msgstr "Something wrong?"
+
+msgctxt "956_Erena"
+msgid "You wanna give this to me? It's not exactly what I would've gotten..."
+msgstr "You wanna give this to me? It's not exactly what I would've gotten..."
+
+msgctxt "968_Player"
+msgid "Oh, it's not?"
+msgstr "Oh, it's not?"
+
+msgctxt "980_Erena"
+msgid "But I guess it's okay... Well, we'd better get back to the club."
+msgstr "But I guess it's okay... Well, we'd better get back to the club."
+
+msgctxt "992_Player"
+msgid "(Next time I'll give her something she likes better...)"
+msgstr "(Next time I'll give her something she likes better...)"

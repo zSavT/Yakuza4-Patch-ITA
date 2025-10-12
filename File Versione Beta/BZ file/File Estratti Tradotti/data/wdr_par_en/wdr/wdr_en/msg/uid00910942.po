@@ -1,0 +1,179 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4608"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "4612"
+msgid "Noir"
+msgstr "Noir"
+
+msgctxt "4616"
+msgid "M_ykz_damage_tlk_no"
+msgstr "M_ykz_damage_tlk_no"
+
+msgctxt "4620"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "4624"
+msgid "0"
+msgstr ""
+
+msgctxt "4628"
+msgid "Mysterious Man"
+msgstr "Mysterious Man"
+
+msgctxt "4632"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "4636"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4640"
+msgid "Talk_Kosite_st"
+msgstr "Talk_Kosite_st"
+
+msgctxt "4644"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "4648"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "4652"
+msgid "Talk_Kosite_ed"
+msgstr "Talk_Kosite_ed"
+
+msgctxt "72_Kiryu"
+msgid "This ends here. Tell me where your boss is hiding, now!"
+msgstr "This ends here. Tell me where your boss is hiding, now!"
+
+msgctxt "84_Noir"
+msgid "I've no idea. But you just wait, he'll pay you a visit soon enough."
+msgstr "I've no idea. But you just wait, he'll pay you a visit soon enough."
+
+msgctxt "96_Kiryu"
+msgid "Yeah? Then I'm done with you. See ya."
+msgstr "Yeah? Then I'm done with you. See ya."
+
+msgctxt "108_Kiryu"
+msgid ""
+"You could take a lesson from your brother, you know. It's a little something"
+" called free will."
+msgstr ""
+"You could take a lesson from your brother, you know. It's a little something"
+" called free will."
+
+msgctxt "120_Noir"
+msgid "......"
+msgstr "......"
+
+msgctxt "180_Kiryu"
+msgid "Hey, you're... Rank Zero? You're part of the Dark Clan, too?"
+msgstr "Hey, you're... Rank Zero? You're part of the Dark Clan, too?"
+
+msgctxt "192_Mysterious Man"
+msgid ""
+"Hmph. You must've met that good-for-nothing brother of mine. That simpleton,"
+" sticking ranks on people and gloating like the next messiah."
+msgstr ""
+"Hmph. You must've met that good-for-nothing brother of mine. That simpleton,"
+" sticking ranks on people and gloating like the next messiah."
+
+msgctxt "204_Mysterious Man"
+msgid ""
+"He was nothing but a lowlife that ran off when he couldn't live up to our "
+"noble ideals."
+msgstr ""
+"He was nothing but a lowlife that ran off when he couldn't live up to our "
+"noble ideals."
+
+msgctxt "216_Mysterious Man"
+msgid "I'm Noir, of the Dark Clan. Do not confuse me with my brother."
+msgstr "I'm Noir, of the Dark Clan. Do not confuse me with my brother."
+
+msgctxt "228_Kiryu"
+msgid "Why are you all after me?"
+msgstr "Why are you all after me?"
+
+msgctxt "240_Noir"
+msgid "As for that, I have no idea. But I follow my orders."
+msgstr "As for that, I have no idea. But I follow my orders."
+
+msgctxt "252_Noir"
+msgid ""
+"I'm supposed to wait until the boss lures you here. You come, I beat you. "
+"Very simple."
+msgstr ""
+"I'm supposed to wait until the boss lures you here. You come, I beat you. "
+"Very simple."
+
+msgctxt "264_Kiryu"
+msgid "Okay, then, next question. What's your group up to?"
+msgstr "Okay, then, next question. What's your group up to?"
+
+msgctxt "276_Noir"
+msgid ""
+"That's on a need-to-know basis as well. I'm sure the boss will tell me "
+"himself when the time's right."
+msgstr ""
+"That's on a need-to-know basis as well. I'm sure the boss will tell me "
+"himself when the time's right."
+
+msgctxt "288_Kiryu"
+msgid "Heh... Now I get it."
+msgstr "Heh... Now I get it."
+
+msgctxt "300_Noir"
+msgid "What's so funny?"
+msgstr "Cosa c'è di buffo?"
+
+msgctxt "312_Kiryu"
+msgid ""
+"You may look and sound just like your brother, but he must have gotten all "
+"the brains."
+msgstr ""
+"You may look and sound just like your brother, but he must have gotten all "
+"the brains."
+
+msgctxt "324_Noir"
+msgid "What did you just say!?"
+msgstr "What did you just say!?"
+
+msgctxt "336_Kiryu"
+msgid "Your brother, Rank Zero. At least that guy had a sense of purpose."
+msgstr "Your brother, Rank Zero. At least that guy had a sense of purpose."
+
+msgctxt "348_Kiryu"
+msgid ""
+"But you're just following someone else's orders. Orders you don't even "
+"understand. So, which one of you is the lowlife, now?"
+msgstr ""
+"But you're just following someone else's orders. Orders you don't even "
+"understand. So, which one of you is the lowlife, now?"
+
+msgctxt "360_Noir"
+msgid "Why you...!"
+msgstr "Why you...!"
+
+msgctxt "372_Noir"
+msgid ""
+"This conversation has gone on long enough. It's about time for you to die."
+msgstr ""
+"This conversation has gone on long enough. It's about time for you to die."

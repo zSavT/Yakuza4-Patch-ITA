@@ -1,0 +1,136 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "236"
+msgid "You got a <Color:8>Staminan X<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan X<Color:Default>."
+
+msgctxt "260"
+msgid "You got a <Color:8>Toughness Z<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Toughness Z<Color:Default>."
+
+msgctxt "4688"
+msgid "Mei Hua"
+msgstr "Mei Hua"
+
+msgctxt "4692"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "4696"
+msgid "Talk_Cry"
+msgstr "Talk_Cry"
+
+msgctxt "4700"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "4704"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4708"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4712"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "4716"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "4720"
+msgid "0"
+msgstr ""
+
+msgctxt "68_Mei Hua"
+msgid "Ma-chan! Help!"
+msgstr "Ma-chan! Aiuto!"
+
+msgctxt "80_Mei Hua"
+msgid "It's Dad... You gotta help my dad!"
+msgstr "È papà... Devi aiutare mio padre!"
+
+msgctxt "92_Tanimura"
+msgid "What's wrong?"
+msgstr "Cosa c'è che non va?"
+
+msgctxt "104_Mei Hua"
+msgid "They... took him away!"
+msgstr "L'hanno... l'hanno portato via!"
+
+msgctxt "116_Tanimura"
+msgid "Who did!? What happened?"
+msgstr "Chi!? Cos'è successo?"
+
+msgctxt "128_Mei Hua"
+msgid ""
+"These scary guys burst into Homeland and harassed us about a woman named "
+"Nadine..."
+msgstr ""
+"Dei tizi spaventosi hanno fatto irruzione all'Homeland e ci hanno tormentato"
+" riguardo a una donna di nome Nadine..."
+
+msgctxt "140_Tanimura"
+msgid "Do you know who they were?"
+msgstr "Sai chi erano?"
+
+msgctxt "152_Mei Hua"
+msgid ""
+"No... But I think I know where they headed: somewhere off of Senryo Avenue."
+msgstr ""
+"No... Ma credo di sapere dove sono diretti: da qualche parte vicino a Senryo"
+" Avenue."
+
+msgctxt "164_Mei Hua"
+msgid "Please, Ma-chan, you gotta save my dad!"
+msgstr "Ti prego, Ma-chan, devi salvare mio padre!"
+
+msgctxt "176_Tanimura"
+msgid ""
+"Don't worry, I'll get him back in one piece. You just head back to the "
+"restaurant where it's safe, okay?"
+msgstr ""
+"Non preoccuparti, lo riporterò indietro tutto intero. Tu torna al "
+"ristorante, lì sarai al sicuro, ok?"
+
+msgctxt "188_Mei Hua"
+msgid "No! I'm going, too!"
+msgstr "No! Vengo anch'io!"
+
+msgctxt "200_Tanimura"
+msgid "I had a feeling you'd say that..."
+msgstr "Immaginavo che l'avresti detto..."
+
+msgctxt "212_Tanimura"
+msgid "Fine. But we've gotta hurry. Think you can keep up?"
+msgstr "E va bene. Ma dobbiamo sbrigarci. Pensi di riuscire a starmi dietro?"
+
+msgctxt "224_Mei Hua"
+msgid ""
+"Of course I can! By the way, Ma-chan, I brought these for you in case you "
+"were tired. Hope you like them!"
+msgstr ""
+"Certo che posso! A proposito, Ma-chan, ti ho portato queste cose nel caso "
+"fossi stanco. Spero ti piacciano!"
+
+msgctxt "284_Tanimura"
+msgid "You're the best. Now let's get going!"
+msgstr "Sei la migliore. Ora andiamo!"
+
+msgctxt "296_Mei Hua"
+msgid "I'm right behind you!"
+msgstr "Sono subito dietro di te!"

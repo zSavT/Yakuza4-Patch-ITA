@@ -1,0 +1,385 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "480"
+msgid "You got a <Color:8>Divine Dragon Short Sword<Color:Default>."
+msgstr ""
+"Hai ottenuto una <Color:8>Spada corta del Drago Divino<Color:Default>."
+
+msgctxt "15648"
+msgid "Jo Amon"
+msgstr "Jo Amon"
+
+msgctxt "15652"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "15656"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "15660"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "15664"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "15668"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "15672"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "15676"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "15680"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "15684"
+msgid "Talk_Syagamu_st"
+msgstr "Talk_Syagamu_st"
+
+msgctxt "15688"
+msgid "Talk_Syagamu_ed"
+msgstr "Talk_Syagamu_ed"
+
+msgctxt "15692"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "15696"
+msgid "Sango Amon"
+msgstr "Sango Amon"
+
+msgctxt "15700"
+msgid "Jiro Amon"
+msgstr "Jiro Amon"
+
+msgctxt "15704"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "15708"
+msgid "kaiwabgm_fuonb"
+msgstr "kaiwabgm_fuonb"
+
+msgctxt "15712"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "15716"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "15720"
+msgid "Kazuya Amon"
+msgstr "Kazuya Amon"
+
+msgctxt "180_Jo Amon"
+msgid "Why!? Why can't I beat you!?"
+msgstr "Perché!? Perché non riesco a batterti!?"
+
+msgctxt "192_Jo Amon"
+msgid ""
+"I've overcome every obstacle in my path and honed my skills time and time "
+"again. Why do I still get defeated!?"
+msgstr ""
+"Ho superato ogni ostacolo sul mio cammino e affinato le mie abilità più e "
+"più volte. Perché vengo ancora sconfitto!?"
+
+msgctxt "204_Jo Amon"
+msgid ""
+"Don't think this means that I'll give up. The feud between us ends only when"
+" one of us is dead!"
+msgstr ""
+"Non pensare che questo significhi che mi arrenderò. La faida tra noi finirà "
+"solo quando uno di noi due sarà morto!"
+
+msgctxt "216_Jo Amon"
+msgid ""
+"I'll reappear to challenge you again when the time is right. As many times "
+"as it takes!"
+msgstr ""
+"Riapparirò per sfidarti di nuovo quando sarà il momento. Tutte le volte che "
+"sarà necessario!"
+
+msgctxt "228_Jo Amon"
+msgid "Do not forget this, Kazuma Kiryu!"
+msgstr "Non dimenticarlo, Kazuma Kiryu!"
+
+msgctxt "300_Tanimura"
+msgid "He's gone."
+msgstr "Se n'è andato."
+
+msgctxt "312_Saejima"
+msgid "I gotta give 'em credit. They were tough."
+msgstr "Devo dargliene atto. Erano tosti."
+
+msgctxt "324_Akiyama"
+msgid "Are these guys going to come after us again?"
+msgstr "Questi tizi torneranno a darci la caccia?"
+
+msgctxt "336_Kiryu"
+msgid ""
+"Yeah, I think we'll probably hear from them again. And when we do, we'll "
+"give them a repeat performance."
+msgstr ""
+"Sì, penso che li risentiremo. E quando succederà, gli offriremo una replica."
+
+msgctxt "348_Kiryu"
+msgid "I don't know if I could've done this alone."
+msgstr "Non so se ce l'avrei fatta da solo."
+
+msgctxt "360_Kiryu"
+msgid "I really want to thank all of you again."
+msgstr "Voglio davvero ringraziarvi tutti di nuovo."
+
+msgctxt "372_Akiyama"
+msgid "No need for thanks. I had some time to kill."
+msgstr "Non c'è bisogno di ringraziare. Avevo un po' di tempo da ammazzare."
+
+msgctxt "384_Saejima"
+msgid "Same here. I ended up havin' a pretty good time actually."
+msgstr "Lo stesso vale per me. Alla fine mi sono anche divertito."
+
+msgctxt "396_Tanimura"
+msgid "That's right. Don't worry about it, Kiryu."
+msgstr "Esatto. Non preoccuparti, Kiryu."
+
+msgctxt "408_Kiryu"
+msgid ""
+"At least let me buy you all a round when we get back. Anyway, let's go. "
+"Kamurocho is waiting for us."
+msgstr ""
+"Almeno lasciate che vi offra un giro quando torniamo. Comunque, andiamo. "
+"Kamurocho ci aspetta."
+
+msgctxt "420_Akiyama"
+msgid "Yeah, we should get back."
+msgstr "Sì, dovremmo tornare."
+
+msgctxt "432_Akiyama"
+msgid "Hmm? What's that?"
+msgstr "Mmm? Cos'è quello?"
+
+msgctxt "468_Kiryu"
+msgid "Looks like..."
+msgstr "Sembra..."
+
+msgctxt "516_Kiryu"
+msgid "(Amon... Will our battle ever end?)"
+msgstr "(Amon... La nostra battaglia finirà mai?)"
+
+msgctxt "576_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "588_Jo Amon"
+msgid ""
+"Heheh. You've all put on quite the show. Each of your friends seems to excel"
+" in his own way."
+msgstr ""
+"Eheh. Avete dato tutti un bello spettacolo. Ognuno dei tuoi amici sembra "
+"eccellere a modo suo."
+
+msgctxt "600_Jo Amon"
+msgid ""
+"However, I can't have you thinking you're winning just because you beat my "
+"apprentices. That was merely a warmup for the main event."
+msgstr ""
+"Tuttavia, non posso permetterti di pensare di aver vinto solo perché hai "
+"battuto i miei apprendisti. Quello era solo un riscaldamento per l'evento "
+"principale."
+
+msgctxt "612_Jo Amon"
+msgid "Our battle, destined by fate, will not end until one of us is dead!"
+msgstr ""
+"La nostra battaglia, voluta dal fato, non finirà finché uno di noi non sarà "
+"morto!"
+
+msgctxt "624_Jo Amon"
+msgid "Come on, Kazuma Kiryu!"
+msgstr "Forza, Kazuma Kiryu!"
+
+msgctxt "648_Tanimura"
+msgid "Whew... Looks like I came out on top."
+msgstr "Phew... Sembra che ne sia uscito vincitore."
+
+msgctxt "672_Jo Amon"
+msgid "......"
+msgstr "......"
+
+msgctxt "684_Kiryu"
+msgid "Jo Amon..."
+msgstr "Jo Amon..."
+
+msgctxt "696_Saejima"
+msgid "So now it's time for the head honcho."
+msgstr "Quindi ora è il turno del pezzo grosso."
+
+msgctxt "708_Akiyama"
+msgid "Be careful, Kiryu."
+msgstr "Stai attento, Kiryu."
+
+msgctxt "720_Kiryu"
+msgid "Yeah, I'm ready."
+msgstr "Sì, sono pronto."
+
+msgctxt "780_Tanimura"
+msgid "Let's do this. I'm not gonna go easy on you!"
+msgstr "Facciamolo. Non ci andrò piano!"
+
+msgctxt "792_Sango Amon"
+msgid ""
+"Well, well. A cocky little brat, I see. I will kill you, but don't worry. I "
+"can spare you the pain of death."
+msgstr ""
+"Bene, bene. Un moccioso arrogante, vedo. Ti ucciderò, ma non preoccuparti. "
+"Posso risparmiarti il dolore della morte."
+
+msgctxt "816_Saejima"
+msgid "*panting* That the best you got?"
+msgstr "*ansima* Tutto qui?"
+
+msgctxt "840_Sango Amon"
+msgid "......"
+msgstr "......"
+
+msgctxt "852_Tanimura"
+msgid ""
+"Finally, I'm up? Well, you know what they say about saving the best for "
+"last..."
+msgstr "Finalmente tocca a me? Beh, sai cosa si dice... il meglio alla fine."
+
+msgctxt "864_Kiryu"
+msgid "You have to win this."
+msgstr "Devi vincere."
+
+msgctxt "876_Tanimura"
+msgid "No problem. You just take care of Jo Amon."
+msgstr "Nessun problema. Pensa tu a Jo Amon."
+
+msgctxt "936_Saejima"
+msgid "You ready for this? Bring it on!"
+msgstr "Sei pronto? Fatti sotto!"
+
+msgctxt "948_Jiro Amon"
+msgid ""
+"Heheh. I'll show you the true terror of the Amon Clan... And then I'll take "
+"your life!"
+msgstr ""
+"Eheh. Ti mostrerò il vero terrore del Clan Amon... e poi ti toglierò la "
+"vita!"
+
+msgctxt "972_Akiyama"
+msgid "*panting* That was pretty rough..."
+msgstr "*ansima* È stata piuttosto dura..."
+
+msgctxt "996_Jiro Amon"
+msgid "......"
+msgstr "......"
+
+msgctxt "1008_Saejima"
+msgid "Guess I'll take care of the girly lookin' one."
+msgstr "Immagino che mi occuperò di quello dall'aspetto effeminato."
+
+msgctxt "1020_Kiryu"
+msgid "Don't underestimate him."
+msgstr "Non sottovalutarlo."
+
+msgctxt "1032_Saejima"
+msgid "I got it. You just sit tight."
+msgstr "Ho capito. Tu sta' tranquillo."
+
+msgctxt "1104_Jo Amon"
+msgid "I've been waiting for you, Kazuma Kiryu."
+msgstr "Ti stavo aspettando, Kazuma Kiryu."
+
+msgctxt "1116_Jo Amon"
+msgid "Tonight, we can finally settle the feud that has bound our fates."
+msgstr ""
+"Stanotte possiamo finalmente risolvere la faida che ha legato i nostri "
+"destini."
+
+msgctxt "1128_Jo Amon"
+msgid "I see you've brought some guests... Heheh."
+msgstr "Vedo che hai portato degli ospiti... Eheh."
+
+msgctxt "1140_Akiyama"
+msgid ""
+"That a problem? You've got four on your side, so I'd say it's pretty fair."
+msgstr ""
+"È un problema? Voi siete in quattro, quindi direi che è abbastanza equo."
+
+msgctxt "1152_Saejima"
+msgid "We'll each take one of you on. Think ya can handle that?"
+msgstr "Ognuno di noi ne prenderà uno. Pensi di potercela fare?"
+
+msgctxt "1164_Tanimura"
+msgid "Or maybe you're not so good at fighting solo?"
+msgstr "O forse non sei così bravo a combattere da solo?"
+
+msgctxt "1176_Jo Amon"
+msgid "Heheheh. I see you've brought us some fine playthings."
+msgstr "Eheheh. Vedo che ci hai portato dei bei giocattoli."
+
+msgctxt "1188_Jo Amon"
+msgid ""
+"I was concerned we'd be wasting our time with weaklings. Your numbers are of"
+" no concern to us."
+msgstr ""
+"Temevo che avremmo perso tempo con dei deboli. I vostri numeri non ci "
+"preoccupano."
+
+msgctxt "1200_Kiryu"
+msgid "You won't be disappointed. I can vouch for these guys myself."
+msgstr "Non rimarrete delusi. Posso garantire io stesso per loro."
+
+msgctxt "1212_Jo Amon"
+msgid ""
+"Excellent. In that case, we'll indulge your request of one-on-one matches."
+msgstr ""
+"Eccellente. In tal caso, esaudiremo la vostra richiesta di incontri uno "
+"contro uno."
+
+msgctxt "1224_Jo Amon"
+msgid "Kazuya!"
+msgstr "Kazuya!"
+
+msgctxt "1236_Kazuya Amon"
+msgid "......"
+msgstr "......"
+
+msgctxt "1248_Akiyama"
+msgid "I'll take on blondie there."
+msgstr "Mi occupo io del biondino."
+
+msgctxt "1260_Kiryu"
+msgid "Got it. Don't let your guard down."
+msgstr "Capito. Non abbassare la guardia."
+
+msgctxt "1368_Akiyama"
+msgid "Hey, I'm ready for you! Let's get this show on the road already!"
+msgstr "Ehi, sono pronto! Che lo spettacolo abbia inizio!"
+
+msgctxt "1380_Kazuya Amon"
+msgid "Get ready to face the Amon Clan's deadly assassination skills!"
+msgstr "Preparati ad affrontare le letali abilità assassine del Clan Amon!"

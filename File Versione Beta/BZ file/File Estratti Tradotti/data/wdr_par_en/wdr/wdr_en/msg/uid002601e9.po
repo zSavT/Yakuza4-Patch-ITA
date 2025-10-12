@@ -1,0 +1,151 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4164"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "4168"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "4172"
+msgid "Shizuka"
+msgstr "Shizuka"
+
+msgctxt "4176"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "4180"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "4184"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4188"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "4192"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4196"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr "F_sxy_stand_sync_dakitukiA_st"
+
+msgctxt "4200"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr "P_stand_sync_dakitukiA_st"
+
+msgctxt "56_Kiryu"
+msgid "This is it, right?"
+msgstr "This is it, right?"
+
+msgctxt "68_Shizuka"
+msgid "Yes! Thank you, sir!"
+msgstr "Yes! Thank you, sir!"
+
+msgctxt "80_Kiryu"
+msgid "What's in there, anyway? You seemed pretty upset about losing it."
+msgstr "What's in there, anyway? You seemed pretty upset about losing it."
+
+msgctxt "92_Shizuka"
+msgid "Well, I got some presents for you."
+msgstr "Well, I got some presents for you."
+
+msgctxt "104_Kiryu"
+msgid "Presents?"
+msgstr "Presents?"
+
+msgctxt "116_Shizuka"
+msgid ""
+"Yes. For the children at your orphanage. Good luck bracelets for the boys "
+"and scrunchies for the girls."
+msgstr ""
+"Yes. For the children at your orphanage. Good luck bracelets for the boys "
+"and scrunchies for the girls."
+
+msgctxt "128_Kiryu"
+msgid "You made them?"
+msgstr "You made them?"
+
+msgctxt "140_Shizuka"
+msgid "Yes."
+msgstr "Sì."
+
+msgctxt "152_Kiryu"
+msgid "Thank you. I'm sure they'll love them."
+msgstr "Thank you. I'm sure they'll love them."
+
+msgctxt "164_Shizuka"
+msgid "I hope so!"
+msgstr "I hope so!"
+
+msgctxt "176_Kiryu"
+msgid "What can I do to thank you?"
+msgstr "What can I do to thank you?"
+
+msgctxt "188_Shizuka"
+msgid ""
+"Oh, you don't have to do anything! It was my idea, and you got my purse back"
+" for me."
+msgstr ""
+"Oh, you don't have to do anything! It was my idea, and you got my purse back"
+" for me."
+
+msgctxt "200_Kiryu"
+msgid ""
+"No, that's not enough. I'm always telling my kids that they have to give an "
+"appropriate return gift when they get a present."
+msgstr ""
+"No, that's not enough. I'm always telling my kids that they have to give an "
+"appropriate return gift when they get a present."
+
+msgctxt "212_Shizuka"
+msgid "Oh?"
+msgstr "Oh?"
+
+msgctxt "224_Kiryu"
+msgid "Sure. I just wish I could think of something you would like..."
+msgstr "Sure. I just wish I could think of something you would like..."
+
+msgctxt "236_Shizuka"
+msgid ""
+"Um, sir... I mean, Kiryu-san? It's a little selfish, but I have an idea."
+msgstr ""
+"Um, sir... I mean, Kiryu-san? It's a little selfish, but I have an idea."
+
+msgctxt "248_Kiryu"
+msgid "Sure, what is it?"
+msgstr "Sure, what is it?"
+
+msgctxt "260_Shizuka"
+msgid "Well, I was wondering if I could wash your back."
+msgstr "Well, I was wondering if I could wash your back."
+
+msgctxt "272_Kiryu"
+msgid "Are you sure that's what you want?"
+msgstr "Are you sure that's what you want?"
+
+msgctxt "284_Shizuka"
+msgid "Yes! That would be the best way to thank me."
+msgstr "Yes! That would be the best way to thank me."
+
+msgctxt "296_Kiryu"
+msgid "Okay then..."
+msgstr "Okay then..."

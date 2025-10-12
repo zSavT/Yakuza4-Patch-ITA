@@ -1,0 +1,385 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "260"
+msgid "You gave them some <Color:8>Milk<Color:Default>."
+msgstr "You gave them some <Color:8>Milk<Color:Default>."
+
+msgctxt "380"
+msgid "You got a <Color:8>Tiger-striped Cat Pendant<Color:Default>."
+msgstr "You got a <Color:8>Tiger-striped Cat Pendant<Color:Default>."
+
+msgctxt "416"
+msgid "\"Below the theater, wood-grain floor.\""
+msgstr "\"Below the theater, wood-grain floor.\""
+
+msgctxt "464"
+msgid "You got a <Color:8>White Cat Pendant<Color:Default>."
+msgstr "You got a <Color:8>White Cat Pendant<Color:Default>."
+
+msgctxt "500"
+msgid "\"Bone poster, 4 green X's. Check the wall.\""
+msgstr "\"Bone poster, 4 green X's. Check the wall.\""
+
+msgctxt "824"
+msgid "You gave them a <Color:8>Staminan X<Color:Default>."
+msgstr "You gave them a <Color:8>Staminan X<Color:Default>."
+
+msgctxt "1064"
+msgid "You gave them some <Color:8>Dog Food<Color:Default>."
+msgstr "You gave them some <Color:8>Dog Food<Color:Default>."
+
+msgctxt "14256"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "14260"
+msgid "Talk_Syagamu_st"
+msgstr "Talk_Syagamu_st"
+
+msgctxt "14264"
+msgid "Striped Kitten"
+msgstr "Gattino a strisce"
+
+msgctxt "14268"
+msgid "White Kitten"
+msgstr "White Kitten"
+
+msgctxt "14272"
+msgid "0"
+msgstr ""
+
+msgctxt "14276"
+msgid "Talk_Syagamu_ed"
+msgstr "Talk_Syagamu_ed"
+
+msgctxt "14280"
+msgid "Cat-loving Homeless Man"
+msgstr "Cat-loving Homeless Man"
+
+msgctxt "14284"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "14288"
+msgid "Friendly Homeless Man"
+msgstr "Senzatetto amichevole"
+
+msgctxt "14292"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "14296"
+msgid "A_cat_stand_tlk_nobi"
+msgstr "A_cat_stand_tlk_nobi"
+
+msgctxt "14300"
+msgid "M_nml_stand_tlk_kagamu_st"
+msgstr "M_nml_stand_tlk_kagamu_st"
+
+msgctxt "14304"
+msgid "Surly Homeless Man"
+msgstr "Senzatetto scontroso"
+
+msgctxt "14308"
+msgid "M_nml_stand_tlk_kagamu_ed"
+msgstr "M_nml_stand_tlk_kagamu_ed"
+
+msgctxt "14312"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "14316"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "14320"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "14324"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "14328"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "14332"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "14336"
+msgid "M_nml_stand_tlk_kagamu_lp"
+msgstr "M_nml_stand_tlk_kagamu_lp"
+
+msgctxt "14340"
+msgid "M_ykz_sitgrd_tlk_kamae_lp"
+msgstr "M_ykz_sitgrd_tlk_kamae_lp"
+
+msgctxt "14344"
+msgid "M_ykz_sitgrd_tlk_agura_lp"
+msgstr "M_ykz_sitgrd_tlk_agura_lp"
+
+msgctxt "14348"
+msgid "A_cat_stand_tlk_nml"
+msgstr "A_cat_stand_tlk_nml"
+
+msgctxt "14352"
+msgid "A_cat_stand_tlk_sleep_lp"
+msgstr "A_cat_stand_tlk_sleep_lp"
+
+msgctxt "14356"
+msgid "A_cat_sitgrd_tlk_kedukuroi_st"
+msgstr "A_cat_sitgrd_tlk_kedukuroi_st"
+
+msgctxt "14360"
+msgid "Nml_TurnL180"
+msgstr "Nml_TurnL180"
+
+msgctxt "248_Saejima"
+msgid "Here. Drink up."
+msgstr "Here. Drink up."
+
+msgctxt "284_Striped Kitten"
+msgid "Mrowr."
+msgstr "Mrowr."
+
+msgctxt "296_White Kitten"
+msgid "Mrow!"
+msgstr "Mrow!"
+
+msgctxt "308_Saejima"
+msgid "(That buoyed 'em up a little.)"
+msgstr "(That buoyed 'em up a little.)"
+
+msgctxt "320_Saejima"
+msgid "They should be fine for now."
+msgstr "They should be fine for now."
+
+msgctxt "332_Cat-loving Homeless Man"
+msgid "Thanks a lot, pal!"
+msgstr "Thanks a lot, pal!"
+
+msgctxt "344_Friendly Homeless Man"
+msgid "Sorry for all the bother. We really appreciate this."
+msgstr "Sorry for all the bother. We really appreciate this."
+
+msgctxt "356_Striped Kitten"
+msgid "Mew!"
+msgstr "Mew!"
+
+msgctxt "368_Saejima"
+msgid "Hm? What is it... Oh, this for me?"
+msgstr "Hm? What is it... Oh, this for me?"
+
+msgctxt "404_Saejima"
+msgid ""
+"(It's some kinda pendant. Looks like it opens, too. Huh? Somethin' inside..."
+" a note.)"
+msgstr ""
+"(It's some kinda pendant. Looks like it opens, too. Huh? Somethin' inside..."
+" a note.)"
+
+msgctxt "428_Saejima"
+msgid ""
+"The hell does that mean? Can't do much with this, so you can have it back. "
+"But thanks for the gesture."
+msgstr ""
+"The hell does that mean? Can't do much with this, so you can have it back. "
+"But thanks for the gesture."
+
+msgctxt "440_White Kitten"
+msgid "Mew!"
+msgstr "Mew!"
+
+msgctxt "452_Saejima"
+msgid "Huh. You too, huh?"
+msgstr "Huh. You too, huh?"
+
+msgctxt "488_Saejima"
+msgid "(Another pendant. This one's got a note inside it, too.)"
+msgstr "(Another pendant. This one's got a note inside it, too.)"
+
+msgctxt "512_Saejima"
+msgid "What is this crap?"
+msgstr "What is this crap?"
+
+msgctxt "524_Surly Homeless Man"
+msgid "Hey, did they give you some kinda treasure?"
+msgstr "Hey, did they give you some kinda treasure?"
+
+msgctxt "536_Saejima"
+msgid "Nah, nothin' like that."
+msgstr "Nah, nothin' like that."
+
+msgctxt "560_Friendly Homeless Man"
+msgid "Let me see... Whoa! We might've really hit the jackpot!"
+msgstr "Let me see... Whoa! We might've really hit the jackpot!"
+
+msgctxt "572_Surly Homeless Man"
+msgid ""
+"Here I thought they were just a coupla flea-bitten cats.\r\n"
+"But maybe they're the geese that laid the golden eggs."
+msgstr ""
+"Here I thought they were just a coupla flea-bitten cats.\r\n"
+"But maybe they're the geese that laid the golden eggs."
+
+msgctxt "584_Surly Homeless Man"
+msgid "We found 'em first, you know. That means the notes belong to us."
+msgstr "We found 'em first, you know. That means the notes belong to us."
+
+msgctxt "596_Cat-loving Homeless Man"
+msgid ""
+"But he's the reason these fellows are so friendly now. Don't listen to him, "
+"pal. You go on and take those pendants."
+msgstr ""
+"But he's the reason these fellows are so friendly now. Don't listen to him, "
+"pal. You go on and take those pendants."
+
+msgctxt "608_Surly Homeless Man"
+msgid "What in tarnation? Darn fool!"
+msgstr "What in tarnation? Darn fool!"
+
+msgctxt "620_Friendly Homeless Man"
+msgid "I have to admit, he does have a point."
+msgstr "I have to admit, he does have a point."
+
+msgctxt "632_Saejima"
+msgid ""
+"I ain't sure what's going on here, but do ya want me to follow these "
+"directions?"
+msgstr ""
+"I ain't sure what's going on here, but do ya want me to follow these "
+"directions?"
+
+msgctxt "644_Striped Kitten"
+msgid "Mrowr!"
+msgstr "Mrowr!"
+
+msgctxt "656_White Kitten"
+msgid "Mew!"
+msgstr "Mew!"
+
+msgctxt "668_Saejima"
+msgid "(Welp. Maybe I'll check it out when the mood strikes.)"
+msgstr "(Welp. Maybe I'll check it out when the mood strikes.)"
+
+msgctxt "692_Cat-loving Homeless Man"
+msgid "Okay, fellas, you wanna play?"
+msgstr "Okay, fellas, you wanna play?"
+
+msgctxt "704_Cat-loving Homeless Man"
+msgid "Hey, look!"
+msgstr "Hey, look!"
+
+msgctxt "716_Saejima"
+msgid ""
+"They seem to like ya just fine now. I can't take 'em.\r\n"
+"So you treat 'em good, alright?"
+msgstr ""
+"They seem to like ya just fine now. I can't take 'em.\r\n"
+"So you treat 'em good, alright?"
+
+msgctxt "740_Cat-loving Homeless Man"
+msgid "You bet!"
+msgstr "You bet!"
+
+msgctxt "812_Saejima"
+msgid "Here. Drink up."
+msgstr "Here. Drink up."
+
+msgctxt "848_Striped Kitten"
+msgid "Meow, mrowr!"
+msgstr "Meow, mrowr!"
+
+msgctxt "860_White Kitten"
+msgid "...Mrowr."
+msgstr "...Mrowr."
+
+msgctxt "872_Saejima"
+msgid "(Guess the white one didn't like it much.)"
+msgstr "(Guess the white one didn't like it much.)"
+
+msgctxt "884_Saejima"
+msgid "(I'll bring 'em somethin' real nutritious, like... fuck, I dunno.)"
+msgstr "(I'll bring 'em somethin' real nutritious, like... fuck, I dunno.)"
+
+msgctxt "896_Saejima"
+msgid ""
+"Wait here. Ya gotta offer lost cats some milk.\r\n"
+"I'll go pick some up."
+msgstr ""
+"Aspettate qui. Bisogna offrire del latte ai gatti smarriti.\r\n"
+"Vado a prenderne un po'."
+
+msgctxt "980_Saejima"
+msgid ""
+"Wait here. Doesn't matter what cats eat.\r\n"
+"They prolly wouldn't say no to dog food."
+msgstr ""
+"Aspettate qui. Non importa cosa mangiano i gatti.\r\n"
+"Probabilmente non direbbero di no al cibo per cani."
+
+msgctxt "1052_Saejima"
+msgid "Here. Can you eat this?"
+msgstr "Here. Can you eat this?"
+
+msgctxt "1100_Striped Kitten"
+msgid "Mrowl!"
+msgstr "Mrowl!"
+
+msgctxt "1112_White Kitten"
+msgid "......"
+msgstr "......"
+
+msgctxt "1124_Saejima"
+msgid "(Nope. Dog food is for dogs and dogs alone.)"
+msgstr "(Nope. Dog food is for dogs and dogs alone.)"
+
+msgctxt "1136_Saejima"
+msgid "(I'll bring 'em somethin' real nutritious, like... fuck, I dunno.)"
+msgstr "(I'll bring 'em somethin' real nutritious, like... fuck, I dunno.)"
+
+msgctxt "1148_Saejima"
+msgid ""
+"Wait here. Ya gotta offer lost cats some milk.\r\n"
+"I'll go pick some up."
+msgstr ""
+"Aspettate qui. Bisogna offrire del latte ai gatti smarriti.\r\n"
+"Vado a prenderne un po'."
+
+msgctxt "1232_Saejima"
+msgid ""
+"Wait here. I'll buy somethin' to perk 'em up.\r\n"
+"They're hurt, so maybe Staminan X?"
+msgstr ""
+"Aspettate qui. Comprerò qualcosa per tirarli su.\r\n"
+"Sono feriti, quindi forse Staminan X?"
+
+msgctxt "1316_Saejima"
+msgid "Ya gotta offer lost cats some milk."
+msgstr "Bisogna offrire del latte ai gatti smarriti."
+
+msgctxt "1328_Saejima"
+msgid "Prolly wouldn't say no to dog food."
+msgstr "Probabilmente non direbbero di no al cibo per cani."
+
+msgctxt "1340_Saejima"
+msgid "Ya gotta offer lost cats some milk."
+msgstr "Bisogna offrire del latte ai gatti smarriti."
+
+msgctxt "1352_Saejima"
+msgid "They're hurt, so maybe Staminan X?"
+msgstr "Sono feriti, quindi forse Staminan X?"

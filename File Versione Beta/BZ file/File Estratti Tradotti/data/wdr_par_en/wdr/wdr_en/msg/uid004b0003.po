@@ -1,0 +1,84 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2092"
+msgid "Inconsiderate Date"
+msgstr "Inconsiderate Date"
+
+msgctxt "2096"
+msgid "Girl Glued to a Screen"
+msgstr "Girl Glued to a Screen"
+
+msgctxt "2100"
+msgid "F_nml_stand_tlk_surp"
+msgstr "F_nml_stand_tlk_surp"
+
+msgctxt "2104"
+msgid "F_nml_stand_tlk_yes"
+msgstr "F_nml_stand_tlk_yes"
+
+msgctxt "2108"
+msgid "F_nml_stand_tlk_request"
+msgstr "F_nml_stand_tlk_request"
+
+msgctxt "2112"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "84_Inconsiderate Date"
+msgid "What're you doing?"
+msgstr "What're you doing?"
+
+msgctxt "96_Girl Glued to a Screen"
+msgid "Hm? Playing pachinko."
+msgstr "Hm? Playing pachinko."
+
+msgctxt "108_Inconsiderate Date"
+msgid "Pachinko? On your phone?"
+msgstr "Pachinko? On your phone?"
+
+msgctxt "120_Girl Glued to a Screen"
+msgid ""
+"Yeah. It's called 777 Town. You haven't heard of it? It's an app that lets "
+"you play pachinko or slots on your phone or anywhere."
+msgstr ""
+"Yeah. It's called 777 Town. You haven't heard of it? It's an app that lets "
+"you play pachinko or slots on your phone or anywhere."
+
+msgctxt "132_Inconsiderate Date"
+msgid "Wow, that's cool! Let me try!"
+msgstr "Wow, that's cool! Let me try!"
+
+msgctxt "144_Girl Glued to a Screen"
+msgid "No way. Don't you have a date soon? And by soon, I mean like, now?"
+msgstr "No way. Don't you have a date soon? And by soon, I mean like, now?"
+
+msgctxt "156_Inconsiderate Date"
+msgid "Oh, come on! Just one game, then I'll go!"
+msgstr "Oh, come on! Just one game, then I'll go!"
+
+msgctxt "168_Player"
+msgid "(777 Town? Sounds like something the girls at the club might be into.)"
+msgstr ""
+"(777 Town? Sounds like something the girls at the club might be into.)"
+
+msgctxt "180_Player"
+msgid "(777 Town? Sounds like something the girls at the club might be into.)"
+msgstr ""
+"(777 Town? Sounds like something the girls at the club might be into.)"
+
+msgctxt "192_Player"
+msgid "(777 Town? Sounds like something the girls at the club might be into.)"
+msgstr ""
+"(777 Town? Sounds like something the girls at the club might be into.)"

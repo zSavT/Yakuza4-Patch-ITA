@@ -1,0 +1,149 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5200"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "5204"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "5208"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "5212"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "5216"
+msgid "Kakuda"
+msgstr "Kakuda"
+
+msgctxt "5220"
+msgid "Idle"
+msgstr "Idle"
+
+msgctxt "5224"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "5228"
+msgid "C22_SetM_ykz_stand_kickA"
+msgstr "C22_SetM_ykz_stand_kickA"
+
+msgctxt "5232"
+msgid "C22_SetM_ykz_stand_kickB"
+msgstr "C22_SetM_ykz_stand_kickB"
+
+msgctxt "5236"
+msgid "Yakuza"
+msgstr "Yakuza"
+
+msgctxt "5240"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "5244"
+msgid "Minamida"
+msgstr "Minamida"
+
+msgctxt "5248"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "5252"
+msgid "Sukegawa"
+msgstr "Sukegawa"
+
+msgctxt "56_Akiyama"
+msgid "*sigh*"
+msgstr "*sospiro*"
+
+msgctxt "68_Akiyama"
+msgid "Hey, Kaku-san!"
+msgstr "Ehi, Kaku-san!"
+
+msgctxt "140_Akiyama"
+msgid "What about this one, Kaku-san?"
+msgstr "Che mi dici di questa, Kaku-san?"
+
+msgctxt "152_Kakuda"
+msgid "On it..."
+msgstr "Ci sto lavorando..."
+
+msgctxt "164_Kakuda"
+msgid "......"
+msgstr "......"
+
+msgctxt "224_Kakuda"
+msgid "...There you go."
+msgstr "...Ecco fatto."
+
+msgctxt "236_Akiyama"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "284_Yakuza"
+msgid "The hell you doin' down here, gramps!?"
+msgstr "Che diavolo ci fai quaggiù, nonno!?"
+
+msgctxt "296_Minamida"
+msgid "Stop! What are you doing to my precious machine!?"
+msgstr "Fermatevi! Cosa state facendo alla mia preziosa macchina!?"
+
+msgctxt "308_Yakuza"
+msgid ""
+"What do you care about a broke-down piece of junk?\r\n"
+"Now get the hell outta here! This is our turf!"
+msgstr ""
+"Cosa te ne frega di un rottame scassato?\r\n"
+"Ora sparisci da qui! Questo è il nostro territorio!"
+
+msgctxt "320_Sukegawa"
+msgid "Doctor Minamida, you've come back, too!?"
+msgstr "Dottor Minamida, è tornato anche lei!?"
+
+msgctxt "332_Minamida"
+msgid "Sukegawa-san! Perfect timing!"
+msgstr "Sukegawa-san! Tempismo perfetto!"
+
+msgctxt "344_Kakuda"
+msgid ""
+"The doc used to help us out back when we lived down here.\r\n"
+"Mind giving us a hand?"
+msgstr ""
+"Il dottore ci aiutava quando vivevamo qui sotto.\r\n"
+"Ti dispiace darci una mano?"
+
+msgctxt "356_Akiyama"
+msgid "Sure... What's one more fight?"
+msgstr "Certo... Che sarà mai un altro combattimento?"
+
+msgctxt "368_Akiyama"
+msgid ""
+"Hey, buddy. I'm tagging in for the old guy. Hatsushiba-san's waiting for me,"
+" so let's make this quick, all right?"
+msgstr ""
+"Ehi, amico. Prendo il posto del vecchio. Hatsushiba-san mi sta aspettando, "
+"quindi facciamo in fretta, okay?"
+
+msgctxt "380_Yakuza"
+msgid ""
+"Cocky little shit, ain't ya? All right, fine! I'll kill you,\r\n"
+"then go to work on your dipshit little friends!"
+msgstr ""
+"Stronzetto arrogante, eh? Va bene, d'accordo! Ucciderò te,\r\n"
+"e poi passerò ai tuoi amichetti del cazzo!"

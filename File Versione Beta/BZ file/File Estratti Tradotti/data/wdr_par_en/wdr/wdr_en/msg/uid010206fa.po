@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1996"
+msgid "Prison Guards"
+msgstr "Guardie carcerarie"
+
+msgctxt "2000"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "2004"
+msgid "Prison Guard"
+msgstr "Guardia carceraria"
+
+msgctxt "2008"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "2012"
+msgid "Hamazaki"
+msgstr "Hamazaki"
+
+msgctxt "2016"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2020"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2024"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "68_Prison Guard"
+msgid "Hey, I need backup over here! I found the prisoners!"
+msgstr "Ehi, ho bisogno di rinforzi qui! Ho trovato i prigionieri!"
+
+msgctxt "80_Prison Guards"
+msgid "We can't let them get away!"
+msgstr "Non possiamo lasciarli scappare!"
+
+msgctxt "152_Hamazaki"
+msgid "Holy hell, that's a lot of guys."
+msgstr "Porca puttana, sono un sacco di uomini."
+
+msgctxt "164_Hamazaki"
+msgid "We're almost to the yard, though. Can't let them stop us now."
+msgstr "Siamo quasi al cortile, però. Non possiamo lasciarci fermare adesso."
+
+msgctxt "176_Saejima"
+msgid "Gotcha. Let's rock these fools!"
+msgstr "Capito. Spacchiamo il culo a questi idioti!"

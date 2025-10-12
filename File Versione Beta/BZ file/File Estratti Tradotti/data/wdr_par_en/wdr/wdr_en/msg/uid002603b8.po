@@ -1,0 +1,204 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "240"
+msgid "You gained 100 EXP."
+msgstr "You gained 100 EXP."
+
+msgctxt "5388"
+msgid "Hirauchi"
+msgstr "Hirauchi"
+
+msgctxt "5392"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "5396"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "5400"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "5404"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "5408"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "5412"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "5416"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "5420"
+msgid "0"
+msgstr ""
+
+msgctxt "5424"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "5428"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "5432"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "5436"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "120_Hirauchi"
+msgid "The audience has left."
+msgstr "The audience has left."
+
+msgctxt "132_Saejima"
+msgid ""
+"Guess I'm the one who caused a disturbance this time. Sorry 'bout that."
+msgstr ""
+"Guess I'm the one who caused a disturbance this time. Sorry 'bout that."
+
+msgctxt "144_Hirauchi"
+msgid ""
+"No, it was our fault for so readily relying on an unpaid and undocumented "
+"intern."
+msgstr ""
+"No, it was our fault for so readily relying on an unpaid and undocumented "
+"intern."
+
+msgctxt "156_Hirauchi"
+msgid ""
+"Numai-sensei and I will reflect on how to recover in the polls as we move "
+"forward with our campaign."
+msgstr ""
+"Numai-sensei and I will reflect on how to recover in the polls as we move "
+"forward with our campaign."
+
+msgctxt "168_Saejima"
+msgid "Alright..."
+msgstr "Alright..."
+
+msgctxt "180_Hirauchi"
+msgid "Thank you for your efforts."
+msgstr "Thank you for your efforts."
+
+msgctxt "252_Hirauchi"
+msgid "(Be careful, now! Didn't I tell you to only target the troublemakers?)"
+msgstr ""
+"(Be careful, now! Didn't I tell you to only target the troublemakers?)"
+
+msgctxt "264_Saejima"
+msgid "Yeah. Sorry."
+msgstr "Yeah. Sorry."
+
+msgctxt "276_Hirauchi"
+msgid ""
+"A lot of voters were really put off, which is already hurting our approval "
+"rate. If this gets any uglier, we're done for."
+msgstr ""
+"A lot of voters were really put off, which is already hurting our approval "
+"rate. If this gets any uglier, we're done for."
+
+msgctxt "288_Hirauchi"
+msgid ""
+"Before engaging a suspect, approach carefully and listen to what they're "
+"saying first."
+msgstr ""
+"Before engaging a suspect, approach carefully and listen to what they're "
+"saying first."
+
+msgctxt "300_Saejima"
+msgid "Gotcha. I'll be more careful next time."
+msgstr "Gotcha. I'll be more careful next time."
+
+msgctxt "312_Hirauchi"
+msgid "I should hope so."
+msgstr "I should hope so."
+
+msgctxt "336_Hirauchi"
+msgid "(Watch who you're throwing out! You have to be careful, you know!)"
+msgstr "(Watch who you're throwing out! You have to be careful, you know!)"
+
+msgctxt "348_Saejima"
+msgid "Yeah. Sorry."
+msgstr "Yeah. Sorry."
+
+msgctxt "360_Hirauchi"
+msgid "It's difficult to ascertain trouble from a distance."
+msgstr "It's difficult to ascertain trouble from a distance."
+
+msgctxt "372_Hirauchi"
+msgid ""
+"First, approach a potential troublemaker to find out what they're saying "
+"before you call them out."
+msgstr ""
+"First, approach a potential troublemaker to find out what they're saying "
+"before you call them out."
+
+msgctxt "384_Saejima"
+msgid "Gotcha. I'll be real careful."
+msgstr "Gotcha. I'll be real careful."
+
+msgctxt "396_Hirauchi"
+msgid "All right, you can go back to your patrol now."
+msgstr "All right, you can go back to your patrol now."
+
+msgctxt "432_Saejima"
+msgid "Quite a crowd."
+msgstr "Quite a crowd."
+
+msgctxt "444_Hirauchi"
+msgid "Indeed. There might already be a handful of rabble-rousers in there."
+msgstr "Indeed. There might already be a handful of rabble-rousers in there."
+
+msgctxt "456_Hirauchi"
+msgid "I hate to ask, but could you please start patrolling the area?"
+msgstr "I hate to ask, but could you please start patrolling the area?"
+
+msgctxt "468_Saejima"
+msgid ""
+"Sure thing. And if I find somebody tryin' to interrupt the speech, I toss "
+"'em out, yeah?"
+msgstr ""
+"Sure thing. And if I find somebody tryin' to interrupt the speech, I toss "
+"'em out, yeah?"
+
+msgctxt "480_Hirauchi"
+msgid ""
+"Yes, but just because someone's speaking up doesn't always mean they're "
+"working against us."
+msgstr ""
+"Yes, but just because someone's speaking up doesn't always mean they're "
+"working against us."
+
+msgctxt "492_Hirauchi"
+msgid "So please observe carefully before throwing them out."
+msgstr "So please observe carefully before throwing them out."
+
+msgctxt "504_Saejima"
+msgid "Don't jump the gun, ya mean. Alright."
+msgstr "Don't jump the gun, ya mean. Alright."
+
+msgctxt "516_Hirauchi"
+msgid "Right. Thank you!"
+msgstr "Right. Thank you!"

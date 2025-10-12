@@ -1,0 +1,1918 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2204"
+msgid "You got a <Color:8>Sakura Storm<Color:Default>."
+msgstr "You got a <Color:8>Sakura Storm<Color:Default>."
+
+msgctxt "2372"
+msgid "<Color:9>Power for all Heat Actions increased.<Color:Default>"
+msgstr "<Color:9>Power for all Heat Actions increased.<Color:Default>"
+
+msgctxt "2432"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "2816"
+msgid "<Color:9>Weapon attack power increased.<Color:Default>"
+msgstr "<Color:9>Weapon attack power increased.<Color:Default>"
+
+msgctxt "3308"
+msgid "<Color:9>You learned the Great Bomber.<Color:Default>"
+msgstr "<Color:9>You learned the Great Bomber.<Color:Default>"
+
+msgctxt "3788"
+msgid "<Color:9>Unarmed attack power increased.<Color:Default>"
+msgstr "<Color:9>Potenza d'attacco a mani nude aumentata.<Color:Default>"
+
+msgctxt "3848"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "4136"
+msgid "<Color:9>You learned the Wind-Up Top.<Color:Default>"
+msgstr "<Color:9>You learned the Wind-Up Top.<Color:Default>"
+
+msgctxt "5204"
+msgid "You got a <Color:8>Block of Super Alloy<Color:Default>."
+msgstr "You got a <Color:8>Block of Super Alloy<Color:Default>."
+
+msgctxt "70552"
+msgid "Punk-like Man"
+msgstr "Teppista"
+
+msgctxt "70556"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "70560"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "70564"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "70568"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "70572"
+msgid "Master"
+msgstr "Master"
+
+msgctxt "70576"
+msgid "Idle"
+msgstr "Idle"
+
+msgctxt "70580"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "70584"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "70588"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "70592"
+msgid "P_sae_stand_tlk_syagamu_lp"
+msgstr "P_sae_stand_tlk_syagamu_lp"
+
+msgctxt "70596"
+msgid "P_aki_stand_tlk_syagamu_lp"
+msgstr "P_aki_stand_tlk_syagamu_lp"
+
+msgctxt "70600"
+msgid "Talk_Syagamu_ed"
+msgstr "Talk_Syagamu_ed"
+
+msgctxt "70604"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "70608"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "70612"
+msgid "Talk_Syagamu_st"
+msgstr "Talk_Syagamu_st"
+
+msgctxt "70616"
+msgid "P_aki_stand_tlk_syagamu_ed"
+msgstr "P_aki_stand_tlk_syagamu_ed"
+
+msgctxt "70620"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "70624"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "70628"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "70632"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "70636"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "70640"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "70644"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "70648"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "70652"
+msgid "Talk_SmileBig_st"
+msgstr "Talk_SmileBig_st"
+
+msgctxt "70656"
+msgid "Talk_SmileBig_ed"
+msgstr "Talk_SmileBig_ed"
+
+msgctxt "70660"
+msgid "M_ykzs_damage_tlk_no"
+msgstr "M_ykzs_damage_tlk_no"
+
+msgctxt "70664"
+msgid "P_sae_stand_tlk_syagamu_st"
+msgstr "P_sae_stand_tlk_syagamu_st"
+
+msgctxt "70668"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "70672"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "70676"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "70680"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "70684"
+msgid "0"
+msgstr ""
+
+msgctxt "70688"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "1016_Punk-like Man"
+msgid ""
+"That's what you get, you fuckin' old goat! Lay there and die if ya know "
+"what's good for ya!"
+msgstr ""
+"That's what you get, you fuckin' old goat! Lay there and die if ya know "
+"what's good for ya!"
+
+msgctxt "1028_Punk-like Man"
+msgid "Oh, and thanks for the bomb!"
+msgstr "Oh, and thanks for the bomb!"
+
+msgctxt "1040_Punk-like Man"
+msgid "Later! Enjoy the afterlife! I hear the food's good."
+msgstr "Later! Enjoy the afterlife! I hear the food's good."
+
+msgctxt "1100_Saejima"
+msgid "Hey, you all right!?"
+msgstr "Hey, you all right!?"
+
+msgctxt "1112_Master"
+msgid "I'm okay... I ain't kickin' the bucket yet."
+msgstr "I'm okay... I ain't kickin' the bucket yet."
+
+msgctxt "1124_Saejima"
+msgid "That's a relief."
+msgstr "That's a relief."
+
+msgctxt "1196_Master"
+msgid "Ain't got no choice but to remake the bomb. Can't win 'em all I guess."
+msgstr ""
+"Ain't got no choice but to remake the bomb. Can't win 'em all I guess."
+
+msgctxt "1208_Master"
+msgid "I reckon we right slipped up. Come back whenever you can."
+msgstr "I reckon we right slipped up. Come back whenever you can."
+
+msgctxt "1232_Master"
+msgid "All right. It's set!"
+msgstr "All right. It's set!"
+
+msgctxt "1244_Saejima"
+msgid "Fire in the hole!"
+msgstr "Fire in the hole!"
+
+msgctxt "1256_Master"
+msgid "Don't you think I know that already!?"
+msgstr "Don't you think I know that already!?"
+
+msgctxt "1268_Saejima"
+msgid "You kids better step back, unless ya got death wishes!"
+msgstr "You kids better step back, unless ya got death wishes!"
+
+msgctxt "1280_Punk-like Man"
+msgid "Aaah!"
+msgstr "Aaah!"
+
+msgctxt "1352_Saejima"
+msgid "Did it work?"
+msgstr "Did it work?"
+
+msgctxt "1364_Master"
+msgid "Well, we managed to break through the rock... Hmm?"
+msgstr "Well, we managed to break through the rock... Hmm?"
+
+msgctxt "1376_Saejima"
+msgid ""
+"That looks like it could be what ya been lookin' for. Way to go, old man!"
+msgstr ""
+"That looks like it could be what ya been lookin' for. Way to go, old man!"
+
+msgctxt "1460_Saejima"
+msgid "What's that? Are those books?"
+msgstr "What's that? Are those books?"
+
+msgctxt "1472_Master"
+msgid "Looks more like a set of memoirs... And a sword?"
+msgstr "Looks more like a set of memoirs... And a sword?"
+
+msgctxt "1484_Saejima"
+msgid "Memoirs? Yer old man write 'em?"
+msgstr "Memoirs? Yer old man write 'em?"
+
+msgctxt "1496_Master"
+msgid "Yep. It's got his name on it, so there's no mistaking it."
+msgstr "Yep. It's got his name on it, so there's no mistaking it."
+
+msgctxt "1508_Saejima"
+msgid "Army General Konosuke Yamamura... Hey, just hold on a sec! A general!?"
+msgstr ""
+"Army General Konosuke Yamamura... Hey, just hold on a sec! A general!?"
+
+msgctxt "1520_Saejima"
+msgid "I had no idea yer old man was a high rankin' officer!"
+msgstr "I had no idea yer old man was a high rankin' officer!"
+
+msgctxt "1532_Master"
+msgid ""
+"I dunno about high rankin', but he did have himself a pretty decent unit I "
+"hear."
+msgstr ""
+"I dunno about high rankin', but he did have himself a pretty decent unit I "
+"hear."
+
+msgctxt "1544_Saejima"
+msgid "So what's in the memoirs?"
+msgstr "So what's in the memoirs?"
+
+msgctxt "1556_Master"
+msgid "Let's see..."
+msgstr "Let's see..."
+
+msgctxt "1568_Master"
+msgid ""
+"\"I have walked the way of the warrior, sword in hand. Warrior spirit has "
+"borne Japan through the ages, bringing us to our current state.\""
+msgstr ""
+"\"I have walked the way of the warrior, sword in hand. Warrior spirit has "
+"borne Japan through the ages, bringing us to our current state.\""
+
+msgctxt "1580_Master"
+msgid ""
+"\"My quest for true warriorship was acknowledged by many. And now, I find "
+"myself charged with the privilege of protecting our great nation.\""
+msgstr ""
+"\"My quest for true warriorship was acknowledged by many. And now, I find "
+"myself charged with the privilege of protecting our great nation.\""
+
+msgctxt "1592_Master"
+msgid ""
+"\"But I find the warrior has no place in today's world. Bullets－they pierce "
+"men instantly. Without respect, without honor.\""
+msgstr ""
+"\"But I find the warrior has no place in today's world. Bullets－they pierce "
+"men instantly. Without respect, without honor.\""
+
+msgctxt "1604_Master"
+msgid "\"My ideals... They have no place in this ruthless era.\""
+msgstr "\"My ideals... They have no place in this ruthless era.\""
+
+msgctxt "1616_Master"
+msgid ""
+"\"But regardless, the fate of thousands rests in my hands. The choice of "
+"sword over gun is a luxury I no longer possess.\""
+msgstr ""
+"\"But regardless, the fate of thousands rests in my hands. The choice of "
+"sword over gun is a luxury I no longer possess.\""
+
+msgctxt "1628_Master"
+msgid ""
+"\"I must thrust aside my code and wage a war devoid of mercy. A war I cannot"
+" turn my back on. Such is my duty.\""
+msgstr ""
+"\"I must thrust aside my code and wage a war devoid of mercy. A war I cannot"
+" turn my back on. Such is my duty.\""
+
+msgctxt "1640_Master"
+msgid "......"
+msgstr "......"
+
+msgctxt "1652_Saejima"
+msgid ""
+"Torn between personal ideals and reality... That musta been real hard "
+"considerin' the times."
+msgstr ""
+"Torn between personal ideals and reality... That musta been real hard "
+"considerin' the times."
+
+msgctxt "1664_Master"
+msgid ""
+"Not the best kinda thoughts to be havin' I reckon, bein' a general and all."
+msgstr ""
+"Not the best kinda thoughts to be havin' I reckon, bein' a general and all."
+
+msgctxt "1676_Master"
+msgid ""
+"Nobody coulda said these kinds o' things back then, at least without "
+"consequences. Guess he poured his heart out in these here memoirs."
+msgstr ""
+"Nobody coulda said these kinds o' things back then, at least without "
+"consequences. Guess he poured his heart out in these here memoirs."
+
+msgctxt "1688_Saejima"
+msgid "Wait, so these memoirs are that \"something important,\" then?"
+msgstr "Wait, so these memoirs are that \"something important,\" then?"
+
+msgctxt "1700_Master"
+msgid ""
+"The things written in them musta been what he was referrin' to as important."
+msgstr ""
+"The things written in them musta been what he was referrin' to as important."
+
+msgctxt "1712_Master"
+msgid "Hmmm. I see..."
+msgstr "Hmmm. I see..."
+
+msgctxt "1724_Master"
+msgid "Read the last part."
+msgstr "Read the last part."
+
+msgctxt "1736_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "1748_Saejima"
+msgid "\"We fought on and on, but alas, were defeated in the end.\""
+msgstr "\"We fought on and on, but alas, were defeated in the end.\""
+
+msgctxt "1760_Saejima"
+msgid ""
+"\"That is not what we must dwell on, however. Fighting, of any kind, bears "
+"sorrow.\""
+msgstr ""
+"\"That is not what we must dwell on, however. Fighting, of any kind, bears "
+"sorrow.\""
+
+msgctxt "1772_Saejima"
+msgid ""
+"\"Not fighting－that in itself is the greatest duty asked of us. The toughest"
+" battle of all.\""
+msgstr ""
+"\"Not fighting－that in itself is the greatest duty asked of us. The toughest"
+" battle of all.\""
+
+msgctxt "1784_Saejima"
+msgid ""
+"\"The moment we went to war, we had already lost. We lost to ourselves. This"
+" is the true history people must learn.\""
+msgstr ""
+"\"The moment we went to war, we had already lost. We lost to ourselves. This"
+" is the true history people must learn.\""
+
+msgctxt "1796_Saejima"
+msgid ""
+"...I see. This is the \"something important\" your old man was talkin' "
+"about."
+msgstr ""
+"...I see. This is the \"something important\" your old man was talkin' "
+"about."
+
+msgctxt "1808_Master"
+msgid "And I guess this sword is the embodiment of his warrior spirit."
+msgstr "And I guess this sword is the embodiment of his warrior spirit."
+
+msgctxt "1820_Saejima"
+msgid ""
+"I see. He buried memoirs inscribed with his thoughts, along with his warrior"
+" spirit..."
+msgstr ""
+"I see. He buried memoirs inscribed with his thoughts, along with his warrior"
+" spirit..."
+
+msgctxt "1832_Saejima"
+msgid "Huh? Wait a sec..."
+msgstr "Huh? Wait a sec..."
+
+msgctxt "1844_Saejima"
+msgid ""
+"\"The person that becomes heir to my warrior spirit shall also receive the "
+"precious ore resting in this shelter.\""
+msgstr ""
+"\"The person that becomes heir to my warrior spirit shall also receive the "
+"precious ore resting in this shelter.\""
+
+msgctxt "1856_Saejima"
+msgid "Precious ore? Wait, you don't mean go－"
+msgstr "Precious ore? Wait, you don't mean go－"
+
+msgctxt "1868_Master"
+msgid ""
+"I guess that explains the hard object that stopped us from diggin' any "
+"deeper."
+msgstr ""
+"I guess that explains the hard object that stopped us from diggin' any "
+"deeper."
+
+msgctxt "1880_Saejima"
+msgid "Yer old man said he was leavin' ya \"something important,\" right?"
+msgstr "Yer old man said he was leavin' ya \"something important,\" right?"
+
+msgctxt "1892_Master"
+msgid "Yep. That's what he said alright."
+msgstr "Yep. That's what he said alright."
+
+msgctxt "1904_Saejima"
+msgid "Then ya struck it rich! Ya been made a millionaire overnight!"
+msgstr "Then ya struck it rich! Ya been made a millionaire overnight!"
+
+msgctxt "1916_Master"
+msgid ""
+"No, the \"something important\" he was referring to was his warrior spirit, "
+"and nothin' else."
+msgstr ""
+"No, the \"something important\" he was referring to was his warrior spirit, "
+"and nothin' else."
+
+msgctxt "1928_Master"
+msgid "It doesn't end here with this diggin'. I gotta share this with others."
+msgstr ""
+"It doesn't end here with this diggin'. I gotta share this with others."
+
+msgctxt "1940_Master"
+msgid "That's the big mission I been assigned for the remainder of my years."
+msgstr "That's the big mission I been assigned for the remainder of my years."
+
+msgctxt "1952_Master"
+msgid "The precious ore is just a farewell gift to help fulfill that goal."
+msgstr "The precious ore is just a farewell gift to help fulfill that goal."
+
+msgctxt "1964_Saejima"
+msgid "How ya supposed to go about doin' that? Write a book or something?"
+msgstr "How ya supposed to go about doin' that? Write a book or something?"
+
+msgctxt "1976_Master"
+msgid ""
+"Guess I could start by talkin' to a few of the homeless fellas in the "
+"vicinity. Gotta start somewhere."
+msgstr ""
+"Guess I could start by talkin' to a few of the homeless fellas in the "
+"vicinity. Gotta start somewhere."
+
+msgctxt "1988_Saejima"
+msgid "Ain't that a bit too low-key?"
+msgstr "Ain't that a bit too low-key?"
+
+msgctxt "2000_Master"
+msgid ""
+"I think about it the same as this here hole. I only got this far 'cause I "
+"made that first swing with my pickaxe."
+msgstr ""
+"I think about it the same as this here hole. I only got this far 'cause I "
+"made that first swing with my pickaxe."
+
+msgctxt "2012_Master"
+msgid "That's my style. One small step at a time."
+msgstr "That's my style. One small step at a time."
+
+msgctxt "2024_Saejima"
+msgid "I get ya. You've done enough to prove yourself in that area."
+msgstr "I get ya. You've done enough to prove yourself in that area."
+
+msgctxt "2036_Master"
+msgid "Plus we're gonna have to dig up this treasure of my father's anyway."
+msgstr "Plus we're gonna have to dig up this treasure of my father's anyway."
+
+msgctxt "2048_Saejima"
+msgid ""
+"Haha. Think about it for a second, old man. What rich idiot digs up his own "
+"treasure?"
+msgstr ""
+"Haha. Think about it for a second, old man. What rich idiot digs up his own "
+"treasure?"
+
+msgctxt "2060_Saejima"
+msgid ""
+"Ya got more money than you'll ever need. Why not just hire some people or "
+"use machines to dig?"
+msgstr ""
+"Ya got more money than you'll ever need. Why not just hire some people or "
+"use machines to dig?"
+
+msgctxt "2072_Master"
+msgid "Hahaha! You got a point there!"
+msgstr "Hahaha! You got a point there!"
+
+msgctxt "2084_Master"
+msgid "Saejima... Thanks for all of your help."
+msgstr "Saejima... Thanks for all of your help."
+
+msgctxt "2096_Master"
+msgid "If it weren't for you, I wouldn't have been able to make it this far."
+msgstr "If it weren't for you, I wouldn't have been able to make it this far."
+
+msgctxt "2108_Master"
+msgid ""
+"At least let me present you with my father's sword, as a token of my "
+"gratitude."
+msgstr ""
+"At least let me present you with my father's sword, as a token of my "
+"gratitude."
+
+msgctxt "2120_Saejima"
+msgid ""
+"Ya know damn well I can't accept that. That's all ya got to remember yer old"
+" man by."
+msgstr ""
+"Ya know damn well I can't accept that. That's all ya got to remember yer old"
+" man by."
+
+msgctxt "2132_Master"
+msgid ""
+"Saejima. You're an honorable man and a damn fine warrior. I think my "
+"father's spirit was meant to help you in your quest."
+msgstr ""
+"Saejima. You're an honorable man and a damn fine warrior. I think my "
+"father's spirit was meant to help you in your quest."
+
+msgctxt "2144_Master"
+msgid ""
+"My father had a lot of regrets in these here memoirs. But I'm gonna put 'em "
+"to rest once and for all. The sword though, I want you to have."
+msgstr ""
+"My father had a lot of regrets in these here memoirs. But I'm gonna put 'em "
+"to rest once and for all. The sword though, I want you to have."
+
+msgctxt "2156_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "2168_Saejima"
+msgid "Okay. I'll hold onto this until I'm finished doin' what I gotta do."
+msgstr "Okay. I'll hold onto this until I'm finished doin' what I gotta do."
+
+msgctxt "2180_Saejima"
+msgid "But when I'm done, ya can bet I'll be comin' back here to return it."
+msgstr "But when I'm done, ya can bet I'll be comin' back here to return it."
+
+msgctxt "2192_Master"
+msgid "That's fine."
+msgstr "That's fine."
+
+msgctxt "2288_Saejima"
+msgid "So what's next for ya, old man?"
+msgstr "So what's next for ya, old man?"
+
+msgctxt "2300_Master"
+msgid "Them books on fightin' techniques we uncovered had to be my father's."
+msgstr "Them books on fightin' techniques we uncovered had to be my father's."
+
+msgctxt "2312_Master"
+msgid "I'm sure there are more, so I'll keep on diggin' for now."
+msgstr "I'm sure there are more, so I'll keep on diggin' for now."
+
+msgctxt "2324_Saejima"
+msgid "Okay. I'll come by and help whenever I got the time."
+msgstr "Okay. I'll come by and help whenever I got the time."
+
+msgctxt "2336_Master"
+msgid "Thanks. Ain't nothin' to lose from a good workout."
+msgstr "Thanks. Ain't nothin' to lose from a good workout."
+
+msgctxt "2348_Saejima"
+msgid "Yep."
+msgstr "Sì."
+
+msgctxt "2360_Master"
+msgid ""
+"Oh yeah. I found this book under that rock just a bit ago. You should take "
+"it."
+msgstr ""
+"Oh yeah. I found this book under that rock just a bit ago. You should take "
+"it."
+
+msgctxt "2384_Master"
+msgid "See you around, kid."
+msgstr "See you around, kid."
+
+msgctxt "2408_Saejima"
+msgid "Whew... That was some damn good exercise."
+msgstr "Whew... That was some damn good exercise."
+
+msgctxt "2420_Master"
+msgid ""
+"Thanks for the extra hand. Found this under one of the rocks－I won't be "
+"needing it, so you take it."
+msgstr ""
+"Thanks for the extra hand. Found this under one of the rocks－I won't be "
+"needing it, so you take it."
+
+msgctxt "2456_Master"
+msgid "Come back whenever you can."
+msgstr "Come back whenever you can."
+
+msgctxt "2492_Saejima"
+msgid "Is this Air Raid Shelter No. 2?"
+msgstr "Is this Air Raid Shelter No. 2?"
+
+msgctxt "2504_Master"
+msgid "Looks like it. And if that's the case, then we're close to our goal."
+msgstr "Looks like it. And if that's the case, then we're close to our goal."
+
+msgctxt "2516_Saejima"
+msgid "The time's finally come for all those hard years of work to pay off."
+msgstr "The time's finally come for all those hard years of work to pay off."
+
+msgctxt "2528_Master"
+msgid "I suppose..."
+msgstr "I suppose..."
+
+msgctxt "2540_Saejima"
+msgid "So where do we start diggin', then?"
+msgstr "So where do we start diggin', then?"
+
+msgctxt "2552_Master"
+msgid "My father said there was a marker to go by..."
+msgstr "My father said there was a marker to go by..."
+
+msgctxt "2564_Saejima"
+msgid "Let's look around, then."
+msgstr "Let's look around, then."
+
+msgctxt "2624_Saejima"
+msgid "This must be it."
+msgstr "This must be it."
+
+msgctxt "2636_Master"
+msgid ""
+"Yeah, no doubt about it. A rock this big's got no business bein' here. "
+"Unless someone put it here on purpose, I mean."
+msgstr ""
+"Yeah, no doubt about it. A rock this big's got no business bein' here. "
+"Unless someone put it here on purpose, I mean."
+
+msgctxt "2648_Saejima"
+msgid "Ain't this too big for a pickaxe though?"
+msgstr "Ain't this too big for a pickaxe though?"
+
+msgctxt "2660_Master"
+msgid "I reckon so. Hm? Wait a second..."
+msgstr "I reckon so. Hm? Wait a second..."
+
+msgctxt "2684_Master"
+msgid ""
+"There's a decent sized crack in the rock. If we jam some kinda explosive in "
+"there, I bet ya we could blow this baby to kingdom come."
+msgstr ""
+"There's a decent sized crack in the rock. If we jam some kinda explosive in "
+"there, I bet ya we could blow this baby to kingdom come."
+
+msgctxt "2696_Saejima"
+msgid "Do you have some?"
+msgstr "Do you have some?"
+
+msgctxt "2708_Master"
+msgid "Of course... not! But you know, I was actually kinda thinkin'..."
+msgstr "Of course... not! But you know, I was actually kinda thinkin'..."
+
+msgctxt "2720_Saejima"
+msgid "That I'd get it, right? Okay, okay."
+msgstr "That I'd get it, right? Okay, okay."
+
+msgctxt "2732_Master"
+msgid ""
+"I remember Ken-chan sayin' he used to work as a pyrotechnic. He might know "
+"how to go about makin' somethin' we could use."
+msgstr ""
+"I remember Ken-chan sayin' he used to work as a pyrotechnic. He might know "
+"how to go about makin' somethin' we could use."
+
+msgctxt "2744_Saejima"
+msgid ""
+"Ken-chan? The guy that almost wet his pants when those punks rushed ya, "
+"right?"
+msgstr ""
+"Ken-chan? The guy that almost wet his pants when those punks rushed ya, "
+"right?"
+
+msgctxt "2756_Saejima"
+msgid "Well, alright. I'll go ask him."
+msgstr "Well, alright. I'll go ask him."
+
+msgctxt "2768_Master"
+msgid "Hmm? Look, another book."
+msgstr "Hmm? Look, another book."
+
+msgctxt "2780_Saejima"
+msgid "Is that thing yer old man mentioned a book too?"
+msgstr "Is that thing yer old man mentioned a book too?"
+
+msgctxt "2792_Master"
+msgid "Could be. Can't say for sure though."
+msgstr "Could be. Can't say for sure though."
+
+msgctxt "2804_Saejima"
+msgid "Well, thanks again for the book."
+msgstr "Well, thanks again for the book."
+
+msgctxt "2828_Master"
+msgid ""
+"Come back whenever you can help. I'll go ahead and show you back to the "
+"entrance."
+msgstr ""
+"Come back whenever you can help. I'll go ahead and show you back to the "
+"entrance."
+
+msgctxt "2852_Punk-like Man"
+msgid "Bwahaha! How goes the diggin', old man?"
+msgstr "Bwahaha! How goes the diggin', old man?"
+
+msgctxt "2864_Punk-like Man"
+msgid "The money's just behind this rock, ain't it? Thanks for the info!"
+msgstr "The money's just behind this rock, ain't it? Thanks for the info!"
+
+msgctxt "2876_Punk-like Man"
+msgid ""
+"Hey, you guys! Get ready to dig, 'cause the next time we're here that "
+"treasure's ours!"
+msgstr ""
+"Hey, you guys! Get ready to dig, 'cause the next time we're here that "
+"treasure's ours!"
+
+msgctxt "2936_Saejima"
+msgid "Hey! You all right?"
+msgstr "Hey! You all right?"
+
+msgctxt "2948_Master"
+msgid "I'm okay... I ain't kickin' the bucket yet."
+msgstr "I'm okay... I ain't kickin' the bucket yet."
+
+msgctxt "2960_Saejima"
+msgid "That's a relief... Hey, watch out!"
+msgstr "That's a relief... Hey, watch out!"
+
+msgctxt "3032_Saejima"
+msgid ""
+"Just gave way all of a sudden... Coulda been joinin' yer old man a bit ahead"
+" o' schedule."
+msgstr ""
+"Just gave way all of a sudden... Coulda been joinin' yer old man a bit ahead"
+" o' schedule."
+
+msgctxt "3044_Master"
+msgid ""
+"We're just gonna hafta dig it over again. No matter, happens all the time."
+msgstr ""
+"We're just gonna hafta dig it over again. No matter, happens all the time."
+
+msgctxt "3056_Master"
+msgid "I reckon we right slipped up. Come back whenever you can."
+msgstr "I reckon we right slipped up. Come back whenever you can."
+
+msgctxt "3080_Master"
+msgid "All right! We broke through the rock!"
+msgstr "All right! We broke through the rock!"
+
+msgctxt "3092_Saejima"
+msgid "That's the way, old man! Look, the path keeps going!"
+msgstr "That's the way, old man! Look, the path keeps going!"
+
+msgctxt "3104_Punk-like Man"
+msgid "Son of a bitch. How'd we lose with our numbers?"
+msgstr "Son of a bitch. How'd we lose with our numbers?"
+
+msgctxt "3116_Saejima"
+msgid "Ya can't win if all yer doin' is thinkin' about the numbers."
+msgstr "Ya can't win if all yer doin' is thinkin' about the numbers."
+
+msgctxt "3128_Saejima"
+msgid ""
+"Get the hell outta here, an' leave the poor old man alone. Let him live out "
+"his dream, ya punks."
+msgstr ""
+"Get the hell outta here, an' leave the poor old man alone. Let him live out "
+"his dream, ya punks."
+
+msgctxt "3140_Punk-like Man"
+msgid ""
+"We'll stop here for today, but you better believe we'll be back for our "
+"money!"
+msgstr ""
+"We'll stop here for today, but you better believe we'll be back for our "
+"money!"
+
+msgctxt "3200_Master"
+msgid ""
+"Who the hell came up with that conflabbed rumor about there bein' money down"
+" here anyway?"
+msgstr ""
+"Who the hell came up with that conflabbed rumor about there bein' money down"
+" here anyway?"
+
+msgctxt "3212_Saejima"
+msgid ""
+"Well, I mean it does kinda have that buried treasure look, don't ya think? "
+"...Huh? Look, another book."
+msgstr ""
+"Well, I mean it does kinda have that buried treasure look, don't ya think? "
+"...Huh? Look, another book."
+
+msgctxt "3224_Master"
+msgid "Another fighting manual?"
+msgstr "Another fighting manual?"
+
+msgctxt "3236_Saejima"
+msgid ""
+"Looks like it. Just like the others, this one's filled with different "
+"practical techniques."
+msgstr ""
+"Looks like it. Just like the others, this one's filled with different "
+"practical techniques."
+
+msgctxt "3248_Master"
+msgid ""
+"Findin' this many books gets me thinkin' we might just stumble across the "
+"actual person that buried all of 'em."
+msgstr ""
+"Findin' this many books gets me thinkin' we might just stumble across the "
+"actual person that buried all of 'em."
+
+msgctxt "3260_Saejima"
+msgid "Yer old man a collector of these kinds of books?"
+msgstr "Yer old man a collector of these kinds of books?"
+
+msgctxt "3272_Master"
+msgid ""
+"No, my father was a born n' bred soldier. A fearless man who proudly fought "
+"for his country."
+msgstr ""
+"No, my father was a born n' bred soldier. A fearless man who proudly fought "
+"for his country."
+
+msgctxt "3284_Saejima"
+msgid "I see... Then I guess these books wouldn't belong to him."
+msgstr "I see... Then I guess these books wouldn't belong to him."
+
+msgctxt "3296_Saejima"
+msgid ""
+"In either case, I can't afford to pass these up. Hope ya don't mind if I "
+"take 'em."
+msgstr ""
+"In either case, I can't afford to pass these up. Hope ya don't mind if I "
+"take 'em."
+
+msgctxt "3320_Master"
+msgid "Let's start digging the next pathway."
+msgstr "Let's start digging the next pathway."
+
+msgctxt "3332_Master"
+msgid "Come back whenever you can. I'll see you to the entrance."
+msgstr "Come back whenever you can. I'll see you to the entrance."
+
+msgctxt "3356_Saejima"
+msgid "Hey! You all right?"
+msgstr "Hey! You all right?"
+
+msgctxt "3368_Master"
+msgid "I'm okay... I ain't kickin' the bucket yet."
+msgstr "I'm okay... I ain't kickin' the bucket yet."
+
+msgctxt "3380_Saejima"
+msgid "That's a relief... Hey, watch out!"
+msgstr "That's a relief... Hey, watch out!"
+
+msgctxt "3452_Saejima"
+msgid ""
+"Just gave way all of a sudden... Coulda been joinin' yer old man a bit ahead"
+" o' schedule."
+msgstr ""
+"Just gave way all of a sudden... Coulda been joinin' yer old man a bit ahead"
+" o' schedule."
+
+msgctxt "3464_Master"
+msgid ""
+"We're just gonna hafta dig it over again. No matter, happens all the time."
+msgstr ""
+"We're just gonna hafta dig it over again. No matter, happens all the time."
+
+msgctxt "3476_Master"
+msgid "I reckon we right slipped up. Come back whenever you can."
+msgstr "I reckon we right slipped up. Come back whenever you can."
+
+msgctxt "3512_Saejima"
+msgid "Hmm? A dead end."
+msgstr "Hmm? A dead end."
+
+msgctxt "3524_Master"
+msgid "Hmm. Guess this ain't the place..."
+msgstr "Hmm. Guess this ain't the place..."
+
+msgctxt "3536_Saejima"
+msgid "So, you sayin' it was wrong?"
+msgstr "So, you sayin' it was wrong?"
+
+msgctxt "3548_Master"
+msgid ""
+"When ya think about it, that sign was lyin' on the ground. I bet it used to "
+"be somewhere else."
+msgstr ""
+"When ya think about it, that sign was lyin' on the ground. I bet it used to "
+"be somewhere else."
+
+msgctxt "3560_Saejima"
+msgid "I get it. So we gotta look for the place it used to be originally."
+msgstr "I get it. So we gotta look for the place it used to be originally."
+
+msgctxt "3572_Master"
+msgid "Bingo. Hold on..."
+msgstr "Bingo. Hold on..."
+
+msgctxt "3584_Master"
+msgid "Hey, Saejima. Look, another book."
+msgstr "Hey, Saejima. Look, another book."
+
+msgctxt "3596_Saejima"
+msgid "Another one? Let's see..."
+msgstr "Another one? Let's see..."
+
+msgctxt "3608_Saejima"
+msgid "This one's about martial arts too. This technique'll come in handy."
+msgstr "This one's about martial arts too. This technique'll come in handy."
+
+msgctxt "3620_Master"
+msgid "Two in a row. That's funny. Could be some sorta clue."
+msgstr "Two in a row. That's funny. Could be some sorta clue."
+
+msgctxt "3632_Saejima"
+msgid ""
+"If we find more, it might mean there's some kinda link to that thing yer old"
+" man left behind."
+msgstr ""
+"If we find more, it might mean there's some kinda link to that thing yer old"
+" man left behind."
+
+msgctxt "3644_Master"
+msgid "Yeah, I reckon... Wait a second!"
+msgstr "Yeah, I reckon... Wait a second!"
+
+msgctxt "3668_Master"
+msgid "Could that hole be－"
+msgstr "Could that hole be－"
+
+msgctxt "3740_Master"
+msgid "I knew it. The sign was set there."
+msgstr "I knew it. The sign was set there."
+
+msgctxt "3752_Saejima"
+msgid ""
+"So breakin' this rock'll open up the path to Air Raid Shelter No. 2, then."
+msgstr ""
+"So breakin' this rock'll open up the path to Air Raid Shelter No. 2, then."
+
+msgctxt "3764_Master"
+msgid ""
+"Then it's settled－we try diggin' here next. Oh, when you got the time, of "
+"course."
+msgstr ""
+"Then it's settled－we try diggin' here next. Oh, when you got the time, of "
+"course."
+
+msgctxt "3776_Saejima"
+msgid "No sweat. I'm just glad I got my hands on this book."
+msgstr "No sweat. I'm just glad I got my hands on this book."
+
+msgctxt "3800_Master"
+msgid "Come back whenever you can. I'll see you to the entrance."
+msgstr "Come back whenever you can. I'll see you to the entrance."
+
+msgctxt "3824_Saejima"
+msgid "Whew. That was some damn good exercise."
+msgstr "Whew. That was some damn good exercise."
+
+msgctxt "3836_Master"
+msgid ""
+"Thanks for the extra hand. Found this under one of the rocks. I won't be "
+"needing it, so you take it."
+msgstr ""
+"Thanks for the extra hand. Found this under one of the rocks. I won't be "
+"needing it, so you take it."
+
+msgctxt "3872_Master"
+msgid "Come back whenever you can."
+msgstr "Come back whenever you can."
+
+msgctxt "3908_Master"
+msgid "I can't believe a place like this existed under Kamurocho."
+msgstr "I can't believe a place like this existed under Kamurocho."
+
+msgctxt "3920_Saejima"
+msgid "What is it? It's so big."
+msgstr "What is it? It's so big."
+
+msgctxt "3932_Master"
+msgid "I think it's an air raid shelter."
+msgstr "I think it's an air raid shelter."
+
+msgctxt "3944_Saejima"
+msgid "Air raid shelter?"
+msgstr "Air raid shelter?"
+
+msgctxt "3956_Master"
+msgid "Yeah. Used during the war I reckon."
+msgstr "Yeah. Used during the war I reckon."
+
+msgctxt "3968_Master"
+msgid ""
+"I'm sure it's got a good deal of historical value too, bein' in such good "
+"shape and all."
+msgstr ""
+"I'm sure it's got a good deal of historical value too, bein' in such good "
+"shape and all."
+
+msgctxt "3980_Saejima"
+msgid "Is that certain something of yer old man's down here?"
+msgstr "Is that certain something of yer old man's down here?"
+
+msgctxt "3992_Master"
+msgid "Nah, should be a tad deeper accordin' to what he said."
+msgstr "Nah, should be a tad deeper accordin' to what he said."
+
+msgctxt "4004_Saejima"
+msgid "Huh? Hey, look at that!"
+msgstr "Huh? Hey, look at that!"
+
+msgctxt "4016_Master"
+msgid "What now?"
+msgstr "Che c'è?"
+
+msgctxt "4028_Saejima"
+msgid "A sign. It says this place is called Air Raid Shelter No. 1."
+msgstr "A sign. It says this place is called Air Raid Shelter No. 1."
+
+msgctxt "4040_Saejima"
+msgid "And just beyond these rocks here is Air Raid Shelter No. 2."
+msgstr "And just beyond these rocks here is Air Raid Shelter No. 2."
+
+msgctxt "4052_Master"
+msgid ""
+"Well, we ain't got no other clues to go on. Let's just try diggin' here."
+msgstr ""
+"Well, we ain't got no other clues to go on. Let's just try diggin' here."
+
+msgctxt "4064_Master"
+msgid "Hm? There's something on the ground."
+msgstr "Hm? There's something on the ground."
+
+msgctxt "4076_Saejima"
+msgid ""
+"It looks like a book on the art of war. It's full o' different fighting "
+"techniques."
+msgstr ""
+"It looks like a book on the art of war. It's full o' different fighting "
+"techniques."
+
+msgctxt "4088_Saejima"
+msgid ""
+"Hold on... This is some incredible stuff! I bet I could use this move here!"
+msgstr ""
+"Hold on... This is some incredible stuff! I bet I could use this move here!"
+
+msgctxt "4100_Master"
+msgid ""
+"Looks like you got your reward after all. Wish I could pay you properly, "
+"though. You know, with money and all..."
+msgstr ""
+"Looks like you got your reward after all. Wish I could pay you properly, "
+"though. You know, with money and all..."
+
+msgctxt "4112_Saejima"
+msgid "Nah, don't need money. I found somethin' just as good. Better even."
+msgstr "Nah, don't need money. I found somethin' just as good. Better even."
+
+msgctxt "4124_Saejima"
+msgid "Plus, I got a pretty good workout. Thanks, old man."
+msgstr "Plus, I got a pretty good workout. Thanks, old man."
+
+msgctxt "4148_Master"
+msgid "Come back whenever you can. I'll see you to the entrance."
+msgstr "Come back whenever you can. I'll see you to the entrance."
+
+msgctxt "4172_Master"
+msgid "Thanks for coming, Saejima. Here to help out?"
+msgstr "Thanks for coming, Saejima. Here to help out?"
+
+msgctxt "4184_Master"
+msgid "All right. Well, come back anytime."
+msgstr "All right. Well, come back anytime."
+
+msgctxt "4220_Master"
+msgid "I owe you. All right, pick a place to start digging."
+msgstr "I owe you. All right, pick a place to start digging."
+
+msgctxt "4232_Master"
+msgid "I owe you. All right, pick a place to start digging."
+msgstr "I owe you. All right, pick a place to start digging."
+
+msgctxt "4244_Master"
+msgid "I owe you. All right, pick a place to start digging."
+msgstr "I owe you. All right, pick a place to start digging."
+
+msgctxt "4256_Master"
+msgid "I owe you. All right, pick a place to start digging."
+msgstr "I owe you. All right, pick a place to start digging."
+
+msgctxt "4268_Master"
+msgid "I owe you. All right, pick a place to start digging."
+msgstr "I owe you. All right, pick a place to start digging."
+
+msgctxt "4280_Master"
+msgid "I owe you. All right, pick a place to start digging."
+msgstr "I owe you. All right, pick a place to start digging."
+
+msgctxt "4292_Saejima"
+msgid "Sorry. I'll come by again later."
+msgstr "Sorry. I'll come by again later."
+
+msgctxt "4304_Master"
+msgid "What? You're not gonna help now?"
+msgstr "What? You're not gonna help now?"
+
+msgctxt "4316_Master"
+msgid "All right. There's always next time."
+msgstr "All right. There's always next time."
+
+msgctxt "4364_Master"
+msgid "The Sewer Path, is it? We're set to go then."
+msgstr "The Sewer Path, is it? We're set to go then."
+
+msgctxt "4436_Master"
+msgid ""
+"You're gonna need to use a pickaxe to whack your way through the rock here."
+msgstr ""
+"You're gonna need to use a pickaxe to whack your way through the rock here."
+
+msgctxt "4448_Master"
+msgid ""
+"I think I had a big one lyin' around here somewhere. Should be the perfect "
+"size for you."
+msgstr ""
+"I think I had a big one lyin' around here somewhere. Should be the perfect "
+"size for you."
+
+msgctxt "4460_Master"
+msgid ""
+"If you wanna make this into a real workout, how about tryin' to finish in "
+"one minute?"
+msgstr ""
+"If you wanna make this into a real workout, how about tryin' to finish in "
+"one minute?"
+
+msgctxt "4472_Master"
+msgid ""
+"<Color:7>Charge up before swinging the pickaxe to crush the rock face in a "
+"single blow.<Color:Default> If you'd rather take your time though, be my "
+"guest."
+msgstr ""
+"<Color:7>Charge up before swinging the pickaxe to crush the rock face in a "
+"single blow.<Color:Default> If you'd rather take your time though, be my "
+"guest."
+
+msgctxt "4484_Master"
+msgid "You ready?"
+msgstr "You ready?"
+
+msgctxt "4496_Master"
+msgid ""
+"That spot's already been dug, so I don't think anything new'll come up. "
+"Still wanna dig there?"
+msgstr ""
+"That spot's already been dug, so I don't think anything new'll come up. "
+"Still wanna dig there?"
+
+msgctxt "4508_Saejima"
+msgid "All right. I'll dig like it's a nice little workout."
+msgstr "All right. I'll dig like it's a nice little workout."
+
+msgctxt "4520_Master"
+msgid "Gotcha. All right then, lemme lend you a pickaxe."
+msgstr "Gotcha. All right then, lemme lend you a pickaxe."
+
+msgctxt "4532_Master"
+msgid ""
+"If you wanna make this into a real workout, how about tryin' to finish in "
+"one minute?"
+msgstr ""
+"If you wanna make this into a real workout, how about tryin' to finish in "
+"one minute?"
+
+msgctxt "4544_Master"
+msgid ""
+"<Color:7>Charge up before swinging the pickaxe to crush the rock face in a "
+"single blow.<Color:Default> If you'd rather take your time though, be my "
+"guest."
+msgstr ""
+"<Color:7>Charge up before swinging the pickaxe to crush the rock face in a "
+"single blow.<Color:Default> If you'd rather take your time though, be my "
+"guest."
+
+msgctxt "4556_Master"
+msgid "Are you ready?"
+msgstr "Sei pronto?"
+
+msgctxt "4568_Saejima"
+msgid "Ready."
+msgstr "Ready."
+
+msgctxt "4580_Master"
+msgid "All right, then. Let's get started."
+msgstr "All right, then. Let's get started."
+
+msgctxt "4604_Master"
+msgid "You'll be digging Air Raid Shelter No. 1, West. We're set to go then."
+msgstr "You'll be digging Air Raid Shelter No. 1, West. We're set to go then."
+
+msgctxt "4676_Master"
+msgid ""
+"There's a trick to breaking these here rocks, so I'll be the one doin' the "
+"diggin' this time."
+msgstr ""
+"There's a trick to breaking these here rocks, so I'll be the one doin' the "
+"diggin' this time."
+
+msgctxt "4688_Master"
+msgid ""
+"But we might run into fallin' rocks from the impact o' breakin' these. I "
+"need ya to hit those before they hit us."
+msgstr ""
+"But we might run into fallin' rocks from the impact o' breakin' these. I "
+"need ya to hit those before they hit us."
+
+msgctxt "4700_Master"
+msgid ""
+"These rocks are brittle enough for you to shatter with your bare fists, so "
+"whack 'em good and we'll survive."
+msgstr ""
+"These rocks are brittle enough for you to shatter with your bare fists, so "
+"whack 'em good and we'll survive."
+
+msgctxt "4712_Master"
+msgid ""
+"I can't take too many hits from them rocks, and you'll be puttin' yourself "
+"in harm's way too, so make sure you're all ready to go before diggin'."
+msgstr ""
+"I can't take too many hits from them rocks, and you'll be puttin' yourself "
+"in harm's way too, so make sure you're all ready to go before diggin'."
+
+msgctxt "4724_Master"
+msgid "You ready?"
+msgstr "You ready?"
+
+msgctxt "4748_Master"
+msgid "You'll be digging Air Raid Shelter No. 1, South. We're set to go then."
+msgstr ""
+"You'll be digging Air Raid Shelter No. 1, South. We're set to go then."
+
+msgctxt "4820_Master"
+msgid "I'll be the one doin' the diggin' again. You watch my back for me."
+msgstr "I'll be the one doin' the diggin' again. You watch my back for me."
+
+msgctxt "4832_Master"
+msgid ""
+"You'll be puttin' yourself in harm's way too, so make sure you're all ready "
+"to go before diggin'."
+msgstr ""
+"You'll be puttin' yourself in harm's way too, so make sure you're all ready "
+"to go before diggin'."
+
+msgctxt "4844_Master"
+msgid "You ready?"
+msgstr "You ready?"
+
+msgctxt "4856_Saejima"
+msgid "Ready."
+msgstr "Ready."
+
+msgctxt "4868_Master"
+msgid "All right, then. Let's get started."
+msgstr "All right, then. Let's get started."
+
+msgctxt "4880_Punk-like Man"
+msgid "Hey, grandpa! Find that buried treasure yet?"
+msgstr "Hey, grandpa! Find that buried treasure yet?"
+
+msgctxt "4904_Master"
+msgid "Again? Leave me alone, ya buncha hooligan riffraff!"
+msgstr "Again? Leave me alone, ya buncha hooligan riffraff!"
+
+msgctxt "4916_Punk-like Man"
+msgid "Look, he's still with that guy from the other day. Talk about lucky!"
+msgstr "Look, he's still with that guy from the other day. Talk about lucky!"
+
+msgctxt "4928_Punk-like Man"
+msgid ""
+"I brought some friends with me this time. How's about we have a little "
+"party?"
+msgstr ""
+"I brought some friends with me this time. How's about we have a little "
+"party?"
+
+msgctxt "4940_Punk-like Man"
+msgid "An eye for an eye. That's just common sense, ain't I right?"
+msgstr "An eye for an eye. That's just common sense, ain't I right?"
+
+msgctxt "4952_Punk-like Man"
+msgid ""
+"Hahaha! Couldn't think of a better time to arrive. You literally dug your "
+"own graves!"
+msgstr ""
+"Hahaha! Couldn't think of a better time to arrive. You literally dug your "
+"own graves!"
+
+msgctxt "4964_Master"
+msgid "Ugh. We're so close too..."
+msgstr "Ugh. We're so close too..."
+
+msgctxt "4976_Saejima"
+msgid "You just keep on digging."
+msgstr "You just keep on digging."
+
+msgctxt "4988_Master"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "5000_Saejima"
+msgid ""
+"These punks got no right to crush yer dreams. You just keep on digging."
+msgstr ""
+"These punks got no right to crush yer dreams. You just keep on digging."
+
+msgctxt "5012_Master"
+msgid "But..."
+msgstr "Ma..."
+
+msgctxt "5024_Saejima"
+msgid ""
+"I can take out the trash on my own. I got yer back, so just keep swinging "
+"that pickaxe."
+msgstr ""
+"I can take out the trash on my own. I got yer back, so just keep swinging "
+"that pickaxe."
+
+msgctxt "5036_Master"
+msgid "......"
+msgstr "......"
+
+msgctxt "5048_Master"
+msgid "All right. I'll leave it to you."
+msgstr "All right. I'll leave it to you."
+
+msgctxt "5060_Saejima"
+msgid "No problem."
+msgstr "No problem."
+
+msgctxt "5072_Punk-like Man"
+msgid ""
+"The hell're you two bickerin' about!? This a fuckin' sitcom or something?"
+msgstr ""
+"The hell're you two bickerin' about!? This a fuckin' sitcom or something?"
+
+msgctxt "5084_Punk-like Man"
+msgid ""
+"Finished sayin' your prayers? 'Cause we're gonna kill ya all kinds o' dead!"
+msgstr ""
+"Finished sayin' your prayers? 'Cause we're gonna kill ya all kinds o' dead!"
+
+msgctxt "5120_Master"
+msgid "So you wanna dig in the Old Access Tunnel?"
+msgstr "So you wanna dig in the Old Access Tunnel?"
+
+msgctxt "5132_Master"
+msgid "As usual, you gotta use a pickaxe to whack your way through."
+msgstr "As usual, you gotta use a pickaxe to whack your way through."
+
+msgctxt "5144_Master"
+msgid "But not even my Old Reliable could put a dent in them rocks."
+msgstr "But not even my Old Reliable could put a dent in them rocks."
+
+msgctxt "5156_Master"
+msgid "So we'll hafta find a stronger pickaxe somewhere else."
+msgstr "So we'll hafta find a stronger pickaxe somewhere else."
+
+msgctxt "5168_Saejima"
+msgid "A stronger pickaxe, huh? Wonder where I can get one..."
+msgstr "A stronger pickaxe, huh? Wonder where I can get one..."
+
+msgctxt "5180_Master"
+msgid ""
+"I actually read how to make one in a book about ten years back. How was it "
+"made again...?"
+msgstr ""
+"I actually read how to make one in a book about ten years back. How was it "
+"made again...?"
+
+msgctxt "5192_Master"
+msgid ""
+"Well, what I can give ya is this strong-lookin' metal I found the other day "
+"diggin'. Maybe you can do something with it."
+msgstr ""
+"Well, what I can give ya is this strong-lookin' metal I found the other day "
+"diggin'. Maybe you can do something with it."
+
+msgctxt "5228_Saejima"
+msgid ""
+"I bet I could make one if I fit it with some kinda rod-lookin' thing for a "
+"handle."
+msgstr ""
+"I bet I could make one if I fit it with some kinda rod-lookin' thing for a "
+"handle."
+
+msgctxt "5240_Master"
+msgid ""
+"You might find a <Color:7>Chunk of Wood (Ash)<Color:Default> lyin' around "
+"somewhere."
+msgstr ""
+"You might find a <Color:7>Chunk of Wood (Ash)<Color:Default> lyin' around "
+"somewhere."
+
+msgctxt "5252_Master"
+msgid "But then you'll hafta connect the two."
+msgstr "But then you'll hafta connect the two."
+
+msgctxt "5264_Master"
+msgid ""
+"I remember hearin' about some kinda weapons shop in Kamurocho that'll make "
+"things for you as long as you got the materials."
+msgstr ""
+"I remember hearin' about some kinda weapons shop in Kamurocho that'll make "
+"things for you as long as you got the materials."
+
+msgctxt "5276_Saejima"
+msgid ""
+"A <Color:7>shop<Color:Default> that'll make me a pickaxe outta "
+"<Color:7>Super Alloy<Color:Default> and a <Color:7>Chunk of Wood "
+"(Ash)<Color:Default>... I'll keep an eye out."
+msgstr ""
+"A <Color:7>shop<Color:Default> that'll make me a pickaxe outta "
+"<Color:7>Super Alloy<Color:Default> and a <Color:7>Chunk of Wood "
+"(Ash)<Color:Default>... I'll keep an eye out."
+
+msgctxt "5288_Master"
+msgid ""
+"Sorry for the trouble. Be seein' you once you got that strong pickaxe, then."
+msgstr ""
+"Sorry for the trouble. Be seein' you once you got that strong pickaxe, then."
+
+msgctxt "5324_Master"
+msgid ""
+"You'll need a pickaxe that's a cut stronger n' the rest if you wanna dig the"
+" Old Access Tunnel."
+msgstr ""
+"You'll need a pickaxe that's a cut stronger n' the rest if you wanna dig the"
+" Old Access Tunnel."
+
+msgctxt "5336_Master"
+msgid ""
+"Have the weapons shop make you a strong pickaxe using that Block of Super "
+"Alloy and Chunk of Wood (Ash)."
+msgstr ""
+"Have the weapons shop make you a strong pickaxe using that Block of Super "
+"Alloy and Chunk of Wood (Ash)."
+
+msgctxt "5348_Master"
+msgid "Come back once you got a strong pickaxe."
+msgstr "Come back once you got a strong pickaxe."
+
+msgctxt "5396_Master"
+msgid ""
+"So you wanna dig the Old Access Tunnel? Looks like you brought a strong "
+"pickaxe. Let's get to diggin', then."
+msgstr ""
+"So you wanna dig the Old Access Tunnel? Looks like you brought a strong "
+"pickaxe. Let's get to diggin', then."
+
+msgctxt "5468_Master"
+msgid "You're gonna use a pickaxe to whack your way through the rock here."
+msgstr "You're gonna use a pickaxe to whack your way through the rock here."
+
+msgctxt "5480_Master"
+msgid "That Superalloy Pickaxe will do just fine."
+msgstr "That Superalloy Pickaxe will do just fine."
+
+msgctxt "5492_Master"
+msgid ""
+"If you wanna make this into a real workout, how about tryin' to finish in "
+"thirty seconds?"
+msgstr ""
+"If you wanna make this into a real workout, how about tryin' to finish in "
+"thirty seconds?"
+
+msgctxt "5504_Master"
+msgid ""
+"<Color:7>Charge up before swinging the pickaxe to crush the rock face in a "
+"single blow.<Color:Default> If you'd rather take your time though, be my "
+"guest."
+msgstr ""
+"<Color:7>Charge up before swinging the pickaxe to crush the rock face in a "
+"single blow.<Color:Default> If you'd rather take your time though, be my "
+"guest."
+
+msgctxt "5516_Master"
+msgid "You ready?"
+msgstr "You ready?"
+
+msgctxt "5528_Master"
+msgid ""
+"That spot's already been dug, so I don't think anything new'll come up. "
+"Still wanna dig there?"
+msgstr ""
+"That spot's already been dug, so I don't think anything new'll come up. "
+"Still wanna dig there?"
+
+msgctxt "5540_Saejima"
+msgid "All right. I'll dig like it's a nice little workout."
+msgstr "All right. I'll dig like it's a nice little workout."
+
+msgctxt "5552_Master"
+msgid "Good to hear. Use that Superalloy Pickaxe for this one."
+msgstr "Good to hear. Use that Superalloy Pickaxe for this one."
+
+msgctxt "5564_Master"
+msgid ""
+"If you wanna make this into a real workout, how about tryin' to finish in "
+"thirty seconds?"
+msgstr ""
+"If you wanna make this into a real workout, how about tryin' to finish in "
+"thirty seconds?"
+
+msgctxt "5576_Master"
+msgid ""
+"<Color:7>Charge up before swinging the pickaxe to crush the rock face in a "
+"single blow.<Color:Default> If you'd rather take your time though, be my "
+"guest."
+msgstr ""
+"<Color:7>Charge up before swinging the pickaxe to crush the rock face in a "
+"single blow.<Color:Default> If you'd rather take your time though, be my "
+"guest."
+
+msgctxt "5588_Master"
+msgid "You ready?"
+msgstr "You ready?"
+
+msgctxt "5600_Master"
+msgid "All right, let's get to diggin'."
+msgstr "All right, let's get to diggin'."
+
+msgctxt "5636_Master"
+msgid ""
+"If you wanna dig around Air Raid Shelter No. 2, you'll need a Small Bomb."
+msgstr ""
+"If you wanna dig around Air Raid Shelter No. 2, you'll need a Small Bomb."
+
+msgctxt "5648_Master"
+msgid "Ask Ken-chan how to make 'em."
+msgstr "Ask Ken-chan how to make 'em."
+
+msgctxt "5660_Master"
+msgid "Come back once you're prepped."
+msgstr "Come back once you're prepped."
+
+msgctxt "5696_Master"
+msgid ""
+"Air Raid Shelter No. 2, is it? Looks like you brought a Small Bomb with you."
+" We're set to go then."
+msgstr ""
+"Air Raid Shelter No. 2, is it? Looks like you brought a Small Bomb with you."
+" We're set to go then."
+
+msgctxt "5768_Master"
+msgid "I'll place the bomb, so you just watch my back for me."
+msgstr "I'll place the bomb, so you just watch my back for me."
+
+msgctxt "5780_Master"
+msgid ""
+"Judgin' from the look o' things, this place'll be rainin' a rock monsoon."
+msgstr ""
+"Judgin' from the look o' things, this place'll be rainin' a rock monsoon."
+
+msgctxt "5792_Master"
+msgid ""
+"Just like before, whack the rocks as they fall down with them giant mitts o'"
+" yours. They should break easy."
+msgstr ""
+"Just like before, whack the rocks as they fall down with them giant mitts o'"
+" yours. They should break easy."
+
+msgctxt "5804_Master"
+msgid ""
+"But remember, you'll be in a world o' hurt if they whack you instead. Make "
+"sure you're ready."
+msgstr ""
+"But remember, you'll be in a world o' hurt if they whack you instead. Make "
+"sure you're ready."
+
+msgctxt "5816_Master"
+msgid "You ready?"
+msgstr "You ready?"
+
+msgctxt "5828_Saejima"
+msgid "Ready."
+msgstr "Ready."
+
+msgctxt "5840_Master"
+msgid "All right, then. Let's get started."
+msgstr "All right, then. Let's get started."
+
+msgctxt "5852_Punk-like Man"
+msgid ""
+"Hey, old fart! Hope you brought a casket to go with that hole you're "
+"diggin'!"
+msgstr ""
+"Hey, old fart! Hope you brought a casket to go with that hole you're "
+"diggin'!"
+
+msgctxt "5876_Master"
+msgid "Not again... Who are these kids anyways?"
+msgstr "Not again... Who are these kids anyways?"
+
+msgctxt "5888_Saejima"
+msgid ""
+"Just some punks with way too much time on their hands. They'll never learn."
+msgstr ""
+"Just some punks with way too much time on their hands. They'll never learn."
+
+msgctxt "5900_Punk-like Man"
+msgid "Shut yer mouth! We're gonna bury you in this oversized grave!"
+msgstr "Shut yer mouth! We're gonna bury you in this oversized grave!"
+
+msgctxt "5912_Punk-like Man"
+msgid "Whatcha got there, gramps?"
+msgstr "Whatcha got there, gramps?"
+
+msgctxt "5924_Punk-like Man"
+msgid "Is that a bomb? Hahaha! And what do you plan on doing with that?"
+msgstr "Is that a bomb? Hahaha! And what do you plan on doing with that?"
+
+msgctxt "5936_Punk-like Man"
+msgid ""
+"How convenient! I was planning on stirrin' up a little domestic trouble "
+"soon. Give it here."
+msgstr ""
+"How convenient! I was planning on stirrin' up a little domestic trouble "
+"soon. Give it here."
+
+msgctxt "5948_Master"
+msgid "No way I'm lettin' you get your greasy paws on it!"
+msgstr "No way I'm lettin' you get your greasy paws on it!"
+
+msgctxt "5960_Saejima"
+msgid "Just concentrate on riggin' that bomb. I'll take care o' the rest."
+msgstr "Just concentrate on riggin' that bomb. I'll take care o' the rest."
+
+msgctxt "5972_Saejima"
+msgid "There's just one last boulder to go, right?"
+msgstr "There's just one last boulder to go, right?"
+
+msgctxt "5984_Master"
+msgid "Yeah..."
+msgstr "Yeah..."
+
+msgctxt "5996_Saejima"
+msgid "Then I got yer back. You crack that last wall. I'll crack these punks."
+msgstr ""
+"Then I got yer back. You crack that last wall. I'll crack these punks."
+
+msgctxt "6008_Master"
+msgid "Saejima..."
+msgstr "Saejima..."
+
+msgctxt "6020_Saejima"
+msgid "What? You scared to finally finish this thing?"
+msgstr "What? You scared to finally finish this thing?"
+
+msgctxt "6032_Master"
+msgid "......"
+msgstr "......"
+
+msgctxt "6044_Master"
+msgid "Stop talkin' like a loon. One more to go! Let's finish this already!"
+msgstr "Stop talkin' like a loon. One more to go! Let's finish this already!"
+
+msgctxt "6056_Master"
+msgid "Three minutes. Gimme three minutes and I can rig this baby to blow."
+msgstr "Three minutes. Gimme three minutes and I can rig this baby to blow."
+
+msgctxt "6068_Saejima"
+msgid "Gotcha. Then for three minutes, I won't let anyone lay a finger on ya."
+msgstr ""
+"Gotcha. Then for three minutes, I won't let anyone lay a finger on ya."
+
+msgctxt "6080_Saejima"
+msgid "Listen up, scum. This old man's quarter century battle's about to end."
+msgstr ""
+"Listen up, scum. This old man's quarter century battle's about to end."
+
+msgctxt "6092_Saejima"
+msgid "How about we enjoy the fireworks together?"
+msgstr "How about we enjoy the fireworks together?"
+
+msgctxt "6116_Punk-like Man"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "6128_Punk-like Man"
+msgid "No"
+msgstr "No"
+
+msgctxt "6140_Punk-like Man"
+msgid "Sewer Path"
+msgstr "Sewer Path"
+
+msgctxt "6152_Punk-like Man"
+msgid "Not Now"
+msgstr "Not Now"
+
+msgctxt "6164_Punk-like Man"
+msgid "Sewer Path"
+msgstr "Sewer Path"
+
+msgctxt "6176_Punk-like Man"
+msgid "Air Raid Shelter No. 1, West"
+msgstr "Air Raid Shelter No. 1, West"
+
+msgctxt "6188_Punk-like Man"
+msgid "Not Now"
+msgstr "Not Now"
+
+msgctxt "6200_Punk-like Man"
+msgid "Sewer Path"
+msgstr "Sewer Path"
+
+msgctxt "6212_Punk-like Man"
+msgid "Air Raid Shelter No. 1, South"
+msgstr "Air Raid Shelter No. 1, South"
+
+msgctxt "6224_Punk-like Man"
+msgid "Not Now"
+msgstr "Not Now"
+
+msgctxt "6236_Punk-like Man"
+msgid "Sewer Path"
+msgstr "Sewer Path"
+
+msgctxt "6248_Punk-like Man"
+msgid "Old Access Tunnel"
+msgstr "Vecchio Accesso Tunnel"
+
+msgctxt "6260_Punk-like Man"
+msgid "Not Now"
+msgstr "Not Now"
+
+msgctxt "6272_Punk-like Man"
+msgid "Sewer Path"
+msgstr "Sewer Path"
+
+msgctxt "6284_Punk-like Man"
+msgid "Old Access Tunnel"
+msgstr "Vecchio Accesso Tunnel"
+
+msgctxt "6296_Punk-like Man"
+msgid "Air Raid Shelter No. 2"
+msgstr "Air Raid Shelter No. 2"
+
+msgctxt "6308_Punk-like Man"
+msgid "Not Now"
+msgstr "Not Now"
+
+msgctxt "6320_Punk-like Man"
+msgid "Sewer Path"
+msgstr "Sewer Path"
+
+msgctxt "6332_Punk-like Man"
+msgid "Old Access Tunnel"
+msgstr "Vecchio Accesso Tunnel"
+
+msgctxt "6344_Punk-like Man"
+msgid "Not Now"
+msgstr "Not Now"
+
+msgctxt "6356_Punk-like Man"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "6368_Punk-like Man"
+msgid "No"
+msgstr "No"
+
+msgctxt "6380_Punk-like Man"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "6392_Punk-like Man"
+msgid "No"
+msgstr "No"
+
+msgctxt "6404_Punk-like Man"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "6416_Punk-like Man"
+msgid "No"
+msgstr "No"
+
+msgctxt "6428_Punk-like Man"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "6440_Punk-like Man"
+msgid "No"
+msgstr "No"
+
+msgctxt "6452_Punk-like Man"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "6464_Punk-like Man"
+msgid "No"
+msgstr "No"
+
+msgctxt "6476_Punk-like Man"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "6488_Punk-like Man"
+msgid "No"
+msgstr "No"
+
+msgctxt "6500_Punk-like Man"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "6512_Punk-like Man"
+msgid "No"
+msgstr "No"
+
+msgctxt "6524_Punk-like Man"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "6536_Punk-like Man"
+msgid "No"
+msgstr "No"
+
+msgctxt "6548_Punk-like Man"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "6560_Punk-like Man"
+msgid "No"
+msgstr "No"

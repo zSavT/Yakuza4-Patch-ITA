@@ -1,0 +1,87 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2196"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "2200"
+msgid "Shizuka"
+msgstr "Shizuka"
+
+msgctxt "2204"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2208"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "2212"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "92_Shizuka"
+msgid "Kiryu-san..."
+msgstr "Kiryu-san..."
+
+msgctxt "104_Kiryu"
+msgid "What's wrong? You sound down."
+msgstr "What's wrong? You sound down."
+
+msgctxt "116_Shizuka"
+msgid "Well, my purse got stolen..."
+msgstr "Well, my purse got stolen..."
+
+msgctxt "128_Kiryu"
+msgid "What? Where?"
+msgstr "What? Where?"
+
+msgctxt "140_Shizuka"
+msgid "Just a minute ago. I was walking down Pink Street."
+msgstr "Just a minute ago. I was walking down Pink Street."
+
+msgctxt "152_Shizuka"
+msgid "A man ran up behind me and snatched it."
+msgstr "A man ran up behind me and snatched it."
+
+msgctxt "164_Kiryu"
+msgid "What did he look like?"
+msgstr "What did he look like?"
+
+msgctxt "176_Shizuka"
+msgid ""
+"It was so sudden... I didn't get a good look at him. I just know it was a "
+"man."
+msgstr ""
+"It was so sudden... I didn't get a good look at him. I just know it was a "
+"man."
+
+msgctxt "188_Kiryu"
+msgid ""
+"Hmm... Still, a man walking around with a woman's purse will stand out."
+msgstr ""
+"Hmm... Still, a man walking around with a woman's purse will stand out."
+
+msgctxt "200_Kiryu"
+msgid "I'll take a look around there."
+msgstr "I'll take a look around there."
+
+msgctxt "212_Shizuka"
+msgid "Thank you. There were some important things in that purse..."
+msgstr "Thank you. There were some important things in that purse..."
+
+msgctxt "224_Kiryu"
+msgid "I bet. I'll call you if I find anything."
+msgstr "I bet. I'll call you if I find anything."

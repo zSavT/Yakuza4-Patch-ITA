@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "764"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "768"
+msgid "HAL_stand_tlk_happy_small"
+msgstr "HAL_stand_tlk_happy_small"
+
+msgctxt "228_Haruka"
+msgid "Uncle Kaz, I want some <Color:8>Amaebi<Color:Default>!"
+msgstr "Uncle Kaz, I want some <Color:8>Amaebi<Color:Default>!"
+
+msgctxt "252_Haruka"
+msgid "Uncle Kaz, I want some <Color:8>Tamago<Color:Default>..."
+msgstr "Uncle Kaz, I want some <Color:8>Tamago<Color:Default>..."

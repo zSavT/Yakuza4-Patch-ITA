@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "148"
+msgid "Who are you going to call?"
+msgstr "Who are you going to call?"
+
+msgctxt "2656"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "2660"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "2664"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "160_Player"
+msgid "(Let's give Maya a call...)"
+msgstr "(Let's give Maya a call...)"
+
+msgctxt "220_Player"
+msgid "(Let's give Shizuka a call...)"
+msgstr "(Let's give Shizuka a call...)"
+
+msgctxt "292_Player"
+msgid "(Let's give %s a call...)"
+msgstr "(Let's give %s a call...)"
+
+msgctxt "364_Player"
+msgid "(Let's give %s a call...)"
+msgstr "(Let's give %s a call...)"
+
+msgctxt "424_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "436_Player"
+msgid "Shizuka Saito"
+msgstr "Shizuka Saito"
+
+msgctxt "448_Player"
+msgid "Maya Mori"
+msgstr "Maya Mori"
+
+msgctxt "460_Player"
+msgid "1"
+msgstr "1"
+
+msgctxt "472_Player"
+msgid "2"
+msgstr "2"
+
+msgctxt "484_Player"
+msgid "3"
+msgstr "3"

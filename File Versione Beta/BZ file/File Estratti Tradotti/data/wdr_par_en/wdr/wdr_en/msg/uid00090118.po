@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1280"
+msgid "Karaoke Lover"
+msgstr "Karaoke Lover"
+
+msgctxt "1284"
+msgid "Laid-Back Man"
+msgstr "Laid-Back Man"
+
+msgctxt "1288"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1292"
+msgid "Talk_Info_L"
+msgstr "Talk_Info_L"
+
+msgctxt "1296"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "84_Karaoke Lover"
+msgid "Let's go do karaoke! It's way fun!"
+msgstr "Let's go do karaoke! It's way fun!"
+
+msgctxt "96_Laid-Back Man"
+msgid "Karaoke? I mean, I guess. Anywhere near here you wanna go?"
+msgstr "Karaoke? I mean, I guess. Anywhere near here you wanna go?"
+
+msgctxt "108_Karaoke Lover"
+msgid ""
+"Actually, yeah! Karaokekan is just around the corner. C'mon! I already know "
+"what I wanna sing!"
+msgstr ""
+"Actually, yeah! Karaokekan is just around the corner. C'mon! I already know "
+"what I wanna sing!"
+
+msgctxt "132_Laid-Back Man"
+msgid "All right, all right. Guess I should start thinking of songs, too..."
+msgstr "All right, all right. Guess I should start thinking of songs, too..."

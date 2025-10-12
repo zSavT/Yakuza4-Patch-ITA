@@ -1,0 +1,221 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "356"
+msgid "See you at the club. Bye!"
+msgstr "See you at the club. Bye!"
+
+msgctxt "500"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "1004"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "12932"
+msgid "Maya"
+msgstr "Maya"
+
+msgctxt "12936"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "12940"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "12944"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "12948"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "12952"
+msgid "0"
+msgstr ""
+
+msgctxt "12956"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "116_Maya"
+msgid "This is for keeps. I'm not losing today!"
+msgstr "This is for keeps. I'm not losing today!"
+
+msgctxt "128_Player"
+msgid "Right, let's go inside."
+msgstr "Right, let's go inside."
+
+msgctxt "152_Maya"
+msgid "This is for keeps. I'm not losing today!"
+msgstr "This is for keeps. I'm not losing today!"
+
+msgctxt "164_Player"
+msgid "Hold up. I didn't bring enough money."
+msgstr "Hold up. I didn't bring enough money."
+
+msgctxt "176_Maya"
+msgid "Seriously? No credit card or anything?"
+msgstr "Seriously? No credit card or anything?"
+
+msgctxt "188_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "200_Maya"
+msgid "Are you kidding me!? I'm going home. See you later."
+msgstr "Are you kidding me!? I'm going home. See you later."
+
+msgctxt "212_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr "(I should've made sure I had some cash...)"
+
+msgctxt "320_Maya"
+msgid "Wow, you're good at darts too? What aren't you good at?"
+msgstr "Wow, you're good at darts too? What aren't you good at?"
+
+msgctxt "332_Player"
+msgid "Well, I'm okay..."
+msgstr "Well, I'm okay..."
+
+msgctxt "344_Maya"
+msgid "It was really fun playing darts with you! <Color:7>♥<Color:Default>"
+msgstr "It was really fun playing darts with you! <Color:7>♥<Color:Default>"
+
+msgctxt "380_Maya"
+msgid "A tie. I really thought I would win this one."
+msgstr "A tie. I really thought I would win this one."
+
+msgctxt "392_Player"
+msgid "Too bad."
+msgstr "Too bad."
+
+msgctxt "404_Maya"
+msgid "It was really fun playing darts with you!"
+msgstr "It was really fun playing darts with you!"
+
+msgctxt "416_Maya"
+msgid "See you at the club. Bye!"
+msgstr "See you at the club. Bye!"
+
+msgctxt "440_Maya"
+msgid "Look who won. Maybe you'll beat me next time!"
+msgstr "Look who won. Maybe you'll beat me next time!"
+
+msgctxt "452_Player"
+msgid "Possibly."
+msgstr "Possibly."
+
+msgctxt "464_Maya"
+msgid "It was really fun playing darts with you! <Color:7>♥<Color:Default>"
+msgstr "It was really fun playing darts with you! <Color:7>♥<Color:Default>"
+
+msgctxt "476_Maya"
+msgid "See you at the club. Bye!"
+msgstr "See you at the club. Bye!"
+
+msgctxt "584_Maya"
+msgid "This is for keeps. I'm not losing today!"
+msgstr "This is for keeps. I'm not losing today!"
+
+msgctxt "596_Player"
+msgid "Right, let's go inside."
+msgstr "Right, let's go inside."
+
+msgctxt "620_Maya"
+msgid "This is for keeps. I'm not losing today!"
+msgstr "This is for keeps. I'm not losing today!"
+
+msgctxt "632_Player"
+msgid "Hold up. I didn't bring enough money."
+msgstr "Hold up. I didn't bring enough money."
+
+msgctxt "644_Maya"
+msgid "Seriously? No credit card or anything?"
+msgstr "Seriously? No credit card or anything?"
+
+msgctxt "656_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "668_Maya"
+msgid "Are you kidding me!? I'm going home. See you later."
+msgstr "Are you kidding me!? I'm going home. See you later."
+
+msgctxt "680_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr "(I should've made sure I had some cash...)"
+
+msgctxt "788_Maya"
+msgid "Wow, you're good at darts too? What aren't you good at?"
+msgstr "Wow, you're good at darts too? What aren't you good at?"
+
+msgctxt "800_Player"
+msgid "Well, I'm okay..."
+msgstr "Well, I'm okay..."
+
+msgctxt "812_Maya"
+msgid "It was really fun playing darts with you! <Color:7>♥<Color:Default>"
+msgstr "It was really fun playing darts with you! <Color:7>♥<Color:Default>"
+
+msgctxt "824_Maya"
+msgid "Shall we hit up the club now?"
+msgstr "Shall we hit up the club now?"
+
+msgctxt "836_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "860_Maya"
+msgid "A tie. I really thought I would win this one."
+msgstr "A tie. I really thought I would win this one."
+
+msgctxt "872_Player"
+msgid "Too bad."
+msgstr "Too bad."
+
+msgctxt "884_Maya"
+msgid "It was really fun playing darts with you! <Color:7>♥<Color:Default>"
+msgstr "It was really fun playing darts with you! <Color:7>♥<Color:Default>"
+
+msgctxt "896_Maya"
+msgid "Shall we hit up the club now?"
+msgstr "Shall we hit up the club now?"
+
+msgctxt "908_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "932_Maya"
+msgid "Look who won. Maybe you'll beat me next time!"
+msgstr "Look who won. Maybe you'll beat me next time!"
+
+msgctxt "944_Player"
+msgid "Possibly."
+msgstr "Possibly."
+
+msgctxt "956_Maya"
+msgid "It was really fun playing darts with you! <Color:7>♥<Color:Default>"
+msgstr "It was really fun playing darts with you! <Color:7>♥<Color:Default>"
+
+msgctxt "968_Maya"
+msgid "Shall we hit up the club now?"
+msgstr "Shall we hit up the club now?"
+
+msgctxt "980_Player"
+msgid "Yeah."
+msgstr "Sì."

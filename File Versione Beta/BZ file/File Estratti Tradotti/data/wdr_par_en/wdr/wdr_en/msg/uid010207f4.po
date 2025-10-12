@@ -1,0 +1,138 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4724"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "4728"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "4732"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4736"
+msgid "Sukegawa"
+msgstr "Sukegawa"
+
+msgctxt "4740"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "4744"
+msgid "Kakuda"
+msgstr "Kakuda"
+
+msgctxt "4748"
+msgid "Idle"
+msgstr "Idle"
+
+msgctxt "4752"
+msgid "0"
+msgstr ""
+
+msgctxt "4756"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "4760"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "88_Akiyama"
+msgid "Should be safe for your pal Kakuda now."
+msgstr "Ora dovrebbe essere sicuro per il tuo amico Kakuda."
+
+msgctxt "100_Sukegawa"
+msgid "You got that right! Those creeps were no match for us!"
+msgstr "Puoi dirlo forte! Quei tizi non erano alla nostra altezza!"
+
+msgctxt "112_Sukegawa"
+msgid "Anyway, I'll go get Kaku-san! Be back in a jiff!"
+msgstr "Comunque, vado a prendere Kaku-san! Torno in un lampo!"
+
+msgctxt "184_Akiyama"
+msgid "Think you can open this one, Kaku-san?"
+msgstr "Pensi di poterla aprire, Kaku-san?"
+
+msgctxt "196_Kakuda"
+msgid "Hmm, let me see..."
+msgstr "Mmm, fammi vedere..."
+
+msgctxt "208_Kakuda"
+msgid "......"
+msgstr "......"
+
+msgctxt "220_Kakuda"
+msgid "...Ah, it's one of these. Yeah, this shouldn't be a problem."
+msgstr "...Ah, è una di queste. Sì, non dovrebbe essere un problema."
+
+msgctxt "280_Kakuda"
+msgid "And there you have it."
+msgstr "Ed ecco fatto."
+
+msgctxt "292_Akiyama"
+msgid "Very nice. Thanks!"
+msgstr "Ottimo. Grazie!"
+
+msgctxt "340_Akiyama"
+msgid "(Locked...)"
+msgstr "(Chiuso a chiave...)"
+
+msgctxt "352_Akiyama"
+msgid ""
+"(Won't be getting past unless I can track down that Kakuda guy. Sukegawa "
+"said he used to be a locksmith.)"
+msgstr ""
+"(Non passerò di qui finché non troverò quel tizio, Kakuda. Sukegawa ha detto"
+" che era un fabbro.)"
+
+msgctxt "364_Akiyama"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "376_Akiyama"
+msgid "Ah, crap... He locked the door before he ran off."
+msgstr "Ah, cavolo... Ha chiuso a chiave la porta prima di scappare."
+
+msgctxt "388_Sukegawa"
+msgid "Hrmmm."
+msgstr "Mmmm."
+
+msgctxt "400_Sukegawa"
+msgid "Oh, I know! My buddy Kakuda should still be around here somewhere."
+msgstr ""
+"Oh, lo so! Il mio amico Kakuda dovrebbe essere ancora da queste parti."
+
+msgctxt "424_Sukegawa"
+msgid "He used to be a locksmith. A door like this'd be a cinch for him."
+msgstr "Era un fabbro. Una porta come questa per lui sarebbe una passeggiata."
+
+msgctxt "436_Sukegawa"
+msgid ""
+"The only problem is, he's a real yellowbelly. A coward. He's probably hiding"
+" somewhere around here, waiting for all this to blow over."
+msgstr ""
+"L'unico problema è che è un vero fifone. Un codardo. Probabilmente si "
+"nasconde da qualche parte qui intorno, aspettando che passi la bufera."
+
+msgctxt "448_Akiyama"
+msgid "Guess we'd better go find him, then."
+msgstr "Allora è meglio che andiamo a cercarlo."
+
+msgctxt "460_Akiyama"
+msgid "Come on."
+msgstr "Andiamo."

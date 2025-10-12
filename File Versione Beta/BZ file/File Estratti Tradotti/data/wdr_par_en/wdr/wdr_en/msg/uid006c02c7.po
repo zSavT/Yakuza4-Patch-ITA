@@ -1,0 +1,227 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "476"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "956"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "12896"
+msgid "Himeka"
+msgstr "Himeka"
+
+msgctxt "12900"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "12904"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "12908"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "12912"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "12916"
+msgid "0"
+msgstr ""
+
+msgctxt "12920"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "12924"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "116_Himeka"
+msgid "Hehe! This is gonna be so much fun!"
+msgstr "Hehe! This is gonna be so much fun!"
+
+msgctxt "128_Himeka"
+msgid "C'mon, let's go in already!"
+msgstr "C'mon, let's go in already!"
+
+msgctxt "152_Himeka"
+msgid "Hehe! This is gonna be so much fun!"
+msgstr "Hehe! This is gonna be so much fun!"
+
+msgctxt "164_Himeka"
+msgid "C'mon, let's go in already!"
+msgstr "C'mon, let's go in already!"
+
+msgctxt "176_Tanimura"
+msgid "Uh... Hold on a second. I just realized I'm short on cash."
+msgstr "Uh... Hold on a second. I just realized I'm short on cash."
+
+msgctxt "188_Himeka"
+msgid "Huh? You're kiddin', right?"
+msgstr "Huh? You're kiddin', right?"
+
+msgctxt "200_Tanimura"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "212_Himeka"
+msgid ""
+"Well, that's the end of our date for today. See ya later, Tanimura-san..."
+msgstr ""
+"Well, that's the end of our date for today. See ya later, Tanimura-san..."
+
+msgctxt "224_Tanimura"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr "(I'd better remember to bring enough cash next time...)"
+
+msgctxt "332_Himeka"
+msgid "Wow. I should've known you'd be good at table tennis."
+msgstr "Wow. I should've known you'd be good at table tennis."
+
+msgctxt "344_Tanimura"
+msgid "I've had some practice."
+msgstr "I've had some practice."
+
+msgctxt "356_Himeka"
+msgid ""
+"I had a great time today! My body's all warmed up too! Come visit me at the "
+"club, okay? <Color:7>♥<Color:Default>"
+msgstr ""
+"I had a great time today! My body's all warmed up too! Come visit me at the "
+"club, okay? <Color:7>♥<Color:Default>"
+
+msgctxt "380_Himeka"
+msgid "Hehehe. Nobody won that time!"
+msgstr "Hehehe. Nobody won that time!"
+
+msgctxt "392_Tanimura"
+msgid "I guess so."
+msgstr "I guess so."
+
+msgctxt "404_Himeka"
+msgid "I had a lot of fun today. Ask me out again, okay?"
+msgstr "I had a lot of fun today. Ask me out again, okay?"
+
+msgctxt "428_Himeka"
+msgid "Too bad! Looks like I win this one. Hehe!"
+msgstr "Too bad! Looks like I win this one. Hehe!"
+
+msgctxt "440_Tanimura"
+msgid "Damn."
+msgstr "Damn."
+
+msgctxt "452_Himeka"
+msgid ""
+"That was fun. My body's all warmed up too! Come visit me at the club, okay? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"That was fun. My body's all warmed up too! Come visit me at the club, okay? "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "560_Himeka"
+msgid "This is gonna be so much fun! Hehe!"
+msgstr "This is gonna be so much fun! Hehe!"
+
+msgctxt "572_Himeka"
+msgid "C'mon, let's go in already!"
+msgstr "C'mon, let's go in already!"
+
+msgctxt "596_Himeka"
+msgid "This is gonna be so much fun! Hehe!"
+msgstr "This is gonna be so much fun! Hehe!"
+
+msgctxt "608_Himeka"
+msgid "C'mon, let's go in already!"
+msgstr "C'mon, let's go in already!"
+
+msgctxt "620_Tanimura"
+msgid "Uh... Hold on a second. I just realized I'm short on cash."
+msgstr "Uh... Hold on a second. I just realized I'm short on cash."
+
+msgctxt "632_Himeka"
+msgid "Huh? You're kiddin', right?"
+msgstr "Huh? You're kiddin', right?"
+
+msgctxt "644_Tanimura"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "656_Himeka"
+msgid ""
+"Well, that's the end of our date for today. See ya later, Tanimura-san..."
+msgstr ""
+"Well, that's the end of our date for today. See ya later, Tanimura-san..."
+
+msgctxt "668_Tanimura"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr "(I'd better remember to bring enough cash next time...)"
+
+msgctxt "776_Himeka"
+msgid "Wow. I should've known you'd be good at table tennis."
+msgstr "Wow. I should've known you'd be good at table tennis."
+
+msgctxt "788_Tanimura"
+msgid "I've had some practice."
+msgstr "I've had some practice."
+
+msgctxt "800_Himeka"
+msgid ""
+"I had a great time today! My body's all warmed up too! Now then, wanna head "
+"over to the club? <Color:7>♥<Color:Default>"
+msgstr ""
+"I had a great time today! My body's all warmed up too! Now then, wanna head "
+"over to the club? <Color:7>♥<Color:Default>"
+
+msgctxt "812_Tanimura"
+msgid "Sure. Sounds good."
+msgstr "Sure. Sounds good."
+
+msgctxt "836_Himeka"
+msgid "Nobody won that time! Haha!"
+msgstr "Nobody won that time! Haha!"
+
+msgctxt "848_Tanimura"
+msgid "I guess not."
+msgstr "I guess not."
+
+msgctxt "860_Himeka"
+msgid "I had so much fun today. Wanna head over to the club now?"
+msgstr "I had so much fun today. Wanna head over to the club now?"
+
+msgctxt "872_Tanimura"
+msgid "Sure. Sounds good."
+msgstr "Sure. Sounds good."
+
+msgctxt "896_Himeka"
+msgid "Too bad! Looks like I win this one. Hehe!"
+msgstr "Too bad! Looks like I win this one. Hehe!"
+
+msgctxt "908_Tanimura"
+msgid "Damn."
+msgstr "Damn."
+
+msgctxt "920_Himeka"
+msgid ""
+"That was fun. My body's all warmed up too! Wanna head over to the club now?"
+msgstr ""
+"That was fun. My body's all warmed up too! Wanna head over to the club now?"
+
+msgctxt "932_Tanimura"
+msgid "Sure. Sounds good."
+msgstr "Sure. Sounds good."

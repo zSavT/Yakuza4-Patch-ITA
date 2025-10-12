@@ -1,0 +1,47 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "72"
+msgid "\"A room with 2 picture frames. Check the bookshelf.\""
+msgstr "\"A room with 2 picture frames. Check the bookshelf.\""
+
+msgctxt "108"
+msgid "\"A room with 2 picture frames. Check the bookshelf.\""
+msgstr "\"A room with 2 picture frames. Check the bookshelf.\""
+
+msgctxt "132"
+msgid "You found a <Color:8>Cat's Key<Color:Default>."
+msgstr "You found a <Color:8>Cat's Key<Color:Default>."
+
+msgctxt "1232"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "84_Saejima"
+msgid "(Is this where I'm supposed to go next?)"
+msgstr "(Is this where I'm supposed to go next?)"
+
+msgctxt "96_Saejima"
+msgid "(Geez, another note?)"
+msgstr "(Geez, another note?)"
+
+msgctxt "120_Saejima"
+msgid "(Another weird note... Huh? Something's folded inside it.)"
+msgstr "(Another weird note... Huh? Something's folded inside it.)"
+
+msgctxt "156_Saejima"
+msgid ""
+"(This must have somethin' to do with them cats. Better take it with me.)"
+msgstr ""
+"(This must have somethin' to do with them cats. Better take it with me.)"

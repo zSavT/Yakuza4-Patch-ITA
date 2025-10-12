@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1080"
+msgid "Alps Staff"
+msgstr "Alps Staff"
+
+msgctxt "1084"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "56_Alps Staff"
+msgid "Welcome."
+msgstr "Welcome."
+
+msgctxt "68_Kiryu"
+msgid "I need to get some curry."
+msgstr "I need to get some curry."
+
+msgctxt "80_Alps Staff"
+msgid "Certainly."
+msgstr "Certainly."
+
+msgctxt "92_Kiryu"
+msgid "Can I get it to go?"
+msgstr "Can I get it to go?"
+
+msgctxt "104_Alps Staff"
+msgid "I'm sorry, sir. We don't currently offer a takeout menu."
+msgstr "I'm sorry, sir. We don't currently offer a takeout menu."
+
+msgctxt "116_Kiryu"
+msgid "You don't? All right, thanks anyway."
+msgstr "You don't? All right, thanks anyway."
+
+msgctxt "128_Alps Staff"
+msgid "Sorry about that, sir."
+msgstr "Sorry about that, sir."
+
+msgctxt "140_Kiryu"
+msgid "(Guess I can't get it here. I better go look someplace else.)"
+msgstr "(Guess I can't get it here. I better go look someplace else.)"

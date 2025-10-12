@@ -1,0 +1,209 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "6468"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "6472"
+msgid "Talk_Hirou_st"
+msgstr "Talk_Hirou_st"
+
+msgctxt "6476"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "6480"
+msgid "P_sae_sitgrd_tlk_bed"
+msgstr "P_sae_sitgrd_tlk_bed"
+
+msgctxt "6484"
+msgid "P_sae_sitgrd_tlk_bed_st"
+msgstr "P_sae_sitgrd_tlk_bed_st"
+
+msgctxt "6488"
+msgid "Talk_Hirou_ed"
+msgstr "Talk_Hirou_ed"
+
+msgctxt "6492"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6496"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "6500"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "6504"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "6508"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "6512"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "6516"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "6520"
+msgid "0"
+msgstr ""
+
+msgctxt "72_Kiryu"
+msgid "Date-san? Date-san!"
+msgstr "Date-san? Date-san!"
+
+msgctxt "84_Date"
+msgid "......"
+msgstr "......"
+
+msgctxt "96_Date"
+msgid "Ngh..."
+msgstr "Ngh..."
+
+msgctxt "108_Kiryu"
+msgid "(Good. Looks like he's coming to.)"
+msgstr "(Bene. Sembra che stia rinvenendo.)"
+
+msgctxt "120_Kiryu"
+msgid "Date-san!"
+msgstr "Date-san!"
+
+msgctxt "132_Date"
+msgid "Huh? Oh... Kiryu..."
+msgstr "Eh? Oh... Kiryu..."
+
+msgctxt "144_Kiryu"
+msgid "What happened? Are you okay?"
+msgstr "Cos'è successo? Stai bene?"
+
+msgctxt "156_Date"
+msgid "Think so... Guess I just blacked out or something."
+msgstr "Credo di sì... Penso di essere svenuto o qualcosa del genere."
+
+msgctxt "228_Kiryu"
+msgid "You sure you're okay?"
+msgstr "Sei sicuro di stare bene?"
+
+msgctxt "240_Date"
+msgid "My head's still fuzzy as all heck, but yeah. I'll be fine."
+msgstr "Ho ancora la testa tutta confusa, ma sì. Starò bene."
+
+msgctxt "252_Kiryu"
+msgid "Do you remember what happened?"
+msgstr "Ricordi cosa è successo?"
+
+msgctxt "264_Date"
+msgid ""
+"Well, you and I had that chat outside, then I came back in to\r\n"
+"keep Yasuko-san company while you were gone. Next thing I\r\n"
+"knew I was waking up on the floor to you screaming."
+msgstr ""
+"Beh, io e te abbiamo parlato fuori, poi sono rientrato per\r\n"
+"fare compagnia a Yasuko-san mentre non c'eri. Dopodiché, ricordo\r\n"
+"solo di essermi svegliato sul pavimento sentendoti urlare."
+
+msgctxt "276_Kiryu"
+msgid "You don't remember anything else?"
+msgstr "Non ricordi nient'altro?"
+
+msgctxt "288_Date"
+msgid ""
+"Wait, now that you mention it... Yasuko-san poured us a\r\n"
+"couple drinks when I stepped back in."
+msgstr ""
+"Aspetta, ora che mi ci fai pensare... Yasuko-san ci ha versato\r\n"
+"un paio di drink quando sono rientrato."
+
+msgctxt "300_Kiryu"
+msgid "Drinks? You think there's a chance she drugged you?"
+msgstr "Dei drink? Pensi che ci sia la possibilità che ti abbia drogato?"
+
+msgctxt "312_Date"
+msgid ""
+"Can't rule out the possibility. They're still on the counter\r\n"
+"if you wanna have a sip for yourself."
+msgstr ""
+"Non si può escludere. Sono ancora sul bancone\r\n"
+"se vuoi berne un sorso."
+
+msgctxt "324_Kiryu"
+msgid ""
+"I think I'll pass. Anyway, do you have any idea where\r\n"
+"Yasuko-san might have gone?"
+msgstr ""
+"Penso che passo. Ad ogni modo, hai idea di dove\r\n"
+"possa essere andata Yasuko-san?"
+
+msgctxt "336_Date"
+msgid "...Not a clue, sorry."
+msgstr "...Non ne ho idea, scusa."
+
+msgctxt "348_Kiryu"
+msgid "Dammit..."
+msgstr "Cavolo..."
+
+msgctxt "360_Date"
+msgid ""
+"Look, I'm sorry. I was ready to throw down if some thugs\r\n"
+"barged in and tried to take her away... but I didn't think\r\n"
+"Yasuko-san herself would be the one fighting me."
+msgstr ""
+"Senti, mi dispiace. Ero pronto a menare le mani se qualche teppista\r\n"
+"avesse fatto irruzione per portarla via... ma non pensavo\r\n"
+"che a combattermi sarebbe stata Yasuko-san in persona."
+
+msgctxt "372_Kiryu"
+msgid "It's not your fault, Date-san."
+msgstr "Non è colpa tua, Date-san."
+
+msgctxt "384_Kiryu"
+msgid ""
+"Guess I should probably get looking for her, though. I'll\r\n"
+"be back."
+msgstr ""
+"Immagino che ora dovrò cercarla. Torno\r\n"
+"subito."
+
+msgctxt "396_Date"
+msgid "Wait, Kiryu! I'm coming, too!"
+msgstr "Aspetta, Kiryu! Vengo anch'io!"
+
+msgctxt "408_Kiryu"
+msgid ""
+"No. I need you to stay here in case she comes back.\r\n"
+"This is probably the safest place in town at this point."
+msgstr ""
+"No. Devi restare qui in caso dovesse tornare.\r\n"
+"A questo punto, è probabilmente il posto più sicuro della città."
+
+msgctxt "420_Date"
+msgid "Right. Well, good luck out there."
+msgstr "D'accordo. Beh, in bocca al lupo."
+
+msgctxt "432_Kiryu"
+msgid "Thanks. I'll be back soon."
+msgstr "Grazie. Torno presto."
+
+msgctxt "492_Kiryu"
+msgid "(What the... Date-san!?)"
+msgstr "(Ma che... Date-san!?)"

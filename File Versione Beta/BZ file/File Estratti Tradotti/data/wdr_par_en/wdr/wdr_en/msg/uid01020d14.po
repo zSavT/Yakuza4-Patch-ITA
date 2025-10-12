@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1816"
+msgid "Lily"
+msgstr "Lily"
+
+msgctxt "1820"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1824"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1828"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "92_Lily"
+msgid "......"
+msgstr "......"
+
+msgctxt "104_Akiyama"
+msgid "Is it somewhere in here?"
+msgstr "Is it somewhere in here?"
+
+msgctxt "116_Lily"
+msgid "I think so..."
+msgstr "I think so..."
+
+msgctxt "128_Lily"
+msgid "It's just... This building wasn't here before."
+msgstr "It's just... This building wasn't here before."
+
+msgctxt "140_Akiyama"
+msgid "Really? It's been here a while."
+msgstr "Really? It's been here a while."
+
+msgctxt "152_Lily"
+msgid "Do you mind if we take a quick look around?"
+msgstr "Do you mind if we take a quick look around?"
+
+msgctxt "164_Akiyama"
+msgid "Oh, uh, sure..."
+msgstr "Oh, uh, sure..."

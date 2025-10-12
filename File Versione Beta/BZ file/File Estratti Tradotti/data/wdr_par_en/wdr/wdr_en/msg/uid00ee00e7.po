@@ -1,0 +1,119 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3116"
+msgid "Dealer"
+msgstr "Croupier"
+
+msgctxt "3120"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "3124"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "3128"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3132"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "3136"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "144_Dealer"
+msgid ""
+"Welcome. Here, you can play Texas hold 'em poker. Would you like to play?"
+msgstr ""
+"Benvenuto. Qui può giocare a poker Texas Hold 'em. Le piacerebbe giocare?"
+
+msgctxt "156_Player"
+msgid "Sure, I'll play."
+msgstr "Certo, gioco."
+
+msgctxt "168_Dealer"
+msgid "An excellent choice. What stakes would you like to play for?"
+msgstr "Una scelta eccellente. Con che puntate vorrebbe giocare?"
+
+msgctxt "180_Player"
+msgid "I'll go with the low stakes."
+msgstr "Scelgo le puntate basse."
+
+msgctxt "204_Dealer"
+msgid ""
+"The starting bets are as follows: 5 chips for rounds one and two, then 10 "
+"chips on rounds three and four."
+msgstr ""
+"Le puntate iniziali sono le seguenti: 5 fiches per il primo e secondo round,"
+" poi 10 fiches per il terzo e quarto round."
+
+msgctxt "216_Dealer"
+msgid "Please take a seat, sir."
+msgstr "Si accomodi, signore."
+
+msgctxt "240_Dealer"
+msgid "You'll need a minimum of 100 chips to play low-stakes poker, sir."
+msgstr ""
+"Le servirà un minimo di 100 fiches per giocare a poker con puntate basse, "
+"signore."
+
+msgctxt "252_Player"
+msgid "I'll go with the high stakes."
+msgstr "Scelgo le puntate alte."
+
+msgctxt "276_Dealer"
+msgid ""
+"The starting bets are as follows: 50 chips for rounds one and two, then 100 "
+"chips on rounds three and four."
+msgstr ""
+"Le puntate iniziali sono le seguenti: 50 fiches per il primo e secondo "
+"round, poi 100 fiches per il terzo e quarto round."
+
+msgctxt "288_Dealer"
+msgid "Please take a seat, sir."
+msgstr "Si accomodi, signore."
+
+msgctxt "312_Dealer"
+msgid "You'll need a minimum of 1,000 chips to play high-stakes poker, sir."
+msgstr ""
+"Le servirà un minimo di 1.000 fiches per giocare a poker con puntate alte, "
+"signore."
+
+msgctxt "324_Player"
+msgid "Not right now."
+msgstr "Non adesso."
+
+msgctxt "336_Dealer"
+msgid "Very well. We hope you'll play with us next time."
+msgstr "Benissimo. Speriamo che giocherà con noi la prossima volta."
+
+msgctxt "348_Dealer"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "360_Dealer"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "372_Dealer"
+msgid "Low Stakes (5 chips/10 chips)"
+msgstr "Puntate basse (5 fiches/10 fiches)"
+
+msgctxt "384_Dealer"
+msgid "High Stakes (50 chips/100 chips)"
+msgstr "Puntate alte (50 fiches/100 fiches)"

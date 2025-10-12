@@ -1,0 +1,78 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1324"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1328"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "1332"
+msgid "Hurried Voter"
+msgstr "Hurried Voter"
+
+msgctxt "1336"
+msgid "Talk_Udekumi_Yes"
+msgstr "Talk_Udekumi_Yes"
+
+msgctxt "1340"
+msgid "Anxious Voter"
+msgstr "Anxious Voter"
+
+msgctxt "1344"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "1348"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1352"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "84_Saejima"
+msgid "Hey, you two. Ya here to break up the speech or what?"
+msgstr "Hey, you two. Ya here to break up the speech or what?"
+
+msgctxt "96_Hurried Voter"
+msgid "Huh? No..."
+msgstr "Huh? No..."
+
+msgctxt "108_Saejima"
+msgid ""
+"You been watchin' the clock. Coordinatin' your attack with another hired "
+"thug, huh?"
+msgstr ""
+"You been watchin' the clock. Coordinatin' your attack with another hired "
+"thug, huh?"
+
+msgctxt "120_Anxious Voter"
+msgid "We just don't want to be late for our dinner reservations, that's all."
+msgstr ""
+"We just don't want to be late for our dinner reservations, that's all."
+
+msgctxt "132_Hurried Voter"
+msgid ""
+"Is Numai hiring yakuza to act as his muscle? Just wait until I blog about "
+"this!"
+msgstr ""
+"Is Numai hiring yakuza to act as his muscle? Just wait until I blog about "
+"this!"
+
+msgctxt "144_Saejima"
+msgid "(Damn. Just a couple kids passin' by.)"
+msgstr "(Damn. Just a couple kids passin' by.)"

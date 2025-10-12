@@ -1,0 +1,233 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "452"
+msgid ""
+"Gals Gone Wild in Yokosuka\r\n"
+"　　　　　　　　　Ryoko Hazuki - Age 18 - Sagittarius"
+msgstr ""
+"Gals Gone Wild in Yokosuka\r\n"
+"　　　　　　　　　Ryoko Hazuki - Age 18 - Sagittarius"
+
+msgctxt "6228"
+msgid "Man in Bandana"
+msgstr "Man in Bandana"
+
+msgctxt "6232"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "6236"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6240"
+msgid "Heavyset Man"
+msgstr "Heavyset Man"
+
+msgctxt "6244"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "6248"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "6252"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "6256"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "6260"
+msgid "Older Akai Brother"
+msgstr "Older Akai Brother"
+
+msgctxt "6264"
+msgid "Younger Akai Brother"
+msgstr "Younger Akai Brother"
+
+msgctxt "6268"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "6272"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "6276"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "6280"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "6284"
+msgid "Talk_Info_L"
+msgstr "Talk_Info_L"
+
+msgctxt "6288"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "68_Man in Bandana"
+msgid "Hey, Kiryu-san!"
+msgstr "Hey, Kiryu-san!"
+
+msgctxt "80_Kiryu"
+msgid "Hmm?"
+msgstr "Hmm?"
+
+msgctxt "104_Man in Bandana"
+msgid "How's it going!?"
+msgstr "How's it going!?"
+
+msgctxt "116_Heavyset Man"
+msgid "Hey, dude!"
+msgstr "Hey, dude!"
+
+msgctxt "128_Kiryu"
+msgid "Sorry... Do I know you?"
+msgstr "Sorry... Do I know you?"
+
+msgctxt "140_Man in Bandana"
+msgid "Aw, man! Got the cold shoulder from mister Kiryu!"
+msgstr "Aw, man! Got the cold shoulder from mister Kiryu!"
+
+msgctxt "152_Older Akai Brother"
+msgid "We're the Akai brothers, from Bloody Eye. Remember?"
+msgstr "We're the Akai brothers, from Bloody Eye. Remember?"
+
+msgctxt "164_Younger Akai Brother"
+msgid ""
+"Five years ago you beat the crap out of us at this place called Debolah, in "
+"Theater Square."
+msgstr ""
+"Five years ago you beat the crap out of us at this place called Debolah, in "
+"Theater Square."
+
+msgctxt "176_Kiryu"
+msgid "Oh, you're those guys? Man, you two have turned over a new leaf, too?"
+msgstr "Oh, you're those guys? Man, you two have turned over a new leaf, too?"
+
+msgctxt "188_Older Akai Brother"
+msgid "Too?"
+msgstr "Too?"
+
+msgctxt "200_Kiryu"
+msgid "Yeah, I just ran into Shiraki from White Edge."
+msgstr "Yeah, I just ran into Shiraki from White Edge."
+
+msgctxt "212_Kiryu"
+msgid "He's working the nine-to-five now."
+msgstr "He's working the nine-to-five now."
+
+msgctxt "224_Older Akai Brother"
+msgid "Shiraki!? You serious?"
+msgstr "Shiraki!? You serious?"
+
+msgctxt "236_Younger Akai Brother"
+msgid "That blows me away."
+msgstr "That blows me away."
+
+msgctxt "248_Kiryu"
+msgid "Heheh. I'd say you guys have changed just as much."
+msgstr "Heheh. I'd say you guys have changed just as much."
+
+msgctxt "260_Older Akai Brother"
+msgid "Haha. Is it that obvious?"
+msgstr "Haha. Is it that obvious?"
+
+msgctxt "272_Kiryu"
+msgid ""
+"You do seem quite a bit more laid-back than when I saw you last. What are "
+"you up to now?"
+msgstr ""
+"You do seem quite a bit more laid-back than when I saw you last. What are "
+"you up to now?"
+
+msgctxt "284_Older Akai Brother"
+msgid "Ever heard of Redsnake?"
+msgstr "Ever heard of Redsnake?"
+
+msgctxt "296_Kiryu"
+msgid "Redsnake?"
+msgstr "Redsnake?"
+
+msgctxt "308_Older Akai Brother"
+msgid ""
+"That's right. Actually, Bloody Eye called it quits just after White Edge "
+"disbanded."
+msgstr ""
+"That's right. Actually, Bloody Eye called it quits just after White Edge "
+"disbanded."
+
+msgctxt "320_Younger Akai Brother"
+msgid ""
+"And that's when the two of us decided to start a production company called "
+"Redsnake!"
+msgstr ""
+"And that's when the two of us decided to start a production company called "
+"Redsnake!"
+
+msgctxt "332_Kiryu"
+msgid "Oh, yeah? What do you guys produce?"
+msgstr "Oh, yeah? What do you guys produce?"
+
+msgctxt "344_Older Akai Brother"
+msgid ""
+"Kiryu-san, you sure you don't know? You just might be \"enjoying\" our "
+"products without even realizing it!"
+msgstr ""
+"Kiryu-san, you sure you don't know? You just might be \"enjoying\" our "
+"products without even realizing it!"
+
+msgctxt "356_Younger Akai Brother"
+msgid "Geez, do we really have to come out and say it?"
+msgstr "Geez, do we really have to come out and say it?"
+
+msgctxt "368_Kiryu"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "380_Younger Akai Brother"
+msgid ""
+"Here, this is our latest title. Have a look if you're into it. I'm in this "
+"one!"
+msgstr ""
+"Here, this is our latest title. Have a look if you're into it. I'm in this "
+"one!"
+
+msgctxt "392_Kiryu"
+msgid "All right. Thanks."
+msgstr "All right. Thanks."
+
+msgctxt "404_Older Akai Brother"
+msgid "See you later, man!"
+msgstr "See you later, man!"
+
+msgctxt "464_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "476_Kiryu"
+msgid ""
+"(Not bad for former gang members, I guess. A porn company's still a company "
+"after all...)"
+msgstr ""
+"(Not bad for former gang members, I guess. A porn company's still a company "
+"after all...)"

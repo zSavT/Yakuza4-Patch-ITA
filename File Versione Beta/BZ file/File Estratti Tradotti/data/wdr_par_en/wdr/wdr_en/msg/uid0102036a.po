@@ -1,0 +1,154 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5340"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "5344"
+msgid "Kido"
+msgstr "Kido"
+
+msgctxt "5348"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "5352"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "5356"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "5360"
+msgid "SetM_nml_cheer_walkback_01"
+msgstr "SetM_nml_cheer_walkback_01"
+
+msgctxt "5364"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "5368"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "5372"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "5376"
+msgid "M_nml_stand_tlk_tukitobashi"
+msgstr "M_nml_stand_tlk_tukitobashi"
+
+msgctxt "5380"
+msgid "M_nml_stand_tlk_tukitobasare"
+msgstr "M_nml_stand_tlk_tukitobasare"
+
+msgctxt "5384"
+msgid "0"
+msgstr ""
+
+msgctxt "56_Saejima"
+msgid "Did you just say \"Shibata Family\"?"
+msgstr "Hai appena detto \"Famiglia Shibata\"?"
+
+msgctxt "68_Kido"
+msgid "Who's asking?"
+msgstr "Chi lo chiede?"
+
+msgctxt "80_Saejima"
+msgid "Ex-member of the Tojo Clan's Sasai Family."
+msgstr "Ex membro della Famiglia Sasai del Clan Tojo."
+
+msgctxt "92_Kido"
+msgid "Never heard of them."
+msgstr "Mai sentita nominare."
+
+msgctxt "104_Saejima"
+msgid "These goons ya just wasted－they all Shibata's?"
+msgstr ""
+"Questi scagnozzi che hai appena fatto fuori... sono tutti degli Shibata?"
+
+msgctxt "116_Kido"
+msgid "Maybe. What's it to you?"
+msgstr "Forse. Che te ne frega?"
+
+msgctxt "140_Saejima"
+msgid "You in the business?"
+msgstr "Sei nel giro?"
+
+msgctxt "152_Kido"
+msgid "The yakuza? Uh, yeah..."
+msgstr "La yakuza? Uh, sì..."
+
+msgctxt "164_Saejima"
+msgid "What family?"
+msgstr "Che famiglia?"
+
+msgctxt "176_Kido"
+msgid "Er, I'm with the Tojo. The, uh... Shibata Family, actually."
+msgstr "Ehm, sono con i Tojo. La... ehm... Famiglia Shibata, a dire il vero."
+
+msgctxt "188_Saejima"
+msgid "Why were ya just poundin' on your own boys?"
+msgstr "Perché stavi pestando i tuoi stessi uomini?"
+
+msgctxt "200_Kido"
+msgid "Um, it's kinda complicated..."
+msgstr "Uhm, è un po' complicato..."
+
+msgctxt "212_Saejima"
+msgid "They jump ya for droppin' out?"
+msgstr "Ti hanno aggredito perché te ne sei andato?"
+
+msgctxt "224_Kido"
+msgid "No, not exactly."
+msgstr "No, non proprio."
+
+msgctxt "236_Saejima"
+msgid ""
+"Well, you're obviously no friend of Shibata's.\r\n"
+"Just the man I need."
+msgstr ""
+"Beh, ovviamente non sei un amico di Shibata.\r\n"
+"Proprio l'uomo che mi serve."
+
+msgctxt "248_Kido"
+msgid "Wait－need me? For what?"
+msgstr "Aspetta... ti servo? Per cosa?"
+
+msgctxt "260_Saejima"
+msgid "You're gonna help me find my boss, Sasai-san."
+msgstr "Mi aiuterai a trovare il mio capo, Sasai-san."
+
+msgctxt "284_Kido"
+msgid "Ah!"
+msgstr "Ah!"
+
+msgctxt "296_Kido"
+msgid "Hup!"
+msgstr "Hup!"
+
+msgctxt "332_Saejima"
+msgid "Ngh!"
+msgstr "Ngh!"
+
+msgctxt "356_Kido"
+msgid "Sorry, man, but I got my own shit to take care of!"
+msgstr "Scusa, amico, ma ho le mie cazzo di cose di cui occuparmi!"
+
+msgctxt "368_Saejima"
+msgid "Fuck!"
+msgstr "Cazzo!"

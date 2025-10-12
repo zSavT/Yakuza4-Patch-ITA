@@ -1,0 +1,167 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4060"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "4064"
+msgid "Bespectacled Homeless Man"
+msgstr "Bespectacled Homeless Man"
+
+msgctxt "4068"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "4072"
+msgid "Elder Homeless Man"
+msgstr "Elder Homeless Man"
+
+msgctxt "4076"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "4080"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "4084"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4088"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "4092"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "4096"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "4100"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "100_Player"
+msgid "(I should come back when I'm alone...)"
+msgstr "(I should come back when I'm alone...)"
+
+msgctxt "112_Bespectacled Homeless Man"
+msgid "Look what I brought today."
+msgstr "Look what I brought today."
+
+msgctxt "124_Elder Homeless Man"
+msgid "Hm? What is it?"
+msgstr "Hm? What is it?"
+
+msgctxt "196_Elder Homeless Man"
+msgid "It's barbecue sauce. What are you going to do with sauce?"
+msgstr "It's barbecue sauce. What are you going to do with sauce?"
+
+msgctxt "208_Bespectacled Homeless Man"
+msgid "All right! Next I just have to go and find some meat somewhere!"
+msgstr "All right! Next I just have to go and find some meat somewhere!"
+
+msgctxt "220_Elder Homeless Man"
+msgid "I'm not getting anywhere near that meat..."
+msgstr "I'm not getting anywhere near that meat..."
+
+msgctxt "232_Elder Homeless Man"
+msgid "Is that a pistol!? Where the hell did you get it?"
+msgstr "Is that a pistol!? Where the hell did you get it?"
+
+msgctxt "244_Bespectacled Homeless Man"
+msgid ""
+"No, no. It's just a water gun. Where would anyone get a real gun that's pink"
+" anyways?"
+msgstr ""
+"No, no. It's just a water gun. Where would anyone get a real gun that's pink"
+" anyways?"
+
+msgctxt "256_Elder Homeless Man"
+msgid ""
+"Really? You seen the latest state of the art weapons? They're all sorts of "
+"colors and shapes! Hey! Don't point that at me!"
+msgstr ""
+"Really? You seen the latest state of the art weapons? They're all sorts of "
+"colors and shapes! Hey! Don't point that at me!"
+
+msgctxt "268_Elder Homeless Man"
+msgid "Is this an amusement park pamphlet?"
+msgstr "Is this an amusement park pamphlet?"
+
+msgctxt "280_Bespectacled Homeless Man"
+msgid "Have you ever even been to an amusement park?"
+msgstr "Have you ever even been to an amusement park?"
+
+msgctxt "292_Elder Homeless Man"
+msgid ""
+"Of course I have. I remember getting so excited the first time I saw a "
+"panda..."
+msgstr ""
+"Of course I have. I remember getting so excited the first time I saw a "
+"panda..."
+
+msgctxt "304_Bespectacled Homeless Man"
+msgid ""
+"Umm... Amusement parks definitely do not have pandas. Perhaps a panda ride?"
+msgstr ""
+"Umm... Amusement parks definitely do not have pandas. Perhaps a panda ride?"
+
+msgctxt "316_Elder Homeless Man"
+msgid "Oh my... What a perverted title for a DVD."
+msgstr "Oh my... What a perverted title for a DVD."
+
+msgctxt "328_Bespectacled Homeless Man"
+msgid "Ooh! You wanna take a look?"
+msgstr "Ooh! You wanna take a look?"
+
+msgctxt "340_Elder Homeless Man"
+msgid "What the hell? How old do you think I am!?"
+msgstr "What the hell? How old do you think I am!?"
+
+msgctxt "352_Bespectacled Homeless Man"
+msgid "You don't want to watch it?"
+msgstr "You don't want to watch it?"
+
+msgctxt "364_Elder Homeless Man"
+msgid "Well... Maybe a little bit..."
+msgstr "Well... Maybe a little bit..."
+
+msgctxt "376_Elder Homeless Man"
+msgid "This is a child's wallet. And the kid was pretty loaded..."
+msgstr "This is a child's wallet. And the kid was pretty loaded..."
+
+msgctxt "388_Bespectacled Homeless Man"
+msgid "......"
+msgstr "......"
+
+msgctxt "400_Elder Homeless Man"
+msgid "......"
+msgstr "......"
+
+msgctxt "412_Bespectacled Homeless Man"
+msgid "You can't take that."
+msgstr "You can't take that."
+
+msgctxt "424_Elder Homeless Man"
+msgid "Nope..."
+msgstr "Nope..."
+
+msgctxt "436_Bespectacled Homeless Man"
+msgid "I'll deliver it to the police."
+msgstr "I'll deliver it to the police."

@@ -1,0 +1,133 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "7196"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "7200"
+msgid "Talk_Kamae_st"
+msgstr "Talk_Kamae_st"
+
+msgctxt "7204"
+msgid "P_aki_stand_tlk_senobi"
+msgstr "P_aki_stand_tlk_senobi"
+
+msgctxt "7208"
+msgid "Hana"
+msgstr "Hana"
+
+msgctxt "280_Akiyama"
+msgid "(That settles that... Now I just have to do what I have to.)"
+msgstr "(Questo è sistemato... Ora devo solo fare quello che devo.)"
+
+msgctxt "364_Akiyama"
+msgid "(Thanks, Hana-chan. It was fun.)"
+msgstr "(Grazie, Hana-chan. È stato divertente.)"
+
+msgctxt "436_Akiyama"
+msgid "(All right... Let's go do this!)"
+msgstr "(Bene... Andiamo a farlo!)"
+
+msgctxt "460_Akiyama"
+msgid "(I think that settles that.)"
+msgstr "(Penso che questo sistemi le cose.)"
+
+msgctxt "472_Akiyama"
+msgid ""
+"(It's a little lonely without Hana-chan in the office. Maybe I'll reminisce "
+"about the good old days...)"
+msgstr ""
+"(È un po' solitario l'ufficio senza Hana-chan. Forse ricorderò i bei vecchi "
+"tempi...)"
+
+msgctxt "484_Akiyama"
+msgid "(Now, what to do...)"
+msgstr "(Ora, che si fa...)"
+
+msgctxt "496_Akiyama"
+msgid "(Maybe later.)"
+msgstr "(Magari più tardi.)"
+
+msgctxt "508_Akiyama"
+msgid "(That settles that... Now I just have to do what I have to.)"
+msgstr "(Questo è sistemato... Ora devo solo fare quello che devo.)"
+
+msgctxt "676_Akiyama"
+msgid "(I'll think about the good old days, just for a little bit...)"
+msgstr "(Penserò ai bei vecchi tempi, solo per un po'...)"
+
+msgctxt "832_Hana"
+msgid "What is it, boss? Hold on, are you off to play pachinko again!?"
+msgstr "Cosa c'è, capo? Aspetti, sta andando di nuovo a giocare a pachinko!?"
+
+msgctxt "844_Akiyama"
+msgid "...Yeah, you got me. Anyway, I'm off."
+msgstr "...Sì, mi hai scoperto. Comunque, io vado."
+
+msgctxt "880_Akiyama"
+msgid "(Should I rest until dusk...?)"
+msgstr "(Dovrei riposare fino al crepuscolo...?)"
+
+msgctxt "892_Akiyama"
+msgid "(Should I rest until evening...?)"
+msgstr "(Dovrei riposare fino a sera...?)"
+
+msgctxt "904_Akiyama"
+msgid "(Maybe I should rest until tomorrow morning.)"
+msgstr "(Forse dovrei riposare fino a domattina.)"
+
+msgctxt "916_Akiyama"
+msgid "(Not right now...)"
+msgstr "(Non ora...)"
+
+msgctxt "976_Akiyama"
+msgid "Reminisce about Hana-chan"
+msgstr "Ricorda Hana-chan"
+
+msgctxt "988_Akiyama"
+msgid "I've settled things."
+msgstr "Ho sistemato le cose."
+
+msgctxt "1000_Akiyama"
+msgid "Rest for a While"
+msgstr "Riposa per un po'"
+
+msgctxt "1012_Akiyama"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "1024_Akiyama"
+msgid "Rest Until Dusk"
+msgstr "Riposa fino al crepuscolo"
+
+msgctxt "1036_Akiyama"
+msgid "Don't Rest"
+msgstr "Non riposare"
+
+msgctxt "1048_Akiyama"
+msgid "Rest Until Evening"
+msgstr "Riposa fino a sera"
+
+msgctxt "1060_Akiyama"
+msgid "Don't Rest"
+msgstr "Non riposare"
+
+msgctxt "1072_Akiyama"
+msgid "Rest Until Morning"
+msgstr "Riposa fino a mattina"
+
+msgctxt "1084_Akiyama"
+msgid "Don't Rest"
+msgstr "Non riposare"

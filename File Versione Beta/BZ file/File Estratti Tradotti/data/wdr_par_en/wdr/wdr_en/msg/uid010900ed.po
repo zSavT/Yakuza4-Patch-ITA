@@ -1,0 +1,85 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2124"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "2128"
+msgid "Himeka"
+msgstr "Himeka"
+
+msgctxt "2132"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "2136"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "2140"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "92_Himeka"
+msgid "Tanimura-san!"
+msgstr "Tanimura-san!"
+
+msgctxt "104_Tanimura"
+msgid "This is a surprise, is everything okay?"
+msgstr "This is a surprise, is everything okay?"
+
+msgctxt "116_Himeka"
+msgid ""
+"That Kashiwabara guy was just at the club. He got really drunk and tore the "
+"place apart."
+msgstr ""
+"That Kashiwabara guy was just at the club. He got really drunk and tore the "
+"place apart."
+
+msgctxt "128_Tanimura"
+msgid "Did he hurt you?"
+msgstr "Did he hurt you?"
+
+msgctxt "140_Himeka"
+msgid "No... But I was scared. Maybe I should quit this job after all."
+msgstr "No... But I was scared. Maybe I should quit this job after all."
+
+msgctxt "152_Tanimura"
+msgid "You should take the rest of the day off."
+msgstr "You should take the rest of the day off."
+
+msgctxt "164_Himeka"
+msgid "Yeah. Think I'll do that."
+msgstr "Yeah. Think I'll do that."
+
+msgctxt "176_Himeka"
+msgid "Just talkin' to you makes me feel better."
+msgstr "Just talkin' to you makes me feel better."
+
+msgctxt "188_Tanimura"
+msgid "I'm here whenever you need me."
+msgstr "I'm here whenever you need me."
+
+msgctxt "200_Himeka"
+msgid "Thanks! Bye-bye."
+msgstr "Thanks! Bye-bye."
+
+msgctxt "260_Tanimura"
+msgid "(Kashiwabara was wearing a black jacket if I remember correctly.)"
+msgstr "(Kashiwabara was wearing a black jacket if I remember correctly.)"
+
+msgctxt "272_Tanimura"
+msgid "(He might still be drunk and wandering around near the club.)"
+msgstr "(He might still be drunk and wandering around near the club.)"

@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "100"
+msgid "It's a massage."
+msgstr "It's a massage."
+
+msgctxt "136"
+msgid "Game Test"
+msgstr "Game Test"
+
+msgctxt "148"
+msgid "Stamp Test"
+msgstr "Stamp Test"

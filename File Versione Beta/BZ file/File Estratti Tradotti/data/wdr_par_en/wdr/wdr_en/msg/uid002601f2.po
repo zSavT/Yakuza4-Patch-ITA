@@ -1,0 +1,303 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8888"
+msgid "Emoto"
+msgstr "Emoto"
+
+msgctxt "8892"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "8896"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "8900"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "8904"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "8908"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "8912"
+msgid "Talk_Udekumi_Yes"
+msgstr "Talk_Udekumi_Yes"
+
+msgctxt "8916"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "8920"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "8924"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "8928"
+msgid "Man"
+msgstr "Man"
+
+msgctxt "8932"
+msgid "P_stand_tlk_phone_st"
+msgstr "P_stand_tlk_phone_st"
+
+msgctxt "8936"
+msgid "P_stand_tlk_phone_ed"
+msgstr "P_stand_tlk_phone_ed"
+
+msgctxt "8940"
+msgid "Nml_TurnL180"
+msgstr "Nml_TurnL180"
+
+msgctxt "8944"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "8948"
+msgid "Talk_Kosite_st"
+msgstr "Talk_Kosite_st"
+
+msgctxt "8952"
+msgid "Snake Flower Triad Member"
+msgstr "Snake Flower Triad Member"
+
+msgctxt "8956"
+msgid "Talk_Kosite_Yes"
+msgstr "Talk_Kosite_Yes"
+
+msgctxt "8960"
+msgid "Talk_Kosite_ed"
+msgstr "Talk_Kosite_ed"
+
+msgctxt "8964"
+msgid "Run"
+msgstr "Run"
+
+msgctxt "80_Emoto"
+msgid "Oh, Kiryu. Nice timing. He just woke up."
+msgstr "Oh, Kiryu. Nice timing. He just woke up."
+
+msgctxt "92_Kiryu"
+msgid "All right. Tanimura, see if you can get him to talk to you."
+msgstr "All right. Tanimura, see if you can get him to talk to you."
+
+msgctxt "104_Tanimura"
+msgid "Got it."
+msgstr "Capito."
+
+msgctxt "152_Tanimura"
+msgid "I think I got most of the story."
+msgstr "I think I got most of the story."
+
+msgctxt "164_Kiryu"
+msgid "That's great. I owe you one."
+msgstr "That's great. I owe you one."
+
+msgctxt "176_Kiryu"
+msgid "Is he an illegal immigrant?"
+msgstr "Is he an illegal immigrant?"
+
+msgctxt "188_Tanimura"
+msgid "That's right. He says he came from Fujian."
+msgstr "That's right. He says he came from Fujian."
+
+msgctxt "200_Kiryu"
+msgid ""
+"So how did he get hurt at the docks? Did somebody catch him stowing away?"
+msgstr ""
+"So how did he get hurt at the docks? Did somebody catch him stowing away?"
+
+msgctxt "212_Tanimura"
+msgid ""
+"No, it sounds like he managed to sneak into the country just fine. The "
+"problem was his hiding place."
+msgstr ""
+"No, it sounds like he managed to sneak into the country just fine. The "
+"problem was his hiding place."
+
+msgctxt "224_Kiryu"
+msgid "Where was he hiding?"
+msgstr "Where was he hiding?"
+
+msgctxt "236_Tanimura"
+msgid "Inside a freight container."
+msgstr "Inside a freight container."
+
+msgctxt "248_Emoto"
+msgid "Hmm. I can see where this is going..."
+msgstr "Hmm. I can see where this is going..."
+
+msgctxt "260_Kiryu"
+msgid "What's wrong with that?"
+msgstr "What's wrong with that?"
+
+msgctxt "272_Tanimura"
+msgid "You know how they use those cranes to stack up the containers?"
+msgstr "You know how they use those cranes to stack up the containers?"
+
+msgctxt "284_Tanimura"
+msgid ""
+"He waited till night so there wouldn't be anybody around, but as soon as he "
+"crawled out, he fell like thirty feet."
+msgstr ""
+"He waited till night so there wouldn't be anybody around, but as soon as he "
+"crawled out, he fell like thirty feet."
+
+msgctxt "296_Emoto"
+msgid ""
+"I guess with no ladder, there'd be no other way to get out but to jump."
+msgstr ""
+"I guess with no ladder, there'd be no other way to get out but to jump."
+
+msgctxt "308_Kiryu"
+msgid "So that's why he was hurt so bad."
+msgstr "So that's why he was hurt so bad."
+
+msgctxt "320_Tanimura"
+msgid "Pretty much. Actually, we see stuff like this happen a lot."
+msgstr "Pretty much. Actually, we see stuff like this happen a lot."
+
+msgctxt "332_Kiryu"
+msgid "That often?"
+msgstr "That often?"
+
+msgctxt "344_Tanimura"
+msgid ""
+"Yeah, police and immigration aren't totally oblivious. We deal with illegals"
+" all the time."
+msgstr ""
+"Yeah, police and immigration aren't totally oblivious. We deal with illegals"
+" all the time."
+
+msgctxt "356_Tanimura"
+msgid ""
+"These guys run like hell whenever we try to go after them. If it meant "
+"getting away, they'd jump off anything in a heartbeat."
+msgstr ""
+"These guys run like hell whenever we try to go after them. If it meant "
+"getting away, they'd jump off anything in a heartbeat."
+
+msgctxt "368_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "392_Man"
+msgid "So this is where he ended up."
+msgstr "So this is where he ended up."
+
+msgctxt "404_Emoto"
+msgid "Who are you?"
+msgstr "Chi sei?"
+
+msgctxt "416_Man"
+msgid "......"
+msgstr "......"
+
+msgctxt "428_Tanimura"
+msgid ""
+"Sounds like he's an immigrant trafficker. My guess is he's the one who got "
+"this guy over."
+msgstr ""
+"Sounds like he's an immigrant trafficker. My guess is he's the one who got "
+"this guy over."
+
+msgctxt "440_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "452_Man"
+msgid "......"
+msgstr "......"
+
+msgctxt "464_Tanimura"
+msgid ""
+"His family is on the line. The trafficker is telling them to pay up now that"
+" he's arrived inside the country."
+msgstr ""
+"His family is on the line. The trafficker is telling them to pay up now that"
+" he's arrived inside the country."
+
+msgctxt "500_Kiryu"
+msgid ""
+"Hold on! You're just going to abandon the guy when he's hurt like this?"
+msgstr ""
+"Hold on! You're just going to abandon the guy when he's hurt like this?"
+
+msgctxt "512_Man"
+msgid "Not my problem. I got him in, job's over."
+msgstr "Not my problem. I got him in, job's over."
+
+msgctxt "524_Kiryu"
+msgid "Are you kidding me?"
+msgstr "Are you kidding me?"
+
+msgctxt "536_Man"
+msgid "Don't have time to bother with you."
+msgstr "Don't have time to bother with you."
+
+msgctxt "560_Tanimura"
+msgid "Hang on. You're from the Snake Flower Triad, aren't you?"
+msgstr "Hang on. You're from the Snake Flower Triad, aren't you?"
+
+msgctxt "572_Kiryu"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "596_Tanimura"
+msgid ""
+"I heard about it from Zhao. Members of the Snake Flower Triad have started "
+"up operations in Japan recently."
+msgstr ""
+"I heard about it from Zhao. Members of the Snake Flower Triad have started "
+"up operations in Japan recently."
+
+msgctxt "608_Snake Flower Triad Member"
+msgid "You, tell me who you are. Wrong answer, you die."
+msgstr "You, tell me who you are. Wrong answer, you die."
+
+msgctxt "620_Tanimura"
+msgid ""
+"I guess this guy must be one of your members, too? Can't you come up with a "
+"better way to sneak people in?"
+msgstr ""
+"I guess this guy must be one of your members, too? Can't you come up with a "
+"better way to sneak people in?"
+
+msgctxt "632_Snake Flower Triad Member"
+msgid "What'd you say!?"
+msgstr "What'd you say!?"
+
+msgctxt "644_Kiryu"
+msgid ""
+"Figures. Here I thought things had calmed down after Lau Ka Long bit the "
+"dust, but looks like they've got their eyes on a new target now."
+msgstr ""
+"Figures. Here I thought things had calmed down after Lau Ka Long bit the "
+"dust, but looks like they've got their eyes on a new target now."
+
+msgctxt "656_Snake Flower Triad Member"
+msgid "I see. You killed Lau? Then we have special treat for you."
+msgstr "I see. You killed Lau? Then we have special treat for you."
+
+msgctxt "680_Kiryu"
+msgid "Damn! We can't let him get away!"
+msgstr "Damn! We can't let him get away!"

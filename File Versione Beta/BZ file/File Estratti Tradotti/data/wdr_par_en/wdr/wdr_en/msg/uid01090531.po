@@ -1,0 +1,78 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2508"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2512"
+msgid "?"
+msgstr "?"
+
+msgctxt "2516"
+msgid "Client"
+msgstr "Client"
+
+msgctxt "2520"
+msgid "Hitman"
+msgstr "Hitman"
+
+msgctxt "2524"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "2528"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "2532"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "104_Saejima"
+msgid "This here's the place. Now all I gotta do is hand you over."
+msgstr "This here's the place. Now all I gotta do is hand you over."
+
+msgctxt "140_?"
+msgid "......"
+msgstr "......"
+
+msgctxt "152_Client"
+msgid "Hahaha, I made it! I'm home free!"
+msgstr "Hahaha, I made it! I'm home free!"
+
+msgctxt "164_Saejima"
+msgid "Looks like ya spoke a hair too soon."
+msgstr "Looks like ya spoke a hair too soon."
+
+msgctxt "176_Client"
+msgid "Oh no! Is he a hitman, too?"
+msgstr "Oh no! Is he a hitman, too?"
+
+msgctxt "188_Saejima"
+msgid "Hey. Who told ya 'bout this place, huh?"
+msgstr "Hey. Who told ya 'bout this place, huh?"
+
+msgctxt "200_Hitman"
+msgid "......"
+msgstr "......"
+
+msgctxt "212_Saejima"
+msgid "Not gonna talk? I'll just take that as an invitation to kick your ass!"
+msgstr ""
+"Not gonna talk? I'll just take that as an invitation to kick your ass!"
+
+msgctxt "224_Hitman"
+msgid "...!"
+msgstr "...!"

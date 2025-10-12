@@ -1,0 +1,642 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1044"
+msgid "All right, Minoru... Be sure you're good to Saya and her mother."
+msgstr "All right, Minoru... Be sure you're good to Saya and her mother."
+
+msgctxt "21192"
+msgid "Minoru"
+msgstr "Minoru"
+
+msgctxt "21196"
+msgid "Idle"
+msgstr "Idle"
+
+msgctxt "21200"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "21204"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "21208"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "21212"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "21216"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "21220"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "21224"
+msgid "Saya"
+msgstr "Saya"
+
+msgctxt "21228"
+msgid "Talk_Info_L"
+msgstr "Talk_Info_L"
+
+msgctxt "21232"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "21236"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "21240"
+msgid "Girl"
+msgstr "Girl"
+
+msgctxt "21244"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "21248"
+msgid "Mother"
+msgstr "Mother"
+
+msgctxt "21252"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "21256"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "21260"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "21264"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "21268"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "72_Minoru"
+msgid "I'm sorry I'm so late!"
+msgstr "I'm sorry I'm so late!"
+
+msgctxt "84_Date"
+msgid "Damn, kid! Do you know how long we've been waiting for you?"
+msgstr "Damn, kid! Do you know how long we've been waiting for you?"
+
+msgctxt "96_Minoru"
+msgid "I really, really apologize!"
+msgstr "I really, really apologize!"
+
+msgctxt "108_Date"
+msgid "Hmph. So what kept you?"
+msgstr "Hmph. So what kept you?"
+
+msgctxt "120_Minoru"
+msgid "Oh, I... I was just disorganized. I dropped my phone somewhere, and..."
+msgstr ""
+"Oh, I... I was just disorganized. I dropped my phone somewhere, and..."
+
+msgctxt "132_Kiryu"
+msgid "Minoru, that's not－"
+msgstr "Minoru, that's not－"
+
+msgctxt "144_Minoru"
+msgid "Kiryu-san, it's fine."
+msgstr "Kiryu-san, it's fine."
+
+msgctxt "156_Date"
+msgid "Huh? You hiding something, kid!?"
+msgstr "Huh? You hiding something, kid!?"
+
+msgctxt "168_Saya"
+msgid ""
+"Hey now, just calm down. Let me give you a proper introduction, okay? Dad, "
+"this is my boyfriend, Minoru-san."
+msgstr ""
+"Hey now, just calm down. Let me give you a proper introduction, okay? Dad, "
+"this is my boyfriend, Minoru-san."
+
+msgctxt "180_Minoru"
+msgid "Pleased to meet you, sir."
+msgstr "Pleased to meet you, sir."
+
+msgctxt "192_Date"
+msgid ""
+"Right... Anyway, Saya told me a little bit about you while we were waiting."
+msgstr ""
+"Right... Anyway, Saya told me a little bit about you while we were waiting."
+
+msgctxt "204_Kiryu"
+msgid ""
+"I guess if you're some hotshot hair stylist, you must have a stable income?"
+msgstr ""
+"I guess if you're some hotshot hair stylist, you must have a stable income?"
+
+msgctxt "216_Minoru"
+msgid "Well, yes..."
+msgstr "Well, yes..."
+
+msgctxt "228_Date"
+msgid ""
+"Good. These days a lot of guys don't even have real jobs. I guess he's fine,"
+" Saya."
+msgstr ""
+"Good. These days a lot of guys don't even have real jobs. I guess he's fine,"
+" Saya."
+
+msgctxt "240_Saya"
+msgid "Isn't he great? You don't have anything to worry about, dad. Promise."
+msgstr "Isn't he great? You don't have anything to worry about, dad. Promise."
+
+msgctxt "252_Date"
+msgid "Now, I won't make a big fuss about you two living together..."
+msgstr "Now, I won't make a big fuss about you two living together..."
+
+msgctxt "264_Saya"
+msgid "Great!"
+msgstr "Great!"
+
+msgctxt "276_Date"
+msgid ""
+"But if you guys are thinking about marriage down the road, I won't hear of "
+"it. You certainly didn't make a good first impression on me."
+msgstr ""
+"But if you guys are thinking about marriage down the road, I won't hear of "
+"it. You certainly didn't make a good first impression on me."
+
+msgctxt "288_Saya"
+msgid "Dad, come on!"
+msgstr "Dad, come on!"
+
+msgctxt "300_Minoru"
+msgid "Because I was late, you mean?"
+msgstr "Because I was late, you mean?"
+
+msgctxt "312_Saya"
+msgid ""
+"He just happened to be late this one time! Don't judge him because of that!"
+msgstr ""
+"He just happened to be late this one time! Don't judge him because of that!"
+
+msgctxt "324_Date"
+msgid "Yeah, you may have just been late this once."
+msgstr "Yeah, you may have just been late this once."
+
+msgctxt "336_Minoru"
+msgid ""
+"But if you can't even keep such a simple promise, you might be late again "
+"when it really counts."
+msgstr ""
+"But if you can't even keep such a simple promise, you might be late again "
+"when it really counts."
+
+msgctxt "348_Minoru"
+msgid ""
+"If something were to happen to Saya, can I depend on you enough to take care"
+" of her?"
+msgstr ""
+"If something were to happen to Saya, can I depend on you enough to take care"
+" of her?"
+
+msgctxt "360_Minoru"
+msgid "I..."
+msgstr "Io..."
+
+msgctxt "372_Date"
+msgid ""
+"A man's gotta be prepared, and that's where he's lacking. You understand, "
+"Saya?"
+msgstr ""
+"A man's gotta be prepared, and that's where he's lacking. You understand, "
+"Saya?"
+
+msgctxt "384_Saya"
+msgid "Dad..."
+msgstr "Dad..."
+
+msgctxt "396_Kiryu"
+msgid "Date-san..."
+msgstr "Date-san..."
+
+msgctxt "408_Minoru"
+msgid "I just..."
+msgstr "I just..."
+
+msgctxt "420_Minoru"
+msgid "......"
+msgstr "......"
+
+msgctxt "432_Girl"
+msgid "Hey, it's that nice guy again!"
+msgstr "Hey, it's that nice guy again!"
+
+msgctxt "444_Minoru"
+msgid "You're that girl from earlier..."
+msgstr "You're that girl from earlier..."
+
+msgctxt "456_Mother"
+msgid "Thank you so much for your help."
+msgstr "Thank you so much for your help."
+
+msgctxt "468_Minoru"
+msgid "Oh, I really didn't do anything."
+msgstr "Oh, I really didn't do anything."
+
+msgctxt "480_Mother"
+msgid ""
+"Of course you did! I can't thank you enough for watching over my daughter "
+"until I found her."
+msgstr ""
+"Of course you did! I can't thank you enough for watching over my daughter "
+"until I found her."
+
+msgctxt "492_Girl"
+msgid "Thanks, mister!"
+msgstr "Thanks, mister!"
+
+msgctxt "504_Mother"
+msgid "Take care."
+msgstr "Take care."
+
+msgctxt "516_Girl"
+msgid "Bye bye!"
+msgstr "Bye bye!"
+
+msgctxt "540_Saya"
+msgid "Who were they, Minoru-san?"
+msgstr "Who were they, Minoru-san?"
+
+msgctxt "552_Minoru"
+msgid ""
+"Oh, I ran into that little girl earlier. She was lost, so I tried to help "
+"her find her mother."
+msgstr ""
+"Oh, I ran into that little girl earlier. She was lost, so I tried to help "
+"her find her mother."
+
+msgctxt "564_Saya"
+msgid "You did? Why didn't you say anything?"
+msgstr "You did? Why didn't you say anything?"
+
+msgctxt "576_Kiryu"
+msgid "That's not all."
+msgstr "That's not all."
+
+msgctxt "588_Kiryu"
+msgid ""
+"He tried to help an old lady recover her stolen purse, and even helped a guy"
+" look for his missing contact lenses."
+msgstr ""
+"He tried to help an old lady recover her stolen purse, and even helped a guy"
+" look for his missing contact lenses."
+
+msgctxt "600_Date"
+msgid "Well, why didn't you say so?"
+msgstr "Well, why didn't you say so?"
+
+msgctxt "612_Minoru"
+msgid ""
+"I wanted to take responsibility for being late. Just like your father said, "
+"Saya, I should have made sure to be here on time."
+msgstr ""
+"I wanted to take responsibility for being late. Just like your father said, "
+"Saya, I should have made sure to be here on time."
+
+msgctxt "624_Date"
+msgid "Hey, come on. I don't have a heart of stone, you know."
+msgstr "Hey, come on. I don't have a heart of stone, you know."
+
+msgctxt "636_Date"
+msgid ""
+"Anybody who is willing to put their own priorities aside to help those in "
+"need is a pretty decent human being."
+msgstr ""
+"Anybody who is willing to put their own priorities aside to help those in "
+"need is a pretty decent human being."
+
+msgctxt "648_Date"
+msgid "You just might be decent enough to trust with my daughter..."
+msgstr "You just might be decent enough to trust with my daughter..."
+
+msgctxt "660_Saya"
+msgid "Dad!"
+msgstr "Dad!"
+
+msgctxt "672_Kiryu"
+msgid "Heh. You really are a stubborn old man, you know that?"
+msgstr "Heh. You really are a stubborn old man, you know that?"
+
+msgctxt "684_Saya"
+msgid "Thanks, dad."
+msgstr "Thanks, dad."
+
+msgctxt "696_Date"
+msgid ""
+"But to be honest... I really don't like the idea of you two living together."
+msgstr ""
+"But to be honest... I really don't like the idea of you two living together."
+
+msgctxt "708_Saya"
+msgid "What!?"
+msgstr "Cosa!?"
+
+msgctxt "720_Minoru"
+msgid "Um..."
+msgstr "Ehm..."
+
+msgctxt "732_Kiryu"
+msgid "Why not?"
+msgstr "Perché no?"
+
+msgctxt "744_Date"
+msgid ""
+"Saya, if you move out of the family house, who's going to look after her?"
+msgstr ""
+"Saya, if you move out of the family house, who's going to look after her?"
+
+msgctxt "756_Saya"
+msgid "...You mean mom?"
+msgstr "...You mean mom?"
+
+msgctxt "768_Date"
+msgid ""
+"That's right. I'm getting up there in years, but I'm doing all right by "
+"myself. Your mom, though..."
+msgstr ""
+"That's right. I'm getting up there in years, but I'm doing all right by "
+"myself. Your mom, though..."
+
+msgctxt "780_Minoru"
+msgid ""
+"In the 10+ years since we divorced, she's worked hard to put food on the "
+"table and take care of you."
+msgstr ""
+"In the 10+ years since we divorced, she's worked hard to put food on the "
+"table and take care of you."
+
+msgctxt "792_Minoru"
+msgid "Don't you think she'll be lonely if you move out now?"
+msgstr "Don't you think she'll be lonely if you move out now?"
+
+msgctxt "804_Saya"
+msgid "......"
+msgstr "......"
+
+msgctxt "816_Date"
+msgid ""
+"I know everybody reaches a time when they drift away from their parents, and"
+" I know a father like me has no right to lecture you..."
+msgstr ""
+"I know everybody reaches a time when they drift away from their parents, and"
+" I know a father like me has no right to lecture you..."
+
+msgctxt "828_Saya"
+msgid "Dad..."
+msgstr "Dad..."
+
+msgctxt "840_Minoru"
+msgid "So that's why you don't approve of Saya and me living together?"
+msgstr "So that's why you don't approve of Saya and me living together?"
+
+msgctxt "852_Date"
+msgid "Yes."
+msgstr "Sì."
+
+msgctxt "864_Saya"
+msgid "......"
+msgstr "......"
+
+msgctxt "876_Kiryu"
+msgid "Well, I don't see what the big deal is, Date-san."
+msgstr "Well, I don't see what the big deal is, Date-san."
+
+msgctxt "888_Date"
+msgid "Just whose daughter is this, Kiryu!?"
+msgstr "Just whose daughter is this, Kiryu!?"
+
+msgctxt "900_Kiryu"
+msgid ""
+"I just mean the solution is simple. Why don't Saya and Minoru move in with "
+"Saya's mother?"
+msgstr ""
+"I just mean the solution is simple. Why don't Saya and Minoru move in with "
+"Saya's mother?"
+
+msgctxt "912_Minoru"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "924_Kiryu"
+msgid ""
+"Then she wouldn't have to feel sad about losing her daughter. Am I wrong?"
+msgstr ""
+"Then she wouldn't have to feel sad about losing her daughter. Am I wrong?"
+
+msgctxt "936_Saya"
+msgid "Actually... you might be right!"
+msgstr "Actually... you might be right!"
+
+msgctxt "948_Date"
+msgid ""
+"Hold on a second. Before you go deciding things, don't you think you two "
+"should discuss how you feel?"
+msgstr ""
+"Hold on a second. Before you go deciding things, don't you think you two "
+"should discuss how you feel?"
+
+msgctxt "960_Saya"
+msgid "Right. I think it's a good idea. What about you, Minoru-san?"
+msgstr "Right. I think it's a good idea. What about you, Minoru-san?"
+
+msgctxt "972_Minoru"
+msgid ""
+"It seems like the best solution to me. I wouldn't want you to be worried "
+"about your mother."
+msgstr ""
+"It seems like the best solution to me. I wouldn't want you to be worried "
+"about your mother."
+
+msgctxt "984_Saya"
+msgid "Minoru-san..."
+msgstr "Minoru-san..."
+
+msgctxt "996_Kiryu"
+msgid "Looks like a done deal, then."
+msgstr "Looks like a done deal, then."
+
+msgctxt "1008_Date"
+msgid ""
+"Hmph. I don't know if I like you just deciding my daughter's whole life for "
+"her..."
+msgstr ""
+"Hmph. I don't know if I like you just deciding my daughter's whole life for "
+"her..."
+
+msgctxt "1020_Saya"
+msgid ""
+"Come on, dad! What kind of thing is that to say to Kiryu-san after all the "
+"help he's given us!?"
+msgstr ""
+"Come on, dad! What kind of thing is that to say to Kiryu-san after all the "
+"help he's given us!?"
+
+msgctxt "1032_Date"
+msgid "Yeah, yeah. Don't get all worked up over it."
+msgstr "Yeah, yeah. Don't get all worked up over it."
+
+msgctxt "1056_Minoru"
+msgid "I will be. You can count on it!"
+msgstr "I will be. You can count on it!"
+
+msgctxt "1080_Date"
+msgid ""
+"This is getting ridiculous. Do we have to wait all night for this kid to "
+"show up!?"
+msgstr ""
+"This is getting ridiculous. Do we have to wait all night for this kid to "
+"show up!?"
+
+msgctxt "1092_Saya"
+msgid "Where could Minoru-san be?"
+msgstr "Where could Minoru-san be?"
+
+msgctxt "1104_Kiryu"
+msgid "Hey, Date."
+msgstr "Hey, Date."
+
+msgctxt "1116_Date"
+msgid "Oh, Kiryu."
+msgstr "Oh, Kiryu."
+
+msgctxt "1128_Saya"
+msgid "Kiryu-san..."
+msgstr "Kiryu-san..."
+
+msgctxt "1140_Kiryu"
+msgid ""
+"I came by to see what was going on since you were taking so long. Saya's "
+"boyfriend hasn't shown up yet?"
+msgstr ""
+"I came by to see what was going on since you were taking so long. Saya's "
+"boyfriend hasn't shown up yet?"
+
+msgctxt "1152_Date"
+msgid ""
+"He has not! What is it with the young people these days? Being made to wait "
+"this long is disrespectful!"
+msgstr ""
+"He has not! What is it with the young people these days? Being made to wait "
+"this long is disrespectful!"
+
+msgctxt "1164_Saya"
+msgid ""
+"I can't get through to his cell phone. He's never ever been late before. I "
+"hope he hasn't been in some kind of accident..."
+msgstr ""
+"I can't get through to his cell phone. He's never ever been late before. I "
+"hope he hasn't been in some kind of accident..."
+
+msgctxt "1176_Date"
+msgid "Hmph. Maybe he just didn't want to deal with me."
+msgstr "Hmph. Maybe he just didn't want to deal with me."
+
+msgctxt "1188_Saya"
+msgid "Minoru-san's not like that! Something must've happened to him."
+msgstr "Minoru-san's not like that! Something must've happened to him."
+
+msgctxt "1200_Date"
+msgid "Eh, who knows."
+msgstr "Eh, who knows."
+
+msgctxt "1212_Kiryu"
+msgid ""
+"We probably should take a look around the area. I'll go see if I can find "
+"him."
+msgstr ""
+"We probably should take a look around the area. I'll go see if I can find "
+"him."
+
+msgctxt "1224_Saya"
+msgid "I'll go, too!"
+msgstr "I'll go, too!"
+
+msgctxt "1236_Kiryu"
+msgid "Okay, let's split up and look for him. What's he look like?"
+msgstr "Okay, let's split up and look for him. What's he look like?"
+
+msgctxt "1248_Saya"
+msgid ""
+"Hm... Well, he's got a black cap and a gray pea coat he wears a lot. He's "
+"probably wearing them today, too."
+msgstr ""
+"Hm... Well, he's got a black cap and a gray pea coat he wears a lot. He's "
+"probably wearing them today, too."
+
+msgctxt "1260_Saya"
+msgid ""
+"He doesn't really have any features that stand out all that much, so he "
+"might be kind of hard to find."
+msgstr ""
+"He doesn't really have any features that stand out all that much, so he "
+"might be kind of hard to find."
+
+msgctxt "1272_Kiryu"
+msgid "Black cap and gray coat? That's something to go on, at least."
+msgstr "Black cap and gray coat? That's something to go on, at least."
+
+msgctxt "1284_Saya"
+msgid "Dad, are you coming, too?"
+msgstr "Dad, are you coming, too?"
+
+msgctxt "1296_Date"
+msgid "I think I'd better head back to work."
+msgstr "I think I'd better head back to work."
+
+msgctxt "1308_Kiryu"
+msgid ""
+"That's fine. If we find him, I'll give you a call. Then we can meet up here "
+"again."
+msgstr ""
+"That's fine. If we find him, I'll give you a call. Then we can meet up here "
+"again."
+
+msgctxt "1320_Date"
+msgid ""
+"Boy, this is really turning into an ordeal. Yeah, call me if he turns up."
+msgstr ""
+"Boy, this is really turning into an ordeal. Yeah, call me if he turns up."
+
+msgctxt "1332_Saya"
+msgid ""
+"Sorry, dad. You too, Kiryu-san. I had no idea this was going to happen."
+msgstr ""
+"Sorry, dad. You too, Kiryu-san. I had no idea this was going to happen."
+
+msgctxt "1344_Kiryu"
+msgid "Don't sweat it. I'll call you if I spot him."
+msgstr "Don't sweat it. I'll call you if I spot him."
+
+msgctxt "1356_Saya"
+msgid "Thanks."
+msgstr "Grazie."

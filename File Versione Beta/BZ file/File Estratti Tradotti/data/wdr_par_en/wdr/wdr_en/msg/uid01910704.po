@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "920"
+msgid "Player_BACK��_2.5_ON"
+msgstr "Player_BACK��_2.5_ON"
+
+msgctxt "924"
+msgid "P_damage"
+msgstr "P_damage"
+
+msgctxt "928"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "932"
+msgid "Player_AORI_0.8_ON"
+msgstr "Player_AORI_0.8_ON"
+
+msgctxt "936"
+msgid "10_-15_SLOWER_VF_ON"
+msgstr "10_-15_SLOWER_VF_ON"
+
+msgctxt "940"
+msgid "0"
+msgstr ""
+
+msgctxt "124_Player_BACK��_2.5_ON"
+msgid "*pant* *pant*"
+msgstr "*pant* *pant*"
+
+msgctxt "136_Player"
+msgid "Dammit... I can't keep this up."
+msgstr "Dammit... I can't keep this up."

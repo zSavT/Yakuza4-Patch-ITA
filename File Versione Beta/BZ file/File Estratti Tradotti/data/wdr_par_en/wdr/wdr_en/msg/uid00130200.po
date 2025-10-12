@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "680"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "684"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "688"
+msgid "Officer"
+msgstr "Ufficiale"
+
+msgctxt "692"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "696"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "84_Tanimura"
+msgid "Someone's threatening suicide?"
+msgstr "Someone's threatening suicide?"
+
+msgctxt "96_Officer"
+msgid "That's right. There's a man on the roof that says he's going to jump."
+msgstr "That's right. There's a man on the roof that says he's going to jump."
+
+msgctxt "108_Tanimura"
+msgid ""
+"We can't have him disturbing the peace like this. Let's get him down from "
+"there."
+msgstr ""
+"We can't have him disturbing the peace like this. Let's get him down from "
+"there."

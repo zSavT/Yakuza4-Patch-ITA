@@ -1,0 +1,289 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "7880"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "7884"
+msgid "Shady Man"
+msgstr "Uomo losco"
+
+msgctxt "7888"
+msgid "Idle"
+msgstr "Idle"
+
+msgctxt "7892"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "7896"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "7900"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "7904"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "7908"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "7912"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "7916"
+msgid "Taniguchi"
+msgstr "Taniguchi"
+
+msgctxt "7920"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "7924"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "7928"
+msgid "0"
+msgstr ""
+
+msgctxt "56_Akiyama"
+msgid "(Huh?)"
+msgstr "(Huh?)"
+
+msgctxt "80_Akiyama"
+msgid "(What's with him? He better not be stalking my girls...)"
+msgstr "(Che vuole? Spero per lui che non stia seguendo le mie ragazze...)"
+
+msgctxt "92_Akiyama"
+msgid "Hey! What are you doing?"
+msgstr "Hey! What are you doing?"
+
+msgctxt "104_Shady Man"
+msgid "Whoa!"
+msgstr "Whoa!"
+
+msgctxt "116_Shady Man"
+msgid "Uh, nothing!"
+msgstr "Uh, nothing!"
+
+msgctxt "128_Akiyama"
+msgid "You were sneaking a look at something."
+msgstr "You were sneaking a look at something."
+
+msgctxt "140_Shady Man"
+msgid "Sneaking a look? No, I was just waiting for somebody."
+msgstr "Sneaking a look? No, I was just waiting for somebody."
+
+msgctxt "152_Akiyama"
+msgid "For who?"
+msgstr "For who?"
+
+msgctxt "188_Shady Man"
+msgid "Er－there she is!"
+msgstr "Er－there she is!"
+
+msgctxt "224_Akiyama"
+msgid "Who? You mean Miki?"
+msgstr "Who? You mean Miki?"
+
+msgctxt "236_Shady Man"
+msgid "Oh, do you know her?"
+msgstr "Oh, do you know her?"
+
+msgctxt "248_Akiyama"
+msgid "Sure. I own this place."
+msgstr "Sure. I own this place."
+
+msgctxt "260_Shady Man"
+msgid "Whaaa－!?"
+msgstr "Whaaa－!?"
+
+msgctxt "272_Akiyama"
+msgid "And who might you be, hmm? A stalker, perhaps?"
+msgstr "And who might you be, hmm? A stalker, perhaps?"
+
+msgctxt "284_Shady Man"
+msgid "No, no, nothing like that. I just wanted to see her..."
+msgstr "No, no, nothing like that. I just wanted to see her..."
+
+msgctxt "296_Akiyama"
+msgid "Are you one of her customers?"
+msgstr "Are you one of her customers?"
+
+msgctxt "308_Shady Man"
+msgid "Uh-huh."
+msgstr "Uh-huh."
+
+msgctxt "320_Akiyama"
+msgid "Why not just go into the club, then?"
+msgstr "Why not just go into the club, then?"
+
+msgctxt "332_Shady Man"
+msgid "Well, the thing is..."
+msgstr "Well, the thing is..."
+
+msgctxt "344_Akiyama"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "356_Shady Man"
+msgid ""
+"I've spent more than five million yen here over the past two\r\n"
+"years, and it looks like my money's finally run out..."
+msgstr ""
+"I've spent more than five million yen here over the past two\r\n"
+"years, and it looks like my money's finally run out..."
+
+msgctxt "368_Akiyama"
+msgid "Five million yen!?"
+msgstr "Five million yen!?"
+
+msgctxt "380_Shady Man"
+msgid ""
+"That's right. I was <Italic>this close</Italic> to winning her over, too..."
+msgstr ""
+"That's right. I was <Italic>this close</Italic> to winning her over, too..."
+
+msgctxt "392_Akiyama"
+msgid ""
+"If five million yen wasn't enough, I think it might be time to call it "
+"quits."
+msgstr ""
+"If five million yen wasn't enough, I think it might be time to call it "
+"quits."
+
+msgctxt "404_Shady Man"
+msgid "I just know I could do it if I had another million..."
+msgstr "I just know I could do it if I had another million..."
+
+msgctxt "416_Akiyama"
+msgid "What's your name?"
+msgstr "What's your name?"
+
+msgctxt "428_Taniguchi"
+msgid "Taniguchi."
+msgstr "Taniguchi."
+
+msgctxt "440_Akiyama"
+msgid ""
+"I'm Akiyama. In addition to this club, I also run a loan\r\n"
+"office called Sky Finance."
+msgstr ""
+"I'm Akiyama. In addition to this club, I also run a loan\r\n"
+"office called Sky Finance."
+
+msgctxt "452_Taniguchi"
+msgid "Yeah?"
+msgstr "Sì?"
+
+msgctxt "464_Akiyama"
+msgid ""
+"Look, the way things are now, you've got a snowball's chance\r\n"
+"in hell of going out with Miki."
+msgstr ""
+"Look, the way things are now, you've got a snowball's chance\r\n"
+"in hell of going out with Miki."
+
+msgctxt "476_Taniguchi"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "488_Akiyama"
+msgid ""
+"Even with another million yen, unless you make some changes,\r\n"
+"you could see her ten more times and still get absolutely\r\n"
+"nowhere."
+msgstr ""
+"Even with another million yen, unless you make some changes,\r\n"
+"you could see her ten more times and still get absolutely\r\n"
+"nowhere."
+
+msgctxt "500_Taniguchi"
+msgid "Great..."
+msgstr "Great..."
+
+msgctxt "512_Akiyama"
+msgid ""
+"Besides, you need more than just money to woo a woman.\r\n"
+"First, you have to work on your look. Then comes building\r\n"
+"up your own personal brand of charm."
+msgstr ""
+"Besides, you need more than just money to woo a woman.\r\n"
+"First, you have to work on your look. Then comes building\r\n"
+"up your own personal brand of charm."
+
+msgctxt "524_Taniguchi"
+msgid "But how do I do all that?"
+msgstr "But how do I do all that?"
+
+msgctxt "536_Akiyama"
+msgid ""
+"Meet me in front of the Millennium Tower later. I'll give you a\r\n"
+"little advice."
+msgstr ""
+"Meet me in front of the Millennium Tower later. I'll give you a\r\n"
+"little advice."
+
+msgctxt "548_Taniguchi"
+msgid "You'd do that for me?"
+msgstr "You'd do that for me?"
+
+msgctxt "560_Akiyama"
+msgid ""
+"Sure. Wouldn't be much of an owner if I didn't step in to\r\n"
+"help such a loyal customer."
+msgstr ""
+"Sure. Wouldn't be much of an owner if I didn't step in to\r\n"
+"help such a loyal customer."
+
+msgctxt "572_Taniguchi"
+msgid "Thank you very much."
+msgstr "Thank you very much."
+
+msgctxt "584_Akiyama"
+msgid ""
+"Oh, and the next time we meet, come all decked out in your\r\n"
+"lady-killer best."
+msgstr ""
+"Oh, and the next time we meet, come all decked out in your\r\n"
+"lady-killer best."
+
+msgctxt "596_Taniguchi"
+msgid "Lady-killer?"
+msgstr "Lady-killer?"
+
+msgctxt "608_Akiyama"
+msgid ""
+"You know, the clothes you'd wear if you had the chance to go\r\n"
+"out on a date with Miki! I want to get a feel for your sense\r\n"
+"of style."
+msgstr ""
+"You know, the clothes you'd wear if you had the chance to go\r\n"
+"out on a date with Miki! I want to get a feel for your sense\r\n"
+"of style."
+
+msgctxt "620_Taniguchi"
+msgid ""
+"Oh, er, okay... I will. I'll see you later, then. And thanks\r\n"
+"again."
+msgstr ""
+"Oh, er, okay... I will. I'll see you later, then. And thanks\r\n"
+"again."

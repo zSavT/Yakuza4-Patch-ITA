@@ -1,0 +1,39 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "464"
+msgid "Shizuka"
+msgstr "Shizuka"
+
+msgctxt "468"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "472"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "476"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "56_Shizuka"
+msgid ""
+"Looks like a short hole. I'll bet you can get it onto the green in one shot!"
+msgstr ""
+"Looks like a short hole. I'll bet you can get it onto the green in one shot!"
+
+msgctxt "68_Kiryu"
+msgid "Yeah. Leave it to me."
+msgstr "Yeah. Leave it to me."

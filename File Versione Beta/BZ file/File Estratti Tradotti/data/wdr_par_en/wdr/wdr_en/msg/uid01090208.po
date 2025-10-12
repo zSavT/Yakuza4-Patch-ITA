@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2456"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "2460"
+msgid "Nui"
+msgstr "Nui"
+
+msgctxt "2464"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2468"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "84_Tanimura"
+msgid "You can't hide there forever, you know."
+msgstr "You can't hide there forever, you know."
+
+msgctxt "96_Nui"
+msgid "Yikes! You found me!"
+msgstr "Yikes! You found me!"
+
+msgctxt "168_Tanimura"
+msgid ""
+"Look, I'm not mad at you or anything, but I need to know\r\n"
+"why you've been tagging. Will you tell me?"
+msgstr ""
+"Look, I'm not mad at you or anything, but I need to know\r\n"
+"why you've been tagging. Will you tell me?"
+
+msgctxt "180_Nui"
+msgid "I'm not telling anything!"
+msgstr "I'm not telling anything!"
+
+msgctxt "192_Tanimura"
+msgid ""
+"Come on, I promise I won't get you in trouble. I just want to hear your side"
+" of things."
+msgstr ""
+"Come on, I promise I won't get you in trouble. I just want to hear your side"
+" of things."
+
+msgctxt "204_Tanimura"
+msgid "So could you wait for me in West Park for a little while?"
+msgstr "So could you wait for me in West Park for a little while?"
+
+msgctxt "216_Tanimura"
+msgid "That okay with you?"
+msgstr "That okay with you?"
+
+msgctxt "228_Nui"
+msgid "......"
+msgstr "......"
+
+msgctxt "240_Nui"
+msgid "...Whatever."
+msgstr "...Whatever."
+
+msgctxt "252_Nui"
+msgid "Fine."
+msgstr "Va bene."
+
+msgctxt "288_Tanimura"
+msgid "Next is the building across from Homeland."
+msgstr "Next is the building across from Homeland."

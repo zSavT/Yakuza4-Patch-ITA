@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "108"
+msgid "You bought a <Color:8>Deluxe Kalbi Lunch Set<Color:Default>."
+msgstr "You bought a <Color:8>Deluxe Kalbi Lunch Set<Color:Default>."
+
+msgctxt "1368"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1372"
+msgid "Employee"
+msgstr "Employee"
+
+msgctxt "1376"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "84_Akiyama"
+msgid ""
+"(Hey, that's right. Hana-chan likes the deluxe kalbi bento they have here. I"
+" think I'll buy a couple.)"
+msgstr ""
+"(Hey, that's right. Hana-chan likes the deluxe kalbi bento they have here. I"
+" think I'll buy a couple.)"
+
+msgctxt "132_Employee"
+msgid "Thank you!"
+msgstr "Thank you!"
+
+msgctxt "180_Akiyama"
+msgid "(Okay, better get these back to the office while they're still hot.)"
+msgstr "(Okay, better get these back to the office while they're still hot.)"

@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "476"
+msgid "Troubled Superior"
+msgstr "Troubled Superior"
+
+msgctxt "480"
+msgid "Subordinate"
+msgstr "Subordinate"
+
+msgctxt "84_Troubled Superior"
+msgid "Ugh, why are there so many people here? What's going on!?"
+msgstr "Ugh, why are there so many people here? What's going on!?"
+
+msgctxt "96_Subordinate"
+msgid ""
+"Perhaps they're filming a movie, sir? There are cops all\r\n"
+"over the place, after all..."
+msgstr ""
+"Perhaps they're filming a movie, sir? There are cops all\r\n"
+"over the place, after all..."

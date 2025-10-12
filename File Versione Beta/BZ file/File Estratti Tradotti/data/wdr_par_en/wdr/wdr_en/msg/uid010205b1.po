@@ -1,0 +1,95 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3896"
+msgid "翌日"
+msgstr "翌日"
+
+msgctxt "3904"
+msgid "Zhao"
+msgstr "Zhao"
+
+msgctxt "3908"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "3912"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3916"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "3920"
+msgid "Mei Hua"
+msgstr "Mei Hua"
+
+msgctxt "3924"
+msgid "0"
+msgstr ""
+
+msgctxt "92_Zhao"
+msgid "So, are you going to launch an internal investigation?"
+msgstr "Allora, hai intenzione di avviare un'indagine interna?"
+
+msgctxt "104_Tanimura"
+msgid "Not yet. There's something I need to do first."
+msgstr "Non ancora. C'è una cosa che devo fare prima."
+
+msgctxt "116_Zhao"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "152_Zhao"
+msgid "Don't tell me you're taking off with the money..."
+msgstr "Non dirmi che vuoi scappare con i soldi..."
+
+msgctxt "164_Tanimura"
+msgid ""
+"Yeah, I'm totally skipping town... Actually, I'm taking it back to its "
+"original owner."
+msgstr "Sì, me la filo... In realtà, li riporto al proprietario originale."
+
+msgctxt "176_Zhao"
+msgid "Oh? Who is that?"
+msgstr "Ah, sì? E chi sarebbe?"
+
+msgctxt "188_Tanimura"
+msgid ""
+"Some moneylender, apparently. He's got an office on Tenkaichi Street called "
+"Sky Finance."
+msgstr ""
+"Pare sia un usuraio. Ha un ufficio in Tenkaichi Street, si chiama Sky "
+"Finance."
+
+msgctxt "200_Tanimura"
+msgid ""
+"Can you imagine how much interest 100 million yen would rack up if I just "
+"let it sit? Yeah. Forget that."
+msgstr ""
+"Riesci a immaginare quanti interessi frutterebbero 100 milioni di yen se li "
+"lasciassi lì a prendere polvere? Già. Lasciamo perdere."
+
+msgctxt "212_Zhao"
+msgid "Hrmmm..."
+msgstr "Mmmh..."
+
+msgctxt "272_Mei Hua"
+msgid "Bye, Ma-chan! Have a good day!"
+msgstr "Ciao, Ma-chan! Buona giornata!"
+
+msgctxt "284_Tanimura"
+msgid "Oh, I'll try. See ya later."
+msgstr "Oh, ci proverò. Ci vediamo."

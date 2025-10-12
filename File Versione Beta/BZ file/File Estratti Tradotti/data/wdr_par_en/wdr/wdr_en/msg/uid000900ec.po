@@ -1,0 +1,218 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "7472"
+msgid "Kashiwabara"
+msgstr ""
+
+msgctxt "7476"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "7480"
+msgid "Natsuki"
+msgstr ""
+
+msgctxt "7484"
+msgid "Talk_Cry"
+msgstr "Talk_Cry"
+
+msgctxt "7488"
+msgid "Himeka"
+msgstr ""
+
+msgctxt "7492"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "7496"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "7500"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "7504"
+msgid "0"
+msgstr ""
+
+msgctxt "7508"
+msgid "M_ykzs_stand"
+msgstr "M_ykzs_stand"
+
+msgctxt "7512"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "7516"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr "F_sxy_stand_sync_dakitukiA_st"
+
+msgctxt "7520"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr "P_stand_sync_dakitukiA_st"
+
+msgctxt "56_Kashiwabara"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "68_Tanimura"
+msgid "Now then... Are you going to come back to the station with me?"
+msgstr ""
+
+msgctxt "80_Natsuki"
+msgid "Eek!"
+msgstr ""
+
+msgctxt "92_Himeka"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "116_Himeka"
+msgid "Tanimura-san!"
+msgstr ""
+
+msgctxt "128_Tanimura"
+msgid "Himeka? I thought you'd gone home."
+msgstr ""
+
+msgctxt "140_Himeka"
+msgid "I was about to when I heard somethin'."
+msgstr ""
+
+msgctxt "152_Himeka"
+msgid "Natsuki-chan? That you?"
+msgstr ""
+
+msgctxt "164_Himeka"
+msgid "And Kashiwabara-san!?"
+msgstr ""
+
+msgctxt "176_Himeka"
+msgid "What's goin' on!?"
+msgstr ""
+
+msgctxt "188_Tanimura"
+msgid ""
+"Himeka... Natsuki was working with Kashiwabara to try and make you quit the "
+"club."
+msgstr ""
+
+msgctxt "200_Natsuki"
+msgid "......"
+msgstr ""
+
+msgctxt "212_Himeka"
+msgid "Is it true? Natsuki-chan... Why?"
+msgstr ""
+
+msgctxt "224_Natsuki"
+msgid ""
+"Oh shut up! You don't get it! You just smile, and the customers line up!"
+msgstr ""
+
+msgctxt "236_Himeka"
+msgid "But..."
+msgstr "Ma..."
+
+msgctxt "248_Natsuki"
+msgid "It pisses everyone off! Don't you see!?"
+msgstr ""
+
+msgctxt "260_Himeka"
+msgid "......"
+msgstr ""
+
+msgctxt "272_Tanimura"
+msgid "Himeka..."
+msgstr ""
+
+msgctxt "284_Himeka"
+msgid "You... You got no right to say that."
+msgstr ""
+
+msgctxt "296_Himeka"
+msgid "Ya got no idea how hard I work to get the customers I have!"
+msgstr ""
+
+msgctxt "308_Natsuki"
+msgid "What...?"
+msgstr "Cosa...?"
+
+msgctxt "320_Himeka"
+msgid ""
+"I stay up late sendin' hundreds of emails just so I can get a few more "
+"requests."
+msgstr ""
+
+msgctxt "332_Himeka"
+msgid "It's no easier for me than it is for you!"
+msgstr ""
+
+msgctxt "344_Natsuki"
+msgid "......"
+msgstr ""
+
+msgctxt "356_Himeka"
+msgid ""
+"If ya think I'm doin' better than you, try harder! Beat me fair and square! "
+"We'll see who the best hostess really is!"
+msgstr ""
+
+msgctxt "368_Natsuki"
+msgid "Urgh, how'd this all get turned around on me? This is so lame!"
+msgstr ""
+
+msgctxt "404_Tanimura"
+msgid "Well said, Himeka."
+msgstr ""
+
+msgctxt "416_Himeka"
+msgid "Tanimura-san..."
+msgstr ""
+
+msgctxt "428_Tanimura"
+msgid "See? You don't need my help. You did it all by yourself."
+msgstr ""
+
+msgctxt "440_Himeka"
+msgid "That's not true. You gave me the courage I needed."
+msgstr ""
+
+msgctxt "452_Tanimura"
+msgid "If you think so..."
+msgstr ""
+
+msgctxt "464_Himeka"
+msgid "Um..."
+msgstr "Ehm..."
+
+msgctxt "476_Tanimura"
+msgid "Yes?"
+msgstr "Sì?"
+
+msgctxt "488_Himeka"
+msgid ""
+"I'm tired after all that drama. I don't think I've got the energy to make it"
+" all the way home. Ya mind if we go someplace together?"
+msgstr ""
+
+msgctxt "500_Tanimura"
+msgid "Hey, just wait a minute..."
+msgstr ""
+
+msgctxt "512_Himeka"
+msgid "Ya don't mind, do ya?"
+msgstr ""

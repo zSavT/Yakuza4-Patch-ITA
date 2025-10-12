@@ -1,0 +1,261 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "548"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "1076"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "13668"
+msgid "Maya"
+msgstr "Maya"
+
+msgctxt "13672"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13676"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "13680"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "13684"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13688"
+msgid "0"
+msgstr ""
+
+msgctxt "13692"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "13696"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13700"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_Maya"
+msgid "Good choice! And we can drink, too!"
+msgstr "Good choice! And we can drink, too!"
+
+msgctxt "128_Player"
+msgid "Right, just don't go overboard."
+msgstr "Right, just don't go overboard."
+
+msgctxt "140_Maya"
+msgid "I won't!"
+msgstr "Non lo farò!"
+
+msgctxt "164_Maya"
+msgid "Good choice! And we can drink, too!"
+msgstr "Good choice! And we can drink, too!"
+
+msgctxt "176_Player"
+msgid "Hold up. I didn't bring enough money."
+msgstr "Hold up. I didn't bring enough money."
+
+msgctxt "188_Maya"
+msgid "Seriously? No credit card or anything?"
+msgstr "Seriously? No credit card or anything?"
+
+msgctxt "200_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "212_Maya"
+msgid "Are you kidding me!? I'm going home. See you later."
+msgstr "Are you kidding me!? I'm going home. See you later."
+
+msgctxt "224_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr "(I should've made sure I had some cash...)"
+
+msgctxt "332_Maya"
+msgid "That hit the spot."
+msgstr "That hit the spot."
+
+msgctxt "344_Player"
+msgid "Glad to hear it."
+msgstr "Mi fa piacere."
+
+msgctxt "356_Maya"
+msgid ""
+"Thanks for taking me out, Kiryu-san. <Color:7>♥<Color:Default> Can we do "
+"this again?"
+msgstr ""
+"Thanks for taking me out, Kiryu-san. <Color:7>♥<Color:Default> Can we do "
+"this again?"
+
+msgctxt "368_Player"
+msgid "Of course."
+msgstr "E di che."
+
+msgctxt "380_Maya"
+msgid "I should get going. See you at the club!"
+msgstr "I should get going. See you at the club!"
+
+msgctxt "404_Maya"
+msgid "Thanks for taking me out."
+msgstr "Thanks for taking me out."
+
+msgctxt "416_Player"
+msgid "No problem."
+msgstr "No problem."
+
+msgctxt "428_Maya"
+msgid "I ate more than I thought I would."
+msgstr "I ate more than I thought I would."
+
+msgctxt "440_Maya"
+msgid "I should get going. See you at the club!"
+msgstr "I should get going. See you at the club!"
+
+msgctxt "464_Maya"
+msgid "......"
+msgstr "......"
+
+msgctxt "476_Player"
+msgid "Something wrong?"
+msgstr "Something wrong?"
+
+msgctxt "488_Maya"
+msgid "The food was tasty, but my stomach isn't too happy right now..."
+msgstr "The food was tasty, but my stomach isn't too happy right now..."
+
+msgctxt "500_Player"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "512_Maya"
+msgid ""
+"How about we do something different next time?\r\n"
+"Well, I should get going."
+msgstr ""
+"How about we do something different next time?\r\n"
+"Well, I should get going."
+
+msgctxt "524_Player"
+msgid "(Guess she didn't enjoy the food.)"
+msgstr "(Guess she didn't enjoy the food.)"
+
+msgctxt "632_Maya"
+msgid "Good choice! And we can drink, too!"
+msgstr "Good choice! And we can drink, too!"
+
+msgctxt "644_Player"
+msgid "Right, just don't go overboard."
+msgstr "Right, just don't go overboard."
+
+msgctxt "656_Maya"
+msgid "I won't!"
+msgstr "Non lo farò!"
+
+msgctxt "680_Maya"
+msgid "Good choice! And we can drink, too!"
+msgstr "Good choice! And we can drink, too!"
+
+msgctxt "692_Player"
+msgid "Hold up. I didn't bring enough money."
+msgstr "Hold up. I didn't bring enough money."
+
+msgctxt "704_Maya"
+msgid "Seriously? No credit card or anything?"
+msgstr "Seriously? No credit card or anything?"
+
+msgctxt "716_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "728_Maya"
+msgid "Are you kidding me!? I'm going home. See you later."
+msgstr "Are you kidding me!? I'm going home. See you later."
+
+msgctxt "740_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr "(I should've made sure I had some cash...)"
+
+msgctxt "848_Maya"
+msgid "That hit the spot."
+msgstr "That hit the spot."
+
+msgctxt "860_Player"
+msgid "Glad to hear it."
+msgstr "Mi fa piacere."
+
+msgctxt "872_Maya"
+msgid "Thanks for taking me out, Kiryu-san. <Color:7>♥<Color:Default>"
+msgstr "Thanks for taking me out, Kiryu-san. <Color:7>♥<Color:Default>"
+
+msgctxt "884_Talk_Yes"
+msgid "Wanna hit the club next?"
+msgstr "Wanna hit the club next?"
+
+msgctxt "896_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "920_Maya"
+msgid "Thanks for taking me out."
+msgstr "Thanks for taking me out."
+
+msgctxt "932_Player"
+msgid "No problem."
+msgstr "No problem."
+
+msgctxt "944_Maya"
+msgid "I ate more than I thought I would."
+msgstr "I ate more than I thought I would."
+
+msgctxt "956_Maya"
+msgid "All right, let's head to the club."
+msgstr "All right, let's head to the club."
+
+msgctxt "968_Player"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "992_Maya"
+msgid "......"
+msgstr "......"
+
+msgctxt "1004_Player"
+msgid "Something wrong?"
+msgstr "Something wrong?"
+
+msgctxt "1016_Maya"
+msgid "The food was tasty, but my stomach isn't too happy right now..."
+msgstr "The food was tasty, but my stomach isn't too happy right now..."
+
+msgctxt "1028_Player"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "1040_Maya"
+msgid "Let's head to the club."
+msgstr "Let's head to the club."
+
+msgctxt "1052_Player"
+msgid "Sure."
+msgstr "Sure."

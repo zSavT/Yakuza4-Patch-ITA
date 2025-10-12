@@ -1,0 +1,225 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "500"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "980"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "12916"
+msgid "Maya"
+msgstr "Maya"
+
+msgctxt "12920"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "12924"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "12928"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "12932"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "12936"
+msgid "0"
+msgstr ""
+
+msgctxt "12940"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "12944"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_Maya"
+msgid "I love karaoke! What should I sing?"
+msgstr "I love karaoke! What should I sing?"
+
+msgctxt "128_Player"
+msgid "Let's go in."
+msgstr "Let's go in."
+
+msgctxt "152_Maya"
+msgid "I love karaoke! What should I sing?"
+msgstr "I love karaoke! What should I sing?"
+
+msgctxt "164_Maya"
+msgid "Let's go in."
+msgstr "Let's go in."
+
+msgctxt "176_Player"
+msgid "Hold up. I didn't bring enough money."
+msgstr "Hold up. I didn't bring enough money."
+
+msgctxt "188_Maya"
+msgid "Seriously? No credit card or anything?"
+msgstr "Seriously? No credit card or anything?"
+
+msgctxt "200_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "212_Maya"
+msgid "Are you kidding me!? I'm going home. See you later."
+msgstr "Are you kidding me!? I'm going home. See you later."
+
+msgctxt "224_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr "(I should've made sure I had some cash...)"
+
+msgctxt "332_Maya"
+msgid ""
+"Whew! That felt great! You kept the beat perfectly! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Whew! That felt great! You kept the beat perfectly! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "344_Player"
+msgid "That was a good song."
+msgstr "That was a good song."
+
+msgctxt "356_Maya"
+msgid "I had a lotta fun. Can we do this again sometime?"
+msgstr "I had a lotta fun. Can we do this again sometime?"
+
+msgctxt "368_Player"
+msgid "I'd like that."
+msgstr "I'd like that."
+
+msgctxt "380_Maya"
+msgid "Great! Bye for now. See you at the club!"
+msgstr "Great! Bye for now. See you at the club!"
+
+msgctxt "404_Maya"
+msgid "Whew! That was fun! I love karaoke. I could sing all night."
+msgstr "Whew! That was fun! I love karaoke. I could sing all night."
+
+msgctxt "416_Player"
+msgid "Heh."
+msgstr "Heh."
+
+msgctxt "428_Maya"
+msgid "All right, bye for now. See you at the club!"
+msgstr "All right, bye for now. See you at the club!"
+
+msgctxt "452_Maya"
+msgid "Hmm... I don't think that went very well."
+msgstr "Hmm... I don't think that went very well."
+
+msgctxt "464_Player"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "476_Maya"
+msgid "Well, bye for now. See you at the club!"
+msgstr "Well, bye for now. See you at the club!"
+
+msgctxt "584_Maya"
+msgid "I love karaoke! What should I sing?"
+msgstr "I love karaoke! What should I sing?"
+
+msgctxt "596_Player"
+msgid "Let's go in."
+msgstr "Let's go in."
+
+msgctxt "620_Maya"
+msgid "I love karaoke! What should I sing?"
+msgstr "I love karaoke! What should I sing?"
+
+msgctxt "632_Maya"
+msgid "C'mon, let's go in."
+msgstr "C'mon, let's go in."
+
+msgctxt "644_Player"
+msgid "Hold up. I didn't bring enough money."
+msgstr "Hold up. I didn't bring enough money."
+
+msgctxt "656_Maya"
+msgid "Seriously? No credit card or anything?"
+msgstr "Seriously? No credit card or anything?"
+
+msgctxt "668_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "680_Maya"
+msgid "Are you kidding me!? I'm going home. See you later."
+msgstr "Are you kidding me!? I'm going home. See you later."
+
+msgctxt "692_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr "(I should've made sure I had some cash...)"
+
+msgctxt "800_Maya"
+msgid ""
+"Whew! That felt great! You kept the beat perfectly! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Whew! That felt great! You kept the beat perfectly! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "812_Player"
+msgid "That was a good song."
+msgstr "That was a good song."
+
+msgctxt "824_Maya"
+msgid "I had a lotta fun. Wanna go to the club now?"
+msgstr "I had a lotta fun. Wanna go to the club now?"
+
+msgctxt "836_Player"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "860_Maya"
+msgid "Whew! That was fun! I love karaoke. I could sing all night."
+msgstr "Whew! That was fun! I love karaoke. I could sing all night."
+
+msgctxt "872_Player"
+msgid "Heh."
+msgstr "Heh."
+
+msgctxt "884_Maya"
+msgid "Wanna hit up the club now?"
+msgstr "Wanna hit up the club now?"
+
+msgctxt "896_Player"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "920_Maya"
+msgid "Hmm... I don't think that went very well."
+msgstr "Hmm... I don't think that went very well."
+
+msgctxt "932_Player"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "944_Maya"
+msgid "Wanna hit up the club now?"
+msgstr "Wanna hit up the club now?"
+
+msgctxt "956_Player"
+msgid "Okay."
+msgstr "Ok."

@@ -1,0 +1,98 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2900"
+msgid "Morimoto"
+msgstr "Morimoto"
+
+msgctxt "2904"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "2908"
+msgid "Smartass"
+msgstr "Smartass"
+
+msgctxt "2912"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "2916"
+msgid "Jackass"
+msgstr "Jackass"
+
+msgctxt "2920"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "2924"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2928"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2932"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "92_Morimoto"
+msgid "Surprise, dipshit. Remember us?"
+msgstr "Surprise, dipshit. Remember us?"
+
+msgctxt "104_Morimoto"
+msgid ""
+"We told you you'd pay for siding with homeless filth.\r\n"
+"Now you'll get taken out with the rest of the trash."
+msgstr ""
+"We told you you'd pay for siding with homeless filth.\r\n"
+"Now you'll get taken out with the rest of the trash."
+
+msgctxt "116_Smartass"
+msgid ""
+"Just try another one of your punkass remarks now, old man.\r\n"
+"You're way outnumbered."
+msgstr ""
+"Just try another one of your punkass remarks now, old man.\r\n"
+"You're way outnumbered."
+
+msgctxt "128_Jackass"
+msgid "You better apologize before we really kick your ass."
+msgstr "You better apologize before we really kick your ass."
+
+msgctxt "140_Saejima"
+msgid "Already told ya."
+msgstr "Already told ya."
+
+msgctxt "152_Morimoto"
+msgid "Told us what?"
+msgstr "Told us what?"
+
+msgctxt "164_Saejima"
+msgid "If ya can't fight a man one-on-one, you ain't nothin' but chickenshit."
+msgstr ""
+"If ya can't fight a man one-on-one, you ain't nothin' but chickenshit."
+
+msgctxt "176_Smartass"
+msgid "I heard that, assclown!"
+msgstr "I heard that, assclown!"
+
+msgctxt "188_Jackass"
+msgid "He's really cruising for a bruising now."
+msgstr "He's really cruising for a bruising now."
+
+msgctxt "200_Morimoto"
+msgid "Just get him already!"
+msgstr "Just get him already!"

@@ -1,0 +1,277 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "464"
+msgid ""
+"All right... But just for a little while! I'll be back before you know it, "
+"Kiryu. Try not to break anything."
+msgstr ""
+"All right... But just for a little while! I'll be back before you know it, "
+"Kiryu. Try not to break anything."
+
+msgctxt "9032"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "9036"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "9040"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "9044"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "9048"
+msgid "Saya"
+msgstr "Saya"
+
+msgctxt "9052"
+msgid "P_sitchr"
+msgstr "P_sitchr"
+
+msgctxt "9056"
+msgid "F_nml_sitchr"
+msgstr "F_nml_sitchr"
+
+msgctxt "9060"
+msgid "Idle"
+msgstr "Idle"
+
+msgctxt "9064"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "9068"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "9072"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "9076"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "9080"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "9084"
+msgid "P_stand"
+msgstr "P_stand"
+
+msgctxt "80_Date"
+msgid " Welcome..."
+msgstr "Welcome..."
+
+msgctxt "92_Date"
+msgid "Oh, Saya! What are you doing here, out of the blue?"
+msgstr "Oh, Saya! What are you doing here, out of the blue?"
+
+msgctxt "104_Date"
+msgid "Kiryu, did you bring her here?"
+msgstr "Kiryu, did you bring her here?"
+
+msgctxt "116_Kiryu"
+msgid ""
+"No, I just ran into her outside. She said she had something to talk to you "
+"about."
+msgstr ""
+"No, I just ran into her outside. She said she had something to talk to you "
+"about."
+
+msgctxt "128_Saya"
+msgid "Yeah, um... Dad, could we talk for a bit?"
+msgstr "Yeah, um... Dad, could we talk for a bit?"
+
+msgctxt "140_Date"
+msgid "Yes... What kind of trouble are you in this time?"
+msgstr "Yes... What kind of trouble are you in this time?"
+
+msgctxt "152_Talk_Info_F"
+msgid "Well, don't just stand there. Come over here and sit down."
+msgstr "Well, don't just stand there. Come over here and sit down."
+
+msgctxt "236_Date"
+msgid "So, what's wrong?"
+msgstr "So, what's wrong?"
+
+msgctxt "248_Saya"
+msgid ""
+"Well, I've been meaning to tell you... I've been dating a hair stylist I "
+"work with. His name's Minoru, and his work is getting to be really well-"
+"known."
+msgstr ""
+"Well, I've been meaning to tell you... I've been dating a hair stylist I "
+"work with. His name's Minoru, and his work is getting to be really well-"
+"known."
+
+msgctxt "260_Date"
+msgid "......"
+msgstr "......"
+
+msgctxt "272_Saya"
+msgid ""
+"Anyways, we've been going out for almost a year, and we're thinking of "
+"moving in together pretty soon."
+msgstr ""
+"Anyways, we've been going out for almost a year, and we're thinking of "
+"moving in together pretty soon."
+
+msgctxt "284_Date"
+msgid "Hm. That so?"
+msgstr "Hm. That so?"
+
+msgctxt "296_Saya"
+msgid ""
+"Yes. He's already met mom, so I was hoping I could introduce him to you, "
+"too... I'm actually just about to meet him at Café Alps."
+msgstr ""
+"Yes. He's already met mom, so I was hoping I could introduce him to you, "
+"too... I'm actually just about to meet him at Café Alps."
+
+msgctxt "308_Date"
+msgid "Okay... But why is it so important for me to go meet this guy?"
+msgstr "Okay... But why is it so important for me to go meet this guy?"
+
+msgctxt "320_Date"
+msgid "I have to work, you know. I can't just take off."
+msgstr "I have to work, you know. I can't just take off."
+
+msgctxt "332_Saya"
+msgid ""
+"Well, I know you'd be upset if I just moved in with him and didn't tell you."
+" That's why I wanted to introduce you to him before that."
+msgstr ""
+"Well, I know you'd be upset if I just moved in with him and didn't tell you."
+" That's why I wanted to introduce you to him before that."
+
+msgctxt "344_Date"
+msgid "Hm. Sorry if you think I'm just a loud-mouthed, meddling old man."
+msgstr "Hm. Sorry if you think I'm just a loud-mouthed, meddling old man."
+
+msgctxt "356_Date"
+msgid "But you don't need my approval. You go and just do what you want."
+msgstr "But you don't need my approval. You go and just do what you want."
+
+msgctxt "368_Saya"
+msgid ""
+"Ugh, dad, why are you being so stubborn!? You're just making excuses because"
+" you don't want to meet my boyfriend!"
+msgstr ""
+"Ugh, dad, why are you being so stubborn!? You're just making excuses because"
+" you don't want to meet my boyfriend!"
+
+msgctxt "380_Date"
+msgid "Saya..."
+msgstr "Saya..."
+
+msgctxt "392_Date"
+msgid ""
+"What do you expect me to do? I can't just take off during business hours."
+msgstr ""
+"What do you expect me to do? I can't just take off during business hours."
+
+msgctxt "404_Saya"
+msgid "But..."
+msgstr "Ma..."
+
+msgctxt "416_Kiryu"
+msgid ""
+"Date, why don't you just go and meet her boyfriend already? I mean, this is "
+"the guy your daughter's going to live with. It's important."
+msgstr ""
+"Date, why don't you just go and meet her boyfriend already? I mean, this is "
+"the guy your daughter's going to live with. It's important."
+
+msgctxt "428_Date"
+msgid "Stay out of this, Kiryu..."
+msgstr "Stay out of this, Kiryu..."
+
+msgctxt "440_Kiryu"
+msgid ""
+"Look, I can handle the bar. It's not like I haven't covered for Mariko "
+"before."
+msgstr ""
+"Look, I can handle the bar. It's not like I haven't covered for Mariko "
+"before."
+
+msgctxt "452_Date"
+msgid "Hmph."
+msgstr "Hmph."
+
+msgctxt "476_Saya"
+msgid "Thank you, dad!"
+msgstr "Thank you, dad!"
+
+msgctxt "488_Date"
+msgid "You too, Kiryu-san!"
+msgstr "You too, Kiryu-san!"
+
+msgctxt "500_Date"
+msgid ""
+"So when are you supposed to meet up with this guy? Should we get going now?"
+msgstr ""
+"So when are you supposed to meet up with this guy? Should we get going now?"
+
+msgctxt "512_Saya"
+msgid ""
+"He always shows up early, so if we leave now we should be right on time."
+msgstr ""
+"He always shows up early, so if we leave now we should be right on time."
+
+msgctxt "524_Date"
+msgid "All right. Kiryu, thank you for looking after the place."
+msgstr "All right. Kiryu, thank you for looking after the place."
+
+msgctxt "536_Kiryu"
+msgid "Heh. Just try not to get in a fight with the poor guy."
+msgstr "Heh. Just try not to get in a fight with the poor guy."
+
+msgctxt "548_Date"
+msgid "I wasn't asking for your advice!"
+msgstr "I wasn't asking for your advice!"
+
+msgctxt "560_Saya"
+msgid "Hehe. You and Kiryu-san sure do know each other well, don't you, dad?"
+msgstr "Hehe. You and Kiryu-san sure do know each other well, don't you, dad?"
+
+msgctxt "572_Date"
+msgid "Yeah, well... Let's just get going."
+msgstr "Yeah, well... Let's just get going."
+
+msgctxt "644_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "656_Date"
+msgid ""
+"(They've been gone for quite a while. Hopefully they're just having a good "
+"time...)"
+msgstr ""
+"(They've been gone for quite a while. Hopefully they're just having a good "
+"time...)"
+
+msgctxt "668_Date"
+msgid ""
+"(Hmm... They should've called if they were going to take this long. Maybe "
+"they're in trouble. I should drop by Café Alps and check on them.)"
+msgstr ""
+"(Hmm... They should've called if they were going to take this long. Maybe "
+"they're in trouble. I should drop by Café Alps and check on them.)"

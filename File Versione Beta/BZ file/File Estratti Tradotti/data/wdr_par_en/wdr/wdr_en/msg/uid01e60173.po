@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1212"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "1216"
+msgid "Chihiro"
+msgstr "Chihiro"
+
+msgctxt "1220"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1224"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "1228"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "1232"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "92_Chihiro"
+msgid "Hello."
+msgstr "Hello."
+
+msgctxt "104_Tanimura"
+msgid "What's up?"
+msgstr "What's up?"
+
+msgctxt "116_Chihiro"
+msgid ""
+"I've got an audition at a building on East Shichifuku Street. Wish me luck!"
+msgstr ""
+"I've got an audition at a building on East Shichifuku Street. Wish me luck!"
+
+msgctxt "128_Tanimura"
+msgid "Oh, I see. Good luck!"
+msgstr "Oh, I see. Good luck!"
+
+msgctxt "188_Tanimura"
+msgid ""
+"(Chihiro said she'd be okay, but I'm still a little worried. I should go and"
+" check on her.)"
+msgstr ""
+"(Chihiro said she'd be okay, but I'm still a little worried. I should go and"
+" check on her.)"

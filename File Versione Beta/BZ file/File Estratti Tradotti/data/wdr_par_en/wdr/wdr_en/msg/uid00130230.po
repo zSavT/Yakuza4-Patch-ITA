@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "96"
+msgid "You got <Color:8>15,000 yen<Color:Default>."
+msgstr "You got <Color:8>15,000 yen<Color:Default>."
+
+msgctxt "228"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr "You got <Color:8>10,000 yen<Color:Default>."
+
+msgctxt "3708"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "3712"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3716"
+msgid "Dine-and-Dasher"
+msgstr "Dine-and-Dasher"
+
+msgctxt "3720"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "3724"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "72_Tanimura"
+msgid "It's over."
+msgstr "It's over."
+
+msgctxt "84_Dine-and-Dasher"
+msgid ""
+"*pant* *pant* Not bad. Fine, here's what I owe for the meal, along with a "
+"little something for your trouble."
+msgstr ""
+"*pant* *pant* Not bad. Fine, here's what I owe for the meal, along with a "
+"little something for your trouble."
+
+msgctxt "108_Tanimura"
+msgid "...Huh?"
+msgstr "...Huh?"
+
+msgctxt "120_Dine-and-Dasher"
+msgid ""
+"Dine-and-dash is the ultimate sport, a true battle between men. Everyone "
+"knows that! Later, copper!"
+msgstr ""
+"Dine-and-dash is the ultimate sport, a true battle between men. Everyone "
+"knows that! Later, copper!"
+
+msgctxt "132_Tanimura"
+msgid "What's his problem?"
+msgstr "What's his problem?"
+
+msgctxt "204_Tanimura"
+msgid "End of the road. Give it up already!"
+msgstr "End of the road. Give it up already!"
+
+msgctxt "216_Dine-and-Dasher"
+msgid ""
+"Heheheh... Well done, my eternal rival. This is payment for the food, and a "
+"little token of my respect."
+msgstr ""
+"Heheheh... Well done, my eternal rival. This is payment for the food, and a "
+"little token of my respect."
+
+msgctxt "240_Tanimura"
+msgid "Eternal... rival?"
+msgstr "Eternal... rival?"
+
+msgctxt "252_Dine-and-Dasher"
+msgid "You haven't seen the last of me! I'll beat you next time!"
+msgstr "You haven't seen the last of me! I'll beat you next time!"
+
+msgctxt "264_Tanimura"
+msgid "I still don't know what he's talking about."
+msgstr "I still don't know what he's talking about."

@@ -1,0 +1,149 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "412"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr "You got <Color:8>Haruka's Necklace<Color:Default>."
+
+msgctxt "472"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han."
+msgstr ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han."
+
+msgctxt "520"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr "You got <Color:8>Haruka's Lunch<Color:Default>."
+
+msgctxt "580"
+msgid "You got <Color:8>Haruka's First-aid Kit<Color:Default>."
+msgstr "You got <Color:8>Haruka's First-aid Kit<Color:Default>."
+
+msgctxt "640"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr "You got a <Color:8>Red Jewel<Color:Default>."
+
+msgctxt "700"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr "You got <Color:8>Haruka's Amulet<Color:Default>."
+
+msgctxt "760"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr "You got <Color:8>Haruka's Chocolate<Color:Default>."
+
+msgctxt "820"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr "You got <Color:8>Haruka's Candy<Color:Default>."
+
+msgctxt "7796"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "7800"
+msgid "HAL_stand_tlk_happy_big"
+msgstr "HAL_stand_tlk_happy_big"
+
+msgctxt "7804"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "7808"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "7812"
+msgid "HAL_stand_tlk_unhappy_small"
+msgstr "HAL_stand_tlk_unhappy_small"
+
+msgctxt "7816"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "244_Haruka"
+msgid "Uncle Kaz, that was so cool!"
+msgstr "Uncle Kaz, that was so cool!"
+
+msgctxt "256_Haruka"
+msgid "You're amazing, Uncle Kaz! That was so cool!"
+msgstr "You're amazing, Uncle Kaz! That was so cool!"
+
+msgctxt "292_Kiryu"
+msgid "(Haruka sure is happy...)"
+msgstr "(Haruka sure is happy...)"
+
+msgctxt "328_Kiryu"
+msgid "(Haruka sure is happy...)"
+msgstr "(Haruka sure is happy...)"
+
+msgctxt "400_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "460_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come to play cho-han with you next time, "
+"okay?"
+msgstr ""
+"Thanks a ton, Uncle Kaz! I wanna come to play cho-han with you next time, "
+"okay?"
+
+msgctxt "508_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "568_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "628_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "688_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "748_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "808_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "892_Haruka"
+msgid "Aw, too bad!"
+msgstr "Aw, too bad!"
+
+msgctxt "904_Haruka"
+msgid "But I wanted to see you play pool..."
+msgstr "But I wanted to see you play pool..."
+
+msgctxt "916_Haruka"
+msgid "Aw, you came pretty close!"
+msgstr "Aw, you came pretty close!"
+
+msgctxt "976_Haruka"
+msgid "Uncle Kaz! Clear a nine-ball game without making a foul!"
+msgstr "Uncle Kaz! Clear a nine-ball game without making a foul!"
+
+msgctxt "1000_Haruka"
+msgid ""
+"Uncle Kaz! Clear beginner level four-ball by getting two consecutive points "
+"more than once!"
+msgstr ""
+"Uncle Kaz! Clear beginner level four-ball by getting two consecutive points "
+"more than once!"

@@ -1,0 +1,89 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2200"
+msgid "Yamashita"
+msgstr "Yamashita"
+
+msgctxt "2204"
+msgid "Iguchi"
+msgstr "Iguchi"
+
+msgctxt "2208"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2212"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "2216"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2220"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2224"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "68_Yamashita"
+msgid "Are you the leader of this group?"
+msgstr "Are you the leader of this group?"
+
+msgctxt "80_Iguchi"
+msgid "What do you want?"
+msgstr "What do you want?"
+
+msgctxt "92_Yamashita"
+msgid "I came to find out your reasons for attacking us. Please, tell me."
+msgstr "I came to find out your reasons for attacking us. Please, tell me."
+
+msgctxt "104_Iguchi"
+msgid ""
+"Pfft! I'm not about to spill my guts to a human trash can.\r\n"
+"All that matters is that we're going to exact retribution\r\n"
+"until every last one of you is sent to meet your maker."
+msgstr ""
+"Pfft! I'm not about to spill my guts to a human trash can.\r\n"
+"All that matters is that we're going to exact retribution\r\n"
+"until every last one of you is sent to meet your maker."
+
+msgctxt "116_Saejima"
+msgid "Retri-what? Who died and made you a god?"
+msgstr "Retri-what? Who died and made you a god?"
+
+msgctxt "128_Iguchi"
+msgid "You heard me. Retribution."
+msgstr "You heard me. Retribution."
+
+msgctxt "140_Iguchi"
+msgid ""
+"It's thanks to the dregs of society that I lost my dreams, my family..."
+msgstr ""
+"It's thanks to the dregs of society that I lost my dreams, my family..."
+
+msgctxt "152_Yamashita"
+msgid "Dreams? Family? What's that have to do with attacking us?"
+msgstr "Dreams? Family? What's that have to do with attacking us?"
+
+msgctxt "164_Iguchi"
+msgid "Shut up! The homeless are no better than vermin!"
+msgstr "Shut up! The homeless are no better than vermin!"
+
+msgctxt "176_Iguchi"
+msgid "Exterminate them!"
+msgstr "Exterminate them!"

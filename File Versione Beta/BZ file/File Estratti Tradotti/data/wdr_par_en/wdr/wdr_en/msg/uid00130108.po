@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "108"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr "You got <Color:8>10,000 yen<Color:Default>."
+
+msgctxt "1548"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1552"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1556"
+msgid "Drunk"
+msgstr "Drunk"
+
+msgctxt "1560"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1564"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "1568"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "72_Tanimura"
+msgid "Get it out of your system?"
+msgstr "Get it out of your system?"
+
+msgctxt "84_Drunk"
+msgid "Ugh... I'm sorry, I really had a few too many."
+msgstr "Ugh... I'm sorry, I really had a few too many."
+
+msgctxt "96_Drunk"
+msgid "Um... Maybe if I let you have this, you won't have to take me in."
+msgstr "Um... Maybe if I let you have this, you won't have to take me in."
+
+msgctxt "180_Drunk"
+msgid "Sorry, Officer."
+msgstr "Sorry, Officer."

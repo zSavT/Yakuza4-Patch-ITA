@@ -1,0 +1,321 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "11936"
+msgid "Samantha"
+msgstr "Samantha"
+
+msgctxt "11940"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "11944"
+msgid "F_cab_sitsofa_sync_order"
+msgstr "F_cab_sitsofa_sync_order"
+
+msgctxt "11948"
+msgid "M_shp_sitgrd_sync_order"
+msgstr "M_shp_sitgrd_sync_order"
+
+msgctxt "11952"
+msgid "Attendant"
+msgstr "Attendant"
+
+msgctxt "11956"
+msgid "Miyuki"
+msgstr "Miyuki"
+
+msgctxt "11960"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "11964"
+msgid "F_cab_stand_tlk_byeB"
+msgstr "F_cab_stand_tlk_byeB"
+
+msgctxt "11968"
+msgid "F_cab_stand_sync_byeC_st"
+msgstr "F_cab_stand_sync_byeC_st"
+
+msgctxt "11972"
+msgid "P_stand_sync_byeC_st"
+msgstr "P_stand_sync_byeC_st"
+
+msgctxt "11976"
+msgid "F_cab_stand_sync_byeC_ed"
+msgstr "F_cab_stand_sync_byeC_ed"
+
+msgctxt "11980"
+msgid "P_stand_sync_byeC_ed"
+msgstr "P_stand_sync_byeC_ed"
+
+msgctxt "11984"
+msgid "F_cab_stand_sync_dakiA_st"
+msgstr "F_cab_stand_sync_dakiA_st"
+
+msgctxt "11988"
+msgid "P_stand_sync_dakiA_st"
+msgstr "P_stand_sync_dakiA_st"
+
+msgctxt "11992"
+msgid "F_cab_stand_sync_dakiA_ed"
+msgstr "F_cab_stand_sync_dakiA_ed"
+
+msgctxt "11996"
+msgid "P_stand_sync_dakiA_ed"
+msgstr "P_stand_sync_dakiA_ed"
+
+msgctxt "2600_Samantha"
+msgid "What would you like?"
+msgstr "What would you like?"
+
+msgctxt "2624_Kiryu"
+msgid "I'll have this."
+msgstr "I'll have this."
+
+msgctxt "2636_Samantha"
+msgid "I see..."
+msgstr "Capisco..."
+
+msgctxt "2648_Samantha"
+msgid "Your glass is empty... Would you like another?"
+msgstr "Your glass is empty... Would you like another?"
+
+msgctxt "2672_Kiryu"
+msgid "I'll have this."
+msgstr "I'll have this."
+
+msgctxt "2684_Samantha"
+msgid "All right..."
+msgstr "All right..."
+
+msgctxt "2696_Samantha"
+msgid "I like this one, too!"
+msgstr "I like this one, too!"
+
+msgctxt "2708_Samantha"
+msgid "We might get along."
+msgstr "We might get along."
+
+msgctxt "2720_Samantha"
+msgid "All right, understood."
+msgstr "All right, understood."
+
+msgctxt "2732_Samantha"
+msgid "All right, understood."
+msgstr "All right, understood."
+
+msgctxt "2744_Samantha"
+msgid "That's what you drink..."
+msgstr "That's what you drink..."
+
+msgctxt "2756_Samantha"
+msgid "You drink that?"
+msgstr "You drink that?"
+
+msgctxt "2768_Samantha"
+msgid "Huh... Okay."
+msgstr "Huh... Okay."
+
+msgctxt "2780_Samantha"
+msgid "Do you want something to eat?"
+msgstr "Do you want something to eat?"
+
+msgctxt "2804_Kiryu"
+msgid "I'll have this."
+msgstr "I'll have this."
+
+msgctxt "2816_Samantha"
+msgid "You're not hungry?"
+msgstr "You're not hungry?"
+
+msgctxt "2828_Samantha"
+msgid "Hungry at all?"
+msgstr "Hungry at all?"
+
+msgctxt "2852_Kiryu"
+msgid "I'll have this."
+msgstr "I'll have this."
+
+msgctxt "2864_Samantha"
+msgid "You're not hungry?"
+msgstr "You're not hungry?"
+
+msgctxt "2876_Samantha"
+msgid "I love that too!"
+msgstr "I love that too!"
+
+msgctxt "2888_Samantha"
+msgid "We do get along."
+msgstr "We do get along."
+
+msgctxt "2900_Samantha"
+msgid "All right, understood! <Color:7>♥<Color:Default>"
+msgstr "All right, understood! <Color:7>♥<Color:Default>"
+
+msgctxt "2912_Samantha"
+msgid "All right, understood."
+msgstr "All right, understood."
+
+msgctxt "2924_Samantha"
+msgid "I'm surprised you can eat that."
+msgstr "I'm surprised you can eat that."
+
+msgctxt "2936_Samantha"
+msgid "That... isn't my favorite."
+msgstr "That... isn't my favorite."
+
+msgctxt "2948_Samantha"
+msgid "I'll put in the order, then."
+msgstr "I'll put in the order, then."
+
+msgctxt "2972_Samantha"
+msgid "Yes?"
+msgstr "Sì?"
+
+msgctxt "2984_Attendant"
+msgid "This please!"
+msgstr "This please!"
+
+msgctxt "2996_Samantha"
+msgid "With pleasure."
+msgstr "With pleasure."
+
+msgctxt "3020_Miyuki"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "3032_Samantha"
+msgid "Cheers."
+msgstr "Cheers."
+
+msgctxt "3044_Attendant"
+msgid "Make yourself comfortable!"
+msgstr "Make yourself comfortable!"
+
+msgctxt "3056_Miyuki"
+msgid "Cheers."
+msgstr "Cheers."
+
+msgctxt "3068_Samantha"
+msgid "Cheers."
+msgstr "Cheers."
+
+msgctxt "3080_Attendant"
+msgid "Make yourself at home."
+msgstr "Make yourself at home."
+
+msgctxt "3092_Samantha"
+msgid "I'll make it right now."
+msgstr "I'll make it right now."
+
+msgctxt "3104_Samantha"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "3116_Samantha"
+msgid "Here you go!"
+msgstr "Here you go!"
+
+msgctxt "3152_Samantha"
+msgid "Here you are!"
+msgstr "Here you are!"
+
+msgctxt "3164_Samantha"
+msgid "......"
+msgstr "......"
+
+msgctxt "3176_Samantha"
+msgid "Do you mind if I smoke, too?"
+msgstr "Do you mind if I smoke, too?"
+
+msgctxt "3188_Samantha"
+msgid "No, go ahead."
+msgstr "No, go ahead."
+
+msgctxt "3200_Samantha"
+msgid "Go on, drink up!"
+msgstr "Go on, drink up!"
+
+msgctxt "3212_Samantha"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "3224_Samantha"
+msgid "I'll drink, too!"
+msgstr "I'll drink, too!"
+
+msgctxt "3236_Samantha"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "3248_Player"
+msgid "I'd better head home."
+msgstr "I'd better head home."
+
+msgctxt "3260_Samantha"
+msgid "Leaving already...?"
+msgstr "Leaving already...?"
+
+msgctxt "3272_Miyuki"
+msgid "Is it time already?"
+msgstr "Is it time already?"
+
+msgctxt "3284_Samantha"
+msgid "Yeah..."
+msgstr "Yeah..."
+
+msgctxt "3392_Miyuki"
+msgid "That was quite fun. <Color:7>♥<Color:Default>"
+msgstr "That was quite fun. <Color:7>♥<Color:Default>"
+
+msgctxt "3404_Miyuki"
+msgid "See you soon. ♪ I'll be waiting. <Color:7>♥<Color:Default>"
+msgstr "See you soon. ♪ I'll be waiting. <Color:7>♥<Color:Default>"
+
+msgctxt "3416_Samantha"
+msgid "%s-san..."
+msgstr "%s-san..."
+
+msgctxt "3428_Samantha"
+msgid "Please come back again..."
+msgstr "Please come back again..."
+
+msgctxt "3440_Samantha"
+msgid "Of course."
+msgstr "E di che."
+
+msgctxt "3452_F_cab_stand_sync_byeC_ed"
+msgid "See you soon..."
+msgstr "See you soon..."
+
+msgctxt "3464_Samantha"
+msgid "%s-san!"
+msgstr "%s-san!"
+
+msgctxt "3476_Samantha"
+msgid "Please come back again..."
+msgstr "Please come back again..."
+
+msgctxt "3488_Samantha"
+msgid "Yeah..."
+msgstr "Yeah..."
+
+msgctxt "3500_F_cab_stand_sync_dakiA_ed"
+msgid "Well, guess I'll be seeing you..."
+msgstr "Well, guess I'll be seeing you..."
+
+msgctxt "3560_Miyuki"
+msgid "That was quite fun. <Color:7>♥<Color:Default>"
+msgstr "That was quite fun. <Color:7>♥<Color:Default>"

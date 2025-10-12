@@ -1,0 +1,234 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "7116"
+msgid "Dealer"
+msgstr "Croupier"
+
+msgctxt "7120"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "7124"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "7128"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "7132"
+msgid "HAL_stand_tlk_happy_small"
+msgstr "HAL_stand_tlk_happy_small"
+
+msgctxt "7136"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "7140"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "7144"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "7148"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "7152"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "260_Dealer"
+msgid "It looks like you don't have enough chips to play poker, sir."
+msgstr "Sembra che non abbia abbastanza fiches per giocare a poker, signore."
+
+msgctxt "272_Dealer"
+msgid "If you'd like to purchase chips, you can do so at the front desk."
+msgstr "Se desidera acquistare fiches, può farlo alla reception."
+
+msgctxt "284_Dealer"
+msgid ""
+"Welcome. Here, you can play Texas hold 'em poker. Would you like to play?"
+msgstr ""
+"Benvenuto. Qui può giocare a poker Texas Hold 'em. Le piacerebbe giocare?"
+
+msgctxt "308_Haruka"
+msgid ""
+"Uncle Kaz! I wanna watch you play poker. I bet you could get 2,000 points!"
+msgstr ""
+"Zio Kaz! Voglio vederti giocare a poker. Scommetto che potresti fare 2.000 "
+"punti!"
+
+msgctxt "320_Kiryu"
+msgid "(2,000 points in poker... Should I give it a try?)"
+msgstr "(2.000 punti a poker... Dovrei provarci?)"
+
+msgctxt "332_Kiryu"
+msgid "All right, I'll play."
+msgstr "Va bene, gioco."
+
+msgctxt "344_Dealer"
+msgid "Very good, sir. Please take your seat."
+msgstr "Molto bene, signore. Si accomodi."
+
+msgctxt "356_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr "Buona fortuna, zio Kaz!"
+
+msgctxt "380_Kiryu"
+msgid "Not right now."
+msgstr "Non adesso."
+
+msgctxt "392_Dealer"
+msgid "Very well. We hope you'll play with us next time."
+msgstr "Benissimo. Speriamo che giocherà con noi la prossima volta."
+
+msgctxt "404_Haruka"
+msgid "Aww, I wanted to watch you play... Maybe next time?"
+msgstr "Uffi, volevo vederti giocare... Forse la prossima volta?"
+
+msgctxt "416_Haruka"
+msgid ""
+"Uncle Kaz! You're good at poker, right? I bet you could get 5,000 points!"
+msgstr ""
+"Zio Kaz! Sei bravo a poker, vero? Scommetto che potresti fare 5.000 punti!"
+
+msgctxt "428_Kiryu"
+msgid "(5,000 points in poker... Should I give it a try?)"
+msgstr "(5.000 punti a poker... Dovrei provarci?)"
+
+msgctxt "440_Kiryu"
+msgid "All right, I'll play."
+msgstr "Va bene, gioco."
+
+msgctxt "452_Dealer"
+msgid "Very good, sir. Please take your seat."
+msgstr "Molto bene, signore. Si accomodi."
+
+msgctxt "464_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr "Buona fortuna, zio Kaz!"
+
+msgctxt "488_Kiryu"
+msgid "Not right now."
+msgstr "Non adesso."
+
+msgctxt "500_Dealer"
+msgid "Very well. We hope you'll play with us next time."
+msgstr "Benissimo. Speriamo che giocherà con noi la prossima volta."
+
+msgctxt "512_Haruka"
+msgid "Aww, I wanted to watch you play..."
+msgstr "Uffi, volevo vederti giocare..."
+
+msgctxt "524_Dealer"
+msgid ""
+"Welcome. Here, you can play Texas hold 'em poker. Would you like to play?"
+msgstr ""
+"Benvenuto. Qui può giocare a poker Texas Hold 'em. Le piacerebbe giocare?"
+
+msgctxt "536_Player"
+msgid "Sure, I'll play."
+msgstr "Certo, gioco."
+
+msgctxt "548_Dealer"
+msgid "An excellent choice. What stakes would you like to play for?"
+msgstr "Una scelta eccellente. Con che puntate vorrebbe giocare?"
+
+msgctxt "560_Player"
+msgid "I'll go with the low stakes."
+msgstr "Scelgo le puntate basse."
+
+msgctxt "584_Dealer"
+msgid ""
+"The starting bets are as follows: 5 chips for rounds one and two, then 10 "
+"chips on rounds three and four."
+msgstr ""
+"Le puntate iniziali sono le seguenti: 5 fiches per il primo e secondo round,"
+" poi 10 fiches per il terzo e quarto round."
+
+msgctxt "596_Dealer"
+msgid "Please take a seat, sir."
+msgstr "Si accomodi, signore."
+
+msgctxt "620_Dealer"
+msgid "You'll need a minimum of 100 chips to play low-stakes poker, sir."
+msgstr ""
+"Le servirà un minimo di 100 fiches per giocare a poker con puntate basse, "
+"signore."
+
+msgctxt "632_Player"
+msgid "I'll go with the high stakes."
+msgstr "Scelgo le puntate alte."
+
+msgctxt "656_Dealer"
+msgid ""
+"The starting bets are as follows: 50 chips for rounds one and two, then 100 "
+"chips on rounds three and four."
+msgstr ""
+"Le puntate iniziali sono le seguenti: 50 fiches per il primo e secondo "
+"round, poi 100 fiches per il terzo e quarto round."
+
+msgctxt "668_Dealer"
+msgid "Please take a seat, sir."
+msgstr "Si accomodi, signore."
+
+msgctxt "692_Dealer"
+msgid "You'll need a minimum of 1,000 chips to play high-stakes poker, sir."
+msgstr ""
+"Le servirà un minimo di 1.000 fiches per giocare a poker con puntate alte, "
+"signore."
+
+msgctxt "704_Player"
+msgid "Not right now."
+msgstr "Non adesso."
+
+msgctxt "716_Dealer"
+msgid "Very well. We hope you'll play with us next time."
+msgstr "Benissimo. Speriamo che giocherà con noi la prossima volta."
+
+msgctxt "728_Dealer"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "740_Dealer"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "752_Dealer"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "764_Dealer"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "776_Dealer"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "788_Dealer"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "800_Dealer"
+msgid "Low Stakes (5 chips/10 chips)"
+msgstr "Puntate basse (5 fiches/10 fiches)"
+
+msgctxt "812_Dealer"
+msgid "High Stakes (50 chips/100 chips)"
+msgstr "Puntate alte (50 fiches/100 fiches)"

@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1404"
+msgid "Nagaharu"
+msgstr "Nagaharu"
+
+msgctxt "232_Nagaharu"
+msgid "Let's pick the banker."
+msgstr "Let's pick the banker."
+
+msgctxt "244_Nagaharu"
+msgid "So I'm the banker. Let's place our bets."
+msgstr "So I'm the banker. Let's place our bets."
+
+msgctxt "256_Nagaharu"
+msgid "How much do you wanna wager?"
+msgstr "How much do you wanna wager?"
+
+msgctxt "268_Nagaharu"
+msgid "Let's do this!"
+msgstr "Facciamolo!"
+
+msgctxt "280_Nagaharu"
+msgid "My turn!"
+msgstr "My turn!"
+
+msgctxt "292_Nagaharu"
+msgid "One more time."
+msgstr "One more time."
+
+msgctxt "304_Nagaharu"
+msgid "Let's settle our bets."
+msgstr "Let's settle our bets."
+
+msgctxt "316_Nagaharu"
+msgid "You're the banker."
+msgstr "You're the banker."
+
+msgctxt "328_Nagaharu"
+msgid "Let's change bankers."
+msgstr "Let's change bankers."
+
+msgctxt "340_Nagaharu"
+msgid "Wanna play again?"
+msgstr "Wanna play again?"
+
+msgctxt "352_Nagaharu"
+msgid "I'm spent."
+msgstr "I'm spent."
+
+msgctxt "364_Nagaharu"
+msgid "Better luck next time."
+msgstr "Better luck next time."

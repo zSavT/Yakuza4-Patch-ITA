@@ -1,0 +1,230 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "660"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr "You got <Color:8>Haruka's Necklace<Color:Default>."
+
+msgctxt "720"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han."
+msgstr ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han."
+
+msgctxt "768"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr "You got <Color:8>Haruka's Lunch<Color:Default>."
+
+msgctxt "828"
+msgid "You got <Color:8>Haruka's First-aid Kit<Color:Default>."
+msgstr "You got <Color:8>Haruka's First-aid Kit<Color:Default>."
+
+msgctxt "888"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr "You got a <Color:8>Red Jewel<Color:Default>."
+
+msgctxt "948"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr "You got <Color:8>Haruka's Amulet<Color:Default>."
+
+msgctxt "1008"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr "You got <Color:8>Haruka's Chocolate<Color:Default>."
+
+msgctxt "1068"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr "You got <Color:8>Haruka's Candy<Color:Default>."
+
+msgctxt "11800"
+msgid "Employee"
+msgstr "Employee"
+
+msgctxt "11804"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "11808"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "11812"
+msgid "HAL_stand_tlk_happy_small"
+msgstr "HAL_stand_tlk_happy_small"
+
+msgctxt "11816"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "11820"
+msgid "HAL_stand_tlk_unhappy_small"
+msgstr "HAL_stand_tlk_unhappy_small"
+
+msgctxt "11824"
+msgid "HAL_sitcnt_tlk_eat_donburi"
+msgstr "HAL_sitcnt_tlk_eat_donburi"
+
+msgctxt "11828"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "11832"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "11836"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "11840"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "11844"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "72_Employee"
+msgid "Welcome. Are you ready to order?"
+msgstr "Welcome. Are you ready to order?"
+
+msgctxt "96_Haruka"
+msgid ""
+"Wow, I really want some <Color:8>Strawberry Gelato<Color:Default>! Could you"
+" get me some, Uncle Kaz?"
+msgstr ""
+"Wow, I really want some <Color:8>Strawberry Gelato<Color:Default>! Could you"
+" get me some, Uncle Kaz?"
+
+msgctxt "108_Kiryu"
+msgid ""
+"(Haruka wants me to get her some <Color:8>Strawberry "
+"Gelato<Color:Default>...)"
+msgstr ""
+"(Haruka wants me to get her some <Color:8>Strawberry "
+"Gelato<Color:Default>...)"
+
+msgctxt "132_Haruka"
+msgid "But I wanted that <Color:8>Strawberry Gelato<Color:Default>..."
+msgstr "But I wanted that <Color:8>Strawberry Gelato<Color:Default>..."
+
+msgctxt "144_Employee"
+msgid "Thank you very much."
+msgstr "Thank you very much."
+
+msgctxt "168_Haruka"
+msgid "Thanks, Uncle Kaz! I can't wait to dig in!"
+msgstr "Thanks, Uncle Kaz! I can't wait to dig in!"
+
+msgctxt "312_Haruka"
+msgid "Thanks!"
+msgstr "Grazie!"
+
+msgctxt "324_Kiryu"
+msgid "(Haruka sure is happy...)"
+msgstr "(Haruka sure is happy...)"
+
+msgctxt "348_Haruka"
+msgid ""
+"Uncle Kaz! I've been good, haven't I? Can I get a <Color:8>Double "
+"Scoop<Color:Default>?"
+msgstr ""
+"Uncle Kaz! I've been good, haven't I? Can I get a <Color:8>Double "
+"Scoop<Color:Default>?"
+
+msgctxt "360_Kiryu"
+msgid "(Haruka wants me to get her a <Color:8>Double Scoop<Color:Default>...)"
+msgstr ""
+"(Haruka wants me to get her a <Color:8>Double Scoop<Color:Default>...)"
+
+msgctxt "384_Haruka"
+msgid "But I wanted that <Color:8>Double Scoop<Color:Default>..."
+msgstr "But I wanted that <Color:8>Double Scoop<Color:Default>..."
+
+msgctxt "396_Employee"
+msgid "Thank you very much."
+msgstr "Thank you very much."
+
+msgctxt "420_Haruka"
+msgid "Thanks, Uncle Kaz!"
+msgstr "Thanks, Uncle Kaz!"
+
+msgctxt "564_Haruka"
+msgid "Thanks!"
+msgstr "Grazie!"
+
+msgctxt "576_Kiryu"
+msgid "(Haruka sure is happy...)"
+msgstr "(Haruka sure is happy...)"
+
+msgctxt "648_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "708_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come to play cho-han with you next time, "
+"okay?"
+msgstr ""
+"Thanks a ton, Uncle Kaz! I wanna come to play cho-han with you next time, "
+"okay?"
+
+msgctxt "756_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "816_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "876_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "936_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "996_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "1056_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "1116_Employee"
+msgid "Welcome. Are you ready to order?"
+msgstr "Welcome. Are you ready to order?"
+
+msgctxt "1176_Employee"
+msgid "Thank you very much."
+msgstr "Thank you very much."
+
+msgctxt "1188_Employee"
+msgid "Thank you very much."
+msgstr "Thank you very much."
+
+msgctxt "1200_Employee"
+msgid "(No point eating now. I'm not even hungry.)"
+msgstr "(No point eating now. I'm not even hungry.)"
+
+msgctxt "1212_Player"
+msgid "Sorry, something came up."
+msgstr "Sorry, something came up."
+
+msgctxt "1224_Employee"
+msgid "All right, then. Please come again."
+msgstr "All right, then. Please come again."

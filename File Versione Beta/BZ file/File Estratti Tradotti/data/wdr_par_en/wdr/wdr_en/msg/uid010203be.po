@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "100"
+msgid "Would you like to return to Kamurocho?"
+msgstr "Would you like to return to Kamurocho?"
+
+msgctxt "984"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "184_Player"
+msgid "(Maybe later.)"
+msgstr "(Magari più tardi.)"
+
+msgctxt "196_Player"
+msgid "Head Back"
+msgstr "Head Back"
+
+msgctxt "208_Player"
+msgid "Stay Here"
+msgstr "Stay Here"

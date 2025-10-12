@@ -1,0 +1,206 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "6404"
+msgid "Saito"
+msgstr "Saito"
+
+msgctxt "6408"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "6412"
+msgid "Yasuko"
+msgstr "Yasuko"
+
+msgctxt "6416"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "6420"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "6424"
+msgid "Hamazaki"
+msgstr "Hamazaki"
+
+msgctxt "6428"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6432"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "6436"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "6440"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "6444"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "6448"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "56_Saito"
+msgid ""
+"So that's the bitch who went running to the police, begging\r\n"
+"to see Saejima."
+msgstr ""
+"Quindi è questa la stronza che è corsa dalla polizia, implorando\r\n"
+"di vedere Saejima."
+
+msgctxt "68_Yasuko"
+msgid "......"
+msgstr "..."
+
+msgctxt "80_Kiryu"
+msgid "Who are these guys, Hamazaki?"
+msgstr "Chi sono questi, Hamazaki?"
+
+msgctxt "92_Hamazaki"
+msgid ""
+"Guards. From that shithole \"penitentiary\" I was telling you\r\n"
+"about. These pricks are the cruelest goons in the business."
+msgstr ""
+"Guardie. Da quel cesso di \"penitenziario\" di cui ti parlavo.\r\n"
+"Questi stronzi sono i sicari più crudeli del settore."
+
+msgctxt "104_Saito"
+msgid "Heh. Rich, coming from an escaped convict."
+msgstr "Eh. Bella questa, detta da un evaso."
+
+msgctxt "116_Hamazaki"
+msgid "Look, I'll go back with you. Whatever I gotta do."
+msgstr "Senti, tornerò con te. Qualsiasi cosa debba fare."
+
+msgctxt "128_Hamazaki"
+msgid ""
+"Just... leave these two out of it. They don't got a damn thing to do with "
+"this."
+msgstr ""
+"Lascia solo... questi due fuori da questa storia. Non c'entrano un cazzo."
+
+msgctxt "140_Saito"
+msgid "No can do."
+msgstr "Non si può."
+
+msgctxt "152_Saito"
+msgid ""
+"Don't worry, Hamazaki. We're not gonna kill you. But you're\r\n"
+"gonna need a serious attitude adjustment once we get you\r\n"
+"back in the slammer. Might have to beat you 'til you change."
+msgstr ""
+"Non preoccuparti, Hamazaki. Non ti uccideremo. Ma avrai\r\n"
+"bisogno di una seria raddrizzata una volta che ti riporteremo\r\n"
+"in gattabuia. Potremmo doverti pestare finché non cambi."
+
+msgctxt "164_Saito"
+msgid "Either way... the bitch isn't going anywhere."
+msgstr "In ogni caso... la stronza non va da nessuna parte."
+
+msgctxt "176_Hamazaki"
+msgid "Why!? This is between you and me!"
+msgstr "Perché!? Questa è una faccenda tra me e te!"
+
+msgctxt "188_Saito"
+msgid ""
+"Sorry, but warden's orders. He told me to bring him Taiga\r\n"
+"Saejima's sister, and that's exactly what I'm gonna do."
+msgstr ""
+"Spiacente, ma sono ordini del direttore. Mi ha detto di portargli la sorella\r\n"
+"di Taiga Saejima, ed è esattamente quello che farò."
+
+msgctxt "200_Yasuko"
+msgid "Me? But why would..."
+msgstr "Io? Ma perché..."
+
+msgctxt "212_Hamazaki"
+msgid "This is a load of bull!"
+msgstr "Questa è una stronzata!"
+
+msgctxt "224_Kiryu"
+msgid "Hamazaki."
+msgstr "Hamazaki."
+
+msgctxt "236_Hamazaki"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "248_Kiryu"
+msgid "Take care of Yasuko-san."
+msgstr "Prenditi cura di Yasuko-san."
+
+msgctxt "260_Hamazaki"
+msgid "What? What're you saying, Kiryu?"
+msgstr "Cosa? Che stai dicendo, Kiryu?"
+
+msgctxt "272_Kiryu"
+msgid ""
+"I'll handle the guards. You stay behind me and keep her\r\n"
+"safe. Understand?"
+msgstr ""
+"Mi occupo io delle guardie. Tu resta dietro di me e tienila\r\n"
+"al sicuro. Capito?"
+
+msgctxt "284_Hamazaki"
+msgid "...Yeah."
+msgstr "...Sì."
+
+msgctxt "296_Kiryu"
+msgid ""
+"You hear that? If you want to get to Yasuko, you're going to have to go "
+"through me."
+msgstr ""
+"Avete sentito? Se volete arrivare a Yasuko, dovrete passare sul mio "
+"cadavere."
+
+msgctxt "308_Saito"
+msgid "And who are you, tough guy?"
+msgstr "E tu chi saresti, duro?"
+
+msgctxt "320_Kiryu"
+msgid "Someone who's spent almost a quarter of his life in prison."
+msgstr "Qualcuno che ha passato quasi un quarto della sua vita in prigione."
+
+msgctxt "332_Kiryu"
+msgid "And I can tell... you're no ordinary guards."
+msgstr "E posso dire... che non siete guardie comuni."
+
+msgctxt "344_Saito"
+msgid ""
+"Hmph. Step aside, pal. Or who knows? We might just\r\n"
+"\"accidentally\" beat you to death."
+msgstr ""
+"Umpf. Fatti da parte, amico. O chi lo sa? Potremmo anche\r\n"
+"\"accidentalmente\" picchiarti a morte."
+
+msgctxt "356_Kiryu"
+msgid "I think you'll find that's not as easy as you expect."
+msgstr "Penso che scoprirai che non è così facile come ti aspetti."
+
+msgctxt "368_Saito"
+msgid "Heh, your funeral."
+msgstr "Eh, peggio per te."
+
+msgctxt "380_Saito"
+msgid "No more fucking around! Slaughter him!"
+msgstr "Basta cazzeggiare! Massacratelo!"

@@ -1,0 +1,177 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5616"
+msgid "Shady Man"
+msgstr "Uomo losco"
+
+msgctxt "5620"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "5624"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "5628"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "5632"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "5636"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "5640"
+msgid "SetM_nml_sitgrd_down_02"
+msgstr "SetM_nml_sitgrd_down_02"
+
+msgctxt "5644"
+msgid "P_tan_stand_tlk_syagamu_st"
+msgstr "P_tan_stand_tlk_syagamu_st"
+
+msgctxt "5648"
+msgid "Officer"
+msgstr "Ufficiale"
+
+msgctxt "5652"
+msgid "P_tan_stand_tlk_musen_st"
+msgstr "P_tan_stand_tlk_musen_st"
+
+msgctxt "5656"
+msgid "P_tan_stand"
+msgstr "P_tan_stand"
+
+msgctxt "56_Shady Man"
+msgid "Dammit..."
+msgstr "Cavolo..."
+
+msgctxt "68_Tanimura"
+msgid "Don't make me waste more of my time... You ready to come along now?"
+msgstr "Don't make me waste more of my time... You ready to come along now?"
+
+msgctxt "80_Shady Man"
+msgid "Fine! I'll come with you!"
+msgstr "Fine! I'll come with you!"
+
+msgctxt "92_Shady Man"
+msgid "I'll come with you... if you protect me!"
+msgstr "I'll come with you... if you protect me!"
+
+msgctxt "104_Tanimura"
+msgid "Huh? What're you saying?"
+msgstr "Huh? What're you saying?"
+
+msgctxt "116_Shady Man"
+msgid ""
+"Use the cops and protect me! If they find out I've been caught, I'm a dead "
+"man..."
+msgstr ""
+"Use the cops and protect me! If they find out I've been caught, I'm a dead "
+"man..."
+
+msgctxt "128_Tanimura"
+msgid "Who's they?"
+msgstr "Who's they?"
+
+msgctxt "140_Shady Man"
+msgid ""
+"Guy called GG. Once he sets his sights on you, you'll never escape until he "
+"kills you."
+msgstr ""
+"Guy called GG. Once he sets his sights on you, you'll never escape until he "
+"kills you."
+
+msgctxt "152_Tanimura"
+msgid "GG!? He's the guy Nair is looking for..."
+msgstr "GG!? He's the guy Nair is looking for..."
+
+msgctxt "164_Tanimura"
+msgid "What did this GG guy tell you?"
+msgstr "What did this GG guy tell you?"
+
+msgctxt "176_Shady Man"
+msgid "I don't know anything! I was just asked to do a job!"
+msgstr "I don't know anything! I was just asked to do a job!"
+
+msgctxt "188_Tanimura"
+msgid "What were you asked to do?"
+msgstr "What were you asked to do?"
+
+msgctxt "200_Shady Man"
+msgid "To get a massive amount of firearms and a chopper."
+msgstr "To get a massive amount of firearms and a chopper."
+
+msgctxt "212_Tanimura"
+msgid "A chopper? You mean, like a helicopter?"
+msgstr "A chopper? You mean, like a helicopter?"
+
+msgctxt "224_Shady Man"
+msgid ""
+"That's right. But I don't know what he plans to use it for!\r\n"
+"That's all I know!"
+msgstr ""
+"That's right. But I don't know what he plans to use it for!\r\n"
+"That's all I know!"
+
+msgctxt "236_Tanimura"
+msgid ""
+"All right, I got it, just calm down. The police will take you into "
+"protective custody and－"
+msgstr ""
+"All right, I got it, just calm down. The police will take you into "
+"protective custody and－"
+
+msgctxt "308_Tanimura"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "320_Shady Man"
+msgid "Ugh..."
+msgstr "Ugh..."
+
+msgctxt "332_Tanimura"
+msgid "Hey... Hey!"
+msgstr "Hey... Hey!"
+
+msgctxt "344_Shady Man"
+msgid "Guh... Ungh..."
+msgstr "Guh... Ungh..."
+
+msgctxt "356_Tanimura"
+msgid "Hey! Somebody call an ambulance!"
+msgstr "Hey! Somebody call an ambulance!"
+
+msgctxt "368_Officer"
+msgid "Tanimura-san! We heard a gunshot...?"
+msgstr "Tanimura-san! We heard a gunshot...?"
+
+msgctxt "380_Tanimura"
+msgid "Yes, this man's been shot. The shooter has to be somewhere nearby!"
+msgstr "Yes, this man's been shot. The shooter has to be somewhere nearby!"
+
+msgctxt "392_Officer"
+msgid "What!? HQ! HQ, can you hear me!?"
+msgstr "What!? HQ! HQ, can you hear me!?"
+
+msgctxt "464_Tanimura"
+msgid ""
+"(Looks like they were able to shut him up... Firearms and a helicopter... I "
+"need to report this to Nair.)"
+msgstr ""
+"(Looks like they were able to shut him up... Firearms and a helicopter... I "
+"need to report this to Nair.)"

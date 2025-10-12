@@ -1,0 +1,113 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3052"
+msgid "Owner"
+msgstr "Proprietario"
+
+msgctxt "3056"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "3060"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "3064"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "3068"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "3072"
+msgid "2d_cf_pict_nigaoe_hana"
+msgstr "2d_cf_pict_nigaoe_hana"
+
+msgctxt "3076"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "3080"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3084"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "3088"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "112_Owner"
+msgid "Well, if it isn't Akiyama-san!"
+msgstr "Well, if it isn't Akiyama-san!"
+
+msgctxt "124_Akiyama"
+msgid "Hey there, Chef. How's your back?"
+msgstr "Hey there, Chef. How's your back?"
+
+msgctxt "136_Owner"
+msgid ""
+"Oh, it's jacked... Honestly, I'm achin' all the time. Hurts\r\n"
+"so damn much, I can't even get down the stairs."
+msgstr ""
+"Oh, it's jacked... Honestly, I'm achin' all the time. Hurts\r\n"
+"so damn much, I can't even get down the stairs."
+
+msgctxt "148_Akiyama"
+msgid ""
+"Sorry to hear that... Listen, can I ask you to contact me if\r\n"
+"you see anybody like this?"
+msgstr ""
+"Sorry to hear that... Listen, can I ask you to contact me if\r\n"
+"you see anybody like this?"
+
+msgctxt "160_Owner"
+msgid "The hell's this? Your daughter draw it?"
+msgstr "The hell's this? Your daughter draw it?"
+
+msgctxt "172_Akiyama"
+msgid ""
+"Like I've got kids...? Look, I know it's terrible, but\r\n"
+"apparently it really captures the essence of the guy."
+msgstr ""
+"Like I've got kids...? Look, I know it's terrible, but\r\n"
+"apparently it really captures the essence of the guy."
+
+msgctxt "184_Owner"
+msgid "You don't say...? Well, okay. I'll show it to my staff."
+msgstr "You don't say...? Well, okay. I'll show it to my staff."
+
+msgctxt "196_Akiyama"
+msgid "Thanks. I'll have to bring Hana-chan by one of these days."
+msgstr "Thanks. I'll have to bring Hana-chan by one of these days."
+
+msgctxt "208_Owner"
+msgid ""
+"Sure thing! But call me the day before, will ya? I gotta\r\n"
+"stock up before she gets here! That gal can eat! Gahaha!"
+msgstr ""
+"Sure thing! But call me the day before, will ya? I gotta\r\n"
+"stock up before she gets here! That gal can eat! Gahaha!"
+
+msgctxt "220_Akiyama"
+msgid ""
+"(Now for the Poppo in Nakamichi Alley. It's pretty desolate over that way..."
+" No telling what sort of shady characters might drop in.)"
+msgstr ""
+"(Now for the Poppo in Nakamichi Alley. It's pretty desolate over that way..."
+" No telling what sort of shady characters might drop in.)"

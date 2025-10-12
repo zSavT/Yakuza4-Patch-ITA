@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "120"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr "You got <Color:8>10,000 yen<Color:Default>."
+
+msgctxt "1964"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1968"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1972"
+msgid "Salesman-like Man"
+msgstr "Salesman-like Man"
+
+msgctxt "1976"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1980"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "72_Tanimura"
+msgid "Mmhm. Then what're you selling?"
+msgstr "Mmhm. Then what're you selling?"
+
+msgctxt "84_Salesman-like Man"
+msgid "Um, hemorrhoid cream... Hair growth restorer... Toupées..."
+msgstr "Um, hemorrhoid cream... Hair growth restorer... Toupées..."
+
+msgctxt "96_Tanimura"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "108_Salesman-like Man"
+msgid ""
+"Look, I'm just selling stuff that the top yakuza out there are too "
+"embarrassed to buy on their own! Come on! Just take this and leave me alone!"
+msgstr ""
+"Look, I'm just selling stuff that the top yakuza out there are too "
+"embarrassed to buy on their own! Come on! Just take this and leave me alone!"
+
+msgctxt "204_Salesman-like Man"
+msgid "I'm asking you, don't make a big deal over this."
+msgstr "I'm asking you, don't make a big deal over this."

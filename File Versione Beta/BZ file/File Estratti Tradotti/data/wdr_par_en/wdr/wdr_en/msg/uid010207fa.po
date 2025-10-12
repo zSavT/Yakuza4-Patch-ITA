@@ -1,0 +1,121 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4472"
+msgid "P_aki_stand"
+msgstr "P_aki_stand"
+
+msgctxt "4476"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "4480"
+msgid "Minamida"
+msgstr "Minamida"
+
+msgctxt "4484"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "4488"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "4492"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "4496"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4500"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "4504"
+msgid "Yakuza"
+msgstr "Yakuza"
+
+msgctxt "4508"
+msgid "Sukegawa"
+msgstr "Sukegawa"
+
+msgctxt "4512"
+msgid "Kakuda"
+msgstr "Kakuda"
+
+msgctxt "104_Minamida"
+msgid ""
+"Hm... My machine might come in handy if I can actually fix the darn thing!"
+msgstr ""
+"Hm... My machine might come in handy if I can actually fix the darn thing!"
+
+msgctxt "116_Minamida"
+msgid "You're a real lifesaver, by the way. Thank you!"
+msgstr "You're a real lifesaver, by the way. Thank you!"
+
+msgctxt "128_Akiyama"
+msgid "Glad I could help. That's some machine you have there."
+msgstr "Glad I could help. That's some machine you have there."
+
+msgctxt "140_Minamida"
+msgid ""
+"You want to know about my machine? Oh, I'm so glad you asked! This is the "
+"IF7-R, a creation of mine that allows you to relive your－"
+msgstr ""
+"You want to know about my machine? Oh, I'm so glad you asked! This is the "
+"IF7-R, a creation of mine that allows you to relive your－"
+
+msgctxt "152_Akiyama"
+msgid ""
+"Hey, I actually don't have that much time to chat right now. As for you..."
+msgstr ""
+"Hey, I actually don't have that much time to chat right now. As for you..."
+
+msgctxt "164_Yakuza"
+msgid "Shit..."
+msgstr "Merda..."
+
+msgctxt "176_Akiyama"
+msgid "I take it Hatsushiba-san's somewhere up ahead?"
+msgstr "I take it Hatsushiba-san's somewhere up ahead?"
+
+msgctxt "188_Yakuza"
+msgid ""
+"Damn right he is. It's not gonna be the cakewalk you're expecting, though. "
+"He's gonna wreck your scrawny ass."
+msgstr ""
+"Damn right he is. It's not gonna be the cakewalk you're expecting, though. "
+"He's gonna wreck your scrawny ass."
+
+msgctxt "200_Akiyama"
+msgid "Sorry, Suke-san, but I'll be going it alone from here."
+msgstr "Sorry, Suke-san, but I'll be going it alone from here."
+
+msgctxt "212_Sukegawa"
+msgid "Hey, I get it. You were a big help. Just be careful, you hear?"
+msgstr "Hey, I get it. You were a big help. Just be careful, you hear?"
+
+msgctxt "224_Akiyama"
+msgid "I will, thanks. Okay, Kaku-san, one more door."
+msgstr "I will, thanks. Okay, Kaku-san, one more door."
+
+msgctxt "236_Kakuda"
+msgid "Sure thing."
+msgstr "Sure thing."
+
+msgctxt "296_Akiyama"
+msgid "Thanks. See you guys later."
+msgstr "Thanks. See you guys later."

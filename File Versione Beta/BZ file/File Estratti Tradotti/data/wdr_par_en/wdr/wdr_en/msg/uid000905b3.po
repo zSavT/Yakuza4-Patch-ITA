@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "984"
+msgid "Chatty Businesswoman"
+msgstr "Chatty Businesswoman"
+
+msgctxt "988"
+msgid "Reserved Businesswoman"
+msgstr "Reserved Businesswoman"
+
+msgctxt "992"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "996"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "84_Chatty Businesswoman"
+msgid "Doesn't it seem like there are more... thugs around town?"
+msgstr "Doesn't it seem like there are more... thugs around town?"
+
+msgctxt "96_Reserved Businesswoman"
+msgid "Hm? I haven't noticed."
+msgstr "Hm? I haven't noticed."
+
+msgctxt "108_Chatty Businesswoman"
+msgid ""
+"Well there totally are! People like that usually stick to\r\n"
+"shadows, yet here they are roaming around in broad daylight!"
+msgstr ""
+"Well there totally are! People like that usually stick to\r\n"
+"shadows, yet here they are roaming around in broad daylight!"
+
+msgctxt "120_Chatty Businesswoman"
+msgid ""
+"I wonder if something's going on. Kamurocho is usually so\r\n"
+"safe and quiet, too!"
+msgstr ""
+"I wonder if something's going on. Kamurocho is usually so\r\n"
+"safe and quiet, too!"
+
+msgctxt "132_Reserved Businesswoman"
+msgid "Is it, though...?"
+msgstr "Is it, though...?"

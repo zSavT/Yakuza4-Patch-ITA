@@ -1,0 +1,106 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4172"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "4176"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "4180"
+msgid "P_stand_tlk_kamae"
+msgstr "P_stand_tlk_kamae"
+
+msgctxt "4184"
+msgid "p_dam_end"
+msgstr "p_dam_end"
+
+msgctxt "4188"
+msgid "Hamazaki"
+msgstr "Hamazaki"
+
+msgctxt "4192"
+msgid "P_sae_stand_tlk_kamae"
+msgstr "P_sae_stand_tlk_kamae"
+
+msgctxt "4196"
+msgid "P_sae_stand"
+msgstr "P_sae_stand"
+
+msgctxt "4200"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4204"
+msgid "0"
+msgstr ""
+
+msgctxt "4208"
+msgid "Prison Guards"
+msgstr "Guardie carcerarie"
+
+msgctxt "4212"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "4216"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "88_Saejima"
+msgid "Whew..."
+msgstr "Fiuu..."
+
+msgctxt "100_Saejima"
+msgid "Sorry, but I ain't gettin' caught. Not today."
+msgstr "Mi dispiace, ma non mi farò prendere. Non oggi."
+
+msgctxt "112_Hamazaki"
+msgid "You all right?"
+msgstr "Stai bene?"
+
+msgctxt "124_Saejima"
+msgid "No problems here. How 'bout you?"
+msgstr "Nessun problema. E tu?"
+
+msgctxt "136_Hamazaki"
+msgid "I've got everything I need. Let's roll."
+msgstr "Ho tutto ciò che mi serve. Andiamo."
+
+msgctxt "148_Saejima"
+msgid "'Bout time."
+msgstr "Era ora."
+
+msgctxt "196_Saejima"
+msgid "Finally here..."
+msgstr "Finalmente qui..."
+
+msgctxt "256_Saejima"
+msgid "You're not done yet? What gives?"
+msgstr "Non hai ancora finito? Che succede?"
+
+msgctxt "268_Hamazaki"
+msgid "None of this proves a damn thing! I need hard evidence!"
+msgstr ""
+"Niente di tutto questo prova un bel niente! Mi servono prove concrete!"
+
+msgctxt "304_Saejima"
+msgid "Dammit!"
+msgstr "Maledizione!"
+
+msgctxt "340_Prison Guards"
+msgid "Stop right there! This is as far as you go!"
+msgstr "Fermi lì! La vostra corsa finisce qui!"

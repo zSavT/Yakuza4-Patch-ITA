@@ -1,0 +1,36 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "564"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "568"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "72_Kiryu"
+msgid "(Hm? I got an email.)"
+msgstr "(Mh? Ho ricevuto un'email.)"
+
+msgctxt "96_Kiryu"
+msgid "(\"Four years ago,\" huh? That could be just about anybody.)"
+msgstr "(\"Quattro anni fa\", eh? Potrebbe essere chiunque.)"
+
+msgctxt "108_Kiryu"
+msgid ""
+"(Guess I'll find out what it's about if I drop by Yoshida Batting Center.)"
+msgstr ""
+"(Immagino che scoprirò di cosa si tratta se faccio un salto allo Yoshida "
+"Batting Center.)"

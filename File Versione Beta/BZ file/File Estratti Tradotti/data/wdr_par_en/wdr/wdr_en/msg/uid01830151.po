@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "240"
+msgid "I'm starving!"
+msgstr "I'm starving!"
+
+msgctxt "752"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "756"
+msgid "HAL_stand_tlk_happy_small"
+msgstr "HAL_stand_tlk_happy_small"
+
+msgctxt "228_Haruka"
+msgid "Uncle Kaz, let's go in here!"
+msgstr "Uncle Kaz, let's go in here!"
+
+msgctxt "264_Haruka"
+msgid "Uncle Kaz, let's go in here!"
+msgstr "Uncle Kaz, let's go in here!"

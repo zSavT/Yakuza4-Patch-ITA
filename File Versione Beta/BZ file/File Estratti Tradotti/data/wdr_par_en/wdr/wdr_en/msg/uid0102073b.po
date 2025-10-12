@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1744"
+msgid "P_aki_stand_nml_daijyoyu_lp"
+msgstr "P_aki_stand_nml_daijyoyu_lp"
+
+msgctxt "1748"
+msgid "P_aki_stand_nml_walk_daijyoyu"
+msgstr "P_aki_stand_nml_walk_daijyoyu"
+
+msgctxt "1752"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1756"
+msgid "P_aki_stand_tlk_kamae"
+msgstr "P_aki_stand_tlk_kamae"
+
+msgctxt "1760"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "92_Akiyama"
+msgid "(What the!?)"
+msgstr "(What the!?)"
+
+msgctxt "128_Akiyama"
+msgid "(He's... He's dead!)"
+msgstr "(He's... He's dead!)"
+
+msgctxt "140_Akiyama"
+msgid "(Must have been like this for a few days now, by the smell of it...)"
+msgstr "(Must have been like this for a few days now, by the smell of it...)"

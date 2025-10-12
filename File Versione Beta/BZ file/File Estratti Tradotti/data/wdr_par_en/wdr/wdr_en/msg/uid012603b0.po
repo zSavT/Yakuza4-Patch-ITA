@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "116"
+msgid "Who are you going to call?"
+msgstr "Who are you going to call?"
+
+msgctxt "1740"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "1744"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "1748"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "128_Player"
+msgid "(Let's give Rio a call...)"
+msgstr "(Let's give Rio a call...)"
+
+msgctxt "188_Player"
+msgid "(Let's give Noa a call...)"
+msgstr "(Let's give Noa a call...)"
+
+msgctxt "248_Player"
+msgid "(Let's give Erena a call...)"
+msgstr "(Let's give Erena a call...)"
+
+msgctxt "308_Player"
+msgid "Rio"
+msgstr "Rio"
+
+msgctxt "320_Player"
+msgid "Noa Mizutani"
+msgstr "Noa Mizutani"
+
+msgctxt "332_Player"
+msgid "Erena Aihara"
+msgstr "Erena Aihara"

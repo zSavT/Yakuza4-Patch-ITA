@@ -1,0 +1,233 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "7328"
+msgid "Gambler"
+msgstr "Gambler"
+
+msgctxt "7332"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "7336"
+msgid "HAL_stand_tlk_happy_small"
+msgstr "HAL_stand_tlk_happy_small"
+
+msgctxt "7340"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "7344"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "7348"
+msgid "Staff"
+msgstr "Staff"
+
+msgctxt "7352"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "7356"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "7360"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "352_Gambler"
+msgid ""
+"Ya need at least 100 chips to play oicho-kabu. You can buy 'em at the front."
+msgstr ""
+"Ya need at least 100 chips to play oicho-kabu. You can buy 'em at the front."
+
+msgctxt "364_Gambler"
+msgid "Hey, buddy! Wanna play oicho-kabu?"
+msgstr "Hey, buddy! Wanna play oicho-kabu?"
+
+msgctxt "388_Haruka"
+msgid ""
+"Oooh, oicho-kabu! You know how to play, right, Uncle Kaz? Could you get 300 "
+"points in a game?"
+msgstr ""
+"Oooh, oicho-kabu! You know how to play, right, Uncle Kaz? Could you get 300 "
+"points in a game?"
+
+msgctxt "400_Kiryu"
+msgid "(300 points in oicho-kabu... Should I give it a try?)"
+msgstr "(300 points in oicho-kabu... Should I give it a try?)"
+
+msgctxt "412_Gambler"
+msgid "Sure, I'll play."
+msgstr "Sure, I'll play."
+
+msgctxt "424_Gambler"
+msgid "You got it! Let's do this!"
+msgstr "You got it! Let's do this!"
+
+msgctxt "436_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr "Good luck, Uncle Kaz!"
+
+msgctxt "460_Gambler"
+msgid "Not right now."
+msgstr "Not right now."
+
+msgctxt "472_Gambler"
+msgid "I gotcha. Maybe next time."
+msgstr "I gotcha. Maybe next time."
+
+msgctxt "484_Haruka"
+msgid "Aww... I wanted you to play oicho-kabu..."
+msgstr "Aww... I wanted you to play oicho-kabu..."
+
+msgctxt "496_Haruka"
+msgid ""
+"Hey, Uncle Kaz! Let's play oicho-kabu! Let's see... Oh, we could go for 600 "
+"points! Can we, please?"
+msgstr ""
+"Hey, Uncle Kaz! Let's play oicho-kabu! Let's see... Oh, we could go for 600 "
+"points! Can we, please?"
+
+msgctxt "508_Kiryu"
+msgid "(600 points in oicho-kabu... Should I give it a try?)"
+msgstr "(600 points in oicho-kabu... Should I give it a try?)"
+
+msgctxt "520_Gambler"
+msgid "Sure, I'll play."
+msgstr "Sure, I'll play."
+
+msgctxt "532_Gambler"
+msgid "You got it! Let's do this!"
+msgstr "You got it! Let's do this!"
+
+msgctxt "544_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr "Good luck, Uncle Kaz!"
+
+msgctxt "568_Gambler"
+msgid "Not right now."
+msgstr "Not right now."
+
+msgctxt "580_Gambler"
+msgid "I gotcha. Maybe next time."
+msgstr "I gotcha. Maybe next time."
+
+msgctxt "592_Haruka"
+msgid "Aww, I really wanted to watch you play..."
+msgstr "Aww, I really wanted to watch you play..."
+
+msgctxt "616_Gambler"
+msgid ""
+"Ya need at least 100 chips to play oicho-kabu. You can buy 'em at the front."
+msgstr ""
+"Ya need at least 100 chips to play oicho-kabu. You can buy 'em at the front."
+
+msgctxt "628_Gambler"
+msgid "This here's where you can play oicho-kabu. You down?"
+msgstr "This here's where you can play oicho-kabu. You down?"
+
+msgctxt "640_Gambler"
+msgid "This here's where you can play oicho-kabu. You down?"
+msgstr "This here's where you can play oicho-kabu. You down?"
+
+msgctxt "652_Gambler"
+msgid "This here's where you can play oicho-kabu. You down?"
+msgstr "This here's where you can play oicho-kabu. You down?"
+
+msgctxt "664_Gambler"
+msgid "Yeah, I'll play."
+msgstr "Yeah, I'll play."
+
+msgctxt "676_Staff"
+msgid "All right! Let's get this started, then."
+msgstr "All right! Let's get this started, then."
+
+msgctxt "700_Gambler"
+msgid "Yeah, I'll play."
+msgstr "Yeah, I'll play."
+
+msgctxt "712_Staff"
+msgid "All right! Let's get this started, then."
+msgstr "All right! Let's get this started, then."
+
+msgctxt "736_Gambler"
+msgid "Yeah, I'll play."
+msgstr "Yeah, I'll play."
+
+msgctxt "748_Staff"
+msgid "All right! Let's get this started, then."
+msgstr "All right! Let's get this started, then."
+
+msgctxt "772_Gambler"
+msgid "Not right now."
+msgstr "Not right now."
+
+msgctxt "784_Staff"
+msgid "Darn. Well, see you later, I hope."
+msgstr "Darn. Well, see you later, I hope."
+
+msgctxt "796_Gambler"
+msgid "Play"
+msgstr "Play"
+
+msgctxt "808_Gambler"
+msgid "Not Now"
+msgstr "Not Now"
+
+msgctxt "820_Gambler"
+msgid "Play"
+msgstr "Play"
+
+msgctxt "832_Gambler"
+msgid "Not Now"
+msgstr "Not Now"
+
+msgctxt "844_Gambler"
+msgid "Play a Beginner Game"
+msgstr "Play a Beginner Game"
+
+msgctxt "856_Gambler"
+msgid "Not Now"
+msgstr "Not Now"
+
+msgctxt "868_Gambler"
+msgid "Play a Beginner Game"
+msgstr "Play a Beginner Game"
+
+msgctxt "880_Gambler"
+msgid "Play an Intermediate Game"
+msgstr "Play an Intermediate Game"
+
+msgctxt "892_Gambler"
+msgid "Not Now"
+msgstr "Not Now"
+
+msgctxt "904_Gambler"
+msgid "Play a Beginner Game"
+msgstr "Play a Beginner Game"
+
+msgctxt "916_Gambler"
+msgid "Play an Intermediate Game"
+msgstr "Play an Intermediate Game"
+
+msgctxt "928_Gambler"
+msgid "Play an Advanced Game"
+msgstr "Play an Advanced Game"
+
+msgctxt "940_Gambler"
+msgid "Not Now"
+msgstr "Not Now"

@@ -1,0 +1,283 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "320"
+msgid "You got a <Color:8>Photo of Akune<Color:Default>."
+msgstr "You got a <Color:8>Photo of Akune<Color:Default>."
+
+msgctxt "380"
+msgid "You got a <Color:8>Photo of Kamei<Color:Default>."
+msgstr "You got a <Color:8>Photo of Kamei<Color:Default>."
+
+msgctxt "440"
+msgid "You got a <Color:8>Photo of Maria<Color:Default>."
+msgstr "You got a <Color:8>Photo of Maria<Color:Default>."
+
+msgctxt "7124"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "7128"
+msgid "Talk_SmileBig_st"
+msgstr "Talk_SmileBig_st"
+
+msgctxt "7132"
+msgid "Scowling Homeless Man"
+msgstr "Scowling Homeless Man"
+
+msgctxt "7136"
+msgid "Talk_SmileBig_ed"
+msgstr "Talk_SmileBig_ed"
+
+msgctxt "7140"
+msgid "Groomed Homeless Man"
+msgstr "Groomed Homeless Man"
+
+msgctxt "7144"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "7148"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "7152"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "7156"
+msgid "Distinguished Homeless Man"
+msgstr "Distinguished Homeless Man"
+
+msgctxt "7160"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "7164"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "7168"
+msgid "2d_cf_pict_target1"
+msgstr "2d_cf_pict_target1"
+
+msgctxt "7172"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "7176"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "7180"
+msgid "2d_cf_pict_target2"
+msgstr "2d_cf_pict_target2"
+
+msgctxt "7184"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "7188"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "7192"
+msgid "2d_cf_pict_target3"
+msgstr "2d_cf_pict_target3"
+
+msgctxt "7196"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "7200"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "7204"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "7208"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "7212"
+msgid "SetM_old_stand_talk"
+msgstr "SetM_old_stand_talk"
+
+msgctxt "7216"
+msgid "SetM_nml_sitgrd_agura_03"
+msgstr "SetM_nml_sitgrd_agura_03"
+
+msgctxt "7220"
+msgid "0"
+msgstr ""
+
+msgctxt "56_Tanimura"
+msgid "(Is it... this place?)"
+msgstr "(Is it... this place?)"
+
+msgctxt "68_Tanimura"
+msgid "Hey, is this the Dragon Palace?"
+msgstr "Hey, is this the Dragon Palace?"
+
+msgctxt "80_Scowling Homeless Man"
+msgid "Get outta here, kid."
+msgstr "Get outta here, kid."
+
+msgctxt "92_Groomed Homeless Man"
+msgid "Yeah, beat it. Don't know nothin' about no Dragon Palace."
+msgstr "Yeah, beat it. Don't know nothin' about no Dragon Palace."
+
+msgctxt "104_Tanimura"
+msgid "You sure about that?"
+msgstr "You sure about that?"
+
+msgctxt "116_Groomed Homeless Man"
+msgid "Oh, I'm sure."
+msgstr "Oh, I'm sure."
+
+msgctxt "128_Tanimura"
+msgid "All right..."
+msgstr "All right..."
+
+msgctxt "140_Distinguished Homeless Man"
+msgid "Wait a second, young man."
+msgstr "Wait a second, young man."
+
+msgctxt "152_Tanimura"
+msgid "Hmm?"
+msgstr "Hmm?"
+
+msgctxt "164_Distinguished Homeless Man"
+msgid "Why are you looking for the Dragon Palace?"
+msgstr "Why are you looking for the Dragon Palace?"
+
+msgctxt "176_Tanimura"
+msgid "I just have a few expenses I need to cover. Why do you ask?"
+msgstr "I just have a few expenses I need to cover. Why do you ask?"
+
+msgctxt "188_Distinguished Homeless Man"
+msgid ""
+"I was thinking you could help me out. If you do, I'll show\r\n"
+"you into the Dragon Palace."
+msgstr ""
+"I was thinking you could help me out. If you do, I'll show\r\n"
+"you into the Dragon Palace."
+
+msgctxt "200_Tanimura"
+msgid "You will?"
+msgstr "You will?"
+
+msgctxt "212_Groomed Homeless Man"
+msgid ""
+"Come on, boss! You're not really gonna show him, are you?\r\n"
+"That's a trade secret!"
+msgstr ""
+"Come on, boss! You're not really gonna show him, are you?\r\n"
+"That's a trade secret!"
+
+msgctxt "224_Scowling Homeless Man"
+msgid "Yeah! And besides, I don't like the look of this kid!"
+msgstr "Yeah! And besides, I don't like the look of this kid!"
+
+msgctxt "236_Distinguished Homeless Man"
+msgid ""
+"Now, now. Don't be like that. Besides, we do need a\r\n"
+"little help, don't we?"
+msgstr ""
+"Now, now. Don't be like that. Besides, we do need a\r\n"
+"little help, don't we?"
+
+msgctxt "248_Distinguished Homeless Man"
+msgid ""
+"The truth is, some customers ran off without paying their tabs. I'm sure a "
+"young fellow like you could catch them."
+msgstr ""
+"The truth is, some customers ran off without paying their tabs. I'm sure a "
+"young fellow like you could catch them."
+
+msgctxt "260_Tanimura"
+msgid "Do you have any idea where they could be?"
+msgstr "Do you have any idea where they could be?"
+
+msgctxt "284_Distinguished Homeless Man"
+msgid "I have their pictures and their descriptions right here."
+msgstr "I have their pictures and their descriptions right here."
+
+msgctxt "308_Scowling Homeless Man"
+msgid "There's three of 'em. The first is a lawyer named Akune."
+msgstr "There's three of 'em. The first is a lawyer named Akune."
+
+msgctxt "344_Scowling Homeless Man"
+msgid ""
+"He's a really fast runner. He slips away right when ya think\r\n"
+"you got him."
+msgstr ""
+"He's a really fast runner. He slips away right when ya think\r\n"
+"you got him."
+
+msgctxt "356_Scowling Homeless Man"
+msgid "He's sometimes seen in the underground parking lot."
+msgstr "He's sometimes seen in the underground parking lot."
+
+msgctxt "368_Groomed Homeless Man"
+msgid "The second is a surgeon named Kamei."
+msgstr "The second is a surgeon named Kamei."
+
+msgctxt "404_Groomed Homeless Man"
+msgid ""
+"He may be a doctor, but he's an avid kick boxer, too.\r\n"
+"He even beat the hell out of our buddy Nori-san the other\r\n"
+"day."
+msgstr ""
+"He may be a doctor, but he's an avid kick boxer, too.\r\n"
+"He even beat the hell out of our buddy Nori-san the other\r\n"
+"day."
+
+msgctxt "416_Groomed Homeless Man"
+msgid "He's sometimes seen in the Champion District."
+msgstr "He's sometimes seen in the Champion District."
+
+msgctxt "428_Distinguished Homeless Man"
+msgid "The third person is Maria. She owns a high-end club."
+msgstr "The third person is Maria. She owns a high-end club."
+
+msgctxt "464_Distinguished Homeless Man"
+msgid ""
+"She uses her vast wealth to hire a group of tough-looking\r\n"
+"bodyguards."
+msgstr ""
+"She uses her vast wealth to hire a group of tough-looking\r\n"
+"bodyguards."
+
+msgctxt "476_Distinguished Homeless Man"
+msgid ""
+"She's always around the Millennium Tower, but we can't get anywhere near "
+"her. That'd only get us beaten to a pulp."
+msgstr ""
+"She's always around the Millennium Tower, but we can't get anywhere near "
+"her. That'd only get us beaten to a pulp."
+
+msgctxt "488_Distinguished Homeless Man"
+msgid "Do you have any questions?"
+msgstr "Do you have any questions?"
+
+msgctxt "500_Tanimura"
+msgid "No, I think I got it. Akune, Kamei, and Maria..."
+msgstr "No, I think I got it. Akune, Kamei, and Maria..."
+
+msgctxt "512_Distinguished Homeless Man"
+msgid "Great. We'll be waiting here for you."
+msgstr "Great. We'll be waiting here for you."

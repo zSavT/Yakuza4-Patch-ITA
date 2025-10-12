@@ -1,0 +1,101 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2796"
+msgid "Kondo"
+msgstr "Kondo"
+
+msgctxt "2800"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "2804"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2808"
+msgid "Akaishi"
+msgstr "Akaishi"
+
+msgctxt "2812"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2816"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "2820"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "56_Kondo"
+msgid "I'm sorry! Please, no more, no more!"
+msgstr "I'm sorry! Please, no more, no more!"
+
+msgctxt "68_Kondo"
+msgid ""
+"I swear I won't do anythin' to get in your way again. Just please, let this "
+"one go!"
+msgstr ""
+"I swear I won't do anythin' to get in your way again. Just please, let this "
+"one go!"
+
+msgctxt "80_Akaishi"
+msgid ""
+"Listen here, Kondo-san, maybe our work does get in the way of your business."
+msgstr ""
+"Listen here, Kondo-san, maybe our work does get in the way of your business."
+
+msgctxt "92_Akaishi"
+msgid ""
+"You can hate me all you like, but if you got somethin' to say, don't pussy "
+"out. You come talk to the man in charge!"
+msgstr ""
+"You can hate me all you like, but if you got somethin' to say, don't pussy "
+"out. You come talk to the man in charge!"
+
+msgctxt "104_Akaishi"
+msgid "Got that, asshole!?"
+msgstr "Got that, asshole!?"
+
+msgctxt "116_Kondo"
+msgid "Yes... Yes, sir!"
+msgstr "Yes... Yes, sir!"
+
+msgctxt "128_Akaishi"
+msgid ""
+"You ever try this bullshit again and you won't get off with just a beating!"
+msgstr ""
+"You ever try this bullshit again and you won't get off with just a beating!"
+
+msgctxt "152_Akaishi"
+msgid ""
+"How long you gonna keep messin' around with this yakuza crap, anyhow? You "
+"decide you want out, you come talk to me anytime."
+msgstr ""
+"How long you gonna keep messin' around with this yakuza crap, anyhow? You "
+"decide you want out, you come talk to me anytime."
+
+msgctxt "164_Akaishi"
+msgid "Tanimura-san, let's get the hell outta here."
+msgstr "Tanimura-san, let's get the hell outta here."
+
+msgctxt "176_Tanimura"
+msgid "Yeah, okay... Kondo-san, I'd watch what I do if I were you."
+msgstr "Yeah, okay... Kondo-san, I'd watch what I do if I were you."
+
+msgctxt "188_Kondo"
+msgid "......"
+msgstr "......"

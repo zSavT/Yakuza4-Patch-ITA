@@ -1,0 +1,245 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "380"
+msgid "I should get going. Bye bye!"
+msgstr "I should get going. Bye bye!"
+
+msgctxt "440"
+msgid "I should get going. Bye bye!"
+msgstr "I should get going. Bye bye!"
+
+msgctxt "512"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "1004"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "13668"
+msgid "望月京子：源氏名"
+msgstr "望月京子：源氏名"
+
+msgctxt "13672"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13676"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "13680"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13684"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "13688"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13692"
+msgid "0"
+msgstr ""
+
+msgctxt "116_望月京子：源氏名"
+msgid "Alright! There's no way I'm losing! Let's go in and settle this!"
+msgstr "Alright! There's no way I'm losing! Let's go in and settle this!"
+
+msgctxt "128_Player"
+msgid "We'll see about that..."
+msgstr "We'll see about that..."
+
+msgctxt "140_望月京子：源氏名"
+msgid "Let's go inside, then."
+msgstr "Let's go inside, then."
+
+msgctxt "164_望月京子：源氏名"
+msgid "Alright! There's no way I'm losing! Let's go in and settle this!"
+msgstr "Alright! There's no way I'm losing! Let's go in and settle this!"
+
+msgctxt "176_Talk_Yes"
+msgid "Let's go inside, then."
+msgstr "Let's go inside, then."
+
+msgctxt "188_Player"
+msgid "Wait a minute. I just realized that I'm short on cash."
+msgstr "Wait a minute. I just realized that I'm short on cash."
+
+msgctxt "200_望月京子：源氏名"
+msgid "...Seriously?"
+msgstr "...Seriously?"
+
+msgctxt "212_Player"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "224_望月京子：源氏名"
+msgid ""
+"From the way you act, I thought you had plenty of money. Oh well. I'll see "
+"you later."
+msgstr ""
+"From the way you act, I thought you had plenty of money. Oh well. I'll see "
+"you later."
+
+msgctxt "236_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr "(I should've made sure I had some cash...)"
+
+msgctxt "344_望月京子：源氏名"
+msgid "That was amazing! You got the strength and the control down!"
+msgstr "That was amazing! You got the strength and the control down!"
+
+msgctxt "356_Player"
+msgid "Heh. Thanks."
+msgstr "Heh. Thanks."
+
+msgctxt "368_望月京子：源氏名"
+msgid ""
+"I had so much fun today. We should do this again sometime. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"I had so much fun today. We should do this again sometime. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "404_望月京子：源氏名"
+msgid "Man, that was so close! A tie, though, huh..."
+msgstr "Man, that was so close! A tie, though, huh..."
+
+msgctxt "416_Player"
+msgid "I totally thought I had you."
+msgstr "I totally thought I had you."
+
+msgctxt "428_望月京子：源氏名"
+msgid ""
+"Was still a good game!  Next time, we can try something else. Catch ya "
+"later."
+msgstr ""
+"Was still a good game!  Next time, we can try something else. Catch ya "
+"later."
+
+msgctxt "464_望月京子：源氏名"
+msgid "Too bad! I win this time. <Color:7>♥<Color:Default>"
+msgstr "Too bad! I win this time. <Color:7>♥<Color:Default>"
+
+msgctxt "476_Player"
+msgid "Yeah... I didn't stand a chance."
+msgstr "Yeah... I didn't stand a chance."
+
+msgctxt "488_望月京子：源氏名"
+msgid "That was pretty fun. I should get going. Bye bye!"
+msgstr "That was pretty fun. I should get going. Bye bye!"
+
+msgctxt "596_望月京子：源氏名"
+msgid "Hehehehe... I won't lose to you, %s-san."
+msgstr "Hehehehe... I won't lose to you, %s-san."
+
+msgctxt "608_Talk_Yes"
+msgid "Let's do this already!"
+msgstr "Let's do this already!"
+
+msgctxt "620_Player"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "644_望月京子：源氏名"
+msgid "Hehehehehe... I won't lose to you, %s-san."
+msgstr "Hehehehehe... I won't lose to you, %s-san."
+
+msgctxt "656_Talk_Yes"
+msgid "Let's do this already!"
+msgstr "Let's do this already!"
+
+msgctxt "668_Player"
+msgid "Wait a minute. I just realized that I'm short on cash."
+msgstr "Wait a minute. I just realized that I'm short on cash."
+
+msgctxt "680_望月京子：源氏名"
+msgid "...Seriously?"
+msgstr "...Seriously?"
+
+msgctxt "692_Player"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "704_望月京子：源氏名"
+msgid ""
+"From the way you act, I thought you had plenty of money. Oh well. I'll see "
+"you later."
+msgstr ""
+"From the way you act, I thought you had plenty of money. Oh well. I'll see "
+"you later."
+
+msgctxt "716_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr "(I should've made sure I had some cash...)"
+
+msgctxt "824_望月京子：源氏名"
+msgid "That was amazing! You got the strength and the control down!"
+msgstr "That was amazing! You got the strength and the control down!"
+
+msgctxt "836_Player"
+msgid "Heh. Thanks."
+msgstr "Heh. Thanks."
+
+msgctxt "848_望月京子：源氏名"
+msgid ""
+"I had so much fun today. Shall we head over to the club now? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"I had so much fun today. Shall we head over to the club now? "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "860_Player"
+msgid "Okay, sure."
+msgstr "Okay, sure."
+
+msgctxt "884_望月京子：源氏名"
+msgid "Man, so close! So, we tied..."
+msgstr "Man, so close! So, we tied..."
+
+msgctxt "896_Player"
+msgid "Thought I had you for a minute there."
+msgstr "Thought I had you for a minute there."
+
+msgctxt "908_望月京子：源氏名"
+msgid ""
+"It was still a good game!  Shall we head over to the club now? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"It was still a good game!  Shall we head over to the club now? "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "920_Player"
+msgid "Okay, sure."
+msgstr "Okay, sure."
+
+msgctxt "944_望月京子：源氏名"
+msgid "Too bad! I win this time. <Color:7>♥<Color:Default>"
+msgstr "Too bad! I win this time. <Color:7>♥<Color:Default>"
+
+msgctxt "956_Player"
+msgid "Yeah... I didn't stand a chance."
+msgstr "Yeah... I didn't stand a chance."
+
+msgctxt "968_望月京子：源氏名"
+msgid "That was pretty fun. Let's head to the club now."
+msgstr "That was pretty fun. Let's head to the club now."
+
+msgctxt "980_Player"
+msgid "Okay, sure."
+msgstr "Okay, sure."

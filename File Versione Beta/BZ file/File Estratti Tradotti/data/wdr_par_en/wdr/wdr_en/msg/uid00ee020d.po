@@ -1,0 +1,82 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3744"
+msgid "Mari"
+msgstr "Mari"
+
+msgctxt "3748"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "3752"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "136_Mari"
+msgid ""
+"Wow, you must be really accustomed to getting massages, sir! It was so easy "
+"to work on you. What did you think? Did it feel good?"
+msgstr ""
+"Wow, deve essere davvero abituato a farsi fare i massaggi, signore! È stato "
+"così facile lavorare su di lei. Che ne pensa? È stato piacevole?"
+
+msgctxt "148_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "160_Mari"
+msgid "Ehehe! I'm glad you enjoyed it! I'll walk you out, okay?"
+msgstr "Eheh! Sono contenta che le sia piaciuto! L'accompagno all'uscita, ok?"
+
+msgctxt "220_Mari"
+msgid ""
+"Thanks for coming by today! I hope you'll come back soon. We'll be waiting!"
+msgstr "Grazie per essere passato oggi! Spero tornerà presto. L'aspetteremo!"
+
+msgctxt "256_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "268_Mari"
+msgid ""
+"Boy, sir, you were way too tense. I can't do my job if you don't relax a "
+"little more..."
+msgstr ""
+"Caspita, signore, era troppo teso. Non posso fare il mio lavoro se non si "
+"rilassa un po' di più..."
+
+msgctxt "280_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "304_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "316_Mari"
+msgid ""
+"Wow, you fell asleep halfway through. You must've been in real bad shape, "
+"huh? That, or you just need to wake up a little more..."
+msgstr ""
+"Wow, si è addormentato a metà. Doveva essere messo proprio male, eh? O "
+"quello, o ha solo bisogno di svegliarsi un po' di più..."
+
+msgctxt "328_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "412_Mari"
+msgid "Thanks for coming today."
+msgstr "Grazie per essere venuto oggi."

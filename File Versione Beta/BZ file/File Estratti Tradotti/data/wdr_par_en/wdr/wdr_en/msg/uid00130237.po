@@ -1,0 +1,77 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "124"
+msgid "You got <Color:8>15,000 yen<Color:Default>."
+msgstr "You got <Color:8>15,000 yen<Color:Default>."
+
+msgctxt "2216"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "2220"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "2224"
+msgid "Stern-Looking Yakuza"
+msgstr "Stern-Looking Yakuza"
+
+msgctxt "2228"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "2232"
+msgid "Stern-Looking Officer"
+msgstr "Stern-Looking Officer"
+
+msgctxt "2236"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "2240"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "88_Tanimura"
+msgid ""
+"Maybe you should tell me why you took off like\r\n"
+"that. I think I've seen you before."
+msgstr ""
+"Maybe you should tell me why you took off like\r\n"
+"that. I think I've seen you before."
+
+msgctxt "100_Stern-Looking Yakuza"
+msgid ""
+"Heheh... Sorry about that, Tanimura-san. Listen, I'm a detective working "
+"undercover."
+msgstr ""
+"Heheh... Sorry about that, Tanimura-san. Listen, I'm a detective working "
+"undercover."
+
+msgctxt "112_Stern-Looking Officer"
+msgid ""
+"I can't believe I got in a fight and somebody called it in. I'll never hear "
+"the end of this. Take this and forget the whole thing."
+msgstr ""
+"I can't believe I got in a fight and somebody called it in. I'll never hear "
+"the end of this. Take this and forget the whole thing."
+
+msgctxt "196_Stern-Looking Officer"
+msgid "Heheh... You'll keep this between us, right?"
+msgstr "Heheh... You'll keep this between us, right?"
+
+msgctxt "220_Tanimura"
+msgid "Dammit... I lost him..."
+msgstr "Dammit... I lost him..."

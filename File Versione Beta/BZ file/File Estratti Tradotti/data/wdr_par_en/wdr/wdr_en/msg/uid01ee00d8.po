@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1212"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "1216"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "128_Player"
+msgid "(Maybe I should read the instructions for AnswerxAnswer...)"
+msgstr "(Maybe I should read the instructions for AnswerxAnswer...)"
+
+msgctxt "164_Player"
+msgid "(Okay, let's give it a go...)"
+msgstr "(Okay, let's give it a go...)"
+
+msgctxt "188_Player"
+msgid "(I don't have enough money...)"
+msgstr "(I don't have enough money...)"
+
+msgctxt "200_Player"
+msgid "(On second thought... maybe not.)"
+msgstr "(On second thought... maybe not.)"
+
+msgctxt "212_Player"
+msgid "Play"
+msgstr "Play"
+
+msgctxt "224_Player"
+msgid "Read the instructions."
+msgstr "Read the instructions."
+
+msgctxt "236_Player"
+msgid "Never Mind"
+msgstr "Never Mind"

@@ -1,0 +1,1107 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "35192"
+msgid "Attendant"
+msgstr "Attendant"
+
+msgctxt "35196"
+msgid "M_stand_tlk_shoukai"
+msgstr "M_stand_tlk_shoukai"
+
+msgctxt "35200"
+msgid "F_cab_stand_tlk_shoukai"
+msgstr "F_cab_stand_tlk_shoukai"
+
+msgctxt "35204"
+msgid "Chihiro"
+msgstr "Chihiro"
+
+msgctxt "35208"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr "F_cab_stand_tlk_ojigi_01"
+
+msgctxt "35212"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr "F_cab_sitsofa_tlk_suprise"
+
+msgctxt "35216"
+msgid "P_sitsofaR_tlk_yes"
+msgstr "P_sitsofaR_tlk_yes"
+
+msgctxt "35220"
+msgid "F_cab_sitsofa_tlk_ojigiA"
+msgstr "F_cab_sitsofa_tlk_ojigiA"
+
+msgctxt "35224"
+msgid "F_cab_sitsofa_tlk_he_yes"
+msgstr "F_cab_sitsofa_tlk_he_yes"
+
+msgctxt "35228"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "35232"
+msgid "P_sitsofaL_tlk_yes"
+msgstr "P_sitsofaL_tlk_yes"
+
+msgctxt "35236"
+msgid "P_sitsofaL_tlk_smile"
+msgstr "P_sitsofaL_tlk_smile"
+
+msgctxt "35240"
+msgid "F_cab_sitsofa_tlk_he_smile"
+msgstr "F_cab_sitsofa_tlk_he_smile"
+
+msgctxt "35244"
+msgid "F_cab_sitsofa_tlk_he_surp"
+msgstr "F_cab_sitsofa_tlk_he_surp"
+
+msgctxt "35248"
+msgid "P_sitsofaL_tlk_no"
+msgstr "P_sitsofaL_tlk_no"
+
+msgctxt "35252"
+msgid "F_cab_sitsofa_tlk_he_happy"
+msgstr "F_cab_sitsofa_tlk_he_happy"
+
+msgctxt "35256"
+msgid "F_cab_sitsofa_tlk_he_no"
+msgstr "F_cab_sitsofa_tlk_he_no"
+
+msgctxt "35260"
+msgid "Himeka"
+msgstr "Himeka"
+
+msgctxt "35264"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "35268"
+msgid "P_sitsofaR_tlk_comment"
+msgstr "P_sitsofaR_tlk_comment"
+
+msgctxt "35272"
+msgid "P_sitsofaR_tlk_smile"
+msgstr "P_sitsofaR_tlk_smile"
+
+msgctxt "35276"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "35280"
+msgid "F_cab_sitsofa_tlk_thinkA"
+msgstr "F_cab_sitsofa_tlk_thinkA"
+
+msgctxt "35284"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr "F_cab_sitsofa_tlk_yes"
+
+msgctxt "35288"
+msgid "Erena"
+msgstr "Erena"
+
+msgctxt "35292"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr "F_cab_sitsofa_tlk_noA"
+
+msgctxt "35296"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr "F_cab_sitsofa_talk_smileA"
+
+msgctxt "35300"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "35304"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr "F_cab_sitsofa_tlk_tereruA"
+
+msgctxt "35308"
+msgid "Noa"
+msgstr "Noa"
+
+msgctxt "35312"
+msgid "F_cab_sitsofa_sp1_sync_yop"
+msgstr "F_cab_sitsofa_sp1_sync_yop"
+
+msgctxt "35316"
+msgid "P_sitsofaR_tlk_no"
+msgstr "P_sitsofaR_tlk_no"
+
+msgctxt "35320"
+msgid "F_cab_sitsofa_tlk_gakkariA"
+msgstr "F_cab_sitsofa_tlk_gakkariA"
+
+msgctxt "35324"
+msgid "P_sitsofaR_tlk_quest"
+msgstr "P_sitsofaR_tlk_quest"
+
+msgctxt "35328"
+msgid "F_cab_sitsofa_sp2_sync_hiza"
+msgstr "F_cab_sitsofa_sp2_sync_hiza"
+
+msgctxt "35332"
+msgid "F_cab_sitsofa_tlk_commentA"
+msgstr "F_cab_sitsofa_tlk_commentA"
+
+msgctxt "35336"
+msgid "P_sitsofaR_tlk_ase"
+msgstr "P_sitsofaR_tlk_ase"
+
+msgctxt "35340"
+msgid "P_sitsofaR_tlk_think"
+msgstr "P_sitsofaR_tlk_think"
+
+msgctxt "35344"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr "F_cab_sitsofa_tlk_cry"
+
+msgctxt "35348"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr "F_cab_sitsofa_tlk_kamaeAtoB"
+
+msgctxt "35352"
+msgid "P_sitsofaR_tlk_angry"
+msgstr "P_sitsofaR_tlk_angry"
+
+msgctxt "924_Attendant"
+msgid "Sorry to keep you waiting."
+msgstr "Sorry to keep you waiting."
+
+msgctxt "948_Attendant"
+msgid "This is Chihiro."
+msgstr "This is Chihiro."
+
+msgctxt "972_Attendant"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1008_Attendant"
+msgid "Sorry to keep you waiting."
+msgstr "Sorry to keep you waiting."
+
+msgctxt "1032_Attendant"
+msgid "This is Chihiro."
+msgstr "This is Chihiro."
+
+msgctxt "1056_Attendant"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1092_Attendant"
+msgid "Sorry to keep you waiting."
+msgstr "Sorry to keep you waiting."
+
+msgctxt "1116_Attendant"
+msgid "This is Chihiro."
+msgstr "This is Chihiro."
+
+msgctxt "1140_Attendant"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1164_Chihiro"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1188_Attendant"
+msgid "My name is Chihiro! Do you mind if I sit here?"
+msgstr "My name is Chihiro! Do you mind if I sit here?"
+
+msgctxt "1200_Chihiro"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1224_Attendant"
+msgid "My name is Chihiro! Do you mind if I sit here?"
+msgstr "My name is Chihiro! Do you mind if I sit here?"
+
+msgctxt "1236_Chihiro"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1260_Attendant"
+msgid "My name is Chihiro! Do you mind if I sit here?"
+msgstr "My name is Chihiro! Do you mind if I sit here?"
+
+msgctxt "1272_Chihiro"
+msgid "Hello."
+msgstr "Hello."
+
+msgctxt "1284_F_cab_sitsofa_tlk_he_yes"
+msgid "My name is Chihiro."
+msgstr "My name is Chihiro."
+
+msgctxt "1320_Chihiro"
+msgid "Hello."
+msgstr "Hello."
+
+msgctxt "1332_F_cab_sitsofa_tlk_he_yes"
+msgid "Oh, you're back."
+msgstr "Oh, you're back."
+
+msgctxt "1368_Chihiro"
+msgid "Hello. Oh, Tanimura-san."
+msgstr "Hello. Oh, Tanimura-san."
+
+msgctxt "1380_F_cab_sitsofa_tlk_he_yes"
+msgid "You didn't request me today?"
+msgstr "You didn't request me today?"
+
+msgctxt "1392_Chihiro"
+msgid "Sorry, it sounds like another customer requested me!"
+msgstr "Sorry, it sounds like another customer requested me!"
+
+msgctxt "1404_Chihiro"
+msgid "Please enjoy the rest of your time here. ♪"
+msgstr "Please enjoy the rest of your time here. ♪"
+
+msgctxt "1416_Chihiro"
+msgid "Excuse me."
+msgstr "Scusami."
+
+msgctxt "1428_Chihiro"
+msgid ""
+"Chihiro Ikki does not appear for Kiryu's 1st or 3rd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Chihiro Ikki does not appear for Kiryu's 1st or 3rd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1440_Chihiro"
+msgid ""
+"Chihiro Ikki does not appear for Kiryu's 1st or 3rd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Chihiro Ikki does not appear for Kiryu's 1st or 3rd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1452_Chihiro"
+msgid ""
+"Chihiro Ikki does not appear for Kiryu's 1st or 3rd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Chihiro Ikki does not appear for Kiryu's 1st or 3rd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1464_Chihiro"
+msgid ""
+"Chihiro Ikki does not appear for Kiryu's 1st or 3rd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Chihiro Ikki does not appear for Kiryu's 1st or 3rd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "1476_Chihiro"
+msgid ""
+"Kazuma cannot request Chihiro Ikki. Contact the\r\n"
+"programmer if this message is displayed."
+msgstr ""
+"Kazuma cannot request Chihiro Ikki. Contact the\r\n"
+"programmer if this message is displayed."
+
+msgctxt "1488_Chihiro"
+msgid ""
+"Kazuma cannot request Chihiro Ikki. Contact the\r\n"
+"programmer if this message is displayed."
+msgstr ""
+"Kazuma cannot request Chihiro Ikki. Contact the\r\n"
+"programmer if this message is displayed."
+
+msgctxt "1500_Chihiro"
+msgid "I'm Chihiro. Nice to meet you."
+msgstr "I'm Chihiro. Nice to meet you."
+
+msgctxt "1512_Kiryu"
+msgid "Hi. I'm Kazuma Kiryu."
+msgstr "Hi. I'm Kazuma Kiryu."
+
+msgctxt "1524_Chihiro"
+msgid "Hello, Kiryu-san!"
+msgstr "Hello, Kiryu-san!"
+
+msgctxt "1536_Kiryu"
+msgid "Hmm... Are you new here?"
+msgstr "Hmm... Are you new here?"
+
+msgctxt "1548_Chihiro"
+msgid "That's right. You can tell?"
+msgstr "That's right. You can tell?"
+
+msgctxt "1560_Kiryu"
+msgid ""
+"Yeah. But you shouldn't worry about it. Everyone was a beginner at some "
+"point, right?"
+msgstr ""
+"Yeah. But you shouldn't worry about it. Everyone was a beginner at some "
+"point, right?"
+
+msgctxt "1572_Kiryu"
+msgid ""
+"You can tell when a girl's been here for a while. She can pay attention to "
+"the smallest details while still having a natural conversation."
+msgstr ""
+"You can tell when a girl's been here for a while. She can pay attention to "
+"the smallest details while still having a natural conversation."
+
+msgctxt "1584_Chihiro"
+msgid ""
+"Wow! You seem to have a lot of experience with hostess clubs. Maybe you can "
+"teach me a few things. <Color:7>♥<Color:Default>"
+msgstr ""
+"Wow! You seem to have a lot of experience with hostess clubs. Maybe you can "
+"teach me a few things. <Color:7>♥<Color:Default>"
+
+msgctxt "1596_Kiryu"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "1608_Chihiro"
+msgid "Do you like to go to plays?"
+msgstr "Do you like to go to plays?"
+
+msgctxt "1620_Kiryu"
+msgid ""
+"Not really. I watch dramas on TV, but I don't actually go to the theater."
+msgstr ""
+"Not really. I watch dramas on TV, but I don't actually go to the theater."
+
+msgctxt "1632_Chihiro"
+msgid "Oh? Well, I want to become an actress!"
+msgstr "Oh? Well, I want to become an actress!"
+
+msgctxt "1644_Kiryu"
+msgid "Really? You know, I was in a movie once."
+msgstr "Really? You know, I was in a movie once."
+
+msgctxt "1656_Chihiro"
+msgid "You were!? That's amazing!"
+msgstr "You were!? That's amazing!"
+
+msgctxt "1668_Kiryu"
+msgid ""
+"It wasn't a big deal. An actor got injured, so I stood in for him in a "
+"couple of scenes."
+msgstr ""
+"It wasn't a big deal. An actor got injured, so I stood in for him in a "
+"couple of scenes."
+
+msgctxt "1680_Chihiro"
+msgid "That's still amazing! I'm so jealous!"
+msgstr "That's still amazing! I'm so jealous!"
+
+msgctxt "1692_Kiryu"
+msgid "Anyway, I quickly realized I'm not made to be an actor."
+msgstr "Anyway, I quickly realized I'm not made to be an actor."
+
+msgctxt "1704_Chihiro"
+msgid "Oh. That's too bad."
+msgstr "Oh. That's too bad."
+
+msgctxt "1716_Chihiro"
+msgid "Kiryu-san! I saw that movie that you were in!"
+msgstr "Kiryu-san! I saw that movie that you were in!"
+
+msgctxt "1728_Kiryu"
+msgid "You did?"
+msgstr "You did?"
+
+msgctxt "1740_Chihiro"
+msgid "Yes! I looked up the director and actor you mentioned and rented it."
+msgstr "Yes! I looked up the director and actor you mentioned and rented it."
+
+msgctxt "1752_Kiryu"
+msgid "Oh?"
+msgstr "Oh?"
+
+msgctxt "1764_Chihiro"
+msgid ""
+"I'd never seen a yakuza movie before. It was fascinating. A whole world I "
+"knew nothing about!"
+msgstr ""
+"I'd never seen a yakuza movie before. It was fascinating. A whole world I "
+"knew nothing about!"
+
+msgctxt "1776_Kiryu"
+msgid "Wait, a yakuza movie? The movie I was in was about samurai."
+msgstr "Wait, a yakuza movie? The movie I was in was about samurai."
+
+msgctxt "1788_Chihiro"
+msgid ""
+"Huh? That's weird.\r\n"
+"You were in it."
+msgstr ""
+"Huh? That's weird.\r\n"
+"You were in it."
+
+msgctxt "1800_Kiryu"
+msgid "Must've been someone who looked like me."
+msgstr "Must've been someone who looked like me."
+
+msgctxt "1812_Himeka"
+msgid ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report when this message is displayed."
+msgstr ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report when this message is displayed."
+
+msgctxt "1824_Chihiro"
+msgid ""
+"Kazuma cannot request Chihiro Ikki. Contact the\r\n"
+"programmer if this message is displayed."
+msgstr ""
+"Kazuma cannot request Chihiro Ikki. Contact the\r\n"
+"programmer if this message is displayed."
+
+msgctxt "1836_Chihiro"
+msgid ""
+"Kazuma cannot request Chihiro Ikki. Contact the\r\n"
+"programmer if this message is displayed."
+msgstr ""
+"Kazuma cannot request Chihiro Ikki. Contact the\r\n"
+"programmer if this message is displayed."
+
+msgctxt "1848_Chihiro"
+msgid "I'm Chihiro. Nice to meet you."
+msgstr "I'm Chihiro. Nice to meet you."
+
+msgctxt "1860_Akiyama"
+msgid "Hi there. The name's Shun Akiyama."
+msgstr "Hi there. The name's Shun Akiyama."
+
+msgctxt "1872_Akiyama"
+msgid "Are you a college student by any chance?"
+msgstr "Are you a college student by any chance?"
+
+msgctxt "1884_Chihiro"
+msgid "Yes, I am. How did you know?"
+msgstr "Yes, I am. How did you know?"
+
+msgctxt "1896_Akiyama"
+msgid ""
+"Heh. In my line of work, you have to be able to notice things like that."
+msgstr ""
+"Heh. In my line of work, you have to be able to notice things like that."
+
+msgctxt "1908_Chihiro"
+msgid "Wow. That's pretty impressive."
+msgstr "Wow. That's pretty impressive."
+
+msgctxt "1920_Akiyama"
+msgid "You know, working as a hostess will teach you to do the same."
+msgstr "You know, working as a hostess will teach you to do the same."
+
+msgctxt "1932_Chihiro"
+msgid "It will? I'm not so sure..."
+msgstr "It will? I'm not so sure..."
+
+msgctxt "1944_Akiyama"
+msgid "You don't drink, do you?"
+msgstr "You don't drink, do you?"
+
+msgctxt "1956_Chihiro"
+msgid "Nope. I've had alcohol at college parties, but I just can't handle it."
+msgstr ""
+"Nope. I've had alcohol at college parties, but I just can't handle it."
+
+msgctxt "1968_Chihiro"
+msgid "I prefer juice."
+msgstr "I prefer juice."
+
+msgctxt "1980_Erena"
+msgid "Your customers must like that. It's cheaper."
+msgstr "Your customers must like that. It's cheaper."
+
+msgctxt "1992_Akiyama"
+msgid "Heh, true enough."
+msgstr "Heh, true enough."
+
+msgctxt "2004_Akiyama"
+msgid "Wait, so you've never gotten drunk?"
+msgstr "Wait, so you've never gotten drunk?"
+
+msgctxt "2016_Chihiro"
+msgid "That's right. I can't drink enough to get drunk."
+msgstr "That's right. I can't drink enough to get drunk."
+
+msgctxt "2028_Akiyama"
+msgid ""
+"I think it's something you should experience at least once, if only to see "
+"what kinda impact it has on you."
+msgstr ""
+"I think it's something you should experience at least once, if only to see "
+"what kinda impact it has on you."
+
+msgctxt "2040_Chihiro"
+msgid "What? No, I couldn't! What if I started acting like a complete idiot?"
+msgstr "What? No, I couldn't! What if I started acting like a complete idiot?"
+
+msgctxt "2052_Akiyama"
+msgid "Haha, that's kinda the point."
+msgstr "Haha, that's kinda the point."
+
+msgctxt "2064_Chihiro"
+msgid "Oh, hello. You were here before, weren't you?"
+msgstr "Oh, hello. You were here before, weren't you?"
+
+msgctxt "2076_Akiyama"
+msgid "That's right. Still at it, huh? Are you getting used to working here?"
+msgstr "That's right. Still at it, huh? Are you getting used to working here?"
+
+msgctxt "2088_Chihiro"
+msgid ""
+"I think so. It might be a bit competitive, but seeing the other girls get "
+"customers to request them makes me want to work harder."
+msgstr ""
+"I think so. It might be a bit competitive, but seeing the other girls get "
+"customers to request them makes me want to work harder."
+
+msgctxt "2100_Akiyama"
+msgid "I think you're cut out for this job after all. Keep it up."
+msgstr "I think you're cut out for this job after all. Keep it up."
+
+msgctxt "2112_Chihiro"
+msgid "Hehe. I will."
+msgstr "Hehe. I will."
+
+msgctxt "2124_Himeka"
+msgid ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report when this message is displayed."
+msgstr ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report when this message is displayed."
+
+msgctxt "2136_Chihiro"
+msgid ""
+"Akiyama cannot request Chihiro Ikki.\r\n"
+"programmer if this message is displayed."
+msgstr ""
+"Akiyama cannot request Chihiro Ikki.\r\n"
+"programmer if this message is displayed."
+
+msgctxt "2148_Chihiro"
+msgid ""
+"Akiyama cannot request Chihiro Ikki.\r\n"
+"programmer if this message is displayed."
+msgstr ""
+"Akiyama cannot request Chihiro Ikki.\r\n"
+"programmer if this message is displayed."
+
+msgctxt "2160_Chihiro"
+msgid ""
+"Chihiro Ikki does not appear for Akiyama's 2nd.\r\n"
+"programmer if this message is displayed."
+msgstr ""
+"Chihiro Ikki does not appear for Akiyama's 2nd.\r\n"
+"programmer if this message is displayed."
+
+msgctxt "2172_Chihiro"
+msgid ""
+"Chihiro Ikki does not appear for Akiyama's 2nd.\r\n"
+"programmer if this message is displayed."
+msgstr ""
+"Chihiro Ikki does not appear for Akiyama's 2nd.\r\n"
+"programmer if this message is displayed."
+
+msgctxt "2184_Chihiro"
+msgid ""
+"Chihiro Ikki does not appear for Akiyama's 2nd.\r\n"
+"programmer if this message is displayed."
+msgstr ""
+"Chihiro Ikki does not appear for Akiyama's 2nd.\r\n"
+"programmer if this message is displayed."
+
+msgctxt "2196_Chihiro"
+msgid ""
+"Chihiro Ikki does not appear for Akiyama's 2nd.\r\n"
+"programmer if this message is displayed."
+msgstr ""
+"Chihiro Ikki does not appear for Akiyama's 2nd.\r\n"
+"programmer if this message is displayed."
+
+msgctxt "2208_Chihiro"
+msgid ""
+"Akiyama cannot request Chihiro Ikki.\r\n"
+"programmer if this message is displayed."
+msgstr ""
+"Akiyama cannot request Chihiro Ikki.\r\n"
+"programmer if this message is displayed."
+
+msgctxt "2220_Chihiro"
+msgid ""
+"Akiyama cannot request Chihiro Ikki.\r\n"
+"programmer if this message is displayed."
+msgstr ""
+"Akiyama cannot request Chihiro Ikki.\r\n"
+"programmer if this message is displayed."
+
+msgctxt "2232_Chihiro"
+msgid "Hello. My name is Chihiro. I'm... I'm new here."
+msgstr "Hello. My name is Chihiro. I'm... I'm new here."
+
+msgctxt "2244_Chihiro"
+msgid "Um, I'm still learning, but I'll do my best to serve you!"
+msgstr "Um, I'm still learning, but I'll do my best to serve you!"
+
+msgctxt "2256_Tanimura"
+msgid "No need to be nervous. My name's Tanimura. Nice to meet you."
+msgstr "No need to be nervous. My name's Tanimura. Nice to meet you."
+
+msgctxt "2268_Chihiro"
+msgid ""
+"I'm always nervous meeting people for the first time. I'm not like this "
+"normally."
+msgstr ""
+"I'm always nervous meeting people for the first time. I'm not like this "
+"normally."
+
+msgctxt "2280_Noa"
+msgid "That's true. You're pretty confident when it's just us girls."
+msgstr "That's true. You're pretty confident when it's just us girls."
+
+msgctxt "2292_Tanimura"
+msgid "Ah, I see."
+msgstr "Ah, I see."
+
+msgctxt "2304_Chihiro"
+msgid "But... You seem nice, Tanimura-san. It makes me feel a little better."
+msgstr "But... You seem nice, Tanimura-san. It makes me feel a little better."
+
+msgctxt "2316_Tanimura"
+msgid "Hmm. You're still pretty tense. Why don't you try to relax?"
+msgstr "Hmm. You're still pretty tense. Why don't you try to relax?"
+
+msgctxt "2328_Chihiro"
+msgid "Relax?"
+msgstr "Relax?"
+
+msgctxt "2340_Tanimura"
+msgid "Yeah. Come on, take some deep breaths."
+msgstr "Yeah. Come on, take some deep breaths."
+
+msgctxt "2352_Chihiro"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "2364_Chihiro"
+msgid "......"
+msgstr "......"
+
+msgctxt "2376_Chihiro"
+msgid "Aah..."
+msgstr "Aah..."
+
+msgctxt "2388_Chihiro"
+msgid "Yes, I do feel better now."
+msgstr "Yes, I do feel better now."
+
+msgctxt "2400_Tanimura"
+msgid "That's good."
+msgstr "That's good."
+
+msgctxt "2412_Chihiro"
+msgid ""
+"Sorry for being so much trouble. I don't know if I'm cut out for this job."
+msgstr ""
+"Sorry for being so much trouble. I don't know if I'm cut out for this job."
+
+msgctxt "2424_Tanimura"
+msgid "You just started. Everybody's nervous when they start a new job."
+msgstr "You just started. Everybody's nervous when they start a new job."
+
+msgctxt "2436_Chihiro"
+msgid "You really think so?"
+msgstr "You really think so?"
+
+msgctxt "2448_Noa"
+msgid "Of course! I was the same way."
+msgstr "Of course! I was the same way."
+
+msgctxt "2460_Tanimura"
+msgid "Don't worry about it. Let's just talk."
+msgstr "Don't worry about it. Let's just talk."
+
+msgctxt "2472_Chihiro"
+msgid "Okay. I do love talking to people. <Color:7>♥<Color:Default>"
+msgstr "Okay. I do love talking to people. <Color:7>♥<Color:Default>"
+
+msgctxt "2484_Tanimura"
+msgid "That's good."
+msgstr "That's good."
+
+msgctxt "2496_Tanimura"
+msgid ""
+"Actually, I'm nervous myself. I don't come to places like this very often."
+msgstr ""
+"Actually, I'm nervous myself. I don't come to places like this very often."
+
+msgctxt "2508_Chihiro"
+msgid "But you don't look nervous."
+msgstr "But you don't look nervous."
+
+msgctxt "2520_Noa"
+msgid "No, you look very relaxed."
+msgstr "No, you look very relaxed."
+
+msgctxt "2532_Tanimura"
+msgid "Come on. Do I look like the playboy type?"
+msgstr "Come on. Do I look like the playboy type?"
+
+msgctxt "2544_Chihiro"
+msgid "Hmm... I wouldn't say that, exactly."
+msgstr "Hmm... I wouldn't say that, exactly."
+
+msgctxt "2556_Chihiro"
+msgid ""
+"But you seem pretty calm and confident. You probably have a lot of "
+"girlfriends."
+msgstr ""
+"But you seem pretty calm and confident. You probably have a lot of "
+"girlfriends."
+
+msgctxt "2568_Chihiro"
+msgid "Well? Do you?"
+msgstr "Well? Do you?"
+
+msgctxt "2580_Tanimura"
+msgid "A lot of girlfriends? Hmm. I'll leave that to your imagination."
+msgstr "A lot of girlfriends? Hmm. I'll leave that to your imagination."
+
+msgctxt "2592_Chihiro"
+msgid ""
+"Ha! I knew it! You're a ladies' man! Maybe you can tell us some stories."
+msgstr ""
+"Ha! I knew it! You're a ladies' man! Maybe you can tell us some stories."
+
+msgctxt "2604_Tanimura"
+msgid "Maybe..."
+msgstr "Maybe..."
+
+msgctxt "2616_Tanimura"
+msgid "You're pretty cute. And you're sincere. I like that."
+msgstr "You're pretty cute. And you're sincere. I like that."
+
+msgctxt "2628_Chihiro"
+msgid "You do?"
+msgstr "You do?"
+
+msgctxt "2640_Tanimura"
+msgid ""
+"Sure. So you shouldn't worry too much. The other customers will like it too."
+msgstr ""
+"Sure. So you shouldn't worry too much. The other customers will like it too."
+
+msgctxt "2652_Chihiro"
+msgid ""
+"I hadn't thought of that... There's a lot I have to learn about being a "
+"hostess."
+msgstr ""
+"I hadn't thought of that... There's a lot I have to learn about being a "
+"hostess."
+
+msgctxt "2664_Noa"
+msgid "I may have just learned something, too."
+msgstr "I may have just learned something, too."
+
+msgctxt "2676_Chihiro"
+msgid "Thank you. I hope you'll keep teaching me."
+msgstr "Thank you. I hope you'll keep teaching me."
+
+msgctxt "2688_Tanimura"
+msgid "Who, me? I'm not exactly an expert, you know."
+msgstr "Who, me? I'm not exactly an expert, you know."
+
+msgctxt "2700_Tanimura"
+msgid "How long have you been working here?"
+msgstr "How long have you been working here?"
+
+msgctxt "2712_Chihiro"
+msgid ""
+"Less than a month. I still have trouble with some things, like lighting "
+"customers' cigarettes."
+msgstr ""
+"Less than a month. I still have trouble with some things, like lighting "
+"customers' cigarettes."
+
+msgctxt "2724_Tanimura"
+msgid "You'll get used to it."
+msgstr "You'll get used to it."
+
+msgctxt "2736_Chihiro"
+msgid ""
+"I don't know. I get so nervous and clumsy sometimes. Do you really think "
+"anyone would want to request me?"
+msgstr ""
+"I don't know. I get so nervous and clumsy sometimes. Do you really think "
+"anyone would want to request me?"
+
+msgctxt "2748_Noa"
+msgid "Stop worrying so much!"
+msgstr "Stop worrying so much!"
+
+msgctxt "2760_Chihiro"
+msgid "I can't. I don't know if I have what it takes to be a hostess."
+msgstr "I can't. I don't know if I have what it takes to be a hostess."
+
+msgctxt "2772_Tanimura"
+msgid "I can teach you. I'll turn you into a hostess myself."
+msgstr "I can teach you. I'll turn you into a hostess myself."
+
+msgctxt "2784_Chihiro"
+msgid "You will!? Oh, thank you! <Color:7>♥<Color:Default>"
+msgstr "You will!? Oh, thank you! <Color:7>♥<Color:Default>"
+
+msgctxt "2796_Chihiro"
+msgid "But how are you going to do it?"
+msgstr "But how are you going to do it?"
+
+msgctxt "2808_Tanimura"
+msgid "Hmm... I'll have to think about it. I'll let you know next time."
+msgstr "Hmm... I'll have to think about it. I'll let you know next time."
+
+msgctxt "2820_Chihiro"
+msgid "I guess that means you'll be requesting me, right?"
+msgstr "I guess that means you'll be requesting me, right?"
+
+msgctxt "2832_Tanimura"
+msgid "Oh. Um, sure."
+msgstr "Oh. Um, sure."
+
+msgctxt "2844_Tanimura"
+msgid "With the way you are, it might be tricky."
+msgstr "With the way you are, it might be tricky."
+
+msgctxt "2856_Chihiro"
+msgid "Yeah. That's what I've been afraid of."
+msgstr "Yeah. That's what I've been afraid of."
+
+msgctxt "2868_Tanimura"
+msgid "But honestly, you don't have to be an expert."
+msgstr "But honestly, you don't have to be an expert."
+
+msgctxt "2880_Tanimura"
+msgid "It's kinda nice to be with a girl who isn't a perfect hostess."
+msgstr "It's kinda nice to be with a girl who isn't a perfect hostess."
+
+msgctxt "2892_Chihiro"
+msgid "It is? So... I'm okay the way I am?"
+msgstr "It is? So... I'm okay the way I am?"
+
+msgctxt "2904_Tanimura"
+msgid ""
+"Sure. You should definitely learn the basics, but you have an appeal just as"
+" you are."
+msgstr ""
+"Sure. You should definitely learn the basics, but you have an appeal just as"
+" you are."
+
+msgctxt "2916_Chihiro"
+msgid "Okay! Then... would you mind coming to see me sometimes?"
+msgstr "Okay! Then... would you mind coming to see me sometimes?"
+
+msgctxt "2928_Tanimura"
+msgid "All right. I'd love to request you."
+msgstr "All right. I'd love to request you."
+
+msgctxt "2940_Tanimura"
+msgid "It depends on how much you want it. Are you willing to work hard?"
+msgstr "It depends on how much you want it. Are you willing to work hard?"
+
+msgctxt "2952_Chihiro"
+msgid "Of course! I just don't have very much confidence..."
+msgstr "Of course! I just don't have very much confidence..."
+
+msgctxt "2964_Tanimura"
+msgid ""
+"But that makes you unique. If you work at it, you'll do fine. And besides, "
+"you're cute."
+msgstr ""
+"But that makes you unique. If you work at it, you'll do fine. And besides, "
+"you're cute."
+
+msgctxt "2976_Chihiro"
+msgid "You think I'm cute? Thank you."
+msgstr "You think I'm cute? Thank you."
+
+msgctxt "2988_Chihiro"
+msgid "So will you request me next time?"
+msgstr "So will you request me next time?"
+
+msgctxt "3000_Tanimura"
+msgid "Of course."
+msgstr "E di che."
+
+msgctxt "3012_Chihiro"
+msgid "Oh, Tanimura-san! It's nice to see you again!"
+msgstr "Oh, Tanimura-san! It's nice to see you again!"
+
+msgctxt "3024_Tanimura"
+msgid "Hi. Are you getting used to your job here?"
+msgstr "Hi. Are you getting used to your job here?"
+
+msgctxt "3036_Chihiro"
+msgid "Not at all. I've been making mistakes all day."
+msgstr "Not at all. I've been making mistakes all day."
+
+msgctxt "3048_Noa"
+msgid "Don't worry about it. We've all been there."
+msgstr "Don't worry about it. We've all been there."
+
+msgctxt "3060_Tanimura"
+msgid "That's right. When I was new to my job, I got in trouble all the time."
+msgstr ""
+"That's right. When I was new to my job, I got in trouble all the time."
+
+msgctxt "3072_Chihiro"
+msgid "You did?"
+msgstr "You did?"
+
+msgctxt "3084_Tanimura"
+msgid "Yeah. I still get into trouble, though."
+msgstr "Yeah. I still get into trouble, though."
+
+msgctxt "3096_Chihiro"
+msgid ""
+"Haha! So you're a troublemaker? That makes me feel a\r\n"
+"little better. <Color:7>♥<Color:Default>"
+msgstr ""
+"Haha! So you're a troublemaker? That makes me feel a\r\n"
+"little better. <Color:7>♥<Color:Default>"
+
+msgctxt "3108_Tanimura"
+msgid "Let's just move on, okay?"
+msgstr "Let's just move on, okay?"
+
+msgctxt "3120_Himeka"
+msgid ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report when this message is displayed."
+msgstr ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report when this message is displayed."
+
+msgctxt "3132_Chihiro"
+msgid "Oh, Tanimura-san. You didn't request me today..."
+msgstr "Oh, Tanimura-san. You didn't request me today..."
+
+msgctxt "3144_Tanimura"
+msgid ""
+"Oh yeah, I, uh... Something came up at work, and I... Well, it couldn't be "
+"helped."
+msgstr ""
+"Oh yeah, I, uh... Something came up at work, and I... Well, it couldn't be "
+"helped."
+
+msgctxt "3156_Chihiro"
+msgid "Oh. Okay. Well, good luck with your work."
+msgstr "Oh. Okay. Well, good luck with your work."
+
+msgctxt "3168_Tanimura"
+msgid "No, wait. I'll request you next time. I promise."
+msgstr "No, wait. I'll request you next time. I promise."
+
+msgctxt "3180_Chihiro"
+msgid "Really? Yay! I'll be waiting! <Color:7>♥<Color:Default>"
+msgstr "Really? Yay! I'll be waiting! <Color:7>♥<Color:Default>"
+
+msgctxt "3192_Himeka"
+msgid ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report when this message is displayed."
+msgstr ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report when this message is displayed."
+
+msgctxt "3204_Chihiro"
+msgid ""
+"Chihiro Ikki does not appear for Tanimura's 2nd.\r\n"
+"programmer if this message is displayed."
+msgstr ""
+"Chihiro Ikki does not appear for Tanimura's 2nd.\r\n"
+"programmer if this message is displayed."
+
+msgctxt "3216_Chihiro"
+msgid ""
+"Chihiro Ikki does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Chihiro Ikki does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "3228_Chihiro"
+msgid ""
+"Chihiro Ikki does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Chihiro Ikki does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "3240_Chihiro"
+msgid ""
+"Chihiro Ikki does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Chihiro Ikki does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "3252_Chihiro"
+msgid ""
+"Chihiro Ikki does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Chihiro Ikki does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "3264_Chihiro"
+msgid ""
+"Chihiro Ikki does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+msgstr ""
+"Chihiro Ikki does not appear for Tanimura's 2nd.\r\n"
+"Please notify a programmer if this message is displayed."
+
+msgctxt "3276_Chihiro"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "3288_Noa"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "3300_Attendant"
+msgid "Hmm. You're still pretty tense."
+msgstr "Hmm. You're still pretty tense."
+
+msgctxt "3312_Attendant"
+msgid "Actually, I'm nervous myself."
+msgstr "Actually, I'm nervous myself."
+
+msgctxt "3324_Attendant"
+msgid "You're pretty cute."
+msgstr "You're pretty cute."
+
+msgctxt "3336_Attendant"
+msgid "I can teach you."
+msgstr "I can teach you."
+
+msgctxt "3348_Attendant"
+msgid "With the way you are, it might be tricky."
+msgstr "With the way you are, it might be tricky."
+
+msgctxt "3360_Attendant"
+msgid "It depends on how much you want it."
+msgstr "It depends on how much you want it."

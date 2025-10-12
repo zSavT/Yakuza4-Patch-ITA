@@ -1,0 +1,909 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "28596"
+msgid "Attendant"
+msgstr "Attendant"
+
+msgctxt "28600"
+msgid "M_stand_tlk_shoukai"
+msgstr "M_stand_tlk_shoukai"
+
+msgctxt "28604"
+msgid "望月京子：源氏名"
+msgstr "望月京子：源氏名"
+
+msgctxt "28608"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr "F_cab_stand_tlk_ojigi_01"
+
+msgctxt "28612"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr "F_cab_sitsofa_tlk_suprise"
+
+msgctxt "28616"
+msgid "P_sitsofaR_tlk_yes"
+msgstr "P_sitsofaR_tlk_yes"
+
+msgctxt "28620"
+msgid "F_cab_sitsofa_tlk_ojigiA"
+msgstr "F_cab_sitsofa_tlk_ojigiA"
+
+msgctxt "28624"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "28628"
+msgid "P_sitsofaR_tlk_smile"
+msgstr "P_sitsofaR_tlk_smile"
+
+msgctxt "28632"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr "F_cab_sitsofa_tlk_noA"
+
+msgctxt "28636"
+msgid "P_sitsofaR_tlk_quest"
+msgstr "P_sitsofaR_tlk_quest"
+
+msgctxt "28640"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr "F_cab_sitsofa_talk_smileA"
+
+msgctxt "28644"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr "F_cab_sitsofa_tlk_yes"
+
+msgctxt "28648"
+msgid "F_cab_sitsofa_tlk_thinkA"
+msgstr "F_cab_sitsofa_tlk_thinkA"
+
+msgctxt "28652"
+msgid "P_sitsofaR_tlk_no"
+msgstr "P_sitsofaR_tlk_no"
+
+msgctxt "28656"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "28660"
+msgid "F_cab_sitsofa_tlk_commentA"
+msgstr "F_cab_sitsofa_tlk_commentA"
+
+msgctxt "28664"
+msgid "F_cab_sitsofa_sp2_sync_hiza"
+msgstr "F_cab_sitsofa_sp2_sync_hiza"
+
+msgctxt "28668"
+msgid "F_cab_sitsofa_sp1_sync_yop"
+msgstr "F_cab_sitsofa_sp1_sync_yop"
+
+msgctxt "28672"
+msgid "P_sitsofaR_tlk_angry"
+msgstr "P_sitsofaR_tlk_angry"
+
+msgctxt "28676"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr "F_cab_sitsofa_tlk_angry"
+
+msgctxt "28680"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr "F_cab_sitsofa_tlk_kamaeAtoB"
+
+msgctxt "28684"
+msgid "P_sitsofaR_tlk_comment"
+msgstr "P_sitsofaR_tlk_comment"
+
+msgctxt "28688"
+msgid "P_sitsofaR_tlk_surp"
+msgstr "P_sitsofaR_tlk_surp"
+
+msgctxt "28692"
+msgid "F_cab_sitsofa_tlk_kamaeBtoA"
+msgstr "F_cab_sitsofa_tlk_kamaeBtoA"
+
+msgctxt "28696"
+msgid "F_cab_sitsofa_sp6_sync_kami"
+msgstr "F_cab_sitsofa_sp6_sync_kami"
+
+msgctxt "28700"
+msgid "P_sitsofaR_tlk_think"
+msgstr "P_sitsofaR_tlk_think"
+
+msgctxt "28704"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr "F_cab_sitsofa_sp5_sync_laugh"
+
+msgctxt "28708"
+msgid "Himeka"
+msgstr "Himeka"
+
+msgctxt "28712"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr "F_cab_sitsofa_tlk_cry"
+
+msgctxt "28716"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "28720"
+msgid "P_sitsofaL_tlk_yes"
+msgstr "P_sitsofaL_tlk_yes"
+
+msgctxt "28724"
+msgid "F_cab_sitsofa_tlk_he_yes"
+msgstr "F_cab_sitsofa_tlk_he_yes"
+
+msgctxt "28728"
+msgid "P_sitsofaL_tlk_smile"
+msgstr "P_sitsofaL_tlk_smile"
+
+msgctxt "28732"
+msgid "F_cab_sitsofa_tlk_he_happy"
+msgstr "F_cab_sitsofa_tlk_he_happy"
+
+msgctxt "28736"
+msgid "F_cab_sitsofa_tlk_he_no"
+msgstr "F_cab_sitsofa_tlk_he_no"
+
+msgctxt "28740"
+msgid "F_cab_sitsofa_tlk_he_smile"
+msgstr "F_cab_sitsofa_tlk_he_smile"
+
+msgctxt "28744"
+msgid "P_sitsofaL_tlk_no"
+msgstr "P_sitsofaL_tlk_no"
+
+msgctxt "28748"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "936_Attendant"
+msgid "Sorry to keep you waiting."
+msgstr "Sorry to keep you waiting."
+
+msgctxt "960_Attendant"
+msgid "This is %s-san!"
+msgstr "This is %s-san!"
+
+msgctxt "972_望月京子：源氏名"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1020_Attendant"
+msgid "Sorry to keep you waiting."
+msgstr "Sorry to keep you waiting."
+
+msgctxt "1044_Attendant"
+msgid "This is %s-san!"
+msgstr "This is %s-san!"
+
+msgctxt "1056_望月京子：源氏名"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1104_Attendant"
+msgid "Sorry to keep you waiting."
+msgstr "Sorry to keep you waiting."
+
+msgctxt "1128_Attendant"
+msgid "This is %s-san!"
+msgstr "This is %s-san!"
+
+msgctxt "1140_望月京子：源氏名"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1176_望月京子：源氏名"
+msgid "Hello."
+msgstr "Hello."
+
+msgctxt "1188_Attendant"
+msgid ">"
+msgstr ">"
+
+msgctxt "1200_Attendant"
+msgid "I'm %s. Hope you don't mind if I sit here."
+msgstr "I'm %s. Hope you don't mind if I sit here."
+
+msgctxt "1224_望月京子：源氏名"
+msgid "Hello."
+msgstr "Hello."
+
+msgctxt "1236_Attendant"
+msgid ">"
+msgstr ">"
+
+msgctxt "1248_Attendant"
+msgid "I'm %s. Hope you don't mind if I sit here."
+msgstr "I'm %s. Hope you don't mind if I sit here."
+
+msgctxt "1272_望月京子：源氏名"
+msgid "Hello."
+msgstr "Hello."
+
+msgctxt "1284_Attendant"
+msgid ">"
+msgstr ">"
+
+msgctxt "1296_Attendant"
+msgid "I'm %s. Hope you don't mind if I sit here."
+msgstr "I'm %s. Hope you don't mind if I sit here."
+
+msgctxt "1320_望月京子：源氏名"
+msgid "Hello."
+msgstr "Hello."
+
+msgctxt "1332_望月京子：源氏名"
+msgid "I'm %s."
+msgstr "I'm %s."
+
+msgctxt "1380_望月京子：源氏名"
+msgid "Hello."
+msgstr "Hello."
+
+msgctxt "1392_望月京子：源氏名"
+msgid "Oh, you're back!"
+msgstr "Oh, è tornato!"
+
+msgctxt "1440_望月京子：源氏名"
+msgid "Hello."
+msgstr "Hello."
+
+msgctxt "1452_望月京子：源氏名"
+msgid "Oh, Kiryu-san... You aren't requesting me today?"
+msgstr "Oh, Kiryu-san... You aren't requesting me today?"
+
+msgctxt "1464_望月京子：源氏名"
+msgid "Oh, I got a request."
+msgstr "Oh, I got a request."
+
+msgctxt "1476_望月京子：源氏名"
+msgid "Enjoy your stay, okay?"
+msgstr "Enjoy your stay, okay?"
+
+msgctxt "1488_望月京子：源氏名"
+msgid "Bye then."
+msgstr "Bye then."
+
+msgctxt "1500_望月京子：源氏名"
+msgid "Hi! It's nice to meet you!"
+msgstr "Hi! It's nice to meet you!"
+
+msgctxt "1512_Kiryu"
+msgid "You're certainly full of energy."
+msgstr "You're certainly full of energy."
+
+msgctxt "1524_望月京子：源氏名"
+msgid ""
+"I'm just getting started! My shows only get more exciting as time goes on!"
+msgstr ""
+"I'm just getting started! My shows only get more exciting as time goes on!"
+
+msgctxt "1536_Kiryu"
+msgid "Your shows?"
+msgstr "Your shows?"
+
+msgctxt "1548_望月京子：源氏名"
+msgid "Oh, never mind about that. So, what's your name?"
+msgstr "Oh, never mind about that. So, what's your name?"
+
+msgctxt "1560_Kiryu"
+msgid "Kazuma Kiryu."
+msgstr "Kazuma Kiryu."
+
+msgctxt "1572_望月京子：源氏名"
+msgid ""
+"Hello, Kiryu-san. I like that name. Very cool. And you've got quite a body "
+"on you."
+msgstr ""
+"Hello, Kiryu-san. I like that name. Very cool. And you've got quite a body "
+"on you."
+
+msgctxt "1584_望月京子：源氏名"
+msgid "Are you an athlete? Maybe a fighter? You look like a fighter."
+msgstr "Are you an athlete? Maybe a fighter? You look like a fighter."
+
+msgctxt "1596_望月京子：源氏名"
+msgid "Actually, I think I've seen you somewhere before."
+msgstr "Actually, I think I've seen you somewhere before."
+
+msgctxt "1608_Kiryu"
+msgid ""
+"You must be imagining that. Could be you're confusing me with somebody else."
+msgstr ""
+"You must be imagining that. Could be you're confusing me with somebody else."
+
+msgctxt "1620_望月京子：源氏名"
+msgid "Really? But Kiryu-san, you do like to fight, right?"
+msgstr "Really? But Kiryu-san, you do like to fight, right?"
+
+msgctxt "1632_Kiryu"
+msgid "If I have to."
+msgstr "If I have to."
+
+msgctxt "1644_望月京子：源氏名"
+msgid "I'd love to see you fight!"
+msgstr "I'd love to see you fight!"
+
+msgctxt "1656_望月京子：源氏名"
+msgid ""
+"I love martial arts. There's nothing I like more than a good street fight. "
+"Just watching, of course! <Color:7>♥<Color:Default>"
+msgstr ""
+"I love martial arts. There's nothing I like more than a good street fight. "
+"Just watching, of course! <Color:7>♥<Color:Default>"
+
+msgctxt "1668_Kiryu"
+msgid "I see..."
+msgstr "Capisco..."
+
+msgctxt "1680_望月京子：源氏名"
+msgid ""
+"Maybe you could call me next time you're going to fight. I'll come and "
+"watch."
+msgstr ""
+"Maybe you could call me next time you're going to fight. I'll come and "
+"watch."
+
+msgctxt "1692_Kiryu"
+msgid "Heh, I'll see what I can do."
+msgstr "Heh, I'll see what I can do."
+
+msgctxt "1704_Kiryu"
+msgid "Don't go spreading that around."
+msgstr "Don't go spreading that around."
+
+msgctxt "1716_望月京子：源氏名"
+msgid "I knew it! You're famous, aren't you!?"
+msgstr "I knew it! You're famous, aren't you!?"
+
+msgctxt "1728_Kiryu"
+msgid "Hard to say. I haven't been to Kamurocho much recently."
+msgstr "Hard to say. I haven't been to Kamurocho much recently."
+
+msgctxt "1740_望月京子：源氏名"
+msgid ""
+"Hm, I know I've seen you somewhere... Don't tell me, it'll come to me "
+"eventually."
+msgstr ""
+"Hm, I know I've seen you somewhere... Don't tell me, it'll come to me "
+"eventually."
+
+msgctxt "1752_Kiryu"
+msgid "Maybe you have."
+msgstr "Maybe you have."
+
+msgctxt "1764_望月京子：源氏名"
+msgid "Hehe. Well, let's talk while I think about it."
+msgstr "Hehe. Well, let's talk while I think about it."
+
+msgctxt "1776_Kiryu"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "1788_Kiryu"
+msgid "You talk a lot, don't you?"
+msgstr "You talk a lot, don't you?"
+
+msgctxt "1800_望月京子：源氏名"
+msgid "You don't like women who talk a lot?"
+msgstr "You don't like women who talk a lot?"
+
+msgctxt "1812_Kiryu"
+msgid "I didn't say that."
+msgstr "I didn't say that."
+
+msgctxt "1824_望月京子：源氏名"
+msgid "Good, because that's one of the things people love about me."
+msgstr "Good, because that's one of the things people love about me."
+
+msgctxt "1836_Kiryu"
+msgid "That's kind of a strange thing to say about yourself, isn't it?"
+msgstr "That's kind of a strange thing to say about yourself, isn't it?"
+
+msgctxt "1848_望月京子：源氏名"
+msgid ""
+"Well, if nobody else will compliment me, I might as well do it myself, "
+"right?"
+msgstr ""
+"Well, if nobody else will compliment me, I might as well do it myself, "
+"right?"
+
+msgctxt "1860_Kiryu"
+msgid "Heh, you're funny."
+msgstr "Heh, you're funny."
+
+msgctxt "1872_望月京子：源氏名"
+msgid "Is that a compliment?"
+msgstr "Is that a compliment?"
+
+msgctxt "1884_望月京子：源氏名"
+msgid "You look kinda scary, but I bet you're a nice guy."
+msgstr "You look kinda scary, but I bet you're a nice guy."
+
+msgctxt "1896_Kiryu"
+msgid "You think so?"
+msgstr "You think so?"
+
+msgctxt "1908_望月京子：源氏名"
+msgid "Yep. I'm sure of it! I have good instincts about these things."
+msgstr "Yep. I'm sure of it! I have good instincts about these things."
+
+msgctxt "1920_Kiryu"
+msgid "Is that right?"
+msgstr "Is that right?"
+
+msgctxt "1932_望月京子：源氏名"
+msgid "I bet I can tell what you're thinking right now."
+msgstr "I bet I can tell what you're thinking right now."
+
+msgctxt "1944_Kiryu"
+msgid "Oh? That might be fun."
+msgstr "Oh? That might be fun."
+
+msgctxt "1956_望月京子：源氏名"
+msgid ""
+"I'm picking up a vibration... You wanna come again soon and request me!"
+msgstr ""
+"I'm picking up a vibration... You wanna come again soon and request me!"
+
+msgctxt "1968_望月京子：源氏名"
+msgid "Was I right?"
+msgstr "Was I right?"
+
+msgctxt "1980_Kiryu"
+msgid "Heh, what's up with that?"
+msgstr "Heh, what's up with that?"
+
+msgctxt "1992_望月京子：源氏名"
+msgid "Bull's-eye, right? Pretty impressive, huh?"
+msgstr "Bull's-eye, right? Pretty impressive, huh?"
+
+msgctxt "2004_Kiryu"
+msgid "Do you talk to spirits or something?"
+msgstr "Do you talk to spirits or something?"
+
+msgctxt "2016_望月京子：源氏名"
+msgid "Sure. I've been seeing ghosts ever since I was little."
+msgstr "Sure. I've been seeing ghosts ever since I was little."
+
+msgctxt "2028_Kiryu"
+msgid "Really? Wow..."
+msgstr "Really? Wow..."
+
+msgctxt "2040_望月京子：源氏名"
+msgid "Just kidding! You didn't think I was being serious, did you?"
+msgstr "Just kidding! You didn't think I was being serious, did you?"
+
+msgctxt "2052_Kiryu"
+msgid "Of course not. I was just playing along."
+msgstr "Of course not. I was just playing along."
+
+msgctxt "2064_望月京子：源氏名"
+msgid ""
+"Haha! I think you and I are gonna get along just fine. I don't usually hit "
+"it off this well with folks when I first meet them."
+msgstr ""
+"Haha! I think you and I are gonna get along just fine. I don't usually hit "
+"it off this well with folks when I first meet them."
+
+msgctxt "2076_望月京子：源氏名"
+msgid "I hope you'll come again! <Color:7>♥<Color:Default>"
+msgstr "I hope you'll come again! <Color:7>♥<Color:Default>"
+
+msgctxt "2088_Kiryu"
+msgid "I'll think about it."
+msgstr "I'll think about it."
+
+msgctxt "2100_Kiryu"
+msgid "Sorry, but you got that one wrong."
+msgstr "Sorry, but you got that one wrong."
+
+msgctxt "2112_望月京子：源氏名"
+msgid "Huh!? Really? You don't find me attractive?"
+msgstr "Huh!? Really? You don't find me attractive?"
+
+msgctxt "2124_Kiryu"
+msgid "How can I tell? I hardly know you."
+msgstr "How can I tell? I hardly know you."
+
+msgctxt "2136_望月京子：源氏名"
+msgid "Well, don't you want to talk to me so you can get to know me better?"
+msgstr "Well, don't you want to talk to me so you can get to know me better?"
+
+msgctxt "2148_Kiryu"
+msgid "I suppose I could do that."
+msgstr "I suppose I could do that."
+
+msgctxt "2160_望月京子：源氏名"
+msgid ""
+"I knew it! See! I'm sure we'd have a good time if you came to see me again. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"I knew it! See! I'm sure we'd have a good time if you came to see me again. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "2172_Kiryu"
+msgid "You don't have to try so hard..."
+msgstr "You don't have to try so hard..."
+
+msgctxt "2184_Kiryu"
+msgid "You might be right, actually."
+msgstr "You might be right, actually."
+
+msgctxt "2196_望月京子：源氏名"
+msgid "Really!? So you'll come again?"
+msgstr "Really!? So you'll come again?"
+
+msgctxt "2208_Kiryu"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "2220_望月京子：源氏名"
+msgid ""
+"Haha! I knew you'd come through! You totally caught my eye. I knew you were "
+"special as soon as I saw you! <Color:7>♥<Color:Default>"
+msgstr ""
+"Haha! I knew you'd come through! You totally caught my eye. I knew you were "
+"special as soon as I saw you! <Color:7>♥<Color:Default>"
+
+msgctxt "2232_Kiryu"
+msgid "You're laying it on a little thick, don't you think?"
+msgstr "You're laying it on a little thick, don't you think?"
+
+msgctxt "2244_望月京子：源氏名"
+msgid "Hehe. You are gonna come again, right?"
+msgstr "Hehe. You are gonna come again, right?"
+
+msgctxt "2256_Kiryu"
+msgid "Seems I don't have a choice..."
+msgstr "Seems I don't have a choice..."
+
+msgctxt "2268_望月京子：源氏名"
+msgid "Hey! You came back! <Color:7>♥<Color:Default>"
+msgstr "Hey! You came back! <Color:7>♥<Color:Default>"
+
+msgctxt "2280_Kiryu"
+msgid "Well, I've been thinking about you."
+msgstr "Well, I've been thinking about you."
+
+msgctxt "2292_望月京子：源氏名"
+msgid ""
+"Really? You shouldn't lie to an innocent girl like me, I might end up "
+"believing you! <Color:7>♥<Color:Default>"
+msgstr ""
+"Really? You shouldn't lie to an innocent girl like me, I might end up "
+"believing you! <Color:7>♥<Color:Default>"
+
+msgctxt "2304_Kiryu"
+msgid "I'm not lying. It's the truth."
+msgstr "I'm not lying. It's the truth."
+
+msgctxt "2316_望月京子：源氏名"
+msgid "Oh, okay! Why don't you request me next time, then?"
+msgstr "Oh, okay! Why don't you request me next time, then?"
+
+msgctxt "2328_Kiryu"
+msgid "Heh, I got the message..."
+msgstr "Heh, I got the message..."
+
+msgctxt "2340_Himeka"
+msgid ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report when this message is displayed."
+msgstr ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report when this message is displayed."
+
+msgctxt "2352_望月京子：源氏名"
+msgid "Kiryu-san..."
+msgstr "Kiryu-san..."
+
+msgctxt "2364_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "2376_望月京子：源氏名"
+msgid "Why?"
+msgstr "Perché?"
+
+msgctxt "2388_Kiryu"
+msgid "Why what?"
+msgstr "Why what?"
+
+msgctxt "2400_望月京子：源氏名"
+msgid "Why didn't you request me?"
+msgstr "Why didn't you request me?"
+
+msgctxt "2412_Kiryu"
+msgid ""
+"Oh, that. Sometimes I like to talk to other girls. There's nothing wrong "
+"with that, is there?"
+msgstr ""
+"Oh, that. Sometimes I like to talk to other girls. There's nothing wrong "
+"with that, is there?"
+
+msgctxt "2424_望月京子：源氏名"
+msgid "You could always request me and then invite another girl to join us?"
+msgstr "You could always request me and then invite another girl to join us?"
+
+msgctxt "2436_Kiryu"
+msgid "Uh, I suppose so. Maybe I'll do that next time."
+msgstr "Uh, I suppose so. Maybe I'll do that next time."
+
+msgctxt "2448_望月京子：源氏名"
+msgid "Really? I don't know if I can trust you..."
+msgstr "Really? I don't know if I can trust you..."
+
+msgctxt "2460_Himeka"
+msgid ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report when this message is displayed."
+msgstr ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report when this message is displayed."
+
+msgctxt "2472_望月京子：源氏名"
+msgid ""
+"Kyoko does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+"Kyoko does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+
+msgctxt "2484_望月京子：源氏名"
+msgid ""
+"Kyoko does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+"Kyoko does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+
+msgctxt "2496_望月京子：源氏名"
+msgid ""
+"Kyoko does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+"Kyoko does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+
+msgctxt "2508_望月京子：源氏名"
+msgid ""
+"Kyoko does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+"Kyoko does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+
+msgctxt "2520_望月京子：源氏名"
+msgid ""
+"Kyoko does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+"Kyoko does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+
+msgctxt "2532_望月京子：源氏名"
+msgid ""
+"Kyoko does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+"Kyoko does not appear for Kiryu's 2nd.\r\n"
+"Notify programmer if this message is displayed."
+
+msgctxt "2688_望月京子：源氏名"
+msgid ""
+"Kyoko does not appear for Tanimura's 1st or 3rd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+"Kyoko does not appear for Tanimura's 1st or 3rd.\r\n"
+"Notify programmer if this message is displayed."
+
+msgctxt "2700_望月京子：源氏名"
+msgid ""
+"Kyoko does not appear for Tanimura's 1st or 3rd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+"Kyoko does not appear for Tanimura's 1st or 3rd.\r\n"
+"Notify programmer if this message is displayed."
+
+msgctxt "2712_望月京子：源氏名"
+msgid ""
+"Kyoko does not appear for Tanimura's 1st or 3rd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+"Kyoko does not appear for Tanimura's 1st or 3rd.\r\n"
+"Notify programmer if this message is displayed."
+
+msgctxt "2724_望月京子：源氏名"
+msgid ""
+"Kyoko does not appear for Tanimura's 1st or 3rd.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+"Kyoko does not appear for Tanimura's 1st or 3rd.\r\n"
+"Notify programmer if this message is displayed."
+
+msgctxt "2736_望月京子：源氏名"
+msgid ""
+"Tanimura cannot request Kyoko.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+"Tanimura cannot request Kyoko.\r\n"
+"Notify programmer if this message is displayed."
+
+msgctxt "2748_望月京子：源氏名"
+msgid ""
+"Tanimura cannot request Kyoko.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+"Tanimura cannot request Kyoko.\r\n"
+"Notify programmer if this message is displayed."
+
+msgctxt "2760_Tanimura"
+msgid "Hi. I'm Tanimura."
+msgstr "Hi. I'm Tanimura."
+
+msgctxt "2772_望月京子：源氏名"
+msgid "Hi! It's nice to meet you!"
+msgstr "Hi! It's nice to meet you!"
+
+msgctxt "2784_Tanimura"
+msgid "You've got a pretty voice."
+msgstr "You've got a pretty voice."
+
+msgctxt "2796_望月京子：源氏名"
+msgid "Thank you! Actually, I'm in a band."
+msgstr "Thank you! Actually, I'm in a band."
+
+msgctxt "2808_Tanimura"
+msgid "Wow. You're the singer then, huh?"
+msgstr "Wow. You're the singer then, huh?"
+
+msgctxt "2820_望月京子：源氏名"
+msgid "Yep. Do you like music?"
+msgstr "Yep. Do you like music?"
+
+msgctxt "2832_Tanimura"
+msgid "Well, I listen to the racing report more than music."
+msgstr "Well, I listen to the racing report more than music."
+
+msgctxt "2844_望月京子：源氏名"
+msgid "Oh, I see. Not a big music fan then, huh?"
+msgstr "Oh, I see. Not a big music fan then, huh?"
+
+msgctxt "2856_望月京子：源氏名"
+msgid ""
+"You have to be a pretty good talker if you want to be a hostess. You have to"
+" be able to guide the conversation where you want it to go."
+msgstr ""
+"You have to be a pretty good talker if you want to be a hostess. You have to"
+" be able to guide the conversation where you want it to go."
+
+msgctxt "2868_Tanimura"
+msgid "That's true. You've got to be a good listener, too."
+msgstr "That's true. You've got to be a good listener, too."
+
+msgctxt "2880_望月京子：源氏名"
+msgid ""
+"Well anyway, I'm a pretty good talker. In fact, I've never lost an argument."
+msgstr ""
+"Well anyway, I'm a pretty good talker. In fact, I've never lost an argument."
+
+msgctxt "2892_Tanimura"
+msgid "You have arguments with your customers?"
+msgstr "You have arguments with your customers?"
+
+msgctxt "2904_望月京子：源氏名"
+msgid ""
+"I can be a little hotheaded, so if some guy tries to harass me, he gets more"
+" than he bargained for."
+msgstr ""
+"I can be a little hotheaded, so if some guy tries to harass me, he gets more"
+" than he bargained for."
+
+msgctxt "2916_Tanimura"
+msgid "Shouldn't you just call one of the attendants?"
+msgstr "Shouldn't you just call one of the attendants?"
+
+msgctxt "2928_望月京子：源氏名"
+msgid "Do you drink much at home, Tanimura-san?"
+msgstr "Do you drink much at home, Tanimura-san?"
+
+msgctxt "2940_Tanimura"
+msgid "I prefer going out to drink. It suits me better."
+msgstr "I prefer going out to drink. It suits me better."
+
+msgctxt "2952_望月京子：源氏名"
+msgid ""
+"I get that. Even if you go alone to a bar, having the bartender there to "
+"talk to can make a big difference."
+msgstr ""
+"I get that. Even if you go alone to a bar, having the bartender there to "
+"talk to can make a big difference."
+
+msgctxt "2964_Tanimura"
+msgid ""
+"I like lively places like this. The noisier the better. It helps me relax "
+"somehow."
+msgstr ""
+"I like lively places like this. The noisier the better. It helps me relax "
+"somehow."
+
+msgctxt "2976_望月京子：源氏名"
+msgid ""
+"That's a pretty cool thing to say. You're welcome to come here anytime you "
+"want a drink."
+msgstr ""
+"That's a pretty cool thing to say. You're welcome to come here anytime you "
+"want a drink."
+
+msgctxt "2988_Tanimura"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "3000_Himeka"
+msgid ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report when this message is displayed."
+msgstr ""
+"The dialogue will end after one round if you've\r\n"
+"entered a club more than once. Please report when this message is displayed."
+
+msgctxt "3012_望月京子：源氏名"
+msgid ""
+"Tanimura cannot request Kyoko.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+"Tanimura cannot request Kyoko.\r\n"
+"Notify programmer if this message is displayed."
+
+msgctxt "3024_望月京子：源氏名"
+msgid ""
+"Tanimura cannot request Kyoko.\r\n"
+"Notify programmer if this message is displayed."
+msgstr ""
+"Tanimura cannot request Kyoko.\r\n"
+"Notify programmer if this message is displayed."
+
+msgctxt "3036_望月京子：源氏名"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "3048_Player"
+msgid "Cheers."
+msgstr "Cheers."
+
+msgctxt "3060_Attendant"
+msgid "That's just your imagination."
+msgstr "That's just your imagination."
+
+msgctxt "3072_Attendant"
+msgid "Don't go spreading that around."
+msgstr "Don't go spreading that around."
+
+msgctxt "3084_Attendant"
+msgid "You talk a lot, don't you?"
+msgstr "You talk a lot, don't you?"
+
+msgctxt "3096_Attendant"
+msgid "Do you talk to spirits or something?"
+msgstr "Do you talk to spirits or something?"
+
+msgctxt "3108_Attendant"
+msgid "Sorry, but you got that one wrong."
+msgstr "Sorry, but you got that one wrong."
+
+msgctxt "3120_Attendant"
+msgid "You might be right, actually."
+msgstr "You might be right, actually."

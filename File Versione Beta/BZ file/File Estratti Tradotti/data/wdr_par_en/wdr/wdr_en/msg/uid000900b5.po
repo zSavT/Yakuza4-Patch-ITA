@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1464"
+msgid "M_nml_stand_tlk_rakugaki_lp"
+msgstr "M_nml_stand_tlk_rakugaki_lp"
+
+msgctxt "1468"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1472"
+msgid "Nui"
+msgstr "Nui"
+
+msgctxt "1476"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1480"
+msgid "Find Nui"
+msgstr "Find Nui"
+
+msgctxt "68_Tanimura"
+msgid "Is that you, Nui?"
+msgstr "Is that you, Nui?"
+
+msgctxt "80_Nui"
+msgid "Uh-oh!"
+msgstr "Uh-oh!"
+
+msgctxt "104_Tanimura"
+msgid "Wait!"
+msgstr "Aspetta!"
+
+msgctxt "116_Tanimura"
+msgid ""
+"(Man, that kid's fast! I doubt he'll leave Little Asia, but there are so "
+"many places he could hide around here...)"
+msgstr ""
+"(Man, that kid's fast! I doubt he'll leave Little Asia, but there are so "
+"many places he could hide around here...)"
+
+msgctxt "128_Find Nui"
+msgid ""
+"When you find out where Nui is hiding, press <Action:Button_R3@Adventure> to"
+" switch to a first-person perspective. Just looking at him will make him "
+"come out of hiding."
+msgstr ""
+"When you find out where Nui is hiding, press <Action:Button_R3@Adventure> to"
+" switch to a first-person perspective. Just looking at him will make him "
+"come out of hiding."

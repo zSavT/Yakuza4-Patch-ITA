@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1648"
+msgid "Officer"
+msgstr "Ufficiale"
+
+msgctxt "104_Officer"
+msgid "Um... What were you doing all this time?"
+msgstr "Um... What were you doing all this time?"
+
+msgctxt "116_Officer"
+msgid "We had to arrest all of them ourselves. You were completely useless."
+msgstr "We had to arrest all of them ourselves. You were completely useless."
+
+msgctxt "128_Officer"
+msgid "Try a little harder next time, okay?"
+msgstr "Try a little harder next time, okay?"

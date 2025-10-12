@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "632"
+msgid "Erena"
+msgstr "Erena"
+
+msgctxt "636"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "640"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "644"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "56_Erena"
+msgid "Sorry... I hit the ball into the rough..."
+msgstr "Sorry... I hit the ball into the rough..."
+
+msgctxt "68_Akiyama"
+msgid "Don't worry. Leave the rest to me."
+msgstr "Don't worry. Leave the rest to me."
+
+msgctxt "80_Erena"
+msgid "Okay! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Okay! <Color:255,200,200,255>♥<Color:Default>"

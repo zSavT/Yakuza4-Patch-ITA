@@ -1,0 +1,133 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4148"
+msgid "\"Akiyama\""
+msgstr "\"Akiyama\""
+
+msgctxt "4152"
+msgid "Mysterious Woman"
+msgstr "Mysterious Woman"
+
+msgctxt "4156"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "4160"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4164"
+msgid "M_ykzs_stand_tlk_smilebig_st"
+msgstr "M_ykzs_stand_tlk_smilebig_st"
+
+msgctxt "4168"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "4172"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "4176"
+msgid "Idle"
+msgstr "Idle"
+
+msgctxt "4180"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4184"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "80_\"Akiyama\""
+msgid "Should be around here somewhere..."
+msgstr "Should be around here somewhere..."
+
+msgctxt "92_Mysterious Woman"
+msgid "You the courier?"
+msgstr "You the courier?"
+
+msgctxt "128_Akiyama"
+msgid "(No way!)"
+msgstr "(No way!)"
+
+msgctxt "140_\"Akiyama\""
+msgid "Yep! That's me!"
+msgstr "Yep! That's me!"
+
+msgctxt "152_Mysterious Woman"
+msgid "Here are the goods, as discussed. You know the way there?"
+msgstr "Here are the goods, as discussed. You know the way there?"
+
+msgctxt "164_\"Akiyama\""
+msgid "Yeah, yeah. Like the back of my hand."
+msgstr "Yeah, yeah. Like the back of my hand."
+
+msgctxt "176_Mysterious Woman"
+msgid ""
+"If you let anything happen to this... you know what will\r\n"
+"happen to you."
+msgstr ""
+"If you let anything happen to this... you know what will\r\n"
+"happen to you."
+
+msgctxt "188_\"Akiyama\""
+msgid "You can count on me."
+msgstr "You can count on me."
+
+msgctxt "200_Mysterious Woman"
+msgid "Just don't make any mistakes."
+msgstr "Just don't make any mistakes."
+
+msgctxt "272_\"Akiyama\""
+msgid ""
+"Phew... Pretty aggressive for a woman... I guess that's just\r\n"
+"how it goes in the underworld."
+msgstr ""
+"Phew... Pretty aggressive for a woman... I guess that's just\r\n"
+"how it goes in the underworld."
+
+msgctxt "284_Akiyama"
+msgid "Yeah, who knew?"
+msgstr "Yeah, who knew?"
+
+msgctxt "296_\"Akiyama\""
+msgid "Okay, let's be on our way, then, shall we?"
+msgstr "Okay, let's be on our way, then, shall we?"
+
+msgctxt "308_Akiyama"
+msgid "Do you want me to carry the case?"
+msgstr "Do you want me to carry the case?"
+
+msgctxt "320_\"Akiyama\""
+msgid ""
+"No, no. You haven't earned my trust yet... I can't risk\r\n"
+"anything happening to it. I'll carry it."
+msgstr ""
+"No, no. You haven't earned my trust yet... I can't risk\r\n"
+"anything happening to it. I'll carry it."
+
+msgctxt "332_Akiyama"
+msgid "But aren't you supposed to be testing me?"
+msgstr "But aren't you supposed to be testing me?"
+
+msgctxt "344_\"Akiyama\""
+msgid "Never mind that! Let's go already!"
+msgstr "Never mind that! Let's go already!"
+
+msgctxt "356_Akiyama"
+msgid "Okay, okay..."
+msgstr "Okay, okay..."

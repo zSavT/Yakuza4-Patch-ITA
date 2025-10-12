@@ -1,0 +1,97 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "260"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr "You got <Color:8>10,000 yen<Color:Default>."
+
+msgctxt "2424"
+msgid "The Florist"
+msgstr "The Florist"
+
+msgctxt "2428"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2432"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2436"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2440"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_The Florist"
+msgid "I take it you're ready to enter the coliseum?"
+msgstr "I take it you're ready to enter the coliseum?"
+
+msgctxt "128_Saejima"
+msgid "Not yet. I'll get back to ya."
+msgstr "Not yet. I'll get back to ya."
+
+msgctxt "140_The Florist"
+msgid "All right. Let me know when you're prepared."
+msgstr "All right. Let me know when you're prepared."
+
+msgctxt "152_Saejima"
+msgid "Yeah, I'm ready."
+msgstr "Yeah, I'm ready."
+
+msgctxt "164_The Florist"
+msgid "All right, then. Let's go."
+msgstr "All right, then. Let's go."
+
+msgctxt "188_Saejima"
+msgid "To tell ya the truth... I'm broke. No money to prep with."
+msgstr "To tell ya the truth... I'm broke. No money to prep with."
+
+msgctxt "200_The Florist"
+msgid "......"
+msgstr "......"
+
+msgctxt "212_The Florist"
+msgid "......"
+msgstr "......"
+
+msgctxt "224_The Florist"
+msgid "I probably should've seen this coming."
+msgstr "I probably should've seen this coming."
+
+msgctxt "236_The Florist"
+msgid ""
+"Since you're so strapped for cash, take this.\r\n"
+"Consider it an advance on your prize money."
+msgstr ""
+"Since you're so strapped for cash, take this.\r\n"
+"Consider it an advance on your prize money."
+
+msgctxt "272_The Florist"
+msgid "Now, hurry up and get ready to earn that back."
+msgstr "Now, hurry up and get ready to earn that back."
+
+msgctxt "284_The Florist"
+msgid "Not yet."
+msgstr "Not yet."
+
+msgctxt "296_The Florist"
+msgid "I'm ready."
+msgstr "I'm ready."
+
+msgctxt "308_The Florist"
+msgid "I'm broke."
+msgstr "I'm broke."

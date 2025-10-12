@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1084"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1088"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "1092"
+msgid "Businessman"
+msgstr "Businessman"
+
+msgctxt "1096"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1100"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "84_Saejima"
+msgid "Hey, punk. You one of Shirakawa's agents?"
+msgstr "Hey, punk. You one of Shirakawa's agents?"
+
+msgctxt "96_Businessman"
+msgid ""
+"If you must know, I am planning on voting for Shirakawa-san in the upcoming "
+"election. Is that a problem?"
+msgstr ""
+"If you must know, I am planning on voting for Shirakawa-san in the upcoming "
+"election. Is that a problem?"
+
+msgctxt "108_Businessman"
+msgid ""
+"Wait, are you trying to scare me into changing my vote?\r\n"
+"Who does Numai think he is, a yakuza?"
+msgstr ""
+"Wait, are you trying to scare me into changing my vote?\r\n"
+"Who does Numai think he is, a yakuza?"
+
+msgctxt "120_Saejima"
+msgid "(Well, fuck me. Came to listen after all.)"
+msgstr "(Well, fuck me. Came to listen after all.)"

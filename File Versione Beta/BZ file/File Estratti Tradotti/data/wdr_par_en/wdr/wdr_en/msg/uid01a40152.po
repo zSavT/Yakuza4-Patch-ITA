@@ -1,0 +1,161 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5468"
+msgid "Loan Shark"
+msgstr "Strozzino"
+
+msgctxt "5472"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "5476"
+msgid "Talk_Kosite_st"
+msgstr "Talk_Kosite_st"
+
+msgctxt "5480"
+msgid "Talk_Kosite_ed"
+msgstr "Talk_Kosite_ed"
+
+msgctxt "5484"
+msgid "Shoko"
+msgstr "Shoko"
+
+msgctxt "5488"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "5492"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "5496"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "5500"
+msgid "0"
+msgstr ""
+
+msgctxt "5504"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "56_Loan Shark"
+msgid "What the fuck are you...?"
+msgstr "Chi cazzo sei...?"
+
+msgctxt "68_Akiyama"
+msgid "Ah, sorry, I should've told you. I'm stronger than I look."
+msgstr "Ah, scusa, avrei dovuto dirtelo. Sono più forte di quanto sembri."
+
+msgctxt "80_Loan Shark"
+msgid "Dammit! You'll pay for this!"
+msgstr "Maledizione! Me la pagherai!"
+
+msgctxt "128_Akiyama"
+msgid ""
+"Never heard that one before... Do people really still talk\r\n"
+"like that?"
+msgstr ""
+"Questa non l'avevo mai sentita... La gente parla ancora\r\n"
+"così?"
+
+msgctxt "140_Akiyama"
+msgid "(Okay, time to see how Shoko-san's doing.)"
+msgstr "(Okay, è ora di vedere come sta Shoko-san.)"
+
+msgctxt "200_Shoko"
+msgid "Akiyama-san? What are you doing here?"
+msgstr "Akiyama-san? Che ci fa qui?"
+
+msgctxt "212_Akiyama"
+msgid "Oh, er..."
+msgstr "Oh, ehm..."
+
+msgctxt "224_Shoko"
+msgid "Wait a minute. Have you been following me?"
+msgstr "Aspetti un attimo. Mi stava seguendo?"
+
+msgctxt "236_Akiyama"
+msgid ""
+"No, I was just in the neighborhood collecting a debt. What\r\n"
+"have you been up to?"
+msgstr ""
+"No, ero solo in zona per riscuotere un debito. Lei\r\n"
+"che ha fatto?"
+
+msgctxt "248_Shoko"
+msgid ""
+"Me...? That doesn't really matter, does it? It has nothing\r\n"
+"to do with you, after all."
+msgstr ""
+"Io...? Non ha molta importanza, no? Dopotutto, non ha niente\r\n"
+"a che fare con lei."
+
+msgctxt "272_Akiyama"
+msgid ""
+"Fair enough. By the way, did you figure out how to spend\r\n"
+"that million yen yet?"
+msgstr ""
+"Giusto. A proposito, ha capito come spendere\r\n"
+"quel milione di yen?"
+
+msgctxt "284_Shoko"
+msgid "No, not yet... Why? Are you curious?"
+msgstr "No, non ancora... Perché? È curioso?"
+
+msgctxt "296_Akiyama"
+msgid ""
+"Not especially. I mean, I gave you that money. It's yours to\r\n"
+"do with as you please."
+msgstr ""
+"Non particolarmente. Voglio dire, le ho dato io quei soldi. Può farne\r\n"
+"ciò che vuole."
+
+msgctxt "308_Shoko"
+msgid ""
+"Yes, well... I have someplace else I'd like to go, so if\r\n"
+"you'll excuse me..."
+msgstr ""
+"Sì, beh... Devo andare in un altro posto, quindi se\r\n"
+"mi scusa..."
+
+msgctxt "332_Akiyama"
+msgid "(Someplace else she'd like to go? Where's she headed now?)"
+msgstr "(Un altro posto dove deve andare? Dove sarà diretta ora?)"
+
+msgctxt "392_Akiyama"
+msgid "Fair enough. By the way, did you spend that million yen yet?"
+msgstr "Giusto. A proposito, l'ha già speso quel milione di yen?"
+
+msgctxt "404_Shoko"
+msgid "I've decided how I'll use it."
+msgstr "Ho deciso come lo userò."
+
+msgctxt "416_Akiyama"
+msgid ""
+"Is that so? Well then, I'll await your decision back at Sky\r\n"
+"Finance."
+msgstr ""
+"Davvero? Bene, allora aspetterò la sua decisione alla Sky\r\n"
+"Finance."
+
+msgctxt "428_Shoko"
+msgid "All right. I'll come by later."
+msgstr "Va bene. Passerò più tardi."
+
+msgctxt "440_Akiyama"
+msgid "Sounds good. I'll see you there."
+msgstr "Perfetto. Ci vediamo lì."

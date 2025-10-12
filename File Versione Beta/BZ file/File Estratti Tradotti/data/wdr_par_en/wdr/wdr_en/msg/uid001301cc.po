@@ -1,0 +1,77 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "132"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr "You got <Color:8>20,000 yen<Color:Default>."
+
+msgctxt "2116"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "2120"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "2124"
+msgid "Suspicious Man"
+msgstr "Uomo Sospetto"
+
+msgctxt "2128"
+msgid "Talk_Cry"
+msgstr "Talk_Cry"
+
+msgctxt "2132"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "2136"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "2140"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "72_Tanimura"
+msgid "Got you now! Why'd you run off like that?"
+msgstr "Got you now! Why'd you run off like that?"
+
+msgctxt "84_Suspicious Man"
+msgid ""
+"Um... Uh... I didn't want you to find the hentai manga I bought earlier "
+"today."
+msgstr ""
+"Um... Uh... I didn't want you to find the hentai manga I bought earlier "
+"today."
+
+msgctxt "96_Tanimura"
+msgid "...I see. All right, I guess you're free to go."
+msgstr "...I see. All right, I guess you're free to go."
+
+msgctxt "108_Suspicious Man"
+msgid ""
+"You mean it!? You'll let me off? In my profession, image is everything, so I"
+" didn't want anyone to know about this."
+msgstr ""
+"You mean it!? You'll let me off? In my profession, image is everything, so I"
+" didn't want anyone to know about this."
+
+msgctxt "120_Suspicious Man"
+msgid "Here, take this. I think your kind call it hush money."
+msgstr "Here, take this. I think your kind call it hush money."
+
+msgctxt "204_Suspicious Man"
+msgid "Please, don't tell anyone!"
+msgstr "Please, don't tell anyone!"

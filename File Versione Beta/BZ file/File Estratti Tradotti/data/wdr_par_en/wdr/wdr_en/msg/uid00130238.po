@@ -1,0 +1,55 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "124"
+msgid "You got <Color:8>15,000 yen<Color:Default>."
+msgstr "You got <Color:8>15,000 yen<Color:Default>."
+
+msgctxt "1616"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1620"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1624"
+msgid "Beat-Up Yakuza"
+msgstr "Beat-Up Yakuza"
+
+msgctxt "1628"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "1632"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "88_Tanimura"
+msgid "Bring it!"
+msgstr "Fatti sotto!"
+
+msgctxt "100_Tanimura"
+msgid "You know how to talk tough, but which family took in a fool like you?"
+msgstr "You know how to talk tough, but which family took in a fool like you?"
+
+msgctxt "112_Beat-Up Yakuza"
+msgid ""
+"I can't let my aniki hear about this! Please, just take this and don't tell!"
+msgstr ""
+"I can't let my aniki hear about this! Please, just take this and don't tell!"
+
+msgctxt "196_Beat-Up Yakuza"
+msgid "No, please, cut me some slack here!"
+msgstr "No, please, cut me some slack here!"

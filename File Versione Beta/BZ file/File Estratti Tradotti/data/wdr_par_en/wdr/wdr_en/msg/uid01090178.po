@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1500"
+msgid "Elderly Homeless Man"
+msgstr "Elderly Homeless Man"
+
+msgctxt "1504"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1508"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1512"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "80_Elderly Homeless Man"
+msgid "Oh, thank goodness! Just the man I've been looking for."
+msgstr "Oh, thank goodness! Just the man I've been looking for."
+
+msgctxt "104_Saejima"
+msgid "Hell of a scratch ya got there. What happened?"
+msgstr "Hell of a scratch ya got there. What happened?"
+
+msgctxt "116_Elderly Homeless Man"
+msgid ""
+"Some wacked-out hoodlums are going completely berserk.\r\n"
+"They're too much for us to handle. Come on!"
+msgstr ""
+"Some wacked-out hoodlums are going completely berserk.\r\n"
+"They're too much for us to handle. Come on!"
+
+msgctxt "128_Saejima"
+msgid "Alright."
+msgstr "Va bene."

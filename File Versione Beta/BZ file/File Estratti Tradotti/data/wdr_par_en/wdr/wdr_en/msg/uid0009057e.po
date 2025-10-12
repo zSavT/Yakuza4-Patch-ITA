@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "976"
+msgid "Supervisor"
+msgstr "Supervisore"
+
+msgctxt "980"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "984"
+msgid "Subordinate"
+msgstr "Subordinato"
+
+msgctxt "988"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "992"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "996"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "84_Supervisor"
+msgid "Where'd we park the company car?"
+msgstr "Dove abbiamo parcheggiato l'auto aziendale?"
+
+msgctxt "96_Subordinate"
+msgid ""
+"Uh... Can't remember. All I know is it was near a\r\n"
+"stairway leading up."
+msgstr ""
+"Uh... Non ricordo. Tutto ciò che so è che fosse\r\n"
+"vicino ad una scalinata che porta in su."
+
+msgctxt "108_Supervisor"
+msgid ""
+"A stairway leading up!? There're five of those in here! Can't you even "
+"remember the general area where we parked?"
+msgstr ""
+"Una scalinata che porta in su!? Ce ne sono cinque qui! Non riesci nemmeno a "
+"ricordare la zona generale in cui abbiamo parcheggiato?"
+
+msgctxt "120_Subordinate"
+msgid "Sorry! Maybe it'll still come to me!"
+msgstr "Mi scusi! Forse mi tornerà in mente!"
+
+msgctxt "132_Supervisor"
+msgid "Ugh! This is exactly why our sales are slumping!"
+msgstr "Ugh! Ecco perché le nostre vendite sono in calo!"

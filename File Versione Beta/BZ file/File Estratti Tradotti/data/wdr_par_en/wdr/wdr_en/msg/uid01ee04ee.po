@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1736"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "100_Player"
+msgid ""
+"(This is CR Aladdin Destiny pachinko machine number 64. Maybe I should give "
+"it a try.)"
+msgstr ""
+"(This is CR Aladdin Destiny pachinko machine number 64. Maybe I should give "
+"it a try.)"
+
+msgctxt "112_Player"
+msgid "(Maybe later...)"
+msgstr "(Maybe later...)"
+
+msgctxt "148_Player"
+msgid "(I don't have the cash... Guess I should go scrounge up 1,000 yen.)"
+msgstr "(I don't have the cash... Guess I should go scrounge up 1,000 yen.)"
+
+msgctxt "256_Player"
+msgid "(Okay, let's do this.)"
+msgstr "(Okay, let's do this.)"
+
+msgctxt "280_Player"
+msgid "Play"
+msgstr "Play"
+
+msgctxt "292_Player"
+msgid "Not Now"
+msgstr "Not Now"

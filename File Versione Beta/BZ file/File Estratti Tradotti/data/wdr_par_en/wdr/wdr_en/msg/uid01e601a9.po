@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2208"
+msgid "Dirty Child"
+msgstr "Dirty Child"
+
+msgctxt "2212"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2216"
+msgid "Talk_Kosite_st"
+msgstr "Talk_Kosite_st"
+
+msgctxt "2220"
+msgid "Talk_Kosite_ed"
+msgstr "Talk_Kosite_ed"
+
+msgctxt "2224"
+msgid "P_sae_stand_tlk_kamae"
+msgstr "P_sae_stand_tlk_kamae"
+
+msgctxt "2228"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "2232"
+msgid "0"
+msgstr ""
+
+msgctxt "104_Dirty Child"
+msgid "Oops. Sorry."
+msgstr "Oops. Sorry."
+
+msgctxt "128_Saejima"
+msgid "(Not the kinda place I'd expect to see kids runnin' 'round.)"
+msgstr "(Not the kinda place I'd expect to see kids runnin' 'round.)"
+
+msgctxt "152_Saejima"
+msgid "(The cash in my pocket... It's gone. Did I drop it?)"
+msgstr "(The cash in my pocket... It's gone. Did I drop it?)"
+
+msgctxt "164_Saejima"
+msgid "(Wait. That brat swiped my money!)"
+msgstr "(Wait. That brat swiped my money!)"
+
+msgctxt "176_Saejima"
+msgid "Hey, you, get back here!"
+msgstr "Hey, you, get back here!"

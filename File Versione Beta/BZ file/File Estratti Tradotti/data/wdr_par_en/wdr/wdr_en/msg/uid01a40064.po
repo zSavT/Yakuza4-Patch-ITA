@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1744"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1748"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "1752"
+msgid "Mei Hua"
+msgstr "Mei Hua"
+
+msgctxt "1756"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "1760"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "96_Tanimura"
+msgid "(Hm, it's from Homeland.)"
+msgstr "(Hm, it's from Homeland.)"
+
+msgctxt "132_Tanimura"
+msgid "Hello?"
+msgstr "Salve?"
+
+msgctxt "144_Mei Hua"
+msgid "Ma-chan!"
+msgstr "Ma-chan!"
+
+msgctxt "156_Tanimura"
+msgid "Mei Hua? What's up?"
+msgstr "Mei Hua? What's up?"
+
+msgctxt "168_Mei Hua"
+msgid "We need you back at Homeland! Hurry!"
+msgstr "We need you back at Homeland! Hurry!"
+
+msgctxt "180_Tanimura"
+msgid "Whoa. Calm down and tell me what happened."
+msgstr "Whoa. Calm down and tell me what happened."
+
+msgctxt "192_Mei Hua"
+msgid "Just hurry back here now! Something awful has happened!"
+msgstr "Just hurry back here now! Something awful has happened!"
+
+msgctxt "204_Tanimura"
+msgid "Okay, okay! I'll be right there!"
+msgstr "Okay, okay! I'll be right there!"
+
+msgctxt "264_Tanimura"
+msgid "(She seemed really rattled... I should head over to Homeland.)"
+msgstr "(She seemed really rattled... I should head over to Homeland.)"

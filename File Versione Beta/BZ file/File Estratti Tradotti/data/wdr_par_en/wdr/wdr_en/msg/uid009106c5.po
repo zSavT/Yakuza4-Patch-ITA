@@ -1,0 +1,213 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5516"
+msgid "Sodachi"
+msgstr "Sodachi"
+
+msgctxt "5520"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "5524"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "5528"
+msgid "Sugiyama"
+msgstr "Sugiyama"
+
+msgctxt "5532"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "5536"
+msgid "Talk_CryBig_st"
+msgstr "Talk_CryBig_st"
+
+msgctxt "5540"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "5544"
+msgid "Talk_CryBig_ed"
+msgstr "Talk_CryBig_ed"
+
+msgctxt "5548"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "5552"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "5556"
+msgid "Woman's Voice"
+msgstr "Woman's Voice"
+
+msgctxt "5560"
+msgid "Mayako"
+msgstr "Mayako"
+
+msgctxt "5564"
+msgid "Masao"
+msgstr "Masao"
+
+msgctxt "5568"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "5572"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "5576"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "5580"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "56_Sodachi"
+msgid ""
+"Now that was fun! Celebrating your apprentice's victory over drinks. That is"
+" the best reward a teacher can get."
+msgstr ""
+"Now that was fun! Celebrating your apprentice's victory over drinks. That is"
+" the best reward a teacher can get."
+
+msgctxt "68_Saejima"
+msgid "You got that right. Great job, Hideo."
+msgstr "You got that right. Great job, Hideo."
+
+msgctxt "80_Sugiyama"
+msgid "Thank you, both of you."
+msgstr "Thank you, both of you."
+
+msgctxt "92_Sugiyama"
+msgid ""
+"It's all thanks to you. I was a nobody until you made me into the man I am "
+"today. Thank you..."
+msgstr ""
+"It's all thanks to you. I was a nobody until you made me into the man I am "
+"today. Thank you..."
+
+msgctxt "104_Saejima"
+msgid ""
+"We didn't do nothin'. You won the fights yerself. You gave it yer all, and "
+"ya came out a winner."
+msgstr ""
+"We didn't do nothin'. You won the fights yerself. You gave it yer all, and "
+"ya came out a winner."
+
+msgctxt "116_Sugiyama"
+msgid "Saejima-san..."
+msgstr "Saejima-san..."
+
+msgctxt "128_Saejima"
+msgid ""
+"Have some confidence in yerself. And now you got the balls to ask that girl "
+"out."
+msgstr ""
+"Have some confidence in yerself. And now you got the balls to ask that girl "
+"out."
+
+msgctxt "140_Sugiyama"
+msgid "You're right! I feel like I can do anything now!"
+msgstr "You're right! I feel like I can do anything now!"
+
+msgctxt "152_Woman's Voice"
+msgid "Hehe. Oh, stop it!"
+msgstr "Hehe. Oh, stop it!"
+
+msgctxt "164_Sugiyama"
+msgid "Hm? I recognize that pretty voice... That's my love, Mayako-chan!"
+msgstr "Hm? I recognize that pretty voice... That's my love, Mayako-chan!"
+
+msgctxt "176_Mayako"
+msgid "Masao-kun! Not here... People will see us!"
+msgstr "Masao-kun! Not here... People will see us!"
+
+msgctxt "188_Masao"
+msgid "I don't care. I love you, Mayako. You're the only girl for me."
+msgstr "I don't care. I love you, Mayako. You're the only girl for me."
+
+msgctxt "200_Mayako"
+msgid "Oh, Masao-kun... I'm looking forward to another fun night tonight..."
+msgstr "Oh, Masao-kun... I'm looking forward to another fun night tonight..."
+
+msgctxt "212_Masao"
+msgid ""
+"Of course. Tonight it'll be just the two of us. Mayako-Masao fever, baby! "
+"Hahaha!"
+msgstr ""
+"Of course. Tonight it'll be just the two of us. Mayako-Masao fever, baby! "
+"Hahaha!"
+
+msgctxt "224_Sugiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "236_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "248_Sodachi"
+msgid ""
+"Don't worry about that Hide-chan. Women make up half of the entire planet. "
+"You'll find someone new really soon. I'm sure of it..."
+msgstr ""
+"Don't worry about that Hide-chan. Women make up half of the entire planet. "
+"You'll find someone new really soon. I'm sure of it..."
+
+msgctxt "260_Sugiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "272_Sodachi"
+msgid "Hide-chan..."
+msgstr "Hide-chan..."
+
+msgctxt "284_Sodachi"
+msgid "Ugh... Talk about bad timing..."
+msgstr "Ugh... Talk about bad timing..."
+
+msgctxt "296_Saejima"
+msgid "Hmm... Hopefully he doesn't get all down about it..."
+msgstr "Hmm... Hopefully he doesn't get all down about it..."
+
+msgctxt "308_Sodachi"
+msgid ""
+"What are you saying? We're talking about Hide-chan. He's the definition of "
+"gloomy, wimpy, shy, timid, <Italic>and</Italic> hopeless..."
+msgstr ""
+"What are you saying? We're talking about Hide-chan. He's the definition of "
+"gloomy, wimpy, shy, timid, <Italic>and</Italic> hopeless..."
+
+msgctxt "320_Sodachi"
+msgid "Of course he's gonna take it too hard!"
+msgstr "Of course he's gonna take it too hard!"
+
+msgctxt "332_Sodachi"
+msgid "He'll be out of it for at least two months..."
+msgstr "He'll be out of it for at least two months..."
+
+msgctxt "344_Sodachi"
+msgid "Worst case scenario, he may even quit fighting."
+msgstr "Worst case scenario, he may even quit fighting."
+
+msgctxt "356_Saejima"
+msgid "All we can do is cheer 'im up. Let's head back to the dojo for now..."
+msgstr "All we can do is cheer 'im up. Let's head back to the dojo for now..."

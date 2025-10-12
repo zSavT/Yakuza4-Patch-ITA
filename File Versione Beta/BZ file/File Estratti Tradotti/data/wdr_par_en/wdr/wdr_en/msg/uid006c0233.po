@@ -1,0 +1,225 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "488"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "980"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "13092"
+msgid "Noa"
+msgstr "Noa"
+
+msgctxt "13096"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13100"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "13104"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "13108"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13112"
+msgid "0"
+msgstr ""
+
+msgctxt "13116"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13120"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "116_Noa"
+msgid "Don't expect an easy opponent, mister!"
+msgstr "Don't expect an easy opponent, mister!"
+
+msgctxt "128_Player"
+msgid "Let's see what you've got, then."
+msgstr "Let's see what you've got, then."
+
+msgctxt "140_Noa"
+msgid "Okay. Let's go in."
+msgstr "Okay. Let's go in."
+
+msgctxt "164_Noa"
+msgid "Don't expect an easy opponent, mister!"
+msgstr "Don't expect an easy opponent, mister!"
+
+msgctxt "176_Noa"
+msgid "Let's head in."
+msgstr "Let's head in."
+
+msgctxt "188_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr "Um, wait a moment. I thought I had more cash than this..."
+
+msgctxt "200_Noa"
+msgid "Huh!? Really?"
+msgstr "Huh!? Really?"
+
+msgctxt "212_Player"
+msgid "Yeah. Sorry..."
+msgstr "Yeah. Sorry..."
+
+msgctxt "224_Noa"
+msgid ""
+"Oh. Well, that's too bad. This'll be the end of our date then. See you "
+"around."
+msgstr ""
+"Oh. Well, that's too bad. This'll be the end of our date then. See you "
+"around."
+
+msgctxt "236_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr "(I'd better remember to bring enough cash next time...)"
+
+msgctxt "344_Noa"
+msgid "My, my! Aren't you an excellent bowler. <Color:7>♥<Color:Default>"
+msgstr "My, my! Aren't you an excellent bowler. <Color:7>♥<Color:Default>"
+
+msgctxt "356_Player"
+msgid "I'm alright."
+msgstr "I'm alright."
+
+msgctxt "368_Noa"
+msgid "I had a lot of fun. We should play again sometime."
+msgstr "I had a lot of fun. We should play again sometime."
+
+msgctxt "392_Noa"
+msgid "Haha! It was a tie, huh?"
+msgstr "Haha! It was a tie, huh?"
+
+msgctxt "404_Player"
+msgid "I guess so."
+msgstr "I guess so."
+
+msgctxt "416_Noa"
+msgid "I had fun today. I'll see you at the club soon."
+msgstr "I had fun today. I'll see you at the club soon."
+
+msgctxt "440_Noa"
+msgid "Too bad! Looks like I won this time. <Color:7>♥<Color:Default>"
+msgstr "Too bad! Looks like I won this time. <Color:7>♥<Color:Default>"
+
+msgctxt "452_Player"
+msgid "I just had a bit of bad luck..."
+msgstr "I just had a bit of bad luck..."
+
+msgctxt "464_Noa"
+msgid "I had fun today. I'll see you at the club soon."
+msgstr "I had fun today. I'll see you at the club soon."
+
+msgctxt "572_Noa"
+msgid "Don't expect an easy opponent, mister!"
+msgstr "Don't expect an easy opponent, mister!"
+
+msgctxt "584_Player"
+msgid "Well, let's see how tough you are."
+msgstr "Well, let's see how tough you are."
+
+msgctxt "596_Noa"
+msgid "Shall we head inside?"
+msgstr "Shall we head inside?"
+
+msgctxt "620_Noa"
+msgid "Don't expect an easy opponent, mister!"
+msgstr "Don't expect an easy opponent, mister!"
+
+msgctxt "632_Noa"
+msgid "Let's head in."
+msgstr "Let's head in."
+
+msgctxt "644_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr "Um, wait a moment. I thought I had more cash than this..."
+
+msgctxt "656_Noa"
+msgid "Huh!? Really?"
+msgstr "Huh!? Really?"
+
+msgctxt "668_Player"
+msgid "Yeah. Sorry..."
+msgstr "Yeah. Sorry..."
+
+msgctxt "680_Noa"
+msgid ""
+"Oh. Well, that's too bad. This'll be the end of our date then. See you "
+"around."
+msgstr ""
+"Oh. Well, that's too bad. This'll be the end of our date then. See you "
+"around."
+
+msgctxt "692_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr "(I'd better remember to bring enough cash next time...)"
+
+msgctxt "800_Noa"
+msgid "My, my! Aren't you an excellent bowler. <Color:7>♥<Color:Default>"
+msgstr "My, my! Aren't you an excellent bowler. <Color:7>♥<Color:Default>"
+
+msgctxt "812_Player"
+msgid "I guess so."
+msgstr "I guess so."
+
+msgctxt "824_Noa"
+msgid "That was a blast. Well, let's head to the club now?"
+msgstr "That was a blast. Well, let's head to the club now?"
+
+msgctxt "836_Player"
+msgid "Sounds good."
+msgstr "Sounds good."
+
+msgctxt "860_Noa"
+msgid "Haha. We tied."
+msgstr "Haha. We tied."
+
+msgctxt "872_Player"
+msgid "I guess so."
+msgstr "I guess so."
+
+msgctxt "884_Noa"
+msgid "I had fun today. Shall we head to the club now?"
+msgstr "I had fun today. Shall we head to the club now?"
+
+msgctxt "896_Player"
+msgid "Sounds good."
+msgstr "Sounds good."
+
+msgctxt "920_Noa"
+msgid "Too bad! Looks like I won this time. <Color:7>♥<Color:Default>"
+msgstr "Too bad! Looks like I won this time. <Color:7>♥<Color:Default>"
+
+msgctxt "932_Player"
+msgid "I just had a bit of bad luck..."
+msgstr "I just had a bit of bad luck..."
+
+msgctxt "944_Noa"
+msgid "I had fun today. Shall we head to the club now?"
+msgstr "I had fun today. Shall we head to the club now?"
+
+msgctxt "956_Player"
+msgid "Sounds good."
+msgstr "Sounds good."

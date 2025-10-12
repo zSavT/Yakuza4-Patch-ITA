@@ -1,0 +1,137 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4132"
+msgid "Street Punk"
+msgstr "Street Punk"
+
+msgctxt "4136"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4140"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "4144"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "4148"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "4152"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "4156"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4160"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "4164"
+msgid "Akaishi"
+msgstr "Akaishi"
+
+msgctxt "4168"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "4172"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "56_Street Punk"
+msgid "Aaagh! Don't hurt me!"
+msgstr "Aaagh! Don't hurt me!"
+
+msgctxt "68_Tanimura"
+msgid "Who're you punks working for?"
+msgstr "Who're you punks working for?"
+
+msgctxt "80_Street Punk"
+msgid "I don't know anything, man..."
+msgstr "I don't know anything, man..."
+
+msgctxt "92_Tanimura"
+msgid ""
+"Heh, still trying to play dumb? You must have a lot of fight left in you. "
+"Ready for some serious pain this time?"
+msgstr ""
+"Heh, still trying to play dumb? You must have a lot of fight left in you. "
+"Ready for some serious pain this time?"
+
+msgctxt "104_Street Punk"
+msgid "No, no! Please, anything but that! I'll talk! I'll talk!"
+msgstr "No, no! Please, anything but that! I'll talk! I'll talk!"
+
+msgctxt "116_Street Punk"
+msgid ""
+"This guy, Kondo, put me up to it. He works in the Watanabe Building in the "
+"Hotel District. He paid me to do it, man!"
+msgstr ""
+"This guy, Kondo, put me up to it. He works in the Watanabe Building in the "
+"Hotel District. He paid me to do it, man!"
+
+msgctxt "128_Tanimura"
+msgid "Kondo, in the Watanabe Building..."
+msgstr "Kondo, in the Watanabe Building..."
+
+msgctxt "176_Tanimura"
+msgid ""
+"Akaishi-san, I found out who's behind this. It's somebody named Kondo, who "
+"works in the Watanabe Building. I'll go take care of things."
+msgstr ""
+"Akaishi-san, I found out who's behind this. It's somebody named Kondo, who "
+"works in the Watanabe Building. I'll go take care of things."
+
+msgctxt "188_Akaishi"
+msgid "All right. I need to talk to them as well, so I'll go with you."
+msgstr "All right. I need to talk to them as well, so I'll go with you."
+
+msgctxt "200_Tanimura"
+msgid "Got it."
+msgstr "Capito."
+
+msgctxt "308_Tanimura"
+msgid ""
+"Are you sure you want to come with me, Akaishi-san? We may not be able to "
+"settle this one peacefully."
+msgstr ""
+"Are you sure you want to come with me, Akaishi-san? We may not be able to "
+"settle this one peacefully."
+
+msgctxt "320_Akaishi"
+msgid ""
+"I'm prepared for that. But I think that if we talk face to face, we'll be "
+"able to come to some kind of understanding."
+msgstr ""
+"I'm prepared for that. But I think that if we talk face to face, we'll be "
+"able to come to some kind of understanding."
+
+msgctxt "332_Tanimura"
+msgid ""
+"I don't know, these guys have been a real thorn in your side. It may not be "
+"so easy..."
+msgstr ""
+"I don't know, these guys have been a real thorn in your side. It may not be "
+"so easy..."
+
+msgctxt "344_Akaishi"
+msgid " At least we can try, Tanimura-san."
+msgstr "At least we can try, Tanimura-san."

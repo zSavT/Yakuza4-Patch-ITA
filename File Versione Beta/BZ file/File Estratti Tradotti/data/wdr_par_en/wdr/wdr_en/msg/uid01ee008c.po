@@ -1,0 +1,178 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "6356"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "6360"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "6364"
+msgid "Lily"
+msgstr "Lily"
+
+msgctxt "6368"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6372"
+msgid "Yasuko"
+msgstr "Yasuko"
+
+msgctxt "6376"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "6380"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "6384"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "280_Haruka"
+msgid "What took you so long, Uncle Kaz? I got tired of waiting..."
+msgstr "What took you so long, Uncle Kaz? I got tired of waiting..."
+
+msgctxt "304_Haruka"
+msgid "Oh, you're back, Akiyama-san. Shall we go, then?"
+msgstr "Oh, you're back, Akiyama-san. Shall we go, then?"
+
+msgctxt "316_Haruka"
+msgid "Oh, Kiryu-san, I've been waiting for you. Shall we go, then?"
+msgstr "Oh, Kiryu-san, I've been waiting for you. Shall we go, then?"
+
+msgctxt "352_Tanimura"
+msgid ""
+"(This is no time to be making detours. They took Zhao-san somewhere off "
+"Senryo Avenue.)"
+msgstr ""
+"(This is no time to be making detours. They took Zhao-san somewhere off "
+"Senryo Avenue.)"
+
+msgctxt "376_Saejima"
+msgid ""
+"(Karaoke used to be in bars, but looks like there's places that specialize "
+"in it...)"
+msgstr ""
+"(Karaoke used to be in bars, but looks like there's places that specialize "
+"in it...)"
+
+msgctxt "388_Saejima"
+msgid "(Singin' just ain't my thing...)"
+msgstr "(Singin' just ain't my thing...)"
+
+msgctxt "424_Saejima"
+msgid "(A karaoke place, huh? Singin' just ain't my thing...)"
+msgstr "(A karaoke place, huh? Singin' just ain't my thing...)"
+
+msgctxt "472_Haruka"
+msgid "Are you... going in there, Uncle Kaz?"
+msgstr "Are you... going in there, Uncle Kaz?"
+
+msgctxt "484_Player"
+msgid "(Haruka's with me. What should I do?)"
+msgstr "(Haruka's with me. What should I do?)"
+
+msgctxt "496_Haruka"
+msgid "Yeah, sorry. Think you can be a big girl and wait here while I'm gone?"
+msgstr ""
+"Yeah, sorry. Think you can be a big girl and wait here while I'm gone?"
+
+msgctxt "508_Haruka"
+msgid "...Okay. Have fun, Uncle Kaz."
+msgstr "...Okay. Have fun, Uncle Kaz."
+
+msgctxt "520_Haruka"
+msgid "No, I'm okay."
+msgstr "No, I'm okay."
+
+msgctxt "532_Haruka"
+msgid "Really? I don't mind."
+msgstr "Really? I don't mind."
+
+msgctxt "556_Haruka"
+msgid "Um, are you going in here?"
+msgstr "Um, are you going in here?"
+
+msgctxt "568_Player"
+msgid "(I forgot Lily-chan's with me. What to do...)"
+msgstr "(I forgot Lily-chan's with me. What to do...)"
+
+msgctxt "580_Haruka"
+msgid "Yeah. Sorry, but could you wait a bit out here?"
+msgstr "Yeah. Sorry, but could you wait a bit out here?"
+
+msgctxt "592_Lily"
+msgid "Oh, sure. I understand."
+msgstr "Oh, sure. I understand."
+
+msgctxt "604_Haruka"
+msgid "Actually, never mind."
+msgstr "Actually, never mind."
+
+msgctxt "616_Lily"
+msgid "I see... You don't have to worry about me though."
+msgstr "I see... You don't have to worry about me though."
+
+msgctxt "628_Haruka"
+msgid "Um, are you going in here?"
+msgstr "Um, are you going in here?"
+
+msgctxt "640_Player"
+msgid "(I forgot Yasuko-san's with me. What to do...)"
+msgstr "(I forgot Yasuko-san's with me. What to do...)"
+
+msgctxt "652_Haruka"
+msgid "Sorry, but could you wait here for a bit?"
+msgstr "Sorry, but could you wait here for a bit?"
+
+msgctxt "664_Yasuko"
+msgid "Oh, sure. I understand."
+msgstr "Oh, sure. I understand."
+
+msgctxt "676_Haruka"
+msgid "Never mind."
+msgstr "Never mind."
+
+msgctxt "688_Yasuko"
+msgid "I see... You don't have to worry about me though."
+msgstr "I see... You don't have to worry about me though."
+
+msgctxt "784_Haruka"
+msgid "Go In Anyway"
+msgstr "Go In Anyway"
+
+msgctxt "796_Haruka"
+msgid "Forget It"
+msgstr "Forget It"
+
+msgctxt "808_Haruka"
+msgid "Go In Anyway"
+msgstr "Go In Anyway"
+
+msgctxt "820_Haruka"
+msgid "Forget It"
+msgstr "Forget It"
+
+msgctxt "832_Haruka"
+msgid "Go In Anyway"
+msgstr "Go In Anyway"
+
+msgctxt "844_Haruka"
+msgid "Forget It"
+msgstr "Forget It"

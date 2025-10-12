@@ -1,0 +1,194 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "6360"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "6364"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "6368"
+msgid "Lily"
+msgstr "Lily"
+
+msgctxt "6372"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6376"
+msgid "Yasuko"
+msgstr "Yasuko"
+
+msgctxt "6380"
+msgid "Barker"
+msgstr "Buttafuori"
+
+msgctxt "6384"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "6388"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "6392"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "232_Haruka"
+msgid "What took you so long, Uncle Kaz? I got tired of waiting..."
+msgstr "Perché ci hai messo tanto, zio Kaz? Mi sono stancata di aspettare..."
+
+msgctxt "256_Haruka"
+msgid "Oh, you're back, Akiyama-san. Shall we go, then?"
+msgstr "Oh, è tornato, Akiyama-san. Andiamo, allora?"
+
+msgctxt "268_Haruka"
+msgid "Oh, Kiryu-san, I've been waiting for you. Shall we go, then?"
+msgstr "Oh, Kiryu-san, la stavo aspettando. Andiamo, allora?"
+
+msgctxt "292_Barker"
+msgid ""
+"Hey, tough guy! How about a show? Only 3,000 yen to satisfy all your wildest"
+" fantasies!"
+msgstr ""
+"Ehi, duro! Che ne dici di uno spettacolo? Solo 3.000 yen per soddisfare le "
+"tue fantasie più sfrenate!"
+
+msgctxt "328_Haruka"
+msgid "Are you... going in there, Uncle Kaz?"
+msgstr "Stai... entrando lì, zio Kaz?"
+
+msgctxt "340_Kiryu"
+msgid "(Shoot, I forgot Haruka was with me! What now!?)"
+msgstr "(Merda, mi ero dimenticato che Haruka è con me! E ora!?)"
+
+msgctxt "352_Haruka"
+msgid "Yeah, sorry. Think you can be a big girl and wait here while I'm gone?"
+msgstr ""
+"Sì, scusa. Pensi di poter fare la brava e aspettare qui mentre sono via?"
+
+msgctxt "364_Haruka"
+msgid "...Okay. Have fun, Uncle Kaz."
+msgstr "...Ok. Divertiti, zio Kaz."
+
+msgctxt "376_Haruka"
+msgid "No, I'm okay."
+msgstr "No, non fa niente."
+
+msgctxt "388_Haruka"
+msgid "Really? I don't mind."
+msgstr "Davvero? Per me non c'è problema."
+
+msgctxt "400_Haruka"
+msgid "Hold on, Kiryu. You're not going in there, are you?"
+msgstr "Aspetta, Kiryu. Non starai entrando lì, vero?"
+
+msgctxt "412_Kiryu"
+msgid "(Shoot, I forgot Date-san was with me! What now!?)"
+msgstr "(Merda, mi ero dimenticato che Date-san è con me! E ora!?)"
+
+msgctxt "424_Haruka"
+msgid "Of course I am. Want to join me, Date-san?"
+msgstr "Certo che sì. Vuoi unirti a me, Date-san?"
+
+msgctxt "436_Date"
+msgid ""
+"...Nah, I'm good. But you go ahead. Who am I to get in the way of a man and "
+"his pleasure?"
+msgstr ""
+"...Nah, passo. Ma vai pure. Chi sono io per mettermi tra un uomo e il suo "
+"piacere?"
+
+msgctxt "448_Haruka"
+msgid "No, I'm okay."
+msgstr "No, non fa niente."
+
+msgctxt "460_Date"
+msgid "You sure? I'm cool with you going in."
+msgstr "Sicuro? Per me puoi entrare tranquillamente."
+
+msgctxt "472_Barker"
+msgid ""
+"You're kinda... short on cash there, pal. Come back when you have a few more"
+" stacks in your wallet!"
+msgstr ""
+"Sei un po'... a corto di contanti, amico. Torna quando avrai qualche "
+"spicciolo in più nel portafoglio!"
+
+msgctxt "484_Barker"
+msgid ""
+"Not in the mood, huh? Too bad. Come back when you're up for some Tokyo "
+"titties, okay?"
+msgstr ""
+"Non sei in vena, eh? Peccato. Torna quando avrai voglia di un po' di grazia "
+"di Tokyo, ok?"
+
+msgctxt "496_Barker"
+msgid "Right this way, sir!"
+msgstr "Da questa parte, signore!"
+
+msgctxt "520_Barker"
+msgid ""
+"Hey, tough guy! How about a show? Only 3,000 yen to satisfy all your wildest"
+" fantasies!"
+msgstr ""
+"Ehi, duro! Che ne dici di uno spettacolo? Solo 3.000 yen per soddisfare le "
+"tue fantasie più sfrenate!"
+
+msgctxt "544_Barker"
+msgid "Right this way, sir!"
+msgstr "Da questa parte, signore!"
+
+msgctxt "568_Barker"
+msgid ""
+"You're kinda... short on cash there, pal. Come back when you have a few more"
+" stacks in your wallet!"
+msgstr ""
+"Sei un po'... a corto di contanti, amico. Torna quando avrai qualche "
+"spicciolo in più nel portafoglio!"
+
+msgctxt "580_Barker"
+msgid ""
+"Not in the mood, huh? Too bad. Come back when you're up for some Tokyo "
+"titties, okay?"
+msgstr ""
+"Non sei in vena, eh? Peccato. Torna quando avrai voglia di un po' di grazia "
+"di Tokyo, ok?"
+
+msgctxt "592_Haruka"
+msgid "Go In Anyway"
+msgstr "Entra comunque"
+
+msgctxt "604_Haruka"
+msgid "Forget It"
+msgstr "Lascia perdere"
+
+msgctxt "616_Haruka"
+msgid "Go In Anyway"
+msgstr "Entra comunque"
+
+msgctxt "628_Haruka"
+msgid "Forget It"
+msgstr "Lascia perdere"
+
+msgctxt "640_Haruka"
+msgid "Check It Out"
+msgstr "Dai un'occhiata"
+
+msgctxt "652_Haruka"
+msgid "Not Now"
+msgstr "Non ora"

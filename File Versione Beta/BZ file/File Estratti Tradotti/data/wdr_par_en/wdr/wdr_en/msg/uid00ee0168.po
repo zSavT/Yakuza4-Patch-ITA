@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "452"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "116_Saejima"
+msgid "(I'm so far from the stage.)"
+msgstr "(I'm so far from the stage.)"
+
+msgctxt "128_Saejima"
+msgid "(It's kinda far, but I should still have a good time.)"
+msgstr "(It's kinda far, but I should still have a good time.)"
+
+msgctxt "140_Saejima"
+msgid "(I can see way better than I expected...)"
+msgstr "(I can see way better than I expected...)"

@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1976"
+msgid "Lily"
+msgstr "Lily"
+
+msgctxt "1980"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1984"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1988"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "92_Lily"
+msgid "Hm..."
+msgstr "Hm..."
+
+msgctxt "104_Akiyama"
+msgid "Is it somewhere in here?"
+msgstr "Is it somewhere in here?"
+
+msgctxt "116_Lily"
+msgid "Yeah, I think so."
+msgstr "Yeah, I think so."
+
+msgctxt "128_Lily"
+msgid "Though... I don't remember this building being here before."
+msgstr "Though... I don't remember this building being here before."
+
+msgctxt "140_Akiyama"
+msgid ""
+"Really? It's been around at least as long as I have. Probably way longer."
+msgstr ""
+"Really? It's been around at least as long as I have. Probably way longer."
+
+msgctxt "152_Lily"
+msgid ""
+"Do you think we could head inside? I'd like to see it for myself if you "
+"don't mind."
+msgstr ""
+"Do you think we could head inside? I'd like to see it for myself if you "
+"don't mind."
+
+msgctxt "164_Akiyama"
+msgid "Oh, uh, sure..."
+msgstr "Oh, uh, sure..."

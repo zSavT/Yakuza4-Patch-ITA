@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1480"
+msgid "Young Jock"
+msgstr "Young Jock"
+
+msgctxt "1484"
+msgid "Art Major"
+msgstr "Art Major"
+
+msgctxt "1488"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1492"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "1496"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "1500"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1504"
+msgid "Talk_Info_L"
+msgstr "Talk_Info_L"
+
+msgctxt "84_Young Jock"
+msgid "I totally own at bowling! Wanna see me kick ass?"
+msgstr "I totally own at bowling! Wanna see me kick ass?"
+
+msgctxt "96_Art Major"
+msgid ""
+"Not if it's my ass being kicked... which it would be. I'd rather go to the "
+"bookstore."
+msgstr ""
+"Not if it's my ass being kicked... which it would be. I'd rather go to the "
+"bookstore."
+
+msgctxt "108_Young Jock"
+msgid "Aw, c'mon! Just one game! You can just watch if you want!"
+msgstr "Aw, c'mon! Just one game! You can just watch if you want!"
+
+msgctxt "120_Art Major"
+msgid "...If I want?"
+msgstr "...If I want?"
+
+msgctxt "132_Young Jock"
+msgid "...Is that a no?"
+msgstr "...Is that a no?"
+
+msgctxt "144_Art Major"
+msgid ""
+"Ugh, fine. I'll watch you play one game, by yourself. Then we're going to "
+"the bookstore. Got it?"
+msgstr ""
+"Ugh, fine. I'll watch you play one game, by yourself. Then we're going to "
+"the bookstore. Got it?"
+
+msgctxt "156_Young Jock"
+msgid "Got it! Mach Bowl's really close by. Let's go!"
+msgstr "Got it! Mach Bowl's really close by. Let's go!"
+
+msgctxt "168_Art Major"
+msgid "One of these days, I'll get you to take me to the bookstore first..."
+msgstr "One of these days, I'll get you to take me to the bookstore first..."

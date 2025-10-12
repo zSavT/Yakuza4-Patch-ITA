@@ -1,0 +1,269 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "356"
+msgid "I'll see you later. Bye."
+msgstr "I'll see you later. Bye."
+
+msgctxt "512"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "1004"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "13832"
+msgid "望月京子：源氏名"
+msgstr "望月京子：源氏名"
+
+msgctxt "13836"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13840"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "13844"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "13848"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13852"
+msgid "0"
+msgstr ""
+
+msgctxt "13856"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "13860"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_望月京子：源氏名"
+msgid ""
+"Now this, this is my kinda scene! Nice and relaxed. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Now this, this is my kinda scene! Nice and relaxed. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "128_Player"
+msgid "Let's go in."
+msgstr "Let's go in."
+
+msgctxt "152_望月京子：源氏名"
+msgid ""
+"Now this, this is my kinda scene! Nice and relaxed. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Now this, this is my kinda scene! Nice and relaxed. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "164_Player"
+msgid "Wait a minute. I just realized that I'm short on cash."
+msgstr "Wait a minute. I just realized that I'm short on cash."
+
+msgctxt "176_望月京子：源氏名"
+msgid "...Seriously?"
+msgstr "...Seriously?"
+
+msgctxt "188_Player"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "200_望月京子：源氏名"
+msgid ""
+"From the way you act, I thought you had plenty of money. Oh well. I'll see "
+"you later."
+msgstr ""
+"From the way you act, I thought you had plenty of money. Oh well. I'll see "
+"you later."
+
+msgctxt "212_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr "(I should've made sure I had some cash...)"
+
+msgctxt "320_望月京子：源氏名"
+msgid ""
+"Ah, that was delicious. <Color:7>♥<Color:Default> You sure know the menu,\r\n"
+"Kiryu-san. ♪"
+msgstr ""
+"Ah, that was delicious. <Color:7>♥<Color:Default> You sure know the menu,\r\n"
+"Kiryu-san. ♪"
+
+msgctxt "332_Player"
+msgid "Heh."
+msgstr "Heh."
+
+msgctxt "344_望月京子：源氏名"
+msgid ""
+"Thanks for the meal, Kiryu-san. <Color:7>♥<Color:Default> Take me out again,"
+" okay? Bye."
+msgstr ""
+"Thanks for the meal, Kiryu-san. <Color:7>♥<Color:Default> Take me out again,"
+" okay? Bye."
+
+msgctxt "380_望月京子：源氏名"
+msgid "Thanks, that was like, actually pretty good."
+msgstr "Thanks, that was like, actually pretty good."
+
+msgctxt "392_Player"
+msgid "Good."
+msgstr "Bene."
+
+msgctxt "404_望月京子：源氏名"
+msgid "I'll see you later. Bye."
+msgstr "I'll see you later. Bye."
+
+msgctxt "428_望月京子：源氏名"
+msgid "......"
+msgstr "......"
+
+msgctxt "440_Player"
+msgid "Something wrong?"
+msgstr "Something wrong?"
+
+msgctxt "452_望月京子：源氏名"
+msgid ""
+"Oh, nothing... Well, the food wasn't all that good... Kinda icky. That's "
+"all."
+msgstr ""
+"Oh, nothing... Well, the food wasn't all that good... Kinda icky. That's "
+"all."
+
+msgctxt "464_Player"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "476_望月京子：源氏名"
+msgid "Anyway, I should get going. See you at the club."
+msgstr "Anyway, I should get going. See you at the club."
+
+msgctxt "488_Player"
+msgid "(Guess she didn't enjoy the food.)"
+msgstr "(Guess she didn't enjoy the food.)"
+
+msgctxt "596_望月京子：源氏名"
+msgid ""
+"Now this, this is my kinda scene! Nice and relaxed. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Now this, this is my kinda scene! Nice and relaxed. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "608_Player"
+msgid "Let's go in."
+msgstr "Let's go in."
+
+msgctxt "632_望月京子：源氏名"
+msgid ""
+"Now this, this is my kinda scene! Nice and relaxed. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Now this, this is my kinda scene! Nice and relaxed. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "644_Player"
+msgid "Wait a minute. I just realized that I'm short on cash."
+msgstr "Wait a minute. I just realized that I'm short on cash."
+
+msgctxt "656_望月京子：源氏名"
+msgid "...Seriously?"
+msgstr "...Seriously?"
+
+msgctxt "668_Player"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "680_望月京子：源氏名"
+msgid ""
+"From the way you act, I thought you had plenty of money. Oh well. I'll see "
+"you later."
+msgstr ""
+"From the way you act, I thought you had plenty of money. Oh well. I'll see "
+"you later."
+
+msgctxt "692_Player"
+msgid "(I should've made sure I had some cash...)"
+msgstr "(I should've made sure I had some cash...)"
+
+msgctxt "800_望月京子：源氏名"
+msgid "Mmm, that was great! You're a bit of a foodie, huh?"
+msgstr "Mmm, that was great! You're a bit of a foodie, huh?"
+
+msgctxt "812_Player"
+msgid "Heh."
+msgstr "Heh."
+
+msgctxt "824_望月京子：源氏名"
+msgid ""
+"Thanks for the meal, Kiryu-san. <Color:7>♥<Color:Default> Time to head over "
+"to the club?"
+msgstr ""
+"Thanks for the meal, Kiryu-san. <Color:7>♥<Color:Default> Time to head over "
+"to the club?"
+
+msgctxt "836_Player"
+msgid "Okay, sure."
+msgstr "Okay, sure."
+
+msgctxt "860_望月京子：源氏名"
+msgid "Thanks, that was like, actually pretty good."
+msgstr "Thanks, that was like, actually pretty good."
+
+msgctxt "872_Player"
+msgid "Good."
+msgstr "Bene."
+
+msgctxt "884_望月京子：源氏名"
+msgid "Time to head over to the club?"
+msgstr "Time to head over to the club?"
+
+msgctxt "896_Player"
+msgid "Okay, sure."
+msgstr "Okay, sure."
+
+msgctxt "920_望月京子：源氏名"
+msgid "......"
+msgstr "......"
+
+msgctxt "932_Player"
+msgid "Something wrong?"
+msgstr "Something wrong?"
+
+msgctxt "944_望月京子：源氏名"
+msgid ""
+"Oh, nothing... Well, the food wasn't all that good... Kinda icky. That's "
+"all."
+msgstr ""
+"Oh, nothing... Well, the food wasn't all that good... Kinda icky. That's "
+"all."
+
+msgctxt "956_Player"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "968_望月京子：源氏名"
+msgid "Let's just go to the club."
+msgstr "Let's just go to the club."
+
+msgctxt "980_Player"
+msgid "(Guess she didn't enjoy the food.)"
+msgstr "(Guess she didn't enjoy the food.)"

@@ -1,0 +1,213 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "6460"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "6464"
+msgid "?"
+msgstr "?"
+
+msgctxt "6468"
+msgid "Akiyama?"
+msgstr "Akiyama?"
+
+msgctxt "6472"
+msgid "\"Akiyama\""
+msgstr "\"Akiyama\""
+
+msgctxt "6476"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "6480"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "6484"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6488"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "6492"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "6496"
+msgid "P_tan_sitsofa_tlk_kamae_ed"
+msgstr "P_tan_sitsofa_tlk_kamae_ed"
+
+msgctxt "6500"
+msgid "P_tan_stand"
+msgstr "P_tan_stand"
+
+msgctxt "6504"
+msgid "P_aki_sitsofa_tlk_kamae_ed"
+msgstr "P_aki_sitsofa_tlk_kamae_ed"
+
+msgctxt "6508"
+msgid "P_aki_stand"
+msgstr "P_aki_stand"
+
+msgctxt "68_Akiyama"
+msgid "Pardon me! I'd like to borrow some money."
+msgstr "Pardon me! I'd like to borrow some money."
+
+msgctxt "80_?"
+msgid "Mnrf..."
+msgstr "Mnrf..."
+
+msgctxt "92_Akiyama?"
+msgid "Huh? A customer?"
+msgstr "Huh? A customer?"
+
+msgctxt "104_Akiyama"
+msgid "Yes, well..."
+msgstr "Yes, well..."
+
+msgctxt "116_\"Akiyama\""
+msgid ""
+"My goodness! Forgive me. Welcome to Sky Finance. I'm\r\n"
+"Akiyama, the CEO."
+msgstr ""
+"My goodness! Forgive me. Welcome to Sky Finance. I'm\r\n"
+"Akiyama, the CEO."
+
+msgctxt "128_Akiyama"
+msgid "Akiyama-san. I see..."
+msgstr "Akiyama-san. I see..."
+
+msgctxt "200_\"Akiyama\""
+msgid "Oh, and your name is?"
+msgstr "Oh, and your name is?"
+
+msgctxt "212_Akiyama"
+msgid "Uh, it's Suzuki."
+msgstr "Uh, it's Suzuki."
+
+msgctxt "224_\"Akiyama\""
+msgid ""
+"I have to warn you, Suzuki-san, I do things a little\r\n"
+"differently around here."
+msgstr ""
+"I have to warn you, Suzuki-san, I do things a little\r\n"
+"differently around here."
+
+msgctxt "236_Akiyama"
+msgid ""
+"You'll give me certain \"conditions,\" and it's my job to\r\n"
+"meet them, is that right?"
+msgstr ""
+"You'll give me certain \"conditions,\" and it's my job to\r\n"
+"meet them, is that right?"
+
+msgctxt "248_\"Akiyama\""
+msgid ""
+"Yes. I see you're familiar with us. These conditions differ\r\n"
+"depending on the size of the loan. How much were you looking\r\n"
+"to borrow?"
+msgstr ""
+"Yes. I see you're familiar with us. These conditions differ\r\n"
+"depending on the size of the loan. How much were you looking\r\n"
+"to borrow?"
+
+msgctxt "260_Akiyama"
+msgid "Let's see... About a hundred million or so."
+msgstr "Let's see... About a hundred million or so."
+
+msgctxt "272_\"Akiyama\""
+msgid "A hundred million!?"
+msgstr "A hundred million!?"
+
+msgctxt "284_\"Akiyama\""
+msgid "Do you have any idea what you're asking!?"
+msgstr "Do you have any idea what you're asking!?"
+
+msgctxt "296_Akiyama"
+msgid ""
+"(Maybe it's just a coincidence, but it bugs me how much he sounds like me "
+"right now...)"
+msgstr ""
+"(Maybe it's just a coincidence, but it bugs me how much he sounds like me "
+"right now...)"
+
+msgctxt "308_Akiyama"
+msgid "I really need it. Will you lend it to me?"
+msgstr "I really need it. Will you lend it to me?"
+
+msgctxt "320_\"Akiyama\""
+msgid ""
+"If I'm going to lend you a hundred million, the terms will\r\n"
+"be considerable. Are you prepared for that?"
+msgstr ""
+"If I'm going to lend you a hundred million, the terms will\r\n"
+"be considerable. Are you prepared for that?"
+
+msgctxt "332_Akiyama"
+msgid "Yeah, sure."
+msgstr "Yeah, sure."
+
+msgctxt "344_\"Akiyama\""
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgctxt "380_\"Akiyama\""
+msgid "Sky Finance... Yes. Uh-huh."
+msgstr "Sky Finance... Yes. Uh-huh."
+
+msgctxt "392_\"Akiyama\""
+msgid "Why, that's perfect! Sure, I'll do it. Be right over!"
+msgstr "Why, that's perfect! Sure, I'll do it. Be right over!"
+
+msgctxt "416_\"Akiyama\""
+msgid ""
+"You see, I have my customers take a test so I can tell if\r\n"
+"they're truly ready for their loan."
+msgstr ""
+"You see, I have my customers take a test so I can tell if\r\n"
+"they're truly ready for their loan."
+
+msgctxt "428_\"Akiyama\""
+msgid ""
+"All right. If you can pass the test I'm about to give you,\r\n"
+"I'll lend you a hundred million yen."
+msgstr ""
+"All right. If you can pass the test I'm about to give you,\r\n"
+"I'll lend you a hundred million yen."
+
+msgctxt "440_Akiyama"
+msgid "Really? Oh, thank goodness. So what kind of test is it?"
+msgstr "Really? Oh, thank goodness. So what kind of test is it?"
+
+msgctxt "452_\"Akiyama\""
+msgid ""
+"You'll help me transport a certain something. It's very\r\n"
+"valuable, and almost certainly a target for thieves...\r\n"
+"Things could get dangerous. Do you accept?"
+msgstr ""
+"You'll help me transport a certain something. It's very\r\n"
+"valuable, and almost certainly a target for thieves...\r\n"
+"Things could get dangerous. Do you accept?"
+
+msgctxt "464_Akiyama"
+msgid "If it'll get me that hundred million, then I'm in."
+msgstr "If it'll get me that hundred million, then I'm in."
+
+msgctxt "476_\"Akiyama\""
+msgid "All right, let's go!"
+msgstr "All right, let's go!"

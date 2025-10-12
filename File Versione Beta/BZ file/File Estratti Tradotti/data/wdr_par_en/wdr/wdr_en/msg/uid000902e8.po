@@ -1,0 +1,101 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2716"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "2720"
+msgid "Shiobara"
+msgstr "Shiobara"
+
+msgctxt "2724"
+msgid "Arima"
+msgstr "Arima"
+
+msgctxt "2728"
+msgid "0"
+msgstr ""
+
+msgctxt "2732"
+msgid "M_ykz_sitgrd_tlk_agura_ed"
+msgstr "M_ykz_sitgrd_tlk_agura_ed"
+
+msgctxt "2736"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2740"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "68_Akiyama"
+msgid "Why'd you get into this business to begin with?"
+msgstr "Why'd you get into this business to begin with?"
+
+msgctxt "80_Shiobara"
+msgid "......"
+msgstr "......"
+
+msgctxt "92_Arima"
+msgid "Because I suggested it."
+msgstr "Because I suggested it."
+
+msgctxt "116_Akiyama"
+msgid "Arima... But why?"
+msgstr "Arima... But why?"
+
+msgctxt "128_Arima"
+msgid ""
+"I sensed Shiobara-san had a knack for finance, so I figured\r\n"
+"he'd make a valuable partner."
+msgstr ""
+"I sensed Shiobara-san had a knack for finance, so I figured\r\n"
+"he'd make a valuable partner."
+
+msgctxt "152_Shiobara"
+msgid ""
+"I can't do the same thing you do, Akiyama-san, but I'm still\r\n"
+"serious about entering the moneylending business."
+msgstr ""
+"I can't do the same thing you do, Akiyama-san, but I'm still\r\n"
+"serious about entering the moneylending business."
+
+msgctxt "164_Shiobara"
+msgid "Together, Arima-san and I will rule the world of Kamurocho finance."
+msgstr "Together, Arima-san and I will rule the world of Kamurocho finance."
+
+msgctxt "176_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "188_Akiyama"
+msgid "Fine. But is that really what you want to do?"
+msgstr "Fine. But is that really what you want to do?"
+
+msgctxt "200_Shiobara"
+msgid "It's a little too late for that."
+msgstr "It's a little too late for that."
+
+msgctxt "212_Akiyama"
+msgid ""
+"I suppose you're right. Well, go on and rake in the cash,\r\n"
+"then."
+msgstr ""
+"I suppose you're right. Well, go on and rake in the cash,\r\n"
+"then."
+
+msgctxt "224_Akiyama"
+msgid "See you 'round."
+msgstr "See you 'round."

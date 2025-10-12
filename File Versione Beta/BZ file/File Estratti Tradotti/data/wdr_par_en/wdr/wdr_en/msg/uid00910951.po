@@ -1,0 +1,117 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2176"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2180"
+msgid "Man with Dark Clan"
+msgstr "Man with Dark Clan"
+
+msgctxt "2184"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2188"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "2192"
+msgid "Blanc"
+msgstr "Blanc"
+
+msgctxt "2196"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "2200"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "2204"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "2208"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2212"
+msgid "Talk_Kosite_st"
+msgstr "Talk_Kosite_st"
+
+msgctxt "2216"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "2220"
+msgid "Talk_Kosite_ed"
+msgstr "Talk_Kosite_ed"
+
+msgctxt "56_Kiryu"
+msgid "You're one of the Dark Clan?"
+msgstr "You're one of the Dark Clan?"
+
+msgctxt "68_Man with Dark Clan"
+msgid "My name is Blanc. You are Kiryu?"
+msgstr "My name is Blanc. You are Kiryu?"
+
+msgctxt "80_Kiryu"
+msgid "Right. And I'm guessing you're not Japanese?"
+msgstr "Right. And I'm guessing you're not Japanese?"
+
+msgctxt "92_Blanc"
+msgid "Korean."
+msgstr "Korean."
+
+msgctxt "104_Kiryu"
+msgid ""
+"Korean, huh? A while back, I had some trouble with a group called the "
+"Jingweon Mafia. You from the mafia, too?"
+msgstr ""
+"Korean, huh? A while back, I had some trouble with a group called the "
+"Jingweon Mafia. You from the mafia, too?"
+
+msgctxt "116_Blanc"
+msgid "Not anymore. In Japan, mafia is weak. Dark Clan is better."
+msgstr "Not anymore. In Japan, mafia is weak. Dark Clan is better."
+
+msgctxt "128_Kiryu"
+msgid "Who's giving you your orders?"
+msgstr "Who's giving you your orders?"
+
+msgctxt "140_Blanc"
+msgid "Can not tell. But you, die. Is your fate."
+msgstr "Can not tell. But you, die. Is your fate."
+
+msgctxt "152_Kiryu"
+msgid "What do I have to do with anything?"
+msgstr "What do I have to do with anything?"
+
+msgctxt "164_Blanc"
+msgid ""
+"Power balance not good when you are here. Not good for Kamurocho. So they "
+"call me."
+msgstr ""
+"Power balance not good when you are here. Not good for Kamurocho. So they "
+"call me."
+
+msgctxt "176_Kiryu"
+msgid "Balance? What balance?"
+msgstr "Balance? What balance?"
+
+msgctxt "188_Blanc"
+msgid "You die, balance is okay."
+msgstr "You die, balance is okay."

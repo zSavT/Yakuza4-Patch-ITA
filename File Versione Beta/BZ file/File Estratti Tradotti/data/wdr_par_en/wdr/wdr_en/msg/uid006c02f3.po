@@ -1,0 +1,237 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "512"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "1028"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "13356"
+msgid "松岡里緒奈：源氏名"
+msgstr "松岡里緒奈：源氏名"
+
+msgctxt "13360"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13364"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "13368"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13372"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "13376"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13380"
+msgid "0"
+msgstr ""
+
+msgctxt "13384"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "13388"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_松岡里緒奈：源氏名"
+msgid "All right! I finally get a chance to show you my skills!"
+msgstr "All right! I finally get a chance to show you my skills!"
+
+msgctxt "128_Player"
+msgid "I'm looking forward to seeing what you can do."
+msgstr "I'm looking forward to seeing what you can do."
+
+msgctxt "140_Talk_Yes"
+msgid "Now, let's do this."
+msgstr "Now, let's do this."
+
+msgctxt "164_松岡里緒奈：源氏名"
+msgid "All right! I finally get a chance to show you my skills!"
+msgstr "All right! I finally get a chance to show you my skills!"
+
+msgctxt "176_松岡里緒奈：源氏名"
+msgid "Now, let's do this."
+msgstr "Now, let's do this."
+
+msgctxt "188_Player"
+msgid "Hold on a sec. I just realized that I'm short on cash."
+msgstr "Hold on a sec. I just realized that I'm short on cash."
+
+msgctxt "200_松岡里緒奈：源氏名"
+msgid "Huh? You serious?"
+msgstr "Huh? You serious?"
+
+msgctxt "212_Player"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "224_松岡里緒奈：源氏名"
+msgid "Ugh! I shouldn't have gotten my hopes up... See you later, Kiryu-san."
+msgstr "Ugh! I shouldn't have gotten my hopes up... See you later, Kiryu-san."
+
+msgctxt "236_Player"
+msgid "(I should've made sure I had enough money...)"
+msgstr "(I should've made sure I had enough money...)"
+
+msgctxt "344_松岡里緒奈：源氏名"
+msgid "Wow, you're good at golf!"
+msgstr "Wow, you're good at golf!"
+
+msgctxt "356_Player"
+msgid "Heh. I do my best."
+msgstr "Heh. I do my best."
+
+msgctxt "368_松岡里緒奈：源氏名"
+msgid "This was a lot of fun. Let's play again soon!"
+msgstr "This was a lot of fun. Let's play again soon!"
+
+msgctxt "380_Talk_Ojigi"
+msgid "Well, catch you later."
+msgstr "Well, catch you later."
+
+msgctxt "404_松岡里緒奈：源氏名"
+msgid "Aw... A tie..."
+msgstr "Aw... A tie..."
+
+msgctxt "416_Player"
+msgid "Good game."
+msgstr "Good game."
+
+msgctxt "428_松岡里緒奈：源氏名"
+msgid "Yeah, it was. I enjoyed it! We should play again soon!"
+msgstr "Yeah, it was. I enjoyed it! We should play again soon!"
+
+msgctxt "440_Talk_Ojigi"
+msgid "Well, catch you later."
+msgstr "Well, catch you later."
+
+msgctxt "464_松岡里緒奈：源氏名"
+msgid "Hmm... Were you even trying?"
+msgstr "Hmm... Were you even trying?"
+
+msgctxt "476_Player"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "488_松岡里緒奈：源氏名"
+msgid "Well, catch you later."
+msgstr "Well, catch you later."
+
+msgctxt "596_松岡里緒奈：源氏名"
+msgid "All right! I finally get a chance to show you my skills!"
+msgstr "All right! I finally get a chance to show you my skills!"
+
+msgctxt "608_Player"
+msgid "I'm looking forward to seeing what you can do."
+msgstr "I'm looking forward to seeing what you can do."
+
+msgctxt "620_Talk_Yes"
+msgid "Now, let's do this."
+msgstr "Now, let's do this."
+
+msgctxt "644_松岡里緒奈：源氏名"
+msgid "All right! I finally get a chance to show you my skills!"
+msgstr "All right! I finally get a chance to show you my skills!"
+
+msgctxt "656_松岡里緒奈：源氏名"
+msgid "Now, let's do this."
+msgstr "Now, let's do this."
+
+msgctxt "668_Player"
+msgid "Hold on a sec. I just realized that I'm short on cash."
+msgstr "Hold on a sec. I just realized that I'm short on cash."
+
+msgctxt "680_松岡里緒奈：源氏名"
+msgid "Huh? You serious?"
+msgstr "Huh? You serious?"
+
+msgctxt "692_Player"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "704_松岡里緒奈：源氏名"
+msgid "Ugh! I shouldn't have gotten my hopes up... See you later, Kiryu-san."
+msgstr "Ugh! I shouldn't have gotten my hopes up... See you later, Kiryu-san."
+
+msgctxt "716_Player"
+msgid "(I should've made sure I had enough money...)"
+msgstr "(I should've made sure I had enough money...)"
+
+msgctxt "824_松岡里緒奈：源氏名"
+msgid "Wow, you're good at golf!"
+msgstr "Wow, you're good at golf!"
+
+msgctxt "836_Player"
+msgid "Heh. I do my best."
+msgstr "Heh. I do my best."
+
+msgctxt "848_松岡里緒奈：源氏名"
+msgid "This was a lot of fun. Let's play again soon!"
+msgstr "This was a lot of fun. Let's play again soon!"
+
+msgctxt "860_松岡里緒奈：源氏名"
+msgid "Okay, off to the club!"
+msgstr "Okay, off to the club!"
+
+msgctxt "872_Player"
+msgid "Sure. Sounds good."
+msgstr "Sure. Sounds good."
+
+msgctxt "896_松岡里緒奈：源氏名"
+msgid "Aw... A tie..."
+msgstr "Aw... A tie..."
+
+msgctxt "908_Player"
+msgid "Good game."
+msgstr "Good game."
+
+msgctxt "920_松岡里緒奈：源氏名"
+msgid "Yeah, it was. I enjoyed it! We should play again soon!"
+msgstr "Yeah, it was. I enjoyed it! We should play again soon!"
+
+msgctxt "932_松岡里緒奈：源氏名"
+msgid "Okay, off to the club!"
+msgstr "Okay, off to the club!"
+
+msgctxt "944_Player"
+msgid "Sure. Sounds good."
+msgstr "Sure. Sounds good."
+
+msgctxt "968_松岡里緒奈：源氏名"
+msgid "Hmm... Were you even trying?"
+msgstr "Hmm... Were you even trying?"
+
+msgctxt "980_Player"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "992_松岡里緒奈：源氏名"
+msgid "Oh well. Okay, off to the club!"
+msgstr "Oh well. Okay, off to the club!"
+
+msgctxt "1004_Player"
+msgid "Sure. Sounds good."
+msgstr "Sure. Sounds good."

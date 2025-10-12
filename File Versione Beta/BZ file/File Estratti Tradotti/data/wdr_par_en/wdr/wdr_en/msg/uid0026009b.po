@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1028"
+msgid "Chigusa"
+msgstr "Chigusa"
+
+msgctxt "1032"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1036"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1040"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1044"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "56_Chigusa"
+msgid "What were you doing in there? Come on, let's go!"
+msgstr "What were you doing in there? Come on, let's go!"
+
+msgctxt "68_Kiryu"
+msgid "Where to?"
+msgstr "Dove?"
+
+msgctxt "80_Chigusa"
+msgid ""
+"Well, I picked up all your stuff, so we should probably drop\r\n"
+"by our office."
+msgstr ""
+"Well, I picked up all your stuff, so we should probably drop\r\n"
+"by our office."
+
+msgctxt "92_Kiryu"
+msgid "Our, uh... office?"
+msgstr "Our, uh... office?"
+
+msgctxt "104_Chigusa"
+msgid ""
+"Yup! I'm sure seeing it in person will jog your memory. Come\r\n"
+"on, let's go."
+msgstr ""
+"Yup! I'm sure seeing it in person will jog your memory. Come\r\n"
+"on, let's go."

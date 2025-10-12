@@ -1,0 +1,251 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "512"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "1016"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "13500"
+msgid "峰村七海：源氏名"
+msgstr "峰村七海：源氏名"
+
+msgctxt "13504"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13508"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "13512"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "13516"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13520"
+msgid "0"
+msgstr ""
+
+msgctxt "13524"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "116_峰村七海：源氏名"
+msgid "You'll have a harder time beating me than you think!"
+msgstr "You'll have a harder time beating me than you think!"
+
+msgctxt "128_Tanimura"
+msgid "Oh really?"
+msgstr "Oh really?"
+
+msgctxt "140_峰村七海：源氏名"
+msgid "You'll see. Let's go inside."
+msgstr "You'll see. Let's go inside."
+
+msgctxt "164_峰村七海：源氏名"
+msgid "I'm a pretty tough player, by the way. You'll see!"
+msgstr "I'm a pretty tough player, by the way. You'll see!"
+
+msgctxt "176_峰村七海：源氏名"
+msgid "Let's go in."
+msgstr "Let's go in."
+
+msgctxt "188_Tanimura"
+msgid "Hold on... Seems I didn't bring enough money."
+msgstr "Hold on... Seems I didn't bring enough money."
+
+msgctxt "200_峰村七海：源氏名"
+msgid "I'm sorry, I must have misheard you. What did you say?"
+msgstr "I'm sorry, I must have misheard you. What did you say?"
+
+msgctxt "212_Tanimura"
+msgid "Um... I mean... Sorry."
+msgstr "Um... I mean... Sorry."
+
+msgctxt "224_峰村七海：源氏名"
+msgid ""
+"I don't believe it! You can't manage your own finances? How do you even "
+"survive as an adult?"
+msgstr ""
+"I don't believe it! You can't manage your own finances? How do you even "
+"survive as an adult?"
+
+msgctxt "236_峰村七海：源氏名"
+msgid "I'm going home. Goodbye."
+msgstr "I'm going home. Goodbye."
+
+msgctxt "248_Tanimura"
+msgid "(I should've checked my money earlier...)"
+msgstr "(I should've checked my money earlier...)"
+
+msgctxt "356_峰村七海：源氏名"
+msgid ""
+"Aw, I lost... I should've guessed a policeman would be good at darts. You've"
+" got good aim."
+msgstr ""
+"Aw, I lost... I should've guessed a policeman would be good at darts. You've"
+" got good aim."
+
+msgctxt "368_Tanimura"
+msgid "Heh, I suppose so."
+msgstr "Heh, I suppose so."
+
+msgctxt "380_峰村七海：源氏名"
+msgid ""
+"I had a really good time. We should go out again. <Color:7>♥<Color:Default>"
+msgstr ""
+"I had a really good time. We should go out again. <Color:7>♥<Color:Default>"
+
+msgctxt "392_峰村七海：源氏名"
+msgid "Well, I better get going. Bye for now."
+msgstr "Well, I better get going. Bye for now."
+
+msgctxt "416_峰村七海：源氏名"
+msgid "Haha. We tied."
+msgstr "Haha. We tied."
+
+msgctxt "428_Tanimura"
+msgid "I thought I had you there."
+msgstr "I thought I had you there."
+
+msgctxt "440_峰村七海：源氏名"
+msgid "I had fun today. I'll see you at the club soon."
+msgstr "I had fun today. I'll see you at the club soon."
+
+msgctxt "464_峰村七海：源氏名"
+msgid "Too bad, I win this time!"
+msgstr "Too bad, I win this time!"
+
+msgctxt "476_Tanimura"
+msgid "Indeed."
+msgstr "Indeed."
+
+msgctxt "488_峰村七海：源氏名"
+msgid "Bye for now. I'll see you at the club."
+msgstr "Bye for now. I'll see you at the club."
+
+msgctxt "596_峰村七海：源氏名"
+msgid "You'll have a harder time beating me that you think!"
+msgstr "You'll have a harder time beating me that you think!"
+
+msgctxt "608_Tanimura"
+msgid "Oh really?"
+msgstr "Oh really?"
+
+msgctxt "620_峰村七海：源氏名"
+msgid "You'll see. Let's go inside."
+msgstr "You'll see. Let's go inside."
+
+msgctxt "644_峰村七海：源氏名"
+msgid "You'll have a harder time beating me that you think!"
+msgstr "You'll have a harder time beating me that you think!"
+
+msgctxt "656_峰村七海：源氏名"
+msgid "Let's head in."
+msgstr "Let's head in."
+
+msgctxt "668_Tanimura"
+msgid "Hold on... Seems I didn't bring enough money."
+msgstr "Hold on... Seems I didn't bring enough money."
+
+msgctxt "680_峰村七海：源氏名"
+msgid "I'm sorry, I must have misheard you. What did you say?"
+msgstr "I'm sorry, I must have misheard you. What did you say?"
+
+msgctxt "692_Tanimura"
+msgid "Um... I mean... Sorry."
+msgstr "Um... I mean... Sorry."
+
+msgctxt "704_峰村七海：源氏名"
+msgid ""
+"I don't believe it! You can't manage your own finances? How do you even "
+"survive as an adult?"
+msgstr ""
+"I don't believe it! You can't manage your own finances? How do you even "
+"survive as an adult?"
+
+msgctxt "716_峰村七海：源氏名"
+msgid "I'm going home. Goodbye."
+msgstr "I'm going home. Goodbye."
+
+msgctxt "728_Tanimura"
+msgid "(I should've checked my money earlier...)"
+msgstr "(I should've checked my money earlier...)"
+
+msgctxt "836_峰村七海：源氏名"
+msgid ""
+"Aw, I lost... I should've guessed a policeman would be good at darts. You've"
+" got good aim."
+msgstr ""
+"Aw, I lost... I should've guessed a policeman would be good at darts. You've"
+" got good aim."
+
+msgctxt "848_Tanimura"
+msgid "Heh, I suppose so."
+msgstr "Heh, I suppose so."
+
+msgctxt "860_峰村七海：源氏名"
+msgid ""
+"I had a really good time. <Color:7>♥<Color:Default> Wanna head over to the "
+"club now?"
+msgstr ""
+"I had a really good time. <Color:7>♥<Color:Default> Wanna head over to the "
+"club now?"
+
+msgctxt "872_Tanimura"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "896_峰村七海：源氏名"
+msgid "Haha. We tied."
+msgstr "Haha. We tied."
+
+msgctxt "908_Tanimura"
+msgid "I thought I had you there."
+msgstr "I thought I had you there."
+
+msgctxt "920_峰村七海：源氏名"
+msgid ""
+"I had fun today.\r\n"
+"Let's head to the club."
+msgstr ""
+"I had fun today.\r\n"
+"Let's head to the club."
+
+msgctxt "932_Tanimura"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "956_峰村七海：源氏名"
+msgid "Too bad, I win this time!"
+msgstr "Too bad, I win this time!"
+
+msgctxt "968_Tanimura"
+msgid "Indeed."
+msgstr "Indeed."
+
+msgctxt "980_峰村七海：源氏名"
+msgid "Well, wanna go to the club next?"
+msgstr "Well, wanna go to the club next?"
+
+msgctxt "992_Tanimura"
+msgid "Sure."
+msgstr "Sure."

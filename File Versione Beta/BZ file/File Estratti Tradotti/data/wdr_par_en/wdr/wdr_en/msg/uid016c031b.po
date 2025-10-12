@@ -1,0 +1,249 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8184"
+msgid "峰村七海：源氏名"
+msgstr "峰村七海：源氏名"
+
+msgctxt "8188"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "8192"
+msgid "P_sitsofaR_tlk_yes"
+msgstr "P_sitsofaR_tlk_yes"
+
+msgctxt "8196"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "8200"
+msgid "P_sitsofaR_tlk_no"
+msgstr "P_sitsofaR_tlk_no"
+
+msgctxt "8204"
+msgid "F_cab_sitsofa_tlk_gakkariA"
+msgstr "F_cab_sitsofa_tlk_gakkariA"
+
+msgctxt "8208"
+msgid "F_cab_sitsofa_tlk_appealA"
+msgstr "F_cab_sitsofa_tlk_appealA"
+
+msgctxt "8212"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "420_峰村七海：源氏名"
+msgid "I've been thinking about changing my hairstyle. What do you think?"
+msgstr "I've been thinking about changing my hairstyle. What do you think?"
+
+msgctxt "432_Player"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "444_峰村七海：源氏名"
+msgid "Really? Then maybe I'll try it!"
+msgstr "Really? Then maybe I'll try it!"
+
+msgctxt "456_Player"
+msgid "I don't think you should."
+msgstr "I don't think you should."
+
+msgctxt "468_峰村七海：源氏名"
+msgid "I see... I'll forget about it, then."
+msgstr "I see... I'll forget about it, then."
+
+msgctxt "480_峰村七海：源氏名"
+msgid "I've been thinking about changing my hairstyle. What do you think?"
+msgstr "I've been thinking about changing my hairstyle. What do you think?"
+
+msgctxt "492_Player"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "504_峰村七海：源氏名"
+msgid "Really? Then maybe I'll try it!"
+msgstr "Really? Then maybe I'll try it!"
+
+msgctxt "516_Player"
+msgid "I don't think you should."
+msgstr "I don't think you should."
+
+msgctxt "528_峰村七海：源氏名"
+msgid "I see... I'll forget about it, then."
+msgstr "I see... I'll forget about it, then."
+
+msgctxt "540_峰村七海：源氏名"
+msgid "I've been thinking about changing my hairstyle. What do you think?"
+msgstr "I've been thinking about changing my hairstyle. What do you think?"
+
+msgctxt "552_Player"
+msgid "Sounds like a good idea."
+msgstr "Sounds like a good idea."
+
+msgctxt "564_峰村七海：源氏名"
+msgid "Really? Then maybe I'll try it!"
+msgstr "Really? Then maybe I'll try it!"
+
+msgctxt "576_Player"
+msgid "I don't think you should."
+msgstr "I don't think you should."
+
+msgctxt "588_峰村七海：源氏名"
+msgid "I see... I'll forget about it, then."
+msgstr "I see... I'll forget about it, then."
+
+msgctxt "600_峰村七海：源氏名"
+msgid "I've been thinking about changing my hairstyle. What do you think?"
+msgstr "I've been thinking about changing my hairstyle. What do you think?"
+
+msgctxt "612_Player"
+msgid "Sounds like a good idea."
+msgstr "Sounds like a good idea."
+
+msgctxt "624_峰村七海：源氏名"
+msgid "Really? Then maybe I'll try it!"
+msgstr "Really? Then maybe I'll try it!"
+
+msgctxt "636_Player"
+msgid "I don't think you should."
+msgstr "I don't think you should."
+
+msgctxt "648_峰村七海：源氏名"
+msgid "I see... I'll forget about it, then."
+msgstr "I see... I'll forget about it, then."
+
+msgctxt "660_峰村七海：源氏名"
+msgid ""
+"I've been thinking about changing my hairstyle. What do you think?\r\n"
+"What do you think?"
+msgstr ""
+"I've been thinking about changing my hairstyle. What do you think?\r\n"
+"What do you think?"
+
+msgctxt "672_Player"
+msgid "Sounds like a good idea."
+msgstr "Sounds like a good idea."
+
+msgctxt "684_峰村七海：源氏名"
+msgid "Really? Then maybe I'll try it!"
+msgstr "Really? Then maybe I'll try it!"
+
+msgctxt "696_Player"
+msgid "I don't think you should."
+msgstr "I don't think you should."
+
+msgctxt "708_峰村七海：源氏名"
+msgid "I see... I'll forget about it, then."
+msgstr "I see... I'll forget about it, then."
+
+msgctxt "720_峰村七海：源氏名"
+msgid "I changed my hairstyle. What do you think?"
+msgstr "I changed my hairstyle. What do you think?"
+
+msgctxt "732_Tanimura"
+msgid "It looks great."
+msgstr "It looks great."
+
+msgctxt "744_峰村七海：源氏名"
+msgid "Really? Thank you! I'm so happy. <Color:7>♥<Color:Default>"
+msgstr "Really? Thank you! I'm so happy. <Color:7>♥<Color:Default>"
+
+msgctxt "756_峰村七海：源氏名"
+msgid "I changed my hairstyle. What do you think?"
+msgstr "I changed my hairstyle. What do you think?"
+
+msgctxt "768_Tanimura"
+msgid "It looks great."
+msgstr "It looks great."
+
+msgctxt "780_峰村七海：源氏名"
+msgid "Really? Thank you! <Color:7>♥<Color:Default>"
+msgstr "Really? Thank you! <Color:7>♥<Color:Default>"
+
+msgctxt "792_峰村七海：源氏名"
+msgid "I changed my hairstyle. What do you think?"
+msgstr "I changed my hairstyle. What do you think?"
+
+msgctxt "804_Tanimura"
+msgid "It looks great."
+msgstr "It looks great."
+
+msgctxt "816_峰村七海：源氏名"
+msgid "Really? Thank you! I'm so happy. <Color:7>♥<Color:Default>"
+msgstr "Really? Thank you! I'm so happy. <Color:7>♥<Color:Default>"
+
+msgctxt "828_峰村七海：源氏名"
+msgid "I changed my hairstyle. What do you think?"
+msgstr "I changed my hairstyle. What do you think?"
+
+msgctxt "840_Tanimura"
+msgid "It looks great."
+msgstr "It looks great."
+
+msgctxt "852_峰村七海：源氏名"
+msgid "Really? Thank you! <Color:7>♥<Color:Default>"
+msgstr "Really? Thank you! <Color:7>♥<Color:Default>"
+
+msgctxt "864_峰村七海：源氏名"
+msgid "I changed my hairstyle. What do you think?"
+msgstr "I changed my hairstyle. What do you think?"
+
+msgctxt "876_Tanimura"
+msgid "It looks great."
+msgstr "It looks great."
+
+msgctxt "888_峰村七海：源氏名"
+msgid "Really? Thank you! I'm so happy. <Color:7>♥<Color:Default>"
+msgstr "Really? Thank you! I'm so happy. <Color:7>♥<Color:Default>"
+
+msgctxt "900_峰村七海：源氏名"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "912_峰村七海：源氏名"
+msgid "I don't think you should."
+msgstr "I don't think you should."
+
+msgctxt "924_峰村七海：源氏名"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "936_峰村七海：源氏名"
+msgid "I don't think you should."
+msgstr "I don't think you should."
+
+msgctxt "948_峰村七海：源氏名"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "960_峰村七海：源氏名"
+msgid "I don't think you should."
+msgstr "I don't think you should."
+
+msgctxt "972_峰村七海：源氏名"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "984_峰村七海：源氏名"
+msgid "I don't think you should."
+msgstr "I don't think you should."
+
+msgctxt "996_峰村七海：源氏名"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "1008_峰村七海：源氏名"
+msgid "I don't think you should."
+msgstr "I don't think you should."

@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "152"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr "You got <Color:8>10,000 yen<Color:Default>."
+
+msgctxt "1816"
+msgid "Formerly Unwilling Woman"
+msgstr "Formerly Unwilling Woman"
+
+msgctxt "1820"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1824"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1828"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1832"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "128_Formerly Unwilling Woman"
+msgid "Um, do you mind if I ask your name?"
+msgstr "Um, do you mind if I ask your name?"
+
+msgctxt "140_Formerly Unwilling Woman"
+msgid "You really saved me! Please take this as a token of my gratitude!"
+msgstr "You really saved me! Please take this as a token of my gratitude!"
+
+msgctxt "164_Formerly Unwilling Woman"
+msgid "Um, Detective, do you think I could get your phone number?"
+msgstr "Um, Detective, do you think I could get your phone number?"
+
+msgctxt "176_Tanimura"
+msgid "Oh, um... I'm really not allowed to do that."
+msgstr "Oh, um... I'm really not allowed to do that."

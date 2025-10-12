@@ -1,0 +1,243 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "524"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "1028"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "13684"
+msgid "松岡里緒奈：源氏名"
+msgstr "松岡里緒奈：源氏名"
+
+msgctxt "13688"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13692"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "13696"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "13700"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13704"
+msgid "0"
+msgstr ""
+
+msgctxt "13708"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "13712"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13716"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_松岡里緒奈：源氏名"
+msgid "I hardly ever get to eat sushi. I'm really looking forward to this!"
+msgstr "I hardly ever get to eat sushi. I'm really looking forward to this!"
+
+msgctxt "128_Player"
+msgid "Let's go inside."
+msgstr "Let's go inside."
+
+msgctxt "152_松岡里緒奈：源氏名"
+msgid "I hardly ever get to eat sushi. I'm really looking forward to this!"
+msgstr "I hardly ever get to eat sushi. I'm really looking forward to this!"
+
+msgctxt "164_松岡里緒奈：源氏名"
+msgid "C'mon, let's go in."
+msgstr "C'mon, let's go in."
+
+msgctxt "176_Player"
+msgid "Hold on a sec. I just realized that I'm short on cash."
+msgstr "Hold on a sec. I just realized that I'm short on cash."
+
+msgctxt "188_松岡里緒奈：源氏名"
+msgid "Huh? You serious?"
+msgstr "Huh? You serious?"
+
+msgctxt "200_Player"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "212_松岡里緒奈：源氏名"
+msgid "Ugh! I shouldn't have gotten my hopes up... See you later, Kiryu-san."
+msgstr "Ugh! I shouldn't have gotten my hopes up... See you later, Kiryu-san."
+
+msgctxt "224_Player"
+msgid "(I should've made sure I had enough money...)"
+msgstr "(I should've made sure I had enough money...)"
+
+msgctxt "332_松岡里緒奈：源氏名"
+msgid "The sushi was delicious! I'm so glad I became a hostess!"
+msgstr "The sushi was delicious! I'm so glad I became a hostess!"
+
+msgctxt "344_Player"
+msgid "Uh-huh... It's just sushi, you know."
+msgstr "Uh-huh... It's just sushi, you know."
+
+msgctxt "356_松岡里緒奈：源氏名"
+msgid ""
+"Hehe, oh Kiryu-san. Thanks for taking me out. <Color:7>♥<Color:Default>"
+msgstr ""
+"Hehe, oh Kiryu-san. Thanks for taking me out. <Color:7>♥<Color:Default>"
+
+msgctxt "368_松岡里緒奈：源氏名"
+msgid "I hope you invite me out for another meal like this. See you later!"
+msgstr "I hope you invite me out for another meal like this. See you later!"
+
+msgctxt "392_松岡里緒奈：源氏名"
+msgid "Thanks for dinner. It was delicious."
+msgstr "Thanks for dinner. It was delicious."
+
+msgctxt "404_Player"
+msgid "Glad to hear it."
+msgstr "Mi fa piacere."
+
+msgctxt "416_松岡里緒奈：源氏名"
+msgid "I'll see you later! I hope you invite me out again for another meal."
+msgstr "I'll see you later! I hope you invite me out again for another meal."
+
+msgctxt "440_松岡里緒奈：源氏名"
+msgid "......"
+msgstr "......"
+
+msgctxt "452_Player"
+msgid "Hmm? Something wrong?"
+msgstr "Hmm? Something wrong?"
+
+msgctxt "464_松岡里緒奈：源氏名"
+msgid "No... Something didn't agree with me, that's all..."
+msgstr "No... Something didn't agree with me, that's all..."
+
+msgctxt "476_Player"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "488_松岡里緒奈：源氏名"
+msgid "I should be going. I'll see you at the club."
+msgstr "I should be going. I'll see you at the club."
+
+msgctxt "500_Player"
+msgid "(Guess she didn't enjoy all the food...)"
+msgstr "(Guess she didn't enjoy all the food...)"
+
+msgctxt "608_松岡里緒奈：源氏名"
+msgid "I hardly ever get to eat sushi. I'm really looking forward to this!"
+msgstr "I hardly ever get to eat sushi. I'm really looking forward to this!"
+
+msgctxt "620_Player"
+msgid "Okay, let's go inside."
+msgstr "Okay, let's go inside."
+
+msgctxt "644_松岡里緒奈：源氏名"
+msgid "I hardly ever get to eat sushi. I'm really looking forward to this!"
+msgstr "I hardly ever get to eat sushi. I'm really looking forward to this!"
+
+msgctxt "656_松岡里緒奈：源氏名"
+msgid "C'mon, let's go in."
+msgstr "C'mon, let's go in."
+
+msgctxt "668_Player"
+msgid "Hold on a sec. I just realized that I'm short on cash."
+msgstr "Hold on a sec. I just realized that I'm short on cash."
+
+msgctxt "680_松岡里緒奈：源氏名"
+msgid "Huh? You serious?"
+msgstr "Huh? You serious?"
+
+msgctxt "692_Player"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "704_松岡里緒奈：源氏名"
+msgid "Ugh! I shouldn't have gotten my hopes up... See you later, Kiryu-san."
+msgstr "Ugh! I shouldn't have gotten my hopes up... See you later, Kiryu-san."
+
+msgctxt "716_Player"
+msgid "(I should've made sure I had enough money...)"
+msgstr "(I should've made sure I had enough money...)"
+
+msgctxt "824_松岡里緒奈：源氏名"
+msgid "The sushi was delicious! I'm so glad I became a hostess!"
+msgstr "The sushi was delicious! I'm so glad I became a hostess!"
+
+msgctxt "836_Player"
+msgid "Uh-huh... It's just sushi, you know."
+msgstr "Uh-huh... It's just sushi, you know."
+
+msgctxt "848_松岡里緒奈：源氏名"
+msgid ""
+"Thanks for taking me out, Kiryu-san. <Color:7>♥<Color:Default> Should we "
+"return to the club?"
+msgstr ""
+"Thanks for taking me out, Kiryu-san. <Color:7>♥<Color:Default> Should we "
+"return to the club?"
+
+msgctxt "860_Player"
+msgid "Sure. Sounds good."
+msgstr "Sure. Sounds good."
+
+msgctxt "884_松岡里緒奈：源氏名"
+msgid "Thanks for dinner. It was delicious."
+msgstr "Thanks for dinner. It was delicious."
+
+msgctxt "896_Player"
+msgid "Glad to hear it."
+msgstr "Mi fa piacere."
+
+msgctxt "908_松岡里緒奈：源氏名"
+msgid "Time to head back to the club?"
+msgstr "Time to head back to the club?"
+
+msgctxt "920_Player"
+msgid "Sure. Sounds good."
+msgstr "Sure. Sounds good."
+
+msgctxt "944_松岡里緒奈：源氏名"
+msgid "......"
+msgstr "......"
+
+msgctxt "956_Player"
+msgid "Hmm? Something wrong?"
+msgstr "Hmm? Something wrong?"
+
+msgctxt "968_松岡里緒奈：源氏名"
+msgid "No... Something didn't agree with me, that's all..."
+msgstr "No... Something didn't agree with me, that's all..."
+
+msgctxt "980_Player"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "992_松岡里緒奈：源氏名"
+msgid "Anyway, want to head over to the club next?"
+msgstr "Anyway, want to head over to the club next?"
+
+msgctxt "1004_Player"
+msgid "(Guess she didn't enjoy all the food...)"
+msgstr "(Guess she didn't enjoy all the food...)"

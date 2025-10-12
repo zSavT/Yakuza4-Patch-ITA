@@ -1,0 +1,2005 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "72344"
+msgid "Owner"
+msgstr "Proprietario"
+
+msgctxt "72348"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "72352"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "72356"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "72360"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "72364"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "72368"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "72372"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "72376"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "72380"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "72384"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "72388"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "72392"
+msgid "P_stand_tlk_odosu"
+msgstr "P_stand_tlk_odosu"
+
+msgctxt "72396"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "72400"
+msgid "P_aki_stand_tlk_odosu"
+msgstr "P_aki_stand_tlk_odosu"
+
+msgctxt "72404"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "72408"
+msgid "P_sae_stand_tlk_chohatu"
+msgstr "P_sae_stand_tlk_chohatu"
+
+msgctxt "72412"
+msgid "P_tan_stand_tlk_chohatu"
+msgstr "P_tan_stand_tlk_chohatu"
+
+msgctxt "1684_Owner"
+msgid "Hey, I heard you're in need of some prizes."
+msgstr "Ehi, ho sentito che hai bisogno di alcuni premi."
+
+msgctxt "1696_Tanimura"
+msgid "Yeah, two silver plates... Can you give them to me?"
+msgstr "Sì, due piatti d'argento... Puoi darmeli?"
+
+msgctxt "1708_Owner"
+msgid "Sorry, no can do."
+msgstr "Spiacente, non si può fare."
+
+msgctxt "1720_Owner"
+msgid ""
+"However, you can get them by exchanging sticks, so you can either win a few "
+"games of mahjong, or buy the sticks yourself."
+msgstr ""
+"Tuttavia, puoi ottenerli scambiando degli stick, quindi puoi vincere qualche"
+" partita a mahjong o comprare gli stick."
+
+msgctxt "1732_Owner"
+msgid ""
+"If you just can't manage a win at mahjong, feel free to buy sticks and "
+"exchange them as-is."
+msgstr ""
+"Se proprio non riesci a vincere a mahjong, puoi comprare gli stick e "
+"scambiarli direttamente."
+
+msgctxt "1744_Tanimura"
+msgid "Hmm..."
+msgstr "Mmm..."
+
+msgctxt "1756_Owner"
+msgid ""
+"Oh, now that I think of it, Tanimura-san, the shop next door sells fake "
+"silver plates... Whatever do they use them for?"
+msgstr ""
+"Oh, ora che ci penso, Tanimura-san, il negozio accanto vende piatti "
+"d'argento finti... Chissà a cosa gli servono."
+
+msgctxt "1780_Tanimura"
+msgid ""
+"Tell me again. When I was playing here yesterday, who were the members that "
+"were here in the shop?"
+msgstr ""
+"Dimmi di nuovo. Quando stavo giocando qui ieri, chi erano i presenti nel "
+"locale?"
+
+msgctxt "1792_Owner"
+msgid ""
+"You know, there was one person I wasn't familiar with. They were probably "
+"someone who came here for the first time yesterday."
+msgstr ""
+"Sai, c'era una persona che non conoscevo. Probabilmente era qualcuno venuto "
+"qui per la prima volta ieri."
+
+msgctxt "1804_Owner"
+msgid "The other members were those two regulars, who are playing over there."
+msgstr ""
+"Gli altri erano quei due clienti abituali, che stanno giocando laggiù."
+
+msgctxt "1816_Tanimura"
+msgid ""
+"Oh, that's right.\r\n"
+"I remember now. Thanks."
+msgstr ""
+"Oh, è vero.\r\n"
+"Ora ricordo. Grazie."
+
+msgctxt "1828_Owner"
+msgid "You're very welcome."
+msgstr "Prego."
+
+msgctxt "1840_Tanimura"
+msgid "Excuse me."
+msgstr "Mi scusi."
+
+msgctxt "1852_Owner"
+msgid "Oh, Tanimura-san! Here to play mahjong again today?"
+msgstr "Oh, Tanimura-san! Qui per giocare di nuovo a mahjong oggi?"
+
+msgctxt "1864_Tanimura"
+msgid ""
+"No, not today. Can you tell me which members were here in the shop when I "
+"was playing here yesterday?"
+msgstr ""
+"No, non oggi. Può dirmi chi c'era nel locale quando stavo giocando qui ieri?"
+
+msgctxt "1876_Owner"
+msgid ""
+"Hmm, well, there was one person I wasn't familiar with. They were probably "
+"someone who came here for the first time yesterday."
+msgstr ""
+"Mmm, beh, c'era una persona che non conoscevo. Probabilmente era qualcuno "
+"venuto qui per la prima volta ieri."
+
+msgctxt "1888_Owner"
+msgid "The other members were those two regulars, who are playing over there."
+msgstr ""
+"Gli altri erano quei due clienti abituali, che stanno giocando laggiù."
+
+msgctxt "1900_Tanimura"
+msgid "Oh, that's right. I remember now. Thanks."
+msgstr "Oh, è vero. Ora ricordo. Grazie."
+
+msgctxt "1912_Owner"
+msgid "You're very welcome... Did something happen?"
+msgstr "Prego... È successo qualcosa?"
+
+msgctxt "1924_Tanimura"
+msgid "It's nothing. Don't worry about it."
+msgstr "Niente. Non si preoccupi."
+
+msgctxt "1936_Owner"
+msgid "...Well, all right."
+msgstr "...Beh, va bene."
+
+msgctxt "1960_Owner"
+msgid ""
+"Hey, boss. Would you like to exchange your winnings for prizes or purchase "
+"mahjong sticks? Or would you like to participate in the Genbu Cup?"
+msgstr ""
+"Ehi, capo. Vuole scambiare le vincite con premi, acquistare stick da mahjong"
+" o partecipare alla Coppa Genbu?"
+
+msgctxt "1972_Owner"
+msgid ""
+"You need mahjong sticks to play mahjong. How much you lookin' to buy? It's 1"
+" yen a stick."
+msgstr ""
+"Servono stick da mahjong per giocare a mahjong. Quanti ne vuole comprare? "
+"Costa 1 yen a stick."
+
+msgctxt "1984_Owner"
+msgid "I'll take 100,000 sticks."
+msgstr "Prendo 100.000 stick."
+
+msgctxt "2008_Owner"
+msgid "Thank you very much. Have fun!"
+msgstr "Molte grazie. Si diverta!"
+
+msgctxt "2032_Owner"
+msgid "I'll take 25,000 sticks."
+msgstr "Prendo 25.000 stick."
+
+msgctxt "2056_Owner"
+msgid "Thank you very much. Have fun!"
+msgstr "Molte grazie. Si diverta!"
+
+msgctxt "2080_Owner"
+msgid "I'll take 10,000 sticks."
+msgstr "Prendo 10.000 stick."
+
+msgctxt "2104_Owner"
+msgid "Thank you very much. Have fun!"
+msgstr "Molte grazie. Si diverta!"
+
+msgctxt "2128_Owner"
+msgid "I'm fine for now."
+msgstr "Per ora sono a posto."
+
+msgctxt "2140_Owner"
+msgid "All right. Come visit again sometime."
+msgstr "Va bene. Torni a trovarci."
+
+msgctxt "2152_Owner"
+msgid ""
+"They sell fake silver plates at the shop next door... Whatever do they use "
+"them for?"
+msgstr ""
+"Nel negozio accanto vendono piatti d'argento finti... Chissà a cosa gli "
+"servono."
+
+msgctxt "2164_Owner"
+msgid ""
+"Hey boss, you don't have enough to pay for that! Come back again when you "
+"do!"
+msgstr "Ehi capo, non hai abbastanza soldi per pagare! Torna quando li avrai!"
+
+msgctxt "2176_Owner"
+msgid "You'd like to exchange sticks, huh? What'll it be?"
+msgstr "Vuole scambiare stick, eh? Cosa desidera?"
+
+msgctxt "2200_Owner"
+msgid "Thank you very much! Come by again soon, all right?"
+msgstr "Molte grazie! Torni presto a trovarci, d'accordo?"
+
+msgctxt "2236_Owner"
+msgid ""
+"Here, we hold the Mahjong Ranking Genbu Cup, where players compete to "
+"determine the best mahjong player in Kamurocho."
+msgstr ""
+"Qui teniamo la Coppa Genbu della classifica di mahjong, dove i giocatori "
+"competono per determinare il miglior giocatore di Kamurocho."
+
+msgctxt "2248_Owner"
+msgid "You're back again! Want to participate in the Genbu Cup?"
+msgstr "È tornato! Vuole partecipare alla Coppa Genbu?"
+
+msgctxt "2260_Owner"
+msgid "Skilled mahjong players from all over are signing up for it."
+msgstr "Abili giocatori di mahjong da ogni dove si stanno iscrivendo."
+
+msgctxt "2272_Owner"
+msgid ""
+"It's 50,000 yen to sign up for the rankings. Once you're signed up, you can "
+"play mahjong whenever you want."
+msgstr ""
+"L'iscrizione alla classifica costa 50.000 yen. Una volta iscritto, può "
+"giocare a mahjong quando vuole."
+
+msgctxt "2284_Owner"
+msgid ""
+"You'll be able to earn better and better prizes each time your rank goes up."
+msgstr ""
+"Potrà guadagnare premi sempre migliori ogni volta che salirà di grado."
+
+msgctxt "2296_Talk_Yes"
+msgid ""
+"If you manage to reach the top of the rankings, you'll win somethin' that'll"
+" really make your eyes pop."
+msgstr ""
+"Se riuscirà ad arrivare in cima alla classifica, vincerà qualcosa che la "
+"lascerà a bocca aperta."
+
+msgctxt "2308_Owner"
+msgid "Well, what do ya think? Gonna try and climb your way up the ranks?"
+msgstr "Allora, che ne dice? Proverà a scalare la classifica?"
+
+msgctxt "2320_Player"
+msgid "Hmm... Sure, sign me up."
+msgstr "Mmm... Certo, mi iscriva."
+
+msgctxt "2332_Owner"
+msgid ""
+"Very well, then. The registration fee is 50,000 yen. Please pay in advance."
+msgstr ""
+"Benissimo, allora. La quota di iscrizione è di 50.000 yen. Prego, paghi in "
+"anticipo."
+
+msgctxt "2356_Player"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "2368_Owner"
+msgid "You paid <Color:8>50,000 yen<Color:Default>."
+msgstr "Hai pagato <Color:8>50.000 yen<Color:Default>."
+
+msgctxt "2392_Owner"
+msgid "Thank you! Would you like to play a game now?"
+msgstr "Grazie! Le andrebbe di fare una partita ora?"
+
+msgctxt "2404_Player"
+msgid "Yeah, I'll give it a shot."
+msgstr "Sì, ci provo."
+
+msgctxt "2416_Owner"
+msgid "Well then, good luck, buddy."
+msgstr "Allora buona fortuna, amico."
+
+msgctxt "2440_Player"
+msgid "Not now. I'll come back later."
+msgstr "Non ora. Tornerò più tardi."
+
+msgctxt "2452_Owner"
+msgid ""
+"Of course. Now that you've registered, you can play a ranked match anytime "
+"you like."
+msgstr ""
+"Certo. Ora che è registrato, può giocare una partita di classifica quando "
+"vuole."
+
+msgctxt "2464_Player"
+msgid "(I don't have the cash...)"
+msgstr "(Non ho i soldi...)"
+
+msgctxt "2476_Owner"
+msgid "It appears that you don't have enough money."
+msgstr "Sembra che non abbia abbastanza soldi."
+
+msgctxt "2488_Owner"
+msgid ""
+"Well, you can sign up for the rankings whenever you want, so come back "
+"another time."
+msgstr ""
+"Beh, può iscriversi alla classifica quando vuole, quindi torni un'altra "
+"volta."
+
+msgctxt "2500_Player"
+msgid "Not now. I'll come back later."
+msgstr "Non ora. Tornerò più tardi."
+
+msgctxt "2512_Owner"
+msgid ""
+"Is that so? Well, registration's always open, so come back whenever you'd "
+"like to play a ranked match."
+msgstr ""
+"Davvero? Beh, le iscrizioni sono sempre aperte, quindi torni quando vuole "
+"giocare una partita di classifica."
+
+msgctxt "2536_Owner"
+msgid "You're back again! How are your ranked matches going so far?"
+msgstr ""
+"È di nuovo qui! Come stanno andando le sue partite di classifica finora?"
+
+msgctxt "2548_Owner"
+msgid "You're back, Champion. How goes defending your title?"
+msgstr "È tornato, Campione. Come va la difesa del titolo?"
+
+msgctxt "2560_Owner"
+msgid "What will it be today? Want to play a Genbu Cup match?"
+msgstr "Cosa facciamo oggi? Vuole giocare una partita della Coppa Genbu?"
+
+msgctxt "2572_Player"
+msgid "Yeah, I'll give it a shot."
+msgstr "Sì, ci provo."
+
+msgctxt "2584_Owner"
+msgid "Well then, good luck, buddy."
+msgstr "Allora buona fortuna, amico."
+
+msgctxt "2608_Player"
+msgid "Not now. Maybe later, though."
+msgstr "Non ora. Forse più tardi, però."
+
+msgctxt "2620_Owner"
+msgid ""
+"All right. You've already registered, so you can come play a ranked match "
+"any time you like."
+msgstr ""
+"Va bene. È già registrato, quindi può venire a giocare una partita di "
+"classifica quando vuole."
+
+msgctxt "2656_Owner"
+msgid ""
+"Hey there, you don't have enough sticks for that! Come back when you've got "
+"25,000 sticks."
+msgstr "Ehi, non hai abbastanza stick! Torna quando ne avrai 25.000."
+
+msgctxt "2668_Owner"
+msgid "The Dragon King Cup?"
+msgstr "La Coppa del Re Drago?"
+
+msgctxt "2680_Owner"
+msgid ""
+"Yes, it's a tournament with special matches that pits our new up-and-coming "
+"mahjong players against one another."
+msgstr ""
+"Sì, è un torneo con partite speciali che mette l'uno contro l'altro i nostri"
+" nuovi giocatori di mahjong emergenti."
+
+msgctxt "2692_Owner"
+msgid "You're actually one of them, %s-san."
+msgstr "In realtà lei è uno di loro, %s-san."
+
+msgctxt "2704_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "2716_Owner"
+msgid "How about it, then? It'll get things fired up around here, too!"
+msgstr "Allora, che ne dice? Scalderà un po' l'atmosfera qui!"
+
+msgctxt "2728_Player"
+msgid "Sure, I'll give it a shot."
+msgstr "Certo, ci provo."
+
+msgctxt "2740_Owner"
+msgid "Great! I'll go call over the other three players, then!"
+msgstr "Fantastico! Allora vado a chiamare gli altri tre giocatori!"
+
+msgctxt "2812_Player"
+msgid "Hold on a sec. What's going on here?"
+msgstr "Un secondo. Che sta succedendo qui?"
+
+msgctxt "2824_Owner"
+msgid "Huh? You know them?"
+msgstr "Eh? Li conosce?"
+
+msgctxt "2836_Player"
+msgid "Yeah, you could say that."
+msgstr "Sì, si può dire di sì."
+
+msgctxt "2848_Owner"
+msgid ""
+"Wow, what a coincidence! Seems this will be quite the exciting cup. Without "
+"further ado, let's get this started!"
+msgstr ""
+"Wow, che coincidenza! Sembra che sarà una coppa molto emozionante. Bando "
+"alle ciance, cominciamo!"
+
+msgctxt "2860_Kiryu"
+msgid "Well, if I'm going to do this, then I'm not going to let myself lose."
+msgstr "Beh, se devo farlo, allora non ho intenzione di perdere."
+
+msgctxt "2872_Akiyama"
+msgid "Heh. Just to warn you, I'm not half bad at this game."
+msgstr "Eh. Giusto per avvisarvi, non sono affatto male a questo gioco."
+
+msgctxt "2884_Saejima"
+msgid "Heh, this'll be a piece of cake."
+msgstr "Eh, sarà una passeggiata."
+
+msgctxt "2896_Player"
+msgid "All right... Let's do this!"
+msgstr "Va bene... Facciamolo!"
+
+msgctxt "2908_Owner"
+msgid "All right. Let's get the match started!"
+msgstr "Bene. Che la partita abbia inizio!"
+
+msgctxt "2956_Owner"
+msgid "You're incredible! You truly are the best mahjong player in Kamurocho!"
+msgstr ""
+"Sei incredibile! Sei davvero il miglior giocatore di mahjong di Kamurocho!"
+
+msgctxt "2968_Owner"
+msgid "You're going to have to defend your title from now on."
+msgstr "D'ora in poi dovrai difendere il tuo titolo."
+
+msgctxt "2980_Player"
+msgid "What do you mean?"
+msgstr "Cosa intendi?"
+
+msgctxt "2992_Owner"
+msgid ""
+"Mahjong players will work their way up the ranks in order to challenge the "
+"best player. As of right now, that's you!"
+msgstr ""
+"I giocatori di mahjong scaleranno le classifiche per sfidare il migliore. E "
+"al momento, quello sei tu!"
+
+msgctxt "3004_Owner"
+msgid "I wonder how long you can hold onto your position at the top..."
+msgstr ""
+"Mi chiedo per quanto tempo riuscirai a mantenere la tua posizione al "
+"vertice..."
+
+msgctxt "3016_Owner"
+msgid ""
+"Keep battling any who may take you on! You're the best mahjong player we've "
+"got here in Kamurocho!"
+msgstr ""
+"Continua a combattere chiunque ti sfidi! Sei il miglior giocatore di mahjong"
+" che abbiamo qui a Kamurocho!"
+
+msgctxt "3040_Owner"
+msgid "Hey, good job."
+msgstr "Ehi, bel lavoro."
+
+msgctxt "3052_Owner"
+msgid ""
+"It looks like you've been working up a sweat defending your title. Keep it "
+"up!"
+msgstr ""
+"Sembra che tu stia sudando per difendere il tuo titolo. Continua così!"
+
+msgctxt "3076_Owner"
+msgid ""
+"How was it? I trust you had a good time? I hope you come visit us again "
+"soon."
+msgstr ""
+"Com'è andata? Spero si sia divertito. Spero che tornerà a trovarci presto."
+
+msgctxt "3088_Owner"
+msgid "Hey, good job."
+msgstr "Ehi, bel lavoro."
+
+msgctxt "3100_Owner"
+msgid "Come on back whenever you want to try climbing the ranks."
+msgstr "Torna quando vuoi provare a scalare le classifiche."
+
+msgctxt "3112_Owner"
+msgid ""
+"Hey boss. Would you like to exchange your winnings for prizes or purchase "
+"mahjong sticks? Or would you like to participate in the Genbu Cup?"
+msgstr ""
+"Ehi, capo. Vuole scambiare le vincite con premi, acquistare stick da mahjong"
+" o partecipare alla Coppa Genbu?"
+
+msgctxt "3124_Owner"
+msgid ""
+"You need mahjong sticks to play mahjong. How much you lookin' to buy? It's 1"
+" yen a stick."
+msgstr ""
+"Servono stick da mahjong per giocare a mahjong. Quanti ne vuole comprare? "
+"Costa 1 yen a stick."
+
+msgctxt "3136_Owner"
+msgid "I'll take 100,000 sticks."
+msgstr "Prendo 100.000 stick."
+
+msgctxt "3160_Owner"
+msgid "Thank you very much. Have fun!"
+msgstr "Molte grazie. Si diverta!"
+
+msgctxt "3184_Owner"
+msgid "I'll take 25,000 sticks."
+msgstr "Prendo 25.000 stick."
+
+msgctxt "3208_Owner"
+msgid "Thank you very much. Have fun!"
+msgstr "Molte grazie. Si diverta!"
+
+msgctxt "3232_Owner"
+msgid "I'll take 10,000 sticks."
+msgstr "Prendo 10.000 stick."
+
+msgctxt "3256_Owner"
+msgid "Thank you very much. Have fun!"
+msgstr "Molte grazie. Si diverta!"
+
+msgctxt "3280_Owner"
+msgid "I'm fine for now."
+msgstr "Per ora sono a posto."
+
+msgctxt "3292_Owner"
+msgid "All right. Come visit again sometime."
+msgstr "Va bene. Torni a trovarci."
+
+msgctxt "3304_Owner"
+msgid ""
+"Hey boss, you don't have enough to pay for that! Come back again when you "
+"do!"
+msgstr "Ehi capo, non hai abbastanza soldi per pagare! Torna quando li avrai!"
+
+msgctxt "3316_Owner"
+msgid "You'd like to exchange sticks, huh? What'll it be?"
+msgstr "Vuole scambiare stick, eh? Cosa desidera?"
+
+msgctxt "3340_Owner"
+msgid "Thank you very much! Come by again soon, all right?"
+msgstr "Molte grazie! Torni presto a trovarci, d'accordo?"
+
+msgctxt "3376_Owner"
+msgid ""
+"Here, we hold the Mahjong Ranking Genbu Cup, where players compete to "
+"determine the best mahjong player in Kamurocho."
+msgstr ""
+"Qui teniamo la Coppa Genbu della classifica di mahjong, dove i giocatori "
+"competono per determinare il miglior giocatore di Kamurocho."
+
+msgctxt "3388_Owner"
+msgid "You're back again! Want to participate in the Genbu Cup?"
+msgstr "È tornato! Vuole partecipare alla Coppa Genbu?"
+
+msgctxt "3400_Owner"
+msgid "Skilled mahjong players from all over are signing up for it."
+msgstr "Abili giocatori di mahjong da ogni dove si stanno iscrivendo."
+
+msgctxt "3412_Owner"
+msgid ""
+"It's 50,000 yen to sign up for the rankings. Once you're signed up, you can "
+"play mahjong whenever you want."
+msgstr ""
+"L'iscrizione alla classifica costa 50.000 yen. Una volta iscritto, può "
+"giocare a mahjong quando vuole."
+
+msgctxt "3424_Owner"
+msgid ""
+"You'll be able to earn better and better prizes each time your rank goes up."
+msgstr ""
+"Potrà guadagnare premi sempre migliori ogni volta che salirà di grado."
+
+msgctxt "3436_Talk_Yes"
+msgid ""
+"If you manage to reach the top of the rankings, you'll win somethin' that'll"
+" really make your eyes pop."
+msgstr ""
+"Se riuscirà ad arrivare in cima alla classifica, vincerà qualcosa che la "
+"lascerà a bocca aperta."
+
+msgctxt "3448_Owner"
+msgid "Well, what do ya think? Gonna try and climb your way up the ranks?"
+msgstr "Allora, che ne dice? Proverà a scalare la classifica?"
+
+msgctxt "3460_Player"
+msgid "Hmm... Sure, sign me up."
+msgstr "Mmm... Certo, mi iscriva."
+
+msgctxt "3472_Owner"
+msgid ""
+"Very well, then. The registration fee is 50,000 yen. Please pay in advance."
+msgstr ""
+"Benissimo, allora. La quota di iscrizione è di 50.000 yen. Prego, paghi in "
+"anticipo."
+
+msgctxt "3496_Player"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "3508_Owner"
+msgid "You paid <Color:8>50,000 yen<Color:Default>."
+msgstr "Hai pagato <Color:8>50.000 yen<Color:Default>."
+
+msgctxt "3532_Owner"
+msgid "Thank you! Would you like to play a game now?"
+msgstr "Grazie! Le andrebbe di fare una partita ora?"
+
+msgctxt "3544_Player"
+msgid "Yeah, I'll give it a shot."
+msgstr "Sì, ci provo."
+
+msgctxt "3556_Owner"
+msgid "Well then, good luck, buddy."
+msgstr "Allora buona fortuna, amico."
+
+msgctxt "3580_Player"
+msgid "Not now. I'll come back later."
+msgstr "Non ora. Tornerò più tardi."
+
+msgctxt "3592_Owner"
+msgid ""
+"All right. Now that you've registered, you can play a ranked match anytime "
+"you like."
+msgstr ""
+"Va bene. Ora che è registrato, può giocare una partita di classifica quando "
+"vuole."
+
+msgctxt "3604_Player"
+msgid "(I don't have the cash...)"
+msgstr "(Non ho i soldi...)"
+
+msgctxt "3616_Owner"
+msgid "It appears that you don't have enough money."
+msgstr "Sembra che non abbia abbastanza soldi."
+
+msgctxt "3628_Owner"
+msgid ""
+"Well, you can sign up for the rankings whenever you want, so come back "
+"another time."
+msgstr ""
+"Beh, può iscriversi alla classifica quando vuole, quindi torni un'altra "
+"volta."
+
+msgctxt "3640_Player"
+msgid "Not now. I'll come back later."
+msgstr "Non ora. Tornerò più tardi."
+
+msgctxt "3652_Owner"
+msgid ""
+"Is that so? Well, registration's always open, so come back whenever you'd "
+"like to play a ranked match."
+msgstr ""
+"Davvero? Beh, le iscrizioni sono sempre aperte, quindi torni quando vuole "
+"giocare una partita di classifica."
+
+msgctxt "3676_Owner"
+msgid "You're back again! How are your ranked matches going so far?"
+msgstr ""
+"È di nuovo qui! Come stanno andando le sue partite di classifica finora?"
+
+msgctxt "3688_Owner"
+msgid "You're back, Champion. How goes defending your title?"
+msgstr "È tornato, Campione. Come va la difesa del titolo?"
+
+msgctxt "3700_Owner"
+msgid "What will it be today? Feel up to playing a Genbu Cup match?"
+msgstr ""
+"Cosa facciamo oggi? Se la sente di giocare una partita della Coppa Genbu?"
+
+msgctxt "3712_Player"
+msgid "Yeah, I'll give it a shot."
+msgstr "Sì, ci provo."
+
+msgctxt "3724_Owner"
+msgid "Well then, good luck, buddy."
+msgstr "Allora buona fortuna, amico."
+
+msgctxt "3748_Player"
+msgid "Not now. I'll come back later."
+msgstr "Non ora. Tornerò più tardi."
+
+msgctxt "3760_Owner"
+msgid ""
+"All right. You've already registered, so you can come play a ranked match "
+"any time you like."
+msgstr ""
+"Va bene. È già registrato, quindi può venire a giocare una partita di "
+"classifica quando vuole."
+
+msgctxt "3796_Owner"
+msgid ""
+"Hey there, you don't have enough sticks for that! Come back when you've got "
+"25,000 sticks."
+msgstr "Ehi, non hai abbastanza stick! Torna quando ne avrai 25.000."
+
+msgctxt "3808_Owner"
+msgid "The Dragon King Cup?"
+msgstr "La Coppa del Re Drago?"
+
+msgctxt "3820_Owner"
+msgid ""
+"Yes, it's a tournament with special matches that pits our new up-and-coming "
+"mahjong players against one another."
+msgstr ""
+"Sì, è un torneo con partite speciali che mette l'uno contro l'altro i nostri"
+" nuovi giocatori di mahjong emergenti."
+
+msgctxt "3832_Owner"
+msgid "You're actually one of them, %s-san."
+msgstr "In realtà lei è uno di loro, %s-san."
+
+msgctxt "3844_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "3856_Owner"
+msgid "How about it, then? It'll get things fired up around here, too!"
+msgstr "Allora, che ne dice? Scalderà un po' l'atmosfera qui!"
+
+msgctxt "3868_Player"
+msgid "Sure, I'll give it a shot."
+msgstr "Certo, ci provo."
+
+msgctxt "3880_Owner"
+msgid "Great! I'll go call over the other three players, then!"
+msgstr "Fantastico! Allora vado a chiamare gli altri tre giocatori!"
+
+msgctxt "3952_Player"
+msgid "Hold on a sec. What's going on here?"
+msgstr "Un secondo. Che sta succedendo qui?"
+
+msgctxt "3964_Owner"
+msgid "Huh? You know them?"
+msgstr "Eh? Li conosce?"
+
+msgctxt "3976_Player"
+msgid "Yeah, you could say that."
+msgstr "Sì, si può dire di sì."
+
+msgctxt "3988_Owner"
+msgid ""
+"Wow, what a coincidence! Seems this will be quite the exciting cup. Without "
+"further ado, let's get this started!"
+msgstr ""
+"Wow, che coincidenza! Sembra che sarà una coppa molto emozionante. Bando "
+"alle ciance, cominciamo!"
+
+msgctxt "4000_Kiryu"
+msgid "Well, if I'm going to do this, then I'm not going to let myself lose."
+msgstr "Beh, se devo farlo, allora non ho intenzione di perdere."
+
+msgctxt "4012_Akiyama"
+msgid "Heh. Just to warn you, I'm not half bad at this game."
+msgstr "Eh. Giusto per avvisarvi, non sono affatto male a questo gioco."
+
+msgctxt "4024_Saejima"
+msgid "Heh, this'll be a piece of cake."
+msgstr "Eh, sarà una passeggiata."
+
+msgctxt "4036_Player"
+msgid "All right... Let's do this!"
+msgstr "Va bene... Facciamolo!"
+
+msgctxt "4048_Owner"
+msgid "All right. Let's get the match started!"
+msgstr "Bene. Che la partita abbia inizio!"
+
+msgctxt "4072_Owner"
+msgid ""
+"Hey boss. Would you like to exchange your winnings for prizes or purchase "
+"mahjong sticks? Or would you like to participate in the Suzaku Cup?"
+msgstr ""
+"Ehi, capo. Vuole scambiare le vincite con premi, acquistare stick da mahjong"
+" o partecipare alla Coppa Suzaku?"
+
+msgctxt "4084_Owner"
+msgid ""
+"You need mahjong sticks to play mahjong. How much you lookin' to buy? It's 1"
+" yen a stick."
+msgstr ""
+"Servono stick da mahjong per giocare a mahjong. Quanti ne vuole comprare? "
+"Costa 1 yen a stick."
+
+msgctxt "4096_Owner"
+msgid "I'll take 100,000 sticks."
+msgstr "Prendo 100.000 stick."
+
+msgctxt "4120_Owner"
+msgid "Thank you very much. Have fun!"
+msgstr "Molte grazie. Si diverta!"
+
+msgctxt "4144_Owner"
+msgid "I'll take 25,000 sticks."
+msgstr "Prendo 25.000 stick."
+
+msgctxt "4168_Owner"
+msgid "Thank you very much. Have fun!"
+msgstr "Molte grazie. Si diverta!"
+
+msgctxt "4192_Owner"
+msgid "I'll take 10,000 sticks."
+msgstr "Prendo 10.000 stick."
+
+msgctxt "4216_Owner"
+msgid "Thank you very much. Have fun!"
+msgstr "Molte grazie. Si diverta!"
+
+msgctxt "4240_Owner"
+msgid "I'm fine for now."
+msgstr "Per ora sono a posto."
+
+msgctxt "4252_Owner"
+msgid "All right. Come visit again sometime."
+msgstr "Va bene. Torni a trovarci."
+
+msgctxt "4264_Owner"
+msgid ""
+"Hey boss, you don't have enough to pay for that! Come back again when you "
+"do!"
+msgstr "Ehi capo, non hai abbastanza soldi per pagare! Torna quando li avrai!"
+
+msgctxt "4276_Owner"
+msgid "You'd like to exchange sticks, huh? What'll it be?"
+msgstr "Vuole scambiare stick, eh? Cosa desidera?"
+
+msgctxt "4300_Owner"
+msgid "Thank you very much! Come by again soon, all right?"
+msgstr "Molte grazie! Torni presto a trovarci, d'accordo?"
+
+msgctxt "4336_Owner"
+msgid ""
+"Here, we hold the Mahjong Ranking Suzaku Cup, where players compete to "
+"determine the best mahjong player in Kamurocho."
+msgstr ""
+"Qui teniamo la Coppa Suzaku della classifica di mahjong, dove i giocatori "
+"competono per determinare il miglior giocatore di Kamurocho."
+
+msgctxt "4348_Owner"
+msgid "You're back again! Want to participate in the Suzaku Cup?"
+msgstr "È tornato! Vuole partecipare alla Coppa Suzaku?"
+
+msgctxt "4360_Owner"
+msgid "Skilled mahjong players from all over are signing up for it."
+msgstr "Abili giocatori di mahjong da ogni dove si stanno iscrivendo."
+
+msgctxt "4372_Owner"
+msgid ""
+"It's 50,000 yen to sign up for the rankings. Once you're signed up, you can "
+"play mahjong whenever you want."
+msgstr ""
+"L'iscrizione alla classifica costa 50.000 yen. Una volta iscritto, può "
+"giocare a mahjong quando vuole."
+
+msgctxt "4384_Owner"
+msgid ""
+"You'll be able to earn better and better prizes each time your rank goes up."
+msgstr ""
+"Potrà guadagnare premi sempre migliori ogni volta che salirà di grado."
+
+msgctxt "4396_Talk_Yes"
+msgid ""
+"If you manage to reach the top of the rankings, you'll win somethin' that'll"
+" really make your eyes pop."
+msgstr ""
+"Se riuscirà ad arrivare in cima alla classifica, vincerà qualcosa che la "
+"lascerà a bocca aperta."
+
+msgctxt "4408_Owner"
+msgid "Well, what do ya think? Gonna try and climb your way up the ranks?"
+msgstr "Allora, che ne dice? Proverà a scalare la classifica?"
+
+msgctxt "4420_Player"
+msgid "Hmm... Sure, sign me up."
+msgstr "Mmm... Certo, mi iscriva."
+
+msgctxt "4432_Owner"
+msgid ""
+"Very well, then. The registration fee is 50,000 yen. Please pay in advance."
+msgstr ""
+"Benissimo, allora. La quota di iscrizione è di 50.000 yen. Prego, paghi in "
+"anticipo."
+
+msgctxt "4456_Player"
+msgid "Sure. This'll do, right?"
+msgstr "Certo. Questo andrà bene, no?"
+
+msgctxt "4468_Owner"
+msgid "You paid <Color:8>50,000 yen<Color:Default>."
+msgstr "Hai pagato <Color:8>50.000 yen<Color:Default>."
+
+msgctxt "4492_Owner"
+msgid "Thank you! Would you like to play a game now?"
+msgstr "Grazie! Le andrebbe di fare una partita ora?"
+
+msgctxt "4504_Player"
+msgid "Yeah, I'll give it a shot."
+msgstr "Sì, ci provo."
+
+msgctxt "4516_Owner"
+msgid "Well then, good luck, buddy."
+msgstr "Allora buona fortuna, amico."
+
+msgctxt "4540_Player"
+msgid "Not now. I'll come back later."
+msgstr "Non ora. Tornerò più tardi."
+
+msgctxt "4552_Owner"
+msgid "All right. Come visit again sometime."
+msgstr "Va bene. Torni a trovarci."
+
+msgctxt "4564_Player"
+msgid "(I don't have the cash on me...)"
+msgstr "(Non ho i soldi con me...)"
+
+msgctxt "4576_Owner"
+msgid "It appears that you don't have enough money."
+msgstr "Sembra che non abbia abbastanza soldi."
+
+msgctxt "4588_Owner"
+msgid ""
+"Well, you can sign up for the rankings whenever you want, so come back "
+"another time."
+msgstr ""
+"Beh, può iscriversi alla classifica quando vuole, quindi torni un'altra "
+"volta."
+
+msgctxt "4600_Player"
+msgid "Not now. I'll come back later."
+msgstr "Non ora. Tornerò più tardi."
+
+msgctxt "4612_Owner"
+msgid ""
+"Is that so? Well, registration's always open, so come back whenever you'd "
+"like to play a ranked match."
+msgstr ""
+"Davvero? Beh, le iscrizioni sono sempre aperte, quindi torni quando vuole "
+"giocare una partita di classifica."
+
+msgctxt "4636_Owner"
+msgid "You're back again! How are your ranked matches going so far?"
+msgstr ""
+"È di nuovo qui! Come stanno andando le sue partite di classifica finora?"
+
+msgctxt "4648_Owner"
+msgid "You're back, Champion. How goes defending your title?"
+msgstr "È tornato, Campione. Come va la difesa del titolo?"
+
+msgctxt "4660_Owner"
+msgid "What will it be today? Feel up to playing a Suzaku Cup match?"
+msgstr ""
+"Cosa facciamo oggi? Se la sente di giocare una partita della Coppa Suzaku?"
+
+msgctxt "4672_Player"
+msgid "Yeah, I'll give it a shot."
+msgstr "Sì, ci provo."
+
+msgctxt "4684_Owner"
+msgid "Well then, good luck, buddy."
+msgstr "Allora buona fortuna, amico."
+
+msgctxt "4708_Player"
+msgid "Not now. I'll come back later."
+msgstr "Non ora. Tornerò più tardi."
+
+msgctxt "4720_Owner"
+msgid ""
+"All right. You've already registered, so you can come play a ranked match "
+"any time you like."
+msgstr ""
+"Va bene. È già registrato, quindi può venire a giocare una partita di "
+"classifica quando vuole."
+
+msgctxt "4756_Owner"
+msgid ""
+"Hey there, you don't have enough sticks for that! Come back when you've got "
+"25,000 sticks."
+msgstr "Ehi, non hai abbastanza stick! Torna quando ne avrai 25.000."
+
+msgctxt "4768_Owner"
+msgid "The Dragon King Cup?"
+msgstr "La Coppa del Re Drago?"
+
+msgctxt "4780_Owner"
+msgid ""
+"Yes, it's a tournament with special matches that pits our new up-and-coming "
+"mahjong players against one another."
+msgstr ""
+"Sì, è un torneo con partite speciali che mette l'uno contro l'altro i nostri"
+" nuovi giocatori di mahjong emergenti."
+
+msgctxt "4792_Owner"
+msgid "You're actually one of them, %s-san."
+msgstr "In realtà lei è uno di loro, %s-san."
+
+msgctxt "4804_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "4816_Owner"
+msgid "How about it, then? It'll get things fired up around here, too!"
+msgstr "Allora, che ne dice? Scalderà un po' l'atmosfera qui!"
+
+msgctxt "4828_Player"
+msgid "Sure, I'll give it a shot."
+msgstr "Certo, ci provo."
+
+msgctxt "4840_Owner"
+msgid "Great! I'll go call over the other three players, then!"
+msgstr "Fantastico! Allora vado a chiamare gli altri tre giocatori!"
+
+msgctxt "4912_Player"
+msgid "Hold on a sec. What's going on here?"
+msgstr "Un secondo. Che sta succedendo qui?"
+
+msgctxt "4924_Owner"
+msgid "Huh? You know them?"
+msgstr "Eh? Li conosce?"
+
+msgctxt "4936_Player"
+msgid "Yeah, you could say that."
+msgstr "Sì, si può dire di sì."
+
+msgctxt "4948_Owner"
+msgid ""
+"Wow, what a coincidence! Seems this will be quite the exciting cup. Without "
+"further ado, let's get this started!"
+msgstr ""
+"Wow, che coincidenza! Sembra che sarà una coppa molto emozionante. Bando "
+"alle ciance, cominciamo!"
+
+msgctxt "4960_Kiryu"
+msgid "Well, if I'm going to do this, then I'm not going to let myself lose."
+msgstr "Beh, se devo farlo, allora non ho intenzione di perdere."
+
+msgctxt "4972_Saejima"
+msgid "Heh, this'll be a piece of cake."
+msgstr "Eh, sarà una passeggiata."
+
+msgctxt "4984_Tanimura"
+msgid ""
+"You're about to find out there's a damn good reason I skip work to play "
+"mahjong."
+msgstr ""
+"State per scoprire che c'è un'ottima ragione se salto il lavoro per giocare "
+"a mahjong."
+
+msgctxt "4996_Player"
+msgid "All right... Let's do this!"
+msgstr "Va bene... Facciamolo!"
+
+msgctxt "5008_Owner"
+msgid "Right then. Let's get the match started!"
+msgstr "Bene, allora. Che la partita abbia inizio!"
+
+msgctxt "5032_Owner"
+msgid ""
+"Hey boss. Would you like to exchange your winnings for prizes or purchase "
+"mahjong sticks? Or would you like to participate in the Byakko Cup?"
+msgstr ""
+"Ehi, capo. Vuole scambiare le vincite con premi, acquistare stick da mahjong"
+" o partecipare alla Coppa Byakko?"
+
+msgctxt "5044_Owner"
+msgid ""
+"You need mahjong sticks to play mahjong. How much you lookin' to buy? It's 1"
+" yen a stick."
+msgstr ""
+"Servono stick da mahjong per giocare a mahjong. Quanti ne vuole comprare? "
+"Costa 1 yen a stick."
+
+msgctxt "5056_Owner"
+msgid "I'll take 100,000 sticks."
+msgstr "Prendo 100.000 stick."
+
+msgctxt "5080_Owner"
+msgid "Thank you very much. Have fun!"
+msgstr "Molte grazie. Si diverta!"
+
+msgctxt "5104_Owner"
+msgid "I'll take 25,000 sticks."
+msgstr "Prendo 25.000 stick."
+
+msgctxt "5128_Owner"
+msgid "Thank you very much. Have fun!"
+msgstr "Molte grazie. Si diverta!"
+
+msgctxt "5152_Owner"
+msgid "I'll take 10,000 sticks."
+msgstr "Prendo 10.000 stick."
+
+msgctxt "5176_Owner"
+msgid "Thank you very much. Have fun!"
+msgstr "Molte grazie. Si diverta!"
+
+msgctxt "5200_Owner"
+msgid "I'm fine for now."
+msgstr "Per ora sono a posto."
+
+msgctxt "5212_Owner"
+msgid "All right. Come visit again sometime."
+msgstr "Va bene. Torni a trovarci."
+
+msgctxt "5224_Owner"
+msgid ""
+"Hey boss, you don't have enough to pay for that! Come back again when you "
+"do!"
+msgstr "Ehi capo, non hai abbastanza soldi per pagare! Torna quando li avrai!"
+
+msgctxt "5236_Owner"
+msgid "You'd like to exchange sticks, huh? What'll it be?"
+msgstr "Vuole scambiare stick, eh? Cosa desidera?"
+
+msgctxt "5260_Owner"
+msgid "Thank you very much! Come by again soon, all right?"
+msgstr "Molte grazie! Torni presto a trovarci, d'accordo?"
+
+msgctxt "5296_Owner"
+msgid ""
+"Here, we hold the Mahjong Ranking Byakko Cup, where players compete to "
+"determine the best mahjong player in Kamurocho."
+msgstr ""
+"Qui teniamo la Coppa Byakko della classifica di mahjong, dove i giocatori "
+"competono per determinare il miglior giocatore di Kamurocho."
+
+msgctxt "5308_Owner"
+msgid "You're back again! Want to participate in the Byakko Cup?"
+msgstr "È tornato! Vuole partecipare alla Coppa Byakko?"
+
+msgctxt "5320_Owner"
+msgid "Skilled mahjong players from all over are signing up for it."
+msgstr "Abili giocatori di mahjong da ogni dove si stanno iscrivendo."
+
+msgctxt "5332_Owner"
+msgid ""
+"It's 50,000 yen to sign up for the rankings. Once you're signed up, you can "
+"play mahjong whenever you want."
+msgstr ""
+"L'iscrizione alla classifica costa 50.000 yen. Una volta iscritto, può "
+"giocare a mahjong quando vuole."
+
+msgctxt "5344_Owner"
+msgid ""
+"You'll be able to earn better and better prizes each time your rank goes up."
+msgstr ""
+"Potrà guadagnare premi sempre migliori ogni volta che salirà di grado."
+
+msgctxt "5356_Talk_Yes"
+msgid ""
+"If you manage to reach the top of the rankings, you'll win somethin' that'll"
+" really make your eyes pop."
+msgstr ""
+"Se riuscirà ad arrivare in cima alla classifica, vincerà qualcosa che la "
+"lascerà a bocca aperta."
+
+msgctxt "5368_Owner"
+msgid "Well, what do ya think? Gonna try and climb your way up the ranks?"
+msgstr "Allora, che ne dice? Proverà a scalare la classifica?"
+
+msgctxt "5380_Player"
+msgid "Hmm... Sure, sign me up."
+msgstr "Mmm... Certo, mi iscriva."
+
+msgctxt "5392_Owner"
+msgid ""
+"Very well, then. The registration fee is 50,000 yen. Please pay in advance."
+msgstr ""
+"Benissimo, allora. La quota di iscrizione è di 50.000 yen. Prego, paghi in "
+"anticipo."
+
+msgctxt "5416_Player"
+msgid "Here."
+msgstr "Ecco."
+
+msgctxt "5428_Owner"
+msgid "You paid <Color:8>50,000 yen<Color:Default>."
+msgstr "Hai pagato <Color:8>50.000 yen<Color:Default>."
+
+msgctxt "5452_Owner"
+msgid "Thank you! Would you like to play a game now?"
+msgstr "Grazie! Le andrebbe di fare una partita ora?"
+
+msgctxt "5464_Player"
+msgid "Yeah, I'll give it a shot."
+msgstr "Sì, ci provo."
+
+msgctxt "5476_Owner"
+msgid "Well then, good luck, buddy."
+msgstr "Allora buona fortuna, amico."
+
+msgctxt "5500_Player"
+msgid "Not now. I'll come back later."
+msgstr "Non ora. Tornerò più tardi."
+
+msgctxt "5512_Owner"
+msgid "All right. Come visit again sometime."
+msgstr "Va bene. Torni a trovarci."
+
+msgctxt "5524_Player"
+msgid "(I don't have the cash on me...)"
+msgstr "(Non ho i soldi con me...)"
+
+msgctxt "5536_Owner"
+msgid "It appears that you don't have enough money."
+msgstr "Sembra che non abbia abbastanza soldi."
+
+msgctxt "5548_Owner"
+msgid ""
+"Well, you can sign up for the rankings whenever you want, so come back "
+"another time."
+msgstr ""
+"Beh, può iscriversi alla classifica quando vuole, quindi torni un'altra "
+"volta."
+
+msgctxt "5560_Player"
+msgid "Not now. I'll come back later."
+msgstr "Non ora. Tornerò più tardi."
+
+msgctxt "5572_Owner"
+msgid ""
+"Is that so? Well, registration's always open, so come back whenever you'd "
+"like to play a ranked match."
+msgstr ""
+"Davvero? Beh, le iscrizioni sono sempre aperte, quindi torni quando vuole "
+"giocare una partita di classifica."
+
+msgctxt "5596_Owner"
+msgid "You're back again! How are your ranked matches going so far?"
+msgstr ""
+"È di nuovo qui! Come stanno andando le sue partite di classifica finora?"
+
+msgctxt "5608_Owner"
+msgid "You're back, Champion. How goes defending your title?"
+msgstr "È tornato, Campione. Come va la difesa del titolo?"
+
+msgctxt "5620_Owner"
+msgid "What will it be today? Feel up to playing a Byakko Cup match?"
+msgstr ""
+"Cosa facciamo oggi? Se la sente di giocare una partita della Coppa Byakko?"
+
+msgctxt "5632_Player"
+msgid "Yeah, I'll give it a shot."
+msgstr "Sì, ci provo."
+
+msgctxt "5644_Owner"
+msgid "Well then, good luck, buddy."
+msgstr "Allora buona fortuna, amico."
+
+msgctxt "5668_Player"
+msgid "Not now. I'll come back later."
+msgstr "Non ora. Tornerò più tardi."
+
+msgctxt "5680_Owner"
+msgid ""
+"All right. You've already registered, so you can come play a ranked match "
+"any time you like."
+msgstr ""
+"Va bene. È già registrato, quindi può venire a giocare una partita di "
+"classifica quando vuole."
+
+msgctxt "5716_Owner"
+msgid ""
+"Hey there, you don't have enough sticks for that! Come back when you've got "
+"25,000 sticks."
+msgstr "Ehi, non hai abbastanza stick! Torna quando ne avrai 25.000."
+
+msgctxt "5728_Owner"
+msgid "The Dragon King Cup?"
+msgstr "La Coppa del Re Drago?"
+
+msgctxt "5740_Owner"
+msgid ""
+"Yes, it's a tournament with special matches that pits our new up-and-coming "
+"mahjong players against one another."
+msgstr ""
+"Sì, è un torneo con partite speciali che mette l'uno contro l'altro i nostri"
+" nuovi giocatori di mahjong emergenti."
+
+msgctxt "5752_Owner"
+msgid "You're actually one of them, %s-san."
+msgstr "In realtà lei è uno di loro, %s-san."
+
+msgctxt "5764_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "5776_Owner"
+msgid "How about it, then? It'll get things fired up around here, too!"
+msgstr "Allora, che ne dice? Scalderà un po' l'atmosfera qui!"
+
+msgctxt "5788_Player"
+msgid "Sure, I'll give it a shot."
+msgstr "Certo, ci provo."
+
+msgctxt "5800_Owner"
+msgid "Great! I'll go call over the other three players, then!"
+msgstr "Fantastico! Allora vado a chiamare gli altri tre giocatori!"
+
+msgctxt "5872_Player"
+msgid "Huh? Oh, great, not you guys again."
+msgstr "Eh? Oh, fantastico, non di nuovo voi."
+
+msgctxt "5884_Owner"
+msgid "Huh? You know them?"
+msgstr "Eh? Li conosce?"
+
+msgctxt "5896_Player"
+msgid "Yeah, you could say that."
+msgstr "Sì, si può dire di sì."
+
+msgctxt "5908_Owner"
+msgid ""
+"Wow, what a coincidence! Seems this will be quite the exciting cup. Without "
+"further ado, let's get this started!"
+msgstr ""
+"Wow, che coincidenza! Sembra che sarà una coppa molto emozionante. Bando "
+"alle ciance, cominciamo!"
+
+msgctxt "5920_Kiryu"
+msgid "Well, if I'm going to do this, then I'm not going to let myself lose."
+msgstr "Beh, se devo farlo, allora non ho intenzione di perdere."
+
+msgctxt "5932_Akiyama"
+msgid "Heh. Just to warn you, I'm not half bad at this game."
+msgstr "Eh. Giusto per avvisarvi, non sono affatto male a questo gioco."
+
+msgctxt "5944_Tanimura"
+msgid ""
+"You're about to find out there's a damn good reason I skip work to play "
+"mahjong."
+msgstr ""
+"State per scoprire che c'è un'ottima ragione se salto il lavoro per giocare "
+"a mahjong."
+
+msgctxt "5956_Player"
+msgid "All right... Let's do this!"
+msgstr "Va bene... Facciamolo!"
+
+msgctxt "5968_Owner"
+msgid "Right then. Let's get the match started!"
+msgstr "Bene, allora. Che la partita abbia inizio!"
+
+msgctxt "5992_Owner"
+msgid ""
+"Hey boss. Would you like to exchange your winnings for prizes or purchase "
+"mahjong sticks? Or would you like to participate in the Seiryu Cup?"
+msgstr ""
+"Ehi, capo. Vuole scambiare le vincite con premi, acquistare stick da mahjong"
+" o partecipare alla Coppa Seiryu?"
+
+msgctxt "6004_Owner"
+msgid ""
+"You need mahjong sticks to play mahjong. How much you lookin' to buy? It's 1"
+" yen a stick."
+msgstr ""
+"Servono stick da mahjong per giocare a mahjong. Quanti ne vuole comprare? "
+"Costa 1 yen a stick."
+
+msgctxt "6016_Owner"
+msgid "I'll take 100,000 sticks."
+msgstr "Prendo 100.000 stick."
+
+msgctxt "6040_Owner"
+msgid "Thank you very much. Have fun!"
+msgstr "Molte grazie. Si diverta!"
+
+msgctxt "6064_Owner"
+msgid "I'll take 25,000 sticks."
+msgstr "Prendo 25.000 stick."
+
+msgctxt "6088_Owner"
+msgid "Thank you very much. Have fun!"
+msgstr "Molte grazie. Si diverta!"
+
+msgctxt "6112_Owner"
+msgid "I'll take 10,000 sticks."
+msgstr "Prendo 10.000 stick."
+
+msgctxt "6136_Owner"
+msgid "Thank you very much. Have fun!"
+msgstr "Molte grazie. Si diverta!"
+
+msgctxt "6160_Owner"
+msgid "I'm fine for now."
+msgstr "Per ora sono a posto."
+
+msgctxt "6172_Owner"
+msgid "All right. Come visit again sometime."
+msgstr "Va bene. Torni a trovarci."
+
+msgctxt "6184_Owner"
+msgid ""
+"Hey boss, you don't have enough to pay for that! Come back again when you "
+"do!"
+msgstr "Ehi capo, non hai abbastanza soldi per pagare! Torna quando li avrai!"
+
+msgctxt "6196_Owner"
+msgid "You'd like to exchange sticks, huh? What'll it be?"
+msgstr "Vuole scambiare stick, eh? Cosa desidera?"
+
+msgctxt "6220_Owner"
+msgid "Thank you very much! Come by again soon, all right?"
+msgstr "Molte grazie! Torni presto a trovarci, d'accordo?"
+
+msgctxt "6256_Owner"
+msgid ""
+"Here, we hold the Mahjong Ranking Seiryu Cup, where players compete to "
+"determine the best mahjong player in Kamurocho."
+msgstr ""
+"Qui teniamo la Coppa Seiryu della classifica di mahjong, dove i giocatori "
+"competono per determinare il miglior giocatore di Kamurocho."
+
+msgctxt "6268_Owner"
+msgid "You're back again! Want to participate in the Seiryu Cup?"
+msgstr "È tornato! Vuole partecipare alla Coppa Seiryu?"
+
+msgctxt "6280_Owner"
+msgid "Skilled mahjong players from all over are signing up for it."
+msgstr "Abili giocatori di mahjong da ogni dove si stanno iscrivendo."
+
+msgctxt "6292_Owner"
+msgid ""
+"It's 50,000 yen to sign up for the rankings. Once you're signed up, you can "
+"play mahjong whenever you want."
+msgstr ""
+"L'iscrizione alla classifica costa 50.000 yen. Una volta iscritto, può "
+"giocare a mahjong quando vuole."
+
+msgctxt "6304_Owner"
+msgid ""
+"You'll be able to earn better and better prizes each time your rank goes up."
+msgstr ""
+"Potrà guadagnare premi sempre migliori ogni volta che salirà di grado."
+
+msgctxt "6316_Talk_Yes"
+msgid ""
+"If you manage to reach the top of the rankings, you'll win somethin' that'll"
+" really make your eyes pop."
+msgstr ""
+"Se riuscirà ad arrivare in cima alla classifica, vincerà qualcosa che la "
+"lascerà a bocca aperta."
+
+msgctxt "6328_Owner"
+msgid "Well, what do ya think? Gonna try and climb your way up the ranks?"
+msgstr "Allora, che ne dice? Proverà a scalare la classifica?"
+
+msgctxt "6340_Player"
+msgid "Hmm... Sure, sign me up."
+msgstr "Mmm... Certo, mi iscriva."
+
+msgctxt "6352_Owner"
+msgid ""
+"Very well, then. The registration fee is 50,000 yen. Please pay in advance."
+msgstr ""
+"Benissimo, allora. La quota di iscrizione è di 50.000 yen. Prego, paghi in "
+"anticipo."
+
+msgctxt "6376_Player"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "6388_Owner"
+msgid "You paid <Color:8>50,000 yen<Color:Default>."
+msgstr "Hai pagato <Color:8>50.000 yen<Color:Default>."
+
+msgctxt "6412_Owner"
+msgid "Thank you! Would you like to play a game now?"
+msgstr "Grazie! Le andrebbe di fare una partita ora?"
+
+msgctxt "6424_Player"
+msgid "Yeah, I'll give it a shot."
+msgstr "Sì, ci provo."
+
+msgctxt "6436_Owner"
+msgid "Well then, good luck, buddy."
+msgstr "Allora buona fortuna, amico."
+
+msgctxt "6460_Player"
+msgid "Not now. I'll come back later."
+msgstr "Non ora. Tornerò più tardi."
+
+msgctxt "6472_Owner"
+msgid "All right. Come visit again sometime."
+msgstr "Va bene. Torni a trovarci."
+
+msgctxt "6484_Player"
+msgid "(I don't have the cash on me...)"
+msgstr "(Non ho i soldi con me...)"
+
+msgctxt "6496_Owner"
+msgid "It appears that you don't have enough money."
+msgstr "Sembra che non abbia abbastanza soldi."
+
+msgctxt "6508_Owner"
+msgid ""
+"Well, you can sign up for the rankings whenever you want, so come back "
+"another time."
+msgstr ""
+"Beh, può iscriversi alla classifica quando vuole, quindi torni un'altra "
+"volta."
+
+msgctxt "6520_Player"
+msgid "Not now. I'll come back later."
+msgstr "Non ora. Tornerò più tardi."
+
+msgctxt "6532_Owner"
+msgid ""
+"Is that so? Well, registration's always open, so come back whenever you'd "
+"like to play a ranked match."
+msgstr ""
+"Davvero? Beh, le iscrizioni sono sempre aperte, quindi torni quando vuole "
+"giocare una partita di classifica."
+
+msgctxt "6556_Owner"
+msgid "You're back again! How are your ranked matches going so far?"
+msgstr ""
+"È di nuovo qui! Come stanno andando le sue partite di classifica finora?"
+
+msgctxt "6568_Owner"
+msgid "You're back, Champion. How goes defending your title?"
+msgstr "È tornato, Campione. Come va la difesa del titolo?"
+
+msgctxt "6580_Owner"
+msgid "What will it be today? Feel up to playing a Seiryu Cup match?"
+msgstr ""
+"Cosa facciamo oggi? Se la sente di giocare una partita della Coppa Seiryu?"
+
+msgctxt "6592_Player"
+msgid "Yeah, I'll give it a shot."
+msgstr "Sì, ci provo."
+
+msgctxt "6604_Owner"
+msgid "Well then, good luck, buddy."
+msgstr "Allora buona fortuna, amico."
+
+msgctxt "6628_Player"
+msgid "Not now. I'll come back later."
+msgstr "Non ora. Tornerò più tardi."
+
+msgctxt "6640_Owner"
+msgid ""
+"All right. You've already registered, so you can come play a ranked match "
+"any time you like."
+msgstr ""
+"Va bene. È già registrato, quindi può venire a giocare una partita di "
+"classifica quando vuole."
+
+msgctxt "6676_Owner"
+msgid ""
+"Hey there, you don't have enough sticks for that! Come back when you've got "
+"25,000 sticks."
+msgstr "Ehi, non hai abbastanza stick! Torna quando ne avrai 25.000."
+
+msgctxt "6688_Owner"
+msgid "The Dragon King Cup?"
+msgstr "La Coppa del Re Drago?"
+
+msgctxt "6700_Owner"
+msgid ""
+"Yes, it's a tournament with special matches that pits our new up-and-coming "
+"mahjong players against one another."
+msgstr ""
+"Sì, è un torneo con partite speciali che mette l'uno contro l'altro i nostri"
+" nuovi giocatori di mahjong emergenti."
+
+msgctxt "6712_Owner"
+msgid "You're actually one of them, %s-san."
+msgstr "In realtà lei è uno di loro, %s-san."
+
+msgctxt "6724_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "6736_Owner"
+msgid "How about it, then? It'll get things fired up around here, too!"
+msgstr "Allora, che ne dice? Scalderà un po' l'atmosfera qui!"
+
+msgctxt "6748_Player"
+msgid "Sure, I'll give it a shot."
+msgstr "Certo, ci provo."
+
+msgctxt "6760_Owner"
+msgid "Great! I'll go call over the other three players, then!"
+msgstr "Fantastico! Allora vado a chiamare gli altri tre giocatori!"
+
+msgctxt "6832_Player"
+msgid "Huh? Oh, great, not you guys again."
+msgstr "Eh? Oh, fantastico, non di nuovo voi."
+
+msgctxt "6844_Owner"
+msgid "Huh? You know them?"
+msgstr "Eh? Li conosce?"
+
+msgctxt "6856_Player"
+msgid "Yeah, you could say that."
+msgstr "Sì, si può dire di sì."
+
+msgctxt "6868_Owner"
+msgid ""
+"Wow, what a coincidence! Seems this will be quite the exciting cup. Without "
+"further ado, let's get this started!"
+msgstr ""
+"Wow, che coincidenza! Sembra che sarà una coppa molto emozionante. Bando "
+"alle ciance, cominciamo!"
+
+msgctxt "6880_Akiyama"
+msgid "Heh. Just to warn you, I'm not half bad at this game."
+msgstr "Eh. Giusto per avvisarvi, non sono affatto male a questo gioco."
+
+msgctxt "6892_Saejima"
+msgid "Heh, this'll be a piece of cake."
+msgstr "Eh, sarà una passeggiata."
+
+msgctxt "6904_Tanimura"
+msgid ""
+"You're about to find out there's a damn good reason I skip work to play "
+"mahjong."
+msgstr ""
+"State per scoprire che c'è un'ottima ragione se salto il lavoro per giocare "
+"a mahjong."
+
+msgctxt "6916_Player"
+msgid "All right... Let's do this!"
+msgstr "Va bene... Facciamolo!"
+
+msgctxt "6928_Owner"
+msgid "Right then. Let's get the match started!"
+msgstr "Bene, allora. Che la partita abbia inizio!"
+
+msgctxt "6952_Owner"
+msgid "Play a Dragon King Cup Match"
+msgstr "Gioca una partita della Coppa del Re Drago"
+
+msgctxt "6964_Owner"
+msgid "Exchange Sticks for Prizes"
+msgstr "Scambia stick con premi"
+
+msgctxt "6976_Owner"
+msgid "Buy Mahjong Sticks"
+msgstr "Compra stick da mahjong"
+
+msgctxt "6988_Owner"
+msgid "Play a Genbu Cup Match"
+msgstr "Gioca una partita della Coppa Genbu"
+
+msgctxt "7000_Owner"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "7012_Owner"
+msgid "100,000 Sticks"
+msgstr "100.000 stick"
+
+msgctxt "7024_Owner"
+msgid "25,000 Sticks"
+msgstr "25.000 stick"
+
+msgctxt "7036_Owner"
+msgid "10,000 Sticks"
+msgstr "10.000 stick"
+
+msgctxt "7048_Owner"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "7060_Owner"
+msgid "Sign Up"
+msgstr "Iscriviti"
+
+msgctxt "7072_Owner"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "7084_Owner"
+msgid "Play a Ranked Match"
+msgstr "Gioca una partita di classifica"
+
+msgctxt "7096_Owner"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "7108_Owner"
+msgid "Play a Genbu Cup Match"
+msgstr "Gioca una partita della Coppa Genbu"
+
+msgctxt "7120_Owner"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "7132_Owner"
+msgid "Play a Dragon King Cup Match"
+msgstr "Gioca una partita della Coppa del Re Drago"
+
+msgctxt "7144_Owner"
+msgid "Exchange Sticks for Prizes"
+msgstr "Scambia stick con premi"
+
+msgctxt "7156_Owner"
+msgid "Buy Mahjong Sticks"
+msgstr "Compra stick da mahjong"
+
+msgctxt "7168_Owner"
+msgid "Play a Genbu Cup Match"
+msgstr "Gioca una partita della Coppa Genbu"
+
+msgctxt "7180_Owner"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "7192_Owner"
+msgid "100,000 Sticks"
+msgstr "100.000 stick"
+
+msgctxt "7204_Owner"
+msgid "25,000 Sticks"
+msgstr "25.000 stick"
+
+msgctxt "7216_Owner"
+msgid "10,000 Sticks"
+msgstr "10.000 stick"
+
+msgctxt "7228_Owner"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "7240_Owner"
+msgid "Sign Up"
+msgstr "Iscriviti"
+
+msgctxt "7252_Owner"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "7264_Owner"
+msgid "Play a Ranked Match"
+msgstr "Gioca una partita di classifica"
+
+msgctxt "7276_Owner"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "7288_Owner"
+msgid "Play a Genbu Cup Match"
+msgstr "Gioca una partita della Coppa Genbu"
+
+msgctxt "7300_Owner"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "7312_Owner"
+msgid "Play a Dragon King Cup Match"
+msgstr "Gioca una partita della Coppa del Re Drago"
+
+msgctxt "7324_Owner"
+msgid "Exchange Sticks for Prizes"
+msgstr "Scambia stick con premi"
+
+msgctxt "7336_Owner"
+msgid "Buy Mahjong Sticks"
+msgstr "Compra stick da mahjong"
+
+msgctxt "7348_Owner"
+msgid "Suzaku Cup Match"
+msgstr "Partita della Coppa Suzaku"
+
+msgctxt "7360_Owner"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "7372_Owner"
+msgid "100,000 Sticks"
+msgstr "100.000 stick"
+
+msgctxt "7384_Owner"
+msgid "25,000 Sticks"
+msgstr "25.000 stick"
+
+msgctxt "7396_Owner"
+msgid "10,000 Sticks"
+msgstr "10.000 stick"
+
+msgctxt "7408_Owner"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "7420_Owner"
+msgid "Sign Up"
+msgstr "Iscriviti"
+
+msgctxt "7432_Owner"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "7444_Owner"
+msgid "Play a Suzaku Cup Match"
+msgstr "Gioca una partita della Coppa Suzaku"
+
+msgctxt "7456_Owner"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "7468_Owner"
+msgid "Play a Suzaku Cup Match"
+msgstr "Gioca una partita della Coppa Suzaku"
+
+msgctxt "7480_Owner"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "7492_Owner"
+msgid "Play a Dragon King Cup Match"
+msgstr "Gioca una partita della Coppa del Re Drago"
+
+msgctxt "7504_Owner"
+msgid "Exchange Sticks for Prizes"
+msgstr "Scambia stick con premi"
+
+msgctxt "7516_Owner"
+msgid "Buy Mahjong Sticks"
+msgstr "Compra stick da mahjong"
+
+msgctxt "7528_Owner"
+msgid "Byakko Cup Match"
+msgstr "Partita della Coppa Byakko"
+
+msgctxt "7540_Owner"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "7552_Owner"
+msgid "100,000 Sticks"
+msgstr "100.000 stick"
+
+msgctxt "7564_Owner"
+msgid "25,000 Sticks"
+msgstr "25.000 stick"
+
+msgctxt "7576_Owner"
+msgid "10,000 Sticks"
+msgstr "10.000 stick"
+
+msgctxt "7588_Owner"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "7600_Owner"
+msgid "Sign Up"
+msgstr "Iscriviti"
+
+msgctxt "7612_Owner"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "7624_Owner"
+msgid "Play a Byakko Cup Match"
+msgstr "Gioca una partita della Coppa Byakko"
+
+msgctxt "7636_Owner"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "7648_Owner"
+msgid "Play a Byakko Cup Match"
+msgstr "Gioca una partita della Coppa Byakko"
+
+msgctxt "7660_Owner"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "7672_Owner"
+msgid "Play a Dragon King Cup Match"
+msgstr "Gioca una partita della Coppa del Re Drago"
+
+msgctxt "7684_Owner"
+msgid "Exchange Sticks for Prizes"
+msgstr "Scambia stick con premi"
+
+msgctxt "7696_Owner"
+msgid "Buy Mahjong Sticks"
+msgstr "Compra stick da mahjong"
+
+msgctxt "7708_Owner"
+msgid "Seiryu Cup Match"
+msgstr "Partita della Coppa Seiryu"
+
+msgctxt "7720_Owner"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "7732_Owner"
+msgid "100,000 Sticks"
+msgstr "100.000 stick"
+
+msgctxt "7744_Owner"
+msgid "25,000 Sticks"
+msgstr "25.000 stick"
+
+msgctxt "7756_Owner"
+msgid "10,000 Sticks"
+msgstr "10.000 stick"
+
+msgctxt "7768_Owner"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "7780_Owner"
+msgid "Sign Up"
+msgstr "Iscriviti"
+
+msgctxt "7792_Owner"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "7804_Owner"
+msgid "Play a Seiryu Cup Match"
+msgstr "Gioca una partita della Coppa Seiryu"
+
+msgctxt "7816_Owner"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "7828_Owner"
+msgid "Play a Seiryu Cup Match"
+msgstr "Gioca una partita della Coppa Seiryu"
+
+msgctxt "7840_Owner"
+msgid "Not Now"
+msgstr "Non ora"

@@ -1,0 +1,245 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "512"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "1016"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "12796"
+msgid "Chihiro"
+msgstr "Chihiro"
+
+msgctxt "12800"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "12804"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "12808"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "12812"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "12816"
+msgid "0"
+msgstr ""
+
+msgctxt "12820"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "12824"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "116_Chihiro"
+msgid "Hot spring dates are so fashionable."
+msgstr "Hot spring dates are so fashionable."
+
+msgctxt "128_Player"
+msgid "Um, I guess so."
+msgstr "Um, I guess so."
+
+msgctxt "140_Chihiro"
+msgid "Let's go in."
+msgstr "Let's go in."
+
+msgctxt "164_Chihiro"
+msgid "Hot spring dates are so fashionable."
+msgstr "Hot spring dates are so fashionable."
+
+msgctxt "176_Chihiro"
+msgid "Well, let's go in."
+msgstr "Well, let's go in."
+
+msgctxt "188_Player"
+msgid "Hold on a sec... Um, looks like I'm low on cash."
+msgstr "Hold on a sec... Um, looks like I'm low on cash."
+
+msgctxt "200_Chihiro"
+msgid "What? You are!?"
+msgstr "What? You are!?"
+
+msgctxt "212_Player"
+msgid "Yeah. Sorry."
+msgstr "Yeah. Sorry."
+
+msgctxt "224_Chihiro"
+msgid ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+msgstr ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+
+msgctxt "236_Player"
+msgid "(I better find some money...)"
+msgstr "(I better find some money...)"
+
+msgctxt "344_Chihiro"
+msgid "Amazing! You're good at table tennis too?"
+msgstr "Amazing! You're good at table tennis too?"
+
+msgctxt "356_Player"
+msgid "Yeah, I'm all right."
+msgstr "Yeah, I'm all right."
+
+msgctxt "368_Chihiro"
+msgid "That warmed me up nicely. A change of pace is good once in a while!"
+msgstr "That warmed me up nicely. A change of pace is good once in a while!"
+
+msgctxt "380_Talk_Ojigi"
+msgid "Well, I'll see you at the club."
+msgstr "Well, I'll see you at the club."
+
+msgctxt "404_Chihiro"
+msgid "That was really refreshing."
+msgstr "That was really refreshing."
+
+msgctxt "416_Player"
+msgid "Yeah, I agree."
+msgstr "Yeah, I agree."
+
+msgctxt "428_Chihiro"
+msgid "I had a great time. Ask me out again, okay?"
+msgstr "I had a great time. Ask me out again, okay?"
+
+msgctxt "452_Chihiro"
+msgid "I did it! I beat you!"
+msgstr "I did it! I beat you!"
+
+msgctxt "464_Player"
+msgid "Heh."
+msgstr "Heh."
+
+msgctxt "476_Chihiro"
+msgid "That warmed me up nicely. A change of pace is good once in a while!"
+msgstr "That warmed me up nicely. A change of pace is good once in a while!"
+
+msgctxt "488_Talk_Ojigi"
+msgid "Well, I'll see you at the club."
+msgstr "Well, I'll see you at the club."
+
+msgctxt "596_Chihiro"
+msgid "Hot spring dates are so fashionable."
+msgstr "Hot spring dates are so fashionable."
+
+msgctxt "608_Player"
+msgid "Um, I guess so."
+msgstr "Um, I guess so."
+
+msgctxt "620_Chihiro"
+msgid "Let's go in."
+msgstr "Let's go in."
+
+msgctxt "644_Chihiro"
+msgid "Hot spring dates are so fashionable."
+msgstr "Hot spring dates are so fashionable."
+
+msgctxt "656_Chihiro"
+msgid "Well, let's go in."
+msgstr "Well, let's go in."
+
+msgctxt "668_Player"
+msgid "Hold on a sec... Um, looks like I'm low on cash."
+msgstr "Hold on a sec... Um, looks like I'm low on cash."
+
+msgctxt "680_Chihiro"
+msgid "What? You are!?"
+msgstr "What? You are!?"
+
+msgctxt "692_Player"
+msgid "Yeah. Sorry."
+msgstr "Yeah. Sorry."
+
+msgctxt "704_Chihiro"
+msgid ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+msgstr ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+
+msgctxt "716_Player"
+msgid "(I better find some money...)"
+msgstr "(I better find some money...)"
+
+msgctxt "824_Chihiro"
+msgid "Amazing! You're good at table tennis too?"
+msgstr "Amazing! You're good at table tennis too?"
+
+msgctxt "836_Player"
+msgid "Yeah, I'm all right."
+msgstr "Yeah, I'm all right."
+
+msgctxt "848_Chihiro"
+msgid ""
+"I had a lotta fun! Wanna head to the club now? <Color:7>♥<Color:Default>"
+msgstr ""
+"I had a lotta fun! Wanna head to the club now? <Color:7>♥<Color:Default>"
+
+msgctxt "860_Player"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "884_Chihiro"
+msgid "That was really refreshing."
+msgstr "That was really refreshing."
+
+msgctxt "896_Player"
+msgid "Yeah, I agree."
+msgstr "Yeah, I agree."
+
+msgctxt "908_Chihiro"
+msgid ""
+"I had a lotta fun! Wanna head to the club now? <Color:7>♥<Color:Default>"
+msgstr ""
+"I had a lotta fun! Wanna head to the club now? <Color:7>♥<Color:Default>"
+
+msgctxt "920_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "944_Chihiro"
+msgid "I did it! I beat you!"
+msgstr "I did it! I beat you!"
+
+msgctxt "956_Player"
+msgid "Heh."
+msgstr "Heh."
+
+msgctxt "968_Chihiro"
+msgid "That warmed me up nicely. A change of pace is good once in a while!"
+msgstr "That warmed me up nicely. A change of pace is good once in a while!"
+
+msgctxt "980_Chihiro"
+msgid "Wanna go the club now?"
+msgstr "Wanna go the club now?"
+
+msgctxt "992_Player"
+msgid "Sure."
+msgstr "Sure."

@@ -1,0 +1,289 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "11284"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "11288"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "11292"
+msgid "キャバ育名前"
+msgstr "キャバ育名前"
+
+msgctxt "11296"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "11300"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "11304"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "11308"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "11312"
+msgid "P_aki_stand_tlk_yes"
+msgstr "P_aki_stand_tlk_yes"
+
+msgctxt "11316"
+msgid "SetF_nml_sitchr_sleep"
+msgstr "SetF_nml_sitchr_sleep"
+
+msgctxt "504_Player"
+msgid "You're not doing so well... You'll just have to try harder."
+msgstr "Non stai andando molto bene... Dovrai solo impegnarti di più."
+
+msgctxt "516_キャバ育名前"
+msgid "Okay, I will."
+msgstr "Ok, lo farò."
+
+msgctxt "540_Player"
+msgid ""
+"Good work out there tonight. I think you're getting the hang\r\n"
+"of things now."
+msgstr ""
+"Ottimo lavoro stasera. Penso che ci stai prendendo la mano\r\n"
+"adesso."
+
+msgctxt "552_キャバ育名前"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "576_Player"
+msgid "Great job out there tonight. I could tell you were giving it your all."
+msgstr "Ottimo lavoro stasera. Si vedeva che stavi dando il massimo."
+
+msgctxt "588_キャバ育名前"
+msgid "Thank you!"
+msgstr "Grazie!"
+
+msgctxt "624_Player"
+msgid ""
+"Let's work on your presentation. Makeup, hair, posture...\r\n"
+"All of these things send certain signals to a man."
+msgstr ""
+"Lavoriamo sulla tua presentazione. Trucco, capelli, postura...\r\n"
+"Tutte queste cose mandano certi segnali a un uomo."
+
+msgctxt "636_キャバ育名前"
+msgid "That does sound good. I'll be taking mental notes."
+msgstr "Sembra un'ottima idea. Prenderò appunti mentali."
+
+msgctxt "660_Player"
+msgid "You're doing very well. Good job."
+msgstr "Stai andando molto bene. Ottimo lavoro."
+
+msgctxt "672_キャバ育名前"
+msgid "Thank you. It's all thanks to your help!"
+msgstr "Grazie. È tutto merito del suo aiuto!"
+
+msgctxt "696_Player"
+msgid "Hmm... You still need work."
+msgstr "Mmm... Devi ancora lavorarci un po'."
+
+msgctxt "708_キャバ育名前"
+msgid "I'm sorry... I'll try harder next time."
+msgstr "Mi dispiace... La prossima volta mi impegnerò di più."
+
+msgctxt "732_Player"
+msgid ""
+"Okay, so today we're going to study a little trivia. No\r\n"
+"matter what the conversation, it's always important to be\r\n"
+"smart about what you say. \"Knowledge is power,\" right?"
+msgstr ""
+"Ok, oggi studieremo un po' di cultura generale. Non\r\n"
+"importa quale sia la conversazione, è sempre importante essere\r\n"
+"intelligenti in ciò che si dice. 'Sapere è potere', giusto?"
+
+msgctxt "744_キャバ育名前"
+msgid "That does sound good. I'll be taking mental notes."
+msgstr "Sembra un'ottima idea. Prenderò appunti mentali."
+
+msgctxt "768_Player"
+msgid "You're doing very well. Good job."
+msgstr "Stai andando molto bene. Ottimo lavoro."
+
+msgctxt "780_キャバ育名前"
+msgid "Thank you. It's all thanks to your help."
+msgstr "Grazie. È tutto merito del suo aiuto."
+
+msgctxt "804_Player"
+msgid "Hmm... You still need work."
+msgstr "Mmm... Devi ancora lavorarci un po'."
+
+msgctxt "816_キャバ育名前"
+msgid "I'm sorry... I'll try harder next time."
+msgstr "Mi dispiace... La prossima volta mi impegnerò di più."
+
+msgctxt "840_Player"
+msgid ""
+"Right now, I'd like to give you some conversation tips to\r\n"
+"help you captivate the customers. Sound good?"
+msgstr ""
+"Adesso, vorrei darti qualche consiglio di conversazione per\r\n"
+"aiutarti a conquistare i clienti. Ti va bene?"
+
+msgctxt "852_キャバ育名前"
+msgid "That does sound good. I'll be taking mental notes."
+msgstr "Sembra un'ottima idea. Prenderò appunti mentali."
+
+msgctxt "876_Player"
+msgid "You're doing very well. Good job."
+msgstr "Stai andando molto bene. Ottimo lavoro."
+
+msgctxt "888_キャバ育名前"
+msgid "Thank you. It's all thanks to your help."
+msgstr "Grazie. È tutto merito del suo aiuto."
+
+msgctxt "912_Player"
+msgid "Hmm... You still need work."
+msgstr "Mmm... Devi ancora lavorarci un po'."
+
+msgctxt "924_キャバ育名前"
+msgid "I'm sorry... I'll try harder next time."
+msgstr "Mi dispiace... La prossima volta mi impegnerò di più."
+
+msgctxt "948_Player"
+msgid "I think you should spend your downtime doing whatever you like. Relax."
+msgstr ""
+"Penso che dovresti passare il tuo tempo libero facendo quello che ti pare. "
+"Rilassati."
+
+msgctxt "960_キャバ育名前"
+msgid "Really? Thanks!"
+msgstr "Davvero? Grazie!"
+
+msgctxt "984_Player"
+msgid "Did you make the most of your time? You seem pretty relaxed now."
+msgstr "Hai sfruttato al meglio il tuo tempo? Sembri piuttosto rilassata ora."
+
+msgctxt "996_キャバ育名前"
+msgid "Yes! I feel a lot better."
+msgstr "Sì! Mi sento molto meglio."
+
+msgctxt "1020_Player"
+msgid "Well? Had a good rest?"
+msgstr "Allora? Ti sei riposata bene?"
+
+msgctxt "1032_キャバ育名前"
+msgid "No, I couldn't relax for some reason..."
+msgstr "No, per qualche motivo non sono riuscita a rilassarmi..."
+
+msgctxt "1056_Player"
+msgid ""
+"Today, we're going to work on your weak points. Now I know I\r\n"
+"might come off a little blunt, but bear with it, okay?"
+msgstr ""
+"Oggi lavoreremo sui tuoi punti deboli. So che potrei\r\n"
+"sembrare un po' brusco, ma cerca di sopportarlo, ok?"
+
+msgctxt "1068_キャバ育名前"
+msgid "All right..."
+msgstr "Va bene..."
+
+msgctxt "1092_Player"
+msgid ""
+"All right, now think about what I told you and give it your full effort next"
+" time."
+msgstr ""
+"Va bene, ora pensa a quello che ti ho detto e impegnati al massimo la "
+"prossima volta."
+
+msgctxt "1104_キャバ育名前"
+msgid "I will. Thank you!"
+msgstr "Lo farò. Grazie!"
+
+msgctxt "1128_Player"
+msgid "(I don't think any of that really got through to her...)"
+msgstr "(Non credo che abbia capito molto...)"
+
+msgctxt "1140_キャバ育名前"
+msgid "......"
+msgstr "......"
+
+msgctxt "1164_Player"
+msgid ""
+"I think you should take some time off for yourself and relax for a bit."
+msgstr "Penso che dovresti prenderti un po' di tempo per te e rilassarti."
+
+msgctxt "1176_キャバ育名前"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "1200_Player"
+msgid "How was it? Did you get some relaxing in?"
+msgstr "Com'è andata? Ti sei rilassata un po'?"
+
+msgctxt "1212_キャバ育名前"
+msgid "Oh, yes! Thank you!"
+msgstr "Oh, sì! Grazie!"
+
+msgctxt "1236_Player"
+msgid "Did you have a good break?"
+msgstr "Ti sei riposata bene?"
+
+msgctxt "1248_キャバ育名前"
+msgid "Not really..."
+msgstr "Non proprio..."
+
+msgctxt "1272_Player"
+msgid ""
+"Today, we're going to find a way to keep you motivated and positive. Sound "
+"good?"
+msgstr ""
+"Oggi troveremo un modo per mantenerti motivata e positiva. Ti va bene?"
+
+msgctxt "1284_キャバ育名前"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "1308_Player"
+msgid "Well? How's that for positive thinking?"
+msgstr "Allora? Che ne dici per pensare positivo?"
+
+msgctxt "1320_キャバ育名前"
+msgid "It's perfect! Thanks so much!"
+msgstr "È perfetto! Grazie mille!"
+
+msgctxt "1344_Player"
+msgid "What do you think? Feeling positive?"
+msgstr "Che ne pensi? Ti senti positiva?"
+
+msgctxt "1356_キャバ育名前"
+msgid "No, not really..."
+msgstr "No, non proprio..."
+
+msgctxt "1500_キャバ育名前"
+msgid ""
+"I'm sorry for missing work without leaving notice... I just didn't feel up "
+"to it."
+msgstr ""
+"Mi dispiace per essermi assentata dal lavoro senza preavviso... Non me la "
+"sentivo."
+
+msgctxt "1512_Player"
+msgid ""
+"All right, just be more careful next time. I'll do my part\r\n"
+"to give you the best guidance I can from here on out."
+msgstr ""
+"Va bene, la prossima volta fai più attenzione. Farò del mio meglio\r\n"
+"per darti la migliore guida possibile d'ora in poi."

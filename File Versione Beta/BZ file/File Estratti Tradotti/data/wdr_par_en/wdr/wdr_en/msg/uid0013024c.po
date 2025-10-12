@@ -1,0 +1,98 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2540"
+msgid "Officer"
+msgstr "Ufficiale"
+
+msgctxt "2544"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "2548"
+msgid "Gun-toting Foreigner"
+msgstr "Gun-toting Foreigner"
+
+msgctxt "2552"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "2556"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "2560"
+msgid "Idle"
+msgstr "Idle"
+
+msgctxt "2564"
+msgid "Knife-wielding Foreigner"
+msgstr "Knife-wielding Foreigner"
+
+msgctxt "2568"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "84_Officer"
+msgid "Lay down your concealed weapons and surrender yourselves!"
+msgstr "Lay down your concealed weapons and surrender yourselves!"
+
+msgctxt "96_Gun-toting Foreigner"
+msgid "Get out of way! Or we kill you!"
+msgstr "Get out of way! Or we kill you!"
+
+msgctxt "108_Tanimura"
+msgid "Hey, you guys okay?"
+msgstr "Hey, you guys okay?"
+
+msgctxt "120_Officer"
+msgid ""
+"Oh, Detective Tanimura! Glad you're here. They don't seem to understand a "
+"lot of Japanese. We're having some trouble..."
+msgstr ""
+"Oh, Detective Tanimura! Glad you're here. They don't seem to understand a "
+"lot of Japanese. We're having some trouble..."
+
+msgctxt "132_Tanimura"
+msgid "All right, I'll see what I can do. Can you shoo off the rubberneckers?"
+msgstr ""
+"All right, I'll see what I can do. Can you shoo off the rubberneckers?"
+
+msgctxt "144_Tanimura"
+msgid "[Hey, you guys. How about you give it a rest?]"
+msgstr "[Hey, you guys. How about you give it a rest?]"
+
+msgctxt "156_Gun-toting Foreigner"
+msgid ""
+"[Bah! We know you Japanese police can't even shoot your guns or it'd be "
+"against the law!]"
+msgstr ""
+"[Bah! We know you Japanese police can't even shoot your guns or it'd be "
+"against the law!]"
+
+msgctxt "168_Knife-wielding Foreigner"
+msgid "[What a bunch of cowards! Step aside!]"
+msgstr "[What a bunch of cowards! Step aside!]"
+
+msgctxt "180_Tanimura"
+msgid ""
+"[Hey, don't think I'm the same as you guys. You aren't tough at all without "
+"your guns.]"
+msgstr ""
+"[Hey, don't think I'm the same as you guys. You aren't tough at all without "
+"your guns.]"
+
+msgctxt "192_Gun-toting Foreigner"
+msgid "[The hell did you say!? I'll end you right now!]"
+msgstr "[The hell did you say!? I'll end you right now!]"

@@ -1,0 +1,120 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3868"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "3872"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3876"
+msgid "Hamazaki"
+msgstr "Hamazaki"
+
+msgctxt "3880"
+msgid "Woman"
+msgstr "Donna"
+
+msgctxt "3884"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "3888"
+msgid "Policeman"
+msgstr "Poliziotto"
+
+msgctxt "3892"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "3896"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "116_Kiryu"
+msgid "You sure about this, Hamazaki?"
+msgstr "Sei sicuro, Hamazaki?"
+
+msgctxt "128_Hamazaki"
+msgid ""
+"One hundred percent. The only way I'm reuniting with Saejima\r\n"
+"is when we're both back in the slammer."
+msgstr ""
+"Sicuro al cento per cento. L'unico modo in cui potrò riunirmi a Saejima\r\n"
+"sarà quando saremo entrambi di nuovo in gattabuia."
+
+msgctxt "140_Kiryu"
+msgid "Hamazaki..."
+msgstr "Hamazaki..."
+
+msgctxt "152_Woman"
+msgid "Please, why won't you listen to me!?"
+msgstr "Per favore, perché non mi ascolta!?"
+
+msgctxt "164_Woman"
+msgid "My brother was sent to a prison in Okinawa! I know he was!"
+msgstr ""
+"Mio fratello è stato mandato in una prigione a Okinawa! So che è così!"
+
+msgctxt "176_Policeman"
+msgid ""
+"You can say that all you want, lady, but I've never heard of\r\n"
+"this Penitentiary No. 2 you keep going on about."
+msgstr ""
+"Può dirlo quanto vuole, signora, ma non ho mai sentito parlare\r\n"
+"di questo Penitenziario n. 2 di cui continua a parlare."
+
+msgctxt "188_Policeman"
+msgid "Now go home already!"
+msgstr "Ora vada a casa!"
+
+msgctxt "200_Woman"
+msgid "No, please! You have to listen to me! I'm begging you!"
+msgstr "No, la prego! Deve ascoltarmi! La scongiuro!"
+
+msgctxt "212_Policeman"
+msgid "We already have listened!"
+msgstr "L'abbiamo già ascoltata!"
+
+msgctxt "224_Policeman"
+msgid "*sigh* Listen."
+msgstr "*sospiro* Ascolti."
+
+msgctxt "236_Policeman"
+msgid ""
+"I already told you, we looked through the logs of every\r\n"
+"prisoner shipped down here. Your brother isn't, and has\r\n"
+"never been, in an Okinawa prison."
+msgstr ""
+"Gliel'ho già detto, abbiamo controllato i registri di ogni\r\n"
+"prigioniero trasferito qui. Suo fratello non è, e non è\r\n"
+"mai stato, in una prigione di Okinawa."
+
+msgctxt "248_Woman"
+msgid ""
+"He is, I just know he is! Please, check for Taiga Saejima\r\n"
+"one more time! Please, officer!"
+msgstr ""
+"C'è, lo so che c'è! Per favore, cerchi Taiga Saejima\r\n"
+"ancora una volta! La prego, agente!"
+
+msgctxt "260_Kiryu"
+msgid "What!?"
+msgstr "Cosa!?"
+
+msgctxt "272_Hamazaki"
+msgid "Huh!?"
+msgstr "Eh!?"

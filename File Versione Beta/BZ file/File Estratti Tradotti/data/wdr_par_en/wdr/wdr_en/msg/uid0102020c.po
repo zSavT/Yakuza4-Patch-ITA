@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-19\n"
+"PO-Revision-Date: 2025-09-30 09:31\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid0102020c.po\n"
+"X-Crowdin-File-ID: 60566\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+
+msgctxt "1916"
+msgid "Hatsushiba"
+msgstr "Hatsushiba"
+
+msgctxt "1920"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1924"
+msgid "Kido"
+msgstr "Kido"
+
+msgctxt "1928"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1932"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "56_Hatsushiba"
+msgid ""
+"I was doing Shibata a favor. He wanted me to help find some bitch named "
+"Lily."
+msgstr ""
+"Stavo facendo un favore a Shibata. Voleva che trovassi una zoccola di nome "
+"Lily."
+
+msgctxt "68_Akiyama"
+msgid "Did you just say Lily?"
+msgstr "Hai appena detto Lily?"
+
+msgctxt "80_Kido"
+msgid "What's Shibata want with her?"
+msgstr "Cosa vuole Shibata da lei?"
+
+msgctxt "92_Hatsushiba"
+msgid ""
+"Hell if I know, but he looked really pissed when he was talking about her."
+msgstr "Come se lo sapessi, ma sembrava scocciato mentre parlava di lei."
+
+msgctxt "104_Akiyama"
+msgid "So that's why you took my registry?"
+msgstr "Per questo hai preso il mio registro?"
+
+msgctxt "116_Hatsushiba"
+msgid "Yeah. We knew she'd come to see you."
+msgstr "Già. Sapevamo sarebbe venuta da te."
+
+msgctxt "128_Hatsushiba"
+msgid "If she came as a client, you'd have her contact info in your registry."
+msgstr ""
+"Se fosse venuta come cliente, avresti avuto il suo nome nel tuo registro."
+
+msgctxt "140_Kido"
+msgid "That still doesn't explain why Shibata wants her so badly."
+msgstr "Questo non spiega ancora perché Shibata la stia cercando."
+
+msgctxt "152_Akiyama"
+msgid "Hm..."
+msgstr "Hm..."

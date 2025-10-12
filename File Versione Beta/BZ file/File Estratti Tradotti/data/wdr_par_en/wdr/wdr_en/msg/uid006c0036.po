@@ -1,0 +1,6094 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "15648"
+msgid "Thank you! <Color:7>♥<Color:Default>"
+msgstr "Thank you! <Color:7>♥<Color:Default>"
+
+msgctxt "15696"
+msgid "Why are you giving me a gift like that?"
+msgstr "Why are you giving me a gift like that?"
+
+msgctxt "15720"
+msgid " Is this a joke or something?"
+msgstr "Is this a joke or something?"
+
+msgctxt "16188"
+msgid "Excuse me!"
+msgstr "Excuse me!"
+
+msgctxt "16344"
+msgid "Here you are."
+msgstr "Here you are."
+
+msgctxt "16812"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "16872"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "16932"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "16992"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "17148"
+msgid "I see... Well, if you do hear something, be sure to let me know, okay?"
+msgstr ""
+"I see... Well, if you do hear something, be sure to let me know, okay?"
+
+msgctxt "213760"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "213764"
+msgid "P_sitsofaR_tlk_yes"
+msgstr "P_sitsofaR_tlk_yes"
+
+msgctxt "213768"
+msgid "松岡里緒奈：源氏名"
+msgstr "松岡里緒奈：源氏名"
+
+msgctxt "213772"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr "F_cab_sitsofa_tlk_yes"
+
+msgctxt "213776"
+msgid "F_cab_sitsofa_tlk_thinkA"
+msgstr "F_cab_sitsofa_tlk_thinkA"
+
+msgctxt "213780"
+msgid "P_sitsofaR_tlk_quest"
+msgstr "P_sitsofaR_tlk_quest"
+
+msgctxt "213784"
+msgid "F_cab_sitsofa_tlk_commentA"
+msgstr "F_cab_sitsofa_tlk_commentA"
+
+msgctxt "213788"
+msgid "P_sitsofaR_tlk_no"
+msgstr "P_sitsofaR_tlk_no"
+
+msgctxt "213792"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr "F_cab_sitsofa_tlk_noA"
+
+msgctxt "213796"
+msgid "P_sitsofaR_tlk_smile"
+msgstr "P_sitsofaR_tlk_smile"
+
+msgctxt "213800"
+msgid "F_cab_sitsofa_tlk_gakkariA"
+msgstr "F_cab_sitsofa_tlk_gakkariA"
+
+msgctxt "213804"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "213808"
+msgid "P_sitsofaR_tlk_comment"
+msgstr "P_sitsofaR_tlk_comment"
+
+msgctxt "213812"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr "F_cab_sitsofa_tlk_angry"
+
+msgctxt "213816"
+msgid "F_cab_sitsofa_tlk_akubi"
+msgstr "F_cab_sitsofa_tlk_akubi"
+
+msgctxt "213820"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr "F_cab_sitsofa_tlk_suprise"
+
+msgctxt "213824"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr "F_cab_sitsofa_talk_smileA"
+
+msgctxt "213828"
+msgid "F_cab_sitsofa_sp2_sync_hiza"
+msgstr "F_cab_sitsofa_sp2_sync_hiza"
+
+msgctxt "213832"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr "F_cab_sitsofa_tlk_tereruA"
+
+msgctxt "213836"
+msgid "F_cab_sitsofa_sp1_sync_yop"
+msgstr "F_cab_sitsofa_sp1_sync_yop"
+
+msgctxt "213840"
+msgid "P_sitsofaR_tlk_think"
+msgstr "P_sitsofaR_tlk_think"
+
+msgctxt "213844"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr "F_cab_sitsofa_tlk_kamaeAtoB"
+
+msgctxt "213848"
+msgid "F_cab_sitsofa_tlk_kamaeBtoA"
+msgstr "F_cab_sitsofa_tlk_kamaeBtoA"
+
+msgctxt "213852"
+msgid "F_cab_sitsofa_sp6_sync_kami"
+msgstr "F_cab_sitsofa_sp6_sync_kami"
+
+msgctxt "213856"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr "F_cab_sitsofa_tlk_cry"
+
+msgctxt "213860"
+msgid "P_sitsofaR_tlk_angry"
+msgstr "P_sitsofaR_tlk_angry"
+
+msgctxt "213864"
+msgid "P_sitsofaR_tlk_ase"
+msgstr "P_sitsofaR_tlk_ase"
+
+msgctxt "213868"
+msgid "F_cab_sitsofa_tlk_refuse"
+msgstr "F_cab_sitsofa_tlk_refuse"
+
+msgctxt "213872"
+msgid "P_sitsofaR_tlk_surp"
+msgstr "P_sitsofaR_tlk_surp"
+
+msgctxt "213876"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr "F_cab_sitsofa_sp5_sync_laugh"
+
+msgctxt "213880"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr "F_cab_stand_tlk_ojigi_01"
+
+msgctxt "213884"
+msgid "F_cab_stand_tlk_byeA"
+msgstr "F_cab_stand_tlk_byeA"
+
+msgctxt "213888"
+msgid "F_cab_sitsofa_tlk_ojigiA"
+msgstr "F_cab_sitsofa_tlk_ojigiA"
+
+msgctxt "213892"
+msgid "F_cab_sitsofa_sync_order"
+msgstr "F_cab_sitsofa_sync_order"
+
+msgctxt "213896"
+msgid "M_shp_sitgrd_sync_order"
+msgstr "M_shp_sitgrd_sync_order"
+
+msgctxt "213900"
+msgid "Attendant"
+msgstr "Attendant"
+
+msgctxt "213904"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "213908"
+msgid "2d_cf_meishi_ki_hiyori00"
+msgstr "2d_cf_meishi_ki_hiyori00"
+
+msgctxt "213912"
+msgid "2d_cf_meishi_ki_hiyori01"
+msgstr "2d_cf_meishi_ki_hiyori01"
+
+msgctxt "213916"
+msgid "F_cab_stand_sp13_sync_yubi_st"
+msgstr "F_cab_stand_sp13_sync_yubi_st"
+
+msgctxt "213920"
+msgid "P_stand_sp13_sync_yubi_st"
+msgstr "P_stand_sp13_sync_yubi_st"
+
+msgctxt "213924"
+msgid "F_cab_stand_sp15_sync_yubi_ed"
+msgstr "F_cab_stand_sp15_sync_yubi_ed"
+
+msgctxt "213928"
+msgid "P_stand_sp15_sync_yubi_ed"
+msgstr "P_stand_sp15_sync_yubi_ed"
+
+msgctxt "213932"
+msgid "F_cab_stand_sp14_sync_hoho_st"
+msgstr "F_cab_stand_sp14_sync_hoho_st"
+
+msgctxt "213936"
+msgid "P_stand_sp14_sync_hoho_st"
+msgstr "P_stand_sp14_sync_hoho_st"
+
+msgctxt "213940"
+msgid "F_cab_stand_sp16_sync_hoho_ed"
+msgstr "F_cab_stand_sp16_sync_hoho_ed"
+
+msgctxt "213944"
+msgid "P_stand_sp16_sync_hoho_ed"
+msgstr "P_stand_sp16_sync_hoho_ed"
+
+msgctxt "213948"
+msgid "F_cab_stand_sp12_sync_mune_st"
+msgstr "F_cab_stand_sp12_sync_mune_st"
+
+msgctxt "213952"
+msgid "P_stand_sp12_sync_mune_st"
+msgstr "P_stand_sp12_sync_mune_st"
+
+msgctxt "213956"
+msgid "F_cab_stand_sp12_sync_mune_ed"
+msgstr "F_cab_stand_sp12_sync_mune_ed"
+
+msgctxt "213960"
+msgid "P_stand_sp12_sync_mune_ed"
+msgstr "P_stand_sp12_sync_mune_ed"
+
+msgctxt "213964"
+msgid "F_cab_stand_sync_dakiA_st"
+msgstr "F_cab_stand_sync_dakiA_st"
+
+msgctxt "213968"
+msgid "P_stand_sync_dakiA_st"
+msgstr "P_stand_sync_dakiA_st"
+
+msgctxt "213972"
+msgid "F_cab_stand_sync_dakiA_ed"
+msgstr "F_cab_stand_sync_dakiA_ed"
+
+msgctxt "213976"
+msgid "P_stand_sync_dakiA_ed"
+msgstr "P_stand_sync_dakiA_ed"
+
+msgctxt "213980"
+msgid "F_cab_stand_tlk_byeB"
+msgstr "F_cab_stand_tlk_byeB"
+
+msgctxt "213984"
+msgid "F_cab_sitsofa_tlk_appealA"
+msgstr "F_cab_sitsofa_tlk_appealA"
+
+msgctxt "4020_Kiryu"
+msgid "How did you start working as a hostess?"
+msgstr "How did you start working as a hostess?"
+
+msgctxt "4032_松岡里緒奈：源氏名"
+msgid "Well... I ran away from home."
+msgstr "Well... I ran away from home."
+
+msgctxt "4044_松岡里緒奈：源氏名"
+msgid ""
+"I had a big fight with my dad and told him that I couldn't live under his "
+"roof anymore."
+msgstr ""
+"I had a big fight with my dad and told him that I couldn't live under his "
+"roof anymore."
+
+msgctxt "4056_松岡里緒奈：源氏名"
+msgid ""
+"So I moved out on my own. I'm still in college, so this seemed like the best"
+" job I could handle in my spare time."
+msgstr ""
+"So I moved out on my own. I'm still in college, so this seemed like the best"
+" job I could handle in my spare time."
+
+msgctxt "4068_Kiryu"
+msgid "A fight with your father, huh? What was it about?"
+msgstr "A fight with your father, huh? What was it about?"
+
+msgctxt "4080_松岡里緒奈：源氏名"
+msgid "My cell phone, actually. My dad's so stubborn and strict!"
+msgstr "My cell phone, actually. My dad's so stubborn and strict!"
+
+msgctxt "4092_松岡里緒奈：源氏名"
+msgid "I found out that he'd been reading my emails while I was asleep!"
+msgstr "I found out that he'd been reading my emails while I was asleep!"
+
+msgctxt "4104_Kiryu"
+msgid "That's not good."
+msgstr "That's not good."
+
+msgctxt "4116_松岡里緒奈：源氏名"
+msgid ""
+"I know! It's unbelievable, right? When I asked him why, he said it was his "
+"duty to make sure I wasn't falling in with a bad crowd!"
+msgstr ""
+"I know! It's unbelievable, right? When I asked him why, he said it was his "
+"duty to make sure I wasn't falling in with a bad crowd!"
+
+msgctxt "4128_松岡里緒奈：源氏名"
+msgid ""
+"So we had a big argument, and I ended up leaving home. I'll never speak to "
+"him again!"
+msgstr ""
+"So we had a big argument, and I ended up leaving home. I'll never speak to "
+"him again!"
+
+msgctxt "4140_Kiryu"
+msgid "A fight with your father... That's funny."
+msgstr "A fight with your father... That's funny."
+
+msgctxt "4152_松岡里緒奈：源氏名"
+msgid "Well, I didn't think so. I was done with him."
+msgstr "Well, I didn't think so. I was done with him."
+
+msgctxt "4164_Kiryu"
+msgid "But isn't it tough being on your own?"
+msgstr "But isn't it tough being on your own?"
+
+msgctxt "4176_松岡里緒奈：源氏名"
+msgid "Nope. I'm fine by myself."
+msgstr "Nope. I'm fine by myself."
+
+msgctxt "4188_松岡里緒奈：源氏名"
+msgid "I bet he's happier without me, too."
+msgstr "I bet he's happier without me, too."
+
+msgctxt "4200_Kiryu"
+msgid "I see. Well, you'll have to work hard to support yourself."
+msgstr "I see. Well, you'll have to work hard to support yourself."
+
+msgctxt "4212_松岡里緒奈：源氏名"
+msgid "I will. And you can help me out by requesting me!"
+msgstr "I will. And you can help me out by requesting me!"
+
+msgctxt "4224_Kiryu"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "4236_Kiryu"
+msgid "But don't you want to make up with him?"
+msgstr "But don't you want to make up with him?"
+
+msgctxt "4248_松岡里緒奈：源氏名"
+msgid "Not at all! Why would I want to do that?"
+msgstr "Not at all! Why would I want to do that?"
+
+msgctxt "4260_Kiryu"
+msgid "Maybe you're overreacting about the whole thing."
+msgstr "Maybe you're overreacting about the whole thing."
+
+msgctxt "4272_松岡里緒奈：源氏名"
+msgid "Hey, you don't know a thing about me and my dad."
+msgstr "Hey, you don't know a thing about me and my dad."
+
+msgctxt "4284_松岡里緒奈：源氏名"
+msgid ""
+"You're a customer! You have no right to say anything about my private life!"
+msgstr ""
+"You're a customer! You have no right to say anything about my private life!"
+
+msgctxt "4296_Kiryu"
+msgid "Sorry."
+msgstr "Sorry."
+
+msgctxt "4308_松岡里緒奈：源氏名"
+msgid "I shouldn't get too upset about it anyway..."
+msgstr "I shouldn't get too upset about it anyway..."
+
+msgctxt "4320_Kiryu"
+msgid "If he bothers you anymore, just tell me. I'll protect you."
+msgstr "If he bothers you anymore, just tell me. I'll protect you."
+
+msgctxt "4332_松岡里緒奈：源氏名"
+msgid "Huh? You think you can handle my dad? He's pretty strong, you know."
+msgstr "Huh? You think you can handle my dad? He's pretty strong, you know."
+
+msgctxt "4344_Kiryu"
+msgid "I'll be fine."
+msgstr "I'll be fine."
+
+msgctxt "4356_松岡里緒奈：源氏名"
+msgid "Okay. If he gives me any trouble, maybe I'll give you a call."
+msgstr "Okay. If he gives me any trouble, maybe I'll give you a call."
+
+msgctxt "4368_Kiryu"
+msgid ""
+"I was joking. I don't want to get involved in family trouble. That's "
+"something you need to solve on your own, you know."
+msgstr ""
+"I was joking. I don't want to get involved in family trouble. That's "
+"something you need to solve on your own, you know."
+
+msgctxt "4380_松岡里緒奈：源氏名"
+msgid ""
+"Are you serious? That's disappointing... I don't need you to lecture me."
+msgstr ""
+"Are you serious? That's disappointing... I don't need you to lecture me."
+
+msgctxt "4392_松岡里緒奈：源氏名"
+msgid "I'm going to college, you know. I'm majoring in physical education."
+msgstr "I'm going to college, you know. I'm majoring in physical education."
+
+msgctxt "4404_Kiryu"
+msgid "Is that so?"
+msgstr "È così?"
+
+msgctxt "4416_松岡里緒奈：源氏名"
+msgid "Yep! I'm a pretty good athlete."
+msgstr "Yep! I'm a pretty good athlete."
+
+msgctxt "4428_松岡里緒奈：源氏名"
+msgid "I want to become a high school P.E. teacher."
+msgstr "I want to become a high school P.E. teacher."
+
+msgctxt "4440_Kiryu"
+msgid ""
+"That means you'll need a teaching license. I bet your classes'll be pretty "
+"tough."
+msgstr ""
+"That means you'll need a teaching license. I bet your classes'll be pretty "
+"tough."
+
+msgctxt "4452_松岡里緒奈：源氏名"
+msgid ""
+"Yeah. I can't afford to party anymore. I goofed off too much during my "
+"freshman year, so I need to watch my grades."
+msgstr ""
+"Yeah. I can't afford to party anymore. I goofed off too much during my "
+"freshman year, so I need to watch my grades."
+
+msgctxt "4464_松岡里緒奈：源氏名"
+msgid "I work hard every day, but it's worth it to make my dreams come true."
+msgstr "I work hard every day, but it's worth it to make my dreams come true."
+
+msgctxt "4476_松岡里緒奈：源氏名"
+msgid "Do you think I'd make a good teacher?"
+msgstr "Do you think I'd make a good teacher?"
+
+msgctxt "4488_Kiryu"
+msgid "A cute girl like you? I know the boys would love you."
+msgstr "A cute girl like you? I know the boys would love you."
+
+msgctxt "4500_松岡里緒奈：源氏名"
+msgid "You think so?"
+msgstr "You think so?"
+
+msgctxt "4512_Kiryu"
+msgid "Definitely."
+msgstr "Definitely."
+
+msgctxt "4524_松岡里緒奈：源氏名"
+msgid "Hmm. What would you do if you were a boy in my class?"
+msgstr "Hmm. What would you do if you were a boy in my class?"
+
+msgctxt "4536_Kiryu"
+msgid "I'd probably try to ask you out."
+msgstr "I'd probably try to ask you out."
+
+msgctxt "4548_松岡里緒奈：源氏名"
+msgid ""
+"Haha! And I could never go out with one of my students, so I'd have to turn "
+"you down. Gently, of course. <Color:7>♥<Color:Default>"
+msgstr ""
+"Haha! And I could never go out with one of my students, so I'd have to turn "
+"you down. Gently, of course. <Color:7>♥<Color:Default>"
+
+msgctxt "4560_Kiryu"
+msgid "Hehehe."
+msgstr "Eheh."
+
+msgctxt "4572_Kiryu"
+msgid "Are you sure you can handle being a teacher?"
+msgstr "Are you sure you can handle being a teacher?"
+
+msgctxt "4584_松岡里緒奈：源氏名"
+msgid "Of course! I'll whip those kids into shape in no time!"
+msgstr "Of course! I'll whip those kids into shape in no time!"
+
+msgctxt "4596_Kiryu"
+msgid ""
+"Well, I'll admit a teacher like you would've made school a lot more fun."
+msgstr ""
+"Well, I'll admit a teacher like you would've made school a lot more fun."
+
+msgctxt "4608_松岡里緒奈：源氏名"
+msgid "I know! I would've liked a teacher like me too!"
+msgstr "I know! I would've liked a teacher like me too!"
+
+msgctxt "4620_松岡里緒奈：源氏名"
+msgid "Hey, I've got an idea!"
+msgstr "Hey, I've got an idea!"
+
+msgctxt "4632_松岡里緒奈：源氏名"
+msgid ""
+"Why don't we do a little role-playing? I'll be the teacher, and you'll be my"
+" student."
+msgstr ""
+"Why don't we do a little role-playing? I'll be the teacher, and you'll be my"
+" student."
+
+msgctxt "4644_Kiryu"
+msgid "I think I'll pass..."
+msgstr "I think I'll pass..."
+
+msgctxt "4656_Kiryu"
+msgid ""
+"You think a hostess can be a good teacher? Seems a little strange if you ask"
+" me."
+msgstr ""
+"You think a hostess can be a good teacher? Seems a little strange if you ask"
+" me."
+
+msgctxt "4668_松岡里緒奈：源氏名"
+msgid "What does being a hostess have to do with teaching?"
+msgstr "What does being a hostess have to do with teaching?"
+
+msgctxt "4680_Kiryu"
+msgid ""
+"The parents would probably worry about having a hostess teach their kids."
+msgstr ""
+"The parents would probably worry about having a hostess teach their kids."
+
+msgctxt "4692_松岡里緒奈：源氏名"
+msgid ""
+"But I'm just working here temporarily! I won't be working here when I'm a "
+"teacher."
+msgstr ""
+"But I'm just working here temporarily! I won't be working here when I'm a "
+"teacher."
+
+msgctxt "4704_Kiryu"
+msgid ""
+"Well, then will you be able to lecture your kids if you catch them partying?"
+msgstr ""
+"Well, then will you be able to lecture your kids if you catch them partying?"
+
+msgctxt "4716_松岡里緒奈：源氏名"
+msgid ""
+"What? Well... Hmm... I did do a lot of partying myself, and I hated it when "
+"adults lectured me..."
+msgstr ""
+"What? Well... Hmm... I did do a lot of partying myself, and I hated it when "
+"adults lectured me..."
+
+msgctxt "4728_Kiryu"
+msgid ""
+"You have to be able to separate your personal life from your "
+"responsibilities."
+msgstr ""
+"You have to be able to separate your personal life from your "
+"responsibilities."
+
+msgctxt "4740_Kiryu"
+msgid "If you can't do that, I don't think you'll make a good teacher."
+msgstr "If you can't do that, I don't think you'll make a good teacher."
+
+msgctxt "4752_松岡里緒奈：源氏名"
+msgid "You're right. This is more difficult than I thought..."
+msgstr "You're right. This is more difficult than I thought..."
+
+msgctxt "4764_松岡里緒奈：源氏名"
+msgid "Kiryu-san, are you single?"
+msgstr "Kiryu-san, are you single?"
+
+msgctxt "4776_Kiryu"
+msgid "Yes."
+msgstr "Sì."
+
+msgctxt "4788_松岡里緒奈：源氏名"
+msgid "Don't you get lonely?"
+msgstr "Don't you get lonely?"
+
+msgctxt "4800_Kiryu"
+msgid ""
+"Well, yeah. I'd be lying if I said no. Sometimes I want to be around people."
+msgstr ""
+"Well, yeah. I'd be lying if I said no. Sometimes I want to be around people."
+
+msgctxt "4812_松岡里緒奈：源氏名"
+msgid ""
+"I know what you mean... It hasn't been that long since I started living "
+"alone, and I get pretty lonely sometimes."
+msgstr ""
+"I know what you mean... It hasn't been that long since I started living "
+"alone, and I get pretty lonely sometimes."
+
+msgctxt "4824_松岡里緒奈：源氏名"
+msgid ""
+"When I'm in my apartment eating dinner all alone, I feel like the only "
+"person in the world."
+msgstr ""
+"When I'm in my apartment eating dinner all alone, I feel like the only "
+"person in the world."
+
+msgctxt "4836_Kiryu"
+msgid "It is more fun to eat with other people."
+msgstr "It is more fun to eat with other people."
+
+msgctxt "4848_松岡里緒奈：源氏名"
+msgid "Right. That's why I like to be with other people at night."
+msgstr "Right. That's why I like to be with other people at night."
+
+msgctxt "4860_松岡里緒奈：源氏名"
+msgid "Being a hostess is the perfect job for a lonely girl like me, huh?"
+msgstr "Being a hostess is the perfect job for a lonely girl like me, huh?"
+
+msgctxt "4872_Kiryu"
+msgid "Why don't you look for a boyfriend? That's the simplest solution."
+msgstr "Why don't you look for a boyfriend? That's the simplest solution."
+
+msgctxt "4884_松岡里緒奈：源氏名"
+msgid "Easier said than done. I can't seem to meet anybody I like."
+msgstr "Easier said than done. I can't seem to meet anybody I like."
+
+msgctxt "4896_Kiryu"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "4908_松岡里緒奈：源氏名"
+msgid "Well, I've got pretty high standards."
+msgstr "Well, I've got pretty high standards."
+
+msgctxt "4920_松岡里緒奈：源氏名"
+msgid "Most men just can't live up to them."
+msgstr "Most men just can't live up to them."
+
+msgctxt "4932_Kiryu"
+msgid "What about me?"
+msgstr "What about me?"
+
+msgctxt "4944_松岡里緒奈：源氏名"
+msgid ""
+"Hmm... Well, you're handsome enough, but I have to know you better to say "
+"for sure."
+msgstr ""
+"Hmm... Well, you're handsome enough, but I have to know you better to say "
+"for sure."
+
+msgctxt "4956_Kiryu"
+msgid "So you're saying I should come to the club more often?"
+msgstr "So you're saying I should come to the club more often?"
+
+msgctxt "4968_松岡里緒奈：源氏名"
+msgid "Hehe! That could work."
+msgstr "Hehe! That could work."
+
+msgctxt "4980_Kiryu"
+msgid "You could find a roommate."
+msgstr "You could find a roommate."
+
+msgctxt "4992_松岡里緒奈：源氏名"
+msgid "I thought about that, but I'm not a very neat person."
+msgstr "I thought about that, but I'm not a very neat person."
+
+msgctxt "5004_松岡里緒奈：源氏名"
+msgid ""
+"One of my friends was shocked when she visited my apartment a while ago. She"
+" said I must have some unnatural aversion to cleaning..."
+msgstr ""
+"One of my friends was shocked when she visited my apartment a while ago. She"
+" said I must have some unnatural aversion to cleaning..."
+
+msgctxt "5016_Kiryu"
+msgid "It's that bad?"
+msgstr "It's that bad?"
+
+msgctxt "5028_松岡里緒奈：源氏名"
+msgid ""
+"Yes. I've got clothes and underwear strewn everywhere, and I forget to take "
+"out the trash..."
+msgstr ""
+"Yes. I've got clothes and underwear strewn everywhere, and I forget to take "
+"out the trash..."
+
+msgctxt "5040_Kiryu"
+msgid "Wow, that is pretty bad."
+msgstr "Wow, that is pretty bad."
+
+msgctxt "5052_松岡里緒奈：源氏名"
+msgid "How about you? Are you a neat person?"
+msgstr "How about you? Are you a neat person?"
+
+msgctxt "5064_Kiryu"
+msgid ""
+"Yes, I am. I like to keep things in order. I'm pretty handy with an iron."
+msgstr ""
+"Yes, I am. I like to keep things in order. I'm pretty handy with an iron."
+
+msgctxt "5076_松岡里緒奈：源氏名"
+msgid "Really!? Maybe we could live together!"
+msgstr "Really!? Maybe we could live together!"
+
+msgctxt "5088_Kiryu"
+msgid "I was just kidding."
+msgstr "I was just kidding."
+
+msgctxt "5100_松岡里緒奈：源氏名"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "5112_松岡里緒奈：源氏名"
+msgid ""
+"Well, living with you still sounds like it'd be fun. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Well, living with you still sounds like it'd be fun. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "5124_Kiryu"
+msgid ""
+"You'll get used to it eventually. Living alone can be a good experience."
+msgstr ""
+"You'll get used to it eventually. Living alone can be a good experience."
+
+msgctxt "5136_松岡里緒奈：源氏名"
+msgid "Yes, I guess so."
+msgstr "Yes, I guess so."
+
+msgctxt "5148_松岡里緒奈：源氏名"
+msgid ""
+"But I'm so sick of being lonely. I wish there was something I could do about"
+" it."
+msgstr ""
+"But I'm so sick of being lonely. I wish there was something I could do about"
+" it."
+
+msgctxt "5160_Kiryu"
+msgid "Have you thought about getting a pet?"
+msgstr "Have you thought about getting a pet?"
+
+msgctxt "5172_松岡里緒奈：源氏名"
+msgid ""
+"No, I couldn't do that. I can't even pick up after myself, let alone an "
+"animal."
+msgstr ""
+"No, I couldn't do that. I can't even pick up after myself, let alone an "
+"animal."
+
+msgctxt "5184_Kiryu"
+msgid "Huh. I guess you'll just have to live with it."
+msgstr "Huh. I guess you'll just have to live with it."
+
+msgctxt "5196_松岡里緒奈：源氏名"
+msgid "Maybe I shouldn't have run away from home..."
+msgstr "Maybe I shouldn't have run away from home..."
+
+msgctxt "5208_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "5220_松岡里緒奈：源氏名"
+msgid "Do you have any particular kind of girl you prefer to date?"
+msgstr "Do you have any particular kind of girl you prefer to date?"
+
+msgctxt "5232_Kiryu"
+msgid ""
+"Not really. The most important thing to me is that we both feel the same way"
+" about each other."
+msgstr ""
+"Not really. The most important thing to me is that we both feel the same way"
+" about each other."
+
+msgctxt "5244_松岡里緒奈：源氏名"
+msgid "You don't have any preferences? Not even for how a girl looks?"
+msgstr "You don't have any preferences? Not even for how a girl looks?"
+
+msgctxt "5256_Kiryu"
+msgid "No. I don't judge a book by its cover. How about you?"
+msgstr "No. I don't judge a book by its cover. How about you?"
+
+msgctxt "5268_松岡里緒奈：源氏名"
+msgid "I have really high standards!"
+msgstr "I have really high standards!"
+
+msgctxt "5280_松岡里緒奈：源氏名"
+msgid ""
+"He has to be able to run 100 meters in about 11 seconds and have a grip "
+"strength of 100 kilos. He has to be kind, short-haired, and a gourmet!"
+msgstr ""
+"He has to be able to run 100 meters in about 11 seconds and have a grip "
+"strength of 100 kilos. He has to be kind, short-haired, and a gourmet!"
+
+msgctxt "5292_Kiryu"
+msgid "Is... Is that all?"
+msgstr "Is... Is that all?"
+
+msgctxt "5304_松岡里緒奈：源氏名"
+msgid "Do you think you can meet my standards?"
+msgstr "Do you think you can meet my standards?"
+
+msgctxt "5316_Kiryu"
+msgid "Piece of cake. Although my hair has gotten a bit long."
+msgstr "Piece of cake. Although my hair has gotten a bit long."
+
+msgctxt "5328_松岡里緒奈：源氏名"
+msgid "You have a grip strength of 100 kilos!?"
+msgstr "You have a grip strength of 100 kilos!?"
+
+msgctxt "5340_Kiryu"
+msgid "Sure. I'll measure it in front of you some time."
+msgstr "Sure. I'll measure it in front of you some time."
+
+msgctxt "5352_松岡里緒奈：源氏名"
+msgid "And you know a lot of fancy restaurants?"
+msgstr "And you know a lot of fancy restaurants?"
+
+msgctxt "5364_Kiryu"
+msgid ""
+"I know some good, cheap places in Kamurocho. I'm a regular at most of them. "
+"I can take you with me if you want."
+msgstr ""
+"I know some good, cheap places in Kamurocho. I'm a regular at most of them. "
+"I can take you with me if you want."
+
+msgctxt "5376_松岡里緒奈：源氏名"
+msgid "Wonderful! You may just fit the bill!"
+msgstr "Wonderful! You may just fit the bill!"
+
+msgctxt "5388_Kiryu"
+msgid "Heh. What did I tell you?"
+msgstr "Heh. What did I tell you?"
+
+msgctxt "5400_Kiryu"
+msgid "Are you saying you want to date me?"
+msgstr "Are you saying you want to date me?"
+
+msgctxt "5412_松岡里緒奈：源氏名"
+msgid ""
+"Huh? I didn't mean it that way. I was just wondering how you would measure "
+"up."
+msgstr ""
+"Huh? I didn't mean it that way. I was just wondering how you would measure "
+"up."
+
+msgctxt "5424_Kiryu"
+msgid ""
+"Who knows? You'll have to check me out. I'll train and prepare so I'll make "
+"the cut."
+msgstr ""
+"Who knows? You'll have to check me out. I'll train and prepare so I'll make "
+"the cut."
+
+msgctxt "5436_松岡里緒奈：源氏名"
+msgid ""
+"I never said I wanted to date you! Just forget the whole thing, all right?"
+msgstr ""
+"I never said I wanted to date you! Just forget the whole thing, all right?"
+
+msgctxt "5448_Kiryu"
+msgid "I thought you were interested in me."
+msgstr "I thought you were interested in me."
+
+msgctxt "5460_松岡里緒奈：源氏名"
+msgid ""
+"Hmm... I wasn't expecting you to be so full of yourself. It's a bit of a "
+"letdown."
+msgstr ""
+"Hmm... I wasn't expecting you to be so full of yourself. It's a bit of a "
+"letdown."
+
+msgctxt "5472_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "5484_Kiryu"
+msgid "You won't find too many men like that."
+msgstr "You won't find too many men like that."
+
+msgctxt "5496_松岡里緒奈：源氏名"
+msgid "There are several in my school, actually."
+msgstr "There are several in my school, actually."
+
+msgctxt "5508_Kiryu"
+msgid ""
+"Oh, right. You said you were majoring in phys ed. You like athletes then, "
+"huh?"
+msgstr ""
+"Oh, right. You said you were majoring in phys ed. You like athletes then, "
+"huh?"
+
+msgctxt "5520_松岡里緒奈：源氏名"
+msgid ""
+"Sure. But they don't have to play sports, exactly. I like martial artists, "
+"too."
+msgstr ""
+"Sure. But they don't have to play sports, exactly. I like martial artists, "
+"too."
+
+msgctxt "5532_松岡里緒奈：源氏名"
+msgid "So how do you measure up?"
+msgstr "So how do you measure up?"
+
+msgctxt "5544_Kiryu"
+msgid "I'm not too bad."
+msgstr "I'm not too bad."
+
+msgctxt "5556_松岡里緒奈：源氏名"
+msgid "Oh... I see..."
+msgstr "Oh... I see..."
+
+msgctxt "5568_松岡里緒奈：源氏名"
+msgid ""
+"You'll just have to start training! It'll take some work, but even you can "
+"be my kind of man! <Color:7>♥<Color:Default>"
+msgstr ""
+"You'll just have to start training! It'll take some work, but even you can "
+"be my kind of man! <Color:7>♥<Color:Default>"
+
+msgctxt "5580_Kiryu"
+msgid "Sounds like a pain..."
+msgstr "Sounds like a pain..."
+
+msgctxt "5592_Kiryu"
+msgid "What do you do on your days off?"
+msgstr "What do you do on your days off?"
+
+msgctxt "5604_松岡里緒奈：源氏名"
+msgid ""
+"I'm so busy with college and work during the week that I mostly spend my "
+"days off sleeping."
+msgstr ""
+"I'm so busy with college and work during the week that I mostly spend my "
+"days off sleeping."
+
+msgctxt "5616_松岡里緒奈：源氏名"
+msgid "I can easily sleep for twelve hours straight."
+msgstr "I can easily sleep for twelve hours straight."
+
+msgctxt "5628_Kiryu"
+msgid "Sleeping too much can be bad for you."
+msgstr "Sleeping too much can be bad for you."
+
+msgctxt "5640_松岡里緒奈：源氏名"
+msgid ""
+"But I'm happiest when I'm asleep. I'm always sad when I have to wake up. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"But I'm happiest when I'm asleep. I'm always sad when I have to wake up. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "5652_松岡里緒奈：源氏名"
+msgid "When are you the happiest?"
+msgstr "When are you the happiest?"
+
+msgctxt "5664_Kiryu"
+msgid "When I'm drinking."
+msgstr "When I'm drinking."
+
+msgctxt "5676_松岡里緒奈：源氏名"
+msgid "Hmm. How do you like to drink?"
+msgstr "Hmm. How do you like to drink?"
+
+msgctxt "5688_Kiryu"
+msgid ""
+"As long as I've got a good drink in my hand and a pretty woman by my side, "
+"I'm happy."
+msgstr ""
+"As long as I've got a good drink in my hand and a pretty woman by my side, "
+"I'm happy."
+
+msgctxt "5700_松岡里緒奈：源氏名"
+msgid "I see. And are you happy now?"
+msgstr "I see. And are you happy now?"
+
+msgctxt "5712_Kiryu"
+msgid "Heh. Of course."
+msgstr "Heh. Of course."
+
+msgctxt "5724_松岡里緒奈：源氏名"
+msgid "Really? Thanks. That makes me happy, too."
+msgstr "Really? Thanks. That makes me happy, too."
+
+msgctxt "5736_Kiryu"
+msgid "I'd prefer somebody a little sexier, though."
+msgstr "I'd prefer somebody a little sexier, though."
+
+msgctxt "5748_松岡里緒奈：源氏名"
+msgid "Hey! I think I'm sexy! Better than you deserve!"
+msgstr "Hey! I think I'm sexy! Better than you deserve!"
+
+msgctxt "5760_Kiryu"
+msgid "When I'm playing with my kids."
+msgstr "When I'm playing with my kids."
+
+msgctxt "5772_松岡里緒奈：源氏名"
+msgid "Huh!? You've got kids?"
+msgstr "Huh!? You've got kids?"
+
+msgctxt "5784_Kiryu"
+msgid "Kind of. I run an orphanage."
+msgstr "Kind of. I run an orphanage."
+
+msgctxt "5796_松岡里緒奈：源氏名"
+msgid "Really!? I never would've expected that. How wonderful!"
+msgstr "Really!? I never would've expected that. How wonderful!"
+
+msgctxt "5808_松岡里緒奈：源氏名"
+msgid "What do you play?"
+msgstr "What do you play?"
+
+msgctxt "5820_Kiryu"
+msgid "Baseball, hide-and-seek. Lots of things."
+msgstr "Baseball, hide-and-seek. Lots of things."
+
+msgctxt "5832_松岡里緒奈：源氏名"
+msgid "I bet you'd make a great father. <Color:7>♥<Color:Default>"
+msgstr "I bet you'd make a great father. <Color:7>♥<Color:Default>"
+
+msgctxt "5844_Kiryu"
+msgid "I'd like to think so."
+msgstr "I'd like to think so."
+
+msgctxt "5856_Kiryu"
+msgid "When I'm doing it."
+msgstr "When I'm doing it."
+
+msgctxt "5868_松岡里緒奈：源氏名"
+msgid "Huh!? What do you mean by \"it\"?"
+msgstr "Huh!? What do you mean by \"it\"?"
+
+msgctxt "5880_Kiryu"
+msgid "I think you know what I mean."
+msgstr "I think you know what I mean."
+
+msgctxt "5892_松岡里緒奈：源氏名"
+msgid "Hey! You can't talk to me like that! That's sexual harassment!"
+msgstr "Hey! You can't talk to me like that! That's sexual harassment!"
+
+msgctxt "5904_Kiryu"
+msgid "Heh. Don't be such a prude. I'm just telling the truth."
+msgstr "Heh. Don't be such a prude. I'm just telling the truth."
+
+msgctxt "5916_松岡里緒奈：源氏名"
+msgid ""
+"Prude!? I can't believe you'd say that! I hate guys who are so... so lewd!"
+msgstr ""
+"Prude!? I can't believe you'd say that! I hate guys who are so... so lewd!"
+
+msgctxt "5928_松岡里緒奈：源氏名"
+msgid "What did you want to do with your life when you were a kid?"
+msgstr "What did you want to do with your life when you were a kid?"
+
+msgctxt "5940_Kiryu"
+msgid "Well... I think I wanted to become the strongest man in the world."
+msgstr "Well... I think I wanted to become the strongest man in the world."
+
+msgctxt "5952_松岡里緒奈：源氏名"
+msgid "Hehe. I bet a lot of boys wanted that."
+msgstr "Hehe. I bet a lot of boys wanted that."
+
+msgctxt "5964_松岡里緒奈：源氏名"
+msgid ""
+"I wanted to be in the national high school baseball championships. I played "
+"little league baseball with boys since elementary school."
+msgstr ""
+"I wanted to be in the national high school baseball championships. I played "
+"little league baseball with boys since elementary school."
+
+msgctxt "5976_Kiryu"
+msgid "A girl in little league? You played with the boys?"
+msgstr "A girl in little league? You played with the boys?"
+
+msgctxt "5988_松岡里緒奈：源氏名"
+msgid ""
+"I was <Italic>better</Italic> than the boys. I was the cleanup hitter on our"
+" team."
+msgstr ""
+"I was <Italic>better</Italic> than the boys. I was the cleanup hitter on our"
+" team."
+
+msgctxt "6000_松岡里緒奈：源氏名"
+msgid ""
+"But they wouldn't let me play in junior high, so I had to give up my dream."
+msgstr ""
+"But they wouldn't let me play in junior high, so I had to give up my dream."
+
+msgctxt "6012_Kiryu"
+msgid "Sorry to hear that..."
+msgstr "Sorry to hear that..."
+
+msgctxt "6024_松岡里緒奈：源氏名"
+msgid ""
+"The world isn't fair, is it? I loved baseball more than anything, but "
+"passion wasn't enough..."
+msgstr ""
+"The world isn't fair, is it? I loved baseball more than anything, but "
+"passion wasn't enough..."
+
+msgctxt "6036_Kiryu"
+msgid ""
+"If you really like baseball that much, maybe you could make a team at the "
+"club."
+msgstr ""
+"If you really like baseball that much, maybe you could make a team at the "
+"club."
+
+msgctxt "6048_松岡里緒奈：源氏名"
+msgid "Huh? You mean with the other hostesses?"
+msgstr "Huh? You mean with the other hostesses?"
+
+msgctxt "6060_Kiryu"
+msgid ""
+"Yeah. You could play against your customers. It might be pretty popular."
+msgstr ""
+"Yeah. You could play against your customers. It might be pretty popular."
+
+msgctxt "6072_松岡里緒奈：源氏名"
+msgid "Interesting! That could be way fun!"
+msgstr "Interesting! That could be way fun!"
+
+msgctxt "6084_Kiryu"
+msgid "Exactly."
+msgstr "Exactly."
+
+msgctxt "6096_松岡里緒奈：源氏名"
+msgid ""
+"We could all use the exercise, and a lot of the girls are pretty good at "
+"sports."
+msgstr ""
+"We could all use the exercise, and a lot of the girls are pretty good at "
+"sports."
+
+msgctxt "6108_松岡里緒奈：源氏名"
+msgid "Maybe I'll ask them. That's a great idea!"
+msgstr "Maybe I'll ask them. That's a great idea!"
+
+msgctxt "6120_Kiryu"
+msgid "Heh. Good luck."
+msgstr "Heh. Good luck."
+
+msgctxt "6132_Kiryu"
+msgid "That's just the way it is. You can't change it."
+msgstr "That's just the way it is. You can't change it."
+
+msgctxt "6144_松岡里緒奈：源氏名"
+msgid "But aren't men and women supposed to be equal?"
+msgstr "But aren't men and women supposed to be equal?"
+
+msgctxt "6156_Kiryu"
+msgid ""
+"Yeah, but there aren't enough female players. They'd be at a disadvantage if"
+" they played against men."
+msgstr ""
+"Yeah, but there aren't enough female players. They'd be at a disadvantage if"
+" they played against men."
+
+msgctxt "6168_Kiryu"
+msgid ""
+"Besides, the appeal of baseball is in fast pitches and home runs. I don't "
+"think a woman could handle it."
+msgstr ""
+"Besides, the appeal of baseball is in fast pitches and home runs. I don't "
+"think a woman could handle it."
+
+msgctxt "6180_松岡里緒奈：源氏名"
+msgid "I never thought you were that kind of guy. I'm a little shocked..."
+msgstr "I never thought you were that kind of guy. I'm a little shocked..."
+
+msgctxt "6192_Kiryu"
+msgid "You want to go to a batting cage and hit a few?"
+msgstr "You want to go to a batting cage and hit a few?"
+
+msgctxt "6204_松岡里緒奈：源氏名"
+msgid "Huh!? Are you asking me out?"
+msgstr "Huh!? Are you asking me out?"
+
+msgctxt "6216_Kiryu"
+msgid "Sure. I'd like to see how good you really are."
+msgstr "Sure. I'd like to see how good you really are."
+
+msgctxt "6228_松岡里緒奈：源氏名"
+msgid "Um, I don't know. I might be busy later."
+msgstr "Um, I don't know. I might be busy later."
+
+msgctxt "6240_Kiryu"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "6252_松岡里緒奈：源氏名"
+msgid ""
+"But thanks for asking me. Maybe we'll get a chance to go sometime. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"But thanks for asking me. Maybe we'll get a chance to go sometime. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "6264_Kiryu"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "6276_松岡里緒奈：源氏名"
+msgid "You know, I often go to the zoo by myself."
+msgstr "You know, I often go to the zoo by myself."
+
+msgctxt "6288_Kiryu"
+msgid "Not on a date or anything?"
+msgstr "Not on a date or anything?"
+
+msgctxt "6300_松岡里緒奈：源氏名"
+msgid ""
+"No. I just like looking at the big animals. It makes me feel... powerful."
+msgstr ""
+"No. I just like looking at the big animals. It makes me feel... powerful."
+
+msgctxt "6312_Kiryu"
+msgid "Ah, I think I know what you mean."
+msgstr "Ah, I think I know what you mean."
+
+msgctxt "6324_松岡里緒奈：源氏名"
+msgid "I think my favorite is the gorilla."
+msgstr "I think my favorite is the gorilla."
+
+msgctxt "6336_Kiryu"
+msgid "Why the gorilla?"
+msgstr "Why the gorilla?"
+
+msgctxt "6348_松岡里緒奈：源氏名"
+msgid ""
+"Because they're so strong! They could tear you limb from limb without even "
+"trying."
+msgstr ""
+"Because they're so strong! They could tear you limb from limb without even "
+"trying."
+
+msgctxt "6360_Kiryu"
+msgid "I... I see."
+msgstr "I... I see."
+
+msgctxt "6372_松岡里緒奈：源氏名"
+msgid "If I could be reborn as any animal, I'd be a gorilla. Ooh-ooh-ooh!"
+msgstr "If I could be reborn as any animal, I'd be a gorilla. Ooh-ooh-ooh!"
+
+msgctxt "6384_松岡里緒奈：源氏名"
+msgid "What would you come back as?"
+msgstr "What would you come back as?"
+
+msgctxt "6396_Kiryu"
+msgid "I'd stay a human."
+msgstr "I'd stay a human."
+
+msgctxt "6408_松岡里緒奈：源氏名"
+msgid "No, it has to be an animal! That's the whole point!"
+msgstr "No, it has to be an animal! That's the whole point!"
+
+msgctxt "6420_Kiryu"
+msgid "Well, I like dragons..."
+msgstr "Well, I like dragons..."
+
+msgctxt "6432_松岡里緒奈：源氏名"
+msgid "But dragons are imaginary! They don't have dragons in zoos, do they?"
+msgstr "But dragons are imaginary! They don't have dragons in zoos, do they?"
+
+msgctxt "6444_松岡里緒奈：源氏名"
+msgid "This is giving me a headache..."
+msgstr "This is giving me a headache..."
+
+msgctxt "6456_Kiryu"
+msgid "Hey, you asked the question."
+msgstr "Hey, you asked the question."
+
+msgctxt "6468_Kiryu"
+msgid "I'd like to be a lion. The lion's the king of the beasts."
+msgstr "I'd like to be a lion. The lion's the king of the beasts."
+
+msgctxt "6480_松岡里緒奈：源氏名"
+msgid "A lion, huh? Typical man."
+msgstr "A lion, huh? Typical man."
+
+msgctxt "6492_松岡里緒奈：源氏名"
+msgid ""
+"But don't male lions just lie around all day? It's the females that do the "
+"hunting."
+msgstr ""
+"But don't male lions just lie around all day? It's the females that do the "
+"hunting."
+
+msgctxt "6504_Kiryu"
+msgid "Sounds good to me. I'd like a taste of that life."
+msgstr "Sounds good to me. I'd like a taste of that life."
+
+msgctxt "6516_松岡里緒奈：源氏名"
+msgid ""
+"What!? You want to sit back while the women do all the work!? That's "
+"terrible."
+msgstr ""
+"What!? You want to sit back while the women do all the work!? That's "
+"terrible."
+
+msgctxt "6528_Kiryu"
+msgid "It's not like I'm really going to do it..."
+msgstr "It's not like I'm really going to do it..."
+
+msgctxt "6540_Kiryu"
+msgid "I'd like to be a gorilla, too."
+msgstr "I'd like to be a gorilla, too."
+
+msgctxt "6552_松岡里緒奈：源氏名"
+msgid "Really? What a coincidence! What do you like about gorillas?"
+msgstr "Really? What a coincidence! What do you like about gorillas?"
+
+msgctxt "6564_Kiryu"
+msgid "Well, they're strong. And they have lots of wives."
+msgstr "Well, they're strong. And they have lots of wives."
+
+msgctxt "6576_松岡里緒奈：源氏名"
+msgid "Lots of wives, huh? You mean male gorillas sleep around a lot?"
+msgstr "Lots of wives, huh? You mean male gorillas sleep around a lot?"
+
+msgctxt "6588_Kiryu"
+msgid "That's right. Would you be interested in being one of my mates?"
+msgstr "That's right. Would you be interested in being one of my mates?"
+
+msgctxt "6600_松岡里緒奈：源氏名"
+msgid ""
+"Hehehe. I won't settle for being one of many, but I'll consider it if I get "
+"to be your official wife. <Color:7>♥<Color:Default>"
+msgstr ""
+"Hehehe. I won't settle for being one of many, but I'll consider it if I get "
+"to be your official wife. <Color:7>♥<Color:Default>"
+
+msgctxt "6612_Kiryu"
+msgid "Ah. Oh well."
+msgstr "Ah. Oh well."
+
+msgctxt "6624_松岡里緒奈：源氏名"
+msgid ""
+"I'm quite the eater, just so you know. I can eat weird food that most people"
+" find disgusting."
+msgstr ""
+"I'm quite the eater, just so you know. I can eat weird food that most people"
+" find disgusting."
+
+msgctxt "6636_Kiryu"
+msgid "That's pretty good."
+msgstr "That's pretty good."
+
+msgctxt "6648_松岡里緒奈：源氏名"
+msgid "But I can't stand sweets! I get heartburn just smelling sweet things."
+msgstr "But I can't stand sweets! I get heartburn just smelling sweet things."
+
+msgctxt "6660_Kiryu"
+msgid "Huh. That's unusual."
+msgstr "Huh. That's unusual."
+
+msgctxt "6672_松岡里緒奈：源氏名"
+msgid ""
+"Yeah. I wouldn't be a good choice to take to one of those cake buffets."
+msgstr ""
+"Yeah. I wouldn't be a good choice to take to one of those cake buffets."
+
+msgctxt "6684_松岡里緒奈：源氏名"
+msgid "I'd rather have meat! In fact, I could go for some right now!"
+msgstr "I'd rather have meat! In fact, I could go for some right now!"
+
+msgctxt "6696_Kiryu"
+msgid "We should go out for all-you-can-eat yakiniku. Get your stomach ready."
+msgstr ""
+"We should go out for all-you-can-eat yakiniku. Get your stomach ready."
+
+msgctxt "6708_松岡里緒奈：源氏名"
+msgid "Really!? I just love salted tongue with green onions!"
+msgstr "Really!? I just love salted tongue with green onions!"
+
+msgctxt "6720_Kiryu"
+msgid "I'll try and remember that."
+msgstr "I'll try and remember that."
+
+msgctxt "6732_松岡里緒奈：源氏名"
+msgid "But if I eat too much, I might not be able to fit into my dresses..."
+msgstr "But if I eat too much, I might not be able to fit into my dresses..."
+
+msgctxt "6744_Kiryu"
+msgid "Hey, I can't solve all your problems."
+msgstr "Hey, I can't solve all your problems."
+
+msgctxt "6756_松岡里緒奈：源氏名"
+msgid "Oh well! As long as we're getting yakiniku. You promised!"
+msgstr "Oh well! As long as we're getting yakiniku. You promised!"
+
+msgctxt "6768_Kiryu"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "6780_Kiryu"
+msgid ""
+"Don't you worry about getting fat? You already look like you could really "
+"put it away."
+msgstr ""
+"Don't you worry about getting fat? You already look like you could really "
+"put it away."
+
+msgctxt "6792_松岡里緒奈：源氏名"
+msgid ""
+"Hey! That's not nice! I'll have you know I keep track of every calorie I "
+"eat!"
+msgstr ""
+"Hey! That's not nice! I'll have you know I keep track of every calorie I "
+"eat!"
+
+msgctxt "6804_Kiryu"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "6816_松岡里緒奈：源氏名"
+msgid "Well, I try to. My weight stays pretty much the same."
+msgstr "Well, I try to. My weight stays pretty much the same."
+
+msgctxt "6828_Kiryu"
+msgid "Well, don't let your guard down."
+msgstr "Well, don't let your guard down."
+
+msgctxt "6840_松岡里緒奈：源氏名"
+msgid ""
+"What kind of a guy comes to a hostess club and lectures the girls about "
+"their weight? Now I'm depressed."
+msgstr ""
+"What kind of a guy comes to a hostess club and lectures the girls about "
+"their weight? Now I'm depressed."
+
+msgctxt "6852_Kiryu"
+msgid "S... Sorry."
+msgstr "S... Sorry."
+
+msgctxt "6864_Kiryu"
+msgid ""
+"Do you eat many vegetables? Eating nothing but meat isn't good for you."
+msgstr ""
+"Do you eat many vegetables? Eating nothing but meat isn't good for you."
+
+msgctxt "6876_松岡里緒奈：源氏名"
+msgid "I know that! I eat other things besides meat!"
+msgstr "I know that! I eat other things besides meat!"
+
+msgctxt "6888_松岡里緒奈：源氏名"
+msgid ""
+"I know all about eating a balanced diet. We learn about that in school, you "
+"know."
+msgstr ""
+"I know all about eating a balanced diet. We learn about that in school, you "
+"know."
+
+msgctxt "6900_Kiryu"
+msgid ""
+"Okay. And you seem to be exercising enough, so you must be pretty healthy."
+msgstr ""
+"Okay. And you seem to be exercising enough, so you must be pretty healthy."
+
+msgctxt "6912_松岡里緒奈：源氏名"
+msgid "Yep! Just look at my figure! You don't have to worry about me!"
+msgstr "Yep! Just look at my figure! You don't have to worry about me!"
+
+msgctxt "6924_Kiryu"
+msgid "Maybe we should go out to eat sometime."
+msgstr "Maybe we should go out to eat sometime."
+
+msgctxt "6936_松岡里緒奈：源氏名"
+msgid "I'd like that. <Color:7>♥<Color:Default>"
+msgstr "I'd like that. <Color:7>♥<Color:Default>"
+
+msgctxt "6948_松岡里緒奈：源氏名"
+msgid "*sigh*"
+msgstr "*sigh*"
+
+msgctxt "6960_Kiryu"
+msgid "What's wrong? Did you drink too much?"
+msgstr "What's wrong? Did you drink too much?"
+
+msgctxt "6972_松岡里緒奈：源氏名"
+msgid "Next week all the students at my college need to take a physical exam."
+msgstr ""
+"Next week all the students at my college need to take a physical exam."
+
+msgctxt "6984_Kiryu"
+msgid "And?"
+msgstr "And?"
+
+msgctxt "6996_松岡里緒奈：源氏名"
+msgid "Well, I drink every day and don't always get enough sleep."
+msgstr "Well, I drink every day and don't always get enough sleep."
+
+msgctxt "7008_松岡里緒奈：源氏名"
+msgid "So I'm afraid they're going to find something wrong with me."
+msgstr "So I'm afraid they're going to find something wrong with me."
+
+msgctxt "7020_Kiryu"
+msgid "Maybe you should stop drinking."
+msgstr "Maybe you should stop drinking."
+
+msgctxt "7032_松岡里緒奈：源氏名"
+msgid "What!? No, I can't imagine life without alcohol."
+msgstr "What!? No, I can't imagine life without alcohol."
+
+msgctxt "7044_Kiryu"
+msgid ""
+"Well, what about cutting out drinking until the exam? That might make a "
+"difference."
+msgstr ""
+"Well, what about cutting out drinking until the exam? That might make a "
+"difference."
+
+msgctxt "7056_松岡里緒奈：源氏名"
+msgid "Hmm. Maybe..."
+msgstr "Hmm. Maybe..."
+
+msgctxt "7068_松岡里緒奈：源氏名"
+msgid "Okay! I'll stop drinking starting tomorrow!"
+msgstr "Okay! I'll stop drinking starting tomorrow!"
+
+msgctxt "7080_Kiryu"
+msgid "Why not start today? You're not really going to quit, right?"
+msgstr "Why not start today? You're not really going to quit, right?"
+
+msgctxt "7092_松岡里緒奈：源氏名"
+msgid "No, but I'd better drink plenty today if I'm going to stop tomorrow."
+msgstr "No, but I'd better drink plenty today if I'm going to stop tomorrow."
+
+msgctxt "7104_Kiryu"
+msgid "Whatever you say..."
+msgstr "Whatever you say..."
+
+msgctxt "7116_Kiryu"
+msgid "You're young. I'm sure you'll be fine."
+msgstr "You're young. I'm sure you'll be fine."
+
+msgctxt "7128_松岡里緒奈：源氏名"
+msgid "But there could still be something wrong with me, right?"
+msgstr "But there could still be something wrong with me, right?"
+
+msgctxt "7140_Kiryu"
+msgid "If there is, I'll look after you."
+msgstr "If there is, I'll look after you."
+
+msgctxt "7152_松岡里緒奈：源氏名"
+msgid "You will? That's so kind of you! <Color:7>♥<Color:Default>"
+msgstr "You will? That's so kind of you! <Color:7>♥<Color:Default>"
+
+msgctxt "7164_松岡里緒奈：源氏名"
+msgid "But what if I catch a cold or something?"
+msgstr "But what if I catch a cold or something?"
+
+msgctxt "7176_Kiryu"
+msgid ""
+"Then I'll make you the best rice porridge you've ever tasted. Don't worry, "
+"okay?"
+msgstr ""
+"Then I'll make you the best rice porridge you've ever tasted. Don't worry, "
+"okay?"
+
+msgctxt "7188_松岡里緒奈：源氏名"
+msgid "Okay. I feel better already! <Color:7>♥<Color:Default>"
+msgstr "Okay. I feel better already! <Color:7>♥<Color:Default>"
+
+msgctxt "7200_Kiryu"
+msgid ""
+"Why don't you just skip school that day? They can't force you to get "
+"examined, right?"
+msgstr ""
+"Why don't you just skip school that day? They can't force you to get "
+"examined, right?"
+
+msgctxt "7212_松岡里緒奈：源氏名"
+msgid ""
+"But what if I have some terrible disease? It'd just get worse without me "
+"knowing."
+msgstr ""
+"But what if I have some terrible disease? It'd just get worse without me "
+"knowing."
+
+msgctxt "7224_Kiryu"
+msgid "You can worry about that later."
+msgstr "You can worry about that later."
+
+msgctxt "7236_松岡里緒奈：源氏名"
+msgid "Wow... You don't really care about what happens to me."
+msgstr "Wow... You don't really care about what happens to me."
+
+msgctxt "7248_Kiryu"
+msgid "Hey, I didn't say that."
+msgstr "Hey, I didn't say that."
+
+msgctxt "7260_松岡里緒奈：源氏名"
+msgid "Now I'm depressed."
+msgstr "Now I'm depressed."
+
+msgctxt "7272_松岡里緒奈：源氏名"
+msgid "You remember my brother, right?"
+msgstr "You remember my brother, right?"
+
+msgctxt "7284_Kiryu"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "7296_松岡里緒奈：源氏名"
+msgid "Well, I just got an email from him. Wanna know what he said?"
+msgstr "Well, I just got an email from him. Wanna know what he said?"
+
+msgctxt "7308_Kiryu"
+msgid "Sure. What did he say?"
+msgstr "Sure. What did he say?"
+
+msgctxt "7320_松岡里緒奈：源氏名"
+msgid "\"Introduce me to one of your girlfriends!\" What the heck, right!?"
+msgstr "\"Introduce me to one of your girlfriends!\" What the heck, right!?"
+
+msgctxt "7332_Kiryu"
+msgid "You two do seem pretty close."
+msgstr "You two do seem pretty close."
+
+msgctxt "7344_松岡里緒奈：源氏名"
+msgid ""
+"We get along well enough, but what kind of guy asks his sister to set him up"
+" on a date?"
+msgstr ""
+"We get along well enough, but what kind of guy asks his sister to set him up"
+" on a date?"
+
+msgctxt "7356_Kiryu"
+msgid "I think he's just messing with you."
+msgstr "I think he's just messing with you."
+
+msgctxt "7368_松岡里緒奈：源氏名"
+msgid "You really think so?"
+msgstr "You really think so?"
+
+msgctxt "7380_Kiryu"
+msgid "I do."
+msgstr "Sì."
+
+msgctxt "7392_松岡里緒奈：源氏名"
+msgid ""
+"Hmm. You know, my brother is brainier than I am, and I think he's been "
+"making fun of me behind my back all this time."
+msgstr ""
+"Hmm. You know, my brother is brainier than I am, and I think he's been "
+"making fun of me behind my back all this time."
+
+msgctxt "7404_Kiryu"
+msgid "There you go. He's messing with you."
+msgstr "There you go. He's messing with you."
+
+msgctxt "7416_松岡里緒奈：源氏名"
+msgid "Ugh, that's depressing."
+msgstr "Ugh, that's depressing."
+
+msgctxt "7428_Kiryu"
+msgid "Maybe you can find a way to get back at him."
+msgstr "Maybe you can find a way to get back at him."
+
+msgctxt "7440_松岡里緒奈：源氏名"
+msgid "How can I do that while working at the club?"
+msgstr "How can I do that while working at the club?"
+
+msgctxt "7452_Kiryu"
+msgid "Why don't you do it? Is it that big of a deal?"
+msgstr "Why don't you do it? Is it that big of a deal?"
+
+msgctxt "7464_松岡里緒奈：源氏名"
+msgid ""
+"No way! What am I supposed to do, start throwing parties so my brother can "
+"meet girls?"
+msgstr ""
+"No way! What am I supposed to do, start throwing parties so my brother can "
+"meet girls?"
+
+msgctxt "7476_Kiryu"
+msgid ""
+"Why not? It might get him a girl and bring the two of you closer together at"
+" the same time."
+msgstr ""
+"Why not? It might get him a girl and bring the two of you closer together at"
+" the same time."
+
+msgctxt "7488_松岡里緒奈：源氏名"
+msgid ""
+"Really? And would it be all right with you if a hot guy asks me out at one "
+"of those parties?"
+msgstr ""
+"Really? And would it be all right with you if a hot guy asks me out at one "
+"of those parties?"
+
+msgctxt "7500_Kiryu"
+msgid "Well, no..."
+msgstr "Well, no..."
+
+msgctxt "7512_松岡里緒奈：源氏名"
+msgid "See? This is really turning into a major hassle."
+msgstr "See? This is really turning into a major hassle."
+
+msgctxt "7524_Kiryu"
+msgid "He's a lot like you. You two have similar personalities."
+msgstr "He's a lot like you. You two have similar personalities."
+
+msgctxt "7536_松岡里緒奈：源氏名"
+msgid ""
+"What!? How can an inconsiderate jerk like my brother be similar to me? Give "
+"me a break..."
+msgstr ""
+"What!? How can an inconsiderate jerk like my brother be similar to me? Give "
+"me a break..."
+
+msgctxt "7548_Kiryu"
+msgid ""
+"Well, when I saw you two together, you seemed to get along pretty well."
+msgstr ""
+"Well, when I saw you two together, you seemed to get along pretty well."
+
+msgctxt "7560_松岡里緒奈：源氏名"
+msgid "Well, yeah..."
+msgstr "Well, yeah..."
+
+msgctxt "7572_Kiryu"
+msgid ""
+"And I don't have a brother at all. I'd love the chance to fight about little"
+" things with a brother."
+msgstr ""
+"And I don't have a brother at all. I'd love the chance to fight about little"
+" things with a brother."
+
+msgctxt "7584_松岡里緒奈：源氏名"
+msgid "Huh. I never thought of it like that."
+msgstr "Huh. I never thought of it like that."
+
+msgctxt "7596_松岡里緒奈：源氏名"
+msgid ""
+"I guess I'll look over what he wrote in that email. He's the only brother I "
+"have. <Color:7>♥<Color:Default>"
+msgstr ""
+"I guess I'll look over what he wrote in that email. He's the only brother I "
+"have. <Color:7>♥<Color:Default>"
+
+msgctxt "7608_Kiryu"
+msgid "Hehe. Attagirl."
+msgstr "Hehe. Attagirl."
+
+msgctxt "7620_松岡里緒奈：源氏名"
+msgid "Kiryu-san, do you like professional wrestling?"
+msgstr "Kiryu-san, do you like professional wrestling?"
+
+msgctxt "7632_Kiryu"
+msgid "Sure. I used to watch it all the time on TV when I was younger."
+msgstr "Sure. I used to watch it all the time on TV when I was younger."
+
+msgctxt "7644_松岡里緒奈：源氏名"
+msgid "Have you heard of a wrestler named Thunder Matsuoka?"
+msgstr "Have you heard of a wrestler named Thunder Matsuoka?"
+
+msgctxt "7656_Kiryu"
+msgid "Thunder Matsuoka?"
+msgstr "Thunder Matsuoka?"
+
+msgctxt "7668_Kiryu"
+msgid ""
+"Oh, you mean the guy who runs Kamuro Pro Wrestling? He's getting on in the "
+"years. He's been wrestling since I was a kid."
+msgstr ""
+"Oh, you mean the guy who runs Kamuro Pro Wrestling? He's getting on in the "
+"years. He's been wrestling since I was a kid."
+
+msgctxt "7680_松岡里緒奈：源氏名"
+msgid "Yes... I've never told this to anybody before..."
+msgstr "Yes... I've never told this to anybody before..."
+
+msgctxt "7692_Kiryu"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "7704_松岡里緒奈：源氏名"
+msgid "Thunder Matsuoka is my dad."
+msgstr "Thunder Matsuoka is my dad."
+
+msgctxt "7716_Kiryu"
+msgid "What!? Really!?"
+msgstr "What!? Really!?"
+
+msgctxt "7728_松岡里緒奈：源氏名"
+msgid "Don't tell anybody!"
+msgstr "Don't tell anybody!"
+
+msgctxt "7740_Kiryu"
+msgid "The father you had that fight with was... Thunder Matsuoka?"
+msgstr "The father you had that fight with was... Thunder Matsuoka?"
+
+msgctxt "7752_松岡里緒奈：源氏名"
+msgid "That's right."
+msgstr "Esatto."
+
+msgctxt "7764_Kiryu"
+msgid "Wow, Thunder Matsuoka! I'm his biggest fan!"
+msgstr "Wow, Thunder Matsuoka! I'm his biggest fan!"
+
+msgctxt "7776_松岡里緒奈：源氏名"
+msgid "Really!? You're a fan of my dad?"
+msgstr "Really!? You're a fan of my dad?"
+
+msgctxt "7788_Kiryu"
+msgid ""
+"Yes. He was so strong and confident when he was younger. I always looked up "
+"to him."
+msgstr ""
+"Yes. He was so strong and confident when he was younger. I always looked up "
+"to him."
+
+msgctxt "7800_松岡里緒奈：源氏名"
+msgid "No way!"
+msgstr "No way!"
+
+msgctxt "7812_Kiryu"
+msgid "Hey, could you get his autograph for me?"
+msgstr "Hey, could you get his autograph for me?"
+
+msgctxt "7824_松岡里緒奈：源氏名"
+msgid "What!? Are you joking!? Not unless hell freezes over!"
+msgstr "What!? Are you joking!? Not unless hell freezes over!"
+
+msgctxt "7836_松岡里緒奈：源氏名"
+msgid ""
+"I told you, I never want to see him again! Whose side are you on, anyway?"
+msgstr ""
+"I told you, I never want to see him again! Whose side are you on, anyway?"
+
+msgctxt "7848_Kiryu"
+msgid "Hmm. Let me think..."
+msgstr "Hmm. Let me think..."
+
+msgctxt "7860_松岡里緒奈：源氏名"
+msgid "You need to think about it!? Traitor!"
+msgstr "You need to think about it!? Traitor!"
+
+msgctxt "7872_Kiryu"
+msgid "I'd love to fight him just once."
+msgstr "I'd love to fight him just once."
+
+msgctxt "7884_松岡里緒奈：源氏名"
+msgid "Huh!? You want to fight my dad?"
+msgstr "Huh!? You want to fight my dad?"
+
+msgctxt "7896_Kiryu"
+msgid "Sure. He may not be young, but he can still put on a good show."
+msgstr "Sure. He may not be young, but he can still put on a good show."
+
+msgctxt "7908_松岡里緒奈：源氏名"
+msgid "You know a lot about wrestling?"
+msgstr "You know a lot about wrestling?"
+
+msgctxt "7920_Kiryu"
+msgid ""
+"Yeah. Back when I lived in Kamurocho, I went to wrestling matches all the "
+"time."
+msgstr ""
+"Yeah. Back when I lived in Kamurocho, I went to wrestling matches all the "
+"time."
+
+msgctxt "7932_松岡里緒奈：源氏名"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "7944_Kiryu"
+msgid "So could you ask him if he'd go a round with me?"
+msgstr "So could you ask him if he'd go a round with me?"
+
+msgctxt "7956_松岡里緒奈：源氏名"
+msgid "What!? No! I don't want to get involved in something like that!"
+msgstr "What!? No! I don't want to get involved in something like that!"
+
+msgctxt "7968_Kiryu"
+msgid "Oh. That's too bad."
+msgstr "Oh. That's too bad."
+
+msgctxt "7980_松岡里緒奈：源氏名"
+msgid "Hey, don't look so sad about it!"
+msgstr "Hey, don't look so sad about it!"
+
+msgctxt "7992_Kiryu"
+msgid "I'm jealous. I can't believe he's really your father."
+msgstr "I'm jealous. I can't believe he's really your father."
+
+msgctxt "8004_松岡里緒奈：源氏名"
+msgid "Huh? Why!? What's so great about my dad, anyway?"
+msgstr "Huh? Why!? What's so great about my dad, anyway?"
+
+msgctxt "8016_Kiryu"
+msgid ""
+"He's in his fifties, and he still manages to get into the ring and fight "
+"wrestlers half his age. He must really love the sport."
+msgstr ""
+"He's in his fifties, and he still manages to get into the ring and fight "
+"wrestlers half his age. He must really love the sport."
+
+msgctxt "8028_松岡里緒奈：源氏名"
+msgid "You've got that right. He's a wrestling fool."
+msgstr "You've got that right. He's a wrestling fool."
+
+msgctxt "8040_松岡里緒奈：源氏名"
+msgid "When I was young, he tried to make me into a wrestler!"
+msgstr "When I was young, he tried to make me into a wrestler!"
+
+msgctxt "8052_Kiryu"
+msgid "You? A wrestler?"
+msgstr "You? A wrestler?"
+
+msgctxt "8064_Kiryu"
+msgid "That sounds like something he'd do."
+msgstr "That sounds like something he'd do."
+
+msgctxt "8076_松岡里緒奈：源氏名"
+msgid ""
+"Well, I don't care how much you love wrestling. You don't try to force your "
+"daughter into it."
+msgstr ""
+"Well, I don't care how much you love wrestling. You don't try to force your "
+"daughter into it."
+
+msgctxt "8088_Kiryu"
+msgid ""
+"Your father's a great man. Maybe he had a hard time showing his love for "
+"you. Maybe his way was to connect with you through wrestling."
+msgstr ""
+"Your father's a great man. Maybe he had a hard time showing his love for "
+"you. Maybe his way was to connect with you through wrestling."
+
+msgctxt "8100_松岡里緒奈：源氏名"
+msgid "Hmm... I didn't think about it that way. My dad, a great man..."
+msgstr "Hmm... I didn't think about it that way. My dad, a great man..."
+
+msgctxt "8112_Kiryu"
+msgid "You should appreciate him more."
+msgstr "You should appreciate him more."
+
+msgctxt "8124_松岡里緒奈：源氏名"
+msgid "You know how my dad runs Kamuro Pro Wrestling?"
+msgstr "You know how my dad runs Kamuro Pro Wrestling?"
+
+msgctxt "8136_Kiryu"
+msgid "Yeah?"
+msgstr "Sì?"
+
+msgctxt "8148_松岡里緒奈：源氏名"
+msgid ""
+"Well, yesterday I read on an online forum that they're having financial "
+"troubles."
+msgstr ""
+"Well, yesterday I read on an online forum that they're having financial "
+"troubles."
+
+msgctxt "8160_松岡里緒奈：源氏名"
+msgid ""
+"They said they've been losing viewers for years. I don't know if it's true, "
+"but..."
+msgstr ""
+"They said they've been losing viewers for years. I don't know if it's true, "
+"but..."
+
+msgctxt "8172_Kiryu"
+msgid "Why don't you ask your father about it?"
+msgstr "Why don't you ask your father about it?"
+
+msgctxt "8184_松岡里緒奈：源氏名"
+msgid "I can't do that. We're still fighting."
+msgstr "I can't do that. We're still fighting."
+
+msgctxt "8196_Kiryu"
+msgid ""
+"You could try going to a match. Then you'd know how many customers there "
+"are."
+msgstr ""
+"You could try going to a match. Then you'd know how many customers there "
+"are."
+
+msgctxt "8208_松岡里緒奈：源氏名"
+msgid "No, no. I could never do that! I know too many people there!"
+msgstr "No, no. I could never do that! I know too many people there!"
+
+msgctxt "8220_松岡里緒奈：源氏名"
+msgid "I wouldn't want my dad to know I've been spying on him."
+msgstr "I wouldn't want my dad to know I've been spying on him."
+
+msgctxt "8232_Kiryu"
+msgid "You could go in disguise. Wear some sunglasses or maybe a mask."
+msgstr "You could go in disguise. Wear some sunglasses or maybe a mask."
+
+msgctxt "8244_松岡里緒奈：源氏名"
+msgid ""
+"Come on. That would be way dumb! But then again, it might be kind of "
+"exciting."
+msgstr ""
+"Come on. That would be way dumb! But then again, it might be kind of "
+"exciting."
+
+msgctxt "8256_松岡里緒奈：源氏名"
+msgid "Would you come with me?"
+msgstr "Would you come with me?"
+
+msgctxt "8268_Kiryu"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "8280_松岡里緒奈：源氏名"
+msgid ""
+"Okay! We'll go undercover the next time they have a match! I feel like a "
+"secret agent or something! <Color:7>♥<Color:Default>"
+msgstr ""
+"Okay! We'll go undercover the next time they have a match! I feel like a "
+"secret agent or something! <Color:7>♥<Color:Default>"
+
+msgctxt "8292_Kiryu"
+msgid "You could ask your brother. He lives with your father, right?"
+msgstr "You could ask your brother. He lives with your father, right?"
+
+msgctxt "8304_松岡里緒奈：源氏名"
+msgid "Yes. I already emailed him about it, but he hasn't replied yet."
+msgstr "Yes. I already emailed him about it, but he hasn't replied yet."
+
+msgctxt "8316_松岡里緒奈：源氏名"
+msgid "That idiot is probably messing around in town somewhere."
+msgstr "That idiot is probably messing around in town somewhere."
+
+msgctxt "8328_Kiryu"
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgctxt "8340_松岡里緒奈：源氏名"
+msgid "He's so bad at getting back to people! He just kills me!"
+msgstr "He's so bad at getting back to people! He just kills me!"
+
+msgctxt "8352_Kiryu"
+msgid "You'll just have to wait and see what he says."
+msgstr "You'll just have to wait and see what he says."
+
+msgctxt "8364_松岡里緒奈：源氏名"
+msgid "Yeah. But I'm going to tell him a thing or two next time I see him!"
+msgstr "Yeah. But I'm going to tell him a thing or two next time I see him!"
+
+msgctxt "8376_Kiryu"
+msgid ""
+"You can't believe everything you read online. People like to make stuff up "
+"all the time."
+msgstr ""
+"You can't believe everything you read online. People like to make stuff up "
+"all the time."
+
+msgctxt "8388_松岡里緒奈：源氏名"
+msgid ""
+"But why would someone make up something like that about Kamuro Pro "
+"Wrestling?"
+msgstr ""
+"But why would someone make up something like that about Kamuro Pro "
+"Wrestling?"
+
+msgctxt "8400_Kiryu"
+msgid "I don't know. You just can't trust the Internet."
+msgstr "I don't know. You just can't trust the Internet."
+
+msgctxt "8412_松岡里緒奈：源氏名"
+msgid ""
+"Where there's smoke, there's fire, as they say. Do you use the Internet at "
+"all?"
+msgstr ""
+"Where there's smoke, there's fire, as they say. Do you use the Internet at "
+"all?"
+
+msgctxt "8424_Kiryu"
+msgid "Well, I do read blogs..."
+msgstr "Well, I do read blogs..."
+
+msgctxt "8436_松岡里緒奈：源氏名"
+msgid "Blogs!? No way! What do you read them for?"
+msgstr "Blogs!? No way! What do you read them for?"
+
+msgctxt "8448_Kiryu"
+msgid "To help me get stronger."
+msgstr "To help me get stronger."
+
+msgctxt "8460_松岡里緒奈：源氏名"
+msgid "What do you mean? How would a blog do that?"
+msgstr "What do you mean? How would a blog do that?"
+
+msgctxt "8472_松岡里緒奈：源氏名"
+msgid "I was seriously asking, you know..."
+msgstr "I was seriously asking, you know..."
+
+msgctxt "8484_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "8496_松岡里緒奈：源氏名"
+msgid "Can I tell you something?"
+msgstr "Can I tell you something?"
+
+msgctxt "8508_Kiryu"
+msgid "Sure. What?"
+msgstr "Sure. What?"
+
+msgctxt "8520_松岡里緒奈：源氏名"
+msgid "I've never been swept up in a true romance."
+msgstr "I've never been swept up in a true romance."
+
+msgctxt "8532_松岡里緒奈：源氏名"
+msgid ""
+"I meet guys who I think are great at first, but they always turn out to be "
+"wimps or cheaters."
+msgstr ""
+"I meet guys who I think are great at first, but they always turn out to be "
+"wimps or cheaters."
+
+msgctxt "8544_Kiryu"
+msgid "Sounds like you've had some bad luck."
+msgstr "Sounds like you've had some bad luck."
+
+msgctxt "8556_松岡里緒奈：源氏名"
+msgid "Tell me about it. I've got the worst luck with men."
+msgstr "Tell me about it. I've got the worst luck with men."
+
+msgctxt "8568_松岡里緒奈：源氏名"
+msgid "I'm starting to think I'll never find someone..."
+msgstr "I'm starting to think I'll never find someone..."
+
+msgctxt "8580_Kiryu"
+msgid "Things will get better."
+msgstr "Things will get better."
+
+msgctxt "8592_松岡里緒奈：源氏名"
+msgid "You really think so?"
+msgstr "You really think so?"
+
+msgctxt "8604_Kiryu"
+msgid "You met me, didn't you? I'd say things are already looking up."
+msgstr "You met me, didn't you? I'd say things are already looking up."
+
+msgctxt "8616_松岡里緒奈：源氏名"
+msgid "I'm impressed you could say that with a straight face!"
+msgstr "I'm impressed you could say that with a straight face!"
+
+msgctxt "8628_Kiryu"
+msgid ""
+"Look at it this way. You've used up all your bad luck, so you've only got "
+"good luck left."
+msgstr ""
+"Look at it this way. You've used up all your bad luck, so you've only got "
+"good luck left."
+
+msgctxt "8640_松岡里緒奈：源氏名"
+msgid ""
+"Hm, never thought of it like that before. Maybe things are looking up for me"
+" after all! <Color:7>♥<Color:Default>"
+msgstr ""
+"Hm, never thought of it like that before. Maybe things are looking up for me"
+" after all! <Color:7>♥<Color:Default>"
+
+msgctxt "8652_Kiryu"
+msgid "You see?"
+msgstr "You see?"
+
+msgctxt "8664_Kiryu"
+msgid "Maybe that's your fate."
+msgstr "Maybe that's your fate."
+
+msgctxt "8676_松岡里緒奈：源氏名"
+msgid "So you're saying maybe I'll never experience true love?"
+msgstr "So you're saying maybe I'll never experience true love?"
+
+msgctxt "8688_Kiryu"
+msgid "That's not for me to say. Only fate knows for sure."
+msgstr "That's not for me to say. Only fate knows for sure."
+
+msgctxt "8700_松岡里緒奈：源氏名"
+msgid ""
+"Then maybe my luck won't get any better if we start seeing each other..."
+msgstr ""
+"Then maybe my luck won't get any better if we start seeing each other..."
+
+msgctxt "8712_Kiryu"
+msgid "I wouldn't say that. I think I could make you happy."
+msgstr "I wouldn't say that. I think I could make you happy."
+
+msgctxt "8724_松岡里緒奈：源氏名"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "8736_Kiryu"
+msgid "Absolutely."
+msgstr "Absolutely."
+
+msgctxt "8748_松岡里緒奈：源氏名"
+msgid ""
+"That's easier said than done. Men have told me similar things before. I'm "
+"not falling for that again!"
+msgstr ""
+"That's easier said than done. Men have told me similar things before. I'm "
+"not falling for that again!"
+
+msgctxt "8760_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "8772_Kiryu"
+msgid ""
+"Learn how to be a better judge of men. I think you're part of the problem."
+msgstr ""
+"Learn how to be a better judge of men. I think you're part of the problem."
+
+msgctxt "8784_松岡里緒奈：源氏名"
+msgid "Hm, you think so? And you're a great judge of women, I take it?"
+msgstr "Hm, you think so? And you're a great judge of women, I take it?"
+
+msgctxt "8796_Kiryu"
+msgid "Of course. I've had a lot of experience."
+msgstr "Of course. I've had a lot of experience."
+
+msgctxt "8808_松岡里緒奈：源氏名"
+msgid ""
+"Oh, so you've gone out with a lot of girls, huh? I didn't realize you were "
+"such a player."
+msgstr ""
+"Oh, so you've gone out with a lot of girls, huh? I didn't realize you were "
+"such a player."
+
+msgctxt "8820_Kiryu"
+msgid ""
+"Uh, I didn't mean it that way. A guy like me with a lot of life experience "
+"learns to be a good judge of character."
+msgstr ""
+"Uh, I didn't mean it that way. A guy like me with a lot of life experience "
+"learns to be a good judge of character."
+
+msgctxt "8832_松岡里緒奈：源氏名"
+msgid ""
+"Well, you're good at thinking up excuses, at least. I hate how men are "
+"constantly waffling."
+msgstr ""
+"Well, you're good at thinking up excuses, at least. I hate how men are "
+"constantly waffling."
+
+msgctxt "8844_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "8856_松岡里緒奈：源氏名"
+msgid "Kiryu-san... This guy asked me out the other day."
+msgstr "Kiryu-san... This guy asked me out the other day."
+
+msgctxt "8868_松岡里緒奈：源氏名"
+msgid ""
+"He's a student at my college. We're in a club together, but he's a year "
+"older."
+msgstr ""
+"He's a student at my college. We're in a club together, but he's a year "
+"older."
+
+msgctxt "8880_Kiryu"
+msgid "Hey, that's great."
+msgstr "Hey, that's great."
+
+msgctxt "8892_松岡里緒奈：源氏名"
+msgid "He's gorgeous and friendly. All the girls like him."
+msgstr "He's gorgeous and friendly. All the girls like him."
+
+msgctxt "8904_松岡里緒奈：源氏名"
+msgid "Do you know what he said when I asked him why he likes me?"
+msgstr "Do you know what he said when I asked him why he likes me?"
+
+msgctxt "8916_松岡里緒奈：源氏名"
+msgid "He said he loves my passionate personality. What do you think of that?"
+msgstr ""
+"He said he loves my passionate personality. What do you think of that?"
+
+msgctxt "8928_Kiryu"
+msgid "Well, that's hard to say..."
+msgstr "Well, that's hard to say..."
+
+msgctxt "8940_松岡里緒奈：源氏名"
+msgid "I'm trying to decide whether I should give him a shot or not."
+msgstr "I'm trying to decide whether I should give him a shot or not."
+
+msgctxt "8952_松岡里緒奈：源氏名"
+msgid ""
+"I haven't had much luck with love... It would suck if we started going out "
+"and it turns out he's a jerk."
+msgstr ""
+"I haven't had much luck with love... It would suck if we started going out "
+"and it turns out he's a jerk."
+
+msgctxt "8964_Kiryu"
+msgid "If you're not sure, you shouldn't do it."
+msgstr "If you're not sure, you shouldn't do it."
+
+msgctxt "8976_松岡里緒奈：源氏名"
+msgid "Oh, is that jealousy I'm hearing?"
+msgstr "Oh, is that jealousy I'm hearing?"
+
+msgctxt "8988_Kiryu"
+msgid ""
+"It's not that. Going out with the popular guy can make things... "
+"complicated."
+msgstr ""
+"It's not that. Going out with the popular guy can make things... "
+"complicated."
+
+msgctxt "9000_松岡里緒奈：源氏名"
+msgid ""
+"I guess you have a point. I wouldn't want other girls eyeing my boyfriend "
+"all the time."
+msgstr ""
+"I guess you have a point. I wouldn't want other girls eyeing my boyfriend "
+"all the time."
+
+msgctxt "9012_松岡里緒奈：源氏名"
+msgid "If you don't want me to see him, I'll tell him I'm not interested."
+msgstr "If you don't want me to see him, I'll tell him I'm not interested."
+
+msgctxt "9024_Kiryu"
+msgid "Shouldn't that be up to you?"
+msgstr "Shouldn't that be up to you?"
+
+msgctxt "9036_松岡里緒奈：源氏名"
+msgid "I just want to know what you think."
+msgstr "I just want to know what you think."
+
+msgctxt "9048_Kiryu"
+msgid "Fine. Then I don't want you to see him. Good enough?"
+msgstr "Fine. Then I don't want you to see him. Good enough?"
+
+msgctxt "9060_松岡里緒奈：源氏名"
+msgid "Yep! <Color:7>♥<Color:Default>"
+msgstr "Yep! <Color:7>♥<Color:Default>"
+
+msgctxt "9072_Kiryu"
+msgid "What's he got that I haven't got?"
+msgstr "What's he got that I haven't got?"
+
+msgctxt "9084_松岡里緒奈：源氏名"
+msgid ""
+"What!? I... I don't know. You two are so different. He's an honor roll "
+"student and everything."
+msgstr ""
+"What!? I... I don't know. You two are so different. He's an honor roll "
+"student and everything."
+
+msgctxt "9096_松岡里緒奈：源氏名"
+msgid "But I guess if I had to choose..."
+msgstr "But I guess if I had to choose..."
+
+msgctxt "9108_Kiryu"
+msgid "If you had to choose?"
+msgstr "If you had to choose?"
+
+msgctxt "9120_松岡里緒奈：源氏名"
+msgid "I'd say you're more my type. <Color:7>♥<Color:Default>"
+msgstr "I'd say you're more my type. <Color:7>♥<Color:Default>"
+
+msgctxt "9132_Kiryu"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "9144_松岡里緒奈：源氏名"
+msgid ""
+"I'll turn him down. Forget I even mentioned it. <Color:7>♥<Color:Default>"
+msgstr ""
+"I'll turn him down. Forget I even mentioned it. <Color:7>♥<Color:Default>"
+
+msgctxt "9156_Kiryu"
+msgid "I should meet him sometime. See if he's the right kind of guy for you."
+msgstr ""
+"I should meet him sometime. See if he's the right kind of guy for you."
+
+msgctxt "9168_松岡里緒奈：源氏名"
+msgid "What!? No, that sounds like a bad idea."
+msgstr "What!? No, that sounds like a bad idea."
+
+msgctxt "9180_Kiryu"
+msgid ""
+"I'm a good judge of character. If I meet him, I'll know what kind of man he "
+"is."
+msgstr ""
+"I'm a good judge of character. If I meet him, I'll know what kind of man he "
+"is."
+
+msgctxt "9192_松岡里緒奈：源氏名"
+msgid "And what if you decide that he's a jerk?"
+msgstr "And what if you decide that he's a jerk?"
+
+msgctxt "9204_Kiryu"
+msgid ""
+"Well, then I'll convince him to forget about you. Using whatever means "
+"necessary."
+msgstr ""
+"Well, then I'll convince him to forget about you. Using whatever means "
+"necessary."
+
+msgctxt "9216_松岡里緒奈：源氏名"
+msgid "I don't like the sound of that! No way, you're not meeting him!"
+msgstr "I don't like the sound of that! No way, you're not meeting him!"
+
+msgctxt "9228_松岡里緒奈：源氏名"
+msgid "Might doesn't always make right, by the way! Hmph!"
+msgstr "Might doesn't always make right, by the way! Hmph!"
+
+msgctxt "9240_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "9252_松岡里緒奈：源氏名"
+msgid ""
+"You remember me telling you about the physical exam I had to take at school?"
+msgstr ""
+"You remember me telling you about the physical exam I had to take at school?"
+
+msgctxt "9264_Kiryu"
+msgid "Sure. How did that turn out?"
+msgstr "Sure. How did that turn out?"
+
+msgctxt "9276_松岡里緒奈：源氏名"
+msgid "Well... I took it..."
+msgstr "Well... I took it..."
+
+msgctxt "9288_松岡里緒奈：源氏名"
+msgid "And I got the results."
+msgstr "And I got the results."
+
+msgctxt "9300_Kiryu"
+msgid "So, how was it? Did they find something wrong?"
+msgstr "So, how was it? Did they find something wrong?"
+
+msgctxt "9312_松岡里緒奈：源氏名"
+msgid "Actually..."
+msgstr "Actually..."
+
+msgctxt "9324_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "9336_松岡里緒奈：源氏名"
+msgid "It went perfectly! I'm the healthiest girl they've ever seen!"
+msgstr "It went perfectly! I'm the healthiest girl they've ever seen!"
+
+msgctxt "9348_Kiryu"
+msgid "Wow... You had me thinking you were dying or something."
+msgstr "Wow... You had me thinking you were dying or something."
+
+msgctxt "9360_松岡里緒奈：源氏名"
+msgid ""
+"Were you worried about me? Anyway, today I think we should have a drink! To "
+"my health!"
+msgstr ""
+"Were you worried about me? Anyway, today I think we should have a drink! To "
+"my health!"
+
+msgctxt "9372_Kiryu"
+msgid "Hey, you got a clean bill of health. Just don't overdo it."
+msgstr "Hey, you got a clean bill of health. Just don't overdo it."
+
+msgctxt "9384_松岡里緒奈：源氏名"
+msgid "Yeah, I know I need to cut back on drinking a bit..."
+msgstr "Yeah, I know I need to cut back on drinking a bit..."
+
+msgctxt "9396_松岡里緒奈：源氏名"
+msgid "But today's a celebration! <Color:7>♥<Color:Default>"
+msgstr "But today's a celebration! <Color:7>♥<Color:Default>"
+
+msgctxt "9408_松岡里緒奈：源氏名"
+msgid "We have to drink today! Come on, you have to drink, too!"
+msgstr "We have to drink today! Come on, you have to drink, too!"
+
+msgctxt "9420_Kiryu"
+msgid "Oh, all right... But just today."
+msgstr "Oh, all right... But just today."
+
+msgctxt "9432_松岡里緒奈：源氏名"
+msgid "Heh, that's why I like you so much. <Color:7>♥<Color:Default>"
+msgstr "Heh, that's why I like you so much. <Color:7>♥<Color:Default>"
+
+msgctxt "9444_Kiryu"
+msgid "I'll pass. Getting a little old for this kinda thing."
+msgstr "I'll pass. Getting a little old for this kinda thing."
+
+msgctxt "9456_松岡里緒奈：源氏名"
+msgid "Huh? How old are you?"
+msgstr "Huh? How old are you?"
+
+msgctxt "9468_Kiryu"
+msgid "I'm 41."
+msgstr "I'm 41."
+
+msgctxt "9480_松岡里緒奈：源氏名"
+msgid "Seriously? What's your secret!? You don't look it at all!"
+msgstr "Seriously? What's your secret!? You don't look it at all!"
+
+msgctxt "9492_Kiryu"
+msgid "Heh, I'm flattered."
+msgstr "Heh, I'm flattered."
+
+msgctxt "9504_松岡里緒奈：源氏名"
+msgid ""
+"Absolutely! If you look this young, you must have a strong, healthy liver, "
+"too!"
+msgstr ""
+"Absolutely! If you look this young, you must have a strong, healthy liver, "
+"too!"
+
+msgctxt "9516_Kiryu"
+msgid ""
+"Okay, but... I'm still not going to go overboard. I prefer to drink slowly "
+"and savor it."
+msgstr ""
+"Okay, but... I'm still not going to go overboard. I prefer to drink slowly "
+"and savor it."
+
+msgctxt "9528_松岡里緒奈：源氏名"
+msgid "Seriously? Aww, you're such a party pooper..."
+msgstr "Seriously? Aww, you're such a party pooper..."
+
+msgctxt "9540_Kiryu"
+msgid "Well, maybe I can make an exception just this once."
+msgstr "Well, maybe I can make an exception just this once."
+
+msgctxt "9552_松岡里緒奈：源氏名"
+msgid "Really!? Great!"
+msgstr "Really!? Great!"
+
+msgctxt "9564_松岡里緒奈：源氏名"
+msgid ""
+"We should make it a drinking game! The super-healthy me versus the middle-"
+"aged man!"
+msgstr ""
+"We should make it a drinking game! The super-healthy me versus the middle-"
+"aged man!"
+
+msgctxt "9576_Kiryu"
+msgid "Hey, who's middle-aged?"
+msgstr "Hey, who's middle-aged?"
+
+msgctxt "9588_松岡里緒奈：源氏名"
+msgid "If I win, you'll be my slave forever!"
+msgstr "If I win, you'll be my slave forever!"
+
+msgctxt "9600_Kiryu"
+msgid "Uh... Are you drunk already?"
+msgstr "Uh... Are you drunk already?"
+
+msgctxt "9612_松岡里緒奈：源氏名"
+msgid ""
+"Huh? It's cool, whatever. I can see you're afraid to lose! I'm drinking "
+"today anyway!"
+msgstr ""
+"Huh? It's cool, whatever. I can see you're afraid to lose! I'm drinking "
+"today anyway!"
+
+msgctxt "9624_Kiryu"
+msgid "Do what you like."
+msgstr "Do what you like."
+
+msgctxt "9636_松岡里緒奈：源氏名"
+msgid ""
+"I will! But since you're such a scaredy cat, we can take\r\n"
+"it slow. <Color:7>♥<Color:Default>"
+msgstr ""
+"I will! But since you're such a scaredy cat, we can take\r\n"
+"it slow. <Color:7>♥<Color:Default>"
+
+msgctxt "9648_松岡里緒奈：源氏名"
+msgid "One of my childhood friends had a baby the other day."
+msgstr "One of my childhood friends had a baby the other day."
+
+msgctxt "9660_Kiryu"
+msgid "Oh, that's great. Congratulations to them."
+msgstr "Oh, that's great. Congratulations to them."
+
+msgctxt "9672_松岡里緒奈：源氏名"
+msgid ""
+"I went to visit her on my day off, and her baby is just the cutest thing "
+"ever! <Color:7>♥<Color:Default>"
+msgstr ""
+"I went to visit her on my day off, and her baby is just the cutest thing "
+"ever! <Color:7>♥<Color:Default>"
+
+msgctxt "9684_松岡里緒奈：源氏名"
+msgid ""
+"Sooo adorable! I think just seeing the baby turned my maternal instincts up "
+"to 11!"
+msgstr ""
+"Sooo adorable! I think just seeing the baby turned my maternal instincts up "
+"to 11!"
+
+msgctxt "9696_松岡里緒奈：源氏名"
+msgid ""
+"It's made me start thinking about how I would raise my own child if I had "
+"one. <Color:7>♥<Color:Default>"
+msgstr ""
+"It's made me start thinking about how I would raise my own child if I had "
+"one. <Color:7>♥<Color:Default>"
+
+msgctxt "9708_Kiryu"
+msgid "Aren't you getting a bit ahead of yourself?"
+msgstr "Aren't you getting a bit ahead of yourself?"
+
+msgctxt "9720_松岡里緒奈：源氏名"
+msgid "Not at all!"
+msgstr "Not at all!"
+
+msgctxt "9732_松岡里緒奈：源氏名"
+msgid "What would you teach your kids?"
+msgstr "What would you teach your kids?"
+
+msgctxt "9744_Kiryu"
+msgid "Karate. Definitely. I'd want my kid to be able to defend himself."
+msgstr "Karate. Definitely. I'd want my kid to be able to defend himself."
+
+msgctxt "9756_松岡里緒奈：源氏名"
+msgid "Karate, huh? But what if he gets too strong?"
+msgstr "Karate, huh? But what if he gets too strong?"
+
+msgctxt "9768_松岡里緒奈：源氏名"
+msgid "He could start bullying and hurting other kids!"
+msgstr "He could start bullying and hurting other kids!"
+
+msgctxt "9780_Kiryu"
+msgid ""
+"I'd deal with that if it happened. Give him a lecture to straighten him out."
+msgstr ""
+"I'd deal with that if it happened. Give him a lecture to straighten him out."
+
+msgctxt "9792_松岡里緒奈：源氏名"
+msgid ""
+"Nuh-uh, a good parent has to make sure something like that doesn't happen in"
+" the first place. And what if you had a girl, not a boy?"
+msgstr ""
+"Nuh-uh, a good parent has to make sure something like that doesn't happen in"
+" the first place. And what if you had a girl, not a boy?"
+
+msgctxt "9804_Kiryu"
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgctxt "9816_Kiryu"
+msgid "A foreign language is a must. You have to think globally these days."
+msgstr "A foreign language is a must. You have to think globally these days."
+
+msgctxt "9828_松岡里緒奈：源氏名"
+msgid ""
+"Wow... I'm surprised. Somehow I can't picture you making your child study."
+msgstr ""
+"Wow... I'm surprised. Somehow I can't picture you making your child study."
+
+msgctxt "9840_Kiryu"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "9852_松岡里緒奈：源氏名"
+msgid "But I bet any child of yours would be a good fighter, right?"
+msgstr "But I bet any child of yours would be a good fighter, right?"
+
+msgctxt "9864_松岡里緒奈：源氏名"
+msgid ""
+"So if he was also smart, he could be some kind of intellectual yakuza. That "
+"might be cool!"
+msgstr ""
+"So if he was also smart, he could be some kind of intellectual yakuza. That "
+"might be cool!"
+
+msgctxt "9876_Kiryu"
+msgid "If that's what he wants, it'd be fine with me."
+msgstr "If that's what he wants, it'd be fine with me."
+
+msgctxt "9888_松岡里緒奈：源氏名"
+msgid ""
+" Hmm... Maybe you'd be a more compassionate dad than I first thought. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Hmm... Maybe you'd be a more compassionate dad than I first thought. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "9900_Kiryu"
+msgid ""
+"It's not a question of what I want. I'd rather let my child choose what he "
+"wants to do instead of forcing him into something."
+msgstr ""
+"It's not a question of what I want. I'd rather let my child choose what he "
+"wants to do instead of forcing him into something."
+
+msgctxt "9912_松岡里緒奈：源氏名"
+msgid ""
+"But children don't know enough about the world to make smart decisions. "
+"Don't you think parents should guide them?"
+msgstr ""
+"But children don't know enough about the world to make smart decisions. "
+"Don't you think parents should guide them?"
+
+msgctxt "9924_Kiryu"
+msgid ""
+"Maybe so. I didn't take any lessons when I was a kid, so I don't know any "
+"better."
+msgstr ""
+"Maybe so. I didn't take any lessons when I was a kid, so I don't know any "
+"better."
+
+msgctxt "9936_松岡里緒奈：源氏名"
+msgid "I see... Well, every family is different."
+msgstr "I see... Well, every family is different."
+
+msgctxt "9948_Kiryu"
+msgid "I'll make sure he lives a life without regrets."
+msgstr "I'll make sure he lives a life without regrets."
+
+msgctxt "9960_松岡里緒奈：源氏名"
+msgid ""
+"I haven't been able to play any sports since high school. My chest gets in "
+"the way."
+msgstr ""
+"I haven't been able to play any sports since high school. My chest gets in "
+"the way."
+
+msgctxt "9972_Kiryu"
+msgid "Your... chest?"
+msgstr "Your... chest?"
+
+msgctxt "9984_松岡里緒奈：源氏名"
+msgid "Hey! Don't stare!"
+msgstr "Hey! Don't stare!"
+
+msgctxt "9996_松岡里緒奈：源氏名"
+msgid "Anyway, I recently found a sport I can play. Can you guess which?"
+msgstr "Anyway, I recently found a sport I can play. Can you guess which?"
+
+msgctxt "10008_Kiryu"
+msgid "I don't know... Tennis?"
+msgstr "I don't know... Tennis?"
+
+msgctxt "10020_松岡里緒奈：源氏名"
+msgid "Nope! Golf!"
+msgstr "Nope! Golf!"
+
+msgctxt "10032_Kiryu"
+msgid "Golf, huh?"
+msgstr "Golf, huh?"
+
+msgctxt "10044_松岡里緒奈：源氏名"
+msgid ""
+"The instructor at the driving range said I was very good for a beginner!"
+msgstr ""
+"The instructor at the driving range said I was very good for a beginner!"
+
+msgctxt "10056_松岡里緒奈：源氏名"
+msgid "Maybe I could go pro someday!"
+msgstr "Maybe I could go pro someday!"
+
+msgctxt "10068_Kiryu"
+msgid "I could teach you if you'd like."
+msgstr "I could teach you if you'd like."
+
+msgctxt "10080_松岡里緒奈：源氏名"
+msgid "You play golf, too?"
+msgstr "You play golf, too?"
+
+msgctxt "10092_Kiryu"
+msgid "Sure. I'm not too bad, either."
+msgstr "Sure. I'm not too bad, either."
+
+msgctxt "10104_松岡里緒奈：源氏名"
+msgid ""
+"Hmm, maybe I'll take you up on that. You really don't mind giving me "
+"lessons?"
+msgstr ""
+"Hmm, maybe I'll take you up on that. You really don't mind giving me "
+"lessons?"
+
+msgctxt "10116_Kiryu"
+msgid "Not at all. You just have to do whatever I say."
+msgstr "Not at all. You just have to do whatever I say."
+
+msgctxt "10128_松岡里緒奈：源氏名"
+msgid "Uh-huh... Kinda sounds like you have an ulterior motive there..."
+msgstr "Uh-huh... Kinda sounds like you have an ulterior motive there..."
+
+msgctxt "10140_Kiryu"
+msgid "No, of course not."
+msgstr "No, of course not."
+
+msgctxt "10152_松岡里緒奈：源氏名"
+msgid "I'll just stick to learning on my own, thanks."
+msgstr "I'll just stick to learning on my own, thanks."
+
+msgctxt "10164_Kiryu"
+msgid "They don't get in the way when you play golf?"
+msgstr "They don't get in the way when you play golf?"
+
+msgctxt "10176_松岡里緒奈：源氏名"
+msgid "Hm? What don't?"
+msgstr "Hm? What don't?"
+
+msgctxt "10188_Kiryu"
+msgid "You know... Your chest."
+msgstr "You know... Your chest."
+
+msgctxt "10200_松岡里緒奈：源氏名"
+msgid "Seems someone's mind has been in the gutter this whole time..."
+msgstr "Seems someone's mind has been in the gutter this whole time..."
+
+msgctxt "10212_Kiryu"
+msgid "You were the one who brought it up."
+msgstr "You were the one who brought it up."
+
+msgctxt "10224_松岡里緒奈：源氏名"
+msgid "Well, to be honest, they do get a bit in the way when I swing, but..."
+msgstr "Well, to be honest, they do get a bit in the way when I swing, but..."
+
+msgctxt "10236_松岡里緒奈：源氏名"
+msgid ""
+"It won't be much of a problem. It's not like you have to move your body "
+"much, right?"
+msgstr ""
+"It won't be much of a problem. It's not like you have to move your body "
+"much, right?"
+
+msgctxt "10248_Kiryu"
+msgid "I'm sure you'll do fine."
+msgstr "I'm sure you'll do fine."
+
+msgctxt "10260_Kiryu"
+msgid "Want to play me?"
+msgstr "Want to play me?"
+
+msgctxt "10272_松岡里緒奈：源氏名"
+msgid "Huh!? You play golf?"
+msgstr "Huh!? You play golf?"
+
+msgctxt "10284_Kiryu"
+msgid "Sure. I'm not too bad, either."
+msgstr "Sure. I'm not too bad, either."
+
+msgctxt "10296_松岡里緒奈：源氏名"
+msgid ""
+"All I've done so far is go to the driving range, so I don't even know how to"
+" putt yet."
+msgstr ""
+"All I've done so far is go to the driving range, so I don't even know how to"
+" putt yet."
+
+msgctxt "10308_Kiryu"
+msgid ""
+"There's nothing like hands-on experience. You should jump right in and try."
+msgstr ""
+"There's nothing like hands-on experience. You should jump right in and try."
+
+msgctxt "10320_松岡里緒奈：源氏名"
+msgid "I suppose I could do that."
+msgstr "I suppose I could do that."
+
+msgctxt "10332_松岡里緒奈：源氏名"
+msgid ""
+"Let's make it interesting. If you lose to me, I get to make you do anything."
+msgstr ""
+"Let's make it interesting. If you lose to me, I get to make you do anything."
+
+msgctxt "10344_Kiryu"
+msgid "Do I get to do the same if you lose?"
+msgstr "Do I get to do the same if you lose?"
+
+msgctxt "10356_松岡里緒奈：源氏名"
+msgid ""
+"Well now, that wouldn't be proper, would it? Don't worry, I'll come up with "
+"something good for your penalty. I hope you're excited!"
+msgstr ""
+"Well now, that wouldn't be proper, would it? Don't worry, I'll come up with "
+"something good for your penalty. I hope you're excited!"
+
+msgctxt "10368_松岡里緒奈：源氏名"
+msgid ""
+"I played sports all the time when I was little. Wore sweats nearly every "
+"day."
+msgstr ""
+"I played sports all the time when I was little. Wore sweats nearly every "
+"day."
+
+msgctxt "10380_松岡里緒奈：源氏名"
+msgid ""
+"Seems I got used to it, since I'm still in sweats like 90 percent of the "
+"time. Guess it's just something I never grew out of."
+msgstr ""
+"Seems I got used to it, since I'm still in sweats like 90 percent of the "
+"time. Guess it's just something I never grew out of."
+
+msgctxt "10392_松岡里緒奈：源氏名"
+msgid ""
+"I have to wear dresses like this when I'm at the club, but it's not "
+"something I think I'll ever get used to."
+msgstr ""
+"I have to wear dresses like this when I'm at the club, but it's not "
+"something I think I'll ever get used to."
+
+msgctxt "10404_Kiryu"
+msgid ""
+"There's nothing wrong with that. This is how I dress most of the time, "
+"honestly."
+msgstr ""
+"There's nothing wrong with that. This is how I dress most of the time, "
+"honestly."
+
+msgctxt "10416_松岡里緒奈：源氏名"
+msgid "I like it. It looks good on you. Very masculine and suave."
+msgstr "I like it. It looks good on you. Very masculine and suave."
+
+msgctxt "10428_松岡里緒奈：源氏名"
+msgid "It's not the same for me, though. I'm twenty-one years old, after all!"
+msgstr ""
+"It's not the same for me, though. I'm twenty-one years old, after all!"
+
+msgctxt "10440_松岡里緒奈：源氏名"
+msgid "I should be dressing more appropriately for my age, shouldn't I?"
+msgstr "I should be dressing more appropriately for my age, shouldn't I?"
+
+msgctxt "10452_Kiryu"
+msgid "I could pick out an outfit for you."
+msgstr "I could pick out an outfit for you."
+
+msgctxt "10464_松岡里緒奈：源氏名"
+msgid "Huh? You know about fashion?"
+msgstr "Huh? You know about fashion?"
+
+msgctxt "10476_Kiryu"
+msgid "Of course. I even trained a few hostesses in the past."
+msgstr "Of course. I even trained a few hostesses in the past."
+
+msgctxt "10488_松岡里緒奈：源氏名"
+msgid "Well then, what clothes do you think would look good on me?"
+msgstr "Well then, what clothes do you think would look good on me?"
+
+msgctxt "10500_Kiryu"
+msgid "Let me see... How about a red dress with a fur coat?"
+msgstr "Let me see... How about a red dress with a fur coat?"
+
+msgctxt "10512_松岡里緒奈：源氏名"
+msgid ""
+"Wow, that sounds way old-school! I wouldn't be caught dead in something like"
+" that!"
+msgstr ""
+"Wow, that sounds way old-school! I wouldn't be caught dead in something like"
+" that!"
+
+msgctxt "10524_Kiryu"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "10536_Kiryu"
+msgid ""
+"There's nothing wrong with it. I bet you look cute in sweats. I'd like to "
+"see that."
+msgstr ""
+"There's nothing wrong with it. I bet you look cute in sweats. I'd like to "
+"see that."
+
+msgctxt "10548_松岡里緒奈：源氏名"
+msgid ""
+"Oh, I couldn't do that! I never let customers see me in my off-duty clothes."
+msgstr ""
+"Oh, I couldn't do that! I never let customers see me in my off-duty clothes."
+
+msgctxt "10560_Kiryu"
+msgid ""
+"There's nothing to be embarrassed about. I just want to see the real you."
+msgstr ""
+"There's nothing to be embarrassed about. I just want to see the real you."
+
+msgctxt "10572_松岡里緒奈：源氏名"
+msgid "Really? Well, maybe I could allow it... One day."
+msgstr "Really? Well, maybe I could allow it... One day."
+
+msgctxt "10584_Kiryu"
+msgid "Heh. Now that's something to look forward to."
+msgstr "Heh. Now that's something to look forward to."
+
+msgctxt "10596_松岡里緒奈：源氏名"
+msgid "As long as you promise not to laugh!"
+msgstr "As long as you promise not to laugh!"
+
+msgctxt "10608_Kiryu"
+msgid ""
+"You should go for a more feminine look. Pay a bit more attention to fashion."
+msgstr ""
+"You should go for a more feminine look. Pay a bit more attention to fashion."
+
+msgctxt "10620_松岡里緒奈：源氏名"
+msgid "Hmm. I'm not really that feminine though..."
+msgstr "Hmm. I'm not really that feminine though..."
+
+msgctxt "10632_Kiryu"
+msgid ""
+"I disagree. You're quite attractive. You just need a little more polish."
+msgstr ""
+"I disagree. You're quite attractive. You just need a little more polish."
+
+msgctxt "10644_松岡里緒奈：源氏名"
+msgid "Hmm, you think so?"
+msgstr "Hmm, you think so?"
+
+msgctxt "10656_Kiryu"
+msgid ""
+"Sure. It wouldn't hurt for you to look more feminine. You'd certainly get "
+"more positive attention from everyone."
+msgstr ""
+"Sure. It wouldn't hurt for you to look more feminine. You'd certainly get "
+"more positive attention from everyone."
+
+msgctxt "10668_松岡里緒奈：源氏名"
+msgid ""
+"I see... Maybe I should rethink my wardrobe and do some clothes shopping."
+msgstr ""
+"I see... Maybe I should rethink my wardrobe and do some clothes shopping."
+
+msgctxt "10680_松岡里緒奈：源氏名"
+msgid "It's such a pain though! I love my sweats. They're so comfy!"
+msgstr "It's such a pain though! I love my sweats. They're so comfy!"
+
+msgctxt "10692_松岡里緒奈：源氏名"
+msgid "Kiryu-san, did you know that my hobby is crying?"
+msgstr "Kiryu-san, did you know that my hobby is crying?"
+
+msgctxt "10704_Kiryu"
+msgid "What do you mean by that?"
+msgstr "What do you mean by that?"
+
+msgctxt "10716_松岡里緒奈：源氏名"
+msgid ""
+"You know how you feel refreshed after a good cry? Well, I only rent DVDs "
+"that'll make me cry for that reason."
+msgstr ""
+"You know how you feel refreshed after a good cry? Well, I only rent DVDs "
+"that'll make me cry for that reason."
+
+msgctxt "10728_Kiryu"
+msgid "So you like tear-jerkers, then."
+msgstr "So you like tear-jerkers, then."
+
+msgctxt "10740_松岡里緒奈：源氏名"
+msgid ""
+"When I see a commercial for a sad movie that was a blockbuster in America, I"
+" go and rent it right away. Then I watch it alone and cry all night."
+msgstr ""
+"When I see a commercial for a sad movie that was a blockbuster in America, I"
+" go and rent it right away. Then I watch it alone and cry all night."
+
+msgctxt "10752_Kiryu"
+msgid "That's... different."
+msgstr "That's... different."
+
+msgctxt "10764_松岡里緒奈：源氏名"
+msgid "What kind of movies do you usually watch?"
+msgstr "What kind of movies do you usually watch?"
+
+msgctxt "10776_Kiryu"
+msgid "Documentaries."
+msgstr "Documentaries."
+
+msgctxt "10788_松岡里緒奈：源氏名"
+msgid "So you like non-fiction?"
+msgstr "So you like non-fiction?"
+
+msgctxt "10800_Kiryu"
+msgid "Yeah. Real life is always more exciting than fiction."
+msgstr "Yeah. Real life is always more exciting than fiction."
+
+msgctxt "10812_松岡里緒奈：源氏名"
+msgid "Ah. I'm the opposite. I watch movies to escape from reality."
+msgstr "Ah. I'm the opposite. I watch movies to escape from reality."
+
+msgctxt "10824_松岡里緒奈：源氏名"
+msgid "I don't watch documentaries much. Well, actually I never watch them."
+msgstr "I don't watch documentaries much. Well, actually I never watch them."
+
+msgctxt "10836_Kiryu"
+msgid "Really? Some movies based on true stories can be pretty moving."
+msgstr "Really? Some movies based on true stories can be pretty moving."
+
+msgctxt "10848_松岡里緒奈：源氏名"
+msgid "Yeah, but those aren't exactly documentaries, are they?"
+msgstr "Yeah, but those aren't exactly documentaries, are they?"
+
+msgctxt "10860_松岡里緒奈：源氏名"
+msgid "Our tastes in movies don't seem to match at all..."
+msgstr "Our tastes in movies don't seem to match at all..."
+
+msgctxt "10872_Kiryu"
+msgid "Historical dramas."
+msgstr "Historical dramas."
+
+msgctxt "10884_松岡里緒奈：源氏名"
+msgid "Fascinating. So who's your favorite warlord from the Sengoku Period?"
+msgstr "Fascinating. So who's your favorite warlord from the Sengoku Period?"
+
+msgctxt "10896_Kiryu"
+msgid "Hmm... I'd say Miyamoto Musashi."
+msgstr "Hmm... I'd say Miyamoto Musashi."
+
+msgctxt "10908_Kiryu"
+msgid ""
+"He always pushed himself to be stronger, and he fought all the best "
+"swordsmen throughout Japan. He's a man's man."
+msgstr ""
+"He always pushed himself to be stronger, and he fought all the best "
+"swordsmen throughout Japan. He's a man's man."
+
+msgctxt "10920_松岡里緒奈：源氏名"
+msgid "Really? I see! But you know he wasn't a warlord, right?"
+msgstr "Really? I see! But you know he wasn't a warlord, right?"
+
+msgctxt "10932_Kiryu"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "10944_Kiryu"
+msgid "Romance movies."
+msgstr "Romance movies."
+
+msgctxt "10956_松岡里緒奈：源氏名"
+msgid "Huh!? <Italic>You</Italic> watch romance movies!?"
+msgstr "Huh!? <Italic>You</Italic> watch romance movies!?"
+
+msgctxt "10968_Kiryu"
+msgid "Don't be so surprised. Everybody watches them, even me."
+msgstr "Don't be so surprised. Everybody watches them, even me."
+
+msgctxt "10980_Kiryu"
+msgid "Well, I only watch the ones that Haruka watches, but..."
+msgstr "Well, I only watch the ones that Haruka watches, but..."
+
+msgctxt "10992_松岡里緒奈：源氏名"
+msgid "Huh? Who's Haruka?"
+msgstr "Huh? Who's Haruka?"
+
+msgctxt "11004_Kiryu"
+msgid "Uh, never mind."
+msgstr "Uh, never mind."
+
+msgctxt "11016_松岡里緒奈：源氏名"
+msgid ""
+"Huh... You're kinda scary looking at first glance, but you have a sensitive "
+"side, too. <Color:7>♥<Color:Default>"
+msgstr ""
+"Huh... You're kinda scary looking at first glance, but you have a sensitive "
+"side, too. <Color:7>♥<Color:Default>"
+
+msgctxt "11028_Kiryu"
+msgid "Hehe. Don't judge a book by its cover."
+msgstr "Hehe. Don't judge a book by its cover."
+
+msgctxt "11040_松岡里緒奈：源氏名"
+msgid "Kiryu-san, I'm sorry I made you meet my mom."
+msgstr "Kiryu-san, I'm sorry I made you meet my mom."
+
+msgctxt "11052_松岡里緒奈：源氏名"
+msgid "And for making you pretend to be my boyfriend."
+msgstr "And for making you pretend to be my boyfriend."
+
+msgctxt "11064_Kiryu"
+msgid "Don't worry about it."
+msgstr "Don't worry about it."
+
+msgctxt "11076_松岡里緒奈：源氏名"
+msgid ""
+"I got an email from her after we left, you know. She couldn't say enough "
+"nice things about you."
+msgstr ""
+"I got an email from her after we left, you know. She couldn't say enough "
+"nice things about you."
+
+msgctxt "11088_松岡里緒奈：源氏名"
+msgid "She said you were polite and very handsome!"
+msgstr "She said you were polite and very handsome!"
+
+msgctxt "11100_Kiryu"
+msgid "Hehe. That's nice to hear."
+msgstr "Hehe. That's nice to hear."
+
+msgctxt "11112_松岡里緒奈：源氏名"
+msgid "Mom totally thinks you're my boyfriend."
+msgstr "Mom totally thinks you're my boyfriend."
+
+msgctxt "11124_松岡里緒奈：源氏名"
+msgid ""
+"She said I should get pregnant and marry you before you get away! Can you "
+"believe that?"
+msgstr ""
+"She said I should get pregnant and marry you before you get away! Can you "
+"believe that?"
+
+msgctxt "11136_Kiryu"
+msgid "She sounds pretty aggressive."
+msgstr "She sounds pretty aggressive."
+
+msgctxt "11148_松岡里緒奈：源氏名"
+msgid ""
+"Oh yeah. She snagged my father back when he was a young, virile wrestler, "
+"after all!"
+msgstr ""
+"Oh yeah. She snagged my father back when he was a young, virile wrestler, "
+"after all!"
+
+msgctxt "11160_Kiryu"
+msgid "So I was right."
+msgstr "So I was right."
+
+msgctxt "11172_松岡里緒奈：源氏名"
+msgid ""
+"Oh yes! She organized the whole wedding so they could get married before he "
+"changed his mind."
+msgstr ""
+"Oh yes! She organized the whole wedding so they could get married before he "
+"changed his mind."
+
+msgctxt "11184_Kiryu"
+msgid "And you're your mother's daughter..."
+msgstr "And you're your mother's daughter..."
+
+msgctxt "11196_松岡里緒奈：源氏名"
+msgid ""
+"Yep! So you better watch out, or you'll blink and find yourself married to "
+"me! <Color:7>♥<Color:Default>"
+msgstr ""
+"Yep! So you better watch out, or you'll blink and find yourself married to "
+"me! <Color:7>♥<Color:Default>"
+
+msgctxt "11208_Kiryu"
+msgid "I'll keep that in mind..."
+msgstr "I'll keep that in mind..."
+
+msgctxt "11220_Kiryu"
+msgid ""
+"So should we make babies? We've got your mother's seal of approval, after "
+"all."
+msgstr ""
+"So should we make babies? We've got your mother's seal of approval, after "
+"all."
+
+msgctxt "11232_松岡里緒奈：源氏名"
+msgid "Huh!? Are you serious!? I never thought－"
+msgstr "Huh!? Are you serious!? I never thought－"
+
+msgctxt "11244_Kiryu"
+msgid "Just kidding. You didn't take me seriously, did you?"
+msgstr "Just kidding. You didn't take me seriously, did you?"
+
+msgctxt "11256_松岡里緒奈：源氏名"
+msgid ""
+"Wow, that wasn't funny at all! Having children isn't something to be taken "
+"lightly!"
+msgstr ""
+"Wow, that wasn't funny at all! Having children isn't something to be taken "
+"lightly!"
+
+msgctxt "11268_Kiryu"
+msgid "Hey, it was just a joke."
+msgstr "Hey, it was just a joke."
+
+msgctxt "11280_松岡里緒奈：源氏名"
+msgid ""
+"There are some things you should never joke about, Kiryu-san! You should be "
+"ashamed of yourself!"
+msgstr ""
+"There are some things you should never joke about, Kiryu-san! You should be "
+"ashamed of yourself!"
+
+msgctxt "11292_Kiryu"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "11304_松岡里緒奈：源氏名"
+msgid "You're awful!"
+msgstr "You're awful!"
+
+msgctxt "11316_Kiryu"
+msgid "What do you want to do?"
+msgstr "What do you want to do?"
+
+msgctxt "11328_松岡里緒奈：源氏名"
+msgid "Me? What about you?"
+msgstr "Me? What about you?"
+
+msgctxt "11340_Kiryu"
+msgid "You first."
+msgstr "Prima tu."
+
+msgctxt "11352_松岡里緒奈：源氏名"
+msgid "What!? This is so embarrassing..."
+msgstr "What!? This is so embarrassing..."
+
+msgctxt "11364_Kiryu"
+msgid "Go on, I'm waiting."
+msgstr "Go on, I'm waiting."
+
+msgctxt "11376_松岡里緒奈：源氏名"
+msgid "No, I can't talk about it! Just forget I brought it up."
+msgstr "No, I can't talk about it! Just forget I brought it up."
+
+msgctxt "11388_Kiryu"
+msgid "You're blushing."
+msgstr "You're blushing."
+
+msgctxt "11400_松岡里緒奈：源氏名"
+msgid ""
+"I saw my dad yesterday by the side of the road on my way home from work."
+msgstr ""
+"I saw my dad yesterday by the side of the road on my way home from work."
+
+msgctxt "11412_Kiryu"
+msgid "Really? Did you say anything to him?"
+msgstr "Really? Did you say anything to him?"
+
+msgctxt "11424_松岡里緒奈：源氏名"
+msgid "No... He looked pretty drunk."
+msgstr "No... He looked pretty drunk."
+
+msgctxt "11436_松岡里緒奈：源氏名"
+msgid "He never acted drunk when he was younger no matter how much he drank."
+msgstr "He never acted drunk when he was younger no matter how much he drank."
+
+msgctxt "11448_松岡里緒奈：源氏名"
+msgid "He looked so sad... I couldn't bear to look at him."
+msgstr "He looked so sad... I couldn't bear to look at him."
+
+msgctxt "11460_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "11472_松岡里緒奈：源氏名"
+msgid "Maybe something's troubling him."
+msgstr "Maybe something's troubling him."
+
+msgctxt "11484_Kiryu"
+msgid "Everyone has problems. Some are just bigger than others."
+msgstr "Everyone has problems. Some are just bigger than others."
+
+msgctxt "11496_Kiryu"
+msgid ""
+"Your father's no exception. After all, he hasn't seen his daughter for a "
+"long time."
+msgstr ""
+"Your father's no exception. After all, he hasn't seen his daughter for a "
+"long time."
+
+msgctxt "11508_松岡里緒奈：源氏名"
+msgid "Yeah, true..."
+msgstr "Yeah, true..."
+
+msgctxt "11520_Kiryu"
+msgid "Plus he's responsible for a whole stable of pro wrestlers."
+msgstr "Plus he's responsible for a whole stable of pro wrestlers."
+
+msgctxt "11532_Kiryu"
+msgid "That's got to be tougher than you imagine."
+msgstr "That's got to be tougher than you imagine."
+
+msgctxt "11544_松岡里緒奈：源氏名"
+msgid "I haven't been the best daughter, have I?"
+msgstr "I haven't been the best daughter, have I?"
+
+msgctxt "11556_Kiryu"
+msgid ""
+"The fact that you can say that shows how much you've grown. Don't forget how"
+" you feel right now."
+msgstr ""
+"The fact that you can say that shows how much you've grown. Don't forget how"
+" you feel right now."
+
+msgctxt "11568_松岡里緒奈：源氏名"
+msgid "I won't. I feel a bit better now."
+msgstr "I won't. I feel a bit better now."
+
+msgctxt "11580_Kiryu"
+msgid ""
+"He probably wants to forget his money troubles. Being a father is hard, "
+"having to always act like nothing's wrong in front of your family."
+msgstr ""
+"He probably wants to forget his money troubles. Being a father is hard, "
+"having to always act like nothing's wrong in front of your family."
+
+msgctxt "11592_松岡里緒奈：源氏名"
+msgid ""
+"My mom did say something about a scary debt collector coming by the house..."
+msgstr ""
+"My mom did say something about a scary debt collector coming by the house..."
+
+msgctxt "11604_Kiryu"
+msgid ""
+"It may not be my place to say this, but you may be the only one who can "
+"cheer him up."
+msgstr ""
+"It may not be my place to say this, but you may be the only one who can "
+"cheer him up."
+
+msgctxt "11616_松岡里緒奈：源氏名"
+msgid "Me?"
+msgstr "Me?"
+
+msgctxt "11628_Kiryu"
+msgid ""
+"Yes. He hasn't seen your face in a long time. I'm sure it would make him "
+"feel better just to see your smile."
+msgstr ""
+"Yes. He hasn't seen your face in a long time. I'm sure it would make him "
+"feel better just to see your smile."
+
+msgctxt "11640_Kiryu"
+msgid "Don't look so worried. Just give him a smile."
+msgstr "Don't look so worried. Just give him a smile."
+
+msgctxt "11652_松岡里緒奈：源氏名"
+msgid "I hope I can..."
+msgstr "I hope I can..."
+
+msgctxt "11664_Kiryu"
+msgid "You can do it."
+msgstr "You can do it."
+
+msgctxt "11676_松岡里緒奈：源氏名"
+msgid "Okay. I'll give it my best shot."
+msgstr "Okay. I'll give it my best shot."
+
+msgctxt "11688_Kiryu"
+msgid ""
+"You should've talked to him. It would've been a perfect chance to make up."
+msgstr ""
+"You should've talked to him. It would've been a perfect chance to make up."
+
+msgctxt "11700_松岡里緒奈：源氏名"
+msgid ""
+"No, that would have been impossible. I wasn't emotionally prepared for it."
+msgstr ""
+"No, that would have been impossible. I wasn't emotionally prepared for it."
+
+msgctxt "11712_Kiryu"
+msgid ""
+"What're you talking about? You don't need to prepare to talk to your own "
+"father. Just do it."
+msgstr ""
+"What're you talking about? You don't need to prepare to talk to your own "
+"father. Just do it."
+
+msgctxt "11724_松岡里緒奈：源氏名"
+msgid ""
+"If it was that easy, I'd have done it a long time ago. You just don't get "
+"it..."
+msgstr ""
+"If it was that easy, I'd have done it a long time ago. You just don't get "
+"it..."
+
+msgctxt "11736_Kiryu"
+msgid ""
+"Sometimes you just have to do something and hope for the best. Try it and "
+"you'll probably find it wasn't as hard as you feared."
+msgstr ""
+"Sometimes you just have to do something and hope for the best. Try it and "
+"you'll probably find it wasn't as hard as you feared."
+
+msgctxt "11748_松岡里緒奈：源氏名"
+msgid "Don't rush me! It's my life, not yours!"
+msgstr "Don't rush me! It's my life, not yours!"
+
+msgctxt "11760_松岡里緒奈：源氏名"
+msgid "Just drop it!"
+msgstr "Just drop it!"
+
+msgctxt "11772_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "11784_松岡里緒奈：源氏名"
+msgid ""
+"I think you helped me come to terms with something. I've been wrong about my"
+" dad..."
+msgstr ""
+"I think you helped me come to terms with something. I've been wrong about my"
+" dad..."
+
+msgctxt "11796_Kiryu"
+msgid "Oh?"
+msgstr "Oh?"
+
+msgctxt "11808_松岡里緒奈：源氏名"
+msgid ""
+"I blamed him for everything when I ran away from home, but I thought about "
+"it and realized maybe I was wrong, too."
+msgstr ""
+"I blamed him for everything when I ran away from home, but I thought about "
+"it and realized maybe I was wrong, too."
+
+msgctxt "11820_松岡里緒奈：源氏名"
+msgid ""
+"My dad snooping through my cell phone made me really mad, but I was wasting "
+"a lot of money on phone bills. Of course he would be worried."
+msgstr ""
+"My dad snooping through my cell phone made me really mad, but I was wasting "
+"a lot of money on phone bills. Of course he would be worried."
+
+msgctxt "11832_Kiryu"
+msgid "I see..."
+msgstr "Capisco..."
+
+msgctxt "11844_松岡里緒奈：源氏名"
+msgid "I'm gonna go apologize to him."
+msgstr "I'm gonna go apologize to him."
+
+msgctxt "11856_Kiryu"
+msgid "That's a good idea. I'm sure it'll cheer up your father."
+msgstr "That's a good idea. I'm sure it'll cheer up your father."
+
+msgctxt "11868_松岡里緒奈：源氏名"
+msgid "Yes, but... I'm kinda afraid... He can be pretty scary."
+msgstr "Yes, but... I'm kinda afraid... He can be pretty scary."
+
+msgctxt "11880_松岡里緒奈：源氏名"
+msgid "What if he doesn't accept my apology?"
+msgstr "What if he doesn't accept my apology?"
+
+msgctxt "11892_Kiryu"
+msgid ""
+"The Thunder Matsuoka I know wouldn't do that to his daughter after she'd "
+"worked up the courage to apologize."
+msgstr ""
+"The Thunder Matsuoka I know wouldn't do that to his daughter after she'd "
+"worked up the courage to apologize."
+
+msgctxt "11904_松岡里緒奈：源氏名"
+msgid "Yeah, you're probably right!"
+msgstr "Yeah, you're probably right!"
+
+msgctxt "11916_Kiryu"
+msgid "So when are you going to do it?"
+msgstr "So when are you going to do it?"
+
+msgctxt "11928_松岡里緒奈：源氏名"
+msgid "I think I'm gonna need about a week to work up the courage."
+msgstr "I think I'm gonna need about a week to work up the courage."
+
+msgctxt "11940_Kiryu"
+msgid "That seems a bit long... But it's your call."
+msgstr "That seems a bit long... But it's your call."
+
+msgctxt "11952_松岡里緒奈：源氏名"
+msgid ""
+"Keep your fingers crossed that we're able to patch things up. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Keep your fingers crossed that we're able to patch things up. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "11964_Kiryu"
+msgid "I will. Good luck."
+msgstr "I will. Good luck."
+
+msgctxt "11976_Kiryu"
+msgid "He might not forgive you, you know."
+msgstr "He might not forgive you, you know."
+
+msgctxt "11988_松岡里緒奈：源氏名"
+msgid "You think?"
+msgstr "Dici?"
+
+msgctxt "12000_Kiryu"
+msgid ""
+"He's got his pride, after all. If he goes too easy on you, he'll lose face."
+msgstr ""
+"He's got his pride, after all. If he goes too easy on you, he'll lose face."
+
+msgctxt "12012_松岡里緒奈：源氏名"
+msgid "You have a point. He does care a lot about his reputation."
+msgstr "You have a point. He does care a lot about his reputation."
+
+msgctxt "12024_Kiryu"
+msgid "I'd say you've got a fifty-fifty chance."
+msgstr "I'd say you've got a fifty-fifty chance."
+
+msgctxt "12036_松岡里緒奈：源氏名"
+msgid ""
+"Ouch, so you think I have a fifty percent chance of failing? Those aren't "
+"odds I want to bet on..."
+msgstr ""
+"Ouch, so you think I have a fifty percent chance of failing? Those aren't "
+"odds I want to bet on..."
+
+msgctxt "12048_松岡里緒奈：源氏名"
+msgid "Maybe I shouldn't do it after all."
+msgstr "Maybe I shouldn't do it after all."
+
+msgctxt "12060_Kiryu"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "12072_Kiryu"
+msgid "Want me to go with you?"
+msgstr "Want me to go with you?"
+
+msgctxt "12084_松岡里緒奈：源氏名"
+msgid "Really? You'd do that!? Thanks!"
+msgstr "Really? You'd do that!? Thanks!"
+
+msgctxt "12096_Kiryu"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "12108_松岡里緒奈：源氏名"
+msgid "But... I think it's best I go alone."
+msgstr "But... I think it's best I go alone."
+
+msgctxt "12120_松岡里緒奈：源氏名"
+msgid ""
+"It's between me and my dad. And I want to prove to you that I can handle it "
+"by myself!"
+msgstr ""
+"It's between me and my dad. And I want to prove to you that I can handle it "
+"by myself!"
+
+msgctxt "12132_Kiryu"
+msgid "I hear you. That sounds like a good plan."
+msgstr "I hear you. That sounds like a good plan."
+
+msgctxt "12144_松岡里緒奈：源氏名"
+msgid "Just keep your fingers crossed for me! <Color:7>♥<Color:Default>"
+msgstr "Just keep your fingers crossed for me! <Color:7>♥<Color:Default>"
+
+msgctxt "12156_松岡里緒奈：源氏名"
+msgid "How would you describe my personality?"
+msgstr "How would you describe my personality?"
+
+msgctxt "12168_Kiryu"
+msgid "Well..."
+msgstr "Beh..."
+
+msgctxt "12180_Kiryu"
+msgid "You're energetic and cheerful. Maybe a little rough around the edges."
+msgstr "You're energetic and cheerful. Maybe a little rough around the edges."
+
+msgctxt "12192_松岡里緒奈：源氏名"
+msgid "Ugh, why do people always say that about me!?"
+msgstr "Ugh, why do people always say that about me!?"
+
+msgctxt "12204_松岡里緒奈：源氏名"
+msgid ""
+"I'm a good cook, I like children, and I'm sure I'd make a good wife for "
+"somebody someday!"
+msgstr ""
+"I'm a good cook, I like children, and I'm sure I'd make a good wife for "
+"somebody someday!"
+
+msgctxt "12216_Kiryu"
+msgid "Uh-huh..."
+msgstr "Ah-ah..."
+
+msgctxt "12228_松岡里緒奈：源氏名"
+msgid "What do you think about that?"
+msgstr "What do you think about that?"
+
+msgctxt "12240_Kiryu"
+msgid "That's nothing special. Most girls can say that about themselves."
+msgstr "That's nothing special. Most girls can say that about themselves."
+
+msgctxt "12252_Kiryu"
+msgid "Besides, I can cook and take care of kids, too."
+msgstr "Besides, I can cook and take care of kids, too."
+
+msgctxt "12264_松岡里緒奈：源氏名"
+msgid "True, a lot of men aren't opposed to doing housework these days..."
+msgstr "True, a lot of men aren't opposed to doing housework these days..."
+
+msgctxt "12276_Kiryu"
+msgid ""
+"And it's not just cooking. There's cleaning, laundry, and grocery shopping, "
+"too. Didn't you say you weren't into cleaning?"
+msgstr ""
+"And it's not just cooking. There's cleaning, laundry, and grocery shopping, "
+"too. Didn't you say you weren't into cleaning?"
+
+msgctxt "12288_松岡里緒奈：源氏名"
+msgid "Um, yeah, it's not my strong suit."
+msgstr "Um, yeah, it's not my strong suit."
+
+msgctxt "12300_Kiryu"
+msgid ""
+"You should work on that. You don't want to be a worse housekeeper than me, "
+"do you? You have to challenge the status quo."
+msgstr ""
+"You should work on that. You don't want to be a worse housekeeper than me, "
+"do you? You have to challenge the status quo."
+
+msgctxt "12312_松岡里緒奈：源氏名"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "12324_Kiryu"
+msgid ""
+"I'd rather have a girl who's a little rough around the edges over one who's "
+"too nitpicky."
+msgstr ""
+"I'd rather have a girl who's a little rough around the edges over one who's "
+"too nitpicky."
+
+msgctxt "12336_松岡里緒奈：源氏名"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "12348_Kiryu"
+msgid "Sure. People with some minor flaws are more interesting."
+msgstr "Sure. People with some minor flaws are more interesting."
+
+msgctxt "12360_松岡里緒奈：源氏名"
+msgid "Hey, what do you mean by \"flaws\"!?"
+msgstr "Hey, what do you mean by \"flaws\"!?"
+
+msgctxt "12372_Kiryu"
+msgid "I meant it in a good way."
+msgstr "I meant it in a good way."
+
+msgctxt "12384_松岡里緒奈：源氏名"
+msgid "Uh-huh. So how would you rate me out of 100?"
+msgstr "Uh-huh. So how would you rate me out of 100?"
+
+msgctxt "12396_Kiryu"
+msgid "Well, maybe a 65?"
+msgstr "Well, maybe a 65?"
+
+msgctxt "12408_松岡里緒奈：源氏名"
+msgid "What!? That's so low!"
+msgstr "What!? That's so low!"
+
+msgctxt "12420_松岡里緒奈：源氏名"
+msgid "I guess it's better than average, at least..."
+msgstr "I guess it's better than average, at least..."
+
+msgctxt "12432_Kiryu"
+msgid ""
+"You really think you can get married? You seem pretty confident about that."
+msgstr ""
+"You really think you can get married? You seem pretty confident about that."
+
+msgctxt "12444_松岡里緒奈：源氏名"
+msgid "Of course I'll get married! I want lots of kids, too!"
+msgstr "Of course I'll get married! I want lots of kids, too!"
+
+msgctxt "12456_Kiryu"
+msgid "You found a possible candidate for your husband yet?"
+msgstr "You found a possible candidate for your husband yet?"
+
+msgctxt "12468_松岡里緒奈：源氏名"
+msgid "Maybe I have..."
+msgstr "Maybe I have..."
+
+msgctxt "12480_Kiryu"
+msgid "Really? Who?"
+msgstr "Really? Who?"
+
+msgctxt "12492_松岡里緒奈：源氏名"
+msgid "Well, his initials are K.K."
+msgstr "Well, his initials are K.K."
+
+msgctxt "12504_Kiryu"
+msgid "That doesn't tell me much. You sure you didn't just make this guy up?"
+msgstr "That doesn't tell me much. You sure you didn't just make this guy up?"
+
+msgctxt "12516_松岡里緒奈：源氏名"
+msgid "I certainly did not! You're a bit thick sometimes."
+msgstr "I certainly did not! You're a bit thick sometimes."
+
+msgctxt "12528_Kiryu"
+msgid "Huh...?"
+msgstr "Huh...?"
+
+msgctxt "12540_松岡里緒奈：源氏名"
+msgid ""
+"You're kind of a mystery to me. I just can't seem to get a read on you."
+msgstr ""
+"You're kind of a mystery to me. I just can't seem to get a read on you."
+
+msgctxt "12552_松岡里緒奈：源氏名"
+msgid ""
+"You're strong but also very gentle. You have such confidence, but you're "
+"sensitive, too."
+msgstr ""
+"You're strong but also very gentle. You have such confidence, but you're "
+"sensitive, too."
+
+msgctxt "12564_松岡里緒奈：源氏名"
+msgid "I've never met a man like you before."
+msgstr "I've never met a man like you before."
+
+msgctxt "12576_Kiryu"
+msgid "I think I'm pretty average."
+msgstr "I think I'm pretty average."
+
+msgctxt "12588_松岡里緒奈：源氏名"
+msgid "There's nothing average about you. You're amazing in every way."
+msgstr "There's nothing average about you. You're amazing in every way."
+
+msgctxt "12600_松岡里緒奈：源氏名"
+msgid "That's why I'm so attracted to you..."
+msgstr "That's why I'm so attracted to you..."
+
+msgctxt "12612_Kiryu"
+msgid "You think I'm attractive?"
+msgstr "You think I'm attractive?"
+
+msgctxt "12624_松岡里緒奈：源氏名"
+msgid "Yes. In fact, I..."
+msgstr "Yes. In fact, I..."
+
+msgctxt "12636_Kiryu"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "12648_松岡里緒奈：源氏名"
+msgid "I can't stop thinking about you."
+msgstr "I can't stop thinking about you."
+
+msgctxt "12660_松岡里緒奈：源氏名"
+msgid "I may... I may have fallen in love with you. <Color:7>♥<Color:Default>"
+msgstr ""
+"I may... I may have fallen in love with you. <Color:7>♥<Color:Default>"
+
+msgctxt "12672_Kiryu"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "12684_松岡里緒奈：源氏名"
+msgid "What about you?"
+msgstr "What about you?"
+
+msgctxt "12696_Kiryu"
+msgid "I've been thinking about you for a long time."
+msgstr "I've been thinking about you for a long time."
+
+msgctxt "12708_松岡里緒奈：源氏名"
+msgid "Does that mean you share my feelings?"
+msgstr "Does that mean you share my feelings?"
+
+msgctxt "12720_Kiryu"
+msgid "Make peace with your father first. There's no rush."
+msgstr "Make peace with your father first. There's no rush."
+
+msgctxt "12732_松岡里緒奈：源氏名"
+msgid "Well, yeah, but that doesn't answer my question."
+msgstr "Well, yeah, but that doesn't answer my question."
+
+msgctxt "12744_Kiryu"
+msgid ""
+"You and I can talk about this any time. I'm not going away anytime soon."
+msgstr ""
+"You and I can talk about this any time. I'm not going away anytime soon."
+
+msgctxt "12756_Kiryu"
+msgid ""
+"But if you put off seeing your father for too long, you may never get the "
+"chance."
+msgstr ""
+"But if you put off seeing your father for too long, you may never get the "
+"chance."
+
+msgctxt "12768_松岡里緒奈：源氏名"
+msgid "......"
+msgstr "......"
+
+msgctxt "12780_Kiryu"
+msgid "I know it's difficult, but you need to talk to him."
+msgstr "I know it's difficult, but you need to talk to him."
+
+msgctxt "12792_松岡里緒奈：源氏名"
+msgid "Yes, you're right."
+msgstr "Yes, you're right."
+
+msgctxt "12804_松岡里緒奈：源氏名"
+msgid ""
+"Okay. But you'd better be ready once I've settled things with my dad. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Okay. But you'd better be ready once I've settled things with my dad. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "12816_Kiryu"
+msgid "Heh. Well then, <Italic>you</Italic> had better hurry."
+msgstr "Heh. Well then, <Italic>you</Italic> had better hurry."
+
+msgctxt "12828_Kiryu"
+msgid ""
+"That's hard to say. Don't get me wrong, you're an attractive woman, but "
+"there are a lot of attractive women out there."
+msgstr ""
+"That's hard to say. Don't get me wrong, you're an attractive woman, but "
+"there are a lot of attractive women out there."
+
+msgctxt "12840_松岡里緒奈：源氏名"
+msgid "What... What the heck is that supposed to mean?"
+msgstr "What... What the heck is that supposed to mean?"
+
+msgctxt "12852_Kiryu"
+msgid "Well, it's tough to choose just one."
+msgstr "Well, it's tough to choose just one."
+
+msgctxt "12864_松岡里緒奈：源氏名"
+msgid "What!?"
+msgstr "Cosa!?"
+
+msgctxt "12876_Kiryu"
+msgid "Look, I'm just being honest."
+msgstr "Look, I'm just being honest."
+
+msgctxt "12888_松岡里緒奈：源氏名"
+msgid ""
+"I never knew you were that kind of guy, Kiryu-san... That's really "
+"disappointing."
+msgstr ""
+"I never knew you were that kind of guy, Kiryu-san... That's really "
+"disappointing."
+
+msgctxt "12900_Kiryu"
+msgid ""
+"Let's give this a little more time. We should get to know each other better "
+"before we rush into anything."
+msgstr ""
+"Let's give this a little more time. We should get to know each other better "
+"before we rush into anything."
+
+msgctxt "12912_松岡里緒奈：源氏名"
+msgid "Why? I love you. I know I do!"
+msgstr "Why? I love you. I know I do!"
+
+msgctxt "12924_Kiryu"
+msgid ""
+"But you've been under a lot of stress lately. I'm worried that you might be "
+"focusing too much on how kind I've been to you."
+msgstr ""
+"But you've been under a lot of stress lately. I'm worried that you might be "
+"focusing too much on how kind I've been to you."
+
+msgctxt "12936_松岡里緒奈：源氏名"
+msgid "I don't know..."
+msgstr "Non lo so..."
+
+msgctxt "12948_Kiryu"
+msgid "I just want you to be certain of your feelings."
+msgstr "I just want you to be certain of your feelings."
+
+msgctxt "12960_松岡里緒奈：源氏名"
+msgid ""
+"Okay. If you really think it's best, I'll think it over. But I really think "
+"you're a good man!"
+msgstr ""
+"Okay. If you really think it's best, I'll think it over. But I really think "
+"you're a good man!"
+
+msgctxt "12972_松岡里緒奈：源氏名"
+msgid "I'll tell you when I'm sure of my feelings for you!"
+msgstr "I'll tell you when I'm sure of my feelings for you!"
+
+msgctxt "12984_Kiryu"
+msgid "All right. I'll be waiting."
+msgstr "All right. I'll be waiting."
+
+msgctxt "12996_松岡里緒奈：源氏名"
+msgid ""
+"I went shopping for golf equipment the other day. It's pretty expensive, "
+"especially all of the clubs."
+msgstr ""
+"I went shopping for golf equipment the other day. It's pretty expensive, "
+"especially all of the clubs."
+
+msgctxt "13008_Kiryu"
+msgid "You didn't buy a whole set, did you?"
+msgstr "You didn't buy a whole set, did you?"
+
+msgctxt "13020_松岡里緒奈：源氏名"
+msgid ""
+"Actually, I did! I figured I might as well if I'm serious about\r\n"
+"golf. <Color:7>♥<Color:Default>"
+msgstr ""
+"Actually, I did! I figured I might as well if I'm serious about\r\n"
+"golf. <Color:7>♥<Color:Default>"
+
+msgctxt "13032_松岡里緒奈：源氏名"
+msgid "But it cost so much that I barely have enough money to live on now."
+msgstr "But it cost so much that I barely have enough money to live on now."
+
+msgctxt "13044_Kiryu"
+msgid ""
+"I'm not surprised. An entire set of golf clubs is quite a hit to your "
+"wallet."
+msgstr ""
+"I'm not surprised. An entire set of golf clubs is quite a hit to your "
+"wallet."
+
+msgctxt "13056_松岡里緒奈：源氏名"
+msgid ""
+"It's still a few days until I get paid. I don't know how I'm going to make "
+"it..."
+msgstr ""
+"It's still a few days until I get paid. I don't know how I'm going to make "
+"it..."
+
+msgctxt "13068_Kiryu"
+msgid ""
+"You should cut down on spending. I bet there are a lot of things you could "
+"save money on."
+msgstr ""
+"You should cut down on spending. I bet there are a lot of things you could "
+"save money on."
+
+msgctxt "13080_松岡里緒奈：源氏名"
+msgid "I don't think so. I'm usually pretty thrifty just so you know."
+msgstr "I don't think so. I'm usually pretty thrifty just so you know."
+
+msgctxt "13092_Kiryu"
+msgid "Well, what about food? You probably eat out a lot, right?"
+msgstr "Well, what about food? You probably eat out a lot, right?"
+
+msgctxt "13104_松岡里緒奈：源氏名"
+msgid ""
+"Oh, no! I'm quite the cook, if I do say so myself. I think you'd fall for me"
+" if you ever tried my cooking. <Color:7>♥<Color:Default>"
+msgstr ""
+"Oh, no! I'm quite the cook, if I do say so myself. I think you'd fall for me"
+" if you ever tried my cooking. <Color:7>♥<Color:Default>"
+
+msgctxt "13116_Kiryu"
+msgid ""
+"Oh really? You sound pretty confident. Maybe I should give your cooking a "
+"try, then."
+msgstr ""
+"Oh really? You sound pretty confident. Maybe I should give your cooking a "
+"try, then."
+
+msgctxt "13128_松岡里緒奈：源氏名"
+msgid "Anytime!"
+msgstr "Anytime!"
+
+msgctxt "13140_Kiryu"
+msgid "If you're in that much trouble, I could loan you some money."
+msgstr "If you're in that much trouble, I could loan you some money."
+
+msgctxt "13152_松岡里緒奈：源氏名"
+msgid "What!? Oh no, I couldn't take money from you for such a silly mistake."
+msgstr ""
+"What!? Oh no, I couldn't take money from you for such a silly mistake."
+
+msgctxt "13164_Kiryu"
+msgid "It's just a loan. You'll have to pay me back."
+msgstr "It's just a loan. You'll have to pay me back."
+
+msgctxt "13176_松岡里緒奈：源氏名"
+msgid "No, I'm fine. Really. But thanks for the offer."
+msgstr "No, I'm fine. Really. But thanks for the offer."
+
+msgctxt "13188_Kiryu"
+msgid "Okay. Let me know if there's anything I can do to help."
+msgstr "Okay. Let me know if there's anything I can do to help."
+
+msgctxt "13200_松岡里緒奈：源氏名"
+msgid "Hmm. You could wish me good luck. <Color:7>♥<Color:Default>"
+msgstr "Hmm. You could wish me good luck. <Color:7>♥<Color:Default>"
+
+msgctxt "13212_Kiryu"
+msgid "Heh, okay. Good luck."
+msgstr "Heh, okay. Good luck."
+
+msgctxt "13224_松岡里緒奈：源氏名"
+msgid ""
+"Thank you. That makes me a lot happier than money could. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Thank you. That makes me a lot happier than money could. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "13236_Kiryu"
+msgid ""
+"You waste too much money. If you can't budget your money, you'll never make "
+"it on your own."
+msgstr ""
+"You waste too much money. If you can't budget your money, you'll never make "
+"it on your own."
+
+msgctxt "13248_松岡里緒奈：源氏名"
+msgid ""
+"But golf clubs are expensive. How would budgeting help me to afford "
+"something like that?"
+msgstr ""
+"But golf clubs are expensive. How would budgeting help me to afford "
+"something like that?"
+
+msgctxt "13260_Kiryu"
+msgid ""
+"If you had been saving money, you could've bought them without breaking the "
+"bank. You got yourself into this mess."
+msgstr ""
+"If you had been saving money, you could've bought them without breaking the "
+"bank. You got yourself into this mess."
+
+msgctxt "13272_松岡里緒奈：源氏名"
+msgid "You don't have to lecture me!"
+msgstr "You don't have to lecture me!"
+
+msgctxt "13284_Kiryu"
+msgid "It's for your own good."
+msgstr "It's for your own good."
+
+msgctxt "13296_松岡里緒奈：源氏名"
+msgid ""
+"How!? It just makes me feel worse about this whole thing! It doesn't help me"
+" with this problem at all."
+msgstr ""
+"How!? It just makes me feel worse about this whole thing! It doesn't help me"
+" with this problem at all."
+
+msgctxt "13308_Kiryu"
+msgid "Oh. Sorry..."
+msgstr "Oh. Sorry..."
+
+msgctxt "13320_松岡里緒奈：源氏名"
+msgid "You know what? <Color:7>♥<Color:Default>"
+msgstr "You know what? <Color:7>♥<Color:Default>"
+
+msgctxt "13332_Kiryu"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "13344_松岡里緒奈：源氏名"
+msgid ""
+"I've started a new hobby recently. <Color:7>♥<Color:Default> Do you know "
+"what it is?"
+msgstr ""
+"I've started a new hobby recently. <Color:7>♥<Color:Default> Do you know "
+"what it is?"
+
+msgctxt "13356_Kiryu"
+msgid "Golf?"
+msgstr "Golf?"
+
+msgctxt "13368_松岡里緒奈：源氏名"
+msgid "No, not that. I've started collecting lingerie."
+msgstr "No, not that. I've started collecting lingerie."
+
+msgctxt "13380_Kiryu"
+msgid "Lingerie?"
+msgstr "Lingerie?"
+
+msgctxt "13392_松岡里緒奈：源氏名"
+msgid ""
+"Yeah, you know, sexy underwear. A guy I know said I wasn't sexy at all, so "
+"this is my way of defying him. <Color:7>♥<Color:Default>"
+msgstr ""
+"Yeah, you know, sexy underwear. A guy I know said I wasn't sexy at all, so "
+"this is my way of defying him. <Color:7>♥<Color:Default>"
+
+msgctxt "13404_松岡里緒奈：源氏名"
+msgid ""
+"In fact, I'm wearing some very sexy underwear right now. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"In fact, I'm wearing some very sexy underwear right now. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "13416_Kiryu"
+msgid "I'd like to see that."
+msgstr "I'd like to see that."
+
+msgctxt "13428_松岡里緒奈：源氏名"
+msgid ""
+"Oh, you're so naughty. You're imagining me in my underwear right now, aren't"
+" you?"
+msgstr ""
+"Oh, you're so naughty. You're imagining me in my underwear right now, aren't"
+" you?"
+
+msgctxt "13440_Kiryu"
+msgid "Hey, you're the one who brought it up."
+msgstr "Hey, you're the one who brought it up."
+
+msgctxt "13452_松岡里緒奈：源氏名"
+msgid "*giggles*"
+msgstr "*giggles*"
+
+msgctxt "13464_松岡里緒奈：源氏名"
+msgid ""
+"Well, I can't show you, but I can tell you what color they are. Do you want "
+"to guess?"
+msgstr ""
+"Well, I can't show you, but I can tell you what color they are. Do you want "
+"to guess?"
+
+msgctxt "13476_Kiryu"
+msgid "Um... Black?"
+msgstr "Um... Black?"
+
+msgctxt "13488_松岡里緒奈：源氏名"
+msgid "Wrong! The correct answer is red. <Color:7>♥<Color:Default>"
+msgstr "Wrong! The correct answer is red. <Color:7>♥<Color:Default>"
+
+msgctxt "13500_Kiryu"
+msgid "Red, huh?"
+msgstr "Red, huh?"
+
+msgctxt "13512_Kiryu"
+msgid "I'm more interested in what's underneath..."
+msgstr "I'm more interested in what's underneath..."
+
+msgctxt "13524_松岡里緒奈：源氏名"
+msgid "Huh!? How could you just say that?"
+msgstr "Huh!? How could you just say that?"
+
+msgctxt "13536_Kiryu"
+msgid ""
+"Isn't that what all men are really thinking? What's so fun about looking at "
+"underwear?"
+msgstr ""
+"Isn't that what all men are really thinking? What's so fun about looking at "
+"underwear?"
+
+msgctxt "13548_松岡里緒奈：源氏名"
+msgid "Hmph! I was having fun, and you had to go and ruin it!"
+msgstr "Hmph! I was having fun, and you had to go and ruin it!"
+
+msgctxt "13560_Kiryu"
+msgid "Oh, come on. I know you like it when I talk like that."
+msgstr "Oh, come on. I know you like it when I talk like that."
+
+msgctxt "13572_松岡里緒奈：源氏名"
+msgid ""
+"No, I don't! Do you think you can just flash a smile and get away with "
+"saying something so pervy!?"
+msgstr ""
+"No, I don't! Do you think you can just flash a smile and get away with "
+"saying something so pervy!?"
+
+msgctxt "13584_Kiryu"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "13596_Kiryu"
+msgid "If you like underwear, I could buy you something amazing."
+msgstr "If you like underwear, I could buy you something amazing."
+
+msgctxt "13608_松岡里緒奈：源氏名"
+msgid "Oh? Like what?"
+msgstr "Oh? Like what?"
+
+msgctxt "13620_Kiryu"
+msgid "Something to make you look sexier than ever."
+msgstr "Something to make you look sexier than ever."
+
+msgctxt "13632_松岡里緒奈：源氏名"
+msgid "Really? That does sound interesting. <Color:7>♥<Color:Default>"
+msgstr "Really? That does sound interesting. <Color:7>♥<Color:Default>"
+
+msgctxt "13644_松岡里緒奈：源氏名"
+msgid ""
+"Wait, no! My parents would kill me if a man bought me something like that!"
+msgstr ""
+"Wait, no! My parents would kill me if a man bought me something like that!"
+
+msgctxt "13656_Kiryu"
+msgid ""
+"Are you sure? Lingerie can be expensive. You should at least see what I'm "
+"offering."
+msgstr ""
+"Are you sure? Lingerie can be expensive. You should at least see what I'm "
+"offering."
+
+msgctxt "13668_松岡里緒奈：源氏名"
+msgid "Well, I guess it wouldn't hurt to have a look..."
+msgstr "Well, I guess it wouldn't hurt to have a look..."
+
+msgctxt "13680_Kiryu"
+msgid "Hehe. Well, just let me know if you change your mind."
+msgstr "Hehe. Well, just let me know if you change your mind."
+
+msgctxt "13692_松岡里緒奈：源氏名"
+msgid "The thing I've feared most happened to me a few days ago."
+msgstr "The thing I've feared most happened to me a few days ago."
+
+msgctxt "13704_Kiryu"
+msgid "What is it? Something serious?"
+msgstr "What is it? Something serious?"
+
+msgctxt "13716_松岡里緒奈：源氏名"
+msgid "To me it is. I found something in my apartment... Something alive."
+msgstr "To me it is. I found something in my apartment... Something alive."
+
+msgctxt "13728_Kiryu"
+msgid "What, like a cockroach?"
+msgstr "What, like a cockroach?"
+
+msgctxt "13740_松岡里緒奈：源氏名"
+msgid "Yes! A cockroach!"
+msgstr "Yes! A cockroach!"
+
+msgctxt "13752_松岡里緒奈：源氏名"
+msgid ""
+"I figured it was only a matter of time before they showed up, but still..."
+msgstr ""
+"I figured it was only a matter of time before they showed up, but still..."
+
+msgctxt "13764_Kiryu"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "13776_松岡里緒奈：源氏名"
+msgid ""
+"\"Yeah\"? Is that all you have to say!? A nasty cockroach has invaded a poor"
+" girl's apartment!"
+msgstr ""
+"\"Yeah\"? Is that all you have to say!? A nasty cockroach has invaded a poor"
+" girl's apartment!"
+
+msgctxt "13788_Kiryu"
+msgid "Then clean up your apartment. Think of this as a wake-up call."
+msgstr "Then clean up your apartment. Think of this as a wake-up call."
+
+msgctxt "13800_松岡里緒奈：源氏名"
+msgid ""
+"But I don't know where it's hiding... If I started moving things around, it "
+"might jump out and scare me to death."
+msgstr ""
+"But I don't know where it's hiding... If I started moving things around, it "
+"might jump out and scare me to death."
+
+msgctxt "13812_松岡里緒奈：源氏名"
+msgid "I wish somebody would help me."
+msgstr "I wish somebody would help me."
+
+msgctxt "13824_Kiryu"
+msgid ""
+"It's not going to be me. You have to learn how to take care of this on your "
+"own."
+msgstr ""
+"It's not going to be me. You have to learn how to take care of this on your "
+"own."
+
+msgctxt "13836_松岡里緒奈：源氏名"
+msgid "But I can't sleep in the same room as a cockroach!"
+msgstr "But I can't sleep in the same room as a cockroach!"
+
+msgctxt "13848_Kiryu"
+msgid "You'll survive. Besides, what makes you think it's just one cockroach?"
+msgstr ""
+"You'll survive. Besides, what makes you think it's just one cockroach?"
+
+msgctxt "13860_松岡里緒奈：源氏名"
+msgid "What!? Oh no, why did you have to say that?"
+msgstr "What!? Oh no, why did you have to say that?"
+
+msgctxt "13872_Kiryu"
+msgid ""
+"You could call an exterminator. It'll be a bit expensive, but it might be "
+"worth it."
+msgstr ""
+"You could call an exterminator. It'll be a bit expensive, but it might be "
+"worth it."
+
+msgctxt "13884_松岡里緒奈：源氏名"
+msgid "Isn't calling an exterminator for one cockroach a little extreme?"
+msgstr "Isn't calling an exterminator for one cockroach a little extreme?"
+
+msgctxt "13896_Kiryu"
+msgid ""
+"How do you know it's just one? You could have dozens of them skittering "
+"around."
+msgstr ""
+"How do you know it's just one? You could have dozens of them skittering "
+"around."
+
+msgctxt "13908_松岡里緒奈：源氏名"
+msgid "Eeek! Don't say things like that!"
+msgstr "Eeek! Don't say things like that!"
+
+msgctxt "13920_Kiryu"
+msgid ""
+"But it's true. And even if it is just one right now, it can turn into "
+"hundreds if you do nothing."
+msgstr ""
+"But it's true. And even if it is just one right now, it can turn into "
+"hundreds if you do nothing."
+
+msgctxt "13932_松岡里緒奈：源氏名"
+msgid "Oh no... That would be terrible..."
+msgstr "Oh no... That would be terrible..."
+
+msgctxt "13944_松岡里緒奈：源氏名"
+msgid ""
+"I spent all my money on those golf clubs, and now I have even more expenses."
+msgstr ""
+"I spent all my money on those golf clubs, and now I have even more expenses."
+
+msgctxt "13956_Kiryu"
+msgid ""
+"I'll just have to take care of it myself. You can be really high "
+"maintenance, you know."
+msgstr ""
+"I'll just have to take care of it myself. You can be really high "
+"maintenance, you know."
+
+msgctxt "13968_松岡里緒奈：源氏名"
+msgid "I hoped you might offer to help. <Color:7>♥<Color:Default>"
+msgstr "I hoped you might offer to help. <Color:7>♥<Color:Default>"
+
+msgctxt "13980_Kiryu"
+msgid "It could be pretty time consuming, though. Would that be okay?"
+msgstr "It could be pretty time consuming, though. Would that be okay?"
+
+msgctxt "13992_松岡里緒奈：源氏名"
+msgid "What do you mean?"
+msgstr "What do you mean?"
+
+msgctxt "14004_Kiryu"
+msgid "Well, it could take all night."
+msgstr "Well, it could take all night."
+
+msgctxt "14016_松岡里緒奈：源氏名"
+msgid "All night? You're not planning anything naughty, are you?"
+msgstr "All night? You're not planning anything naughty, are you?"
+
+msgctxt "14028_Kiryu"
+msgid ""
+"Of course not. I was just making sure. I wouldn't take advantage of a woman "
+"in need."
+msgstr ""
+"Of course not. I was just making sure. I wouldn't take advantage of a woman "
+"in need."
+
+msgctxt "14040_松岡里緒奈：源氏名"
+msgid ""
+"Oh, right. You'd never try and do something like that,\r\n"
+"would you? <Color:7>♥<Color:Default>"
+msgstr ""
+"Oh, right. You'd never try and do something like that,\r\n"
+"would you? <Color:7>♥<Color:Default>"
+
+msgctxt "14052_Kiryu"
+msgid "I can't tell if you're being sarcastic."
+msgstr "I can't tell if you're being sarcastic."
+
+msgctxt "14064_松岡里緒奈：源氏名"
+msgid "I had quite a shock the other night."
+msgstr "I had quite a shock the other night."
+
+msgctxt "14076_Kiryu"
+msgid "What happened?"
+msgstr "Che è successo?"
+
+msgctxt "14088_松岡里緒奈：源氏名"
+msgid "Well, I was at a bar in Kamurocho with some friends, right?"
+msgstr "Well, I was at a bar in Kamurocho with some friends, right?"
+
+msgctxt "14100_松岡里緒奈：源氏名"
+msgid ""
+"Well, while we were there, I met this super fun okama, and before I knew it,"
+" we were locked in a drinking contest!"
+msgstr ""
+"Well, while we were there, I met this super fun okama, and before I knew it,"
+" we were locked in a drinking contest!"
+
+msgctxt "14112_Kiryu"
+msgid "Really? Did you win?"
+msgstr "Really? Did you win?"
+
+msgctxt "14124_松岡里緒奈：源氏名"
+msgid ""
+"No! I can't even remember how many shots we took, but I was the first one to"
+" pass out!"
+msgstr ""
+"No! I can't even remember how many shots we took, but I was the first one to"
+" pass out!"
+
+msgctxt "14136_松岡里緒奈：源氏名"
+msgid ""
+"It's the only time I've ever lost a drinking contest! I still can't believe "
+"it!"
+msgstr ""
+"It's the only time I've ever lost a drinking contest! I still can't believe "
+"it!"
+
+msgctxt "14148_Kiryu"
+msgid "All right. I'll get revenge for you."
+msgstr "All right. I'll get revenge for you."
+
+msgctxt "14160_松岡里緒奈：源氏名"
+msgid "I don't know. I don't think even you could out-drink her."
+msgstr "I don't know. I don't think even you could out-drink her."
+
+msgctxt "14172_松岡里緒奈：源氏名"
+msgid "She may have been an okama, but she was built like a tank!"
+msgstr "She may have been an okama, but she was built like a tank!"
+
+msgctxt "14184_Kiryu"
+msgid "Oh. Hmm..."
+msgstr "Oh. Hmm..."
+
+msgctxt "14196_松岡里緒奈：源氏名"
+msgid "Don't worry about it. I'll get a rematch against her someday."
+msgstr "Don't worry about it. I'll get a rematch against her someday."
+
+msgctxt "14208_松岡里緒奈：源氏名"
+msgid "Next time, I'll be in tiptop shape!"
+msgstr "Next time, I'll be in tiptop shape!"
+
+msgctxt "14220_Kiryu"
+msgid "Okay then. Just be careful."
+msgstr "Okay then. Just be careful."
+
+msgctxt "14232_Kiryu"
+msgid "You shouldn't drink so much. It isn't good for you."
+msgstr "You shouldn't drink so much. It isn't good for you."
+
+msgctxt "14244_松岡里緒奈：源氏名"
+msgid "Kiryu-san, are you worrying about me?"
+msgstr "Kiryu-san, are you worrying about me?"
+
+msgctxt "14256_Kiryu"
+msgid "Of course I am."
+msgstr "Of course I am."
+
+msgctxt "14268_松岡里緒奈：源氏名"
+msgid ""
+"That's so sweet! <Color:7>♥<Color:Default> You're like a concerned "
+"boyfriend."
+msgstr ""
+"That's so sweet! <Color:7>♥<Color:Default> You're like a concerned "
+"boyfriend."
+
+msgctxt "14280_松岡里緒奈：源氏名"
+msgid ""
+"It makes me feel so good to know someone worries about me. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"It makes me feel so good to know someone worries about me. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "14292_Kiryu"
+msgid "Heh. Seriously, don't drink too much."
+msgstr "Heh. Seriously, don't drink too much."
+
+msgctxt "14304_松岡里緒奈：源氏名"
+msgid "I won't. For your sake. <Color:7>♥<Color:Default>"
+msgstr "I won't. For your sake. <Color:7>♥<Color:Default>"
+
+msgctxt "14316_Kiryu"
+msgid "Are you sure you're not a lightweight?"
+msgstr "Are you sure you're not a lightweight?"
+
+msgctxt "14328_松岡里緒奈：源氏名"
+msgid "What!? Of course I'm sure! How could you doubt me like that?"
+msgstr "What!? Of course I'm sure! How could you doubt me like that?"
+
+msgctxt "14340_Kiryu"
+msgid ""
+"Well, you might be strong for a woman, but you were facing someone with a "
+"man's tolerance, right?"
+msgstr ""
+"Well, you might be strong for a woman, but you were facing someone with a "
+"man's tolerance, right?"
+
+msgctxt "14352_松岡里緒奈：源氏名"
+msgid "That doesn't matter! I've never lost a drinking contest before!"
+msgstr "That doesn't matter! I've never lost a drinking contest before!"
+
+msgctxt "14364_Kiryu"
+msgid ""
+"Maybe all the opponents you've defeated up until now have been lightweights?"
+msgstr ""
+"Maybe all the opponents you've defeated up until now have been lightweights?"
+
+msgctxt "14376_松岡里緒奈：源氏名"
+msgid "Kiryu-san! You don't believe in me, do you?"
+msgstr "Kiryu-san! You don't believe in me, do you?"
+
+msgctxt "14388_松岡里緒奈：源氏名"
+msgid "Hmph!"
+msgstr "Hmph!"
+
+msgctxt "14400_松岡里緒奈：源氏名"
+msgid "......"
+msgstr "......"
+
+msgctxt "14412_Kiryu"
+msgid "You're quiet today. What's wrong?"
+msgstr "You're quiet today. What's wrong?"
+
+msgctxt "14424_松岡里緒奈：源氏名"
+msgid "I'm hungry."
+msgstr "I'm hungry."
+
+msgctxt "14436_Kiryu"
+msgid "...Have you had anything to eat today?"
+msgstr "...Have you had anything to eat today?"
+
+msgctxt "14448_松岡里緒奈：源氏名"
+msgid "I started my diet this morning."
+msgstr "I started my diet this morning."
+
+msgctxt "14460_松岡里緒奈：源氏名"
+msgid "I haven't eaten anything since I woke up..."
+msgstr "I haven't eaten anything since I woke up..."
+
+msgctxt "14472_Kiryu"
+msgid ""
+"Eating nothing all day isn't good for you. Drinking on an empty stomach is "
+"especially bad."
+msgstr ""
+"Eating nothing all day isn't good for you. Drinking on an empty stomach is "
+"especially bad."
+
+msgctxt "14484_松岡里緒奈：源氏名"
+msgid "I know, but I have to lose weight somehow..."
+msgstr "I know, but I have to lose weight somehow..."
+
+msgctxt "14496_Kiryu"
+msgid ""
+"But not like this. Even if you do lose weight by not eating, you'll gain it "
+"all back."
+msgstr ""
+"But not like this. Even if you do lose weight by not eating, you'll gain it "
+"all back."
+
+msgctxt "14508_松岡里緒奈：源氏名"
+msgid "What? Why?"
+msgstr "What? Why?"
+
+msgctxt "14520_Kiryu"
+msgid "You've never had lasting success dieting this way, have you?"
+msgstr "You've never had lasting success dieting this way, have you?"
+
+msgctxt "14532_松岡里緒奈：源氏名"
+msgid "How did you know that!?"
+msgstr "How did you know that!?"
+
+msgctxt "14544_Kiryu"
+msgid "Heh, you're pretty easy to read."
+msgstr "Heh, you're pretty easy to read."
+
+msgctxt "14556_松岡里緒奈：源氏名"
+msgid "I don't know what to do. Should I exercise more?"
+msgstr "I don't know what to do. Should I exercise more?"
+
+msgctxt "14568_Kiryu"
+msgid ""
+"I think you're getting enough exercise now. You should lose weight if you "
+"keep at it."
+msgstr ""
+"I think you're getting enough exercise now. You should lose weight if you "
+"keep at it."
+
+msgctxt "14580_松岡里緒奈：源氏名"
+msgid "Really? That makes me feel a little better."
+msgstr "Really? That makes me feel a little better."
+
+msgctxt "14592_Kiryu"
+msgid ""
+"Why don't I buy you something tasty? I wouldn't want you to faint from "
+"hunger."
+msgstr ""
+"Why don't I buy you something tasty? I wouldn't want you to faint from "
+"hunger."
+
+msgctxt "14604_松岡里緒奈：源氏名"
+msgid "Hey! That's not going to help my diet!"
+msgstr "Hey! That's not going to help my diet!"
+
+msgctxt "14616_Kiryu"
+msgid ""
+"I know you want to look good, but don't do it at the expense of your health."
+" So what do you want to eat?"
+msgstr ""
+"I know you want to look good, but don't do it at the expense of your health."
+" So what do you want to eat?"
+
+msgctxt "14628_松岡里緒奈：源氏名"
+msgid "Kiryu-san! Ugh. Well... M...Meat..."
+msgstr "Kiryu-san! Ugh. Well... M...Meat..."
+
+msgctxt "14640_Kiryu"
+msgid ""
+"You don't need anything heavy like that. As long as it's nutritious. How "
+"about something lighter?"
+msgstr ""
+"You don't need anything heavy like that. As long as it's nutritious. How "
+"about something lighter?"
+
+msgctxt "14652_松岡里緒奈：源氏名"
+msgid "But I love meat..."
+msgstr "But I love meat..."
+
+msgctxt "14664_Kiryu"
+msgid ""
+"Uh... Maybe we should start by talking about what makes up a balanced diet."
+msgstr ""
+"Uh... Maybe we should start by talking about what makes up a balanced diet."
+
+msgctxt "14676_Kiryu"
+msgid "Why are you dieting?"
+msgstr "Why are you dieting?"
+
+msgctxt "14688_松岡里緒奈：源氏名"
+msgid "Well, I want to look pretty. Duh!"
+msgstr "Well, I want to look pretty. Duh!"
+
+msgctxt "14700_松岡里緒奈：源氏名"
+msgid "I am a hostess, you know."
+msgstr "I am a hostess, you know."
+
+msgctxt "14712_Kiryu"
+msgid "But do the men who request you really want a thin girl?"
+msgstr "But do the men who request you really want a thin girl?"
+
+msgctxt "14724_松岡里緒奈：源氏名"
+msgid "Huh!? You think they don't!?"
+msgstr "Huh!? You think they don't!?"
+
+msgctxt "14736_Kiryu"
+msgid ""
+"Your most appealing quality is your bright and cheerful personality. If you "
+"lose that because you're too hungry, then you've lost everything."
+msgstr ""
+"Your most appealing quality is your bright and cheerful personality. If you "
+"lose that because you're too hungry, then you've lost everything."
+
+msgctxt "14748_松岡里緒奈：源氏名"
+msgid "So I shouldn't diet?"
+msgstr "So I shouldn't diet?"
+
+msgctxt "14760_Kiryu"
+msgid "That's right."
+msgstr "Esatto."
+
+msgctxt "14772_松岡里緒奈：源氏名"
+msgid "You do have a point. Okay, I'll stop!"
+msgstr "You do have a point. Okay, I'll stop!"
+
+msgctxt "14784_松岡里緒奈：源氏名"
+msgid "So can I order something to eat?"
+msgstr "So can I order something to eat?"
+
+msgctxt "14796_Kiryu"
+msgid "That was a quick turnaround..."
+msgstr "That was a quick turnaround..."
+
+msgctxt "14808_松岡里緒奈：源氏名"
+msgid "Kiryu-san, I finished moving back home!"
+msgstr "Kiryu-san, I finished moving back home!"
+
+msgctxt "14820_Kiryu"
+msgid "You're back with your parents? How are things with your father?"
+msgstr "You're back with your parents? How are things with your father?"
+
+msgctxt "14832_松岡里緒奈：源氏名"
+msgid ""
+"He yells at me a lot, but now I kind of like it. I know it's strange, but "
+"it's comforting to hear it again."
+msgstr ""
+"He yells at me a lot, but now I kind of like it. I know it's strange, but "
+"it's comforting to hear it again."
+
+msgctxt "14844_松岡里緒奈：源氏名"
+msgid "I'm so happy that everything's cleared up."
+msgstr "I'm so happy that everything's cleared up."
+
+msgctxt "14856_Kiryu"
+msgid "Are you going to keep working here?"
+msgstr "Are you going to keep working here?"
+
+msgctxt "14868_松岡里緒奈：源氏名"
+msgid "Yes, for a little while."
+msgstr "Yes, for a little while."
+
+msgctxt "14880_松岡里緒奈：源氏名"
+msgid "But Kamuro Pro Wrestling is still in trouble, so I want to help!"
+msgstr "But Kamuro Pro Wrestling is still in trouble, so I want to help!"
+
+msgctxt "14892_Kiryu"
+msgid "You've really matured. It's like you've become a new woman."
+msgstr "You've really matured. It's like you've become a new woman."
+
+msgctxt "14904_松岡里緒奈：源氏名"
+msgid "You think I've grown up?"
+msgstr "You think I've grown up?"
+
+msgctxt "14916_Kiryu"
+msgid "Sure. It makes you even more attractive than before."
+msgstr "Sure. It makes you even more attractive than before."
+
+msgctxt "14928_松岡里緒奈：源氏名"
+msgid "Then maybe I can find myself a better man now!"
+msgstr "Then maybe I can find myself a better man now!"
+
+msgctxt "14940_Kiryu"
+msgid "Oh. Is that what you want?"
+msgstr "Oh. Is that what you want?"
+
+msgctxt "14952_松岡里緒奈：源氏名"
+msgid "Haha, no! I'm kidding! Did I scare you? <Color:7>♥<Color:Default>"
+msgstr "Haha, no! I'm kidding! Did I scare you? <Color:7>♥<Color:Default>"
+
+msgctxt "14964_Kiryu"
+msgid "A little..."
+msgstr "A little..."
+
+msgctxt "14976_松岡里緒奈：源氏名"
+msgid ""
+"Kiryu-san, I hope we'll be together for a long time. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Kiryu-san, I hope we'll be together for a long time. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "14988_Kiryu"
+msgid ""
+"Now that your family is back to the way it was, don't drag me into your "
+"family drama anymore."
+msgstr ""
+"Now that your family is back to the way it was, don't drag me into your "
+"family drama anymore."
+
+msgctxt "15000_松岡里緒奈：源氏名"
+msgid "I won't. Thanks for everything."
+msgstr "I won't. Thanks for everything."
+
+msgctxt "15012_Kiryu"
+msgid ""
+"The bond between a father and daughter is strong. You would've made up "
+"without my help."
+msgstr ""
+"The bond between a father and daughter is strong. You would've made up "
+"without my help."
+
+msgctxt "15024_松岡里緒奈：源氏名"
+msgid ""
+"Even so, I'm grateful for what you've done. I hope you'll still be there for"
+" me if I need you."
+msgstr ""
+"Even so, I'm grateful for what you've done. I hope you'll still be there for"
+" me if I need you."
+
+msgctxt "15036_松岡里緒奈：源氏名"
+msgid ""
+"If I have another fight with my dad, you might have to break it up. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"If I have another fight with my dad, you might have to break it up. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "15048_Kiryu"
+msgid "Hmm... Well, he is Thunder Matsuoka... I should start training."
+msgstr "Hmm... Well, he is Thunder Matsuoka... I should start training."
+
+msgctxt "15060_松岡里緒奈：源氏名"
+msgid "That might be a good idea. <Color:7>♥<Color:Default>"
+msgstr "That might be a good idea. <Color:7>♥<Color:Default>"
+
+msgctxt "15072_Kiryu"
+msgid "I need to talk to your father."
+msgstr "I need to talk to your father."
+
+msgctxt "15084_松岡里緒奈：源氏名"
+msgid "Huh!?"
+msgstr "Huh!?"
+
+msgctxt "15096_Kiryu"
+msgid "He was so drunk before that he may not have noticed me."
+msgstr "He was so drunk before that he may not have noticed me."
+
+msgctxt "15108_松岡里緒奈：源氏名"
+msgid "Wait a minute. What will you tell him?"
+msgstr "Wait a minute. What will you tell him?"
+
+msgctxt "15120_Kiryu"
+msgid "That we're going out, of course."
+msgstr "That we're going out, of course."
+
+msgctxt "15132_松岡里緒奈：源氏名"
+msgid "No! You can't do that!"
+msgstr "No! You can't do that!"
+
+msgctxt "15144_Kiryu"
+msgid "Why not?"
+msgstr "Perché no?"
+
+msgctxt "15156_松岡里緒奈：源氏名"
+msgid ""
+"He'd go crazy! He'd get all jealous of you trying to steal his daughter "
+"away!"
+msgstr ""
+"He'd go crazy! He'd get all jealous of you trying to steal his daughter "
+"away!"
+
+msgctxt "15168_Kiryu"
+msgid "Hmm. That is a problem..."
+msgstr "Hmm. That is a problem..."
+
+msgctxt "15180_松岡里緒奈：源氏名"
+msgid ""
+"I'll figure out the best way to break it to him. Just wait a while longer. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"I'll figure out the best way to break it to him. Just wait a while longer. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "15228_松岡里緒奈：源氏名"
+msgid "You're here. <Color:7>♥<Color:Default>"
+msgstr "You're here. <Color:7>♥<Color:Default>"
+
+msgctxt "15264_松岡里緒奈：源氏名"
+msgid "Welcome!"
+msgstr "Benvenuto!"
+
+msgctxt "15276_松岡里緒奈：源氏名"
+msgid "Welcome! <Color:7>♥<Color:Default>"
+msgstr "Welcome! <Color:7>♥<Color:Default>"
+
+msgctxt "15288_松岡里緒奈：源氏名"
+msgid ""
+"You came to see me! Thank you. I'm so happy to see you. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"You came to see me! Thank you. I'm so happy to see you. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "15300_松岡里緒奈：源氏名"
+msgid "I had a lot of fun on our date. Thanks a lot, %s-san."
+msgstr "I had a lot of fun on our date. Thanks a lot, %s-san."
+
+msgctxt "15312_松岡里緒奈：源氏名"
+msgid "I was waiting for you to show up for our date..."
+msgstr "I was waiting for you to show up for our date..."
+
+msgctxt "15324_松岡里緒奈：源氏名"
+msgid "Too bad about before. Let's try again next time."
+msgstr "Too bad about before. Let's try again next time."
+
+msgctxt "15336_松岡里緒奈：源氏名"
+msgid "I was waiting for you to show up for our date..."
+msgstr "I was waiting for you to show up for our date..."
+
+msgctxt "15348_松岡里緒奈：源氏名"
+msgid "I'm sorry about before. We should go again."
+msgstr "I'm sorry about before. We should go again."
+
+msgctxt "15372_松岡里緒奈：源氏名"
+msgid ""
+"Thanks for requesting me! I'm %s. It's a pleasure to meet you. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Thanks for requesting me! I'm %s. It's a pleasure to meet you. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "15384_Kiryu"
+msgid "Hi."
+msgstr "Hi."
+
+msgctxt "15396_松岡里緒奈：源氏名"
+msgid "Welcome."
+msgstr "Welcome."
+
+msgctxt "15408_Kiryu"
+msgid "Please make yourself at home."
+msgstr "Please make yourself at home."
+
+msgctxt "15420_松岡里緒奈：源氏名"
+msgid "Did you come just to see me?"
+msgstr "Did you come just to see me?"
+
+msgctxt "15432_松岡里緒奈：源氏名"
+msgid "I hope you have a good time."
+msgstr "I hope you have a good time."
+
+msgctxt "15444_松岡里緒奈：源氏名"
+msgid "I had a really good time on our date. <Color:7>♥<Color:Default>"
+msgstr "I had a really good time on our date. <Color:7>♥<Color:Default>"
+
+msgctxt "15456_松岡里緒奈：源氏名"
+msgid "We should go out again sometime."
+msgstr "We should go out again sometime."
+
+msgctxt "15468_松岡里緒奈：源氏名"
+msgid "We should go out again sometime."
+msgstr "We should go out again sometime."
+
+msgctxt "15480_松岡里緒奈：源氏名"
+msgid ""
+"%s-san, I guess we'll be together all day, huh? <Color:7>♥<Color:Default>"
+msgstr ""
+"%s-san, I guess we'll be together all day, huh? <Color:7>♥<Color:Default>"
+
+msgctxt "15492_松岡里緒奈：源氏名"
+msgid "Will you take me out again sometime?"
+msgstr "Will you take me out again sometime?"
+
+msgctxt "15504_松岡里緒奈：源氏名"
+msgid "Will you take me out again sometime?"
+msgstr "Will you take me out again sometime?"
+
+msgctxt "15516_松岡里緒奈：源氏名"
+msgid "%s-san, you're looking great today! <Color:7>♥<Color:Default>"
+msgstr "%s-san, you're looking great today! <Color:7>♥<Color:Default>"
+
+msgctxt "15528_松岡里緒奈：源氏名"
+msgid "%s-san, you look quite nice today."
+msgstr "%s-san, you look quite nice today."
+
+msgctxt "15540_松岡里緒奈：源氏名"
+msgid "%s-san, you always look the same, don't you?"
+msgstr "%s-san, you always look the same, don't you?"
+
+msgctxt "15552_松岡里緒奈：源氏名"
+msgid "%s-san, do you really like that outfit? It's not quite to my taste."
+msgstr "%s-san, do you really like that outfit? It's not quite to my taste."
+
+msgctxt "15564_松岡里緒奈：源氏名"
+msgid ""
+"%s-san... What's the story behind that outfit? Did you lose a bet or "
+"something?"
+msgstr ""
+"%s-san... What's the story behind that outfit? Did you lose a bet or "
+"something?"
+
+msgctxt "15588_松岡里緒奈：源氏名"
+msgid "You're looking great today! <Color:7>♥<Color:Default>"
+msgstr "You're looking great today! <Color:7>♥<Color:Default>"
+
+msgctxt "15600_松岡里緒奈：源氏名"
+msgid "What? Is this really for me!?"
+msgstr "What? Is this really for me!?"
+
+msgctxt "15612_Kiryu"
+msgid "I've always wanted something like this!"
+msgstr "I've always wanted something like this!"
+
+msgctxt "15624_F_cab_sitsofa_tlk_happy"
+msgid "Thank you!"
+msgstr "Thank you!"
+
+msgctxt "15636_松岡里緒奈：源氏名"
+msgid "Is that for me?"
+msgstr "Is that for me?"
+
+msgctxt "15660_松岡里緒奈：源氏名"
+msgid "Hm? You're giving that to me?"
+msgstr "Hm? You're giving that to me?"
+
+msgctxt "15672_Kiryu"
+msgid "Uh, thanks..."
+msgstr "Uh, thanks..."
+
+msgctxt "15684_松岡里緒奈：源氏名"
+msgid "What is that?"
+msgstr "What is that?"
+
+msgctxt "15708_松岡里緒奈：源氏名"
+msgid "Wait, are you seriously trying to give this to me!?"
+msgstr "Wait, are you seriously trying to give this to me!?"
+
+msgctxt "15732_松岡里緒奈：源氏名"
+msgid "Um... You already gave me one of those."
+msgstr "Um... You already gave me one of those."
+
+msgctxt "15744_Kiryu"
+msgid "Did you forget?"
+msgstr "Did you forget?"
+
+msgctxt "15756_松岡里緒奈：源氏名"
+msgid "What? Is this really for me!?"
+msgstr "What? Is this really for me!?"
+
+msgctxt "15768_Kiryu"
+msgid "I've always wanted something like this!"
+msgstr "I've always wanted something like this!"
+
+msgctxt "15780_F_cab_sitsofa_tlk_happy"
+msgid "Thank you!"
+msgstr "Thank you!"
+
+msgctxt "15792_松岡里緒奈：源氏名"
+msgid "What would you like?"
+msgstr "What would you like?"
+
+msgctxt "15816_Kiryu"
+msgid "Hmm, I'll have this."
+msgstr "Hmm, I'll have this."
+
+msgctxt "15828_Kiryu"
+msgid "You're not going to drink? Are you serious?"
+msgstr "You're not going to drink? Are you serious?"
+
+msgctxt "15840_松岡里緒奈：源氏名"
+msgid "Your glass is empty! Would you like another drink?"
+msgstr "Your glass is empty! Would you like another drink?"
+
+msgctxt "15864_Kiryu"
+msgid "Hmm, I'll have this."
+msgstr "Hmm, I'll have this."
+
+msgctxt "15876_Kiryu"
+msgid "Oh... I guess you're not as heavy a drinker as I thought."
+msgstr "Oh... I guess you're not as heavy a drinker as I thought."
+
+msgctxt "15888_松岡里緒奈：源氏名"
+msgid "I love that, too."
+msgstr "I love that, too."
+
+msgctxt "15900_Kiryu"
+msgid "Drinking with you is going to be fun. <Color:7>♥<Color:Default>"
+msgstr "Drinking with you is going to be fun. <Color:7>♥<Color:Default>"
+
+msgctxt "15912_松岡里緒奈：源氏名"
+msgid "You drink that, %s-san?"
+msgstr "You drink that, %s-san?"
+
+msgctxt "15924_Kiryu"
+msgid "Maybe I'll give it a try myself."
+msgstr "Maybe I'll give it a try myself."
+
+msgctxt "15936_松岡里緒奈：源氏名"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "15948_松岡里緒奈：源氏名"
+msgid "You really drink that? Is it good?"
+msgstr "You really drink that? Is it good?"
+
+msgctxt "15960_松岡里緒奈：源氏名"
+msgid "You want to drink that?"
+msgstr "You want to drink that?"
+
+msgctxt "15972_Kiryu"
+msgid "You're not much fun, you know."
+msgstr "You're not much fun, you know."
+
+msgctxt "15984_松岡里緒奈：源氏名"
+msgid "Would you like something to eat?"
+msgstr "Would you like something to eat?"
+
+msgctxt "16008_Kiryu"
+msgid "Hmm, I'll have this."
+msgstr "Hmm, I'll have this."
+
+msgctxt "16020_Kiryu"
+msgid "Aren't you hungry?"
+msgstr "Aren't you hungry?"
+
+msgctxt "16032_松岡里緒奈：源氏名"
+msgid "Would you like something to eat?"
+msgstr "Would you like something to eat?"
+
+msgctxt "16056_Kiryu"
+msgid "Hmm, I'll have this."
+msgstr "Hmm, I'll have this."
+
+msgctxt "16068_Kiryu"
+msgid "Huh? Are you full already?"
+msgstr "Huh? Are you full already?"
+
+msgctxt "16080_松岡里緒奈：源氏名"
+msgid "I like that, too!"
+msgstr "I like that, too!"
+
+msgctxt "16092_Kiryu"
+msgid "Let's share! <Color:7>♥<Color:Default>"
+msgstr "Let's share! <Color:7>♥<Color:Default>"
+
+msgctxt "16104_松岡里緒奈：源氏名"
+msgid "You like that too, %s-san?"
+msgstr "You like that too, %s-san?"
+
+msgctxt "16116_Kiryu"
+msgid "It's good, isn't it? <Color:7>♥<Color:Default>"
+msgstr "It's good, isn't it? <Color:7>♥<Color:Default>"
+
+msgctxt "16128_松岡里緒奈：源氏名"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "16140_松岡里緒奈：源氏名"
+msgid "I didn't expect you to eat something like that."
+msgstr "I didn't expect you to eat something like that."
+
+msgctxt "16152_松岡里緒奈：源氏名"
+msgid "I don't like that..."
+msgstr "I don't like that..."
+
+msgctxt "16164_Kiryu"
+msgid "In fact, I don't understand why anyone likes that at all..."
+msgstr "In fact, I don't understand why anyone likes that at all..."
+
+msgctxt "16176_松岡里緒奈：源氏名"
+msgid "Okay, I'll place our order."
+msgstr "Okay, I'll place our order."
+
+msgctxt "16200_Kiryu"
+msgid "Yes?"
+msgstr "Sì?"
+
+msgctxt "16212_F_cab_sitsofa_tlk_thinkA"
+msgid "Here is our order."
+msgstr "Here is our order."
+
+msgctxt "16224_Kiryu"
+msgid "Right away."
+msgstr "Right away."
+
+msgctxt "16248_松岡里緒奈：源氏名"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "16260_Kiryu"
+msgid "Cheers."
+msgstr "Cheers."
+
+msgctxt "16272_F_cab_sitsofa_tlk_thinkA"
+msgid "Please enjoy yourself."
+msgstr "Please enjoy yourself."
+
+msgctxt "16284_松岡里緒奈：源氏名"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "16296_Kiryu"
+msgid "Cheers."
+msgstr "Cheers."
+
+msgctxt "16308_F_cab_sitsofa_tlk_thinkA"
+msgid "Please enjoy yourself! <Color:7>♥<Color:Default>"
+msgstr "Please enjoy yourself! <Color:7>♥<Color:Default>"
+
+msgctxt "16320_松岡里緒奈：源氏名"
+msgid "Just a moment."
+msgstr "Just a moment."
+
+msgctxt "16332_Kiryu"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "16368_松岡里緒奈：源氏名"
+msgid "It was nice meeting you. <Color:7>♥<Color:Default>"
+msgstr "It was nice meeting you. <Color:7>♥<Color:Default>"
+
+msgctxt "16380_Kiryu"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "16392_Kiryu"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+"<Color:8>\r\n"
+"<Color:Default>"
+
+msgctxt "16404_Kiryu"
+msgid "You got a business card."
+msgstr "You got a business card."
+
+msgctxt "16440_Kiryu"
+msgid "(Maybe I'll request her next time.)"
+msgstr "(Maybe I'll request her next time.)"
+
+msgctxt "16464_松岡里緒奈：源氏名"
+msgid "I hope to see you again! <Color:7>♥<Color:Default>"
+msgstr "I hope to see you again! <Color:7>♥<Color:Default>"
+
+msgctxt "16476_Kiryu"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "16488_Kiryu"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+"<Color:8>\r\n"
+"<Color:Default>"
+
+msgctxt "16500_Kiryu"
+msgid "You got a fancy business card."
+msgstr "You got a fancy business card."
+
+msgctxt "16548_松岡里緒奈：源氏名"
+msgid "Here you are!"
+msgstr "Here you are!"
+
+msgctxt "16560_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "16572_松岡里緒奈：源氏名"
+msgid "Do you mind if I smoke?"
+msgstr "Le spiace se fumo?"
+
+msgctxt "16584_Kiryu"
+msgid "Go ahead."
+msgstr "Vai pure."
+
+msgctxt "16596_松岡里緒奈：源氏名"
+msgid "Go on, drink up!"
+msgstr "Go on, drink up!"
+
+msgctxt "16608_Kiryu"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "16620_松岡里緒奈：源氏名"
+msgid "I'll drink, too!"
+msgstr "I'll drink, too!"
+
+msgctxt "16632_Kiryu"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "16644_Kiryu"
+msgid "I should get going."
+msgstr "I should get going."
+
+msgctxt "16656_F_cab_sitsofa_tlk_gakkariA"
+msgid "That's a good idea... There's always tomorrow..."
+msgstr "That's a good idea... There's always tomorrow..."
+
+msgctxt "16668_松岡里緒奈：源氏名"
+msgid "Hm? Is it that time already?"
+msgstr "Hm? Is it that time already?"
+
+msgctxt "16680_P_sitsofaR_tlk_yes"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "16692_Kiryu"
+msgid "終了時_アフター_初。"
+msgstr "終了時_アフター_初。"
+
+msgctxt "16704_Kiryu"
+msgid "終了時_アフター_遅刻後。"
+msgstr "終了時_アフター_遅刻後。"
+
+msgctxt "16716_Kiryu"
+msgid "終了時_アフター_失敗後。"
+msgstr "終了時_アフター_失敗後。"
+
+msgctxt "16728_Kiryu"
+msgid "終了時_同伴_初。"
+msgstr "終了時_同伴_初。"
+
+msgctxt "16740_Kiryu"
+msgid "終了時_同伴_遅刻後。"
+msgstr "終了時_同伴_遅刻後。"
+
+msgctxt "16752_Kiryu"
+msgid "終了時_同伴_失敗後。"
+msgstr "終了時_同伴_失敗後。"
+
+msgctxt "16764_Kiryu"
+msgid "終了時_ミニミッション。"
+msgstr "終了時_ミニミッション。"
+
+msgctxt "16776_Kiryu"
+msgid "終了時_クリア後。"
+msgstr "終了時_クリア後。"
+
+msgctxt "16788_松岡里緒奈：源氏名"
+msgid "Thanks for coming! <Color:7>♥<Color:Default>"
+msgstr "Thanks for coming! <Color:7>♥<Color:Default>"
+
+msgctxt "16824_Kiryu"
+msgid "I hope to see you again! <Color:7>♥<Color:Default>"
+msgstr "I hope to see you again! <Color:7>♥<Color:Default>"
+
+msgctxt "16836_Kiryu"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "16848_F_cab_sitsofa_tlk_thinkA"
+msgid "Well, bye."
+msgstr "Well, bye."
+
+msgctxt "16884_Kiryu"
+msgid "Thanks for today. <Color:7>♥<Color:Default>"
+msgstr "Thanks for today. <Color:7>♥<Color:Default>"
+
+msgctxt "16896_Kiryu"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "16908_F_cab_sitsofa_tlk_thinkA"
+msgid "Well, bye."
+msgstr "Well, bye."
+
+msgctxt "16944_Kiryu"
+msgid "I had so much fun. <Color:7>♥<Color:Default>"
+msgstr "I had so much fun. <Color:7>♥<Color:Default>"
+
+msgctxt "16956_Kiryu"
+msgid "I'm glad."
+msgstr "Sono contento."
+
+msgctxt "16968_F_cab_sitsofa_tlk_thinkA"
+msgid "I'll be waiting for you."
+msgstr "I'll be waiting for you."
+
+msgctxt "17004_Kiryu"
+msgid "I love you! <Color:7>♥<Color:Default>"
+msgstr "I love you! <Color:7>♥<Color:Default>"
+
+msgctxt "17016_Kiryu"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "17028_F_cab_sitsofa_tlk_thinkA"
+msgid "I'll be waiting for you."
+msgstr "I'll be waiting for you."
+
+msgctxt "17076_松岡里緒奈：源氏名"
+msgid "Be careful on your way home."
+msgstr "Be careful on your way home."
+
+msgctxt "17088_Kiryu"
+msgid "After date."
+msgstr "After date."
+
+msgctxt "17100_松岡里緒奈：源氏名"
+msgid "Hey, Kiryu-san. I've been kind of bored recently."
+msgstr "Hey, Kiryu-san. I've been kind of bored recently."
+
+msgctxt "17112_Kiryu"
+msgid "Have you heard any interesting stories? I'd love to hear them."
+msgstr "Have you heard any interesting stories? I'd love to hear them."
+
+msgctxt "17124_P_sitsofaR_tlk_quest"
+msgid "Interesting stories? Let me think..."
+msgstr "Interesting stories? Let me think..."
+
+msgctxt "17136_Kiryu"
+msgid "No... I can't think of anything right now."
+msgstr "No... I can't think of anything right now."
+
+msgctxt "17256_松岡里緒奈：源氏名"
+msgid ""
+"I played soccer when I was in junior high. I was pretty good, too. I could "
+"hold my own against the boys, you know."
+msgstr ""
+"I played soccer when I was in junior high. I was pretty good, too. I could "
+"hold my own against the boys, you know."
+
+msgctxt "17268_Kiryu"
+msgid "You were on the girls' soccer team, huh?"
+msgstr "You were on the girls' soccer team, huh?"
+
+msgctxt "17280_松岡里緒奈：源氏名"
+msgid ""
+"Oh, no. I got special permission to join the boys' team. I was a regular "
+"player, too."
+msgstr ""
+"Oh, no. I got special permission to join the boys' team. I was a regular "
+"player, too."
+
+msgctxt "17292_Kiryu"
+msgid "That's impressive."
+msgstr "That's impressive."
+
+msgctxt "17304_松岡里緒奈：源氏名"
+msgid ""
+"My dream was to play in the national championships in high school, but..."
+msgstr ""
+"My dream was to play in the national championships in high school, but..."
+
+msgctxt "17316_Kiryu"
+msgid "But?"
+msgstr "But?"
+
+msgctxt "17328_松岡里緒奈：源氏名"
+msgid ""
+"I had to quit before I got into high school. I had a... physical problem."
+msgstr ""
+"I had to quit before I got into high school. I had a... physical problem."
+
+msgctxt "17340_Kiryu"
+msgid "Were you injured?"
+msgstr "Were you injured?"
+
+msgctxt "17352_松岡里緒奈：源氏名"
+msgid "No... It was more of a handicap."
+msgstr "No... It was more of a handicap."
+
+msgctxt "17364_Kiryu"
+msgid "Let me try to guess where the problem was."
+msgstr "Let me try to guess where the problem was."
+
+msgctxt "17376_松岡里緒奈：源氏名"
+msgid ""
+"I don't usually wear many accessories on my days off, but I think I'll try "
+"something for a change."
+msgstr ""
+"I don't usually wear many accessories on my days off, but I think I'll try "
+"something for a change."
+
+msgctxt "17388_Kiryu"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "17400_松岡里緒奈：源氏名"
+msgid ""
+"But I don't have enough money to buy many. If I wore an accessory on just "
+"one part of my body, where should it be?"
+msgstr ""
+"But I don't have enough money to buy many. If I wore an accessory on just "
+"one part of my body, where should it be?"
+
+msgctxt "17412_Kiryu"
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgctxt "17448_松岡里緒奈：源氏名"
+msgid "Look! This is the present you gave me!"
+msgstr "Look! This is the present you gave me!"
+
+msgctxt "17460_Kiryu"
+msgid "It looks great! I'll always treasure it. <Color:7>♥<Color:Default>"
+msgstr "It looks great! I'll always treasure it. <Color:7>♥<Color:Default>"
+
+msgctxt "17472_松岡里緒奈：源氏名"
+msgid "I'm a little thirsty! Can I order a <Color:7>Beer?<Color:Default>"
+msgstr "I'm a little thirsty! Can I order a <Color:7>Beer?<Color:Default>"
+
+msgctxt "17484_松岡里緒奈：源氏名"
+msgid "Yay! I'll order, then."
+msgstr "Yay! I'll order, then."
+
+msgctxt "17496_F_cab_sitsofa_sync_order"
+msgid "Excuse me!"
+msgstr "Excuse me!"
+
+msgctxt "17508_Kiryu"
+msgid "Sorry, I guess I don't have enough money..."
+msgstr "Sorry, I guess I don't have enough money..."
+
+msgctxt "17520_松岡里緒奈：源氏名"
+msgid "Huh!? Seriously!? What, are you poor?"
+msgstr "Huh!? Seriously!? What, are you poor?"
+
+msgctxt "17532_松岡里緒奈：源氏名"
+msgid "Huh? You're so stingy, %s-san..."
+msgstr "Huh? You're so stingy, %s-san..."
+
+msgctxt "17544_松岡里緒奈：源氏名"
+msgid "I'm hungry! Can I order something to eat?"
+msgstr "I'm hungry! Can I order something to eat?"
+
+msgctxt "17568_Kiryu"
+msgid "Yay! I'll order, then."
+msgstr "Yay! I'll order, then."
+
+msgctxt "17580_F_cab_sitsofa_sync_order"
+msgid "Excuse me!"
+msgstr "Excuse me!"
+
+msgctxt "17604_Kiryu"
+msgid "Aw. Why not?"
+msgstr "Aw. Why not?"
+
+msgctxt "17616_松岡里緒奈：源氏名"
+msgid "I thought your email was hilarious! <Color:7>♥<Color:Default>"
+msgstr "I thought your email was hilarious! <Color:7>♥<Color:Default>"
+
+msgctxt "17628_松岡里緒奈：源氏名"
+msgid ""
+"I guess mine was a little hard to read, all bunched up like that, but most "
+"people would just ignore that."
+msgstr ""
+"I guess mine was a little hard to read, all bunched up like that, but most "
+"people would just ignore that."
+
+msgctxt "17640_Kiryu"
+msgid "Hehehe."
+msgstr "Eheh."
+
+msgctxt "17652_松岡里緒奈：源氏名"
+msgid ""
+"You wear sunglasses too, huh? And at night! That's pretty cool. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"You wear sunglasses too, huh? And at night! That's pretty cool. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "17664_松岡里緒奈：源氏名"
+msgid ""
+"But I think you'd look pretty dangerous with sunglasses on. Like some kind "
+"of fugitive or something. <Color:7>♥<Color:Default>"
+msgstr ""
+"But I think you'd look pretty dangerous with sunglasses on. Like some kind "
+"of fugitive or something. <Color:7>♥<Color:Default>"
+
+msgctxt "17676_Kiryu"
+msgid "You're more right than you know..."
+msgstr "You're more right than you know..."
+
+msgctxt "17688_松岡里緒奈：源氏名"
+msgid ""
+"Hmm... Maybe I've been drinking too much. I've been exercising, but it "
+"doesn't seem to be having any effect."
+msgstr ""
+"Hmm... Maybe I've been drinking too much. I've been exercising, but it "
+"doesn't seem to be having any effect."
+
+msgctxt "17700_Kiryu"
+msgid ""
+"I told you. Muscles develop most when you're taking a break from your "
+"training. If you drink then, it cancels out all of your hard work."
+msgstr ""
+"I told you. Muscles develop most when you're taking a break from your "
+"training. If you drink then, it cancels out all of your hard work."
+
+msgctxt "17712_松岡里緒奈：源氏名"
+msgid ""
+"You might be right. I'll be more careful from now on. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"You might be right. I'll be more careful from now on. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "17724_松岡里緒奈：源氏名"
+msgid "So I'm homesick, huh?"
+msgstr "So I'm homesick, huh?"
+
+msgctxt "17736_Kiryu"
+msgid ""
+"Probably. Most people are happier being with their families than living "
+"alone."
+msgstr ""
+"Probably. Most people are happier being with their families than living "
+"alone."
+
+msgctxt "17748_松岡里緒奈：源氏名"
+msgid "I guess you're right. Maybe I'll email someone in my family."
+msgstr "I guess you're right. Maybe I'll email someone in my family."
+
+msgctxt "17760_松岡里緒奈：源氏名"
+msgid "Thanks for listening, Kiryu-san. <Color:7>♥<Color:Default>"
+msgstr "Thanks for listening, Kiryu-san. <Color:7>♥<Color:Default>"
+
+msgctxt "17772_松岡里緒奈：源氏名"
+msgid ""
+"You really understand fashion. You don't need expensive clothes. With good "
+"fashion sense, you can look good in anything. <Color:7>♥<Color:Default>"
+msgstr ""
+"You really understand fashion. You don't need expensive clothes. With good "
+"fashion sense, you can look good in anything. <Color:7>♥<Color:Default>"
+
+msgctxt "17784_Kiryu"
+msgid "That's right."
+msgstr "Esatto."
+
+msgctxt "17796_松岡里緒奈：源氏名"
+msgid "So let's see how well-dressed you are..."
+msgstr "So let's see how well-dressed you are..."
+
+msgctxt "17808_Kiryu"
+msgid "A fight with your father... That's funny."
+msgstr "A fight with your father... That's funny."
+
+msgctxt "17820_Kiryu"
+msgid "But don't you want to make up with him?"
+msgstr "But don't you want to make up with him?"
+
+msgctxt "17832_Kiryu"
+msgid "If he bothers you anymore, just tell me."
+msgstr "If he bothers you anymore, just tell me."
+
+msgctxt "17844_Kiryu"
+msgid "I know the boys would love you."
+msgstr "I know the boys would love you."
+
+msgctxt "17856_Kiryu"
+msgid "Are you sure you can handle being a teacher?"
+msgstr "Are you sure you can handle being a teacher?"
+
+msgctxt "17868_Kiryu"
+msgid "You think a hostess can be a good teacher?"
+msgstr "You think a hostess can be a good teacher?"
+
+msgctxt "17880_Kiryu"
+msgid "Why don't you look for a boyfriend?"
+msgstr "Why don't you look for a boyfriend?"
+
+msgctxt "17892_Kiryu"
+msgid "You could find a roommate."
+msgstr "You could find a roommate."
+
+msgctxt "17904_Kiryu"
+msgid "You'll get used to it eventually."
+msgstr "You'll get used to it eventually."
+
+msgctxt "17916_Kiryu"
+msgid "Piece of cake."
+msgstr "Piece of cake."
+
+msgctxt "17928_Kiryu"
+msgid "Are you saying you want to date me?"
+msgstr "Are you saying you want to date me?"
+
+msgctxt "17940_Kiryu"
+msgid "You won't find too many men like that."
+msgstr "You won't find too many men like that."
+
+msgctxt "17952_Kiryu"
+msgid "When I'm drinking."
+msgstr "When I'm drinking."
+
+msgctxt "17964_Kiryu"
+msgid "When I'm playing with my kids."
+msgstr "When I'm playing with my kids."
+
+msgctxt "17976_Kiryu"
+msgid "When I'm doing it."
+msgstr "When I'm doing it."
+
+msgctxt "17988_Kiryu"
+msgid "Maybe you could make a team at the club."
+msgstr "Maybe you could make a team at the club."
+
+msgctxt "18000_Kiryu"
+msgid "That's just the way it is."
+msgstr "That's just the way it is."
+
+msgctxt "18012_Kiryu"
+msgid "You want to go to a batting cage and hit a few?"
+msgstr "You want to go to a batting cage and hit a few?"
+
+msgctxt "18024_Kiryu"
+msgid "I'd stay a human."
+msgstr "I'd stay a human."
+
+msgctxt "18036_Kiryu"
+msgid "I'd like to be a lion."
+msgstr "I'd like to be a lion."
+
+msgctxt "18048_Kiryu"
+msgid "I'd like to be a gorilla, too."
+msgstr "I'd like to be a gorilla, too."
+
+msgctxt "18060_Kiryu"
+msgid "We should go out for all-you-can-eat yakiniku."
+msgstr "We should go out for all-you-can-eat yakiniku."
+
+msgctxt "18072_Kiryu"
+msgid "Don't you worry about getting fat?"
+msgstr "Don't you worry about getting fat?"
+
+msgctxt "18084_Kiryu"
+msgid "Do you eat many vegetables?"
+msgstr "Do you eat many vegetables?"
+
+msgctxt "18096_Kiryu"
+msgid "Maybe you should stop drinking."
+msgstr "Maybe you should stop drinking."
+
+msgctxt "18108_Kiryu"
+msgid "You're young. I'm sure you'll be fine."
+msgstr "You're young. I'm sure you'll be fine."
+
+msgctxt "18120_Kiryu"
+msgid "Why don't you just skip school that day?"
+msgstr "Why don't you just skip school that day?"
+
+msgctxt "18132_Kiryu"
+msgid "I think he's just messing with you."
+msgstr "I think he's just messing with you."
+
+msgctxt "18144_Kiryu"
+msgid "Why don't you do it?"
+msgstr "Why don't you do it?"
+
+msgctxt "18156_Kiryu"
+msgid "He's a lot like you."
+msgstr "He's a lot like you."
+
+msgctxt "18168_Kiryu"
+msgid "I'm his biggest fan!"
+msgstr "I'm his biggest fan!"
+
+msgctxt "18180_Kiryu"
+msgid "I'd love to fight him just once."
+msgstr "I'd love to fight him just once."
+
+msgctxt "18192_Kiryu"
+msgid "I'm jealous."
+msgstr "I'm jealous."
+
+msgctxt "18204_Kiryu"
+msgid "You could try going to a match."
+msgstr "You could try going to a match."
+
+msgctxt "18216_Kiryu"
+msgid "You could ask your brother."
+msgstr "You could ask your brother."
+
+msgctxt "18228_Kiryu"
+msgid "You can't believe everything you read online."
+msgstr "You can't believe everything you read online."
+
+msgctxt "18240_Kiryu"
+msgid "Things will get better."
+msgstr "Things will get better."
+
+msgctxt "18252_Kiryu"
+msgid "Maybe that's your fate."
+msgstr "Maybe that's your fate."
+
+msgctxt "18264_Kiryu"
+msgid "Learn how to be a better judge of men."
+msgstr "Learn how to be a better judge of men."
+
+msgctxt "18276_Kiryu"
+msgid "If you're not sure, you shouldn't do it."
+msgstr "If you're not sure, you shouldn't do it."
+
+msgctxt "18288_Kiryu"
+msgid "What's he got that I haven't got?"
+msgstr "What's he got that I haven't got?"
+
+msgctxt "18300_Kiryu"
+msgid "I should meet him sometime."
+msgstr "I should meet him sometime."
+
+msgctxt "18312_Kiryu"
+msgid "Just don't overdo it."
+msgstr "Just don't overdo it."
+
+msgctxt "18324_Kiryu"
+msgid "I'll pass."
+msgstr "I'll pass."
+
+msgctxt "18336_Kiryu"
+msgid "Sounds like a plan."
+msgstr "Sembra un piano."
+
+msgctxt "18348_Kiryu"
+msgid "Karate. Definitely."
+msgstr "Karate. Definitely."
+
+msgctxt "18360_Kiryu"
+msgid "A foreign language is a must."
+msgstr "A foreign language is a must."
+
+msgctxt "18372_Kiryu"
+msgid "It's not a question of what I want."
+msgstr "It's not a question of what I want."
+
+msgctxt "18384_Kiryu"
+msgid "I could teach you if you'd like."
+msgstr "I could teach you if you'd like."
+
+msgctxt "18396_Kiryu"
+msgid "They don't get in the way when you're playing golf?"
+msgstr "They don't get in the way when you're playing golf?"
+
+msgctxt "18408_Kiryu"
+msgid "Want to play against me?"
+msgstr "Want to play against me?"
+
+msgctxt "18420_Kiryu"
+msgid "I could pick out an outfit for you."
+msgstr "I could pick out an outfit for you."
+
+msgctxt "18432_Kiryu"
+msgid "There's nothing wrong with it."
+msgstr "There's nothing wrong with it."
+
+msgctxt "18444_Kiryu"
+msgid "You should go for a more feminine look."
+msgstr "You should go for a more feminine look."
+
+msgctxt "18456_Kiryu"
+msgid "Documentaries."
+msgstr "Documentaries."
+
+msgctxt "18468_Kiryu"
+msgid "Historical dramas."
+msgstr "Historical dramas."
+
+msgctxt "18480_Kiryu"
+msgid "Romance movies."
+msgstr "Romance movies."
+
+msgctxt "18492_Kiryu"
+msgid "She sounds pretty aggressive."
+msgstr "She sounds pretty aggressive."
+
+msgctxt "18504_Kiryu"
+msgid "So should we make babies?"
+msgstr "So should we make babies?"
+
+msgctxt "18516_Kiryu"
+msgid "What do you want to do?"
+msgstr "What do you want to do?"
+
+msgctxt "18528_Kiryu"
+msgid "Everyone has problems."
+msgstr "Everyone has problems."
+
+msgctxt "18540_Kiryu"
+msgid "He probably wants to forget his money troubles."
+msgstr "He probably wants to forget his money troubles."
+
+msgctxt "18552_Kiryu"
+msgid "You should've talked to him."
+msgstr "You should've talked to him."
+
+msgctxt "18564_Kiryu"
+msgid "That's a good idea."
+msgstr "That's a good idea."
+
+msgctxt "18576_Kiryu"
+msgid "He might not forgive you, you know."
+msgstr "He might not forgive you, you know."
+
+msgctxt "18588_Kiryu"
+msgid "Want me to go with you?"
+msgstr "Want me to go with you?"
+
+msgctxt "18600_Kiryu"
+msgid "That's nothing special."
+msgstr "That's nothing special."
+
+msgctxt "18612_Kiryu"
+msgid "I don't mind if a girl's rough around the edges."
+msgstr "I don't mind if a girl's rough around the edges."
+
+msgctxt "18624_Kiryu"
+msgid "You really think you can get married?"
+msgstr "You really think you can get married?"
+
+msgctxt "18636_Kiryu"
+msgid "Make peace with your father first."
+msgstr "Make peace with your father first."
+
+msgctxt "18648_Kiryu"
+msgid "That's hard to say."
+msgstr "That's hard to say."
+
+msgctxt "18660_Kiryu"
+msgid "Let's give this a little more time."
+msgstr "Let's give this a little more time."
+
+msgctxt "18672_Kiryu"
+msgid "You should cut down on spending."
+msgstr "You should cut down on spending."
+
+msgctxt "18684_Kiryu"
+msgid "I could loan you some money."
+msgstr "I could loan you some money."
+
+msgctxt "18696_Kiryu"
+msgid "You waste too much money."
+msgstr "You waste too much money."
+
+msgctxt "18708_Kiryu"
+msgid "I'd like to see that."
+msgstr "I'd like to see that."
+
+msgctxt "18720_Kiryu"
+msgid "I'm more interested in what's underneath..."
+msgstr "I'm more interested in what's underneath..."
+
+msgctxt "18732_Kiryu"
+msgid "I could buy you even better ones if you like."
+msgstr "I could buy you even better ones if you like."
+
+msgctxt "18744_Kiryu"
+msgid "Then clean up your apartment."
+msgstr "Then clean up your apartment."
+
+msgctxt "18756_Kiryu"
+msgid "You could call an exterminator."
+msgstr "You could call an exterminator."
+
+msgctxt "18768_Kiryu"
+msgid "I'll just have to take care of it myself."
+msgstr "I'll just have to take care of it myself."
+
+msgctxt "18780_Kiryu"
+msgid "I'll get revenge for you."
+msgstr "I'll get revenge for you."
+
+msgctxt "18792_Kiryu"
+msgid "You shouldn't be drinking that much."
+msgstr "You shouldn't be drinking that much."
+
+msgctxt "18804_Kiryu"
+msgid "Are you sure you're a strong drinker?"
+msgstr "Are you sure you're a strong drinker?"
+
+msgctxt "18816_Kiryu"
+msgid "That's not good for you."
+msgstr "That's not good for you."
+
+msgctxt "18828_Kiryu"
+msgid "Why don't I buy you something tasty?"
+msgstr "Why don't I buy you something tasty?"
+
+msgctxt "18840_Kiryu"
+msgid "Why are you dieting?"
+msgstr "Why are you dieting?"
+
+msgctxt "18852_Kiryu"
+msgid "You've really grown."
+msgstr "You've really grown."
+
+msgctxt "18864_Kiryu"
+msgid "Don't drag me into your family drama anymore."
+msgstr "Don't drag me into your family drama anymore."
+
+msgctxt "18876_Kiryu"
+msgid "I need to talk to your father."
+msgstr "I need to talk to your father."
+
+msgctxt "18888_Kiryu"
+msgid "Nothing"
+msgstr "Niente"
+
+msgctxt "18900_Kiryu"
+msgid "777 Town"
+msgstr "777 Town"
+
+msgctxt "18912_Kiryu"
+msgid "Amoebatar"
+msgstr "Amoebatar"
+
+msgctxt "18924_Kiryu"
+msgid "The Ghost in the Underground Mall"
+msgstr "The Ghost in the Underground Mall"
+
+msgctxt "18936_Kiryu"
+msgid "The Footbaths at Yunosono Hot Springs"
+msgstr "The Footbaths at Yunosono Hot Springs"
+
+msgctxt "18948_Kiryu"
+msgid "Popular Golf Dates Among Women"
+msgstr "Popular Golf Dates Among Women"
+
+msgctxt "18960_Kiryu"
+msgid "Eating Liver to Reverse Brain Aging"
+msgstr "Eating Liver to Reverse Brain Aging"
+
+msgctxt "18972_Kiryu"
+msgid "The Pole Dancing Workout"
+msgstr "The Pole Dancing Workout"
+
+msgctxt "18984_Kiryu"
+msgid "Popular Sweet Sake Among Women"
+msgstr "Popular Sweet Sake Among Women"
+
+msgctxt "18996_Kiryu"
+msgid "Go ahead."
+msgstr "Vai pure."
+
+msgctxt "19008_Kiryu"
+msgid "No."
+msgstr "No."
+
+msgctxt "19020_Kiryu"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "19032_Kiryu"
+msgid "Sorry."
+msgstr "Sorry."

@@ -1,0 +1,78 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "248"
+msgid "You got a <Color:8>Woodcarving of a Bear<Color:Default>."
+msgstr ""
+"Hai ottenuto una <Color:8>Scultura in legno di un orso<Color:Default>."
+
+msgctxt "272"
+msgid "Nothing happened."
+msgstr "Non è successo niente."
+
+msgctxt "296"
+msgid "Nothing happened."
+msgstr "Non è successo niente."
+
+msgctxt "332"
+msgid "You got a <Color:8>Smashing Sculpture<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Scultura devastante<Color:Default>."
+
+msgctxt "2672"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2676"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "2680"
+msgid "TNK_08_B_START"
+msgstr "TNK_08_B_START"
+
+msgctxt "2684"
+msgid "TNK_08_B_E_START"
+msgstr "TNK_08_B_E_START"
+
+msgctxt "2688"
+msgid "TNK_08_B_N_START"
+msgstr "TNK_08_B_N_START"
+
+msgctxt "2692"
+msgid "TNK_08_A_START"
+msgstr "TNK_08_A_START"
+
+msgctxt "2696"
+msgid "TNK_08_A_E_START"
+msgstr "TNK_08_A_E_START"
+
+msgctxt "2700"
+msgid "TNK_08_A_N_START"
+msgstr "TNK_08_A_N_START"
+
+msgctxt "284_Saejima"
+msgid "(I should take a break and come back later...)"
+msgstr "(Dovrei fare una pausa e tornare più tardi...)"
+
+msgctxt "308_Akiyama"
+msgid "(I should take a break and come back later...)"
+msgstr "(Dovrei fare una pausa e tornare più tardi...)"
+
+msgctxt "356_Saejima"
+msgid "You learned the <Color:9>Essence of Smashing<Color:Default>."
+msgstr "Hai imparato l'<Color:9>Essenza della Distruzione<Color:Default>."
+
+msgctxt "380_Saejima"
+msgid "You learned the <Color:9>Essence of Comebacks<Color:Default>."
+msgstr "Hai imparato l'<Color:9>Essenza della Rimonta<Color:Default>."

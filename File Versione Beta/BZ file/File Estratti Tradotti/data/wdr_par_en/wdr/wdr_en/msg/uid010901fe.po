@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2628"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "2632"
+msgid "Tao"
+msgstr "Tao"
+
+msgctxt "2636"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2640"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "84_Tanimura"
+msgid "Found you, Tao."
+msgstr "Found you, Tao."
+
+msgctxt "96_Tao"
+msgid "Ahhh! You scared me!"
+msgstr "Ahhh! You scared me!"
+
+msgctxt "108_Tanimura"
+msgid "Hey, calm down."
+msgstr "Hey, calm down."
+
+msgctxt "180_Tao"
+msgid "I didn't do anything! I swear!"
+msgstr "I didn't do anything! I swear!"
+
+msgctxt "192_Tanimura"
+msgid "You were about to tag this place up, weren't you?"
+msgstr "You were about to tag this place up, weren't you?"
+
+msgctxt "204_Tao"
+msgid "......"
+msgstr "......"
+
+msgctxt "216_Tanimura"
+msgid "I'm guessing you've been at this for a while now."
+msgstr "I'm guessing you've been at this for a while now."
+
+msgctxt "228_Tao"
+msgid "...How'd you know?"
+msgstr "...How'd you know?"
+
+msgctxt "240_Tanimura"
+msgid ""
+"We'll talk about it later. For now, just go to West Park and wait there for "
+"me, okay?"
+msgstr ""
+"We'll talk about it later. For now, just go to West Park and wait there for "
+"me, okay?"
+
+msgctxt "252_Tao"
+msgid "......"
+msgstr "......"
+
+msgctxt "264_Tao"
+msgid "...Okay."
+msgstr "...Ok."
+
+msgctxt "312_Tanimura"
+msgid "Last is the entrance to Little Asia from East Taihei Boulevard."
+msgstr "Last is the entrance to Little Asia from East Taihei Boulevard."

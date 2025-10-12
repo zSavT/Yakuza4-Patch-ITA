@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "248"
+msgid "You gained 10,000 EXP.\t"
+msgstr "You gained 10,000 EXP."
+
+msgctxt "2048"
+msgid "F_sxy_stand_sync_dakitukiA_ed"
+msgstr "F_sxy_stand_sync_dakitukiA_ed"
+
+msgctxt "2052"
+msgid "P_stand_sync_dakitukiA_ed"
+msgstr "P_stand_sync_dakitukiA_ed"
+
+msgctxt "2056"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "2060"
+msgid "Noa"
+msgstr "Noa"
+
+msgctxt "2064"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "2068"
+msgid "P_aki_stand"
+msgstr "P_aki_stand"
+
+msgctxt "2072"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "2076"
+msgid "0"
+msgstr ""
+
+msgctxt "104_Akiyama"
+msgid "What're you doing?"
+msgstr "What're you doing?"
+
+msgctxt "116_Noa"
+msgid "Hm? Oh, I was just checking to see if they were still following me."
+msgstr "Hm? Oh, I was just checking to see if they were still following me."
+
+msgctxt "128_Akiyama"
+msgid "I don't think you have to worry about that."
+msgstr "I don't think you have to worry about that."
+
+msgctxt "140_Noa"
+msgid "Aw... I wanted them to see how in love we are!"
+msgstr "Aw... I wanted them to see how in love we are!"
+
+msgctxt "152_Akiyama"
+msgid "Give me a break..."
+msgstr "Give me a break..."
+
+msgctxt "164_Noa"
+msgid "Hahaha!"
+msgstr "Hahaha!"
+
+msgctxt "176_Noa"
+msgid ""
+"Thank you for everything. I love you. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Thank you for everything. I love you. "
+"<Color:255,200,200,255>♥<Color:Default>"

@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1284"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "232_Tanimura"
+msgid "Let's pick the banker."
+msgstr "Let's pick the banker."
+
+msgctxt "244_Tanimura"
+msgid "I'm the banker."
+msgstr "I'm the banker."
+
+msgctxt "256_Tanimura"
+msgid "(How much should I wager?)"
+msgstr "(How much should I wager?)"
+
+msgctxt "268_Tanimura"
+msgid "Here goes."
+msgstr "Here goes."
+
+msgctxt "280_Tanimura"
+msgid "It's my turn."
+msgstr "It's my turn."
+
+msgctxt "292_Tanimura"
+msgid "I'll roll again."
+msgstr "I'll roll again."
+
+msgctxt "304_Tanimura"
+msgid "Let's settle up."
+msgstr "Let's settle up."
+
+msgctxt "316_Tanimura"
+msgid "(You're the banker.)"
+msgstr "(You're the banker.)"
+
+msgctxt "328_Tanimura"
+msgid "Time to change the banker."
+msgstr "Time to change the banker."
+
+msgctxt "340_Tanimura"
+msgid "(Play again?)"
+msgstr "(Play again?)"
+
+msgctxt "352_Tanimura"
+msgid "(I'm broke.)"
+msgstr "(I'm broke.)"
+
+msgctxt "364_Tanimura"
+msgid "(Try again next time.)"
+msgstr "(Try again next time.)"

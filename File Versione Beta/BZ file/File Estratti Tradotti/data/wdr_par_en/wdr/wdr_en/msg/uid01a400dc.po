@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1924"
+msgid "Shady Man A"
+msgstr "Shady Man A"
+
+msgctxt "1928"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1932"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1936"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "1940"
+msgid "Police Officer"
+msgstr "Agente di Polizia"
+
+msgctxt "1944"
+msgid "Talk_Phone_yes"
+msgstr "Talk_Phone_yes"
+
+msgctxt "1948"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "1952"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "56_Shady Man A"
+msgid "Who the fuck are you, anyway!?"
+msgstr "Who the fuck are you, anyway!?"
+
+msgctxt "68_Akiyama"
+msgid "Just your everyday moneylender."
+msgstr "Just your everyday moneylender."
+
+msgctxt "116_Police Officer"
+msgid "Kamurocho Police Department."
+msgstr "Kamurocho Police Department."
+
+msgctxt "128_Akiyama"
+msgid "Hello, officer?"
+msgstr "Hello, officer?"
+
+msgctxt "140_Police Officer"
+msgid "Yes, can I help you?"
+msgstr "Yes, can I help you?"
+
+msgctxt "152_Akiyama"
+msgid ""
+"You know that counterfeiting story that's been in the news\r\n"
+"lately? Pretty sure the perps are laying in a pile down at the docks."
+msgstr ""
+"You know that counterfeiting story that's been in the news\r\n"
+"lately? Pretty sure the perps are laying in a pile down at the docks."
+
+msgctxt "164_Police Officer"
+msgid "Huh? Wait, what do you m－"
+msgstr "Huh? Wait, what do you m－"
+
+msgctxt "224_Akiyama"
+msgid "All right... I'm done here."
+msgstr "All right... I'm done here."

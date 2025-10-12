@@ -1,0 +1,245 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "512"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "992"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "13324"
+msgid "Himeka"
+msgstr "Himeka"
+
+msgctxt "13328"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13332"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "13336"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "13340"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "13344"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13348"
+msgid "0"
+msgstr ""
+
+msgctxt "13352"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "116_Himeka"
+msgid "Hehehe. I ain't gonna let you beat me, %s-san."
+msgstr "Hehehe. I ain't gonna let you beat me, %s-san."
+
+msgctxt "128_Player"
+msgid "Should we head inside?"
+msgstr "Should we head inside?"
+
+msgctxt "152_Himeka"
+msgid "Hehehe. I ain't gonna let you beat me, %s-san."
+msgstr "Hehehe. I ain't gonna let you beat me, %s-san."
+
+msgctxt "164_Himeka"
+msgid "Well, let's head in!"
+msgstr "Well, let's head in!"
+
+msgctxt "176_Player"
+msgid "Uh... Hold on a second. I just realized I'm short on cash."
+msgstr "Uh... Hold on a second. I just realized I'm short on cash."
+
+msgctxt "188_Himeka"
+msgid "Huh? You're kiddin', right?"
+msgstr "Huh? You're kiddin', right?"
+
+msgctxt "200_Tanimura"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "212_Himeka"
+msgid ""
+"Well, that's the end of our date for today. See ya later, Tanimura-san..."
+msgstr ""
+"Well, that's the end of our date for today. See ya later, Tanimura-san..."
+
+msgctxt "224_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr "(I'd better remember to bring enough cash next time...)"
+
+msgctxt "332_Himeka"
+msgid "Aw, I lost... You're pretty good at darts, %s-san."
+msgstr "Aw, I lost... You're pretty good at darts, %s-san."
+
+msgctxt "344_Player"
+msgid "I've had some practice."
+msgstr "I've had some practice."
+
+msgctxt "356_Himeka"
+msgid ""
+"That was really fun. I hope you'll take me out again. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"That was really fun. I hope you'll take me out again. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "368_Himeka"
+msgid "Anyway, I'll catch ya later!"
+msgstr "Anyway, I'll catch ya later!"
+
+msgctxt "392_Himeka"
+msgid "Hehe. Looks like a draw."
+msgstr "Hehe. Looks like a draw."
+
+msgctxt "404_Player"
+msgid "I guess so."
+msgstr "I guess so."
+
+msgctxt "416_Himeka"
+msgid ""
+"That was really fun. I hope you'll take me out again. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"That was really fun. I hope you'll take me out again. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "428_Himeka"
+msgid "Anyway, I'll catch ya later!"
+msgstr "Anyway, I'll catch ya later!"
+
+msgctxt "452_Himeka"
+msgid "All right! I won! Too bad for you, %s-san."
+msgstr "All right! I won! Too bad for you, %s-san."
+
+msgctxt "464_Player"
+msgid "Damn."
+msgstr "Damn."
+
+msgctxt "476_Himeka"
+msgid ""
+"That was really fun. I hope you'll take me out again. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"That was really fun. I hope you'll take me out again. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "488_Himeka"
+msgid "Anyway, I'll catch ya later!"
+msgstr "Anyway, I'll catch ya later!"
+
+msgctxt "596_Himeka"
+msgid "Hehehe. I ain't gonna let you beat me, %s-san."
+msgstr "Hehehe. I ain't gonna let you beat me, %s-san."
+
+msgctxt "608_Player"
+msgid "Should we head inside?"
+msgstr "Should we head inside?"
+
+msgctxt "632_Himeka"
+msgid "Hehehe. I ain't gonna let you beat me, %s-san."
+msgstr "Hehehe. I ain't gonna let you beat me, %s-san."
+
+msgctxt "644_Himeka"
+msgid "Well, let's head in!"
+msgstr "Well, let's head in!"
+
+msgctxt "656_Player"
+msgid "Uh... Hold on a second. I just realized I'm short on cash."
+msgstr "Uh... Hold on a second. I just realized I'm short on cash."
+
+msgctxt "668_Himeka"
+msgid "Huh? You're kiddin', right?"
+msgstr "Huh? You're kiddin', right?"
+
+msgctxt "680_Tanimura"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "692_Himeka"
+msgid ""
+"Well, that's the end of our date for today. See ya later, Tanimura-san..."
+msgstr ""
+"Well, that's the end of our date for today. See ya later, Tanimura-san..."
+
+msgctxt "704_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr "(I'd better remember to bring enough cash next time...)"
+
+msgctxt "812_Himeka"
+msgid "Wow, you're really good at darts!"
+msgstr "Wow, you're really good at darts!"
+
+msgctxt "824_Player"
+msgid "I've had some practice."
+msgstr "I've had some practice."
+
+msgctxt "836_Himeka"
+msgid ""
+"Well, I had a ton of fun. Let's head to the club now. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Well, I had a ton of fun. Let's head to the club now. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "848_Player"
+msgid "Sure. Sounds good."
+msgstr "Sure. Sounds good."
+
+msgctxt "872_Himeka"
+msgid "Hehe. Looks like a draw."
+msgstr "Hehe. Looks like a draw."
+
+msgctxt "884_Player"
+msgid "I guess so."
+msgstr "I guess so."
+
+msgctxt "896_Himeka"
+msgid ""
+"That was a lot of fun. Let's head to the club now. <Color:7>♥<Color:Default>"
+msgstr ""
+"That was a lot of fun. Let's head to the club now. <Color:7>♥<Color:Default>"
+
+msgctxt "908_Player"
+msgid "Sure. Sounds good."
+msgstr "Sure. Sounds good."
+
+msgctxt "932_Himeka"
+msgid "Hehe. Too bad, %s-san. I won."
+msgstr "Hehe. Too bad, %s-san. I won."
+
+msgctxt "944_Player"
+msgid "Damn."
+msgstr "Damn."
+
+msgctxt "956_Himeka"
+msgid ""
+"That was a lot of fun. Let's head to the club now. <Color:7>♥<Color:Default>"
+msgstr ""
+"That was a lot of fun. Let's head to the club now. <Color:7>♥<Color:Default>"
+
+msgctxt "968_Player"
+msgid "Sure. Sounds good."
+msgstr "Sure. Sounds good."

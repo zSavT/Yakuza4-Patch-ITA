@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1236"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "1240"
+msgid "Noa"
+msgstr "Noa"
+
+msgctxt "1244"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1248"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "1252"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "92_Noa"
+msgid "Akiyama-san! I'm in a huge mess... You've got to help me!"
+msgstr "Akiyama-san! Sono in un guaio enorme... Devi aiutarmi!"
+
+msgctxt "104_Akiyama"
+msgid "Noa, is that you? Slow down! What happened?"
+msgstr "Noa, sei tu? Calmati! Cos'è successo?"
+
+msgctxt "116_Noa"
+msgid ""
+"My stalkers, they－ It's terrible! Just get here as soon as you can! I'm in "
+"the underground mall!"
+msgstr ""
+"I miei stalker, loro... è terribile! Vieni qui il prima possibile! Sono nel "
+"centro commerciale sotterraneo!"
+
+msgctxt "128_Akiyama"
+msgid "The underground mall? Okay. I'm on my way."
+msgstr "Il centro commerciale sotterraneo? Okay. Sto arrivando."

@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2080"
+msgid "Suited Henchman"
+msgstr "Suited Henchman"
+
+msgctxt "2084"
+msgid "Femme Fatale"
+msgstr "Femme Fatale"
+
+msgctxt "2088"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2092"
+msgid "Suited Goon"
+msgstr "Suited Goon"
+
+msgctxt "2096"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "2100"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "2104"
+msgid "0"
+msgstr ""
+
+msgctxt "68_Suited Henchman"
+msgid "Come on, give us back what you stole already."
+msgstr "Come on, give us back what you stole already."
+
+msgctxt "80_Femme Fatale"
+msgid "Uh-oh..."
+msgstr "Uh-oh..."
+
+msgctxt "116_Suited Henchman"
+msgid "And don't even think about trying to run."
+msgstr "And don't even think about trying to run."
+
+msgctxt "128_Saejima"
+msgid "Hey, what are ya doin'?"
+msgstr "Hey, what are ya doin'?"
+
+msgctxt "152_Suited Goon"
+msgid "None of your business. What's it to you, anyway? Get lost."
+msgstr "None of your business. What's it to you, anyway? Get lost."

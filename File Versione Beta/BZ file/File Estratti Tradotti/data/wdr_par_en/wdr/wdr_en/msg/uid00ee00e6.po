@@ -1,0 +1,90 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2256"
+msgid "Dealer"
+msgstr "Croupier"
+
+msgctxt "2260"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "2264"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "2268"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2272"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "172_Dealer"
+msgid "Welcome. Would you like to play roulette?"
+msgstr "Benvenuto. Le piacerebbe giocare alla roulette?"
+
+msgctxt "196_Player"
+msgid "Sure, I'll play."
+msgstr "Certo, gioco."
+
+msgctxt "220_Dealer"
+msgid ""
+"How about playing the house, one-on-one sir? You won't able to place outside"
+" bets, but you get five spins with double the odds."
+msgstr ""
+"Che ne dice di giocare contro il banco, uno contro uno, signore? Non potrà "
+"fare puntate esterne, ma avrà cinque giri con probabilità doppie."
+
+msgctxt "232_Player"
+msgid "Hmm... Sure, sign me up."
+msgstr "Mmm... Certo, mi iscriva."
+
+msgctxt "256_Dealer"
+msgid "Very good, sir. Please take your seat."
+msgstr "Molto bene, signore. Si accomodi."
+
+msgctxt "280_Dealer"
+msgid "It looks like you don't have enough chips to play roulette, sir."
+msgstr ""
+"Sembra che non abbia abbastanza fiches per giocare alla roulette, signore."
+
+msgctxt "292_Player"
+msgid "Not right now."
+msgstr "Non adesso."
+
+msgctxt "304_Dealer"
+msgid ""
+"All right. Come visit again sometime.\r\n"
+"Please play next time."
+msgstr ""
+"Va bene. Torni a trovarci.\r\n"
+"Spero giochi la prossima volta."
+
+msgctxt "316_Dealer"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "328_Dealer"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "340_Dealer"
+msgid "Play Against the House"
+msgstr "Gioca contro il banco"
+
+msgctxt "352_Dealer"
+msgid "Play a Standard Game"
+msgstr "Gioca una partita standard"

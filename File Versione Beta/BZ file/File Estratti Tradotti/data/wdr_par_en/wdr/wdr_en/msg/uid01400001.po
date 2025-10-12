@@ -1,0 +1,101 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2872"
+msgid "Dealer"
+msgstr "Mazziere"
+
+msgctxt "376_Dealer"
+msgid "Snake Eyes, even!"
+msgstr "Snake Eyes, even!"
+
+msgctxt "388_Dealer"
+msgid "1-2, odd!"
+msgstr "1-2, odd!"
+
+msgctxt "400_Dealer"
+msgid "3-1, even!"
+msgstr "3-1, even!"
+
+msgctxt "412_Dealer"
+msgid "4-1, odd!"
+msgstr "4-1, odd!"
+
+msgctxt "424_Dealer"
+msgid "5-1, even!"
+msgstr "5-1, even!"
+
+msgctxt "436_Dealer"
+msgid "1-6, odd!"
+msgstr "1-6, odd!"
+
+msgctxt "448_Dealer"
+msgid "2-2, even!"
+msgstr "2-2, even!"
+
+msgctxt "460_Dealer"
+msgid "3-2, odd!"
+msgstr "3-2, odd!"
+
+msgctxt "472_Dealer"
+msgid "4-2, even!"
+msgstr "4-2, even!"
+
+msgctxt "484_Dealer"
+msgid "5-2, odd!"
+msgstr "5-2, odd!"
+
+msgctxt "496_Dealer"
+msgid "2-6, even!"
+msgstr "2-6, even!"
+
+msgctxt "508_Dealer"
+msgid "3-3, even!"
+msgstr "3-3, even!"
+
+msgctxt "520_Dealer"
+msgid "4-3, odd!"
+msgstr "4-3, odd!"
+
+msgctxt "532_Dealer"
+msgid "5-3, even!"
+msgstr "5-3, even!"
+
+msgctxt "544_Dealer"
+msgid "3-6, odd!"
+msgstr "3-6, odd!"
+
+msgctxt "556_Dealer"
+msgid "4-4, even!"
+msgstr "4-4, even!"
+
+msgctxt "568_Dealer"
+msgid "5-4, odd!"
+msgstr "5-4, odd!"
+
+msgctxt "580_Dealer"
+msgid "4-6, even!"
+msgstr "4-6, even!"
+
+msgctxt "592_Dealer"
+msgid "5-5, even!"
+msgstr "5-5, even!"
+
+msgctxt "604_Dealer"
+msgid "5-6, odd!"
+msgstr "5-6, odd!"
+
+msgctxt "616_Dealer"
+msgid "6-6, even!"
+msgstr "6-6, even!"

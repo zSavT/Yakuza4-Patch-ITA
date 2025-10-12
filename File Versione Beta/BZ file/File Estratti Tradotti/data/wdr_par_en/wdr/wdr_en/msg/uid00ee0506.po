@@ -1,0 +1,107 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2920"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "2924"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2928"
+msgid "Lily"
+msgstr "Lily"
+
+msgctxt "2932"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "2936"
+msgid "Putting Together a Stylish Outfit"
+msgstr "Creare un outfit alla moda"
+
+msgctxt "104_Akiyama"
+msgid "Okay. Let's get started."
+msgstr "Okay. Cominciamo."
+
+msgctxt "116_Lily"
+msgid "Yes, let's."
+msgstr "Certo."
+
+msgctxt "128_Akiyama"
+msgid ""
+"First, let's get you changed into an outfit that brings out the best of your"
+" natural beauty. Don't worry, I guarantee you'll look great."
+msgstr ""
+"Per prima cosa, cambiamoci con un outfit che tiri fuori il meglio della tua "
+"bellezza naturale. Non preoccuparti, ti garantisco che sarai fantastica."
+
+msgctxt "152_Akiyama"
+msgid "Looking good."
+msgstr "Stai bene."
+
+msgctxt "164_Lily"
+msgid "You think so?"
+msgstr "Pensa?"
+
+msgctxt "176_Akiyama"
+msgid "Of course. Now go get 'em."
+msgstr "Certo. Ora va' e fagli vedere."
+
+msgctxt "188_Lily"
+msgid "Okay... I'll do my best."
+msgstr "Okay... Farò del mio meglio."
+
+msgctxt "248_Akiyama"
+msgid ""
+"Get a feel for your customers' preferences by walking around the club, then "
+"return to the break room and coordinate your hostess to fit their ideal "
+"image."
+msgstr ""
+"Fatti un'idea delle preferenze dei clienti girando per il locale, poi torna "
+"nel camerino e coordina l'aspetto della tua hostess per adattarlo alla loro "
+"immagine ideale."
+
+msgctxt "260_Akiyama"
+msgid "(Guess I should take a stroll around the club.)"
+msgstr "(Credo che farò un giro per il locale.)"
+
+msgctxt "284_Akiyama"
+msgid "I've taught you everything I know. It's all up to you now."
+msgstr "Ti ho insegnato tutto quello che so. Ora sta a te."
+
+msgctxt "296_Lily"
+msgid "Okay..."
+msgstr "Okay..."
+
+msgctxt "308_Akiyama"
+msgid "There's still some time until the club closes. Good luck."
+msgstr "C'è ancora un po' di tempo prima che il locale chiuda. Buona fortuna."
+
+msgctxt "320_Lily"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "332_Akiyama"
+msgid ""
+"The manager will contact me once he's calculated your sales. We just need to"
+" wait until then."
+msgstr ""
+"Il manager mi contatterà non appena avrà calcolato le tue vendite. Dobbiamo "
+"solo aspettare fino ad allora."
+
+msgctxt "344_Lily"
+msgid "Okay."
+msgstr "Ok."

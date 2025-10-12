@@ -1,0 +1,117 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "256"
+msgid "The barkeep of Cuez Bar is now your ally."
+msgstr "Il barista del Cuez Bar è ora un tuo alleato."
+
+msgctxt "436"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+"Dopo aver usato il coupon, la tua rivista Kamuro Gourmet è stata gettata "
+"via."
+
+msgctxt "640"
+msgid "After using the coupon, your Kamuro Gourmet magazine was discarded."
+msgstr ""
+"Dopo aver usato il coupon, la tua rivista Kamuro Gourmet è stata gettata "
+"via."
+
+msgctxt "5388"
+msgid "Bartender"
+msgstr "Barista"
+
+msgctxt "5392"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "232_Bartender"
+msgid "Thank you very much. I'm glad you've come to like this bar so much."
+msgstr "Molte grazie. Sono contento che questo bar le piaccia così tanto."
+
+msgctxt "244_Bartender"
+msgid ""
+"I'd be more than happy to lend you a helping hand if you ever get into "
+"trouble in the underground mall."
+msgstr ""
+"Sarò più che felice di darle una mano se mai si trovasse nei guai nel centro"
+" commerciale sotterraneo."
+
+msgctxt "304_Bartender"
+msgid "Hello, sir. May I take your order?"
+msgstr "Salve, signore. Posso prendere la sua ordinazione?"
+
+msgctxt "328_Bartender"
+msgid ""
+"Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr "Oh, ha con sé un Kamuro Gourmet? Vuole usare il coupon?"
+
+msgctxt "340_Bartender"
+msgid "You'll be using the coupon, then? Thank you!"
+msgstr "Allora usa il coupon? Grazie!"
+
+msgctxt "388_Bartender"
+msgid ""
+"I think you've already had enough to drink. I'd stop now if I were you."
+msgstr "Penso che abbia già bevuto abbastanza. Se fossi in lei, mi fermerei."
+
+msgctxt "400_Bartender"
+msgid "Another drink, sir?"
+msgstr "Un altro drink, signore?"
+
+msgctxt "412_Bartender"
+msgid "All right. Please stop by again soon."
+msgstr "Va bene. Torni a trovarci presto."
+
+msgctxt "508_Bartender"
+msgid "Welcome. Have you decided what you want?"
+msgstr "Benvenuto. Ha deciso cosa vuole?"
+
+msgctxt "532_Bartender"
+msgid ""
+"Oh, you have a Kamuro Gourmet on you? Would you like to use the coupon?"
+msgstr "Oh, ha con sé un Kamuro Gourmet? Vuole usare il coupon?"
+
+msgctxt "544_Bartender"
+msgid "You'll be using the coupon, then? Thank you!"
+msgstr "Allora usa il coupon? Grazie!"
+
+msgctxt "592_Bartender"
+msgid ""
+"I think you've already had enough to drink. I'd stop now if I were you."
+msgstr "Penso che abbia già bevuto abbastanza. Se fossi in lei, mi fermerei."
+
+msgctxt "604_Bartender"
+msgid "Another drink, sir?"
+msgstr "Un altro drink, signore?"
+
+msgctxt "616_Bartender"
+msgid "All right. Please stop by again soon."
+msgstr "Va bene. Torni a trovarci presto."
+
+msgctxt "676_Bartender"
+msgid "Use"
+msgstr "Usa"
+
+msgctxt "688_Bartender"
+msgid "Don't Use"
+msgstr "Non usare"
+
+msgctxt "700_Bartender"
+msgid "Use"
+msgstr "Usa"
+
+msgctxt "712_Bartender"
+msgid "Don't Use"
+msgstr "Non usare"

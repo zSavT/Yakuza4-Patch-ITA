@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1636"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "1640"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1644"
+msgid "Talk_Phone_yes"
+msgstr "Talk_Phone_yes"
+
+msgctxt "1648"
+msgid "Takashi"
+msgstr "Takashi"
+
+msgctxt "1652"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "1656"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "92_Kiryu"
+msgid "Takashi? It's Kiryu."
+msgstr "Takashi? It's Kiryu."
+
+msgctxt "104_Takashi"
+msgid "Oh, Kiryu-san. Did you hear anything?"
+msgstr "Oh, Kiryu-san. Did you hear anything?"
+
+msgctxt "116_Kiryu"
+msgid "I did, actually. The Florist gave me the details on your father."
+msgstr "I did, actually. The Florist gave me the details on your father."
+
+msgctxt "128_Takashi"
+msgid "He did!?"
+msgstr "He did!?"
+
+msgctxt "140_Kiryu"
+msgid "Yeah. Are you free?"
+msgstr "Yeah. Are you free?"
+
+msgctxt "152_Takashi"
+msgid "Of course! I'll wait for you out front of the Millennium Tower!"
+msgstr "Of course! I'll wait for you out front of the Millennium Tower!"
+
+msgctxt "164_Kiryu"
+msgid "Got it. See you soon."
+msgstr "Got it. See you soon."

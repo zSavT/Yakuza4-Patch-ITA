@@ -1,0 +1,177 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "356"
+msgid "You paid 1,000 chips."
+msgstr "You paid 1,000 chips."
+
+msgctxt "4420"
+msgid "Dealer"
+msgstr "Mazziere"
+
+msgctxt "4424"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "4428"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4432"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "4436"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4440"
+msgid "Deck Type and Payout"
+msgstr "Deck Type and Payout"
+
+msgctxt "308_Dealer"
+msgid ""
+"Welcome to the baccarat table. You can play one game for 1,000 chips. Would "
+"you like to play?"
+msgstr ""
+"Welcome to the baccarat table. You can play one game for 1,000 chips. Would "
+"you like to play?"
+
+msgctxt "320_Dealer"
+msgid ""
+"I've noticed that you play blackjack quite often. Would you be interested in"
+" playing the house, one-on-one?"
+msgstr ""
+"I've noticed that you play blackjack quite often. Would you be interested in"
+" playing the house, one-on-one?"
+
+msgctxt "332_Dealer"
+msgid "What would you like to do?"
+msgstr "What would you like to do?"
+
+msgctxt "344_Dealer"
+msgid "All right, then. First, I'll need your 1,000 chips."
+msgstr "All right, then. First, I'll need your 1,000 chips."
+
+msgctxt "368_Dealer"
+msgid "Thank you. Now, then, let's begin."
+msgstr "Thank you. Now, then, let's begin."
+
+msgctxt "392_Dealer"
+msgid "Very well. Let's continue with normal blackjack, then."
+msgstr "Very well. Let's continue with normal blackjack, then."
+
+msgctxt "416_Dealer"
+msgid "Sure, I'm feeling lucky today."
+msgstr "Sure, I'm feeling lucky today."
+
+msgctxt "428_Dealer"
+msgid "Very good, sir."
+msgstr "Very good, sir."
+
+msgctxt "464_Dealer"
+msgid "Not right now."
+msgstr "Not right now."
+
+msgctxt "476_Dealer"
+msgid "Very well. We hope you'll play with us next time."
+msgstr "Very well. We hope you'll play with us next time."
+
+msgctxt "488_Dealer"
+msgid "You seem to be short on chips. Please visit us again soon."
+msgstr "You seem to be short on chips. Please visit us again soon."
+
+msgctxt "500_Player"
+msgid "Tell me the rules."
+msgstr "Tell me the rules."
+
+msgctxt "512_Dealer"
+msgid ""
+"This is a game between you and the house. Whoever gets three wins first wins"
+" the game."
+msgstr ""
+"This is a game between you and the house. Whoever gets three wins first wins"
+" the game."
+
+msgctxt "524_Dealer"
+msgid ""
+"Before the game begins, I'll need 1,000 chips for you to join. The payout "
+"differs depending on which deck is used."
+msgstr ""
+"Before the game begins, I'll need 1,000 chips for you to join. The payout "
+"differs depending on which deck is used."
+
+msgctxt "536_Deck Type and Payout"
+msgid ""
+"Standard Deck: 2,000 chips\r\n"
+"Without 2/3/4: 2,500 chips\r\n"
+"Without 7/8/9: 2,000 chips\r\n"
+"Without J/Q/K: 4,000 chips"
+msgstr ""
+"Standard Deck: 2,000 chips\r\n"
+"Without 2/3/4: 2,500 chips\r\n"
+"Without 7/8/9: 2,000 chips\r\n"
+"Without J/Q/K: 4,000 chips"
+
+msgctxt "548_Dealer"
+msgid "These are the payouts for winning against me one-on-one."
+msgstr "These are the payouts for winning against me one-on-one."
+
+msgctxt "560_Dealer"
+msgid "Play"
+msgstr "Play"
+
+msgctxt "572_Dealer"
+msgid "Not Now"
+msgstr "Not Now"
+
+msgctxt "584_Dealer"
+msgid "Play Against the House"
+msgstr "Play Against the House"
+
+msgctxt "596_Dealer"
+msgid "Play Standard Blackjack"
+msgstr "Play Standard Blackjack"
+
+msgctxt "608_Dealer"
+msgid "Hear the Rules"
+msgstr "Hear the Rules"
+
+msgctxt "620_Dealer"
+msgid "Not Now"
+msgstr "Not Now"
+
+msgctxt "632_Dealer"
+msgid "Play Against the House"
+msgstr "Play Against the House"
+
+msgctxt "644_Dealer"
+msgid "Play Standard Blackjack"
+msgstr "Play Standard Blackjack"
+
+msgctxt "656_Dealer"
+msgid "Hear the Rules"
+msgstr "Hear the Rules"
+
+msgctxt "668_Dealer"
+msgid "Not Now"
+msgstr "Not Now"
+
+msgctxt "680_Dealer"
+msgid "Pay"
+msgstr "Pay"
+
+msgctxt "692_Dealer"
+msgid "Don't Pay"
+msgstr "Don't Pay"

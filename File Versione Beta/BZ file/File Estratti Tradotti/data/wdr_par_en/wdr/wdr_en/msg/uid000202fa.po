@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "732"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "736"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "740"
+msgid "Homeless Man"
+msgstr "Homeless Man"
+
+msgctxt "56_Saejima"
+msgid "'Scuse me. Know where I can find an info broker?"
+msgstr "'Scuse me. Know where I can find an info broker?"
+
+msgctxt "68_Homeless Man"
+msgid "Who, me? Nah, I don't know a thing."
+msgstr "Who, me? Nah, I don't know a thing."
+
+msgctxt "80_Saejima"
+msgid "Alright. Mind lettin' me by so I can ask someone who does?"
+msgstr "Alright. Mind lettin' me by so I can ask someone who does?"
+
+msgctxt "92_Homeless Man"
+msgid ""
+"No one's up ahead. You'd just be wasting your time.\r\n"
+"I'd look elsewhere if I was you."
+msgstr ""
+"No one's up ahead. You'd just be wasting your time.\r\n"
+"I'd look elsewhere if I was you."

@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "112"
+msgid "Pick up the <Color:8>Worm<Color:Default>?"
+msgstr "Pick up the <Color:8>Worm<Color:Default>?"
+
+msgctxt "952"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "956"
+msgid "P_stand_tlk_hirou_st"
+msgstr "P_stand_tlk_hirou_st"
+
+msgctxt "960"
+msgid "P_stand_tlk_hirou_ed"
+msgstr "P_stand_tlk_hirou_ed"
+
+msgctxt "100_Player"
+msgid "(There's something here...)"
+msgstr "(There's something here...)"
+
+msgctxt "124_Player"
+msgid "You got a <Color:8>Worm<Color:Default>."
+msgstr "You got a <Color:8>Worm<Color:Default>."
+
+msgctxt "148_Player"
+msgid "(Off you go, little guy.)"
+msgstr "(Off you go, little guy.)"
+
+msgctxt "160_Player"
+msgid "Pick It Up"
+msgstr "Pick It Up"
+
+msgctxt "172_Player"
+msgid "Leave It There"
+msgstr "Leave It There"

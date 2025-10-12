@@ -1,0 +1,583 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "52864"
+msgid "Employee"
+msgstr "Cameriere"
+
+msgctxt "52868"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "52872"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "52876"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "52880"
+msgid "Noa"
+msgstr "Noa"
+
+msgctxt "52884"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "52888"
+msgid "Erena"
+msgstr "Erena"
+
+msgctxt "52892"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "52896"
+msgid "Chihiro"
+msgstr "Chihiro"
+
+msgctxt "52900"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "52904"
+msgid "Maya"
+msgstr "Maya"
+
+msgctxt "52908"
+msgid "Rio"
+msgstr "Rio"
+
+msgctxt "52912"
+msgid "Himeka"
+msgstr "Himeka"
+
+msgctxt "52916"
+msgid "Shizuka"
+msgstr "Shizuka"
+
+msgctxt "52920"
+msgid "松岡里緒奈：源氏名"
+msgstr "松岡里緒奈：源氏名"
+
+msgctxt "52924"
+msgid "望月京子：源氏名"
+msgstr "望月京子：源氏名"
+
+msgctxt "52928"
+msgid "峰村七海：源氏名"
+msgstr "峰村七海：源氏名"
+
+msgctxt "52932"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "52936"
+msgid "P_sitchr_tlk_kamae"
+msgstr "P_sitchr_tlk_kamae"
+
+msgctxt "52940"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "52944"
+msgid "P_stand"
+msgstr "P_stand"
+
+msgctxt "52948"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "304_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr "Benvenuti. Vi accompagno al vostro tavolo."
+
+msgctxt "316_Employee"
+msgid "Right this way."
+msgstr "Da questa parte."
+
+msgctxt "412_Employee"
+msgid "Welcome. Can I get you started off with a drink?"
+msgstr "Benvenuti. Posso portarvi qualcosa da bere per iniziare?"
+
+msgctxt "424_Akiyama"
+msgid "(Maybe I should order for the both of us.)"
+msgstr "(Forse dovrei ordinare per entrambi.)"
+
+msgctxt "496_Employee"
+msgid "Have you decided what you would like to order?"
+msgstr "Avete deciso cosa vorreste ordinare?"
+
+msgctxt "652_Noa"
+msgid "Huh? C'mon, you can handle ordering something, right?"
+msgstr "Eh? Dai, riesci a ordinare qualcosa, no?"
+
+msgctxt "664_Akiyama"
+msgid "Right..."
+msgstr "Giusto..."
+
+msgctxt "712_Employee"
+msgid "Here's your bill, sir."
+msgstr "Ecco il conto, signore."
+
+msgctxt "736_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr "Grazie mille. Tornate a trovarci presto."
+
+msgctxt "760_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr "Benvenuti. Vi accompagno al vostro tavolo."
+
+msgctxt "772_Employee"
+msgid "Right this way."
+msgstr "Da questa parte."
+
+msgctxt "868_Employee"
+msgid "Welcome. Can I get you started off with a drink?"
+msgstr "Benvenuti. Posso portarvi qualcosa da bere per iniziare?"
+
+msgctxt "880_Akiyama"
+msgid "(Maybe I should order for the both of us.)"
+msgstr "(Forse dovrei ordinare per entrambi.)"
+
+msgctxt "952_Employee"
+msgid "Have you decided what you would like to order?"
+msgstr "Avete deciso cosa vorreste ordinare?"
+
+msgctxt "1108_Erena"
+msgid ""
+"C'mon, get me food already! I'm tired of waiting! Feed me, Akiyama-san!"
+msgstr ""
+"Dai, ordinami da mangiare! Sono stufa di aspettare! Sfamami, Akiyama-san!"
+
+msgctxt "1120_Akiyama"
+msgid "Right, sorry about that."
+msgstr "Giusto, scusami."
+
+msgctxt "1168_Employee"
+msgid "Here's your bill, sir."
+msgstr "Ecco il conto, signore."
+
+msgctxt "1192_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr "Grazie mille. Tornate a trovarci presto."
+
+msgctxt "1216_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr "Benvenuti. Vi accompagno al vostro tavolo."
+
+msgctxt "1228_Employee"
+msgid "Right this way."
+msgstr "Da questa parte."
+
+msgctxt "1324_Employee"
+msgid "Welcome. Can I get you started off with a drink?"
+msgstr "Benvenuti. Posso portarvi qualcosa da bere per iniziare?"
+
+msgctxt "1336_Tanimura"
+msgid "(Maybe I should order for the both of us.)"
+msgstr "(Forse dovrei ordinare per entrambi.)"
+
+msgctxt "1408_Employee"
+msgid "Have you decided what you would like to order?"
+msgstr "Avete deciso cosa vorreste ordinare?"
+
+msgctxt "1564_Chihiro"
+msgid "Huh? You have to order something, don't you?"
+msgstr "Eh? Deve ordinare qualcosa, no?"
+
+msgctxt "1576_Tanimura"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "1624_Employee"
+msgid "Here's your bill, sir."
+msgstr "Ecco il conto, signore."
+
+msgctxt "1648_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr "Grazie mille. Tornate a trovarci presto."
+
+msgctxt "1672_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr "Benvenuti. Vi accompagno al vostro tavolo."
+
+msgctxt "1684_Employee"
+msgid "Right this way."
+msgstr "Da questa parte."
+
+msgctxt "1780_Employee"
+msgid "Welcome. Can I get you started off with a drink?"
+msgstr "Benvenuti. Posso portarvi qualcosa da bere per iniziare?"
+
+msgctxt "1792_Kiryu"
+msgid "(Maybe I should order for the both of us.)"
+msgstr "(Forse dovrei ordinare per entrambi.)"
+
+msgctxt "1864_Employee"
+msgid "Have you decided what you would like to order?"
+msgstr "Avete deciso cosa vorreste ordinare?"
+
+msgctxt "2020_Maya"
+msgid "Huh? C'mon, you can handle ordering something, right?"
+msgstr "Eh? Dai, riesci a ordinare qualcosa, no?"
+
+msgctxt "2032_Kiryu"
+msgid "Right..."
+msgstr "Giusto..."
+
+msgctxt "2080_Employee"
+msgid "Here's your bill, sir."
+msgstr "Ecco il conto, signore."
+
+msgctxt "2104_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr "Grazie mille. Tornate a trovarci presto."
+
+msgctxt "2128_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr "Benvenuti. Vi accompagno al vostro tavolo."
+
+msgctxt "2140_Employee"
+msgid "Right this way."
+msgstr "Da questa parte."
+
+msgctxt "2236_Employee"
+msgid "Welcome. Can I get you started off with a drink?"
+msgstr "Benvenuti. Posso portarvi qualcosa da bere per iniziare?"
+
+msgctxt "2248_Akiyama"
+msgid "(Maybe I should order for the both of us.)"
+msgstr "(Forse dovrei ordinare per entrambi.)"
+
+msgctxt "2320_Employee"
+msgid "Have you decided what you would like to order?"
+msgstr "Avete deciso cosa vorreste ordinare?"
+
+msgctxt "2476_Rio"
+msgid "Huh? Let's order something, c'mon."
+msgstr "Eh? Ordiniamo qualcosa, dai."
+
+msgctxt "2488_Akiyama"
+msgid "Right..."
+msgstr "Giusto..."
+
+msgctxt "2536_Employee"
+msgid "Here's your bill, sir."
+msgstr "Ecco il conto, signore."
+
+msgctxt "2560_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr "Grazie mille. Tornate a trovarci presto."
+
+msgctxt "2584_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr "Benvenuti. Vi accompagno al vostro tavolo."
+
+msgctxt "2596_Employee"
+msgid "Right this way."
+msgstr "Da questa parte."
+
+msgctxt "2692_Employee"
+msgid "Welcome. Can I get you started off with a drink?"
+msgstr "Benvenuti. Posso portarvi qualcosa da bere per iniziare?"
+
+msgctxt "2704_Tanimura"
+msgid "(Maybe I should order for the both of us.)"
+msgstr "(Forse dovrei ordinare per entrambi.)"
+
+msgctxt "2776_Employee"
+msgid "Have you decided what you would like to order?"
+msgstr "Avete deciso cosa vorreste ordinare?"
+
+msgctxt "2932_Himeka"
+msgid "Is there something wrong? Please pick something already."
+msgstr "C'è qualcosa che non va? La prego, scelga qualcosa."
+
+msgctxt "2944_Tanimura"
+msgid "Right..."
+msgstr "Giusto..."
+
+msgctxt "2992_Employee"
+msgid "Here's your bill, sir."
+msgstr "Ecco il conto, signore."
+
+msgctxt "3016_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr "Grazie mille. Tornate a trovarci presto."
+
+msgctxt "3040_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr "Benvenuti. Vi accompagno al vostro tavolo."
+
+msgctxt "3052_Employee"
+msgid "Right this way."
+msgstr "Da questa parte."
+
+msgctxt "3148_Employee"
+msgid "Welcome. Can I get you started off with a drink?"
+msgstr "Benvenuti. Posso portarvi qualcosa da bere per iniziare?"
+
+msgctxt "3160_Kiryu"
+msgid "(Maybe I should order for the both of us.)"
+msgstr "(Forse dovrei ordinare per entrambi.)"
+
+msgctxt "3232_Employee"
+msgid "Have you decided what you would like to order?"
+msgstr "Avete deciso cosa vorreste ordinare?"
+
+msgctxt "3388_Shizuka"
+msgid "Um, what's wrong? Are you ready to order?"
+msgstr "Uhm, che succede? È pronto a ordinare?"
+
+msgctxt "3400_Kiryu"
+msgid "Yeah, just give me a second."
+msgstr "Sì, solo un secondo."
+
+msgctxt "3448_Employee"
+msgid "Here's your bill, sir."
+msgstr "Ecco il conto, signore."
+
+msgctxt "3472_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr "Grazie mille. Tornate a trovarci presto."
+
+msgctxt "3496_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr "Benvenuti. Vi accompagno al vostro tavolo."
+
+msgctxt "3508_Employee"
+msgid "Right this way."
+msgstr "Da questa parte."
+
+msgctxt "3604_Employee"
+msgid "Welcome. Can I get you started off with a drink?"
+msgstr "Benvenuti. Posso portarvi qualcosa da bere per iniziare?"
+
+msgctxt "3616_Kiryu"
+msgid "(Maybe I should order for the both of us.)"
+msgstr "(Forse dovrei ordinare per entrambi.)"
+
+msgctxt "3688_Employee"
+msgid "Have you decided what you would like to order?"
+msgstr "Avete deciso cosa vorreste ordinare?"
+
+msgctxt "3844_松岡里緒奈：源氏名"
+msgid ""
+"Huh? You really okay with me ordering? Your wallet is gonna regret it when "
+"we go to get the bill!"
+msgstr ""
+"Eh? È sicuro di lasciar ordinare a me? Il suo portafoglio se ne pentirà "
+"quando arriverà il conto!"
+
+msgctxt "3856_Kiryu"
+msgid "Hold on, let me order."
+msgstr "Aspetta, ordino io."
+
+msgctxt "3904_Employee"
+msgid "Here's your bill, sir."
+msgstr "Ecco il conto, signore."
+
+msgctxt "3928_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr "Grazie mille. Tornate a trovarci presto."
+
+msgctxt "3952_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr "Benvenuti. Vi accompagno al vostro tavolo."
+
+msgctxt "3964_Employee"
+msgid "Right this way."
+msgstr "Da questa parte."
+
+msgctxt "4060_Employee"
+msgid "Welcome. Can I get you started off with a drink?"
+msgstr "Benvenuti. Posso portarvi qualcosa da bere per iniziare?"
+
+msgctxt "4072_Kiryu"
+msgid "(Maybe I should order for the both of us.)"
+msgstr "(Forse dovrei ordinare per entrambi.)"
+
+msgctxt "4144_Employee"
+msgid "Have you decided what you would like to order?"
+msgstr "Avete deciso cosa vorreste ordinare?"
+
+msgctxt "4300_望月京子：源氏名"
+msgid "C'mon, you're a man, aren't you? Man up and decide already!"
+msgstr "Dai, sei un uomo, no? Fai l'uomo e decidi!"
+
+msgctxt "4312_Kiryu"
+msgid "Yeah, just give me a second..."
+msgstr "Sì, solo un secondo..."
+
+msgctxt "4360_Employee"
+msgid "Here's your bill, sir."
+msgstr "Ecco il conto, signore."
+
+msgctxt "4384_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr "Grazie mille. Tornate a trovarci presto."
+
+msgctxt "4408_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr "Benvenuti. Vi accompagno al vostro tavolo."
+
+msgctxt "4420_Employee"
+msgid "Right this way."
+msgstr "Da questa parte."
+
+msgctxt "4516_Employee"
+msgid "Welcome. Can I get you started off with a drink?"
+msgstr "Benvenuti. Posso portarvi qualcosa da bere per iniziare?"
+
+msgctxt "4528_Tanimura"
+msgid "(Maybe I should order for the both of us.)"
+msgstr "(Forse dovrei ordinare per entrambi.)"
+
+msgctxt "4600_Employee"
+msgid "Have you decided what you would like to order?"
+msgstr "Avete deciso cosa vorreste ordinare?"
+
+msgctxt "4756_峰村七海：源氏名"
+msgid ""
+"Is there something wrong? Don't worry about me. Just get something you'll "
+"like."
+msgstr ""
+"C'è qualcosa che non va? Non si preoccupi per me. Prenda qualcosa che le "
+"piace."
+
+msgctxt "4768_Tanimura"
+msgid "Okay..."
+msgstr "Okay..."
+
+msgctxt "4816_Employee"
+msgid "Here's your bill, sir."
+msgstr "Ecco il conto, signore."
+
+msgctxt "4840_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr "Grazie mille. Tornate a trovarci presto."
+
+msgctxt "4876_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr "Benvenuti. Vi accompagno al vostro tavolo."
+
+msgctxt "4912_Player"
+msgid "(I don't have the cash...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "4936_Player"
+msgid "(I'm not hungry right now...)"
+msgstr "(Non ho fame adesso...)"
+
+msgctxt "4948_Player"
+msgid "Sorry, just remembered I got something to do first."
+msgstr "Scusi, mi sono appena ricordato che ho un impegno."
+
+msgctxt "4960_Employee"
+msgid "Not a problem at all, sir. Please come again."
+msgstr "Nessun problema, signore. Torni a trovarci."
+
+msgctxt "4984_Employee"
+msgid "Right this way."
+msgstr "Da questa parte."
+
+msgctxt "5044_Employee"
+msgid "Welcome. Can I get you started off with a drink?"
+msgstr "Benvenuti. Posso portarvi qualcosa da bere per iniziare?"
+
+msgctxt "5068_Employee"
+msgid "Have you decided what you would like to order?"
+msgstr "Avete deciso cosa vorreste ordinare?"
+
+msgctxt "5116_Employee"
+msgid "Have you decided what you would like to order?"
+msgstr "Avete deciso cosa vorreste ordinare?"
+
+msgctxt "5164_Employee"
+msgid "Sorry. I've got to go take care of something."
+msgstr "Scusi. Devo andare a sbrigare una cosa."
+
+msgctxt "5176_Employee"
+msgid "All right. Please come again."
+msgstr "Va bene. Torni a trovarci."
+
+msgctxt "5212_Employee"
+msgid "Here's your bill, sir."
+msgstr "Ecco il conto, signore."
+
+msgctxt "5236_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr "Grazie mille. Tornate a trovarci presto."
+
+msgctxt "5296_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr "Grazie mille. Tornate a trovarci presto."
+
+msgctxt "5320_Employee"
+msgid "Welcome. Let me show you to your seats."
+msgstr "Benvenuti. Vi accompagno al vostro tavolo."
+
+msgctxt "5356_Player"
+msgid "(I don't have the cash...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "5380_Player"
+msgid "(No point eating now. I'm not even hungry.)"
+msgstr "(Inutile mangiare ora. Non ho neanche fame.)"
+
+msgctxt "5392_Player"
+msgid "Sorry, just remembered I got something to do first."
+msgstr "Scusi, mi sono appena ricordato che ho un impegno."
+
+msgctxt "5404_Employee"
+msgid "Not a problem at all, sir. Please come again."
+msgstr "Nessun problema, signore. Torni a trovarci."
+
+msgctxt "5428_Employee"
+msgid "Right this way."
+msgstr "Da questa parte."
+
+msgctxt "5488_Employee"
+msgid "Welcome. Can I get you started off with a drink?"
+msgstr "Benvenuti. Posso portarvi qualcosa da bere per iniziare?"
+
+msgctxt "5512_Employee"
+msgid "Have you decided what you would like to order?"
+msgstr "Avete deciso cosa vorreste ordinare?"
+
+msgctxt "5560_Employee"
+msgid "Have you decided what you would like to order?"
+msgstr "Avete deciso cosa vorreste ordinare?"
+
+msgctxt "5608_Employee"
+msgid "Sorry. I've got to go take care of something."
+msgstr "Scusi. Devo andare a sbrigare una cosa."
+
+msgctxt "5620_Employee"
+msgid "All right. Well, please come again."
+msgstr "Va bene. Beh, torni a trovarci."
+
+msgctxt "5656_Employee"
+msgid "Here's your bill, sir."
+msgstr "Ecco il conto, signore."
+
+msgctxt "5680_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr "Grazie mille. Tornate a trovarci presto."
+
+msgctxt "5740_Employee"
+msgid "Thank you very much. Please come again soon."
+msgstr "Grazie mille. Tornate a trovarci presto."

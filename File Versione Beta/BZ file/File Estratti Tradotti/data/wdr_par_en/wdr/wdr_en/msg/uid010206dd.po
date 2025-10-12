@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1128"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "68_Kiryu"
+msgid "(Looks like she's headed towards Children's Park.)"
+msgstr "(A quanto pare è diretta a Children's Park.)"
+
+msgctxt "128_Kiryu"
+msgid "(Better go take a look.)"
+msgstr "(Meglio dare un'occhiata.)"

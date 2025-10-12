@@ -1,0 +1,239 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8144"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "8148"
+msgid "Shiobara"
+msgstr "Shiobara"
+
+msgctxt "8152"
+msgid "Manager"
+msgstr "Manager"
+
+msgctxt "8156"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "8160"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "8164"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "8168"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "8172"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "8176"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "8180"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "8184"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "68_Akiyama"
+msgid "I'll go first."
+msgstr "I'll go first."
+
+msgctxt "80_Shiobara"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "92_Manager"
+msgid ""
+"Let's see... Well, would ya look at this!? This here's a\r\n"
+"genuine article!"
+msgstr ""
+"Let's see... Well, would ya look at this!? This here's a\r\n"
+"genuine article!"
+
+msgctxt "104_Shiobara"
+msgid "Urk..."
+msgstr "Urk..."
+
+msgctxt "116_Manager"
+msgid "Wait here a sec. I'll take a closer look in back."
+msgstr "Wait here a sec. I'll take a closer look in back."
+
+msgctxt "188_Manager"
+msgid "Sorry. Didn't mean to leave you hanging."
+msgstr "Sorry. Didn't mean to leave you hanging."
+
+msgctxt "200_Shiobara"
+msgid "So? How much is it worth?"
+msgstr "So? How much is it worth?"
+
+msgctxt "212_Manager"
+msgid "Five million if it's worth a yen."
+msgstr "Five million if it's worth a yen."
+
+msgctxt "224_Shiobara"
+msgid "Five...!?"
+msgstr "Five...!?"
+
+msgctxt "236_Akiyama"
+msgid ""
+"You mean if it were new, right? Don't want to give this guy\r\n"
+"a heart attack or anything."
+msgstr ""
+"You mean if it were new, right? Don't want to give this guy\r\n"
+"a heart attack or anything."
+
+msgctxt "248_Manager"
+msgid ""
+"Heheh, sorry about that. You don't see these too often. Got\r\n"
+"kinda excited, myself."
+msgstr ""
+"Heheh, sorry about that. You don't see these too often. Got\r\n"
+"kinda excited, myself."
+
+msgctxt "260_Manager"
+msgid ""
+"Can't help but wonder who this belonged to. Such a\r\n"
+"nice watch being treated this way－the thing's all\r\n"
+"scratched up."
+msgstr ""
+"Can't help but wonder who this belonged to. Such a\r\n"
+"nice watch being treated this way－the thing's all\r\n"
+"scratched up."
+
+msgctxt "272_Manager"
+msgid "It wasn't you, was it?"
+msgstr "It wasn't you, was it?"
+
+msgctxt "284_Akiyama"
+msgid "Don't I wish."
+msgstr "Don't I wish."
+
+msgctxt "296_Manager"
+msgid ""
+"Knock off a little for that and well... If I were to buy\r\n"
+"this off ya, I'd pay..."
+msgstr ""
+"Knock off a little for that and well... If I were to buy\r\n"
+"this off ya, I'd pay..."
+
+msgctxt "308_Manager"
+msgid "Nine hundred and eighty thousand."
+msgstr "Nine hundred and eighty thousand."
+
+msgctxt "320_Shiobara"
+msgid "Eeep!"
+msgstr "Eeep!"
+
+msgctxt "332_Akiyama"
+msgid "Hey, not bad!"
+msgstr "Hey, not bad!"
+
+msgctxt "344_Shiobara"
+msgid "......"
+msgstr "......"
+
+msgctxt "356_Akiyama"
+msgid "Okay, your turn."
+msgstr "Okay, your turn."
+
+msgctxt "368_Shiobara"
+msgid "...I still think I'm going to win."
+msgstr "...I still think I'm going to win."
+
+msgctxt "380_Akiyama"
+msgid "!"
+msgstr "!"
+
+msgctxt "392_Shiobara"
+msgid ""
+"Nine hundred and eighty thousand, was it? Then, I still have\r\n"
+"a chance! Here's mine."
+msgstr ""
+"Nine hundred and eighty thousand, was it? Then, I still have\r\n"
+"a chance! Here's mine."
+
+msgctxt "404_Akiyama"
+msgid "You got a watch, too, huh...?"
+msgstr "You got a watch, too, huh...?"
+
+msgctxt "416_Manager"
+msgid ""
+"Oho! Another damn fine watch! Just what've you boys been up\r\n"
+"to?"
+msgstr ""
+"Oho! Another damn fine watch! Just what've you boys been up\r\n"
+"to?"
+
+msgctxt "428_Shiobara"
+msgid "Never you mind! Get on with the appraisal!"
+msgstr "Never you mind! Get on with the appraisal!"
+
+msgctxt "440_Manager"
+msgid "All right, keep your shirt on. Gimme a sec..."
+msgstr "All right, keep your shirt on. Gimme a sec..."
+
+msgctxt "512_Manager"
+msgid ""
+"Phew. Seein' two of these babies in a row, I can't help but\r\n"
+"break into a sweat."
+msgstr ""
+"Phew. Seein' two of these babies in a row, I can't help but\r\n"
+"break into a sweat."
+
+msgctxt "524_Shiobara"
+msgid "Well!?"
+msgstr "Well!?"
+
+msgctxt "536_Manager"
+msgid "If it was new, two million."
+msgstr "If it was new, two million."
+
+msgctxt "548_Shiobara"
+msgid "!"
+msgstr "!"
+
+msgctxt "560_Manager"
+msgid "And in this condition..."
+msgstr "And in this condition..."
+
+msgctxt "572_Manager"
+msgid ""
+"I'd say nine hundred thou, exactly. And that's backed by\r\n"
+"forty years of experience."
+msgstr ""
+"I'd say nine hundred thou, exactly. And that's backed by\r\n"
+"forty years of experience."
+
+msgctxt "584_Shiobara"
+msgid "No..."
+msgstr "No..."
+
+msgctxt "596_Akiyama"
+msgid "...So I win."
+msgstr "...So I win."
+
+msgctxt "608_Akiyama"
+msgid "You've failed the test."
+msgstr "You've failed the test."

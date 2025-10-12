@@ -1,0 +1,1012 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "31292"
+msgid "Attendant"
+msgstr "Attendant"
+
+msgctxt "31296"
+msgid "M_stand_tlk_shoukai"
+msgstr "M_stand_tlk_shoukai"
+
+msgctxt "31300"
+msgid "F_cab_stand_tlk_shoukai"
+msgstr "F_cab_stand_tlk_shoukai"
+
+msgctxt "31304"
+msgid "Himeka"
+msgstr "Himeka"
+
+msgctxt "31308"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr "F_cab_stand_tlk_ojigi_01"
+
+msgctxt "31312"
+msgid "F_cab_sitsofa_tlk_kamaeBtoA"
+msgstr "F_cab_sitsofa_tlk_kamaeBtoA"
+
+msgctxt "31316"
+msgid "P_sitsofaR_tlk_yes"
+msgstr "P_sitsofaR_tlk_yes"
+
+msgctxt "31320"
+msgid "F_cab_sitsofa_tlk_ojigiA"
+msgstr "F_cab_sitsofa_tlk_ojigiA"
+
+msgctxt "31324"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "31328"
+msgid "P_sitsofaL_tlk_yes"
+msgstr "P_sitsofaL_tlk_yes"
+
+msgctxt "31332"
+msgid "F_cab_sitsofa_tlk_he_yes"
+msgstr "F_cab_sitsofa_tlk_he_yes"
+
+msgctxt "31336"
+msgid "F_cab_sitsofa_tlk_he_happy"
+msgstr "F_cab_sitsofa_tlk_he_happy"
+
+msgctxt "31340"
+msgid "P_sitsofaL_tlk_no"
+msgstr "P_sitsofaL_tlk_no"
+
+msgctxt "31344"
+msgid "F_cab_sitsofa_tlk_he_smile"
+msgstr "F_cab_sitsofa_tlk_he_smile"
+
+msgctxt "31348"
+msgid "P_sitsofaL_tlk_smile"
+msgstr "P_sitsofaL_tlk_smile"
+
+msgctxt "31352"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "31356"
+msgid "P_sitsofaR_tlk_comment"
+msgstr "P_sitsofaR_tlk_comment"
+
+msgctxt "31360"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "31364"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr "F_cab_sitsofa_tlk_noA"
+
+msgctxt "31368"
+msgid "P_sitsofaR_tlk_smile"
+msgstr "P_sitsofaR_tlk_smile"
+
+msgctxt "31372"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr "F_cab_sitsofa_tlk_yes"
+
+msgctxt "31376"
+msgid "P_sitsofaR_tlk_quest"
+msgstr "P_sitsofaR_tlk_quest"
+
+msgctxt "31380"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr "F_cab_sitsofa_sp5_sync_laugh"
+
+msgctxt "31384"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr "F_cab_sitsofa_talk_smileA"
+
+msgctxt "31388"
+msgid "Shizuka"
+msgstr "Shizuka"
+
+msgctxt "31392"
+msgid "P_sitsofaR_tlk_no"
+msgstr "P_sitsofaR_tlk_no"
+
+msgctxt "31396"
+msgid "F_cab_sitsofa_tlk_thinkA"
+msgstr "F_cab_sitsofa_tlk_thinkA"
+
+msgctxt "31400"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "31404"
+msgid "F_cab_sitsofa_sp2_sync_hiza"
+msgstr "F_cab_sitsofa_sp2_sync_hiza"
+
+msgctxt "31408"
+msgid "Rio"
+msgstr "Rio"
+
+msgctxt "31412"
+msgid "F_cab_sitsofa_tlk_he_surp"
+msgstr "F_cab_sitsofa_tlk_he_surp"
+
+msgctxt "31416"
+msgid "F_cab_sitsofa_tlk_he_no"
+msgstr "F_cab_sitsofa_tlk_he_no"
+
+msgctxt "31420"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr "F_cab_sitsofa_tlk_kamaeAtoB"
+
+msgctxt "31424"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr "F_cab_sitsofa_tlk_cry"
+
+msgctxt "31428"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr "F_cab_sitsofa_tlk_tereruA"
+
+msgctxt "31432"
+msgid "F_cab_sitsofa_tlk_commentA"
+msgstr "F_cab_sitsofa_tlk_commentA"
+
+msgctxt "924_Attendant"
+msgid "Sorry to keep you waiting."
+msgstr "Sorry to keep you waiting."
+
+msgctxt "948_Attendant"
+msgid "This is Himeka-san."
+msgstr "This is Himeka-san."
+
+msgctxt "972_Attendant"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1008_Attendant"
+msgid "Sorry to keep you waiting."
+msgstr "Sorry to keep you waiting."
+
+msgctxt "1032_Attendant"
+msgid "This is Himeka-san."
+msgstr "This is Himeka-san."
+
+msgctxt "1056_Attendant"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1092_Attendant"
+msgid "Sorry to keep you waiting."
+msgstr "Sorry to keep you waiting."
+
+msgctxt "1116_Attendant"
+msgid "This is Himeka-san."
+msgstr "This is Himeka-san."
+
+msgctxt "1140_Attendant"
+msgid "Hello!"
+msgstr "Hello!"
+
+msgctxt "1164_Himeka"
+msgid "Hiya!"
+msgstr "Hiya!"
+
+msgctxt "1188_Attendant"
+msgid "My name's Himeka. Hope you don't mind me joinin' ya! ♪"
+msgstr "My name's Himeka. Hope you don't mind me joinin' ya! ♪"
+
+msgctxt "1200_Himeka"
+msgid "Hiya!"
+msgstr "Hiya!"
+
+msgctxt "1224_Attendant"
+msgid "My name's Himeka. ♪ Hope you don't mind me joinin' ya!"
+msgstr "My name's Himeka. ♪ Hope you don't mind me joinin' ya!"
+
+msgctxt "1236_Himeka"
+msgid "Hiya!"
+msgstr "Hiya!"
+
+msgctxt "1260_Attendant"
+msgid "My name's Himeka. Hope you don't mind me joinin' ya! ♪"
+msgstr "My name's Himeka. Hope you don't mind me joinin' ya! ♪"
+
+msgctxt "1272_Himeka"
+msgid "Hello."
+msgstr "Hello."
+
+msgctxt "1284_P_sitsofaR_tlk_yes"
+msgid "Pleased to meet you."
+msgstr "Pleased to meet you."
+
+msgctxt "1320_Himeka"
+msgid "Hello."
+msgstr "Hello."
+
+msgctxt "1332_P_sitsofaR_tlk_yes"
+msgid "Oh, ya came back! ♪"
+msgstr "Oh, ya came back! ♪"
+
+msgctxt "1368_Himeka"
+msgid "Hello."
+msgstr "Hello."
+
+msgctxt "1380_P_sitsofaR_tlk_yes"
+msgid "Um, Tanimura-san... Ya didn't ask for me today?"
+msgstr "Um, Tanimura-san... Ya didn't ask for me today?"
+
+msgctxt "1392_Himeka"
+msgid "Oh, I got a request."
+msgstr "Oh, I got a request."
+
+msgctxt "1404_Himeka"
+msgid "Please enjoy yourself. ♪"
+msgstr "Please enjoy yourself. ♪"
+
+msgctxt "1416_Himeka"
+msgid "Bye for now."
+msgstr "Bye for now."
+
+msgctxt "1428_Himeka"
+msgid ""
+"Himeka Kawasaki does not appear for Kiryu's 1st or 3rd. Notify programmer if"
+" this message is displayed."
+msgstr ""
+"Himeka Kawasaki does not appear for Kiryu's 1st or 3rd. Notify programmer if"
+" this message is displayed."
+
+msgctxt "1440_Himeka"
+msgid ""
+"Himeka Kawasaki does not appear for Kiryu's 1st or 3rd. Notify programmer if"
+" this message is displayed."
+msgstr ""
+"Himeka Kawasaki does not appear for Kiryu's 1st or 3rd. Notify programmer if"
+" this message is displayed."
+
+msgctxt "1452_Himeka"
+msgid ""
+"Himeka Kawasaki does not appear for Kiryu's 1st or 3rd. Notify programmer if"
+" this message is displayed."
+msgstr ""
+"Himeka Kawasaki does not appear for Kiryu's 1st or 3rd. Notify programmer if"
+" this message is displayed."
+
+msgctxt "1464_Himeka"
+msgid ""
+"Himeka Kawasaki does not appear for Kiryu's 1st or 3rd. Notify programmer if"
+" this message is displayed."
+msgstr ""
+"Himeka Kawasaki does not appear for Kiryu's 1st or 3rd. Notify programmer if"
+" this message is displayed."
+
+msgctxt "1476_Himeka"
+msgid ""
+"Kiryu cannot request Himeka Kawasaki. Notify programmer if this message is "
+"displayed."
+msgstr ""
+"Kiryu cannot request Himeka Kawasaki. Notify programmer if this message is "
+"displayed."
+
+msgctxt "1488_Himeka"
+msgid ""
+"Kiryu cannot request Himeka Kawasaki. Notify programmer if this message is "
+"displayed."
+msgstr ""
+"Kiryu cannot request Himeka Kawasaki. Notify programmer if this message is "
+"displayed."
+
+msgctxt "1500_Kiryu"
+msgid ""
+"You said your name was Himeka? I'm Kazuma Kiryu.\r\n"
+"Nice to meet you."
+msgstr ""
+"You said your name was Himeka? I'm Kazuma Kiryu.\r\n"
+"Nice to meet you."
+
+msgctxt "1512_Himeka"
+msgid "Hello, Kiryu-san. Nice to meet you too! ♪"
+msgstr "Hello, Kiryu-san. Nice to meet you too! ♪"
+
+msgctxt "1524_Kiryu"
+msgid "Are you from Kansai by any chance?"
+msgstr "Are you from Kansai by any chance?"
+
+msgctxt "1536_Himeka"
+msgid "I am. ♪ How do you feel about girls with Kansai accents, Kiryu-san?"
+msgstr "I am. ♪ How do you feel about girls with Kansai accents, Kiryu-san?"
+
+msgctxt "1548_Kiryu"
+msgid "I fell for a girl from Kansai once."
+msgstr "I fell for a girl from Kansai once."
+
+msgctxt "1560_Himeka"
+msgid ""
+"Really? ♪ It's cool ya can talk about yer old girlfriends like that. That's "
+"a sign of maturity. <Color:7>♥<Color:Default>"
+msgstr ""
+"Really? ♪ It's cool ya can talk about yer old girlfriends like that. That's "
+"a sign of maturity. <Color:7>♥<Color:Default>"
+
+msgctxt "1572_Himeka"
+msgid "You seem the serious type. ♪ Not like the men in Osaka."
+msgstr "You seem the serious type. ♪ Not like the men in Osaka."
+
+msgctxt "1584_Kiryu"
+msgid ""
+"That can't be entirely true. Sure, many comedians are from Osaka, but there "
+"must be serious men there as well."
+msgstr ""
+"That can't be entirely true. Sure, many comedians are from Osaka, but there "
+"must be serious men there as well."
+
+msgctxt "1596_Himeka"
+msgid "Hmm. Probably. I'm not much into that type of man, so..."
+msgstr "Hmm. Probably. I'm not much into that type of man, so..."
+
+msgctxt "1608_Kiryu"
+msgid "You like a man with a sense of humor?"
+msgstr "You like a man with a sense of humor?"
+
+msgctxt "1620_Himeka"
+msgid ""
+"Yeah, I suppose. ♪ They're the most fun to talk to! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Yeah, I suppose. ♪ They're the most fun to talk to! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "1632_Kiryu"
+msgid "I see..."
+msgstr "Capisco..."
+
+msgctxt "1644_Himeka"
+msgid "Have you traveled anywhere recently, Kiryu-san?"
+msgstr "Have you traveled anywhere recently, Kiryu-san?"
+
+msgctxt "1656_Kiryu"
+msgid ""
+"No... To be honest, I'm traveling right now. I actually live in Okinawa."
+msgstr ""
+"No... To be honest, I'm traveling right now. I actually live in Okinawa."
+
+msgctxt "1668_Himeka"
+msgid ""
+"Really? ♪ I love travelin' with my family. Wish I could go on a trip "
+"sometime soon."
+msgstr ""
+"Really? ♪ I love travelin' with my family. Wish I could go on a trip "
+"sometime soon."
+
+msgctxt "1680_Kiryu"
+msgid ""
+"Speaking of traveling, some of the kids I'm looking after just came back "
+"from their school trip."
+msgstr ""
+"Speaking of traveling, some of the kids I'm looking after just came back "
+"from their school trip."
+
+msgctxt "1692_Himeka"
+msgid ""
+"Ooh, I loved school trips! ♪ Travelin' with your friends is way more fun "
+"than goin' by yourself! <Color:7>♥<Color:Default>"
+msgstr ""
+"Ooh, I loved school trips! ♪ Travelin' with your friends is way more fun "
+"than goin' by yourself! <Color:7>♥<Color:Default>"
+
+msgctxt "1704_Himeka"
+msgid ""
+"The dialogue will end after one round if you've entered a club more than "
+"once. Please report if you get this message."
+msgstr ""
+"The dialogue will end after one round if you've entered a club more than "
+"once. Please report if you get this message."
+
+msgctxt "1716_Himeka"
+msgid ""
+"Kiryu cannot request Himeka Kawasaki. Notify programmer if this message is "
+"displayed."
+msgstr ""
+"Kiryu cannot request Himeka Kawasaki. Notify programmer if this message is "
+"displayed."
+
+msgctxt "1728_Himeka"
+msgid ""
+"Kiryu cannot request Himeka Kawasaki. Notify programmer if this message is "
+"displayed."
+msgstr ""
+"Kiryu cannot request Himeka Kawasaki. Notify programmer if this message is "
+"displayed."
+
+msgctxt "1740_Himeka"
+msgid "I'm Himeka. Nice to meet you."
+msgstr "I'm Himeka. Nice to meet you."
+
+msgctxt "1752_Akiyama"
+msgid "I'm Shun Akiyama. Likewise."
+msgstr "I'm Shun Akiyama. Likewise."
+
+msgctxt "1764_Akiyama"
+msgid "Hey! I've seen you somewhere before. Were you in a magazine recently?"
+msgstr "Hey! I've seen you somewhere before. Were you in a magazine recently?"
+
+msgctxt "1776_Himeka"
+msgid ""
+"Haha! ♪ How'd ya know? I'm flattered you remembered! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Haha! ♪ How'd ya know? I'm flattered you remembered! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "1788_Akiyama"
+msgid "You're famous. I suppose you get a lot of folks requesting you."
+msgstr "You're famous. I suppose you get a lot of folks requesting you."
+
+msgctxt "1800_Himeka"
+msgid "Not really. Sometimes I have no requests, like now."
+msgstr "Not really. Sometimes I have no requests, like now."
+
+msgctxt "1812_Akiyama"
+msgid "Guess I got lucky then, huh?"
+msgstr "Guess I got lucky then, huh?"
+
+msgctxt "1824_Himeka"
+msgid "Hey, do you like comedians, Akiyama-san?"
+msgstr "Hey, do you like comedians, Akiyama-san?"
+
+msgctxt "1836_Akiyama"
+msgid ""
+"Hmm... As much as anyone, I guess. I've never gone to a live show or "
+"anything. Why do you ask?"
+msgstr ""
+"Hmm... As much as anyone, I guess. I've never gone to a live show or "
+"anything. Why do you ask?"
+
+msgctxt "1848_Akiyama"
+msgid "Are you into comedians?"
+msgstr "Are you into comedians?"
+
+msgctxt "1860_Himeka"
+msgid ""
+"Hehehe. ♪ Well, if I'm gonna go out with a guy, he's gotta be able to make "
+"me laugh. <Color:7>♥<Color:Default>"
+msgstr ""
+"Hehehe. ♪ Well, if I'm gonna go out with a guy, he's gotta be able to make "
+"me laugh. <Color:7>♥<Color:Default>"
+
+msgctxt "1872_Akiyama"
+msgid "Huh, I see... Well, that means I'm no good then."
+msgstr "Huh, I see... Well, that means I'm no good then."
+
+msgctxt "1884_Himeka"
+msgid ""
+"I don't believe that. ♪ I'm sure you could crack a joke if you tried. Try "
+"one right now! You'll get me interested for sure. <Color:7>♥<Color:Default>"
+msgstr ""
+"I don't believe that. ♪ I'm sure you could crack a joke if you tried. Try "
+"one right now! You'll get me interested for sure. <Color:7>♥<Color:Default>"
+
+msgctxt "1896_Shizuka"
+msgid ""
+"Hehehe. ♪ Isn't that a little tough to do in the spur of the moment? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Hehehe. ♪ Isn't that a little tough to do in the spur of the moment? "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "1908_Akiyama"
+msgid "Hoo boy..."
+msgstr "Hoo boy..."
+
+msgctxt "1920_Akiyama"
+msgid "You're Himeka-chan, right? Nice to see you again."
+msgstr "You're Himeka-chan, right? Nice to see you again."
+
+msgctxt "1932_Himeka"
+msgid ""
+"Wow! Ya remembered my name! Thank ya so much! <Color:7>♥<Color:Default>"
+msgstr ""
+"Wow! Ya remembered my name! Thank ya so much! <Color:7>♥<Color:Default>"
+
+msgctxt "1944_Akiyama"
+msgid ""
+"I have to say, I was a little intimidated after seeing you in that magazine,"
+" but you're so cute and petite in person."
+msgstr ""
+"I have to say, I was a little intimidated after seeing you in that magazine,"
+" but you're so cute and petite in person."
+
+msgctxt "1956_Himeka"
+msgid "Really? I wish I were a bit taller."
+msgstr "Really? I wish I were a bit taller."
+
+msgctxt "1968_Akiyama"
+msgid "Oh? Sorry if I hit a nerve."
+msgstr "Oh? Sorry if I hit a nerve."
+
+msgctxt "1980_Himeka"
+msgid ""
+"The dialogue will end after one round if you've entered a club more than "
+"once. Please report if you get this message."
+msgstr ""
+"The dialogue will end after one round if you've entered a club more than "
+"once. Please report if you get this message."
+
+msgctxt "1992_Himeka"
+msgid ""
+"Akiyama cannot request Himeka Kawasaki. Notify programmer if this message is"
+" displayed."
+msgstr ""
+"Akiyama cannot request Himeka Kawasaki. Notify programmer if this message is"
+" displayed."
+
+msgctxt "2004_Himeka"
+msgid ""
+"Akiyama cannot request Himeka Kawasaki. Notify programmer if this message is"
+" displayed."
+msgstr ""
+"Akiyama cannot request Himeka Kawasaki. Notify programmer if this message is"
+" displayed."
+
+msgctxt "2016_Himeka"
+msgid ""
+"Himeka Kawasaki does not appear for Akiyama's 2nd. Notify programmer if this"
+" message is displayed."
+msgstr ""
+"Himeka Kawasaki does not appear for Akiyama's 2nd. Notify programmer if this"
+" message is displayed."
+
+msgctxt "2028_Himeka"
+msgid ""
+"Himeka Kawasaki does not appear for Akiyama's 2nd. Notify programmer if this"
+" message is displayed."
+msgstr ""
+"Himeka Kawasaki does not appear for Akiyama's 2nd. Notify programmer if this"
+" message is displayed."
+
+msgctxt "2040_Himeka"
+msgid ""
+"Himeka Kawasaki does not appear for Akiyama's 2nd. Notify programmer if this"
+" message is displayed."
+msgstr ""
+"Himeka Kawasaki does not appear for Akiyama's 2nd. Notify programmer if this"
+" message is displayed."
+
+msgctxt "2052_Himeka"
+msgid ""
+"Himeka Kawasaki does not appear for Akiyama's 2nd. Notify programmer if this"
+" message is displayed."
+msgstr ""
+"Himeka Kawasaki does not appear for Akiyama's 2nd. Notify programmer if this"
+" message is displayed."
+
+msgctxt "2064_Himeka"
+msgid ""
+"Akiyama cannot request Himeka Kawasaki. Notify programmer if this message is"
+" displayed."
+msgstr ""
+"Akiyama cannot request Himeka Kawasaki. Notify programmer if this message is"
+" displayed."
+
+msgctxt "2076_Himeka"
+msgid ""
+"Akiyama cannot request Himeka Kawasaki. Notify programmer if this message is"
+" displayed."
+msgstr ""
+"Akiyama cannot request Himeka Kawasaki. Notify programmer if this message is"
+" displayed."
+
+msgctxt "2088_Tanimura"
+msgid "I'm Tanimura. Pleasure to meet you."
+msgstr "I'm Tanimura. Pleasure to meet you."
+
+msgctxt "2100_Himeka"
+msgid "Nice to meet you, too! ♪"
+msgstr "Nice to meet you, too! ♪"
+
+msgctxt "2112_Himeka"
+msgid "Mind if I ask a question? What kind of girls are ya into?"
+msgstr "Mind if I ask a question? What kind of girls are ya into?"
+
+msgctxt "2124_Tanimura"
+msgid ""
+"Whoa, that came out of left field. You want to know what I look for in a "
+"girl?"
+msgstr ""
+"Whoa, that came out of left field. You want to know what I look for in a "
+"girl?"
+
+msgctxt "2136_Himeka"
+msgid ""
+"It's just that I'm short and baby-faced. If yer into more mature looking "
+"women then I'd be outta the running."
+msgstr ""
+"It's just that I'm short and baby-faced. If yer into more mature looking "
+"women then I'd be outta the running."
+
+msgctxt "2148_Tanimura"
+msgid "We just met. I don't know if you're my type or not yet."
+msgstr "We just met. I don't know if you're my type or not yet."
+
+msgctxt "2160_Himeka"
+msgid "What makes ya say that?"
+msgstr "What makes ya say that?"
+
+msgctxt "2172_Tanimura"
+msgid ""
+"A girl's personality is her most important feature, not her height or her "
+"looks."
+msgstr ""
+"A girl's personality is her most important feature, not her height or her "
+"looks."
+
+msgctxt "2184_Tanimura"
+msgid "I haven't talked to you enough to know what you're like yet."
+msgstr "I haven't talked to you enough to know what you're like yet."
+
+msgctxt "2196_Himeka"
+msgid "I see what you're sayin'. You seem like a real serious type of guy."
+msgstr "I see what you're sayin'. You seem like a real serious type of guy."
+
+msgctxt "2208_Himeka"
+msgid "And yer in luck! I like a man like that! <Color:7>♥<Color:Default>"
+msgstr "And yer in luck! I like a man like that! <Color:7>♥<Color:Default>"
+
+msgctxt "2220_Rio"
+msgid "Me too! <Color:7>♥<Color:Default>"
+msgstr "Me too! <Color:7>♥<Color:Default>"
+
+msgctxt "2232_Tanimura"
+msgid "I wouldn't say I'm that serious."
+msgstr "I wouldn't say I'm that serious."
+
+msgctxt "2244_Tanimura"
+msgid "There's nothing wrong with being petite. You shouldn't worry about it."
+msgstr ""
+"There's nothing wrong with being petite. You shouldn't worry about it."
+
+msgctxt "2256_Himeka"
+msgid "You think so?"
+msgstr "You think so?"
+
+msgctxt "2268_Tanimura"
+msgid "Absolutely. Don't give it a second thought."
+msgstr "Absolutely. Don't give it a second thought."
+
+msgctxt "2280_Himeka"
+msgid "Oh, I get it! Tanimura-san, yer into younger-lookin' girls, huh?"
+msgstr "Oh, I get it! Tanimura-san, yer into younger-lookin' girls, huh?"
+
+msgctxt "2292_Rio"
+msgid "Ooh, I had no idea! ♪"
+msgstr "Ooh, I had no idea! ♪"
+
+msgctxt "2304_Tanimura"
+msgid "No, not really."
+msgstr "No, not really."
+
+msgctxt "2316_Himeka"
+msgid ""
+"Hehehe. <Color:7>♥<Color:Default> Seein' how you're blushin' up, that's "
+"gotta be it. That's adorable!"
+msgstr ""
+"Hehehe. <Color:7>♥<Color:Default> Seein' how you're blushin' up, that's "
+"gotta be it. That's adorable!"
+
+msgctxt "2328_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "2340_Tanimura"
+msgid "That's a tricky question."
+msgstr "That's a tricky question."
+
+msgctxt "2352_Himeka"
+msgid "Huh? So I'm not your type?"
+msgstr "Huh? So I'm not your type?"
+
+msgctxt "2364_Rio"
+msgid "Why?"
+msgstr "Perché?"
+
+msgctxt "2376_Tanimura"
+msgid "I'm only kidding."
+msgstr "I'm only kidding."
+
+msgctxt "2388_Himeka"
+msgid "Really? That's mean, Tanimura-san!"
+msgstr "Really? That's mean, Tanimura-san!"
+
+msgctxt "2400_Tanimura"
+msgid "Heh."
+msgstr "Heh."
+
+msgctxt "2412_Himeka"
+msgid "Why'd ya decide to come to our club?"
+msgstr "Why'd ya decide to come to our club?"
+
+msgctxt "2424_Tanimura"
+msgid "Oh, no particular reason."
+msgstr "Oh, no particular reason."
+
+msgctxt "2436_Himeka"
+msgid ""
+"I'm in a magazine about hostess clubs. We get lotsa customers droppin' in "
+"after seein' me in the magazine."
+msgstr ""
+"I'm in a magazine about hostess clubs. We get lotsa customers droppin' in "
+"after seein' me in the magazine."
+
+msgctxt "2448_Tanimura"
+msgid "Oh yeah? Then you must be swamped with all those requests."
+msgstr "Oh yeah? Then you must be swamped with all those requests."
+
+msgctxt "2460_Himeka"
+msgid ""
+"Not really. I get lotsa first-timers, but I'm not so good at turnin' them "
+"into regulars."
+msgstr ""
+"Not really. I get lotsa first-timers, but I'm not so good at turnin' them "
+"into regulars."
+
+msgctxt "2472_Rio"
+msgid "Me too..."
+msgstr "Me too..."
+
+msgctxt "2484_Tanimura"
+msgid "That's tough."
+msgstr "That's tough."
+
+msgctxt "2496_Himeka"
+msgid "Yeah. What am I gonna do?"
+msgstr "Yeah. What am I gonna do?"
+
+msgctxt "2508_Himeka"
+msgid "Maybe ya could request poor little Himeka next time ya come in?"
+msgstr "Maybe ya could request poor little Himeka next time ya come in?"
+
+msgctxt "2520_Tanimura"
+msgid "Sure. I promise."
+msgstr "Sure. I promise."
+
+msgctxt "2532_Himeka"
+msgid "Really!? Yay! <Color:7>♥<Color:Default>"
+msgstr "Really!? Yay! <Color:7>♥<Color:Default>"
+
+msgctxt "2544_Himeka"
+msgid ""
+"Just remember, if you break yer promise and choose somebody like Rio-chan "
+"here..."
+msgstr ""
+"Just remember, if you break yer promise and choose somebody like Rio-chan "
+"here..."
+
+msgctxt "2556_Rio"
+msgid "Huh!? Me?"
+msgstr "Huh!? Me?"
+
+msgctxt "2568_Himeka"
+msgid "I'll cry like a baby. Waaah! <Color:7>♥<Color:Default>"
+msgstr "I'll cry like a baby. Waaah! <Color:7>♥<Color:Default>"
+
+msgctxt "2580_Tanimura"
+msgid "Heh. I wouldn't mind seeing that once."
+msgstr "Heh. I wouldn't mind seeing that once."
+
+msgctxt "2592_Rio"
+msgid "Hey!"
+msgstr "Hey!"
+
+msgctxt "2604_Himeka"
+msgid "I can be difficult when I'm upset, y'know!"
+msgstr "I can be difficult when I'm upset, y'know!"
+
+msgctxt "2616_Tanimura"
+msgid "Heh. Well then, I'll just have to keep my promise."
+msgstr "Heh. Well then, I'll just have to keep my promise."
+
+msgctxt "2628_Tanimura"
+msgid "You're quite the saleswoman, aren't you?"
+msgstr "You're quite the saleswoman, aren't you?"
+
+msgctxt "2640_Himeka"
+msgid ""
+"What's that supposed to mean? ♪ Am I cold and calculatin' or somethin'?"
+msgstr ""
+"What's that supposed to mean? ♪ Am I cold and calculatin' or somethin'?"
+
+msgctxt "2652_Tanimura"
+msgid "You're funny. I like that."
+msgstr "You're funny. I like that."
+
+msgctxt "2664_Himeka"
+msgid "So you'll request me next time?"
+msgstr "So you'll request me next time?"
+
+msgctxt "2676_Tanimura"
+msgid "Absolutely."
+msgstr "Absolutely."
+
+msgctxt "2688_Himeka"
+msgid ""
+"Great! We'll have an even better time when ya come in next! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Great! We'll have an even better time when ya come in next! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "2700_Tanimura"
+msgid "I'll look forward to it."
+msgstr "I'll look forward to it."
+
+msgctxt "2712_Tanimura"
+msgid "I'll have to think about it."
+msgstr "I'll have to think about it."
+
+msgctxt "2724_Himeka"
+msgid "Hey! Who else would ya rather pick?"
+msgstr "Hey! Who else would ya rather pick?"
+
+msgctxt "2736_Himeka"
+msgid "It's not Rio-chan, is it?"
+msgstr "It's not Rio-chan, is it?"
+
+msgctxt "2748_Rio"
+msgid "Haha! ♪ Oh, is it?"
+msgstr "Haha! ♪ Oh, is it?"
+
+msgctxt "2760_Tanimura"
+msgid "That's not what I meant."
+msgstr "Non è quello che intendevo."
+
+msgctxt "2772_Rio"
+msgid "Oh, okay..."
+msgstr "Oh, okay..."
+
+msgctxt "2784_Himeka"
+msgid "Then... I'll pray that ya come and request me next time!"
+msgstr "Then... I'll pray that ya come and request me next time!"
+
+msgctxt "2796_Tanimura"
+msgid "Heh... Sounds good."
+msgstr "Heh... Sounds good."
+
+msgctxt "2808_Himeka"
+msgid "You came back! ♪"
+msgstr "You came back! ♪"
+
+msgctxt "2820_Tanimura"
+msgid "I'd like to know more about you."
+msgstr "I'd like to know more about you."
+
+msgctxt "2832_Himeka"
+msgid ""
+"Really? Then request me whenever ya come! We can spend loads of time "
+"together! <Color:7>♥<Color:Default>"
+msgstr ""
+"Really? Then request me whenever ya come! We can spend loads of time "
+"together! <Color:7>♥<Color:Default>"
+
+msgctxt "2844_Tanimura"
+msgid "Definitely."
+msgstr "Definitely."
+
+msgctxt "2856_Himeka"
+msgid ""
+"The dialogue will end after one round if you've entered a club more than "
+"once. Please report if you get this message."
+msgstr ""
+"The dialogue will end after one round if you've entered a club more than "
+"once. Please report if you get this message."
+
+msgctxt "2868_Himeka"
+msgid "Why didn't ya request me? Tired of me already?"
+msgstr "Why didn't ya request me? Tired of me already?"
+
+msgctxt "2880_Tanimura"
+msgid "It's not that. I just... Well..."
+msgstr "It's not that. I just... Well..."
+
+msgctxt "2892_Himeka"
+msgid "So you'll request me next time, right?"
+msgstr "So you'll request me next time, right?"
+
+msgctxt "2904_Tanimura"
+msgid "Yeah, of course."
+msgstr "Yeah, of course."
+
+msgctxt "2916_Himeka"
+msgid "Haha! I'm holdin' ya to that! <Color:7>♥<Color:Default>"
+msgstr "Haha! I'm holdin' ya to that! <Color:7>♥<Color:Default>"
+
+msgctxt "2928_Himeka"
+msgid ""
+"The dialogue will end after one round if you've entered a club more than "
+"once. Please report if you get this message."
+msgstr ""
+"The dialogue will end after one round if you've entered a club more than "
+"once. Please report if you get this message."
+
+msgctxt "2940_Himeka"
+msgid ""
+"Himeka Kawasaki does not appear for Tanimura's 2nd. Notify programmer if "
+"this message is displayed."
+msgstr ""
+"Himeka Kawasaki does not appear for Tanimura's 2nd. Notify programmer if "
+"this message is displayed."
+
+msgctxt "2952_Himeka"
+msgid ""
+"Himeka Kawasaki does not appear for Tanimura's 2nd. Notify programmer if "
+"this message is displayed."
+msgstr ""
+"Himeka Kawasaki does not appear for Tanimura's 2nd. Notify programmer if "
+"this message is displayed."
+
+msgctxt "2964_Himeka"
+msgid ""
+"Himeka Kawasaki does not appear for Tanimura's 2nd. Notify programmer if "
+"this message is displayed."
+msgstr ""
+"Himeka Kawasaki does not appear for Tanimura's 2nd. Notify programmer if "
+"this message is displayed."
+
+msgctxt "2976_Himeka"
+msgid ""
+"Himeka Kawasaki does not appear for Tanimura's 2nd. Notify programmer if "
+"this message is displayed."
+msgstr ""
+"Himeka Kawasaki does not appear for Tanimura's 2nd. Notify programmer if "
+"this message is displayed."
+
+msgctxt "2988_Himeka"
+msgid ""
+"Himeka Kawasaki does not appear for Tanimura's 2nd. Notify programmer if "
+"this message is displayed."
+msgstr ""
+"Himeka Kawasaki does not appear for Tanimura's 2nd. Notify programmer if "
+"this message is displayed."
+
+msgctxt "3000_Himeka"
+msgid ""
+"Himeka Kawasaki does not appear for Tanimura's 2nd. Notify programmer if "
+"this message is displayed."
+msgstr ""
+"Himeka Kawasaki does not appear for Tanimura's 2nd. Notify programmer if "
+"this message is displayed."
+
+msgctxt "3012_Himeka"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "3024_Rio"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "3036_Attendant"
+msgid "We just met."
+msgstr "We just met."
+
+msgctxt "3048_Attendant"
+msgid "There's nothing wrong with being petite."
+msgstr "There's nothing wrong with being petite."
+
+msgctxt "3060_Attendant"
+msgid "That's a tricky question."
+msgstr "That's a tricky question."
+
+msgctxt "3072_Attendant"
+msgid "Sure. I promise."
+msgstr "Sure. I promise."
+
+msgctxt "3084_Attendant"
+msgid "You're quite the saleswoman, aren't you?"
+msgstr "You're quite the saleswoman, aren't you?"
+
+msgctxt "3096_Attendant"
+msgid "I'll have to think about it."
+msgstr "I'll have to think about it."

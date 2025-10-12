@@ -1,0 +1,481 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "15680"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "15684"
+msgid "P_sitsofaR_tlk_comment"
+msgstr "P_sitsofaR_tlk_comment"
+
+msgctxt "15688"
+msgid "Shizuka"
+msgstr "Shizuka"
+
+msgctxt "15692"
+msgid "F_cab_sitsofa_tlk_thinkA"
+msgstr "F_cab_sitsofa_tlk_thinkA"
+
+msgctxt "15696"
+msgid "P_sitsofaR_tlk_yes"
+msgstr "P_sitsofaR_tlk_yes"
+
+msgctxt "15700"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr "F_cab_sitsofa_tlk_yes"
+
+msgctxt "15704"
+msgid "P_sitsofaR_tlk_smile"
+msgstr "P_sitsofaR_tlk_smile"
+
+msgctxt "15708"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr "F_cab_sitsofa_sp5_sync_laugh"
+
+msgctxt "15712"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr "F_cab_sitsofa_tlk_noA"
+
+msgctxt "15716"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "15720"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr "F_cab_sitsofa_tlk_suprise"
+
+msgctxt "15724"
+msgid "P_sitsofaR_tlk_no"
+msgstr "P_sitsofaR_tlk_no"
+
+msgctxt "15728"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr "F_cab_sitsofa_talk_smileA"
+
+msgctxt "15732"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr "F_cab_sitsofa_tlk_tereruA"
+
+msgctxt "15736"
+msgid "F_cab_sitsofa_sp1_sync_yop"
+msgstr "F_cab_sitsofa_sp1_sync_yop"
+
+msgctxt "15740"
+msgid "P_sitsofaR_tlk_quest"
+msgstr "P_sitsofaR_tlk_quest"
+
+msgctxt "15744"
+msgid "P_sitsofaR_tlk_think"
+msgstr "P_sitsofaR_tlk_think"
+
+msgctxt "15748"
+msgid "F_cab_sitsofa_tlk_gakkariA"
+msgstr "F_cab_sitsofa_tlk_gakkariA"
+
+msgctxt "392_Kiryu"
+msgid "Ever heard of 777 Town?"
+msgstr "Ever heard of 777 Town?"
+
+msgctxt "404_Shizuka"
+msgid "777 Town? What's that?"
+msgstr "777 Town? What's that?"
+
+msgctxt "416_Kiryu"
+msgid ""
+"It's a game for your computer or cell phone. It lets you play pachinko and "
+"slots anytime, anywhere you want."
+msgstr ""
+"It's a game for your computer or cell phone. It lets you play pachinko and "
+"slots anytime, anywhere you want."
+
+msgctxt "428_Shizuka"
+msgid "I see... But I don't really engage in those sorts of activities..."
+msgstr "I see... But I don't really engage in those sorts of activities..."
+
+msgctxt "440_Kiryu"
+msgid ""
+"All the better then. You can play as much as you want without going to an "
+"actual pachinko parlor. Perfect for beginners."
+msgstr ""
+"All the better then. You can play as much as you want without going to an "
+"actual pachinko parlor. Perfect for beginners."
+
+msgctxt "452_Shizuka"
+msgid "Wow, you're right! I'll try it out the next time I get a chance then."
+msgstr "Wow, you're right! I'll try it out the next time I get a chance then."
+
+msgctxt "464_Kiryu"
+msgid "Ever heard of Amoebatar?"
+msgstr "Ever heard of Amoebatar?"
+
+msgctxt "476_Shizuka"
+msgid "No, I'm afraid not. What is it?"
+msgstr "No, I'm afraid not. What is it?"
+
+msgctxt "488_Kiryu"
+msgid ""
+"It's an online community that lets you create an avatar of yourself. The "
+"number of members has skyrocketed lately."
+msgstr ""
+"It's an online community that lets you create an avatar of yourself. The "
+"number of members has skyrocketed lately."
+
+msgctxt "500_Shizuka"
+msgid "I've never heard of that! It sounds quite fun."
+msgstr "I've never heard of that! It sounds quite fun."
+
+msgctxt "512_Kiryu"
+msgid ""
+"You can also play games and chat. I'm not much of an expert on those things,"
+" so why don't we try it together sometime?"
+msgstr ""
+"You can also play games and chat. I'm not much of an expert on those things,"
+" so why don't we try it together sometime?"
+
+msgctxt "524_Shizuka"
+msgid "Yes! Let's try it together!"
+msgstr "Yes! Let's try it together!"
+
+msgctxt "536_Kiryu"
+msgid "Hear about the ghost in the underground mall?"
+msgstr "Hear about the ghost in the underground mall?"
+
+msgctxt "548_Shizuka"
+msgid "Huh!? A ghost!?"
+msgstr "Huh!? A ghost!?"
+
+msgctxt "560_Kiryu"
+msgid ""
+"A worker died in an accident during the construction of the underground "
+"mall."
+msgstr ""
+"A worker died in an accident during the construction of the underground "
+"mall."
+
+msgctxt "572_Kiryu"
+msgid "Now, night after night, his ghost appears to wander the empty mall."
+msgstr "Now, night after night, his ghost appears to wander the empty mall."
+
+msgctxt "584_Shizuka"
+msgid ""
+"That must be rather hard for his family. I hope his spirit finds rest "
+"someday..."
+msgstr ""
+"That must be rather hard for his family. I hope his spirit finds rest "
+"someday..."
+
+msgctxt "596_Kiryu"
+msgid "Yeah..."
+msgstr "Yeah..."
+
+msgctxt "608_Kiryu"
+msgid ""
+"Hear about the footbaths at Yunosono Hot Springs? You don't take off your "
+"clothes, so men and women can go in together."
+msgstr ""
+"Hear about the footbaths at Yunosono Hot Springs? You don't take off your "
+"clothes, so men and women can go in together."
+
+msgctxt "620_Shizuka"
+msgid "Oh, really? Perhaps we could go together sometime."
+msgstr "Oh, really? Perhaps we could go together sometime."
+
+msgctxt "632_Kiryu"
+msgid "Sure... But you may not have a need to go."
+msgstr "Sure... But you may not have a need to go."
+
+msgctxt "644_Shizuka"
+msgid "Huh? Why do you say that?"
+msgstr "Huh? Why do you say that?"
+
+msgctxt "656_Kiryu"
+msgid ""
+"Your skin is already so sleek and beautiful. The hot springs might not have "
+"any effect."
+msgstr ""
+"Your skin is already so sleek and beautiful. The hot springs might not have "
+"any effect."
+
+msgctxt "668_Shizuka"
+msgid ""
+"Oh please... You're going to make me blush saying that. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Oh please... You're going to make me blush saying that. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "680_Kiryu"
+msgid ""
+"Golf is getting pretty popular. A lot of couples go on golf dates lately."
+msgstr ""
+"Golf is getting pretty popular. A lot of couples go on golf dates lately."
+
+msgctxt "692_Shizuka"
+msgid ""
+"Why yes. When you go around the holes competing for the best score, time "
+"just flies because you're having so much fun."
+msgstr ""
+"Why yes. When you go around the holes competing for the best score, time "
+"just flies because you're having so much fun."
+
+msgctxt "704_Kiryu"
+msgid "Yeah. We should play sometime."
+msgstr "Yeah. We should play sometime."
+
+msgctxt "716_Shizuka"
+msgid "Hehehe. Please go easy on me. ♪"
+msgstr "Hehehe. Please go easy on me. ♪"
+
+msgctxt "728_Kiryu"
+msgid ""
+"Do you eat liver? Liver contains arachidonic acid, which reverses aging in "
+"the brain."
+msgstr ""
+"Do you eat liver? Liver contains arachidonic acid, which reverses aging in "
+"the brain."
+
+msgctxt "740_Shizuka"
+msgid "Oh, really? I never knew that."
+msgstr "Oh, really? I never knew that."
+
+msgctxt "752_Kiryu"
+msgid ""
+"It also enhances learning. I'm thinking of making my kids back at the "
+"orphanage try it."
+msgstr ""
+"It also enhances learning. I'm thinking of making my kids back at the "
+"orphanage try it."
+
+msgctxt "764_Shizuka"
+msgid "That's a great idea. I'm sure they'll all turn out very smart."
+msgstr "That's a great idea. I'm sure they'll all turn out very smart."
+
+msgctxt "776_Kiryu"
+msgid "Did you know pole dancing is great for working out?"
+msgstr "Did you know pole dancing is great for working out?"
+
+msgctxt "788_Shizuka"
+msgid "Pole dancing? You mean that, um... erotic dance?"
+msgstr "Pole dancing? You mean that, um... erotic dance?"
+
+msgctxt "800_Kiryu"
+msgid "Well, pole dancers show some skin, but they don't get naked."
+msgstr "Well, pole dancers show some skin, but they don't get naked."
+
+msgctxt "812_Kiryu"
+msgid "The dance works all your muscles, so it's great for a slim physique."
+msgstr "The dance works all your muscles, so it's great for a slim physique."
+
+msgctxt "824_Shizuka"
+msgid ""
+"I see. I study Japanese dance though, so I don't think I'd have time for "
+"something else..."
+msgstr ""
+"I see. I study Japanese dance though, so I don't think I'd have time for "
+"something else..."
+
+msgctxt "836_Kiryu"
+msgid "That's right..."
+msgstr "That's right..."
+
+msgctxt "848_Kiryu"
+msgid ""
+"Sweet sake is all the rage now. Women order it all the time when eating at "
+"Sushi Gin."
+msgstr ""
+"Sweet sake is all the rage now. Women order it all the time when eating at "
+"Sushi Gin."
+
+msgctxt "860_Shizuka"
+msgid "Oh, I know! I drink it sometimes myself."
+msgstr "Oh, I know! I drink it sometimes myself."
+
+msgctxt "872_Kiryu"
+msgid ""
+"Sake's traditionally had a dry flavor, but since the sweet varieties have "
+"gained popularity, more and more women are starting to drink it."
+msgstr ""
+"Sake's traditionally had a dry flavor, but since the sweet varieties have "
+"gained popularity, more and more women are starting to drink it."
+
+msgctxt "884_Shizuka"
+msgid ""
+"Yes, it goes well with Japanese food. I could go for some right now, "
+"actually."
+msgstr ""
+"Yes, it goes well with Japanese food. I could go for some right now, "
+"actually."
+
+msgctxt "932_Kiryu"
+msgid "So about 777 Town..."
+msgstr "So about 777 Town..."
+
+msgctxt "944_Shizuka"
+msgid ""
+"Oh, that pachinko game you told me about the other day, right? I haven't "
+"gotten around to it yet, sorry."
+msgstr ""
+"Oh, that pachinko game you told me about the other day, right? I haven't "
+"gotten around to it yet, sorry."
+
+msgctxt "956_Kiryu"
+msgid "I see..."
+msgstr "Capisco..."
+
+msgctxt "968_Kiryu"
+msgid "Have you tried Amoebatar?"
+msgstr "Have you tried Amoebatar?"
+
+msgctxt "980_Shizuka"
+msgid ""
+"Yes, I did! But it is a bit lonely to play without someone else. It would be"
+" great if we could try it out together..."
+msgstr ""
+"Yes, I did! But it is a bit lonely to play without someone else. It would be"
+" great if we could try it out together..."
+
+msgctxt "992_Kiryu"
+msgid ""
+"Yeah... Sorry, I know I was the one who asked you to check it out in the "
+"first place."
+msgstr ""
+"Yeah... Sorry, I know I was the one who asked you to check it out in the "
+"first place."
+
+msgctxt "1004_Shizuka"
+msgid "Oh, no, it's okay. Let's save it for when you have the time."
+msgstr "Oh, no, it's okay. Let's save it for when you have the time."
+
+msgctxt "1016_Kiryu"
+msgid "Sounds good."
+msgstr "Sounds good."
+
+msgctxt "1028_Kiryu"
+msgid "So about that ghost in the underground mall..."
+msgstr "So about that ghost in the underground mall..."
+
+msgctxt "1040_Shizuka"
+msgid "I wonder if it's true."
+msgstr "I wonder if it's true."
+
+msgctxt "1052_Kiryu"
+msgid "Can't say. I sure haven't seen it. It might be just a rumor."
+msgstr "Can't say. I sure haven't seen it. It might be just a rumor."
+
+msgctxt "1064_Shizuka"
+msgid ""
+"I see... Then perhaps no one died in the construction. That's a relief."
+msgstr ""
+"I see... Then perhaps no one died in the construction. That's a relief."
+
+msgctxt "1076_Kiryu"
+msgid "Did you try out the footbaths at Yunosono?"
+msgstr "Did you try out the footbaths at Yunosono?"
+
+msgctxt "1088_Shizuka"
+msgid "Wasn't it you who said I don't need to go, sir? ♪"
+msgstr "Wasn't it you who said I don't need to go, sir? ♪"
+
+msgctxt "1100_Kiryu"
+msgid "Oh, true. Sorry, I forgot."
+msgstr "Oh, true. Sorry, I forgot."
+
+msgctxt "1112_Shizuka"
+msgid ""
+"Hehehe. It seems you're tired. Maybe you're the one who needs a little trip "
+"to the hot springs."
+msgstr ""
+"Hehehe. It seems you're tired. Maybe you're the one who needs a little trip "
+"to the hot springs."
+
+msgctxt "1124_Kiryu"
+msgid "By the way... Were you one for golf, Shizuka?"
+msgstr "By the way... Were you one for golf, Shizuka?"
+
+msgctxt "1136_Shizuka"
+msgid "Not really... I've been playing tennis more as of late."
+msgstr "Not really... I've been playing tennis more as of late."
+
+msgctxt "1148_Kiryu"
+msgid "Tennis... I see."
+msgstr "Tennis... I see."
+
+msgctxt "1160_Shizuka"
+msgid "Why don't we play together?"
+msgstr "Why don't we play together?"
+
+msgctxt "1172_Kiryu"
+msgid "That sounds nice. Invite me next time when you get the chance."
+msgstr "That sounds nice. Invite me next time when you get the chance."
+
+msgctxt "1184_Kiryu"
+msgid "Remember that thing liver has that reverses aging in the brain?"
+msgstr "Remember that thing liver has that reverses aging in the brain?"
+
+msgctxt "1196_Kiryu"
+msgid "What was it called again...?"
+msgstr "What was it called again...?"
+
+msgctxt "1208_Shizuka"
+msgid "Hehehe. You mean arachidonic acid?"
+msgstr "Hehehe. You mean arachidonic acid?"
+
+msgctxt "1220_Kiryu"
+msgid "Yeah, that. Wow, you've got a good memory."
+msgstr "Yeah, that. Wow, you've got a good memory."
+
+msgctxt "1232_Shizuka"
+msgid ""
+"You're the one that told me after all. How could I forget? I did a little "
+"research on it too!"
+msgstr ""
+"You're the one that told me after all. How could I forget? I did a little "
+"research on it too!"
+
+msgctxt "1244_Kiryu"
+msgid "Heh. I see. Seems like you don't need to eat any liver after all."
+msgstr "Heh. I see. Seems like you don't need to eat any liver after all."
+
+msgctxt "1256_Kiryu"
+msgid "I guess you're not looking into starting pole dancing, right?"
+msgstr "I guess you're not looking into starting pole dancing, right?"
+
+msgctxt "1268_Shizuka"
+msgid "I'm sorry... I have my traditional Japanese dance."
+msgstr "I'm sorry... I have my traditional Japanese dance."
+
+msgctxt "1280_Kiryu"
+msgid "I see... That's my bad then."
+msgstr "I see... That's my bad then."
+
+msgctxt "1292_Kiryu"
+msgid "Have you been drinking sweet sake lately?"
+msgstr "Have you been drinking sweet sake lately?"
+
+msgctxt "1304_Shizuka"
+msgid ""
+"Yes, I have been! But since it's so easy to drink, I'm afraid I had a little"
+" too much the other day."
+msgstr ""
+"Yes, I have been! But since it's so easy to drink, I'm afraid I had a little"
+" too much the other day."
+
+msgctxt "1316_Shizuka"
+msgid "I think serving drinks to gentlemen like you suits me better."
+msgstr "I think serving drinks to gentlemen like you suits me better."
+
+msgctxt "1328_Kiryu"
+msgid "Heh, I see..."
+msgstr "Eh, capisco..."

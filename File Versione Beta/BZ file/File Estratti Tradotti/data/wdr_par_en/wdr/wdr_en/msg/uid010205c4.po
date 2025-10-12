@@ -1,0 +1,585 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "20036"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "20040"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "20044"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "20048"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "20052"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "20056"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "20060"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "20064"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "20068"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "20072"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "20076"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "20080"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "20084"
+msgid "adv_lastchapter_010/haruka_0081"
+msgstr "adv_lastchapter_010/haruka_0081"
+
+msgctxt "20088"
+msgid "adv_lastchapter_010/kiryu_0281"
+msgstr "adv_lastchapter_010/kiryu_0281"
+
+msgctxt "20092"
+msgid "adv_lastchapter_010/haruka_0082"
+msgstr "adv_lastchapter_010/haruka_0082"
+
+msgctxt "20096"
+msgid "adv_lastchapter_010/kiryu_0282"
+msgstr "adv_lastchapter_010/kiryu_0282"
+
+msgctxt "20100"
+msgid "adv_lastchapter_010/haruka_0083"
+msgstr "adv_lastchapter_010/haruka_0083"
+
+msgctxt "20104"
+msgid "adv_lastchapter_010/kiryu_0283"
+msgstr "adv_lastchapter_010/kiryu_0283"
+
+msgctxt "20108"
+msgid "Talk_Phone_surp"
+msgstr "Talk_Phone_surp"
+
+msgctxt "20112"
+msgid "adv_lastchapter_010/haruka_0084"
+msgstr "adv_lastchapter_010/haruka_0084"
+
+msgctxt "20116"
+msgid "adv_lastchapter_010/kiryu_0285"
+msgstr "adv_lastchapter_010/kiryu_0285"
+
+msgctxt "20120"
+msgid "Talk_Phone_yes"
+msgstr "Talk_Phone_yes"
+
+msgctxt "20124"
+msgid "adv_lastchapter_010/haruka_0086"
+msgstr "adv_lastchapter_010/haruka_0086"
+
+msgctxt "20128"
+msgid "adv_lastchapter_010/kiryu_0286"
+msgstr "adv_lastchapter_010/kiryu_0286"
+
+msgctxt "20132"
+msgid "adv_lastchapter_010/haruka_0087"
+msgstr "adv_lastchapter_010/haruka_0087"
+
+msgctxt "20136"
+msgid "adv_lastchapter_010/kiryu_0287"
+msgstr "adv_lastchapter_010/kiryu_0287"
+
+msgctxt "20140"
+msgid "adv_lastchapter_010/haruka_0088"
+msgstr "adv_lastchapter_010/haruka_0088"
+
+msgctxt "20144"
+msgid "adv_lastchapter_010/kiryu_0288"
+msgstr "adv_lastchapter_010/kiryu_0288"
+
+msgctxt "20148"
+msgid "adv_lastchapter_010/haruka_0089"
+msgstr "adv_lastchapter_010/haruka_0089"
+
+msgctxt "20152"
+msgid "adv_lastchapter_010/haruka_0089b"
+msgstr "adv_lastchapter_010/haruka_0089b"
+
+msgctxt "20156"
+msgid "adv_lastchapter_010/haruka_0090"
+msgstr "adv_lastchapter_010/haruka_0090"
+
+msgctxt "20160"
+msgid "adv_lastchapter_010/kiryu_0290"
+msgstr "adv_lastchapter_010/kiryu_0290"
+
+msgctxt "20164"
+msgid "adv_lastchapter_010/haruka_0091"
+msgstr "adv_lastchapter_010/haruka_0091"
+
+msgctxt "20168"
+msgid "adv_lastchapter_010/kiryu_0291"
+msgstr "adv_lastchapter_010/kiryu_0291"
+
+msgctxt "20172"
+msgid "adv_lastchapter_010/haruka_0092"
+msgstr "adv_lastchapter_010/haruka_0092"
+
+msgctxt "20176"
+msgid "adv_lastchapter_010/kiryu_0292"
+msgstr "adv_lastchapter_010/kiryu_0292"
+
+msgctxt "20180"
+msgid "adv_lastchapter_010/haruka_0093"
+msgstr "adv_lastchapter_010/haruka_0093"
+
+msgctxt "20184"
+msgid "adv_lastchapter_010/kiryu_0293a"
+msgstr "adv_lastchapter_010/kiryu_0293a"
+
+msgctxt "20188"
+msgid "adv_lastchapter_010/haruka_0094"
+msgstr "adv_lastchapter_010/haruka_0094"
+
+msgctxt "20192"
+msgid "adv_lastchapter_010/kiryu_0294"
+msgstr "adv_lastchapter_010/kiryu_0294"
+
+msgctxt "20196"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "20200"
+msgid "P_sae_sitsofa_tlk_kamae"
+msgstr "P_sae_sitsofa_tlk_kamae"
+
+msgctxt "20204"
+msgid "P_sae_stand"
+msgstr "P_sae_stand"
+
+msgctxt "20208"
+msgid "P_sae_sitsofa_tlk_kamae_ed"
+msgstr "P_sae_sitsofa_tlk_kamae_ed"
+
+msgctxt "20212"
+msgid "P_sae_stand_tlk_kamae"
+msgstr "P_sae_stand_tlk_kamae"
+
+msgctxt "112_Akiyama"
+msgid "I've got an idea. Let's use my hundred bil."
+msgstr "Ho un'idea. Usiamo i miei cento miliardi."
+
+msgctxt "124_Date"
+msgid "...How, exactly?"
+msgstr "...Come, di preciso?"
+
+msgctxt "136_Akiyama"
+msgid ""
+"It's simple. We haul it up to the roof of the Millennium\r\n"
+"Tower, then kick back and wait."
+msgstr ""
+"È semplice. Li portiamo sul tetto della Millennium\r\n"
+"Tower, poi ci rilassiamo e aspettiamo."
+
+msgctxt "148_Tanimura"
+msgid "What, that's it?"
+msgstr "Cosa, tutto qui?"
+
+msgctxt "160_Akiyama"
+msgid "That's it."
+msgstr "Tutto qui."
+
+msgctxt "172_Date"
+msgid "Back it up a sec. What's that accomplish?"
+msgstr "Aspetta un secondo. A cosa servirebbe?"
+
+msgctxt "184_Akiyama"
+msgid "It'll bring all the flies buzzing straight into our web."
+msgstr "Attirerà tutte le mosche direttamente nella nostra ragnatela."
+
+msgctxt "196_Kiryu"
+msgid "Flies?"
+msgstr "Mosche?"
+
+msgctxt "208_Akiyama"
+msgid "Not literally. I'm talking about our enemies."
+msgstr "Non letteralmente. Sto parlando dei nostri nemici."
+
+msgctxt "220_Tanimura"
+msgid ""
+"That's kind of a broad term. Who exactly are you thinking is\r\n"
+"gonna show?"
+msgstr ""
+"È un termine un po' vago. Chi pensi esattamente che si\r\n"
+"presenterà?"
+
+msgctxt "232_Akiyama"
+msgid "Not sure. We'll just have to wait and find out."
+msgstr "Non ne sono sicuro. Dovremo solo aspettare e vedere."
+
+msgctxt "244_Date"
+msgid "...Huh? You're not making any sense, man."
+msgstr "...Eh? Non ha alcun senso, amico."
+
+msgctxt "256_Akiyama"
+msgid ""
+"Just hold on a second. Think about everyone we know who's\r\n"
+"wrapped up in all this. Munakata, Arai-san, Kido-chan, the\r\n"
+"Tojo."
+msgstr ""
+"Aspetta un secondo. Pensa a tutti quelli che conosciamo che sono\r\n"
+"coinvolti in tutto questo. Munakata, Arai-san, Kido-chan, i\r\n"
+"Tojo."
+
+msgctxt "268_Akiyama"
+msgid ""
+"All those parties are playing different roles in this little\r\n"
+"performance... but we still don't know who's the real ringleader."
+msgstr ""
+"Tutte queste parti stanno giocando ruoli diversi in questa piccola\r\n"
+"recita... ma non sappiamo ancora chi sia il vero capo."
+
+msgctxt "280_Akiyama"
+msgid ""
+"Until we get them all in one place, laying it all on the line... we're just "
+"gonna be shooting in the dark."
+msgstr ""
+"Finché non li avremo tutti in un unico posto, a mettere tutto in gioco... "
+"staremo solo sparando nel buio."
+
+msgctxt "292_Kiryu"
+msgid "So we'll lure them out to find out who's really in charge."
+msgstr "Quindi li attireremo allo scoperto per scoprire chi comanda davvero."
+
+msgctxt "304_Akiyama"
+msgid ""
+"Exactly. We tell each party that we're keeping the cash on the roof of the "
+"Millennium Tower... and they can come up and make a deal with us if they "
+"want a slice of the pie."
+msgstr ""
+"Esatto. Diciamo a ciascuna parte che teniamo i soldi sul tetto della "
+"Millennium Tower... e che possono venire a fare un accordo con noi se "
+"vogliono una fetta della torta."
+
+msgctxt "316_Akiyama"
+msgid ""
+"We play our cards right, they all slam headfirst into each\r\n"
+"other."
+msgstr ""
+"Se giochiamo bene le nostre carte, si scontreranno tutti frontalmente."
+
+msgctxt "328_Tanimura"
+msgid "And then they'll duke it out over the money."
+msgstr "E poi se le daranno di santa ragione per i soldi."
+
+msgctxt "340_Akiyama"
+msgid "Yup. Though I don't really care if they fight or not."
+msgstr "Sì. Anche se non mi interessa molto se combattono o no."
+
+msgctxt "352_Akiyama"
+msgid "All that matters is that we figure out who the big bad is."
+msgstr "L'unica cosa che conta è scoprire chi è il pezzo grosso."
+
+msgctxt "364_Akiyama"
+msgid "From then on it'll just be a good old-fashioned beatdown."
+msgstr "Da quel momento in poi sarà solo una bella scazzottata vecchio stile."
+
+msgctxt "376_Kiryu"
+msgid "That's my kind of plan."
+msgstr "Questo è il mio genere di piano."
+
+msgctxt "388_Tanimura"
+msgid ""
+"That's the what and where settled, then. What about the\r\n"
+"when?"
+msgstr ""
+"Allora, il cosa e il dove sono decisi. E per quanto riguarda il\r\n"
+"quando?"
+
+msgctxt "400_Akiyama"
+msgid ""
+"Well, it's gonna take a while to haul all those stacks up\r\n"
+"there. And I'm sure all of you have stuff you wanna handle\r\n"
+"before we execute the plan."
+msgstr ""
+"Beh, ci vorrà un po' per portare tutte quelle pile lassù.\r\n"
+"E sono sicuro che tutti voi avete delle cose da sistemare\r\n"
+"prima di eseguire il piano."
+
+msgctxt "412_Akiyama"
+msgid ""
+"How about we go our separate ways for a while, grab some\r\n"
+"food, hit up a few convenience stores, then meet back here\r\n"
+"when we're ready?"
+msgstr ""
+"Che ne dite se ci separiamo per un po', prendiamo qualcosa\r\n"
+"da mangiare, facciamo un salto in qualche minimarket e poi ci ritroviamo qui\r\n"
+"quando siamo pronti?"
+
+msgctxt "424_Tanimura"
+msgid "Works for me."
+msgstr "Per me va bene."
+
+msgctxt "436_Kiryu"
+msgid "Sounds like a plan."
+msgstr "Sembra un piano."
+
+msgctxt "460_Tanimura"
+msgid "You good with that, Saejima-san?"
+msgstr "Ti va bene, Saejima-san?"
+
+msgctxt "472_Saejima"
+msgid "...Yeah. I'm in."
+msgstr "...Sì. Ci sto."
+
+msgctxt "532_Haruka"
+msgid "Uncle Kaz."
+msgstr "Zio Kaz."
+
+msgctxt "544_Kiryu"
+msgid "Haruka. What's wrong? Did something happen?"
+msgstr "Haruka. Che succede? È successo qualcosa?"
+
+msgctxt "556_Haruka"
+msgid "Uncle Kaz. Hamazaki-san, he..."
+msgstr "Zio Kaz. Hamazaki-san, lui..."
+
+msgctxt "568_Kiryu"
+msgid "Hamazaki? What happened to him?"
+msgstr "Hamazaki? Cosa gli è successo?"
+
+msgctxt "580_Haruka"
+msgid "He's... He's gone. He just passed away in the hospital."
+msgstr "Lui... se n'è andato. È appena morto in ospedale."
+
+msgctxt "592_Kiryu"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "604_Haruka"
+msgid ""
+"According to the doctor, the cause of death was a gunshot\r\n"
+"wound to the back."
+msgstr ""
+"Secondo il dottore, la causa della morte è stata una ferita da arma da fuoco\r\n"
+"alla schiena."
+
+msgctxt "616_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "628_Haruka"
+msgid "......"
+msgstr "......"
+
+msgctxt "640_Kiryu"
+msgid ""
+"All right, I understand. Thanks for being there in his final\r\n"
+"moments, Haruka."
+msgstr ""
+"Va bene, capisco. Grazie per essere stata lì nei suoi ultimi\r\n"
+"istanti, Haruka."
+
+msgctxt "652_Haruka"
+msgid "You don't have to thank me for that. And hey... Uncle Kaz?"
+msgstr "Non devi ringraziarmi per questo. Ehi... zio Kaz?"
+
+msgctxt "664_Kiryu"
+msgid "Hm? What is it?"
+msgstr "Mh? Che c'è?"
+
+msgctxt "676_Haruka"
+msgid "Hamazaki-san died protecting you, didn't he?"
+msgstr "Hamazaki-san è morto per proteggerti, vero?"
+
+msgctxt "688_Kiryu"
+msgid "...Yeah, it seems like it. He sacrificed his life for us."
+msgstr "...Sì, sembra di sì. Ha sacrificato la sua vita per noi."
+
+msgctxt "700_Haruka"
+msgid ""
+"Then... I wish I could tell him how sorry I am. I was so\r\n"
+"wrong about him."
+msgstr ""
+"Allora... vorrei potergli dire quanto mi dispiace. Mi sbagliavo\r\n"
+"così tanto su di lui."
+
+msgctxt "712_Kiryu"
+msgid "It's okay, Haruka."
+msgstr "Va tutto bene, Haruka."
+
+msgctxt "724_Haruka"
+msgid ""
+"When Hamazaki-san was on his deathbed... he asked me to tell\r\n"
+"you something."
+msgstr ""
+"Quando Hamazaki-san era in punto di morte... mi ha chiesto di dirti\r\n"
+"una cosa."
+
+msgctxt "736_Haruka"
+msgid ""
+"\"Keep the Tojo Clan safe from the cops. It's the only proof left that guys "
+"like us ever existed.\""
+msgstr ""
+"'Tieni il Clan Tojo al sicuro dagli sbirri. È l'unica prova rimasta che "
+"gente come noi sia mai esistita.'"
+
+msgctxt "748_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "760_Haruka"
+msgid ""
+"He wanted you to tell Saejima-san, too. That was his dying\r\n"
+"wish."
+msgstr ""
+"Voleva che lo dicessi anche a Saejima-san. Era il suo ultimo\r\n"
+"desiderio."
+
+msgctxt "772_Kiryu"
+msgid "Got it. Thanks for telling me all this, Haruka."
+msgstr "Capito. Grazie per avermi detto tutto questo, Haruka."
+
+msgctxt "784_Haruka"
+msgid "Of course."
+msgstr "E di che."
+
+msgctxt "796_Kiryu"
+msgid "By the way. What happened to Hamazaki's body?"
+msgstr "A proposito. Che ne è stato del corpo di Hamazaki?"
+
+msgctxt "808_Haruka"
+msgid "I had them send it back to Morning Glory. Is that okay?"
+msgstr "L'ho fatto riportare al Morning Glory. Va bene?"
+
+msgctxt "820_Kiryu"
+msgid "Yeah, that's perfect. Sorry you had to go through all this."
+msgstr "Sì, è perfetto. Mi dispiace che tu abbia dovuto passare tutto questo."
+
+msgctxt "832_Haruka"
+msgid "It's okay. I'll be fine."
+msgstr "Va bene. Starò bene."
+
+msgctxt "844_Kiryu"
+msgid ""
+"I should be back in Okinawa soon. And once I am, we'll make\r\n"
+"sure he gets a proper burial."
+msgstr ""
+"Dovrei tornare presto a Okinawa. E una volta lì, faremo in modo\r\n"
+"che abbia una degna sepoltura."
+
+msgctxt "856_Haruka"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "868_Kiryu"
+msgid "Talk to you soon."
+msgstr "A presto."
+
+msgctxt "940_Date"
+msgid "Where's Akiyama?"
+msgstr "Dov'è Akiyama?"
+
+msgctxt "952_Tanimura"
+msgid "Over at his office. Said he needed some time alone."
+msgstr ""
+"Nel suo ufficio. Ha detto che aveva bisogno di un po' di tempo da solo."
+
+msgctxt "964_Tanimura"
+msgid "Can't say I blame him. Not with how he felt about Yasuko-san."
+msgstr "Non posso biasimarlo. Non con quello che provava per Yasuko-san."
+
+msgctxt "976_Date"
+msgid "Yeah... I can't imagine."
+msgstr "Sì... non posso immaginare."
+
+msgctxt "1000_Date"
+msgid ""
+"Anyway, what now? Munakata has probably had his paws on that\r\n"
+"file for a while at this point."
+msgstr ""
+"Comunque, e adesso? A quest'ora Munakata avrà probabilmente messo le zampe su quel\r\n"
+"file da un pezzo."
+
+msgctxt "1012_Kiryu"
+msgid "Good question."
+msgstr "Bella domanda."
+
+msgctxt "1048_Tanimura"
+msgid "Well, we can't let things end like this, that's for sure."
+msgstr ""
+"Beh, non possiamo lasciare che le cose finiscano così, questo è sicuro."
+
+msgctxt "1060_Tanimura"
+msgid ""
+"Yasuko-san's dead. Munakata's still on the force. And\r\n"
+"nobody's doing a damn thing about it! You think I'm just\r\n"
+"gonna sit around and let that stand!?"
+msgstr ""
+"Yasuko-san è morta. Munakata è ancora in servizio. E\r\n"
+"nessuno sta facendo un cazzo al riguardo! Pensi che me ne starò\r\n"
+"seduto a guardare!?"
+
+msgctxt "1072_Date"
+msgid "......"
+msgstr "......"
+
+msgctxt "1084_Kiryu"
+msgid "Tanimura..."
+msgstr "Tanimura..."
+
+msgctxt "1144_Kiryu"
+msgid "Where are you going?"
+msgstr "Dove stai andando?"
+
+msgctxt "1156_Saejima"
+msgid "Don't gotta tell you that."
+msgstr "Non devo dirtelo."
+
+msgctxt "1168_Kiryu"
+msgid ""
+"Saejima. We have proof now that you didn't commit those\r\n"
+"murders twenty-five years ago. You'll be a free man once we get them to review your case."
+msgstr ""
+"Saejima. Ora abbiamo le prove che non hai commesso quegli\r\n"
+"omicidi venticinque anni fa. Sarai un uomo libero una volta che avremo fatto riesaminare il tuo caso."
+
+msgctxt "1180_Saejima"
+msgid ""
+"Don't give a rat's ass one way or the other. Do whatever ya\r\n"
+"wanna do."
+msgstr ""
+"Non me ne frega un cazzo in un modo o nell'altro. Fa' quello che\r\n"
+"ti pare."
+
+msgctxt "1192_Saejima"
+msgid "...I ain't goin' nowhere. Just gonna go get some fresh air."
+msgstr ""
+"...Non vado da nessuna parte. Vado solo a prendere una boccata d'aria."

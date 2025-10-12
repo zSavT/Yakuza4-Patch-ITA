@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2620"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "2624"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2628"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "2632"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "112_Akiyama"
+msgid "Taking Haruka-chan out for a stroll? Enjoy."
+msgstr "Taking Haruka-chan out for a stroll? Enjoy."
+
+msgctxt "124_Akiyama"
+msgid ""
+"Why don't you take a little breather, %s-san? Be glad to take care of any "
+"errands you need doing."
+msgstr ""
+"Why don't you take a little breather, %s-san? Be glad to take care of any "
+"errands you need doing."
+
+msgctxt "148_Player"
+msgid "I'll be okay on my own for now."
+msgstr "I'll be okay on my own for now."
+
+msgctxt "160_Player"
+msgid "Sorry, gonna have to pass."
+msgstr "Sorry, gonna have to pass."
+
+msgctxt "172_Player"
+msgid "I'm good."
+msgstr "I'm good."
+
+msgctxt "184_Player"
+msgid "Nah, I'm fine."
+msgstr "Nah, I'm fine."
+
+msgctxt "196_Akiyama"
+msgid "Oh, all right. Don't go pushing yourself too hard, okay?"
+msgstr "Oh, all right. Don't go pushing yourself too hard, okay?"
+
+msgctxt "220_Player"
+msgid "That's a good idea. Go ahead."
+msgstr "That's a good idea. Go ahead."
+
+msgctxt "232_Player"
+msgid "Sure, why not. I'm always down to chill for a bit."
+msgstr "Sure, why not. I'm always down to chill for a bit."
+
+msgctxt "244_Player"
+msgid "Guess I don't mind catchin' my breath."
+msgstr "Guess I don't mind catchin' my breath."
+
+msgctxt "256_Player"
+msgid "All right, I'll let you take things from here."
+msgstr "All right, I'll let you take things from here."
+
+msgctxt "268_Akiyama"
+msgid ""
+"Great. Rest up while I'm gone... I'll be back to snag a break before you "
+"know it."
+msgstr ""
+"Great. Rest up while I'm gone... I'll be back to snag a break before you "
+"know it."
+
+msgctxt "292_Akiyama"
+msgid "Cancel"
+msgstr "Cancel"
+
+msgctxt "304_Akiyama"
+msgid "Switch to Akiyama"
+msgstr "Passa ad Akiyama"

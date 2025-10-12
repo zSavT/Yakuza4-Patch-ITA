@@ -1,0 +1,173 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "456"
+msgid "You got the <Color:8>Morning Glory Scarf<Color:Default>."
+msgstr "You got the <Color:8>Morning Glory Scarf<Color:Default>."
+
+msgctxt "564"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr "You got <Color:8>Haruka's Necklace<Color:Default>."
+
+msgctxt "624"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han."
+msgstr ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han."
+
+msgctxt "672"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr "You got <Color:8>Haruka's Lunch<Color:Default>."
+
+msgctxt "732"
+msgid "You got <Color:8>Haruka's First-aid Kit<Color:Default>."
+msgstr "You got <Color:8>Haruka's First-aid Kit<Color:Default>."
+
+msgctxt "792"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr "You got a <Color:8>Red Jewel<Color:Default>."
+
+msgctxt "852"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr "You got <Color:8>Haruka's Amulet<Color:Default>."
+
+msgctxt "912"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr "You got <Color:8>Haruka's Chocolate<Color:Default>."
+
+msgctxt "972"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr "You got <Color:8>Haruka's Candy<Color:Default>."
+
+msgctxt "9300"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "9304"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "9308"
+msgid "HAL_stand_tlk_happy_big"
+msgstr "HAL_stand_tlk_happy_big"
+
+msgctxt "9312"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "9316"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "9320"
+msgid "HAL_stand_tlk_unhappy_small"
+msgstr "HAL_stand_tlk_unhappy_small"
+
+msgctxt "9324"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "9328"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "276_Haruka"
+msgid "That was amazing, Uncle Kaz!"
+msgstr "That was amazing, Uncle Kaz!"
+
+msgctxt "288_Haruka"
+msgid "You're amazing, Uncle Kaz! You're such a pro!"
+msgstr "You're amazing, Uncle Kaz! You're such a pro!"
+
+msgctxt "324_Kiryu"
+msgid "(Haruka sure is happy...)"
+msgstr "(Haruka sure is happy...)"
+
+msgctxt "360_Kiryu"
+msgid "(Haruka sure is happy...)"
+msgstr "(Haruka sure is happy...)"
+
+msgctxt "396_Kiryu"
+msgid "(Haruka sure is happy...)"
+msgstr "(Haruka sure is happy...)"
+
+msgctxt "432_Haruka"
+msgid "Thanks for doing all that stuff for me, Uncle Kaz!"
+msgstr "Thanks for doing all that stuff for me, Uncle Kaz!"
+
+msgctxt "444_Haruka"
+msgid "Here, this is a special present, just for you!"
+msgstr "Here, this is a special present, just for you!"
+
+msgctxt "552_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "612_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come to play cho-han with you next time, "
+"okay?"
+msgstr ""
+"Thanks a ton, Uncle Kaz! I wanna come to play cho-han with you next time, "
+"okay?"
+
+msgctxt "660_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "720_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "780_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "840_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "900_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "960_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "1044_Haruka"
+msgid "Aw, too bad, Uncle Kaz!"
+msgstr "Aw, too bad, Uncle Kaz!"
+
+msgctxt "1056_Haruka"
+msgid "But I wanted you to play darts..."
+msgstr "But I wanted you to play darts..."
+
+msgctxt "1068_Haruka"
+msgid "Aw... That was close, Uncle Kaz!"
+msgstr "Aw... That was close, Uncle Kaz!"
+
+msgctxt "1140_Haruka"
+msgid "Uncle Kaz, clear 901 within six rounds!"
+msgstr "Uncle Kaz, clear 901 within six rounds!"
+
+msgctxt "1164_Haruka"
+msgid "Uncle Kaz, clear 701 within six rounds!"
+msgstr "Uncle Kaz, clear 701 within six rounds!"
+
+msgctxt "1188_Haruka"
+msgid "Uncle Kaz! Get over 250 points in Count-Up!"
+msgstr "Uncle Kaz! Get over 250 points in Count-Up!"

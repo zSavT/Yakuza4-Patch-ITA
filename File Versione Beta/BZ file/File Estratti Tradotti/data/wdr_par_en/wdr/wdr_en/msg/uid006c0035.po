@@ -1,0 +1,170 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "412"
+msgid "Error."
+msgstr "Error."
+
+msgctxt "6176"
+msgid "Attendant"
+msgstr "Attendant"
+
+msgctxt "6180"
+msgid "M_shp_stand_tlk_ojigi"
+msgstr "M_shp_stand_tlk_ojigi"
+
+msgctxt "6184"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "6188"
+msgid "Waiter"
+msgstr "Waiter"
+
+msgctxt "6192"
+msgid "P_sitsofaR_tlk_standup"
+msgstr "P_sitsofaR_tlk_standup"
+
+msgctxt "172_Attendant"
+msgid "Hello. Thank you for coming."
+msgstr "Hello. Thank you for coming."
+
+msgctxt "184_Attendant"
+msgid "Will you be enjoying our club today?"
+msgstr "Will you be enjoying our club today?"
+
+msgctxt "196_Attendant"
+msgid "Welcome, sir."
+msgstr "Welcome, sir."
+
+msgctxt "208_Attendant"
+msgid "(Uh-oh. I don't have enough money.)"
+msgstr "(Uh-oh. I don't have enough money.)"
+
+msgctxt "220_Attendant"
+msgid "Wait a second!"
+msgstr "Aspetta un secondo!"
+
+msgctxt "232_Attendant"
+msgid "What is it sir?"
+msgstr "What is it sir?"
+
+msgctxt "244_Attendant"
+msgid "Sorry, I'll come back later..."
+msgstr "Sorry, I'll come back later..."
+
+msgctxt "256_Attendant"
+msgid "(I should bring at least 20,000 yen...)"
+msgstr "(I should bring at least 20,000 yen...)"
+
+msgctxt "292_Attendant"
+msgid "Ah, I see you have a copy of Night Magazine. Would you like to use it?"
+msgstr ""
+"Ah, I see you have a copy of Night Magazine. Would you like to use it?"
+
+msgctxt "304_Attendant"
+msgid ""
+"Excellent. Using your copy of Night Magazine entitles you to a 1,000 yen "
+"discount."
+msgstr ""
+"Excellent. Using your copy of Night Magazine entitles you to a 1,000 yen "
+"discount."
+
+msgctxt "316_Attendant"
+msgid "Very well."
+msgstr "Molto bene."
+
+msgctxt "328_Attendant"
+msgid "Do you wish to request someone?"
+msgstr "Do you wish to request someone?"
+
+msgctxt "340_Attendant"
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgctxt "436_Attendant"
+msgid "Very well. Please come again."
+msgstr "Very well. Please come again."
+
+msgctxt "460_Attendant"
+msgid "No preference? Yes sir. Please come this way."
+msgstr "No preference? Yes sir. Please come this way."
+
+msgctxt "484_Attendant"
+msgid "%s? Excellent. Right this way, sir."
+msgstr "%s? Excellent. Right this way, sir."
+
+msgctxt "508_Attendant"
+msgid "I'm sorry. %s-san isn't working at the moment."
+msgstr "I'm sorry. %s-san isn't working at the moment."
+
+msgctxt "544_Attendant"
+msgid "%s-san? Excellent. Right this way, sir."
+msgstr "%s-san? Excellent. Right this way, sir."
+
+msgctxt "568_Attendant"
+msgid "I'm sorry. %s-san isn't working at the moment."
+msgstr "I'm sorry. %s-san isn't working at the moment."
+
+msgctxt "604_Attendant"
+msgid "%s-san? Excellent. Right this way, sir."
+msgstr "%s-san? Excellent. Right this way, sir."
+
+msgctxt "628_Attendant"
+msgid "I'm sorry. %s-san isn't working at the moment."
+msgstr "I'm sorry. %s-san isn't working at the moment."
+
+msgctxt "652_Player"
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgctxt "664_Attendant"
+msgid "We look forward to serving you again."
+msgstr "We look forward to serving you again."
+
+msgctxt "688_Attendant"
+msgid "Here is your bill, sir."
+msgstr "Here is your bill, sir."
+
+msgctxt "700_Attendant"
+msgid "Of course."
+msgstr "E di che."
+
+msgctxt "712_M_shp_stand_tlk_ojigi"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "724_Attendant"
+msgid "We hope to see you again."
+msgstr "We hope to see you again."
+
+msgctxt "736_P_sitsofaR_tlk_standup"
+msgid "Now then..."
+msgstr "Now then..."
+
+msgctxt "748_Attendant"
+msgid "Enter"
+msgstr "Enter"
+
+msgctxt "760_Attendant"
+msgid "Don't Enter"
+msgstr "Don't Enter"
+
+msgctxt "772_Attendant"
+msgid "Use It"
+msgstr "Use It"
+
+msgctxt "784_Attendant"
+msgid "Don't Use It"
+msgstr "Don't Use It"

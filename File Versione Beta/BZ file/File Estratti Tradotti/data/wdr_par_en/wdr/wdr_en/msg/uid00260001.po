@@ -1,0 +1,85 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1636"
+msgid "Shifty-eyed Man"
+msgstr "Shifty-eyed Man"
+
+msgctxt "1640"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "1644"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1648"
+msgid "Talk_Kosite_st"
+msgstr "Talk_Kosite_st"
+
+msgctxt "1652"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1656"
+msgid "Talk_Kosite_ed"
+msgstr "Talk_Kosite_ed"
+
+msgctxt "1660"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "1664"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "1668"
+msgid "0"
+msgstr ""
+
+msgctxt "84_Shifty-eyed Man"
+msgid "Excuse me. Are you looking for something?"
+msgstr "Excuse me. Are you looking for something?"
+
+msgctxt "96_Tanimura"
+msgid ""
+"...You know a place called the Dragon Palace? I heard it was around here "
+"somewhere."
+msgstr ""
+"...You know a place called the Dragon Palace? I heard it was around here "
+"somewhere."
+
+msgctxt "108_Shifty-eyed Man"
+msgid ""
+"Dragon Palace, huh? I may know something... But it's not\r\n"
+"the kind of place that just anybody can get into."
+msgstr ""
+"Dragon Palace, huh? I may know something... But it's not\r\n"
+"the kind of place that just anybody can get into."
+
+msgctxt "120_Tanimura"
+msgid "Any details you can give?"
+msgstr "Any details you can give?"
+
+msgctxt "132_Shifty-eyed Man"
+msgid ""
+"You know the building under construction on this street?\r\n"
+"It's in the building next to that."
+msgstr ""
+"You know the building under construction on this street?\r\n"
+"It's in the building next to that."
+
+msgctxt "144_Tanimura"
+msgid "Thanks."
+msgstr "Grazie."

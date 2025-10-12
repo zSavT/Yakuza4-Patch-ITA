@@ -1,0 +1,89 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3296"
+msgid "Hamazaki"
+msgstr "Hamazaki"
+
+msgctxt "3300"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3304"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "3308"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_Hamazaki"
+msgid "It's go time, Kiryu-san. You ready?"
+msgstr "È ora di andare, Kiryu-san. Sei pronto?"
+
+msgctxt "128_Kiryu"
+msgid "Not quite yet. Just need to do a few things first."
+msgstr "Non ancora. Devo prima fare un paio di cose."
+
+msgctxt "140_Hamazaki"
+msgid "All right, but make it snappy."
+msgstr "Va bene, ma sbrigati."
+
+msgctxt "152_Kiryu"
+msgid "Yeah, let's do it."
+msgstr "Sì, andiamo."
+
+msgctxt "212_Hamazaki"
+msgid "Guess I'm gonna head down to the station now. Turn myself in."
+msgstr "Credo che andrò alla stazione, ora. A costituirmi."
+
+msgctxt "224_Kiryu"
+msgid "Already?"
+msgstr "Già?"
+
+msgctxt "236_Hamazaki"
+msgid ""
+"Sooner the better, I figure. Anyway... I'll be seeing you,\r\n"
+"Kiryu-san."
+msgstr ""
+"Prima è, meglio è, immagino. Comunque... ci si vede,\r\n"
+"Kiryu-san."
+
+msgctxt "248_Kiryu"
+msgid "Hold on. Do you even know where the police station is?"
+msgstr "Aspetta. Sai almeno dov'è la stazione di polizia?"
+
+msgctxt "260_Hamazaki"
+msgid "I'm an adult, I got eyes. I'll find it."
+msgstr "Sono adulto e ho gli occhi. La troverò."
+
+msgctxt "272_Kiryu"
+msgid ""
+"I'm coming with you, Hamazaki. We might have had our\r\n"
+"differences, but you at least deserve a proper send-off after all we've been through together."
+msgstr ""
+"Vengo con te, Hamazaki. Avremo avuto le nostre divergenze,\r\n"
+"ma ti meriti almeno un addio come si deve dopo tutto quello che abbiamo passato insieme."
+
+msgctxt "284_Hamazaki"
+msgid "Heh. Suit yourself."
+msgstr "Eh. Fa' come vuoi."
+
+msgctxt "308_Hamazaki"
+msgid "Not quite yet."
+msgstr "Non ancora."
+
+msgctxt "320_Hamazaki"
+msgid "Yeah, let's do it."
+msgstr "Sì, andiamo."

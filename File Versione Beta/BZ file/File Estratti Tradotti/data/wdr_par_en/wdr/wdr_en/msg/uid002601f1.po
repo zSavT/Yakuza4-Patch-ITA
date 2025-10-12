@@ -1,0 +1,77 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1412"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1416"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1420"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "1424"
+msgid "Talk_Kosite_st"
+msgstr "Talk_Kosite_st"
+
+msgctxt "1428"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1432"
+msgid "Talk_Kosite_ed"
+msgstr "Talk_Kosite_ed"
+
+msgctxt "1436"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1440"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "56_Kiryu"
+msgid "Hey, Tanimura. You hang out in Chinese restaurants a lot, don't you?"
+msgstr "Hey, Tanimura. You hang out in Chinese restaurants a lot, don't you?"
+
+msgctxt "68_Tanimura"
+msgid "Yeah. Why do you ask?"
+msgstr "Yeah. Why do you ask?"
+
+msgctxt "80_Kiryu"
+msgid ""
+"I'm kind of helping out this Chinese man, but I need somebody who knows how "
+"to speak the language."
+msgstr ""
+"I'm kind of helping out this Chinese man, but I need somebody who knows how "
+"to speak the language."
+
+msgctxt "92_Tanimura"
+msgid "Oh, really? I could talk to him if you want."
+msgstr "Oh, really? I could talk to him if you want."
+
+msgctxt "104_Kiryu"
+msgid "You know how to speak Chinese?"
+msgstr "You know how to speak Chinese?"
+
+msgctxt "116_Tanimura"
+msgid "Yeah, just one of the tricks I picked up in my police work."
+msgstr "Yeah, just one of the tricks I picked up in my police work."
+
+msgctxt "128_Kiryu"
+msgid "Great, then come give me a hand. He's at Emoto Clinic."
+msgstr "Great, then come give me a hand. He's at Emoto Clinic."

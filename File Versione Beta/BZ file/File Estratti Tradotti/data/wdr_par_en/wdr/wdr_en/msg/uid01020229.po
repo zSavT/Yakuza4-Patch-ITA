@@ -1,0 +1,175 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5732"
+msgid "Hana"
+msgstr "Hana"
+
+msgctxt "5736"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "5740"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "5744"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "5748"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "5752"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "5756"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "5760"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "5764"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "5768"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "56_Hana"
+msgid "Oh, Chief. Welcome back."
+msgstr "Oh, Chief. Welcome back."
+
+msgctxt "92_Akiyama"
+msgid "Hey, Hana-chan."
+msgstr "Hey, Hana-chan."
+
+msgctxt "104_Akiyama"
+msgid ""
+"Glad to see you're doing better. You really shouldn't mess with people like "
+"that."
+msgstr ""
+"Glad to see you're doing better. You really shouldn't mess with people like "
+"that."
+
+msgctxt "116_Hana"
+msgid ""
+"Don't you worry, boss. It'll never happen again. Not after all the self-"
+"defense training I've got planned!"
+msgstr ""
+"Don't you worry, boss. It'll never happen again. Not after all the self-"
+"defense training I've got planned!"
+
+msgctxt "128_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "140_Hana"
+msgid ""
+"So, what happened with that lady who came here for the one hundred million?"
+msgstr ""
+"So, what happened with that lady who came here for the one hundred million?"
+
+msgctxt "152_Akiyama"
+msgid "What, Lily-chan?"
+msgstr "What, Lily-chan?"
+
+msgctxt "164_Hana"
+msgid "Please tell me you didn't loan her the whole thing at once."
+msgstr "Please tell me you didn't loan her the whole thing at once."
+
+msgctxt "176_Akiyama"
+msgid "Actually, I did. Just now."
+msgstr "Actually, I did. Just now."
+
+msgctxt "188_Hana"
+msgid "What!?"
+msgstr "Cosa!?"
+
+msgctxt "200_Akiyama"
+msgid ""
+"Yeah, funny thing, really. And, er... don't be mad, but somehow I don't "
+"think we'll be seeing that money again."
+msgstr ""
+"Yeah, funny thing, really. And, er... don't be mad, but somehow I don't "
+"think we'll be seeing that money again."
+
+msgctxt "212_Hana"
+msgid "What!? What's <Italic>that</Italic> supposed to mean!?"
+msgstr "What!? What's <Italic>that</Italic> supposed to mean!?"
+
+msgctxt "224_Akiyama"
+msgid ""
+"I dunno. Lily-chan told me she'd pay it back, but I get the feeling that's "
+"not gonna happen."
+msgstr ""
+"I dunno. Lily-chan told me she'd pay it back, but I get the feeling that's "
+"not gonna happen."
+
+msgctxt "236_Hana"
+msgid "And you lent it to her anyway!?"
+msgstr "And you lent it to her anyway!?"
+
+msgctxt "248_Akiyama"
+msgid "Pretty much."
+msgstr "Più o meno."
+
+msgctxt "260_Hana"
+msgid "What's wrong with you!?"
+msgstr "What's wrong with you!?"
+
+msgctxt "272_Akiyama"
+msgid ""
+"What's the big deal? Last I checked, this was my company. I can lend money "
+"to who I want, when I want."
+msgstr ""
+"What's the big deal? Last I checked, this was my company. I can lend money "
+"to who I want, when I want."
+
+msgctxt "284_Hana"
+msgid "Chief..."
+msgstr "Chief..."
+
+msgctxt "296_Akiyama"
+msgid ""
+"Besides, this is hardly the first time this sort of thing's happened. Why "
+"make a fuss about it now?"
+msgstr ""
+"Besides, this is hardly the first time this sort of thing's happened. Why "
+"make a fuss about it now?"
+
+msgctxt "308_Akiyama"
+msgid "What do you have against Lily-chan?"
+msgstr "What do you have against Lily-chan?"
+
+msgctxt "320_Akiyama"
+msgid "Hana-chan? What's wrong?"
+msgstr "Hana-chan? What's wrong?"
+
+msgctxt "332_Hana"
+msgid "Grr... That's it! I quit!"
+msgstr "Grr... That's it! I quit!"
+
+msgctxt "344_Akiyama"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "356_Akiyama"
+msgid "(Well, that's not good. I need to get after her, fast.)"
+msgstr "(Well, that's not good. I need to get after her, fast.)"

@@ -1,0 +1,219 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "6184"
+msgid "Cat-loving Homeless Man"
+msgstr "Cat-loving Homeless Man"
+
+msgctxt "6188"
+msgid "M_nml_stand_tlk_kagamu_ed"
+msgstr "M_nml_stand_tlk_kagamu_ed"
+
+msgctxt "6192"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "6196"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "6200"
+msgid "置換_捨て猫Ａ"
+msgstr "置換_捨て猫Ａ"
+
+msgctxt "6204"
+msgid "置換_捨て猫Ｂ"
+msgstr "置換_捨て猫Ｂ"
+
+msgctxt "6208"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6212"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "6216"
+msgid "A_cat_stand_tlk_nobi"
+msgstr "A_cat_stand_tlk_nobi"
+
+msgctxt "6220"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "6224"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "6228"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "6232"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "6236"
+msgid "A_cat_stand_tlk_nml"
+msgstr "A_cat_stand_tlk_nml"
+
+msgctxt "6240"
+msgid "M_nml_stand_tlk_kagamu_lp"
+msgstr "M_nml_stand_tlk_kagamu_lp"
+
+msgctxt "6244"
+msgid "0"
+msgstr ""
+
+msgctxt "6248"
+msgid "A_cat_sitgrd_tlk_kedukuroi_st"
+msgstr "A_cat_sitgrd_tlk_kedukuroi_st"
+
+msgctxt "6252"
+msgid "Nml_TurnL180"
+msgstr "Nml_TurnL180"
+
+msgctxt "188_Cat-loving Homeless Man"
+msgid "Oh, hi there!"
+msgstr "Oh, hi there!"
+
+msgctxt "200_Saejima"
+msgid "How's it goin'?"
+msgstr "How's it goin'?"
+
+msgctxt "212_置換_捨て猫Ａ"
+msgid "Prrrow!"
+msgstr "Prrrow!"
+
+msgctxt "224_置換_捨て猫Ｂ"
+msgid "Meow!"
+msgstr "Meow!"
+
+msgctxt "236_Cat-loving Homeless Man"
+msgid ""
+"These two have become the defenders of the homeless community. People hear "
+"the rumor and come from far and wide to pay tribute."
+msgstr ""
+"These two have become the defenders of the homeless community. People hear "
+"the rumor and come from far and wide to pay tribute."
+
+msgctxt "248_Saejima"
+msgid "What rumor?"
+msgstr "What rumor?"
+
+msgctxt "260_Cat-loving Homeless Man"
+msgid ""
+"They're the Neko Family, Kamurocho's first feline yakuza!\r\n"
+"Isn't that right?"
+msgstr ""
+"They're the Neko Family, Kamurocho's first feline yakuza!\r\n"
+"Isn't that right?"
+
+msgctxt "284_置換_捨て猫Ａ"
+msgid "Mrowr!"
+msgstr "Mrowr!"
+
+msgctxt "296_置換_捨て猫Ｂ"
+msgid "Mrowr!"
+msgstr "Mrowr!"
+
+msgctxt "308_Saejima"
+msgid "Hey, that's pretty cool."
+msgstr "Hey, that's pretty cool."
+
+msgctxt "320_Cat-loving Homeless Man"
+msgid ""
+"Ever since I started living with these little fellas,\r\n"
+"I've felt more at ease than I have in ages."
+msgstr ""
+"Ever since I started living with these little fellas,\r\n"
+"I've felt more at ease than I have in ages."
+
+msgctxt "332_Cat-loving Homeless Man"
+msgid ""
+"I've been thinking I should clean up and get a real job\r\n"
+"so I can better provide for my two feline friends here."
+msgstr ""
+"I've been thinking I should clean up and get a real job\r\n"
+"so I can better provide for my two feline friends here."
+
+msgctxt "344_Saejima"
+msgid "That so? Good luck to ya."
+msgstr "That so? Good luck to ya."
+
+msgctxt "404_Saejima"
+msgid "Damn. Didn't think they'd pull it off."
+msgstr "Damn. Didn't think they'd pull it off."
+
+msgctxt "416_置換_捨て猫Ａ"
+msgid "Meow!"
+msgstr "Meow!"
+
+msgctxt "428_置換_捨て猫Ｂ"
+msgid "Meow!"
+msgstr "Meow!"
+
+msgctxt "440_Cat-loving Homeless Man"
+msgid ""
+"Lots of people stop by to watch these handome boys perform.\r\n"
+"I think they might even be smarter than me!"
+msgstr ""
+"Lots of people stop by to watch these handome boys perform.\r\n"
+"I think they might even be smarter than me!"
+
+msgctxt "452_Saejima"
+msgid "Doesn't surprise me."
+msgstr "Doesn't surprise me."
+
+msgctxt "464_Cat-loving Homeless Man"
+msgid "I'm sure they can do even more tricks. I just don't know what yet."
+msgstr "I'm sure they can do even more tricks. I just don't know what yet."
+
+msgctxt "476_Saejima"
+msgid "That so? Good luck to ya."
+msgstr "That so? Good luck to ya."
+
+msgctxt "536_Saejima"
+msgid "They've gotten mighty attached to ya."
+msgstr "They've gotten mighty attached to ya."
+
+msgctxt "548_置換_捨て猫Ａ"
+msgid "Meow!"
+msgstr "Meow!"
+
+msgctxt "584_置換_捨て猫Ｂ"
+msgid "Meow!"
+msgstr "Meow!"
+
+msgctxt "620_Cat-loving Homeless Man"
+msgid ""
+"I gotta tell you, these cats are really clever.\r\n"
+"I taught them a trick just to pass the time,\r\n"
+"and what do you know? They learned it!"
+msgstr ""
+"I gotta tell you, these cats are really clever.\r\n"
+"I taught them a trick just to pass the time,\r\n"
+"and what do you know? They learned it!"
+
+msgctxt "632_Saejima"
+msgid "Hey, that's pretty cool."
+msgstr "Hey, that's pretty cool."
+
+msgctxt "644_Cat-loving Homeless Man"
+msgid "Next, I'm gonna try to teach them to sit!"
+msgstr "Next, I'm gonna try to teach them to sit!"
+
+msgctxt "656_Saejima"
+msgid "That so? Good luck to ya."
+msgstr "That so? Good luck to ya."

@@ -1,0 +1,51 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "136"
+msgid "You got <Color:8>15,000 yen<Color:Default>."
+msgstr "You got <Color:8>15,000 yen<Color:Default>."
+
+msgctxt "1660"
+msgid "Shady Woman"
+msgstr "Shady Woman"
+
+msgctxt "1664"
+msgid "Dejected Yakuza"
+msgstr "Dejected Yakuza"
+
+msgctxt "1668"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1672"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "100_Shady Woman"
+msgid "Eeek! No way!"
+msgstr "Eeek! No way!"
+
+msgctxt "112_Dejected Yakuza"
+msgid "Whoa, I'm sorry! That chick put me up to it! It was all her idea!"
+msgstr "Whoa, I'm sorry! That chick put me up to it! It was all her idea!"
+
+msgctxt "124_Dejected Yakuza"
+msgid ""
+"I know how this looks, but please take this and forget the whole thing."
+msgstr ""
+"I know how this looks, but please take this and forget the whole thing."
+
+msgctxt "208_Dejected Yakuza"
+msgid "I thought you were going to let me off!?"
+msgstr "I thought you were going to let me off!?"

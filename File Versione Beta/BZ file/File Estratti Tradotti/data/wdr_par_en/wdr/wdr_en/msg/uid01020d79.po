@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1800"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "200_Player"
+msgid "(Maybe I should rest until dusk.)"
+msgstr "(Maybe I should rest until dusk.)"
+
+msgctxt "212_Player"
+msgid "(Maybe I should rest until evening.)"
+msgstr "(Maybe I should rest until evening.)"
+
+msgctxt "224_Player"
+msgid "(Maybe I should rest until morning.)"
+msgstr "(Maybe I should rest until morning.)"
+
+msgctxt "236_Player"
+msgid "(Not right now.)"
+msgstr "(Not right now.)"
+
+msgctxt "296_Player"
+msgid "Rest Until Dusk"
+msgstr "Riposa fino al crepuscolo"
+
+msgctxt "308_Player"
+msgid "Don't Rest"
+msgstr "Non riposare"
+
+msgctxt "320_Player"
+msgid "Rest Until Evening"
+msgstr "Riposa fino a sera"
+
+msgctxt "332_Player"
+msgid "Don't Rest"
+msgstr "Non riposare"
+
+msgctxt "344_Player"
+msgid "Rest Until Morning"
+msgstr "Riposa fino a mattina"
+
+msgctxt "356_Player"
+msgid "Don't Rest"
+msgstr "Non riposare"

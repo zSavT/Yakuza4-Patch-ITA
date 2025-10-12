@@ -1,0 +1,466 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "15032"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "15036"
+msgid "P_sitsofaR_tlk_comment"
+msgstr "P_sitsofaR_tlk_comment"
+
+msgctxt "15040"
+msgid "Rio"
+msgstr "Rio"
+
+msgctxt "15044"
+msgid "F_cab_sitsofa_tlk_thinkA"
+msgstr "F_cab_sitsofa_tlk_thinkA"
+
+msgctxt "15048"
+msgid "P_sitsofaR_tlk_yes"
+msgstr "P_sitsofaR_tlk_yes"
+
+msgctxt "15052"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr "F_cab_sitsofa_tlk_yes"
+
+msgctxt "15056"
+msgid "P_sitsofaR_tlk_smile"
+msgstr "P_sitsofaR_tlk_smile"
+
+msgctxt "15060"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "15064"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr "F_cab_sitsofa_tlk_noA"
+
+msgctxt "15068"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr "F_cab_sitsofa_tlk_suprise"
+
+msgctxt "15072"
+msgid "P_sitsofaR_tlk_no"
+msgstr "P_sitsofaR_tlk_no"
+
+msgctxt "15076"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr "F_cab_sitsofa_tlk_cry"
+
+msgctxt "15080"
+msgid "F_cab_sitsofa_sp1_sync_yop"
+msgstr "F_cab_sitsofa_sp1_sync_yop"
+
+msgctxt "15084"
+msgid "F_cab_sitsofa_tlk_refuse"
+msgstr "F_cab_sitsofa_tlk_refuse"
+
+msgctxt "15088"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr "F_cab_sitsofa_talk_smileA"
+
+msgctxt "15092"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr "F_cab_sitsofa_tlk_kamaeAtoB"
+
+msgctxt "15096"
+msgid "P_sitsofaR_tlk_quest"
+msgstr "P_sitsofaR_tlk_quest"
+
+msgctxt "15100"
+msgid "P_sitsofaR_tlk_think"
+msgstr "P_sitsofaR_tlk_think"
+
+msgctxt "392_Akiyama"
+msgid "Ever heard of 777 Town?"
+msgstr "Hai mai sentito parlare di 777 Town?"
+
+msgctxt "404_Rio"
+msgid "777 Town? No, what's that?"
+msgstr "777 Town? No, cos'è?"
+
+msgctxt "416_Akiyama"
+msgid ""
+"It's a game for your computer or cell phone. It lets you play pachinko and "
+"slots anytime, anywhere you want."
+msgstr ""
+"È un gioco per computer o cellulare. Ti permette di giocare a pachinko e "
+"alle slot quando e dove vuoi."
+
+msgctxt "428_Rio"
+msgid ""
+"Really? I've never played pachinko, but I've wanted to try for a while."
+msgstr ""
+"Davvero? Non ho mai giocato a pachinko, ma è da un po' che volevo provare."
+
+msgctxt "440_Akiyama"
+msgid ""
+"It's perfect for you then. It's exactly like the real thing, so it'll be "
+"great practice."
+msgstr ""
+"Allora è perfetto per te. È esattamente come quello vero, quindi sarà un "
+"ottimo allenamento."
+
+msgctxt "452_Rio"
+msgid "Okay, I'll give it a try then!"
+msgstr "Okay, allora ci proverò!"
+
+msgctxt "464_Akiyama"
+msgid "Ever heard of Amoebatar?"
+msgstr "Hai mai sentito parlare di Amoebatar?"
+
+msgctxt "476_Rio"
+msgid "No, what is it?"
+msgstr "No, cos'è?"
+
+msgctxt "488_Akiyama"
+msgid ""
+"It's an online community that lets you create an avatar of yourself. The "
+"number of members has skyrocketed lately."
+msgstr ""
+"È una comunità online che ti permette di creare un avatar di te stesso. Il "
+"numero di membri è salito alle stelle ultimamente."
+
+msgctxt "500_Rio"
+msgid "I've never heard of it before. Guess I could give it a try."
+msgstr "Non ne ho mai sentito parlare. Immagino che potrei provare."
+
+msgctxt "512_Akiyama"
+msgid ""
+"You can also play games and chat. I'm not much of an expert on those things,"
+" so why don't we try it together sometime?"
+msgstr ""
+"Puoi anche giocare e chattare. Non sono un grande esperto di queste cose, "
+"quindi perché non proviamo insieme qualche volta?"
+
+msgctxt "524_Rio"
+msgid "Okay! Let's try it together!"
+msgstr "Okay! Proviamo insieme!"
+
+msgctxt "536_Akiyama"
+msgid "Hear about the ghost in the underground mall?"
+msgstr "Hai sentito del fantasma nel centro commerciale sotterraneo?"
+
+msgctxt "548_Rio"
+msgid "Huh!? Is that real?"
+msgstr "Eh!? È vero?"
+
+msgctxt "560_Akiyama"
+msgid ""
+"A worker died in an accident during the construction of the underground "
+"mall."
+msgstr ""
+"Un operaio è morto in un incidente durante la costruzione del centro "
+"commerciale sotterraneo."
+
+msgctxt "572_Akiyama"
+msgid "Now, night after night, his ghost appears to wander the empty mall."
+msgstr ""
+"Ora, notte dopo notte, il suo fantasma appare e vaga per il centro "
+"commerciale vuoto."
+
+msgctxt "584_Rio"
+msgid ""
+"What? That's terrifying! Now I can't go there! I really shouldn't have "
+"asked..."
+msgstr ""
+"Cosa? È terrificante! Ora non posso più andarci! Non avrei davvero dovuto "
+"chiedere..."
+
+msgctxt "596_Akiyama"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "608_Akiyama"
+msgid ""
+"Hear about the footbaths at Yunosono Hot Springs? You don't take off your "
+"clothes, so men and women can go in together."
+msgstr ""
+"Hai sentito dei pediluvi alle Terme Yunosono? Non ti togli i vestiti, quindi"
+" uomini e donne possono entrare insieme."
+
+msgctxt "620_Rio"
+msgid "Oh really? That sounds fantastic!"
+msgstr "Oh davvero? Sembra fantastico!"
+
+msgctxt "632_Akiyama"
+msgid ""
+"We could check it out together sometime. We can even play table tennis "
+"afterwards."
+msgstr ""
+"Potremmo andarci insieme qualche volta. Possiamo anche giocare a ping-pong "
+"dopo."
+
+msgctxt "644_Rio"
+msgid "We can? Let's definitely go then!"
+msgstr "Davvero? Allora andiamoci assolutamente!"
+
+msgctxt "656_Akiyama"
+msgid ""
+"Golf is getting pretty popular. A lot of couples go on golf dates nowadays."
+msgstr ""
+"Il golf sta diventando molto popolare. Molte coppie vanno a giocare a golf "
+"come appuntamento al giorno d'oggi."
+
+msgctxt "668_Rio"
+msgid "Really? I've never really heard of going golfing on a date before."
+msgstr ""
+"Davvero? Non ho mai sentito di gente che va a giocare a golf a un "
+"appuntamento."
+
+msgctxt "680_Akiyama"
+msgid ""
+"That's what makes it fun. Everyone goes to the movies or out to dinner. "
+"Breaking a sweat for a change isn't bad."
+msgstr ""
+"È questo che lo rende divertente. Tutti vanno al cinema o a cena fuori. "
+"Sudare un po' per cambiare non è male."
+
+msgctxt "692_Rio"
+msgid "That's true. Something new might be good!"
+msgstr "È vero. Qualcosa di nuovo potrebbe far bene!"
+
+msgctxt "704_Akiyama"
+msgid ""
+"Do you like liver? Liver contains arachidonic acid, which reverses aging in "
+"the brain."
+msgstr ""
+"Ti piace il fegato? Il fegato contiene acido arachidonico, che inverte "
+"l'invecchiamento del cervello."
+
+msgctxt "716_Rio"
+msgid "Really? I kinda like it. It's not my all-time favorite food though."
+msgstr ""
+"Davvero? Non mi dispiace. Non è il mio cibo preferito in assoluto, però."
+
+msgctxt "728_Akiyama"
+msgid ""
+"It stimulates your brain and enhances your learning faculties. You should "
+"give it a try."
+msgstr ""
+"Stimola il cervello e migliora le facoltà di apprendimento. Dovresti "
+"provarlo."
+
+msgctxt "740_Rio"
+msgid "Heh, well, I'll give it a try next time."
+msgstr "Eh, beh, la prossima volta ci proverò."
+
+msgctxt "752_Akiyama"
+msgid "Did you know pole dancing is great for working out?"
+msgstr "Sapevi che la pole dance è ottima per allenarsi?"
+
+msgctxt "764_Rio"
+msgid ""
+"Now that you mention it, pole dancing girls are pretty slender, aren't they?"
+msgstr ""
+"Ora che ci penso, le ragazze che fanno pole dance sono piuttosto snelle, "
+"vero?"
+
+msgctxt "776_Akiyama"
+msgid ""
+"I don't think you need to go on a diet, but pole dancing might suit you, "
+"Rio-chan."
+msgstr ""
+"Non credo che tu abbia bisogno di metterti a dieta, ma la pole dance "
+"potrebbe fare al caso tuo, Rio-chan."
+
+msgctxt "788_Rio"
+msgid "You think so? Then I might give it a shot!"
+msgstr "Pensi? Allora potrei provarci!"
+
+msgctxt "800_Akiyama"
+msgid ""
+"Sweet sake is all the rage now. Women like to order it when eating over at "
+"Sushi Gin."
+msgstr ""
+"Il sakè dolce va molto di moda ora. Alle donne piace ordinarlo quando "
+"mangiano al Sushi Gin."
+
+msgctxt "812_Rio"
+msgid "Really? I lose my memory when I drink, though..."
+msgstr "Davvero? Perdo la memoria quando bevo, però..."
+
+msgctxt "824_Akiyama"
+msgid ""
+"You'll be fine. It's got a low alcohol percentage, so it's pretty much the "
+"same as a cocktail."
+msgstr ""
+"Andrà bene. Ha una bassa gradazione alcolica, quindi è praticamente come un "
+"cocktail."
+
+msgctxt "836_Rio"
+msgid "Ooh! In that case, I'll have to try it sometime."
+msgstr "Ooh! In tal caso, dovrò provarlo prima o poi."
+
+msgctxt "884_Akiyama"
+msgid "So about 777 Town..."
+msgstr "Allora, a proposito di 777 Town..."
+
+msgctxt "896_Rio"
+msgid "I tried it! It's actually really fun. I play it lots in my free time."
+msgstr "L'ho provato! È davvero divertente. Ci gioco molto nel tempo libero."
+
+msgctxt "908_Rio"
+msgid "Thanks for telling me about it, Akiyama-san!"
+msgstr "Grazie per avermene parlato, Akiyama-san!"
+
+msgctxt "920_Akiyama"
+msgid "Heh, no problem."
+msgstr "Eh, nessun problema."
+
+msgctxt "932_Akiyama"
+msgid "Have you tried Amoebatar?"
+msgstr "Hai provato Amoebatar?"
+
+msgctxt "944_Rio"
+msgid "I did! I even made a lot of friends on it!"
+msgstr "Sì! Mi sono anche fatta un sacco di amici!"
+
+msgctxt "956_Akiyama"
+msgid "Great. Let's play it together sometime."
+msgstr "Ottimo. Giochiamoci insieme qualche volta."
+
+msgctxt "968_Rio"
+msgid "Okay! I look forward to it!"
+msgstr "Okay! Non vedo l'ora!"
+
+msgctxt "980_Akiyama"
+msgid "So about that ghost in the underground mall..."
+msgstr ""
+"Allora, a proposito di quel fantasma nel centro commerciale sotterraneo..."
+
+msgctxt "992_Rio"
+msgid "Please don't talk about that... Why are you being so mean?"
+msgstr "Ti prego, non parliamone... Perché sei così cattivo?"
+
+msgctxt "1004_Rio"
+msgid "You're the worst, Akiyama-san..."
+msgstr "Sei il peggiore, Akiyama-san..."
+
+msgctxt "1016_Akiyama"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "1028_Akiyama"
+msgid "Did you try out the footbaths at Yunosono?"
+msgstr "Hai provato i pediluvi a Yunosono?"
+
+msgctxt "1040_Rio"
+msgid ""
+"I did! I had a nice soak after playing table tennis. It was amazing. My "
+"ankles felt like jelly afterwards."
+msgstr ""
+"Sì! Ho fatto un bel bagno dopo aver giocato a ping-pong. È stato fantastico."
+" Dopo le caviglie erano come gelatina."
+
+msgctxt "1052_Akiyama"
+msgid "Heh... Looks like it helped out with your circulation?"
+msgstr "Eh... Sembra che abbia aiutato la circolazione?"
+
+msgctxt "1064_Rio"
+msgid "That must be it! I'd love to go again!"
+msgstr "Dev'essere così! Mi piacerebbe tornarci!"
+
+msgctxt "1076_Akiyama"
+msgid "About those golf dates..."
+msgstr "A proposito di quegli appuntamenti a golf..."
+
+msgctxt "1088_Rio"
+msgid ""
+"Oh yeah, you said they're getting popular, right? Did you go on one "
+"recently?"
+msgstr ""
+"Ah sì, hai detto che stanno diventando popolari, giusto? Ci sei stato di "
+"recente?"
+
+msgctxt "1100_Akiyama"
+msgid "Me? No, uh..."
+msgstr "Io? No, uh..."
+
+msgctxt "1112_Rio"
+msgid ""
+"Oh, I see! Is this a roundabout way of asking me out on one? You should just"
+" say it then!"
+msgstr ""
+"Oh, capisco! È un modo indiretto per invitarmi a uno di quegli appuntamenti?"
+" Dillo e basta, allora!"
+
+msgctxt "1124_Akiyama"
+msgid "Oh, uh... yeah. So, would you like to go golfing with me sometime?"
+msgstr ""
+"Oh, uh... sì. Allora, ti andrebbe di venire a giocare a golf con me qualche "
+"volta?"
+
+msgctxt "1136_Rio"
+msgid "Hehe. Of course!"
+msgstr "Eheh. Certo!"
+
+msgctxt "1148_Akiyama"
+msgid "What was the name of that type of acid again?"
+msgstr "Com'era di nuovo il nome di quel tipo di acido?"
+
+msgctxt "1160_Rio"
+msgid "Acid? Since when were you a chemist?"
+msgstr "Acido? Da quando sei un chimico?"
+
+msgctxt "1172_Akiyama"
+msgid "I can't remember what it was called for the life of me."
+msgstr "Non riesco a ricordare come si chiama per nulla al mondo."
+
+msgctxt "1184_Rio"
+msgid "Hehe. Oh, Akiyama-san, did you forget?"
+msgstr "Eheh. Oh, Akiyama-san, l'hai dimenticato?"
+
+msgctxt "1196_Akiyama"
+msgid "I'm totally blanking. I guess I'm not so young anymore..."
+msgstr "Ho un vuoto totale. Immagino di non essere più così giovane..."
+
+msgctxt "1208_Akiyama"
+msgid "Did you give pole dancing any thought?"
+msgstr "Hai pensato alla pole dance?"
+
+msgctxt "1220_Rio"
+msgid "The experience might prove useful to my career as a pin-up model."
+msgstr "L'esperienza potrebbe rivelarsi utile per la mia carriera di modella."
+
+msgctxt "1232_Akiyama"
+msgid ""
+"That's possible. Why not try it out? People will be looking at you all the "
+"time, right? It'll be good practice."
+msgstr ""
+"È possibile. Perché non provare? La gente ti guarderà sempre, no? Sarà un "
+"buon allenamento."
+
+msgctxt "1244_Rio"
+msgid "You think so? I'll definitely consider it then."
+msgstr "Pensi? Allora lo prenderò sicuramente in considerazione."
+
+msgctxt "1256_Akiyama"
+msgid "Did you give that sake a try? The sweet kind we talked about."
+msgstr "L'hai provato quel sakè? Quello dolce di cui abbiamo parlato."
+
+msgctxt "1268_Rio"
+msgid ""
+"I tried it recently! But I'd prefer it if it was a bit more on the dry side."
+msgstr "L'ho provato di recente! Ma preferirei se fosse un po' più secco."
+
+msgctxt "1280_Rio"
+msgid "I love drinking it all in one go. That's the true spirit of sake."
+msgstr "Adoro berlo tutto d'un fiato. È questo il vero spirito del sakè."
+
+msgctxt "1292_Akiyama"
+msgid "Heh. That so? Didn't know you liked that sort of thing, Rio-chan."
+msgstr "Eh. Davvero? Non sapevo ti piacessero queste cose, Rio-chan."

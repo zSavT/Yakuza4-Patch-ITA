@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "188"
+msgid "You got <Color:8>Large Curry Take-home Packs<Color:Default>."
+msgstr "You got <Color:8>Large Curry Take-home Packs<Color:Default>."
+
+msgctxt "2080"
+msgid "Matsuya Staff"
+msgstr "Matsuya Staff"
+
+msgctxt "2084"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "2088"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2092"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "56_Matsuya Staff"
+msgid "Hello, sir."
+msgstr "Hello, sir."
+
+msgctxt "68_Kiryu"
+msgid "I need to get some curry."
+msgstr "I need to get some curry."
+
+msgctxt "80_Matsuya Staff"
+msgid "All right, certainly. What kind would you like?"
+msgstr "All right, certainly. What kind would you like?"
+
+msgctxt "92_Kiryu"
+msgid ""
+"Can I order it to go? And if you have them, some of those packs of just the "
+"sauce would be great."
+msgstr ""
+"Can I order it to go? And if you have them, some of those packs of just the "
+"sauce would be great."
+
+msgctxt "104_Matsuya Staff"
+msgid ""
+"How about our Original Curry take-home packs? They are easy to prepare and "
+"can be enjoyed in the comfort of your home."
+msgstr ""
+"How about our Original Curry take-home packs? They are easy to prepare and "
+"can be enjoyed in the comfort of your home."
+
+msgctxt "116_Kiryu"
+msgid "Sounds good. Can you get me a big box of them?"
+msgstr "Sounds good. Can you get me a big box of them?"
+
+msgctxt "128_Matsuya Staff"
+msgid "Certainly. Just a moment, please."
+msgstr "Certainly. Just a moment, please."
+
+msgctxt "176_Matsuya Staff"
+msgid "Here you go, sir."
+msgstr "Here you go, sir."
+
+msgctxt "212_Kiryu"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "224_Matsuya Staff"
+msgid "Thank you for visiting Matsuya!"
+msgstr "Thank you for visiting Matsuya!"

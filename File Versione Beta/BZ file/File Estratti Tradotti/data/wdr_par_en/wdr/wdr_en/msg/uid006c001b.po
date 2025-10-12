@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1400"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "188_Player"
+msgid "(Should I give her a present?)"
+msgstr "(Should I give her a present?)"
+
+msgctxt "212_Player"
+msgid "(This one, then?)"
+msgstr "(This one, then?)"
+
+msgctxt "224_Player"
+msgid "(On second thought... maybe not.)"
+msgstr "(On second thought... maybe not.)"
+
+msgctxt "236_Player"
+msgid ""
+"(This might be a good time to leave, but I've got enough money. Should I "
+"stay a bit longer?)"
+msgstr ""
+"(This might be a good time to leave, but I've got enough money. Should I "
+"stay a bit longer?)"
+
+msgctxt "248_Player"
+msgid "(I'll keep going a little longer, then.)"
+msgstr "(I'll keep going a little longer, then.)"
+
+msgctxt "260_Player"
+msgid "(On second thought... maybe not.)"
+msgstr "(On second thought... maybe not.)"
+
+msgctxt "272_Player"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "284_Player"
+msgid "No"
+msgstr "No"
+
+msgctxt "296_Player"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "308_Player"
+msgid "No"
+msgstr "No"

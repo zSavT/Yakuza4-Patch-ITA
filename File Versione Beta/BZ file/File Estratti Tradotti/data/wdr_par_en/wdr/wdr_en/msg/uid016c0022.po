@@ -1,0 +1,433 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "504"
+msgid "Controls"
+msgstr "Controlli"
+
+msgctxt "14496"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "14500"
+msgid "Erena"
+msgstr "Erena"
+
+msgctxt "14504"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "14508"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr "F_cab_sitsofa_talk_smileA"
+
+msgctxt "14512"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr "F_cab_sitsofa_tlk_angry"
+
+msgctxt "14516"
+msgid "F_cab_sitsofa_hot_momoA"
+msgstr "F_cab_sitsofa_hot_momoA"
+
+msgctxt "14520"
+msgid "F_cab_sitsofa_hot_muneA"
+msgstr "F_cab_sitsofa_hot_muneA"
+
+msgctxt "516_Akiyama"
+msgid ""
+"Use "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret>"
+" to control where you look. This is your chance to feast your eyes on her "
+"beauty."
+msgstr ""
+"Usa "
+"<Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret>"
+" per controllare dove guardi. È la tua occasione per rifarti gli occhi con "
+"la sua bellezza."
+
+msgctxt "528_Akiyama"
+msgid ""
+"Press <Action:Button_Cross@Cabaret> when you want to focus intently on one "
+"of her features. Holding down <Action:Button_Cross@Cabaret> allows you to "
+"focus your gaze."
+msgstr ""
+"Premi <Action:Button_Cross@Cabaret> quando vuoi concentrarti intensamente su"
+" una delle sue caratteristiche. Tenendo premuto "
+"<Action:Button_Cross@Cabaret> puoi focalizzare lo sguardo."
+
+msgctxt "540_Akiyama"
+msgid "Note that her response will change depending on where you look."
+msgstr "Nota che la sua reazione cambierà a seconda di dove guardi."
+
+msgctxt "564_Akiyama"
+msgid "(Her makeup looks perfect...)"
+msgstr "(Il suo trucco sembra perfetto...)"
+
+msgctxt "576_Akiyama"
+msgid "(She sure talks a lot...)"
+msgstr "(Parla davvero tanto...)"
+
+msgctxt "588_Akiyama"
+msgid "(Her nails are pretty...)"
+msgstr "(Le sue unghie sono carine...)"
+
+msgctxt "600_Akiyama"
+msgid "(Those legs are very shapely...)"
+msgstr "(Quelle gambe sono davvero formose...)"
+
+msgctxt "612_Akiyama"
+msgid "(That's a nice hairstyle...)"
+msgstr "(Bella acconciatura...)"
+
+msgctxt "624_Akiyama"
+msgid "(She likes to show them off...)"
+msgstr "(Le piace metterli in mostra...)"
+
+msgctxt "636_Akiyama"
+msgid "(Well...)"
+msgstr "(Beh...)"
+
+msgctxt "648_Akiyama"
+msgid "Your makeup looks great."
+msgstr "Il tuo trucco è fantastico."
+
+msgctxt "660_Erena"
+msgid "I know! I'm real picky about my makeup!"
+msgstr "Lo so! Sono molto esigente con il mio trucco!"
+
+msgctxt "672_Akiyama"
+msgid "So you don't even let your boyfriend see you without makeup?"
+msgstr "Quindi non ti fai vedere dal tuo ragazzo neanche senza trucco?"
+
+msgctxt "684_Erena"
+msgid ""
+"Of course not! I take it off after he's gone to sleep, and I get up earlier "
+"than he does to put it on in the morning."
+msgstr ""
+"Certo che no! Lo tolgo dopo che si è addormentato e mi alzo prima di lui per"
+" truccarmi la mattina."
+
+msgctxt "696_Akiyama"
+msgid "You certainly like to talk... Are all Kansai girls like that?"
+msgstr "Ti piace di certo parlare... Tutte le ragazze del Kansai sono così?"
+
+msgctxt "708_Erena"
+msgid "Yep. That's why I've got to work extra hard to stand out!"
+msgstr "Sì. Ecco perché devo impegnarmi di più per distinguermi!"
+
+msgctxt "720_Akiyama"
+msgid "So that means you're even more talkative than other Kansai girls, huh?"
+msgstr ""
+"Quindi significa che sei ancora più loquace delle altre ragazze del Kansai, "
+"eh?"
+
+msgctxt "732_Erena"
+msgid "I guess it might be a little surprisin' to somebody from Tokyo."
+msgstr "Immagino che possa essere un po' sorprendente per uno di Tokyo."
+
+msgctxt "744_Akiyama"
+msgid "Your nails are very pretty."
+msgstr "Le tue unghie sono molto belle."
+
+msgctxt "756_Erena"
+msgid "Oh, I'm surprised you noticed. They're nice and shiny, aren't they?"
+msgstr ""
+"Oh, mi sorprende che tu l'abbia notato. Sono belle e luccicanti, vero?"
+
+msgctxt "768_Akiyama"
+msgid "Do you do them yourself?"
+msgstr "Te le fai da sola?"
+
+msgctxt "780_Erena"
+msgid "Oh no. That's impossible. I go to a nail salon."
+msgstr "Oh no. È impossibile. Vado in un salone di bellezza."
+
+msgctxt "792_Akiyama"
+msgid "Being a girl must be tough."
+msgstr "Essere una ragazza dev'essere dura."
+
+msgctxt "804_Akiyama"
+msgid "Your legs are very shapely."
+msgstr "Le tue gambe sono molto formose."
+
+msgctxt "816_Erena"
+msgid "Right? I've got a nice figure, too, if I do say so myself."
+msgstr "Vero? Ho anche un bel fisico, se posso dirlo."
+
+msgctxt "828_Akiyama"
+msgid "So you care about physical fitness in addition to fashion, huh?"
+msgstr "Quindi ti interessa la forma fisica oltre alla moda, eh?"
+
+msgctxt "840_Erena"
+msgid "Of course! I want my boyfriend to like my body."
+msgstr "Certo! Voglio che al mio ragazzo piaccia il mio corpo."
+
+msgctxt "852_Akiyama"
+msgid "Heheh. You've got a really cute side to you."
+msgstr "Eheh. Hai un lato davvero carino."
+
+msgctxt "864_Akiyama"
+msgid "Your hair looks nice."
+msgstr "I tuoi capelli sono belli."
+
+msgctxt "876_Erena"
+msgid "Thanks! It's the spiky, teased, straight updo style!"
+msgstr "Grazie! È lo stile \"raccolto liscio, cotonato e appuntito\"!"
+
+msgctxt "888_Akiyama"
+msgid "The spiky teased... What now?"
+msgstr "Il cotonato appuntito... cosa?"
+
+msgctxt "900_Erena"
+msgid ""
+"Hahahah! I said, it's the spiky, teased, straight updo style! It's pretty "
+"cute, huh? I really like this hairstyle."
+msgstr ""
+"Ahahah! Ho detto, è lo stile \"raccolto liscio, cotonato e appuntito\"! È "
+"carino, no? Mi piace molto questa acconciatura."
+
+msgctxt "912_Akiyama"
+msgid ""
+"Leave it to you to have a hairstyle like that. Even the name is impressive."
+msgstr ""
+"Solo tu potevi avere un'acconciatura del genere. Persino il nome è notevole."
+
+msgctxt "924_Erena"
+msgid "Haha! Stop starin' at me like that!"
+msgstr "Ahah! Smettila di fissarmi così!"
+
+msgctxt "936_Akiyama"
+msgid "You asked me to look at you, didn't you?"
+msgstr "Mi hai chiesto tu di guardarti, no?"
+
+msgctxt "948_Erena"
+msgid "I know, but... It's starting to get a little creepy."
+msgstr "Lo so, ma... sta iniziando a diventare un po' inquietante."
+
+msgctxt "960_Akiyama"
+msgid "Well, I can see why you like to show them off."
+msgstr "Beh, capisco perché ti piace metterli in mostra."
+
+msgctxt "972_Erena"
+msgid "Right?"
+msgstr "Vero?"
+
+msgctxt "984_Erena"
+msgid ""
+"Hey! What are you lookin' at? Isn't there something about me you find "
+"attractive?"
+msgstr "Ehi! Cosa guardi? Non c'è niente in me che trovi attraente?"
+
+msgctxt "996_Akiyama"
+msgid "I didn't mean that..."
+msgstr "Non intendevo dire questo..."
+
+msgctxt "1008_Erena"
+msgid ""
+"I'm really hurt... And I really spent a lot of time making myself pretty."
+msgstr "Sono molto ferita... E ho passato un sacco di tempo a farmi bella."
+
+msgctxt "1020_Akiyama"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "1032_Akiyama"
+msgid "(Her eyes?)"
+msgstr "(I suoi occhi?)"
+
+msgctxt "1044_Akiyama"
+msgid "(Lips?)"
+msgstr "(Le labbra?)"
+
+msgctxt "1056_Akiyama"
+msgid "(Hands?)"
+msgstr "(Le mani?)"
+
+msgctxt "1068_Akiyama"
+msgid "(Legs?)"
+msgstr "(Le gambe?)"
+
+msgctxt "1080_Akiyama"
+msgid "(Hair?)"
+msgstr "(I capelli?)"
+
+msgctxt "1092_Akiyama"
+msgid "(Chest?)"
+msgstr "(Il seno?)"
+
+msgctxt "1104_Akiyama"
+msgid "(Hmm...)"
+msgstr "(Mmm...)"
+
+msgctxt "1116_Akiyama"
+msgid ""
+"I like a woman's eyes. A pretty girl's eyes are so sparkly and beautiful."
+msgstr ""
+"Mi piacciono gli occhi di una donna. Gli occhi di una bella ragazza sono "
+"così scintillanti e belli."
+
+msgctxt "1128_Erena"
+msgid ""
+"Really? Wow. I think you're the first man I met who liked women's eyes the "
+"best."
+msgstr ""
+"Davvero? Wow. Penso che tu sia il primo uomo che incontro a cui piacciono di"
+" più gli occhi delle donne."
+
+msgctxt "1140_Akiyama"
+msgid ""
+"They say that the eyes are the window to the soul, so you must have a really"
+" beautiful one."
+msgstr ""
+"Dicono che gli occhi sono lo specchio dell'anima, quindi la tua dev'essere "
+"davvero bellissima."
+
+msgctxt "1152_Erena"
+msgid "Haha! You say the nicest things sometimes!"
+msgstr "Ahah! A volte dici delle cose così carine!"
+
+msgctxt "1164_Akiyama"
+msgid "Heheh."
+msgstr "Eheh."
+
+msgctxt "1176_Akiyama"
+msgid "I like a woman's lips. Yours are very cute when you talk, you know."
+msgstr ""
+"Mi piacciono le labbra di una donna. Le tue sono molto carine quando parli, "
+"sai."
+
+msgctxt "1188_Erena"
+msgid "Really? You've been watchin' me real closely, huh?"
+msgstr "Davvero? Mi hai osservata molto attentamente, eh?"
+
+msgctxt "1200_Akiyama"
+msgid ""
+"It can be pretty sexy for a woman to have a beauty mark near her lips, too."
+msgstr ""
+"Può essere molto sexy anche per una donna avere un neo vicino alle labbra."
+
+msgctxt "1212_Erena"
+msgid "Haha! That's such a typical guy opinion!  But I know what you mean."
+msgstr "Ahah! È un'opinione tipica da uomo! Ma so cosa intendi."
+
+msgctxt "1224_Akiyama"
+msgid "Heheh."
+msgstr "Eheh."
+
+msgctxt "1236_Akiyama"
+msgid ""
+"I like a woman's hands. If her hands are pretty, the rest of her is too."
+msgstr ""
+"Mi piacciono le mani di una donna. Se le sue mani sono belle, lo è anche il "
+"resto."
+
+msgctxt "1248_Erena"
+msgid "Hands, huh? That's a little kinky."
+msgstr "Le mani, eh? Un po' perverso."
+
+msgctxt "1260_Akiyama"
+msgid "Your hands look really smooth."
+msgstr "Le tue mani sembrano molto lisce."
+
+msgctxt "1272_Erena"
+msgid "Don't you wanna hold them? Ooh, but they don't allow touching here."
+msgstr "Non vuoi tenerle in mano? Ooh, ma qui non è permesso toccare."
+
+msgctxt "1284_Akiyama"
+msgid "I like a woman's legs. There's nothing like a plump pair of thighs."
+msgstr ""
+"Mi piacciono le gambe di una donna. Non c'è niente come un bel paio di cosce"
+" tornite."
+
+msgctxt "1296_Erena"
+msgid "Hahahah! Thighs? Sometimes you sound just like a dirty old man."
+msgstr "Ahahah! Le cosce? A volte sembri proprio un vecchio sporcaccione."
+
+msgctxt "1308_Akiyama"
+msgid "Is that a problem?"
+msgstr "È un problema?"
+
+msgctxt "1320_Erena"
+msgid "No problem. But maybe I should start wearin' shorter skirts."
+msgstr ""
+"Nessun problema. Ma forse dovrei iniziare a indossare gonne più corte."
+
+msgctxt "1332_Akiyama"
+msgid ""
+"I like a woman's hair. I've always liked girls with beautiful long hair."
+msgstr ""
+"Mi piacciono i capelli di una donna. Mi sono sempre piaciute le ragazze con "
+"bei capelli lunghi."
+
+msgctxt "1344_Erena"
+msgid "Oh really? I think that might apply to me."
+msgstr "Oh davvero? Penso che potrebbe valere anche per me."
+
+msgctxt "1356_Akiyama"
+msgid ""
+"There's nothing wrong with extensions, but they can't beat a woman's natural"
+" hair."
+msgstr ""
+"Non c'è niente di male nelle extension, ma non possono battere i capelli "
+"naturali di una donna."
+
+msgctxt "1368_Erena"
+msgid "Haha! Guess you got sort of a hair fetish, huh?"
+msgstr "Ahah! Immagino tu abbia una specie di feticismo per i capelli, eh?"
+
+msgctxt "1380_Akiyama"
+msgid "I'm a chest man. But then again, aren't most men?"
+msgstr ""
+"Sono un tipo da seno. Ma d'altronde, non lo sono quasi tutti gli uomini?"
+
+msgctxt "1392_Erena"
+msgid "That's an ordinary response. But I'm not that impressive."
+msgstr "È una risposta banale. Ma io non sono così prosperosa."
+
+msgctxt "1404_Akiyama"
+msgid ""
+"Size isn't all that matters, you know. Only an amateur would think that."
+msgstr "La taglia non è tutto, sai. Solo un dilettante lo penserebbe."
+
+msgctxt "1416_Erena"
+msgid ""
+"Hahah! I suppose you're an expert, then? Sometimes men can be so silly."
+msgstr ""
+"Ahah! Immagino che tu sia un esperto, allora? A volte gli uomini sono così "
+"sciocchi."
+
+msgctxt "1428_Erena"
+msgid "Hey! What are you lookin' at?"
+msgstr "Ehi! Cosa guardi?"
+
+msgctxt "1440_Akiyama"
+msgid ""
+"I was just trying to figure out what part I like best, and I guess my mind "
+"sort of wandered off."
+msgstr ""
+"Stavo solo cercando di capire quale parte mi piace di più e immagino che la "
+"mia mente abbia divagato."
+
+msgctxt "1452_Erena"
+msgid ""
+"I should've known better than to ask something like that... I guess you had "
+"a hard time finding a part of my body that you liked."
+msgstr ""
+"Avrei dovuto immaginare che non dovevo chiedere una cosa del genere... "
+"Immagino tu abbia fatto fatica a trovare una parte del mio corpo che ti "
+"piacesse."
+
+msgctxt "1464_Akiyama"
+msgid "I'm sorry..."
+msgstr "Mi dispiace..."

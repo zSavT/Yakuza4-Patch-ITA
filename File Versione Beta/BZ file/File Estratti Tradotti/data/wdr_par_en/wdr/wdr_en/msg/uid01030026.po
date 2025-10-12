@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1300"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "232_Saejima"
+msgid "Let's pick the banker."
+msgstr "Let's pick the banker."
+
+msgctxt "244_Saejima"
+msgid "I'm banker."
+msgstr "I'm banker."
+
+msgctxt "256_Saejima"
+msgid "(How much should I wager?)"
+msgstr "(How much should I wager?)"
+
+msgctxt "268_Saejima"
+msgid "All right, here goes."
+msgstr "All right, here goes."
+
+msgctxt "280_Saejima"
+msgid "My turn."
+msgstr "My turn."
+
+msgctxt "292_Saejima"
+msgid "I'll roll again."
+msgstr "I'll roll again."
+
+msgctxt "304_Saejima"
+msgid "Time to settle up."
+msgstr "Time to settle up."
+
+msgctxt "316_Saejima"
+msgid "(You're the banker.)"
+msgstr "(You're the banker.)"
+
+msgctxt "328_Saejima"
+msgid "Let's switch bankers."
+msgstr "Let's switch bankers."
+
+msgctxt "340_Saejima"
+msgid "(Play again?)"
+msgstr "(Play again?)"
+
+msgctxt "352_Saejima"
+msgid "(I'm broke.)"
+msgstr "(I'm broke.)"
+
+msgctxt "364_Saejima"
+msgid "(Try again next time.)"
+msgstr "(Try again next time.)"

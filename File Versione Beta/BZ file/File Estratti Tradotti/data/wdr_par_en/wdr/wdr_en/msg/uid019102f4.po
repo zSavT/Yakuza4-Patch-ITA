@@ -1,0 +1,277 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8364"
+msgid "Young Man"
+msgstr "Young Man"
+
+msgctxt "8368"
+msgid "ReM_nml_yoroke_br_big"
+msgstr "ReM_nml_yoroke_br_big"
+
+msgctxt "8372"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "8376"
+msgid "Ramen Shop Manager"
+msgstr "Ramen Shop Manager"
+
+msgctxt "8380"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "8384"
+msgid "M_yng_stand"
+msgstr "M_yng_stand"
+
+msgctxt "8388"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "8392"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "8396"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "8400"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "8404"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "8408"
+msgid "Kotaro"
+msgstr "Kotaro"
+
+msgctxt "8412"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "8416"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "8420"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "8424"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "8428"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "8432"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "8436"
+msgid "Talk_SmileBig_st"
+msgstr "Talk_SmileBig_st"
+
+msgctxt "8440"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "8444"
+msgid "Talk_SmileBig_ed"
+msgstr "Talk_SmileBig_ed"
+
+msgctxt "8448"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "8452"
+msgid "Idle"
+msgstr "Idle"
+
+msgctxt "56_Young Man"
+msgid "Aaagh!"
+msgstr "Aaagh!"
+
+msgctxt "68_Young Man"
+msgid "What the hell!?"
+msgstr "What the hell!?"
+
+msgctxt "80_Ramen Shop Manager"
+msgid "You're fired! Don't come back!"
+msgstr "You're fired! Don't come back!"
+
+msgctxt "92_Young Man"
+msgid ""
+"You don't need to tell me, man! Wouldn't come back here if ya paid me "
+"anyway!"
+msgstr ""
+"You don't need to tell me, man! Wouldn't come back here if ya paid me "
+"anyway!"
+
+msgctxt "116_Young Man"
+msgid "Damn! What the hell was that about!?"
+msgstr "Damn! What the hell was that about!?"
+
+msgctxt "128_Kiryu"
+msgid "(Hey, I know that guy.)"
+msgstr "(Hey, I know that guy.)"
+
+msgctxt "140_Young Man"
+msgid "Shit. Guess I'll go back to Ibuki's place..."
+msgstr "Shit. Guess I'll go back to Ibuki's place..."
+
+msgctxt "152_Young Man"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "164_Young Man"
+msgid "Hey, aren't you...?"
+msgstr "Hey, aren't you...?"
+
+msgctxt "176_Young Man"
+msgid "Kyuri! What's up, my man?"
+msgstr "Kyuri! What's up, my man?"
+
+msgctxt "188_Kiryu"
+msgid "It's Kiryu, not Kyuri... But yeah, nice to see you, Kotaro."
+msgstr "It's Kiryu, not Kyuri... But yeah, nice to see you, Kotaro."
+
+msgctxt "200_Kotaro"
+msgid ""
+"Right, right. Kiryu-san. Sorry, man. Damn, I haven't seen you in a while."
+msgstr ""
+"Right, right. Kiryu-san. Sorry, man. Damn, I haven't seen you in a while."
+
+msgctxt "212_Kotaro"
+msgid ""
+"Not since you slapped some sense into me and I gave up the life of a hitman."
+msgstr ""
+"Not since you slapped some sense into me and I gave up the life of a hitman."
+
+msgctxt "224_Kotaro"
+msgid "How long ago was that, anyway?"
+msgstr "How long ago was that, anyway?"
+
+msgctxt "236_Kiryu"
+msgid "Heh. Just last year. Forget already?"
+msgstr "Heh. Just last year. Forget already?"
+
+msgctxt "248_Kotaro"
+msgid "Hey, details, shmetails, right? Anyway, you got some spare time?"
+msgstr "Hey, details, shmetails, right? Anyway, you got some spare time?"
+
+msgctxt "260_Kotaro"
+msgid ""
+"I was thinking I'd go see Ibuki and get a cup of tea or something. Wanna "
+"come?"
+msgstr ""
+"I was thinking I'd go see Ibuki and get a cup of tea or something. Wanna "
+"come?"
+
+msgctxt "272_Kiryu"
+msgid ""
+"Ibuki? Oh, that's right. He was that guy trying to help former members of "
+"the Tojo Clan get their lives back on track."
+msgstr ""
+"Ibuki? Oh, that's right. He was that guy trying to help former members of "
+"the Tojo Clan get their lives back on track."
+
+msgctxt "284_Kotaro"
+msgid "That's right. Ibuki, from the Honest Living Association!"
+msgstr "That's right. Ibuki, from the Honest Living Association!"
+
+msgctxt "296_Kiryu"
+msgid "Don't tell me he's still looking out for you?"
+msgstr "Don't tell me he's still looking out for you?"
+
+msgctxt "308_Kotaro"
+msgid "Yeah, I still need his help now and then."
+msgstr "Yeah, I still need his help now and then."
+
+msgctxt "320_Kotaro"
+msgid ""
+"I mean, that's what Ibuki and the HLA do, right? Help people like me get "
+"back to a good, honest life?"
+msgstr ""
+"I mean, that's what Ibuki and the HLA do, right? Help people like me get "
+"back to a good, honest life?"
+
+msgctxt "332_Kotaro"
+msgid "And my life ain't that honest yet! Hahaha!"
+msgstr "And my life ain't that honest yet! Hahaha!"
+
+msgctxt "344_Kiryu"
+msgid "I feel sorry for Ibuki."
+msgstr "I feel sorry for Ibuki."
+
+msgctxt "356_Kiryu"
+msgid "But sure. I guess I'll go say hi to him."
+msgstr "But sure. I guess I'll go say hi to him."
+
+msgctxt "368_Kotaro"
+msgid "Great! Let's get a move on!"
+msgstr "Great! Let's get a move on!"
+
+msgctxt "488_Kiryu"
+msgid ""
+"So I take it from what I saw back there that things aren't going so well in "
+"the job department?"
+msgstr ""
+"So I take it from what I saw back there that things aren't going so well in "
+"the job department?"
+
+msgctxt "500_Kotaro"
+msgid ""
+"Ha, you got that right. I dunno. It just ain't working out for some "
+"reason..."
+msgstr ""
+"Ha, you got that right. I dunno. It just ain't working out for some "
+"reason..."
+
+msgctxt "512_Kotaro"
+msgid "I always try my best, but my bosses keep getting mad and firing me."
+msgstr "I always try my best, but my bosses keep getting mad and firing me."
+
+msgctxt "524_Kotaro"
+msgid "I guess I'm just ahead of my time, you know?"
+msgstr "I guess I'm just ahead of my time, you know?"
+
+msgctxt "536_Kiryu"
+msgid ""
+"I think that's pretty unlikely... My guess is you're doing something to piss"
+" them off."
+msgstr ""
+"I think that's pretty unlikely... My guess is you're doing something to piss"
+" them off."
+
+msgctxt "548_Kotaro"
+msgid "I told you I ain't doing nothing! I swear!"
+msgstr "I told you I ain't doing nothing! I swear!"
+
+msgctxt "560_Kiryu"
+msgid "I'm not quite convinced."
+msgstr "I'm not quite convinced."
+
+msgctxt "596_Kotaro"
+msgid "Here we are!"
+msgstr "Here we are!"
+
+msgctxt "608_Kotaro"
+msgid "Hey, Ibuki! I'm thirsty! Gimme something to drink!"
+msgstr "Hey, Ibuki! I'm thirsty! Gimme something to drink!"

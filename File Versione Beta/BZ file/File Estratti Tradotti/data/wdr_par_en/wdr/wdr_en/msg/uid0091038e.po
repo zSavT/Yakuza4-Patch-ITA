@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "720"
+msgid "Police Officer"
+msgstr "Agente di Polizia"
+
+msgctxt "724"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "140_Police Officer"
+msgid "Excuse me, could you show me some form of ID?"
+msgstr "Excuse me, could you show me some form of ID?"
+
+msgctxt "152_Saejima"
+msgid "(Dammit. I'll be taken in if they question me! I gotta run!)"
+msgstr "(Dammit. I'll be taken in if they question me! I gotta run!)"
+
+msgctxt "164_Police Officer"
+msgid "Hey! Stop right there!"
+msgstr "Hey! Stop right there!"

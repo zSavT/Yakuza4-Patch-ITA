@@ -1,0 +1,265 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8456"
+msgid "松岡里緒奈：源氏名"
+msgstr "松岡里緒奈：源氏名"
+
+msgctxt "8460"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "8464"
+msgid "P_sitsofaR_tlk_yes"
+msgstr "P_sitsofaR_tlk_yes"
+
+msgctxt "8468"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "8472"
+msgid "P_sitsofaR_tlk_no"
+msgstr "P_sitsofaR_tlk_no"
+
+msgctxt "8476"
+msgid "F_cab_sitsofa_tlk_gakkariA"
+msgstr "F_cab_sitsofa_tlk_gakkariA"
+
+msgctxt "8480"
+msgid "F_cab_sitsofa_tlk_appealA"
+msgstr "F_cab_sitsofa_tlk_appealA"
+
+msgctxt "8484"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "420_松岡里緒奈：源氏名"
+msgid "I think I'm gonna change my hairstyle. What do you think?"
+msgstr "I think I'm gonna change my hairstyle. What do you think?"
+
+msgctxt "432_Player"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "444_松岡里緒奈：源氏名"
+msgid "Really? Okay then, I'll give it a try!"
+msgstr "Really? Okay then, I'll give it a try!"
+
+msgctxt "456_Player"
+msgid "I don't think that's a good idea."
+msgstr "I don't think that's a good idea."
+
+msgctxt "468_松岡里緒奈：源氏名"
+msgid "Oh... Okay. I'll keep it the way it is, then."
+msgstr "Oh... Okay. I'll keep it the way it is, then."
+
+msgctxt "480_松岡里緒奈：源氏名"
+msgid "I think I'm gonna change my hairstyle. What do you think?"
+msgstr "I think I'm gonna change my hairstyle. What do you think?"
+
+msgctxt "492_Player"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "504_松岡里緒奈：源氏名"
+msgid "Really? Okay then, I'll give it a try!"
+msgstr "Really? Okay then, I'll give it a try!"
+
+msgctxt "516_Player"
+msgid "I don't think that's a good idea."
+msgstr "I don't think that's a good idea."
+
+msgctxt "528_松岡里緒奈：源氏名"
+msgid "Oh... Okay. I'll keep it the way it is, then."
+msgstr "Oh... Okay. I'll keep it the way it is, then."
+
+msgctxt "540_松岡里緒奈：源氏名"
+msgid "I think I'm gonna change my hairstyle. What do you think?"
+msgstr "I think I'm gonna change my hairstyle. What do you think?"
+
+msgctxt "552_Player"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "564_松岡里緒奈：源氏名"
+msgid "Really? Okay then, I'll give it a try!"
+msgstr "Really? Okay then, I'll give it a try!"
+
+msgctxt "576_Player"
+msgid "I don't think that's a good idea."
+msgstr "I don't think that's a good idea."
+
+msgctxt "588_松岡里緒奈：源氏名"
+msgid "Oh... Okay. I'll keep it the way it is, then."
+msgstr "Oh... Okay. I'll keep it the way it is, then."
+
+msgctxt "600_松岡里緒奈：源氏名"
+msgid "I think I'm gonna change my hairstyle. What do you think?"
+msgstr "I think I'm gonna change my hairstyle. What do you think?"
+
+msgctxt "612_Player"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "624_松岡里緒奈：源氏名"
+msgid "Really? Okay then, I'll give it a try!"
+msgstr "Really? Okay then, I'll give it a try!"
+
+msgctxt "636_Player"
+msgid "I don't think that's a good idea."
+msgstr "I don't think that's a good idea."
+
+msgctxt "648_松岡里緒奈：源氏名"
+msgid "Oh... Okay. I'll keep it the way it is, then."
+msgstr "Oh... Okay. I'll keep it the way it is, then."
+
+msgctxt "660_松岡里緒奈：源氏名"
+msgid "I think I'm gonna change my hairstyle. What do you think?"
+msgstr "I think I'm gonna change my hairstyle. What do you think?"
+
+msgctxt "672_Player"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "684_松岡里緒奈：源氏名"
+msgid "Really? Okay then, I'll give it a try!"
+msgstr "Really? Okay then, I'll give it a try!"
+
+msgctxt "696_Player"
+msgid "I don't think that's a good idea."
+msgstr "I don't think that's a good idea."
+
+msgctxt "708_松岡里緒奈：源氏名"
+msgid "Oh... Okay. I'll keep it the way it is, then."
+msgstr "Oh... Okay. I'll keep it the way it is, then."
+
+msgctxt "720_松岡里緒奈：源氏名"
+msgid "I changed my hairstyle. What do you think?"
+msgstr "I changed my hairstyle. What do you think?"
+
+msgctxt "732_Kiryu"
+msgid "It looks great on you."
+msgstr "It looks great on you."
+
+msgctxt "744_松岡里緒奈：源氏名"
+msgid ""
+"You think so too!? I'm so happy to hear you say that! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"You think so too!? I'm so happy to hear you say that! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "756_松岡里緒奈：源氏名"
+msgid "I changed my hairstyle. What do you think?"
+msgstr "I changed my hairstyle. What do you think?"
+
+msgctxt "768_Kiryu"
+msgid "It looks great on you."
+msgstr "It looks great on you."
+
+msgctxt "780_松岡里緒奈：源氏名"
+msgid ""
+"You think so too!? I'm so happy to hear you say that! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"You think so too!? I'm so happy to hear you say that! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "792_松岡里緒奈：源氏名"
+msgid "I changed my hairstyle. What do you think?"
+msgstr "I changed my hairstyle. What do you think?"
+
+msgctxt "804_Kiryu"
+msgid "It looks great on you."
+msgstr "It looks great on you."
+
+msgctxt "816_松岡里緒奈：源氏名"
+msgid ""
+"You think so too!? I'm so happy to hear you say that! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"You think so too!? I'm so happy to hear you say that! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "828_松岡里緒奈：源氏名"
+msgid "I changed my hairstyle. What do you think?"
+msgstr "I changed my hairstyle. What do you think?"
+
+msgctxt "840_Kiryu"
+msgid "It looks great on you."
+msgstr "It looks great on you."
+
+msgctxt "852_松岡里緒奈：源氏名"
+msgid ""
+"You think so too!? I'm so happy to hear you say that! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"You think so too!? I'm so happy to hear you say that! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "864_松岡里緒奈：源氏名"
+msgid "I changed my hairstyle. What do you think?"
+msgstr "I changed my hairstyle. What do you think?"
+
+msgctxt "876_Kiryu"
+msgid "It looks great on you."
+msgstr "It looks great on you."
+
+msgctxt "888_松岡里緒奈：源氏名"
+msgid ""
+"You think so too!? I'm so happy to hear you say that! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"You think so too!? I'm so happy to hear you say that! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "900_松岡里緒奈：源氏名"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "912_松岡里緒奈：源氏名"
+msgid "Don't do it."
+msgstr "Don't do it."
+
+msgctxt "924_松岡里緒奈：源氏名"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "936_松岡里緒奈：源氏名"
+msgid "Don't do it."
+msgstr "Don't do it."
+
+msgctxt "948_松岡里緒奈：源氏名"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "960_松岡里緒奈：源氏名"
+msgid "Don't do it."
+msgstr "Don't do it."
+
+msgctxt "972_松岡里緒奈：源氏名"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "984_松岡里緒奈：源氏名"
+msgid "Don't do it."
+msgstr "Don't do it."
+
+msgctxt "996_松岡里緒奈：源氏名"
+msgid "Sounds like a good idea to me."
+msgstr "Sounds like a good idea to me."
+
+msgctxt "1008_松岡里緒奈：源氏名"
+msgid "Don't do it."
+msgstr "Don't do it."

@@ -1,0 +1,73 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1532"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1536"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "164_Akiyama"
+msgid ""
+"(I can't be going back to the office right now. I need to find Midorikawa, "
+"and get back Kido-chan and the client list...)"
+msgstr ""
+"(Non posso tornare in ufficio adesso. Devo trovare Midorikawa e recuperare "
+"Kido-chan e la lista clienti...)"
+
+msgctxt "176_Akiyama"
+msgid "(The girl we were training at Elise just disappeared.)"
+msgstr "(La ragazza che stavamo addestrando da Elise è appena scomparsa.)"
+
+msgctxt "188_Akiyama"
+msgid ""
+"(I need to find her quickly. Where would she be... Maybe where we recruited "
+"her?)"
+msgstr ""
+"(Devo trovarla in fretta. Dove potrebbe essere... Forse dove l'abbiamo "
+"reclutata?)"
+
+msgctxt "200_Akiyama"
+msgid ""
+"(The manager's asked me to go scout for him. I've got to find some potential"
+" hostesses.)"
+msgstr ""
+"(Il manager mi ha chiesto di fare un po' di scouting per lui. Devo trovare "
+"delle potenziali hostess.)"
+
+msgctxt "212_Akiyama"
+msgid "(Or should I stop recruiting for the moment?)"
+msgstr "(O dovrei smettere di reclutare per il momento?)"
+
+msgctxt "224_Akiyama"
+msgid "(I'll stop for now.)"
+msgstr "(Per ora mi fermo.)"
+
+msgctxt "248_Akiyama"
+msgid "(No, I should keep looking.)"
+msgstr "(No, dovrei continuare a cercare.)"
+
+msgctxt "272_Player"
+msgid "(Looks like it's locked.)"
+msgstr "(Sembra che sia chiuso a chiave.)"
+
+msgctxt "284_Akiyama"
+msgid "Stop Recruiting"
+msgstr "Smetti di reclutare"
+
+msgctxt "296_Akiyama"
+msgid "Continue Recruiting"
+msgstr "Continua a reclutare"

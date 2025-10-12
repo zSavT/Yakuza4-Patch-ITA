@@ -1,0 +1,73 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3748"
+msgid "Player_AORI_0.8_ON"
+msgstr "Player_AORI_0.8_ON"
+
+msgctxt "3752"
+msgid "P_stand_tlk_kyoro_lp"
+msgstr "P_stand_tlk_kyoro_lp"
+
+msgctxt "3756"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "3760"
+msgid "10_-15_SLOWER_VF_ON"
+msgstr "10_-15_SLOWER_VF_ON"
+
+msgctxt "3764"
+msgid "Player_BACK��_2.5_ON"
+msgstr "Player_BACK��_2.5_ON"
+
+msgctxt "3768"
+msgid "P_damage"
+msgstr "P_damage"
+
+msgctxt "3772"
+msgid "Idle"
+msgstr "Idle"
+
+msgctxt "3776"
+msgid "CHS_31000"
+msgstr "CHS_31000"
+
+msgctxt "3780"
+msgid "CHS_8003"
+msgstr "CHS_8003"
+
+msgctxt "172_Player_AORI_0.8_ON"
+msgid "Damn! Lost him..."
+msgstr "Damn! Lost him..."
+
+msgctxt "232_Player_AORI_0.8_ON"
+msgid "Damn! Lost him..."
+msgstr "Damn! Lost him..."
+
+msgctxt "292_Player_AORI_0.8_ON"
+msgid "*pant* *pant*"
+msgstr "*pant* *pant*"
+
+msgctxt "304_Player"
+msgid "Forget this... I can barely take another step."
+msgstr "Forget this... I can barely take another step."
+
+msgctxt "364_Player_AORI_0.8_ON"
+msgid "*pant* *pant*"
+msgstr "*pant* *pant*"
+
+msgctxt "376_Player"
+msgid "Forget this... I can barely take another step."
+msgstr "Forget this... I can barely take another step."

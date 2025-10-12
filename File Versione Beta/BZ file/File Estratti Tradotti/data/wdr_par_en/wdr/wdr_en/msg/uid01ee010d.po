@@ -1,0 +1,77 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1988"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "268_Akiyama"
+msgid "(I don't have any more business here.)"
+msgstr "(I don't have any more business here.)"
+
+msgctxt "280_Akiyama"
+msgid "(Gotta scout some girls for the club...)"
+msgstr "(Devo reclutare delle ragazze per il club...)"
+
+msgctxt "292_Akiyama"
+msgid "(Or should I stop recruiting for the moment?)"
+msgstr "(O dovrei smettere di reclutare per il momento?)"
+
+msgctxt "304_Akiyama"
+msgid "(I'll stop for now.)"
+msgstr "(Per ora mi fermo.)"
+
+msgctxt "328_Akiyama"
+msgid "(No, I should keep looking.)"
+msgstr "(No, dovrei continuare a cercare.)"
+
+msgctxt "340_Akiyama"
+msgid "(Now's not the time for this.)"
+msgstr "(Non è il momento per questo.)"
+
+msgctxt "352_Akiyama"
+msgid "(Now's not the time for this.)"
+msgstr "(Non è il momento per questo.)"
+
+msgctxt "388_Akiyama"
+msgid ""
+"(Come to think of it, I was recruiting hostesses earlier. Maybe I should try"
+" again.)"
+msgstr ""
+"(A pensarci bene, prima stavo reclutando delle hostess. Forse dovrei "
+"riprovare.)"
+
+msgctxt "400_Akiyama"
+msgid "(Okay, I'll give it another try.)"
+msgstr "(Okay, ci riprovo.)"
+
+msgctxt "424_Akiyama"
+msgid "(No, I have other things to do. I'll get back to recruiting later.)"
+msgstr "(No, ho altro da fare. Riprenderò a reclutare più tardi.)"
+
+msgctxt "436_Akiyama"
+msgid "Stop Recruiting"
+msgstr "Smetti di reclutare"
+
+msgctxt "448_Akiyama"
+msgid "Continue Recruiting"
+msgstr "Continua a reclutare"
+
+msgctxt "460_Akiyama"
+msgid "Start Recruiting Again"
+msgstr "Ricomincia a reclutare"
+
+msgctxt "472_Akiyama"
+msgid "Not Now"
+msgstr "Not Now"

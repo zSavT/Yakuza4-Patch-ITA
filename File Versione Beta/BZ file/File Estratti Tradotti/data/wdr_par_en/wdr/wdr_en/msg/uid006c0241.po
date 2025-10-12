@@ -1,0 +1,265 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "356"
+msgid "I hope we can go out to eat again sometime."
+msgstr "I hope we can go out to eat again sometime."
+
+msgctxt "524"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "848"
+msgid " Wanna go to the club now? <Color:7>♥<Color:Default>"
+msgstr "Wanna go to the club now? <Color:7>♥<Color:Default>"
+
+msgctxt "1028"
+msgid "Major error! No flags set for conversation selection!"
+msgstr "Major error! No flags set for conversation selection!"
+
+msgctxt "13560"
+msgid "Chihiro"
+msgstr "Chihiro"
+
+msgctxt "13564"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13568"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13572"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "13576"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "13580"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13584"
+msgid "0"
+msgstr ""
+
+msgctxt "13588"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "13592"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_Chihiro"
+msgid ""
+"I can't wait to eat! What should I get first? Maybe tuna? Octopus? Or salmon"
+" roe!"
+msgstr ""
+"I can't wait to eat! What should I get first? Maybe tuna? Octopus? Or salmon"
+" roe!"
+
+msgctxt "128_Talk_Yes"
+msgid "Come on, let's go inside!"
+msgstr "Come on, let's go inside!"
+
+msgctxt "152_Chihiro"
+msgid ""
+"I can't wait to eat! What should I get first? Maybe tuna? Octopus? Or salmon"
+" roe!"
+msgstr ""
+"I can't wait to eat! What should I get first? Maybe tuna? Octopus? Or salmon"
+" roe!"
+
+msgctxt "164_Player"
+msgid "Hold on a sec... Um, looks like I'm low on cash."
+msgstr "Hold on a sec... Um, looks like I'm low on cash."
+
+msgctxt "176_Chihiro"
+msgid "What? You are!?"
+msgstr "What? You are!?"
+
+msgctxt "188_Player"
+msgid "Yeah. Sorry."
+msgstr "Yeah. Sorry."
+
+msgctxt "200_Chihiro"
+msgid ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+msgstr ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+
+msgctxt "212_Player"
+msgid "(I better find some money...)"
+msgstr "(I better find some money...)"
+
+msgctxt "320_Chihiro"
+msgid "That was so yummy! I think I ate too much, though."
+msgstr "That was so yummy! I think I ate too much, though."
+
+msgctxt "332_Player"
+msgid "Heh, I'm glad you liked it."
+msgstr "Heh, I'm glad you liked it."
+
+msgctxt "344_Chihiro"
+msgid "Thank you."
+msgstr "Grazie."
+
+msgctxt "368_Talk_Ojigi"
+msgid "See you at the club! <Color:7>♥<Color:Default>"
+msgstr "See you at the club! <Color:7>♥<Color:Default>"
+
+msgctxt "392_Chihiro"
+msgid "That was great kappamaki. I haven't eaten like that in a while."
+msgstr "That was great kappamaki. I haven't eaten like that in a while."
+
+msgctxt "404_Player"
+msgid "Heh, that's good."
+msgstr "Heh, that's good."
+
+msgctxt "416_Chihiro"
+msgid "I'll see you at the club!"
+msgstr "I'll see you at the club!"
+
+msgctxt "440_Chihiro"
+msgid "......"
+msgstr "......"
+
+msgctxt "452_Player"
+msgid "What's wrong?"
+msgstr "Che succede?"
+
+msgctxt "464_Chihiro"
+msgid "I didn't really care for the food..."
+msgstr "I didn't really care for the food..."
+
+msgctxt "476_Player"
+msgid "You didn't? Oh..."
+msgstr "You didn't? Oh..."
+
+msgctxt "488_Chihiro"
+msgid "Well, I should be going. I'll see you at the club."
+msgstr "Well, I should be going. I'll see you at the club."
+
+msgctxt "500_Player"
+msgid "(I guess she didn't like the food...)"
+msgstr "(I guess she didn't like the food...)"
+
+msgctxt "608_Chihiro"
+msgid ""
+"I can't wait to eat! What should I get first? Maybe tuna? Octopus? Or salmon"
+" roe!"
+msgstr ""
+"I can't wait to eat! What should I get first? Maybe tuna? Octopus? Or salmon"
+" roe!"
+
+msgctxt "620_Talk_Yes"
+msgid "Come on, let's go inside!"
+msgstr "Come on, let's go inside!"
+
+msgctxt "644_Chihiro"
+msgid ""
+"I can't wait to eat! What should I get first? Maybe tuna? Octopus? Or salmon"
+" roe!"
+msgstr ""
+"I can't wait to eat! What should I get first? Maybe tuna? Octopus? Or salmon"
+" roe!"
+
+msgctxt "656_Player"
+msgid "Hold on a sec... Um, looks like I'm low on cash."
+msgstr "Hold on a sec... Um, looks like I'm low on cash."
+
+msgctxt "668_Chihiro"
+msgid "What? You are!?"
+msgstr "What? You are!?"
+
+msgctxt "680_Player"
+msgid "Yeah. Sorry."
+msgstr "Yeah. Sorry."
+
+msgctxt "692_Chihiro"
+msgid ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+msgstr ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+
+msgctxt "704_Player"
+msgid "(I better find some money...)"
+msgstr "(I better find some money...)"
+
+msgctxt "812_Chihiro"
+msgid "That was so yummy! I think I ate too much, though."
+msgstr "That was so yummy! I think I ate too much, though."
+
+msgctxt "824_Player"
+msgid "Heh, I'm glad you liked it."
+msgstr "Heh, I'm glad you liked it."
+
+msgctxt "836_Chihiro"
+msgid "Thank you. I hope we can go out to eat again sometime."
+msgstr "Thank you. I hope we can go out to eat again sometime."
+
+msgctxt "860_Player"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "884_Chihiro"
+msgid "That was great kappamaki. I haven't eaten like that in a while."
+msgstr "That was great kappamaki. I haven't eaten like that in a while."
+
+msgctxt "896_Player"
+msgid "Heh, that's good."
+msgstr "Heh, that's good."
+
+msgctxt "908_Chihiro"
+msgid "Wanna go to the club now?"
+msgstr "Wanna go to the club now?"
+
+msgctxt "920_Player"
+msgid "Sure."
+msgstr "Sure."
+
+msgctxt "944_Chihiro"
+msgid "......"
+msgstr "......"
+
+msgctxt "956_Player"
+msgid "What's wrong?"
+msgstr "Che succede?"
+
+msgctxt "968_Chihiro"
+msgid "I didn't really care for the food..."
+msgstr "I didn't really care for the food..."
+
+msgctxt "980_Player"
+msgid "You didn't? Oh..."
+msgstr "You didn't? Oh..."
+
+msgctxt "992_Chihiro"
+msgid "Let's just head to the club."
+msgstr "Let's just head to the club."
+
+msgctxt "1004_Player"
+msgid "(I guess she didn't like the food...)"
+msgstr "(I guess she didn't like the food...)"

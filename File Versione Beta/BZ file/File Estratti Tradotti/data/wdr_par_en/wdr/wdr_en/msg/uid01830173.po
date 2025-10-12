@@ -1,0 +1,227 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "292"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr "You got <Color:8>Haruka's Necklace<Color:Default>."
+
+msgctxt "352"
+msgid ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han."
+msgstr ""
+"Haruka will now occasionally predict the outcome of a round when you are "
+"playing cho-han."
+
+msgctxt "400"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr "You got <Color:8>Haruka's Lunch<Color:Default>."
+
+msgctxt "460"
+msgid "You got <Color:8>Haruka's First-aid Kit<Color:Default>."
+msgstr "You got <Color:8>Haruka's First-aid Kit<Color:Default>."
+
+msgctxt "520"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr "You got a <Color:8>Red Jewel<Color:Default>."
+
+msgctxt "580"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr "You got <Color:8>Haruka's Amulet<Color:Default>."
+
+msgctxt "640"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr "You got <Color:8>Haruka's Chocolate<Color:Default>."
+
+msgctxt "700"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr "You got <Color:8>Haruka's Candy<Color:Default>."
+
+msgctxt "10304"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "10308"
+msgid "HAL_stand_tlk_happy_big"
+msgstr "HAL_stand_tlk_happy_big"
+
+msgctxt "10312"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "10316"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "10320"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "10324"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "10328"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "10332"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "10336"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "136_Haruka"
+msgid "Yay! We got a big one!"
+msgstr "Yay! We got a big one!"
+
+msgctxt "172_Kiryu"
+msgid "(Haruka sure is happy...)"
+msgstr "(Haruka sure is happy...)"
+
+msgctxt "208_Kiryu"
+msgid "(Haruka sure is happy...)"
+msgstr "(Haruka sure is happy...)"
+
+msgctxt "280_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "340_Haruka"
+msgid ""
+"Thanks a ton, Uncle Kaz! I wanna come to play cho-han with you next time, "
+"okay?"
+msgstr ""
+"Thanks a ton, Uncle Kaz! I wanna come to play cho-han with you next time, "
+"okay?"
+
+msgctxt "388_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "448_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "508_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "568_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "628_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "688_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Thanks a ton, Uncle Kaz! I have a present for you!"
+
+msgctxt "748_Haruka"
+msgid ""
+"No luck? Don't worry, Uncle Kaz, it's just one of those days! After all, the"
+" sea is a living creature!"
+msgstr ""
+"No luck? Don't worry, Uncle Kaz, it's just one of those days! After all, the"
+" sea is a living creature!"
+
+msgctxt "808_Haruka"
+msgid ""
+"Uncle Kaz! Can you catch a <Color:8>Marlin<Color:Default>? Everybody at "
+"Morning Glory loves fish, you know."
+msgstr ""
+"Uncle Kaz! Can you catch a <Color:8>Marlin<Color:Default>? Everybody at "
+"Morning Glory loves fish, you know."
+
+msgctxt "820_Kiryu"
+msgid "Believe me, I know. So, how can I catch one?"
+msgstr "Believe me, I know. So, how can I catch one?"
+
+msgctxt "832_Haruka"
+msgid ""
+"Good question! Apparently they live between 120 and 150 meters from the "
+"shore."
+msgstr ""
+"Good question! Apparently they live between 120 and 150 meters from the "
+"shore."
+
+msgctxt "844_Kiryu"
+msgid ""
+"Huh, is that right? That's pretty far. And what kind of bait do they like?"
+msgstr ""
+"Huh, is that right? That's pretty far. And what kind of bait do they like?"
+
+msgctxt "856_Haruka"
+msgid "Bait... Bait... Hmm... I don't know."
+msgstr "Bait... Bait... Hmm... I don't know."
+
+msgctxt "868_Kiryu"
+msgid "Huh... It must be a hard fish to catch, then."
+msgstr "Huh... It must be a hard fish to catch, then."
+
+msgctxt "880_Haruka"
+msgid "I'm sorry, Uncle Kaz. I should've done more research."
+msgstr "I'm sorry, Uncle Kaz. I should've done more research."
+
+msgctxt "892_Kiryu"
+msgid ""
+"Heh. Don't worry about it. A <Color:8>Marlin<Color:Default>, huh? This "
+"should be a good challenge."
+msgstr ""
+"Heh. Don't worry about it. A <Color:8>Marlin<Color:Default>, huh? This "
+"should be a good challenge."
+
+msgctxt "916_Haruka"
+msgid ""
+"Uncle Kaz, I heard you can catch <Color:8>Giant Crabs<Color:Default> around "
+"here. I'd love to bring one back as a present."
+msgstr ""
+"Uncle Kaz, I heard you can catch <Color:8>Giant Crabs<Color:Default> around "
+"here. I'd love to bring one back as a present."
+
+msgctxt "928_Kiryu"
+msgid "<Color:8>Giant Crabs<Color:Default>, huh? How can I catch one?"
+msgstr "<Color:8>Giant Crabs<Color:Default>, huh? How can I catch one?"
+
+msgctxt "940_Haruka"
+msgid "Well, apparently they live between 100 and 150 meters from the shore."
+msgstr "Well, apparently they live between 100 and 150 meters from the shore."
+
+msgctxt "952_Kiryu"
+msgid ""
+"Huh, is that right? That's pretty far. And what kind of bait do they like?"
+msgstr ""
+"Huh, is that right? That's pretty far. And what kind of bait do they like?"
+
+msgctxt "964_Haruka"
+msgid ""
+"Hmmm. They like things like <Color:8>Vinegar Squid<Color:Default> and "
+"<Color:8>Manila Clam<Color:Default>. Oh, and I heard you can catch them with"
+" <Color:8>Chili Peppers<Color:Default>, too."
+msgstr ""
+"Hmmm. They like things like <Color:8>Vinegar Squid<Color:Default> and "
+"<Color:8>Manila Clam<Color:Default>. Oh, and I heard you can catch them with"
+" <Color:8>Chili Peppers<Color:Default>, too."
+
+msgctxt "976_Kiryu"
+msgid ""
+"Heh. You sure know your stuff. A <Color:8>Giant Crab<Color:Default>, huh? I "
+"feel like I can fish one up."
+msgstr ""
+"Heh. You sure know your stuff. A <Color:8>Giant Crab<Color:Default>, huh? I "
+"feel like I can fish one up."

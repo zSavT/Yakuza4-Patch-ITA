@@ -1,0 +1,785 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "26360"
+msgid "Baby"
+msgstr "Baby"
+
+msgctxt "26364"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "26368"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "26372"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "26376"
+msgid "M_nml_stand_tlk_baby_bero"
+msgstr "M_nml_stand_tlk_baby_bero"
+
+msgctxt "26380"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "26384"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "26388"
+msgid "Talk_Kosite_ed"
+msgstr "Talk_Kosite_ed"
+
+msgctxt "26392"
+msgid "M_nml_stand_tlk_baby_takai"
+msgstr "M_nml_stand_tlk_baby_takai"
+
+msgctxt "26396"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "26400"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "26404"
+msgid "P_stand_tlk_baby_no"
+msgstr "P_stand_tlk_baby_no"
+
+msgctxt "26408"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "26412"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "26416"
+msgid "P_stand_tlk_shikaru"
+msgstr "P_stand_tlk_shikaru"
+
+msgctxt "26420"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "26424"
+msgid "M_nml_stand_tlk_baby_send"
+msgstr "M_nml_stand_tlk_baby_send"
+
+msgctxt "26428"
+msgid "P_stand_tlk_baby_get"
+msgstr "P_stand_tlk_baby_get"
+
+msgctxt "26432"
+msgid "P_stand_tlk_baby_kamae"
+msgstr "P_stand_tlk_baby_kamae"
+
+msgctxt "26436"
+msgid "P_stand_tlk_baby_kamae_bero"
+msgstr "P_stand_tlk_baby_kamae_bero"
+
+msgctxt "26440"
+msgid "P_stand_tlk_baby_yes"
+msgstr "P_stand_tlk_baby_yes"
+
+msgctxt "26444"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "26448"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "26452"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "26456"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "348_Baby"
+msgid "Waaaaah! Waaaaah!"
+msgstr "Waaaaah! Waaaaah!"
+
+msgctxt "360_Date"
+msgid "C'mon, kid! Be good and stop crying, will ya?"
+msgstr "C'mon, kid! Be good and stop crying, will ya?"
+
+msgctxt "372_Akiyama"
+msgid "I dunno if you can reason with a baby..."
+msgstr "I dunno if you can reason with a baby..."
+
+msgctxt "384_Baby"
+msgid "Waaaaah! Waaaaah!"
+msgstr "Waaaaah! Waaaaah!"
+
+msgctxt "396_Date"
+msgid "Look! Ooga booga booga!"
+msgstr "Look! Ooga booga booga!"
+
+msgctxt "408_Saejima"
+msgid "You gotta be kiddin' me."
+msgstr "You gotta be kiddin' me."
+
+msgctxt "420_Baby"
+msgid "Waaaaah! Waaaaah!"
+msgstr "Waaaaah! Waaaaah!"
+
+msgctxt "432_Date"
+msgid "Woo! Upsy-daisy!"
+msgstr "Woo! Upsy-daisy!"
+
+msgctxt "444_Tanimura"
+msgid "Heh."
+msgstr "Heh."
+
+msgctxt "456_Baby"
+msgid "Waaaaah! Waaaaah!"
+msgstr "Waaaaah! Waaaaah!"
+
+msgctxt "468_Date"
+msgid ""
+"Man... I don't even know how to start with this one. This is\r\n"
+"tougher than any case I've ever handled."
+msgstr ""
+"Man... I don't even know how to start with this one. This is\r\n"
+"tougher than any case I've ever handled."
+
+msgctxt "480_Kiryu"
+msgid "Date-san, what's all the noise?"
+msgstr "Date-san, what's all the noise?"
+
+msgctxt "492_Date"
+msgid "Kiryu! Just the guy I wanted to see!"
+msgstr "Kiryu! Just the guy I wanted to see!"
+
+msgctxt "504_Date"
+msgid ""
+"I'm in a real bind here! Think you can get this kid to shut\r\n"
+"up for me?"
+msgstr ""
+"I'm in a real bind here! Think you can get this kid to shut\r\n"
+"up for me?"
+
+msgctxt "516_Kiryu"
+msgid "Me? I don't know what to do with a baby! Whose kid is it, anyway?"
+msgstr "Me? I don't know what to do with a baby! Whose kid is it, anyway?"
+
+msgctxt "528_Date"
+msgid ""
+"We can talk about that later! I've just about gone deaf from\r\n"
+"an hour of this damn crying! Just take him!"
+msgstr ""
+"We can talk about that later! I've just about gone deaf from\r\n"
+"an hour of this damn crying! Just take him!"
+
+msgctxt "540_Kiryu"
+msgid "What makes you think I'll do any better?"
+msgstr "What makes you think I'll do any better?"
+
+msgctxt "552_Date"
+msgid ""
+"You've got an orphanage, don't you? You probably deal with\r\n"
+"this stuff all the time!"
+msgstr ""
+"You've got an orphanage, don't you? You probably deal with\r\n"
+"this stuff all the time!"
+
+msgctxt "564_Kiryu"
+msgid "I mean, yeah... but they're grade schoolers."
+msgstr "I mean, yeah... but they're grade schoolers."
+
+msgctxt "576_Date"
+msgid "Grade schoolers, babies, what's the difference? Just take him!"
+msgstr "Grade schoolers, babies, what's the difference? Just take him!"
+
+msgctxt "588_Kiryu"
+msgid ""
+"Hold on. You already went through all this when you had your\r\n"
+"daughter. You should know way more than I do!"
+msgstr ""
+"Hold on. You already went through all this when you had your\r\n"
+"daughter. You should know way more than I do!"
+
+msgctxt "600_Date"
+msgid ""
+"Yeah, and if I were any good at taking care of kids, I'd still be happily "
+"married."
+msgstr ""
+"Yeah, and if I were any good at taking care of kids, I'd still be happily "
+"married."
+
+msgctxt "612_Kiryu"
+msgid "...Guess you have a point."
+msgstr "...Guess you have a point."
+
+msgctxt "624_Date"
+msgid "Well then, just give it up and take him!"
+msgstr "Well then, just give it up and take him!"
+
+msgctxt "708_Kiryu"
+msgid "Here we go..."
+msgstr "Here we go..."
+
+msgctxt "720_Baby"
+msgid "Waaaaah! Waaaaah!"
+msgstr "Waaaaah! Waaaaah!"
+
+msgctxt "732_Kiryu"
+msgid "...Peekaboo! I see you!"
+msgstr "...Peekaboo! I see you!"
+
+msgctxt "744_Baby"
+msgid "Waaaaah! Waaaaah!"
+msgstr "Waaaaah! Waaaaah!"
+
+msgctxt "792_Date"
+msgid "Even you can't do it, Kiryu? This is impossible..."
+msgstr "Even you can't do it, Kiryu? This is impossible..."
+
+msgctxt "804_Kiryu"
+msgid "(There must be some reason he's crying.)"
+msgstr "(There must be some reason he's crying.)"
+
+msgctxt "816_Kiryu"
+msgid ""
+"You said he's been crying for an hour, right? He's probably\r\n"
+"hungry."
+msgstr ""
+"You said he's been crying for an hour, right? He's probably\r\n"
+"hungry."
+
+msgctxt "828_Date"
+msgid "Hey, good thinking! I'll go get some food for him!"
+msgstr "Hey, good thinking! I'll go get some food for him!"
+
+msgctxt "840_Kiryu"
+msgid "Hold on, Date. What are you gonna get?"
+msgstr "Hold on, Date. What are you gonna get?"
+
+msgctxt "852_Date"
+msgid "Well, he's a baby, so... milk? That sounds right, I think."
+msgstr "Well, he's a baby, so... milk? That sounds right, I think."
+
+msgctxt "864_Kiryu"
+msgid "(Milk, huh?)"
+msgstr "(Milk, huh?)"
+
+msgctxt "876_Kiryu"
+msgid "Good call, Date-san. See, you do know something about kids."
+msgstr "Good call, Date-san. See, you do know something about kids."
+
+msgctxt "888_Date"
+msgid "Heh, yeah. Guess I do. Be back soon!"
+msgstr "Heh, yeah. Guess I do. Be back soon!"
+
+msgctxt "948_Date"
+msgid "Kiryu!"
+msgstr "Kiryu!"
+
+msgctxt "960_Kiryu"
+msgid "Did you get the milk?"
+msgstr "Did you get the milk?"
+
+msgctxt "972_Date"
+msgid "You kidding? I looked like an idiot out there!"
+msgstr "You kidding? I looked like an idiot out there!"
+
+msgctxt "984_Kiryu"
+msgid "What do you mean?"
+msgstr "What do you mean?"
+
+msgctxt "996_Date"
+msgid ""
+"When I told the store clerk I was getting milk for my kid,\r\n"
+"she told me a baby shouldn't be drinking cow milk at this\r\n"
+"age!"
+msgstr ""
+"When I told the store clerk I was getting milk for my kid,\r\n"
+"she told me a baby shouldn't be drinking cow milk at this\r\n"
+"age!"
+
+msgctxt "1008_Date"
+msgid ""
+"So I ended up buying formula instead. I'm glad at least\r\n"
+"someone knows what they're talking about around here."
+msgstr ""
+"So I ended up buying formula instead. I'm glad at least\r\n"
+"someone knows what they're talking about around here."
+
+msgctxt "1020_Kiryu"
+msgid "Hm. I hadn't heard that before."
+msgstr "Hm. I hadn't heard that before."
+
+msgctxt "1032_Date"
+msgid ""
+"I feel sorry for your kids, then. What kind of orphanage are\r\n"
+"you running?"
+msgstr ""
+"I feel sorry for your kids, then. What kind of orphanage are\r\n"
+"you running?"
+
+msgctxt "1044_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "1056_Date"
+msgid "Anyway, enough chitchat. I'd better get the formula ready!"
+msgstr "Anyway, enough chitchat. I'd better get the formula ready!"
+
+msgctxt "1116_Kiryu"
+msgid "That's not quite right."
+msgstr "That's not quite right."
+
+msgctxt "1128_Date"
+msgid "Wait, what? I thought all babies drink milk!"
+msgstr "Wait, what? I thought all babies drink milk!"
+
+msgctxt "1140_Kiryu"
+msgid ""
+"Yeah, from their mother. He's too young for cow's milk. You\r\n"
+"need to get him some baby formula."
+msgstr ""
+"Yeah, from their mother. He's too young for cow's milk. You\r\n"
+"need to get him some baby formula."
+
+msgctxt "1152_Date"
+msgid "Oh, nice thinking! Thanks, Kiryu! Be back in a jiff!"
+msgstr "Oh, nice thinking! Thanks, Kiryu! Be back in a jiff!"
+
+msgctxt "1164_Kiryu"
+msgid ""
+"(I'd never have known that if Haruka hadn't told me. Good thing she's a "
+"smart kid.)"
+msgstr ""
+"(I'd never have known that if Haruka hadn't told me. Good thing she's a "
+"smart kid.)"
+
+msgctxt "1224_Date"
+msgid "I got it!"
+msgstr "I got it!"
+
+msgctxt "1236_Kiryu"
+msgid "Great, let's give him some."
+msgstr "Great, let's give him some."
+
+msgctxt "1284_Baby"
+msgid "Waaaaah! Waaaaah!"
+msgstr "Waaaaah! Waaaaah!"
+
+msgctxt "1296_Kiryu"
+msgid "That... didn't work."
+msgstr "That... didn't work."
+
+msgctxt "1308_Date"
+msgid "What the heck? Why won't he stop crying!?"
+msgstr "What the heck? Why won't he stop crying!?"
+
+msgctxt "1320_Kiryu"
+msgid "I wish I could tell you."
+msgstr "I wish I could tell you."
+
+msgctxt "1332_Date"
+msgid ""
+"Ugh, I could've sworn he'd calm down if we just gave him\r\n"
+"some food. What else can we try?"
+msgstr ""
+"Ugh, I could've sworn he'd calm down if we just gave him\r\n"
+"some food. What else can we try?"
+
+msgctxt "1344_Kiryu"
+msgid "Hm..."
+msgstr "Hm..."
+
+msgctxt "1356_Kiryu"
+msgid "(There must be some reason he's crying.)"
+msgstr "(There must be some reason he's crying.)"
+
+msgctxt "1368_Kiryu"
+msgid ""
+"You said he's been crying for an hour, right? He probably\r\n"
+"just needs a nap."
+msgstr ""
+"You said he's been crying for an hour, right? He probably\r\n"
+"just needs a nap."
+
+msgctxt "1380_Date"
+msgid ""
+"What, you think it's because he's tired? Can't he just stop\r\n"
+"crying and go to sleep, then?"
+msgstr ""
+"What, you think it's because he's tired? Can't he just stop\r\n"
+"crying and go to sleep, then?"
+
+msgctxt "1392_Kiryu"
+msgid ""
+"You really don't know the first thing about kids, Date-san.\r\n"
+"If you don't make a baby feel like he's back in his mother's\r\n"
+"womb, he'll never be able to sleep."
+msgstr ""
+"You really don't know the first thing about kids, Date-san.\r\n"
+"If you don't make a baby feel like he's back in his mother's\r\n"
+"womb, he'll never be able to sleep."
+
+msgctxt "1404_Kiryu"
+msgid ""
+"On that note, it's way too cold in here. Think you can turn\r\n"
+"the heat up?"
+msgstr ""
+"On that note, it's way too cold in here. Think you can turn\r\n"
+"the heat up?"
+
+msgctxt "1416_Date"
+msgid "Yeah, one sec! How do you know all that, Kiryu!?"
+msgstr "Yeah, one sec! How do you know all that, Kiryu!?"
+
+msgctxt "1464_Kiryu"
+msgid "♪Nagareyuku... Yoru no chou...♪"
+msgstr "♪Nagareyuku... Yoru no chou...♪"
+
+msgctxt "1476_Date"
+msgid ""
+"...Are you seriously singing Kamurocho Lullaby? Don't you have anything "
+"better?"
+msgstr ""
+"...Are you seriously singing Kamurocho Lullaby? Don't you have anything "
+"better?"
+
+msgctxt "1488_Kiryu"
+msgid "It'll work. Just wait."
+msgstr "It'll work. Just wait."
+
+msgctxt "1500_Baby"
+msgid "Waaaaah! Waaaaah!"
+msgstr "Waaaaah! Waaaaah!"
+
+msgctxt "1512_Date"
+msgid "Kiryu..."
+msgstr "Kiryu..."
+
+msgctxt "1524_Baby"
+msgid "Waaaaah! Waaaaah!"
+msgstr "Waaaaah! Waaaaah!"
+
+msgctxt "1536_Date"
+msgid "Kiryu, it's not working."
+msgstr "Kiryu, it's not working."
+
+msgctxt "1548_Kiryu"
+msgid "Maybe he wasn't sleepy after all..."
+msgstr "Maybe he wasn't sleepy after all..."
+
+msgctxt "1560_Kiryu"
+msgid "(There must be some reason he's crying.)"
+msgstr "(There must be some reason he's crying.)"
+
+msgctxt "1572_Kiryu"
+msgid ""
+"You said he's been crying for an hour, right? He probably\r\n"
+"just needs a nap."
+msgstr ""
+"You said he's been crying for an hour, right? He probably\r\n"
+"just needs a nap."
+
+msgctxt "1584_Date"
+msgid ""
+"What, you think it's because he's tired? Can't he just stop\r\n"
+"crying and go to sleep, then?"
+msgstr ""
+"What, you think it's because he's tired? Can't he just stop\r\n"
+"crying and go to sleep, then?"
+
+msgctxt "1596_Kiryu"
+msgid ""
+"You really don't know the first thing about kids, Date-san.\r\n"
+"If you don't make a baby feel like he's back in his mother's\r\n"
+"womb, he'll never be able to sleep."
+msgstr ""
+"You really don't know the first thing about kids, Date-san.\r\n"
+"If you don't make a baby feel like he's back in his mother's\r\n"
+"womb, he'll never be able to sleep."
+
+msgctxt "1608_Kiryu"
+msgid ""
+"On that note, it's way too cold in here. Think you can turn\r\n"
+"the heat up?"
+msgstr ""
+"On that note, it's way too cold in here. Think you can turn\r\n"
+"the heat up?"
+
+msgctxt "1620_Date"
+msgid "Yeah, one sec! How do you know all that, Kiryu!?"
+msgstr "Yeah, one sec! How do you know all that, Kiryu!?"
+
+msgctxt "1668_Kiryu"
+msgid "♪Nagareyuku... Yoru no chou...♪"
+msgstr "♪Nagareyuku... Yoru no chou...♪"
+
+msgctxt "1680_Date"
+msgid ""
+"...Are you seriously singing Kamurocho Lullaby? Don't you have anything "
+"better?"
+msgstr ""
+"...Are you seriously singing Kamurocho Lullaby? Don't you have anything "
+"better?"
+
+msgctxt "1692_Kiryu"
+msgid "It'll work. Just wait."
+msgstr "It'll work. Just wait."
+
+msgctxt "1704_Baby"
+msgid "Waaaaah! Waaaaah!"
+msgstr "Waaaaah! Waaaaah!"
+
+msgctxt "1716_Date"
+msgid "Kiryu..."
+msgstr "Kiryu..."
+
+msgctxt "1728_Baby"
+msgid "Waaaaah! Waaaaah!"
+msgstr "Waaaaah! Waaaaah!"
+
+msgctxt "1740_Date"
+msgid "Kiryu, it's not working."
+msgstr "Kiryu, it's not working."
+
+msgctxt "1752_Kiryu"
+msgid "Maybe he wasn't sleepy after all..."
+msgstr "Maybe he wasn't sleepy after all..."
+
+msgctxt "1764_Kiryu"
+msgid "(There must be some reason he's crying.)"
+msgstr "(There must be some reason he's crying.)"
+
+msgctxt "1776_Kiryu"
+msgid ""
+"You said he's been crying for an hour, right? He's probably\r\n"
+"hungry."
+msgstr ""
+"You said he's been crying for an hour, right? He's probably\r\n"
+"hungry."
+
+msgctxt "1788_Date"
+msgid "Hey, good thinking! I'll go get some food for him!"
+msgstr "Hey, good thinking! I'll go get some food for him!"
+
+msgctxt "1800_Kiryu"
+msgid "Hold on, Date. What are you gonna get?"
+msgstr "Hold on, Date. What are you gonna get?"
+
+msgctxt "1812_Date"
+msgid "Well, he's a baby, so... milk? That sounds right, I think."
+msgstr "Well, he's a baby, so... milk? That sounds right, I think."
+
+msgctxt "1824_Kiryu"
+msgid "(Milk, huh?)"
+msgstr "(Milk, huh?)"
+
+msgctxt "1836_Kiryu"
+msgid "Good call, Date-san. See, you do know something about kids."
+msgstr "Good call, Date-san. See, you do know something about kids."
+
+msgctxt "1848_Date"
+msgid "Heh, yeah. Guess I do. Be back soon!"
+msgstr "Heh, yeah. Guess I do. Be back soon!"
+
+msgctxt "1908_Date"
+msgid "Kiryu!"
+msgstr "Kiryu!"
+
+msgctxt "1920_Kiryu"
+msgid "Did you get the milk?"
+msgstr "Did you get the milk?"
+
+msgctxt "1932_Date"
+msgid "You kidding? I looked like an idiot out there!"
+msgstr "You kidding? I looked like an idiot out there!"
+
+msgctxt "1944_Kiryu"
+msgid "What do you mean?"
+msgstr "What do you mean?"
+
+msgctxt "1956_Date"
+msgid ""
+"When I told the store clerk I was getting milk for my kid,\r\n"
+"she told me a baby shouldn't be drinking cow milk at this\r\n"
+"age!"
+msgstr ""
+"When I told the store clerk I was getting milk for my kid,\r\n"
+"she told me a baby shouldn't be drinking cow milk at this\r\n"
+"age!"
+
+msgctxt "1968_Date"
+msgid ""
+"So I ended up buying formula instead. I'm glad at least\r\n"
+"someone knows what they're talking about around here."
+msgstr ""
+"So I ended up buying formula instead. I'm glad at least\r\n"
+"someone knows what they're talking about around here."
+
+msgctxt "1980_Kiryu"
+msgid "Hm. I hadn't heard that before."
+msgstr "Hm. I hadn't heard that before."
+
+msgctxt "1992_Date"
+msgid ""
+"I feel sorry for your kids, then. What kind of orphanage are\r\n"
+"you running?"
+msgstr ""
+"I feel sorry for your kids, then. What kind of orphanage are\r\n"
+"you running?"
+
+msgctxt "2004_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "2016_Date"
+msgid "Anyway, enough chitchat. I'd better get the formula ready!"
+msgstr "Anyway, enough chitchat. I'd better get the formula ready!"
+
+msgctxt "2076_Kiryu"
+msgid "That's not quite right."
+msgstr "That's not quite right."
+
+msgctxt "2088_Date"
+msgid "Wait, what? I thought all babies drink milk!"
+msgstr "Wait, what? I thought all babies drink milk!"
+
+msgctxt "2100_Kiryu"
+msgid ""
+"Yeah, from their mother. He's too young for cow's milk. You\r\n"
+"need to get him some baby formula."
+msgstr ""
+"Yeah, from their mother. He's too young for cow's milk. You\r\n"
+"need to get him some baby formula."
+
+msgctxt "2112_Date"
+msgid "Oh, nice thinking! Thanks, Kiryu! Be back in a jiff!"
+msgstr "Oh, nice thinking! Thanks, Kiryu! Be back in a jiff!"
+
+msgctxt "2124_Kiryu"
+msgid ""
+"(I'd never have known that if Haruka hadn't told me. Good thing she's a "
+"smart kid.)"
+msgstr ""
+"(I'd never have known that if Haruka hadn't told me. Good thing she's a "
+"smart kid.)"
+
+msgctxt "2184_Date"
+msgid "I got it!"
+msgstr "I got it!"
+
+msgctxt "2196_Kiryu"
+msgid "Great, let's give him some."
+msgstr "Great, let's give him some."
+
+msgctxt "2244_Baby"
+msgid "Waaaaah! Waaaaah!"
+msgstr "Waaaaah! Waaaaah!"
+
+msgctxt "2256_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "2268_Date"
+msgid "What the heck? Why won't he stop crying!?"
+msgstr "What the heck? Why won't he stop crying!?"
+
+msgctxt "2280_Kiryu"
+msgid "I wish I could tell you."
+msgstr "I wish I could tell you."
+
+msgctxt "2292_Date"
+msgid ""
+"Ugh, I could've sworn he'd calm down if we just gave him\r\n"
+"some food. What else can we try?"
+msgstr ""
+"Ugh, I could've sworn he'd calm down if we just gave him\r\n"
+"some food. What else can we try?"
+
+msgctxt "2304_Kiryu"
+msgid "Hm..."
+msgstr "Hm..."
+
+msgctxt "2316_Kiryu"
+msgid "(There must be some reason he's crying.)"
+msgstr "(There must be some reason he's crying.)"
+
+msgctxt "2328_Kiryu"
+msgid ""
+"Have you checked his diaper, Date-san? It's a pretty common\r\n"
+"reason for babies to cry."
+msgstr ""
+"Have you checked his diaper, Date-san? It's a pretty common\r\n"
+"reason for babies to cry."
+
+msgctxt "2340_Date"
+msgid "Hey, that could be it! I didn't think of that!"
+msgstr "Hey, that could be it! I didn't think of that!"
+
+msgctxt "2364_Baby"
+msgid "Maybe he's hungry."
+msgstr "Maybe he's hungry."
+
+msgctxt "2376_Baby"
+msgid "Maybe his diaper is dirty."
+msgstr "Maybe his diaper is dirty."
+
+msgctxt "2388_Baby"
+msgid "Maybe he's tired."
+msgstr "Maybe he's tired."
+
+msgctxt "2400_Baby"
+msgid "Good call."
+msgstr "Good call."
+
+msgctxt "2412_Baby"
+msgid "That's not quite right."
+msgstr "That's not quite right."
+
+msgctxt "2424_Baby"
+msgid "Maybe his diaper is dirty."
+msgstr "Maybe his diaper is dirty."
+
+msgctxt "2436_Baby"
+msgid "Maybe he's tired."
+msgstr "Maybe he's tired."
+
+msgctxt "2448_Baby"
+msgid "Maybe his diaper is dirty."
+msgstr "Maybe his diaper is dirty."
+
+msgctxt "2460_Baby"
+msgid "Maybe he's hungry."
+msgstr "Maybe he's hungry."
+
+msgctxt "2472_Baby"
+msgid "Maybe his diaper is dirty."
+msgstr "Maybe his diaper is dirty."
+
+msgctxt "2484_Baby"
+msgid "Good call."
+msgstr "Good call."
+
+msgctxt "2496_Baby"
+msgid "That's not quite right."
+msgstr "That's not quite right."
+
+msgctxt "2508_Baby"
+msgid "Maybe his diaper is dirty."
+msgstr "Maybe his diaper is dirty."

@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1044"
+msgid "Alps Staff"
+msgstr "Alps Staff"
+
+msgctxt "1048"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "1052"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "56_Alps Staff"
+msgid "Welcome, sir. How many in your party?"
+msgstr "Welcome, sir. How many in your party?"
+
+msgctxt "68_Kiryu"
+msgid "I was actually wondering if you guys do takeout. I need curry, stat."
+msgstr "I was actually wondering if you guys do takeout. I need curry, stat."
+
+msgctxt "80_Alps Staff"
+msgid ""
+"I'm sorry, sir. We only offer our dining experience\r\n"
+"in-house."
+msgstr ""
+"I'm sorry, sir. We only offer our dining experience\r\n"
+"in-house."
+
+msgctxt "92_Kiryu"
+msgid ""
+"But I can't just leave him...! Guess I'll have to look\r\n"
+"somewhere else."
+msgstr ""
+"But I can't just leave him...! Guess I'll have to look\r\n"
+"somewhere else."
+
+msgctxt "104_Alps Staff"
+msgid "My deepest apologies, sir."
+msgstr "My deepest apologies, sir."
+
+msgctxt "116_Kiryu"
+msgid "(Where else can I get curry?)"
+msgstr "(Where else can I get curry?)"

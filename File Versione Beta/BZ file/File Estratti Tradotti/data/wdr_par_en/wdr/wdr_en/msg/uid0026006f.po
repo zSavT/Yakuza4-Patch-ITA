@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3172"
+msgid "Eyewitness"
+msgstr "Eyewitness"
+
+msgctxt "3176"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "3180"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "3184"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "3188"
+msgid "Talk_Kosite_st"
+msgstr "Talk_Kosite_st"
+
+msgctxt "3192"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "3196"
+msgid "Talk_Kosite_ed"
+msgstr "Talk_Kosite_ed"
+
+msgctxt "3200"
+msgid "Talk_Info_L"
+msgstr "Talk_Info_L"
+
+msgctxt "3204"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3208"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "3212"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "3216"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "3220"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "3224"
+msgid "0"
+msgstr ""
+
+msgctxt "84_Eyewitness"
+msgid "Well, that can't be good... Better pretend I didn't see it."
+msgstr "Well, that can't be good... Better pretend I didn't see it."
+
+msgctxt "96_Kiryu"
+msgid "Hey, mind if I ask you a few questions?"
+msgstr "Hey, mind if I ask you a few questions?"
+
+msgctxt "108_Eyewitness"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "120_Eyewitness"
+msgid ""
+"(Aw man, what's a yakuza doing talking to me? Is he gonna beat me into a "
+"pulp? Steal my wallet? Or worse!?)"
+msgstr ""
+"(Aw man, what's a yakuza doing talking to me? Is he gonna beat me into a "
+"pulp? Steal my wallet? Or worse!?)"
+
+msgctxt "132_Kiryu"
+msgid ""
+"Did you see a lady pass through here? She would have been a\r\n"
+"foreigner from somewhere else in Asia, probably in a hurry."
+msgstr ""
+"Did you see a lady pass through here? She would have been a\r\n"
+"foreigner from somewhere else in Asia, probably in a hurry."
+
+msgctxt "144_Eyewitness"
+msgid "Oh, er... yeah, actually, I did."
+msgstr "Oh, er... yeah, actually, I did."
+
+msgctxt "156_Kiryu"
+msgid "Really? Where'd she go?"
+msgstr "Really? Where'd she go?"
+
+msgctxt "168_Eyewitness"
+msgid "Down into the underground area, but..."
+msgstr "Down into the underground area, but..."
+
+msgctxt "180_Kiryu"
+msgid "But what?"
+msgstr "Ma cosa?"
+
+msgctxt "192_Eyewitness"
+msgid ""
+"There were some pretty mean-looking dudes that ran down\r\n"
+"there after her."
+msgstr ""
+"There were some pretty mean-looking dudes that ran down\r\n"
+"there after her."
+
+msgctxt "204_Kiryu"
+msgid "She had guys chasing her, huh?"
+msgstr "She had guys chasing her, huh?"
+
+msgctxt "216_Eyewitness"
+msgid ""
+"(Yeah, your buddies! Ugh, why'd I say yes when he asked me if I saw her? "
+"Does this make me an accessory to the crime or something?)"
+msgstr ""
+"(Yeah, your buddies! Ugh, why'd I say yes when he asked me if I saw her? "
+"Does this make me an accessory to the crime or something?)"
+
+msgctxt "228_Kiryu"
+msgid "Thanks. I appreciate it."
+msgstr "Thanks. I appreciate it."
+
+msgctxt "240_Eyewitness"
+msgid "Yeah... No problem, haha..."
+msgstr "Yeah... No problem, haha..."
+
+msgctxt "252_Kiryu"
+msgid "(Sounds like I need to get underground, ASAP!)"
+msgstr "(Sounds like I need to get underground, ASAP!)"

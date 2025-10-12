@@ -1,0 +1,271 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "960"
+msgid "You got a <Color:8>Pure Gold Manjiro<Color:Default>."
+msgstr "Hai ottenuto: <Color:8>Manjiro d'oro puro<Color:Default>."
+
+msgctxt "6180"
+msgid "Employee"
+msgstr "Impiegato"
+
+msgctxt "6184"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6188"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "6192"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "6196"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "6200"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "660_Employee"
+msgid ""
+"Welcome, sir.\r\n"
+"Do you know the password you can get in 777town?"
+msgstr ""
+"Benvenuto, signore.\r\n"
+"Conosce la password che può ottenere su 777town?"
+
+msgctxt "672_Employee"
+msgid ""
+"Oh, no...\r\n"
+"I don't know the password."
+msgstr ""
+"Oh, no...\r\n"
+"Non conosco la password."
+
+msgctxt "684_Employee"
+msgid "Is that so? Please visit www.777town.net/ryu/ to find it."
+msgstr "Davvero? La prego di visitare www.777town.net/ryu/ per trovarla."
+
+msgctxt "696_Employee"
+msgid "Yeah, I know it."
+msgstr "Sì, la conosco."
+
+msgctxt "708_Employee"
+msgid ""
+"Very well, then let's proceed to the password.\r\n"
+"It is seven characters in total.\r\n"
+"What is the first character?"
+msgstr ""
+"Benissimo, allora procediamo con la password.\r\n"
+"È composta da sette caratteri in totale.\r\n"
+"Qual è il primo carattere?"
+
+msgctxt "732_Employee"
+msgid ""
+"All right.\r\n"
+"What's the second character?"
+msgstr ""
+"Va bene.\r\n"
+"Qual è il secondo carattere?"
+
+msgctxt "756_Employee"
+msgid ""
+"Oh ho...\r\n"
+"Right then, what's the third character?"
+msgstr ""
+"Oh oh...\r\n"
+"Bene, qual è il terzo carattere?"
+
+msgctxt "780_Employee"
+msgid ""
+"There we go!\r\n"
+"What's the fourth character?"
+msgstr ""
+"Ci siamo!\r\n"
+"Qual è il quarto carattere?"
+
+msgctxt "804_Employee"
+msgid ""
+"Hmmm, I see.\r\n"
+"Three characters left!\r\n"
+"Please tell me the fifth character."
+msgstr ""
+"Mmm, capisco.\r\n"
+"Mancano tre caratteri!\r\n"
+"Mi dica il quinto carattere."
+
+msgctxt "828_Employee"
+msgid ""
+"Okay, two characters left!\r\n"
+"What's the sixth character?"
+msgstr ""
+"Ok, mancano due caratteri!\r\n"
+"Qual è il sesto carattere?"
+
+msgctxt "852_Employee"
+msgid "Okay, time for the seventh and final character!"
+msgstr "Ok, è ora del settimo e ultimo carattere!"
+
+msgctxt "876_Employee"
+msgid ""
+"All right!\r\n"
+"Let's see if it's correct or not!\r\n"
+"If you get all seven characters right, you'll get a special prize!"
+msgstr ""
+"Va bene!\r\n"
+"Vediamo se è corretta o no!\r\n"
+"Se indovina tutti e sette i caratteri, riceverà un premio speciale!"
+
+msgctxt "888_Employee"
+msgid "......"
+msgstr "......"
+
+msgctxt "912_Employee"
+msgid "Oh, I'm sorry, sir! You'll have to try again!"
+msgstr "Oh, mi dispiace, signore! Dovrà riprovare!"
+
+msgctxt "924_Employee"
+msgid ""
+"Amazing! You're absolutely right!\r\n"
+"Congratulations!"
+msgstr ""
+"Incredibile! Ha assolutamente ragione!\r\n"
+"Congratulazioni!"
+
+msgctxt "936_Employee"
+msgid "Here is your fabulous gift!"
+msgstr "Ecco il suo favoloso regalo!"
+
+msgctxt "984_Employee"
+msgid "Yeah, I know the password."
+msgstr "Sì, conosco la password."
+
+msgctxt "996_Employee"
+msgid "No, I don't."
+msgstr "No, non la conosco."
+
+msgctxt "1008_Employee"
+msgid "Go"
+msgstr "Go"
+
+msgctxt "1020_Employee"
+msgid "7"
+msgstr "7"
+
+msgctxt "1032_Employee"
+msgid "Se"
+msgstr "Se"
+
+msgctxt "1044_Employee"
+msgid "Pa"
+msgstr "Pa"
+
+msgctxt "1056_Employee"
+msgid "－"
+msgstr "－"
+
+msgctxt "1068_Employee"
+msgid "7"
+msgstr "7"
+
+msgctxt "1080_Employee"
+msgid "Ga"
+msgstr "Ga"
+
+msgctxt "1092_Employee"
+msgid "Chi"
+msgstr "Chi"
+
+msgctxt "1104_Employee"
+msgid "Ru"
+msgstr "Ru"
+
+msgctxt "1116_Employee"
+msgid "7"
+msgstr "7"
+
+msgctxt "1128_Employee"
+msgid "Sa"
+msgstr "Sa"
+
+msgctxt "1140_Employee"
+msgid "Su"
+msgstr "Su"
+
+msgctxt "1152_Employee"
+msgid "Do"
+msgstr "Do"
+
+msgctxt "1164_Employee"
+msgid "t"
+msgstr "t"
+
+msgctxt "1176_Employee"
+msgid "Mi"
+msgstr "Mi"
+
+msgctxt "1188_Employee"
+msgid "Ro"
+msgstr "Ro"
+
+msgctxt "1200_Employee"
+msgid "Man"
+msgstr "Man"
+
+msgctxt "1212_Employee"
+msgid "O"
+msgstr "O"
+
+msgctxt "1224_Employee"
+msgid "－"
+msgstr "－"
+
+msgctxt "1236_Employee"
+msgid "Dai"
+msgstr "Dai"
+
+msgctxt "1248_Employee"
+msgid "Ji"
+msgstr "Ji"
+
+msgctxt "1260_Employee"
+msgid "w"
+msgstr "w"
+
+msgctxt "1272_Employee"
+msgid "H"
+msgstr "H"
+
+msgctxt "1284_Employee"
+msgid "Kou"
+msgstr "Kou"
+
+msgctxt "1296_Employee"
+msgid "Ro"
+msgstr "Ro"
+
+msgctxt "1308_Employee"
+msgid "n"
+msgstr "n"
+
+msgctxt "1320_Employee"
+msgid "D"
+msgstr "D"
+
+msgctxt "1332_Employee"
+msgid "Ki"
+msgstr "Ki"

@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1744"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "1748"
+msgid "The Florist"
+msgstr "Il Fiorista"
+
+msgctxt "1752"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "1756"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1760"
+msgid "Talk_Phone_yes"
+msgstr "Talk_Phone_yes"
+
+msgctxt "1764"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "92_The Florist"
+msgid "Kiryu. You on your way to Kamurocho Hills?"
+msgstr "Kiryu. Stai andando a Kamurocho Hills?"
+
+msgctxt "104_Kiryu"
+msgid "Why am I not surprised that you know that?"
+msgstr "Perché non mi sorprende che tu lo sappia?"
+
+msgctxt "116_The Florist"
+msgid "Haha, it's all part of the job!"
+msgstr "Ahah, fa tutto parte del mestiere!"
+
+msgctxt "128_The Florist"
+msgid "Anyway, I know you already know this..."
+msgstr "Comunque, so che lo sai già..."
+
+msgctxt "140_The Florist"
+msgid ""
+"But you can get to Kamurocho Hills via the bathroom in West\r\n"
+"Park."
+msgstr ""
+"Ma puoi raggiungere Kamurocho Hills attraverso il bagno nel\r\n"
+"West Park."
+
+msgctxt "152_The Florist"
+msgid "Doubt you'll forget that anytime soon."
+msgstr "Dubito che te lo dimenticherai tanto presto."
+
+msgctxt "164_Kiryu"
+msgid "Yeah. Thanks, Florist."
+msgstr "Già. Grazie, Fiorista."

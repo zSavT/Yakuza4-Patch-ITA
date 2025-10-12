@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "892"
+msgid "P_sae_stand"
+msgstr "P_sae_stand"
+
+msgctxt "896"
+msgid "Hamazaki"
+msgstr "Hamazaki"
+
+msgctxt "900"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "904"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "80_Hamazaki"
+msgid ""
+"We're gonna need to pick up the grappling hook before we start scaling the "
+"guard tower."
+msgstr ""
+"We're gonna need to pick up the grappling hook before we start scaling the "
+"guard tower."
+
+msgctxt "92_Hamazaki"
+msgid "C'mon! The roof'll take us out to the yard."
+msgstr "C'mon! The roof'll take us out to the yard."
+
+msgctxt "104_Saejima"
+msgid "Gotcha."
+msgstr "Capito."

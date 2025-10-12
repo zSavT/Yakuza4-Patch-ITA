@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "308"
+msgid "*beep*"
+msgstr "*beep*"
+
+msgctxt "3852"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "3856"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "3860"
+msgid "Anonymous Caller"
+msgstr "Chiamante Anonimo"
+
+msgctxt "3864"
+msgid "Talk_Phone_yes"
+msgstr "Talk_Phone_yes"
+
+msgctxt "3868"
+msgid "Talk_Phone_no"
+msgstr "Talk_Phone_no"
+
+msgctxt "3872"
+msgid "Talk_Phone_surp"
+msgstr "Talk_Phone_surp"
+
+msgctxt "3876"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "3880"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "92_Tanimura"
+msgid "Hello?"
+msgstr "Pronto?"
+
+msgctxt "104_Anonymous Caller"
+msgid "Tanimura-san, right?"
+msgstr "Tanimura-san, giusto?"
+
+msgctxt "116_Tanimura"
+msgid "Yeah, that's me. And you are?"
+msgstr "Sì, sono io. E tu chi sei?"
+
+msgctxt "128_Anonymous Caller"
+msgid "Heh, that's not important. Let's just cut to the chase."
+msgstr "Eh, non è importante. Andiamo al sodo."
+
+msgctxt "140_Anonymous Caller"
+msgid "You want info on Katsuragi, don't you?"
+msgstr "Vuoi informazioni su Katsuragi, vero?"
+
+msgctxt "152_Tanimura"
+msgid "How did you...?"
+msgstr "Come hai...?"
+
+msgctxt "164_Anonymous Caller"
+msgid ""
+"It's my job to know that sort of thing. As such, it works only to my benefit"
+" to funnel information to you."
+msgstr ""
+"È il mio lavoro sapere queste cose. E, in quanto tale, è solo a mio "
+"vantaggio passarti informazioni."
+
+msgctxt "176_Tanimura"
+msgid ""
+"That's... fine, but why should I believe some random caller who could be a "
+"total scammer for all I know?"
+msgstr ""
+"Va... bene, ma perché dovrei credere a un chiamante a caso che potrebbe "
+"essere un truffatore per quanto ne so?"
+
+msgctxt "188_Anonymous Caller"
+msgid ""
+"Good point. Except... You don't have anywhere else to turn right now, do "
+"you?"
+msgstr ""
+"Giusta osservazione. Tranne che... non hai nessun altro a cui rivolgerti in "
+"questo momento, vero?"
+
+msgctxt "200_Tanimura"
+msgid "...Not really."
+msgstr "...Non proprio."
+
+msgctxt "212_Anonymous Caller"
+msgid ""
+"That's what I thought. Now do you want that information or not? Of course, "
+"you could always hang up and be on your way."
+msgstr ""
+"Ecco cosa pensavo. Ora, vuoi quelle informazioni o no? Certo, potresti "
+"sempre riattaccare e andartene per la tua strada."
+
+msgctxt "224_Tanimura"
+msgid "No, let's hear what you have to say."
+msgstr "No, sentiamo cosa hai da dire."
+
+msgctxt "236_Anonymous Caller"
+msgid "Smart man. Only thing is, nothing in life is free."
+msgstr "Uomo intelligente. L'unico problema è che niente nella vita è gratis."
+
+msgctxt "248_Tanimura"
+msgid "What, you're giving me a quote already?"
+msgstr "Cosa, mi stai già facendo un preventivo?"
+
+msgctxt "260_Anonymous Caller"
+msgid ""
+"Everything has its price, officer. But I'm not interested in your money. I "
+"just want to see how good of a detective you are."
+msgstr ""
+"Ogni cosa ha il suo prezzo, agente. Ma non mi interessano i tuoi soldi. "
+"Voglio solo vedere quanto sei bravo come detective."
+
+msgctxt "272_Anonymous Caller"
+msgid ""
+"You'll be receiving a message from me shortly. Open it up, read it, and "
+"follow the instructions. Very self-explanatory."
+msgstr ""
+"Riceverai a breve un mio messaggio. Aprilo, leggilo e segui le istruzioni. "
+"Molto semplice."
+
+msgctxt "284_Anonymous Caller"
+msgid "Well, best of luck."
+msgstr "Beh, in bocca al lupo."
+
+msgctxt "296_Tanimura"
+msgid "Hey, we're not done yet!"
+msgstr "Ehi, non abbiamo ancora finito!"

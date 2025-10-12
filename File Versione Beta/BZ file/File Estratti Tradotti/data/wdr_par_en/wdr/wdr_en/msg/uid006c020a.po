@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-30\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "436"
+msgid "Helper Girl"
+msgstr "Helper Girl"
+
+msgctxt "440"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "56_Helper Girl"
+msgid "Hey..."
+msgstr "Ehi..."
+
+msgctxt "68_Helper Girl"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "80_Helper Girl"
+msgid "Hahaha."
+msgstr "Hahaha."
+
+msgctxt "92_Helper Girl"
+msgid "Hehe."
+msgstr "Hehe."
+
+msgctxt "104_Helper Girl"
+msgid "Teehee."
+msgstr "Teehee."
