@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e60098.po\n"
+"X-Crowdin-File-ID: 61460\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "10040"
+msgid "Hana"
+msgstr "Hana"
+
+msgctxt "10044"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "10048"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "10052"
+msgid "Scout"
+msgstr ""
+
+msgctxt "10056"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "10060"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "10064"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "10068"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "10072"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "10076"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "10080"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "10084"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "10088"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "56_Hana"
+msgid "......"
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid "I found one, Hana-chan!"
+msgstr ""
+
+msgctxt "80_Hana"
+msgid "......"
+msgstr ""
+
+msgctxt "92_Akiyama"
+msgid "See this girl? Her name's Hana-chan. What do you think of\r\n"
+"her?"
+msgstr ""
+
+msgctxt "104_Scout"
+msgid "What do you mean?"
+msgstr ""
+
+msgctxt "116_Akiyama"
+msgid "I mean, what do you think of her as a woman?"
+msgstr ""
+
+msgctxt "128_Scout"
+msgid "Who, me?"
+msgstr "Chi, io?"
+
+msgctxt "140_Akiyama"
+msgid "Yes, you."
+msgstr ""
+
+msgctxt "152_Scout"
+msgid "But I can't just say something like that right in front of her! I'm way too shy!"
+msgstr ""
+
+msgctxt "164_Akiyama"
+msgid "I'm begging you. Just say it..."
+msgstr ""
+
+msgctxt "176_Scout"
+msgid "Well, if you insist..."
+msgstr ""
+
+msgctxt "188_Scout"
+msgid "I think she's amazing..."
+msgstr ""
+
+msgctxt "200_Akiyama"
+msgid "What's that? Louder!"
+msgstr ""
+
+msgctxt "212_Scout"
+msgid "I think she's amazing. She's totally my type."
+msgstr ""
+
+msgctxt "224_Akiyama"
+msgid "You hear that, Hana-chan?"
+msgstr ""
+
+msgctxt "236_Hana"
+msgid "......"
+msgstr ""
+
+msgctxt "248_Akiyama"
+msgid "See, you don't have to go on a diet to be attractive."
+msgstr ""
+
+msgctxt "260_Akiyama"
+msgid "Isn't that right?"
+msgstr ""
+
+msgctxt "272_Scout"
+msgid "Absolutely."
+msgstr ""
+
+msgctxt "284_Akiyama"
+msgid "What do you say, Hana-chan? Do you believe me now?"
+msgstr ""
+
+msgctxt "296_Hana"
+msgid "Please leave."
+msgstr ""
+
+msgctxt "308_Scout"
+msgid "Huh? Me?"
+msgstr ""
+
+msgctxt "320_Akiyama"
+msgid "Aw, c'mon, Hana-chan! What now? You told me to bring him\r\n"
+"here!"
+msgstr ""
+
+msgctxt "332_Hana"
+msgid "Just get him out of here, will you!?"
+msgstr ""
+
+msgctxt "344_Akiyama"
+msgid "All right, all right. Sorry for dragging you into this."
+msgstr ""
+
+msgctxt "356_Scout"
+msgid "Oh, uh, that's okay... Was it something I said?"
+msgstr ""
+
+msgctxt "368_Akiyama"
+msgid "You never can tell when it comes to women like her..."
+msgstr ""
+
+msgctxt "440_Akiyama"
+msgid "Hana-chan...? You all right?"
+msgstr ""
+
+msgctxt "452_Hana"
+msgid "Why did you have to bring that man here?"
+msgstr ""
+
+msgctxt "464_Akiyama"
+msgid "What!? But you told me to!"
+msgstr ""
+
+msgctxt "476_Hana"
+msgid "Honestly, Chief. You're as clueless about women as ever..."
+msgstr ""
+
+msgctxt "488_Akiyama"
+msgid "Hana-chan..."
+msgstr ""
+
+msgctxt "500_Hana"
+msgid "Sometimes I just feel like losing weight."
+msgstr ""
+
+msgctxt "512_Hana"
+msgid "Some girls up and cut their bangs. Others suddenly go on an\r\n"
+"all-apple diet. It's just what girls do!"
+msgstr ""
+
+msgctxt "524_Akiyama"
+msgid "And that's what this diet is all about?"
+msgstr ""
+
+msgctxt "536_Hana"
+msgid "I was reading a magazine, okay!? A fashion magazine."
+msgstr ""
+
+msgctxt "548_Akiyama"
+msgid "A fashion magazine? That's not like you."
+msgstr ""
+
+msgctxt "560_Hana"
+msgid "It said that the slim look is in this spring. So I got to\r\n"
+"thinking about how nice it would be to wear something in\r\n"
+"style for once..."
+msgstr ""
+
+msgctxt "572_Akiyama"
+msgid "Hana-chan..."
+msgstr ""
+
+msgctxt "584_Hana"
+msgid "But no! Forget about it! No more diets!"
+msgstr ""
+
+msgctxt "596_Akiyama"
+msgid "Whoa, hang on a second, Hana-chan! No need to call the whole\r\n"
+"thing off!"
+msgstr ""
+
+msgctxt "608_Hana"
+msgid "Just leave me alone! I realized something while I was\r\n"
+"waiting for you..."
+msgstr ""
+
+msgctxt "620_Hana"
+msgid "One whiff of that deluxe kalbi, and I just can't help\r\n"
+"myself!"
+msgstr ""
+
+msgctxt "644_Akiyama"
+msgid "Yow!"
+msgstr ""
+
+msgctxt "656_Hana"
+msgid "It was simply divine! Meat is such a crucial part of any\r\n"
+"meal, don't you think?"
+msgstr ""
+
+msgctxt "668_Akiyama"
+msgid "You ate both of them?"
+msgstr ""
+
+msgctxt "680_Hana"
+msgid "I'll let it slide for today. I mean, you did work pretty\r\n"
+"hard out there for me."
+msgstr ""
+
+msgctxt "692_Akiyama"
+msgid "I don't know whether to laugh or cry..."
+msgstr ""
+
+msgctxt "704_Hana"
+msgid "Say, are you sure you just want to leave that nice man\r\n"
+"hanging like that? He did come all this way. You should\r\n"
+"at least say thank you."
+msgstr ""
+
+msgctxt "716_Akiyama"
+msgid "Right, of course. I'll be right back."
+msgstr ""
+
+msgctxt "728_Hana"
+msgid "Okay. See you later."
+msgstr ""
+

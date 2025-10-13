@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e60003.po\n"
+"X-Crowdin-File-ID: 61700\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
+
+msgctxt "4044"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "4048"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "4052"
+msgid "Paradise Advertising President"
+msgstr ""
+
+msgctxt "4056"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4060"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4064"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "4068"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4072"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4076"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4080"
+msgid "0"
+msgstr ""
+
+msgctxt "84_Akiyama"
+msgid "Yo. What's going on?"
+msgstr ""
+
+msgctxt "96_Paradise Advertising President"
+msgid "Oh, Akiyama-san. Well... That Shiobara guy you sent\r\n"
+"over showed up."
+msgstr ""
+
+msgctxt "108_Talk_No"
+msgid "He marched in blustering about how he was going to put me\r\n"
+"in the black, but when I showed him the books, I guess he\r\n"
+"ran out of steam..."
+msgstr ""
+
+msgctxt "120_Akiyama"
+msgid "Well, the thing is, he'd inherited his father's company but\r\n"
+"didn't want to downsize. And because of that he wound up\r\n"
+"running the place into the ground."
+msgstr ""
+
+msgctxt "132_Paradise Advertising President"
+msgid "He willingly ruined his father's business just to avoid\r\n"
+"downsizing? Hmm..."
+msgstr ""
+
+msgctxt "144_Akiyama"
+msgid "Say, Akiyama-san, do you think that'll happen to my place,\r\n"
+"too?"
+msgstr ""
+
+msgctxt "156_Akiyama"
+msgid "Most likely. I peered over your books last time we talked..."
+msgstr ""
+
+msgctxt "168_Talk_No"
+msgid "You'd be hard-pressed to get any more profit, and you've\r\n"
+"cut all the corners you can. The only thing left to do is..."
+msgstr ""
+
+msgctxt "180_Paradise Advertising President"
+msgid "...is to downsize. I know. Well, that may be true, but\r\n"
+"still... These people have been with me from day one."
+msgstr ""
+
+msgctxt "192_Akiyama"
+msgid "I've got to be frank with you here. It's your job as\r\n"
+"president to make this decision."
+msgstr ""
+
+msgctxt "204_Paradise Advertising President"
+msgid "I guess you're right..."
+msgstr ""
+
+msgctxt "216_Akiyama"
+msgid "Oh, another thing. Do you know where Shiobara-kun went?"
+msgstr ""
+
+msgctxt "228_Paradise Advertising President"
+msgid "Not exactly. He was walking toward Children's Park, though."
+msgstr ""
+
+msgctxt "240_Akiyama"
+msgid "He was? Thanks. I'll have to stop by again sometime soon."
+msgstr ""
+

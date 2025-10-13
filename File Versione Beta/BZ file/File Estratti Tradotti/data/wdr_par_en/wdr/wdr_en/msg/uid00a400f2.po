@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a400f2.po\n"
+"X-Crowdin-File-ID: 59154\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "1460"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1464"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "1468"
+msgid "Young Person"
+msgstr ""
+
+msgctxt "1472"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1476"
+msgid "Talk_Info_L"
+msgstr ""
+
+msgctxt "1480"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "1484"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1488"
+msgid "0"
+msgstr ""
+
+msgctxt "84_Akiyama"
+msgid "Hey, you there. Did you see a young woman run by just now?"
+msgstr ""
+
+msgctxt "96_Young Person"
+msgid "Huh? Oh, yeah. Snagged a cab right over there."
+msgstr ""
+
+msgctxt "108_Akiyama"
+msgid "So now she's in a taxi... Any idea where she went?"
+msgstr ""
+
+msgctxt "120_Young Person"
+msgid "She told the driver something about \"in front of the\r\n"
+"theater.\" Are you some kind of stalker or something?"
+msgstr ""
+
+msgctxt "132_Akiyama"
+msgid "C'mon, you ever seen a stalker dress this sharp? Thanks for\r\n"
+"the tip."
+msgstr ""
+
+msgctxt "144_Akiyama"
+msgid "(Better head to Theater Square...)"
+msgstr ""
+

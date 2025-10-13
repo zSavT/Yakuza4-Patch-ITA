@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e600b5.po\n"
+"X-Crowdin-File-ID: 59424\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "320"
+msgid "You gained 5,000 EXP."
+msgstr ""
+
+msgctxt "3908"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "3912"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "3916"
+msgid "Scout"
+msgstr ""
+
+msgctxt "3920"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3924"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3928"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "3932"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "3936"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "3940"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "3944"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "104_Akiyama"
+msgid "Thank you. You were a big help."
+msgstr ""
+
+msgctxt "116_Scout"
+msgid "That cutie sure was upset. Is she going to be all right?"
+msgstr ""
+
+msgctxt "128_Akiyama"
+msgid "Don't worry, she'll be just fine. Now, I'm not sure if this\r\n"
+"qualifies as \"compensation,\" but how about a job at my\r\n"
+"hostess club?"
+msgstr ""
+
+msgctxt "140_Scout"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "152_Akiyama"
+msgid "All you're doing right now is making your boss mad, so why\r\n"
+"don't you come work at our place? We'll take care of you."
+msgstr ""
+
+msgctxt "164_Scout"
+msgid "I'd like that. But are you sure you don't mind? Is your\r\n"
+"club... a specialty club?"
+msgstr ""
+
+msgctxt "176_Akiyama"
+msgid "No, it's not that. It's just that I'm thinking it could get\r\n"
+"kinda boring if all our girls have the same slender figure.\r\n"
+"Might be good to get a little variety going."
+msgstr ""
+
+msgctxt "188_Akiyama"
+msgid "Somebody with your taste will help bring in girls for men\r\n"
+"who want something different."
+msgstr ""
+
+msgctxt "200_Scout"
+msgid "Well, I'll have no problem pulling in curvy girls. I can\r\n"
+"guarantee you that!"
+msgstr ""
+
+msgctxt "212_Akiyama"
+msgid "Excellent. Then, I'll see you at the club."
+msgstr ""
+
+msgctxt "224_Scout"
+msgid "Yes, sir. Thank you for the opportunity."
+msgstr ""
+
+msgctxt "236_Akiyama"
+msgid "Sure thing. Take care."
+msgstr ""
+
+msgctxt "296_Akiyama"
+msgid "(They say a woman's mind changes like the autumn leaves... Agh, I can't believe I managed to piss off Hana-chan again.)"
+msgstr ""
+

@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ae0028.po\n"
+"X-Crowdin-File-ID: 60346\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "212"
+msgid "Where to?"
+msgstr "Dove?"
+
+msgctxt "332"
+msgid "Point A (Shortest)"
+msgstr ""
+
+msgctxt "344"
+msgid "Point B (Front)"
+msgstr ""
+
+msgctxt "356"
+msgid "Point C (Behind)"
+msgstr ""
+
+msgctxt "368"
+msgid "Point AEx (Shortest)"
+msgstr ""
+
+msgctxt "380"
+msgid "Point BEx (Front)"
+msgstr ""
+
+msgctxt "392"
+msgid "Point CEx (Behind)"
+msgstr ""
+
+msgctxt "404"
+msgid "Point A (Shortest) TurnC"
+msgstr ""
+
+msgctxt "416"
+msgid "Point B (Front) TurnC"
+msgstr ""
+
+msgctxt "428"
+msgid "Point C (Behind) TurnC"
+msgstr ""
+

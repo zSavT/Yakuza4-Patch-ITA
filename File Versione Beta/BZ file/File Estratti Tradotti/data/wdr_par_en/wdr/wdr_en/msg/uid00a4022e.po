@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a4022e.po\n"
+"X-Crowdin-File-ID: 58912\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "1364"
+msgid "Makiko's #1 Fan"
+msgstr ""
+
+msgctxt "1368"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "1372"
+msgid "Makiko's #2 Fan"
+msgstr ""
+
+msgctxt "1376"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1380"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1384"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1388"
+msgid "0"
+msgstr ""
+
+msgctxt "84_Makiko's #1 Fan"
+msgid "So did you pick up Makiko-chan's new album?"
+msgstr ""
+
+msgctxt "96_Makiko's #2 Fan"
+msgid "Of course! I can't stop listening. Doesn't it sound like she's finally having fun now? I love that!"
+msgstr ""
+
+msgctxt "108_Makiko's #1 Fan"
+msgid "Oh, I totally get what you mean. It's like nobody's twisting her arm anymore. It feels so much more authentic."
+msgstr ""
+
+msgctxt "120_Makiko's #2 Fan"
+msgid "But why would she release it both on CD and on vinyl?\r\n"
+"Who even has an old-fashioned record player anymore?"
+msgstr ""
+
+msgctxt "132_Makiko's #1 Fan"
+msgid "In 2010? Beats me."
+msgstr ""
+

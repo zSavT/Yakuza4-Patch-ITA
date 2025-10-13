@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e60119.po\n"
+"X-Crowdin-File-ID: 59222\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "6068"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "6072"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "6076"
+msgid "Zhao"
+msgstr ""
+
+msgctxt "6080"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "6084"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "6088"
+msgid "0"
+msgstr ""
+
+msgctxt "6092"
+msgid "P_stand_tlk_kamae_paper04"
+msgstr ""
+
+msgctxt "6096"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6100"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "6104"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6108"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "6112"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "6116"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "6120"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "84_Tanimura"
+msgid "Yo."
+msgstr "Yo."
+
+msgctxt "96_Zhao"
+msgid "Oh... Hi."
+msgstr ""
+
+msgctxt "108_Tanimura"
+msgid "Where's Mei Hua? Out shopping?"
+msgstr ""
+
+msgctxt "120_Zhao"
+msgid "No... And I doubt we'll ever see her again, either."
+msgstr ""
+
+msgctxt "132_Tanimura"
+msgid "Huh? The heck are you talking about?"
+msgstr ""
+
+msgctxt "144_Tanimura"
+msgid "...What's this?"
+msgstr ""
+
+msgctxt "156_Zhao"
+msgid "It arrived for her a few days ago. I found it on the desk."
+msgstr ""
+
+msgctxt "168_Tanimura"
+msgid "And this is relevant... how?"
+msgstr ""
+
+msgctxt "180_Tanimura"
+msgid "What!?"
+msgstr "Cosa!?"
+
+msgctxt "192_Zhao"
+msgid "\"If you want to meet your real father, come to West Park. Alone. And don't tell a single soul.\""
+msgstr ""
+
+msgctxt "204_Zhao"
+msgid "According to this, Mei Hua went to meet her real father."
+msgstr ""
+
+msgctxt "216_Tanimura"
+msgid "You mean... her biological father?"
+msgstr ""
+
+msgctxt "228_Zhao"
+msgid "Exactly. I'm sure she's always wanted to find out who he is."
+msgstr ""
+
+msgctxt "240_Tanimura"
+msgid "Come on, Zhao-san. You're the one raising her. It doesn't matter who her biological parents are."
+msgstr ""
+
+msgctxt "252_Zhao"
+msgid "That's what I want to believe. But when it comes down to it, kids want to be with their real parents... I'm nothing more than a substitute."
+msgstr ""
+
+msgctxt "264_Tanimura"
+msgid "Let's... save that kind of talk for later."
+msgstr ""
+
+msgctxt "276_Tanimura"
+msgid "For now, we need to figure some things out. For instance, if this letter's real or not."
+msgstr ""
+
+msgctxt "288_Zhao"
+msgid "Why would it not be real?"
+msgstr ""
+
+msgctxt "300_Tanimura"
+msgid "It's suspicious no matter how you look at it. First, why would anybody write to their estranged child like this? They'd just come and see her."
+msgstr ""
+
+msgctxt "312_Tanimura"
+msgid "Second, what's with the \"don't tell a single soul\" part? Why all the secrecy?"
+msgstr ""
+
+msgctxt "324_Zhao"
+msgid "Hmm... I guess I hadn't thought about that..."
+msgstr ""
+
+msgctxt "336_Tanimura"
+msgid "From the looks of it, Mei Hua could be in danger. Did you check out West Park yet?"
+msgstr ""
+
+msgctxt "348_Zhao"
+msgid "I haven't."
+msgstr ""
+
+msgctxt "360_Tanimura"
+msgid "Come on, man! Wake up! What would you do if anything happened to her!?"
+msgstr ""
+
+msgctxt "372_Zhao"
+msgid "I know that! Shit... What the hell have I been doing!?"
+msgstr ""
+
+msgctxt "396_Tanimura"
+msgid "Whoa, hang on!"
+msgstr ""
+
+msgctxt "408_Tanimura"
+msgid "(I understand how he feels, but he needs to get a grip... I imagine he's heading straight for West Park. Better follow up on this.)"
+msgstr ""
+

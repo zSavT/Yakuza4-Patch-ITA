@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e60170.po\n"
+"X-Crowdin-File-ID: 59904\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "5304"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "5308"
+msgid "0"
+msgstr ""
+
+msgctxt "5312"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "5316"
+msgid "Chihiro"
+msgstr ""
+
+msgctxt "5320"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "5324"
+msgid "Kinugawa"
+msgstr ""
+
+msgctxt "5328"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "5332"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "5336"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "5340"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5344"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "5348"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5352"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "5356"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "80_Tanimura"
+msgid "What the hell are you doing!?"
+msgstr ""
+
+msgctxt "92_Chihiro"
+msgid "Tanimura-san!"
+msgstr ""
+
+msgctxt "104_Kinugawa"
+msgid "Who the hell are you!?"
+msgstr "Chi diavolo sei tu!?"
+
+msgctxt "116_Tanimura"
+msgid "I'm a police officer! Let her go! I'm placing you under arrest for assault!"
+msgstr ""
+
+msgctxt "128_Kinugawa"
+msgid "Just a minute! I think there's been some kind of misunderstanding!"
+msgstr ""
+
+msgctxt "140_Tanimura"
+msgid "Oh really?"
+msgstr ""
+
+msgctxt "152_Kinugawa"
+msgid "This is all totally consensual! It happens all the time in show business! I scratch her back, she scratches mine."
+msgstr ""
+
+msgctxt "164_Tanimura"
+msgid "Bullshit!"
+msgstr ""
+
+msgctxt "176_Kinugawa"
+msgid "Why don't we ask what she thinks? What about it, Chihiro? Do you want to make your pro acting debut or not?"
+msgstr ""
+
+msgctxt "188_Chihiro"
+msgid "......"
+msgstr ""
+
+msgctxt "200_Kinugawa"
+msgid "I can make your dream come true, you know."
+msgstr ""
+
+msgctxt "212_Chihiro"
+msgid "Not like this! I work hard every day so I can be an actress－a real actress!"
+msgstr ""
+
+msgctxt "224_Chihiro"
+msgid "I want to make my pro acting debut based on my talent, not on favors!"
+msgstr ""
+
+msgctxt "236_Tanimura"
+msgid "You heard her."
+msgstr ""
+
+msgctxt "248_Kinugawa"
+msgid "Shit... Why'd you stick your nose in where it don't belong!? I almost had her!"
+msgstr ""
+
+msgctxt "260_Kinugawa"
+msgid "Come on, guys! Let's get this asshole!"
+msgstr ""
+
+msgctxt "284_Tanimura"
+msgid "You never had any intention of getting her an acting job, did you? You just use that as bait to trick aspiring actresses like Chihiro."
+msgstr ""
+
+msgctxt "296_Tanimura"
+msgid "This probably isn't even a real talent agency."
+msgstr ""
+
+msgctxt "308_Kinugawa"
+msgid "Shut up! I don't care if you're a cop! You're not walking out of here in one piece!"
+msgstr ""
+

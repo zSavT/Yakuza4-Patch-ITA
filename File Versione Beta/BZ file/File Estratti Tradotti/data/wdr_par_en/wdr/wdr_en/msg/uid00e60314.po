@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e60314.po\n"
+"X-Crowdin-File-ID: 62528\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
+
+msgctxt "308"
+msgid "You got an <Color:8>Eye of the Dragon<Color:Default>."
+msgstr ""
+
+msgctxt "416"
+msgid "You gained 5,000 EXP."
+msgstr ""
+
+msgctxt "4744"
+msgid "Tadokoro"
+msgstr "Tadokoro"
+
+msgctxt "4748"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "4752"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4756"
+msgid "Tadokoro's Subordinate"
+msgstr ""
+
+msgctxt "4760"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4764"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4768"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4772"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4776"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "4780"
+msgid "dummy"
+msgstr ""
+
+msgctxt "56_Tadokoro"
+msgid "This man is the ringleader, I presume?"
+msgstr ""
+
+msgctxt "68_Saejima"
+msgid "Yep. Signed, sealed, and delivered. As promised."
+msgstr ""
+
+msgctxt "80_Tadokoro's Subordinate"
+msgid "Sir, I'll escort our friend here back to the office."
+msgstr ""
+
+msgctxt "92_Tadokoro"
+msgid "Fine. I'll be right there."
+msgstr ""
+
+msgctxt "164_Tadokoro"
+msgid "Congratulations on a job well done."
+msgstr ""
+
+msgctxt "176_Saejima"
+msgid "A job like that ain't hardly a job at all."
+msgstr ""
+
+msgctxt "188_Tadokoro"
+msgid "Perhaps it's none of my business, but if you and Tadashi\r\n"
+"are perfect strangers, why go to such lengths for him?"
+msgstr ""
+
+msgctxt "200_Saejima"
+msgid "I wouldn't expect you to understand, but I made a promise to Tadashi－man to man. And that's reason enough for me."
+msgstr ""
+
+msgctxt "212_Tadokoro"
+msgid "Is that so? No, I can't say I do understand."
+msgstr ""
+
+msgctxt "224_Tadokoro"
+msgid "All right, fine. I can see any further talk on the subject\r\n"
+"would be a waste of my time and yours."
+msgstr ""
+
+msgctxt "236_Saejima"
+msgid "Hey, don't forget what ya promised the kid."
+msgstr ""
+
+msgctxt "248_Tadokoro"
+msgid "I wouldn't dream of it."
+msgstr ""
+
+msgctxt "260_Saejima"
+msgid "And next time, find me a better payin' gig."
+msgstr ""
+
+msgctxt "272_Tadokoro"
+msgid "I'll certainly do my best."
+msgstr ""
+
+msgctxt "284_Tadokoro"
+msgid "Oh, by the way. Our mutual friend Hayase had this on him.\r\n"
+"You may have it. A nice little bonus, yes?"
+msgstr ""
+
+msgctxt "296_Saejima"
+msgid "Gee, thanks."
+msgstr ""
+
+msgctxt "332_Tadokoro"
+msgid "Until your next assignment, then. Goodbye."
+msgstr ""
+

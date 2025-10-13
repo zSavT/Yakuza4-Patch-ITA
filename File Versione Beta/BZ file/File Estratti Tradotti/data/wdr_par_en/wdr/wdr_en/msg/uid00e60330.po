@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e60330.po\n"
+"X-Crowdin-File-ID: 60590\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "8144"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "8148"
+msgid "Tadokoro"
+msgstr "Tadokoro"
+
+msgctxt "8152"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "8156"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "8160"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "8164"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "8168"
+msgid "Tadashi"
+msgstr ""
+
+msgctxt "8172"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "8176"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "8180"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "8184"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "8188"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "8192"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "68_Saejima"
+msgid "Who's there?"
+msgstr "Chi c'è là?"
+
+msgctxt "92_Tadokoro"
+msgid "Pardon the intrusion."
+msgstr ""
+
+msgctxt "104_Saejima"
+msgid "Whaddya want?"
+msgstr ""
+
+msgctxt "116_Tadokoro"
+msgid "More work, of course."
+msgstr ""
+
+msgctxt "128_Saejima"
+msgid "What now?"
+msgstr "Che c'è?"
+
+msgctxt "140_Tadokoro"
+msgid "Let's discuss this somewhere more private, shall we?"
+msgstr ""
+
+msgctxt "152_Saejima"
+msgid "Doesn't get more private than my own hideout."
+msgstr ""
+
+msgctxt "176_Tadashi"
+msgid "Hi, I'm back!"
+msgstr ""
+
+msgctxt "188_Saejima"
+msgid "Hey, Tadashi."
+msgstr ""
+
+msgctxt "200_Tadashi"
+msgid "You...!"
+msgstr ""
+
+msgctxt "212_Tadokoro"
+msgid "Well, hello there, Tadashi-kun. You look well. I'm so glad."
+msgstr ""
+
+msgctxt "224_Tadashi"
+msgid "Are you going out on another job, big guy?"
+msgstr ""
+
+msgctxt "236_Saejima"
+msgid "Yep, looks that way. Mind holdin' down the fort\r\n"
+"while I'm out?"
+msgstr ""
+
+msgctxt "248_Tadokoro"
+msgid "Actually, I'd like Tadashi-kun to come along this time."
+msgstr ""
+
+msgctxt "260_Saejima"
+msgid "Best have a good reason."
+msgstr ""
+
+msgctxt "272_Tadokoro"
+msgid "It would just work out well, in a number of ways... But if\r\n"
+"you'd rather not, we can always call this assignment off."
+msgstr ""
+
+msgctxt "284_Saejima"
+msgid "What do you think, Tadashi?"
+msgstr ""
+
+msgctxt "296_Tadashi"
+msgid "I don't mind."
+msgstr ""
+
+msgctxt "308_Tadokoro"
+msgid "Heh. Such a good boy."
+msgstr ""
+
+msgctxt "320_Saejima"
+msgid "So where we headed?"
+msgstr ""
+
+msgctxt "332_Tadokoro"
+msgid "To Underground Coliseum of Purgatory. Are you\r\n"
+"familiar with the place, Suzuki-san?"
+msgstr ""
+
+msgctxt "344_Saejima"
+msgid "More or less."
+msgstr ""
+
+msgctxt "356_Tadokoro"
+msgid "Good, then. Your next job will take place there."
+msgstr ""
+
+msgctxt "368_Tadokoro"
+msgid "I'm certain you have preparations to make, so Tadashi-kun\r\n"
+"and I will head out now and meet you there."
+msgstr ""
+
+msgctxt "380_Saejima"
+msgid "As if I'm gonna leave you alone with Tadashi for a second.\r\n"
+"The kid sticks with me."
+msgstr ""
+
+msgctxt "392_Tadokoro"
+msgid "Try to appreciate your position here, Suzuki-san.\r\n"
+"Regardless of the circumstances, I am your client.\r\n"
+"You work for me."
+msgstr ""
+
+msgctxt "404_Tadokoro"
+msgid "I do believe it's in your best interest to do as I say."
+msgstr ""
+
+msgctxt "416_Tadashi"
+msgid "Don't worry, big guy. I'll be fine."
+msgstr ""
+
+msgctxt "428_Saejima"
+msgid "Alright. Just lemme tell ya one thing."
+msgstr ""
+
+msgctxt "440_Tadokoro"
+msgid "And what might that be?"
+msgstr ""
+
+msgctxt "452_Saejima"
+msgid "If you harm so much as a single hair on this kid's head,\r\n"
+"it won't end well for you."
+msgstr ""
+
+msgctxt "464_Tadokoro"
+msgid "Tadashi-kun is an esteemed customer of mine.\r\n"
+"I'll treat him with the utmost care."
+msgstr ""
+
+msgctxt "476_Tadokoro"
+msgid "If that's all, then, we'll be waiting for you in Purgatory.\r\n"
+"Meet us by the front desk of the arena."
+msgstr ""
+
+msgctxt "548_Saejima"
+msgid "(The Underground Coliseum in Purgatory, huh? Sounds like I might hafta fight there again...)"
+msgstr ""
+
+msgctxt "560_Saejima"
+msgid "(I'm worried about Tadashi. I better hustle to the arena.)"
+msgstr ""
+

@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e601f7.po\n"
+"X-Crowdin-File-ID: 62066\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
+
+msgctxt "844"
+msgid "Takasu Family Member"
+msgstr ""
+
+msgctxt "848"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "852"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "856"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "56_Takasu Family Member"
+msgid "Who are you!?"
+msgstr ""
+
+msgctxt "68_Saejima"
+msgid "We got business with the patriarch of the Takasu Family.\r\n"
+"Get 'im out here!"
+msgstr ""
+
+msgctxt "80_Takasu Family Member"
+msgid "Our boss doesn't talk to fuckwits－least of all dead ones!"
+msgstr ""
+

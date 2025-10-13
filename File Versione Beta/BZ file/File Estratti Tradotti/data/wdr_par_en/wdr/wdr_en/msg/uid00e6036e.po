@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e6036e.po\n"
+"X-Crowdin-File-ID: 60520\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "3252"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "3256"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3260"
+msgid "Saki-chan"
+msgstr ""
+
+msgctxt "3264"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3268"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3272"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "56_Tanimura"
+msgid "*pant* Look... *pant* I think you have the wrong idea.\r\n"
+"I'm not after Nadine－in fact, I'm trying to help her."
+msgstr ""
+
+msgctxt "68_Saki-chan"
+msgid "...Are you really?"
+msgstr ""
+
+msgctxt "80_Tanimura"
+msgid "Cross my heart. So what's up with the whole chase sequence\r\n"
+"as soon as you saw my badge? Are you hiding something?"
+msgstr "Lo giuro. Allora, cos'era quella scenetta dell'inseguimento\r\n"
+"appena hai visto il mio distintivo? Nascondi qualcosa?"
+
+msgctxt "92_Saki-chan"
+msgid "Well, the thing is... I help people."
+msgstr ""
+
+msgctxt "104_Tanimura"
+msgid "Help them how?"
+msgstr ""
+
+msgctxt "116_Saki-chan"
+msgid "I use my connections to help foreign women when the cops or criminals come for them."
+msgstr ""
+
+msgctxt "128_Tanimura"
+msgid "So I take it you know Nadine, then."
+msgstr ""
+
+msgctxt "140_Saki-chan"
+msgid "What would you do if you found her?"
+msgstr ""
+
+msgctxt "152_Tanimura"
+msgid "Let me put it this way: she'll be dead if I don't find her first. And I'd like to get her home safe before that happens."
+msgstr ""
+
+msgctxt "164_Saki-chan"
+msgid "......"
+msgstr ""
+
+msgctxt "176_Saki-chan"
+msgid "All right. I know where she is... I'm actually the one looking after her."
+msgstr ""
+
+msgctxt "188_Tanimura"
+msgid "Great! Can you take me to see her, then?"
+msgstr ""
+
+msgctxt "200_Saki-chan"
+msgid "Well, you do seem like a decent guy... Alrighty-poo. ♪ You just follow me."
+msgstr ""
+

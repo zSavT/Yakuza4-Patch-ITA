@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e6050f.po\n"
+"X-Crowdin-File-ID: 61322\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "1480"
+msgid "Agent"
+msgstr ""
+
+msgctxt "1484"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1488"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "1492"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "100_Agent"
+msgid "Kazuma Kiryu-san, yes?"
+msgstr "Kazuma Kiryu-san, corretto?"
+
+msgctxt "112_Kiryu"
+msgid "Who's asking?"
+msgstr "Chi lo chiede?"
+
+msgctxt "124_Agent"
+msgid "My name is of no importance. I take it you read the email?\r\n"
+"Please, step inside."
+msgstr ""
+
+msgctxt "136_Kiryu"
+msgid "(Guess I'm going in...)"
+msgstr ""
+
+msgctxt "160_Agent"
+msgid "Kazuma Kiryu-san, yes?"
+msgstr "Kazuma Kiryu-san, corretto?"
+
+msgctxt "172_Kiryu"
+msgid "Who's asking?"
+msgstr "Chi lo chiede?"
+
+msgctxt "184_Agent"
+msgid "My name is of no importance. I take it you read the email?\r\n"
+"Please, step inside."
+msgstr ""
+
+msgctxt "196_Kiryu"
+msgid "(Guess I'm going in...)"
+msgstr ""
+

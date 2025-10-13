@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a4011b.po\n"
+"X-Crowdin-File-ID: 60686\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "2316"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2320"
+msgid "2d_cf_pict_nigaoe_hana"
+msgstr ""
+
+msgctxt "2324"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2328"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2332"
+msgid "Man in the Sketch"
+msgstr ""
+
+msgctxt "2336"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "2340"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "108_Akiyama"
+msgid "(Wow... Guess it was a good sketch after all.)"
+msgstr ""
+
+msgctxt "168_Akiyama"
+msgid "Hey, pal. Got a sec?"
+msgstr ""
+
+msgctxt "180_Man in the Sketch"
+msgid "Hm? What do you want?"
+msgstr ""
+
+msgctxt "192_Akiyama"
+msgid "This guy look familiar to you?"
+msgstr ""
+
+msgctxt "204_Man in the Sketch"
+msgid "Shit! You blue boys work fast, don't ya!?"
+msgstr ""
+
+msgctxt "228_Akiyama"
+msgid "Hey, wait!"
+msgstr ""
+

@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e60040.po\n"
+"X-Crowdin-File-ID: 59860\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "156"
+msgid "He even gave me a few leads to get me on the right track. So... yeah, I think I'll be just fine."
+msgstr ""
+
+msgctxt "252"
+msgid "You got a copy of <Color:8>Trail of the Ancient Fighter King<Color:Default>."
+msgstr ""
+
+msgctxt "372"
+msgid "You gained 2,000 EXP."
+msgstr ""
+
+msgctxt "5152"
+msgid "Street Thug"
+msgstr ""
+
+msgctxt "5156"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "5160"
+msgid "Irie"
+msgstr ""
+
+msgctxt "5164"
+msgid "Talk_Away"
+msgstr ""
+
+msgctxt "5168"
+msgid "Katagiri"
+msgstr ""
+
+msgctxt "5172"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "5176"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "5180"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "5184"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "5188"
+msgid "dummy"
+msgstr ""
+
+msgctxt "84_Street Thug"
+msgid "I'm sorry, I'm so sorry! I swear, I'll never disrespect you yakuza again so long as I live! Just lemme go!"
+msgstr ""
+
+msgctxt "96_Irie"
+msgid "...Hmph, fine. But I better never catch you near our turf again. Understand!?"
+msgstr ""
+
+msgctxt "108_Irie"
+msgid "How was that, Katagiri-san?"
+msgstr ""
+
+msgctxt "120_Katagiri"
+msgid "Perfect. Thanks for handling them, Irie."
+msgstr ""
+
+msgctxt "132_Saejima"
+msgid "Oh, Irie-han. How's it goin'? Hangin' in there?"
+msgstr ""
+
+msgctxt "144_Irie"
+msgid "More than just hanging. We're swinging! With a hand from Katagiri-san, I figured out a plan come up with that tribute money."
+msgstr ""
+
+msgctxt "168_Saejima"
+msgid "Glad to hear it."
+msgstr "Mi fa piacere."
+
+msgctxt "180_Irie"
+msgid "You're telling me."
+msgstr ""
+
+msgctxt "192_Katagiri"
+msgid "Thanks to Irie, the family's books are firmly in the black for the first time in ages. I'll be up for a promotion to Tojo HQ at this rate, and it'll be all because of Irie."
+msgstr ""
+
+msgctxt "204_Saejima"
+msgid "Good on ya. Remember, the respect of your men's what really sets a yakuza apart. Money can only take ya so far."
+msgstr ""
+
+msgctxt "216_Katagiri"
+msgid "I'll take that to heart. Thanks again."
+msgstr ""
+
+msgctxt "228_Irie"
+msgid "Katagiri-san, we should be going."
+msgstr ""
+
+msgctxt "240_Katagiri"
+msgid "Right, that's my cue. Those debts aren't gonna collect themselves, haha. Anyway, this is a little something for your help. Hope it does you as much good as you did me."
+msgstr ""
+
+msgctxt "276_Irie"
+msgid "Bye now, Saejima-san. And hey... thanks for everything."
+msgstr ""
+

@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e600c5.po\n"
+"X-Crowdin-File-ID: 59986\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "284"
+msgid "You got a <Color:8>Cold Pack<Color:Default>."
+msgstr ""
+
+msgctxt "4668"
+msgid "Isawa"
+msgstr "Isawa"
+
+msgctxt "4672"
+msgid "Fay"
+msgstr ""
+
+msgctxt "4676"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4680"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4684"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "4688"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "4692"
+msgid "Talk_Mail_st"
+msgstr ""
+
+msgctxt "4696"
+msgid "Talk_Mail_ed"
+msgstr ""
+
+msgctxt "4700"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4704"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "4708"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4712"
+msgid "0"
+msgstr ""
+
+msgctxt "56_Isawa"
+msgid "*gasp* *wheeze* You mother... *cough*"
+msgstr ""
+
+msgctxt "68_Fay"
+msgid "Tanimura-san, are you okay? Are you hurt!?"
+msgstr ""
+
+msgctxt "80_Isawa"
+msgid "...You serious, Fay? You ain't just fuckin' with me? Are\r\n"
+"you really tryin' to do me dirty like this?"
+msgstr ""
+
+msgctxt "92_Fay"
+msgid "......"
+msgstr ""
+
+msgctxt "104_Isawa"
+msgid "Fine. I'll just step back and let you think about it... But\r\n"
+"don't forget that you'll never make it without me. You're a\r\n"
+"nobody going nowhere in life. Oh, and enjoy your new prick."
+msgstr ""
+
+msgctxt "176_Tanimura"
+msgid "Are... you okay?"
+msgstr ""
+
+msgctxt "188_Fay"
+msgid "I am... now that it's over between Isawa and me. I can't thank you enough, Tanimura-san."
+msgstr ""
+
+msgctxt "200_Tanimura"
+msgid "Well, at least he got <Italic>some</Italic> sense knocked into him...\r\n"
+"But it's fairly obvious that he's the type to hold a grudge.\r\n"
+"I should give you my number so you can call me just in case."
+msgstr ""
+
+msgctxt "224_Fay"
+msgid "Yes, please do that. That's... very thoughtful, Tanimura-san."
+msgstr ""
+
+msgctxt "260_Tanimura"
+msgid "Well, I'm off. Hope your money makes it back home safely\r\n"
+"from now on."
+msgstr ""
+
+msgctxt "272_Fay"
+msgid "Yes... Oh, and before I forget... I'd like you to have this."
+msgstr ""
+
+msgctxt "308_Fay"
+msgid "I guess this is goodbye... Maybe you can swing by my work sometime? Just a thought."
+msgstr ""
+
+msgctxt "344_Tanimura"
+msgid "Whew... Never thought it'd feel so good to be single.\r\n"
+"On that note, I should get back to work myself."
+msgstr ""
+

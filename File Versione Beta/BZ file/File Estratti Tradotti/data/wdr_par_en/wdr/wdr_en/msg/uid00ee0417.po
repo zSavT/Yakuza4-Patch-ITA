@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee0417.po\n"
+"X-Crowdin-File-ID: 62130\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
+
+msgctxt "140"
+msgid "You got a <Color:8>Memo<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Promemoria<Color:Default>."
+
+msgctxt "212"
+msgid "You gained 500 EXP."
+msgstr "Hai ottenuto 500 EXP."
+
+msgctxt "3196"
+msgid "Mysterious Old Man"
+msgstr "Anziano Misterioso"
+
+msgctxt "3200"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "3204"
+msgid "Player"
+msgstr ""
+
+msgctxt "3208"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3212"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "3216"
+msgid "Komaki"
+msgstr ""
+
+msgctxt "3220"
+msgid "Talk_Kosite_No"
+msgstr ""
+
+msgctxt "3224"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "3228"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3232"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "3236"
+msgid "Memos"
+msgstr "Promemoria"
+
+msgctxt "56_Mysterious Old Man"
+msgid "You there... Halt."
+msgstr "Tu... Fermati."
+
+msgctxt "68_Player"
+msgid "What's cracking, old man?"
+msgstr "Che succede, vecchio?"
+
+msgctxt "80_Mysterious Old Man"
+msgid "My name is not \"old man.\" I am Sotaro Komaki, a master of the most esoteric martial arts known to man."
+msgstr "Il mio nome non è \"vecchio\". Sono Sotaro Komaki, un maestro delle arti marziali più esoteriche conosciute dall'uomo."
+
+msgctxt "92_Player"
+msgid "O...kay. And what do you want with me?"
+msgstr "O...kay. E cosa vuoi da me?"
+
+msgctxt "104_Komaki"
+msgid "Simply put, I can sense one's physical ability merely by observing the gait of their walk. And you, my suave friend, appear to be an especially promising specimen."
+msgstr "In parole povere, posso percepire l'abilità fisica di una persona semplicemente osservando la cadenza della sua camminata. E tu, mio elegante amico, sembri essere promettente."
+
+msgctxt "116_Player"
+msgid "Hold up, you're not trying to get me to join some kinda kooky dojo, are you? That stuff's not really my style."
+msgstr "Aspetta un attimo, non starai cercando di convincermi a unirmi a qualche dojo strambo, vero? Quel genere di cose non fa per me."
+
+msgctxt "128_Komaki"
+msgid "You needn't join anything. Take this."
+msgstr "Non devi unirti a nulla. Prendi questo."
+
+msgctxt "152_Mysterious Old Man"
+msgid "Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu. Access the Pause Menu with the <Action:Button_Options@Adventure> button.\r\n"
+"\r\n"
+"You will collect <Color:14>memos<Color:Default> as you progress through the story and interact with people in the city."
+msgstr "Leggi i <Color:14>promemoria<Color:Default> selezionando <Color:14>Promemoria<Color:Default> nel menu di Pausa. Accedi al menu di Pausa con il tasto <Action:Button_Options@Adventure>.\r\n"
+"\r\n"
+"Raccoglierai <Color:14>promemoria<Color:Default> man mano che progredisci nella storia e interagisci con le persone in città."
+
+msgctxt "164_Mysterious Old Man"
+msgid "<Color:14>Memos<Color:Default> cover a wide variety of topics, all of which will be useful for life in Kamurocho. Explore the city top to bottom to complete your <Color:14>memo<Color:Default> collection!"
+msgstr "I <Color:14>promemoria<Color:Default> coprono una vasta gamma di argomenti, tutti utili per la vita a **Kamurocho**. Esplora la città da cima a fondo per completare la tua collezione di <Color:14>promemoria<Color:Default>!"
+
+msgctxt "176_Mysterious Old Man"
+msgid "Any information you glean from these memos will not only grant you knowledge but worldly experience. Now go forth, and let your brain soak up information like the sponge it is!"
+msgstr "Qualsiasi informazione che ricavi da questi promemoria non solo ti garantirà conoscenza, ma anche esperienza mondana. Ora va', e lascia che il tuo cervello assorba le informazioni!"
+
+msgctxt "188_Player"
+msgid "...Sure. Thanks, old man."
+msgstr "...Certo. Grazie, vecchio."
+

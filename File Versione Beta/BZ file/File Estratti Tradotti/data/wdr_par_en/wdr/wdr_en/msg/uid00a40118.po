@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a40118.po\n"
+"X-Crowdin-File-ID: 59594\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "2044"
+msgid "Poppo Manager"
+msgstr ""
+
+msgctxt "2048"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "2052"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2056"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2060"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "2064"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "2068"
+msgid "2d_cf_pict_nigaoe_hana"
+msgstr ""
+
+msgctxt "2072"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2076"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "56_Poppo Manager"
+msgid "Hello, Akiyama-san."
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid "Yo. How's business?"
+msgstr ""
+
+msgctxt "80_Poppo Manager"
+msgid "You know, I gotta say, the competition's pretty fierce...\r\n"
+"Throw in some shoplifters, and it's a real struggle."
+msgstr ""
+
+msgctxt "92_Akiyama"
+msgid "Sounds rough. Listen, can you do me a favor and let me know\r\n"
+"if you see this guy?"
+msgstr ""
+
+msgctxt "104_Poppo Manager"
+msgid "...This some kinda  Rorschach test?"
+msgstr ""
+
+msgctxt "116_Akiyama"
+msgid "A what now? No, supposedly, the resemblance is uncanny.\r\n"
+"So if you see him..."
+msgstr ""
+
+msgctxt "128_Poppo Manager"
+msgid "You got it."
+msgstr "Va bene."
+
+msgctxt "152_Akiyama"
+msgid "(Now to stop by Volcano... Lots of people there.)"
+msgstr ""
+

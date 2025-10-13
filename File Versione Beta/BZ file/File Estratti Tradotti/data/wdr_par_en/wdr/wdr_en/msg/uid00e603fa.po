@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e603fa.po\n"
+"X-Crowdin-File-ID: 58362\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "6692"
+msgid "Saki-chan"
+msgstr ""
+
+msgctxt "6696"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "6700"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6704"
+msgid "0"
+msgstr ""
+
+msgctxt "6708"
+msgid "P_tan_sitcnt_tlk_kamae"
+msgstr ""
+
+msgctxt "6712"
+msgid "P_tan_sitcnt"
+msgstr ""
+
+msgctxt "6716"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6720"
+msgid "P_tan_stand"
+msgstr ""
+
+msgctxt "6724"
+msgid "P_tan_stand_tlk_kamae"
+msgstr ""
+
+msgctxt "6728"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "6732"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "56_Saki-chan"
+msgid "You're late! You know you're not supposed to keep a lady waiting."
+msgstr ""
+
+msgctxt "68_Tanimura"
+msgid "Heh. Sorry."
+msgstr ""
+
+msgctxt "140_Saki-chan"
+msgid "So that's what Yabe-san left behind... Hmm... You're right.\r\n"
+"I'm afraid that alone won't be enough to catch our man.\r\n"
+"And here we were so close."
+msgstr ""
+
+msgctxt "152_Tanimura"
+msgid "Isn't there anything we can do?"
+msgstr ""
+
+msgctxt "164_Saki-chan"
+msgid "I could always infiltrate the syndicate and scope things out... What do you say to that?"
+msgstr ""
+
+msgctxt "176_Tanimura"
+msgid "I say it's too dangerous."
+msgstr ""
+
+msgctxt "188_Saki-chan"
+msgid "Oh, please. All I'd be doing is working my magic at an affiliated venue. Besides, now that I've seen the documents, wouldn't you say I've passed the point of no return?"
+msgstr ""
+
+msgctxt "200_Tanimura"
+msgid "I get that, but... What would you even do?"
+msgstr ""
+
+msgctxt "212_Saki-chan"
+msgid "I'll masquerade as a hostess. Sweet-talk my way right up to the big bad Bridge himself."
+msgstr ""
+
+msgctxt "224_Tanimura"
+msgid "Hmm. I dunno about that..."
+msgstr ""
+
+msgctxt "236_Saki-chan"
+msgid "Have a little faith! With enough makeup and the right dress, I could be your perfect femme fatale, and you know it!"
+msgstr ""
+
+msgctxt "248_Tanimura"
+msgid "Well... You certainly have the charisma. All right then. Just don't do anything too crazy."
+msgstr ""
+
+msgctxt "332_Saki-chan"
+msgid "Where are you off to in such a hurry?"
+msgstr ""
+
+msgctxt "344_Tanimura"
+msgid "To look into the relationship between my dad and this mystery man, K."
+msgstr ""
+
+msgctxt "356_Tanimura"
+msgid "I've got nothing to lose, so I was thinking I'd get my fortune read by that greedy old lady."
+msgstr ""
+
+msgctxt "368_Saki-chan"
+msgid "Naomi-san?"
+msgstr ""
+
+msgctxt "380_Tanimura"
+msgid "Yeah, she really seems to know her stuff. I wonder what's in that crystal ball, anyway..."
+msgstr ""
+
+msgctxt "392_Saki-chan"
+msgid "You know Naomi-san is actually an informant, right?"
+msgstr ""
+
+msgctxt "404_Tanimura"
+msgid "Aha. I thought she seemed suspicious... Heh, that's one hell of a cover she's got."
+msgstr ""
+
+msgctxt "416_Saki-chan"
+msgid "Don't tell anyone, okay? There's a lot of risk involved in being an informant in Kamurocho."
+msgstr ""
+
+msgctxt "428_Saki-chan"
+msgid "Why do you want to know about K so bad, anyway?"
+msgstr ""
+
+msgctxt "440_Tanimura"
+msgid "K's another name that pops up all over my dad's notebook."
+msgstr ""
+
+msgctxt "452_Tanimura"
+msgid "I just want to know what kind of person he was. Besides, there might be some connection to Bridge."
+msgstr ""
+
+msgctxt "464_Saki-chan"
+msgid "I see. Well, if I find out anything, I'll contact you."
+msgstr ""
+
+msgctxt "476_Tanimura"
+msgid "Thanks. I'd appreciate it."
+msgstr ""
+

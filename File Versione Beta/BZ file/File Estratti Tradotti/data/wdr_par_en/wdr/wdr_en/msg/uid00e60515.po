@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e60515.po\n"
+"X-Crowdin-File-ID: 62848\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
+
+msgctxt "1432"
+msgid "Fickle Baseball Fan"
+msgstr ""
+
+msgctxt "1436"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1440"
+msgid "Soccer Fan"
+msgstr ""
+
+msgctxt "1444"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1448"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "1452"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1456"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1460"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "84_Fickle Baseball Fan"
+msgid "Hey, I heard someone saw Baba over at the batting center\r\n"
+"just now!"
+msgstr ""
+
+msgctxt "96_Soccer Fan"
+msgid "Uh, should I know who that is?"
+msgstr ""
+
+msgctxt "108_Fickle Baseball Fan"
+msgid "Oh c'mon, you can't tell me you don't know Baba! He's super\r\n"
+"famous!"
+msgstr ""
+
+msgctxt "120_Fickle Baseball Fan"
+msgid "He can pitch like you wouldn't believe! What do they call\r\n"
+"him, again?"
+msgstr ""
+
+msgctxt "132_Fickle Baseball Fan"
+msgid "Was it Change-up? Or maybe Screwball?"
+msgstr ""
+
+msgctxt "144_Soccer Fan"
+msgid "You're asking the wrong guy..."
+msgstr ""
+
+msgctxt "156_Kiryu"
+msgid "(Huh, there's a celebrity over at the batting center. That's where that weird message told me to go, too...)"
+msgstr ""
+

@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e60172.po\n"
+"X-Crowdin-File-ID: 61088\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "224"
+msgid "You gained 10,000 EXP.\t"
+msgstr ""
+
+msgctxt "2156"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "2160"
+msgid "Chihiro"
+msgstr ""
+
+msgctxt "2164"
+msgid "F_sxy_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "2168"
+msgid "P_stand_sync_dakitukiA_ed"
+msgstr ""
+
+msgctxt "2172"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2176"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "2180"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2184"
+msgid "P_tan_stand"
+msgstr ""
+
+msgctxt "2188"
+msgid "0"
+msgstr ""
+
+msgctxt "68_Tanimura"
+msgid "What's wrong? You kinda zoned out there."
+msgstr ""
+
+msgctxt "80_Chihiro"
+msgid "I think I'm too happy... It's like a dream... What if I wake up tomorrow and none of this happened?"
+msgstr ""
+
+msgctxt "92_Tanimura"
+msgid "Heh, that's just silly."
+msgstr ""
+
+msgctxt "116_Chihiro"
+msgid "Thank you for everything. I'm never going to give up my dream of becoming an actress."
+msgstr ""
+
+msgctxt "128_Tanimura"
+msgid "I'll do whatever I can to help."
+msgstr ""
+
+msgctxt "140_Chihiro"
+msgid "I love you! <Color:7>♥<Color:Default>"
+msgstr ""
+

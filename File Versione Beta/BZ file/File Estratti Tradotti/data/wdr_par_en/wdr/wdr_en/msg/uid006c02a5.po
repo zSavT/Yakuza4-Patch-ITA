@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid006c02a5.po\n"
+"X-Crowdin-File-ID: 58086\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "132"
+msgid "You got a <Color:8>Staminan X<Color:Default>."
+msgstr "Hai ottenuto uno <Color:8>Staminan X<Color:Default>."
+
+msgctxt "360"
+msgid "You got a bottle of <Color:8>French Cologne<Color:Default>."
+msgstr "Hai ottenuto una bottiglia di <Color:8>Colonia Francese<Color:Default>."
+
+msgctxt "408"
+msgid "You got a bottle of <Color:8>Italian Cologne<Color:Default>."
+msgstr "Hai ottenuto una bottiglia di <Color:8>Colonia Italiana<Color:Default>."
+
+msgctxt "456"
+msgid "You got a <Color:8>Swiss Watch<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Orologio Svizzero<Color:Default>."
+
+msgctxt "768"
+msgid "You got a bottle of <Color:8>French Cologne<Color:Default>."
+msgstr "Hai ottenuto una bottiglia di <Color:8>Colonia Francese<Color:Default>."
+
+msgctxt "816"
+msgid "You got a bottle of <Color:8>Italian Cologne<Color:Default>."
+msgstr "Hai ottenuto una bottiglia di <Color:8>Colonia Italiana<Color:Default>."
+
+msgctxt "864"
+msgid "You got a <Color:8>Swiss Watch<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Orologio Svizzero<Color:Default>."
+
+msgctxt "1176"
+msgid "You got a bottle of <Color:8>French Cologne<Color:Default>."
+msgstr "Hai ottenuto una bottiglia di <Color:8>Colonia Francese<Color:Default>."
+
+msgctxt "1224"
+msgid "You got a bottle of <Color:8>Italian Cologne<Color:Default>."
+msgstr "Hai ottenuto una bottiglia di <Color:8>Colonia Italiana<Color:Default>."
+
+msgctxt "1272"
+msgid "You got a <Color:8>Swiss Watch<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Orologio Svizzero<Color:Default>."
+
+msgctxt "15256"
+msgid "望月京子：源氏名"
+msgstr ""
+
+msgctxt "15260"
+msgid "dummy"
+msgstr ""
+
+msgctxt "15264"
+msgid "0"
+msgstr ""
+
+msgctxt "15268"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "120_望月京子：源氏名"
+msgid "Good game! Here you go. <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Bel gioco! Ecco a lei. <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "168_望月京子：源氏名"
+msgid "That was fun! ♪ Take me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
+msgstr "È stato divertente! ♪ Mi porti fuori ancora, ok? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "240_望月京子：源氏名"
+msgid "Oh! One more thing. I have a present for you, Kiryu-san. Here you go! ♪"
+msgstr "Oh! Un'ultima cosa. Ho un regalo per lei, Kiryu-san. Ecco a lei! ♪"
+
+msgctxt "492_望月京子：源氏名"
+msgid "That was fun! ♪ Take me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
+msgstr "È stato divertente! ♪ Mi porti fuori ancora, ok? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "552_望月京子：源氏名"
+msgid "Good game! Aww, a tie?"
+msgstr "Bel gioco! Ah, un pareggio?"
+
+msgctxt "576_望月京子：源氏名"
+msgid "That was fun! ♪ Take me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
+msgstr "È stato divertente! ♪ Mi porti fuori ancora, ok? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "648_望月京子：源氏名"
+msgid "Oh! One more thing. I have a present for you, Kiryu-san. Here you go! ♪"
+msgstr "Oh! Un'ultima cosa. Ho un regalo per lei, Kiryu-san. Ecco a lei! ♪"
+
+msgctxt "900_望月京子：源氏名"
+msgid "That was fun! ♪ Take me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
+msgstr "È stato divertente! ♪ Mi porti fuori ancora, ok? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "960_望月京子：源氏名"
+msgid "Good game! I was pretty good, huh?"
+msgstr "Bel gioco! Sono stata brava, no?"
+
+msgctxt "984_望月京子：源氏名"
+msgid "That was fun! ♪ Take me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
+msgstr "È stato divertente! ♪ Mi porti fuori ancora, ok? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1056_望月京子：源氏名"
+msgid "Oh! One more thing. I have a present for you, Kiryu-san. Here you go! ♪"
+msgstr "Oh! Un'ultima cosa. Ho un regalo per lei, Kiryu-san. Ecco a lei! ♪"
+
+msgctxt "1308_望月京子：源氏名"
+msgid "That was fun! ♪ Take me out again, okay? <Color:255,200,200,255>♥<Color:Default>"
+msgstr "È stato divertente! ♪ Mi porti fuori ancora, ok? <Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "1368_望月京子：源氏名"
+msgid "Sorry for the wait! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Scusi l'attesa! <Color:255,200,200,255>♥<Color:Default>"
+

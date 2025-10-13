@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a40075.po\n"
+"X-Crowdin-File-ID: 59484\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "15908"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "15912"
+msgid "Nishihama"
+msgstr ""
+
+msgctxt "15916"
+msgid "Talk_Cry"
+msgstr ""
+
+msgctxt "15920"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "15924"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "15928"
+msgid "Hana"
+msgstr "Hana"
+
+msgctxt "15932"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "15936"
+msgid "M_nml_sitsofa_tlk_phone_p_st"
+msgstr ""
+
+msgctxt "15940"
+msgid "2d_cf_pict_musume"
+msgstr ""
+
+msgctxt "15944"
+msgid "M_nml_sitsofa_tlk_phone_p_ed"
+msgstr ""
+
+msgctxt "15948"
+msgid "P_aki_sitsofa_tlk_phone_p_st"
+msgstr ""
+
+msgctxt "15952"
+msgid "P_aki_sitsofa_tlk_phone_p_ed"
+msgstr ""
+
+msgctxt "15956"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "15960"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "15964"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "15968"
+msgid "P_stand"
+msgstr ""
+
+msgctxt "15972"
+msgid "Idle"
+msgstr ""
+
+msgctxt "15976"
+msgid "Talk_Mail_st"
+msgstr ""
+
+msgctxt "15980"
+msgid "Talk_Mail_ed"
+msgstr ""
+
+msgctxt "15984"
+msgid "M_nml_stand"
+msgstr ""
+
+msgctxt "15988"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "15992"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "15996"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "16000"
+msgid "dummy"
+msgstr ""
+
+msgctxt "16004"
+msgid "0"
+msgstr ""
+
+msgctxt "168_Akiyama"
+msgid "Now then, what seems to be the problem?"
+msgstr ""
+
+msgctxt "180_Nishihama"
+msgid "My name's Nishihama, and I run a consulting business."
+msgstr ""
+
+msgctxt "192_Nishihama"
+msgid "It's my daughter... She's been kidnapped."
+msgstr ""
+
+msgctxt "204_Akiyama"
+msgid "Kidnapped? Have you contacted the police?"
+msgstr ""
+
+msgctxt "216_Nishihama"
+msgid "How could I!? The kidnapper told me bad things would happen\r\n"
+"to her if I called the cops. I'm here because I need money\r\n"
+"to pay them off."
+msgstr ""
+
+msgctxt "228_Akiyama"
+msgid "They're demanding a ransom?"
+msgstr ""
+
+msgctxt "240_Nishihama"
+msgid "Well, yes."
+msgstr ""
+
+msgctxt "252_Hana"
+msgid "Most kidnappings fail, you know. The police often wind up\r\n"
+"catching the criminals in the end, so you might want to try\r\n"
+"them first..."
+msgstr ""
+
+msgctxt "264_Nishihama"
+msgid "Just because the police catch <Italic>most</Italic> of them doesn't mean my\r\n"
+"daughter won't get hurt! I'm not going to gamble with her\r\n"
+"safety like that!"
+msgstr ""
+
+msgctxt "276_Nishihama"
+msgid "Besides, even if they did catch this guy, my daughter is...\r\n"
+"delicate. If anything were to happen to her before they\r\n"
+"caught him..."
+msgstr ""
+
+msgctxt "288_Hana"
+msgid "......"
+msgstr ""
+
+msgctxt "300_Akiyama"
+msgid "I understand. But we can't be sure that money will\r\n"
+"bring her home safe."
+msgstr ""
+
+msgctxt "312_Nishihama"
+msgid "Well, there's no sense in just talking about it! Here, take\r\n"
+"a look at this!"
+msgstr ""
+
+msgctxt "372_Akiyama"
+msgid "Hmm, interesting. Still, can't you just trace the email to find\r\n"
+"out who the kidnapper is?"
+msgstr ""
+
+msgctxt "384_Nishihama"
+msgid "They used my daughter's cell phone. I wrote back, but I guess\r\n"
+"they'd turned it off."
+msgstr ""
+
+msgctxt "396_Akiyama"
+msgid "Would you mind sending a copy of that photo to my phone, just in case?"
+msgstr ""
+
+msgctxt "408_Nishihama"
+msgid "Oh... Yeah, sure."
+msgstr ""
+
+msgctxt "468_Akiyama"
+msgid "Thanks. Sorry, but my business has turned me into a bit of a skeptic."
+msgstr ""
+
+msgctxt "480_Akiyama"
+msgid "So... How much were you looking to borrow?"
+msgstr ""
+
+msgctxt "492_Nishihama"
+msgid "The kidnapper is asking for a hundred million yen. I scraped\r\n"
+"up seventy million by cleaning out my account and borrowing\r\n"
+"the rest from the bank..."
+msgstr ""
+
+msgctxt "504_Akiyama"
+msgid "And now you need the remaining thirty million."
+msgstr ""
+
+msgctxt "516_Nishihama"
+msgid "That's correct... I heard you could make it happen without\r\n"
+"any interest or collateral."
+msgstr ""
+
+msgctxt "528_Akiyama"
+msgid "Well, I do have a few conditions. If you can pass my test,\r\n"
+"the loan is yours. No interest, no collateral."
+msgstr ""
+
+msgctxt "540_Nishihama"
+msgid "I... Thank you so much! I'll do anything you ask! Anything!\r\n"
+"Please help me!"
+msgstr ""
+
+msgctxt "552_Akiyama"
+msgid "...Honestly, I don't think I can trust you. Better you just\r\n"
+"forget about the whole thing."
+msgstr ""
+
+msgctxt "564_Nishihama"
+msgid "No! You can't mean that! You're the only person I can turn to!"
+msgstr ""
+
+msgctxt "576_Nishihama"
+msgid "I've put all my assets up as collateral. You're the only one\r\n"
+"who'll even consider loaning me the last thirty million!"
+msgstr ""
+
+msgctxt "588_Nishihama"
+msgid "I'm begging you, please reconsider! I won't leave until you\r\n"
+"loan me the money!"
+msgstr ""
+
+msgctxt "600_Akiyama"
+msgid "Hmm... Let me think..."
+msgstr ""
+
+msgctxt "612_Akiyama"
+msgid "...No, I don't think I can trust you. Best just forget about\r\n"
+"the whole thing."
+msgstr ""
+
+msgctxt "624_Nishihama"
+msgid "I'm begging you, please reconsider! I won't leave until you\r\n"
+"loan me the money!"
+msgstr ""
+
+msgctxt "636_Akiyama"
+msgid "...All right, but you'll have to pass my test first."
+msgstr ""
+
+msgctxt "648_Akiyama"
+msgid "We don't have much time, so let's get to it."
+msgstr ""
+
+msgctxt "744_Akiyama"
+msgid "Hana-chan. Would you run a check for me on that Nishihama\r\n"
+"guy? Oh, and look into how his business is holding up, as well."
+msgstr ""
+
+msgctxt "756_Hana"
+msgid "Sure thing, Chief. Hang on."
+msgstr ""
+
+msgctxt "768_Hana"
+msgid "Let's see..."
+msgstr ""
+
+msgctxt "780_Hana"
+msgid "Here we go. Says here he lives with his wife and one daughter.\r\n"
+"The daughter's in high school..."
+msgstr ""
+
+msgctxt "804_Akiyama"
+msgid "High school, huh? That sounds about right."
+msgstr ""
+
+msgctxt "816_Hana"
+msgid "Nishihama-san has no criminal record... Oh, but his daughter's\r\n"
+"been taken in a few times."
+msgstr ""
+
+msgctxt "828_Akiyama"
+msgid "Hmm... Maybe she runs with a dangerous crowd. Anything else?"
+msgstr ""
+
+msgctxt "840_Hana"
+msgid "Nishihama runs a consulting business, and it appears to be\r\n"
+"doing all right... He has an average amount of debt."
+msgstr ""
+
+msgctxt "864_Akiyama"
+msgid "Interesting... A kidnapping strikes a completely ordinary\r\n"
+"family..."
+msgstr ""
+
+msgctxt "948_Nishihama"
+msgid "I got the contract. This should do the trick, right?"
+msgstr ""
+
+msgctxt "960_Akiyama"
+msgid "That looks fine. Thanks. Looks like you passed the test."
+msgstr ""
+
+msgctxt "972_Nishihama"
+msgid "...No interest, no collateral?"
+msgstr ""
+
+msgctxt "984_Akiyama"
+msgid "Deal's a deal. I'll lend you thirty million, as promised.\r\n"
+"However, I can't give you such a large sum right this\r\n"
+"second."
+msgstr ""
+
+msgctxt "996_Nishihama"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "1008_Akiyama"
+msgid "It's not like I have it lying around. I'll send it over to\r\n"
+"the exchange point. It's safer that way."
+msgstr ""
+
+msgctxt "1020_Nishihama"
+msgid "I suppose you're right..."
+msgstr ""
+
+msgctxt "1032_Akiyama"
+msgid "Then, we're all set for today. I'll be waiting for your\r\n"
+"call."
+msgstr ""
+
+msgctxt "1044_Nishihama"
+msgid "All right... I guess I'll head home, then. Just... please,\r\n"
+"please don't let me down on that thirty million yen!"
+msgstr ""
+
+msgctxt "1104_Akiyama"
+msgid "Hana-chan, could you get the money ready? I have a feeling\r\n"
+"he'll be calling sooner rather than later."
+msgstr ""
+
+msgctxt "1116_Hana"
+msgid "Yeah, okay... But are you really going to lend it to him?\r\n"
+"He's one shady customer..."
+msgstr ""
+
+msgctxt "1128_Akiyama"
+msgid "Well, he passed the test, so now I've got to uphold my end\r\n"
+"of the deal. You wouldn't want a liar for a boss, would you?"
+msgstr ""
+
+msgctxt "1140_Hana"
+msgid "I guess not..."
+msgstr ""
+
+msgctxt "1152_Akiyama"
+msgid "I'm going to step out for a moment. Take care of\r\n"
+"that money, okay?"
+msgstr ""
+
+msgctxt "1164_Hana"
+msgid "Sure thing. Be careful out there."
+msgstr ""
+
+msgctxt "1212_Akiyama"
+msgid "Give Him a Test"
+msgstr ""
+
+msgctxt "1224_Akiyama"
+msgid "Turn Him Down"
+msgstr ""
+
+msgctxt "1236_Akiyama"
+msgid "Give Him a Test"
+msgstr ""
+
+msgctxt "1248_Akiyama"
+msgid "Turn Him Down"
+msgstr ""
+

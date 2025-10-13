@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a40260.po\n"
+"X-Crowdin-File-ID: 58402\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "1392"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1396"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1400"
+msgid "Asian Woman"
+msgstr ""
+
+msgctxt "1404"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1408"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1412"
+msgid "0"
+msgstr ""
+
+msgctxt "84_Akiyama"
+msgid "Hi! I'm a scout for a hostess club."
+msgstr ""
+
+msgctxt "96_Asian Woman"
+msgid "?"
+msgstr ""
+
+msgctxt "108_Akiyama"
+msgid "I'm a scout. For a hostess club. Any chance you'd be\r\n"
+"interested in that kind of work?"
+msgstr ""
+
+msgctxt "120_Asian Woman"
+msgid "*speaking foreign language*"
+msgstr ""
+
+msgctxt "132_Akiyama"
+msgid "(Oops. Shouldn't have assumed she speaks Japanese...)"
+msgstr ""
+
+msgctxt "144_Akiyama"
+msgid "Sorry to bother you! Goodbye!"
+msgstr ""
+

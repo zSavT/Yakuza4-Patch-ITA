@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e602d4.po\n"
+"X-Crowdin-File-ID: 61764\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
+
+msgctxt "4012"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "4016"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4020"
+msgid "Matsuyama"
+msgstr ""
+
+msgctxt "4024"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4028"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4032"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "4036"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "4040"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "4044"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "132_Kiryu"
+msgid "You said you've already tried all the ramen around here, right?"
+msgstr ""
+
+msgctxt "144_Matsuyama"
+msgid "Yeah. I think I must've eaten at every single place in town."
+msgstr ""
+
+msgctxt "156_Kiryu"
+msgid "In that case, we ought to try something a little different. It might give you some new ideas."
+msgstr ""
+
+msgctxt "168_Matsuyama"
+msgid "Good thinking. Where do you think we should go first?"
+msgstr ""
+
+msgctxt "180_Kiryu"
+msgid "Let's go eat some tasty yakiniku. I think it has something in common with that rich tonkotsu ramen at Kyushu No. 1 Star. "
+msgstr ""
+
+msgctxt "192_Matsuyama"
+msgid "Great idea! Let's go! "
+msgstr ""
+
+msgctxt "216_Kiryu"
+msgid "Let's go eat some top-notch sushi."
+msgstr ""
+
+msgctxt "228_Matsuyama"
+msgid "Got it. Expensive, high-end seafood would be the exact opposite of the affordable, hearty tonkotsu ramen we serve. "
+msgstr ""
+
+msgctxt "240_Kiryu"
+msgid "Exactly. Let's go. "
+msgstr ""
+
+msgctxt "252_Matsuyama"
+msgid "You're the boss! "
+msgstr ""
+
+msgctxt "276_Kiryu"
+msgid "Ramen's all about serving good food fast and cheap. With that in mind, it might be worthwhile to visit a fast food joint. "
+msgstr ""
+
+msgctxt "288_Matsuyama"
+msgid "Great idea! I never thought of that! "
+msgstr ""
+
+msgctxt "300_Kiryu"
+msgid "Okay, let's go to Smile Burger. "
+msgstr ""
+
+msgctxt "312_Matsuyama"
+msgid "You're the boss! "
+msgstr ""
+
+msgctxt "336_Kiryu"
+msgid "Maybe we're trying too hard. Let's wander around a little for a change of pace. "
+msgstr ""
+
+msgctxt "348_Matsuyama"
+msgid "But..."
+msgstr "Ma..."
+
+msgctxt "360_Kiryu"
+msgid "You shouldn't overthink things. Let's just take it slow. "
+msgstr ""
+
+msgctxt "372_Matsuyama"
+msgid "Okay..."
+msgstr ""
+
+msgctxt "396_Kiryu"
+msgid "Let's get some tasty yakiniku."
+msgstr ""
+
+msgctxt "408_Kiryu"
+msgid "How about some fresh sushi?"
+msgstr ""
+
+msgctxt "420_Kiryu"
+msgid "Let's see what fast food has to offer."
+msgstr ""
+
+msgctxt "432_Kiryu"
+msgid "Let's just wander around town."
+msgstr ""
+

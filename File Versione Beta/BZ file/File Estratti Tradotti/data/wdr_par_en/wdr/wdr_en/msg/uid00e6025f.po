@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e6025f.po\n"
+"X-Crowdin-File-ID: 58704\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "436"
+msgid "You got <Color:8>5,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "544"
+msgid "You gained 3,000 EXP."
+msgstr ""
+
+msgctxt "832"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr ""
+
+msgctxt "1000"
+msgid "You gained 3,000 EXP."
+msgstr ""
+
+msgctxt "13800"
+msgid "Haruko"
+msgstr ""
+
+msgctxt "13804"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "13808"
+msgid "Konatsu"
+msgstr ""
+
+msgctxt "13812"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "13816"
+msgid "Akino"
+msgstr ""
+
+msgctxt "13820"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "13824"
+msgid "Yusuke"
+msgstr ""
+
+msgctxt "13828"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "13832"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "13836"
+msgid "Naoya"
+msgstr ""
+
+msgctxt "13840"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "13844"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "13848"
+msgid "Sync_Send"
+msgstr ""
+
+msgctxt "13852"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "13856"
+msgid "dummy"
+msgstr ""
+
+msgctxt "13860"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "13864"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "13868"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "100_Haruko"
+msgid "Whew! I haven't drunk this much in forever!"
+msgstr ""
+
+msgctxt "112_Konatsu"
+msgid "Yeah, that was... fun."
+msgstr ""
+
+msgctxt "124_Akino"
+msgid "Think I mighta... overdone it... just a bit."
+msgstr ""
+
+msgctxt "136_Yusuke"
+msgid "Hey, Akino, are you all right?"
+msgstr ""
+
+msgctxt "148_Haruko"
+msgid "Dang, she looks pretty sloshed. What should we do?"
+msgstr ""
+
+msgctxt "160_Tanimura"
+msgid "Don't worry. I'll make sure she gets home."
+msgstr ""
+
+msgctxt "172_Yusuke"
+msgid "Huh!?"
+msgstr ""
+
+msgctxt "184_Haruko"
+msgid "Really? Thanks so much, Ryota-kun! I'll give you her address later."
+msgstr ""
+
+msgctxt "196_Tanimura"
+msgid "Sure."
+msgstr ""
+
+msgctxt "220_Tanimura"
+msgid "Yusuke, you know where she lives, right? How about you make sure she gets home?"
+msgstr ""
+
+msgctxt "232_Yusuke"
+msgid "Me?"
+msgstr ""
+
+msgctxt "244_Haruko"
+msgid "Don't worry. I know where she lives. I'll make sure she gets home okay."
+msgstr ""
+
+msgctxt "256_Tanimura"
+msgid "Oh, okay..."
+msgstr ""
+
+msgctxt "268_Haruko"
+msgid "Yusuke-kun, would you mind seeing Konatsu home? She's not drunk, but I'm still concerned about her, just the same."
+msgstr ""
+
+msgctxt "280_Yusuke"
+msgid "Oh, all right. Will do!"
+msgstr ""
+
+msgctxt "292_Haruko"
+msgid "Thanks! Well, today was a lot of fun! See you guys again!"
+msgstr ""
+
+msgctxt "376_Haruko"
+msgid "Uh-oh... That didn't go well at all."
+msgstr ""
+
+msgctxt "388_Naoya"
+msgid "Either way, thanks for your help, Ryo－ I mean, Tanimura-san."
+msgstr ""
+
+msgctxt "400_Tanimura"
+msgid "To be honest, I don't think I helped that much."
+msgstr ""
+
+msgctxt "412_Naoya"
+msgid "Well... Yusuke didn't really man up the way he should've."
+msgstr ""
+
+msgctxt "424_Naoya"
+msgid "Sorry, but this is all I have to offer."
+msgstr ""
+
+msgctxt "448_Tanimura"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "460_Naoya"
+msgid "Don't mention it. I'm amazed you decided to help us out in the first place. Well, see you around."
+msgstr ""
+
+msgctxt "556_Haruko"
+msgid "Really? That would be super! I'll see Konatsu home. Thanks, Yusuke-kun!"
+msgstr ""
+
+msgctxt "568_Talk_Gakkari"
+msgid "Well, everybody, today was fun. Thanks for coming out!"
+msgstr ""
+
+msgctxt "592_Haruko"
+msgid "Come on, Akino. Let's go."
+msgstr ""
+
+msgctxt "604_Akino"
+msgid "Ughhh... Hmm? Yusuke? Where we going?"
+msgstr ""
+
+msgctxt "616_Yusuke"
+msgid "I'm taking your drunk self home, of course."
+msgstr ""
+
+msgctxt "628_Akino"
+msgid "Whaaaat! But the night's still young! Let's go somewhere fun..."
+msgstr ""
+
+msgctxt "640_Yusuke"
+msgid "Uh. Well. I guess we could do that..."
+msgstr ""
+
+msgctxt "652_Naoya"
+msgid "You guys go. Ryota and I are gonna call it a day here."
+msgstr ""
+
+msgctxt "664_Tanimura"
+msgid "Yeah, you two have fun."
+msgstr ""
+
+msgctxt "676_Yusuke"
+msgid "Er, right! Thanks, guys. I owe you one."
+msgstr ""
+
+msgctxt "760_Haruko"
+msgid "Well, I'd say that went over pretty damn good!"
+msgstr ""
+
+msgctxt "772_Tanimura"
+msgid "That it did."
+msgstr ""
+
+msgctxt "784_Naoya"
+msgid "Honestly, I didn't think it'd go this well. It was really thanks to you, Ryo－ I mean, Tanimura-san."
+msgstr ""
+
+msgctxt "796_Tanimura"
+msgid "I guess we'll see. This is just the beginning for those two."
+msgstr ""
+
+msgctxt "808_Naoya"
+msgid "Heheh, you got that right. It's all up to our boy Yusuke now."
+msgstr ""
+
+msgctxt "820_Naoya"
+msgid "It's not much, but this is to thank you for everything you did."
+msgstr ""
+
+msgctxt "844_Tanimura"
+msgid "Are you sure? I don't know if I feel right... accepting money for this."
+msgstr ""
+
+msgctxt "856_Naoya"
+msgid "Ah, don't take it like that. Besides, I'll make sure I get it all back from Yusuke later. I know he appreciates your help."
+msgstr ""
+
+msgctxt "868_Tanimura"
+msgid "You really got his back, don't you?"
+msgstr ""
+
+msgctxt "880_Naoya"
+msgid "Well, like I said, he's like a bad habit I just can't break.\r\n"
+"So what's a friend supposed do? Hahaha."
+msgstr ""
+
+msgctxt "892_Naoya"
+msgid "Alrighty, I'm heading home."
+msgstr ""
+
+msgctxt "904_Tanimura"
+msgid "Cool. Be safe out there."
+msgstr ""
+
+msgctxt "916_Naoya"
+msgid "Thanks again, man!"
+msgstr ""
+
+msgctxt "1012_Haruko"
+msgid "I'll make sure she gets home."
+msgstr ""
+
+msgctxt "1024_Haruko"
+msgid "You take care of her, Yusuke."
+msgstr ""
+

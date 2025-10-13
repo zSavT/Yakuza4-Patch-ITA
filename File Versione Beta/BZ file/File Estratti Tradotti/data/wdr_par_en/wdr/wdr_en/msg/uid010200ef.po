@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid010200ef.po\n"
+"X-Crowdin-File-ID: 61132\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "6912"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "6916"
+msgid "Kobayashi"
+msgstr ""
+
+msgctxt "6920"
+msgid "Ito"
+msgstr ""
+
+msgctxt "6924"
+msgid "Akiyama's Fighting Style"
+msgstr "Stile di Combattimento di Akiyama"
+
+msgctxt "6928"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6932"
+msgid "Abilities"
+msgstr "Abilità"
+
+msgctxt "6936"
+msgid "Street Punk"
+msgstr "Pestifero di Strada"
+
+msgctxt "6940"
+msgid "Displeased Man"
+msgstr "Uomo Scontento"
+
+msgctxt "6944"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "6948"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6952"
+msgid "Takahashi"
+msgstr ""
+
+msgctxt "6956"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "6960"
+msgid "Talk_Chohatu"
+msgstr ""
+
+msgctxt "84_Akiyama"
+msgid "One thing the loan business and a street fight have in common? You gotta know who you're dealing with."
+msgstr "Una cosa che il business dei prestiti e una rissa per strada hanno in comune? Devi sapere con chi hai a che fare."
+
+msgctxt "96_Kobayashi"
+msgid "Ugh..."
+msgstr ""
+
+msgctxt "108_Ito"
+msgid "Grr... We'll be back!"
+msgstr "Grr... Torneremo!"
+
+msgctxt "168_Akiyama's Fighting Style"
+msgid "This information has been added as a <Color:14>memo<Color:Default>.\r\n"
+"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu.\r\n"
+"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr "Questa informazione è stata aggiunta come <Color:14>promemoria<Color:Default>.\r\n"
+"Leggi i <Color:14>promemoria<Color:Default> selezionando <Color:14>Promemoria<Color:Default> nel menu di Pausa.\r\n"
+"Puoi accedere al menu di Pausa con il tasto <Action:Button_Options@Adventure>."
+
+msgctxt "180_Akiyama"
+msgid "(Guess I'll go collect some debts.)"
+msgstr "(Immagino che andrò a riscuotere dei debiti.)"
+
+msgctxt "204_Abilities"
+msgid "Unlock new abilities by using the <Color:200,255,200,255>Soul Orbs<Color:Default> you earn by leveling up. Check abilities in the Abilities screen of the Pause Menu."
+msgstr "Sblocca nuove abilità usando le <Color:200,255,200,255>Sfere Anima<Color:Default> che ottieni salendo di livello. Controlla le abilità nella schermata Abilità del menu di Pausa."
+
+msgctxt "240_Street Punk"
+msgid "Well, well, well. If it ain't our good friend Akiyama-san."
+msgstr "Bene, bene, bene. Se non è il nostro buon amico Akiyama-san."
+
+msgctxt "252_Displeased Man"
+msgid "Looks like Sky Finance's flying sky high. You out to collect?"
+msgstr "Sembra che la Sky Finance stia volando alle stelle. Sei qui per riscuotere?"
+
+msgctxt "264_Akiyama"
+msgid "(Great, a pack of loan shark heavies. Just what I needed.)"
+msgstr "(Grandioso, un branco di strozzini. Proprio quello che mi serviva.)"
+
+msgctxt "276_Akiyama"
+msgid "Hey, guys. How's business over at Kamurocho Loans?"
+msgstr "Ehi, ragazzi. Come vanno gli affari alla Kamurocho Loans?"
+
+msgctxt "288_Kobayashi"
+msgid "It's shit, thanks to you and your company. You're a regular pain in the ass."
+msgstr "Fanno schifo, grazie a te e alla tua compagnia. Sei una vera spina nel fianco."
+
+msgctxt "300_Ito"
+msgid "Got that right. I hear you don't even charge interest on the loans you dish out."
+msgstr "Hai ragione. Ho sentito che non addebiti nemmeno gli interessi sui prestiti che eroghi."
+
+msgctxt "312_Ito"
+msgid "You're stealing away all our customers."
+msgstr "Ci stai rubando tutti i clienti."
+
+msgctxt "324_Takahashi"
+msgid "C'mon, we're both lenders here. Let's all play by the rules and everyone'll do just fine."
+msgstr "Dai, siamo entrambi prestatori qui. Giochiamo tutti secondo le regole e andrà tutto bene."
+
+msgctxt "336_Akiyama"
+msgid "Rules? Pfft."
+msgstr "Regole? Pff."
+
+msgctxt "348_Akiyama"
+msgid "You guys aren't even a legitimate business. What rules do you play by?"
+msgstr "Voi ragazzi non siete nemmeno un'attività legittima. Quali regole seguite?"
+
+msgctxt "360_Akiyama"
+msgid "You don't seem to mind bullying folks into borrowing, or plastering up ugly ads all over. My customers find me on their own."
+msgstr "Non sembrate preoccuparvi di costringere la gente a prendere prestiti o di affiggere brutti annunci ovunque. I miei clienti mi trovano da soli."
+
+msgctxt "372_Akiyama"
+msgid "If anyone's a pain in the ass here, it's you."
+msgstr "Se c'è qualcuno che è una spina nel fianco qui, siete voi."
+
+msgctxt "384_Takahashi"
+msgid "So we got a tough guy, do we? I'd watch that big mouth of yours if I were you."
+msgstr "Quindi abbiamo un tipo tosto, eh? Starei attento a quella boccaccia se fossi in te."
+
+msgctxt "396_Akiyama"
+msgid "Oh, and one more thing. You and me? Don't think we're in the same league. Heck, we're not even playing the same game."
+msgstr "Oh, e un'ultima cosa. Voi e io? Non credo che siamo allo stesso livello. Accidenti, non stiamo nemmeno giocando allo stesso gioco."
+
+msgctxt "408_Kobayashi"
+msgid "Shut your trap, dickweed!"
+msgstr "Chiudi il becco, stronzo!"
+
+msgctxt "420_Ito"
+msgid "You've been pissing me off for a while now. I'm gonna enjoy flattening your ass!"
+msgstr "Mi stai facendo incazzare da un po' di tempo. Mi divertirò a farti il culo!"
+

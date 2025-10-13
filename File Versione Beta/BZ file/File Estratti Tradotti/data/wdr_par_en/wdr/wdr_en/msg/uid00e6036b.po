@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e6036b.po\n"
+"X-Crowdin-File-ID: 60042\n"
+"PO-Revision-Date: 2025-10-08 08:03\n"
+
+msgctxt "6332"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "6336"
+msgid "Zhao"
+msgstr ""
+
+msgctxt "6340"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "6344"
+msgid "P_tan_stand_tlk_udekumi_st"
+msgstr ""
+
+msgctxt "6348"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6352"
+msgid "P_tan_stand_tlk_udekumi_yes"
+msgstr ""
+
+msgctxt "6356"
+msgid "P_tan_stand_tlk_udekumi_ed"
+msgstr ""
+
+msgctxt "6360"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "6364"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "6368"
+msgid "dummy"
+msgstr ""
+
+msgctxt "6372"
+msgid "0"
+msgstr ""
+
+msgctxt "92_Tanimura"
+msgid "Hey. They hurt you any?"
+msgstr "Ehi. Ti hanno fatto male?"
+
+msgctxt "104_Zhao"
+msgid "No... I'm fine. Didn't mean to get you involved."
+msgstr "No... sto bene. Non volevo coinvolgerti."
+
+msgctxt "116_Tanimura"
+msgid "They were looking for a woman named Nadine, right? She your buddy or something?"
+msgstr "Cercavano una donna di nome Nadine, giusto? È una tua amica o qualcosa del genere?"
+
+msgctxt "128_Zhao"
+msgid "Nadine... came here from the Philippines to seek better financial opportunities."
+msgstr "Nadine... è venuta qui dalle Filippine in cerca di migliori opportunità economiche."
+
+msgctxt "140_Zhao"
+msgid "But the authorities found out she was working illegally and now they're trying to chase her down."
+msgstr "Ma le autorità hanno scoperto che lavorava illegalmente e ora stanno cercando di prenderla."
+
+msgctxt "152_Tanimura"
+msgid "Then she sought help from the Asian Gateway, I'm assuming?"
+msgstr "Quindi ha chiesto aiuto all'Asian Gateway, suppongo?"
+
+msgctxt "164_Zhao"
+msgid "Correct. She was actually at the restaurant at the time those thugs showed up."
+msgstr "Esatto. Era al ristorante quando sono arrivati quei teppisti."
+
+msgctxt "176_Zhao"
+msgid "Luckily, she was in the back room and got the hell out of there as soon as she heard the commotion."
+msgstr "Per fortuna era nel retro ed è scappata appena ha sentito il trambusto."
+
+msgctxt "188_Tanimura"
+msgid "All right, then who were those people just now? Not the authorities, that's for sure."
+msgstr "Va bene, allora chi erano quelle persone di poco fa? Non erano le autorità, questo è certo."
+
+msgctxt "200_Zhao"
+msgid "My guess is they're responsible for bringing illegal immigrants into the country－in other words, human traffickers."
+msgstr "La mia ipotesi è che siano responsabili dell'ingresso di immigrati clandestini nel paese, in altre parole, trafficanti di esseri umani."
+
+msgctxt "212_Zhao"
+msgid "They must be afraid that if Nadine gets arrested, she'll lead the police right back to them."
+msgstr "Devono temere che, se Nadine venisse arrestata, condurrebbe la polizia dritta a loro."
+
+msgctxt "224_Tanimura"
+msgid "Makes sense. But I doubt she'll be coming this way anymore... Gonna be a real pain in the ass to find her."
+msgstr "Ha senso. Ma dubito che tornerà da queste parti... Sarà una vera seccatura trovarla."
+
+msgctxt "236_Zhao"
+msgid "...There is one method you can try."
+msgstr "...C'è un metodo che puoi provare."
+
+msgctxt "248_Tanimura"
+msgid "Yeah? I'm all ears."
+msgstr "Sì? Sono tutto orecchi."
+
+msgctxt "260_Zhao"
+msgid "So... There's this fortune teller over on Tenkaichi Street. Maybe she could help you track Nadine down."
+msgstr "Allora... c'è questa indovina in Tenkaichi Street. Forse lei potrebbe aiutarti a rintracciare Nadine."
+
+msgctxt "272_Tanimura"
+msgid "A fortune teller. Is that seriously the best you can come up with? Or were you just kidding?"
+msgstr "Un'indovina. È davvero il meglio che ti è venuto in mente? O stavi solo scherzando?"
+
+msgctxt "284_Zhao"
+msgid "Oh, it's no joke. In fact, this lady is known for being freakishly accurate with her predictions. Kind of spooky, if you ask me."
+msgstr "Oh, non è uno scherzo. Anzi, questa signora è nota per essere spaventosamente precisa con le sue previsioni. Un po' inquietante, se me lo chiedi."
+
+msgctxt "296_Tanimura"
+msgid "It sure sounds spooky... but whatever. If you're the one\r\n"
+"who's recommending it, then I guess I have nothing to lose.\r\n"
+"Where's this place, exactly?"
+msgstr "Sembra davvero inquietante... ma vabbè.\r\n"
+"Se me lo consigli tu, immagino di non avere niente da perdere.\r\n"
+"Dov'è questo posto, di preciso?"
+
+msgctxt "308_Zhao"
+msgid "Middle of Tenkaichi Street, right next to a host club called Stardust."
+msgstr "Nel mezzo di Tenkaichi Street, proprio accanto a un host club chiamato Stardust."
+
+msgctxt "320_Tanimura"
+msgid "Mmkay. Here's hoping fortune's on our side, huh?"
+msgstr "Ok. Speriamo che la fortuna sia dalla nostra parte, eh?"
+

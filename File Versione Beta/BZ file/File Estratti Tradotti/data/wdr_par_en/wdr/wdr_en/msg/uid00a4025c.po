@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a4025c.po\n"
+"X-Crowdin-File-ID: 62118\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
+
+msgctxt "1240"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1244"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "1248"
+msgid "Woman in a Suit"
+msgstr ""
+
+msgctxt "1252"
+msgid "Talk_Info_F"
+msgstr ""
+
+msgctxt "1256"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1260"
+msgid "Talk_Surp"
+msgstr ""
+
+msgctxt "1264"
+msgid "dummy"
+msgstr ""
+
+msgctxt "1268"
+msgid "0"
+msgstr ""
+
+msgctxt "84_Akiyama"
+msgid "Hello! I'm a scout for a hostess club..."
+msgstr ""
+
+msgctxt "96_Woman in a Suit"
+msgid "......"
+msgstr ""
+
+msgctxt "108_Akiyama"
+msgid "I'm sensing a little reluctance. This could be your chance to\r\n"
+"break into one of today's hottest careers."
+msgstr ""
+
+msgctxt "120_Woman in a Suit"
+msgid "Ugh! Back off or I'll call the cops!"
+msgstr ""
+
+msgctxt "132_Akiyama"
+msgid "Yikes! Sorry, sorry!"
+msgstr ""
+

@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid010201e0.po\n"
+"X-Crowdin-File-ID: 61678\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
+
+msgctxt "11760"
+msgid "Talk_Phone_st"
+msgstr ""
+
+msgctxt "11764"
+msgid "Elise Manager"
+msgstr ""
+
+msgctxt "11768"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "11772"
+msgid "Talk_Phone_yes"
+msgstr ""
+
+msgctxt "11776"
+msgid "Talk_Phone_ed"
+msgstr ""
+
+msgctxt "11780"
+msgid "dummy"
+msgstr ""
+
+msgctxt "11784"
+msgid "Lily"
+msgstr ""
+
+msgctxt "11788"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "11792"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "11796"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "11800"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "11804"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "11808"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "11812"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "11816"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "11820"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "11824"
+msgid "Talk_Kosite_st"
+msgstr ""
+
+msgctxt "11828"
+msgid "Talk_Kosite_Yes"
+msgstr ""
+
+msgctxt "11832"
+msgid "Talk_Kosite_ed"
+msgstr ""
+
+msgctxt "92_Elise Manager"
+msgid "Akiyama-san, this is Tanuma from Elise."
+msgstr "Akiyama-san, sono Tanuma di Elise."
+
+msgctxt "104_Elise Manager"
+msgid "Lily-san just went home, and I've finished totaling her sales for today."
+msgstr "Lily-san è appena andata a casa, e ho finito di calcolare le sue vendite di oggi."
+
+msgctxt "116_Akiyama"
+msgid "Great, thanks. How'd she do?"
+msgstr "Ottimo, grazie. Come se l'è cavata?"
+
+msgctxt "128_Elise Manager"
+msgid "Just over half a million yen. That's amazing considering it's only her first day."
+msgstr "Poco più di mezzo milione di yen. È incredibile considerando che è solo il suo primo giorno."
+
+msgctxt "140_Akiyama"
+msgid "Pretty impressive, yeah. But she's gonna have to step up her game if she actually wants to pass."
+msgstr "Abbastanza impressionante, sì. Ma dovrà darsi da fare se vuole davvero superare il test."
+
+msgctxt "152_Elise Manager"
+msgid "True..."
+msgstr "Vero..."
+
+msgctxt "164_Elise Manager"
+msgid "Maybe you could drop in during her next shift? It might help having you there to give her some pointers, Akiyama-san."
+msgstr "Magari potresti fare un salto durante il suo prossimo turno? Potrebbe aiutarla averti lì per darle qualche dritta, Akiyama-san."
+
+msgctxt "176_Akiyama"
+msgid "Not a bad idea. Sure, why not."
+msgstr "Non è una cattiva idea. Certo, perché no."
+
+msgctxt "188_Elise Manager"
+msgid "Thank you, sir. See you then."
+msgstr "Grazie, signore. A presto."
+
+msgctxt "308_Lily"
+msgid "Sorry I'm late."
+msgstr "Scusa il ritardo."
+
+msgctxt "320_Akiyama"
+msgid "Oh, no worries at all. Nice work today, by the way. Getting used to it?"
+msgstr "Oh, nessun problema. Ottimo lavoro oggi, a proposito. Ti stai abituando?"
+
+msgctxt "332_Lily"
+msgid "Yes, but..."
+msgstr "Sì, ma..."
+
+msgctxt "344_Akiyama"
+msgid "Hm? But what?"
+msgstr "Hm? Ma cosa?"
+
+msgctxt "356_Lily"
+msgid "I'm a little worried about how much I made today. It didn't feel like very much."
+msgstr "Sono un po' preoccupata per quanto ho guadagnato oggi. Non mi sembra molto."
+
+msgctxt "368_Akiyama"
+msgid "Do you want to know the actual number?"
+msgstr "Vuoi sapere la cifra esatta?"
+
+msgctxt "380_Lily"
+msgid "If you don't mind... Yes, I would."
+msgstr "Se non ti dispiace... Sì, vorrei."
+
+msgctxt "392_Akiyama"
+msgid "All right, here goes. Your total for today came out to..."
+msgstr "Va bene, ecco. Il tuo totale per oggi ammonta a..."
+
+msgctxt "404_Lily"
+msgid "......"
+msgstr ""
+
+msgctxt "416_Akiyama"
+msgid "500,000 yen."
+msgstr "500.000 yen."
+
+msgctxt "428_Lily"
+msgid "That's... it?"
+msgstr "È... tutto qui?"
+
+msgctxt "440_Akiyama"
+msgid "Hm? Why the long face? That's pretty dang impressive."
+msgstr "Hm? Perché quel muso lungo? È piuttosto impressionante."
+
+msgctxt "452_Lily"
+msgid "No, I know... But that still leaves another two and a half million in only two days."
+msgstr "No, lo so... Ma questo lascia ancora due milioni e mezzo in soli due giorni."
+
+msgctxt "464_Akiyama"
+msgid "Don't worry. Today was all about settling into the job."
+msgstr "Non preoccuparti. Oggi si trattava di ambientarsi nel lavoro."
+
+msgctxt "476_Akiyama"
+msgid "And hey, you didn't even have a full shift."
+msgstr "Ehi, non hai nemmeno fatto un turno completo."
+
+msgctxt "488_Lily"
+msgid "I suppose..."
+msgstr "Suppongo di sì..."
+
+msgctxt "500_Akiyama"
+msgid "Seriously, you'll be fine. I'm sure of it."
+msgstr "Seriamente, andrà bene. Ne sono certo."
+
+msgctxt "512_Lily"
+msgid "Hehe..."
+msgstr ""
+
+msgctxt "524_Akiyama"
+msgid "What's so funny?"
+msgstr "Cosa c'è di buffo?"
+
+msgctxt "536_Lily"
+msgid "You're a very interesting man, Akiyama-san."
+msgstr "Sei un uomo molto interessante, Akiyama-san."
+
+msgctxt "548_Akiyama"
+msgid "Yeah?"
+msgstr "Sì?"
+
+msgctxt "560_Lily"
+msgid "You say this is a test, but now here you are telling me everything's going to be fine."
+msgstr "Dici che questo è un test, ma ora sei qui a dirmi che andrà tutto bene."
+
+msgctxt "572_Akiyama"
+msgid "What's wrong with that? It's not like I want you to fail or anything."
+msgstr "Cosa c'è di male? Non è che voglia che tu fallisca o altro."
+
+msgctxt "584_Lily"
+msgid "Don't you?"
+msgstr "Non è così?"
+
+msgctxt "596_Akiyama"
+msgid "Of course not. I want nothing more than to lend you that money."
+msgstr "Certo che no. Non desidero altro che prestarti quel denaro."
+
+msgctxt "608_Akiyama"
+msgid "It might be a test, but I've been hoping you'd succeed from the bottom of my heart."
+msgstr "Potrebbe essere un test, ma ho sperato con tutto il cuore che tu avessi successo."
+
+msgctxt "620_Lily"
+msgid "Akiyama-san..."
+msgstr "Akiyama-san..."
+
+msgctxt "632_Akiyama"
+msgid "Plus, I know you're not gonna just take failure lying down. Not with that much money on the line."
+msgstr "In più, so che non accetterai il fallimento a cuor leggero. Non con tutti quei soldi in ballo."
+
+msgctxt "644_Lily"
+msgid "Yes... You're right. I <Italic>can</Italic> do this."
+msgstr "Sì... Hai ragione. <Italic>Posso</Italic> farcela."
+
+msgctxt "656_Akiyama"
+msgid "That's more like it. Just try not to stress too much, yeah? Keeping cool is half the battle."
+msgstr "Molto meglio. Cerca solo di non stressarti troppo, ok? Mantenere la calma è metà della battaglia."
+
+msgctxt "668_Lily"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "680_Akiyama"
+msgid "Now, how about we enjoy this date?"
+msgstr "Ora, che ne dici di goderci questo appuntamento?"
+
+msgctxt "692_Akiyama"
+msgid "Anywhere special you'd like to go?"
+msgstr "C'è un posto speciale dove vorresti andare?"
+
+msgctxt "704_Lily"
+msgid "Um... Can I ask you something first? Why are you being so nice to me?"
+msgstr "Ehm... Posso chiederti una cosa prima? Perché sei così gentile con me?"
+
+msgctxt "716_Akiyama"
+msgid "Well, because you're worth it."
+msgstr "Beh, perché ne vali la pena."
+
+msgctxt "728_Lily"
+msgid "I'm not sure I understand. This isn't part of the test, is it?"
+msgstr "Non sono sicura di capire. Questo non fa parte del test, vero?"
+
+msgctxt "740_Akiyama"
+msgid "Not exactly... But hey, remember the date we were on earlier?"
+msgstr "Non esattamente... Ma ehi, ricordi l'appuntamento che abbiamo avuto prima?"
+
+msgctxt "752_Akiyama"
+msgid "Let's just call this part two."
+msgstr "Chiamiamola semplicemente parte due."
+
+msgctxt "764_Lily"
+msgid "So it <Italic>is</Italic> part of the test, then. And here I was ready to join you on an actual date."
+msgstr "Quindi <Italic>fa</Italic> parte del test, allora. E io che ero pronta a uscire con te per un vero appuntamento."
+
+msgctxt "776_Akiyama"
+msgid "Look, it doesn't matter <Italic>what</Italic> it is. Just keep me company for a while, okay?"
+msgstr "Guarda, non importa <Italic>cosa</Italic> sia. Resta in mia compagnia per un po', ok?"
+
+msgctxt "788_Akiyama"
+msgid "...Now that's settled, where do you want to go? Your pick."
+msgstr "...Ora che abbiamo chiarito, dove vuoi andare? Scegli tu."
+
+msgctxt "800_Lily"
+msgid "Hm, I get to choose?"
+msgstr "Hm, posso scegliere io?"
+
+msgctxt "812_Akiyama"
+msgid "Anywhere you want. Don't worry if you can't think of a place, though."
+msgstr "Dove vuoi. Non preoccuparti se non ti viene in mente un posto, però."
+
+msgctxt "824_Akiyama"
+msgid "I have plenty of spots we can stroll into if need be."
+msgstr "Ho un sacco di posti in cui possiamo fare un salto se necessario."
+
+msgctxt "836_Lily"
+msgid "Oh, well... There actually is somewhere I'd like to go. You're sure you don't mind?"
+msgstr "Oh, beh... C'è in realtà un posto dove mi piacerebbe andare. Sei sicuro che non ti dispiace?"
+
+msgctxt "848_Akiyama"
+msgid "Of course not. So, where to?"
+msgstr "Certo che no. Allora, dove?"
+
+msgctxt "860_Lily"
+msgid "A bar I've heard about over in the Champion District. I think I'll recognize it once we get there."
+msgstr "Un bar di cui ho sentito parlare nel Champion District. Penso che lo riconoscerò una volta arrivati lì."
+
+msgctxt "872_Akiyama"
+msgid "Yeah? All right, then. Let's go."
+msgstr "Davvero? Va bene, allora. Andiamo."
+

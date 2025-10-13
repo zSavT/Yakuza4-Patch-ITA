@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e600b9.po\n"
+"X-Crowdin-File-ID: 59886\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "1044"
+msgid "Grumpy Owner"
+msgstr "Proprietario scontroso"
+
+msgctxt "1048"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "1052"
+msgid "Calming Man"
+msgstr "Uomo conciliante"
+
+msgctxt "1056"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "1060"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "1064"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "84_Grumpy Owner"
+msgid "Why's that scout always bringing in the fat girls? I thought\r\n"
+"I told him to find me the best girls he could find!"
+msgstr "Perché quello scout mi porta sempre ragazze grasse? Pensavo\r\n"
+"di avergli detto di trovarmi le migliori ragazze che riusciva a trovare!"
+
+msgctxt "96_Calming Man"
+msgid "Well, you know... To each his own."
+msgstr "Beh, sa... i gusti son gusti."
+
+msgctxt "108_Grumpy Owner"
+msgid "He's out looking for new girls on Pink Street today. If he\r\n"
+"he brings me another chunker, he's fired!"
+msgstr "Oggi è fuori a cercare nuove ragazze in Pink Street. Se mi\r\n"
+"porta un'altra cicciona, è licenziato!"
+
+msgctxt "120_Akiyama"
+msgid "(Seems there's a scout on Pink Street who's only going after bigger girls... He might be just the man I'm looking for!)"
+msgstr "(Sembra che ci sia uno scout in Pink Street che cerca solo ragazze in carne... Potrebbe essere l'uomo che sto cercando!)"
+

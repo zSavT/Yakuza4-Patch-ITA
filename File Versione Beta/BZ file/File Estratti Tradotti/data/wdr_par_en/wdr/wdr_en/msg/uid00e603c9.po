@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e603c9.po\n"
+"X-Crowdin-File-ID: 60582\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "4216"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "4220"
+msgid "Man in a Business Suit"
+msgstr ""
+
+msgctxt "4224"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4228"
+msgid "P_stand_tlk_hirou_ed"
+msgstr ""
+
+msgctxt "4232"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "56_Tanimura"
+msgid "So, a sex industry writer named Koichi Yabe was investigating a madam from Hong Kong and it got him killed."
+msgstr ""
+
+msgctxt "68_Man in a Business Suit"
+msgid "What... Yabe's dead!?"
+msgstr ""
+
+msgctxt "80_Tanimura"
+msgid "So you knew him?"
+msgstr ""
+
+msgctxt "92_Man in a Business Suit"
+msgid "...I did."
+msgstr ""
+
+msgctxt "104_Tanimura"
+msgid "Tell me where this boss of yours is."
+msgstr ""
+
+msgctxt "116_Man in a Business Suit"
+msgid "She went back to Hong Kong this morning."
+msgstr ""
+
+msgctxt "128_Tanimura"
+msgid "I see. So she had to skip town to keep a lid on Yabe's murder..."
+msgstr ""
+
+msgctxt "140_Man in a Business Suit"
+msgid "Let's just say she learned too much about the organization for her own good."
+msgstr ""
+
+msgctxt "152_Tanimura"
+msgid "Are you talking about the organization that Bridge runs?"
+msgstr ""
+
+msgctxt "164_Man in a Business Suit"
+msgid "Bridge?"
+msgstr ""
+
+msgctxt "176_Tanimura"
+msgid "What, you never heard the name?"
+msgstr ""
+
+msgctxt "188_Man in a Business Suit"
+msgid "We're not important enough to know what's going on up top. All I know is that the boss leaked something to Yabe."
+msgstr ""
+
+msgctxt "200_Tanimura"
+msgid "And now that Yabe's dead, I guess we'll never know what that was."
+msgstr ""
+
+msgctxt "212_Man in a Business Suit"
+msgid "Don't be so sure about that. Yabe apparently hid whatever he compiled somewhere."
+msgstr ""
+
+msgctxt "224_Tanimura"
+msgid "Really!? Where?"
+msgstr ""
+
+msgctxt "236_Man in a Business Suit"
+msgid "Dunno. The organization's in a frenzy trying to find it."
+msgstr ""
+
+msgctxt "248_Tanimura"
+msgid "Interesting..."
+msgstr ""
+
+msgctxt "260_Man in a Business Suit"
+msgid "Are you gonna go look for it, too?"
+msgstr ""
+
+msgctxt "272_Tanimura"
+msgid "You bet. I imagine it's some pretty valuable info."
+msgstr ""
+
+msgctxt "284_Man in a Business Suit"
+msgid "You ought to stay out of it. Or you'll end up just like Yabe."
+msgstr ""
+
+msgctxt "296_Tanimura"
+msgid "Don't you worry about me. After giving me all these details, you should be watching your own back."
+msgstr ""
+

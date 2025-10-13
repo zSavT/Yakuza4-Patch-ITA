@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e6050d.po\n"
+"X-Crowdin-File-ID: 60632\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "1424"
+msgid "Pachinko Regular"
+msgstr ""
+
+msgctxt "1428"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "1432"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "1436"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1440"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1444"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "84_Pachinko Regular"
+msgid "That host sure was upset. He kept yelling something about returning money."
+msgstr ""
+
+msgctxt "96_Tanimura"
+msgid "Excuse me. I need to know more about that host. What happened, exactly?"
+msgstr ""
+
+msgctxt "108_Pachinko Regular"
+msgid "Huh? Well... He's a regular here. He left with a woman a bit ago. They were arguing over repaying money or something."
+msgstr ""
+
+msgctxt "120_Tanimura"
+msgid "(That might be Shinnosuke... Maybe he ran into that customer who didn't pay her tab.)"
+msgstr ""
+
+msgctxt "132_Tanimura"
+msgid "I think I know that guy. Did you see where he went?"
+msgstr ""
+
+msgctxt "144_Pachinko Regular"
+msgid "Hmm... I think he went toward Tenkaichi Street. Where Public Park 3 is."
+msgstr ""
+
+msgctxt "156_Tanimura"
+msgid "Got it. Thanks."
+msgstr ""
+

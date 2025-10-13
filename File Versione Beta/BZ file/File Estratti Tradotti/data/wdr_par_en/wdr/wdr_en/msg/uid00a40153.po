@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a40153.po\n"
+"X-Crowdin-File-ID: 61714\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
+
+msgctxt "1888"
+msgid "Talk_Udekumi_st"
+msgstr ""
+
+msgctxt "1892"
+msgid "Employee"
+msgstr ""
+
+msgctxt "1896"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "1900"
+msgid "Shoko"
+msgstr ""
+
+msgctxt "1904"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "1908"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "1912"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "80_Employee"
+msgid "Ah, Muto-sama. The platinum ring you inquired about the\r\n"
+"other day is finally in."
+msgstr ""
+
+msgctxt "92_Shoko"
+msgid "Platinum...? Hmm, I do have the money for it..."
+msgstr ""
+
+msgctxt "104_Employee"
+msgid "It's a very popular piece. I've already had a number of\r\n"
+"customers asking after it, but I put it aside especially for\r\n"
+"you."
+msgstr ""
+
+msgctxt "116_Shoko"
+msgid "......"
+msgstr ""
+
+msgctxt "128_Employee"
+msgid "I believe it's your size. Would you care to purchase it\r\n"
+"today, Muto-sama?"
+msgstr "Credo sia la sua taglia. Desidera acquistarlo\r\n"
+"oggi, Muto-sama?"
+
+msgctxt "140_Shoko"
+msgid "No, that's all right. I'll come back when I can pay for it\r\n"
+"myself."
+msgstr ""
+
+msgctxt "152_Employee"
+msgid "I see. I'm terribly sorry, but I can't guarantee it will be\r\n"
+"here on your next visit."
+msgstr ""
+
+msgctxt "164_Shoko"
+msgid "That's fine... Thank you."
+msgstr ""
+

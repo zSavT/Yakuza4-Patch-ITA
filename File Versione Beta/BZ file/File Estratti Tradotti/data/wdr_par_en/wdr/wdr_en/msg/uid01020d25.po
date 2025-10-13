@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01020d25.po\n"
+"X-Crowdin-File-ID: 60756\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "5980"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "5984"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "5988"
+msgid "Okama"
+msgstr "Drag Queen"
+
+msgctxt "5992"
+msgid "Talk_Kansin"
+msgstr ""
+
+msgctxt "5996"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "6000"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "6004"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "6008"
+msgid "Talk_Gakkari"
+msgstr ""
+
+msgctxt "6012"
+msgid "Talk_OK"
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid "(Marimba. This is the place.)"
+msgstr "(Marimba. È questo il posto.)"
+
+msgctxt "80_Akiyama"
+msgid "(Hm? It's locked.)"
+msgstr "(Hm? È chiuso a chiave.)"
+
+msgctxt "92_Akiyama"
+msgid "Anybody home? It's Akiyama, from Sky Finance."
+msgstr "C'è qualcuno? Sono Akiyama, di Sky Finance."
+
+msgctxt "104_Akiyama"
+msgid "(No response.)"
+msgstr "(Nessuna risposta.)"
+
+msgctxt "152_Akiyama"
+msgid "(Huh. Guess I'll just have to come back later.)"
+msgstr "(Ah. Immagino che dovrò tornare più tardi.)"
+
+msgctxt "188_Akiyama"
+msgid "(Huh? Drama Queen? This is the place Lily said she used to work.)"
+msgstr "(Eh? Drama Queen? Questo è il posto dove Lily ha detto che lavorava.)"
+
+msgctxt "212_Okama"
+msgid "Hey, cutie. You into that sorta thing?"
+msgstr "Ehi, tesoro. Ti piacciono queste cose?"
+
+msgctxt "224_Akiyama"
+msgid "I'm sorry?"
+msgstr "Scusa?"
+
+msgctxt "236_Okama"
+msgid "You were taking a mighty long look at Drama Queen there."
+msgstr "Stavi dando un'occhiata molto prolungata a Drama Queen."
+
+msgctxt "248_Akiyama"
+msgid "So what if I was?"
+msgstr "E allora?"
+
+msgctxt "260_Okama"
+msgid "Oh, you naughty boy! You know that's an okama bar, right? Heh, what am I saying? Of course you do."
+msgstr "Oh, ragazzaccio! Sai che quello è un okama bar, vero? Eh, cosa dico? Certo che lo sai."
+
+msgctxt "272_Akiyama"
+msgid "An okama bar? You serious?"
+msgstr "Un okama bar? Dici sul serio?"
+
+msgctxt "284_Okama"
+msgid "Mmhm. And you looked awfully interested. Just saying. Don't worry, though, I'm not judging."
+msgstr "Mhm. E sembravi terribilmente interessato. Dico solo. Non preoccuparti, comunque, non ti sto giudicando."
+
+msgctxt "296_Akiyama"
+msgid "Oh, it's not like that. It's just... I know this girl who used to work here, is all."
+msgstr "Oh, non è come pensi. È solo che... conosco una ragazza che lavorava qui, tutto qui."
+
+msgctxt "308_Okama"
+msgid "<Italic>Sure</Italic> you do. I'm in denial here, too, honey."
+msgstr "<Italic>Certo</Italic> che la conosci. Anch'io sono in negazione, tesoro."
+
+msgctxt "320_Okama"
+msgid "The manager here's totally my type, but he's straight as an arrow. Says he only dates \"real\" girls."
+msgstr "Il manager qui è proprio il mio tipo, ma è etero come una freccia. Dice che esce solo con ragazze \"vere\"."
+
+msgctxt "332_Akiyama"
+msgid "Sorry to hear that. Not the most open-minded guy in the world, huh?"
+msgstr "Mi dispiace. Non è il ragazzo più aperto del mondo, eh?"
+
+msgctxt "344_Okama"
+msgid "Nope! But hey, forget him. Come have a drink over where I work! I'll give you a stiff one on the house."
+msgstr "No! Ma ehi, dimenticalo. Vieni a bere qualcosa dove lavoro io! Ti offro un cocktail della casa."
+
+msgctxt "356_Akiyama"
+msgid "Sorry, but I'm gonna have to take a rain check. Things to do, places to be. You know. Maybe some other time, okay?"
+msgstr "Mi dispiace, ma devo rimandare. Ho delle cose da fare e dei posti dove andare. Sai com'è. Magari un'altra volta, ok?"
+
+msgctxt "368_Okama"
+msgid "Anything you say, hot stuff. I'll be waiting!"
+msgstr "Come vuoi, bellezza. Ti aspetterò!"
+
+msgctxt "380_Akiyama"
+msgid "(Drama Queen's an okama bar, huh? Why would Lily lie about working there? Maybe I should head inside.)"
+msgstr "(Drama Queen è un okama bar, eh? Perché Lily avrebbe mentito sul fatto di lavorare lì? Forse dovrei entrare.)"
+

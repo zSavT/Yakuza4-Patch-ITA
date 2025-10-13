@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a4025e.po\n"
+"X-Crowdin-File-ID: 60094\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "2396"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2400"
+msgid "Young Man"
+msgstr ""
+
+msgctxt "2404"
+msgid "dummy"
+msgstr ""
+
+msgctxt "2408"
+msgid "0"
+msgstr ""
+
+msgctxt "2412"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2416"
+msgid "Young Woman"
+msgstr ""
+
+msgctxt "2420"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "2424"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "2428"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "88_Akiyama"
+msgid "Anyway, sorry. Can I go now?"
+msgstr ""
+
+msgctxt "100_Young Man"
+msgid "Yes, sir."
+msgstr "Sì, signore."
+
+msgctxt "160_Akiyama"
+msgid "Hi there. I'm a scout for a hostess club."
+msgstr ""
+
+msgctxt "172_Young Woman"
+msgid "......"
+msgstr ""
+
+msgctxt "184_Young Man"
+msgid "......"
+msgstr ""
+
+msgctxt "196_Young Man"
+msgid "You got some kinda nerve scouting a girl when she's with her\r\n"
+"guy, pops."
+msgstr ""
+
+msgctxt "208_Akiyama"
+msgid "Hahaha, I guess I do. My apologies."
+msgstr ""
+
+msgctxt "220_Young Man"
+msgid "Hold up! I ain't gonna let you off the hook that easy.\r\n"
+"C'mere a second."
+msgstr ""
+
+msgctxt "232_Akiyama"
+msgid "Er, I'm in kind of a hurry..."
+msgstr ""
+
+msgctxt "244_Young Man"
+msgid "Shut up! I'll teach you to mess with me!"
+msgstr ""
+

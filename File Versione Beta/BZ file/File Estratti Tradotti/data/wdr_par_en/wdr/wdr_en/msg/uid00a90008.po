@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a90008.po\n"
+"X-Crowdin-File-ID: 61572\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "1248"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "1252"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "120_Haruka"
+msgid "I love going to karaoke with you, Uncle Kaz! Now, what should I sing today?"
+msgstr ""
+
+msgctxt "132_Haruka"
+msgid "How about \"I Wanna Change Myself\"? It's kind of an old song, but I love it because the lyrics are so positive."
+msgstr ""
+
+msgctxt "144_Haruka"
+msgid "I wonder how I did?"
+msgstr ""
+
+msgctxt "156_Haruka"
+msgid "You made it so hard to sing..."
+msgstr ""
+
+msgctxt "168_Kiryu"
+msgid "Sorry... I meant well though."
+msgstr ""
+
+msgctxt "180_Haruka"
+msgid "That was amazing! Thanks, Uncle Kaz."
+msgstr ""
+

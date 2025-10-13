@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e603cf.po\n"
+"X-Crowdin-File-ID: 60826\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "176"
+msgid "You got an <Color:8>Eye of the Dragon<Color:Default>."
+msgstr ""
+
+msgctxt "3296"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "3300"
+msgid "Mitsuko"
+msgstr ""
+
+msgctxt "3304"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "3308"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3312"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "68_Tanimura"
+msgid "He was planning on celebrating your birthday with you."
+msgstr ""
+
+msgctxt "80_Mitsuko"
+msgid "I begged him not to get involved with that horrible woman..."
+msgstr ""
+
+msgctxt "92_Tanimura"
+msgid "I guess he was going to use the info to write an exposé on the syndicate."
+msgstr ""
+
+msgctxt "104_Mitsuko"
+msgid "What exactly did he find out?"
+msgstr ""
+
+msgctxt "116_Tanimura"
+msgid "Details of the syndicate's activities－recruiting Asian women, counterfeiting passports, arranging fake marriages with Japanese men, operating brothels..."
+msgstr ""
+
+msgctxt "128_Mitsuko"
+msgid "Is that enough to take down the syndicate for good?"
+msgstr ""
+
+msgctxt "140_Tanimura"
+msgid "I'm not 100 percent sure this would qualify as conclusive evidence, but it could play a big role in exposing their operations, which could eventually lead to bringing them down."
+msgstr ""
+
+msgctxt "152_Mitsuko"
+msgid "Good."
+msgstr "Bene."
+
+msgctxt "164_Mitsuko"
+msgid "Tanimura-san, would you take this for me?"
+msgstr ""
+
+msgctxt "200_Mitsuko"
+msgid "Yabe always wore it as sort of a lucky charm. It hurts too much to keep it now..."
+msgstr ""
+
+msgctxt "212_Tanimura"
+msgid "Okay. Then I'll hold onto it for you."
+msgstr ""
+
+msgctxt "224_Tanimura"
+msgid "And I promise to use this information to get Bridge.\r\n"
+"Yabe-san won't have died in vain."
+msgstr ""
+
+msgctxt "236_Mitsuko"
+msgid "Thank you..."
+msgstr ""
+

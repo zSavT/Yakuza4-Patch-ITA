@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a40074.po\n"
+"X-Crowdin-File-ID: 58878\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "244"
+msgid "You handed over the <Color:8>Briefcase with 30 Million Yen<Color:Default>."
+msgstr ""
+
+msgctxt "4872"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "4876"
+msgid "Talk_Sorry"
+msgstr ""
+
+msgctxt "4880"
+msgid "Nishihama"
+msgstr ""
+
+msgctxt "4884"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "4888"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "4892"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "4896"
+msgid "Talk_Request"
+msgstr ""
+
+msgctxt "4900"
+msgid "Talk_Angry"
+msgstr ""
+
+msgctxt "4904"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "172_Akiyama"
+msgid "Ah, I see you've been waiting. Sorry I took so long."
+msgstr ""
+
+msgctxt "184_Nishihama"
+msgid "No trouble at all, so long as you brought the money."
+msgstr ""
+
+msgctxt "196_Nishihama"
+msgid "You did bring the money, right...?"
+msgstr ""
+
+msgctxt "208_Akiyama"
+msgid "Got it right here. Care to take a look?"
+msgstr ""
+
+msgctxt "220_Nishihama"
+msgid "Oh, no, that won't be necessary! I trust you, Akiyama-san."
+msgstr ""
+
+msgctxt "232_Akiyama"
+msgid "You sure? All right, here you go."
+msgstr ""
+
+msgctxt "268_Nishihama"
+msgid "Actually... there's one more favor I'd like to ask of you."
+msgstr ""
+
+msgctxt "280_Akiyama"
+msgid "Another one? What is it this time?"
+msgstr ""
+
+msgctxt "292_Nishihama"
+msgid "Would you mind coming with me to give this to the\r\n"
+"kidnapper? I'm too scared to go by myself."
+msgstr ""
+
+msgctxt "304_Akiyama"
+msgid "But you can't just show up with some random guy. What'll the\r\n"
+"kidnapper do to your daughter if he sees me?"
+msgstr ""
+
+msgctxt "316_Nishihama"
+msgid "Huh? Well, uh... It's a risk, but... I just can't go by\r\n"
+"myself."
+msgstr ""
+
+msgctxt "328_Nishihama"
+msgid "I'm begging you! Please come with me! I... I can't handle\r\n"
+"this much money alone!"
+msgstr ""
+
+msgctxt "340_Akiyama"
+msgid "You know I can't do that. What if something happened to\r\n"
+"your daughter?"
+msgstr ""
+
+msgctxt "352_Nishihama"
+msgid "Please don't say that! Please, Akiyama-san, you just have to\r\n"
+"come with me! Please!"
+msgstr ""
+
+msgctxt "364_Nishihama"
+msgid "Don't make me do this alone! I'm on my knees here!"
+msgstr ""
+
+msgctxt "376_Akiyama"
+msgid "...All right. I'll come along."
+msgstr ""
+
+msgctxt "388_Nishihama"
+msgid "Thank you so much! It's right this way. Just follow me!"
+msgstr ""
+
+msgctxt "412_Akiyama"
+msgid "What's going on...?"
+msgstr ""
+
+msgctxt "448_Akiyama"
+msgid "Go With Him"
+msgstr ""
+
+msgctxt "460_Akiyama"
+msgid "Refuse"
+msgstr ""
+
+msgctxt "472_Akiyama"
+msgid "Go With Him"
+msgstr ""
+
+msgctxt "484_Akiyama"
+msgid "Refuse"
+msgstr ""
+

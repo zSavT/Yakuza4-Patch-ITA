@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00cc0000.po\n"
+"X-Crowdin-File-ID: 61484\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "544"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "548"
+msgid "adv_p1c1_010/akiyama_0094"
+msgstr ""
+
+msgctxt "552"
+msgid "adv_p1c1_010/akiyama_0103"
+msgstr ""
+
+msgctxt "556"
+msgid "adv_p1c1_010/akiyama_0109"
+msgstr ""
+
+msgctxt "560"
+msgid "Hana"
+msgstr "Hana"
+
+msgctxt "564"
+msgid "adv_p1c1_010/hana_0019"
+msgstr ""
+
+msgctxt "568"
+msgid "adv_p1c1_010/hana_0025"
+msgstr ""
+
+msgctxt "572"
+msgid "adv_p1c1_010/hana_0029"
+msgstr ""
+
+msgctxt "56_Akiyama"
+msgid "test1"
+msgstr ""
+
+msgctxt "68_Akiyama"
+msgid "test2"
+msgstr ""
+
+msgctxt "80_Akiyama"
+msgid "test3"
+msgstr ""
+
+msgctxt "92_Hana"
+msgid "test4"
+msgstr ""
+
+msgctxt "104_Hana"
+msgid "test5"
+msgstr ""
+
+msgctxt "116_Hana"
+msgid "test6"
+msgstr ""
+

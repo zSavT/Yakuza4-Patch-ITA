@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e60041.po\n"
+"X-Crowdin-File-ID: 61828\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
+
+msgctxt "9652"
+msgid "Upstart Yakuza"
+msgstr ""
+
+msgctxt "9656"
+msgid "Seasoned Yakuza"
+msgstr ""
+
+msgctxt "9660"
+msgid "Saejima"
+msgstr ""
+
+msgctxt "9664"
+msgid "0"
+msgstr ""
+
+msgctxt "9668"
+msgid "M_nml_stand_tlk_bokuto_st"
+msgstr ""
+
+msgctxt "9672"
+msgid "P_sae_stand_tlk_bokuto_st"
+msgstr ""
+
+msgctxt "9676"
+msgid "SetM_nml_sitgrd_seiza_samurai"
+msgstr ""
+
+msgctxt "9680"
+msgid "M_nml_stand_tlk_bokuto_ed"
+msgstr ""
+
+msgctxt "9684"
+msgid "P_sae_stand_tlk_bokuto_ed"
+msgstr ""
+
+msgctxt "9688"
+msgid "Katagiri"
+msgstr ""
+
+msgctxt "9692"
+msgid "M_ykz_stand"
+msgstr ""
+
+msgctxt "9696"
+msgid "Talk_Kamae"
+msgstr ""
+
+msgctxt "9700"
+msgid "Irie"
+msgstr ""
+
+msgctxt "9704"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "9708"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "9712"
+msgid "Talk_Think"
+msgstr ""
+
+msgctxt "9716"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "9720"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "100_Upstart Yakuza"
+msgid "I knew you were a lost cause! I'm talking about cold,\r\n"
+"hard cash here. I've got no use for you without it!"
+msgstr ""
+
+msgctxt "112_Seasoned Yakuza"
+msgid "Urgh..."
+msgstr ""
+
+msgctxt "148_Saejima"
+msgid "The hell do you think you're doin'? It don't take a genius to figure out you two're yakuza."
+msgstr ""
+
+msgctxt "160_Upstart Yakuza"
+msgid "Keep moving, asshole! It's none of your damn business."
+msgstr ""
+
+msgctxt "172_Saejima"
+msgid "It is now. Ya got dozens of eyes on you out here, and none of 'em wanna see you mess this guy up."
+msgstr ""
+
+msgctxt "184_Seasoned Yakuza"
+msgid "I appreciate what you're trying to do, sir... but stay out of this, please. It really has nothing to do with you."
+msgstr ""
+
+msgctxt "196_Seasoned Yakuza"
+msgid "I deserve everything that's coming to me."
+msgstr ""
+
+msgctxt "208_Saejima"
+msgid "(This guy can't be serious...)"
+msgstr ""
+
+msgctxt "220_Seasoned Yakuza"
+msgid "I'm sorry, Katagiri-san. I'll get the money as soon as I can, just please... have mercy on me, sir!"
+msgstr ""
+
+msgctxt "244_Katagiri"
+msgid "...Ugh. Way to go and take all the fun outta this."
+msgstr ""
+
+msgctxt "256_Katagiri"
+msgid "Listen, Irie. You still owe us half a mil in tribute. If you don't pay up quick, you're gonna be paying with your pinkie. Got that?"
+msgstr ""
+
+msgctxt "340_Saejima"
+msgid "Irie-han, is it? What was that all about?"
+msgstr ""
+
+msgctxt "352_Irie"
+msgid "Who... are you?"
+msgstr ""
+
+msgctxt "364_Saejima"
+msgid "Don't matter. Just an ex-yakuza lookin' out for one of his own."
+msgstr ""
+
+msgctxt "376_Irie"
+msgid "Huh. You must have been pretty famous if you don't want me knowing your name."
+msgstr ""
+
+msgctxt "388_Saejima"
+msgid "Look, just forget it, yeah? Now tell me, what was that punk beatin' up on ya for?"
+msgstr ""
+
+msgctxt "400_Irie"
+msgid "It's actually kind of embarrassing... You see, Katagiri-san and I belong to a family with an office down Tenkaichi Alley."
+msgstr ""
+
+msgctxt "412_Irie"
+msgid "I asked for more time to come up with my unpaid family tribute, but it seems to have rubbed him the wrong way."
+msgstr ""
+
+msgctxt "424_Saejima"
+msgid "Katagiri, huh? Clearly ya got a few years on him, not to mention boatloads more class. How'd a guy like that end up your boss?"
+msgstr ""
+
+msgctxt "436_Irie"
+msgid "I am older, yes, and have spent at least a decade longer in the family. But Katagiri-san is the patriarch's wonder boy."
+msgstr ""
+
+msgctxt "448_Saejima"
+msgid "Him? Ya don't say."
+msgstr ""
+
+msgctxt "460_Irie"
+msgid "It's not surprising. Katagiri-san rakes in by far the most cash for the family."
+msgstr ""
+
+msgctxt "472_Saejima"
+msgid "Tsk. It's like chasin' yen is all yakuza can think about nowadays."
+msgstr ""
+
+msgctxt "484_Irie"
+msgid "Welcome to the 21st century, friend. Organized crime is nothing more than a chess game with money as the ultimate prize."
+msgstr ""
+
+msgctxt "496_Irie"
+msgid "Old-school fist hurlers like me don't have a place in that intellectual stuff... More and more we're just weighing our families down."
+msgstr ""
+
+msgctxt "508_Saejima"
+msgid "I don't believe that for a second. Why don't ya just smack that sack around a bit? He'll change his tune."
+msgstr ""
+
+msgctxt "520_Irie"
+msgid "Not a chance."
+msgstr ""
+
+msgctxt "532_Irie"
+msgid "Katagiri-san has helped my family grow almost exponentially. And besides, he's my superior, regardless of how he got there. There's no fighting that."
+msgstr ""
+
+msgctxt "544_Saejima"
+msgid "Guess I can't argue with ya there. Sorry for buttin' into your family matters."
+msgstr ""
+
+msgctxt "556_Irie"
+msgid "It's all right. And really, I do appreciate the concern. Now if you'll excuse me, I need to go drum up some cash... quick!"
+msgstr ""
+
+msgctxt "580_Saejima"
+msgid "(Money, money, money. This world's even colder than I remember.)"
+msgstr ""
+
+msgctxt "592_Saejima"
+msgid "(...Hm. Irie said his family's office is down Tenkaichi Alley, right? Might be worth payin' them a visit.)"
+msgstr ""
+

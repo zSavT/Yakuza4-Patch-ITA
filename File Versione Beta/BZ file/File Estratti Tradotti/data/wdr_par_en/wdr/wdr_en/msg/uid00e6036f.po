@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e6036f.po\n"
+"X-Crowdin-File-ID: 62912\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
+
+msgctxt "3920"
+msgid "Tanimura"
+msgstr ""
+
+msgctxt "3924"
+msgid "Nadine"
+msgstr ""
+
+msgctxt "3928"
+msgid "Saki-chan"
+msgstr ""
+
+msgctxt "3932"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "3936"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "3940"
+msgid "P_tan_stand"
+msgstr ""
+
+msgctxt "3944"
+msgid "P_tan_sitsofa_tlk_kamae_ed"
+msgstr ""
+
+msgctxt "68_Tanimura"
+msgid "So, you're Nadine?"
+msgstr ""
+
+msgctxt "80_Nadine"
+msgid "Yes..."
+msgstr "Sì..."
+
+msgctxt "92_Saki-chan"
+msgid "He says he's here to help you, dear."
+msgstr ""
+
+msgctxt "104_Nadine"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "116_Tanimura"
+msgid "Yep. Had a heck of a time trying to find you, too. Nice work."
+msgstr ""
+
+msgctxt "128_Saki-chan"
+msgid "She's not out of trouble just yet. Those creeps have her\r\n"
+"passport, and she can't get home without it."
+msgstr ""
+
+msgctxt "140_Tanimura"
+msgid "You mean... the human traffickers?"
+msgstr ""
+
+msgctxt "152_Saki-chan"
+msgid "I take it you've run into them already. Well, it's not only\r\n"
+"trafficking they do. They're in charge of managing the\r\n"
+"women they bring in, too."
+msgstr ""
+
+msgctxt "164_Tanimura"
+msgid "Managing? In what sense?"
+msgstr ""
+
+msgctxt "176_Saki-chan"
+msgid "They take the women's passports so they can't escape, and\r\n"
+"then give them just enough money to eke out a meager living.\r\n"
+"They're essentially modern-day slave drivers."
+msgstr ""
+
+msgctxt "188_Tanimura"
+msgid "Ugh... That's terrible. I hate bastards like that the most.\r\n"
+"You have any idea where they are?"
+msgstr ""
+
+msgctxt "200_Saki-chan"
+msgid "In a dilapidated food warehouse on the docks."
+msgstr ""
+
+msgctxt "212_Nadine"
+msgid "I want go home to the Philippines..."
+msgstr ""
+
+msgctxt "224_Tanimura"
+msgid "Don't worry. I'll get your passport back."
+msgstr ""
+
+msgctxt "236_Nadine"
+msgid "You will!?"
+msgstr "Davvero!?"
+
+msgctxt "248_Tanimura"
+msgid "Yup. Just leave it to me."
+msgstr ""
+

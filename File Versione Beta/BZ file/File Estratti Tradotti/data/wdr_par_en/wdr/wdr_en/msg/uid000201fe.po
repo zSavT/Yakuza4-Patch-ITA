@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid000201fe.po\n"
+"X-Crowdin-File-ID: 60884\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "2616"
+msgid "Businessman"
+msgstr "Uomo d'Affari"
+
+msgctxt "2620"
+msgid "Talk_No"
+msgstr ""
+
+msgctxt "2624"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "2628"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "2632"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "2636"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "68_Businessman"
+msgid "Hm... There <Italic>was</Italic> something going on over here earlier. I could hear the shouting from all the way over on Nakamichi Street."
+msgstr "Hm... C'è <Italic>stato</Italic> qualcosa da queste parti prima. Riuscivo a sentire le urla fin da Nakamichi Street."
+
+msgctxt "80_Businessman"
+msgid "I didn't see it myself, though. Not a chance I'd be standing here now if I had!"
+msgstr "Non l'ho visto io stesso, però. Non sarei qui in piedi se l'avessi fatto!"
+
+msgctxt "92_Akiyama"
+msgid "Hey, you got a second?"
+msgstr "Ehi, hai un secondo?"
+
+msgctxt "104_Businessman"
+msgid "Er... sure. How can I help you?"
+msgstr "Ehm... certo. Come posso aiutarla?"
+
+msgctxt "116_Akiyama"
+msgid "Did you see a group of yakuza come by here maybe two, three hours ago?"
+msgstr "Ha visto passare un gruppo di yakuza, magari due o tre ore fa?"
+
+msgctxt "128_Businessman"
+msgid "Yakuza!?"
+msgstr ""
+
+msgctxt "140_Akiyama"
+msgid "You know you're in Kamurocho, right? That shouldn't be such a surprise. Oh, and they were probably dragging someone behind them."
+msgstr "Sa di essere a Kamurocho, vero? Non dovrebbe essere una sorpresa. Ah, e probabilmente si stavano trascinando dietro qualcuno."
+
+msgctxt "152_Businessman"
+msgid "Hm... There <Italic>was</Italic> something going on over here earlier. I could hear the shouting from all the way over on Nakamichi Street."
+msgstr "Hm... C'è <Italic>stato</Italic> qualcosa da queste parti prima. Riuscivo a sentire le urla fin da Nakamichi Street."
+
+msgctxt "164_Akiyama"
+msgid "Nakamichi? So you didn't see anything, then?"
+msgstr "Nakamichi? Quindi non hai visto niente, allora?"
+
+msgctxt "176_Businessman"
+msgid "Oh, heavens no. If I had, I certainly wouldn't be standing here now like nothing happened. I usually turn heel and run when I see fights breaking out."
+msgstr "Oh, per carità. Se l'avessi fatto, di certo non sarei qui in piedi come se niente fosse. Di solito me la do a gambe levate quando vedo scoppiare risse."
+
+msgctxt "188_Akiyama"
+msgid "Huh, okay then. Thanks anyway."
+msgstr "Ah, va bene allora. Grazie comunque."
+

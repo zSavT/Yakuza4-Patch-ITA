@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00a4025d.po\n"
+"X-Crowdin-File-ID: 60696\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "160"
+msgid "Scored one lead!"
+msgstr ""
+
+msgctxt "4320"
+msgid "Yakuza"
+msgstr "Yakuza"
+
+msgctxt "4324"
+msgid "Sexy Gal"
+msgstr ""
+
+msgctxt "4328"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "4332"
+msgid "Akiyama"
+msgstr ""
+
+msgctxt "4336"
+msgid "dummy"
+msgstr ""
+
+msgctxt "4340"
+msgid "0"
+msgstr ""
+
+msgctxt "4344"
+msgid "Talk_Call"
+msgstr ""
+
+msgctxt "4348"
+msgid "Talk_Smile"
+msgstr ""
+
+msgctxt "4352"
+msgid "Talk_Ase"
+msgstr ""
+
+msgctxt "4356"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "4360"
+msgid "Talk_Odosu"
+msgstr ""
+
+msgctxt "4364"
+msgid "Talk_NoBig"
+msgstr ""
+
+msgctxt "88_Yakuza"
+msgid "You're good..."
+msgstr ""
+
+msgctxt "100_Sexy Gal"
+msgid "Sorry about that, mister. Chi-kun has a really short fuse."
+msgstr ""
+
+msgctxt "112_Sexy Gal"
+msgid "Now, what do you say to the nice man, Chi-kun?"
+msgstr ""
+
+msgctxt "124_Yakuza"
+msgid "Sorry! My bad!"
+msgstr ""
+
+msgctxt "136_Sexy Gal"
+msgid "Can I make it up to you? I'll hear you out on that hostess thing."
+msgstr ""
+
+msgctxt "148_Akiyama"
+msgid "Sure thing! I'll get in touch with you later, then."
+msgstr ""
+
+msgctxt "220_Akiyama"
+msgid "Hello there. I'm a scout for a hostess club."
+msgstr ""
+
+msgctxt "232_Sexy Gal"
+msgid "Hehe. Little old to be a scout, don't you think?"
+msgstr ""
+
+msgctxt "244_Akiyama"
+msgid "Hahaha! You got me there. Believe it or not, I'm actually\r\n"
+"only thirty-two... So, do you already have a position\r\n"
+"somewhere else?"
+msgstr ""
+
+msgctxt "256_Yakuza"
+msgid "Uh-huh, at a club in Roppongi."
+msgstr ""
+
+msgctxt "268_Akiyama"
+msgid "No wonder! I knew there was something about you. Ever give\r\n"
+"any thought to switching clubs?"
+msgstr ""
+
+msgctxt "280_Yakuza"
+msgid "Well, actually..."
+msgstr ""
+
+msgctxt "292_Yakuza"
+msgid "Hey, you!"
+msgstr ""
+
+msgctxt "304_Yakuza"
+msgid "Whaddya doin' talkin' to my girl?"
+msgstr ""
+
+msgctxt "316_Yakuza"
+msgid "Hi, Chi-kun. I've been waiting forever!"
+msgstr ""
+
+msgctxt "328_Akiyama"
+msgid "Oh, so she's with you. I was just hoping she might want to\r\n"
+"give our club a try."
+msgstr ""
+
+msgctxt "340_Yakuza"
+msgid "Are you shittin' me, pal? I should chop off yer finger for\r\n"
+"that!"
+msgstr ""
+

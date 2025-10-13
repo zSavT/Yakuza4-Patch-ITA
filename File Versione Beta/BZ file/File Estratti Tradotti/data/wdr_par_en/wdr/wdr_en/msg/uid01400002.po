@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01400002.po\n"
+"X-Crowdin-File-ID: 58090\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "500"
+msgid "Game on!"
+msgstr "Si gioca!"
+
+msgctxt "2988"
+msgid "Dealer"
+msgstr "Mazziere"
+
+msgctxt "392_Dealer"
+msgid "Ready? Here we go."
+msgstr "Pronto? Si comincia."
+
+msgctxt "404_Dealer"
+msgid "Ready? Here we go."
+msgstr "Pronto? Si comincia."
+
+msgctxt "416_Dealer"
+msgid "Ready? Here we go."
+msgstr "Pronto? Si comincia."
+
+msgctxt "428_Dealer"
+msgid "Ready? Here we go."
+msgstr "Pronto? Si comincia."
+
+msgctxt "440_Dealer"
+msgid "What's it gonna be!?"
+msgstr "Cosa sarà!?"
+
+msgctxt "452_Dealer"
+msgid "What's it gonna be!?"
+msgstr "Cosa sarà!?"
+
+msgctxt "464_Dealer"
+msgid "What's it gonna be!?"
+msgstr "Cosa sarà!?"
+
+msgctxt "476_Dealer"
+msgid "What's it gonna be!?"
+msgstr "Cosa sarà!?"
+
+msgctxt "488_Dealer"
+msgid "Now they fall."
+msgstr "Ora cadono."
+
+msgctxt "512_Dealer"
+msgid "Not too bad!"
+msgstr "Non male!"
+
+msgctxt "524_Dealer"
+msgid "Not too bad!"
+msgstr "Non male!"
+
+msgctxt "536_Dealer"
+msgid "Not too bad!"
+msgstr "Non male!"
+
+msgctxt "548_Dealer"
+msgid "Not too bad!"
+msgstr "Non male!"
+
+msgctxt "560_Dealer"
+msgid "That's the way it goes."
+msgstr "Così va il gioco."
+
+msgctxt "572_Dealer"
+msgid "That's the way it goes."
+msgstr "Così va il gioco."
+
+msgctxt "584_Dealer"
+msgid "That's the way it goes."
+msgstr "Così va il gioco."
+
+msgctxt "596_Dealer"
+msgid "That's the way it goes."
+msgstr "Così va il gioco."
+
+msgctxt "608_Dealer"
+msgid "Wanna play the house again?"
+msgstr "Vuoi giocare di nuovo contro il banco?"
+
+msgctxt "620_Dealer"
+msgid "Wanna play the house again?"
+msgstr "Vuoi giocare di nuovo contro il banco?"
+
+msgctxt "632_Dealer"
+msgid "Wanna play the house again?"
+msgstr "Vuoi giocare di nuovo contro il banco?"
+
+msgctxt "644_Dealer"
+msgid "Wanna play the house again?"
+msgstr "Vuoi giocare di nuovo contro il banco?"
+
+msgctxt "656_Dealer"
+msgid "You got me. Take it easy, why don't ya?"
+msgstr "Mi hai battuto. Dacci un taglio, che ne dici?"
+
