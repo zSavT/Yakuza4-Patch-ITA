@@ -11548,7 +11548,7 @@ msgstr "???"
 
 msgctxt "76061"
 msgid "－－－－－"
-msgstr "-------"
+msgstr "－－－－－"
 
 msgctxt "76077"
 msgid "Yes"
@@ -12512,7 +12512,7 @@ msgstr "Regola la luminosità dello schermo."
 
 msgctxt "81366"
 msgid "Change the font used during the game."
-msgstr "Cambia il font utilizzato durante il gioco."
+msgstr "Cambia il font utilizzato durante il gioco (Può creare problemi con la patch ita)."
 
 msgctxt "81404"
 msgid ""
@@ -12742,7 +12742,7 @@ msgstr "Seleziona il dispositivo di input."
 
 msgctxt "82716"
 msgid "Pad"
-msgstr "Tampone"
+msgstr "Pad"
 
 msgctxt "82720"
 msgid "Keyboard and Mouse"
@@ -12858,7 +12858,7 @@ msgstr "Alta"
 
 msgctxt "83338"
 msgid "Off"
-msgstr "Off"
+msgstr "Disattivo"
 
 msgctxt "83342"
 msgid "2x"
@@ -12938,11 +12938,11 @@ msgstr "Cursore di gioco"
 
 msgctxt "83771"
 msgid "On"
-msgstr "On"
+msgstr "Attivo"
 
 msgctxt "83774"
 msgid "Off"
-msgstr "Off"
+msgstr "Disattivo"
 
 msgctxt "83778"
 msgid "%dx%d"
@@ -12962,23 +12962,23 @@ msgstr "Continua dai dati salvati."
 
 msgctxt "83822"
 msgid "Exit to Title"
-msgstr "Uscita al titolo"
+msgstr "Torna al titolo"
 
 msgctxt "83836"
 msgid "Exit to title screen."
-msgstr "Esci alla schermata del titolo."
+msgstr "Torna alla schermata del titolo."
 
 msgctxt "83858"
 msgid "Exit to Windows"
-msgstr "Esci su Windows"
+msgstr "Torna su Windows"
 
 msgctxt "83874"
 msgid "Exit to Windows desktop."
-msgstr "Esci e torna al desktop di Windows."
+msgstr "Chiudi il gioco e torna al desktop di Windows."
 
 msgctxt "83899"
 msgid "Japan Button Layout"
-msgstr "Layout dei pulsanti del Giappone"
+msgstr "Layout dei pulsanti giapponese"
 
 msgctxt "83919"
 msgid ""
@@ -13064,7 +13064,7 @@ msgstr "Personalizzato"
 
 msgctxt "84292"
 msgid "Direct Input"
-msgstr "Input diretto"
+msgstr "Direct Input"
 
 msgctxt "84305"
 msgid "Adventure"
@@ -13080,7 +13080,7 @@ msgstr "UI"
 
 msgctxt "84325"
 msgid "Debug_Menu"
-msgstr "Menu di debug"
+msgstr "Debug_Menu"
 
 msgctxt "84336"
 msgid "Current"
@@ -13200,7 +13200,7 @@ msgstr "Etichetta di sopravvivenza"
 
 msgctxt "84599"
 msgid "Play Time"
-msgstr "Tempo di esecuzione"
+msgstr "Tempo di Gioco"
 
 msgctxt "84609"
 msgid "Create save on new slot"
