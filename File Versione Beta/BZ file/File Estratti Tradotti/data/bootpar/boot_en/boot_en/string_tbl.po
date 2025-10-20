@@ -1359,11 +1359,11 @@ msgstr "Predefinito"
 
 msgctxt "26530"
 msgid "Reset Current Game Mode"
-msgstr "Ripristina la modalità di gioco corrente"
+msgstr "Reset modalità di gioco corrente"
 
 msgctxt "26554"
 msgid "Reset All Game Modes"
-msgstr "Ripristina tutte le modalità di gioco"
+msgstr "Reset tutte le modalità di gioco"
 
 msgctxt "26575"
 msgid "Apply"
@@ -11400,7 +11400,7 @@ msgstr "Elenco di completamento"
 
 msgctxt "75248"
 msgid "Memos"
-msgstr "Promemoria"
+msgstr "Memos"
 
 msgctxt "75254"
 msgid "Options"
@@ -11876,7 +11876,7 @@ msgstr "Armi"
 
 msgctxt "77842"
 msgid "Gear"
-msgstr "Marcia"
+msgstr "Attrezzatura"
 
 msgctxt "77847"
 msgid "Mystery"
@@ -12256,7 +12256,7 @@ msgstr "Armi"
 
 msgctxt "78996"
 msgid "Gear"
-msgstr "Marcia"
+msgstr "Attrezzatura"
 
 msgctxt "79001"
 msgid "Completion: Coliseum"
@@ -13072,7 +13072,7 @@ msgstr "Avventura"
 
 msgctxt "84315"
 msgid "Combat"
-msgstr "Combattere"
+msgstr "Combattimento"
 
 msgctxt "84322"
 msgid "UI"
@@ -13176,7 +13176,7 @@ msgstr "Pachinko"
 
 msgctxt "84532"
 msgid "Chase"
-msgstr "Inseguire"
+msgstr "Inseguimento"
 
 msgctxt "84538"
 msgid "Table Tennis"
@@ -13540,7 +13540,7 @@ msgstr "Armi"
 
 msgctxt "86171"
 msgid "Gear"
-msgstr "Marcia"
+msgstr "Attrezzatura"
 
 msgctxt "86176"
 msgid "Attack"
