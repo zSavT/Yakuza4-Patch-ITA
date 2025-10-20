@@ -1371,7 +1371,7 @@ msgstr "Applica"
 
 msgctxt "26581"
 msgid "Return and save"
-msgstr "Torna indietro e risparmia"
+msgstr "Torna indietro e salva"
 
 msgctxt "26597"
 msgid "Delete"
@@ -1802,8 +1802,8 @@ msgid ""
 "Game mode where you can play certain games with 2 players. This can be\n"
 "unlocked by earning certain achievements."
 msgstr ""
-"Modalità di gioco in cui è possibile giocare a determinati giochi in 2 giocatori. Questa modalità può essere\n"
-"sbloccata ottenendo determinati obiettivi."
+"Modalità di gioco in cui è possibile giocare a determinati giochi in 2 giocatori.\n"
+"Questa modalità può essere sbloccata ottenendo determinati obiettivi."
 
 msgctxt "28336"
 msgid "Special Karaoke mode that opens up when the main story is cleared."
@@ -2348,7 +2348,7 @@ msgstr "Opzioni"
 
 msgctxt "31905"
 msgid "Exit Game"
-msgstr "Uscita dal gioco"
+msgstr "Esci dal gioco"
 
 msgctxt "31915"
 msgid "Load Clear Data"
@@ -11312,7 +11312,7 @@ msgstr "Carica e riprova"
 
 msgctxt "74911"
 msgid "Exit Game"
-msgstr "Uscita dal gioco"
+msgstr "Esci dal gioco"
 
 msgctxt "74921"
 msgid "Return to title screen?"
@@ -12586,7 +12586,7 @@ msgstr "Visualizza e modifica le opzioni audio."
 
 msgctxt "81959"
 msgid "Exit Game"
-msgstr "Uscita dal gioco"
+msgstr "Esci dal gioco"
 
 msgctxt "81969"
 msgid "Quit the game to desktop."
@@ -12742,7 +12742,7 @@ msgstr "Seleziona il dispositivo di input."
 
 msgctxt "82716"
 msgid "Pad"
-msgstr "Pad"
+msgstr "GamePad"
 
 msgctxt "82720"
 msgid "Keyboard and Mouse"
@@ -12910,7 +12910,7 @@ msgstr "Dispositivo"
 
 msgctxt "83424"
 msgid "Pad icons"
-msgstr "Icone del pad"
+msgstr "Icone del GamePad"
 
 msgctxt "83434"
 msgid "Auto"
