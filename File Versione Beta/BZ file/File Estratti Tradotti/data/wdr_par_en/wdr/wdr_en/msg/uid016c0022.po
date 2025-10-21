@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid016c0022.po\n"
 "X-Crowdin-File-ID: 59532\n"
-"PO-Revision-Date: 2025-10-10 21:11\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "504"
 msgid "Controls"
@@ -23,31 +23,31 @@ msgstr "Controlli"
 
 msgctxt "14496"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "14500"
 msgid "Erena"
-msgstr "Erena"
+msgstr ""
 
 msgctxt "14504"
 msgid "F_cab_sitsofa_tlk_happy"
-msgstr "F_cab_sitsofa_tlk_happy"
+msgstr ""
 
 msgctxt "14508"
 msgid "F_cab_sitsofa_talk_smileA"
-msgstr "F_cab_sitsofa_talk_smileA"
+msgstr ""
 
 msgctxt "14512"
 msgid "F_cab_sitsofa_tlk_angry"
-msgstr "F_cab_sitsofa_tlk_angry"
+msgstr ""
 
 msgctxt "14516"
 msgid "F_cab_sitsofa_hot_momoA"
-msgstr "F_cab_sitsofa_hot_momoA"
+msgstr ""
 
 msgctxt "14520"
 msgid "F_cab_sitsofa_hot_muneA"
-msgstr "F_cab_sitsofa_hot_muneA"
+msgstr ""
 
 msgctxt "516_Akiyama"
 msgid "Use <Action:Button_LS_Up@Cabaret><Action:Button_LS_Down@Cabaret><Action:Button_LS_Left@Cabaret><Action:Button_LS_Right@Cabaret> to control where you look. This is your chance to feast your eyes on her beauty."
@@ -364,3 +364,4 @@ msgstr "Avrei dovuto immaginare che non dovevo chiedere una cosa del genere... I
 msgctxt "1464_Akiyama"
 msgid "I'm sorry..."
 msgstr "Mi dispiace..."
+

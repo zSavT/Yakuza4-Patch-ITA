@@ -15,19 +15,19 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01020553.po\n"
 "X-Crowdin-File-ID: 61284\n"
-"PO-Revision-Date: 2025-10-08 07:05\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "1612"
 msgid "Tanimura"
-msgstr "Tanimura"
+msgstr ""
 
 msgctxt "1616"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "1620"
 msgid "Hisai"
-msgstr "Hisai"
+msgstr ""
 
 msgctxt "56_Tanimura"
 msgid "Chief, I have a few things I need to check out. Why don't I see you later?"
@@ -48,3 +48,4 @@ msgstr "Non arriverei a tanto..."
 msgctxt "116_Tanimura"
 msgid "(I think I'll head back to <Color:7>Homeland<Color:Default> for now. I need some time to digest all this.)"
 msgstr "(Credo che per ora tornerò all'<Color:7>Homeland<Color:Default>. Ho bisogno di tempo per digerire tutto questo.)"
+

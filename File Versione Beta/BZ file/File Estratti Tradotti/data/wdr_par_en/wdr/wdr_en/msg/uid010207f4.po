@@ -15,47 +15,47 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid010207f4.po\n"
 "X-Crowdin-File-ID: 59096\n"
-"PO-Revision-Date: 2025-10-10 20:38\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "4724"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "4728"
 msgid "dummy"
-msgstr "dummy"
+msgstr ""
 
 msgctxt "4732"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "4736"
 msgid "Sukegawa"
-msgstr "Sukegawa"
+msgstr ""
 
 msgctxt "4740"
 msgid "Talk_OK"
-msgstr "Talk_OK"
+msgstr ""
 
 msgctxt "4744"
 msgid "Kakuda"
-msgstr "Kakuda"
+msgstr ""
 
 msgctxt "4748"
 msgid "Idle"
-msgstr "Idle"
+msgstr ""
 
 msgctxt "4752"
 msgid "0"
-msgstr "0"
+msgstr ""
 
 msgctxt "4756"
 msgid "Talk_Gakkari"
-msgstr "Talk_Gakkari"
+msgstr ""
 
 msgctxt "4760"
 msgid "Talk_Quest"
-msgstr "Talk_Quest"
+msgstr ""
 
 msgctxt "88_Akiyama"
 msgid "Should be safe for your pal Kakuda now."
@@ -79,7 +79,7 @@ msgstr "Mmm, fammi vedere..."
 
 msgctxt "208_Kakuda"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "220_Kakuda"
 msgid "...Ah, it's one of these. Yeah, this shouldn't be a problem."
@@ -132,3 +132,4 @@ msgstr "Allora è meglio che andiamo a cercarlo."
 msgctxt "460_Akiyama"
 msgid "Come on."
 msgstr "Andiamo."
+

@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01020340.po\n"
 "X-Crowdin-File-ID: 58684\n"
-"PO-Revision-Date: 2025-10-10 08:56\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "6100"
 msgid "Beefy Thug"
@@ -23,27 +23,27 @@ msgstr "Teppista palestrato"
 
 msgctxt "6104"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "6108"
 msgid "Kobayashi"
-msgstr "Kobayashi"
+msgstr ""
 
 msgctxt "6112"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "6116"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "6120"
 msgid "Ito"
-msgstr "Ito"
+msgstr ""
 
 msgctxt "6124"
 msgid "Takahashi"
-msgstr "Takahashi"
+msgstr ""
 
 msgctxt "56_Beefy Thug"
 msgid "What the hell, Kobayashi? You didn't tell me he was some kinda freak! I'm gonna have nightmares about those feet, man!"
@@ -132,3 +132,4 @@ msgstr "...Ci si vede in giro, Akiyama-san."
 msgctxt "380_Akiyama"
 msgid "(Looks like Midorikawa and his boys got to the Theater Underground by heading past the coin lockers. I better hurry.)"
 msgstr "(Sembra che Midorikawa e i suoi siano arrivati ai sotterranei del teatro passando per gli armadietti. È meglio che mi sbrighi.)"
+

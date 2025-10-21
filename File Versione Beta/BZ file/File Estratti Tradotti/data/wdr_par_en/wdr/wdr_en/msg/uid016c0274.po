@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid016c0274.po\n"
 "X-Crowdin-File-ID: 58452\n"
-"PO-Revision-Date: 2025-10-09 08:51\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "31956"
 msgid "Attendant"
@@ -23,31 +23,31 @@ msgstr "Addetto"
 
 msgctxt "31960"
 msgid "M_stand_tlk_shoukai"
-msgstr "M_stand_tlk_shoukai"
+msgstr ""
 
 msgctxt "31964"
 msgid "F_cab_stand_tlk_shoukai"
-msgstr "F_cab_stand_tlk_shoukai"
+msgstr ""
 
 msgctxt "31968"
 msgid "Rio"
-msgstr "Rio"
+msgstr ""
 
 msgctxt "31972"
 msgid "F_cab_stand_tlk_ojigi_01"
-msgstr "F_cab_stand_tlk_ojigi_01"
+msgstr ""
 
 msgctxt "31976"
 msgid "F_cab_sitsofa_tlk_suprise"
-msgstr "F_cab_sitsofa_tlk_suprise"
+msgstr ""
 
 msgctxt "31980"
 msgid "P_sitsofaR_tlk_yes"
-msgstr "P_sitsofaR_tlk_yes"
+msgstr ""
 
 msgctxt "31984"
 msgid "F_cab_sitsofa_tlk_ojigiA"
-msgstr "F_cab_sitsofa_tlk_ojigiA"
+msgstr ""
 
 msgctxt "31988"
 msgid "Kiryu"
@@ -55,107 +55,107 @@ msgstr "Kiryu"
 
 msgctxt "31992"
 msgid "F_cab_sitsofa_tlk_yes"
-msgstr "F_cab_sitsofa_tlk_yes"
+msgstr ""
 
 msgctxt "31996"
 msgid "F_cab_sitsofa_tlk_happy"
-msgstr "F_cab_sitsofa_tlk_happy"
+msgstr ""
 
 msgctxt "32000"
 msgid "P_sitsofaR_tlk_smile"
-msgstr "P_sitsofaR_tlk_smile"
+msgstr ""
 
 msgctxt "32004"
 msgid "F_cab_sitsofa_tlk_tereruA"
-msgstr "F_cab_sitsofa_tlk_tereruA"
+msgstr ""
 
 msgctxt "32008"
 msgid "Himeka"
-msgstr "Himeka"
+msgstr ""
 
 msgctxt "32012"
 msgid "F_cab_sitsofa_tlk_he_happy"
-msgstr "F_cab_sitsofa_tlk_he_happy"
+msgstr ""
 
 msgctxt "32016"
 msgid "F_cab_sitsofa_talk_smileA"
-msgstr "F_cab_sitsofa_talk_smileA"
+msgstr ""
 
 msgctxt "32020"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "32024"
 msgid "F_cab_sitsofa_sp5_sync_laugh"
-msgstr "F_cab_sitsofa_sp5_sync_laugh"
+msgstr ""
 
 msgctxt "32028"
 msgid "Shizuka"
-msgstr "Shizuka"
+msgstr ""
 
 msgctxt "32032"
 msgid "F_cab_sitsofa_tlk_he_yes"
-msgstr "F_cab_sitsofa_tlk_he_yes"
+msgstr ""
 
 msgctxt "32036"
 msgid "P_sitsofaR_tlk_quest"
-msgstr "P_sitsofaR_tlk_quest"
+msgstr ""
 
 msgctxt "32040"
 msgid "P_sitsofaR_tlk_comment"
-msgstr "P_sitsofaR_tlk_comment"
+msgstr ""
 
 msgctxt "32044"
 msgid "F_cab_sitsofa_tlk_he_surp"
-msgstr "F_cab_sitsofa_tlk_he_surp"
+msgstr ""
 
 msgctxt "32048"
 msgid "P_sitsofaR_tlk_no"
-msgstr "P_sitsofaR_tlk_no"
+msgstr ""
 
 msgctxt "32052"
 msgid "F_cab_sitsofa_tlk_kamaeAtoB"
-msgstr "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
 
 msgctxt "32056"
 msgid "F_cab_sitsofa_tlk_supriseB"
-msgstr "F_cab_sitsofa_tlk_supriseB"
+msgstr ""
 
 msgctxt "32060"
 msgid "F_cab_sitsofa_sp2_sync_hiza"
-msgstr "F_cab_sitsofa_sp2_sync_hiza"
+msgstr ""
 
 msgctxt "32064"
 msgid "F_cab_sitsofa_tlk_kamaeBtoA"
-msgstr "F_cab_sitsofa_tlk_kamaeBtoA"
+msgstr ""
 
 msgctxt "32068"
 msgid "F_cab_sitsofa_tlk_thinkA"
-msgstr "F_cab_sitsofa_tlk_thinkA"
+msgstr ""
 
 msgctxt "32072"
 msgid "F_cab_sitsofa_tlk_gakkariA"
-msgstr "F_cab_sitsofa_tlk_gakkariA"
+msgstr ""
 
 msgctxt "32076"
 msgid "Tanimura"
-msgstr "Tanimura"
+msgstr ""
 
 msgctxt "32080"
 msgid "P_sitsofaL_tlk_yes"
-msgstr "P_sitsofaL_tlk_yes"
+msgstr ""
 
 msgctxt "32084"
 msgid "F_cab_sitsofa_tlk_he_smile"
-msgstr "F_cab_sitsofa_tlk_he_smile"
+msgstr ""
 
 msgctxt "32088"
 msgid "P_sitsofaL_tlk_no"
-msgstr "P_sitsofaL_tlk_no"
+msgstr ""
 
 msgctxt "32092"
 msgid "P_sitsofaL_tlk_smile"
-msgstr "P_sitsofaL_tlk_smile"
+msgstr ""
 
 msgctxt "924_Attendant"
 msgid "Sorry to keep you waiting!"
@@ -403,7 +403,7 @@ msgstr "Eheheh. ♪"
 
 msgctxt "1872_Akiyama"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "1884_Rio"
 msgid "Is something wrong?"
@@ -467,7 +467,7 @@ msgstr "Eh, davvero?"
 
 msgctxt "2064_Akiyama"
 msgid "Can you speak Portuguese?"
-msgstr "Sai parlare portoghese?"
+msgstr "Sai parlare Italiano?"
 
 msgctxt "2076_Rio"
 msgid "Yep! I'm pretty good at it."
@@ -475,7 +475,7 @@ msgstr "Sì! Sono abbastanza brava."
 
 msgctxt "2088_Akiyama"
 msgid "Wow, I'm impressed. Wanna say something in Portuguese for me?"
-msgstr "Wow, sono colpito. Ti va di dire qualcosa in portoghese per me?"
+msgstr "Wow, sono colpito. Ti va di dire qualcosa in italiano per me?"
 
 msgctxt "2100_Rio"
 msgid "Oh, I hate being put on the spot..."
@@ -856,3 +856,4 @@ msgstr "Allora, cosa fai di solito?"
 msgctxt "3228_Attendant"
 msgid "Do I look suspicious or something?"
 msgstr "Ho un'aria sospetta o qualcosa del genere?"
+

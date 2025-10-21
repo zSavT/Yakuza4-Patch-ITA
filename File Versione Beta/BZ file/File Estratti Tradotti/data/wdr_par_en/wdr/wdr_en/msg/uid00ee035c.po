@@ -15,23 +15,23 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee035c.po\n"
 "X-Crowdin-File-ID: 58318\n"
-"PO-Revision-Date: 2025-10-10 08:48\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "17248"
 msgid "Naoki"
-msgstr "Naoki"
+msgstr ""
 
 msgctxt "17252"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "17256"
 msgid "Talk_Ojigi"
-msgstr "Talk_Ojigi"
+msgstr ""
 
 msgctxt "17260"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "17264"
 msgid "Achieve Super Service 5 Times"
@@ -47,11 +47,11 @@ msgstr "Punta alla vetta!"
 
 msgctxt "17276"
 msgid "Talk_Smile"
-msgstr "Talk_Smile"
+msgstr ""
 
 msgctxt "17280"
 msgid "Talk_Gakkari"
-msgstr "Talk_Gakkari"
+msgstr ""
 
 msgctxt "392_Naoki"
 msgid "Please pick out an outfit for your hostess. You can choose different types of clothing, makeup, and other items."
@@ -384,3 +384,4 @@ msgstr "%s-san non è qui oggi... A quanto pare ha saltato il lavoro."
 msgctxt "1640_Naoki"
 msgid "I would think she'd at least give us a call..."
 msgstr "Avrei pensato che almeno ci avrebbe chiamato..."
+

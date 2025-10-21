@@ -15,63 +15,63 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid018300b6.po\n"
 "X-Crowdin-File-ID: 59252\n"
-"PO-Revision-Date: 2025-10-10 20:46\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "45864"
 msgid "Noa"
-msgstr "Noa"
+msgstr ""
 
 msgctxt "45868"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "45872"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "45876"
 msgid "Talk_Kosite_st"
-msgstr "Talk_Kosite_st"
+msgstr ""
 
 msgctxt "45880"
 msgid "Talk_Smile"
-msgstr "Talk_Smile"
+msgstr ""
 
 msgctxt "45884"
 msgid "Talk_Gakkari"
-msgstr "Talk_Gakkari"
+msgstr ""
 
 msgctxt "45888"
 msgid "Talk_Kansin"
-msgstr "Talk_Kansin"
+msgstr ""
 
 msgctxt "45892"
 msgid "dummy"
-msgstr "dummy"
+msgstr ""
 
 msgctxt "45896"
 msgid "0"
-msgstr "0"
+msgstr ""
 
 msgctxt "45900"
 msgid "Erena"
-msgstr "Erena"
+msgstr ""
 
 msgctxt "45904"
 msgid "Chihiro"
-msgstr "Chihiro"
+msgstr ""
 
 msgctxt "45908"
 msgid "Tanimura"
-msgstr "Tanimura"
+msgstr ""
 
 msgctxt "45912"
 msgid "Talk_Ase"
-msgstr "Talk_Ase"
+msgstr ""
 
 msgctxt "45916"
 msgid "Maya"
-msgstr "Maya"
+msgstr ""
 
 msgctxt "45920"
 msgid "Kiryu"
@@ -79,19 +79,19 @@ msgstr "Kiryu"
 
 msgctxt "45924"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "45928"
 msgid "Rio"
-msgstr "Rio"
+msgstr ""
 
 msgctxt "45932"
 msgid "Himeka"
-msgstr "Himeka"
+msgstr ""
 
 msgctxt "45936"
 msgid "Shizuka"
-msgstr "Shizuka"
+msgstr ""
 
 msgctxt "45940"
 msgid "Female Customer"
@@ -99,31 +99,31 @@ msgstr "Cliente"
 
 msgctxt "45944"
 msgid "Talk_OK"
-msgstr "Talk_OK"
+msgstr ""
 
 msgctxt "45948"
 msgid "Player"
-msgstr "Player"
+msgstr ""
 
 msgctxt "45952"
 msgid "Talk_Info_F"
-msgstr "Talk_Info_F"
+msgstr ""
 
 msgctxt "45956"
 msgid "Hiyori Matsuoka"
-msgstr "Hiyori Matsuoka"
+msgstr ""
 
 msgctxt "45960"
 msgid "松岡里緒奈：源氏名"
-msgstr "松岡里緒奈：源氏名"
+msgstr ""
 
 msgctxt "45964"
 msgid "望月京子：源氏名"
-msgstr "望月京子：源氏名"
+msgstr ""
 
 msgctxt "45968"
 msgid "峰村七海：源氏名"
-msgstr "峰村七海：源氏名"
+msgstr ""
 
 msgctxt "1124_Noa"
 msgid "That bath felt so good! <Color:255,200,200,255>♥<Color:Default> And after a good bath, you've gotta play table tennis!"
@@ -514,8 +514,8 @@ msgid "I'm not going to go easy on you. "
 msgstr "Non ci andrò piano con te."
 
 msgctxt "3536_Female Customer"
-msgid "Aha! Questo è quello che mi piace sentire. Okay allora, facciamolo!"
-msgstr "Aha! That's what I like to hear. Okay then, let's do this!"
+msgid "Aha! That's what I like to hear. Okay then, let's do this!"
+msgstr ""
 
 msgctxt "3560_Noa"
 msgid "Got it! Let's do this, then!"
@@ -792,3 +792,4 @@ msgstr "Vacci piano, per favore."
 msgctxt "4916_Noa"
 msgid "Don't go too hard on me."
 msgstr "Non andarci troppo pesante."
+

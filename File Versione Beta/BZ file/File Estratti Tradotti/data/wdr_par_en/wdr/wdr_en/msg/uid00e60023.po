@@ -15,15 +15,15 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00e60023.po\n"
 "X-Crowdin-File-ID: 59494\n"
-"PO-Revision-Date: 2025-10-10 20:57\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "4304"
 msgid "Rio"
-msgstr "Rio"
+msgstr ""
 
 msgctxt "4308"
 msgid "Talk_Angry"
-msgstr "Talk_Angry"
+msgstr ""
 
 msgctxt "4312"
 msgid "Company President"
@@ -31,15 +31,15 @@ msgstr "Presidente della compagnia"
 
 msgctxt "4316"
 msgid "3_-110_MOUNTAIN_VF_OFF"
-msgstr "3_-110_MOUNTAIN_VF_OFF"
+msgstr ""
 
 msgctxt "4320"
 msgid "Talk_Quest"
-msgstr "Talk_Quest"
+msgstr ""
 
 msgctxt "4324"
 msgid "Talk_Think"
-msgstr "Talk_Think"
+msgstr ""
 
 msgctxt "4328"
 msgid "Photographer"
@@ -47,27 +47,27 @@ msgstr "Fotografo"
 
 msgctxt "4332"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "4336"
 msgid "Talk_Kamae"
-msgstr "Talk_Kamae"
+msgstr ""
 
 msgctxt "4340"
 msgid "Talk_Info_F"
-msgstr "Talk_Info_F"
+msgstr ""
 
 msgctxt "4344"
 msgid "Talk_Surp"
-msgstr "Talk_Surp"
+msgstr ""
 
 msgctxt "4348"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "4352"
 msgid "Talk_Gakkari"
-msgstr "Talk_Gakkari"
+msgstr ""
 
 msgctxt "56_Rio"
 msgid "No! That's not what I was told! I was just supposed to listen to what you had to say today!"
@@ -128,3 +128,4 @@ msgstr "Spiacente, ragazzi, ma non vi permetterò di fare i vostri comodi con Ri
 msgctxt "236_Company President"
 msgid "Shit! We'll just have to force her to let us take the pictures! Get rid of this asshole!"
 msgstr "Merda! Dovremo costringerla a farsi fotografare! Liberatevi di questo stronzo!"
+

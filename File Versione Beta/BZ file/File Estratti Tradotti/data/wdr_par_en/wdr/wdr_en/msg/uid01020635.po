@@ -15,11 +15,11 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01020635.po\n"
 "X-Crowdin-File-ID: 62694\n"
-"PO-Revision-Date: 2025-10-08 21:46\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
 
 msgctxt "1744"
 msgid "Talk_Phone_st"
-msgstr "Talk_Phone_st"
+msgstr ""
 
 msgctxt "1748"
 msgid "The Florist"
@@ -27,7 +27,7 @@ msgstr "Il Fiorista"
 
 msgctxt "1752"
 msgid "dummy"
-msgstr "dummy"
+msgstr ""
 
 msgctxt "1756"
 msgid "Kiryu"
@@ -35,11 +35,11 @@ msgstr "Kiryu"
 
 msgctxt "1760"
 msgid "Talk_Phone_yes"
-msgstr "Talk_Phone_yes"
+msgstr ""
 
 msgctxt "1764"
 msgid "Talk_Phone_ed"
-msgstr "Talk_Phone_ed"
+msgstr ""
 
 msgctxt "92_The Florist"
 msgid "Kiryu. You on your way to Kamurocho Hills?"
@@ -70,3 +70,4 @@ msgstr "Dubito che te lo dimenticherai tanto presto."
 msgctxt "164_Kiryu"
 msgid "Yeah. Thanks, Florist."
 msgstr "Già. Grazie, Fiorista."
+

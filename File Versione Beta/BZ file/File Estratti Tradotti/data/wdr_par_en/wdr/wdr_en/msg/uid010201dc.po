@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid010201dc.po\n"
 "X-Crowdin-File-ID: 58874\n"
-"PO-Revision-Date: 2025-10-10 09:13\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "8540"
 msgid "Player"
@@ -23,27 +23,27 @@ msgstr "Giocatore"
 
 msgctxt "8544"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "8548"
 msgid "Haruka"
-msgstr "Haruka"
+msgstr ""
 
 msgctxt "8552"
 msgid "Talk_Gakkari"
-msgstr "Talk_Gakkari"
+msgstr ""
 
 msgctxt "8556"
 msgid "Lily"
-msgstr "Lily"
+msgstr ""
 
 msgctxt "8560"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "8564"
 msgid "Yasuko"
-msgstr "Yasuko"
+msgstr ""
 
 msgctxt "8568"
 msgid "Hostess Club Scouting"
@@ -232,3 +232,4 @@ msgstr "Smetti di reclutare"
 msgctxt "1348_Player"
 msgid "Continue Recruiting"
 msgstr "Continua a reclutare"
+

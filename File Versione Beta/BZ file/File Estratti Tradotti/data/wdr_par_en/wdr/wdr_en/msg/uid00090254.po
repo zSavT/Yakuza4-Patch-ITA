@@ -15,19 +15,19 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00090254.po\n"
 "X-Crowdin-File-ID: 59590\n"
-"PO-Revision-Date: 2025-10-10 21:17\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "8228"
 msgid "Noa"
-msgstr "Noa"
+msgstr ""
 
 msgctxt "8232"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "8236"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "8240"
 msgid "Suited Stalker"
@@ -35,7 +35,7 @@ msgstr "Stalker in abito"
 
 msgctxt "8244"
 msgid "Talk_Away"
-msgstr "Talk_Away"
+msgstr ""
 
 msgctxt "8248"
 msgid "Delusional Nerd"
@@ -43,7 +43,7 @@ msgstr "Nerd delirante"
 
 msgctxt "8252"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "8256"
 msgid "Man Blind to Reality"
@@ -51,39 +51,39 @@ msgstr "Uomo cieco alla realtà"
 
 msgctxt "8260"
 msgid "Talk_Odosu"
-msgstr "Talk_Odosu"
+msgstr ""
 
 msgctxt "8264"
 msgid "Talk_Ase"
-msgstr "Talk_Ase"
+msgstr ""
 
 msgctxt "8268"
 msgid "Talk_Kosite_st"
-msgstr "Talk_Kosite_st"
+msgstr ""
 
 msgctxt "8272"
 msgid "Talk_NoBig"
-msgstr "Talk_NoBig"
+msgstr ""
 
 msgctxt "8276"
 msgid "Talk_Kosite_ed"
-msgstr "Talk_Kosite_ed"
+msgstr ""
 
 msgctxt "8280"
 msgid "Talk_Info_F"
-msgstr "Talk_Info_F"
+msgstr ""
 
 msgctxt "8284"
 msgid "F_sxy_stand_tlk_nobig"
-msgstr "F_sxy_stand_tlk_nobig"
+msgstr ""
 
 msgctxt "8288"
 msgid "Talk_Smile"
-msgstr "Talk_Smile"
+msgstr ""
 
 msgctxt "8292"
 msgid "Talk_Chohatu"
-msgstr "Talk_Chohatu"
+msgstr ""
 
 msgctxt "56_Noa"
 msgid "Akiyama-san!"
@@ -195,7 +195,7 @@ msgstr "Sentite, Noa-chan ha una parte di responsabilità per avervi illusi."
 
 msgctxt "404_Noa"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "416_Akiyama"
 msgid "But honestly, you're all getting nowhere with her. Noa-chan doesn't love any of you."
@@ -248,3 +248,4 @@ msgstr "Già! Non puoi spezzare così facilmente il legame tra me e Noa-chan!"
 msgctxt "560_Akiyama"
 msgid "Well, that makes things simpler... Let's do this!"
 msgstr "Beh, questo semplifica le cose... Facciamolo!"
+

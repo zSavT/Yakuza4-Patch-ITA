@@ -15,11 +15,11 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid0191004b.po\n"
 "X-Crowdin-File-ID: 58550\n"
-"PO-Revision-Date: 2025-10-09 09:55\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "1692"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "1696"
 msgid "Energetic Foreigner"
@@ -27,7 +27,7 @@ msgstr "Straniero esuberante"
 
 msgctxt "1700"
 msgid "Talk_Quest"
-msgstr "Talk_Quest"
+msgstr ""
 
 msgctxt "56_Akiyama"
 msgid "(Better start looking for leads on Midorikawa.)"
@@ -52,3 +52,4 @@ msgstr "(\"Tizi robusti\"? Forse sta parlando di Midorikawa.)"
 msgctxt "128_Akiyama"
 msgid "Hold on there, buddy! Think we can talk for a sec?"
 msgstr "Aspetta un attimo, amico! Possiamo parlare un secondo?"
+

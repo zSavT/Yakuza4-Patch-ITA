@@ -15,87 +15,87 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid016c01f7.po\n"
 "X-Crowdin-File-ID: 59358\n"
-"PO-Revision-Date: 2025-10-10 20:54\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "15568"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "15572"
 msgid "P_sitsofaR_tlk_comment"
-msgstr "P_sitsofaR_tlk_comment"
+msgstr ""
 
 msgctxt "15576"
 msgid "Noa"
-msgstr "Noa"
+msgstr ""
 
 msgctxt "15580"
 msgid "F_cab_sitsofa_tlk_happy"
-msgstr "F_cab_sitsofa_tlk_happy"
+msgstr ""
 
 msgctxt "15584"
 msgid "P_sitsofaR_tlk_yes"
-msgstr "P_sitsofaR_tlk_yes"
+msgstr ""
 
 msgctxt "15588"
 msgid "F_cab_sitsofa_talk_smileA"
-msgstr "F_cab_sitsofa_talk_smileA"
+msgstr ""
 
 msgctxt "15592"
 msgid "P_sitsofaR_tlk_surp"
-msgstr "P_sitsofaR_tlk_surp"
+msgstr ""
 
 msgctxt "15596"
 msgid "F_cab_sitsofa_tlk_yes"
-msgstr "F_cab_sitsofa_tlk_yes"
+msgstr ""
 
 msgctxt "15600"
 msgid "P_sitsofaR_tlk_quest"
-msgstr "P_sitsofaR_tlk_quest"
+msgstr ""
 
 msgctxt "15604"
 msgid "F_cab_sitsofa_sp2_sync_hiza"
-msgstr "F_cab_sitsofa_sp2_sync_hiza"
+msgstr ""
 
 msgctxt "15608"
 msgid "P_sitsofaR_tlk_smile"
-msgstr "P_sitsofaR_tlk_smile"
+msgstr ""
 
 msgctxt "15612"
 msgid "F_cab_sitsofa_tlk_suprise"
-msgstr "F_cab_sitsofa_tlk_suprise"
+msgstr ""
 
 msgctxt "15616"
 msgid "P_sitsofaR_tlk_no"
-msgstr "P_sitsofaR_tlk_no"
+msgstr ""
 
 msgctxt "15620"
 msgid "F_cab_sitsofa_tlk_noA"
-msgstr "F_cab_sitsofa_tlk_noA"
+msgstr ""
 
 msgctxt "15624"
 msgid "P_sitsofaR_tlk_ase"
-msgstr "P_sitsofaR_tlk_ase"
+msgstr ""
 
 msgctxt "15628"
 msgid "F_cab_sitsofa_sp6_sync_kami"
-msgstr "F_cab_sitsofa_sp6_sync_kami"
+msgstr ""
 
 msgctxt "15632"
 msgid "F_cab_sitsofa_tlk_commentA"
-msgstr "F_cab_sitsofa_tlk_commentA"
+msgstr ""
 
 msgctxt "15636"
 msgid "F_cab_sitsofa_sp1_sync_yop"
-msgstr "F_cab_sitsofa_sp1_sync_yop"
+msgstr ""
 
 msgctxt "15640"
 msgid "F_cab_sitsofa_tlk_thinkA"
-msgstr "F_cab_sitsofa_tlk_thinkA"
+msgstr ""
 
 msgctxt "15644"
 msgid "F_cab_sitsofa_tlk_kamaeAtoB"
-msgstr "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
 
 msgctxt "392_Akiyama"
 msgid "Ever heard of 777 Town?"
@@ -400,3 +400,4 @@ msgstr "Sembri un purista che direbbe: \"Il sakè deve essere secco! Il sakè do
 msgctxt "1328_Akiyama"
 msgid "Um... Okay..."
 msgstr "Uhm... Okay..."
+

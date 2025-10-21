@@ -15,35 +15,35 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid0102048c.po\n"
 "X-Crowdin-File-ID: 60358\n"
-"PO-Revision-Date: 2025-10-08 06:43\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "11540"
 msgid "Zhao"
-msgstr "Zhao"
+msgstr ""
 
 msgctxt "11544"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "11548"
 msgid "Tanimura"
-msgstr "Tanimura"
+msgstr ""
 
 msgctxt "11552"
 msgid "Talk_Smile"
-msgstr "Talk_Smile"
+msgstr ""
 
 msgctxt "11556"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "11560"
 msgid "Talk_Odosu"
-msgstr "Talk_Odosu"
+msgstr ""
 
 msgctxt "11564"
 msgid "Talk_Phone_st"
-msgstr "Talk_Phone_st"
+msgstr ""
 
 msgctxt "11568"
 msgid "Manager of Midori"
@@ -51,35 +51,35 @@ msgstr "Direttore del Midori"
 
 msgctxt "11572"
 msgid "Talk_Phone_yes"
-msgstr "Talk_Phone_yes"
+msgstr ""
 
 msgctxt "11576"
 msgid "Talk_Phone_ed"
-msgstr "Talk_Phone_ed"
+msgstr ""
 
 msgctxt "11580"
 msgid "P_tan_stand"
-msgstr "P_tan_stand"
+msgstr ""
 
 msgctxt "11584"
 msgid "Talk_Kamae"
-msgstr "Talk_Kamae"
+msgstr ""
 
 msgctxt "11588"
 msgid "Talk_Quest"
-msgstr "Talk_Quest"
+msgstr ""
 
 msgctxt "11592"
 msgid "Talk_Surp"
-msgstr "Talk_Surp"
+msgstr ""
 
 msgctxt "11596"
 msgid "Talk_Think"
-msgstr "Talk_Think"
+msgstr ""
 
 msgctxt "11600"
 msgid "Mei Hua"
-msgstr "Mei Hua"
+msgstr ""
 
 msgctxt "56_Zhao"
 msgid "So what kept you today? I thought you'd be here earlier."
@@ -163,7 +163,7 @@ msgstr "Quindi potrebbe anche essere l'ultima persona ad averlo visto vivo..."
 
 msgctxt "296_Tanimura"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "332_Manager of Midori"
 msgid "Is this Tanimura?"
@@ -192,7 +192,8 @@ msgstr "Perché, la polizia sta facendo irruzione o qualcosa del genere?"
 msgctxt "404_Manager of Midori"
 msgid "No, nothing like that. It's about that woman\r\n"
 "you've been looking for."
-msgstr "No, niente del genere. Riguarda quella donna\r\nche stavi cercando."
+msgstr "No, niente del genere. Riguarda quella donna\r\n"
+"che stavi cercando."
 
 msgctxt "416_Manager of Midori"
 msgid "Someone who looks just like her is here right now."
@@ -273,3 +274,4 @@ msgstr "Dopotutto, non potremmo chiamarci 'Patria' se non fossimo la tua seconda
 msgctxt "752_Tanimura"
 msgid "That's sweet, Mei Hua. Thank you."
 msgstr "È dolce da parte tua, Mei Hua. Grazie."
+

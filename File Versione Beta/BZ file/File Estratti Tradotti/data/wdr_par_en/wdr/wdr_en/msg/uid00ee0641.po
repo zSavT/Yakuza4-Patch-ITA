@@ -15,31 +15,31 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee0641.po\n"
 "X-Crowdin-File-ID: 58354\n"
-"PO-Revision-Date: 2025-10-10 08:50\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "2464"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "2468"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "2472"
 msgid "キャバ育名前"
-msgstr "キャバ育名前"
+msgstr ""
 
 msgctxt "2476"
 msgid "Talk_Quest"
-msgstr "Talk_Quest"
+msgstr ""
 
 msgctxt "2480"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "2484"
 msgid "Talk_OK"
-msgstr "Talk_OK"
+msgstr ""
 
 msgctxt "68_Akiyama"
 msgid "Hmm? What're you doing here?"
@@ -47,7 +47,7 @@ msgstr "Mmm? Che ci fai qui?"
 
 msgctxt "80_キャバ育名前"
 msgid "Oh... Akiyama-san."
-msgstr "Oh... Akiyama-san."
+msgstr ""
 
 msgctxt "92_Akiyama"
 msgid "Hey. Don't worry about taking some time off. If you feel like it's going to help, take as much time as you need."
@@ -55,7 +55,7 @@ msgstr "Ehi. Non preoccuparti di prenderti una pausa. Se pensi che possa aiutart
 
 msgctxt "104_キャバ育名前"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "116_Akiyama"
 msgid "How are things going with the band?"
@@ -84,3 +84,4 @@ msgstr "Non preoccupartene troppo. Non sai mai cosa può succedere nella vita. N
 msgctxt "188_キャバ育名前"
 msgid "Maybe you're right... Thanks! I feel better now!"
 msgstr "Forse hai ragione... Grazie! Ora mi sento meglio!"
+

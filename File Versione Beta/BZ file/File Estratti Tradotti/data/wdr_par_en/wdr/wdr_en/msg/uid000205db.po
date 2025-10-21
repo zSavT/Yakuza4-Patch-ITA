@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid000205db.po\n"
 "X-Crowdin-File-ID: 62572\n"
-"PO-Revision-Date: 2025-10-08 21:44\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
 
 msgctxt "2220"
 msgid "Kiryu"
@@ -23,15 +23,15 @@ msgstr "Kiryu"
 
 msgctxt "2224"
 msgid "Player"
-msgstr "Player"
+msgstr ""
 
 msgctxt "2228"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "2232"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "100_Kiryu"
 msgid "If you need a break, now's the time to do it. I can take\r\n"
@@ -86,3 +86,4 @@ msgstr "No, va bene così."
 msgctxt "280_Kiryu"
 msgid "Sure."
 msgstr "Certo."
+

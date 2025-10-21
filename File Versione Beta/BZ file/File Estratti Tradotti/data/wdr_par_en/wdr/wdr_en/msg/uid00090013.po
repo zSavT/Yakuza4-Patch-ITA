@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00090013.po\n"
 "X-Crowdin-File-ID: 58612\n"
-"PO-Revision-Date: 2025-10-09 09:59\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "1440"
 msgid "Worried Woman"
@@ -23,19 +23,19 @@ msgstr "Donna preoccupata"
 
 msgctxt "1444"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "1448"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "1452"
 msgid "Talk_Think"
-msgstr "Talk_Think"
+msgstr ""
 
 msgctxt "1456"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "84_Worried Woman"
 msgid "So this is Sky Finance..."
@@ -59,7 +59,7 @@ msgstr "Ma se la sua amica è davvero nei guai, le dica di passare dal mio uffic
 
 msgctxt "144_Worried Woman"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "156_Akiyama"
 msgid "Tell your friend now, okay?"
@@ -68,3 +68,4 @@ msgstr "Lo dica subito alla sua amica, d'accordo?"
 msgctxt "168_Worried Woman"
 msgid "All right... Thank you."
 msgstr "Va bene... Grazie."
+

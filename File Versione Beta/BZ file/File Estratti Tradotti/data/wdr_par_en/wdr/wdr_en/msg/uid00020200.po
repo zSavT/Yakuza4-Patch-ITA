@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00020200.po\n"
 "X-Crowdin-File-ID: 59144\n"
-"PO-Revision-Date: 2025-10-10 20:42\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "1348"
 msgid "Businesswoman"
@@ -23,11 +23,11 @@ msgstr "Donna d'affari"
 
 msgctxt "1352"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "1356"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "68_Businesswoman"
 msgid "I saw a bunch of rough-looking men heading over to Theater Square Earlier. I'm pretty sure they were yakuza."
@@ -48,3 +48,4 @@ msgstr "Davvero? Grazie!"
 msgctxt "128_Businesswoman"
 msgid "Of course. Good luck..."
 msgstr "Prego. Buona fortuna..."
+

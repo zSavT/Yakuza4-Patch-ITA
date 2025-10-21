@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00910108.po\n"
 "X-Crowdin-File-ID: 58418\n"
-"PO-Revision-Date: 2025-10-09 08:49\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "2260"
 msgid "<Color:9>You learned Double Dash Kick.<Color:Default>"
@@ -1031,7 +1031,7 @@ msgstr "Ricordi quella ragazza che hai salvato?"
 
 msgctxt "4048_Akiyama"
 msgid "Uh... I guess? I don't have the greatest of memories."
-msgstr ""
+msgstr "Uh... credo? Non è che abbia tutta questa memoria."
 
 msgctxt "4060_Saigo"
 msgid "Haha. I guess it didn't leave as much of an impression on you."
@@ -1259,7 +1259,7 @@ msgstr "Sì"
 
 msgctxt "4792_Player"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "4804_Player"
 msgid "Running"
@@ -1295,7 +1295,7 @@ msgstr "Sì"
 
 msgctxt "4900_Player"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "4912_Player"
 msgid "Yes"
@@ -1303,7 +1303,7 @@ msgstr "Sì"
 
 msgctxt "4924_Player"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "4936_Player"
 msgid "Yes"
@@ -1311,7 +1311,7 @@ msgstr "Sì"
 
 msgctxt "4948_Player"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "4960_Player"
 msgid "Yes"
@@ -1319,7 +1319,7 @@ msgstr "Sì"
 
 msgctxt "4972_Player"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "4984_Player"
 msgid "Yes"
@@ -1327,7 +1327,7 @@ msgstr "Sì"
 
 msgctxt "4996_Player"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "5008_Player"
 msgid "Yes"
@@ -1335,7 +1335,7 @@ msgstr "Sì"
 
 msgctxt "5020_Player"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "5032_Player"
 msgid "Yes"
@@ -1343,7 +1343,7 @@ msgstr "Sì"
 
 msgctxt "5044_Player"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "5056_Player"
 msgid "Yes"
@@ -1351,5 +1351,5 @@ msgstr "Sì"
 
 msgctxt "5068_Player"
 msgid "No"
-msgstr ""
+msgstr "No"
 

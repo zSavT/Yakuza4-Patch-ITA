@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00830225.po\n"
 "X-Crowdin-File-ID: 58136\n"
-"PO-Revision-Date: 2025-10-10 08:38\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "444"
 msgid "You exchanged the <Color:8>Stylish Ballpoint Pen<Color:Default> for the <Color:8>Stomach Medicine<Color:Default>."
@@ -27,19 +27,19 @@ msgstr "Uomo angosciato"
 
 msgctxt "5996"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "6000"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "6004"
 msgid "Talk_OK"
-msgstr "Talk_OK"
+msgstr ""
 
 msgctxt "6008"
 msgid "Idle"
-msgstr "Idle"
+msgstr ""
 
 msgctxt "6012"
 msgid "Composed Man"
@@ -47,35 +47,35 @@ msgstr "Uomo composto"
 
 msgctxt "6016"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "6020"
 msgid "Talk_Info_F"
-msgstr "Talk_Info_F"
+msgstr ""
 
 msgctxt "6024"
 msgid "Talk_Smile"
-msgstr "Talk_Smile"
+msgstr ""
 
 msgctxt "6028"
 msgid "Talk_Ase"
-msgstr "Talk_Ase"
+msgstr ""
 
 msgctxt "6032"
 msgid "Talk_Think"
-msgstr "Talk_Think"
+msgstr ""
 
 msgctxt "6036"
 msgid "Talk_Send"
-msgstr "Talk_Send"
+msgstr ""
 
 msgctxt "6040"
 msgid "dummy"
-msgstr "dummy"
+msgstr ""
 
 msgctxt "6044"
 msgid "0"
-msgstr "0"
+msgstr ""
 
 msgctxt "84_Anguished Man"
 msgid "What a travesty! The most perfect melody just came to me!"
@@ -206,3 +206,4 @@ msgstr "Non vedo l'ora. Arrivederci."
 msgctxt "492_Akiyama"
 msgid "(Maybe there's someone else who needs this medicine...)"
 msgstr "(Forse c'è qualcun altro che ha bisogno di questa medicina...)"
+

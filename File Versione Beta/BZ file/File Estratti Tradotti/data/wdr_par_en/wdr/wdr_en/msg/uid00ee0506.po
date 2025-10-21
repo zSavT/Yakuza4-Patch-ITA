@@ -15,23 +15,23 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee0506.po\n"
 "X-Crowdin-File-ID: 59058\n"
-"PO-Revision-Date: 2025-10-10 09:18\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "2920"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "2924"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "2928"
 msgid "Lily"
-msgstr "Lily"
+msgstr ""
 
 msgctxt "2932"
 msgid "Talk_Ojigi"
-msgstr "Talk_Ojigi"
+msgstr ""
 
 msgctxt "2936"
 msgid "Putting Together a Stylish Outfit"
@@ -79,7 +79,7 @@ msgstr "Ti ho insegnato tutto quello che so. Ora sta a te."
 
 msgctxt "296_Lily"
 msgid "Okay..."
-msgstr "Okay..."
+msgstr ""
 
 msgctxt "308_Akiyama"
 msgid "There's still some time until the club closes. Good luck."
@@ -96,3 +96,4 @@ msgstr "Il manager mi contatterà non appena avrà calcolato le tue vendite. Dob
 msgctxt "344_Lily"
 msgid "Okay."
 msgstr "Ok."
+

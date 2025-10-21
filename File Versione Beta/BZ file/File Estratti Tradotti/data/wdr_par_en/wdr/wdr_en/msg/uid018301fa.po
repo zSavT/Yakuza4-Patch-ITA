@@ -15,19 +15,19 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid018301fa.po\n"
 "X-Crowdin-File-ID: 58706\n"
-"PO-Revision-Date: 2025-10-10 08:59\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "7196"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "7200"
 msgid "Talk_Kamae_st"
-msgstr "Talk_Kamae_st"
+msgstr ""
 
 msgctxt "7204"
 msgid "P_aki_stand_tlk_senobi"
-msgstr "P_aki_stand_tlk_senobi"
+msgstr ""
 
 msgctxt "7208"
 msgid "Hana"
@@ -132,3 +132,4 @@ msgstr "Riposa fino a mattina"
 msgctxt "1084_Akiyama"
 msgid "Don't Rest"
 msgstr "Non riposare"
+

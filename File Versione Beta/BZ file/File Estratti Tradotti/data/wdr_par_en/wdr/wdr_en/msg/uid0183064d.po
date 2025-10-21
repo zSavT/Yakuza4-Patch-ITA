@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid0183064d.po\n"
 "X-Crowdin-File-ID: 58466\n"
-"PO-Revision-Date: 2025-10-09 09:49\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "160"
 msgid "Head up to the rooftop of the Millennium Tower?"
@@ -39,7 +39,7 @@ msgstr "(Forse più tardi.)"
 
 msgctxt "220_Player"
 msgid "(Maybe later.)"
-msgstr ""
+msgstr "(Magari più tardi.)"
 
 msgctxt "232_Akiyama"
 msgid "Yes"
@@ -47,7 +47,7 @@ msgstr "Sì"
 
 msgctxt "244_Akiyama"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "256_Akiyama"
 msgid "Yes"
@@ -55,5 +55,5 @@ msgstr "Sì"
 
 msgctxt "268_Akiyama"
 msgid "No"
-msgstr ""
+msgstr "No"
 

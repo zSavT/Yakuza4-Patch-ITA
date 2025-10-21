@@ -15,11 +15,11 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01910115.po\n"
 "X-Crowdin-File-ID: 59770\n"
-"PO-Revision-Date: 2025-10-08 22:45\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "2748"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "2752"
 msgid "Woman"
@@ -31,7 +31,7 @@ msgstr "Teppista arrogante"
 
 msgctxt "2760"
 msgid "Talk_Call"
-msgstr "Talk_Call"
+msgstr ""
 
 msgctxt "2764"
 msgid "Sleazy Punk"
@@ -39,31 +39,31 @@ msgstr "Teppista viscido"
 
 msgctxt "2768"
 msgid "Talk_Info_F"
-msgstr "Talk_Info_F"
+msgstr ""
 
 msgctxt "2772"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "2776"
 msgid "Talk_Kosite_st"
-msgstr "Talk_Kosite_st"
+msgstr ""
 
 msgctxt "2780"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "2784"
 msgid "Talk_Angry"
-msgstr "Talk_Angry"
+msgstr ""
 
 msgctxt "2788"
 msgid "Talk_Odosu"
-msgstr "Talk_Odosu"
+msgstr ""
 
 msgctxt "2792"
 msgid "Talk_Kosite_ed"
-msgstr "Talk_Kosite_ed"
+msgstr ""
 
 msgctxt "56_Akiyama"
 msgid "(Hm?)"
@@ -112,3 +112,4 @@ msgstr "E poi, chi diavolo ti credi di essere? Scommetto che non sei un santo ne
 msgctxt "200_Sleazy Punk"
 msgid "Guess we're gonna have to educate you. And I'm not talking with a blackboard and chalk."
 msgstr "Mi sa che dovremo darti una lezione. E non parlo di lavagna e gessetti."
+

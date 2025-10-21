@@ -15,11 +15,11 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01020595.po\n"
 "X-Crowdin-File-ID: 60638\n"
-"PO-Revision-Date: 2025-10-08 21:20\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "7884"
 msgid "Hamazaki"
-msgstr "Hamazaki"
+msgstr ""
 
 msgctxt "7888"
 msgid "Kiryu"
@@ -27,7 +27,7 @@ msgstr "Kiryu"
 
 msgctxt "7892"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "7896"
 msgid "Woman"
@@ -35,11 +35,11 @@ msgstr "Donna"
 
 msgctxt "7900"
 msgid "Yasuko"
-msgstr "Yasuko"
+msgstr ""
 
 msgctxt "7904"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "68_Hamazaki"
 msgid "The heck is this place, Kiryu?"
@@ -204,3 +204,4 @@ msgid "I can't afford to waste any more time here. I need to get\r\n"
 "back to Kamurocho at once."
 msgstr "Non posso permettermi di perdere altro tempo qui. Devo tornare\r\n"
 "subito a Kamurocho."
+

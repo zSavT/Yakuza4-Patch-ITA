@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01020ab0.po\n"
 "X-Crowdin-File-ID: 62516\n"
-"PO-Revision-Date: 2025-10-08 22:41\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
 
 msgctxt "112"
 msgid "Meet with Kido?"
@@ -23,7 +23,7 @@ msgstr "Incontrare Kido?"
 
 msgctxt "1356"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "100_Akiyama"
 msgid "(This is where I'm supposed to meet Kido-chan. I can access the roof from here.)"
@@ -44,3 +44,4 @@ msgstr "Sì"
 msgctxt "220_Akiyama"
 msgid "No"
 msgstr "No"
+

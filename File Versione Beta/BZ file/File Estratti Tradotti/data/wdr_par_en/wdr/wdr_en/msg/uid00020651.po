@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00020651.po\n"
 "X-Crowdin-File-ID: 61260\n"
-"PO-Revision-Date: 2025-10-08 07:00\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "2788"
 msgid "Homeless Man"
@@ -23,15 +23,15 @@ msgstr "Senzatetto"
 
 msgctxt "2792"
 msgid "Tanimura"
-msgstr "Tanimura"
+msgstr ""
 
 msgctxt "2796"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "2800"
 msgid "Sync_Send"
-msgstr "Sync_Send"
+msgstr ""
 
 msgctxt "68_Homeless Man"
 msgid "Are you Tanimura-san?"
@@ -71,4 +71,5 @@ msgstr "('Presto riceverai una chiamata da Katsuragi. Cosa farai dopo dipende da
 
 msgctxt "212_Tanimura"
 msgid "(......)"
-msgstr "(......)"
+msgstr ""
+

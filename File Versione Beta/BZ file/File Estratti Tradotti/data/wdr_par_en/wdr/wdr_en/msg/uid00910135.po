@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00910135.po\n"
 "X-Crowdin-File-ID: 58532\n"
-"PO-Revision-Date: 2025-10-09 09:52\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "2380"
 msgid "<Color:9>Heat Gauge growth rate increased.<Color:Default>"
@@ -127,7 +127,7 @@ msgstr "Giocatore"
 
 msgctxt "59376"
 msgid "Minamida"
-msgstr "Minamida"
+msgstr ""
 
 msgctxt "59380"
 msgid "Man in White"
@@ -139,107 +139,107 @@ msgstr "Kiryu"
 
 msgctxt "59388"
 msgid "Tanimura"
-msgstr "Tanimura"
+msgstr ""
 
 msgctxt "59392"
 msgid "Talk_Kosite_st"
-msgstr "Talk_Kosite_st"
+msgstr ""
 
 msgctxt "59396"
 msgid "Talk_Surp"
-msgstr "Talk_Surp"
+msgstr ""
 
 msgctxt "59400"
 msgid "Talk_Kosite_ed"
-msgstr "Talk_Kosite_ed"
+msgstr ""
 
 msgctxt "59404"
 msgid "Talk_Away"
-msgstr "Talk_Away"
+msgstr ""
 
 msgctxt "59408"
 msgid "Talk_Angry"
-msgstr "Talk_Angry"
+msgstr ""
 
 msgctxt "59412"
 msgid "Talk_Udekumi_st"
-msgstr "Talk_Udekumi_st"
+msgstr ""
 
 msgctxt "59416"
 msgid "Talk_Odosu"
-msgstr "Talk_Odosu"
+msgstr ""
 
 msgctxt "59420"
 msgid "Talk_Udekumi_ed"
-msgstr "Talk_Udekumi_ed"
+msgstr ""
 
 msgctxt "59424"
 msgid "Saejima"
-msgstr "Saejima"
+msgstr ""
 
 msgctxt "59428"
 msgid "Talk_Quest"
-msgstr "Talk_Quest"
+msgstr ""
 
 msgctxt "59432"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "59436"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "59440"
 msgid "dummy"
-msgstr "dummy"
+msgstr ""
 
 msgctxt "59444"
 msgid "0"
-msgstr "0"
+msgstr ""
 
 msgctxt "59448"
 msgid "IF7R_IHARA"
-msgstr "IF7R_IHARA"
+msgstr ""
 
 msgctxt "59452"
 msgid "IF7R_MIDORIKAWA"
-msgstr "IF7R_MIDORIKAWA"
+msgstr ""
 
 msgctxt "59456"
 msgid "IF7R_SAITOU"
-msgstr "IF7R_SAITOU"
+msgstr ""
 
 msgctxt "59460"
 msgid "IF7R_MINAMI"
-msgstr "IF7R_MINAMI"
+msgstr ""
 
 msgctxt "59464"
 msgid "IF7R_SUGIUCHI"
-msgstr "IF7R_SUGIUCHI"
+msgstr ""
 
 msgctxt "59468"
 msgid "IF7R_MAJIMA"
-msgstr "IF7R_MAJIMA"
+msgstr ""
 
 msgctxt "59472"
 msgid "IF7R_AKIYAMA"
-msgstr "IF7R_AKIYAMA"
+msgstr ""
 
 msgctxt "59476"
 msgid "IF7R_SAEJIMA"
-msgstr "IF7R_SAEJIMA"
+msgstr ""
 
 msgctxt "59480"
 msgid "IF7R_TANIMURA"
-msgstr "IF7R_TANIMURA"
+msgstr ""
 
 msgctxt "59484"
 msgid "IF7R_KIRYU"
-msgstr "IF7R_KIRYU"
+msgstr ""
 
 msgctxt "59488"
 msgid "IF7R_INPUT"
-msgstr "IF7R_INPUT"
+msgstr ""
 
 msgctxt "928_Player"
 msgid "(I should come back when I'm alone.)"
@@ -501,7 +501,7 @@ msgstr "L'IF7-R fornisce l'esperienza arcade <Italic>definitiva</Italic>. Permet
 
 msgctxt "1708_Saejima"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "1720_Saejima"
 msgid "(I got absolutely no idea what this guy is talkin' about...)"
@@ -1250,3 +1250,4 @@ msgstr "Investi"
 msgctxt "5512_Player"
 msgid "Don't Invest"
 msgstr "Non investire"
+

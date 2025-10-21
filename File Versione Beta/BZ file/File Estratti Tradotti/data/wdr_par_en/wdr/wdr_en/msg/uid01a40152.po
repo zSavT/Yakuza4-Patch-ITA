@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01a40152.po\n"
 "X-Crowdin-File-ID: 58922\n"
-"PO-Revision-Date: 2025-10-10 09:15\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "5468"
 msgid "Loan Shark"
@@ -23,39 +23,39 @@ msgstr "Strozzino"
 
 msgctxt "5472"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "5476"
 msgid "Talk_Kosite_st"
-msgstr "Talk_Kosite_st"
+msgstr ""
 
 msgctxt "5480"
 msgid "Talk_Kosite_ed"
-msgstr "Talk_Kosite_ed"
+msgstr ""
 
 msgctxt "5484"
 msgid "Shoko"
-msgstr "Shoko"
+msgstr ""
 
 msgctxt "5488"
 msgid "Talk_Surp"
-msgstr "Talk_Surp"
+msgstr ""
 
 msgctxt "5492"
 msgid "Talk_Ase"
-msgstr "Talk_Ase"
+msgstr ""
 
 msgctxt "5496"
 msgid "dummy"
-msgstr "dummy"
+msgstr ""
 
 msgctxt "5500"
 msgid "0"
-msgstr "0"
+msgstr ""
 
 msgctxt "5504"
 msgid "Talk_Call"
-msgstr "Talk_Call"
+msgstr ""
 
 msgctxt "56_Loan Shark"
 msgid "What the fuck are you...?"
@@ -150,3 +150,4 @@ msgstr "Va bene. Passerò più tardi."
 msgctxt "440_Akiyama"
 msgid "Sounds good. I'll see you there."
 msgstr "Perfetto. Ci vediamo lì."
+

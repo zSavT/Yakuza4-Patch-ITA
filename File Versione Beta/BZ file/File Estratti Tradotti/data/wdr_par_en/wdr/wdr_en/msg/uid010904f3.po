@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid010904f3.po\n"
 "X-Crowdin-File-ID: 59852\n"
-"PO-Revision-Date: 2025-10-10 21:34\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "480"
 msgid "You got a <Color:8>Divine Dragon Short Sword<Color:Default>."
@@ -23,31 +23,31 @@ msgstr "Hai ottenuto una <Color:8>Spada corta del Drago Divino<Color:Default>."
 
 msgctxt "15648"
 msgid "Jo Amon"
-msgstr "Jo Amon"
+msgstr ""
 
 msgctxt "15652"
 msgid "Tanimura"
-msgstr "Tanimura"
+msgstr ""
 
 msgctxt "15656"
 msgid "Talk_Quest"
-msgstr "Talk_Quest"
+msgstr ""
 
 msgctxt "15660"
 msgid "Saejima"
-msgstr "Saejima"
+msgstr ""
 
 msgctxt "15664"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "15668"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "15672"
 msgid "Talk_Think"
-msgstr "Talk_Think"
+msgstr ""
 
 msgctxt "15676"
 msgid "Kiryu"
@@ -55,47 +55,47 @@ msgstr "Kiryu"
 
 msgctxt "15680"
 msgid "Talk_NoBig"
-msgstr "Talk_NoBig"
+msgstr ""
 
 msgctxt "15684"
 msgid "Talk_Syagamu_st"
-msgstr "Talk_Syagamu_st"
+msgstr ""
 
 msgctxt "15688"
 msgid "Talk_Syagamu_ed"
-msgstr "Talk_Syagamu_ed"
+msgstr ""
 
 msgctxt "15692"
 msgid "Talk_Chohatu"
-msgstr "Talk_Chohatu"
+msgstr ""
 
 msgctxt "15696"
 msgid "Sango Amon"
-msgstr "Sango Amon"
+msgstr ""
 
 msgctxt "15700"
 msgid "Jiro Amon"
-msgstr "Jiro Amon"
+msgstr ""
 
 msgctxt "15704"
 msgid "Talk_Info_F"
-msgstr "Talk_Info_F"
+msgstr ""
 
 msgctxt "15708"
 msgid "kaiwabgm_fuonb"
-msgstr "kaiwabgm_fuonb"
+msgstr ""
 
 msgctxt "15712"
 msgid "Talk_Smile"
-msgstr "Talk_Smile"
+msgstr ""
 
 msgctxt "15716"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "15720"
 msgid "Kazuya Amon"
-msgstr "Kazuya Amon"
+msgstr ""
 
 msgctxt "180_Jo Amon"
 msgid "Why!? Why can't I beat you!?"
@@ -175,7 +175,7 @@ msgstr "(Amon... La nostra battaglia finirà mai?)"
 
 msgctxt "576_Kiryu"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "588_Jo Amon"
 msgid "Heheh. You've all put on quite the show. Each of your friends seems to excel in his own way."
@@ -199,11 +199,11 @@ msgstr "Phew... Sembra che ne sia uscito vincitore."
 
 msgctxt "672_Jo Amon"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "684_Kiryu"
 msgid "Jo Amon..."
-msgstr "Jo Amon..."
+msgstr ""
 
 msgctxt "696_Saejima"
 msgid "So now it's time for the head honcho."
@@ -231,7 +231,7 @@ msgstr "*ansima* Tutto qui?"
 
 msgctxt "840_Sango Amon"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "852_Tanimura"
 msgid "Finally, I'm up? Well, you know what they say about saving the best for last..."
@@ -259,7 +259,7 @@ msgstr "*ansima* È stata piuttosto dura..."
 
 msgctxt "996_Jiro Amon"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "1008_Saejima"
 msgid "Guess I'll take care of the girly lookin' one."
@@ -315,11 +315,11 @@ msgstr "Eccellente. In tal caso, esaudiremo la vostra richiesta di incontri uno 
 
 msgctxt "1224_Jo Amon"
 msgid "Kazuya!"
-msgstr "Kazuya!"
+msgstr ""
 
 msgctxt "1236_Kazuya Amon"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "1248_Akiyama"
 msgid "I'll take on blondie there."
@@ -336,3 +336,4 @@ msgstr "Ehi, sono pronto! Che lo spettacolo abbia inizio!"
 msgctxt "1380_Kazuya Amon"
 msgid "Get ready to face the Amon Clan's deadly assassination skills!"
 msgstr "Preparati ad affrontare le letali abilità assassine del Clan Amon!"
+

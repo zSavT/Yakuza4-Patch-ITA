@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid0002061c.po\n"
 "X-Crowdin-File-ID: 62254\n"
-"PO-Revision-Date: 2025-10-08 21:41\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
 
 msgctxt "6468"
 msgid "Kiryu"
@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "6476"
 msgid "Date"
-msgstr "Date"
+msgstr ""
 
 msgctxt "6480"
 msgid "P_sae_sitgrd_tlk_bed"
@@ -43,47 +43,47 @@ msgstr ""
 
 msgctxt "6492"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "6496"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "6500"
 msgid "Talk_Smile"
-msgstr "Talk_Smile"
+msgstr ""
 
 msgctxt "6504"
 msgid "Talk_Think"
-msgstr "Talk_Think"
+msgstr ""
 
 msgctxt "6508"
 msgid "Talk_Sorry"
-msgstr "Talk_Sorry"
+msgstr ""
 
 msgctxt "6512"
 msgid "Talk_Gakkari"
-msgstr "Talk_Gakkari"
+msgstr ""
 
 msgctxt "6516"
 msgid "dummy"
-msgstr "dummy"
+msgstr ""
 
 msgctxt "6520"
 msgid "0"
-msgstr "0"
+msgstr ""
 
 msgctxt "72_Kiryu"
 msgid "Date-san? Date-san!"
-msgstr "Date-san? Date-san!"
+msgstr ""
 
 msgctxt "84_Date"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "96_Date"
 msgid "Ngh..."
-msgstr "Ngh..."
+msgstr ""
 
 msgctxt "108_Kiryu"
 msgid "(Good. Looks like he's coming to.)"
@@ -198,3 +198,4 @@ msgstr "Grazie. Torno presto."
 msgctxt "492_Kiryu"
 msgid "(What the... Date-san!?)"
 msgstr "(Ma che... Date-san!?)"
+

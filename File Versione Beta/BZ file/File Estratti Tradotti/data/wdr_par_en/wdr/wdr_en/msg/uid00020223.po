@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00020223.po\n"
 "X-Crowdin-File-ID: 60646\n"
-"PO-Revision-Date: 2025-10-07 20:04\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "148"
 msgid "You handed over the <Color:8>Chain<Color:Default>."
@@ -31,43 +31,43 @@ msgstr "Hai ottenuto la <Color:8>Catena e il rampino<Color:Default>."
 
 msgctxt "12164"
 msgid "Saejima"
-msgstr "Saejima"
+msgstr ""
 
 msgctxt "12168"
 msgid "Sync_Send"
-msgstr "Sync_Send"
+msgstr ""
 
 msgctxt "12172"
 msgid "Kamiyama"
-msgstr "Kamiyama"
+msgstr ""
 
 msgctxt "12176"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "12180"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "12184"
 msgid "Talk_Smile"
-msgstr "Talk_Smile"
+msgstr ""
 
 msgctxt "12188"
 msgid "Talk_Quest"
-msgstr "Talk_Quest"
+msgstr ""
 
 msgctxt "12192"
 msgid "M_big_stand"
-msgstr "M_big_stand"
+msgstr ""
 
 msgctxt "12196"
 msgid "Talk_Think"
-msgstr "Talk_Think"
+msgstr ""
 
 msgctxt "12200"
 msgid "Talk_Surp"
-msgstr "Talk_Surp"
+msgstr ""
 
 msgctxt "136_Saejima"
 msgid "Got everythin' ya asked for. Now can ya fix me up that grapplin' hook?"
@@ -248,3 +248,4 @@ msgstr "Cerca solo di mantenere la calma, ok? Le guardie ti sarebbero addosso in
 msgctxt "808_Saejima"
 msgid "Right, thanks."
 msgstr "Giusto, grazie."
+

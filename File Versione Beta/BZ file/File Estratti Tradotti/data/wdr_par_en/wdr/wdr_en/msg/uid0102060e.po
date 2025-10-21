@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid0102060e.po\n"
 "X-Crowdin-File-ID: 60672\n"
-"PO-Revision-Date: 2025-10-08 21:23\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "24532"
 msgid "Kiryu"
@@ -23,43 +23,43 @@ msgstr "Kiryu"
 
 msgctxt "24536"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "24540"
 msgid "Yasuko"
-msgstr "Yasuko"
+msgstr ""
 
 msgctxt "24544"
 msgid "F_nml_sitcnt_tlk_cry_st"
-msgstr "F_nml_sitcnt_tlk_cry_st"
+msgstr ""
 
 msgctxt "24548"
 msgid "Date"
-msgstr "Date"
+msgstr ""
 
 msgctxt "24552"
 msgid "F_nml_sitcnt_tlk_cry_yes"
-msgstr "F_nml_sitcnt_tlk_cry_yes"
+msgstr ""
 
 msgctxt "24556"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "24560"
 msgid "Talk_Ase"
-msgstr "Talk_Ase"
+msgstr ""
 
 msgctxt "24564"
 msgid "Idle"
-msgstr "Idle"
+msgstr ""
 
 msgctxt "24568"
 msgid "Talk_Quest"
-msgstr "Talk_Quest"
+msgstr ""
 
 msgctxt "24572"
 msgid "Talk_Ojigi"
-msgstr "Talk_Ojigi"
+msgstr ""
 
 msgctxt "100_Kiryu"
 msgid "Yasuko-san. You keep saying you owe Taiga your life."
@@ -95,7 +95,7 @@ msgstr "Ma avere una vita difficile non giustifica il modo in cui hai vissuto."
 
 msgctxt "172_Yasuko"
 msgid "Ngh..."
-msgstr "Ngh..."
+msgstr ""
 
 msgctxt "184_Kiryu"
 msgid "Not that I have any right to talk. I've made my fair share\r\n"
@@ -105,11 +105,11 @@ msgstr "Non che io abbia il diritto di parlare. Ho fatto la mia buona dose\r\n"
 
 msgctxt "196_Date"
 msgid "Kiryu..."
-msgstr "Kiryu..."
+msgstr ""
 
 msgctxt "208_Yasuko"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "220_Kiryu"
 msgid "I understand why you feel so strongly, but that emotion has\r\n"
@@ -133,7 +133,7 @@ msgstr "Ma..."
 
 msgctxt "268_Date"
 msgid "Kiryu..."
-msgstr "Kiryu..."
+msgstr ""
 
 msgctxt "280_Kiryu"
 msgid "Don't worry, I'll find him. And I'll make sure you two are\r\n"
@@ -214,7 +214,7 @@ msgstr "Io..."
 
 msgctxt "544_Kiryu"
 msgid "Yasuko-san."
-msgstr "Yasuko-san."
+msgstr ""
 
 msgctxt "556_Date"
 msgid "C'mon."
@@ -308,7 +308,7 @@ msgstr "Ma cosa? Perché non hai potuto ricevere il trapianto da tuo fratello?"
 
 msgctxt "784_Kiryu"
 msgid "...Yasuko-san?"
-msgstr "...Yasuko-san?"
+msgstr ""
 
 msgctxt "796_Yasuko"
 msgid "I, um..."
@@ -392,7 +392,7 @@ msgstr "All'epoca, avrei preferito morire piuttosto che continuare a vivere\r\n"
 
 msgctxt "964_Kiryu"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "976_Yasuko"
 msgid "But Taiga wouldn't take no for an answer. He said no matter\r\n"
@@ -513,7 +513,7 @@ msgstr "Non solo Taiga mi ha letteralmente salvato la vita, ma mi ha dato\r\n"
 
 msgctxt "1252_Kiryu"
 msgid "Yasuko-san..."
-msgstr "Yasuko-san..."
+msgstr ""
 
 msgctxt "1276_Date"
 msgid "What's going on, Kiryu? You show up in a guy's bar and don't even drop him a line first?"
@@ -598,3 +598,4 @@ msgstr "Per favore. Devo solo chiederti una cosa prima di andare a\r\n"
 msgctxt "1480_Yasuko"
 msgid "...Okay."
 msgstr "...Ok."
+

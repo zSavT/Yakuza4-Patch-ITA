@@ -15,15 +15,15 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00020453.po\n"
 "X-Crowdin-File-ID: 59228\n"
-"PO-Revision-Date: 2025-10-10 20:44\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "2692"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "2696"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "2700"
 msgid "Homeless Man"
@@ -31,7 +31,7 @@ msgstr "Senzatetto"
 
 msgctxt "2704"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "72_Akiyama"
 msgid "Hey, pal. You see some yakuza come through here?"
@@ -91,4 +91,5 @@ msgstr "Ah sì? Beh, niente garanzie, ma vedrò cosa posso fare."
 
 msgctxt "240_Homeless Man"
 msgid "......"
-msgstr "......"
+msgstr ""
+

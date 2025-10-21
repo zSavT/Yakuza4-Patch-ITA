@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01ee020a.po\n"
 "X-Crowdin-File-ID: 58940\n"
-"PO-Revision-Date: 2025-10-08 22:28\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "188"
 msgid "Go to the rooftop?"
@@ -23,7 +23,7 @@ msgstr "Salire sul tetto?"
 
 msgctxt "1408"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "1412"
 msgid "Player"
@@ -56,3 +56,4 @@ msgstr "Sì"
 msgctxt "284_Akiyama"
 msgid "No"
 msgstr "No"
+

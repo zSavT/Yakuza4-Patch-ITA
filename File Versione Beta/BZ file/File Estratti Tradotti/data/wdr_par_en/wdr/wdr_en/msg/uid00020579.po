@@ -13,13 +13,13 @@ msgstr ""
 "X-Crowdin-Project: yakuza-4\n"
 "X-Crowdin-Project-ID: 497403\n"
 "X-Crowdin-Language: it\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01020579.po\n"
-"X-Crowdin-File-ID: 60666\n"
-"PO-Revision-Date: 2025-10-08 21:26\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00020579.po\n"
+"X-Crowdin-File-ID: 61066\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "5396"
 msgid "Haruka"
-msgstr "Haruka"
+msgstr ""
 
 msgctxt "5400"
 msgid "Kiryu"
@@ -27,23 +27,23 @@ msgstr "Kiryu"
 
 msgctxt "5404"
 msgid "P_sitgrd_tlk_agura_kamae"
-msgstr "P_sitgrd_tlk_agura_kamae"
+msgstr ""
 
 msgctxt "5408"
 msgid "P_sitgrd_tlk_agura_kamae_st"
-msgstr "P_sitgrd_tlk_agura_kamae_st"
+msgstr ""
 
 msgctxt "5412"
 msgid "P_sitgrd_tlk_jibeta_kamae"
-msgstr "P_sitgrd_tlk_jibeta_kamae"
+msgstr ""
 
 msgctxt "5416"
 msgid "P_sitgrd_tlk_jibeta_yes"
-msgstr "P_sitgrd_tlk_jibeta_yes"
+msgstr ""
 
 msgctxt "5420"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "80_Haruka"
 msgid "You're going back to Kamurocho, aren't you?"
@@ -83,7 +83,7 @@ msgstr "Quel ricordo mi terrorizza, zio Kaz."
 
 msgctxt "200_Kiryu"
 msgid "Haruka..."
-msgstr "Haruka..."
+msgstr ""
 
 msgctxt "212_Haruka"
 msgid "I've always believed in you. You know I have."
@@ -135,4 +135,5 @@ msgstr "È tutto ciò di cui ho bisogno. Non la verità... solo te."
 
 msgctxt "332_Kiryu"
 msgid "Haruka..."
-msgstr "Haruka..."
+msgstr ""
+

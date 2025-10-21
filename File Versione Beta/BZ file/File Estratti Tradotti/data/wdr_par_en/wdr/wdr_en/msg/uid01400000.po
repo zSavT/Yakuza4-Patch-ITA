@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01400000.po\n"
 "X-Crowdin-File-ID: 59780\n"
-"PO-Revision-Date: 2025-10-10 21:22\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "604"
 msgid "Game on!"
@@ -39,19 +39,19 @@ msgstr "Kiryu"
 
 msgctxt "5592"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "5596"
 msgid "Saejima"
-msgstr "Saejima"
+msgstr ""
 
 msgctxt "5600"
 msgid "Tanimura"
-msgstr "Tanimura"
+msgstr ""
 
 msgctxt "5604"
 msgid "Player"
-msgstr "Player"
+msgstr ""
 
 msgctxt "520_Dealer"
 msgid "Welcome. Go easy on me, please..."
@@ -175,7 +175,7 @@ msgstr "Mpf... Non hai la minima prova, quindi scommetti e basta!"
 
 msgctxt "916_Player"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "928_Dealer"
 msgid "(She kept her cool... Guess I was wrong.)"
@@ -208,3 +208,4 @@ msgstr "Riportare le vincite per giocare contro il banco?"
 msgctxt "1012_Dealer"
 msgid "Carry over your winnings to play the house?"
 msgstr "Riportare le vincite per giocare contro il banco?"
+

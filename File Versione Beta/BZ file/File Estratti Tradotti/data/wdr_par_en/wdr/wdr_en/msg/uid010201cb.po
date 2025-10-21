@@ -13,846 +13,367 @@ msgstr ""
 "X-Crowdin-Project: yakuza-4\n"
 "X-Crowdin-Project-ID: 497403\n"
 "X-Crowdin-Language: it\n"
-"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid016c0274.po\n"
-"X-Crowdin-File-ID: 58452\n"
-"PO-Revision-Date: 2025-10-09 08:51\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid010201cb.po\n"
+"X-Crowdin-File-ID: 61048\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
-msgctxt "31956"
-msgid "Attendant"
-msgstr "Addetto"
-
-msgctxt "31960"
-msgid "M_stand_tlk_shoukai"
-msgstr "M_stand_tlk_shoukai"
-
-msgctxt "31964"
-msgid "F_cab_stand_tlk_shoukai"
-msgstr "F_cab_stand_tlk_shoukai"
-
-msgctxt "31968"
-msgid "Rio"
-msgstr "Rio"
-
-msgctxt "31972"
-msgid "F_cab_stand_tlk_ojigi_01"
-msgstr "F_cab_stand_tlk_ojigi_01"
-
-msgctxt "31976"
-msgid "F_cab_sitsofa_tlk_suprise"
-msgstr "F_cab_sitsofa_tlk_suprise"
-
-msgctxt "31980"
-msgid "P_sitsofaR_tlk_yes"
-msgstr "P_sitsofaR_tlk_yes"
-
-msgctxt "31984"
-msgid "F_cab_sitsofa_tlk_ojigiA"
-msgstr "F_cab_sitsofa_tlk_ojigiA"
-
-msgctxt "31988"
-msgid "Kiryu"
-msgstr "Kiryu"
-
-msgctxt "31992"
-msgid "F_cab_sitsofa_tlk_yes"
-msgstr "F_cab_sitsofa_tlk_yes"
-
-msgctxt "31996"
-msgid "F_cab_sitsofa_tlk_happy"
-msgstr "F_cab_sitsofa_tlk_happy"
-
-msgctxt "32000"
-msgid "P_sitsofaR_tlk_smile"
-msgstr "P_sitsofaR_tlk_smile"
-
-msgctxt "32004"
-msgid "F_cab_sitsofa_tlk_tereruA"
-msgstr "F_cab_sitsofa_tlk_tereruA"
-
-msgctxt "32008"
-msgid "Himeka"
-msgstr "Himeka"
-
-msgctxt "32012"
-msgid "F_cab_sitsofa_tlk_he_happy"
-msgstr "F_cab_sitsofa_tlk_he_happy"
-
-msgctxt "32016"
-msgid "F_cab_sitsofa_talk_smileA"
-msgstr "F_cab_sitsofa_talk_smileA"
-
-msgctxt "32020"
+msgctxt "18324"
 msgid "Akiyama"
-msgstr "Akiyama"
-
-msgctxt "32024"
-msgid "F_cab_sitsofa_sp5_sync_laugh"
-msgstr "F_cab_sitsofa_sp5_sync_laugh"
-
-msgctxt "32028"
-msgid "Shizuka"
-msgstr "Shizuka"
-
-msgctxt "32032"
-msgid "F_cab_sitsofa_tlk_he_yes"
-msgstr "F_cab_sitsofa_tlk_he_yes"
-
-msgctxt "32036"
-msgid "P_sitsofaR_tlk_quest"
-msgstr "P_sitsofaR_tlk_quest"
-
-msgctxt "32040"
-msgid "P_sitsofaR_tlk_comment"
-msgstr "P_sitsofaR_tlk_comment"
-
-msgctxt "32044"
-msgid "F_cab_sitsofa_tlk_he_surp"
-msgstr "F_cab_sitsofa_tlk_he_surp"
-
-msgctxt "32048"
-msgid "P_sitsofaR_tlk_no"
-msgstr "P_sitsofaR_tlk_no"
-
-msgctxt "32052"
-msgid "F_cab_sitsofa_tlk_kamaeAtoB"
-msgstr "F_cab_sitsofa_tlk_kamaeAtoB"
-
-msgctxt "32056"
-msgid "F_cab_sitsofa_tlk_supriseB"
-msgstr "F_cab_sitsofa_tlk_supriseB"
-
-msgctxt "32060"
-msgid "F_cab_sitsofa_sp2_sync_hiza"
-msgstr "F_cab_sitsofa_sp2_sync_hiza"
-
-msgctxt "32064"
-msgid "F_cab_sitsofa_tlk_kamaeBtoA"
-msgstr "F_cab_sitsofa_tlk_kamaeBtoA"
-
-msgctxt "32068"
-msgid "F_cab_sitsofa_tlk_thinkA"
-msgstr "F_cab_sitsofa_tlk_thinkA"
-
-msgctxt "32072"
-msgid "F_cab_sitsofa_tlk_gakkariA"
-msgstr "F_cab_sitsofa_tlk_gakkariA"
-
-msgctxt "32076"
-msgid "Tanimura"
-msgstr "Tanimura"
-
-msgctxt "32080"
-msgid "P_sitsofaL_tlk_yes"
-msgstr "P_sitsofaL_tlk_yes"
-
-msgctxt "32084"
-msgid "F_cab_sitsofa_tlk_he_smile"
-msgstr "F_cab_sitsofa_tlk_he_smile"
-
-msgctxt "32088"
-msgid "P_sitsofaL_tlk_no"
-msgstr "P_sitsofaL_tlk_no"
-
-msgctxt "32092"
-msgid "P_sitsofaL_tlk_smile"
-msgstr "P_sitsofaL_tlk_smile"
-
-msgctxt "924_Attendant"
-msgid "Sorry to keep you waiting!"
-msgstr "Mi scusi per l'attesa!"
-
-msgctxt "948_Attendant"
-msgid "Here's Rio-san!"
-msgstr "Ecco a lei Rio-san!"
-
-msgctxt "972_Attendant"
-msgid "Hello!"
-msgstr "Salve!"
-
-msgctxt "1008_Attendant"
-msgid "Sorry to keep you waiting!"
-msgstr "Mi scusi per l'attesa!"
-
-msgctxt "1032_Attendant"
-msgid "Here's Rio-san!"
-msgstr "Ecco a lei Rio-san!"
-
-msgctxt "1056_Attendant"
-msgid "Hello!"
-msgstr "Salve!"
-
-msgctxt "1092_Attendant"
-msgid "Sorry to keep you waiting!"
-msgstr "Mi scusi per l'attesa!"
-
-msgctxt "1116_Attendant"
-msgid "Here's Rio-san!"
-msgstr "Ecco a lei Rio-san!"
-
-msgctxt "1140_Attendant"
-msgid "Hello!"
-msgstr "Salve!"
-
-msgctxt "1164_Rio"
-msgid "Hello."
-msgstr "Salve."
-
-msgctxt "1188_Rio"
-msgid "My name is Rio."
-msgstr "Mi chiamo Rio."
-
-msgctxt "1200_Rio"
-msgid "Hello."
-msgstr "Salve."
-
-msgctxt "1224_Rio"
-msgid "My name is Rio."
-msgstr "Mi chiamo Rio."
-
-msgctxt "1236_Rio"
-msgid "Hello."
-msgstr "Salve."
-
-msgctxt "1260_Rio"
-msgid "My name is Rio."
-msgstr "Mi chiamo Rio."
-
-msgctxt "1272_Rio"
-msgid "Hello."
-msgstr "Salve."
-
-msgctxt "1284_P_sitsofaR_tlk_yes"
-msgid "My name is Rio."
-msgstr "Mi chiamo Rio."
-
-msgctxt "1320_Rio"
-msgid "Hello."
-msgstr "Salve."
-
-msgctxt "1332_P_sitsofaR_tlk_yes"
-msgid "Oh, you're back!"
-msgstr "Oh, è tornato!"
-
-msgctxt "1368_Rio"
-msgid "Hello."
-msgstr "Salve."
-
-msgctxt "1380_P_sitsofaR_tlk_yes"
-msgid "Oh, Akiyama-san... You're not requesting me today?"
-msgstr "Oh, Akiyama-san... Non mi richiede oggi?"
-
-msgctxt "1392_Rio"
-msgid "It looks like I've been requested!"
-msgstr "Sembra che sia stata richiesta!"
-
-msgctxt "1404_Rio"
-msgid "Have fun, okay?"
-msgstr "Si diverta, d'accordo?"
-
-msgctxt "1416_Rio"
-msgid "Bye bye."
-msgstr "Arrivederci."
-
-msgctxt "1428_Rio"
-msgid "My name is Rio. Nice to meet you!"
-msgstr "Mi chiamo Rio. Piacere di conoscerla!"
-
-msgctxt "1440_Kiryu"
-msgid "I'm Kazuma Kiryu. Likewise."
-msgstr "Sono Kazuma Kiryu. Piacere mio."
-
-msgctxt "1452_Rio"
-msgid "How old are you, Kiryu-san?"
-msgstr "Quanti anni ha, Kiryu-san?"
-
-msgctxt "1464_Kiryu"
-msgid "I'm 41. I'll be 42 this year."
-msgstr "Ho 41 anni. Ne compio 42 quest'anno."
-
-msgctxt "1476_Rio"
-msgid "Oh really! Older men like you are pretty interesting. I bet you've been through a lot in your life."
-msgstr "Oh, davvero! Gli uomini più grandi come lei sono molto interessanti. Scommetto che ne ha passate tante nella vita."
-
-msgctxt "1488_Kiryu"
-msgid "That's probably true of anybody my age."
-msgstr "Probabilmente è vero per chiunque della mia età."
-
-msgctxt "1500_Rio"
-msgid "True. I tend to find many people who put up a  brave front are actually hiding painful past experiences."
-msgstr "Vero. Trovo che molte persone che si mostrano coraggiose nascondano in realtà esperienze passate dolorose."
-
-msgctxt "1512_Rio"
-msgid "When I catch a glimpse of that, I just suddenly feel even more attached to that person!"
-msgstr "Quando intravedo qualcosa del genere, mi sento subito ancora più legata a quella persona!"
-
-msgctxt "1524_Kiryu"
-msgid "Heh, I see..."
-msgstr "Eh, capisco..."
-
-msgctxt "1536_Rio"
-msgid "Do you play table tennis at all?"
-msgstr "Gioca mai a ping-pong?"
-
-msgctxt "1548_Kiryu"
-msgid "Table tennis? Well, I sometimes play when I go to the hot springs."
-msgstr "Ping-pong? Beh, a volte ci gioco quando vado alle terme."
-
-msgctxt "1560_Himeka"
-msgid "Ooh, I love the hot springs! Table tennis is a lot more fun when you're wearin' a yukata."
-msgstr "Ooh, adoro le terme! Il ping-pong è molto più divertente quando si indossa uno yukata."
-
-msgctxt "1572_Rio"
-msgid "I play quite a lot. You could almost say I'm a bit addicted!"
-msgstr "Io ci gioco parecchio. Si potrebbe quasi dire che ne sono un po' dipendente!"
+msgstr ""
+
+msgctxt "18328"
+msgid "Talk_Ojigi"
+msgstr ""
+
+msgctxt "18332"
+msgid "Lily"
+msgstr ""
+
+msgctxt "18336"
+msgid "Talk_Yes"
+msgstr ""
+
+msgctxt "18340"
+msgid "Talk_Quest"
+msgstr ""
+
+msgctxt "18344"
+msgid "Talk_Kansin"
+msgstr ""
 
-msgctxt "1584_Kiryu"
-msgid "Oh yeah? I'm surprised to hear that you play table tennis as a hobby. Don't girls normally play regular tennis?"
-msgstr "Ah sì? Mi sorprende sentire che giochi a ping-pong come hobby. Le ragazze di solito non giocano a tennis?"
+msgctxt "18348"
+msgid "Talk_No"
+msgstr ""
 
-msgctxt "1596_Rio"
-msgid "Haha! Maybe, but I think table tennis is way more fun!"
-msgstr "Ahah! Forse, ma penso che il ping-pong sia molto più divertente!"
+msgctxt "18352"
+msgid "Sugiuchi"
+msgstr "Sugiuchi"
 
-msgctxt "1608_Kiryu"
-msgid "Heh, you might be right."
-msgstr "Eh, potrebbe avere ragione."
+msgctxt "18356"
+msgid "Talk_Kamae_ed"
+msgstr ""
 
-msgctxt "1620_Rio"
-msgid "Hello, Kiryu-san! I'm happy you're back!"
-msgstr "Salve, Kiryu-san! Sono felice che sia tornato!"
+msgctxt "18360"
+msgid "P_aki_stand"
+msgstr ""
 
-msgctxt "1632_Kiryu"
-msgid "Heh... I'm glad you remembered me."
-msgstr "Eh... Sono contento che si ricordi di me."
+msgctxt "18364"
+msgid "Talk_Think"
+msgstr ""
 
-msgctxt "1644_Rio"
-msgid "I try to remember the names of all the people I meet. It's fate that brings us together."
-msgstr "Cerco di ricordare i nomi di tutte le persone che incontro. È il destino che ci fa incontrare."
+msgctxt "18368"
+msgid "Talk_Ase"
+msgstr ""
 
-msgctxt "1656_Kiryu"
-msgid "Fate? You think so?"
-msgstr "Destino? Pensa?"
+msgctxt "18372"
+msgid "Talk_Surp"
+msgstr ""
 
-msgctxt "1668_Rio"
-msgid "Of course. It'd be a shame to never see each other again after fate put so much effort into having us meet!"
-msgstr "Certo. Sarebbe un peccato non rivedersi più dopo che il destino si è impegnato tanto per farci incontrare!"
+msgctxt "18376"
+msgid "Talk_Angry"
+msgstr ""
 
-msgctxt "1680_Rio"
-msgid "The fact that you're here just proves that fate's working overtime!"
-msgstr "Il fatto che lei sia qui dimostra che il destino sta facendo gli straordinari!"
+msgctxt "104_Akiyama"
+msgid "Thanks for stopping by."
+msgstr "Grazie per essere passata."
 
-msgctxt "1692_Kiryu"
-msgid "That's one way to look at it."
-msgstr "È un modo di vederla."
+msgctxt "116_Lily"
+msgid "No, I should be thanking you."
+msgstr "No, dovrei essere io a ringraziarti."
 
-msgctxt "1704_Himeka"
-msgid "The dialogue will end after one round if you've entered a club more than once. Please report when this message is displayed."
-msgstr "Il dialogo terminerà dopo un round se sei entrato in un club più di una volta. Si prega di segnalare quando viene visualizzato questo messaggio."
+msgctxt "128_Akiyama"
+msgid "If you say so. Now, you're sure you wanna do this?"
+msgstr "Se lo dici tu. Allora, sei sicura di volerlo fare?"
 
-msgctxt "1716_Rio"
-msgid "Kiryu cannot request Rio. Please notify a programmer if this message is displayed."
-msgstr "Kiryu non può richiedere Rio. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
+msgctxt "140_Lily"
+msgid "Yes. I have nowhere else to turn."
+msgstr "Sì. Non ho nessun altro a cui rivolgermi."
 
-msgctxt "1728_Rio"
-msgid "Kiryu cannot request Rio. Please notify a programmer if this message is displayed."
-msgstr "Kiryu non può richiedere Rio. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
+msgctxt "152_Lily"
+msgid "Whatever the test, I'm prepared to take it."
+msgstr "Qualunque sia il test, sono pronta ad affrontarlo."
 
-msgctxt "1740_Rio"
-msgid "Rio does not appear for Kiryu's 2nd. Please notify a programmer if this message is displayed."
-msgstr "Rio non appare per il secondo di Kiryu. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
+msgctxt "164_Akiyama"
+msgid "Great. Then let's get started."
+msgstr "Ottimo. Allora cominciamo."
 
-msgctxt "1752_Rio"
-msgid "Rio does not appear for Kiryu's 2nd. Please notify a programmer if this message is displayed."
-msgstr "Rio non appare per il secondo di Kiryu. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
+msgctxt "176_Lily"
+msgid "Okay."
+msgstr "Ok."
 
-msgctxt "1764_Rio"
-msgid "Rio does not appear for Kiryu's 2nd. Please notify a programmer if this message is displayed."
-msgstr "Rio non appare per il secondo di Kiryu. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
+msgctxt "188_Akiyama"
+msgid "You ready to go?"
+msgstr "Sei pronta ad andare?"
 
-msgctxt "1776_Rio"
-msgid "Rio does not appear for Kiryu's 2nd. Please notify a programmer if this message is displayed. Please notify a programmer if this message is displayed."
-msgstr "Rio non appare per il secondo di Kiryu. Si prega di avvisare un programmatore se viene visualizzato questo messaggio. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
+msgctxt "200_Lily"
+msgid "Go? Where?"
+msgstr "Andare? Dove?"
 
-msgctxt "1788_Rio"
-msgid "Kiryu cannot request Rio. Please notify a programmer if this message is displayed."
-msgstr "Kiryu non può richiedere Rio. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
+msgctxt "212_Akiyama"
+msgid "Out on the town. The first part of the test is a date with yours truly."
+msgstr "In città. La prima parte del test è un appuntamento con il sottoscritto."
 
-msgctxt "1800_Rio"
-msgid "Kiryu cannot request Rio. Please notify a programmer if this message is displayed."
-msgstr "Kiryu non può richiedere Rio. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
+msgctxt "224_Lily"
+msgid "A date?"
+msgstr "Un appuntamento?"
 
-msgctxt "1812_Rio"
-msgid "What were you two talking about?"
-msgstr "Di cosa stavate parlando voi due?"
+msgctxt "236_Akiyama"
+msgid "Let's see... How about we start by buying you a nice new dress? Oh, and maybe a necklace or two."
+msgstr "Vediamo... Che ne dici di cominciare comprandoti un bel vestito nuovo? Oh, e magari una o due collane."
 
-msgctxt "1824_Akiyama"
-msgid "Hm? Oh, Shizuka-chan was just explaining how she fell in love with me at first sight."
-msgstr "Mh? Oh, Shizuka-chan stava giusto spiegando come si è innamorata di me a prima vista."
+msgctxt "248_Lily"
+msgid "Shopping?  You know I can't afford that right now..."
+msgstr "Shopping? Lo sai che ora come ora non posso permettermelo..."
 
-msgctxt "1836_Rio"
-msgid "She did what now!? Really?"
-msgstr "Ha fatto cosa!? Davvero?"
+msgctxt "260_Akiyama"
+msgid "What kinda guy makes his date foot the bill? Come on, it's my treat."
+msgstr "Che razza di tipo lascia pagare alla sua accompagnatrice? Dai, offro io."
 
-msgctxt "1848_Shizuka"
-msgid "Hehehe! Oh please, Akiyama-san..."
-msgstr "Eheheh! Oh, la prego, Akiyama-san..."
+msgctxt "272_Lily"
+msgid "Huh? But..."
+msgstr "Eh? Ma..."
 
-msgctxt "1860_Rio"
-msgid "Hehehe. ♪"
-msgstr "Eheheh. ♪"
+msgctxt "284_Akiyama"
+msgid "Sorry, but this is part of the test. We need to make you as stunning as possible."
+msgstr "Mi dispiace, ma questo fa parte del test. Dobbiamo renderti il più splendida possibile."
 
-msgctxt "1872_Akiyama"
+msgctxt "296_Lily"
 msgid "......"
-msgstr "......"
-
-msgctxt "1884_Rio"
-msgid "Is something wrong?"
-msgstr "C'è qualcosa che non va?"
-
-msgctxt "1896_Akiyama"
-msgid "Are you half Japanese by any chance?"
-msgstr "Sei per caso mezza giapponese?"
-
-msgctxt "1908_Rio"
-msgid "Yes, I am."
-msgstr "Sì, lo sono."
-
-msgctxt "1920_Akiyama"
-msgid "Ah, I thought so. You've got that look about you."
-msgstr "Ah, l'avevo immaginato. Hai un'aria particolare."
-
-msgctxt "1932_Shizuka"
-msgid "Really!? I didn't know that."
-msgstr "Davvero!? Non lo sapevo."
-
-msgctxt "1944_Rio"
-msgid "My father's Japanese, but my mother is from Portugal."
-msgstr "Mio padre è giapponese, ma mia madre è portoghese."
-
-msgctxt "1956_Akiyama"
-msgid "I could tell because you're so pretty. You look different than the average Japanese girl."
-msgstr "L'ho capito perché sei così carina. Hai un aspetto diverso dalla media delle ragazze giapponesi."
-
-msgctxt "1968_Rio"
-msgid "Hehehe. Oh stop with that."
-msgstr "Eheheh. Oh, smettila."
-
-msgctxt "1980_Akiyama"
-msgid "I'm not just saying it. I honestly think so."
-msgstr "Non lo dico tanto per dire. Lo penso davvero."
-
-msgctxt "1992_Rio"
-msgid "Thank you! ♪"
-msgstr "Grazie! ♪"
-
-msgctxt "2004_Akiyama"
-msgid "I kind of wish I was half Japanese. I've often wondered how different my life might be if I were."
-msgstr "A volte vorrei essere mezzo giapponese anch'io. Mi sono spesso chiesto quanto sarebbe diversa la mia vita se lo fossi."
-
-msgctxt "2016_Rio"
-msgid "Really? It would probably be pretty much the same."
-msgstr "Davvero? Probabilmente sarebbe più o meno la stessa."
-
-msgctxt "2028_Akiyama"
-msgid "Most half Japanese people are really good-looking though. That'd do for a start."
-msgstr "La maggior parte dei mezzosangue giapponesi è di bell'aspetto, però. Sarebbe un buon inizio."
-
-msgctxt "2040_Rio"
-msgid "Hehehe. You're pretty handsome yourself, Akiyama-san. Pretty much my type of guy, actually."
-msgstr "Eheh. Anche lei è un bell'uomo, Akiyama-san. Veramente il mio tipo, a dire il vero."
-
-msgctxt "2052_Akiyama"
-msgid "Heh, really?"
-msgstr "Eh, davvero?"
-
-msgctxt "2064_Akiyama"
-msgid "Can you speak Portuguese?"
-msgstr "Sai parlare portoghese?"
-
-msgctxt "2076_Rio"
-msgid "Yep! I'm pretty good at it."
-msgstr "Sì! Sono abbastanza brava."
-
-msgctxt "2088_Akiyama"
-msgid "Wow, I'm impressed. Wanna say something in Portuguese for me?"
-msgstr "Wow, sono colpito. Ti va di dire qualcosa in portoghese per me?"
-
-msgctxt "2100_Rio"
-msgid "Oh, I hate being put on the spot..."
-msgstr "Oh, odio essere messa in imbarazzo..."
-
-msgctxt "2112_Rio"
-msgid "Maybe some other time when we're alone, okay?"
-msgstr "Magari un'altra volta quando siamo soli, okay?"
-
-msgctxt "2124_Akiyama"
-msgid "Heh..."
-msgstr "Eh..."
-
-msgctxt "2136_Rio"
-msgid "What kind of work do you do, Akiyama-san?"
-msgstr "Che tipo di lavoro fa, Akiyama-san?"
-
-msgctxt "2148_Akiyama"
-msgid "Work?"
-msgstr "Lavoro?"
-
-msgctxt "2160_Shizuka"
-msgid "Yes, I'm curious, too!"
-msgstr "Sì, sono curiosa anch'io!"
-
-msgctxt "2172_Akiyama"
-msgid "Well, take a guess."
-msgstr "Beh, provate a indovinare."
-
-msgctxt "2184_Rio"
-msgid "What!? I have no idea!"
-msgstr "Cosa!? Non ne ho idea!"
-
-msgctxt "2196_Shizuka"
-msgid "I'm thinking... show business?"
-msgstr "Direi... il mondo dello spettacolo?"
-
-msgctxt "2208_Akiyama"
-msgid "Nope."
-msgstr "No."
-
-msgctxt "2220_Shizuka"
-msgid "Really? Hmm..."
-msgstr "Davvero? Mmm..."
-
-msgctxt "2232_Rio"
-msgid "Hmm..."
-msgstr "Mmm..."
-
-msgctxt "2244_Rio"
-msgid "Finance? I bet you work in finance!"
-msgstr "Finanza? Scommetto che lavora nella finanza!"
-
-msgctxt "2256_Akiyama"
-msgid "Wow. You got it."
-msgstr "Wow. Indovinato."
-
-msgctxt "2268_Rio"
-msgid "Really!? Oh wow!"
-msgstr "Davvero!? Oh, wow!"
-
-msgctxt "2280_Shizuka"
-msgid "I had no clue. What a guess, Rio-san!"
-msgstr "Non ne avevo idea. Che intuito, Rio-san!"
-
-msgctxt "2292_Akiyama"
-msgid "How'd you guess?"
-msgstr "Come hai fatto a indovinare?"
-
-msgctxt "2304_Rio"
-msgid "Um... You just had a certain look about you!"
-msgstr "Uhm... Aveva un'aria particolare!"
-
-msgctxt "2316_Akiyama"
-msgid "\"A certain look\"? You just made a wild guess, didn't you?"
-msgstr "\"Un'aria particolare\"? Hai solo tirato a indovinare, vero?"
-
-msgctxt "2328_Rio"
-msgid "No, I certainly did not!"
-msgstr "No, assolutamente no!"
-
-msgctxt "2340_Rio"
-msgid "You just have a look in your eyes."
-msgstr "Ha un certo sguardo."
-
-msgctxt "2352_Akiyama"
-msgid "Uh-huh. I still say you made a random guess."
-msgstr "Ah-ah. Continuo a dire che hai tirato a caso."
-
-msgctxt "2364_Rio"
-msgid "Let's call it women's intuition!"
-msgstr "Chiamiamolo intuito femminile!"
-
-msgctxt "2376_Rio"
-msgid "I do think there's something about your eyes though!"
-msgstr "Però penso davvero che ci sia qualcosa nei suoi occhi!"
-
-msgctxt "2388_Akiyama"
-msgid "Hehe. You're an interesting girl."
-msgstr "Eheh. Sei una ragazza interessante."
-
-msgctxt "2400_Akiyama"
-msgid "What about you, Rio-chan? What do you usually do?"
-msgstr "E tu, Rio-chan? Cosa fai di solito?"
-
-msgctxt "2412_Rio"
-msgid "That's a secret. ♪ Maybe I'll tell you once we get to know each other a little better."
-msgstr "È un segreto. ♪ Forse te lo dirò quando ci conosceremo un po' meglio."
-
-msgctxt "2424_Akiyama"
-msgid "You're just trying to get me to request you next time, aren't you?"
-msgstr "Stai solo cercando di farti richiedere la prossima volta, non è vero?"
-
-msgctxt "2436_Rio"
-msgid "Not at all! You can't ask a girl about her private life right off the bat. Gotta tease it out over time!"
-msgstr "Niente affatto! Non si può chiedere a una ragazza della sua vita privata così su due piedi. Bisogna scoprirlo un po' alla volta!"
-
-msgctxt "2448_Akiyama"
-msgid "Okay, okay. Hopefully next time then!"
-msgstr "Okay, okay. Speriamo la prossima volta, allora!"
-
-msgctxt "2460_Akiyama"
-msgid "Do I look suspicious or something? I'm surprised you didn't suggest I was a businessman."
-msgstr "Ho un'aria sospetta o qualcosa del genere? Mi sorprende che non abbia pensato che fossi un uomo d'affari."
-
-msgctxt "2472_Rio"
-msgid "Huh? Well it feels like you know your way around Kamurocho. That, and you have a slightly dangerous aura about you."
-msgstr "Eh? Beh, sembra che lei conosca bene Kamurocho. E poi, ha un'aura leggermente pericolosa."
-
-msgctxt "2484_Akiyama"
-msgid "Hey, come on... Isn't that a little mean?"
-msgstr "Ehi, andiamo... Non è un po' cattivo?"
-
-msgctxt "2496_Rio"
-msgid "But I do like my guys to be a little on the wild side. Hehehe."
-msgstr "Ma a me piacciono i ragazzi un po' selvaggi. Eheheh."
-
-msgctxt "2508_Akiyama"
-msgid "Heh. Well I'm glad to hear that."
-msgstr "Eh. Beh, mi fa piacere sentirlo."
-
-msgctxt "2520_Rio"
-msgid "Akiyama-san! You came back!"
-msgstr "Akiyama-san! È tornato!"
-
-msgctxt "2532_Akiyama"
-msgid "Rio-chan, you're just as beautiful as I remembered! I'm glad I came."
-msgstr "Rio-chan, sei bella come ti ricordavo! Sono contento di essere venuto."
-
-msgctxt "2544_Rio"
-msgid "Really? That's sweet, but you know, flattery gets you nowhere."
-msgstr "Davvero? È dolce, ma sa, i complimenti non la porteranno da nessuna parte."
-
-msgctxt "2556_Akiyama"
-msgid "I've already got what I came for: that amazing smile of yours."
-msgstr "Ho già ottenuto quello per cui sono venuto: quel tuo sorriso fantastico."
-
-msgctxt "2568_Rio"
-msgid "Hehehe. Well, you can see it all you want if you request me!"
-msgstr "Eheheh. Beh, può vederlo tutte le volte che vuole, se mi richiede!"
-
-msgctxt "2580_Akiyama"
-msgid "Good point."
-msgstr "Giusta osservazione."
-
-msgctxt "2592_Himeka"
-msgid "The dialogue will end after one round if you've entered a club more than once. Please report when this message is displayed."
-msgstr "Il dialogo terminerà dopo un round se sei entrato in un club più di una volta. Si prega di segnalare quando viene visualizzato questo messaggio."
-
-msgctxt "2604_Rio"
-msgid "Oh... You didn't request me today?"
-msgstr "Oh... Non mi ha richiesta oggi?"
-
-msgctxt "2616_Akiyama"
-msgid "Uh, I just thought I'd try something different this time."
-msgstr "Uh, ho solo pensato di provare qualcosa di diverso stavolta."
-
-msgctxt "2628_Rio"
-msgid "I guess it gets boring talking to me every time, huh?"
-msgstr "Immagino che parlare con me ogni volta diventi noioso, eh?"
-
-msgctxt "2640_Akiyama"
-msgid "No, not at all! Look, I'll be sure to request you next time, okay?"
-msgstr "No, affatto! Senti, mi assicurerò di richiederti la prossima volta, okay?"
-
-msgctxt "2652_Rio"
-msgid "You promise? I'm gonna hold you to it!"
-msgstr "Promesso? La prenderò in parola!"
-
-msgctxt "2664_Himeka"
-msgid "The dialogue will end after one round if you've entered a club more than once. Please report when this message is displayed."
-msgstr "Il dialogo terminerà dopo un round se sei entrato in un club più di una volta. Si prega di segnalare quando viene visualizzato questo messaggio."
-
-msgctxt "2676_Rio"
-msgid "Rio does not appear for Akiyama's 2nd. Please notify a programmer if this message is displayed."
-msgstr "Rio non appare per il secondo di Akiyama. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
-
-msgctxt "2688_Rio"
-msgid "Rio does not appear for Akiyama's 2nd. Please notify a programmer if this message is displayed."
-msgstr "Rio non appare per il secondo di Akiyama. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
-
-msgctxt "2700_Rio"
-msgid "Rio does not appear for Akiyama's 2nd. Please notify a programmer if this message is displayed."
-msgstr "Rio non appare per il secondo di Akiyama. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
-
-msgctxt "2712_Rio"
-msgid "Rio does not appear for Akiyama's 2nd. Please notify a programmer if this message is displayed."
-msgstr "Rio non appare per il secondo di Akiyama. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
-
-msgctxt "2724_Rio"
-msgid "Rio does not appear for Akiyama's 2nd. Please notify a programmer if this message is displayed."
-msgstr "Rio non appare per il secondo di Akiyama. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
-
-msgctxt "2736_Rio"
-msgid "Rio does not appear for Akiyama's 2nd. Please notify a programmer if this message is displayed."
-msgstr "Rio non appare per il secondo di Akiyama. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
-
-msgctxt "2748_Rio"
-msgid "Rio does not appear for Tanimura's 1st or 3rd. Please notify a programmer if this message is displayed."
-msgstr "Rio non appare per il primo o il terzo di Tanimura. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
-
-msgctxt "2760_Rio"
-msgid "Rio does not appear for Tanimura's 1st or 3rd. Please notify a programmer if this message is displayed."
-msgstr "Rio non appare per il primo o il terzo di Tanimura. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
-
-msgctxt "2772_Rio"
-msgid "Rio does not appear for Tanimura's 1st or 3rd. Please notify a programmer if this message is displayed."
-msgstr "Rio non appare per il primo o il terzo di Tanimura. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
-
-msgctxt "2784_Rio"
-msgid "Rio does not appear for Tanimura's 1st or 3rd. Please notify a programmer if this message is displayed."
-msgstr "Rio non appare per il primo o il terzo di Tanimura. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
-
-msgctxt "2796_Rio"
-msgid "Tanimura cannot request Rio. Please notify a programmer if this message is displayed."
-msgstr "Tanimura non può richiedere Rio. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
-
-msgctxt "2808_Rio"
-msgid "Tanimura cannot request Rio. Please notify a programmer if this message is displayed."
-msgstr "Tanimura non può richiedere Rio. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
-
-msgctxt "2820_Rio"
-msgid "Um, can I ask what your name is?"
-msgstr "Uhm, posso chiederle come si chiama?"
-
-msgctxt "2832_Tanimura"
-msgid "I'm Tanimura. Your name's Rio, right?"
-msgstr "Sono Tanimura. Il tuo nome è Rio, giusto?"
-
-msgctxt "2844_Rio"
-msgid "Yes! It's nice to meet you."
-msgstr "Sì! Piacere di conoscerla."
-
-msgctxt "2856_Rio"
-msgid "What do you do for a living?"
-msgstr "Cosa fa per vivere?"
-
-msgctxt "2868_Tanimura"
-msgid "I don't really want to say..."
-msgstr "Non vorrei proprio dirlo..."
-
-msgctxt "2880_Rio"
-msgid "Oh, I'm sorry if that was too personal."
-msgstr "Oh, mi scusi se sono stata troppo indiscreta."
-
-msgctxt "2892_Tanimura"
-msgid "No, no. I just don't like making a big deal out of it."
-msgstr "No, no. È solo che non mi piace farne un dramma."
-
-msgctxt "2904_Rio"
-msgid "Hehehe. Now I'm really curious."
-msgstr "Eheh. Ora sono davvero curiosa."
-
-msgctxt "2916_Tanimura"
-msgid "Heh, okay, fine. I'm a cop."
-msgstr "Eh, okay, va bene. Sono un poliziotto."
-
-msgctxt "2928_Rio"
-msgid "Oh! There's nothing wrong with a policeman visiting a hostess club, is there?"
-msgstr "Oh! Non c'è niente di male se un poliziotto visita un hostess club, vero?"
-
-msgctxt "2940_Tanimura"
-msgid "I wouldn't be here if I thought so."
-msgstr "Non sarei qui se la pensassi così."
-
-msgctxt "2952_Tanimura"
-msgid "You wouldn't be half Japanese, would you?"
-msgstr "Non sarai mica mezza giapponese, per caso?"
-
-msgctxt "2964_Rio"
-msgid "Yes, I am! You could tell just by looking at me?"
-msgstr "Sì, lo sono! L'ha capito solo guardandomi?"
-
-msgctxt "2976_Tanimura"
-msgid "Yeah. I usually notice that kind of thing."
-msgstr "Sì. Di solito noto questo genere di cose."
-
-msgctxt "2988_Rio"
-msgid "In fact, I speak Portuguese pretty well!"
-msgstr "Infatti, parlo abbastanza bene il portoghese!"
-
-msgctxt "3000_Tanimura"
-msgid "Oh yeah? I can speak Chinese and Korean."
-msgstr "Ah sì? Io parlo cinese e coreano."
-
-msgctxt "3012_Rio"
-msgid "Wow! I guess you win!"
-msgstr "Wow! Credo che abbia vinto lei!"
-
-msgctxt "3024_Tanimura"
-msgid "Hehehe."
-msgstr "Eheh."
-
-msgctxt "3036_Rio"
-msgid "Being a policeman must be hard."
-msgstr "Essere un poliziotto dev'essere dura."
-
-msgctxt "3048_Tanimura"
-msgid "It can be, especially in this city. It seems like a new incident happens every day."
-msgstr "Può esserlo, specialmente in questa città. Sembra che ogni giorno succeda un nuovo incidente."
-
-msgctxt "3060_Rio"
-msgid "You know, I actually saw you when you were chasing somebody, Tanimura-san."
-msgstr "Sa, in realtà l'ho vista mentre inseguiva qualcuno, Tanimura-san."
-
-msgctxt "3072_Tanimura"
-msgid "Really? That's kind of embarrassing."
-msgstr "Davvero? È un po' imbarazzante."
-
-msgctxt "3084_Rio"
-msgid "Not at all! You're keeping us all safe. Thank you!"
-msgstr "Niente affatto! Lei ci tiene tutti al sicuro. Grazie!"
-
-msgctxt "3096_Tanimura"
-msgid "Thanks. It makes it worth it when I hear things like that."
-msgstr "Grazie. Sentire cose del genere mi ripaga della fatica."
-
-msgctxt "3108_Himeka"
-msgid "The dialogue will end after one round if you've entered a club more than once. Please report when this message is displayed."
-msgstr "Il dialogo terminerà dopo un round se sei entrato in un club più di una volta. Si prega di segnalare quando viene visualizzato questo messaggio."
-
-msgctxt "3120_Rio"
-msgid "Tanimura cannot request Rio. Please notify a programmer if this message is displayed."
-msgstr "Tanimura non può richiedere Rio. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
-
-msgctxt "3132_Rio"
-msgid "Tanimura cannot request Rio. Please notify a programmer if this message is displayed."
-msgstr "Tanimura non può richiedere Rio. Si prega di avvisare un programmatore se viene visualizzato questo messaggio."
-
-msgctxt "3144_Rio"
-msgid "Cheers!"
-msgstr "Salute!"
-
-msgctxt "3156_Shizuka"
-msgid "Cheers!"
-msgstr "Salute!"
-
-msgctxt "3168_Attendant"
-msgid "I could tell because you're so pretty."
-msgstr "L'ho capito perché sei così carina."
-
-msgctxt "3180_Attendant"
-msgid "I kind of wish I was half Japanese myself."
-msgstr "A volte vorrei essere mezzo giapponese anch'io."
-
-msgctxt "3192_Attendant"
-msgid "Can you speak Portuguese?"
-msgstr "Sai parlare portoghese?"
-
-msgctxt "3204_Attendant"
-msgid "You just made a wild guess, didn't you?"
-msgstr "Hai solo tirato a indovinare, vero?"
-
-msgctxt "3216_Attendant"
-msgid "So what do you usually do?"
-msgstr "Allora, cosa fai di solito?"
-
-msgctxt "3228_Attendant"
-msgid "Do I look suspicious or something?"
-msgstr "Ho un'aria sospetta o qualcosa del genere?"
+msgstr ""
+
+msgctxt "308_Akiyama"
+msgid "You said you'd do whatever it took, right?"
+msgstr "Hai detto che avresti fatto qualsiasi cosa, vero?"
+
+msgctxt "320_Lily"
+msgid "...That's right."
+msgstr "...Esatto."
+
+msgctxt "332_Akiyama"
+msgid "Great. Shall we, then?"
+msgstr "Ottimo. Andiamo, allora?"
+
+msgctxt "368_Sugiuchi"
+msgid "That about sums it up."
+msgstr "Questo riassume la situazione."
+
+msgctxt "380_Akiyama"
+msgid "...Huh."
+msgstr "...Eh."
+
+msgctxt "392_Sugiuchi"
+msgid "And the end result? The Tojo, particularly Shibata's crew, are scrambling to track Arai down before the cops or the Ueno Seiwa get their claws on him."
+msgstr "E il risultato finale? La Tojo, in particolare Shibata, sta cercando disperatamente di rintracciare Arai prima che la polizia o la Ueno Seiwa mettano le mani su di lui."
+
+msgctxt "404_Sugiuchi"
+msgid "Too bad nobody's got a clue where he is."
+msgstr "Peccato che nessuno abbia idea di dove sia."
+
+msgctxt "416_Sugiuchi"
+msgid "We've been keeping an eye on the people he's buddy-buddy with, hoping he'll try and make contact."
+msgstr "Abbiamo tenuto d'occhio le persone con cui ha familiarità, sperando che cerchi di mettersi in contatto."
+
+msgctxt "428_Sugiuchi"
+msgid "Which lands us in the here and now."
+msgstr "Il che ci porta al qui e ora."
+
+msgctxt "440_Akiyama"
+msgid "So that's why you've been hounding me and Kido."
+msgstr "Quindi è per questo che hai dato la caccia a me e Kido."
+
+msgctxt "452_Sugiuchi"
+msgid "Pretty much. So, we're gonna be keeping this dump you call an office under our thumb for a while."
+msgstr "Più o meno. Quindi, terremo sotto controllo per un po' questa topaia che chiami ufficio."
+
+msgctxt "464_Sugiuchi"
+msgid "Which means no waltzing around town like it's business as usual. Got that?"
+msgstr "Il che significa che non potrai andartene in giro per la città come se niente fosse. Capito?"
+
+msgctxt "476_Akiyama"
+msgid "Noted."
+msgstr "Annotato."
+
+msgctxt "488_Sugiuchi"
+msgid "Good. I'm out of here."
+msgstr "Bene. Me ne vado."
+
+msgctxt "500_Akiyama"
+msgid "Just a sec there, Sugiuchi-san."
+msgstr "Solo un secondo, Sugiuchi-san."
+
+msgctxt "512_Sugiuchi"
+msgid "What now?"
+msgstr "Che c'è?"
+
+msgctxt "524_Akiyama"
+msgid "You're in Criminal Investigation, right? Why go out of your way to poke your nose into this?"
+msgstr "Sei della Sezione Investigativa Criminale, giusto? Perché ti intrometti in questo?"
+
+msgctxt "536_Sugiuchi"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "548_Akiyama"
+msgid "I thought Organized Crime is usually in charge of this kinda stuff."
+msgstr "Pensavo che di solito la Sezione Crimine Organizzato si occupasse di queste cose."
+
+msgctxt "560_Sugiuchi"
+msgid "That's none of your damn business."
+msgstr "Non sono affari tuoi."
+
+msgctxt "572_Akiyama"
+msgid "Sorry, just curious. Though if you ask me, I'd bet you're hoping to score enough brownie points to finally bag that nice, fat promotion from HQ."
+msgstr "Scusa, ero solo curioso. Anche se, se me lo chiedi, scommetto che speri di guadagnare abbastanza punti da ottenere finalmente quella bella promozione dal Quartier Generale."
+
+msgctxt "596_Sugiuchi"
+msgid "You shut your damn mouth! I said stay out of it!"
+msgstr "Chiudi quella dannata bocca! Ho detto di starne fuori!"
+
+msgctxt "608_Akiyama"
+msgid "All right, all right. Forget I said anything."
+msgstr "Va bene, va bene. Dimentica quello che ho detto."
+
+msgctxt "620_Sugiuchi"
+msgid "Does make me think, though... What am I even doing anymore?"
+msgstr "Però mi fa pensare... Cosa sto facendo, in fin dei conti?"
+
+msgctxt "632_Akiyama"
+msgid "Uh, Sugiuchi-san?"
+msgstr ""
+
+msgctxt "644_Sugiuchi"
+msgid "...Forget it. Just thinking out loud for a sec there."
+msgstr "...Lascia stare. Stavo solo pensando ad alta voce per un secondo."
+
+msgctxt "656_Sugiuchi"
+msgid "You see a lot of shit go down when you've been on the force almost three decades."
+msgstr "Vedi succedere un sacco di merda quando sei in polizia da quasi tre decenni."
+
+msgctxt "680_Sugiuchi"
+msgid "Hey. Looks like you got a customer."
+msgstr "Ehi. Sembra che tu abbia un cliente."
+
+msgctxt "692_Akiyama"
+msgid "Hm?"
+msgstr ""
+
+msgctxt "728_Lily"
+msgid "Excuse me..."
+msgstr "Scusi..."
+
+msgctxt "740_Akiyama"
+msgid "Oh, I've been waiting for you. Please, sit."
+msgstr "Oh, ti stavo aspettando. Prego, siediti."
+
+msgctxt "800_Sugiuchi"
+msgid "......"
+msgstr ""
+
+msgctxt "848_Sugiuchi"
+msgid "You sure took your sweet time coming back here."
+msgstr "Hai impiegato un bel po' a tornare qui."
+
+msgctxt "860_Sugiuchi"
+msgid "What kind of trouble have you been getting yourself into now?"
+msgstr "In che tipo di guai ti sei messo adesso?"
+
+msgctxt "872_Akiyama"
+msgid "Trust me, I'm too exhausted for trouble. Crazy, I know, but some of us take a break from our regularly scheduled bullshit every now and then."
+msgstr "Fidati, sono troppo stanco per i guai. Pazzesco, lo so, ma alcuni di noi si prendono una pausa dalla solita routine di stronzate di tanto in tanto."
+
+msgctxt "884_Akiyama"
+msgid "So, what do you want?"
+msgstr "Allora, cosa vuoi?"
+
+msgctxt "896_Sugiuchi"
+msgid "Notice the officers outside?"
+msgstr "Hai notato gli agenti fuori?"
+
+msgctxt "908_Akiyama"
+msgid "You know, I hadn't before, but now that you mention it, I vaguely recall one or two boys in blue out there."
+msgstr "Sai, prima non li avevo notati, ma ora che lo dici, ricordo vagamente uno o due ragazzi in divisa là fuori."
+
+msgctxt "920_Sugiuchi"
+msgid "Well, get used to them, wise guy. You're going under 24-hour surveillance for the next few days."
+msgstr "Bene, abituati a loro, sapientone. Sarai sotto sorveglianza 24 ore su 24 per i prossimi giorni."
+
+msgctxt "932_Akiyama"
+msgid "Huh? What for?"
+msgstr "Eh? Per cosa?"
+
+msgctxt "944_Sugiuchi"
+msgid "To keep you safe, dimwit. You and your shop. The Shibata Family's after you, aren't they?"
+msgstr "Per tenerti al sicuro, imbecille. Tu e il tuo negozio. La Famiglia Shibata ti sta cercando, no?"
+
+msgctxt "956_Sugiuchi"
+msgid "You said so yourself, back at the precinct."
+msgstr "L'hai detto tu stesso, in centrale."
+
+msgctxt "968_Akiyama"
+msgid "That doesn't mean I need your watchdogs lording over me."
+msgstr "Questo non significa che io abbia bisogno dei tuoi cani da guardia che mi comandano."
+
+msgctxt "980_Sugiuchi"
+msgid "Just spare me the bullshit, all right?"
+msgstr "Risparmiami le stronzate, va bene?"
+
+msgctxt "992_Sugiuchi"
+msgid "You know who cleans up the messes you make? <Italic>Us</Italic>."
+msgstr "Sai chi pulisce il casino che fai? <Italic>Noi</Italic>."
+
+msgctxt "1004_Sugiuchi"
+msgid "You think babysitting a worthless crook like you is my idea of a good time?"
+msgstr "Pensi che fare da baby-sitter a un farabutto inutile come te sia la mia idea di divertimento?"
+
+msgctxt "1016_Akiyama"
+msgid "C'mon, Sugiuchi-san."
+msgstr "Dai, Sugiuchi-san."
+
+msgctxt "1028_Sugiuchi"
+msgid "Doesn't matter either way now. This dumpster fire is way bigger than a half-wit slimeball like you."
+msgstr "Non importa comunque. Questo casino è molto più grande di un cretino mezzo scemo come te."
+
+msgctxt "1040_Akiyama"
+msgid "What do you mean?"
+msgstr "Cosa intendi?"
+
+msgctxt "1052_Sugiuchi"
+msgid "The shooting two days ago. Shit's about to hit the fan."
+msgstr "La sparatoria di due giorni fa. La merda sta per colpire il ventilatore."
+
+msgctxt "1064_Akiyama"
+msgid "This fan got a name?"
+msgstr "Questo ventilatore ha un nome?"
+
+msgctxt "1076_Sugiuchi"
+msgid "Isao Katsuragi, captain of the Ueno Seiwa Clan. He's started making waves."
+msgstr "Isao Katsuragi, capitano del Clan Ueno Seiwa. Ha iniziato a fare scalpore."
+
+msgctxt "1100_Akiyama"
+msgid "Hello? Anyone home?"
+msgstr "Salve? C'è nessuno?"
+
+msgctxt "1124_Akiyama"
+msgid "Great, just the guy I want to see."
+msgstr "Ottimo, proprio il tipo che volevo vedere."
+
+msgctxt "1136_Sugiuchi"
+msgid "Going somewhere, Akiyama? I mean, this <Italic>is</Italic> your office!"
+msgstr "Vai da qualche parte, Akiyama? Voglio dire, questo <Italic>è</Italic> il tuo ufficio!"
+
+msgctxt "1148_Akiyama"
+msgid "Gimme a break, Sugiuchi-san. We talked more than enough <Italic>last</Italic> time you hauled me in, didn't we?"
+msgstr "Dammi tregua, Sugiuchi-san. Abbiamo parlato più che a sufficienza l'<Italic>ultima</Italic> volta che mi hai portato dentro, no?"
+
+msgctxt "1160_Sugiuchi"
+msgid "I'm not here to arrest you; I'm here to protect you. So try showing a little gratitude for once."
+msgstr "Non sono qui per arrestarti; sono qui per proteggerti. Quindi cerca di mostrare un po' di gratitudine per una volta."
+
+msgctxt "1172_Akiyama"
+msgid "What are you talking about?"
+msgstr "Di cosa stai parlando?"
+
+msgctxt "1184_Sugiuchi"
+msgid "Just sit your ass down and I'll explain."
+msgstr "Siediti e ti spiego."
+

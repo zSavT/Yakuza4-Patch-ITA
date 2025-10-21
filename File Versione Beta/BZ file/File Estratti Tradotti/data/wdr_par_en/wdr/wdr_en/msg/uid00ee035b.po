@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee035b.po\n"
 "X-Crowdin-File-ID: 59528\n"
-"PO-Revision-Date: 2025-10-10 21:02\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "584"
 msgid "You got <Color:8>100,000 yen<Color:Default> in training funds."
@@ -47,11 +47,11 @@ msgstr "Hai ottenuto <Color:8>100.000 yen<Color:Default> in fondi per l'addestra
 
 msgctxt "22928"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "22932"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "22936"
 msgid "Elise Manager"
@@ -59,27 +59,27 @@ msgstr "Manager dell'Elise"
 
 msgctxt "22940"
 msgid "Naoki"
-msgstr "Naoki"
+msgstr ""
 
 msgctxt "22944"
 msgid "Talk_Ojigi"
-msgstr "Talk_Ojigi"
+msgstr ""
 
 msgctxt "22948"
 msgid "Manager"
-msgstr "Manager"
+msgstr ""
 
 msgctxt "22952"
 msgid "Talk_Surp"
-msgstr "Talk_Surp"
+msgstr ""
 
 msgctxt "22956"
 msgid "Sync_Send"
-msgstr "Sync_Send"
+msgstr ""
 
 msgctxt "22960"
 msgid "Player"
-msgstr "Player"
+msgstr ""
 
 msgctxt "22964"
 msgid "Hostess Club Scouting"
@@ -87,7 +87,7 @@ msgstr "Reclutamento per l'Hostess Club"
 
 msgctxt "22968"
 msgid "Talk_Gakkari"
-msgstr "Talk_Gakkari"
+msgstr ""
 
 msgctxt "22972"
 msgid "Kiryu"
@@ -95,15 +95,15 @@ msgstr "Kiryu"
 
 msgctxt "22976"
 msgid "Talk_OK"
-msgstr "Talk_OK"
+msgstr ""
 
 msgctxt "22980"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "22984"
 msgid "Talk_NoBig"
-msgstr "Talk_NoBig"
+msgstr ""
 
 msgctxt "500_Akiyama"
 msgid "Hey, is Lily-chan here yet?"
@@ -475,7 +475,7 @@ msgstr "*sospiro*"
 
 msgctxt "2024_Kiryu"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "2036_Elise Manager"
 msgid "...I've got it!"
@@ -560,3 +560,4 @@ msgstr "Accetta"
 msgctxt "2300_Akiyama"
 msgid "Decline"
 msgstr "Rifiuta"
+

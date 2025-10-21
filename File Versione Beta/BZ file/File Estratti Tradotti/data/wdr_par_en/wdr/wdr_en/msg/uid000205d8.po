@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid000205d8.po\n"
 "X-Crowdin-File-ID: 61770\n"
-"PO-Revision-Date: 2025-10-08 21:30\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
 
 msgctxt "176"
 msgid "You gained 500 EXP."
@@ -23,7 +23,7 @@ msgstr "Hai ottenuto 500 ESP."
 
 msgctxt "4120"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "4124"
 msgid "Main Characters' Possessions"
@@ -31,15 +31,15 @@ msgstr "Oggetti dei personaggi principali"
 
 msgctxt "4128"
 msgid "Player"
-msgstr "Player"
+msgstr ""
 
 msgctxt "4132"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "4136"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "116_Akiyama"
 msgid "By the way, are you strapped for cash at all? We're already in pretty deep, so feel free to use my money."
@@ -116,3 +116,4 @@ msgstr "No, va bene così."
 msgctxt "368_Akiyama"
 msgid "Sure."
 msgstr "Certo."
+

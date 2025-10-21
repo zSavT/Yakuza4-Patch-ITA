@@ -15,27 +15,27 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid0002022c.po\n"
 "X-Crowdin-File-ID: 61588\n"
-"PO-Revision-Date: 2025-10-07 20:11\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "2084"
 msgid "Saejima"
-msgstr "Saejima"
+msgstr ""
 
 msgctxt "2088"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "2092"
 msgid "Kataoka"
-msgstr "Kataoka"
+msgstr ""
 
 msgctxt "2096"
 msgid "Talk_Ojigi"
-msgstr "Talk_Ojigi"
+msgstr ""
 
 msgctxt "2100"
 msgid "Talk_Smile"
-msgstr "Talk_Smile"
+msgstr ""
 
 msgctxt "72_Saejima"
 msgid "You there. I hear ya got yourself a chain."
@@ -64,3 +64,4 @@ msgstr "...Scusa, ma mi serve davvero quella catena."
 msgctxt "144_Saejima"
 msgid "If ya ain't gonna lend it to me, I'm just gonna have to take it by force."
 msgstr "Se non hai intenzione di prestarmela, dovrò prenderla con la forza."
+

@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00020202.po\n"
 "X-Crowdin-File-ID: 58138\n"
-"PO-Revision-Date: 2025-10-10 08:40\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "1680"
 msgid "Woman"
@@ -23,11 +23,11 @@ msgstr "Donna"
 
 msgctxt "1684"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "1688"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "68_Woman"
 msgid "I just saw some men who looked like yakuza over in Theater Square!"
@@ -56,3 +56,4 @@ msgstr "Eh. Allora immagino di non essere sano di mente. Comunque, grazie."
 msgctxt "140_Woman"
 msgid "Please be careful!"
 msgstr "Faccia attenzione, la prego!"
+

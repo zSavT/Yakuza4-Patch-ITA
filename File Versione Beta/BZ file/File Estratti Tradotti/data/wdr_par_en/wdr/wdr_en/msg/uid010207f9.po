@@ -15,43 +15,43 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid010207f9.po\n"
 "X-Crowdin-File-ID: 59786\n"
-"PO-Revision-Date: 2025-10-10 21:22\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "5200"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "5204"
 msgid "dummy"
-msgstr "dummy"
+msgstr ""
 
 msgctxt "5208"
 msgid "Talk_Gakkari"
-msgstr "Talk_Gakkari"
+msgstr ""
 
 msgctxt "5212"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "5216"
 msgid "Kakuda"
-msgstr "Kakuda"
+msgstr ""
 
 msgctxt "5220"
 msgid "Idle"
-msgstr "Idle"
+msgstr ""
 
 msgctxt "5224"
 msgid "Talk_OK"
-msgstr "Talk_OK"
+msgstr ""
 
 msgctxt "5228"
 msgid "C22_SetM_ykz_stand_kickA"
-msgstr "C22_SetM_ykz_stand_kickA"
+msgstr ""
 
 msgctxt "5232"
 msgid "C22_SetM_ykz_stand_kickB"
-msgstr "C22_SetM_ykz_stand_kickB"
+msgstr ""
 
 msgctxt "5236"
 msgid "Yakuza"
@@ -59,19 +59,19 @@ msgstr "Yakuza"
 
 msgctxt "5240"
 msgid "Talk_Angry"
-msgstr "Talk_Angry"
+msgstr ""
 
 msgctxt "5244"
 msgid "Minamida"
-msgstr "Minamida"
+msgstr ""
 
 msgctxt "5248"
 msgid "Talk_Odosu"
-msgstr "Talk_Odosu"
+msgstr ""
 
 msgctxt "5252"
 msgid "Sukegawa"
-msgstr "Sukegawa"
+msgstr ""
 
 msgctxt "56_Akiyama"
 msgid "*sigh*"
@@ -91,7 +91,7 @@ msgstr "Ci sto lavorando..."
 
 msgctxt "164_Kakuda"
 msgid "......"
-msgstr "......"
+msgstr ""
 
 msgctxt "224_Kakuda"
 msgid "...There you go."
@@ -142,3 +142,4 @@ msgid "Cocky little shit, ain't ya? All right, fine! I'll kill you,\r\n"
 "then go to work on your dipshit little friends!"
 msgstr "Stronzetto arrogante, eh? Va bene, d'accordo! Ucciderò te,\r\n"
 "e poi passerò ai tuoi amichetti del cazzo!"
+

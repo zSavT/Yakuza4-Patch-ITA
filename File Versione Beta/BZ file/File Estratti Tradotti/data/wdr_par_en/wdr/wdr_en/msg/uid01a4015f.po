@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01a4015f.po\n"
 "X-Crowdin-File-ID: 58378\n"
-"PO-Revision-Date: 2025-10-09 08:46\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "2220"
 msgid "Owner"
@@ -23,23 +23,23 @@ msgstr "Proprietario"
 
 msgctxt "2224"
 msgid "Talk_Ojigi"
-msgstr "Talk_Ojigi"
+msgstr ""
 
 msgctxt "2228"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "2232"
 msgid "Talk_Call"
-msgstr "Talk_Call"
+msgstr ""
 
 msgctxt "2236"
 msgid "Talk_Quest"
-msgstr "Talk_Quest"
+msgstr ""
 
 msgctxt "2240"
 msgid "Talk_Think"
-msgstr "Talk_Think"
+msgstr ""
 
 msgctxt "56_Owner"
 msgid "Hi, welcome! Ah, if it isn't Akiyama-san."
@@ -64,7 +64,7 @@ msgstr "Quanto costa il piatto del giorno?"
 
 msgctxt "104_Owner"
 msgid "980 yen."
-msgstr "980 yen."
+msgstr ""
 
 msgctxt "116_Akiyama"
 msgid "Wow, cheap! Can I have one?"
@@ -93,3 +93,4 @@ msgid "Something like that. Thanks for your help. I'll have to drop\r\n"
 "by again soon."
 msgstr "Qualcosa del genere. Grazie per l'aiuto. Dovrò passare\r\n"
 "di nuovo presto."
+

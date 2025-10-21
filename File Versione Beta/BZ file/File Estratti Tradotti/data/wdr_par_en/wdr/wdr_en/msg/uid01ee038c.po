@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01ee038c.po\n"
 "X-Crowdin-File-ID: 59290\n"
-"PO-Revision-Date: 2025-10-10 20:50\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "52864"
 msgid "Employee"
@@ -23,35 +23,35 @@ msgstr "Cameriere"
 
 msgctxt "52868"
 msgid "Talk_Ojigi"
-msgstr "Talk_Ojigi"
+msgstr ""
 
 msgctxt "52872"
 msgid "Talk_Info_R"
-msgstr "Talk_Info_R"
+msgstr ""
 
 msgctxt "52876"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "52880"
 msgid "Noa"
-msgstr "Noa"
+msgstr ""
 
 msgctxt "52884"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "52888"
 msgid "Erena"
-msgstr "Erena"
+msgstr ""
 
 msgctxt "52892"
 msgid "Tanimura"
-msgstr "Tanimura"
+msgstr ""
 
 msgctxt "52896"
 msgid "Chihiro"
-msgstr "Chihiro"
+msgstr ""
 
 msgctxt "52900"
 msgid "Kiryu"
@@ -59,51 +59,51 @@ msgstr "Kiryu"
 
 msgctxt "52904"
 msgid "Maya"
-msgstr "Maya"
+msgstr ""
 
 msgctxt "52908"
 msgid "Rio"
-msgstr "Rio"
+msgstr ""
 
 msgctxt "52912"
 msgid "Himeka"
-msgstr "Himeka"
+msgstr ""
 
 msgctxt "52916"
 msgid "Shizuka"
-msgstr "Shizuka"
+msgstr ""
 
 msgctxt "52920"
 msgid "松岡里緒奈：源氏名"
-msgstr "松岡里緒奈：源氏名"
+msgstr ""
 
 msgctxt "52924"
 msgid "望月京子：源氏名"
-msgstr "望月京子：源氏名"
+msgstr ""
 
 msgctxt "52928"
 msgid "峰村七海：源氏名"
-msgstr "峰村七海：源氏名"
+msgstr ""
 
 msgctxt "52932"
 msgid "Player"
-msgstr "Player"
+msgstr ""
 
 msgctxt "52936"
 msgid "P_sitchr_tlk_kamae"
-msgstr "P_sitchr_tlk_kamae"
+msgstr ""
 
 msgctxt "52940"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "52944"
 msgid "P_stand"
-msgstr "P_stand"
+msgstr ""
 
 msgctxt "52948"
 msgid "Talk_Kamae"
-msgstr "Talk_Kamae"
+msgstr ""
 
 msgctxt "304_Employee"
 msgid "Welcome. Let me show you to your seats."
@@ -203,7 +203,7 @@ msgstr "Eh? Deve ordinare qualcosa, no?"
 
 msgctxt "1576_Tanimura"
 msgid "Oh..."
-msgstr "Oh..."
+msgstr ""
 
 msgctxt "1624_Employee"
 msgid "Here's your bill, sir."
@@ -455,7 +455,7 @@ msgstr "C'è qualcosa che non va? Non si preoccupi per me. Prenda qualcosa che l
 
 msgctxt "4768_Tanimura"
 msgid "Okay..."
-msgstr "Okay..."
+msgstr ""
 
 msgctxt "4816_Employee"
 msgid "Here's your bill, sir."
@@ -576,3 +576,4 @@ msgstr "Grazie mille. Tornate a trovarci presto."
 msgctxt "5740_Employee"
 msgid "Thank you very much. Please come again soon."
 msgstr "Grazie mille. Tornate a trovarci presto."
+

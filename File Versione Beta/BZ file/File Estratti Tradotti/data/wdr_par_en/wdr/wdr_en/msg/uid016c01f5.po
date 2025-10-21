@@ -15,79 +15,79 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid016c01f5.po\n"
 "X-Crowdin-File-ID: 59822\n"
-"PO-Revision-Date: 2025-10-10 21:31\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "15032"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "15036"
 msgid "P_sitsofaR_tlk_comment"
-msgstr "P_sitsofaR_tlk_comment"
+msgstr ""
 
 msgctxt "15040"
 msgid "Rio"
-msgstr "Rio"
+msgstr ""
 
 msgctxt "15044"
 msgid "F_cab_sitsofa_tlk_thinkA"
-msgstr "F_cab_sitsofa_tlk_thinkA"
+msgstr ""
 
 msgctxt "15048"
 msgid "P_sitsofaR_tlk_yes"
-msgstr "P_sitsofaR_tlk_yes"
+msgstr ""
 
 msgctxt "15052"
 msgid "F_cab_sitsofa_tlk_yes"
-msgstr "F_cab_sitsofa_tlk_yes"
+msgstr ""
 
 msgctxt "15056"
 msgid "P_sitsofaR_tlk_smile"
-msgstr "P_sitsofaR_tlk_smile"
+msgstr ""
 
 msgctxt "15060"
 msgid "F_cab_sitsofa_tlk_happy"
-msgstr "F_cab_sitsofa_tlk_happy"
+msgstr ""
 
 msgctxt "15064"
 msgid "F_cab_sitsofa_tlk_noA"
-msgstr "F_cab_sitsofa_tlk_noA"
+msgstr ""
 
 msgctxt "15068"
 msgid "F_cab_sitsofa_tlk_suprise"
-msgstr "F_cab_sitsofa_tlk_suprise"
+msgstr ""
 
 msgctxt "15072"
 msgid "P_sitsofaR_tlk_no"
-msgstr "P_sitsofaR_tlk_no"
+msgstr ""
 
 msgctxt "15076"
 msgid "F_cab_sitsofa_tlk_cry"
-msgstr "F_cab_sitsofa_tlk_cry"
+msgstr ""
 
 msgctxt "15080"
 msgid "F_cab_sitsofa_sp1_sync_yop"
-msgstr "F_cab_sitsofa_sp1_sync_yop"
+msgstr ""
 
 msgctxt "15084"
 msgid "F_cab_sitsofa_tlk_refuse"
-msgstr "F_cab_sitsofa_tlk_refuse"
+msgstr ""
 
 msgctxt "15088"
 msgid "F_cab_sitsofa_talk_smileA"
-msgstr "F_cab_sitsofa_talk_smileA"
+msgstr ""
 
 msgctxt "15092"
 msgid "F_cab_sitsofa_tlk_kamaeAtoB"
-msgstr "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr ""
 
 msgctxt "15096"
 msgid "P_sitsofaR_tlk_quest"
-msgstr "P_sitsofaR_tlk_quest"
+msgstr ""
 
 msgctxt "15100"
 msgid "P_sitsofaR_tlk_think"
-msgstr "P_sitsofaR_tlk_think"
+msgstr ""
 
 msgctxt "392_Akiyama"
 msgid "Ever heard of 777 Town?"
@@ -380,3 +380,4 @@ msgstr "Adoro berlo tutto d'un fiato. È questo il vero spirito del sakè."
 msgctxt "1292_Akiyama"
 msgid "Heh. That so? Didn't know you liked that sort of thing, Rio-chan."
 msgstr "Eh. Davvero? Non sapevo ti piacessero queste cose, Rio-chan."
+

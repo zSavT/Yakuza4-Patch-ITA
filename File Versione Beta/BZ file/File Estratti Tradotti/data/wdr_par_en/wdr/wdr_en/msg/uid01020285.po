@@ -15,15 +15,15 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01020285.po\n"
 "X-Crowdin-File-ID: 61608\n"
-"PO-Revision-Date: 2025-10-07 20:12\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "2604"
 msgid "Saejima"
-msgstr "Saejima"
+msgstr ""
 
 msgctxt "2608"
 msgid "２０１０年３月６日 東京神室町"
-msgstr "6 marzo 2010. Kamurocho, Tokyo"
+msgstr ""
 
 msgctxt "2616"
 msgid "Rude Pedestrian"
@@ -31,7 +31,7 @@ msgstr "Pedone maleducato"
 
 msgctxt "2620"
 msgid "Talk_Surp"
-msgstr "Talk_Surp"
+msgstr ""
 
 msgctxt "88_Saejima"
 msgid "(Back to square one. I gotta figure out how to dig up dirt on that hotshot info broker everyone's yappin' about.)"
@@ -60,3 +60,4 @@ msgstr "(Kamurocho è andata a puttane in questi ultimi 25 anni. Beh, è ora di 
 msgctxt "220_Saejima"
 msgid "(Guess I'll start with the ol' Sasai Family HQ, out in front of West Park.)"
 msgstr "(Credo che inizierò dal vecchio quartier generale della Famiglia Sasai, di fronte a West Park.)"
+

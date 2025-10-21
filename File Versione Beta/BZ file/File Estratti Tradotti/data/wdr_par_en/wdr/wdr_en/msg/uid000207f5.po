@@ -15,23 +15,23 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid000207f5.po\n"
 "X-Crowdin-File-ID: 58832\n"
-"PO-Revision-Date: 2025-10-10 09:10\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "2384"
 msgid "Akiyama"
-msgstr "Akiyama"
+msgstr ""
 
 msgctxt "2388"
 msgid "Sukegawa"
-msgstr "Sukegawa"
+msgstr ""
 
 msgctxt "2392"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "2396"
 msgid "Kakuda"
-msgstr "Kakuda"
+msgstr ""
 
 msgctxt "84_Akiyama"
 msgid "Uh... This him?"
@@ -68,3 +68,4 @@ msgstr "Oh, tutto qui? Okay... Ma assicuratevi di far fuori tutti prima di chiam
 msgctxt "180_Kakuda"
 msgid "The last thing I need is a dirty pair of underwear to distract me from my lockpicking."
 msgstr "L'ultima cosa di cui ho bisogno sono delle mutande sporche che mi distraggono mentre scassino la serratura."
+

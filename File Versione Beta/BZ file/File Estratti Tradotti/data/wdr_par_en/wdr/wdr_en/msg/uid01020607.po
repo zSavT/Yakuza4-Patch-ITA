@@ -15,11 +15,11 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01020607.po\n"
 "X-Crowdin-File-ID: 62054\n"
-"PO-Revision-Date: 2025-10-08 21:38\n"
+"PO-Revision-Date: 2025-10-12 21:25\n"
 
 msgctxt "5828"
 msgid "Date"
-msgstr "Date"
+msgstr ""
 
 msgctxt "5832"
 msgid "Kiryu"
@@ -27,27 +27,27 @@ msgstr "Kiryu"
 
 msgctxt "5836"
 msgid "Talk_Yes"
-msgstr "Talk_Yes"
+msgstr ""
 
 msgctxt "5840"
 msgid "Talk_Ase"
-msgstr "Talk_Ase"
+msgstr ""
 
 msgctxt "5844"
 msgid "Talk_No"
-msgstr "Talk_No"
+msgstr ""
 
 msgctxt "5848"
 msgid "dummy"
-msgstr "dummy"
+msgstr ""
 
 msgctxt "5852"
 msgid "0"
-msgstr "0"
+msgstr ""
 
 msgctxt "5856"
 msgid "Yasuko"
-msgstr "Yasuko"
+msgstr ""
 
 msgctxt "84_Date"
 msgid "Hold on a sec, Kiryu."
@@ -166,3 +166,4 @@ msgstr "Yasuko-san, c'è un bar qui vicino dove andavo un tempo.\r\n"
 msgctxt "420_Yasuko"
 msgid "Okay, I'll follow your lead."
 msgstr "Ok, ti seguo."
+
