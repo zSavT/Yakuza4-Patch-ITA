@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "888"
+msgid "Gossipy Businessman"
+msgstr "Uomo d'affari pettegolo"
+
+msgctxt "892"
+msgid "Curious Businesswoman"
+msgstr "Donna d'affari curiosa"
+
+msgctxt "896"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "900"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "84_Gossipy Businessman"
+msgid "Did you know there was a murder right near here?"
+msgstr "Ma lo sai che c'è stato un omicidio proprio qui vicino?"
+
+msgctxt "96_Curious Businesswoman"
+msgid "What!? Really!? Did they catch the killer yet?"
+msgstr "Cosa!? Davvero!? Hanno già beccato l'assassino?"
+
+msgctxt "108_Gossipy Businessman"
+msgid ""
+"I read about it online, but they haven't got the killer yet. Probably "
+"already skipped town."
+msgstr ""
+"L'ho letto online, ma non hanno ancora beccato l'assassino. Probabilmente è "
+"già filato via."
+
+msgctxt "120_Curious Businesswoman"
+msgid "I sure hope so. Still, I think I'll go home early today."
+msgstr "Lo spero proprio. Comunque, mi sa che vado a casa presto oggi."

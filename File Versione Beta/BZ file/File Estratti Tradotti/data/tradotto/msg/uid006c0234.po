@@ -1,0 +1,235 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "488"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "980"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "13104"
+msgid "Noa"
+msgstr "Noa"
+
+msgctxt "13108"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13112"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "13116"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "13120"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13124"
+msgid "0"
+msgstr "0"
+
+msgctxt "13128"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13132"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "116_Noa"
+msgid "Don't expect an easy opponent, mister!"
+msgstr "Non credere che ti darò vinta facile, campione!"
+
+msgctxt "128_Player"
+msgid "Let's see what you've got, then."
+msgstr "Allora, vediamo cosa tiri fuori."
+
+msgctxt "140_Noa"
+msgid "Well, shall we go in?"
+msgstr "Beh, entriamo?"
+
+msgctxt "164_Noa"
+msgid "Don't expect an easy opponent, mister!"
+msgstr "Non credere che ti darò vinta facile, campione!"
+
+msgctxt "176_Noa"
+msgid "Let's head in."
+msgstr "Dai, entriamo."
+
+msgctxt "188_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr "Uhm, aspetta un attimo. Pensavo di avere più grana di così..."
+
+msgctxt "200_Noa"
+msgid "Huh!? Really?"
+msgstr "Eh!? Davvero?"
+
+msgctxt "212_Player"
+msgid "Yeah. Sorry..."
+msgstr "Sì. Scusa..."
+
+msgctxt "224_Noa"
+msgid ""
+"Oh. Well, that's too bad. This'll be the end of our date then. See you "
+"around."
+msgstr ""
+"Oh. Beh, che peccato. Il nostro appuntamento finisce qui, allora. Ci si "
+"vede."
+
+msgctxt "236_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+"(Meglio che mi ricordi di portare abbastanza grana la prossima volta...)"
+
+msgctxt "344_Noa"
+msgid ""
+"My, my! You're a real pro at darts, aren't you? <Color:7>♥<Color:Default>"
+msgstr ""
+"Caspita! Sei proprio un asso a freccette, eh? <Color:7>♥<Color:Default>"
+
+msgctxt "356_Player"
+msgid "You could say that."
+msgstr "Diciamo così."
+
+msgctxt "368_Noa"
+msgid "This was a lot of fun. I'll see you around!"
+msgstr "È stato proprio divertente. Ci vediamo in giro!"
+
+msgctxt "392_Noa"
+msgid "Haha. We tied."
+msgstr "Ahah. Abbiamo pareggiato."
+
+msgctxt "404_Player"
+msgid "I guess so."
+msgstr "Immagino di sì."
+
+msgctxt "416_Noa"
+msgid "I had fun today. I'll see you soon at the club."
+msgstr "Mi sono divertito oggi. Ci vediamo presto al club."
+
+msgctxt "440_Noa"
+msgid "Too bad! Looks like I won this time. <Color:7>♥<Color:Default>"
+msgstr "Peccato! Direi che ho vinto io stavolta. <Color:7>♥<Color:Default>"
+
+msgctxt "452_Player"
+msgid "I just had a bit of bad luck..."
+msgstr "Ho avuto solo un po' di sfiga..."
+
+msgctxt "464_Noa"
+msgid "I had fun today. I'll see you at the club soon."
+msgstr "Mi sono divertito oggi. Ci vediamo presto al club."
+
+msgctxt "572_Noa"
+msgid "Don't expect an easy opponent, mister!"
+msgstr "Non credere che ti darò vinta facile, campione!"
+
+msgctxt "584_Player"
+msgid "Let's see what you've got, then."
+msgstr "Allora, vediamo cosa tiri fuori."
+
+msgctxt "596_Noa"
+msgid "Well, shall we go in?"
+msgstr "Beh, entriamo?"
+
+msgctxt "620_Noa"
+msgid "All right! Let's do our best!"
+msgstr "Dai! Diamo il massimo!"
+
+msgctxt "632_Noa"
+msgid "Let's head in."
+msgstr "Dai, entriamo."
+
+msgctxt "644_Player"
+msgid "Um, wait a moment. I thought I had more cash than this..."
+msgstr "Uhm, aspetta un attimo. Pensavo di avere più grana di così..."
+
+msgctxt "656_Noa"
+msgid "Huh!? Really?"
+msgstr "Eh!? Davvero?"
+
+msgctxt "668_Player"
+msgid "Yeah. Sorry..."
+msgstr "Sì. Scusa..."
+
+msgctxt "680_Noa"
+msgid ""
+"Oh. Well, that's too bad. This'll be the end of our date then. See you "
+"around."
+msgstr ""
+"Oh. Beh, che peccato. Il nostro appuntamento finisce qui, allora. Ci si "
+"vede."
+
+msgctxt "692_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+"(Meglio che mi ricordi di portare abbastanza grana la prossima volta...)"
+
+msgctxt "800_Noa"
+msgid ""
+"My, my! You're a real pro at darts, aren't you? <Color:7>♥<Color:Default>"
+msgstr ""
+"Caspita! Sei proprio un asso a freccette, eh? <Color:7>♥<Color:Default>"
+
+msgctxt "812_Player"
+msgid "You could say that."
+msgstr "Diciamo così."
+
+msgctxt "824_Noa"
+msgid "This was a lot of fun. Shall we head to the club?"
+msgstr ""
+"È stato uno spasso.\n"
+"Andiamo al club?"
+
+msgctxt "836_Player"
+msgid "Sounds good."
+msgstr "Perfetto."
+
+msgctxt "860_Noa"
+msgid "Haha. We tied."
+msgstr "Ahah. Abbiamo pareggiato."
+
+msgctxt "872_Player"
+msgid "I guess so."
+msgstr "Immagino di sì."
+
+msgctxt "884_Noa"
+msgid "I had fun today. Let's head to the club."
+msgstr "Mi sono divertito oggi. Andiamo al club."
+
+msgctxt "896_Player"
+msgid "Sounds good."
+msgstr "Perfetto."
+
+msgctxt "920_Noa"
+msgid "Too bad! Looks like I won this time. <Color:7>♥<Color:Default>"
+msgstr "Peccato! Direi che ho vinto io stavolta. <Color:7>♥<Color:Default>"
+
+msgctxt "932_Player"
+msgid "I just had a bit of bad luck..."
+msgstr "Ho avuto solo un po' di sfiga..."
+
+msgctxt "944_Noa"
+msgid "I had fun today. Shall we head to the club now?"
+msgstr "Mi sono divertito un mondo oggi. Andiamo al club adesso?"
+
+msgctxt "956_Player"
+msgid "Sounds good."
+msgstr "Perfetto."

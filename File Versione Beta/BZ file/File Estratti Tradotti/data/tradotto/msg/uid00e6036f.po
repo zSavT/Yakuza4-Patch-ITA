@@ -1,0 +1,125 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3920"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "3924"
+msgid "Nadine"
+msgstr "Nadine"
+
+msgctxt "3928"
+msgid "Saki-chan"
+msgstr "Saki-chan"
+
+msgctxt "3932"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3936"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "3940"
+msgid "P_tan_stand"
+msgstr "P_tan_stand"
+
+msgctxt "3944"
+msgid "P_tan_sitsofa_tlk_kamae_ed"
+msgstr "P_tan_sitsofa_tlk_kamae_ed"
+
+msgctxt "68_Tanimura"
+msgid "So, you're Nadine?"
+msgstr "Allora, sei Nadine?"
+
+msgctxt "80_Nadine"
+msgid "Yes..."
+msgstr "Sì..."
+
+msgctxt "92_Saki-chan"
+msgid "He says he's here to help you, dear."
+msgstr "Dice che è qui per darti una mano, tesoro."
+
+msgctxt "104_Nadine"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "116_Tanimura"
+msgid "Yep. Had a heck of a time trying to find you, too. Nice work."
+msgstr "Già. Ho fatto una fatica boia a trovarti anch'io. Bel lavoro."
+
+msgctxt "128_Saki-chan"
+msgid ""
+"She's not out of trouble just yet. Those creeps have her\r\n"
+"passport, and she can't get home without it."
+msgstr ""
+"Non è ancora fuori dai guai. Quei viscidoni hanno il suo\n"
+"passaporto, e senza non può tornare a casa."
+
+msgctxt "140_Tanimura"
+msgid "You mean... the human traffickers?"
+msgstr "Vuoi dire... i trafficanti di esseri umani?"
+
+msgctxt "152_Saki-chan"
+msgid ""
+"I take it you've run into them already. Well, it's not only\r\n"
+"trafficking they do. They're in charge of managing the\r\n"
+"women they bring in, too."
+msgstr ""
+"Immagino che li hai già beccati. Beh, non è solo\n"
+"la tratta che fanno. Si occupano anche di gestire le\n"
+"donne che si portano dietro."
+
+msgctxt "164_Tanimura"
+msgid "Managing? In what sense?"
+msgstr "Gestire? Cioè, in che senso?"
+
+msgctxt "176_Saki-chan"
+msgid ""
+"They take the women's passports so they can't escape, and\r\n"
+"then give them just enough money to eke out a meager living.\r\n"
+"They're essentially modern-day slave drivers."
+msgstr ""
+"Prendono i passaporti delle donne così non possono scappare, e\n"
+"poi gli danno appena abbastanza soldi per campare alla meno peggio.\n"
+"Sono praticamente degli aguzzini dei giorni nostri."
+
+msgctxt "188_Tanimura"
+msgid ""
+"Ugh... That's terrible. I hate bastards like that the most.\r\n"
+"You have any idea where they are?"
+msgstr ""
+"Ugh... È uno schifo. Odio i bastardi come quelli più di tutti.\n"
+"Hai idea di dove siano?"
+
+msgctxt "200_Saki-chan"
+msgid "In a dilapidated food warehouse on the docks."
+msgstr "In un magazzino alimentare fatiscente sui moli."
+
+msgctxt "212_Nadine"
+msgid "I want go home to the Philippines..."
+msgstr "Voglio tornare a casa nelle Filippine..."
+
+msgctxt "224_Tanimura"
+msgid "Don't worry. I'll get your passport back."
+msgstr "Non preoccuparti. Ti recupererò il passaporto."
+
+msgctxt "236_Nadine"
+msgid "You will!?"
+msgstr "Lo farai!?"
+
+msgctxt "248_Tanimura"
+msgid "Yup. Just leave it to me."
+msgstr "Tranquillo. Ci penso io."

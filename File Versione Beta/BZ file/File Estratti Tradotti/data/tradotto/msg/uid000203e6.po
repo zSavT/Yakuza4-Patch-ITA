@@ -1,0 +1,101 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2928"
+msgid "Kido"
+msgstr "Kido"
+
+msgctxt "2932"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2936"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2940"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2944"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "88_Kido"
+msgid "From what I know, he pays homeless people to gather intel."
+msgstr "Da quello che so, paga i senzatetto per raccogliere informazioni."
+
+msgctxt "100_Kido"
+msgid "Your best bet might be asking them."
+msgstr "La cosa migliore potrebbe essere chiedere a loro."
+
+msgctxt "148_Kido"
+msgid "Oh yeah, let me tell you what I know about that informant."
+msgstr "Ah sì, lascia che ti dica quello che so di quell'informatore."
+
+msgctxt "160_Saejima"
+msgid "I'm all ears."
+msgstr "Sono tutt'orecchi."
+
+msgctxt "172_Kido"
+msgid ""
+"They say he keeps tabs on everything that happens\r\n"
+"in Kamurocho, past and present."
+msgstr ""
+"Dicono che tenga sotto controllo tutto ciò che accade\r\n"
+"a Kamurocho, passato e presente."
+
+msgctxt "184_Kido"
+msgid ""
+"I don't know who the guy is or how he knows what he knows,\r\n"
+"but word on the street is there's not much he doesn't."
+msgstr ""
+"Non so chi sia quel tizio o come sappia quello che sa,\r\n"
+"ma si dice in giro che non c'è molto che non sappia."
+
+msgctxt "196_Saejima"
+msgid "Wonder how much of it's just rumor."
+msgstr "Mi chiedo quante siano solo voci."
+
+msgctxt "208_Kido"
+msgid ""
+"I'm just telling you what I've overheard. Apparently,\r\n"
+"he pays homeless people to gather his intel."
+msgstr ""
+"Ti sto solo dicendo quello che ho sentito. A quanto pare,\r\n"
+"paga i senzatetto per raccogliere le sue informazioni."
+
+msgctxt "220_Kido"
+msgid "You might have the best luck asking them about him."
+msgstr "Potresti avere più fortuna chiedendo a loro di lui."
+
+msgctxt "232_Kido"
+msgid "Oh, I almost forgot."
+msgstr "Oh, quasi dimenticavo."
+
+msgctxt "244_Saejima"
+msgid "Forgot what?"
+msgstr "Dimenticato cosa?"
+
+msgctxt "256_Kido"
+msgid ""
+"The streets are practically crawling with cops today.\r\n"
+"Better watch yourself out there."
+msgstr ""
+"Le strade oggi pullulano di sbirri.\r\n"
+"Meglio che tu stia attento là fuori."
+
+msgctxt "268_Saejima"
+msgid "Alright."
+msgstr "Va bene."

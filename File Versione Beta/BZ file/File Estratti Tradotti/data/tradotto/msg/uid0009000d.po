@@ -1,0 +1,58 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1120"
+msgid "Tired Subordinate"
+msgstr "Subordinato Stanco"
+
+msgctxt "1124"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1128"
+msgid "Energetic Superior"
+msgstr "Superiore Energico"
+
+msgctxt "1132"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "84_Tired Subordinate"
+msgid "*sigh* Why do I always feel so tired?"
+msgstr "*sospiro* Perché mi sento sempre così stanco?"
+
+msgctxt "96_Energetic Superior"
+msgid ""
+"You eating right? Wanna grab an onigiri over at that convenience store?"
+msgstr "Mangi bene? Vuoi prendere un onigiri in quel minimarket?"
+
+msgctxt "108_Tired Subordinate"
+msgid ""
+"Naw, I'm not hungry. I just stayed up all night watching this TV show. I'm "
+"super hooked on it."
+msgstr ""
+"No, non ho fame. Sono solo rimasto sveglio tutta la notte a guardare questa "
+"serie TV. Sono super preso."
+
+msgctxt "120_Energetic Superior"
+msgid ""
+"In that case, you should grab one of those energy drinks. You know, like "
+"Tauriner or Staminan. Those'll perk you up."
+msgstr ""
+"In tal caso, dovresti prendere una di quelle bevande energetiche. Sai, tipo "
+"Tauriner o Staminan. Ti rimetteranno in sesto."
+
+msgctxt "132_Tired Subordinate"
+msgid "Yeah, maybe I'll get one later."
+msgstr "Sì, magari ne prendo una più tardi."

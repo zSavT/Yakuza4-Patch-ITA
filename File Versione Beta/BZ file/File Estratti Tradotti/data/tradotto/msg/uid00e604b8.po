@@ -1,0 +1,51 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1344"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1348"
+msgid "Katsuura"
+msgstr "Katsuura"
+
+msgctxt "1352"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "56_Tanimura"
+msgid "26 years ago, you murdered a detective named Kaga, didn't you?"
+msgstr "26 anni fa, hai ammazzato un detective di nome Kaga, no?"
+
+msgctxt "68_Katsuura"
+msgid "And? What about it?"
+msgstr "E? E allora?"
+
+msgctxt "80_Tanimura"
+msgid ""
+"He was one of your own, wasn't he? Why'd you have to kill\r\n"
+"him over something so trivial as running away with the\r\n"
+"woman he loved?"
+msgstr ""
+"Era uno dei vostri, no? Perché dovevate farlo fuori\n"
+"per una cosa così da niente come scappare con la\n"
+"donna che amava?"
+
+msgctxt "92_Katsuura"
+msgid "Don't come any closer!"
+msgstr "Non avvicinarti!"
+
+msgctxt "104_Tanimura"
+msgid "Wait!"
+msgstr "Aspetta!"

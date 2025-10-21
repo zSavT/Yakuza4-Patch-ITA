@@ -1,0 +1,105 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2812"
+msgid "Arai"
+msgstr "Arai"
+
+msgctxt "2816"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "2820"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2824"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "2828"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "2832"
+msgid "Phone_st"
+msgstr "Phone_st"
+
+msgctxt "2836"
+msgid "Phone_ed"
+msgstr "Phone_ed"
+
+msgctxt "2840"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2844"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "2848"
+msgid "P_damage"
+msgstr "P_damage"
+
+msgctxt "2852"
+msgid "p_dam_lp"
+msgstr "p_dam_lp"
+
+msgctxt "56_Arai"
+msgid "Sorry to drag you into this, Akiyama-san."
+msgstr "Mi spiace averti coinvolto in questo, Akiyama-san."
+
+msgctxt "68_Akiyama"
+msgid "Pretty sure it's the other way around, isn't it?"
+msgstr "Sono abbastanza sicuro che sia il contrario, no?"
+
+msgctxt "80_Arai"
+msgid "No. Don't think I don't know what you're up to."
+msgstr "No. Non pensare che non sappia cosa stai combinando."
+
+msgctxt "92_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "116_Arai"
+msgid "Hello... What? Don't worry, I'll find them."
+msgstr "Pronto... Cosa? Non preoccuparti, li troverò."
+
+msgctxt "140_Akiyama"
+msgid "Kido-chan?"
+msgstr "Kido-chan?"
+
+msgctxt "152_Arai"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "164_Akiyama"
+msgid "Figured."
+msgstr "Immaginavo."
+
+msgctxt "176_Arai"
+msgid "I've got some business to tend to."
+msgstr "Ho degli affari di cui occuparmi."
+
+msgctxt "188_Akiyama"
+msgid ""
+"Right... Well, give my regards to Kanemura-san. And make\r\n"
+"sure he remembers his loan terms while you're at it."
+msgstr ""
+"Giusto... Bene, porgi i miei saluti a Kanemura-san. E assicurati\r\n"
+"che si ricordi i termini del suo prestito già che ci sei."
+
+msgctxt "200_Arai"
+msgid "Very well."
+msgstr "Molto bene."

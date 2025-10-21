@@ -1,0 +1,302 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "9396"
+msgid "Tadashi"
+msgstr "Tadashi"
+
+msgctxt "9400"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "9404"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "9408"
+msgid "Tadokoro's Subordinate"
+msgstr "Uomo di Tadokoro"
+
+msgctxt "9412"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "9416"
+msgid "P_sae_stand_tlk_udekumi_st"
+msgstr "P_sae_stand_tlk_udekumi_st"
+
+msgctxt "9420"
+msgid "P_sae_stand_tlk_udekumi_no"
+msgstr "P_sae_stand_tlk_udekumi_no"
+
+msgctxt "9424"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "9428"
+msgid "P_sae_stand_tlk_udekumi_ed"
+msgstr "P_sae_stand_tlk_udekumi_ed"
+
+msgctxt "9432"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "9436"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "9440"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "9444"
+msgid "0"
+msgstr "0"
+
+msgctxt "9448"
+msgid "M_cld_sitsofa_tlk_kamae"
+msgstr "M_cld_sitsofa_tlk_kamae"
+
+msgctxt "9452"
+msgid "M_cld_stand"
+msgstr "M_cld_stand"
+
+msgctxt "9456"
+msgid "M_cld_stand_tlk_kamae"
+msgstr "M_cld_stand_tlk_kamae"
+
+msgctxt "9460"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "9464"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "80_Tadashi"
+msgid "Zzz... Akiko..."
+msgstr "Zzz... Akiko..."
+
+msgctxt "92_Saejima"
+msgid "(Kid even talks about his big sis in his sleep. Must be real worried.)"
+msgstr ""
+"(Il ragazzo parla persino della sorella maggiore nel sonno. Deve essere "
+"davvero preoccupato.)"
+
+msgctxt "104_Saejima"
+msgid ""
+"(Yasuko was about his age when I beat the piss outta that relative of ours "
+"and we began livin' on our lonesome.)"
+msgstr ""
+"(Yasuko aveva circa la sua età quando ho pestato a sangue quel nostro "
+"parente e abbiamo iniziato a vivere per conto nostro.)"
+
+msgctxt "116_Saejima"
+msgid "(I remember her mutterin' my name in her sleep, too.)"
+msgstr "(Ricordo che mormorava il mio nome nel sonno, pure.)"
+
+msgctxt "140_Saejima"
+msgid "Who's there?"
+msgstr "Chi va là?"
+
+msgctxt "152_Tadokoro's Subordinate"
+msgid "I have a message from Tadokoro."
+msgstr "Ho un messaggio da Tadokoro."
+
+msgctxt "164_Saejima"
+msgid "Come in."
+msgstr "Avanti."
+
+msgctxt "188_Tadokoro's Subordinate"
+msgid "We have a job for you, Suzuki-san."
+msgstr "Abbiamo un lavoretto per te, Suzuki-san."
+
+msgctxt "200_Saejima"
+msgid "Great. Lemme hear it."
+msgstr "Ottimo. Spara."
+
+msgctxt "212_Tadokoro's Subordinate"
+msgid "Very well, allow me to explain."
+msgstr "Molto bene, permettimi di spiegare."
+
+msgctxt "224_Tadokoro's Subordinate"
+msgid ""
+"Your assignment will be to chase out the... undesirables\r\n"
+"who are squatting in a building down Nakamichi Alley."
+msgstr ""
+"Il tuo incarico sarà di sgomberare quegli... indesiderabili\n"
+"che si sono piazzati in uno stabile in Nakamichi Alley."
+
+msgctxt "236_Saejima"
+msgid "That it? Easy peasy."
+msgstr "Solo questo? Una cazzata."
+
+msgctxt "248_Tadokoro's Subordinate"
+msgid ""
+"Indeed, you need only force them to vacate the premises.\r\n"
+"On the other hand, they number in the dozens－about 30.\r\n"
+"Do you still think it'll be \"easy peasy\"?"
+msgstr ""
+"In effetti, ti basta solo sloggiarli dai locali.\n"
+"D'altra parte, sono a decine — una trentina.\n"
+"Pensi ancora che sarà \"un gioco da ragazzi\"?"
+
+msgctxt "260_Saejima"
+msgid "Eh, I'll figure somethin' out."
+msgstr "Eh, ci penso io."
+
+msgctxt "272_Tadokoro's Subordinate"
+msgid ""
+"Oh really. Against 30 some-odd assailants? Very well.\r\n"
+"Then allow me to make an additional request."
+msgstr ""
+"Ah, sì. Contro una trentina e passa di assalitori? Molto bene.\n"
+"Allora mi permetta di fare un'ulteriore richiesta."
+
+msgctxt "284_Saejima"
+msgid "Spit it out."
+msgstr "Sputa il rospo."
+
+msgctxt "296_Tadokoro's Subordinate"
+msgid ""
+"We would like you to apprehend their ringleader\r\n"
+"and hand him over to us."
+msgstr ""
+"Vorremmo che tu mettessi le mani sul loro capobanda\n"
+"e ce lo consegnassi."
+
+msgctxt "308_Saejima"
+msgid "What for?"
+msgstr "Per cosa?"
+
+msgctxt "320_Tadokoro's Subordinate"
+msgid "It can't hurt to learn who's putting these punks up to it."
+msgstr ""
+"Male non fa scoprire chi muove i fili dietro a questi quattro sfigati."
+
+msgctxt "332_Saejima"
+msgid "Gotcha. So how much am I gettin' paid for this?"
+msgstr "Capito. Allora, quanto becco per sta roba?"
+
+msgctxt "344_Tadokoro's Subordinate"
+msgid "Your payment will be one million yen."
+msgstr "Il tuo pagamento sarà un milione di yen."
+
+msgctxt "356_Saejima"
+msgid "Nice round number."
+msgstr "Una bella cifra tonda."
+
+msgctxt "368_Tadokoro's Subordinate"
+msgid ""
+"It's commensurate with the danger this job entails.\r\n"
+"Although I doubt it will pose any trouble at all\r\n"
+"for a man with your credentials. Heh."
+msgstr ""
+"È proporzionato al casino che comporta 'sto lavoretto.\n"
+"Anche se dubito ti darà il minimo fastidio\n"
+"per uno del tuo calibro. Heh."
+
+msgctxt "380_Saejima"
+msgid "Enough with the bullshit. Where's this building at?"
+msgstr "Basta con le stronzate. Dov'è 'sto edificio?"
+
+msgctxt "392_Tadokoro's Subordinate"
+msgid ""
+"In Nakamichi Alley, across from Orchid Palace Mahjong.\r\n"
+"Just look for their bottom-feeders loitering outside."
+msgstr ""
+"A Nakamichi Alley, di fronte all'Orchid Palace Mahjong.\n"
+"Cerca solo i loro scagnozzi che bazzicano fuori."
+
+msgctxt "404_Tadokoro's Subordinate"
+msgid "Please don't forget to capture their leader... alive."
+msgstr "Mi raccomando, cattura il loro capo... vivo."
+
+msgctxt "416_Saejima"
+msgid "I won't. Just across from Orchid Palace Mahjong, yeah?"
+msgstr ""
+"Non mi tiro indietro. Proprio di fronte all'Orchid Palace Mahjong, sì?"
+
+msgctxt "428_Tadokoro's Subordinate"
+msgid "Quite right. Godspeed, Suzuki-san."
+msgstr "Proprio così. In bocca al lupo, Suzuki-san."
+
+msgctxt "488_Saejima"
+msgid "Hmm. Wonder what crap I'm gettin' myself into here."
+msgstr "Hmm. Chissà in che merda mi sto cacciando qui."
+
+msgctxt "500_Tadashi"
+msgid "Big guy, are you really going to take that job?"
+msgstr "Boss, sei davvero sicuro di volerti prendere 'sto incarico?"
+
+msgctxt "512_Saejima"
+msgid "Hey there, Tadashi. Didn't know you were awake."
+msgstr "Ehi, Tadashi. Non sapevo fossi sveglio."
+
+msgctxt "524_Tadashi"
+msgid "The knocking woke me up."
+msgstr "I colpi mi hanno svegliato."
+
+msgctxt "536_Saejima"
+msgid "Good timing. Watch the place for me, will ya?"
+msgstr "Ottimo tempismo. Tienimi d'occhio il posto, eh?"
+
+msgctxt "548_Tadashi"
+msgid "I'm coming too."
+msgstr "Vengo anch'io."
+
+msgctxt "560_Saejima"
+msgid "No way."
+msgstr "Ma va."
+
+msgctxt "572_Tadashi"
+msgid ""
+"But I can't sit around doing nothing while you're out\r\n"
+"doing all these dangerous things for me."
+msgstr ""
+"Ma non posso starmene a far niente mentre tu sei là fuori\n"
+"a fare tutte queste robe pericolose per me."
+
+msgctxt "584_Saejima"
+msgid "Frankly, kid, if ya came with me you'd just get in my way."
+msgstr ""
+"A dire il vero, ragazzo, se venissi con me mi saresti solo d'impiccio."
+
+msgctxt "596_Tadashi"
+msgid "Aww, man..."
+msgstr "Ah, cavolo..."
+
+msgctxt "608_Saejima"
+msgid "Just relax and think about seein' your sis again, alright?"
+msgstr "Stai tranquillo e pensa a rivedere tua sorella, ok?"
+
+msgctxt "620_Tadashi"
+msgid "All right, big guy..."
+msgstr "Va bene, omone..."
+
+msgctxt "632_Saejima"
+msgid "I'll be back real quick. Keep an eye on the joint."
+msgstr "Faccio un salto e torno. Occhio al posto."
+
+msgctxt "644_Tadashi"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "656_Saejima"
+msgid ""
+"(So I'm lookin' for a building near Orchid Palace Mahjong, in Nakamichi "
+"Alley. Guess I'd better get to it.)"
+msgstr ""
+"(Dunque, sto cercando un edificio vicino all'Orchid Palace Mahjong, a "
+"Nakamichi Alley. Meglio che mi ci dia una mossa.)"

@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2272"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "2276"
+msgid "Takasu"
+msgstr "Takasu"
+
+msgctxt "2280"
+msgid "Tadashi"
+msgstr "Tadashi"
+
+msgctxt "2284"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "2288"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "2292"
+msgid "Fuse"
+msgstr "Fuse"
+
+msgctxt "2296"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2300"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2304"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "80_Takasu"
+msgid "What's all the commotion? You two. What business do you have with me?"
+msgstr "Cos'è tutto 'sto casino? Voi due. Che avete da spartire con me?"
+
+msgctxt "92_Tadashi"
+msgid "So you're Takasu! My sister... Gimme back my sister!"
+msgstr "Allora sei tu, Takasu! Mia sorella... Ridammela, mia sorella!"
+
+msgctxt "104_Takasu"
+msgid "I beg your pardon?"
+msgstr "Come scusi?"
+
+msgctxt "128_Fuse"
+msgid "Please, sir, leave this to me."
+msgstr "La prego, signore, lasci fare a me."
+
+msgctxt "152_Saejima"
+msgid "Get behind me, Tadashi."
+msgstr "Mettiti dietro di me, Tadashi."
+
+msgctxt "176_Fuse"
+msgid ""
+"I don't know what you want, but don't think you can\r\n"
+"smash up a yakuza office and waltz right on out again."
+msgstr ""
+"Non so cosa pretendi, ma non pensare di poter\n"
+"spaccare un ufficio yakuza e poi filartela."
+
+msgctxt "188_Saejima"
+msgid "Don't worry. I ain't waltzin' nowhere."
+msgstr "Non ti preoccupare. Non me la svigno da nessuna parte."

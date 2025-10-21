@@ -1,0 +1,40 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "672"
+msgid "Eyewitness"
+msgstr "Testimone oculare"
+
+msgctxt "676"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "84_Eyewitness"
+msgid "Something suspicious about those two..."
+msgstr "C'è qualcosa di losco in quei due..."
+
+msgctxt "96_Tanimura"
+msgid "What happened?"
+msgstr "Cosa è successo?"
+
+msgctxt "108_Eyewitness"
+msgid ""
+"Some guy in black arguing with a pretty girl. They went into the alley."
+msgstr ""
+"Un tizio in nero che litigava con una bella ragazza. Si sono infilati nel "
+"vicolo."
+
+msgctxt "120_Eyewitness"
+msgid "I wonder what it was about..."
+msgstr "Chissà di cosa si trattasse..."

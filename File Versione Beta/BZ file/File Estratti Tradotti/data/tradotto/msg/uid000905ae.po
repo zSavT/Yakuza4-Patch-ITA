@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "764"
+msgid "Yakuza Grunt"
+msgstr "Scagnozzo yakuza"
+
+msgctxt "768"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "772"
+msgid "Random Thug"
+msgstr "Scagnozzo a caso"
+
+msgctxt "776"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "84_Yakuza Grunt"
+msgid ""
+"This ain't some little bullshit sting. Not with all those\r\n"
+"boys pouring in there."
+msgstr ""
+"Questa non è mica una cazzata qualsiasi. Non con tutti quei\n"
+"ragazzi che si stanno riversando lì."
+
+msgctxt "96_Random Thug"
+msgid "Yeah... Looked like they were ready to kill, too."
+msgstr "Già... Pareva che fossero pronti ad ammazzare, pure."
+
+msgctxt "108_Yakuza Grunt"
+msgid ""
+"Pretty sure they were Ueno Seiwa. Saw a friend of mine in\r\n"
+"the crowd."
+msgstr ""
+"Mi sa che erano della Ueno Seiwa. Ho visto un mio socio in mezzo\\nalla "
+"folla."
+
+msgctxt "120_Random Thug"
+msgid "You think a war's breaking out?"
+msgstr "Credi che stia per scoppiare una guerra?"

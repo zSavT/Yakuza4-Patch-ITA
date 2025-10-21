@@ -1,0 +1,129 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3688"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "3692"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "3696"
+msgid "望月京子：源氏名"
+msgstr "望月京子：源氏名"
+
+msgctxt "3700"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3704"
+msgid "Run_Start_R180"
+msgstr "Run_Start_R180"
+
+msgctxt "3708"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "3712"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "3716"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "3720"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "3724"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr "F_sxy_stand_sync_dakitukiA_st"
+
+msgctxt "3728"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr "P_stand_sync_dakitukiA_st"
+
+msgctxt "56_Kiryu"
+msgid "Here you go."
+msgstr "Ecco a lei."
+
+msgctxt "68_望月京子：源氏名"
+msgid "Thank you! Sorry, I gotta rush. I'll thank you properly later!"
+msgstr "Grazie! Scusa, devo scappare. Ti ringrazierò come si deve più tardi!"
+
+msgctxt "80_Kiryu"
+msgid "Sure. Go ahead."
+msgstr "Certo. Vai pure."
+
+msgctxt "164_Kiryu"
+msgid "Too bad. You almost got the grand prize."
+msgstr "Peccato. Hai quasi vinto il gran premio."
+
+msgctxt "176_望月京子：源氏名"
+msgid "Second place is still good. Thanks for being there for me."
+msgstr "Il secondo posto non è mica male. Grazie per essermi stato vicino."
+
+msgctxt "188_Kiryu"
+msgid "You'll get your big break soon. Don't give up."
+msgstr "Presto arriverà la tua grande occasione. Non mollare."
+
+msgctxt "200_望月京子：源氏名"
+msgid "I won't..."
+msgstr "Non..."
+
+msgctxt "212_望月京子：源氏名"
+msgid "By the way, I still need to thank you for getting my guitar back."
+msgstr ""
+"Tra l'altro, ti devo ancora ringraziare per avermi recuperato la chitarra."
+
+msgctxt "224_Kiryu"
+msgid "Don't worry about it."
+msgstr "Non preoccupartene."
+
+msgctxt "236_望月京子：源氏名"
+msgid "No, if it wasn't for your support, I could've given up already."
+msgstr "No, se non fosse stato per il tuo supporto, avrei già mollato."
+
+msgctxt "248_望月京子：源氏名"
+msgid "I might've quit music altogether, started doing who knows what..."
+msgstr ""
+"Avrei potuto mollare del tutto la musica, e mettermi a fare chissà cosa..."
+
+msgctxt "260_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "272_望月京子：源氏名"
+msgid "But as soon as I stepped on that stage, I just knew music was my life!"
+msgstr ""
+"Ma appena sono salita su quel palco, ho capito all'istante che la musica era"
+" la mia vita!"
+
+msgctxt "284_望月京子：源氏名"
+msgid "I can't give up on it, it's my passion!"
+msgstr "Non posso rinunciarci, è la mia passione!"
+
+msgctxt "296_望月京子：源氏名"
+msgid ""
+"You helped me realize that. I really want to thank you for all you've done "
+"for me. That's not a problem, is it?"
+msgstr ""
+"Mi hai fatto capire questo. Ti voglio proprio ringraziare per tutto quello "
+"che hai fatto per me. Non è un problema, vero?"
+
+msgctxt "308_Kiryu"
+msgid "No..."
+msgstr "No..."

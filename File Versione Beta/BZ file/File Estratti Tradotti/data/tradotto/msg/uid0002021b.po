@@ -1,0 +1,97 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5524"
+msgid "17：00　沖縄第弐刑務所　食堂"
+msgstr "17:00 Carcere N. 2 di Okinawa Mensa"
+
+msgctxt "5528"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "5532"
+msgid "0"
+msgstr "0"
+
+msgctxt "5536"
+msgid "P_sitchr_tlk_kamae"
+msgstr "P_sitchr_tlk_kamae"
+
+msgctxt "5540"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "5544"
+msgid "Inmate"
+msgstr "Detenuto"
+
+msgctxt "5548"
+msgid "M_ykz_sitchr"
+msgstr "M_ykz_sitchr"
+
+msgctxt "5552"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "5556"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "5560"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "116_Inmate"
+msgid "What the..."
+msgstr "Ma cosa...?"
+
+msgctxt "128_Inmate"
+msgid "Aren't you... Taiga Saejima?"
+msgstr "Non sei tu... Taiga Saejima?"
+
+msgctxt "164_Inmate"
+msgid "Hm..."
+msgstr "Mh..."
+
+msgctxt "176_Inmate"
+msgid "It really is you, isn't it?"
+msgstr "Sei davvero tu, non è vero?"
+
+msgctxt "188_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "200_Inmate"
+msgid "Holy shit. Saejima, the stone-cold hitman? You're a friggin' legend!"
+msgstr "Cazzo. Saejima, il sicario spietato? Sei una fottuta leggenda!"
+
+msgctxt "212_Inmate"
+msgid "Ain't that right, fellas?"
+msgstr "Non è così, ragazzi?"
+
+msgctxt "236_Saejima"
+msgid "I'm not a hitman."
+msgstr "Non sono un sicario."
+
+msgctxt "248_Inmate"
+msgid "Say what?"
+msgstr "Come hai detto?"
+
+msgctxt "260_Saejima"
+msgid "I said, I ain't no hitman."
+msgstr "Ho detto, non sono un sicario."
+
+msgctxt "284_Inmate"
+msgid "Uh, guys? What's going on here?"
+msgstr "Uh, ragazzi? Che succede qui?"

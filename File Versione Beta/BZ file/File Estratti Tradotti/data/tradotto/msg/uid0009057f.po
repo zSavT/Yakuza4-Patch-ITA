@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1000"
+msgid "Boyfriend"
+msgstr "Fidanzato"
+
+msgctxt "1004"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1008"
+msgid "Girlfriend"
+msgstr "Fidanzata"
+
+msgctxt "1012"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "1016"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1020"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "84_Boyfriend"
+msgid ""
+"What do you say we go play some golf? I hear you\r\n"
+"can play a round for pretty cheap these days."
+msgstr ""
+"Che ne dici di farci una partita a golf? Ho sentito dire che\n"
+"si può fare una partita per pochi spiccioli di questi tempi."
+
+msgctxt "96_Girlfriend"
+msgid "That does sound kinda nice. But isn't it a bit far?"
+msgstr "Sì, non sarebbe mica male. Però non è un po' lontano?"
+
+msgctxt "108_Boyfriend"
+msgid "Not if we take a taxi. We'd be there in no time."
+msgstr "Non se prendiamo un taxi. Ci saremmo in un baleno."
+
+msgctxt "120_Girlfriend"
+msgid "Yeah? Okay, then let's get going!"
+msgstr "Sì? Va bene, allora andiamo!"
+
+msgctxt "132_Boyfriend"
+msgid "You got it! We better hurry, 'cause the course closes at sundown."
+msgstr "Ottimo! Dobbiamo sbrigarci, perché il campo chiude al tramonto."

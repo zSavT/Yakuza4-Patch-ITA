@@ -1,0 +1,213 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "432"
+msgid "You handed over the <Color:8>Cigarette<Color:Default>."
+msgstr "Hai consegnato la <Color:8>Sigaretta<Color:Default>."
+
+msgctxt "456"
+msgid "You handed over the <Color:8>Lighter<Color:Default>."
+msgstr "Hai consegnato l'<Color:8>Accendino<Color:Default>."
+
+msgctxt "7612"
+msgid "Kawana"
+msgstr "Kawana"
+
+msgctxt "7616"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "7620"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "7624"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "7628"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "7632"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "7636"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "7640"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "7644"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "7648"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "84_Kawana"
+msgid ""
+"Need something, tough guy? If you're looking for trouble, take a look "
+"somewhere else."
+msgstr "Ti serve qualcosa, duro? Se cerchi guai, vai da un'altra parte."
+
+msgctxt "96_Saejima"
+msgid "Nah, I don't need nothin'."
+msgstr "No, non mi serve niente."
+
+msgctxt "108_Kawana"
+msgid "Then step your beefy ass back. We don't want anything to do with you."
+msgstr ""
+"Allora togli il tuo culone di mezzo. Non vogliamo avere niente a che fare "
+"con te."
+
+msgctxt "120_Saejima"
+msgid "I hear you work the farm here."
+msgstr "Ho sentito che lavori nella fattoria qui."
+
+msgctxt "132_Kawana"
+msgid ""
+"Yeah, they let me run the roost over a little patch, seeing as I'm always on"
+" such good behavior. What's it to you?"
+msgstr ""
+"Sì, mi lasciano gestire un piccolo appezzamento, visto che mi comporto "
+"sempre bene. Che te ne frega?"
+
+msgctxt "144_Saejima"
+msgid "Got a question for ya. You use a pitchfork or a hoe over there?"
+msgstr "Ho una domanda per te. Lì usi un forcone o una zappa?"
+
+msgctxt "156_Kawana"
+msgid "Sure do. Big ol' hoe, use it to turn the soil."
+msgstr "Certo. Una bella zappa grossa, la uso per rivoltare il terreno."
+
+msgctxt "168_Saejima"
+msgid "Mind if I borrow it from ya? Won't be long."
+msgstr "Ti dispiace se te la prendo in prestito? Non ci metterò molto."
+
+msgctxt "180_Kawana"
+msgid ""
+"Nah, man. The guards'll lose their shit if one of the tools goes missing. "
+"Besides, it's not like I keep 'em on me all day."
+msgstr ""
+"No, amico. Le guardie impazzirebbero se mancasse un attrezzo. E poi, non è "
+"che me li porto appresso tutto il giorno."
+
+msgctxt "192_Saejima"
+msgid "Please. I need it real bad."
+msgstr "Ti prego. Mi serve davvero."
+
+msgctxt "204_Kawana"
+msgid "Hm... And you promise it won't be long?"
+msgstr "Mmm... E prometti che non ci metterai molto?"
+
+msgctxt "216_Saejima"
+msgid "'Course."
+msgstr "Certo."
+
+msgctxt "228_Kawana"
+msgid "Fine, then. Bring me a smoke and I'll think about it."
+msgstr "Va bene, allora. Portami una sigaretta e ci penserò."
+
+msgctxt "240_Saejima"
+msgid "Where's a guy s'posed to score a cigarette in here?"
+msgstr "E dove dovrei trovare una sigaretta qui dentro?"
+
+msgctxt "252_Kawana"
+msgid ""
+"Not the commissary, that's for damn sure. Most guys I know get 'em smuggled "
+"in from the outside."
+msgstr ""
+"Non allo spaccio, questo è sicuro. La maggior parte dei tizi che conosco se "
+"le fa portare di contrabbando da fuori."
+
+msgctxt "264_Kawana"
+msgid ""
+"Anyway, get on it. I'll have that hoe ready by the time you scare up that "
+"smoke."
+msgstr ""
+"Comunque, datti da fare. Avrò la zappa pronta per quando troverai quella "
+"sigaretta."
+
+msgctxt "276_Saejima"
+msgid "(Guess I don't got a choice here...)"
+msgstr "(Credo di non avere scelta...)"
+
+msgctxt "312_Kawana"
+msgid "Score me a cigarette, and I'll think about lending you that hoe."
+msgstr "Trovami una sigaretta e penserò se prestarti quella zappa."
+
+msgctxt "324_Saejima"
+msgid "Here's your cigarette, man."
+msgstr "Ecco la tua sigaretta, amico."
+
+msgctxt "336_Kawana"
+msgid "Yeah? And how am I supposed to light it?"
+msgstr "Ah, sì? E come dovrei accenderla?"
+
+msgctxt "348_Kawana"
+msgid "No deal 'til you bring me a lighter."
+msgstr "Niente da fare finché non mi porti un accendino."
+
+msgctxt "360_Saejima"
+msgid "(...Great.)"
+msgstr "(...Fantastico.)"
+
+msgctxt "396_Kawana"
+msgid "No lighter, no hoe. Got that?"
+msgstr "Niente accendino, niente zappa. Capito?"
+
+msgctxt "408_Saejima"
+msgid "Here you go. Got your cigarette and lighter right here."
+msgstr "Ecco qua. Ho qui la tua sigaretta e il tuo accendino."
+
+msgctxt "420_Kawana"
+msgid "Heh, about time."
+msgstr "Eh, era ora."
+
+msgctxt "480_Saejima"
+msgid "Now let's have that hoe."
+msgstr "Ora dammi quella zappa."
+
+msgctxt "492_Kawana"
+msgid ""
+"Slow down there, big guy. I never said I was gonna give it to you. Just that"
+" I'd <Italic>think</Italic> about it."
+msgstr ""
+"Calma, bestione. Non ho mai detto che te l'avrei data. Solo che ci avrei "
+"<Italic>pensato</Italic>."
+
+msgctxt "504_Saejima"
+msgid "Then think harder. Or do I gotta rattle your brains a bit?"
+msgstr "Allora pensa più intensamente. O devo sbatterti un po' la testa?"
+
+msgctxt "516_Kawana"
+msgid ""
+"Are you seriously threatening me? <Italic>Me</Italic>? Man, you're just as "
+"dumb as you look."
+msgstr ""
+"Mi stai minacciando sul serio? <Italic>A me</Italic>? Amico, sei stupido "
+"quanto sembri."
+
+msgctxt "528_Saejima"
+msgid ""
+"Keep runnin' your mouth if ya want. Looks like there's only one way we're "
+"settlin' this."
+msgstr ""
+"Continua pure a parlare a vanvera, se vuoi. Sembra che ci sia un solo modo "
+"per risolvere la questione."

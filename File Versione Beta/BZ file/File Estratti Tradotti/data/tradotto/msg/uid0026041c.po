@@ -1,0 +1,80 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2620"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2624"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "2628"
+msgid "Date"
+msgstr "Appuntamento"
+
+msgctxt "2632"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "2636"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2640"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "56_Kiryu"
+msgid "Date, you mind if I borrow your stove?"
+msgstr "Date, ti dispiace se uso il tuo fornello?"
+
+msgctxt "68_Date"
+msgid "Help yourself. I never had you pegged for the cooking type, Kiryu."
+msgstr "Serviti pure. Non ti avrei mai immaginato ai fornelli, Kiryu."
+
+msgctxt "80_Kiryu"
+msgid "I don't have much choice. I have to heat up this curry."
+msgstr "Non è che abbia molta scelta. Mi tocca scaldare 'sto curry."
+
+msgctxt "104_Date"
+msgid "Well, have at it."
+msgstr "Beh, buttati pure."
+
+msgctxt "116_Kiryu"
+msgid "Thanks. It'll only take a second."
+msgstr "Grazie. Ci metto un attimo."
+
+msgctxt "140_Kiryu"
+msgid ""
+"You heated up the \"<Color:255,255,200,255>Large Curry Take-home "
+"Packs<Color:Default>.\""
+msgstr ""
+"Hai riscaldato i \"<Color:255,255,200,255>Grandi pacchi di curry da "
+"asporto<Color:Default>.\""
+
+msgctxt "188_Kiryu"
+msgid ""
+"Man, heating up that much curry took longer than I expected. Thanks, Date."
+msgstr ""
+"Accidenti, riscaldare tutto quel curry ci ha messo più tempo di quanto mi "
+"aspettassi. Grazie, Date."
+
+msgctxt "200_Date"
+msgid "Sure, no problem. Take care of yourself."
+msgstr "Certo, nessun problema. Riguardati."
+
+msgctxt "212_Kiryu"
+msgid "(I better hurry back to the construction site.)"
+msgstr "Farei meglio a sbrigarmi a tornare al cantiere."

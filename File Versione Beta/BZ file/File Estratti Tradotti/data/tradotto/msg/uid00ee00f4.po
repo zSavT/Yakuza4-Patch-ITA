@@ -1,0 +1,85 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1948"
+msgid "Employee"
+msgstr "Cameriere"
+
+msgctxt "1952"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1956"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "1960"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_Employee"
+msgid "Hello! Let's see... I'd recommend these items for you, sir."
+msgstr "Salve! Vediamo un po'... Le consiglierei questi articoli, signore."
+
+msgctxt "128_Player"
+msgid "Show me what you've got for sale."
+msgstr "Fammi vedere che roba hai in vendita."
+
+msgctxt "140_Employee"
+msgid ""
+"Equipment and weapons all have their strengths and weaknesses! That's why "
+"I've picked out a few that I think would interest you."
+msgstr ""
+"L'equipaggiamento e le armi hanno tutti i loro pregi e difetti! Ecco perché "
+"ti ho messo da parte qualche cosetta che, secondo me, potrebbe farti gola."
+
+msgctxt "164_Employee"
+msgid "Thank you, and come again."
+msgstr "Grazie, e torna a trovarci."
+
+msgctxt "176_Player"
+msgid "I've got some things to sell."
+msgstr "C'ho della roba da vendere."
+
+msgctxt "188_Employee"
+msgid ""
+"Sure thing. Let's see what you got there. But don't forget, used weapons are"
+" worth less than new weapons."
+msgstr ""
+"Certo. Vediamo un po' cosa c'hai lì. Ma non scordare, le armi usate valgono "
+"meno di quelle nuove."
+
+msgctxt "212_Employee"
+msgid "Thank you, and come again."
+msgstr "Grazie, e torna a trovarci."
+
+msgctxt "224_Player"
+msgid "Not right now."
+msgstr "Non adesso."
+
+msgctxt "236_Employee"
+msgid "Is that so? Well, please come again."
+msgstr "Ah, è così? Beh, torni a trovarci."
+
+msgctxt "248_Employee"
+msgid "I'm here to buy."
+msgstr "Sono qui per comprare."
+
+msgctxt "260_Employee"
+msgid "I'm here to sell."
+msgstr "Sono qui per piazzare."
+
+msgctxt "272_Employee"
+msgid "Never mind."
+msgstr "Lascia stare."

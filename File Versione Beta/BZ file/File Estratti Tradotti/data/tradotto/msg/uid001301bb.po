@@ -1,0 +1,52 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "136"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr "Hai intascato <Color:8>20.000 yen<Color:Default>."
+
+msgctxt "1620"
+msgid "Relieved Old Woman"
+msgstr "Anziana Sollievata"
+
+msgctxt "1624"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1628"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1632"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "100_Relieved Old Woman"
+msgid "Thank goodness. I'm really fond of this bag."
+msgstr "Meno male! Ci tengo un sacco a questa borsa."
+
+msgctxt "112_Tanimura"
+msgid "Glad you got it back. You take care now."
+msgstr "Meno male che l'ha riavuta. Si riguardi."
+
+msgctxt "124_Relieved Old Woman"
+msgid ""
+"Thank you so much. I don't know if I'm supposed to be doing this, but I'd "
+"like you to have this."
+msgstr ""
+"Grazie infinite. Non so se dovrei farlo, ma vorrei che tu prendessi questo."
+
+msgctxt "208_Relieved Old Woman"
+msgid "I really appreciate what you did."
+msgstr "Ti sono davvero riconoscente per quello che hai fatto."

@@ -1,0 +1,142 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4208"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "4212"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4216"
+msgid "Police Officer"
+msgstr "Agente di Polizia"
+
+msgctxt "4220"
+msgid "P_tan_stand_tlk_techo"
+msgstr "P_tan_stand_tlk_techo"
+
+msgctxt "4224"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "4228"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "4232"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "4236"
+msgid "Saki-chan"
+msgstr "Saki-chan"
+
+msgctxt "4240"
+msgid "Talk_Phone_yes"
+msgstr "Talk_Phone_yes"
+
+msgctxt "4244"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "4248"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "56_Tanimura"
+msgid "(Luckily, I don't see anybody here who might recognize me.)"
+msgstr "(Per fortuna, non vedo nessuno qui che potrebbe riconoscermi.)"
+
+msgctxt "68_Tanimura"
+msgid "Hi, you got a second?"
+msgstr "Ehi, hai un attimo?"
+
+msgctxt "80_Police Officer"
+msgid "Only authorized personnel can enter here. Move along."
+msgstr "Solo il personale autorizzato può entrare qui. Circoli."
+
+msgctxt "92_Tanimura"
+msgid "Nope, nope. Don't think so. I'm a detective, see."
+msgstr "Naa, naa. Non credo proprio. Sono un detective, capisci?"
+
+msgctxt "104_Police Officer"
+msgid "Oh, I apologize."
+msgstr "Oh, chiedo scusa."
+
+msgctxt "116_Tanimura"
+msgid "Can you tell me about the victim?"
+msgstr "Mi puoi dire qualcosa sulla vittima?"
+
+msgctxt "128_Police Officer"
+msgid ""
+"Koichi Yabe. 35 years of age. He's a writer specializing in Kamurocho's sex "
+"industry... or, was, at any rate."
+msgstr ""
+"Koichi Yabe. Trentacinque anni. È uno scrittore specializzato nell'industria"
+" del sesso di Kamurocho... o, comunque sia, lo era."
+
+msgctxt "140_Police Officer"
+msgid "He was apparently hot on the trail of some big story."
+msgstr ""
+"A quanto pare, era sulla buona strada per scoperchiare qualcosa di grosso."
+
+msgctxt "152_Tanimura"
+msgid "Hmm... Got it. Thanks."
+msgstr "Mmh... Capito. Grazie."
+
+msgctxt "200_Tanimura"
+msgid ""
+"(The murder victim was a sex industry writer. Something stinks about this.) "
+msgstr ""
+"(La vittima dell'omicidio era uno scrittore del settore del sesso. C'è "
+"qualcosa che puzza in questa faccenda.)"
+
+msgctxt "248_Tanimura"
+msgid "Tanimura here."
+msgstr "Tanimura qui."
+
+msgctxt "260_Saki-chan"
+msgid "Hey, it's me. "
+msgstr "Ehi, sono io."
+
+msgctxt "272_Tanimura"
+msgid "Hey, Saki-chan."
+msgstr "Ehi, Saki-chan."
+
+msgctxt "284_Saki-chan"
+msgid "I heard Yabe was killed. "
+msgstr "Ho sentito dire che Yabe è stato ucciso."
+
+msgctxt "296_Tanimura"
+msgid ""
+"Not bad for a former detective. You got your info quick. So, what do you "
+"know about this Yabe? "
+msgstr ""
+"Mica male per un ex detective.\n"
+"Hai trovato le tue dritte in un baleno.\n"
+"Allora, che mi dici di 'sto Yabe?"
+
+msgctxt "308_Saki-chan"
+msgid ""
+"I wanted to talk to you about that. Let's meet at "
+"<Color:7>Shellac<Color:Default>. "
+msgstr ""
+"Volevo parlarti di quella cosa lì.\n"
+"Vediamoci a <Color:7>Shellac<Color:Default>."
+
+msgctxt "320_Tanimura"
+msgid "Okay, <Color:7>Shellac<Color:Default> it is. "
+msgstr "Okay, <Color:7>Shellac<Color:Default> allora."

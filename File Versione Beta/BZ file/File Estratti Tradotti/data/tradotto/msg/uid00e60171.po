@@ -1,0 +1,130 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3324"
+msgid "Chihiro"
+msgstr "Chihiro"
+
+msgctxt "3328"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "3332"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "3336"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "3340"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3344"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "3348"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "3352"
+msgid "0"
+msgstr "0"
+
+msgctxt "3356"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr "F_sxy_stand_sync_dakitukiA_st"
+
+msgctxt "3360"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr "P_stand_sync_dakitukiA_st"
+
+msgctxt "56_Chihiro"
+msgid ""
+"You were right all along, Tanimura-san... I can't believe I didn't see it "
+"sooner."
+msgstr ""
+"Aveva ragione fin dall'inizio, Tanimura-san... Non ci posso credere di non "
+"averlo capito prima."
+
+msgctxt "68_Chihiro"
+msgid "I don't know if I'll ever trust anyone again..."
+msgstr "Non so se mi fiderò mai più di qualcuno..."
+
+msgctxt "80_Tanimura"
+msgid "Chihiro..."
+msgstr "Chihiro..."
+
+msgctxt "92_Chihiro"
+msgid ""
+"I should have known better... I didn't see I was being lied to the whole "
+"time."
+msgstr ""
+"Avrei dovuto pensarci prima... Non mi sono reso conto che mi stavano "
+"mentendo per tutto il tempo."
+
+msgctxt "104_Chihiro"
+msgid "I'm not as experienced as you about how the world works..."
+msgstr "Non sono scafato come te su come va il mondo..."
+
+msgctxt "116_Tanimura"
+msgid ""
+"Don't worry about it. It's better to trust people than to always be "
+"suspicious of them. You don't need to change."
+msgstr ""
+"Non preoccuparti. È meglio fidarsi della gente che stare sempre in guardia. "
+"Non devi cambiare."
+
+msgctxt "128_Chihiro"
+msgid "But if I don't change, it'll just happen again."
+msgstr "Ma se non cambio, ricapiterà e basta."
+
+msgctxt "140_Tanimura"
+msgid "It's okay. I'm here. If you get into trouble again, I'll come running."
+msgstr ""
+"Non preoccuparti. Ci sono. Se ti cacci di nuovo nei guai, verrò di corsa."
+
+msgctxt "152_Chihiro"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "164_Tanimura"
+msgid "I promise."
+msgstr "Lo prometto."
+
+msgctxt "176_Chihiro"
+msgid "...Then, can I ask you for a favor?"
+msgstr "...Allora, posso chiederti un favore?"
+
+msgctxt "188_Tanimura"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "200_Chihiro"
+msgid "Um, I'd like to learn more... Get more experience."
+msgstr "Uhm, vorrei imparare di più... Fare più esperienza."
+
+msgctxt "212_Chihiro"
+msgid "So I was wondering if you'd teach me."
+msgstr "Allora, mi chiedevo se mi insegneresti."
+
+msgctxt "224_Tanimura"
+msgid "You sure I'm your man?"
+msgstr "Sei sicura che io sia il tuo uomo?"
+
+msgctxt "236_Chihiro"
+msgid "I'm sure. <Color:7>♥<Color:Default>"
+msgstr "Sono sicura. <Color:7>♥<Color:Default>"

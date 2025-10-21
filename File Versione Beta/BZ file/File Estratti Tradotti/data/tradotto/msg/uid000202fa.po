@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "732"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "736"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "740"
+msgid "Homeless Man"
+msgstr "Senzatetto"
+
+msgctxt "56_Saejima"
+msgid "'Scuse me. Know where I can find an info broker?"
+msgstr "Senta. Sa mica dove trovo un informatore?"
+
+msgctxt "68_Homeless Man"
+msgid "Who, me? Nah, I don't know a thing."
+msgstr "Chi, io? Naaah, non so un bel niente."
+
+msgctxt "80_Saejima"
+msgid "Alright. Mind lettin' me by so I can ask someone who does?"
+msgstr "Ok. Ti scoccia farmi passare che devo chiedere a chi ne sa?"
+
+msgctxt "92_Homeless Man"
+msgid ""
+"No one's up ahead. You'd just be wasting your time.\r\n"
+"I'd look elsewhere if I was you."
+msgstr ""
+"Non c'è nessuno laggiù. Perderesti solo tempo.\n"
+"Fossi in te, cercherei altrove."

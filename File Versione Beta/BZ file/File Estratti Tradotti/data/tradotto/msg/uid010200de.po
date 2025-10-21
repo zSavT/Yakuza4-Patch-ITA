@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "376"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "116_Player"
+msgid "(\"Closed during the rain.\" Guess I can't go through here...)"
+msgstr "(\"Chiuso per la pioggia.\" Mi sa che non si passa di qui...)"
+
+msgctxt "128_Player"
+msgid "(Doesn't look like I can open it.)"
+msgstr "(Mi sa che non riesco ad aprirlo.)"

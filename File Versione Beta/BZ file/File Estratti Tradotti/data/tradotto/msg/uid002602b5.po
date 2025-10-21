@@ -1,0 +1,671 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "23124"
+msgid "Cat-loving Homeless Man"
+msgstr "Senzatetto amante dei gatti"
+
+msgctxt "23128"
+msgid "M_ykz_sitgrd_tlk_kamae_ed"
+msgstr "M_ykz_sitgrd_tlk_kamae_ed"
+
+msgctxt "23132"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "23136"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "23140"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "23144"
+msgid "Friendly Homeless Man"
+msgstr "Senzatetto amichevole"
+
+msgctxt "23148"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "23152"
+msgid "Surly Homeless Man"
+msgstr "Senzatetto scontroso"
+
+msgctxt "23156"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "23160"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "23164"
+msgid "M_nml_stand_tlk_kagamu_lp"
+msgstr "M_nml_stand_tlk_kagamu_lp"
+
+msgctxt "23168"
+msgid "M_ykz_sitgrd_tlk_kamae_lp"
+msgstr "M_ykz_sitgrd_tlk_kamae_lp"
+
+msgctxt "23172"
+msgid "M_ykz_sitgrd_tlk_agura_lp"
+msgstr "M_ykz_sitgrd_tlk_agura_lp"
+
+msgctxt "23176"
+msgid "A_cat_stand_tlk_nml"
+msgstr "A_cat_stand_tlk_nml"
+
+msgctxt "23180"
+msgid "A_cat_stand_tlk_sleep_lp"
+msgstr "A_cat_stand_tlk_sleep_lp"
+
+msgctxt "23184"
+msgid "0"
+msgstr "0"
+
+msgctxt "23188"
+msgid "Talk_Udekumi_Yes"
+msgstr "Talk_Udekumi_Yes"
+
+msgctxt "23192"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "23196"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "23200"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "23204"
+msgid "Striped Kitten"
+msgstr "Gattino a strisce"
+
+msgctxt "23208"
+msgid "M_nml_stand_tlk_kagamu_st"
+msgstr "M_nml_stand_tlk_kagamu_st"
+
+msgctxt "23212"
+msgid "M_nml_stand_tlk_kagamu_ed"
+msgstr "M_nml_stand_tlk_kagamu_ed"
+
+msgctxt "23216"
+msgid "P_sae_stand"
+msgstr "P_sae_stand"
+
+msgctxt "23220"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "23224"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "23228"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "23232"
+msgid "M_ykz_sitgrd_tlk_kamae_yes"
+msgstr "M_ykz_sitgrd_tlk_kamae_yes"
+
+msgctxt "23236"
+msgid "M_ykz_sitgrd_tlk_agura_st"
+msgstr "M_ykz_sitgrd_tlk_agura_st"
+
+msgctxt "23240"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "23244"
+msgid "M_ykz_sitgrd_tlk_kamae_no"
+msgstr "M_ykz_sitgrd_tlk_kamae_no"
+
+msgctxt "23248"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "23252"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "23256"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "23260"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "23264"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "484_Cat-loving Homeless Man"
+msgid ""
+"Oh, glad you're back! They've been hissing at us\r\n"
+"something awful, and they won't even let us look\r\n"
+"at their injuries."
+msgstr ""
+"Oh, sono contento che tu sia tornato! Ci stanno soffiando contro\r\n"
+"in modo terribile e non ci lasciano nemmeno guardare\r\n"
+"le loro ferite."
+
+msgctxt "496_Cat-loving Homeless Man"
+msgid ""
+"We've got to hurry or they'll be in really bad shape.\r\n"
+"Please try to tame them!"
+msgstr ""
+"Dobbiamo sbrigarci o staranno davvero male.\r\n"
+"Ti prego, prova ad addomesticarli!"
+
+msgctxt "508_Saejima"
+msgid "Tamin' cats, huh?"
+msgstr "Addomesticare gatti, eh?"
+
+msgctxt "520_Saejima"
+msgid "Sorry, but it ain't gonna happen. Just not big on cats."
+msgstr "Mi dispiace, ma non se ne parla. Non sono un grande amante dei gatti."
+
+msgctxt "532_Friendly Homeless Man"
+msgid "You sure? Oh, all right then."
+msgstr "Sei sicuro? Oh, va bene allora."
+
+msgctxt "544_Surly Homeless Man"
+msgid "Bah! Then give us some space and get lost!"
+msgstr "Bah! Allora lasciaci un po' di spazio e sparisci!"
+
+msgctxt "556_Cat-loving Homeless Man"
+msgid "We're going to stay put until these cats are okay..."
+msgstr "Resteremo qui finché questi gatti non staranno bene..."
+
+msgctxt "640_Saejima"
+msgid "Alright, why the hell not?"
+msgstr "Va bene, perché diavolo no?"
+
+msgctxt "652_Cat-loving Homeless Man"
+msgid "Great! We're counting on you!"
+msgstr "Fantastico! Contiamo su di te!"
+
+msgctxt "712_Striped Kitten"
+msgid "Hssst!"
+msgstr "Ssshh!"
+
+msgctxt "724_Saejima"
+msgid "(Little fella's really givin' me what for. Now what do I do?)"
+msgstr "(Il piccoletto mi sta dando del filo da torcere. E ora che faccio?)"
+
+msgctxt "736_Saejima"
+msgid "(Maybe these cats grew up in a pet shop with dogs. I'll try barkin'.)"
+msgstr ""
+"(Forse questi gatti sono cresciuti in un negozio di animali con dei cani. "
+"Proverò ad abbaiare.)"
+
+msgctxt "748_Saejima"
+msgid "Rrr..."
+msgstr "Rrr..."
+
+msgctxt "760_Striped Kitten"
+msgid "......"
+msgstr "......"
+
+msgctxt "772_Saejima"
+msgid "Woof! Arf, arf!"
+msgstr "Bau! Bau, bau!"
+
+msgctxt "784_Striped Kitten"
+msgid "Ffft! Ffft!"
+msgstr "Ffft! Ffft!"
+
+msgctxt "796_Saejima"
+msgid "(Now it's even more pissed off.)"
+msgstr "(Ora è ancora più incazzato.)"
+
+msgctxt "820_Saejima"
+msgid ""
+"(Maybe these kitties'll open to me if I act like a sweet little crying "
+"girl.)"
+msgstr ""
+"(Forse questi gattini si apriranno a me se mi comporto come una dolce "
+"bambina che piange.)"
+
+msgctxt "832_Saejima"
+msgid "Ugh..."
+msgstr "Ugh..."
+
+msgctxt "844_Striped Kitten"
+msgid "Mew?"
+msgstr "Miao?"
+
+msgctxt "856_Saejima"
+msgid "Nah, fuck it. Lemme try again."
+msgstr "No, fanculo. Lasciami riprovare."
+
+msgctxt "880_Saejima"
+msgid "(Prolly oughta try speakin' their own language.)"
+msgstr "(Forse dovrei provare a parlare la loro lingua.)"
+
+msgctxt "892_Saejima"
+msgid "Mmm..."
+msgstr "Mmm..."
+
+msgctxt "904_Striped Kitten"
+msgid "......"
+msgstr "......"
+
+msgctxt "916_Saejima"
+msgid "...Meow."
+msgstr "...Miao."
+
+msgctxt "928_Striped Kitten"
+msgid "Meow..."
+msgstr "Miao..."
+
+msgctxt "940_Saejima"
+msgid "(Seems like it finally dropped its guard.)"
+msgstr "(Sembra che abbia finalmente abbassato la guardia.)"
+
+msgctxt "952_Cat-loving Homeless Man"
+msgid ""
+"Wow, you're good. Poor things wouldn't even give me\r\n"
+"the time of day."
+msgstr ""
+"Wow, sei bravo. I poverini non mi degnavano nemmeno\r\n"
+"di uno sguardo."
+
+msgctxt "964_Saejima"
+msgid "They don't look like they're doing too good."
+msgstr "Non mi sembra che stiano molto bene."
+
+msgctxt "976_Cat-loving Homeless Man"
+msgid "We gotta get some nutrition into these little guys."
+msgstr "Dobbiamo dare un po' di nutrimento a questi piccoletti."
+
+msgctxt "988_Surly Homeless Man"
+msgid "Bah. A drink'd patch 'em right up."
+msgstr "Bah. Una bevuta li rimetterebbe in sesto."
+
+msgctxt "1000_Friendly Homeless Man"
+msgid ""
+"I hate to ask, but could you buy these kittens something\r\n"
+"you think they'd like?"
+msgstr ""
+"Mi dispiace chiedere, ma potresti comprare a questi gattini qualcosa\r\n"
+"che pensi possa piacergli?"
+
+msgctxt "1012_Saejima"
+msgid ""
+"(S'pose I can't back out now. I'll get 'em somethin' real nutritious, "
+"like... fuck, I dunno.)"
+msgstr ""
+"(Immagino di non potermi tirare indietro adesso. Gli prenderò qualcosa di "
+"molto nutriente, tipo... cazzo, non lo so.)"
+
+msgctxt "1024_Saejima"
+msgid ""
+"Wait here. Ya gotta offer lost cats some milk.\r\n"
+"I'll go pick some up."
+msgstr ""
+"Aspettate qui. Bisogna offrire del latte ai gatti smarriti.\r\n"
+"Vado a prenderne un po'."
+
+msgctxt "1108_Saejima"
+msgid ""
+"Wait here. I'll buy somethin' to perk 'em up.\r\n"
+"They're hurt, so maybe Staminan X?"
+msgstr ""
+"Aspettate qui. Comprerò qualcosa per tirarli su.\r\n"
+"Sono feriti, quindi forse Staminan X?"
+
+msgctxt "1192_Saejima"
+msgid ""
+"Wait here. Doesn't matter what cats eat.\r\n"
+"They prolly wouldn't say no to dog food."
+msgstr ""
+"Aspettate qui. Non importa cosa mangiano i gatti.\r\n"
+"Probabilmente non direbbero di no al cibo per cani."
+
+msgctxt "1264_Friendly Homeless Man"
+msgid "Here, kitty-kitty! We got some fish for you!"
+msgstr "Micio, micio! Abbiamo del pesce per te!"
+
+msgctxt "1276_Surly Homeless Man"
+msgid "Want some beer...? Huh! Darn things just won't warm up to me."
+msgstr ""
+"Volete un po' di birra...? Ah! Maledetti, non si affezionano proprio a me."
+
+msgctxt "1288_Cat-loving Homeless Man"
+msgid ""
+"Aw, you guys aren't seeing cat's eye to cat's eye with them.\r\n"
+"Watch and learn."
+msgstr ""
+"Ah, voi ragazzi non siete in sintonia con loro.\r\n"
+"Guardate e imparate."
+
+msgctxt "1300_Cat-loving Homeless Man"
+msgid "Mrowrrr."
+msgstr "Miao."
+
+msgctxt "1312_Striped Kitten"
+msgid "Ffft!"
+msgstr "Ffft!"
+
+msgctxt "1324_Surly Homeless Man"
+msgid "Yeah, I didn't think so."
+msgstr "Sì, non ci speravo."
+
+msgctxt "1336_Cat-loving Homeless Man"
+msgid ""
+"That's odd. My old cat Miko would always come right up to me when I did "
+"that."
+msgstr ""
+"Strano. Il mio vecchio gatto Miko veniva sempre da me quando lo facevo."
+
+msgctxt "1348_Friendly Homeless Man"
+msgid ""
+"If they won't let us touch them, we can't check their injuries, and we can't"
+" fix them up."
+msgstr ""
+"Se non ci lasciano toccare, non possiamo controllare le loro ferite e non "
+"possiamo curarli."
+
+msgctxt "1360_Friendly Homeless Man"
+msgid "Hmm?"
+msgstr "Mmm?"
+
+msgctxt "1372_Surly Homeless Man"
+msgid "Huh? What are you lookin' at?"
+msgstr "Eh? Che stai guardando?"
+
+msgctxt "1384_Friendly Homeless Man"
+msgid "Hey, take it easy fellas. Say, pal, are you a cat lover?"
+msgstr "Ehi, state calmi ragazzi. Dì, amico, sei un amante dei gatti?"
+
+msgctxt "1396_Saejima"
+msgid "Cats, huh?"
+msgstr "Gatti, eh?"
+
+msgctxt "1408_Cat-loving Homeless Man"
+msgid "You are? That's great! Can you do something about these cats?"
+msgstr "Lo sei? Fantastico! Puoi fare qualcosa per questi gatti?"
+
+msgctxt "1420_Saejima"
+msgid "Whoa there. I didn't say I was a cat lover."
+msgstr "Ehi, calma. Non ho detto di essere un amante dei gatti."
+
+msgctxt "1432_Friendly Homeless Man"
+msgid ""
+"Ah, that's okay. Anyway, we just found these little guys, but unfortunately "
+"they're not letting any of us touch 'em."
+msgstr ""
+"Ah, va bene. Comunque, abbiamo appena trovato questi piccoletti, ma "
+"sfortunatamente non si lasciano toccare da nessuno di noi."
+
+msgctxt "1444_Saejima"
+msgid "Yeah, but－"
+msgstr "Sì, ma..."
+
+msgctxt "1468_Cat-loving Homeless Man"
+msgid "They look like they're hurt. We only wanna patch them up if we can."
+msgstr "Sembrano feriti. Vogliamo solo medicarli, se possibile."
+
+msgctxt "1480_Friendly Homeless Man"
+msgid ""
+"It must be fate, you showing up like this. Could you try taming these little"
+" fellas?"
+msgstr ""
+"Deve essere il destino, che tu sia apparso così. Potresti provare ad "
+"addomesticare questi piccoletti?"
+
+msgctxt "1492_Cat-loving Homeless Man"
+msgid ""
+"Yeah, please? If we don't act fast, they'll get weaker and weaker. You're "
+"our only hope－and theirs!"
+msgstr ""
+"Sì, ti prego! Se non agiamo in fretta, diventeranno sempre più deboli. Sei "
+"la nostra unica speranza, e la loro!"
+
+msgctxt "1504_Saejima"
+msgid "Ya want me to tame a buncha cats, huh?"
+msgstr "Volete che addomestichi un branco di gatti, eh?"
+
+msgctxt "1516_Saejima"
+msgid "Ain't gonna happen. Sorry, but I ain't big on the furballs."
+msgstr "Non se ne parla. Mi dispiace, ma non vado matto per le palle di pelo."
+
+msgctxt "1528_Friendly Homeless Man"
+msgid "You're not? Oh, well."
+msgstr "Non lo sei? Oh, beh."
+
+msgctxt "1540_Surly Homeless Man"
+msgid "Bah! Then quit wasting our time!"
+msgstr "Bah! Allora smettila di farci perdere tempo!"
+
+msgctxt "1552_Cat-loving Homeless Man"
+msgid "We're not budging until these cats are safe and sound."
+msgstr "Non ci muoveremo finché questi gatti non saranno sani e salvi."
+
+msgctxt "1636_Saejima"
+msgid "Alright, why the hell not? Guess I'll see what I can do."
+msgstr "Va bene, perché diavolo no? Credo che vedrò cosa posso fare."
+
+msgctxt "1648_Cat-loving Homeless Man"
+msgid "Great! We're counting on you!"
+msgstr "Fantastico! Contiamo su di te!"
+
+msgctxt "1708_Striped Kitten"
+msgid "Ffft!"
+msgstr "Ffft!"
+
+msgctxt "1720_Saejima"
+msgid "(Little fella's really givin' me what for. Now what do I do?)"
+msgstr "(Il piccoletto mi sta dando del filo da torcere. E ora che faccio?)"
+
+msgctxt "1732_Saejima"
+msgid "(Maybe these cats grew up in a pet shop with dogs. I'll try barkin'.)"
+msgstr ""
+"(Forse questi gatti sono cresciuti in un negozio di animali con dei cani. "
+"Proverò ad abbaiare.)"
+
+msgctxt "1744_Saejima"
+msgid "Rrr..."
+msgstr "Rrr..."
+
+msgctxt "1756_Striped Kitten"
+msgid "......"
+msgstr "......"
+
+msgctxt "1768_Saejima"
+msgid "Woof! Arf, arf!"
+msgstr "Bau! Bau, bau!"
+
+msgctxt "1780_Striped Kitten"
+msgid "Ffft! Ffft!"
+msgstr "Ffft! Ffft!"
+
+msgctxt "1792_Saejima"
+msgid "(Now it's even more pissed off.)"
+msgstr "(Ora è ancora più incazzato.)"
+
+msgctxt "1816_Saejima"
+msgid ""
+"(Maybe these kitties'll open to me if I act like a sweet little crying "
+"girl.)"
+msgstr ""
+"(Forse questi gattini si apriranno a me se mi comporto come una dolce "
+"bambina che piange.)"
+
+msgctxt "1828_Saejima"
+msgid "Ugh..."
+msgstr "Ugh..."
+
+msgctxt "1840_Striped Kitten"
+msgid "Mew?"
+msgstr "Miao?"
+
+msgctxt "1852_Saejima"
+msgid "Nah, fuck it. Lemme try again."
+msgstr "No, fanculo. Lasciami riprovare."
+
+msgctxt "1876_Saejima"
+msgid "(Prolly oughta try speakin' their own language.)"
+msgstr "(Forse dovrei provare a parlare la loro lingua.)"
+
+msgctxt "1888_Saejima"
+msgid "Mmm..."
+msgstr "Mmm..."
+
+msgctxt "1900_Striped Kitten"
+msgid "......"
+msgstr "......"
+
+msgctxt "1912_Saejima"
+msgid "...Meow."
+msgstr "...Miao."
+
+msgctxt "1924_Striped Kitten"
+msgid "Meow..."
+msgstr "Miao..."
+
+msgctxt "1936_Saejima"
+msgid "(Seems like it finally dropped its guard.)"
+msgstr "(Sembra che abbia finalmente abbassato la guardia.)"
+
+msgctxt "1948_Cat-loving Homeless Man"
+msgid ""
+"Wow, you're good. Poor things wouldn't even give me\r\n"
+"the time of day."
+msgstr ""
+"Wow, sei bravo. I poverini non mi degnavano nemmeno\r\n"
+"di uno sguardo."
+
+msgctxt "1960_Saejima"
+msgid "They don't look like they're doing too good."
+msgstr "Non mi sembra che stiano molto bene."
+
+msgctxt "1972_Cat-loving Homeless Man"
+msgid "We gotta get some nutrition into these little guys."
+msgstr "Dobbiamo dare un po' di nutrimento a questi piccoletti."
+
+msgctxt "1984_Surly Homeless Man"
+msgid "Bah. A drink'd patch 'em right up."
+msgstr "Bah. Una bevuta li rimetterebbe in sesto."
+
+msgctxt "1996_Friendly Homeless Man"
+msgid ""
+"I hate to ask, but could you buy these kittens something\r\n"
+"you think they'd like?"
+msgstr ""
+"Mi dispiace chiedere, ma potresti comprare a questi gattini qualcosa\r\n"
+"che pensi possa piacergli?"
+
+msgctxt "2008_Saejima"
+msgid ""
+"(S'pose I can't back out now. I'll get 'em somethin' real nutritious, "
+"like... fuck, I dunno.)"
+msgstr ""
+"(Immagino di non potermi tirare indietro adesso. Gli prenderò qualcosa di "
+"molto nutriente, tipo... cazzo, non lo so.)"
+
+msgctxt "2020_Saejima"
+msgid ""
+"Wait here. Ya gotta offer lost cats some milk.\r\n"
+"I'll go pick some up."
+msgstr ""
+"Aspettate qui. Bisogna offrire del latte ai gatti smarriti.\r\n"
+"Vado a prenderne un po'."
+
+msgctxt "2104_Saejima"
+msgid ""
+"Wait here. I'll buy somethin' to perk 'em up.\r\n"
+"They're hurt, so maybe Staminan X?"
+msgstr ""
+"Aspettate qui. Comprerò qualcosa per tirarli su.\r\n"
+"Sono feriti, quindi forse Staminan X?"
+
+msgctxt "2188_Saejima"
+msgid ""
+"Wait here. Doesn't matter what cats eat.\r\n"
+"They prolly wouldn't say no to dog food."
+msgstr ""
+"Aspettate qui. Non importa cosa mangiano i gatti.\r\n"
+"Probabilmente non direbbero di no al cibo per cani."
+
+msgctxt "2260_Cat-loving Homeless Man"
+msgid "Ain't gonna happen."
+msgstr "Non se ne parla."
+
+msgctxt "2272_Cat-loving Homeless Man"
+msgid "Why the hell not?"
+msgstr "Perché diavolo no?"
+
+msgctxt "2284_Cat-loving Homeless Man"
+msgid "Meow Like a Kitten"
+msgstr "Miagola come un gattino"
+
+msgctxt "2296_Cat-loving Homeless Man"
+msgid "Bark Like a Puppy"
+msgstr "Abbaia come un cucciolo"
+
+msgctxt "2308_Cat-loving Homeless Man"
+msgid "Cry Like a Girl"
+msgstr "Piangi come una bambina"
+
+msgctxt "2320_Cat-loving Homeless Man"
+msgid "Ya gotta offer lost cats some milk."
+msgstr "Bisogna offrire del latte ai gatti smarriti."
+
+msgctxt "2332_Cat-loving Homeless Man"
+msgid "They're hurt, so maybe Staminan X?"
+msgstr "Sono feriti, quindi forse Staminan X?"
+
+msgctxt "2344_Cat-loving Homeless Man"
+msgid "Prolly wouldn't say no to dog food."
+msgstr "Probabilmente non direbbero di no al cibo per cani."
+
+msgctxt "2356_Cat-loving Homeless Man"
+msgid "Ain't gonna happen."
+msgstr "Non se ne parla."
+
+msgctxt "2368_Cat-loving Homeless Man"
+msgid "Why the hell not?"
+msgstr "Perché diavolo no?"
+
+msgctxt "2380_Cat-loving Homeless Man"
+msgid "Meow Like a Kitten"
+msgstr "Miagola come un gattino"
+
+msgctxt "2392_Cat-loving Homeless Man"
+msgid "Bark Like a Puppy"
+msgstr "Abbaia come un cucciolo"
+
+msgctxt "2404_Cat-loving Homeless Man"
+msgid "Cry Like a Girl"
+msgstr "Piangi come una bambina"
+
+msgctxt "2416_Cat-loving Homeless Man"
+msgid "Ya gotta offer lost cats some milk."
+msgstr "Bisogna offrire del latte ai gatti smarriti."
+
+msgctxt "2428_Cat-loving Homeless Man"
+msgid "They're hurt, so maybe Staminan X?"
+msgstr "Sono feriti, quindi forse Staminan X?"
+
+msgctxt "2440_Cat-loving Homeless Man"
+msgid "Prolly wouldn't say no to dog food."
+msgstr "Probabilmente non direbbero di no al cibo per cani."

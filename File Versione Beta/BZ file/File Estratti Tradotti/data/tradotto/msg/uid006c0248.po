@@ -1,0 +1,265 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "368"
+msgid "I'll see you later."
+msgstr "Ci vediamo dopo."
+
+msgctxt "524"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "1040"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "13760"
+msgid "峰村七海：源氏名"
+msgstr "峰村七海：源氏名"
+
+msgctxt "13764"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13768"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "13772"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "13776"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13780"
+msgid "0"
+msgstr "0"
+
+msgctxt "13784"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "13788"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_峰村七海：源氏名"
+msgid "The yakiniku here is delicious. You're a bit of a gourmet, huh?"
+msgstr ""
+"Lo yakiniku qui è delizioso.\n"
+"Sei un po' un buongustaio, eh?"
+
+msgctxt "128_Tanimura"
+msgid "Come on. Let's go in."
+msgstr "Dai. Entriamo."
+
+msgctxt "152_峰村七海：源氏名"
+msgid "The yakiniku here is delicious. You're a bit of a gourmet, huh?"
+msgstr ""
+"Lo yakiniku qui è delizioso.\n"
+"Sei un po' un buongustaio, eh?"
+
+msgctxt "164_Tanimura"
+msgid "Hold on... Seems I didn't bring enough money."
+msgstr "Aspetta un attimo... Sembra che non mi sia portato abbastanza grana."
+
+msgctxt "176_峰村七海：源氏名"
+msgid "I'm sorry, I must have misheard you. What did you say?"
+msgstr "Mi scusi, devo averla sentita male. Che ha detto?"
+
+msgctxt "188_Tanimura"
+msgid "Um... I mean... Sorry."
+msgstr "Uhm... cioè... Scusa."
+
+msgctxt "200_峰村七海：源氏名"
+msgid ""
+"I don't believe it! You can't manage your own finances? How do you even "
+"survive as an adult?"
+msgstr ""
+"Non ci credo! Non riesci a gestire le tue finanze? Come fai a sopravvivere "
+"da adulto?"
+
+msgctxt "212_峰村七海：源氏名"
+msgid "I'm going home. Goodbye."
+msgstr "Me ne vado a casa. Ciao."
+
+msgctxt "224_Tanimura"
+msgid "(I should've checked my money earlier...)"
+msgstr "(Avrei dovuto controllare i miei soldi prima...)"
+
+msgctxt "332_峰村七海：源氏名"
+msgid "That was great! You're good at picking restaurants."
+msgstr "È stato fantastico! Ci sai proprio fare con i ristoranti."
+
+msgctxt "344_Tanimura"
+msgid "Glad you liked it."
+msgstr "Sono contento che ti sia piaciuto."
+
+msgctxt "356_峰村七海：源氏名"
+msgid ""
+"Thanks for the meal! I hope we go out again sometime soon. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Grazie della cena! Spero che ci usciamo di nuovo presto. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "392_峰村七海：源氏名"
+msgid ""
+"Thanks for the meal. It wasn't quite as good as I expected, but it was okay."
+msgstr ""
+"Grazie per la cena. Non era proprio il massimo come mi aspettavo, ma andava "
+"bene."
+
+msgctxt "404_Tanimura"
+msgid "I see..."
+msgstr "Capisco..."
+
+msgctxt "416_峰村七海：源氏名"
+msgid "I gotta get going. Bye."
+msgstr "Mi devo muovere. Ciao."
+
+msgctxt "440_峰村七海：源氏名"
+msgid "......"
+msgstr "......"
+
+msgctxt "452_Tanimura"
+msgid "Is everything ok?"
+msgstr "Tutto bene?"
+
+msgctxt "464_峰村七海：源氏名"
+msgid "Yeah... I just didn't care for some of the dishes."
+msgstr "Sì... certi piatti non mi andavano proprio."
+
+msgctxt "476_Tanimura"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "488_峰村七海：源氏名"
+msgid "I should be going. I'll see you at the club."
+msgstr "Dovrei andare. Ci vediamo al club."
+
+msgctxt "500_Tanimura"
+msgid "(Guess she didn't enjoy all the food...)"
+msgstr "Immagino che non abbia gradito tutto il cibo..."
+
+msgctxt "608_峰村七海：源氏名"
+msgid "The yakiniku here is delicious. You're a bit of a gourmet, huh?"
+msgstr ""
+"Lo yakiniku qui è delizioso.\n"
+"Sei un po' un buongustaio, eh?"
+
+msgctxt "620_Tanimura"
+msgid "Come on. Let's go in."
+msgstr "Dai. Entriamo."
+
+msgctxt "632_峰村七海：源氏名"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "656_峰村七海：源氏名"
+msgid "The yakiniku here is delicious. You're a bit of a gourmet, huh?"
+msgstr ""
+"Lo yakiniku qui è delizioso.\n"
+"Sei un po' un buongustaio, eh?"
+
+msgctxt "668_Tanimura"
+msgid "Hold on... Seems I didn't bring enough money."
+msgstr "Aspetta un attimo... Sembra che non mi sia portato abbastanza grana."
+
+msgctxt "680_峰村七海：源氏名"
+msgid "I'm sorry, I must have misheard you. What did you say?"
+msgstr "Mi scusi, devo averla sentita male. Che ha detto?"
+
+msgctxt "692_Tanimura"
+msgid "Um... I mean... Sorry."
+msgstr "Uhm... cioè... Scusa."
+
+msgctxt "704_峰村七海：源氏名"
+msgid ""
+"I don't believe it! You can't manage your own finances? How do you even "
+"survive as an adult?"
+msgstr ""
+"Non ci credo! Non riesci a gestire le tue finanze? Come fai a sopravvivere "
+"da adulto?"
+
+msgctxt "716_峰村七海：源氏名"
+msgid "I'm going home. Goodbye."
+msgstr "Me ne vado a casa. Ciao."
+
+msgctxt "728_Tanimura"
+msgid "(I should've checked my money earlier...)"
+msgstr "(Avrei dovuto controllare i miei soldi prima...)"
+
+msgctxt "836_峰村七海：源氏名"
+msgid "That was great! You're good at picking restaurants."
+msgstr "È stato fantastico! Ci sai proprio fare con i ristoranti."
+
+msgctxt "848_Tanimura"
+msgid "Glad you liked it."
+msgstr "Sono contento che ti sia piaciuto."
+
+msgctxt "860_峰村七海：源氏名"
+msgid "Thanks for the meal! Shall we head to the club?"
+msgstr "Grazie per la cena! Andiamo al club?"
+
+msgctxt "872_Tanimura"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "896_峰村七海：源氏名"
+msgid ""
+"Thanks for the meal. It wasn't quite as good as I expected, but it was okay."
+msgstr ""
+"Grazie per la cena. Non era proprio il massimo come mi aspettavo, ma andava "
+"bene."
+
+msgctxt "908_Tanimura"
+msgid "I see..."
+msgstr "Capisco..."
+
+msgctxt "920_峰村七海：源氏名"
+msgid "Well, wanna go to the club next?"
+msgstr "Beh, ti va di andare al club dopo?"
+
+msgctxt "932_Tanimura"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "956_峰村七海：源氏名"
+msgid "......"
+msgstr "......"
+
+msgctxt "968_Tanimura"
+msgid "Is everything ok?"
+msgstr "Tutto bene?"
+
+msgctxt "980_峰村七海：源氏名"
+msgid "Yeah... I just didn't care for some of the dishes."
+msgstr "Sì... certi piatti non mi andavano proprio."
+
+msgctxt "992_Tanimura"
+msgid "I see..."
+msgstr "Capisco..."
+
+msgctxt "1004_峰村七海：源氏名"
+msgid "Let's just head to the club."
+msgstr "Dai, andiamo al club."
+
+msgctxt "1016_Tanimura"
+msgid "(Guess she didn't enjoy all the food...)"
+msgstr "Immagino che non abbia gradito tutto il cibo..."

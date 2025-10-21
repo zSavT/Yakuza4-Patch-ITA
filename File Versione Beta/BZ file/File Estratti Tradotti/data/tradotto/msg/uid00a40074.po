@@ -1,0 +1,167 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "244"
+msgid ""
+"You handed over the <Color:8>Briefcase with 30 Million Yen<Color:Default>."
+msgstr ""
+"Hai consegnato la <Color:8>valigetta con 30 milioni di Yen<Color:Default>."
+
+msgctxt "4872"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "4876"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "4880"
+msgid "Nishihama"
+msgstr "Nishihama"
+
+msgctxt "4884"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4888"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "4892"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "4896"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "4900"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "4904"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "172_Akiyama"
+msgid "Ah, I see you've been waiting. Sorry I took so long."
+msgstr "Ah, vedo che aspettavi. Scusa se ci ho messo tanto."
+
+msgctxt "184_Nishihama"
+msgid "No trouble at all, so long as you brought the money."
+msgstr "Nessuna grana, se hai portato i soldi."
+
+msgctxt "196_Nishihama"
+msgid "You did bring the money, right...?"
+msgstr "I soldi li hai portati, vero...?"
+
+msgctxt "208_Akiyama"
+msgid "Got it right here. Care to take a look?"
+msgstr "Ce l'ho qui. Vuoi dare un'occhiata?"
+
+msgctxt "220_Nishihama"
+msgid "Oh, no, that won't be necessary! I trust you, Akiyama-san."
+msgstr "Ah, no, non ce n'è bisogno! Mi fido di te, Akiyama-san."
+
+msgctxt "232_Akiyama"
+msgid "You sure? All right, here you go."
+msgstr "Sei convinto? Va bene, tieni."
+
+msgctxt "268_Nishihama"
+msgid "Actually... there's one more favor I'd like to ask of you."
+msgstr "A dire il vero... c'è un altro favore che vorrei chiederti."
+
+msgctxt "280_Akiyama"
+msgid "Another one? What is it this time?"
+msgstr "Ancora? Che c'è stavolta?"
+
+msgctxt "292_Nishihama"
+msgid ""
+"Would you mind coming with me to give this to the\r\n"
+"kidnapper? I'm too scared to go by myself."
+msgstr ""
+"Ti dispiacerebbe venire con me a dare questo al\n"
+"rapitore? Ho troppa paura di andarci da solo."
+
+msgctxt "304_Akiyama"
+msgid ""
+"But you can't just show up with some random guy. What'll the\r\n"
+"kidnapper do to your daughter if he sees me?"
+msgstr ""
+"Ma non puoi mica presentarti con un tipo a caso. Cosa farà il\n"
+"rapitore a tua figlia se mi vede?"
+
+msgctxt "316_Nishihama"
+msgid ""
+"Huh? Well, uh... It's a risk, but... I just can't go by\r\n"
+"myself."
+msgstr ""
+"Eh? Beh, uhm... È un rischio, ma... Non posso proprio andare\n"
+"da solo."
+
+msgctxt "328_Nishihama"
+msgid ""
+"I'm begging you! Please come with me! I... I can't handle\r\n"
+"this much money alone!"
+msgstr ""
+"Ti supplico! Ti prego, vieni con me! Io... non ce la faccio con\n"
+"tutti questi soldi da solo!"
+
+msgctxt "340_Akiyama"
+msgid ""
+"You know I can't do that. What if something happened to\r\n"
+"your daughter?"
+msgstr ""
+"Sai che non posso fare una cosa del genere. E se succedesse qualcosa a\n"
+"tua figlia?"
+
+msgctxt "352_Nishihama"
+msgid ""
+"Please don't say that! Please, Akiyama-san, you just have to\r\n"
+"come with me! Please!"
+msgstr ""
+"Ti prego, non dire così! Ti prego, Akiyama-san, devi solo\n"
+"venire con me! Ti prego!"
+
+msgctxt "364_Nishihama"
+msgid "Don't make me do this alone! I'm on my knees here!"
+msgstr "Non farmi fare questo da solo! Sono in ginocchio qui!"
+
+msgctxt "376_Akiyama"
+msgid "...All right. I'll come along."
+msgstr "...Va bene. Vengo anch'io."
+
+msgctxt "388_Nishihama"
+msgid "Thank you so much! It's right this way. Just follow me!"
+msgstr "Grazie mille! È di qua. Seguimi!"
+
+msgctxt "412_Akiyama"
+msgid "What's going on...?"
+msgstr "Cosa sta succedendo...?"
+
+msgctxt "448_Akiyama"
+msgid "Go With Him"
+msgstr "Vai con lui"
+
+msgctxt "460_Akiyama"
+msgid "Refuse"
+msgstr "Rifiuta"
+
+msgctxt "472_Akiyama"
+msgid "Go With Him"
+msgstr "Vai con lui"
+
+msgctxt "484_Akiyama"
+msgid "Refuse"
+msgstr "Rifiuta"

@@ -1,0 +1,164 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4472"
+msgid "Police Officer"
+msgstr "Agente di Polizia"
+
+msgctxt "4476"
+msgid "Maya"
+msgstr "Maya"
+
+msgctxt "4480"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4484"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "4488"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4492"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "4496"
+msgid "F_yng_stand"
+msgstr "F_yng_stand"
+
+msgctxt "4500"
+msgid "F_sxy_stand"
+msgstr "F_sxy_stand"
+
+msgctxt "4504"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "4508"
+msgid "P_stand_tlk_udekumi_st"
+msgstr "P_stand_tlk_udekumi_st"
+
+msgctxt "4512"
+msgid "P_stand_tlk_udekumi_no"
+msgstr "P_stand_tlk_udekumi_no"
+
+msgctxt "4516"
+msgid "P_stand_tlk_udekumi_ed"
+msgstr "P_stand_tlk_udekumi_ed"
+
+msgctxt "4520"
+msgid "Costumed Man"
+msgstr "Uomo travestito"
+
+msgctxt "4524"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "100_Police Officer"
+msgid "Why are you being so cold to me? Why don't you answer my emails?"
+msgstr "Perché sei così freddo con me? Perché non rispondi alle mie email?"
+
+msgctxt "112_Maya"
+msgid "I'm really not interested. Please leave me alone!"
+msgstr "Non sono proprio interessata. La prego, mi lasci in pace!"
+
+msgctxt "124_Police Officer"
+msgid "You can't treat me like this!"
+msgstr "Non puoi permetterti di trattarmi così!"
+
+msgctxt "136_Maya"
+msgid "A policeman should behave better."
+msgstr "Un poliziotto dovrebbe comportarsi meglio."
+
+msgctxt "148_Police Officer"
+msgid ""
+"Insulting an officer is a crime, you know... Do you want to continue this "
+"conversation at the station?"
+msgstr ""
+"Offendere un poliziotto è un reato, sai...\\nVuoi continuare questa "
+"conversazione in stazione?"
+
+msgctxt "160_Maya"
+msgid "What!? I haven't done anything!"
+msgstr "Ma che!? Non ho fatto niente!"
+
+msgctxt "172_Kiryu"
+msgid "That's enough."
+msgstr "Basta così."
+
+msgctxt "184_Maya"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "208_Police Officer"
+msgid "Huh? Who're you?"
+msgstr "Eh? Chi sei?"
+
+msgctxt "220_Kiryu"
+msgid "Give me your name and badge number."
+msgstr "Mi dia il suo nome e il numero di distintivo."
+
+msgctxt "232_Police Officer"
+msgid "Huh? What're you talking about?"
+msgstr "Eh? Ma di cosa parli?"
+
+msgctxt "244_Kiryu"
+msgid "If you're a cop, you've got to have some ID. Show it to me."
+msgstr "Se sei uno sbirro, devi avere un tesserino. Fammelo vedere."
+
+msgctxt "256_Police Officer"
+msgid "I, uh... I don't have it. I left it at the station."
+msgstr "Io, ehm... Non ce l'ho. L'ho lasciato in stazione."
+
+msgctxt "268_Maya"
+msgid "......"
+msgstr "......"
+
+msgctxt "280_Kiryu"
+msgid ""
+"That makes no sense. Cops have to carry their badges with them at all times."
+" Why don't you have yours?"
+msgstr ""
+"Non ha senso, questa cosa. I poliziotti devono avere il distintivo sempre "
+"addosso. E tu perché non ce l'hai?"
+
+msgctxt "292_Police Officer"
+msgid "I... Um..."
+msgstr "Io... Ehm..."
+
+msgctxt "304_Kiryu"
+msgid ""
+"I think we're done listening to you. You're no cop. Maya, look closely at "
+"his uniform. The color's not quite right."
+msgstr ""
+"Direi che abbiamo finito di ascoltarti. Non sei uno sbirro. Maya, guarda "
+"bene la sua divisa. Il colore non è proprio quello giusto."
+
+msgctxt "316_Maya"
+msgid "Seriously? Oh, I hadn't noticed before..."
+msgstr "Sul serio? Ah, non me n'ero accorto prima..."
+
+msgctxt "328_Kiryu"
+msgid ""
+"He's been posing as a cop to try and pick up girls, but that stops now."
+msgstr "Si spacciava per poliziotto per abbordare ragazze, ma ora basta."
+
+msgctxt "340_Costumed Man"
+msgid "Damn it! You've ruined my plan! You'll pay for this!"
+msgstr ""
+"Maledizione! Hai rovinato il mio piano!\n"
+"Me la pagherai!"

@@ -1,0 +1,105 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2908"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "2912"
+msgid "Frightened Woman"
+msgstr "Donna Spaventata"
+
+msgctxt "2916"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "2920"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2924"
+msgid "Talk_Info_L"
+msgstr "Talk_Info_L"
+
+msgctxt "2928"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "2932"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2936"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "116_Tanimura"
+msgid ""
+"Everything okay, miss? You were talking to yourself just\r\n"
+"now..."
+msgstr ""
+"Tutto a posto, signorina? Parlava da sola proprio\n"
+"ora..."
+
+msgctxt "128_Frightened Woman"
+msgid "Oh, no, I wasn't... Um..."
+msgstr "Oh, no, non stavo... Ehm..."
+
+msgctxt "140_Tanimura"
+msgid ""
+"Ah, didn't mean to surprise you. I'm with the KPD－is there anything I can "
+"help with?"
+msgstr ""
+"Ah, non volevo spaventarti. Sono della KPD－c'è qualcosa in cui posso darti "
+"una mano?"
+
+msgctxt "152_Frightened Woman"
+msgid "You're an officer? Then please, hear me out."
+msgstr "Lei è un agente? Allora la prego, mi ascolti."
+
+msgctxt "164_Frightened Woman"
+msgid ""
+"I'm on my way to work, but I feel like somebody's going to\r\n"
+"ambush me... I'm so scared, I don't know what to do..."
+msgstr ""
+"Sto andando al lavoro, ma ho la sensazione che qualcuno mi stia per\n"
+"tendere un'imboscata... Sono così spaventata, non so cosa fare..."
+
+msgctxt "176_Tanimura"
+msgid "Makes sense why you'd be on edge. Where is it you work?"
+msgstr "Non mi stupisce che tu sia così tesa. Dov'è che lavori?"
+
+msgctxt "188_Frightened Woman"
+msgid "In the Hiranai Building on Theater Alley..."
+msgstr "Nel palazzo Hiranai su Theater Alley..."
+
+msgctxt "200_Tanimura"
+msgid "Oh, that's right around the corner. I'd be happy to walk you there."
+msgstr "Oh, è proprio qui dietro l'angolo. Ti accompagno volentieri."
+
+msgctxt "212_Frightened Woman"
+msgid "Really!? Thank you so much!"
+msgstr "Veramente!? Grazie mille!"
+
+msgctxt "260_Frightened Woman"
+msgid "What should I do? I can't even walk down the street..."
+msgstr "Cosa dovrei fare? Non riesco nemmeno a camminare per strada..."
+
+msgctxt "284_Tanimura"
+msgid ""
+"(That lady looks like she could use a little help. Guess it wouldn't kill me"
+" to act like a cop every now and then.)"
+msgstr ""
+"(Quella donna sembra proprio che abbia bisogno di una mano. Immagino che non"
+" mi costi nulla fare il poliziotto ogni tanto.)"

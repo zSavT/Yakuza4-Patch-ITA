@@ -1,0 +1,396 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8472"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "8476"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "8480"
+msgid "adv_p1c1_010/akiyama_0094"
+msgstr "adv_p1c1_010/akiyama_0094"
+
+msgctxt "8484"
+msgid "Hana"
+msgstr "Hana"
+
+msgctxt "8488"
+msgid "adv_p1c1_010/hana_0014"
+msgstr "adv_p1c1_010/hana_0014"
+
+msgctxt "8492"
+msgid "adv_p1c1_010/akiyama_0095"
+msgstr "adv_p1c1_010/akiyama_0095"
+
+msgctxt "8496"
+msgid "adv_p1c1_010/hana_0015"
+msgstr "adv_p1c1_010/hana_0015"
+
+msgctxt "8500"
+msgid "adv_p1c1_010/hana_0015b"
+msgstr "adv_p1c1_010/hana_0015b"
+
+msgctxt "8504"
+msgid "adv_p1c1_010/akiyama_0096"
+msgstr "adv_p1c1_010/akiyama_0096"
+
+msgctxt "8508"
+msgid "adv_p1c1_010/hana_0016"
+msgstr "adv_p1c1_010/hana_0016"
+
+msgctxt "8512"
+msgid "adv_p1c1_010/hana_0016b"
+msgstr "adv_p1c1_010/hana_0016b"
+
+msgctxt "8516"
+msgid "adv_p1c1_010/akiyama_0097"
+msgstr "adv_p1c1_010/akiyama_0097"
+
+msgctxt "8520"
+msgid "adv_p1c1_010/hana_0017"
+msgstr "adv_p1c1_010/hana_0017"
+
+msgctxt "8524"
+msgid "adv_p1c1_010/akiyama_0098"
+msgstr "adv_p1c1_010/akiyama_0098"
+
+msgctxt "8528"
+msgid "adv_p1c1_010/hana_0018"
+msgstr "adv_p1c1_010/hana_0018"
+
+msgctxt "8532"
+msgid "adv_p1c1_010/hana_0019"
+msgstr "adv_p1c1_010/hana_0019"
+
+msgctxt "8536"
+msgid "adv_p1c1_010/hana_0019b"
+msgstr "adv_p1c1_010/hana_0019b"
+
+msgctxt "8540"
+msgid "adv_p1c1_010/akiyama_0099"
+msgstr "adv_p1c1_010/akiyama_0099"
+
+msgctxt "8544"
+msgid "Talk_Phone_yes"
+msgstr "Talk_Phone_yes"
+
+msgctxt "8548"
+msgid "adv_p1c1_010/hana_0020"
+msgstr "adv_p1c1_010/hana_0020"
+
+msgctxt "8552"
+msgid "adv_p1c1_010/akiyama_0100"
+msgstr "adv_p1c1_010/akiyama_0100"
+
+msgctxt "8556"
+msgid "adv_p1c1_010/hana_0021"
+msgstr "adv_p1c1_010/hana_0021"
+
+msgctxt "8560"
+msgid "adv_p1c1_010/hana_0022"
+msgstr "adv_p1c1_010/hana_0022"
+
+msgctxt "8564"
+msgid "adv_p1c1_010/hana_0022b"
+msgstr "adv_p1c1_010/hana_0022b"
+
+msgctxt "8568"
+msgid "adv_p1c1_010/hana_0023"
+msgstr "adv_p1c1_010/hana_0023"
+
+msgctxt "8572"
+msgid "adv_p1c1_010/akiyama_0101"
+msgstr "adv_p1c1_010/akiyama_0101"
+
+msgctxt "8576"
+msgid "Talk_Phone_no"
+msgstr "Talk_Phone_no"
+
+msgctxt "8580"
+msgid "adv_p1c1_010/hana_0024"
+msgstr "adv_p1c1_010/hana_0024"
+
+msgctxt "8584"
+msgid "adv_p1c1_010/akiyama_0102"
+msgstr "adv_p1c1_010/akiyama_0102"
+
+msgctxt "8588"
+msgid "adv_p1c1_010/hana_0025"
+msgstr "adv_p1c1_010/hana_0025"
+
+msgctxt "8592"
+msgid "adv_p1c1_010/akiyama_0103"
+msgstr "adv_p1c1_010/akiyama_0103"
+
+msgctxt "8596"
+msgid "adv_p1c1_010/hana_0026"
+msgstr "adv_p1c1_010/hana_0026"
+
+msgctxt "8600"
+msgid "adv_p1c1_010/akiyama_0104"
+msgstr "adv_p1c1_010/akiyama_0104"
+
+msgctxt "8604"
+msgid "adv_p1c1_010/hana_0027"
+msgstr "adv_p1c1_010/hana_0027"
+
+msgctxt "8608"
+msgid "adv_p1c1_010/akiyama_0105"
+msgstr "adv_p1c1_010/akiyama_0105"
+
+msgctxt "8612"
+msgid "adv_p1c1_010/hana_0028"
+msgstr "adv_p1c1_010/hana_0028"
+
+msgctxt "8616"
+msgid "adv_p1c1_010/akiyama_0106"
+msgstr "adv_p1c1_010/akiyama_0106"
+
+msgctxt "8620"
+msgid "adv_p1c1_010/hana_0029"
+msgstr "adv_p1c1_010/hana_0029"
+
+msgctxt "8624"
+msgid "adv_p1c1_010/hana_0029b"
+msgstr "adv_p1c1_010/hana_0029b"
+
+msgctxt "8628"
+msgid "adv_p1c1_010/akiyama_0107"
+msgstr "adv_p1c1_010/akiyama_0107"
+
+msgctxt "8632"
+msgid "Talk_Phone_surp"
+msgstr "Talk_Phone_surp"
+
+msgctxt "8636"
+msgid "adv_p1c1_010/hana_0030"
+msgstr "adv_p1c1_010/hana_0030"
+
+msgctxt "8640"
+msgid "adv_p1c1_010/hana_0030b"
+msgstr "adv_p1c1_010/hana_0030b"
+
+msgctxt "8644"
+msgid "adv_p1c1_010/akiyama_0108"
+msgstr "adv_p1c1_010/akiyama_0108"
+
+msgctxt "8648"
+msgid "adv_p1c1_010/hana_0031"
+msgstr "adv_p1c1_010/hana_0031"
+
+msgctxt "8652"
+msgid "adv_p1c1_010/hana_0031b"
+msgstr "adv_p1c1_010/hana_0031b"
+
+msgctxt "8656"
+msgid "adv_p1c1_010/akiyama_0109"
+msgstr "adv_p1c1_010/akiyama_0109"
+
+msgctxt "8660"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "8664"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "92_Akiyama"
+msgid "Hello?"
+msgstr "Pronto?"
+
+msgctxt "104_Hana"
+msgid "It's about time."
+msgstr "Era ora."
+
+msgctxt "116_Akiyama"
+msgid "Oh, Hana-chan."
+msgstr "Oh, Hana-chan."
+
+msgctxt "128_Hana"
+msgid ""
+"Don't \"Hana-chan\" me! Do you know how many times I've tried to call you!?"
+msgstr ""
+"Non te ne uscire con 'Hana-chan'! Lo sai quante volte ho provato a "
+"chiamarti!?"
+
+msgctxt "140_Hana"
+msgid ""
+"Thirty! Three. Zero. When are you gonna learn how to pick up your phone!?"
+msgstr "Trenta! Tre. Zero. Quando imparerai a rispondere al telefono!?"
+
+msgctxt "152_Akiyama"
+msgid "Right, sorry, sorry! So, what's up?"
+msgstr "Ok, scusa, scusa! Allora, che c'è?"
+
+msgctxt "164_Hana"
+msgid "Get back to the office, <Italic>now</Italic>!"
+msgstr "Torna in ufficio, <Italic>subito</Italic>!"
+
+msgctxt "176_Hana"
+msgid "Do you realize how long you've been gone!?"
+msgstr "Ma ti rendi conto da quanto tempo sei sparito!?"
+
+msgctxt "188_Akiyama"
+msgid "Huh? It hasn't been that long, has it?"
+msgstr "Eh? Non è passato mica tanto, no?"
+
+msgctxt "200_Hana"
+msgid "It's been four whole hours! A sixth of a day!"
+msgstr "Sono già passate quattro ore tonde! Un sesto di giornata!"
+
+msgctxt "212_Akiyama"
+msgid "Ah..."
+msgstr "Ah..."
+
+msgctxt "224_Hana"
+msgid "See what time it is, Chief? Midnight! Twelve o' five, to be exact!"
+msgstr ""
+"Hai visto che ora è, Capo? Mezzanotte! Mezzanotte e cinque, per essere "
+"precisi!"
+
+msgctxt "236_adv_p1c1_010/hana_0019"
+msgid "It's already tomorrow!"
+msgstr "È già domani!"
+
+msgctxt "248_adv_p1c1_010/hana_0019b"
+msgid "Normal people are at home! Sleeping!"
+msgstr "La gente normale è a casa! Dorme!"
+
+msgctxt "260_Akiyama"
+msgid "Yeah, yeah, I know, I know! I'm sorry."
+msgstr "Sì, sì, lo so, lo so! Mi dispiace."
+
+msgctxt "272_Hana"
+msgid "Oh, please! The fake apology isn't gonna work!"
+msgstr "Ma dai! Le scuse finte non attaccheranno!"
+
+msgctxt "284_Akiyama"
+msgid "No, really. I mean it."
+msgstr "No, sul serio. Non scherzo."
+
+msgctxt "296_Hana"
+msgid ""
+"You always just stroll into work whenever you want, no regard for the time!"
+msgstr ""
+"Tu ti presenti sempre al lavoro quando ti pare, fregandotene dell'orario!"
+
+msgctxt "308_Hana"
+msgid "But me?"
+msgstr "Ma io?"
+
+msgctxt "320_Hana"
+msgid ""
+"I get here at 9 every morning, keep the books, clean the bathroom, call "
+"customers about late payments..."
+msgstr ""
+"Arrivo qui alle 9 ogni mattina, tengo la contabilità, pulisco il bagno, "
+"chiamo i clienti per i pagamenti in ritardo..."
+
+msgctxt "332_Hana"
+msgid "<Italic>And</Italic> order takeout! You're running me ragged here!"
+msgstr "<Italic>E</Italic> ordina da asporto! Mi stai esaurendo qui!"
+
+msgctxt "344_Akiyama"
+msgid ""
+"The takeout's for you, though. You're always complaining about how hungry "
+"you are."
+msgstr "Però l'asporto è per te. Ti lamenti sempre che hai fame."
+
+msgctxt "356_Hana"
+msgid "That's not the point! I'm totally exhausted!"
+msgstr "Ma non è quello il punto! Sono a pezzi!"
+
+msgctxt "368_Akiyama"
+msgid ""
+"Okay, okay! I already said you can go home today. You have the key to the "
+"office, right?"
+msgstr ""
+"Va bene, va bene! Ti ho già detto che puoi andare a casa oggi. Ce l'hai la "
+"chiave dell'ufficio, no?"
+
+msgctxt "380_Hana"
+msgid "That's just it! I <Italic>can't</Italic> leave!"
+msgstr "È proprio quello! Non <Italic>posso</Italic> andarmene!"
+
+msgctxt "392_Akiyama"
+msgid "Why not?"
+msgstr "Perché no?"
+
+msgctxt "404_Hana"
+msgid "There's a bunch of scary men fighting outside."
+msgstr "C'è un sacco di brutti ceffi che si stanno picchiando fuori."
+
+msgctxt "416_Akiyama"
+msgid "What, some little street brawl? What's that got to do with you?"
+msgstr "Ma che, una rissetta da strada? Che c'entra con te?"
+
+msgctxt "428_Hana"
+msgid ""
+"What if they turn their hands on me next!? I'm a delicate flower, Chief!"
+msgstr "E se poi mettono le mani addosso a me!? Sono un fiore delicato, Capo!"
+
+msgctxt "440_Akiyama"
+msgid "Delicate? You? Aha... Ahahahaha."
+msgstr "Delicato? Tu? Aha... Ahahahaha."
+
+msgctxt "452_Hana"
+msgid "Did you just laugh?"
+msgstr "Hai appena riso?"
+
+msgctxt "464_Akiyama"
+msgid "Uh, nope!"
+msgstr "Uh, no!"
+
+msgctxt "476_Hana"
+msgid "It's not funny, Chief!"
+msgstr "Non c'è niente da ridere, Capo!"
+
+msgctxt "488_Hana"
+msgid ""
+"I think one of them might even have a gun! There's no way I'm getting "
+"anywhere near those thugs!"
+msgstr ""
+"Mi sa che uno di loro ha pure una pistola!\n"
+"Col cavolo che mi avvicino a quei balordi!"
+
+msgctxt "500_Akiyama"
+msgid "A gun? Hold on, Hana-chan. Just who are these guys?"
+msgstr "Una pistola? Aspetta un attimo, Hana-chan. Ma chi sono questi tizi?"
+
+msgctxt "512_Hana"
+msgid "Oh, um..."
+msgstr "Oh, ehm..."
+
+msgctxt "524_Hana"
+msgid "One of them was shouting something about an Ueno, I think?"
+msgstr "Uno di loro urlava qualcosa su un Ueno, mi pare?"
+
+msgctxt "536_Akiyama"
+msgid "Ueno?"
+msgstr "Ueno?"
+
+msgctxt "548_Hana"
+msgid "Yeah. More importantly, I'm stuck in here!"
+msgstr "Già. Ma la cosa più importante è che sono bloccato qui dentro!"
+
+msgctxt "560_Hana"
+msgid "Come get me out of this warzone, Chief!"
+msgstr "Vieni a tirarmi fuori da 'sto macello, Capo!"
+
+msgctxt "572_Akiyama"
+msgid "Hang tight. I'm on my way!"
+msgstr "Tieni duro. Sto arrivando!"

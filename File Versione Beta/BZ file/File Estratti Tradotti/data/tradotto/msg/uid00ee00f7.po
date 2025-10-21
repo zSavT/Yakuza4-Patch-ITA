@@ -1,0 +1,62 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1280"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1284"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "1288"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "1292"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1296"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "68_Man"
+msgid "What? You need somethin' from me, man?"
+msgstr "Eh? Ti serve qualcosa, capo?"
+
+msgctxt "80_Player"
+msgid "What are you doing here?"
+msgstr "Che ci fai qui?"
+
+msgctxt "92_Man"
+msgid ""
+"Oh, well, I'm sellin' stuff out of this car. This town's gotten pretty crazy"
+" lately, don'tcha think? So I'm takin' my shop on the move."
+msgstr ""
+"Ah, beh, vendo roba da 'sta macchina. Questa città è diventata un bel casino"
+" ultimamente, non trovi? Quindi mi sposto col negozio."
+
+msgctxt "104_Player"
+msgid "On the move? So you take it to other cities, then?"
+msgstr "Sempre in movimento? Quindi lo porti anche in altre città, eh?"
+
+msgctxt "116_Man"
+msgid ""
+"Nah, I could never leave Kamurocho. Try to find me around town when you've "
+"got a sec. When you do, I'll welcome you and your business with open arms!"
+msgstr ""
+"Nah, io Kamurocho non la lascio mica. Cerca di trovarmi in giro per la città"
+" quando hai un attimo. Quando mi trovi, ti accoglierò, te e i tuoi acquisti,"
+" a braccia aperte!"

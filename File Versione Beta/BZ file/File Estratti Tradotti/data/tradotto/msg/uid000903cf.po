@@ -1,0 +1,84 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "224"
+msgid "You gained 3,000 EXP."
+msgstr "Hai guadagnato 3.000 EXP."
+
+msgctxt "2676"
+msgid "Tadokoro's Subordinate"
+msgstr "Uomo di Tadokoro"
+
+msgctxt "2680"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "2684"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2688"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2692"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "56_Tadokoro's Subordinate"
+msgid "How did it go, Suzuki-san?"
+msgstr "Allora, com'è andata, Suzuki-san?"
+
+msgctxt "68_Saejima"
+msgid "Motoyama skipped town. He ain't comin' back."
+msgstr "Motoyama se l'è svignata. Non tornerà più."
+
+msgctxt "80_Tadokoro's Subordinate"
+msgid "Yes, one of our agents confirmed it. I knew we could count on you."
+msgstr ""
+"Sì, uno dei nostri l'ha confermato. Lo sapevo che potevamo contare su di te."
+
+msgctxt "92_Saejima"
+msgid "Don't forget my pay."
+msgstr "Non scordarti la mia paga."
+
+msgctxt "104_Tadokoro's Subordinate"
+msgid ""
+"I wouldn't dream of it. Shall I apply it to the repayment of Tadashi-kun's "
+"debts?"
+msgstr "Non mi sognerei mai. Lo applico al saldo dei debiti di Tadashi-kun?"
+
+msgctxt "116_Saejima"
+msgid "Yep."
+msgstr "Sì."
+
+msgctxt "140_Tadokoro's Subordinate"
+msgid "Oh, and just out of curiosity, Suzuki-san..."
+msgstr "Oh, e giusto per curiosità, Suzuki-san..."
+
+msgctxt "152_Tadokoro's Subordinate"
+msgid "Did you happen to have some history with this Motoyama?"
+msgstr "Per caso avevi dei trascorsi con questo Motoyama?"
+
+msgctxt "164_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "176_Tadokoro's Subordinate"
+msgid ""
+"Ooh, if looks could kill... All right, if you don't want to answer, so be "
+"it. Goodbye, now."
+msgstr ""
+"Ah, se gli sguardi potessero uccidere... Va bene, se non vuoi rispondere, "
+"pazienza. Arrivederci, adesso."

@@ -1,0 +1,238 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5628"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "5632"
+msgid "Woman"
+msgstr "Donna"
+
+msgctxt "5636"
+msgid "F_ol_stand"
+msgstr "F_ol_stand"
+
+msgctxt "5640"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "5644"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "5648"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "5652"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "5656"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "5660"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "5664"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "5668"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "5672"
+msgid "Talk_CryBig_st"
+msgstr "Talk_CryBig_st"
+
+msgctxt "5676"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "5680"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "5684"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "5688"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "5692"
+msgid "Talk_Udekumi_Yes"
+msgstr "Talk_Udekumi_Yes"
+
+msgctxt "5696"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "5700"
+msgid "0"
+msgstr "0"
+
+msgctxt "232_Player"
+msgid "(I should come back when I'm alone.)"
+msgstr "(Dovrei tornare quando sono solo.)"
+
+msgctxt "244_Woman"
+msgid "*singing Filipino song*"
+msgstr "*canta una canzone filippina*"
+
+msgctxt "256_Woman"
+msgid "!?"
+msgstr "!?"
+
+msgctxt "340_Woman"
+msgid "*speaking Tagalog*"
+msgstr "*parlando tagalog*"
+
+msgctxt "352_Akiyama"
+msgid "(Shit... I have no idea what she's saying.)"
+msgstr "(Merda... Non capisco un cavolo di quello che sta dicendo.)"
+
+msgctxt "364_Akiyama"
+msgid "(Hmm. What should I do?)"
+msgstr "(Mmm. Che faccio?)"
+
+msgctxt "376_Akiyama"
+msgid "(I guess I'll just say something...)"
+msgstr "(Beh, dovrò pur dire qualcosa...)"
+
+msgctxt "388_Akiyama"
+msgid "*attempting to speak Tagalog* Hahaha!"
+msgstr "*tentando di parlare Tagalog* Hahaha!"
+
+msgctxt "400_Woman"
+msgid "!!!"
+msgstr "!!!"
+
+msgctxt "412_Woman"
+msgid "*actually speaking Tagalog*"
+msgstr "*sta effettivamente parlando Tagalog*"
+
+msgctxt "424_Woman"
+msgid "*speaking Tagalog*"
+msgstr "*parlando tagalog*"
+
+msgctxt "436_Akiyama"
+msgid "(Uh-oh. I think I pissed her off.)"
+msgstr "(Ahia. Credo di averla fatta incazzare.)"
+
+msgctxt "472_Woman"
+msgid "*speaking Tagalog*"
+msgstr "*parlando tagalog*"
+
+msgctxt "484_Saejima"
+msgid "(She ain't speakin' Japanese!? Aw shit...)"
+msgstr "(Questa non parla giapponese!? Cazzo...)"
+
+msgctxt "496_Saejima"
+msgid "(What should I do?)"
+msgstr "(Che dovrei fare?)"
+
+msgctxt "508_Saejima"
+msgid "(I'll just take my chances!)"
+msgstr "(Tento la fortuna!)"
+
+msgctxt "520_Saejima"
+msgid "*attempting to speak Tagalog*"
+msgstr "*tentativo di parlare Tagalog*"
+
+msgctxt "532_Woman"
+msgid "!!!"
+msgstr "!!!"
+
+msgctxt "544_Woman"
+msgid "*actually speaking Tagalog*"
+msgstr "*sta effettivamente parlando Tagalog*"
+
+msgctxt "556_Woman"
+msgid "*speaking Tagalog*"
+msgstr "*parlando tagalog*"
+
+msgctxt "568_Saejima"
+msgid "(I made her cry! What did I do...)"
+msgstr "(L'ho fatta piangere! Ma che cavolo ho combinato...)"
+
+msgctxt "604_Woman"
+msgid "*speaking Tagalog*"
+msgstr "*parlando tagalog*"
+
+msgctxt "616_Kiryu"
+msgid ""
+"(She's not Japanese, and doesn't seem to understand Japanese either...)"
+msgstr "(Lei non è giapponese e non sembra capire nemmeno il giapponese...)"
+
+msgctxt "628_Kiryu"
+msgid "(I suppose I could, but...)"
+msgstr "Immagino di sì, ma..."
+
+msgctxt "640_Kiryu"
+msgid "(She might understand if I just try talking.)"
+msgstr "(Magari capisce se provo a parlare.)"
+
+msgctxt "652_Kiryu"
+msgid "*attempting to speak Tagalog*"
+msgstr "*tentativo di parlare Tagalog*"
+
+msgctxt "664_Woman"
+msgid "!!!"
+msgstr "!!!"
+
+msgctxt "676_Woman"
+msgid "*actually speaking Tagalog*"
+msgstr "*sta effettivamente parlando Tagalog*"
+
+msgctxt "688_Woman"
+msgid "*speaking Tagalog*"
+msgstr "*parlando tagalog*"
+
+msgctxt "700_Kiryu"
+msgid "(I don't know what I said, but she looks happy. I guess that's that.)"
+msgstr "(Non so cosa le ho detto, ma sembra contenta. Vabbè, a posto così.)"
+
+msgctxt "712_Player"
+msgid "(I'm just gonna leave...)"
+msgstr "(Me ne vado e basta...)"
+
+msgctxt "772_Player"
+msgid "Make Up Random Words"
+msgstr "Inventa Parole a Caso"
+
+msgctxt "784_Player"
+msgid "Leave"
+msgstr "Andarsene"
+
+msgctxt "796_Player"
+msgid "Make Up Random Words"
+msgstr "Inventa Parole a Caso"
+
+msgctxt "808_Player"
+msgid "Leave"
+msgstr "Andarsene"
+
+msgctxt "820_Player"
+msgid "Make Up Random Words"
+msgstr "Inventa Parole a Caso"
+
+msgctxt "832_Player"
+msgid "Leave"
+msgstr "Andarsene"

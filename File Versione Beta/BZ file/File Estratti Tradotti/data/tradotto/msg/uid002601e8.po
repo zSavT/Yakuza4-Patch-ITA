@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "676"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "680"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "684"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "688"
+msgid "Run_Start_R180"
+msgstr "Run_Start_R180"
+
+msgctxt "56_Kiryu"
+msgid "Hey, you!"
+msgstr "Ehi, tu!"
+
+msgctxt "68_Man"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "80_Kiryu"
+msgid ""
+"Can I see that purse? A friend of mine had hers stolen a few minutes ago "
+"and－"
+msgstr ""
+"Posso vedere quella borsa? A una mia amica l'hanno fregata pochi minuti fa "
+"e－"
+
+msgctxt "92_Man"
+msgid "Shit!"
+msgstr "Merda!"

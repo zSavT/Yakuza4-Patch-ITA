@@ -1,0 +1,169 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4520"
+msgid "Shinnosuke"
+msgstr "Shinnosuke"
+
+msgctxt "4524"
+msgid "Shinnosuke's Former Customer"
+msgstr "Ex cliente di Shinnosuke"
+
+msgctxt "4528"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "4532"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "4536"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4540"
+msgid "Boyfriend"
+msgstr "Fidanzato"
+
+msgctxt "4544"
+msgid "ReM_nml_yoroke_br_big"
+msgstr "ReM_nml_yoroke_br_big"
+
+msgctxt "4548"
+msgid "0"
+msgstr "0"
+
+msgctxt "4552"
+msgid "SetM_nml_sitgrd_down_02"
+msgstr "SetM_nml_sitgrd_down_02"
+
+msgctxt "4556"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "4560"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "4564"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "100_Shinnosuke"
+msgid "You can't get away with this! You have to pay your tab!"
+msgstr "Non puoi farla franca così! Devi pagare il conto!"
+
+msgctxt "112_Shinnosuke's Former Customer"
+msgid ""
+"Huh? What're you talking about!? You already paid off the club, right? I "
+"don't owe them anything!"
+msgstr ""
+"Ma che dici? Di che parli!? Hai già pagato il locale, no? Non gli devo "
+"niente!"
+
+msgctxt "124_Shinnosuke"
+msgid "But you owe me now, so pay up!"
+msgstr "Ma ora mi devi, quindi sborsa!"
+
+msgctxt "136_Shinnosuke's Former Customer"
+msgid "No."
+msgstr "No."
+
+msgctxt "148_Shinnosuke"
+msgid "Why you...!"
+msgstr "Ma tu...!"
+
+msgctxt "160_Boyfriend"
+msgid ""
+"Give it up! You're a professional host, time you learned how to deal with "
+"things like this!"
+msgstr ""
+"Dacci un taglio! Sei un host professionista, è ora che impari a cavartela in"
+" situazioni del genere!"
+
+msgctxt "196_Shinnosuke"
+msgid "Agh!"
+msgstr "Agh!"
+
+msgctxt "208_Shinnosuke's Former Customer"
+msgid "Haha! I soooo prefer a strong man to a pretty-faced host!"
+msgstr "Ahah! Io preferisco di gran lunga un maschione a un host belloccio!"
+
+msgctxt "220_Boyfriend"
+msgid "Heheh..."
+msgstr "Eh eh..."
+
+msgctxt "232_Shinnosuke"
+msgid "Damn it..."
+msgstr "Maledizione..."
+
+msgctxt "244_Tanimura"
+msgid "That's enough."
+msgstr "Basta così."
+
+msgctxt "256_Boyfriend"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "268_Shinnosuke's Former Customer"
+msgid "Who are you?"
+msgstr "Chi sei?"
+
+msgctxt "280_Tanimura"
+msgid ""
+"I heard everything. You're definitely in the wrong here. Pay him his money."
+msgstr "Ho sentito tutto. Sei palesemente in torto qui. Sborsa i suoi soldi."
+
+msgctxt "292_Shinnosuke's Former Customer"
+msgid ""
+"No way! The host pays if the customer doesn't, right? Those are the rules!"
+msgstr ""
+"Ma nemmeno per sogno! Se il cliente non paga, ci rimette l'host, no? Quelle "
+"sono le regole!"
+
+msgctxt "304_Shinnosuke's Former Customer"
+msgid ""
+"He knew that when he started this line of work! No point crying about it "
+"now!"
+msgstr ""
+"Lo sapeva benissimo, quando ha iniziato 'sto mestiere!\n"
+"Inutile frignare adesso!"
+
+msgctxt "316_Shinnosuke"
+msgid "......"
+msgstr "......"
+
+msgctxt "328_Tanimura"
+msgid ""
+"He may have been a little naive. But it sounds to me like you had no "
+"intention of paying what you owed."
+msgstr ""
+"Sarà stato un po' ingenuo. Ma a me pare proprio che non avessi la minima "
+"intenzione di saldare il dovuto."
+
+msgctxt "340_Talk_Quest"
+msgid "That's straight-up fraud."
+msgstr "Questa è una truffa bella e buona."
+
+msgctxt "352_Shinnosuke's Former Customer"
+msgid "Don't be ridiculous! I didn't defraud anybody!"
+msgstr "Non dire cavolate! Non ho truffato nessuno!"
+
+msgctxt "364_Boyfriend"
+msgid "I've heard enough. Time for you to get lost!"
+msgstr "Ne ho sentito abbastanza. Sparisci!"
+
+msgctxt "376_Tanimura"
+msgid "Oh, and I suppose you're gonna make me?"
+msgstr "Ah, e suppongo che tu mi ci farai?"

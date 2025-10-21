@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2360"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "2364"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "2368"
+msgid "Kido"
+msgstr "Kido"
+
+msgctxt "2372"
+msgid "Talk_Phone_yes"
+msgstr "Talk_Phone_yes"
+
+msgctxt "2376"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "2380"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "92_Akiyama"
+msgid "Hello?"
+msgstr "Pronto?"
+
+msgctxt "104_Kido"
+msgid "Akiyama-san, it's me. Is now a good time?"
+msgstr "Akiyama-san, sono io. È un buon momento?"
+
+msgctxt "116_Akiyama"
+msgid "Yup, we're all in the clear. What's up?"
+msgstr "Sì, siamo a posto. Che c'è?"
+
+msgctxt "128_Kido"
+msgid ""
+"There's something I gotta talk to you about. You mind if we meet up for a "
+"few?"
+msgstr "C'è una cosa di cui devo parlarti. Ti va se ci vediamo per un attimo?"
+
+msgctxt "140_Akiyama"
+msgid "Not at all. Where at?"
+msgstr "Figurati. Dove ci becchiamo?"
+
+msgctxt "152_Kido"
+msgid ""
+"How about that building in Theater Square? You know, the red one down the "
+"alley?"
+msgstr ""
+"Che ne dici di quell'edificio a Theater Square? Sai, quello rosso giù per il"
+" vicolo?"
+
+msgctxt "164_Kido"
+msgid "We'll have some privacy there."
+msgstr "Lì staremo tranquilli."
+
+msgctxt "176_Kido"
+msgid ""
+"Anyway, it's the one right across from the movie theater. I'll be waiting up"
+" on the roof."
+msgstr ""
+"Comunque, è quello proprio di fronte al cinema.\n"
+"Ti aspetterò sul tetto."
+
+msgctxt "188_Akiyama"
+msgid "Roof of the red building. Got it."
+msgstr "Tetto dell'edificio rosso. Ricevuto."
+
+msgctxt "200_Kido"
+msgid "Perfect. See you there."
+msgstr "Perfetto. Ci vediamo lì."
+
+msgctxt "248_Akiyama"
+msgid "(Sounds like I should head over to Theater Square.)"
+msgstr "(Mi sa che dovrei fare un salto a Theater Square.)"

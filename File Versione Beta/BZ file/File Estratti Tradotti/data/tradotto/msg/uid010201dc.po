@@ -1,0 +1,241 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8540"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "8544"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "8548"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "8552"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "8556"
+msgid "Lily"
+msgstr "Lily"
+
+msgctxt "8560"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "8564"
+msgid "Yasuko"
+msgstr "Yasuko"
+
+msgctxt "8568"
+msgid "Hostess Club Scouting"
+msgstr "Caccia alle Hostess"
+
+msgctxt "544_Player"
+msgid "(Now's not the time for that...)"
+msgstr "(Ora non è il momento...)"
+
+msgctxt "556_Akiyama"
+msgid "(I'm with Lily-chan right now. I'll come back later.)"
+msgstr "(Sono con Lily-chan adesso. Tornerò più tardi.)"
+
+msgctxt "580_Player"
+msgid "What took you so long, Uncle Kaz? I got tired of waiting..."
+msgstr "Che ci hai messo così tanto, Zio Kaz? Mi sono stufato di aspettare..."
+
+msgctxt "604_Player"
+msgid "Oh, you're back, Akiyama-san. Shall we go, then?"
+msgstr "Oh, sei tornato, Akiyama-san. Andiamo, allora?"
+
+msgctxt "616_Player"
+msgid "Oh, Kiryu-san, I've been waiting for you. Shall we go, then?"
+msgstr "Oh, Kiryu-san, ti stavo aspettando. Allora, andiamo?"
+
+msgctxt "652_Player"
+msgid "Are you... going in there, Uncle Kaz?"
+msgstr "Stai... andando lì dentro, Zio Kaz?"
+
+msgctxt "664_Player"
+msgid "(Haruka's with me. What should I do?)"
+msgstr "(Haruka è con me. Che faccio?)"
+
+msgctxt "676_Player"
+msgid "Yeah, sorry. Think you can be a big girl and wait here while I'm gone?"
+msgstr ""
+"Già, scusa. Pensi di riuscire a fare la grande e aspettare qui finché non "
+"torno?"
+
+msgctxt "688_Haruka"
+msgid "...Okay. Have fun, Uncle Kaz."
+msgstr "...Ok. Divertiti, Zio Kaz."
+
+msgctxt "700_Player"
+msgid "No, I'm okay."
+msgstr "No, sono a posto."
+
+msgctxt "712_Haruka"
+msgid "Really? I don't mind."
+msgstr "Davvero? Non mi faccio problemi."
+
+msgctxt "736_Player"
+msgid "Um, are you going in here?"
+msgstr "Ehm, entri qui?"
+
+msgctxt "748_Player"
+msgid "(I forgot Lily-chan's with me. What to do...)"
+msgstr "Mi ero scordato che Lily-chan è con me. E ora che si fa...?"
+
+msgctxt "760_Player"
+msgid "Yeah. Sorry, but could you wait a bit out here?"
+msgstr "Sì. Scusa, ma potresti aspettare un attimo qui fuori?"
+
+msgctxt "772_Lily"
+msgid "Oh, sure. I understand."
+msgstr "Ah, certo. Ho capito."
+
+msgctxt "784_Player"
+msgid "Actually, never mind."
+msgstr "Anzi, lascia stare."
+
+msgctxt "796_Lily"
+msgid "I see... You don't have to worry about me though."
+msgstr "Capisco... Per me non ti devi preoccupare, però."
+
+msgctxt "808_Player"
+msgid "Um, are you going in here?"
+msgstr "Ehm, entri qui?"
+
+msgctxt "820_Player"
+msgid "(I forgot Yasuko-san's with me. What to do...)"
+msgstr "(Ho dimenticato che Yasuko-san è con me. Cosa faccio...?)"
+
+msgctxt "832_Player"
+msgid "Sorry, but could you wait here for a bit?"
+msgstr "Scusa, ma potresti aspettare qui un attimo?"
+
+msgctxt "844_Yasuko"
+msgid "Oh, sure. I understand."
+msgstr "Ah, certo. Ho capito."
+
+msgctxt "856_Player"
+msgid "Never mind."
+msgstr "Lascia stare."
+
+msgctxt "868_Yasuko"
+msgid "I see... You don't have to worry about me though."
+msgstr "Capisco... Per me non ti devi preoccupare, però."
+
+msgctxt "952_Player"
+msgid "(Hostess club, Elise... Ain't interested.)"
+msgstr "(Hostess club, Elise... Non m'interessa.)"
+
+msgctxt "1000_Akiyama"
+msgid ""
+"(I don't have any business here right now. I've done everything I can.)"
+msgstr ""
+"(Non ho più niente da fare qui adesso. Ho fatto tutto quello che potevo.)"
+
+msgctxt "1012_Akiyama"
+msgid ""
+"(Come to think of it, I was recruiting hostesses earlier. Maybe I should try"
+" again.)"
+msgstr ""
+"Ora che ci penso, prima stavo reclutando hostess. Magari dovrei riprovarci."
+
+msgctxt "1024_Akiyama"
+msgid "(Okay, I'll give it another try.)"
+msgstr "(Va bene, ci riprovo.)"
+
+msgctxt "1036_Hostess Club Scouting"
+msgid ""
+"The game's story will not advance while you are recruiting girls for the "
+"club. Walk around the streets of Kamurocho until you find a girl you like."
+msgstr ""
+"La storia del gioco non andrà avanti mentre sei a caccia di ragazze per il "
+"club. Gira per le strade di Kamurocho finché non trovi una ragazza che ti "
+"piace."
+
+msgctxt "1084_Akiyama"
+msgid "(No, I have other things to do. I'll get back to recruiting later.)"
+msgstr "(No, ho altre cose da fare. Torno al reclutamento più tardi.)"
+
+msgctxt "1096_Akiyama"
+msgid "(Gotta scout some girls for the club...)"
+msgstr "(Devo scovare qualche ragazza per il locale...)"
+
+msgctxt "1108_Akiyama"
+msgid "(Or should I stop recruiting for the moment?)"
+msgstr "(O dovrei smetterla di reclutare per ora?)"
+
+msgctxt "1120_Akiyama"
+msgid "(I'll stop for now.)"
+msgstr "(Mi fermo per ora.)"
+
+msgctxt "1168_Akiyama"
+msgid "(No, I should keep looking.)"
+msgstr "(No, dovrei continuare a cercare.)"
+
+msgctxt "1180_Akiyama"
+msgid "(Now's not the time for this.)"
+msgstr "(Non è proprio il momento.)"
+
+msgctxt "1192_Akiyama"
+msgid "(Now's not the time for this.)"
+msgstr "(Non è proprio il momento.)"
+
+msgctxt "1216_Akiyama"
+msgid "(I think I was supposed to meet a girl now.)"
+msgstr "(Mi sa che dovevo incontrare una ragazza adesso.)"
+
+msgctxt "1240_Player"
+msgid "Go In Anyway"
+msgstr "Entra comunque"
+
+msgctxt "1252_Player"
+msgid "Forget It"
+msgstr "Lascia perdere"
+
+msgctxt "1264_Player"
+msgid "Go In Anyway"
+msgstr "Entra comunque"
+
+msgctxt "1276_Player"
+msgid "Forget It"
+msgstr "Lascia perdere"
+
+msgctxt "1288_Player"
+msgid "Go In Anyway"
+msgstr "Entra comunque"
+
+msgctxt "1300_Player"
+msgid "Forget It"
+msgstr "Lascia perdere"
+
+msgctxt "1312_Player"
+msgid "Start Recruiting Again"
+msgstr "Ricomincia a reclutare"
+
+msgctxt "1324_Player"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "1336_Player"
+msgid "Stop Recruiting"
+msgstr "Smetti di reclutare"
+
+msgctxt "1348_Player"
+msgid "Continue Recruiting"
+msgstr "Continua a reclutare"

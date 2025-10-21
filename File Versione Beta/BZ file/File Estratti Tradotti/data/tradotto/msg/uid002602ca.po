@@ -1,0 +1,88 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1712"
+msgid "Elise Manager"
+msgstr "Manager dell'Elise"
+
+msgctxt "1716"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1720"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1724"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "1728"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "1732"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1736"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1740"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "112_Elise Manager"
+msgid "Hello, Akiyama-san."
+msgstr "Ciao, Akiyama-san."
+
+msgctxt "124_Akiyama"
+msgid ""
+"Yo. I thought I'd drop in and check on the club. How are\r\n"
+"things?"
+msgstr ""
+"Ehi. Ho pensato di fare un salto e dare un'occhiata al locale. Come\\nbutta?"
+
+msgctxt "136_Elise Manager"
+msgid "Remarkably well, given the state of the economy."
+msgstr "Sorprendentemente bene, visto com'è messa l'economia."
+
+msgctxt "148_Akiyama"
+msgid "Really? That's good to hear."
+msgstr "Davvero? Mi fa piacere sentirlo."
+
+msgctxt "160_Elise Manager"
+msgid "But..."
+msgstr "Ma..."
+
+msgctxt "172_Akiyama"
+msgid "But what?"
+msgstr "Ma cosa?"
+
+msgctxt "184_Elise Manager"
+msgid "Well, it's Miki..."
+msgstr "Beh, è Miki...\\n"
+
+msgctxt "196_Akiyama"
+msgid "What about her?"
+msgstr "E lei?"
+
+msgctxt "208_Elise Manager"
+msgid "Maybe you'd better ask her yourself. She's in today."
+msgstr "Forse è meglio che glielo chieda tu stesso. È qui oggi."
+
+msgctxt "220_Akiyama"
+msgid "All right. Have her stop by the dressing room."
+msgstr "Va bene. Falla passare dal camerino."

@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1192"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1196"
+msgid "Robber"
+msgstr "Rapinatore"
+
+msgctxt "1200"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "56_Tanimura"
+msgid "So, that's where you were hiding."
+msgstr "Allora, è lì che eri rintanato."
+
+msgctxt "68_Robber"
+msgid "Aaah! You found me!"
+msgstr "Aaah! Mi hai trovato!"
+
+msgctxt "128_Tanimura"
+msgid "You've got nowhere else to run. Give it up!"
+msgstr "Non hai più dove scappare. Mollala!"
+
+msgctxt "140_Robber"
+msgid "Kiss my ass! You think I'd give up that easy?"
+msgstr "Baciami il culo! Credi che mollerei così facilmente?"

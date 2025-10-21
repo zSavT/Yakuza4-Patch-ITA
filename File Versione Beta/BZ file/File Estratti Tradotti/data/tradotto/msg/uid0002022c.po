@@ -1,0 +1,68 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2084"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2088"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2092"
+msgid "Kataoka"
+msgstr "Kataoka"
+
+msgctxt "2096"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "2100"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "72_Saejima"
+msgid "You there. I hear ya got yourself a chain."
+msgstr "Ehi tu. Ho sentito che hai una catena."
+
+msgctxt "84_Kataoka"
+msgid "What's it to you?"
+msgstr "E a te che importa?"
+
+msgctxt "96_Saejima"
+msgid "Mind lettin' me borrow it?"
+msgstr "Ti dispiace se me la prendo in prestito?"
+
+msgctxt "108_Kataoka"
+msgid "Ha! We got ourselves a joker here, boys."
+msgstr "Ah! Abbiamo un burlone qui, ragazzi."
+
+msgctxt "120_Kataoka"
+msgid ""
+"Weapons are the only thing that keep you alive in this hellhole. Not a "
+"chance I'm lending mine out to the first little shit that comes strolling up"
+" to me."
+msgstr ""
+"Le armi sono l'unica cosa che ti tiene in vita in questo buco infernale. Non"
+" c'è alcuna possibilità che io presti la mia al primo stronzo che mi si "
+"avvicina."
+
+msgctxt "132_Saejima"
+msgid "...Sorry, but I need that chain real bad."
+msgstr "...Scusa, ma mi serve davvero quella catena."
+
+msgctxt "144_Saejima"
+msgid ""
+"If ya ain't gonna lend it to me, I'm just gonna have to take it by force."
+msgstr "Se non hai intenzione di prestarmela, dovrò prenderla con la forza."

@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1156"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "1160"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1164"
+msgid "Sukegawa"
+msgstr "Sukegawa"
+
+msgctxt "1168"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1172"
+msgid "Yakuza"
+msgstr "Yakuza"
+
+msgctxt "80_Akiyama"
+msgid ""
+"Hey there, friends. You wouldn't happen to know where I could find a "
+"Hatsushiba-san, would you?"
+msgstr ""
+"Ehi, amici. Non è che per caso sapreste dove potrei trovare un Hatsushiba-"
+"san?"
+
+msgctxt "92_Sukegawa"
+msgid "Give us back our home, you filth!"
+msgstr "Ridacci la nostra casa, feccia!"
+
+msgctxt "104_Yakuza"
+msgid ""
+"Ugh, first the old geezer upstairs, now this? Guess the only way to shut you"
+" up is to kill you!"
+msgstr ""
+"Ugh, prima il vecchio là sopra, e adesso questo?\n"
+"Mi sa che l'unico modo per farti stare zitto è ammazzarti!"

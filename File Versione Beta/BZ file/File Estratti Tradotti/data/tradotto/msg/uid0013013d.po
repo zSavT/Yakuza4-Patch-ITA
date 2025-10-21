@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1140"
+msgid "Yakuza"
+msgstr "Yakuza"
+
+msgctxt "1144"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1148"
+msgid "Owner"
+msgstr "Proprietario"
+
+msgctxt "1152"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "1156"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1160"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1164"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "84_Yakuza"
+msgid ""
+"I just told ya, I found a roach in my food! And that's gonna cost ya a "
+"million yen!"
+msgstr ""
+"Te l'ho appena detto, ho trovato uno scarafaggio nel mio cibo! E questo ti "
+"costerà un milione di yen!"
+
+msgctxt "96_Owner"
+msgid "That's impossible! We would never serve food like that!"
+msgstr "È impossibile! Non serviremmo mai roba del genere!"
+
+msgctxt "108_Tanimura"
+msgid ""
+"Enough. I'm with the police. That whole roach-in-the-food trick is the "
+"oldest one in the book. And you're bothering the other customers."
+msgstr ""
+"Basta. Sono della polizia. Quella storia dello scarafaggio nel cibo è un "
+"trucco vecchio come il cucco. E stai dando fastidio agli altri clienti."
+
+msgctxt "120_Yakuza"
+msgid "Huh!? You callin' me a liar!?"
+msgstr "Eh!? Mi stai dando del bugiardo!?"

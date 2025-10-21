@@ -1,0 +1,133 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "224"
+msgid "You got <Color:255,255,200,255>300 casino chips<Color:Default>."
+msgstr ""
+"Hai ottenuto <Color:255,255,200,255>trecento fiches da "
+"casinò<Color:Default>."
+
+msgctxt "3864"
+msgid "Difficult Patron"
+msgstr "Un brutto cliente"
+
+msgctxt "3868"
+msgid "Casino Manager"
+msgstr "Responsabile del Casinò"
+
+msgctxt "3872"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "3876"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "3880"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "3884"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "3888"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3892"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "3896"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "3900"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "3904"
+msgid "0"
+msgstr "0"
+
+msgctxt "56_Difficult Patron"
+msgid "Help! He's gonna kill me!"
+msgstr "Aiuto! Mi ammazza!"
+
+msgctxt "128_Casino Manager"
+msgid ""
+"Thank you very much. For a moment there,\r\n"
+"I wasn't sure what was going to happen."
+msgstr ""
+"Grazie infinite. Per un attimo,\n"
+"non sapevo cosa sarebbe successo."
+
+msgctxt "140_Saejima"
+msgid "Sorry for the ruckus."
+msgstr "Scusa per il casino."
+
+msgctxt "152_Casino Manager"
+msgid ""
+"Not at all. You drove home an important point. We should\r\n"
+"have fewer troublemakers in here from now on."
+msgstr ""
+"Assolutamente no. Hai ribadito un concetto importante. Dovremmo\n"
+"avere meno piantagrane qui dentro d'ora in poi."
+
+msgctxt "164_Saejima"
+msgid "Yeah? Hope so."
+msgstr "Sì? Speriamo."
+
+msgctxt "176_Casino Manager"
+msgid ""
+"Now, about your payment. I'll be forwarding it\r\n"
+"to Tadokoro-san, if that's all right with you."
+msgstr ""
+"E ora, riguardo al tuo compenso. Lo farò avere\n"
+"a Tadokoro-san, se per te va bene."
+
+msgctxt "188_Saejima"
+msgid "Yeah, no prob. We got an agreement, me and him."
+msgstr "Sì, a posto. Abbiamo un accordo, io e lui."
+
+msgctxt "200_Casino Manager"
+msgid "Very well. That's what I'll do, then."
+msgstr "Perfetto. Farò così, allora."
+
+msgctxt "212_Casino Manager"
+msgid ""
+"And as a thank-you from me personally, I set aside\r\n"
+"these casino chips for you. Please take some time\r\n"
+"to enjoy yourself, on the house."
+msgstr ""
+"E come ringraziamento da parte mia personalmente, ho messo da parte\n"
+"queste fiches del casinò per te. Ti prego, prenditi un po' di tempo\n"
+"per divertirti, offerto dalla casa."
+
+msgctxt "236_Saejima"
+msgid "Really? I appreciate that."
+msgstr "Davvero? Apprezzo molto."
+
+msgctxt "248_Casino Manager"
+msgid ""
+"Come again for a game or two whenever you'd like.\r\n"
+"We'll be looking forward to seeing you."
+msgstr ""
+"Fatti rivedere per una giocata o due, quando ti pare.\n"
+"Ti aspettiamo."
+
+msgctxt "260_Casino Manager"
+msgid "Thanks again for your hard work today."
+msgstr "Grazie ancora per il lavorone di oggi."

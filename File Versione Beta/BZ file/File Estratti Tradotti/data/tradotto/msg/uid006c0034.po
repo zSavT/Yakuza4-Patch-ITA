@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1488"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "204_Player"
+msgid "(Should I give her a present?)"
+msgstr "Dovrei farle un regalo?"
+
+msgctxt "228_Player"
+msgid "(Maybe she'd like this.)"
+msgstr "(Magari le piacerebbe questo.)"
+
+msgctxt "240_Player"
+msgid "(On second thought, maybe not.)"
+msgstr "(Ripensandoci, magari no.)"
+
+msgctxt "252_Player"
+msgid ""
+"(This might be a good time to leave, but I've got enough money. Should I "
+"stay a bit longer?)"
+msgstr ""
+"(Forse è il momento di andarsene, ma ho ancora soldi. Mi fermo ancora un "
+"po'?)"
+
+msgctxt "264_Player"
+msgid "(I think I'll stay just a bit longer.)"
+msgstr "(Mi sa che mi fermo ancora un po'.)"
+
+msgctxt "276_Player"
+msgid "(I think it's time to go.)"
+msgstr "(Penso sia ora di andare.)"
+
+msgctxt "288_Player"
+msgid "(The girls were awful. What a disappointment.)"
+msgstr "(Le ragazze facevano schifo. Che delusione.)"
+
+msgctxt "300_Player"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "312_Player"
+msgid "No"
+msgstr "No"
+
+msgctxt "324_Player"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "336_Player"
+msgid "No"
+msgstr "No"

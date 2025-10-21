@@ -1,0 +1,234 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "464"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "932"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "13052"
+msgid "Himeka"
+msgstr "Himeka"
+
+msgctxt "13056"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13060"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "13064"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "13068"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "13072"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13076"
+msgid "0"
+msgstr "0"
+
+msgctxt "13080"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "13084"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "13088"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "116_Himeka"
+msgid "Hmm, now what should I sing today?"
+msgstr "Mmmh, cosa mi canto oggi?"
+
+msgctxt "128_Player"
+msgid "Should we head inside?"
+msgstr "Andiamo dentro?"
+
+msgctxt "152_Himeka"
+msgid "Hmm, now what should I sing today?"
+msgstr "Mmmh, cosa mi canto oggi?"
+
+msgctxt "164_Player"
+msgid "Uh... Hold on a second. I just realized I'm short on cash."
+msgstr ""
+"Ehm... Aspetta un attimo. Mi sono appena reso conto che sono a corto di "
+"grana."
+
+msgctxt "176_Himeka"
+msgid "Huh? You're kiddin', right?"
+msgstr "Eh? Stai scherzando, vero?"
+
+msgctxt "188_Tanimura"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "200_Himeka"
+msgid ""
+"Well, that's the end of our date for today. See ya later, Tanimura-san..."
+msgstr "Beh, per oggi la nostra uscita è finita. Ci vediamo, Tanimura-san..."
+
+msgctxt "212_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+"(Meglio che mi ricordi di portare abbastanza grana la prossima volta...)"
+
+msgctxt "320_Himeka"
+msgid "Whew! That was awesome! You rocked out in there."
+msgstr "Mamma mia! È stato una figata! Hai spaccato lì dentro."
+
+msgctxt "332_Player"
+msgid "You're a great singer yourself."
+msgstr "Sei un grande cantante anche tu."
+
+msgctxt "344_Himeka"
+msgid "I had a great time today! Let's do this again sometime. See ya!"
+msgstr ""
+"Mi sono divertito un mondo oggi! Dobbiamo rifarlo un'altra volta. Ci si "
+"vede!"
+
+msgctxt "368_Himeka"
+msgid "I really sang my heart out. And you weren't bad, either, Tanimura-san."
+msgstr ""
+"Mi sono proprio sfogata a cantare. E nemmeno tu eri male, Tanimura-san."
+
+msgctxt "380_Player"
+msgid "Heh."
+msgstr "Eh."
+
+msgctxt "392_Himeka"
+msgid "I had a great time today. Let's do this again sometime. See ya!"
+msgstr ""
+"Oggi mi sono divertito un mondo.\n"
+"Facciamolo di nuovo, prima o poi.\n"
+"Ci si vede!"
+
+msgctxt "416_Himeka"
+msgid "I just couldn't get into it today... And you didn't really help."
+msgstr "Oggi proprio non mi è venuta... E tu non hai certo aiutato."
+
+msgctxt "428_Player"
+msgid "Oh... Sorry..."
+msgstr "Oh... Scusa..."
+
+msgctxt "440_Himeka"
+msgid "I think I'll just go home. See you at the club."
+msgstr "Mi sa che vado a casa. Ci vediamo al club."
+
+msgctxt "548_Himeka"
+msgid "Hmm, now what should I sing today?"
+msgstr "Mmmh, cosa mi canto oggi?"
+
+msgctxt "560_Player"
+msgid "Should we head inside?"
+msgstr "Andiamo dentro?"
+
+msgctxt "584_Himeka"
+msgid "Hmm, now what should I sing today?"
+msgstr "Mmmh, cosa mi canto oggi?"
+
+msgctxt "596_Player"
+msgid "Uh... Hold on a second. I just realized I'm short on cash."
+msgstr ""
+"Ehm... Aspetta un attimo. Mi sono appena reso conto che sono a corto di "
+"grana."
+
+msgctxt "608_Himeka"
+msgid "Huh? You're kiddin', right?"
+msgstr "Eh? Stai scherzando, vero?"
+
+msgctxt "620_Tanimura"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "632_Himeka"
+msgid ""
+"Well, that's the end of our date for today. See ya later, Tanimura-san..."
+msgstr "Beh, per oggi la nostra uscita è finita. Ci vediamo, Tanimura-san..."
+
+msgctxt "644_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+"(Meglio che mi ricordi di portare abbastanza grana la prossima volta...)"
+
+msgctxt "752_Himeka"
+msgid "Whew! That was awesome! You rocked out in there."
+msgstr "Mamma mia! È stato una figata! Hai spaccato lì dentro."
+
+msgctxt "764_Player"
+msgid "You're a great singer yourself."
+msgstr "Sei un grande cantante anche tu."
+
+msgctxt "776_Himeka"
+msgid ""
+"I had a great time today! Let's do this again sometime. Wanna head over to "
+"the club now?"
+msgstr ""
+"Mi sono divertito un mondo oggi! Dobbiamo rivederci presto. Ti va di fare un"
+" salto al club adesso?"
+
+msgctxt "788_Player"
+msgid "Sure. Sounds good."
+msgstr "Certo. Suona bene."
+
+msgctxt "812_Himeka"
+msgid "I really sang my heart out. And you weren't bad, either, Tanimura-san."
+msgstr ""
+"Mi sono proprio sfogata a cantare. E nemmeno tu eri male, Tanimura-san."
+
+msgctxt "824_Player"
+msgid "Heh."
+msgstr "Eh."
+
+msgctxt "836_Himeka"
+msgid ""
+"I had a great time today. Let's do this again sometime. Wanna head over to "
+"the club now?"
+msgstr ""
+"Mi sono divertito un botto oggi. Dobbiamo rifarlo, eh? Ti va di fare un "
+"salto al club adesso?"
+
+msgctxt "848_Player"
+msgid "Sure. Sounds good."
+msgstr "Certo. Suona bene."
+
+msgctxt "872_Himeka"
+msgid "I just couldn't get into it today... And you didn't really help."
+msgstr "Oggi proprio non mi è venuta... E tu non hai certo aiutato."
+
+msgctxt "884_Player"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "896_Himeka"
+msgid "Wanna head over to the club now?"
+msgstr "Ti va di andare al club adesso?"
+
+msgctxt "908_Player"
+msgid "Sure. Sounds good."
+msgstr "Certo. Suona bene."

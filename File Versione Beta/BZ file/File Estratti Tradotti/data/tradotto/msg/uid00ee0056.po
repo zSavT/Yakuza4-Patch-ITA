@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "452"
+msgid "Employee"
+msgstr "Cameriere"
+
+msgctxt "456"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "56_Employee"
+msgid "Hello! Let's see... I'd recommend these items for you, sir."
+msgstr "Salve! Vediamo un po'... Le consiglierei questi articoli, signore."
+
+msgctxt "80_Employee"
+msgid "Thank you. Please come again."
+msgstr "Grazie. Torna a trovarci."

@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "992"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "996"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1000"
+msgid "Waiting Man"
+msgstr "Tizio in attesa"
+
+msgctxt "1004"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "84_Akiyama"
+msgid "Hey, excuse me. Do you know where Shino Productions is?"
+msgstr "Ehi, scusi. Sa mica dove si trova la Shino Productions?"
+
+msgctxt "96_Waiting Man"
+msgid "Hm? Shino Productions? It's right in this building."
+msgstr "Mh? Shino Productions? È proprio qui, in questo palazzo."
+
+msgctxt "108_Akiyama"
+msgid "Great, thanks."
+msgstr "Perfetto, grazie."
+
+msgctxt "120_Akiyama"
+msgid "(I should pay them a little visit.)"
+msgstr "(Dovrei fargli una visitina.)"

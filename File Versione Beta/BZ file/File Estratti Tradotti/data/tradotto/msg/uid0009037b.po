@@ -1,0 +1,275 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "9308"
+msgid "Hostess"
+msgstr "Hostess"
+
+msgctxt "9312"
+msgid "Creepy Scout"
+msgstr "Ricognitore Viscido"
+
+msgctxt "9316"
+msgid "Takashi"
+msgstr "Takashi"
+
+msgctxt "9320"
+msgid "0"
+msgstr "0"
+
+msgctxt "9324"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "9328"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "9332"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "9336"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "9340"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "9344"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "9348"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "9352"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "9356"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "9360"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "9364"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "9368"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "9372"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "9376"
+msgid "P_aki_stand"
+msgstr "P_aki_stand"
+
+msgctxt "9380"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "9384"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "9388"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "84_Hostess"
+msgid "Please, I'm really in a hurry here."
+msgstr "Ti prego, ho proprio fretta."
+
+msgctxt "96_Creepy Scout"
+msgid ""
+"C'mon, babe, don't play hard to get. We'll pay you at least\r\n"
+"double what you're making now. How 'bout triple?"
+msgstr ""
+"Dai, bella, non fare la preziosa. Ti pagheremo almeno\n"
+"il doppio di quello che guadagni ora. E il triplo?"
+
+msgctxt "108_Hostess"
+msgid "I told you to leave me alone!"
+msgstr "Ti avevo detto di lasciarmi in pace!"
+
+msgctxt "120_Takashi"
+msgid "Hold up, man!"
+msgstr "Frena, amico!"
+
+msgctxt "132_Creepy Scout"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "144_Kiryu"
+msgid "(Akiyama? Guess he got dragged into this, too...)"
+msgstr "(Akiyama? Mi sa che ci è finito in mezzo anche lui...)"
+
+msgctxt "156_Takashi"
+msgid ""
+"Can't you tell she doesn't want to go with you? Why don't\r\n"
+"you just leave her alone?"
+msgstr ""
+"Non capisci che non vuole venire con te? Perché non\n"
+"la molli e basta?"
+
+msgctxt "168_Creepy Scout"
+msgid "Who's asking?"
+msgstr "Chi lo chiede?"
+
+msgctxt "180_Takashi"
+msgid ""
+"It doesn't matter who I am. The only important thing now is\r\n"
+"that you're really bothering her! So just go, okay!?"
+msgstr ""
+"Non importa chi sono. L'unica cosa che conta adesso è\n"
+"che la stai proprio infastidendo! Quindi sparisci, capito!?"
+
+msgctxt "192_Creepy Scout"
+msgid ""
+"We got a tough guy, huh? You sure talk the talk, but do you\r\n"
+"walk the walk?"
+msgstr ""
+"Allora, un duro, eh? Sei bravo a chiacchiere, ma poi\n"
+"passi ai fatti?"
+
+msgctxt "204_Takashi"
+msgid "I..."
+msgstr "Io..."
+
+msgctxt "216_Creepy Scout"
+msgid ""
+"Eh, whatever. I don't have the time for this. Now where am I\r\n"
+"gonna find myself a looker?"
+msgstr ""
+"Eh, vabbè. Non c'ho tempo per queste cose. E adesso dove mi\n"
+"trovo una gnocca?"
+
+msgctxt "240_Kiryu"
+msgid ""
+"(Wow, Takashi has some guts. It's probably a good thing Akiyama backed off, "
+"though. I don't know if those guts would last in a real fight.)"
+msgstr ""
+"(Caspita, Takashi ha un bel fegato. Forse è stato un bene che Akiyama si sia"
+" tirato indietro, però. Non so se quel fegato reggerebbe in uno scontro "
+"vero.)"
+
+msgctxt "252_Hostess"
+msgid "Oh, thank you so much!"
+msgstr "Oh, grazie mille!"
+
+msgctxt "264_Takashi"
+msgid ""
+"Don't worry about it, ma'am. I'm sure anybody would have\r\n"
+"done the same in my shoes."
+msgstr ""
+"Non si preoccupi, signora. Sono sicuro che chiunque avrebbe\n"
+"fatto lo stesso al mio posto."
+
+msgctxt "276_Hostess"
+msgid ""
+"I'm not so sure about that. Say, how about I give you a little something "
+"special to express my gratitude?"
+msgstr ""
+"Non ne sarei così convinto, eh. Senti, che ne dici se ti do qualcosina di "
+"speciale per ringraziarti?"
+
+msgctxt "288_Takashi"
+msgid "Huh? What do you mean?"
+msgstr "Eh? Cosa intendi?"
+
+msgctxt "300_Hostess"
+msgid "I think you know exactly what I mean, big boy."
+msgstr "Penso tu sappia benissimo cosa intendo, ragazzone."
+
+msgctxt "312_Takashi"
+msgid "Wait, but..."
+msgstr "Aspetta, ma..."
+
+msgctxt "324_Hostess"
+msgid ""
+"Now come on. Let's have a little quality time, just the two of us. I'll "
+"thank you real good for saving me... ♪"
+msgstr ""
+"Dai, su. Godiamoci un po' di tempo, solo noi due. Ti ringrazierò per bene "
+"per avermi salvato... ♪"
+
+msgctxt "336_Kiryu"
+msgid "(He's not gonna take her up on this, is he!?)"
+msgstr "(Non ci starà, vero!?)"
+
+msgctxt "348_Hostess"
+msgid "So? Come on!"
+msgstr "Allora? Dai!"
+
+msgctxt "360_Takashi"
+msgid ""
+"I appreciate the offer, but just knowing you're safe is\r\n"
+"reward enough for me! I've got a girlfriend, too!"
+msgstr ""
+"Apprezzo l'offerta, ma il solo sapere che sei al sicuro è\n"
+"già una ricompensa sufficiente per me! Ho la morosa anch'io!"
+
+msgctxt "372_Takashi"
+msgid "Anyway, bye!"
+msgstr "Vabbè, ciao!"
+
+msgctxt "492_Takashi"
+msgid "Phew, that was close!"
+msgstr "Uff, l'abbiamo scampata bella!"
+
+msgctxt "504_Kiryu"
+msgid "Heh, looks like you've changed in the past three years."
+msgstr "Eh, mi sa che sei cambiato in questi tre anni."
+
+msgctxt "516_Takashi"
+msgid "Of course I have! I'll never cheat on Kyoka again!"
+msgstr "Ma certo che sì! Non tradirò mai più Kyoka!"
+
+msgctxt "540_Takashi"
+msgid "It's Takashi. Yeah, he's gone."
+msgstr "È Takashi. Già, se n'è andato."
+
+msgctxt "552_Takashi"
+msgid "Huh? One last job?"
+msgstr "Eh? Un ultimo lavoro?"
+
+msgctxt "564_Takashi"
+msgid "The Champion District, got it. I'm on my way!"
+msgstr "Quartiere Champion, capito. Sto arrivando!"
+
+msgctxt "588_Takashi"
+msgid ""
+"Sounds like somebody's harassing homeless people over in the\r\n"
+"Champion District."
+msgstr ""
+"A quanto pare, qualcuno sta infastidendo i senzatetto lì nel\n"
+"Distretto Champion."
+
+msgctxt "600_Takashi"
+msgid "And it's my job to take care of it! Bye now!"
+msgstr "E tocca a me occuparmene! Ciao, eh!"
+
+msgctxt "624_Kiryu"
+msgid ""
+"(Next up, the Champion District. I hope this really is the last one...)"
+msgstr "(Adesso, il Distretto Champion. Spero proprio che sia l'ultimo...)"

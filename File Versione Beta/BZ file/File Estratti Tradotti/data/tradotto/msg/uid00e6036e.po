@@ -1,0 +1,107 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3252"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "3256"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "3260"
+msgid "Saki-chan"
+msgstr "Saki-chan"
+
+msgctxt "3264"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3268"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "3272"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "56_Tanimura"
+msgid ""
+"*pant* Look... *pant* I think you have the wrong idea.\r\n"
+"I'm not after Nadine－in fact, I'm trying to help her."
+msgstr ""
+"*ansimando* Senti... *ansimando* Mi sa che hai capito male.\n"
+"Non sono qui per Nadine－anzi, sto cercando di aiutarla."
+
+msgctxt "68_Saki-chan"
+msgid "...Are you really?"
+msgstr "...Dici sul serio?"
+
+msgctxt "80_Tanimura"
+msgid ""
+"Cross my heart. So what's up with the whole chase sequence\r\n"
+"as soon as you saw my badge? Are you hiding something?"
+msgstr ""
+"Te lo giuro. Allora, che cos'era tutta quella rincorsa\n"
+"appena hai visto il mio distintivo? Stai nascondendo qualcosa?"
+
+msgctxt "92_Saki-chan"
+msgid "Well, the thing is... I help people."
+msgstr "Beh, diciamo che... io do una mano alla gente."
+
+msgctxt "104_Tanimura"
+msgid "Help them how?"
+msgstr "Come li aiuto?"
+
+msgctxt "116_Saki-chan"
+msgid ""
+"I use my connections to help foreign women when the cops or criminals come "
+"for them."
+msgstr ""
+"Uso i miei agganci per aiutare le donne straniere quando gli sbirri o i "
+"criminali vengono a prenderle."
+
+msgctxt "128_Tanimura"
+msgid "So I take it you know Nadine, then."
+msgstr "Quindi conosci Nadine, allora."
+
+msgctxt "140_Saki-chan"
+msgid "What would you do if you found her?"
+msgstr "Cosa ci faresti, se la trovassi?"
+
+msgctxt "152_Tanimura"
+msgid ""
+"Let me put it this way: she'll be dead if I don't find her first. And I'd "
+"like to get her home safe before that happens."
+msgstr ""
+"Mettiamola così: se non la trovo io per primo, è spacciata. E vorrei "
+"riportarla a casa sana e salva prima che succeda."
+
+msgctxt "164_Saki-chan"
+msgid "......"
+msgstr "......"
+
+msgctxt "176_Saki-chan"
+msgid ""
+"All right. I know where she is... I'm actually the one looking after her."
+msgstr "Va bene. So dov'è... Sono io, in realtà, che mi occupo di lei."
+
+msgctxt "188_Tanimura"
+msgid "Great! Can you take me to see her, then?"
+msgstr "Ottimo! Mi ci porti a vederla, allora?"
+
+msgctxt "200_Saki-chan"
+msgid ""
+"Well, you do seem like a decent guy... Alrighty-poo. ♪ You just follow me."
+msgstr "Beh, sembri proprio un tipo a posto... Va bene, dai. ♪ Tu seguimi."

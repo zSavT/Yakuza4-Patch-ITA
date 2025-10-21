@@ -1,0 +1,98 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2132"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2136"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "2140"
+msgid "Yasu"
+msgstr "Yasu"
+
+msgctxt "2144"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2148"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "2152"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "2156"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "2160"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "2164"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "2168"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "2172"
+msgid "Run_Start_L90"
+msgstr "Run_Start_L90"
+
+msgctxt "72_Kiryu"
+msgid "You're going nowhere! Tell me where the guitar is!"
+msgstr "Non vai da nessuna parte! Dimmi dov'è la chitarra!"
+
+msgctxt "84_Yasu"
+msgid "Sorry, old man! I don't have it!"
+msgstr "Spiacente, vecchio! Non ce l'ho!"
+
+msgctxt "96_Kiryu"
+msgid "Where is it then!?"
+msgstr "Allora, dov'è!?"
+
+msgctxt "108_Yasu"
+msgid "I pawned it! Got some good cash for it too! Hahaha!"
+msgstr "L'ho piazzata! Ci ho fatto pure un bel po' di grana! Hahaha!"
+
+msgctxt "120_Kiryu"
+msgid "What!? Listen, punk! You're going to go buy it back, right now!"
+msgstr "Cosa!? Senti, pivello! Tu la vai a ricomprare, subito!"
+
+msgctxt "132_Yasu"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "156_Yasu"
+msgid "Heh. It's game over for that bitch now."
+msgstr "Heh. Per quella stronza è finita adesso."
+
+msgctxt "168_Yasu"
+msgid "That was her number one axe. She'd never use another one."
+msgstr ""
+"Quella era la sua chitarra numero uno. Non ne avrebbe mai usata un'altra."
+
+msgctxt "180_Kiryu"
+msgid "Hey! Where's the guitar you stole?"
+msgstr "Oi! Dov'è la chitarra che hai rubato?"
+
+msgctxt "204_Yasu"
+msgid "You! Ahhh, I'm outta here!"
+msgstr "Tu! Ahhh, scappo via!"

@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "632"
+msgid "松岡里緒奈：源氏名"
+msgstr "松岡里緒奈:源氏名"
+
+msgctxt "636"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "640"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "644"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "56_松岡里緒奈：源氏名"
+msgid "Sorry... I hit the ball into a sand trap..."
+msgstr "Scusa... Ho mandato la palla in un bunker..."
+
+msgctxt "68_Kiryu"
+msgid "Don't worry. Leave the rest to me."
+msgstr "Non preoccuparti. Lascia fare a me."
+
+msgctxt "80_松岡里緒奈：源氏名"
+msgid "Okay! <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Okay! <Color:255,200,200,255>♥<Color:Default>"

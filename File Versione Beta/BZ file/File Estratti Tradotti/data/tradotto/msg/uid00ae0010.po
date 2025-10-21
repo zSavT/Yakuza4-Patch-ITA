@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "116"
+msgid "Which shop?"
+msgstr "Quale negozio?"
+
+msgctxt "164"
+msgid "Thank you much."
+msgstr "Grazie mille."
+
+msgctxt "176"
+msgid "Normal Shop"
+msgstr "Negozio normale"
+
+msgctxt "188"
+msgid "Weapon Shop"
+msgstr "Armeria"
+
+msgctxt "200"
+msgid "Fish"
+msgstr "Pesce"

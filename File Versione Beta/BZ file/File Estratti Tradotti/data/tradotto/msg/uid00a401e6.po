@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1552"
+msgid "Mother"
+msgstr "Madre"
+
+msgctxt "1556"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1560"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "1564"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "1568"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "84_Mother"
+msgid "Oh, my. Where could that girl have gotten to?"
+msgstr "Mamma mia. Dove sarà finita quella bambina?"
+
+msgctxt "96_Kiryu"
+msgid ""
+"Excuse me. Your daughter wouldn't happen to be a young girl dressed in navy "
+"blue, would she?"
+msgstr "Scusi. Sua figlia non sarà mica una ragazzina vestita di blu scuro?"
+
+msgctxt "108_Mother"
+msgid "Yes, that's her! Have you seen her?"
+msgstr "Sì, è proprio lei! L'hai vista?"
+
+msgctxt "120_Kiryu"
+msgid ""
+"Yeah, she's in front of the Millennium Tower. A friend of mine is watching "
+"over her there."
+msgstr ""
+"Sì, è davanti alla Millennium Tower. Un mio amico la sta tenendo d'occhio "
+"lì."
+
+msgctxt "132_Mother"
+msgid "Oh, thank you! Thank you so much! I'll head over there right away!"
+msgstr "Oh, grazie! Grazie infinite! Mi ci fiondo subito!"
+
+msgctxt "156_Kiryu"
+msgid "(Glad that's all sorted out.)"
+msgstr "(Meno male che è andato tutto a posto.)"

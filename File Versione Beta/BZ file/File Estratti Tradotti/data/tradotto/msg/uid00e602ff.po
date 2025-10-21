@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "624"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "628"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "632"
+msgid "Hayase"
+msgstr "Hayase"
+
+msgctxt "636"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "56_Saejima"
+msgid "Why'd ya hafta make more work for me?"
+msgstr "Perché hai dovuto proprio farmi altro lavoro?"
+
+msgctxt "68_Hayase"
+msgid "Goddammit..."
+msgstr "Maledizione..."
+
+msgctxt "80_Saejima"
+msgid "You're comin' with me."
+msgstr "Vieni con me."

@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "100"
+msgid "Here you go."
+msgstr "Ecco a lei."
+
+msgctxt "148"
+msgid "There you go."
+msgstr "Ecco a te."
+
+msgctxt "160"
+msgid "Didn't give you anything."
+msgstr "Non ti ho dato niente."
+
+msgctxt "172"
+msgid "Normal gift"
+msgstr "Regalo normale"
+
+msgctxt "184"
+msgid "Cabaret gift"
+msgstr "Regalo da cabaret"

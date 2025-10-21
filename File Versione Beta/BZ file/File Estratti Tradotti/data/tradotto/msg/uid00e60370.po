@@ -1,0 +1,87 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2948"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "2952"
+msgid "Yakuza"
+msgstr "Yakuza"
+
+msgctxt "2956"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "2960"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "2964"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "2968"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "72_Tanimura"
+msgid ""
+"(A food warehouse on the docks, huh? Then those must be the guys who took "
+"Nadine's passport...)"
+msgstr ""
+"Un magazzino alimentare sul molo, eh? Allora devono essere quelli che si "
+"sono presi il passaporto di Nadine..."
+
+msgctxt "84_Tanimura"
+msgid ""
+"'Scuse me. I'm here for the passports you've been stealing\r\n"
+"from foreign women."
+msgstr ""
+"Senta. Sono qui per i passaporti che avete fregato\n"
+"a donne straniere."
+
+msgctxt "96_Yakuza"
+msgid "Wait a minute. Aren't you...?"
+msgstr "Aspetta un attimo. Ma tu non sei...?"
+
+msgctxt "108_Tanimura"
+msgid ""
+"Yeah, you bet I am. If you don't want to get hurt again, hand over the "
+"passports. And make it quick."
+msgstr ""
+"Eccome se lo sono. Se non volete farvi male di nuovo, sputate fuori i "
+"passaporti. E sbrigatevi."
+
+msgctxt "120_Yakuza"
+msgid "You're one cocky son of a bitch, you know that?"
+msgstr "Sei proprio un figlio di puttana spaccone, lo sai?"
+
+msgctxt "132_Yakuza"
+msgid "All right, you're up! Come on out!"
+msgstr "Allora, tocca a te! Fatti avanti!"
+
+msgctxt "156_Tanimura"
+msgid "Oh, what..."
+msgstr "Oh, cosa..."
+
+msgctxt "168_Tanimura"
+msgid "What the hell do you feed this guy? Milk? Beef? Growth hormones?"
+msgstr ""
+"Ma che cazzo gli date da mangiare a 'sto qui? Latte? Manzo? Ormoni della "
+"crescita?"
+
+msgctxt "180_Yakuza"
+msgid "Now, pulverize this punk!"
+msgstr "Ora, fatelo a pezzi, questo stronzetto!"

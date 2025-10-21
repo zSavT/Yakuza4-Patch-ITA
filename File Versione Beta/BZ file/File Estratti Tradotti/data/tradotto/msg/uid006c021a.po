@@ -1,0 +1,269 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "380"
+msgid "That was quite fun! May I ask you to take me out again sometime?"
+msgstr ""
+"È stato proprio divertente! Potrei chiederle di portarmi fuori di nuovo, "
+"magari?"
+
+msgctxt "548"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "1088"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "14160"
+msgid "Shizuka"
+msgstr "Shizuka"
+
+msgctxt "14164"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "14168"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "14172"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "14176"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "14180"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "14184"
+msgid "0"
+msgstr "0"
+
+msgctxt "116_Shizuka"
+msgid "I wonder, what will you give me? Hehe."
+msgstr "Chissà, cosa mi regalerai? Eheheh."
+
+msgctxt "128_Player"
+msgid "You'll find out soon."
+msgstr "Lo scoprirai presto."
+
+msgctxt "140_Shizuka"
+msgid "Let's go in, shall we?"
+msgstr "Entriamo, che dici?"
+
+msgctxt "152_Player"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "176_Shizuka"
+msgid "I wonder, what will you give me? Hehe."
+msgstr "Chissà, cosa mi regalerai? Eheheh."
+
+msgctxt "188_Player"
+msgid "Hold on a sec. I just realized that I'm short on cash."
+msgstr ""
+"Aspetta un attimo.\n"
+"Mi sono appena reso conto che sono a corto di grana."
+
+msgctxt "200_Shizuka"
+msgid "Oh, really?"
+msgstr "Oh, davvero?"
+
+msgctxt "212_Player"
+msgid "Yeah. Sorry..."
+msgstr "Sì. Scusa..."
+
+msgctxt "224_Shizuka"
+msgid ""
+"No, I'm the one who should apologize. I asked you out and inconvenienced you"
+" like this."
+msgstr ""
+"No, sono io a dovermi scusare. Ti ho invitato fuori e ti ho creato questo "
+"disagio."
+
+msgctxt "236_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+"(Meglio che mi ricordi di portare abbastanza grana la prossima volta...)"
+
+msgctxt "344_Shizuka"
+msgid "You know exactly what I like, sir. <Color:7>♥<Color:Default>"
+msgstr "Sa perfettamente cosa mi piace, signore. <Color:7>♥<Color:Default>"
+
+msgctxt "356_Player"
+msgid "It's perfect for you."
+msgstr "È perfetto per te."
+
+msgctxt "368_Shizuka"
+msgid "I'll treasure it always. Thank you so much. <Color:7>♥<Color:Default>"
+msgstr ""
+"Lo custodirò per sempre. Ti ringrazio tanto. <Color:7>♥<Color:Default>"
+
+msgctxt "392_Player"
+msgid "Definitely."
+msgstr "Assolutamente."
+
+msgctxt "404_Shizuka"
+msgid "Then until we meet again!"
+msgstr "Allora, a presto!"
+
+msgctxt "428_Shizuka"
+msgid "Thank you. I'll certainly treasure this."
+msgstr "Grazie. Ne farò sicuramente tesoro."
+
+msgctxt "440_Player"
+msgid "Glad to hear it."
+msgstr "Mi fa piacere."
+
+msgctxt "452_Shizuka"
+msgid "I'll be seeing you again soon."
+msgstr "Ci rivedremo presto."
+
+msgctxt "476_Shizuka"
+msgid "......"
+msgstr "......"
+
+msgctxt "488_Player"
+msgid "Hmm? Something wrong?"
+msgstr "Mh? C'è qualcosa che non va?"
+
+msgctxt "500_Shizuka"
+msgid "I don't think this suits me at all..."
+msgstr "Non credo proprio che mi stia bene per niente..."
+
+msgctxt "512_Player"
+msgid "Oh... Sorry about that."
+msgstr "Oh... Scusa."
+
+msgctxt "524_Shizuka"
+msgid "(I should've put some more thought into it...)"
+msgstr "(Ci avrei dovuto pensare meglio...)"
+
+msgctxt "632_Shizuka"
+msgid "I wonder, what will you give me? Hehe."
+msgstr "Chissà, cosa mi regalerai? Eheheh."
+
+msgctxt "644_Player"
+msgid "You'll find out soon..."
+msgstr "Lo scoprirai presto..."
+
+msgctxt "656_Shizuka"
+msgid "Let's go in, shall we?"
+msgstr "Entriamo, che dici?"
+
+msgctxt "668_Player"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "692_Shizuka"
+msgid "I wonder, what will you give me? Hehe."
+msgstr "Chissà, cosa mi regalerai? Eheheh."
+
+msgctxt "704_Player"
+msgid "Hold on a sec. I just realized that I'm short on cash."
+msgstr ""
+"Aspetta un attimo.\n"
+"Mi sono appena reso conto che sono a corto di grana."
+
+msgctxt "716_Shizuka"
+msgid "Oh, really?"
+msgstr "Oh, davvero?"
+
+msgctxt "728_Player"
+msgid "Yeah. Sorry..."
+msgstr "Sì. Scusa..."
+
+msgctxt "740_Shizuka"
+msgid ""
+"No, I'm the one who should apologize. I asked you out and inconvenienced you"
+" like this. I suppose the date is over for today."
+msgstr ""
+"No, dovrei essere io a scusarmi. Sono stata io a chiederti di uscire e a "
+"metterti in questo guaio. Immagino che l'appuntamento sia finito per oggi."
+
+msgctxt "752_Player"
+msgid "(I'd better remember to bring enough cash next time...)"
+msgstr ""
+"(Meglio che mi ricordi di portare abbastanza grana la prossima volta...)"
+
+msgctxt "860_Shizuka"
+msgid "You know exactly what I like, sir. <Color:7>♥<Color:Default>"
+msgstr "Sa perfettamente cosa mi piace, signore. <Color:7>♥<Color:Default>"
+
+msgctxt "872_Player"
+msgid "It's perfect for you."
+msgstr "È perfetto per te."
+
+msgctxt "884_Shizuka"
+msgid "I'll treasure it always. Thank you so much. <Color:7>♥<Color:Default>"
+msgstr ""
+"Lo custodirò per sempre. Ti ringrazio tanto. <Color:7>♥<Color:Default>"
+
+msgctxt "896_Shizuka"
+msgid "Now then, shall we head to the club?"
+msgstr "Allora, andiamo al club?"
+
+msgctxt "908_Player"
+msgid "Yeah, sounds good."
+msgstr "Sì, bella idea."
+
+msgctxt "932_Shizuka"
+msgid "Thank you. I'll certainly treasure this."
+msgstr "Grazie. Ne farò sicuramente tesoro."
+
+msgctxt "944_Player"
+msgid "Glad to hear it."
+msgstr "Mi fa piacere."
+
+msgctxt "956_Shizuka"
+msgid "Now then, shall we head to the club?"
+msgstr "Allora, andiamo al club?"
+
+msgctxt "968_Player"
+msgid "Yeah, sounds good."
+msgstr "Sì, bella idea."
+
+msgctxt "992_Shizuka"
+msgid "......"
+msgstr "......"
+
+msgctxt "1004_Player"
+msgid "Hmm? Something wrong?"
+msgstr "Mh? C'è qualcosa che non va?"
+
+msgctxt "1016_Shizuka"
+msgid "I don't think this suits me at all..."
+msgstr "Non credo proprio che mi stia bene per niente..."
+
+msgctxt "1028_Player"
+msgid "Oh... I'm sorry."
+msgstr "Oh... Mi dispiace."
+
+msgctxt "1040_Shizuka"
+msgid "Um, please don't mind me."
+msgstr "Ehm, non badare a me."
+
+msgctxt "1052_Talk_No"
+msgid "Anyway... It's about time we go back to the club."
+msgstr "Comunque... È ora che si torni al locale."
+
+msgctxt "1064_Player"
+msgid "(I should've put some more thought into it...)"
+msgstr "(Ci avrei dovuto pensare meglio...)"

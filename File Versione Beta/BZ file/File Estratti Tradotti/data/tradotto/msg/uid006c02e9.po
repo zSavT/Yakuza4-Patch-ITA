@@ -1,0 +1,239 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "524"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "1016"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "12156"
+msgid "Chihiro"
+msgstr "Chihiro"
+
+msgctxt "12160"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "12164"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "12168"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "12172"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "12176"
+msgid "0"
+msgstr "0"
+
+msgctxt "12180"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "116_Chihiro"
+msgid "I'm not going down without a fight."
+msgstr "Non mollo senza combattere."
+
+msgctxt "128_Chihiro"
+msgid "Let's do this!"
+msgstr "Facciamolo!"
+
+msgctxt "140_Player"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "164_Chihiro"
+msgid "I'm not going down without a fight."
+msgstr "Non mollo senza combattere."
+
+msgctxt "176_Chihiro"
+msgid "Let's do this!"
+msgstr "Facciamolo!"
+
+msgctxt "188_Player"
+msgid "Hold on a sec... Um, looks like I'm low on cash."
+msgstr "Aspetta un attimo... Ehm, mi sa che sono a corto di contanti."
+
+msgctxt "200_Chihiro"
+msgid "What? You are!?"
+msgstr "Cosa? Davvero!?"
+
+msgctxt "212_Player"
+msgid "Yeah. Sorry."
+msgstr "Sì. Scusa."
+
+msgctxt "224_Chihiro"
+msgid ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+msgstr ""
+"Peccato. Immagino sia tutto per oggi.\n"
+"\n"
+"Arrivederci per ora."
+
+msgctxt "236_Player"
+msgid "(I better find some money...)"
+msgstr "(Mi conviene trovare dei soldi...)"
+
+msgctxt "344_Chihiro"
+msgid "I should've guessed. You're a pro at pool, too."
+msgstr "Avrei dovuto immaginarlo. Sei un asso del biliardo pure tu."
+
+msgctxt "356_Player"
+msgid "Yeah, I'm not bad."
+msgstr "Già, non me la cavo male."
+
+msgctxt "368_Chihiro"
+msgid "That was really fun. Let's go out again, okay?"
+msgstr "Mi sono divertito un mondo! Usciamo di nuovo, che dici?"
+
+msgctxt "380_Chihiro"
+msgid "Bye for now."
+msgstr "A dopo."
+
+msgctxt "404_Chihiro"
+msgid "It's a draw."
+msgstr "È un pareggio."
+
+msgctxt "416_Player"
+msgid "Guess it is."
+msgstr "Immagino di sì."
+
+msgctxt "428_Chihiro"
+msgid "That was really fun. Let's go out again, okay?"
+msgstr "Mi sono divertito un mondo! Usciamo di nuovo, che dici?"
+
+msgctxt "440_Chihiro"
+msgid "Bye for now."
+msgstr "A dopo."
+
+msgctxt "464_Chihiro"
+msgid "Sorry to break it to you, but I win."
+msgstr "Mi dispiace dirlo, ma ho vinto."
+
+msgctxt "476_Player"
+msgid "Ouch. You got me good."
+msgstr "Ahi. Mi hai stracciato."
+
+msgctxt "488_Chihiro"
+msgid "That was really fun. Let's go out again, okay?"
+msgstr "Mi sono divertito un mondo! Usciamo di nuovo, che dici?"
+
+msgctxt "500_Chihiro"
+msgid "Bye for now."
+msgstr "A dopo."
+
+msgctxt "608_Chihiro"
+msgid "I'm not going down without a fight."
+msgstr "Non mollo senza combattere."
+
+msgctxt "620_Chihiro"
+msgid "Let's do this."
+msgstr "Dai, si fa."
+
+msgctxt "632_Player"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "656_Chihiro"
+msgid "I'm not going down without a fight."
+msgstr "Non mollo senza combattere."
+
+msgctxt "668_Chihiro"
+msgid "Let's do this."
+msgstr "Dai, si fa."
+
+msgctxt "680_Player"
+msgid "Hold on a sec... Um, looks like I'm low on cash."
+msgstr "Aspetta un attimo... Ehm, mi sa che sono a corto di contanti."
+
+msgctxt "692_Chihiro"
+msgid "What? You are!?"
+msgstr "Cosa? Davvero!?"
+
+msgctxt "704_Player"
+msgid "Yeah. Sorry."
+msgstr "Sì. Scusa."
+
+msgctxt "716_Chihiro"
+msgid ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+msgstr ""
+"Peccato. Immagino sia tutto per oggi.\n"
+"\n"
+"Arrivederci per ora."
+
+msgctxt "728_Player"
+msgid "(I better find some money...)"
+msgstr "(Mi conviene trovare dei soldi...)"
+
+msgctxt "836_Chihiro"
+msgid "I should've guessed. You're a pro at pool, too."
+msgstr "Avrei dovuto immaginarlo. Sei un asso del biliardo pure tu."
+
+msgctxt "848_Player"
+msgid "Yeah, I'm not bad."
+msgstr "Già, non me la cavo male."
+
+msgctxt "860_Chihiro"
+msgid "That was really fun. Wanna go to the club now?"
+msgstr "È stato uno spasso. Andiamo al club adesso?"
+
+msgctxt "872_Player"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "896_Chihiro"
+msgid "It's a draw."
+msgstr "È un pareggio."
+
+msgctxt "908_Player"
+msgid "Guess it is."
+msgstr "Immagino di sì."
+
+msgctxt "920_Chihiro"
+msgid "That was really fun. Wanna go to the club now?"
+msgstr "È stato uno spasso. Andiamo al club adesso?"
+
+msgctxt "932_Player"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "956_Chihiro"
+msgid "Sorry to break it to you, but I win."
+msgstr "Mi dispiace dirlo, ma ho vinto."
+
+msgctxt "968_Player"
+msgid "Ouch. You got me good."
+msgstr "Ahi. Mi hai stracciato."
+
+msgctxt "980_Chihiro"
+msgid "That was really fun. Wanna go to the club now?"
+msgstr "È stato uno spasso. Andiamo al club adesso?"
+
+msgctxt "992_Player"
+msgid "Sure."
+msgstr "Certo."

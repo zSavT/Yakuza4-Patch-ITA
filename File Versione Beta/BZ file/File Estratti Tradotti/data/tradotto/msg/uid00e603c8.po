@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2260"
+msgid "Man in a Business Suit"
+msgstr "Uomo in completo"
+
+msgctxt "2264"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "2268"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "2272"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2276"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "2280"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "2284"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "2288"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "56_Man in a Business Suit"
+msgid "Oh? And who might you be?"
+msgstr "Oh? E tu chi saresti?"
+
+msgctxt "68_Tanimura"
+msgid "Doesn't matter. I'm looking for the boss－some lady from Hong Kong."
+msgstr "Non importa. Sto cercando il boss—una tipa di Hong Kong."
+
+msgctxt "80_Man in a Business Suit"
+msgid "...Don't know what you're talkin' about."
+msgstr "...Non so manco di che parli."
+
+msgctxt "92_Tanimura"
+msgid ""
+"Don't play stupid with me. Just bring her here and there won't be any "
+"trouble."
+msgstr "Non fare il finto tonto con me. Portala qui e non ci saranno casini."
+
+msgctxt "104_Man in a Business Suit"
+msgid ""
+"Ah, forgive me. Where are my manners? Hey fellas! Come help me escort our "
+"\"guest\"!"
+msgstr ""
+"Ah, perdonatemi. Che maleducazione la mia. Ehi, voi! Venite a darmi una mano"
+" a \"scortare\" il nostro \"ospite\"!"
+
+msgctxt "128_Man in a Business Suit"
+msgid ""
+"Our friend here is requestin' a one-way trip to the afterlife. Shall we "
+"oblige?"
+msgstr ""
+"Il nostro amico qui si sta cercando un viaggio di sola andata per l'aldilà. "
+"Che facciamo, glielo diamo?"
+
+msgctxt "140_Tanimura"
+msgid ""
+"I get that your boss is a tough nut to crack, but you really don't have to "
+"make things so difficult..."
+msgstr ""
+"Capisco che il tuo capo sia un osso duro, ma non devi per forza rendere le "
+"cose così difficili..."
+
+msgctxt "152_Man in a Business Suit"
+msgid "Give him hell, boys!"
+msgstr "Fategli il culo, ragazzi!"

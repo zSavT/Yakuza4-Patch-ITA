@@ -1,0 +1,55 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "152"
+msgid "You got <Color:8>10,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>10.000 yen<Color:Default>."
+
+msgctxt "1816"
+msgid "Formerly Unwilling Woman"
+msgstr "Donna Precedentemente Restia"
+
+msgctxt "1820"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1824"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1828"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1832"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "128_Formerly Unwilling Woman"
+msgid "Um, do you mind if I ask your name?"
+msgstr "Ehm, posso chiederle come si chiama?"
+
+msgctxt "140_Formerly Unwilling Woman"
+msgid "You really saved me! Please take this as a token of my gratitude!"
+msgstr ""
+"Mi hai davvero salvato! Ti prego, prendi questo come segno della mia "
+"gratitudine!"
+
+msgctxt "164_Formerly Unwilling Woman"
+msgid "Um, Detective, do you think I could get your phone number?"
+msgstr "Ehm, Detective, potrei avere il suo numero di telefono?"
+
+msgctxt "176_Tanimura"
+msgid "Oh, um... I'm really not allowed to do that."
+msgstr "Oh, uhm... Non mi è proprio permesso di fare una cosa del genere."

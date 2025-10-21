@@ -1,0 +1,99 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "272"
+msgid "You gained 10,000 EXP."
+msgstr "Hai ottenuto 10.000 EXP."
+
+msgctxt "2844"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2848"
+msgid "F_sxy_stand_sync_dakitukiA_ed"
+msgstr "F_sxy_stand_sync_dakitukiA_ed"
+
+msgctxt "2852"
+msgid "P_stand_sync_dakitukiA_ed"
+msgstr "P_stand_sync_dakitukiA_ed"
+
+msgctxt "2856"
+msgid "Shizuka"
+msgstr "Shizuka"
+
+msgctxt "2860"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2864"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr "F_sxy_stand_sync_dakitukiA_st"
+
+msgctxt "2868"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr "P_stand_sync_dakitukiA_st"
+
+msgctxt "2872"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "2876"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "68_Kiryu"
+msgid ""
+"Heh, you never did get 'round to washing my back. You saw it, though, right?"
+" Are you... okay with what's on it?"
+msgstr ""
+"Eh, non ti sei mai messa a lavarmi la schiena.\n"
+"L'hai vista, però, no?\n"
+"Sei... a posto con quello che c'è sopra?"
+
+msgctxt "92_Shizuka"
+msgid "Your back was very masculine... and beautiful."
+msgstr "La tua schiena era così mascolina... e bella."
+
+msgctxt "104_Shizuka"
+msgid ""
+"And I got the feeling that those strong shoulders of yours are burdened by "
+"more than I can imagine..."
+msgstr ""
+"E mi è sembrato di capire che su quelle tue forti spalle ci sia un peso ben "
+"più grande di quanto io possa immaginare..."
+
+msgctxt "116_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "128_Shizuka"
+msgid "Maybe I can finally wash your back when I'm done with my studies."
+msgstr ""
+"Magari potrò finalmente lavarti la schiena quando avrò finito i miei studi."
+
+msgctxt "140_Kiryu"
+msgid "All right. I'll be waiting for you to return from America."
+msgstr "Va bene. Ti aspetterò che tu ritorni dall'America."
+
+msgctxt "152_Shizuka"
+msgid "Thank you! Um... Could I get one more hug before I go?"
+msgstr "Grazie! Ehm... Potrei avere un altro abbraccio prima di andare?"
+
+msgctxt "164_Kiryu"
+msgid "Of course."
+msgstr "E di che."
+
+msgctxt "176_Shizuka"
+msgid "I love you. <Color:255,200,200,255>♥<Color:Default>"
+msgstr "Ti amo. <Color:255,200,200,255>♥<Color:Default>"

@@ -1,0 +1,59 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1616"
+msgid "Client"
+msgstr "Cliente"
+
+msgctxt "1620"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1624"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "1628"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "1632"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "68_Client"
+msgid "Hoo boy... Why me?"
+msgstr "Mamma mia... Perché proprio a me?"
+
+msgctxt "80_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "104_Saejima"
+msgid "They ain't wastin' any time. You stay put, hear me?"
+msgstr "Non stanno perdendo tempo. Tu stai fermo, mi hai sentito?"
+
+msgctxt "116_Client"
+msgid "Kill him, quick! Crud, I just wet myself..."
+msgstr "Fallo fuori, svelto! Merda, mi sono pisciato addosso..."
+
+msgctxt "128_Saejima"
+msgid "Shit. A job's a job, but I'm losin' motivation real quick."
+msgstr ""
+"Merda. Un lavoro è un lavoro, ma mi sta passando la voglia maledettamente in"
+" fretta."
+
+msgctxt "140_Saejima"
+msgid "Ah, screw it. Let's get this over with."
+msgstr "Ah, fanculo. Facciamola finita."

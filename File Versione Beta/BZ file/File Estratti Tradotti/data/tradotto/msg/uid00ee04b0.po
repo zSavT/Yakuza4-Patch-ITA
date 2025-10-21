@@ -1,0 +1,281 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "9592"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "9596"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "9600"
+msgid "Lily"
+msgstr "Lily"
+
+msgctxt "9604"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "9608"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "9612"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "9616"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "9620"
+msgid "P_aki_stand_tlk_yes"
+msgstr "P_aki_stand_tlk_yes"
+
+msgctxt "9624"
+msgid "SetF_nml_sitchr_sleep"
+msgstr "SetF_nml_sitchr_sleep"
+
+msgctxt "488_Player"
+msgid "You're not doing so well... You'll just have to try harder."
+msgstr "Non stai andando un granché... Dovrai solo darti più da fare."
+
+msgctxt "500_Lily"
+msgid "Okay, I'll try..."
+msgstr "Ok, ci proverò..."
+
+msgctxt "524_Player"
+msgid ""
+"Good work out there tonight. I think you're getting the hang of things."
+msgstr ""
+"Bel lavoro stasera.\n"
+"Penso che ci stai prendendo la mano."
+
+msgctxt "536_Lily"
+msgid "That means a lot from you, Akiyama-san."
+msgstr "Significa un sacco per me, detto da lei, Akiyama-san."
+
+msgctxt "560_Player"
+msgid "Great job out there tonight. I could tell you were giving it your all."
+msgstr ""
+"Brava stasera!\n"
+"Si vedeva che ci hai messo tutta te stessa."
+
+msgctxt "572_Lily"
+msgid "Thank you!"
+msgstr "Grazie!"
+
+msgctxt "596_Player"
+msgid ""
+"Let's work on your presentation. Makeup, hair, posture...\r\n"
+"All of these things send certain signals to a man."
+msgstr ""
+"Lavoriamo sulla tua presentazione. Trucco, capelli, postura...\n"
+"Tutte queste cose mandano certi segnali a un uomo."
+
+msgctxt "608_Lily"
+msgid "I see. Tell me more."
+msgstr "Capisco. Raccontami di più."
+
+msgctxt "620_Player"
+msgid "You're doing very well. Good job out there."
+msgstr "Stai andando alla grande. Ottimo lavoro là fuori."
+
+msgctxt "632_Lily"
+msgid "Thank you. It's all thanks to your help!"
+msgstr "Grazie. È tutto merito del tuo aiuto!"
+
+msgctxt "644_Player"
+msgid "Hmm... You still need a bit of work."
+msgstr "Hmm... C'è ancora un po' da fare."
+
+msgctxt "656_Lily"
+msgid "I'm sorry... I'll try harder next time."
+msgstr "Mi dispiace... Mi impegnerò di più la prossima volta."
+
+msgctxt "668_Player"
+msgid ""
+"Okay, so today we're going to study a little trivia. No\r\n"
+"matter what the conversation, it's always important to be\r\n"
+"smart about what you say. \"Knowledge is power,\" right?"
+msgstr ""
+"Allora, oggi ci faremo un ripassino su qualche curiosità. Non\n"
+"importa quale sia la conversazione, è sempre importante essere\n"
+"scaltri in quello che dici. \"La conoscenza è potere,\" giusto?"
+
+msgctxt "680_Lily"
+msgid "Right. I'm ready to learn."
+msgstr ""
+"Perfetto.\n"
+"Sono pronto a imparare."
+
+msgctxt "692_Player"
+msgid "You're doing very well. Good job out there."
+msgstr "Stai andando alla grande. Ottimo lavoro là fuori."
+
+msgctxt "704_Lily"
+msgid "Well, that's because you're such a good teacher!"
+msgstr "Beh, è che sei un insegnante così bravo!"
+
+msgctxt "716_Player"
+msgid "Hmm... You still need a bit of work."
+msgstr "Hmm... C'è ancora un po' da fare."
+
+msgctxt "728_Lily"
+msgid "I'm sorry... I'll try harder next time."
+msgstr "Mi dispiace... Mi impegnerò di più la prossima volta."
+
+msgctxt "740_Player"
+msgid ""
+"Right now, I'd like to give you some conversation tips to\r\n"
+"help you captivate the customers. Sound good?"
+msgstr ""
+"Adesso, vorrei darti qualche dritta sulla conversazione per\n"
+"aiutarti a conquistare i clienti. Ti va bene?"
+
+msgctxt "752_Lily"
+msgid "That sounds great. I could use a little help."
+msgstr "Ottimo! Un aiutino mi farebbe proprio comodo."
+
+msgctxt "764_Player"
+msgid "You're doing very well. Good job out there."
+msgstr "Stai andando alla grande. Ottimo lavoro là fuori."
+
+msgctxt "776_Lily"
+msgid "Well, that's because you're such a good teacher, Akiyama-san."
+msgstr "Beh, è perché sei proprio un bravo maestro, Akiyama-san."
+
+msgctxt "788_Player"
+msgid "Hmm... You still need a bit of work."
+msgstr "Hmm... C'è ancora un po' da fare."
+
+msgctxt "800_Lily"
+msgid "I'm sorry... I'll try harder next time."
+msgstr "Mi dispiace... Mi impegnerò di più la prossima volta."
+
+msgctxt "812_Player"
+msgid "I think you should spend your downtime doing whatever you like. Relax."
+msgstr ""
+"Penso che dovresti passare il tuo tempo libero facendo ciò che ti pare. "
+"Rilassati."
+
+msgctxt "824_Lily"
+msgid "Really? Thank you!"
+msgstr "Davvero? Grazie!"
+
+msgctxt "836_Player"
+msgid "Did you make the most of your time? You seem pretty relaxed now."
+msgstr "Hai sfruttato bene il tempo? Adesso sembri piuttosto rilassato."
+
+msgctxt "848_Lily"
+msgid "Yes! I feel a lot better."
+msgstr "Sì! Mi sento molto meglio."
+
+msgctxt "860_Player"
+msgid "How was it? Did you get some relaxing in?"
+msgstr "Com'è andata? Ti sei dato una rilassata?"
+
+msgctxt "872_Lily"
+msgid "No, I couldn't relax for some reason."
+msgstr "No, non riuscivo a rilassarmi per qualche motivo."
+
+msgctxt "884_Player"
+msgid ""
+"Today, we're going to work on your weak points. Now I know I\r\n"
+"might come off a little blunt, but bear with it, okay?"
+msgstr ""
+"Oggi, lavoreremo sui tuoi punti deboli. Allora, lo so che io\n"
+"potrei sembrarti un po' brusco, ma porta pazienza, va bene?"
+
+msgctxt "896_Lily"
+msgid "All right..."
+msgstr "Va bene..."
+
+msgctxt "908_Player"
+msgid ""
+"All right, now think about what I told you and give it your full effort next"
+" time."
+msgstr ""
+"Va bene, adesso pensa a quello che ti ho detto e mettici tutto l'impegno la "
+"prossima volta."
+
+msgctxt "920_Lily"
+msgid "I will. Thank you!"
+msgstr "Lo farò. Grazie!"
+
+msgctxt "932_Player"
+msgid "(I don't think any of that really got through to her...)"
+msgstr ""
+"Non credo che le sia entrato in testa un bel niente di tutto questo..."
+
+msgctxt "944_Lily"
+msgid "......"
+msgstr "......"
+
+msgctxt "956_Player"
+msgid ""
+"I think you should take some time off for yourself and relax for a bit."
+msgstr ""
+"Penso che dovresti prenderti un po' di tempo per te e rilassarti un attimo."
+
+msgctxt "968_Lily"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "980_Player"
+msgid "How was it? Did you get some relaxing in?"
+msgstr "Com'è andata? Ti sei dato una rilassata?"
+
+msgctxt "992_Lily"
+msgid "Oh, yes! Thank you!"
+msgstr "Oh, sì! Grazie!"
+
+msgctxt "1004_Player"
+msgid "Did you have a good break?"
+msgstr "Hai fatto una buona pausa?"
+
+msgctxt "1016_Lily"
+msgid "Not really..."
+msgstr "Non proprio..."
+
+msgctxt "1028_Player"
+msgid ""
+"Today, we're going to find a way to keep you motivated and positive. Sound "
+"good?"
+msgstr ""
+"Oggi, vediamo di trovare un modo per tenerti motivato e positivo. Ti va "
+"bene?"
+
+msgctxt "1040_Lily"
+msgid "All right. I can get behind that!"
+msgstr "Va bene. Ci sto!"
+
+msgctxt "1052_Player"
+msgid "What do you think? Are you feeling any more positive?"
+msgstr "Che ne dici? Ti senti un po' più carico?"
+
+msgctxt "1064_Lily"
+msgid "Oh, yes! Thank you!"
+msgstr "Oh, sì! Grazie!"
+
+msgctxt "1076_Player"
+msgid ""
+"How was that? Are you seeing the positive side of things a little more?"
+msgstr ""
+"Com'è andata? Cominci a vedere il lato positivo delle cose un po' di più?"
+
+msgctxt "1088_Lily"
+msgid "Not really..."
+msgstr "Non proprio..."

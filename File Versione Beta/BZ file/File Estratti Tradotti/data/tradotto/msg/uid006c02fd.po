@@ -1,0 +1,260 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "512"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "1016"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "13504"
+msgid "峰村七海：源氏名"
+msgstr "峰村七海：源氏名"
+
+msgctxt "13508"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13512"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "13516"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "13520"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13524"
+msgid "0"
+msgstr "0"
+
+msgctxt "13528"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13532"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "13536"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "116_峰村七海：源氏名"
+msgid "All right, let's do this!"
+msgstr "Dai, si fa!"
+
+msgctxt "128_Tanimura"
+msgid "Heh, yeah."
+msgstr "Eh, già."
+
+msgctxt "140_峰村七海：源氏名"
+msgid "Well, what're we waiting for?"
+msgstr "Beh, che aspettiamo?"
+
+msgctxt "164_峰村七海：源氏名"
+msgid "All right!"
+msgstr "A posto!"
+
+msgctxt "176_峰村七海：源氏名"
+msgid "Let's do this!"
+msgstr "Facciamolo!"
+
+msgctxt "188_Tanimura"
+msgid "Hold on... Seems I didn't bring enough money."
+msgstr "Aspetta un attimo... Sembra che non mi sia portato abbastanza grana."
+
+msgctxt "200_峰村七海：源氏名"
+msgid "I'm sorry, I must have misheard you. What did you say?"
+msgstr "Mi scusi, devo averla sentita male. Che ha detto?"
+
+msgctxt "212_Tanimura"
+msgid "Um... I mean... Sorry."
+msgstr "Uhm... cioè... Scusa."
+
+msgctxt "224_峰村七海：源氏名"
+msgid ""
+"I don't believe it! You can't manage your own finances? How do you even "
+"survive as an adult?"
+msgstr ""
+"Non ci credo! Non riesci a gestire le tue finanze? Come fai a sopravvivere "
+"da adulto?"
+
+msgctxt "236_峰村七海：源氏名"
+msgid "I'm going home. Goodbye."
+msgstr "Me ne vado a casa. Ciao."
+
+msgctxt "248_Tanimura"
+msgid "(I should've checked my money earlier...)"
+msgstr "(Avrei dovuto controllare i miei soldi prima...)"
+
+msgctxt "356_峰村七海：源氏名"
+msgid "Wow! I had no idea you were so good at golf!"
+msgstr "Wow! Non sapevo fossi così bravo a golf!"
+
+msgctxt "368_Tanimura"
+msgid "Well, what can I say?"
+msgstr "Beh, che dire?"
+
+msgctxt "380_峰村七海：源氏名"
+msgid ""
+"I had a really good time. We should go out again. <Color:7>♥<Color:Default>"
+msgstr ""
+"Mi sono proprio divertito un mondo. Dovremmo rivederci. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "392_峰村七海：源氏名"
+msgid "I'll see you later!"
+msgstr "Ci vediamo!"
+
+msgctxt "416_峰村七海：源氏名"
+msgid "Haha. We tied."
+msgstr "Ahah. Abbiamo pareggiato."
+
+msgctxt "428_Tanimura"
+msgid "I thought I had you there."
+msgstr "Pensavo di averti fregato lì."
+
+msgctxt "440_峰村七海：源氏名"
+msgid ""
+"Heh, me too. I had a really nice time.\r\n"
+"I'll see you at the club!"
+msgstr ""
+"Eh, anche io. Mi sono divertito un mondo.\n"
+"Ci vediamo al club!"
+
+msgctxt "464_峰村七海：源氏名"
+msgid "Well, that wasn't much fun. I guess you're not very good at golf."
+msgstr ""
+"Beh, non è che sia stato 'sto spasso.\n"
+"Mi sa che a golf non sei un granché."
+
+msgctxt "476_Tanimura"
+msgid "Er, sorry."
+msgstr "Uhm, scusa."
+
+msgctxt "488_峰村七海：源氏名"
+msgid "Huh. Well, bye. See you at the club."
+msgstr "Ah. Beh, ciao. Ci vediamo al club."
+
+msgctxt "596_峰村七海：源氏名"
+msgid "All right, let's do this!"
+msgstr "Dai, si fa!"
+
+msgctxt "608_Tanimura"
+msgid "Heh, yeah."
+msgstr "Eh, già."
+
+msgctxt "620_峰村七海：源氏名"
+msgid "Well, what're we waiting for?"
+msgstr "Beh, che aspettiamo?"
+
+msgctxt "644_峰村七海：源氏名"
+msgid "All right, let's do this!"
+msgstr "Dai, si fa!"
+
+msgctxt "656_峰村七海：源氏名"
+msgid "In we go!"
+msgstr "Entriamo!"
+
+msgctxt "668_Tanimura"
+msgid "Hold on... Seems I didn't bring enough money."
+msgstr "Aspetta un attimo... Sembra che non mi sia portato abbastanza grana."
+
+msgctxt "680_峰村七海：源氏名"
+msgid "I'm sorry, I must have misheard you. What did you say?"
+msgstr "Mi scusi, devo averla sentita male. Che ha detto?"
+
+msgctxt "692_Tanimura"
+msgid "Um... I mean... Sorry."
+msgstr "Uhm... cioè... Scusa."
+
+msgctxt "704_峰村七海：源氏名"
+msgid ""
+"I don't believe it! You can't manage your own finances? How do you even "
+"survive as an adult?"
+msgstr ""
+"Non ci credo! Non riesci a gestire le tue finanze? Come fai a sopravvivere "
+"da adulto?"
+
+msgctxt "716_峰村七海：源氏名"
+msgid "I'm going home. Goodbye."
+msgstr "Me ne vado a casa. Ciao."
+
+msgctxt "728_Tanimura"
+msgid "(I should've checked my money earlier...)"
+msgstr "(Avrei dovuto controllare i miei soldi prima...)"
+
+msgctxt "836_峰村七海：源氏名"
+msgid "Whoa! You're really good at golf!"
+msgstr "Accidenti! Sei proprio un asso col golf!"
+
+msgctxt "848_Tanimura"
+msgid "Heh, I try."
+msgstr "Eh, ci provo."
+
+msgctxt "860_峰村七海：源氏名"
+msgid ""
+"Haha, I'm sure you do. <Color:7>♥<Color:Default> Wanna head over to the club"
+" now?"
+msgstr ""
+"Ahah, ne sono certa. <Color:7>♥<Color:Default> Ti va di andare al club, "
+"adesso?"
+
+msgctxt "872_Tanimura"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "896_峰村七海：源氏名"
+msgid "Haha. We tied."
+msgstr "Ahah. Abbiamo pareggiato."
+
+msgctxt "908_Tanimura"
+msgid "I thought I had you there."
+msgstr "Pensavo di averti fregato lì."
+
+msgctxt "920_峰村七海：源氏名"
+msgid ""
+"Heh, me too. I had fun today.\r\n"
+"Let's head to the club."
+msgstr ""
+"Heh, anche io. Mi sono divertito oggi.\n"
+"Andiamo al club."
+
+msgctxt "932_Tanimura"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "956_峰村七海：源氏名"
+msgid "So... golf isn't your thing, huh? That wasn't very exciting."
+msgstr "Allora... il golf non è il tuo forte, eh? Non è stato un granché."
+
+msgctxt "968_Tanimura"
+msgid "I'm sorry. Um..."
+msgstr "Mi dispiace. Ehm..."
+
+msgctxt "980_峰村七海：源氏名"
+msgid "Let's just head to the club."
+msgstr "Dai, andiamo al club."
+
+msgctxt "992_Tanimura"
+msgid "Okay."
+msgstr "Ok."

@@ -1,0 +1,159 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "4012"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "4016"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "4020"
+msgid "Matsuyama"
+msgstr "Matsuyama"
+
+msgctxt "4024"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4028"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "4032"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "4036"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "4040"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "4044"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "132_Kiryu"
+msgid "You said you've already tried all the ramen around here, right?"
+msgstr "Hai detto che hai già provato tutti i ramen in zona, no?"
+
+msgctxt "144_Matsuyama"
+msgid "Yeah. I think I must've eaten at every single place in town."
+msgstr "Già. Penso di aver mangiato in ogni singolo locale della città."
+
+msgctxt "156_Kiryu"
+msgid ""
+"In that case, we ought to try something a little different. It might give "
+"you some new ideas."
+msgstr ""
+"Allora, dovremmo provare qualcosa di un po' diverso.\n"
+"Magari ti dà qualche spunto nuovo."
+
+msgctxt "168_Matsuyama"
+msgid "Good thinking. Where do you think we should go first?"
+msgstr "Buona pensata. Dove andiamo prima?"
+
+msgctxt "180_Kiryu"
+msgid ""
+"Let's go eat some tasty yakiniku. I think it has something in common with "
+"that rich tonkotsu ramen at Kyushu No. 1 Star. "
+msgstr ""
+"Andiamo a mangiarci del buon yakiniku. Penso che abbia qualcosa in comune "
+"con quel ricco ramen tonkotsu del Kyushu No. 1 Star."
+
+msgctxt "192_Matsuyama"
+msgid "Great idea! Let's go! "
+msgstr "Ottima idea! Andiamo!"
+
+msgctxt "216_Kiryu"
+msgid "Let's go eat some top-notch sushi."
+msgstr "Andiamo a mangiarci un sushi coi fiocchi."
+
+msgctxt "228_Matsuyama"
+msgid ""
+"Got it. Expensive, high-end seafood would be the exact opposite of the "
+"affordable, hearty tonkotsu ramen we serve. "
+msgstr ""
+"Capito. I piatti di mare costosi e di lusso sarebbero l'esatto opposto del "
+"ramen tonkotsu economico e sostanzioso che serviamo noi."
+
+msgctxt "240_Kiryu"
+msgid "Exactly. Let's go. "
+msgstr "Esatto. Andiamo."
+
+msgctxt "252_Matsuyama"
+msgid "You're the boss! "
+msgstr "Comandi tu!"
+
+msgctxt "276_Kiryu"
+msgid ""
+"Ramen's all about serving good food fast and cheap. With that in mind, it "
+"might be worthwhile to visit a fast food joint. "
+msgstr ""
+"Il ramen, in fondo, deve essere roba buona, veloce e costare poco.\n"
+"Con quest'idea in testa, forse un salto in qualche fast food ci starebbe."
+
+msgctxt "288_Matsuyama"
+msgid "Great idea! I never thought of that! "
+msgstr "Ottima idea! Non ci avevo mai pensato!"
+
+msgctxt "300_Kiryu"
+msgid "Okay, let's go to Smile Burger. "
+msgstr "Ok, andiamo allo Smile Burger."
+
+msgctxt "312_Matsuyama"
+msgid "You're the boss! "
+msgstr "Comandi tu!"
+
+msgctxt "336_Kiryu"
+msgid ""
+"Maybe we're trying too hard. Let's wander around a little for a change of "
+"pace. "
+msgstr ""
+"Forse ci stiamo scervellando troppo.\n"
+"Facciamo un giro, giusto per staccare un po'."
+
+msgctxt "348_Matsuyama"
+msgid "But..."
+msgstr "Ma..."
+
+msgctxt "360_Kiryu"
+msgid "You shouldn't overthink things. Let's just take it slow. "
+msgstr ""
+"Non dovresti farti troppe paranoie.\n"
+"Prendiamocela con calma."
+
+msgctxt "372_Matsuyama"
+msgid "Okay..."
+msgstr "Va bene..."
+
+msgctxt "396_Kiryu"
+msgid "Let's get some tasty yakiniku."
+msgstr "Prendiamo del buon yakiniku."
+
+msgctxt "408_Kiryu"
+msgid "How about some fresh sushi?"
+msgstr "Che ne dici di un bel sushi fresco?"
+
+msgctxt "420_Kiryu"
+msgid "Let's see what fast food has to offer."
+msgstr "Vediamo un po' cosa offre il fast food."
+
+msgctxt "432_Kiryu"
+msgid "Let's just wander around town."
+msgstr "Gironzoliamo un po' per la città."

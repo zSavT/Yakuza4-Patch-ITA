@@ -1,0 +1,203 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "332"
+msgid "You handed over the <Color:8>Sake<Color:Default>."
+msgstr "Hai consegnato il <Color:8>Sake<Color:Default>."
+
+msgctxt "380"
+msgid "You handed over the <Color:8>The Premium Malt's<Color:Default>."
+msgstr "Hai consegnato <Color:8>The Premium Malt's<Color:Default>."
+
+msgctxt "428"
+msgid "You handed over the <Color:8>Kin-Mugi Beer<Color:Default>."
+msgstr "Hai consegnato la <Color:8>Birra Kin-Mugi<Color:Default>."
+
+msgctxt "476"
+msgid "You handed over the <Color:8>Chu-Hi Wine Cooler<Color:Default>."
+msgstr "Hai consegnato il <Color:8>Chu-Hi Wine Cooler<Color:Default>."
+
+msgctxt "9044"
+msgid "Toku"
+msgstr "Toku"
+
+msgctxt "9048"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "9052"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "9056"
+msgid "Homeless Man"
+msgstr "Senzatetto"
+
+msgctxt "68_Toku"
+msgid "Oh, you again. Did you bring me some booze?"
+msgstr "Oh, di nuovo tu. Mi hai portato da bere?"
+
+msgctxt "80_Saejima"
+msgid "You Toku?"
+msgstr "Sei tu Toku?"
+
+msgctxt "92_Homeless Man"
+msgid "Hm? Yeah, that's me. And who are you?"
+msgstr "Mmm? Sì, sono io. E tu chi sei?"
+
+msgctxt "104_Saejima"
+msgid ""
+"Name's Saejima. I'm lookin' for anyone who knew Kamurocho\r\n"
+"back in the day, 'round 25 years ago. Someone said you might."
+msgstr ""
+"Mi chiamo Saejima. Sto cercando qualcuno che conoscesse Kamurocho\r\n"
+"ai vecchi tempi, circa 25 anni fa. Qualcuno ha detto che tu potresti."
+
+msgctxt "116_Saejima"
+msgid "I hear ya been living in these parts a long time."
+msgstr "Ho sentito che vivi da queste parti da molto tempo."
+
+msgctxt "128_Toku"
+msgid "That I have. Over 30 years－maybe more? Guess I lost count."
+msgstr ""
+"Proprio così. Più di 30 anni, forse di più? Credo di aver perso il conto."
+
+msgctxt "140_Saejima"
+msgid "Yeah? Ever heard of the Sasai Family?"
+msgstr "Ah sì? Hai mai sentito parlare della Famiglia Sasai?"
+
+msgctxt "152_Toku"
+msgid "Hmm, the name does ring a bell..."
+msgstr "Mmm, il nome mi dice qualcosa..."
+
+msgctxt "164_Saejima"
+msgid "They had an office by West Park till at least 25 years ago."
+msgstr "Avevano un ufficio vicino a West Park fino ad almeno 25 anni fa."
+
+msgctxt "176_Toku"
+msgid "Oh, right... It's starting to come back to me."
+msgstr "Oh, giusto... Inizio a ricordare."
+
+msgctxt "188_Saejima"
+msgid "Well, what can ya tell me about 'em?"
+msgstr "Beh, cosa puoi dirmi di loro?"
+
+msgctxt "200_Toku"
+msgid "It's kinda fuzzy. Some alkeehol might jog my memory."
+msgstr "È un po' vago. Un po' di alcol potrebbe rinfrescarmi la memoria."
+
+msgctxt "212_Saejima"
+msgid "Alkee-what?"
+msgstr "Alcol-cosa?"
+
+msgctxt "224_Toku"
+msgid ""
+"Booze. Hooch. Alkeehol. I live off the stuff, but it's been days since I "
+"could afford a drink. I just can't think straight when I'm sober."
+msgstr ""
+"Alcol. Roba forte. Superalcolici. Vivo di quella roba, ma sono giorni che "
+"non posso permettermi un drink. Non riesco a pensare lucidamente quando sono"
+" sobrio."
+
+msgctxt "236_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "260_Saejima"
+msgid "(I oughta have some booze on me still.)"
+msgstr "(Dovrei avere ancora dell'alcol con me.)"
+
+msgctxt "284_Saejima"
+msgid "(Maybe I oughta go grab some booze.)"
+msgstr "(Forse dovrei andare a prendere da bere.)"
+
+msgctxt "308_Toku"
+msgid ""
+"Oh, you don't have any alkeehol on you? Shame.\r\n"
+"A stiff drink would clear these cobwebs."
+msgstr ""
+"Oh, non hai dell'alcol con te? Peccato.\r\n"
+"Un drink forte mi schiarirebbe le idee."
+
+msgctxt "512_Saejima"
+msgid "Cheers. Now let's hear 'bout the Sasai Family."
+msgstr "Salute. Ora parliamo della Famiglia Sasai."
+
+msgctxt "524_Toku"
+msgid "Ooh, thanks! Hold on a second while I fuel up."
+msgstr "Ooh, grazie! Aspetta un secondo che faccio il pieno."
+
+msgctxt "548_Toku"
+msgid ""
+"Welcome back, my old friend. No, not you, the booze.\r\n"
+"*glug, glug, glug*"
+msgstr ""
+"Bentornato, mio vecchio amico. No, non tu, l'alcol.\r\n"
+"*glug, glug, glug*"
+
+msgctxt "560_Toku"
+msgid "Ahhh... That's the good stuff. Warms the body and soul!"
+msgstr "Ahhh... Questa è roba buona. Scalda il corpo e l'anima!"
+
+msgctxt "608_Saejima"
+msgid "I'm happy for ya. You remember anything yet?"
+msgstr "Sono felice per te. Ti ricordi già qualcosa?"
+
+msgctxt "620_Toku"
+msgid "Oh, right, the Sasai Family."
+msgstr "Oh, giusto, la Famiglia Sasai."
+
+msgctxt "632_Toku"
+msgid "Sorry to break this to you, but they're long gone."
+msgstr "Mi dispiace dirtelo, ma se ne sono andati da un pezzo."
+
+msgctxt "644_Saejima"
+msgid "So it's true... What about the boss? Where's Sasai-san?"
+msgstr "Quindi è vero... E il capo? Dov'è Sasai-san?"
+
+msgctxt "656_Toku"
+msgid "I'm afraid I don't know what became of their patriarch."
+msgstr "Temo di non sapere che fine abbia fatto il loro patriarca."
+
+msgctxt "668_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "680_Toku"
+msgid ""
+"Ah, don't let it get you down. Besides, yakuza don't exactly advertise their"
+" comings and goings. He might very well still be around."
+msgstr ""
+"Ah, non abbatterti. Inoltre, gli yakuza non pubblicizzano esattamente i loro"
+" spostamenti. Potrebbe benissimo essere ancora in giro."
+
+msgctxt "692_Saejima"
+msgid "......"
+msgstr "......"
+
+msgctxt "704_Toku"
+msgid ""
+"Sorry I wasn't much help. Wait, I know. Why not go back\r\n"
+"to where it all began? That always helps me find things."
+msgstr ""
+"Mi dispiace di non essere stato di grande aiuto. Aspetta, lo so. Perché non torni\r\n"
+"dove tutto è iniziato? Questo mi aiuta sempre a trovare le cose."
+
+msgctxt "716_Saejima"
+msgid ""
+"(Might as well start with my old apartment. Not like I got any other leads "
+"to work with.)"
+msgstr ""
+"(Tanto vale iniziare dal mio vecchio appartamento. Non che abbia altre piste"
+" da seguire.)"

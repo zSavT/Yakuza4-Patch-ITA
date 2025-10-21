@@ -1,0 +1,230 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "6480"
+msgid "Toshi"
+msgstr "Toshi"
+
+msgctxt "6484"
+msgid "Miyuki"
+msgstr "Miyuki"
+
+msgctxt "6488"
+msgid "Erena"
+msgstr "Erena"
+
+msgctxt "6492"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "6496"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "6500"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6504"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "6508"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "6512"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "6516"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "6520"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr "F_sxy_stand_sync_dakitukiA_st"
+
+msgctxt "6524"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr "P_stand_sync_dakitukiA_st"
+
+msgctxt "56_Toshi"
+msgid "Shit... What happened? That bitch ain't worth all this trouble."
+msgstr ""
+"Cazzo... Che è successo? Quella stronza non ne vale la pena di tutto questo "
+"sbattimento."
+
+msgctxt "68_Miyuki"
+msgid "......"
+msgstr "......"
+
+msgctxt "80_Toshi"
+msgid "Come on! Let's get the hell outta here! I don't need this shit."
+msgstr "Dai! Leviamoci dalle palle!\\nNon ho bisogno di questa merda."
+
+msgctxt "104_Erena"
+msgid "Hey, are you okay?"
+msgstr "Ehi, stai bene?"
+
+msgctxt "116_Miyuki"
+msgid "Yes... Thank you."
+msgstr "Sì... Grazie."
+
+msgctxt "128_Erena"
+msgid "Why were ya going out with a loser like that? He was so mean..."
+msgstr "Ma perché uscivi con uno sfigato così? Era così stronzo..."
+
+msgctxt "140_Miyuki"
+msgid ""
+"I thought so too, at first. But when I got to know him, I found out he had a"
+" good side, too."
+msgstr ""
+"Pensavo anch'io così, all'inizio. Ma quando l'ho conosciuto, ho scoperto che"
+" aveva anche un lato buono."
+
+msgctxt "152_Miyuki"
+msgid "I started liking him more and more..."
+msgstr "Mi stava iniziando a piacere sempre di più..."
+
+msgctxt "164_Erena"
+msgid "Oh... I'm just the opposite."
+msgstr "Oh... io sono proprio l'opposto."
+
+msgctxt "176_Miyuki"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "188_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "200_Erena"
+msgid "I fell for a guy 'cause he seemed nice at first."
+msgstr "Mi sono innamorata di un tizio perché all'inizio sembrava a posto."
+
+msgctxt "212_Erena"
+msgid ""
+"But the more I got to know him, the more bad stuff I saw and he turned me "
+"off."
+msgstr ""
+"Ma più lo conoscevo, più vedevo cose brutte e mi ha fatto passare la voglia."
+
+msgctxt "224_Miyuki"
+msgid "......"
+msgstr "......"
+
+msgctxt "236_Erena"
+msgid ""
+"But not all relationships are the same, huh? You and I are total opposites."
+msgstr ""
+"Ma non tutte le relazioni sono uguali, eh? Tu e io siamo agli antipodi."
+
+msgctxt "248_Erena"
+msgid ""
+"I'm usually so busy trying to make myself look good that I don't see the "
+"whole picture."
+msgstr ""
+"Di solito sono così presa a farmi bella che non riesco a vedere il quadro "
+"d'insieme."
+
+msgctxt "260_Miyuki"
+msgid ""
+"And me, I tried ignoring the things I didn't like about him, but that didn't"
+" work out so well..."
+msgstr ""
+"E io, ho provato a ignorare le cose che non mi piacevano di lui, ma non ha "
+"funzionato granché bene..."
+
+msgctxt "272_Miyuki"
+msgid "In the end, he dumped me before I could dump him."
+msgstr "Alla fine, mi ha mollato lui prima che lo mollassi io."
+
+msgctxt "284_Erena"
+msgid "Yeah... Love sure is tricky."
+msgstr "Già... L'amore è un bel rompicapo."
+
+msgctxt "296_Akiyama"
+msgid "Erena-chan..."
+msgstr "Erena-chan..."
+
+msgctxt "308_Miyuki"
+msgid "I'm sorry for taking up so much of your time. I should get going."
+msgstr ""
+"Scusa se ti ho rubato un sacco di tempo.\n"
+"Dovrei proprio andare."
+
+msgctxt "320_Erena"
+msgid "You gonna be all right?"
+msgstr "Tutto a posto?"
+
+msgctxt "332_Miyuki"
+msgid "Yes. Thank you for helping me."
+msgstr "Sì. Grazie per avermi aiutato."
+
+msgctxt "404_Erena"
+msgid "Do you think it's possible to truly understand the person you love?"
+msgstr "Pensi che sia possibile capire veramente la persona che ami?"
+
+msgctxt "416_Akiyama"
+msgid ""
+"I don't know... I do think it's important to try and get to know them, like "
+"she did."
+msgstr ""
+"Non so... Credo proprio sia importante cercare di conoscerlo, come ha fatto "
+"lei."
+
+msgctxt "428_Akiyama"
+msgid ""
+"But you should also make an effort to show them what you're about, like "
+"you've been doing."
+msgstr ""
+"Ma dovresti anche metterti d'impegno per fargli vedere chi sei davvero, come"
+" hai fatto finora."
+
+msgctxt "440_Erena"
+msgid "Yeah. Guess they're both important, huh?"
+msgstr "Sì. Credo siano importanti tutti e due, eh?"
+
+msgctxt "452_Akiyama"
+msgid "Seems so."
+msgstr "Pare di sì."
+
+msgctxt "464_Erena"
+msgid "Hmm... I'd like to know more about you."
+msgstr "Mmm... Mi piacerebbe sapere di più su di te."
+
+msgctxt "476_Akiyama"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "488_Erena"
+msgid ""
+"Say, how about we go somewhere, just the two of us? I wanna learn more about"
+" you!"
+msgstr ""
+"Senti, che ne dici se andiamo da qualche parte, solo noi due? Voglio "
+"conoscerti meglio!"
+
+msgctxt "500_Akiyama"
+msgid "Hey, isn't this moving a little fast?"
+msgstr "Ehi, non è che stiamo correndo un po' troppo?"
+
+msgctxt "512_Erena"
+msgid "Is that a problem? I want you to know all about me, too..."
+msgstr "È un problema? Voglio che tu sappia tutto di me, anch'io..."
+
+msgctxt "524_Akiyama"
+msgid "Hmm, sure."
+msgstr "Hmm, certo."

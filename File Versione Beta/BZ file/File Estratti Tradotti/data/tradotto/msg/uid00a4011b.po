@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2316"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "2320"
+msgid "2d_cf_pict_nigaoe_hana"
+msgstr "2d_cf_pict_nigaoe_hana"
+
+msgctxt "2324"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2328"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "2332"
+msgid "Man in the Sketch"
+msgstr "L'uomo dello schizzo"
+
+msgctxt "2336"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "2340"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "108_Akiyama"
+msgid "(Wow... Guess it was a good sketch after all.)"
+msgstr "(Caspita... Immagino fosse un buono schizzo, dopotutto.)"
+
+msgctxt "168_Akiyama"
+msgid "Hey, pal. Got a sec?"
+msgstr "Senti, socio. Hai un attimo?"
+
+msgctxt "180_Man in the Sketch"
+msgid "Hm? What do you want?"
+msgstr "Hm? Che vuoi?"
+
+msgctxt "192_Akiyama"
+msgid "This guy look familiar to you?"
+msgstr "Questo tizio ti dice niente?"
+
+msgctxt "204_Man in the Sketch"
+msgid "Shit! You blue boys work fast, don't ya!?"
+msgstr "Merda! Voi sbirri lavorate in fretta, eh!?"
+
+msgctxt "228_Akiyama"
+msgid "Hey, wait!"
+msgstr "Ehi, aspetta!"

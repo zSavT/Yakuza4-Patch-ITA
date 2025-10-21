@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3716"
+msgid "Maya"
+msgstr "Maya"
+
+msgctxt "3720"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3724"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "3728"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "68_Maya"
+msgid "Thanks for taking me out today."
+msgstr "Grazie per avermi portata fuori stasera."
+
+msgctxt "80_Talk_Yes"
+msgid "How's a few drinks at the club sound?"
+msgstr "Che ne dici di farci un paio di drink al club?"
+
+msgctxt "104_Maya"
+msgid "Thanks for taking me out today."
+msgstr "Grazie per avermi portata fuori stasera."
+
+msgctxt "116_Talk_Yes"
+msgid "How's a few drinks at the club sound?"
+msgstr "Che ne dici di farci un paio di drink al club?"
+
+msgctxt "128_Player"
+msgid "Hold up. I didn't bring enough money."
+msgstr "Aspetta un attimo. Non ho abbastanza soldi dietro."
+
+msgctxt "140_Maya"
+msgid "Seriously? No credit card or anything?"
+msgstr "Sul serio? Niente carta di credito o altro?"
+
+msgctxt "152_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "164_Maya"
+msgid "Oh well... Maybe next time then."
+msgstr "Vabbè... magari la prossima volta allora."

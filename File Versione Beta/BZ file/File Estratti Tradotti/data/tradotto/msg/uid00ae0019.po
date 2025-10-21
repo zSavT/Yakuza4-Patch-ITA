@@ -1,0 +1,338 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1004"
+msgid "You got a <Color:8>Tauriner ++<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Tauriner ++<Color:Default>."
+
+msgctxt "1028"
+msgid "You got a <Color:8>Toughness Emperor<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Imperatore della Robustezza<Color:Default>."
+
+msgctxt "1088"
+msgid "You got a <Color:8>Tauriner Maximum<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Tauriner Maximum<Color:Default>."
+
+msgctxt "1112"
+msgid "You got a <Color:8>Toughness Infinity<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Resistenza Infinita<Color:Default>."
+
+msgctxt "1172"
+msgid "You got a <Color:8>Bulletproof Breastplate<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Corazza Antiproiettile<Color:Default>."
+
+msgctxt "1232"
+msgid "You got a <Color:8>Gambler's Binding<Color:Default>."
+msgstr ""
+"Hai ottenuto una <Color:8>Fascia del Giocatore d'Azzardo<Color:Default>."
+
+msgctxt "1292"
+msgid "You got a <Color:8>Bloody Binding<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Legatura Sanguinosa<Color:Default>."
+
+msgctxt "1352"
+msgid "You got a <Color:8>Tourmaline Bracelet<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Braccialetto di Tormalina<Color:Default>."
+
+msgctxt "1412"
+msgid "You got <Color:8>Payback Ring<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Anello della Vendetta<Color:Default>."
+
+msgctxt "1472"
+msgid "You got a <Color:8>Champion's Ring<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Anello del Campione<Color:Default>."
+
+msgctxt "1532"
+msgid "You got a set of <Color:8>Antique Chain Mail<Color:Default>."
+msgstr ""
+"Hai ottenuto un set di <Color:8>Cotta di Maglia Antica<Color:Default>."
+
+msgctxt "1592"
+msgid "You got a set of <Color:8>SWAT Body Armor<Color:Default>."
+msgstr "Hai ottenuto un set di <Color:8>Corazza SWAT<Color:Default>."
+
+msgctxt "1652"
+msgid "You got a <Color:8>Popularity Bracelet<Color:Default>."
+msgstr ""
+"Hai ottenuto un <Color:8>Braccialetto della Popolarità<Color:Default>."
+
+msgctxt "1676"
+msgid "You got a <Color:8>Swiss Watch<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Orologio Svizzero<Color:Default>."
+
+msgctxt "1736"
+msgid "You got a <Color:8>Bronze-Plated Dish<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Piatto Bronzato<Color:Default>."
+
+msgctxt "1760"
+msgid "You got a <Color:8>Gold-Plated Dish<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Piatto placcato in oro<Color:Default>."
+
+msgctxt "1820"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr "Hai un <Color:8>Staminan Spark<Color:Default>."
+
+msgctxt "1844"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr "Hai un <Color:8>Staminan Spark<Color:Default>."
+
+msgctxt "1904"
+msgid "You got a <Color:8>Master Ball<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Master Ball<Color:Default>."
+
+msgctxt "1928"
+msgid "You got a piece of <Color:8>Lobster<Color:Default>."
+msgstr "Hai ottenuto un pezzo di <Color:8>Aragosta<Color:Default>."
+
+msgctxt "1988"
+msgid "You got <Color:8>Even Goro's Beads<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Persino le Perline di Goro<Color:Default>."
+
+msgctxt "2012"
+msgid "You got a <Color:8>Lopsided Cigarette<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Sigaretta storta<Color:Default>."
+
+msgctxt "2072"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Gioiello Rosso<Color:Default>."
+
+msgctxt "2096"
+msgid "You got a <Color:8>Zero Jewel<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Gioiello Zero<Color:Default>."
+
+msgctxt "2156"
+msgid "You got an <Color:8>Eye of the Dragon<Color:Default>."
+msgstr "Hai un <Color:8>Occhio del Drago<Color:Default>."
+
+msgctxt "2180"
+msgid "You got a <Color:8>Diamond<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Diamante<Color:Default>."
+
+msgctxt "2240"
+msgid "You got some <Color:8>SSS Gunpowder<Color:Default>."
+msgstr "Hai ottenuto della <Color:8>SSS Polvere da sparo<Color:Default>."
+
+msgctxt "2264"
+msgid "You got a <Color:8>Gravity Converter<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Convertitore di Gravità<Color:Default>."
+
+msgctxt "23528"
+msgid "Bob Utsunomiya"
+msgstr "Bob Utsunomiya"
+
+msgctxt "56_Bob Utsunomiya"
+msgid "Hey, I'm Bob Utsunomiya. Let's see what I've got for you..."
+msgstr "Ehi, sono Bob Utsunomiya. Vediamo un po' cosa ho per te..."
+
+msgctxt "80_Bob Utsunomiya"
+msgid "You got a pair of <Color:8>Dragon Nunchaku<Color:Default>."
+msgstr "Hai ottenuto un paio di <Color:8>Nunchaku del Drago<Color:Default>."
+
+msgctxt "116_Bob Utsunomiya"
+msgid "You got a <Color:8>War God Talisman<Color:Default>."
+msgstr ""
+"Hai ottenuto un <Color:8>Talismano del Dio della Guerra<Color:Default>."
+
+msgctxt "152_Bob Utsunomiya"
+msgid "You got a <Color:8>Kokurenkai Belt<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Cintura Kokurenkai<Color:Default>."
+
+msgctxt "188_Bob Utsunomiya"
+msgid "You got a <Color:8>Kokurenkai Undergarment<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Intimo Kokurenkai<Color:Default>."
+
+msgctxt "224_Bob Utsunomiya"
+msgid "You got a <Color:8>Kokurenkai Headband<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Fascia Kokurenkai<Color:Default>."
+
+msgctxt "260_Bob Utsunomiya"
+msgid "You got a copy of <Color:8>Limbo 2: Night of the Limbo<Color:Default>."
+msgstr ""
+"Hai ottenuto una copia di <Color:8>Limbo 2: Night of the "
+"Limbo<Color:Default>."
+
+msgctxt "296_Bob Utsunomiya"
+msgid "You got <Color:8>Amon's Sunglasses<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Occhiali da sole di Amon<Color:Default>."
+
+msgctxt "332_Bob Utsunomiya"
+msgid "You got some <Color:8>Beads of Good Fortune<Color:Default>."
+msgstr ""
+"Hai ottenuto alcuni <Color:8>Grani della Buona Fortuna<Color:Default>."
+
+msgctxt "368_Bob Utsunomiya"
+msgid "You got a <Color:8>Lucky Binding<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Legame Fortunato<Color:Default>."
+
+msgctxt "404_Bob Utsunomiya"
+msgid "You got a pair of <Color:8>Hercules Gloves<Color:Default>."
+msgstr "Hai ottenuto un paio di <Color:8>Guanti di Ercole<Color:Default>."
+
+msgctxt "440_Bob Utsunomiya"
+msgid "You got a <Color:8>Substitute Stone<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Pietra Sostitutiva<Color:Default>."
+
+msgctxt "476_Bob Utsunomiya"
+msgid "You got a <Color:8>Rage Talisman<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Talismano della Furia<Color:Default>."
+
+msgctxt "512_Bob Utsunomiya"
+msgid "You got a <Color:8>Lucky Mallet<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Mazzuolo Fortunato<Color:Default>."
+
+msgctxt "548_Bob Utsunomiya"
+msgid "You got a <Color:8>Dragon's Binding<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Legame del Drago<Color:Default>."
+
+msgctxt "584_Bob Utsunomiya"
+msgid "You got a <Color:8>Dragon Shirt<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Camicia del Drago<Color:Default>."
+
+msgctxt "620_Bob Utsunomiya"
+msgid ""
+"You got a copy of <Color:8>Journal of a Rare Sign Maniac<Color:Default>."
+msgstr ""
+"Hai ottenuto una copia di <Color:8>Diario di un Maniaco delle Insegne "
+"Rare<Color:Default>."
+
+msgctxt "656_Bob Utsunomiya"
+msgid "You got a set of <Color:8>Rage Armor<Color:Default>."
+msgstr "Hai ottenuto un set di <Color:8>Armatura della Furia<Color:Default>."
+
+msgctxt "692_Bob Utsunomiya"
+msgid "You got a <Color:8>Rage Bracelet<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Braccialetto della Rabbia<Color:Default>."
+
+msgctxt "728_Bob Utsunomiya"
+msgid "You got a <Color:8>Muramasa Blade<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Lama Muramasa<Color:Default>."
+
+msgctxt "764_Bob Utsunomiya"
+msgid "You got <Color:8>War God Amulet<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Amuleto del Dio della Guerra<Color:Default>."
+
+msgctxt "800_Bob Utsunomiya"
+msgid "You got a set of <Color:8>Sacred Tree Armor<Color:Default>."
+msgstr ""
+"Hai ottenuto un set di <Color:8>Armatura dell'Albero Sacro<Color:Default>."
+
+msgctxt "836_Bob Utsunomiya"
+msgid "You got a pair of <Color:8>Sacred Tree Arm Guards<Color:Default>."
+msgstr ""
+"Hai ottenuto un paio di <Color:8>Parabraccia dell'Albero "
+"Sacro<Color:Default>."
+
+msgctxt "872_Bob Utsunomiya"
+msgid "You got a pair of <Color:8>Sacred Tree Shin Guards<Color:Default>."
+msgstr ""
+"Hai ottenuto un paio di <Color:8>Parastinchi dell'Albero "
+"Sacro<Color:Default>."
+
+msgctxt "908_Bob Utsunomiya"
+msgid "You got a pair of <Color:8>Ebisu Socks<Color:Default>."
+msgstr "Hai ottenuto un paio di <Color:8>Calzini di Ebisu<Color:Default>."
+
+msgctxt "944_Bob Utsunomiya"
+msgid "You got a <Color:8>Golden Pistol<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Pistola d'oro<Color:Default>."
+
+msgctxt "980_Bob Utsunomiya"
+msgid "You got a <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Staminan Royale<Color:Default>."
+
+msgctxt "1064_Bob Utsunomiya"
+msgid "You got a <Color:8>Staminan Spark<Color:Default>."
+msgstr "Hai un <Color:8>Staminan Spark<Color:Default>."
+
+msgctxt "1148_Bob Utsunomiya"
+msgid "You got a <Color:8>Titanium Driver<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Driver al titanio<Color:Default>."
+
+msgctxt "1208_Bob Utsunomiya"
+msgid "You got a <Color:8>Hyper Stun Gun<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Hyper Stun Gun<Color:Default>."
+
+msgctxt "1268_Bob Utsunomiya"
+msgid "You got a <Color:8>Miniature Sign<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Insegna in miniatura<Color:Default>."
+
+msgctxt "1328_Bob Utsunomiya"
+msgid "You got a pair of <Color:8>Demon Gauntlets<Color:Default>."
+msgstr "Hai ottenuto un paio di <Color:8>Manopole del Demone<Color:Default>."
+
+msgctxt "1388_Bob Utsunomiya"
+msgid "You got a <Color:8>Sakura Storm<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Sakura Storm<Color:Default>."
+
+msgctxt "1448_Bob Utsunomiya"
+msgid "You got a <Color:8>Lotus Clan Broadsword<Color:Default>."
+msgstr "Hai ottenuto uno <Color:8>Spadone del Clan del Loto<Color:Default>."
+
+msgctxt "1508_Bob Utsunomiya"
+msgid "You got a <Color:8>9mm Automatic Pistol<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Pistola Automatica 9mm<Color:Default>."
+
+msgctxt "1568_Bob Utsunomiya"
+msgid "You got a <Color:8>Broken M1985<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>M1985 rotto<Color:Default>."
+
+msgctxt "1628_Bob Utsunomiya"
+msgid "You got a <Color:8>Heart Ring<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Anello del Cuore<Color:Default>."
+
+msgctxt "1712_Bob Utsunomiya"
+msgid "You got a <Color:8>Silver-Plated Dish<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Piatto Placcato Argento<Color:Default>."
+
+msgctxt "1796_Bob Utsunomiya"
+msgid "You got a <Color:8>Tiger Skin Belt<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Cintura in Pelle di Tigre<Color:Default>."
+
+msgctxt "1880_Bob Utsunomiya"
+msgid "You got a <Color:8>Gold Hawk<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Gold Hawk<Color:Default>."
+
+msgctxt "1964_Bob Utsunomiya"
+msgid "You got a <Color:8>1-1-1 Card<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>1-1-1 Card<Color:Default>."
+
+msgctxt "2048_Bob Utsunomiya"
+msgid "You got a <Color:8>Black Jewel<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Gioiello Nero<Color:Default>."
+
+msgctxt "2132_Bob Utsunomiya"
+msgid "You got a <Color:8>Seal of the Dragon<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Sigillo del Drago<Color:Default>."
+
+msgctxt "2216_Bob Utsunomiya"
+msgid "You got an <Color:8>NSD Prototype<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Prototipo NSD<Color:Default>."
+
+msgctxt "2300_Bob Utsunomiya"
+msgid "I only hand out item packs once, so take good care of these items."
+msgstr ""
+"I pacchetti di oggetti li consegno una volta sola, quindi mi raccomando, "
+"trattali bene."
+
+msgctxt "2312_Bob Utsunomiya"
+msgid "I'll give you another one if you lose it."
+msgstr "Te ne darò un altro se lo perdi."
+
+msgctxt "2324_Bob Utsunomiya"
+msgid "No need to be shy now."
+msgstr "Non fare il timido adesso."
+
+msgctxt "2336_Bob Utsunomiya"
+msgid "Sorry, but I've got nothing to hand out yet."
+msgstr "Mi dispiace, ma non ho ancora niente da darti."

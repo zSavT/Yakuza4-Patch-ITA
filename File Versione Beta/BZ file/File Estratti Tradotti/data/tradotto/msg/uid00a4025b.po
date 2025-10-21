@@ -1,0 +1,121 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "216"
+msgid "Scored one lead!"
+msgstr "Ho beccato una pista!"
+
+msgctxt "2884"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "2888"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "2892"
+msgid "Flashy Woman"
+msgstr "Donna appariscente"
+
+msgctxt "2896"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "2900"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2904"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "2908"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "2912"
+msgid "Talk_Get"
+msgstr "Talk_Get"
+
+msgctxt "2916"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "2920"
+msgid "0"
+msgstr "0"
+
+msgctxt "84_Akiyama"
+msgid ""
+"Hi there! I'm a scout for a hostess club. Any interest in\r\n"
+"that line of work?"
+msgstr ""
+"Salve! Faccio lo scout per un club per hostess. Hai per caso interesse in\n"
+"quel tipo di lavoro?"
+
+msgctxt "96_Flashy Woman"
+msgid ""
+"Ah, perfect timing. I work at a club now, and I was just\r\n"
+"wondering if I should try somewhere else..."
+msgstr ""
+"Ah, tempismo perfetto. Adesso lavoro in un locale, e stavo giusto\n"
+"domandandomi se non fosse il caso di provare altrove..."
+
+msgctxt "108_Akiyama"
+msgid ""
+"Really? I could help you with that. I'm Akiyama. May I ask\r\n"
+"your name?"
+msgstr ""
+"Davvero? Potrei darti una mano con quello. Sono Akiyama. Posso chiedere\n"
+"il tuo nome?"
+
+msgctxt "120_Flashy Woman"
+msgid "I'm Satomi."
+msgstr "Sono Satomi."
+
+msgctxt "132_Akiyama"
+msgid "Satomi, huh? What sort of place were you looking for?"
+msgstr "Satomi, eh? Che tipo di locale cercavi?"
+
+msgctxt "144_Flashy Woman"
+msgid ""
+"My current club has really strict quotas. I'm thinking about\r\n"
+"finding someplace a little more laid-back."
+msgstr ""
+"Al mio locale attuale le quote sono davvero strette. Stavo pensando di\n"
+"cercarmi un posto un po' più tranquillo."
+
+msgctxt "156_Akiyama"
+msgid ""
+"Not a problem! Our club has no quotas whatsoever, and all of\r\n"
+"our girls are super motivated."
+msgstr ""
+"Nessun problema! Il nostro locale non ha nessuna quota di nessun tipo, e tutte le nostre\n"
+"ragazze sono super motivate."
+
+msgctxt "168_Flashy Woman"
+msgid "Wow, that sounds pretty neat! ♪"
+msgstr "Caspita, sembra niente male! ♪"
+
+msgctxt "180_Akiyama"
+msgid "Here, take my card. Could I get your cell phone number?"
+msgstr "Tieni, il mio biglietto. Mi daresti il tuo numero di cellulare?"
+
+msgctxt "192_Flashy Woman"
+msgid "Sure. Call me later with the details!"
+msgstr "Certo. Fatti sentire dopo per i dettagli!"
+
+msgctxt "204_Akiyama"
+msgid "Okay, I'll be in touch!"
+msgstr "Ok, mi farò sentire!"

@@ -1,0 +1,285 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "536"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "1052"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "14160"
+msgid "Chihiro"
+msgstr "Chihiro"
+
+msgctxt "14164"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "14168"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "14172"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "14176"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "14180"
+msgid "0"
+msgstr "0"
+
+msgctxt "14184"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "14188"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "14192"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_Chihiro"
+msgid ""
+"Wow! I've never shopped at such an expensive store before! I'm kinda "
+"nervous!"
+msgstr ""
+"Caspita! Non sono mai stata a fare shopping in un negozio così costoso prima d'ora!\n"
+"Sono un po' nervosa!"
+
+msgctxt "128_Player"
+msgid "Heh, you are?"
+msgstr "Eh, davvero?"
+
+msgctxt "140_Chihiro"
+msgid "Well, yeah! Come on, let's go in!"
+msgstr "E certo! Dai, entriamo!"
+
+msgctxt "164_Chihiro"
+msgid ""
+"Wow! I've never shopped at such an expensive store before! I'm kinda "
+"nervous!"
+msgstr ""
+"Caspita! Non sono mai stata a fare shopping in un negozio così costoso prima d'ora!\n"
+"Sono un po' nervosa!"
+
+msgctxt "176_Player"
+msgid "Hold on a sec... Um, looks like I'm low on cash."
+msgstr "Aspetta un attimo... Ehm, mi sa che sono a corto di contanti."
+
+msgctxt "188_Chihiro"
+msgid "What? You are!?"
+msgstr "Cosa? Davvero!?"
+
+msgctxt "200_Player"
+msgid "Yeah. Sorry."
+msgstr "Sì. Scusa."
+
+msgctxt "212_Chihiro"
+msgid ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+msgstr ""
+"Peccato. Immagino sia tutto per oggi.\n"
+"\n"
+"Arrivederci per ora."
+
+msgctxt "224_Player"
+msgid "(I better find some money...)"
+msgstr "(Mi conviene trovare dei soldi...)"
+
+msgctxt "332_Chihiro"
+msgid ""
+"Thank you so much! I'm so happy! I can't tell how much it cost, though..."
+msgstr ""
+"Grazie di cuore! Sono felicissima! Non oso immaginare quanto ti sia costato,"
+" però..."
+
+msgctxt "344_Player"
+msgid "Well, that brand isn't cheap."
+msgstr "Beh, quella marca non costa poco."
+
+msgctxt "356_Chihiro"
+msgid "Oh, it isn't? Well, I'll treasure it always."
+msgstr "Ah, non è niente, dici? Beh, ne farò tesoro per sempre."
+
+msgctxt "368_Talk_Ojigi"
+msgid "See you at the club later. <Color:7>♥<Color:Default>"
+msgstr "Ci vediamo al club più tardi. <Color:7>♥<Color:Default>"
+
+msgctxt "392_Chihiro"
+msgid ""
+"Thanks a lot. Are you sure it's okay for me to accept this? It wasn't too "
+"expensive, was it?"
+msgstr ""
+"Grazie mille. Sei sicuro che vada bene che io lo prenda? Non è che sia stato"
+" troppo caro, vero?"
+
+msgctxt "404_Player"
+msgid "Well, the brand is pretty well-known."
+msgstr "Beh, il marchio è piuttosto conosciuto."
+
+msgctxt "416_Chihiro"
+msgid "I see. ♪ I had a good time today. I'll see you at the club."
+msgstr "Capito. ♪ Mi sono divertita oggi. Ci vediamo al club."
+
+msgctxt "440_Chihiro"
+msgid "......"
+msgstr "......"
+
+msgctxt "452_Player"
+msgid "Is something wrong?"
+msgstr "C'è qualcosa che non va?"
+
+msgctxt "464_Chihiro"
+msgid "Um... I don't think this is really my style."
+msgstr "Uhm... non credo proprio che questo sia il mio stile."
+
+msgctxt "476_Player"
+msgid ""
+"It's not? But the brand is really famous. Most students can't afford it."
+msgstr ""
+"Non è così? Ma la marca è famosissima. La maggior parte degli studenti non "
+"se lo può permettere."
+
+msgctxt "488_Chihiro"
+msgid "I'm just not interested in that kind of thing."
+msgstr "Non sono proprio interessato a quel genere di cose."
+
+msgctxt "500_Chihiro"
+msgid "I should be going. I'll see you at the club."
+msgstr "Dovrei andare. Ci vediamo al club."
+
+msgctxt "512_Player"
+msgid "(I guess she didn't like the present...)"
+msgstr "(Mi sa che non le è piaciuto il regalo...)"
+
+msgctxt "620_Chihiro"
+msgid ""
+"I can't go to places like this by myself. It's always so hard to decide what"
+" to get."
+msgstr ""
+"Non riesco proprio ad andarci in posti così da sola. È sempre un casino "
+"scegliere cosa prendere."
+
+msgctxt "632_Player"
+msgid "I know what you mean..."
+msgstr "Capisco cosa intendi..."
+
+msgctxt "644_Chihiro"
+msgid "Come on, let's go in!"
+msgstr "Dai, entriamo!"
+
+msgctxt "668_Chihiro"
+msgid ""
+"I can't go to places like this by myself. It's always so hard to decide what"
+" to get."
+msgstr ""
+"Non riesco proprio ad andarci in posti così da sola. È sempre un casino "
+"scegliere cosa prendere."
+
+msgctxt "680_Player"
+msgid "Hold on a sec... Um, looks like I'm low on cash."
+msgstr "Aspetta un attimo... Ehm, mi sa che sono a corto di contanti."
+
+msgctxt "692_Chihiro"
+msgid "What? You are!?"
+msgstr "Cosa? Davvero!?"
+
+msgctxt "704_Player"
+msgid "Yeah. Sorry."
+msgstr "Sì. Scusa."
+
+msgctxt "716_Chihiro"
+msgid ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+msgstr ""
+"Peccato. Immagino sia tutto per oggi.\n"
+"\n"
+"Arrivederci per ora."
+
+msgctxt "728_Player"
+msgid "(I better find some money...)"
+msgstr "(Mi conviene trovare dei soldi...)"
+
+msgctxt "836_Chihiro"
+msgid "Thank you so much! This is great!"
+msgstr "Grazie mille! È stupendo!"
+
+msgctxt "848_Player"
+msgid "Glad you like it."
+msgstr "Mi fa piacere che ti piaccia."
+
+msgctxt "860_Chihiro"
+msgid "I'll treasure this forever."
+msgstr "Farò tesoro di questo per sempre."
+
+msgctxt "872_Talk_Yes"
+msgid " Wanna go to the club now? <Color:7>♥<Color:Default>"
+msgstr "Ti va di andare al club adesso? <Color:7>♥<Color:Default>"
+
+msgctxt "884_Player"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "908_Chihiro"
+msgid "Are you sure it's okay for me to accept this?"
+msgstr "Sei sicuro che io possa accettarlo?"
+
+msgctxt "920_Player"
+msgid "Yeah. It really suits you."
+msgstr "Già. Ti sta proprio bene."
+
+msgctxt "932_Chihiro"
+msgid "Thank you. Let's go to the club, okay?"
+msgstr "Grazie. Andiamo al club, ok?"
+
+msgctxt "944_Player"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "968_Chihiro"
+msgid "......"
+msgstr "......"
+
+msgctxt "980_Player"
+msgid "Is something wrong?"
+msgstr "C'è qualcosa che non va?"
+
+msgctxt "992_Chihiro"
+msgid "Um... This isn't really my style."
+msgstr "Ehm... Questo non è proprio il mio stile."
+
+msgctxt "1004_Player"
+msgid "Really? It's not?"
+msgstr "Davvero? Non lo è?"
+
+msgctxt "1016_Chihiro"
+msgid "Do you wanna just go to the club now?"
+msgstr "Vuoi che andiamo dritti al club adesso?"
+
+msgctxt "1028_Player"
+msgid "(I guess she didn't like the present...)"
+msgstr "(Mi sa che non le è piaciuto il regalo...)"

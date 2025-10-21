@@ -1,0 +1,37 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1008"
+msgid "?"
+msgstr "?"
+
+msgctxt "1012"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1016"
+msgid "The Florist"
+msgstr "Il Fiorista"
+
+msgctxt "68_?"
+msgid "Ah, there you are."
+msgstr "Ah, eccoti."
+
+msgctxt "92_Saejima"
+msgid "Who in the goddamn...?"
+msgstr "Chi diavolo...?"
+
+msgctxt "104_The Florist"
+msgid "I've been waiting for you, Taiga Saejima."
+msgstr "Ti stavo aspettando, Taiga Saejima."

@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "124"
+msgid "You got <Color:8>18,000 yen<Color:Default>."
+msgstr "Hai intascato <Color:8>18,000 yen<Color:Default>."
+
+msgctxt "1368"
+msgid "Owner"
+msgstr "Proprietario"
+
+msgctxt "1372"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "88_Owner"
+msgid "Thank you very much!"
+msgstr "Grazie mille!"
+
+msgctxt "100_Owner"
+msgid "Thank you very much!"
+msgstr "Grazie mille!"
+
+msgctxt "112_Owner"
+msgid ""
+"Thank you, I mean it! I don't know what I'd have\r\n"
+"done otherwise. Take this as thanks for helping me out."
+msgstr ""
+"Grazie, davvero! Non so proprio cosa avrei\n"
+"combinato, altrimenti. Prendi questo come ringraziamento per avermi dato una mano."

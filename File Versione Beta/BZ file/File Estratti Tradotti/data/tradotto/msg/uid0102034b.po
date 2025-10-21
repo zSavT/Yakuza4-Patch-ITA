@@ -1,0 +1,147 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5540"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "5544"
+msgid "Kido"
+msgstr "Kido"
+
+msgctxt "5548"
+msgid "Midorikawa"
+msgstr "Midorikawa"
+
+msgctxt "5552"
+msgid "Hatsushiba"
+msgstr "Hatsushiba"
+
+msgctxt "5556"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "5560"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "5564"
+msgid "Talk_SmileBig_lp"
+msgstr "Talk_SmileBig_lp"
+
+msgctxt "5568"
+msgid "Talk_SmileBig_ed"
+msgstr "Talk_SmileBig_ed"
+
+msgctxt "5572"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "56_Akiyama"
+msgid "Kido-chan!"
+msgstr "Kido-chan!"
+
+msgctxt "68_Kido"
+msgid "Akiyama-san...!"
+msgstr "Akiyama-san...!"
+
+msgctxt "80_Midorikawa"
+msgid "Hey, you're good. Real dedication to the job..."
+msgstr "Ah, sei in gamba. Una bella dedizione al mestiere..."
+
+msgctxt "92_Akiyama"
+msgid "Midorikawa-san, I presume?"
+msgstr "Midorikawa-san, suppongo?"
+
+msgctxt "104_Akiyama"
+msgid "And I take it that's the Hatsushiba Clan chairman?"
+msgstr "E immagino che quello sia il presidente del Clan Hatsushiba?"
+
+msgctxt "116_Akiyama"
+msgid ""
+"I don't know what you want with Kido-chan and my registry,\r\n"
+"but what do you say you give them back?"
+msgstr ""
+"Non so cosa diavolo vogliate da Kido-chan e dal mio registro,\n"
+"ma che ne dite di ridarmeli indietro?"
+
+msgctxt "140_Midorikawa"
+msgid "You heard the man, boss. What's it gonna be?"
+msgstr "L'hai sentito, capo. Che si fa?"
+
+msgctxt "164_Hatsushiba"
+msgid ""
+"Heheheh... Akiyama, was it? I'm afraid you've got the\r\n"
+"wrong idea."
+msgstr ""
+"Heheheh... Akiyama, dico bene? Temo che tu abbia le\n"
+"idee sbagliate."
+
+msgctxt "176_Akiyama"
+msgid "Oh, yeah? How you figure?"
+msgstr "Ah, sì? E come fai a dirlo?"
+
+msgctxt "188_Hatsushiba"
+msgid "You didn't lend us shit. You <Italic>gave</Italic> it to us."
+msgstr "Non ci hai prestato un cazzo. Tu <Italic>ce l'hai dato.</Italic>"
+
+msgctxt "200_Hatsushiba"
+msgid "So, you see, you can't ask for it back. That'd be just plain rude."
+msgstr ""
+"Allora, vedi, non puoi mica richiederlo indietro. Sarebbe proprio una "
+"cafonata."
+
+msgctxt "212_Akiyama"
+msgid ""
+"Ohhh, why didn't you just say so? If I gave it to you, that's different."
+msgstr ""
+"Ahhh, ma perché non l'hai detto e basta? Se te l'avessi dato io, è un'altra "
+"storia."
+
+msgctxt "224_Hatsushiba"
+msgid "Damn straight. Glad we're seein' eye to eye."
+msgstr "Maledettamente vero. Meno male che ci siamo capiti."
+
+msgctxt "236_Akiyama"
+msgid ""
+"Absolutely. Now I'm gonna ask you to <Italic>give</Italic> it back to me."
+msgstr "Appunto. Ora ti chiedo di <Italic>ridarmelo</Italic>."
+
+msgctxt "248_Hatsushiba"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "260_Akiyama"
+msgid ""
+"Just playing along with your little game. Now give it back before things get"
+" ugly."
+msgstr ""
+"Mi stavo solo prestando al tuo teatrino. Ora ridammelo prima che le cose si "
+"mettano male."
+
+msgctxt "272_Midorikawa"
+msgid "Hah, this guy's a riot! You seriously think you can take us?"
+msgstr "Hah, ma guarda che fenomeno! Credi davvero di poterci battere?"
+
+msgctxt "284_Akiyama"
+msgid "We won't know unless I try, will we?"
+msgstr "Non lo sapremo finché non ci provo, no?"
+
+msgctxt "296_Midorikawa"
+msgid "Oh, I definitely know... But hey, why not?"
+msgstr "Oh, questo lo so, eccome... Ma sì, perché no?"
+
+msgctxt "308_Midorikawa"
+msgid "I'll send you back to your bitch secretary in a body bag!"
+msgstr "Ti spedirò dalla tua segretaria troia in un sacco per cadaveri!"

@@ -1,0 +1,38 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "108"
+msgid ""
+"Actually, make that an extra large beef bowl for me! C'mon, let's go to "
+"Matsuya!"
+msgstr ""
+"Anzi, per me una ciotola di manzo mega!\n"
+"Dai, andiamo da Matsuya!"
+
+msgctxt "612"
+msgid "Hungry College Student"
+msgstr "Studente universitario affamato"
+
+msgctxt "616"
+msgid "Hungrier College Student"
+msgstr "Studente universitario più affamato"
+
+msgctxt "84_Hungry College Student"
+msgid "I'm starving! Let's grab a beef bowl or something!"
+msgstr ""
+"Ho una fame da lupi! Andiamo a prenderci una ciotola di manzo o roba simile!"
+
+msgctxt "96_Hungrier College Student"
+msgid "Yeah, I was feeling curry today too... maybe beef curry?"
+msgstr "Già, mi andava il curry anche oggi... magari un curry di manzo?"

@@ -1,0 +1,160 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "232"
+msgid "Scored one lead!"
+msgstr "Ho beccato una pista!"
+
+msgctxt "4612"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "4616"
+msgid "Scout from Another Club"
+msgstr "Procacciatore di un altro club"
+
+msgctxt "4620"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "4624"
+msgid "Impressionable Woman"
+msgstr "Donna impressionabile"
+
+msgctxt "4628"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4632"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "4636"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "4640"
+msgid "Talk_Get"
+msgstr "Talk_Get"
+
+msgctxt "4644"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "4648"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "4652"
+msgid "0"
+msgstr "0"
+
+msgctxt "4656"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "88_Akiyama"
+msgid "Well? Want another go-round?"
+msgstr "Beh? Vuoi un altro giro?"
+
+msgctxt "100_Scout from Another Club"
+msgid "Dammit..."
+msgstr "Maledizione..."
+
+msgctxt "136_Akiyama"
+msgid "Sorry. I didn't mean to scare you."
+msgstr "Scusa. Non volevo spaventarti."
+
+msgctxt "148_Impressionable Woman"
+msgid "It's okay... You sure are strong."
+msgstr "Va bene... Sei proprio forte."
+
+msgctxt "160_Akiyama"
+msgid ""
+"In my business, I have to be. Anyway, what do you think\r\n"
+"about the hostess job?"
+msgstr ""
+"Nel mio giro, bisogna essere così. Comunque, cosa ne pensi\n"
+"del lavoro da hostess?"
+
+msgctxt "172_Impressionable Woman"
+msgid ""
+"I've never worked at a hostess club before... I wonder if I'd\r\n"
+"be any good."
+msgstr ""
+"Non ho mai lavorato in un hostess club prima d'ora... Mi chiedo se "
+"sarei\\nall'altezza."
+
+msgctxt "184_Akiyama"
+msgid ""
+"You'll be fine as long as you keep motivated and focus on\r\n"
+"customer service. Why not try it out for a day?"
+msgstr ""
+"Stai tranquillo, basta che resti motivato e ti concentri sul\\nservizio al "
+"cliente. Che ne dici di fare una prova per un giorno?"
+
+msgctxt "196_Impressionable Woman"
+msgid "All right, I will."
+msgstr "Va bene, lo faccio."
+
+msgctxt "208_Akiyama"
+msgid ""
+"Excellent! Here's my card. Could I get your cell phone\r\n"
+"number?"
+msgstr ""
+"Perfetto! Ecco il mio biglietto. Mi daresti il tuo numero di cellulare\\n?"
+
+msgctxt "220_Impressionable Woman"
+msgid "Sure. Thanks for the opportunity."
+msgstr "Certo. Grazie per l'opportunità."
+
+msgctxt "244_Akiyama"
+msgid "All right, then. I'll be in touch!"
+msgstr "Va bene, allora. Ci sentiamo!"
+
+msgctxt "304_Akiyama"
+msgid "Hi there. I'm a scout for a hostess club. Any interest?"
+msgstr "Ehi. Faccio lo scout per un hostess club. Ti interessa?"
+
+msgctxt "316_Impressionable Woman"
+msgid "A hostess club?"
+msgstr "Un hostess club?"
+
+msgctxt "328_Akiyama"
+msgid ""
+"That's right! You're a real beauty. I bet you'd be pretty\r\n"
+"popular."
+msgstr ""
+"Proprio così! Sei uno schianto. Scommetto che saresti parecchio\n"
+"popolare."
+
+msgctxt "340_Impressionable Woman"
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgctxt "352_Scout from Another Club"
+msgid "Hey, just whaddya think you're doing on my turf?"
+msgstr "Oi, ma che diavolo pensi di fare sul mio territorio?"
+
+msgctxt "364_Akiyama"
+msgid ""
+"What? This isn't anybody's turf! You trying to start\r\n"
+"something?"
+msgstr ""
+"Che? Questo non è il territorio di nessuno! Stai cercando\n"
+"guai?"
+
+msgctxt "376_Scout from Another Club"
+msgid "Shut your trap and get lost!"
+msgstr "Chiudi il becco e sparisci!"

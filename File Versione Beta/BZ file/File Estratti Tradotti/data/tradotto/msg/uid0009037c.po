@@ -1,0 +1,299 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "10124"
+msgid "Homeless Man"
+msgstr "Senzatetto"
+
+msgctxt "10128"
+msgid "Meathead Yakuza"
+msgstr "Bestione Yakuza"
+
+msgctxt "10132"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "10136"
+msgid "Takashi"
+msgstr "Takashi"
+
+msgctxt "10140"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "10144"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "10148"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "10152"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "10156"
+msgid "Talk_Ase"
+msgstr "Talk_Ase"
+
+msgctxt "10160"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "10164"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "10168"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "10172"
+msgid "SetM_nml_sitgrd_down_03"
+msgstr "SetM_nml_sitgrd_down_03"
+
+msgctxt "10176"
+msgid "M_nml_stand_tlk_kamae"
+msgstr "M_nml_stand_tlk_kamae"
+
+msgctxt "10180"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "10184"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "10188"
+msgid "P_aki_stand"
+msgstr "P_aki_stand"
+
+msgctxt "10192"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "10196"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "10200"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "10204"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "96_Homeless Man"
+msgid "Agh! Somebody help me!"
+msgstr "Ahi! Qualcuno mi aiuti!"
+
+msgctxt "108_Meathead Yakuza"
+msgid "......"
+msgstr "......"
+
+msgctxt "120_Kiryu"
+msgid ""
+"(That's Saejima. I think I'm finally starting to see what the Florist is up "
+"to.)"
+msgstr ""
+"(Quello è Saejima. Credo di star finalmente iniziando a capire cosa sta "
+"combinando il Florista.)"
+
+msgctxt "132_Takashi"
+msgid ""
+"What the heck? Nobody told me this guy was gonna be a freak\r\n"
+"of nature! He's huge!"
+msgstr ""
+"Ma che diavolo? Nessuno mi aveva detto che questo qui sarebbe stato un mostro\n"
+"della natura! È un armadio!"
+
+msgctxt "144_Kiryu"
+msgid ""
+"You might want to step back, Takashi. This isn't a fight you\r\n"
+"can win."
+msgstr ""
+"Ti conviene farti da parte, Takashi. Questo non è uno scontro che tu\n"
+"puoi vincere."
+
+msgctxt "156_Takashi"
+msgid ""
+"No! I promised the Florist I'd handle it, so that's what I'm\r\n"
+"gonna do!"
+msgstr ""
+"No! Ho promesso al Florista che me ne sarei occupato, quindi è quello "
+"che\\nfarò!"
+
+msgctxt "192_Takashi"
+msgid "Hey, you there! Knock it off!"
+msgstr "Ehi, tu! Smettila!"
+
+msgctxt "204_Meathead Yakuza"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "216_Meathead Yakuza"
+msgid "What was 'at?"
+msgstr "Che è stato?"
+
+msgctxt "228_Takashi"
+msgid "I, um..."
+msgstr "Io, ehm..."
+
+msgctxt "240_Takashi"
+msgid "I won't let you keep picking on him!"
+msgstr "Non ti lascerò continuare a tartassarlo!"
+
+msgctxt "252_Meathead Yakuza"
+msgid "Oh yeah?"
+msgstr "Ah sì?"
+
+msgctxt "264_Meathead Yakuza"
+msgid "How 'bout I pick on you instead, kid?"
+msgstr "Che ne dici se me la prendo con te, pivello?"
+
+msgctxt "276_Takashi"
+msgid "Huh? I, well... Never mind. I know my limits."
+msgstr "Eh? Io, beh... Lascia stare. Conosco i miei limiti."
+
+msgctxt "288_Meathead Yakuza"
+msgid ""
+"All bark and not a lick o' bite, huh? Guess I gave ya too\r\n"
+"much credit."
+msgstr ""
+"Tutto abbaiare e neanche un briciolo di morso, eh? Mi sa che ti ho dato troppo\n"
+"credito."
+
+msgctxt "300_Meathead Yakuza"
+msgid ""
+"Good boy. Nothin' embarrassing about steppin' down to save\r\n"
+"your own neck. No point riskin' your life for some person ya\r\n"
+"don't even know."
+msgstr ""
+"Bravo, bravo. Non c'è niente di cui vergognarsi a farsi da parte per salvare\n"
+"la tua pellaccia. Che senso ha rischiare la vita per uno che nemmeno\n"
+"conosci."
+
+msgctxt "312_Takashi"
+msgid "Dammit..."
+msgstr "Maledizione..."
+
+msgctxt "324_Takashi"
+msgid ""
+"No, things are different now! I've gotta think about what's\r\n"
+"best for Kyoka and our baby!"
+msgstr ""
+"No, le cose sono diverse adesso! Devo pensare a cosa è\n"
+"meglio per Kyoka e il nostro bambino!"
+
+msgctxt "336_Takashi"
+msgid ""
+"And if me taking on a yakuza is what's best for our family, I'm damn well "
+"gonna do it!"
+msgstr ""
+"E se affrontare uno yakuza è la cosa migliore per la nostra famiglia, lo "
+"farò, cazzo!"
+
+msgctxt "348_Takashi"
+msgid "Rrraaaaagh!"
+msgstr "Rrraaaaagh!"
+
+msgctxt "420_Meathead Yakuza"
+msgid ""
+"Look, kid. Bravery's all nice n' good, but gettin' yourself\r\n"
+"killed ain't. You oughta haul ass if you know ya can't win."
+msgstr ""
+"Senti, pivello. Il coraggio è una bella cosa, ma farsi\n"
+"ammazzare non lo è affatto. Dovresti filartela se sai di non poter vincere."
+
+msgctxt "444_Takashi"
+msgid "Dammit..."
+msgstr "Maledizione..."
+
+msgctxt "504_Kiryu"
+msgid "You okay, Takashi?"
+msgstr "Stai bene, Takashi?"
+
+msgctxt "516_Takashi"
+msgid ""
+"I... think so. What happened to that homeless guy, though?\r\n"
+"Did he get away?"
+msgstr ""
+"Credo... di sì. Ma quel barbone, che fine ha fatto?\n"
+"È riuscito a scappare?"
+
+msgctxt "528_Kiryu"
+msgid ""
+"Yeah, he ran off while you had the big guy distracted. You\r\n"
+"did it."
+msgstr ""
+"Già, è filato via mentre tu tenevi occupato quel bestione. Tu\n"
+"ce l'hai fatta."
+
+msgctxt "540_Takashi"
+msgid "Heh, hehe. Yeah, I guess I did."
+msgstr "Heh, hehe. Sì, direi di sì."
+
+msgctxt "564_Takashi"
+msgid "Hey, it's Takashi. Yup, I'm all done!"
+msgstr "Ehi, sono Takashi. Sì, ho finito!"
+
+msgctxt "576_Takashi"
+msgid "You'll accept my request? Thank you very much!"
+msgstr "Accetti la mia richiesta? Grazie mille!"
+
+msgctxt "588_Takashi"
+msgid "All right, got it!"
+msgstr "A posto, capito!"
+
+msgctxt "612_Takashi"
+msgid "The Florist says he's going to find my father!"
+msgstr "Il Fiorista dice che andrà a cercare mio padre!"
+
+msgctxt "624_Kiryu"
+msgid "Really!? That's great."
+msgstr "Davvero!? Ottimo!"
+
+msgctxt "636_Takashi"
+msgid "Yes, and I owe it all to you, Kiryu-san!"
+msgstr "Sì, e ti devo tutto, Kiryu-san!"
+
+msgctxt "648_Takashi"
+msgid ""
+"That reminds me, the Florist also said you should stop by.\r\n"
+"He mentioned you two needing to talk about something."
+msgstr ""
+"Ah, sì, il Florista ha detto pure che dovresti fare un salto.\n"
+"Ha detto che voi due avete una cosa di cui parlare."
+
+msgctxt "660_Kiryu"
+msgid "He did, huh? All right, then."
+msgstr "L'ha fatto, eh? Bene, allora."
+
+msgctxt "672_Takashi"
+msgid ""
+"In the meantime, I guess I'll just lay low and wait to see\r\n"
+"what info the Florist comes back with."
+msgstr ""
+"Intanto, credo che mi terrò a basso profilo e aspetterò di vedere\n"
+"con che informazioni torna il Florista."
+
+msgctxt "684_Takashi"
+msgid "Thanks again, Kiryu-san! I couldn't have done this without you!"
+msgstr "Grazie ancora, Kiryu-san! Non ci sarei riuscito senza di te!"
+
+msgctxt "744_Kiryu"
+msgid "(Sounds like I should head over to Purgatory.)"
+msgstr "(Mi sa che devo andare al Purgatorio.)"

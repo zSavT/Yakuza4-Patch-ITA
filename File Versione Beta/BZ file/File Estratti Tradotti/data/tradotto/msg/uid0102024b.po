@@ -1,0 +1,126 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "5636"
+msgid "0"
+msgstr "0"
+
+msgctxt "5640"
+msgid "Idle"
+msgstr "Inattivo"
+
+msgctxt "5644"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "5648"
+msgid "Kido"
+msgstr "Kido"
+
+msgctxt "5652"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "5656"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "128_Akiyama"
+msgid "Hey, how'd your little session with Sugiuchi go?"
+msgstr "Senti, com'è andato il tuo discorsetto con Sugiuchi?"
+
+msgctxt "140_Kido"
+msgid "Ugh, don't get me started."
+msgstr "Ugh, non farmici nemmeno iniziare."
+
+msgctxt "152_Kido"
+msgid "That guy really puts the dick in detective. What an asshole."
+msgstr ""
+"Quel tizio è un detective... ma è proprio uno stronzo.\n"
+"Che pezzo di merda."
+
+msgctxt "164_Akiyama"
+msgid "No joke."
+msgstr "Non sto scherzando."
+
+msgctxt "176_Akiyama"
+msgid ""
+"But hey, if I were over forty and still stuck as a beat cop, I'd probably "
+"have a chip on my shoulder, too."
+msgstr ""
+"Ma ehi, se avessi più di quarant'anni e fossi ancora a sgobbare come uno "
+"sbirro di strada, probabilmente avrei il dente avvelenato anch'io."
+
+msgctxt "188_Kido"
+msgid "You think that's all it is?"
+msgstr "Ma pensi che sia solo questo?"
+
+msgctxt "200_Akiyama"
+msgid "You think it's not?"
+msgstr "Ma pensi di no?"
+
+msgctxt "272_Kido"
+msgid ""
+"I dunno. It kinda feels like he's, like, obsessed with you and Arai-aniki or"
+" something."
+msgstr "Boh. Mi sa che è, tipo, fissato con te e Arai-aniki o roba simile."
+
+msgctxt "284_Akiyama"
+msgid "How do you figure?"
+msgstr "Come ci sei arrivato?"
+
+msgctxt "296_Kido"
+msgid "He kept grilling me about how you two met."
+msgstr ""
+"Continuava a farmi il terzo grado su come voi due vi siete conosciuti."
+
+msgctxt "308_Kido"
+msgid ""
+"Oh, and he wouldn't shut up about wanting to know what Kanemura's loan terms"
+" were."
+msgstr ""
+"Ah, e mi ha martellato le palle per sapere quali fossero i termini del "
+"prestito di Kanemura."
+
+msgctxt "320_Kido"
+msgid "Doesn't that seem kinda... weird to you?"
+msgstr "Non ti sembra un po'... sospetto?"
+
+msgctxt "332_Akiyama"
+msgid "I guess."
+msgstr "Forse."
+
+msgctxt "344_Kido"
+msgid ""
+"Not that I can blame him for wondering. Why <Italic>are</Italic> you "
+"throwing your weight behind Arai-aniki?"
+msgstr ""
+"Non che possa dargli torto a farsi delle domande. Perché "
+"<Italic>stai</Italic> mettendo il tuo peso dietro ad Arai-aniki?"
+
+msgctxt "356_Akiyama"
+msgid "That's my little secret."
+msgstr "Questo è il mio piccolo segreto."
+
+msgctxt "368_Kido"
+msgid "C'mon, Akiyama-san! You can tell me."
+msgstr "Dai, Akiyama-san! Me lo puoi dire."
+
+msgctxt "380_Akiyama"
+msgid "Heh, maybe when you're older."
+msgstr "Eh, forse quando sarai più grande."
+
+msgctxt "392_Kido"
+msgid "Ugh, Akiyama-san..."
+msgstr "Uffa, Akiyama-san..."

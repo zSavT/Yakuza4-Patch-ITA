@@ -1,0 +1,121 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "3944"
+msgid "Saki-chan"
+msgstr "Saki-chan"
+
+msgctxt "3948"
+msgid "P_tan_sitcnt_tlk_kamae"
+msgstr "P_tan_sitcnt_tlk_kamae"
+
+msgctxt "3952"
+msgid "P_tan_sitcnt"
+msgstr "P_tan_sitcnt"
+
+msgctxt "3956"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "3960"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3964"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "3968"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "68_Saki-chan"
+msgid "Oh. Hi, hon."
+msgstr "Oh. Ciao, caro."
+
+msgctxt "140_Saki-chan"
+msgid "Turns out Yabe-san was on the cusp of something dangerous."
+msgstr "A quanto pare, Yabe-san stava per cacciarsi in un brutto guaio."
+
+msgctxt "152_Tanimura"
+msgid "What was it he investigated?"
+msgstr "Su cosa aveva indagato?"
+
+msgctxt "164_Saki-chan"
+msgid "Not what, but who: a woman from Hong Kong."
+msgstr "Non cosa, ma chi: una donna di Hong Kong."
+
+msgctxt "176_Tanimura"
+msgid "Huh. I take it she's not just some random lady."
+msgstr "Ah. Quindi, non è una tipa qualsiasi."
+
+msgctxt "188_Saki-chan"
+msgid ""
+"Right. Rumor has it she has ties to a certain crime syndicate, and she's in "
+"charge of illegal immigrant workers... all of them female."
+msgstr ""
+"Giusto. Gira voce che abbia dei collegamenti con un certo sindacato "
+"criminale, e che sia a capo di immigrati clandestini... tutte donne."
+
+msgctxt "200_Tanimura"
+msgid "So she's a crime boss, then. And this syndicate's supposed to be...?"
+msgstr ""
+"Quindi è una boss, eh.\n"
+"E questo sindacato che roba sarebbe...?"
+
+msgctxt "212_Saki-chan"
+msgid ""
+"A powerful underground intelligence network spread throughout Asia. "
+"Apparently they recruit girls from poor families and make them buy fake "
+"passports and visas."
+msgstr ""
+"Una potente rete di intelligence clandestina diffusa in tutta l'Asia. A "
+"quanto pare reclutano ragazze da famiglie povere e le costringono a comprare"
+" passaporti e visti falsi."
+
+msgctxt "224_Saki-chan"
+msgid ""
+"Then they force them to work like slaves to work off the loans used to buy "
+"them. And when they're used up, they're history."
+msgstr ""
+"Poi li costringono a lavorare come schiavi per ripagare i prestiti usati per"
+" comprarli. E quando li hanno usati fino in fondo, sono finiti."
+
+msgctxt "236_Tanimura"
+msgid "Don't tell me... Bridge is the one running the show?"
+msgstr "Non sarà mica che... Bridge è quello che manda avanti il baraccone?"
+
+msgctxt "248_Saki-chan"
+msgid "That's my guess."
+msgstr "È quel che penso io."
+
+msgctxt "260_Tanimura"
+msgid "Any idea where this crime boss lady might be?"
+msgstr "Sai mica dov'è 'sta capa criminale?"
+
+msgctxt "272_Saki-chan"
+msgid ""
+"I'm not entirely sure, but I hear the syndicate has an office near the "
+"arcade in <Color:7>Nakamichi Alley<Color:Default>."
+msgstr ""
+"Non ne sono sicurissimo, ma ho sentito dire che il sindacato ha un ufficio "
+"vicino alla sala giochi in <Color:7>Nakamichi Alley<Color:Default>."
+
+msgctxt "284_Saki-chan"
+msgid "I'm sure this goes without saying, but... be careful, okay?"
+msgstr "Non c'è bisogno che te lo dica, ma... stai attento, eh?"
+
+msgctxt "296_Tanimura"
+msgid "Thanks. I'll try."
+msgstr "Grazie. Ci proverò."

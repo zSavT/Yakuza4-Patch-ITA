@@ -1,0 +1,46 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "96"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr "Hai intascato <Color:8>20.000 yen<Color:Default>."
+
+msgctxt "1508"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1512"
+msgid "Woman Victim"
+msgstr "Donna Vittima"
+
+msgctxt "1516"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1520"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "72_Tanimura"
+msgid "You must be a real moron, coming right back to the scene of the crime."
+msgstr ""
+"Devi essere proprio un idiota, a tornare dritto sulla scena del crimine."
+
+msgctxt "84_Woman Victim"
+msgid "I'm just glad I got my bag back... Detective, thank you so much!"
+msgstr "Meno male che ho riavuto la mia borsa... Detective, grazie infinite!"
+
+msgctxt "168_Woman Victim"
+msgid "Again, thank you so much!"
+msgstr "Di nuovo, grazie mille!"

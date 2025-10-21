@@ -1,0 +1,48 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1468"
+msgid "Yuya"
+msgstr "Yuya"
+
+msgctxt "1472"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1476"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "80_Yuya"
+msgid "Oh, Kiryu-san!"
+msgstr "Oh, Kiryu-san!"
+
+msgctxt "92_Yuya"
+msgid ""
+"Boy, am I glad to see you. I thought you jumped ship and left town already."
+msgstr ""
+"Meno male che ti vedo, cavolo. Pensavo avessi già tagliato la corda e fossi "
+"scappato via dalla città."
+
+msgctxt "104_Kiryu"
+msgid "Hey, Yuya. What's up?"
+msgstr "Ehi, Yuya. Cosa c'è?"
+
+msgctxt "116_Yuya"
+msgid "You, uh, got a moment? There's something I need to show you."
+msgstr "Ehm, hai un attimo? C'è una cosa che devo farti vedere."
+
+msgctxt "128_Kiryu"
+msgid "Of course. I always have time to help friends in need."
+msgstr "Certo. Ho sempre tempo per dare una mano agli amici in difficoltà."

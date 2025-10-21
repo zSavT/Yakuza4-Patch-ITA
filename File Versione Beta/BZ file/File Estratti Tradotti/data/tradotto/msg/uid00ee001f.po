@@ -1,0 +1,273 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "372"
+msgid "Hey buddy, you wanna play shogi? It'll be 500 yen."
+msgstr "Ehi, compare, vuoi giocare a shogi? Costa 500 yen."
+
+msgctxt "420"
+msgid "You used a <Color:8>Shogi Coupon<Color:Default>."
+msgstr "Hai usato un <Color:8>Coupon Shogi<Color:Default>."
+
+msgctxt "576"
+msgid "You used a <Color:8>Shogi Coupon<Color:Default>."
+msgstr "Hai usato un <Color:8>Coupon Shogi<Color:Default>."
+
+msgctxt "780"
+msgid ""
+"I haven't seen you much in this place, buddy. So you wanna start playing "
+"shogi? That's great to hear."
+msgstr ""
+"Non ti si vede molto in giro da queste parti, compare.\n"
+"Allora, vuoi darti allo shogi? Ottimo, mi fa piacere sentirlo."
+
+msgctxt "864"
+msgid ""
+"Welcome! We're celebrating the emergence of a new Shogi King. For the "
+"duration, you can play with us for free."
+msgstr ""
+"Benvenuto! Stiamo festeggiando l'emergere di un nuovo Re dello Shogi. Per "
+"tutta la durata, puoi giocare con noi gratuitamente."
+
+msgctxt "10224"
+msgid "Owner"
+msgstr "Proprietario"
+
+msgctxt "10228"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "10232"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "10236"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "312_Owner"
+msgid "Well, did you enjoy yourself? Thanks for coming!"
+msgstr "Beh, ti sei divertito? Grazie per essere venuto!"
+
+msgctxt "396_Owner"
+msgid ""
+"Hey there, you've got yourself a ticket. You can play a round for free. Want"
+" to use it?"
+msgstr ""
+"Ehi, tu, ti sei beccato un biglietto. Puoi fare una partita gratis. Lo vuoi "
+"usare?"
+
+msgctxt "444_Owner"
+msgid "A'right then, who do you wanna play?"
+msgstr "Allora, con chi ti va di giocare?"
+
+msgctxt "456_Owner"
+msgid "No, I won't use it now."
+msgstr "No, non lo userò ora."
+
+msgctxt "468_Owner"
+msgid "You sure? Then it'll be 500 yen. Who do you wanna play?"
+msgstr "Sei sicuro? Allora fa 500 yen. Con chi vuoi giocare?"
+
+msgctxt "480_Owner"
+msgid "Yeah, I'll play."
+msgstr "Sì, gioco."
+
+msgctxt "492_Owner"
+msgid "Great, now we're talkin'! Who do you wanna play?"
+msgstr "Ottimo, ora sì che si ragiona! Con chi vuoi giocare?"
+
+msgctxt "516_Owner"
+msgid "All right, good luck!"
+msgstr "Perfetto, in bocca al lupo!"
+
+msgctxt "552_Owner"
+msgid ""
+"Hey there, you've got yourself a ticket. You can play a round for free. Want"
+" to use it?"
+msgstr ""
+"Ehi, tu, ti sei beccato un biglietto. Puoi fare una partita gratis. Lo vuoi "
+"usare?"
+
+msgctxt "600_Owner"
+msgid "A'right then, who do you wanna play?"
+msgstr "Allora, con chi ti va di giocare?"
+
+msgctxt "612_Owner"
+msgid "No, I won't use it now."
+msgstr "No, non lo userò ora."
+
+msgctxt "624_Owner"
+msgid "You sure? Then it'll be 500 yen. Who do you wanna play?"
+msgstr "Sei sicuro? Allora fa 500 yen. Con chi vuoi giocare?"
+
+msgctxt "636_Owner"
+msgid "Sure, I'll play."
+msgstr "Certo, ci sto."
+
+msgctxt "648_Owner"
+msgid "Great, now we're talkin'! Who do you wanna play?"
+msgstr "Ottimo, ora sì che si ragiona! Con chi vuoi giocare?"
+
+msgctxt "684_Owner"
+msgid "All right, good luck!"
+msgstr "Perfetto, in bocca al lupo!"
+
+msgctxt "708_Owner"
+msgid ""
+"Ah, here you have to checkmate your opponent within a limited number of "
+"moves."
+msgstr ""
+"Ah, qui devi dare scacco matto al tuo avversario entro un numero limitato di"
+" mosse."
+
+msgctxt "720_Owner"
+msgid ""
+"You can use as many take backs as you need, so take your time to work out a "
+"strategy. All right, good luck!"
+msgstr ""
+"Puoi fare tutti i ripensamenti che ti servono, quindi prenditela con calma "
+"per elaborare una strategia. Allora, in bocca al lupo!"
+
+msgctxt "744_Owner"
+msgid "Not right now."
+msgstr "Non adesso."
+
+msgctxt "756_Owner"
+msgid "No? Well, come back when you feel like it."
+msgstr "No? Beh, torna quando ti va."
+
+msgctxt "768_Player"
+msgid "Tell me about this place."
+msgstr "Dimmi di questo posto."
+
+msgctxt "792_Owner"
+msgid ""
+"At our place, you can play ranked matches if you're aiming for the top, and "
+"shogi challenge matches to test your skill."
+msgstr ""
+"Da noi, puoi giocare partite classificate se punti in alto, e sfide di shogi"
+" per mettere alla prova le tue abilità."
+
+msgctxt "804_Owner"
+msgid ""
+"In a ranked match, you pick opponents closest to your current ranking. If "
+"you wanna play against tough players, you'll have to climb the ranks."
+msgstr ""
+"In una partita classificata, scegli gli avversari più vicini al tuo ranking "
+"attuale. Se vuoi giocartela contro giocatori tosti, dovrai scalare la "
+"classifica."
+
+msgctxt "816_Owner"
+msgid ""
+"As far as ranks are concerned, by beating opponents higher rank than you, "
+"you'll take their rank. Just aim to keep going up and up."
+msgstr ""
+"Per quanto riguarda i ranghi, sconfiggendo avversari di rango superiore al "
+"tuo, prenderai il loro rango. Punta solo a continuare a salire sempre più in"
+" alto."
+
+msgctxt "828_Owner"
+msgid ""
+"The board is a bit special when it comes to a challenge match. When you "
+"start off, the board'll be more advantageous for you, but it'll gradually "
+"get harder."
+msgstr ""
+"La scacchiera è un po' particolare quando si tratta di una partita di sfida."
+" Quando parti, la scacchiera ti sarà più favorevole, ma poi si farà man mano"
+" più dura."
+
+msgctxt "840_Owner"
+msgid ""
+"It'll cost you 500 yen to play, but you can get some nice prizes if you win."
+" Good luck."
+msgstr ""
+"Ti costerà 500 yen giocare, ma se vinci puoi portarti a casa dei bei premi. "
+"In bocca al lupo!"
+
+msgctxt "852_Owner"
+msgid "What's that buddy, you got no money? Come back when you have 500 yen."
+msgstr "Che c'è, ragazzo, non hai un soldo? Torna quando hai 500 yen."
+
+msgctxt "876_Owner"
+msgid "Sure, I'll play."
+msgstr "Certo, ci sto."
+
+msgctxt "888_Owner"
+msgid "All right. Who do you wanna play?"
+msgstr "Va bene. Con chi vuoi giocare?"
+
+msgctxt "912_Owner"
+msgid "All right, good luck."
+msgstr "Va bene, in bocca al lupo."
+
+msgctxt "936_Owner"
+msgid "Sure, I'll play."
+msgstr "Certo, ci sto."
+
+msgctxt "948_Owner"
+msgid "Great, now we're talkin'! Who do you wanna play?"
+msgstr "Ottimo, ora sì che si ragiona! Con chi vuoi giocare?"
+
+msgctxt "972_Owner"
+msgid "All right, good luck!"
+msgstr "Perfetto, in bocca al lupo!"
+
+msgctxt "1008_Owner"
+msgid "Play Ranked Match"
+msgstr "Gioca Partita Classificata"
+
+msgctxt "1020_Owner"
+msgid "Play a Challenge Match"
+msgstr "Gioca una Partita di Sfida"
+
+msgctxt "1032_Owner"
+msgid "Learn About the Parlor"
+msgstr "Scopri di più sul Salone"
+
+msgctxt "1044_Owner"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "1056_Owner"
+msgid "Use"
+msgstr "Usa"
+
+msgctxt "1068_Owner"
+msgid "Don't Use"
+msgstr "Non usare"
+
+msgctxt "1080_Owner"
+msgid "Use"
+msgstr "Usa"
+
+msgctxt "1092_Owner"
+msgid "Don't Use"
+msgstr "Non usare"
+
+msgctxt "1104_Owner"
+msgid "Play Ranked Match"
+msgstr "Gioca Partita Classificata"
+
+msgctxt "1116_Owner"
+msgid "Play a Challenge Match"
+msgstr "Gioca una Partita di Sfida"
+
+msgctxt "1128_Owner"
+msgid "Learn About the Parlor"
+msgstr "Scopri di più sul Salone"
+
+msgctxt "1140_Owner"
+msgid "Never Mind"
+msgstr "Lascia perdere"

@@ -1,0 +1,103 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2396"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "2400"
+msgid "Young Man"
+msgstr "Giovane"
+
+msgctxt "2404"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "2408"
+msgid "0"
+msgstr "0"
+
+msgctxt "2412"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "2416"
+msgid "Young Woman"
+msgstr "Ragazza"
+
+msgctxt "2420"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "2424"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "2428"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "88_Akiyama"
+msgid "Anyway, sorry. Can I go now?"
+msgstr ""
+"Vabbè, scusa.\n"
+"Posso andarmene adesso?"
+
+msgctxt "100_Young Man"
+msgid "Yes, sir."
+msgstr "Sì, signore."
+
+msgctxt "160_Akiyama"
+msgid "Hi there. I'm a scout for a hostess club."
+msgstr ""
+"Ehi, bella.\n"
+"Faccio lo scout per un hostess club."
+
+msgctxt "172_Young Woman"
+msgid "......"
+msgstr "......"
+
+msgctxt "184_Young Man"
+msgid "......"
+msgstr "......"
+
+msgctxt "196_Young Man"
+msgid ""
+"You got some kinda nerve scouting a girl when she's with her\r\n"
+"guy, pops."
+msgstr ""
+"Ma che faccia tosta hai a fare lo scout a una ragazza quando è con il "
+"suo\\nragazzo, vecchio."
+
+msgctxt "208_Akiyama"
+msgid "Hahaha, I guess I do. My apologies."
+msgstr "Hahaha, a quanto pare sì. Mi scuso."
+
+msgctxt "220_Young Man"
+msgid ""
+"Hold up! I ain't gonna let you off the hook that easy.\r\n"
+"C'mere a second."
+msgstr ""
+"Fermo lì! Non credere di cavartela così a buon mercato.\n"
+"Vieni qui un attimo."
+
+msgctxt "232_Akiyama"
+msgid "Er, I'm in kind of a hurry..."
+msgstr "Ehm, ho un po' fretta..."
+
+msgctxt "244_Young Man"
+msgid "Shut up! I'll teach you to mess with me!"
+msgstr ""
+"Sta' zitto!\n"
+"Ti insegno io a non metterti contro di me!"

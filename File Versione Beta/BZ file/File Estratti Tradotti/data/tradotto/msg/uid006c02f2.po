@@ -1,0 +1,249 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "512"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "1004"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "13444"
+msgid "松岡里緒奈：源氏名"
+msgstr "松岡里緒奈:源氏名"
+
+msgctxt "13448"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13452"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "13456"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13460"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "13464"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13468"
+msgid "0"
+msgstr "0"
+
+msgctxt "13472"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "13476"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_松岡里緒奈：源氏名"
+msgid "I'm not gonna be easy to beat!"
+msgstr "Non sarò facile da battere!"
+
+msgctxt "128_Player"
+msgid "Heh. Sure."
+msgstr "Eh. Certo."
+
+msgctxt "140_松岡里緒奈：源氏名"
+msgid "C'mon, let's go in."
+msgstr "Dai, entriamo."
+
+msgctxt "164_松岡里緒奈：源氏名"
+msgid "I'm not gonna be easy to beat!"
+msgstr "Non sarò facile da battere!"
+
+msgctxt "176_松岡里緒奈：源氏名"
+msgid "C'mon, let's go in."
+msgstr "Dai, entriamo."
+
+msgctxt "188_Player"
+msgid "Hold on a sec. I just realized that I'm short on cash."
+msgstr ""
+"Aspetta un attimo.\n"
+"Mi sono appena reso conto che sono a corto di grana."
+
+msgctxt "200_松岡里緒奈：源氏名"
+msgid "Huh? You serious?"
+msgstr "Eh? Fai sul serio?"
+
+msgctxt "212_Player"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "224_松岡里緒奈：源氏名"
+msgid "Ugh! I shouldn't have gotten my hopes up... See you later, Kiryu-san."
+msgstr "Uffa! Non dovevo farmi illusioni... Ci vediamo dopo, Kiryu-san."
+
+msgctxt "236_Player"
+msgid "(I should've made sure I had enough money...)"
+msgstr "(Avrei dovuto assicurarmi di avere abbastanza grana...)"
+
+msgctxt "344_松岡里緒奈：源氏名"
+msgid "That was amazing! I never knew you were great at bowling, too!"
+msgstr ""
+"Ma sei stato incredibile! Non sapevo fossi così bravo anche a bowling!"
+
+msgctxt "356_Player"
+msgid "You could say that."
+msgstr "Diciamo così."
+
+msgctxt "368_松岡里緒奈：源氏名"
+msgid ""
+"I had such a good time today. Feel free to invite me out again, anytime. "
+"<Color:7>♥<Color:Default> I'll see you later!"
+msgstr ""
+"Mi sono divertita un mondo oggi. Invita pure quando vuoi, eh. "
+"<Color:7>♥<Color:Default> A dopo!"
+
+msgctxt "380_松岡里緒奈：源氏名"
+msgid "I'll see you later!"
+msgstr "Ci vediamo!"
+
+msgctxt "404_松岡里緒奈：源氏名"
+msgid "Aw, I almost had you there! I'm happy enough with tying, though."
+msgstr "Ah, ti avevo quasi! Però mi va bene lo stesso il pareggio."
+
+msgctxt "416_Player"
+msgid "You did pretty well."
+msgstr "Hai fatto piuttosto bene."
+
+msgctxt "428_松岡里緒奈：源氏名"
+msgid "I really got into it! We should go out again sometime!"
+msgstr ""
+"Mi sono proprio divertito un mondo!\n"
+"Dovremmo rifarci un'altra uscita, eh!"
+
+msgctxt "440_松岡里緒奈：源氏名"
+msgid "I'll see you later!"
+msgstr "Ci vediamo!"
+
+msgctxt "464_松岡里緒奈：源氏名"
+msgid "Mwahaha! Sorry, but I win this time! Deal with it, Kiryu-san! ♪"
+msgstr ""
+"Mwahaha! Scusa, ma stavolta ho vinto io! Fatti una ragione, Kiryu-san! ♪"
+
+msgctxt "476_Player"
+msgid "Damn..."
+msgstr "Dannazione..."
+
+msgctxt "488_松岡里緒奈：源氏名"
+msgid "We can go out again if you want a rematch."
+msgstr "Possiamo uscire ancora se vuoi la rivincita."
+
+msgctxt "596_松岡里緒奈：源氏名"
+msgid "I'm not gonna be easy to beat!"
+msgstr "Non sarò facile da battere!"
+
+msgctxt "608_Player"
+msgid "Heh. Sure."
+msgstr "Eh. Certo."
+
+msgctxt "620_松岡里緒奈：源氏名"
+msgid "C'mon, let's go in."
+msgstr "Dai, entriamo."
+
+msgctxt "644_松岡里緒奈：源氏名"
+msgid "I'm not gonna be easy to beat!"
+msgstr "Non sarò facile da battere!"
+
+msgctxt "656_松岡里緒奈：源氏名"
+msgid "C'mon, let's go in."
+msgstr "Dai, entriamo."
+
+msgctxt "668_Player"
+msgid "Hold on a sec. I just realized that I'm short on cash."
+msgstr ""
+"Aspetta un attimo.\n"
+"Mi sono appena reso conto che sono a corto di grana."
+
+msgctxt "680_松岡里緒奈：源氏名"
+msgid "Huh? You serious?"
+msgstr "Eh? Fai sul serio?"
+
+msgctxt "692_Player"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "704_松岡里緒奈：源氏名"
+msgid "Ugh! I shouldn't have gotten my hopes up... See you later, Kiryu-san."
+msgstr "Uffa! Non dovevo farmi illusioni... Ci vediamo dopo, Kiryu-san."
+
+msgctxt "716_Player"
+msgid "(I should've made sure I had enough money...)"
+msgstr "(Avrei dovuto assicurarmi di avere abbastanza grana...)"
+
+msgctxt "824_松岡里緒奈：源氏名"
+msgid "That was amazing! I never knew you were great at bowling, too!"
+msgstr ""
+"Ma sei stato incredibile! Non sapevo fossi così bravo anche a bowling!"
+
+msgctxt "836_Player"
+msgid "You could say that."
+msgstr "Diciamo così."
+
+msgctxt "848_松岡里緒奈：源氏名"
+msgid ""
+"I had such a good time today. <Color:7>♥<Color:Default> Want to head over to"
+" the club next?"
+msgstr ""
+"Mi sono proprio divertita oggi. <Color:7>♥<Color:Default> Ti va di andare al"
+" club adesso?"
+
+msgctxt "860_Player"
+msgid "Sure. Sounds good."
+msgstr "Certo. Suona bene."
+
+msgctxt "884_松岡里緒奈：源氏名"
+msgid "Aw, I almost had you there! I'm happy enough with tying, though."
+msgstr "Ah, ti avevo quasi! Però mi va bene lo stesso il pareggio."
+
+msgctxt "896_Player"
+msgid "You did pretty well."
+msgstr "Hai fatto piuttosto bene."
+
+msgctxt "908_松岡里緒奈：源氏名"
+msgid "I really got into it! Let's head over to the club."
+msgstr "Mi sono proprio preso bene! Andiamo al club."
+
+msgctxt "920_Player"
+msgid "Sure. Sounds good."
+msgstr "Certo. Suona bene."
+
+msgctxt "944_松岡里緒奈：源氏名"
+msgid "Mwahaha! Sorry, but I win this time! Deal with it, Kiryu-san! ♪"
+msgstr ""
+"Mwahaha! Scusa, ma stavolta ho vinto io! Fatti una ragione, Kiryu-san! ♪"
+
+msgctxt "956_Player"
+msgid "Damn..."
+msgstr "Dannazione..."
+
+msgctxt "968_松岡里緒奈：源氏名"
+msgid "Anyway, want to head over to the club next?"
+msgstr "Comunque, ti va di andare al club adesso?"
+
+msgctxt "980_Player"
+msgid "Sure. Sounds good."
+msgstr "Certo. Suona bene."

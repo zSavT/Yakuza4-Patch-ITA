@@ -1,0 +1,85 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2484"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "2488"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2492"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "2496"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "140_Tanimura"
+msgid "Going out with Haruka-chan? Have fun."
+msgstr "Stai uscendo con Haruka-chan? Divertiti."
+
+msgctxt "152_Tanimura"
+msgid "%s-san... I wouldn't mind patrolling a bit if you're tired."
+msgstr "%s-san... Potrei fare un po' di pattuglia io, se sei stanco."
+
+msgctxt "176_Player"
+msgid "I'll be okay on my own for now."
+msgstr "Me la caverò da solo per ora."
+
+msgctxt "188_Player"
+msgid "Sorry, gonna have to pass."
+msgstr "Scusa, dovrò passare."
+
+msgctxt "200_Player"
+msgid "I'm good."
+msgstr "Sto bene."
+
+msgctxt "212_Player"
+msgid "Nah, I'm fine."
+msgstr "No, sono a posto."
+
+msgctxt "224_Tanimura"
+msgid "Oh. Well, as long as you know your limits."
+msgstr "Oh. Vabbè, basta che tu sappia i tuoi limiti."
+
+msgctxt "248_Player"
+msgid "That's a good idea. Go ahead."
+msgstr "È un'ottima idea. Fai pure."
+
+msgctxt "260_Player"
+msgid "Sure, why not. I'm always down to chill for a bit."
+msgstr "Certo, perché no. Mi va sempre di staccare un po'."
+
+msgctxt "272_Player"
+msgid "Guess I don't mind catchin' my breath."
+msgstr "Beh, non mi dispiace riprendere fiato."
+
+msgctxt "284_Player"
+msgid "All right, I'll let you take things from here."
+msgstr "Va bene, ti lascio fare tu da qui."
+
+msgctxt "296_Tanimura"
+msgid "Leave everything to me."
+msgstr "Lascia tutto a me."
+
+msgctxt "320_Tanimura"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "332_Tanimura"
+msgid "Switch to Tanimura"
+msgstr "Passa a Tanimura"

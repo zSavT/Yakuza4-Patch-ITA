@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1260"
+msgid "Rio"
+msgstr "Rio"
+
+msgctxt "1264"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "120_Rio"
+msgid "Hehe, let's sing our hearts out!"
+msgstr "Hehe, cantiamo a squarciagola!"
+
+msgctxt "132_Rio"
+msgid ""
+"Hm... What do I feel like singing today? Maybe \"Raindrops.\" "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Mmm... Cosa mi va di cantare oggi? Magari \"Raindrops.\" "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "144_Rio"
+msgid "Hehe... You really know how to set the mood!"
+msgstr "Eheheh... Sai proprio come creare l'atmosfera!"
+
+msgctxt "156_Rio"
+msgid "That was rough..."
+msgstr "È stata tosta..."
+
+msgctxt "168_Akiyama"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "180_Rio"
+msgid ""
+"That felt <Italic>so</Italic> good... You're really good at laying down\r\n"
+"the beat! <Color:7>♥<Color:Default>"
+msgstr ""
+"Mi sono sentito <Italic>così</Italic> bene... Sei un fenomeno a dare\n"
+"il ritmo! <Color:7>♥<Color:Default>"

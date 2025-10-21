@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1988"
+msgid "Pickpocket"
+msgstr "Borseggiatore"
+
+msgctxt "1992"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1996"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2000"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2004"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "100_Pickpocket"
+msgid "Three, four, five... That big guy sure was slim pickings."
+msgstr "Tre, quattro, cinque... Quel bestione era proprio poca roba."
+
+msgctxt "112_Saejima"
+msgid "I'll be takin' back the cash ya stole, kid."
+msgstr "Mi riprendo la grana che hai fregato, moccioso."
+
+msgctxt "124_Pickpocket"
+msgid "What the... Hey! Can you prove this money is yours?"
+msgstr "Ma che...? Ehi! Puoi dimostrare che questi soldi sono tuoi?"
+
+msgctxt "136_Saejima"
+msgid ""
+"Easy, now. Didn't your old man ever teach you not to take\r\n"
+"what don't belong to ya?"
+msgstr ""
+"Calma, eh. Il tuo vecchio non ti ha mai insegnato a non prendere\n"
+"quel che non è tuo?"
+
+msgctxt "148_Pickpocket"
+msgid "Shut up! My dad's gone!"
+msgstr "Zitto! Papà non c'è più!"
+
+msgctxt "160_Saejima"
+msgid "Kid..."
+msgstr "Ragazzo..."
+
+msgctxt "172_Saejima"
+msgid "C'mere a sec."
+msgstr "Vieni qua un attimo."

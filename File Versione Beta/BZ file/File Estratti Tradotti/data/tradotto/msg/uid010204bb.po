@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "532"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "536"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "56_Tanimura"
+msgid "(Does the key fit?)"
+msgstr "(La chiave entra?)"
+
+msgctxt "116_Tanimura"
+msgid "(Nope. Let's try another one.)"
+msgstr "(Niente da fare. Proviamone un'altra.)"

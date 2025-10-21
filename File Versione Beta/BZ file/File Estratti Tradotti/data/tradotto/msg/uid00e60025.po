@@ -1,0 +1,73 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1560"
+msgid "Rio"
+msgstr "Rio"
+
+msgctxt "1564"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1568"
+msgid "F_sxy_stand_sync_dakitukiA_ed"
+msgstr "F_sxy_stand_sync_dakitukiA_ed"
+
+msgctxt "1572"
+msgid "P_stand_sync_dakitukiA_ed"
+msgstr "P_stand_sync_dakitukiA_ed"
+
+msgctxt "1576"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1580"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1584"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1588"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "1592"
+msgid "0"
+msgstr "0"
+
+msgctxt "68_Rio"
+msgid "Thank you so much, Akiyama-san."
+msgstr "Grazie mille, Akiyama-san."
+
+msgctxt "80_Akiyama"
+msgid "Do you feel more confident now?"
+msgstr "Ti senti più sicuro ora?"
+
+msgctxt "92_Rio"
+msgid ""
+"For sure! You've seen everything. I've got nothing left to be embarrassed "
+"about now!"
+msgstr ""
+"Di sicuro! Ormai hai visto tutto. Non ho più niente di cui vergognarmi "
+"adesso!"
+
+msgctxt "104_Akiyama"
+msgid "You don't have to say it so loud..."
+msgstr "Non devi mica dirlo così forte..."
+
+msgctxt "116_Rio"
+msgid "Hehe. I love you, you know. <Color:7>♥<Color:Default>"
+msgstr "Hehe. Ti amo, sai. <Color:7>♥<Color:Default>"

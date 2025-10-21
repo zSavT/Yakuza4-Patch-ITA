@@ -1,0 +1,6170 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "15516"
+msgid "Oh, thanks..."
+msgstr "Oh, grazie..."
+
+msgctxt "16104"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "16116"
+msgid "Please enjoy yourself! <Color:7>♥<Color:Default>"
+msgstr "Prego, si diverta! <Color:7>♥<Color:Default>"
+
+msgctxt "16140"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "16152"
+msgid "Please enjoy yourself! <Color:7>♥<Color:Default>"
+msgstr "Prego, si diverta! <Color:7>♥<Color:Default>"
+
+msgctxt "16188"
+msgid "Here ya go!"
+msgstr "Ecco a te!"
+
+msgctxt "16992"
+msgid ""
+"Oh yeah...? Well if you do hear about somethin' interestin', please let me "
+"know."
+msgstr ""
+"Ah, davvero...? Beh, se ti arriva voce di qualcosa di interessante, fammi "
+"sapere, mi raccomando."
+
+msgctxt "17208"
+msgid "Really? I wash the same part first every time. ♪"
+msgstr "Davvero? Lavo sempre la stessa parte per prima. ♪"
+
+msgctxt "212208"
+msgid "Himeka"
+msgstr "Himeka"
+
+msgctxt "212212"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "212216"
+msgid "P_sitsofaR_tlk_yes"
+msgstr "P_sitsofaR_tlk_yes"
+
+msgctxt "212220"
+msgid "F_cab_sitsofa_tlk_yes"
+msgstr "F_cab_sitsofa_tlk_yes"
+
+msgctxt "212224"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "212228"
+msgid "P_sitsofaR_tlk_no"
+msgstr "P_sitsofaR_tlk_no"
+
+msgctxt "212232"
+msgid "F_cab_sitsofa_sp5_sync_laugh"
+msgstr "F_cab_sitsofa_sp5_sync_laugh"
+
+msgctxt "212236"
+msgid "P_sitsofaR_tlk_comment"
+msgstr "P_sitsofaR_tlk_comment"
+
+msgctxt "212240"
+msgid "F_cab_sitsofa_tlk_noA"
+msgstr "F_cab_sitsofa_tlk_noA"
+
+msgctxt "212244"
+msgid "P_sitsofaR_tlk_smile"
+msgstr "P_sitsofaR_tlk_smile"
+
+msgctxt "212248"
+msgid "F_cab_sitsofa_tlk_tereruA"
+msgstr "F_cab_sitsofa_tlk_tereruA"
+
+msgctxt "212252"
+msgid "F_cab_sitsofa_talk_smileA"
+msgstr "F_cab_sitsofa_talk_smileA"
+
+msgctxt "212256"
+msgid "F_cab_sitsofa_tlk_suprise"
+msgstr "F_cab_sitsofa_tlk_suprise"
+
+msgctxt "212260"
+msgid "P_sitsofaR_tlk_think"
+msgstr "P_sitsofaR_tlk_think"
+
+msgctxt "212264"
+msgid "F_cab_sitsofa_tlk_cry"
+msgstr "F_cab_sitsofa_tlk_cry"
+
+msgctxt "212268"
+msgid "P_sitsofaR_tlk_quest"
+msgstr "P_sitsofaR_tlk_quest"
+
+msgctxt "212272"
+msgid "F_cab_sitsofa_tlk_gakkariA"
+msgstr "F_cab_sitsofa_tlk_gakkariA"
+
+msgctxt "212276"
+msgid "F_cab_sitsofa_tlk_commentA"
+msgstr "F_cab_sitsofa_tlk_commentA"
+
+msgctxt "212280"
+msgid "F_cab_sitsofa_tlk_angry"
+msgstr "F_cab_sitsofa_tlk_angry"
+
+msgctxt "212284"
+msgid "F_cab_sitsofa_tlk_kamaeAtoB"
+msgstr "F_cab_sitsofa_tlk_kamaeAtoB"
+
+msgctxt "212288"
+msgid "F_cab_sitsofa_tlk_kamaeBtoA"
+msgstr "F_cab_sitsofa_tlk_kamaeBtoA"
+
+msgctxt "212292"
+msgid "F_cab_sitsofa_sp6_sync_kami"
+msgstr "F_cab_sitsofa_sp6_sync_kami"
+
+msgctxt "212296"
+msgid "F_cab_sitsofa_tlk_happyB"
+msgstr "F_cab_sitsofa_tlk_happyB"
+
+msgctxt "212300"
+msgid "F_cab_sitsofa_sp2_sync_hiza"
+msgstr "F_cab_sitsofa_sp2_sync_hiza"
+
+msgctxt "212304"
+msgid "F_cab_sitsofa_tlk_refuse"
+msgstr "F_cab_sitsofa_tlk_refuse"
+
+msgctxt "212308"
+msgid "P_sitsofaR_tlk_surp"
+msgstr "P_sitsofaR_tlk_surp"
+
+msgctxt "212312"
+msgid "2d_cf_pict_nyanchu"
+msgstr "2d_cf_pict_nyanchu"
+
+msgctxt "212316"
+msgid "F_cab_sitsofa_sp8_sync_crap"
+msgstr "F_cab_sitsofa_sp8_sync_crap"
+
+msgctxt "212320"
+msgid "F_cab_sitsofa_tlk_supriseB"
+msgstr "F_cab_sitsofa_tlk_supriseB"
+
+msgctxt "212324"
+msgid "F_cab_sitsofa_tlk_thinkA"
+msgstr "F_cab_sitsofa_tlk_thinkA"
+
+msgctxt "212328"
+msgid "F_cab_sitsofa_sp1_sync_yop"
+msgstr "F_cab_sitsofa_sp1_sync_yop"
+
+msgctxt "212332"
+msgid "P_sitsofaR_tlk_angry"
+msgstr "P_sitsofaR_tlk_angry"
+
+msgctxt "212336"
+msgid "F_cab_sitsofa_tlk_akubi"
+msgstr "F_cab_sitsofa_tlk_akubi"
+
+msgctxt "212340"
+msgid "F_cab_sitsofa_tlk_smileB"
+msgstr "F_cab_sitsofa_tlk_smileB"
+
+msgctxt "212344"
+msgid "P_sitsofaR_tlk_ase"
+msgstr "P_sitsofaR_tlk_ase"
+
+msgctxt "212348"
+msgid "F_cab_sitsofa_tlk_ojigiA"
+msgstr "F_cab_sitsofa_tlk_ojigiA"
+
+msgctxt "212352"
+msgid "F_cab_stand_tlk_ojigi_01"
+msgstr "F_cab_stand_tlk_ojigi_01"
+
+msgctxt "212356"
+msgid "F_cab_stand_tlk_byeA"
+msgstr "F_cab_stand_tlk_byeA"
+
+msgctxt "212360"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "212364"
+msgid "F_cab_sitsofa_sync_order"
+msgstr "F_cab_sitsofa_sync_order"
+
+msgctxt "212368"
+msgid "M_shp_sitgrd_sync_order"
+msgstr "M_shp_sitgrd_sync_order"
+
+msgctxt "212372"
+msgid "Attendant"
+msgstr "Addetto"
+
+msgctxt "212376"
+msgid "2d_cf_meishi_kawasaki00"
+msgstr "2d_cf_meishi_kawasaki00"
+
+msgctxt "212380"
+msgid "2d_cf_meishi_kawasaki01"
+msgstr "2d_cf_meishi_kawasaki01"
+
+msgctxt "212384"
+msgid "F_cab_stand_sync_byeC_st"
+msgstr "F_cab_stand_sync_byeC_st"
+
+msgctxt "212388"
+msgid "P_stand_sync_byeC_st"
+msgstr "P_stand_sync_byeC_st"
+
+msgctxt "212392"
+msgid "F_cab_stand_sync_byeC_ed"
+msgstr "F_cab_stand_sync_byeC_ed"
+
+msgctxt "212396"
+msgid "P_stand_sync_byeC_ed"
+msgstr "P_stand_sync_byeC_ed"
+
+msgctxt "212400"
+msgid "F_cab_stand_sp14_sync_hoho_st"
+msgstr "F_cab_stand_sp14_sync_hoho_st"
+
+msgctxt "212404"
+msgid "P_stand_sp14_sync_hoho_st"
+msgstr "P_stand_sp14_sync_hoho_st"
+
+msgctxt "212408"
+msgid "F_cab_stand_sp16_sync_hoho_ed"
+msgstr "F_cab_stand_sp16_sync_hoho_ed"
+
+msgctxt "212412"
+msgid "P_stand_sp16_sync_hoho_ed"
+msgstr "P_stand_sp16_sync_hoho_ed"
+
+msgctxt "212416"
+msgid "F_cab_stand_sp11_sync_mimi_st"
+msgstr "F_cab_stand_sp11_sync_mimi_st"
+
+msgctxt "212420"
+msgid "P_stand_sp11_sync_mimi_st"
+msgstr "P_stand_sp11_sync_mimi_st"
+
+msgctxt "212424"
+msgid "F_cab_stand_sp11_sync_mimi_ed"
+msgstr "F_cab_stand_sp11_sync_mimi_ed"
+
+msgctxt "212428"
+msgid "P_stand_sp11_sync_mimi_ed"
+msgstr "P_stand_sp11_sync_mimi_ed"
+
+msgctxt "212432"
+msgid "F_cab_stand_sync_dakiA_st"
+msgstr "F_cab_stand_sync_dakiA_st"
+
+msgctxt "212436"
+msgid "P_stand_sync_dakiA_st"
+msgstr "P_stand_sync_dakiA_st"
+
+msgctxt "212440"
+msgid "F_cab_stand_sync_dakiA_ed"
+msgstr "F_cab_stand_sync_dakiA_ed"
+
+msgctxt "212444"
+msgid "P_stand_sync_dakiA_ed"
+msgstr "P_stand_sync_dakiA_ed"
+
+msgctxt "212448"
+msgid "F_cab_sitsofa_tlk_appealA"
+msgstr "F_cab_sitsofa_tlk_appealA"
+
+msgctxt "4020_Himeka"
+msgid "Y'know, before I started workin' here, I had a normal office job."
+msgstr ""
+"Sai, prima di iniziare a lavorare qui, facevo un normale lavoro d'ufficio."
+
+msgctxt "4032_Tanimura"
+msgid "Really? That's a surprise."
+msgstr "Davvero? Che sorpresa!"
+
+msgctxt "4044_Himeka"
+msgid ""
+"Ain't it? I mean, me in an office? But it was alright even if it was borin'."
+msgstr "Vero? Cioè, io in un ufficio? Ma andava bene anche se era noioso."
+
+msgctxt "4056_Himeka"
+msgid ""
+"I got up at the same time every morning and went to work, then went out with"
+" my friends at night."
+msgstr ""
+"Mi alzavo alla stessa ora ogni mattina e andavo a lavorare, poi uscivo con i"
+" miei amici la sera."
+
+msgctxt "4068_Tanimura"
+msgid "Sounds like a pretty normal lifestyle."
+msgstr "Sembra una vita piuttosto normale."
+
+msgctxt "4080_Himeka"
+msgid ""
+"Yeah, but honestly? I was attracted to the glitter and excitement of hostess"
+" clubs ever since I was a tiny thing."
+msgstr ""
+"Sì, ma a dire la verità? Ero attratta dallo sfarzo e dal brio dei club per "
+"hostess fin da quando ero piccolina."
+
+msgctxt "4092_Himeka"
+msgid ""
+"I kept imaginin' how fun it'd be to wear a pretty dress and have folks "
+"fussin' over me."
+msgstr ""
+"Continuavo a immaginarmi che spasso sarebbe stato mettermi un bel vestito e "
+"avere la gente che mi stava dietro."
+
+msgctxt "4104_Himeka"
+msgid ""
+"So I finally decided, \"Y'know what? Life's too short to worry 'bout the "
+"details.\" That's when I started workin' here."
+msgstr ""
+"Quindi alla fine ho deciso: \"Sai che ti dico? La vita è troppo corta per "
+"stare a pensare ai dettagli.\" Ed è lì che ho cominciato a lavorare qui."
+
+msgctxt "4116_Tanimura"
+msgid "Was the cabaret life everything you'd dreamed it was?"
+msgstr "Era la vita da cabaret proprio come l'avevi sognata?"
+
+msgctxt "4128_Himeka"
+msgid ""
+"Tons more fun than bein' a corporate drone! I'm so glad I got out of the rat"
+" race. Here, I get to talk to all sorts o' people all while drinkin'!"
+msgstr ""
+"Un sacco più divertente che fare il topo d'ufficio! Sono così contenta di "
+"essermene tirata fuori. Qui, posso parlare con un sacco di gente e intanto "
+"bevo!"
+
+msgctxt "4140_Himeka"
+msgid ""
+"Everyone here is real nice. I was even the top-earnin' hostess one month!"
+msgstr ""
+"Tutti qui sono una forza. Sono persino stata l'hostess con più incassi per "
+"un mese!"
+
+msgctxt "4152_Tanimura"
+msgid "Sounds like you were born to be a hostess."
+msgstr "Direi che sei nata per fare la hostess."
+
+msgctxt "4164_Himeka"
+msgid ""
+"I really think so! ♪ I'm so happy I jumped ship at my old place and dove "
+"head first into the hostess life."
+msgstr ""
+"Lo credo proprio! ♪ Sono contentissima di aver mollato il mio vecchio posto "
+"e di essermi tuffata a capofitto nella vita da hostess."
+
+msgctxt "4176_Tanimura"
+msgid ""
+"Sounds like even the bad times don't get you down, huh? That's a great "
+"attitude to have."
+msgstr ""
+"Sembra che nemmeno i brutti momenti ti buttino giù, eh? È una gran bella "
+"mentalità da avere."
+
+msgctxt "4188_Himeka"
+msgid "That's a real kind thing to say. Thanks!"
+msgstr "È davvero gentile da parte tua dirlo. Grazie!"
+
+msgctxt "4200_Himeka"
+msgid ""
+"Hey, Tanimura-san, if there's anything I can ever do for ya, just let me "
+"know. <Color:7>♥<Color:Default>"
+msgstr ""
+"Ehi, Tanimura-san, se c'è mai qualcosa che posso fare per te, fammelo "
+"sapere. <Color:7>♥<Color:Default>"
+
+msgctxt "4212_Himeka"
+msgid ""
+"I may not look it, but I am a professional when it comes to servin' "
+"customers. ♪"
+msgstr ""
+"Magari non sembrerà, ma sono una vera professionista quando c'è da occuparsi"
+" dei clienti. ♪"
+
+msgctxt "4224_Tanimura"
+msgid "Just talking with you is enough for me."
+msgstr "Mi basta solo parlare con te."
+
+msgctxt "4236_Himeka"
+msgid ""
+"Hehehe. Tanimura-san, you don't look it, but yer quite the gentleman. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Hehehe. Tanimura-san, a vederla non si direbbe, ma è proprio un gran "
+"signore. <Color:7>♥<Color:Default>"
+
+msgctxt "4248_Tanimura"
+msgid ""
+"You're cute, and you've got personality. I bet you could make it as a pop "
+"star."
+msgstr ""
+"Sei carina, e hai personalità. Scommetto che potresti sfondare come pop "
+"star."
+
+msgctxt "4260_Himeka"
+msgid ""
+"Aww, come off it! I'm flattered ya think so much of me, Tanimura-san, but "
+"it'd never happen."
+msgstr ""
+"Ma dai! Sono lusingata che tu pensi così tanto di me, Tanimura-san, ma non "
+"succederebbe mai."
+
+msgctxt "4272_Tanimura"
+msgid "You don't think so? Well, I think you'd be pretty popular."
+msgstr "Non la pensi così? Beh, io credo che saresti piuttosto popolare."
+
+msgctxt "4284_Himeka"
+msgid ""
+"Naw, I wouldn't... but it's sweet of you to say. <Color:7>♥<Color:Default>"
+msgstr ""
+"Naah, non lo farei... ma è dolce da parte tua dirlo. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "4296_Himeka"
+msgid ""
+"Oh, I know! Maybe I can be your own private pop star! How about it? You'd be"
+" my fan, wouldn't ya?"
+msgstr ""
+"Ah, lo so! Magari posso essere la tua pop star privata! Che ne dici? Saresti"
+" il mio fan, no?"
+
+msgctxt "4308_Tanimura"
+msgid "Of course."
+msgstr "E di che."
+
+msgctxt "4320_Himeka"
+msgid ""
+"Hehe! Then that makes you the first member of the official Himeka Fan Club! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Hehe! Allora sei il primo membro del Fan Club Ufficiale di Himeka! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "4332_Tanimura"
+msgid "You're still young. Have you ever thought about doing something else?"
+msgstr "Sei ancora giovane. Non hai mai pensato a fare altro?"
+
+msgctxt "4344_Himeka"
+msgid "Why would I? I love bein' a hostess."
+msgstr "E perché dovrei? Mi piace troppo fare la hostess."
+
+msgctxt "4356_Tanimura"
+msgid "Maybe there's other stuff you'd enjoy just as much?"
+msgstr "Magari c'è altro che ti piacerebbe altrettanto?"
+
+msgctxt "4368_Himeka"
+msgid "But I got no skills aside from bein' cheerful. What else would I do?"
+msgstr "Ma non c'ho abilità, a parte l'essere allegra. Che altro farei?"
+
+msgctxt "4380_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "4392_Himeka"
+msgid "I'm sorry, Tanimura-san. I didn't mean to shoot ya down like that."
+msgstr "Mi dispiace, Tanimura-san. Non volevo smontarti così."
+
+msgctxt "4404_Himeka"
+msgid ""
+"Hey, Tanimura-san, do you ever feel like you can't trust the folks around "
+"ya?"
+msgstr ""
+"Ehi, Tanimura-san, ti capita mai di sentire che non ti puoi fidare della "
+"gente che ti sta intorno?"
+
+msgctxt "4416_Tanimura"
+msgid ""
+"Well, honestly, there aren't a lot of people I trust completely... Why do "
+"you ask?"
+msgstr ""
+"Beh, onestamente, non ci sono molte persone di cui mi fido completamente... "
+"Perché lo chiedi?"
+
+msgctxt "4428_Himeka"
+msgid "Well, I have a blog. I started it to keep in touch with my regulars."
+msgstr ""
+"Beh, ho un blog. L'ho iniziato per rimanere in contatto con i miei fissi."
+
+msgctxt "4440_Himeka"
+msgid ""
+"I write about what I eat or movies I like. It's just silly stuff like that, "
+"mostly."
+msgstr ""
+"Scrivo di quello che mangio o dei film che mi piacciono. È solo roba sciocca"
+" del genere, per lo più."
+
+msgctxt "4452_Himeka"
+msgid ""
+"I get lots of comments from my readers, too. They're always cheerin' me on "
+"and stuff!"
+msgstr ""
+"Ricevo un sacco di commenti anche dai miei lettori. Mi fanno sempre il tifo "
+"e roba del genere!"
+
+msgctxt "4464_Tanimura"
+msgid "Is that right? I'd love to see it."
+msgstr "Davvero? Mi piacerebbe vederlo."
+
+msgctxt "4476_Himeka"
+msgid ""
+"Well, recently, somebody's been leavin' nasty comments like, \"You're just a"
+" tease, leading men on!\" Things like that."
+msgstr ""
+"Beh, ultimamente, qualcuno mi sta lasciando dei commenti proprio brutti, "
+"tipo: 'Sei solo una provocatrice, illudi gli uomini!', cose del genere."
+
+msgctxt "4488_Himeka"
+msgid "But that just couldn't be further from the truth..."
+msgstr "Ma non c'è niente di più falso..."
+
+msgctxt "4500_Tanimura"
+msgid "You have any idea who's doing it?"
+msgstr "Hai idea di chi lo stia facendo?"
+
+msgctxt "4512_Himeka"
+msgid "Maybe... I kinda think it could be one of the girls here."
+msgstr "Forse... mi sa che potrebbe essere una delle ragazze qui."
+
+msgctxt "4524_Himeka"
+msgid ""
+"I just wanna enjoy my work, y'know? Why do they gotta try and take the wind "
+"outta my sails?"
+msgstr ""
+"Voglio solo godermi il mio lavoro, sai? Perché devono cercare di togliermi "
+"il vento dalle vele?"
+
+msgctxt "4536_Tanimura"
+msgid ""
+"They're jealous of you. It burns their asses when they see you enjoying your"
+" job so much."
+msgstr ""
+"Sono gelosi di te. Gli brucia il culo quando ti vedono goderti così tanto il"
+" tuo lavoro."
+
+msgctxt "4548_Himeka"
+msgid "Then why don't they just enjoy it, too?"
+msgstr "E allora, perché non se la spassano e basta, pure loro?"
+
+msgctxt "4560_Tanimura"
+msgid ""
+"Not everyone has your optimism. Haven't you ever felt depressed before?"
+msgstr ""
+"Non tutti sono ottimisti come te. Non ti sei mai sentito depresso, prima?"
+
+msgctxt "4572_Himeka"
+msgid "Well, sure, but..."
+msgstr "Beh, certo, ma..."
+
+msgctxt "4584_Tanimura"
+msgid ""
+"Some people just gotta drag others down with them. Don't let it get to you."
+msgstr ""
+"C'è chi proprio non può fare a meno di trascinare gli altri nel fango con "
+"sé. Non farti abbattere."
+
+msgctxt "4596_Himeka"
+msgid ""
+"Oh, Tanimura-san, you're so mature. I feel a bit better after talkin' about "
+"it with you. <Color:7>♥<Color:Default>"
+msgstr ""
+"Oh, Tanimura-san, sei così maturo. Mi sento un po' meglio dopo averne "
+"parlato con te. <Color:7>♥<Color:Default>"
+
+msgctxt "4608_Tanimura"
+msgid "Heh. You sure recovered fast."
+msgstr "Eh. Ti sei ripresa proprio alla svelta."
+
+msgctxt "4620_Tanimura"
+msgid "You can't get along with everybody."
+msgstr "Non si può andare d'accordo con tutti."
+
+msgctxt "4632_Himeka"
+msgid "You really think so? That's kinda depressin'."
+msgstr "Lo pensi davvero? È un po' deprimente."
+
+msgctxt "4644_Tanimura"
+msgid ""
+"But that shouldn't keep you from trusting people. Don't let them get to you."
+msgstr ""
+"Ma non per questo dovresti smettere di fidarti della gente. Non lasciare che"
+" ti tocchino."
+
+msgctxt "4656_Himeka"
+msgid "I get you. I may not look it, but I'm actually kinda sensitive."
+msgstr ""
+"Ti capisco. Magari non si direbbe, ma in realtà sono un po' sensibile."
+
+msgctxt "4668_Himeka"
+msgid ""
+"You're right! I gotta be stronger! Can ya help me become a stronger woman, "
+"Tanimura-san?"
+msgstr ""
+"Hai ragione! Devo farmi più forte! Mi puoi aiutare a diventare una donna più"
+" forte, Tanimura-san?"
+
+msgctxt "4680_Tanimura"
+msgid "In any way I can."
+msgstr "In ogni modo in cui posso."
+
+msgctxt "4692_Tanimura"
+msgid "Just don't worry about it. That kinda thing happens all the time."
+msgstr "Non ti preoccupare. Cose del genere capitano di continuo."
+
+msgctxt "4704_Himeka"
+msgid "That's easy for you to say..."
+msgstr "È facile per te dirlo..."
+
+msgctxt "4716_Tanimura"
+msgid ""
+"Sooner or later, whoever's doing it will get bored and leave you alone."
+msgstr ""
+"Prima o poi, chiunque ti stia infastidendo si stancherà e ti lascerà in "
+"pace."
+
+msgctxt "4728_Himeka"
+msgid ""
+"Hmm... You're just sayin' that cause you don't wanna get involved, right?"
+msgstr "Hmm... Lo dici solo perché non vuoi metterti in mezzo, vero?"
+
+msgctxt "4740_Tanimura"
+msgid "Not at all. I'm just trying to think positively."
+msgstr "Per niente. Sto solo cercando di pensare positivo."
+
+msgctxt "4752_Himeka"
+msgid "Oh, whatever... I'll figure somethin' out on my own I guess..."
+msgstr "Oh, vabbè... Mi arrangerò da solo, immagino..."
+
+msgctxt "4764_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "4776_Himeka"
+msgid "I just realized I haven't asked what ya do for a livin'."
+msgstr "Mi sono appena reso conto che non ti ho chiesto cosa fai per campare."
+
+msgctxt "4788_Tanimura"
+msgid "You wanna know?"
+msgstr "Vuoi saperlo?"
+
+msgctxt "4800_Himeka"
+msgid "Yup! Come on, tell me! Even just a hint."
+msgstr "Sì, dai! Dimmi! Anche solo un indizio."
+
+msgctxt "4812_Tanimura"
+msgid "A hint? Okay, well... I work for the government."
+msgstr "Un indizio? Ok, beh... Lavoro per il governo."
+
+msgctxt "4824_Himeka"
+msgid "Yer a public servant!"
+msgstr "Sei un pubblico ufficiale!"
+
+msgctxt "4836_Himeka"
+msgid "Hmm... Are you a school teacher?"
+msgstr "Mmm... Sei un insegnante?"
+
+msgctxt "4848_Tanimura"
+msgid "Nope. I'm not cut out to teach anyone anything."
+msgstr "Nah. Non sono proprio tagliato per insegnare niente a nessuno."
+
+msgctxt "4860_Tanimura"
+msgid ""
+"I'm a cop. I'm in the Community Safety Division. It's... Well... Let's just "
+"say I'm a detective."
+msgstr ""
+"Sono un poliziotto. Faccio parte della Divisione di Sicurezza Comunitaria. "
+"È... Beh... Diciamo solo che sono un detective."
+
+msgctxt "4872_Himeka"
+msgid ""
+"Wow! Y'know, now that you mention it, you do kinda have that air about ya."
+msgstr "Caspita! Sai, ora che lo dici, hai proprio quell'aria lì."
+
+msgctxt "4884_Tanimura"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "4896_Himeka"
+msgid ""
+"Yeah. Ya got that \"I always catch the bad guy\" look. I haven't done "
+"anythin' wrong, just so ya know!"
+msgstr ""
+"Sì. Hai quella faccia da 'io acchiappo sempre i cattivi'.\n"
+"Non ho fatto nulla di male, sappi eh!"
+
+msgctxt "4908_Tanimura"
+msgid "Heh. I wonder."
+msgstr "Eh. Chissà."
+
+msgctxt "4920_Himeka"
+msgid "Hey, I'd like your advice on something. Do ya mind?"
+msgstr "Ehi, mi servirebbe un tuo consiglio su una cosa. Ti va bene?"
+
+msgctxt "4932_Tanimura"
+msgid "I can't promise I can help, but go ahead."
+msgstr "Non posso promettere di poterti aiutare, ma dimmi pure."
+
+msgctxt "4944_Himeka"
+msgid ""
+"Ever since appearin' in that magazine, I've been gettin' a real mountain of "
+"customers comin' to get a taste of my hospitality."
+msgstr ""
+"Da quando sono finita su quella rivista, mi è arrivata una valanga di "
+"clienti che vengono ad assaggiare la mia ospitalità."
+
+msgctxt "4956_Himeka"
+msgid ""
+"But some of them are... I don't know... Like they've never been to a club "
+"before. They seem pretty inexperienced with women."
+msgstr ""
+"Ma alcuni di loro sono... boh... Come se non fossero mai stati in un locale "
+"prima. Sembrano proprio non saperci fare con le donne."
+
+msgctxt "4968_Himeka"
+msgid ""
+"Anyway, a few of those customers get the wrong idea about me. They're like, "
+"\"I can't believe we get along so well!\""
+msgstr ""
+"Comunque, un paio di quei clienti si fanno strane idee su di me. E dicono: "
+"\"Non ci credo che andiamo così d'accordo!\""
+
+msgctxt "4980_Tanimura"
+msgid "They don't get what a hostess club is all about."
+msgstr "Non capiscono proprio cosa sia un hostess club."
+
+msgctxt "4992_Himeka"
+msgid "Yeah. It's flatterin' when they say they love me, but..."
+msgstr "Sì. Mi fa piacere quando dicono di amarmi, ma..."
+
+msgctxt "5004_Himeka"
+msgid ""
+"A few are creepin' a little too hard, if ya know what I mean. Nothin' bad's "
+"happened yet, but..."
+msgstr ""
+"Un paio si stanno facendo un po' troppo sotto, se capisci cosa intendo. Non "
+"è successo niente di male ancora, però..."
+
+msgctxt "5016_Tanimura"
+msgid ""
+"You should report stuff like that to the police. Then we can tell them to "
+"lay off."
+msgstr ""
+"Dovresti denunciare roba del genere alla polizia. Così possiamo dire loro di"
+" lasciarti in pace."
+
+msgctxt "5028_Himeka"
+msgid ""
+"But they like me, and they're customers. I don't wanna offend them or "
+"anythin'."
+msgstr ""
+"Ma gli piaccio, e sono clienti. Non voglio mica offenderli o roba del "
+"genere."
+
+msgctxt "5040_Himeka"
+msgid "How can I let 'em know without burnin' their butts?"
+msgstr "Come posso farglielo sapere senza fargli bruciare il culo?"
+
+msgctxt "5052_Tanimura"
+msgid ""
+"Just call me if something happens. I'll drop whatever I'm doing and come "
+"help."
+msgstr ""
+"Fammi uno squillo se succede qualcosa. Mollo tutto e ti vengo a dare una "
+"mano."
+
+msgctxt "5064_Himeka"
+msgid "But, Tanimura-san... Ain't that gonna be an inconvenience for you?"
+msgstr "Ma, Tanimura-san... Non ti creerà mica problemi?"
+
+msgctxt "5076_Tanimura"
+msgid "It's fine. After all, protecting the public is my job."
+msgstr "Va bene così. Dopotutto, proteggere i cittadini è il mio lavoro."
+
+msgctxt "5088_Himeka"
+msgid ""
+"Wow, really? That's a huge weight off my shoulders! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Mamma mia, sul serio? Mi hai tolto un bel peso! <Color:7>♥<Color:Default>"
+
+msgctxt "5100_Himeka"
+msgid ""
+"A cop who races to rescue the damsel in distress. It's like somethin' you'd "
+"see out of a movie! ♪"
+msgstr ""
+"Un poliziotto che corre in soccorso della donzella in pericolo. È roba da "
+"film! ♪"
+
+msgctxt "5112_Tanimura"
+msgid "You think?"
+msgstr "Dici?"
+
+msgctxt "5124_Himeka"
+msgid ""
+"I feel much safer knowin' I can count on you, Tanimura-san! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Mi sento molto più sicura sapendo che posso contare su di te, Tanimura-san! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "5136_Tanimura"
+msgid ""
+"You have to tell it to them straight. That's the best way to deal with guys "
+"like that."
+msgstr ""
+"Devi dirglielo chiaro e tondo. È il modo migliore per affrontare certi tipi."
+
+msgctxt "5148_Himeka"
+msgid "I should just say I think they're creeps?"
+msgstr "Dovrei solo dire che penso che siano dei pervertiti?"
+
+msgctxt "5160_Tanimura"
+msgid ""
+"Well... Maybe soften it up a little. You don't want to make things worse "
+"than they already are."
+msgstr ""
+"Beh... magari addolcisci un po' la pillola. Non vorrai mica peggiorare le "
+"cose più di così, no?"
+
+msgctxt "5172_Himeka"
+msgid "So what should I say?"
+msgstr "E quindi cosa dico?"
+
+msgctxt "5184_Tanimura"
+msgid ""
+"Well... You could tell them that you have a boyfriend so you can't get "
+"involved with anyone else."
+msgstr ""
+"Beh... Potresti dirgli che hai un ragazzo così non puoi farti storie con "
+"nessun altro."
+
+msgctxt "5196_Himeka"
+msgid "But I don't have a boyfriend right now..."
+msgstr "Ma non ho un fidanzato al momento..."
+
+msgctxt "5208_Tanimura"
+msgid "They don't have to know that."
+msgstr "Non devono saperlo."
+
+msgctxt "5220_Himeka"
+msgid "What if they wanna meet him?"
+msgstr "E se volessero incontrarlo?"
+
+msgctxt "5232_Himeka"
+msgid "Hey, maybe you could pretend to be my boyfriend!"
+msgstr "Ehi, magari potresti fare finta di essere il mio ragazzo!"
+
+msgctxt "5244_Tanimura"
+msgid "I suppose I wouldn't mind that."
+msgstr "Beh, non mi dispiacerebbe, direi."
+
+msgctxt "5256_Himeka"
+msgid ""
+"Alrighty! From now on, I'll say I have a boyfriend. If they ask to meet him,"
+" you're the one who's comin' to dinner! ♪"
+msgstr ""
+"A posto! D'ora in poi dirò che sono fidanzata. Se mi chiedono di "
+"incontrarlo, sarai tu quello che verrà a cena! ♪"
+
+msgctxt "5268_Himeka"
+msgid ""
+"Hehehe. I'm countin' on you when the time comes! <Color:7>♥<Color:Default>"
+msgstr ""
+"Hehehe. Conto su di te, eh? Quando verrà il momento! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "5280_Tanimura"
+msgid "Maybe you should learn self defense."
+msgstr "Magari ti converrebbe imparare a difenderti."
+
+msgctxt "5292_Himeka"
+msgid "Me? But I'm teeny tiny!"
+msgstr "Io? Ma sono così piccolina!"
+
+msgctxt "5304_Tanimura"
+msgid "It would only be for emergencies."
+msgstr "Sarebbe solo per emergenze."
+
+msgctxt "5316_Himeka"
+msgid "No, I could never do that!"
+msgstr "No, non potrei mai farlo!"
+
+msgctxt "5328_Tanimura"
+msgid "Height doesn't matter in martial arts."
+msgstr "L'altezza non conta nelle arti marziali."
+
+msgctxt "5340_Himeka"
+msgid ""
+"Darn it, Tanimura-san! That wasn't the kind of answer I was lookin' for."
+msgstr "Cavolo, Signor Tanimura! Non era il tipo di risposta che cercavo."
+
+msgctxt "5352_Tanimura"
+msgid "What about judo? It doesn't matter how big or small you are in judo."
+msgstr "E il judo? Nel judo non importa quanto sei grande o piccolo."
+
+msgctxt "5364_Himeka"
+msgid "Never mind, just drop it."
+msgstr "Lascia stare, lascia perdere."
+
+msgctxt "5376_Himeka"
+msgid "Tanimura-san, I want you to meet a member of my family."
+msgstr "Tanimura-san, vorrei farti conoscere un membro della mia famiglia."
+
+msgctxt "5388_Tanimura"
+msgid "Huh?"
+msgstr "Uh?"
+
+msgctxt "5400_Himeka"
+msgid ""
+"Well, he's like a member of the family. I guess he's sort of my partner."
+msgstr "Beh, è come uno di famiglia. Immagino sia un po' il mio socio."
+
+msgctxt "5412_Tanimura"
+msgid "Hey, we don't know each other that well..."
+msgstr "Ehi, non è che ci conosciamo poi così bene..."
+
+msgctxt "5424_Himeka"
+msgid "Here he is! Lookie, lookie!"
+msgstr "Eccolo! Guarda, guarda!"
+
+msgctxt "5460_Himeka"
+msgid "This is my pet, Nyanchu! Cute as a button, ain't he?"
+msgstr "Questo è il mio animaletto, Nyanchu! Non è un amore?"
+
+msgctxt "5472_Tanimura"
+msgid "Yeah, he's a cutie."
+msgstr "Già, è un amore."
+
+msgctxt "5484_Himeka"
+msgid "Ain't he? ♪ Are you a cat person, too?"
+msgstr "Non è vero? ♪ Anche tu sei un tipo da gatti?"
+
+msgctxt "5496_Tanimura"
+msgid "Yeah, I like cats more than dogs. He's a golden chinchilla, right?"
+msgstr ""
+"Già, mi piacciono più i gatti che i cani. È un chinchilla dorato, giusto?"
+
+msgctxt "5508_Himeka"
+msgid "That's right! Color me surprised, Tanimura-san! You know yer cats!"
+msgstr "Esatto! Ma guarda un po', Tanimura-san! Ci sai fare con le gatte!"
+
+msgctxt "5520_Tanimura"
+msgid "Something wrong with that?"
+msgstr "Che c'è di male?"
+
+msgctxt "5532_Himeka"
+msgid ""
+"No, not at all! I'm just happy to have somebody I can talk about cats with! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Ma no, macché! Sono solo contenta di avere qualcuno con cui parlare di "
+"gatti! <Color:7>♥<Color:Default>"
+
+msgctxt "5544_Himeka"
+msgid "I'll send you a picture of him later."
+msgstr "Ti manderò una foto di lui più tardi."
+
+msgctxt "5556_Tanimura"
+msgid "I'm looking forward to that."
+msgstr "Non vedo l'ora."
+
+msgctxt "5568_Tanimura"
+msgid "Cats are cute, but I'm more of a dog person."
+msgstr "I gatti sono carini, ma io sono più un tipo da cani."
+
+msgctxt "5580_Himeka"
+msgid "Aww, why's that?"
+msgstr "Ah, come mai?"
+
+msgctxt "5592_Tanimura"
+msgid "I like going out on walks with dogs. You can't walk a cat."
+msgstr ""
+"Mi piace portare a spasso i cani. Non si può portare a spasso un gatto."
+
+msgctxt "5604_Himeka"
+msgid ""
+"Yeah, that's true. My family used to have a dog, so I know what it's like. "
+"Walkin' a dog's definitely got its charm."
+msgstr ""
+"Già, è vero. Avevamo un cane in famiglia, quindi so cosa significa. Portare "
+"a spasso un cane ha proprio il suo fascino."
+
+msgctxt "5616_Himeka"
+msgid "Wanna know what my dog's name was?"
+msgstr "Vuoi sapere come si chiamava il mio cane?"
+
+msgctxt "5628_Tanimura"
+msgid "Wanchu?"
+msgstr "Dimmi?"
+
+msgctxt "5640_Himeka"
+msgid "Whoa! How'd ya guess!?"
+msgstr "Caspita! Come hai fatto a indovinare!?"
+
+msgctxt "5652_Tanimura"
+msgid "Heh. I just had a feeling."
+msgstr "Eh. Me lo sentivo."
+
+msgctxt "5664_Tanimura"
+msgid "He's cute, but... What kind of name is Nyanchu?"
+msgstr "È carino, ma... Che razza di nome è Nyanchu?"
+
+msgctxt "5676_Himeka"
+msgid "What? What's wrong with Nyanchu?"
+msgstr "Che? Che c'è che non va con Nyanchu?"
+
+msgctxt "5688_Tanimura"
+msgid "Don't you think it sounds like the bad guy in a kung fu flick?"
+msgstr "Non ti sembra che suoni come il cattivo di un film di kung fu?"
+
+msgctxt "5700_Himeka"
+msgid "What the heck!? No way, not at all! I really like that name!"
+msgstr "Ma va là?! Nient'affatto! Quel nome mi piace un sacco!"
+
+msgctxt "5712_Himeka"
+msgid ""
+"No one makes fun of my Nyanchu's name! As punishment, ya gotta say it ten "
+"times fast!"
+msgstr ""
+"Nessuno si permette di prendere in giro il nome del mio Nyanchu! Come "
+"punizione, ti tocca ripeterlo dieci volte veloce!"
+
+msgctxt "5724_Tanimura"
+msgid "Huh? Seriously? Do I have to?"
+msgstr "Eh? Sul serio? Devo per forza?"
+
+msgctxt "5736_Himeka"
+msgid "Yes! Ready... Go!"
+msgstr "Sì! Pronti... Via!"
+
+msgctxt "5748_Tanimura"
+msgid "Nyanchu, Nyanchu, Nyanchu, Nyanchu, Nyanchu..."
+msgstr "Nyanchu, Nyanchu, Nyanchu, Nyanchu, Nyanchu..."
+
+msgctxt "5760_Himeka"
+msgid "Haha! I can't believe ya actually did it!"
+msgstr "Ahah! Non ci credo che l'hai fatto davvero!"
+
+msgctxt "5772_Himeka"
+msgid ""
+"You're pretty cute, y'know. I like a man with an honest soul and a good "
+"heart. <Color:7>♥<Color:Default>"
+msgstr ""
+"Sei proprio carino, sai. Mi piace un uomo con un'anima onesta e un buon "
+"cuore. <Color:7>♥<Color:Default>"
+
+msgctxt "5784_Tanimura"
+msgid "Heh."
+msgstr "Eh."
+
+msgctxt "5796_Himeka"
+msgid "You know, Tanimura-san, you're lucky you're tall."
+msgstr "Sai, Tanimura-san, sei fortunato ad essere alto."
+
+msgctxt "5808_Tanimura"
+msgid "Why'd you bring that up all of a sudden?"
+msgstr "Perché l'hai tirata fuori così, di punto in bianco?"
+
+msgctxt "5820_Himeka"
+msgid "I bet the world would be a friendlier place if I were a foot taller."
+msgstr ""
+"Scommetto che il mondo sarebbe un posto più amichevole se fossi un piede più"
+" alta."
+
+msgctxt "5832_Tanimura"
+msgid "You think height makes that big a difference?"
+msgstr "Pensi che l'altezza faccia così tanta differenza?"
+
+msgctxt "5844_Himeka"
+msgid "Of course it does! Bein' a small girl is a big pain!"
+msgstr "Ma certo che sì! Essere piccolina è una gran rottura!"
+
+msgctxt "5856_Himeka"
+msgid ""
+"I'm always stuck with my face pressed up against some sweaty guy's chest on "
+"subways, and I can never find pants that fit."
+msgstr ""
+"Mi ritrovo sempre con la faccia spiaccicata contro il petto di qualche tizio"
+" sudato sulla metro, e non trovo mai pantaloni che mi stiano bene."
+
+msgctxt "5868_Himeka"
+msgid "If a genie offered me one wish, I'd definitely wish to be taller."
+msgstr "Se un genio mi offrisse un desiderio, vorrei proprio essere più alta."
+
+msgctxt "5880_Tanimura"
+msgid "It means that much to you?"
+msgstr "Ci tieni così tanto?"
+
+msgctxt "5892_Himeka"
+msgid "Sure it does. I'd do anythin' to be taller!"
+msgstr "E certo! Farei di tutto per essere più alta!"
+
+msgctxt "5904_Tanimura"
+msgid "If you really want to be taller, why don't you try drinking milk?"
+msgstr "Se vuoi davvero essere più alto, perché non provi a bere il latte?"
+
+msgctxt "5916_Himeka"
+msgid ""
+"I have heard milk can help ya grow, but isn't it a little late for me to "
+"start?"
+msgstr ""
+"Ho sentito dire che il latte ti fa crescere, ma non è un po' tardino per me "
+"per iniziare?"
+
+msgctxt "5928_Tanimura"
+msgid "Who knows? You could get a sudden growth spurt."
+msgstr "Chissà? Potresti avere uno scatto di crescita improvviso."
+
+msgctxt "5940_Himeka"
+msgid ""
+"Hey! Are you makin' fun of me, Tanimura-san? Can't ya tell I'm real "
+"sensitive about my height?"
+msgstr ""
+"Ehi! Mi stai prendendo in giro, Tanimura-san? Non vedi che sono davvero "
+"sensibile riguardo alla mia altezza?"
+
+msgctxt "5952_Tanimura"
+msgid ""
+"I'm not making fun of you. Besides, drinking milk supposedly makes your "
+"chest bigger, too."
+msgstr ""
+"Non ti sto prendendo in giro. Tra l'altro, si dice che bere latte faccia "
+"anche il seno più grande."
+
+msgctxt "5964_Himeka"
+msgid "Wow! Now you're just bein' crude!"
+msgstr "Wow! Adesso stai solo facendo il volgare!"
+
+msgctxt "5976_Tanimura"
+msgid "Did I offend you?"
+msgstr "Ti ho offeso?"
+
+msgctxt "5988_Himeka"
+msgid "Hehehe. Well, I don't really mind stuff like that. ♪"
+msgstr "Eheheh. Beh, le cose così non mi dispiacciono granché. ♪"
+
+msgctxt "6000_Himeka"
+msgid ""
+"Startin' today, I <Italic>will</Italic> try drinkin' milk. I'll let you know"
+" if anythin' starts growing. <Color:7>♥<Color:Default>"
+msgstr ""
+"Da oggi, <Italic>proverò</Italic> a bere latte. Ti farò sapere se mi spunta "
+"qualcosa. <Color:7>♥<Color:Default>"
+
+msgctxt "6012_Tanimura"
+msgid "Hey, that was a... Uh, never mind."
+msgstr "Ehi, quello era un... Ehm, lascia stare."
+
+msgctxt "6024_Tanimura"
+msgid "Why don't you try wearing platform shoes?"
+msgstr "Perché non provi a metterti delle platform?"
+
+msgctxt "6036_Himeka"
+msgid ""
+"No way! That just comes off as aggressively desperate. Everyone'll know I'm "
+"compensatin' for my height."
+msgstr ""
+"Ma dai! Passa solo per una cosa da disperati, e pure esagerata. Tutti "
+"capiranno che sto cercando di compensare la mia altezza."
+
+msgctxt "6048_Himeka"
+msgid "Besides, platforms aren't in style anymore."
+msgstr "Poi, le piattaforme non vanno più di moda."
+
+msgctxt "6060_Tanimura"
+msgid "Kinda dated, huh?"
+msgstr "Un po' datato, eh?"
+
+msgctxt "6072_Himeka"
+msgid "You don't follow fashion much, do ya?"
+msgstr "Non è che la moda ti dica molto, eh?"
+
+msgctxt "6084_Tanimura"
+msgid "Not really."
+msgstr "Non proprio."
+
+msgctxt "6096_Himeka"
+msgid "You should, y'know."
+msgstr "Dovresti, sai."
+
+msgctxt "6108_Tanimura"
+msgid "Hm, if you say so."
+msgstr "Mh, se lo dici tu."
+
+msgctxt "6120_Tanimura"
+msgid "I could give you a ride on my shoulders."
+msgstr "Potrei darti un passaggio sulle mie spalle."
+
+msgctxt "6132_Himeka"
+msgid "Really!? I love ridin' on guys' shoulders!"
+msgstr "Davvero!? Adoro farmi portare sulle spalle dei ragazzi!"
+
+msgctxt "6144_Himeka"
+msgid "Hey, I know! You can take me shoppin' on your shoulders!"
+msgstr "Ehi, so io! Puoi portarmi a fare shopping sulle tue spalle!"
+
+msgctxt "6156_Tanimura"
+msgid ""
+"Now just a minute. Don't you think that'd be kind of embarrassing for me?"
+msgstr ""
+"Ma aspetta un attimo. Non pensi che sarebbe un po' imbarazzante per me?"
+
+msgctxt "6168_Himeka"
+msgid "Oh, I wouldn't be embarrassed at all. It'd be a blast!"
+msgstr "Oh, non mi imbarazzerei affatto. Sarebbe uno spasso!"
+
+msgctxt "6180_Tanimura"
+msgid "What have I gotten myself into?"
+msgstr "In cosa mi sono ficcato?"
+
+msgctxt "6192_Himeka"
+msgid "Is it difficult bein' a police officer?"
+msgstr "È dura fare il poliziotto?"
+
+msgctxt "6204_Tanimura"
+msgid "The hours are horrible, and the pay's worse."
+msgstr "Gli orari sono uno schifo, e la paga è pure peggio."
+
+msgctxt "6216_Himeka"
+msgid "Well how do you deal with the stress?"
+msgstr "Beh, come gestisci lo stress?"
+
+msgctxt "6228_Tanimura"
+msgid ""
+"Gambling. Mahjong, horse racing... Of course, sometimes I get even more "
+"stressed that way."
+msgstr ""
+"Il gioco d'azzardo. Mahjong, corse dei cavalli... Certo, a volte mi stressa "
+"ancora di più così."
+
+msgctxt "6240_Himeka"
+msgid "Hmm, I'm not so good at dealin' with stress either."
+msgstr "Mmm, non me la cavo molto bene con lo stress neanch'io."
+
+msgctxt "6252_Himeka"
+msgid ""
+"Even if you love your job like I do, workin' six days a week is pretty "
+"stressful. You start gettin' bent outta shape over the littlest things."
+msgstr ""
+"Anche se ami il tuo lavoro come me, lavorare sei giorni su sette è un bello stress.\n"
+"Cominci a prenderti male per un nonnulla."
+
+msgctxt "6264_Tanimura"
+msgid "That's not good."
+msgstr "Non è una bella cosa."
+
+msgctxt "6276_Himeka"
+msgid ""
+"I love to travel, but since I don't get much time off, I usually spend my "
+"free time lazin' around at home."
+msgstr ""
+"Amo viaggiare, ma siccome non ho molto tempo libero, di solito me ne sto a "
+"casa a poltrire."
+
+msgctxt "6288_Himeka"
+msgid ""
+"The stress just keeps buildin' and buildin' until it feels like I'm gonna "
+"explode if I don't poke a hole and let the pressure out."
+msgstr ""
+"Lo stress non fa che accumularsi, accumularsi... finché non mi sento come se"
+" stessi per esplodere se non trovo uno sfogo."
+
+msgctxt "6300_Tanimura"
+msgid "What happens if you do explode?"
+msgstr "Cosa succede se esplodi?"
+
+msgctxt "6312_Himeka"
+msgid ""
+"I cry a lot. Sometimes it takes, like, days for me to finally let out all "
+"the steam."
+msgstr ""
+"Piango tanto. A volte, tipo, ci vogliono giorni per riuscire a sfogarmi del "
+"tutto."
+
+msgctxt "6324_Tanimura"
+msgid "Have you tried going to a hot spring?"
+msgstr "Hai provato ad andare alle terme?"
+
+msgctxt "6336_Himeka"
+msgid "I like hot springs, but they're all so far away."
+msgstr "Mi piacciono le terme, ma sono tutte così lontane."
+
+msgctxt "6348_Tanimura"
+msgid ""
+"There's actually one in Kamurocho. It's a spa called Yunosono Hot Springs."
+msgstr ""
+"In realtà ce n'è uno a Kamurocho. È una spa chiamata Yunosono Hot Springs."
+
+msgctxt "6360_Himeka"
+msgid ""
+"Seriously!? I had no idea! I'd love to go! ♪ Ya really know a lot about this"
+" city, huh?"
+msgstr ""
+"Dici sul serio!? Non ne avevo idea! Mi piacerebbe un sacco andarci! ♪ Ne sai"
+" davvero un sacco di questa città, eh?"
+
+msgctxt "6372_Tanimura"
+msgid "Maybe we can go together."
+msgstr "Magari possiamo andarci insieme."
+
+msgctxt "6384_Himeka"
+msgid ""
+"Oh, is this you invitin' me on a date? That's pretty forward of ya, "
+"Tanimura-san. ♪"
+msgstr ""
+"Oh, mi stai per caso invitando a uscire? Sei un po' sfacciato da parte tua, "
+"Tanimura-san. ♪"
+
+msgctxt "6396_Tanimura"
+msgid "If you don't want to, that's fine."
+msgstr "Se non vuoi, va bene."
+
+msgctxt "6408_Himeka"
+msgid ""
+"I didn't say that. But wow, Tanimura-san. Don't ya think that's a little too"
+" lewd for a first date?"
+msgstr ""
+"Non l'ho detto. Ma wow, Tanimura-san. Non pensi che sia un po' troppo spinto"
+" per un primo appuntamento?"
+
+msgctxt "6420_Tanimura"
+msgid "You think?"
+msgstr "Dici?"
+
+msgctxt "6432_Himeka"
+msgid "How 'bout you ask me again some other time? ♪"
+msgstr "Magari me lo chiedi un'altra volta? ♪"
+
+msgctxt "6444_Tanimura"
+msgid "Have fun. It's on Park Boulevard."
+msgstr "Divertiti. È su Park Boulevard."
+
+msgctxt "6456_Himeka"
+msgid "Thanks for lettin' me know! ♪"
+msgstr "Grazie per avermelo fatto sapere! ♪"
+
+msgctxt "6468_Tanimura"
+msgid "They're open late, so you could even go after work."
+msgstr ""
+"Sono aperti fino a tardi, quindi potresti anche andarci dopo il lavoro."
+
+msgctxt "6480_Himeka"
+msgid "Really? Maybe I'll swing by there tonight."
+msgstr "Davvero? Magari ci faccio un salto stasera."
+
+msgctxt "6492_Tanimura"
+msgid "I'm sure it'll melt away your stress."
+msgstr "Sono sicuro che ti farà sciogliere lo stress."
+
+msgctxt "6504_Himeka"
+msgid "It will! ♪ Thanks Tanimura-san, you're so considerate! ♪"
+msgstr "Certo che sì! ♪ Grazie Tanimura-san, sei così premuroso! ♪"
+
+msgctxt "6516_Tanimura"
+msgid "Actually, I prefer taking showers over baths."
+msgstr "A dire il vero, preferisco fare la doccia invece del bagno."
+
+msgctxt "6528_Himeka"
+msgid "Huh!? Really!? But takin' a bath is sooo relaxin'!"
+msgstr "Eh!? Davvero!? Ma farsi un bagno è così rilassante!"
+
+msgctxt "6540_Tanimura"
+msgid ""
+"I just don't have the time to relax in a tub. A shower gets the job done a "
+"lot quicker."
+msgstr ""
+"Non ho mica il tempo di starmene a rilassare in una vasca. Con la doccia si "
+"fa prima."
+
+msgctxt "6552_Himeka"
+msgid "Ewww! Tanimura-san, that's gross!"
+msgstr "Bleah! Tanimura-san, è schifoso!"
+
+msgctxt "6564_Tanimura"
+msgid "There's nothing gross about it."
+msgstr "Non c'è niente di schifoso."
+
+msgctxt "6576_Himeka"
+msgid ""
+"I kinda developed a bad habit recently. I can't seem to stop it no matter "
+"what I try."
+msgstr ""
+"Mi è venuto un po' un brutto vizio ultimamente.\n"
+"Non riesco proprio a smetterla, non importa cosa faccia."
+
+msgctxt "6588_Tanimura"
+msgid "What is it?"
+msgstr "E cioè?"
+
+msgctxt "6600_Himeka"
+msgid "Promise ya won't laugh?"
+msgstr "Prometti che non riderai?"
+
+msgctxt "6612_Tanimura"
+msgid "I can't make any promises."
+msgstr "Non posso fare promesse."
+
+msgctxt "6624_Himeka"
+msgid ""
+"I've started chewin' on stuff like straws and disposable chopsticks like "
+"some kind of teethin' kitty."
+msgstr ""
+"Ho iniziato a mordicchiare roba tipo cannucce e bacchette usa e getta, come "
+"un gattino che sta mettendo i denti."
+
+msgctxt "6636_Tanimura"
+msgid "That's not so strange. What's the problem?"
+msgstr "Non è poi così strano. Che problema c'è?"
+
+msgctxt "6648_Himeka"
+msgid ""
+"No, it's a huge problem! My last boyfriend kept tellin' me to stop, but I "
+"just couldn't."
+msgstr ""
+"No, è un guaio grosso! Il mio ultimo ragazzo continuava a dirmi di "
+"piantarla, ma proprio non ci sono riuscita."
+
+msgctxt "6660_Himeka"
+msgid ""
+"He ended up dumpin' me... He said he couldn't stand eatin' with me anymore."
+msgstr ""
+"Alla fine mi ha mollato... Ha detto che non sopportava più di mangiare con "
+"me."
+
+msgctxt "6672_Tanimura"
+msgid "That guy was a total jerk."
+msgstr "Quel tipo era proprio uno stronzo."
+
+msgctxt "6684_Himeka"
+msgid "You think so?"
+msgstr "La pensi così?"
+
+msgctxt "6696_Tanimura"
+msgid "It wouldn't bother me. In fact, I think it's kind of cute."
+msgstr "Non mi darebbe fastidio. Anzi, lo trovo piuttosto carino."
+
+msgctxt "6708_Himeka"
+msgid "Really? That's nice of ya to say! <Color:7>♥<Color:Default>"
+msgstr "Davvero? Che carino che lo dici! <Color:7>♥<Color:Default>"
+
+msgctxt "6720_Himeka"
+msgid ""
+"I guess I can really let loose in front of ya, then. That's good, 'cause "
+"I've really been hankerin' to bite down on somethin'. Can ya hand me that "
+"straw? ♪"
+msgstr ""
+"Allora, mi sa che con te posso proprio lasciarmi andare. Meno male, perché "
+"mi è venuta proprio una gran voglia di addentare qualcosa. Mi passi quella "
+"cannuccia? ♪"
+
+msgctxt "6732_Tanimura"
+msgid "Don't get carried away now."
+msgstr "Non farti prendere la mano adesso."
+
+msgctxt "6744_Tanimura"
+msgid "Why don't you try chewing something else?"
+msgstr "Perché non provi a cambiare disco?"
+
+msgctxt "6756_Himeka"
+msgid "Like what?"
+msgstr "Ad esempio?"
+
+msgctxt "6768_Tanimura"
+msgid "Hmm... Your fingernails?"
+msgstr "Mmm... Le tue unghie?"
+
+msgctxt "6780_Himeka"
+msgid "That's even worse! And it'll ruin my nails, too!"
+msgstr "È pure peggio! E mi rovinerà pure le unghie!"
+
+msgctxt "6792_Tanimura"
+msgid "What about chewing gum, then?"
+msgstr "E la gomma da masticare, allora?"
+
+msgctxt "6804_Himeka"
+msgid "Are ya sure the gears are really turnin' in there, Tanimura-san?"
+msgstr ""
+"Ma sei sicuro che gli ingranaggi ti girino davvero lì dentro, Tanimura-san?"
+
+msgctxt "6816_Tanimura"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "6828_Tanimura"
+msgid ""
+"People who chew on things are often high strung. Maybe that's the case with "
+"you, too?"
+msgstr ""
+"Le persone che si mordicchiano qualcosa sono spesso parecchio nervose. "
+"Magari è così anche per te?"
+
+msgctxt "6840_Himeka"
+msgid "Could be. I do sometimes let little things get me riled up."
+msgstr ""
+"Può darsi. Ogni tanto mi capita di perdere le staffe per delle sciocchezze."
+
+msgctxt "6852_Tanimura"
+msgid ""
+"Maybe if you tried letting go of the little things, you'd stop chewing on "
+"stuff, too."
+msgstr ""
+"Forse se provassi a lasciar perdere le piccole cose, smetteresti di "
+"rosicarti anche tu."
+
+msgctxt "6864_Himeka"
+msgid ""
+"Y'know, that actually makes sense. You're a pretty smart cookie, Tanimura-"
+"san. I'm impressed!"
+msgstr ""
+"Sai, questo in effetti ha senso. Sei proprio uno in gamba, Tanimura-san. "
+"Sono impressionata!"
+
+msgctxt "6876_Tanimura"
+msgid "Heh. Well, I try."
+msgstr "Eh. Beh, ci provo."
+
+msgctxt "6888_Himeka"
+msgid "What qualities do you want in a girlfriend?"
+msgstr "Che qualità vuoi in una fidanzata?"
+
+msgctxt "6900_Tanimura"
+msgid ""
+"Hmm... A kind, good-natured personality, I guess. Is that what you mean?"
+msgstr ""
+"Mmm... un carattere gentile, di buon cuore, immagino. È questo che intendi?"
+
+msgctxt "6912_Himeka"
+msgid "What about a girl who can cook?"
+msgstr "Che ne dici di una ragazza che sa cucinare?"
+
+msgctxt "6924_Tanimura"
+msgid "Well... Being able to cook would be a plus."
+msgstr "Beh... Saper cucinare sarebbe un vantaggio."
+
+msgctxt "6936_Himeka"
+msgid "Yeah, figures. I'm terrible at cookin'."
+msgstr "Sì, immagino. Sono una frana in cucina."
+
+msgctxt "6948_Himeka"
+msgid ""
+"I wanna cook for myself, but I can never work up the courage to really do "
+"it."
+msgstr ""
+"Voglio cucinare per conto mio, ma non mi faccio mai coraggio di farlo "
+"davvero."
+
+msgctxt "6960_Himeka"
+msgid "If I really try, I can cook up some curry rice, but that's about it."
+msgstr ""
+"Se mi ci metto d'impegno, riesco a preparare un po' di riso al curry, ma è "
+"tutto qui."
+
+msgctxt "6972_Himeka"
+msgid "Ya think someone like me could ever get married?"
+msgstr "Ma tu credi che una come me potrebbe mai sposarsi?"
+
+msgctxt "6984_Tanimura"
+msgid "You just have to find a man who can cook."
+msgstr "Ti basta trovare un uomo che sappia cucinare."
+
+msgctxt "6996_Himeka"
+msgid ""
+"Of course! Then I won't have to worry about cookin'! That's thinkin' outside"
+" the box!"
+msgstr ""
+"Certo! Così non dovrò mica preoccuparmi di cucinare! Questo sì che è pensare"
+" fuori dagli schemi!"
+
+msgctxt "7008_Himeka"
+msgid "By the way, can you cook, Tanimura-san?"
+msgstr "A proposito, sai cucinare, Tanimura-san?"
+
+msgctxt "7020_Tanimura"
+msgid "I'm pretty good at Chinese dishes."
+msgstr "Me la cavo piuttosto bene con i piatti cinesi."
+
+msgctxt "7032_Himeka"
+msgid "Really? I wanna try your cookin' sometime!"
+msgstr "Davvero? Voglio provare i tuoi manicaretti prima o poi!"
+
+msgctxt "7044_Tanimura"
+msgid "Heh. Maybe one day."
+msgstr "Eh. Magari un giorno."
+
+msgctxt "7056_Tanimura"
+msgid "Why don't you start with some simple dishes?"
+msgstr "Perché non inizi con qualche piatto semplice?"
+
+msgctxt "7068_Himeka"
+msgid "Like what?"
+msgstr "Ad esempio?"
+
+msgctxt "7080_Tanimura"
+msgid "Fried rice, maybe?"
+msgstr "Riso fritto, magari?"
+
+msgctxt "7092_Himeka"
+msgid "Well, I do like fried rice, but..."
+msgstr "Beh, il riso fritto mi piace, ma..."
+
+msgctxt "7104_Tanimura"
+msgid ""
+"Just mix the rice and eggs together before you put them in the pan. Should "
+"turn out all right."
+msgstr ""
+"Basta mescolare il riso e le uova prima di buttarli in padella. Dovrebbe "
+"venire bene."
+
+msgctxt "7116_Himeka"
+msgid "Really!? I gotta try that. ♪"
+msgstr "Davvero!? Devo proprio provarlo. ♪"
+
+msgctxt "7128_Tanimura"
+msgid "Good luck."
+msgstr "Buona fortuna."
+
+msgctxt "7140_Tanimura"
+msgid "I like instant food just fine, actually."
+msgstr "In realtà, a me il cibo istantaneo va benissimo."
+
+msgctxt "7152_Himeka"
+msgid ""
+"Yeah, it's good. But eatin' instant food all the time is bad for your skin, "
+"don'cha know?"
+msgstr ""
+"Sì, è buono. Però mangiare sempre roba istantanea fa male alla pelle, sai?"
+
+msgctxt "7164_Himeka"
+msgid "And who'd want a girlfriend who only makes instant food?"
+msgstr "E chi vorrebbe una ragazza che sa solo cucinare roba pronta?"
+
+msgctxt "7176_Tanimura"
+msgid "Yeah, that might not be great."
+msgstr "Già, non sarebbe il massimo."
+
+msgctxt "7188_Himeka"
+msgid "See? Dang it... I'm useless..."
+msgstr "Vedi? Accidenti... Sono proprio inutile..."
+
+msgctxt "7200_Tanimura"
+msgid "Where in Kansai are you from, Himeka?"
+msgstr "Di dove sei del Kansai, Himeka?"
+
+msgctxt "7212_Himeka"
+msgid "Huh!? How'd ya know I was from Kansai?"
+msgstr "Eh!? Come hai fatto a capire che ero del Kansai?"
+
+msgctxt "7224_Tanimura"
+msgid "Well, it's not hard to tell from your accent."
+msgstr "Bè, dal tuo accento non è difficile capirlo."
+
+msgctxt "7236_Himeka"
+msgid ""
+"Yeah, guess so. ♪ I came here a year ago, but I'm an Osaka girl, born n' "
+"raised."
+msgstr ""
+"Già, direi di sì. ♪ Sono arrivata qui un anno fa, ma sono una ragazza di "
+"Osaka, nata e cresciuta."
+
+msgctxt "7248_Tanimura"
+msgid "Osaka, huh? That explains why you're so outgoing."
+msgstr "Osaka, eh? Questo spiega perché sei così spigliata."
+
+msgctxt "7260_Himeka"
+msgid ""
+"I hadn't thought about it before, but it's already been a year since I "
+"started workin' in Kamurocho."
+msgstr ""
+"Non ci avevo pensato prima, ma è già passato un anno da quando ho iniziato a"
+" lavorare a Kamurocho."
+
+msgctxt "7272_Himeka"
+msgid ""
+"I thought livin' in Kamurocho would change me, but it hasn't. Not really."
+msgstr ""
+"Pensavo che vivere a Kamurocho mi avrebbe cambiato, ma non è successo. Non "
+"proprio."
+
+msgctxt "7284_Himeka"
+msgid ""
+"I still love takoyaki, I still like guys with a sense of humor, and there "
+"ain't no way I'm ever gonna be able to drop my Osakan accent."
+msgstr ""
+"Amo ancora i takoyaki, mi piacciono ancora i ragazzi con il senso "
+"dell'umorismo, e non c'è verso che riesca a perdere il mio accento di Osaka."
+
+msgctxt "7296_Tanimura"
+msgid "You like guys with a sense of humor, huh?"
+msgstr "Ti piacciono i ragazzi con il senso dell'umorismo, eh?"
+
+msgctxt "7308_Himeka"
+msgid "Yeah, I just love a man who can make me laugh."
+msgstr "Già, amo proprio un uomo che mi fa ridere."
+
+msgctxt "7320_Tanimura"
+msgid ""
+"How many cops does it take to change a light bulb? One, but he's never there"
+" when you need him!"
+msgstr ""
+"Quanti poliziotti ci vogliono per cambiare una lampadina? Uno, ma non c'è "
+"mai quando ti serve!"
+
+msgctxt "7332_Himeka"
+msgid "......"
+msgstr "......"
+
+msgctxt "7344_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "7356_Himeka"
+msgid "Oh, were you tellin' a joke?"
+msgstr "Oh, stavi scherzando?"
+
+msgctxt "7368_Tanimura"
+msgid "Yeah..."
+msgstr "Già..."
+
+msgctxt "7380_Himeka"
+msgid ""
+"Wow, that was terrible! I said I liked guys with a sense of humor, Tanimura-"
+"san. Weren't you listenin'?"
+msgstr ""
+"Wow, era terribile! Ho detto che mi piacciono i ragazzi con il senso "
+"dell'umorismo, Tanimura-san. Non stavi a sentire?"
+
+msgctxt "7392_Tanimura"
+msgid "Oh, be quiet..."
+msgstr "Oh, stai zitto..."
+
+msgctxt "7404_Himeka"
+msgid "Hehe! But it's so lame it's funny! ♪ Well, almost. ♪"
+msgstr "Hehe! Ma è così scemo che fa ridere! ♪ Beh, quasi. ♪"
+
+msgctxt "7416_Tanimura"
+msgid "What kind of music do you like?"
+msgstr "Che genere di musica ti piace?"
+
+msgctxt "7428_Himeka"
+msgid "Hey, did you forget what we were just talkin' about!?"
+msgstr "Ehi, ti sei dimenticata di cosa stavamo appena parlando!?"
+
+msgctxt "7440_Himeka"
+msgid "I wanted to hear a joke! Or were ya afraid that I wouldn't laugh?"
+msgstr "Volevo sentire una battuta! O avevi paura che non avrei riso?"
+
+msgctxt "7452_Tanimura"
+msgid "No, it's not that..."
+msgstr "No, non è che..."
+
+msgctxt "7464_Himeka"
+msgid ""
+"You're gonna have to try a li'l harder if ya wanna get my attention, y'know."
+" ♪"
+msgstr "Dovrai impegnarti un pochino di più se vuoi la mia attenzione, sai. ♪"
+
+msgctxt "7476_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "7488_Tanimura"
+msgid "I don't really like comedians."
+msgstr "Non mi piacciono molto i comici."
+
+msgctxt "7500_Himeka"
+msgid "You're kiddin'! Don't you watch comedy shows on TV?"
+msgstr "Ma stai scherzando! Non guardi gli show comici in TV?"
+
+msgctxt "7512_Tanimura"
+msgid "No. I don't watch much TV."
+msgstr "No. Non guardo molta TV."
+
+msgctxt "7524_Himeka"
+msgid "Wow. That's... so borin'..."
+msgstr "Wow. È... così noioso..."
+
+msgctxt "7536_Himeka"
+msgid "Y'know, I really can't stand rude folks!"
+msgstr "Sai, non sopporto proprio la gente maleducata!"
+
+msgctxt "7548_Tanimura"
+msgid "What do you mean?"
+msgstr "Cosa intendi?"
+
+msgctxt "7560_Himeka"
+msgid ""
+"You know, like people with bad table manners! Some people just don't even "
+"try! They talk with their mouths full n' spray food all over the place. It's"
+" gross!"
+msgstr ""
+"Sai, tipo la gente con le brutte maniere a tavola! Certa gente non ci prova "
+"proprio! Parlano con la bocca piena e sputacchiano cibo dappertutto. Fa "
+"schifo!"
+
+msgctxt "7572_Himeka"
+msgid "Everyone should really learn at least basic manners, right?"
+msgstr "Tutti dovrebbero proprio imparare almeno un po' di buone maniere, no?"
+
+msgctxt "7584_Tanimura"
+msgid "Yeah, I guess..."
+msgstr "Già, immagino..."
+
+msgctxt "7596_Himeka"
+msgid ""
+"But the worst are the smokers! Yer not supposed to walk around with a lit "
+"cigarette, right? But I see people doin' it every day! Like, how rude can ya"
+" be?"
+msgstr ""
+"Ma i peggiori sono i fumatori! Non si dovrebbe andare in giro con una "
+"sigaretta accesa, no? Ma vedo gente che lo fa ogni giorno! Cioè, ma quanto "
+"si può essere maleducati?"
+
+msgctxt "7608_Himeka"
+msgid ""
+"I'm so short that it's scary walkin' by someone with a lit cigarette. They "
+"usually toss their butts in the street, too!"
+msgstr ""
+"Sono così bassa che mi fa paura passare vicino a qualcuno con una sigaretta "
+"accesa. Di solito buttano pure le cicche per strada!"
+
+msgctxt "7620_Himeka"
+msgid "You don't do that kind of thing, do ya?"
+msgstr "Tu non fai quel genere di cose, vero?"
+
+msgctxt "7632_Tanimura"
+msgid "Come on. I'm a cop, remember? Of course I don't do that."
+msgstr ""
+"Dai. Sono un poliziotto, ti ricordi? Figurati se faccio una cosa del genere."
+
+msgctxt "7644_Himeka"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "7656_Tanimura"
+msgid "If you see somebody doing that, I'll arrest 'em."
+msgstr "Se vedi qualcuno farlo, lo arresterò."
+
+msgctxt "7668_Himeka"
+msgid "Hehehe. Okay, I think that's kinda overkill. ♪"
+msgstr "Heheheh. Ok, direi che è un po' esagerato. ♪"
+
+msgctxt "7680_Tanimura"
+msgid "Just give me a call. I'll take care of those criminals."
+msgstr "Basta che mi chiami. Ci penso io a quei criminali."
+
+msgctxt "7692_Himeka"
+msgid "Hahahaha! Policemen can be funny after all! ♪"
+msgstr "Hahahaha! I poliziotti, dopotutto, possono essere divertenti! ♪"
+
+msgctxt "7704_Tanimura"
+msgid "Maybe once in a while."
+msgstr "Forse ogni tanto."
+
+msgctxt "7716_Himeka"
+msgid "What!? You're awful, Tanimura-san!"
+msgstr "Cosa?! Sei tremendo, Tanimura-san!"
+
+msgctxt "7728_Tanimura"
+msgid ""
+"I mean, when I'm tailing someone, I don't always have a choice, you know?"
+msgstr "Eh, cioè, quando pedino qualcuno, non ho sempre scelta, sai?"
+
+msgctxt "7740_Himeka"
+msgid ""
+"Ya could get one of those portable ashtrays. Wait, why're ya even smokin' "
+"when you're tailin' someone?"
+msgstr ""
+"Potresti prenderti uno di quei posacenere portatili. Aspetta, ma perché ti "
+"metti a fumare mentre pedini qualcuno?"
+
+msgctxt "7752_Tanimura"
+msgid "Uh... Sorry..."
+msgstr "Uh... Scusa..."
+
+msgctxt "7764_Himeka"
+msgid "Ya really need to be more careful!"
+msgstr "Dovresti proprio stare più attento!"
+
+msgctxt "7776_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "7788_Tanimura"
+msgid "I'll try not to do it from now on."
+msgstr "Cercherò di non farlo d'ora in poi."
+
+msgctxt "7800_Himeka"
+msgid ""
+"Does that mean you've been smokin' while walkin' up till now? And litterin',"
+" too?"
+msgstr ""
+"Significa che hai fumato camminando fino ad adesso? E hai pure buttato via "
+"cicche?"
+
+msgctxt "7812_Tanimura"
+msgid "I won't do it anymore. I promise."
+msgstr "Non lo farò più. Giuro!"
+
+msgctxt "7824_Himeka"
+msgid ""
+"Fine, as long as you don't break yer promise. Cross yer heart and hope to "
+"die?"
+msgstr "Ok, basta che non ti rimangi la parola. Parola d'onore?"
+
+msgctxt "7836_Tanimura"
+msgid "...Yeah."
+msgstr "...Sì."
+
+msgctxt "7848_Himeka"
+msgid "*sigh*"
+msgstr "*sospiro*"
+
+msgctxt "7860_Tanimura"
+msgid "What's wrong? You seem kinda down."
+msgstr "Che hai? Sembri un po' giù."
+
+msgctxt "7872_Himeka"
+msgid "I'm sorry. I shouldn't be sighin' like that around ya..."
+msgstr "Mi dispiace. Non dovrei stare qui a sospirare così davanti a te..."
+
+msgctxt "7884_Tanimura"
+msgid "You can tell me if you have a problem."
+msgstr "Puoi parlarmene se hai un problema."
+
+msgctxt "7896_Himeka"
+msgid ""
+"Well... Ya remember Kashiwabara-san, the guy we ran into while we were on "
+"our date?"
+msgstr ""
+"Beh... Ti ricordi di Kashiwabara-san, il tipo che abbiamo incontrato mentre "
+"eravamo al nostro appuntamento?"
+
+msgctxt "7908_Tanimura"
+msgid "Oh, yeah. Him."
+msgstr "Ah, già. Lui."
+
+msgctxt "7920_Himeka"
+msgid "Yeah. He was here again just a li'l while ago."
+msgstr "Già. C'era di nuovo lui giusto poco fa."
+
+msgctxt "7932_Tanimura"
+msgid "Did something happen?"
+msgstr "È successo qualcosa?"
+
+msgctxt "7944_Himeka"
+msgid ""
+"He kept touchin' my thighs and shoulders and sayin' the crudest things."
+msgstr ""
+"Continuava a toccarmi le cosce e le spalle e a dirmi le cose più oscene."
+
+msgctxt "7956_Himeka"
+msgid ""
+"When I asked him to stop, he said he was a payin' customer and could do what"
+" he wanted."
+msgstr ""
+"Quando gli ho chiesto di smetterla, lui ha risposto che era un cliente "
+"pagante e che poteva fare quel che gli pareva."
+
+msgctxt "7968_Himeka"
+msgid ""
+"What's he think I am? Some kinda cheap bimbo? It really burns my takoyaki!"
+msgstr ""
+"Ma chi si crede che io sia? Una specie di sgualdrina da quattro soldi? Mi fa"
+" proprio ribollire il sangue!"
+
+msgctxt "7980_Tanimura"
+msgid "That's terrible."
+msgstr "Che roba brutta."
+
+msgctxt "7992_Himeka"
+msgid ""
+"He comes in almost every day now. It's really startin' to make me dread "
+"comin' in now."
+msgstr ""
+"Si fa vedere quasi ogni giorno ormai.\n"
+"Mi sta davvero iniziando a far detestare l'idea di venire qui, adesso."
+
+msgctxt "8004_Tanimura"
+msgid ""
+"Why don't you just wait and see what happens? If it gets worse, you tell me."
+msgstr "Perché non aspetti e vedi come va a finire? Se peggiora, dimmelo."
+
+msgctxt "8016_Himeka"
+msgid "Thanks. That makes me feel a whole lot better."
+msgstr "Grazie. Mi fa stare un sacco meglio."
+
+msgctxt "8028_Himeka"
+msgid ""
+"I'm so glad I met you. You sure ya don't mind me talking to you about this?"
+msgstr ""
+"Sono proprio contenta di averti conosciuto. Non ti dispiace mica se ti parlo"
+" di questo?"
+
+msgctxt "8040_Tanimura"
+msgid "Nah, I don't mind."
+msgstr "Ma no, non mi dispiace."
+
+msgctxt "8052_Himeka"
+msgid "Aww, thanks! <Color:7>♥<Color:Default>"
+msgstr "Ohh, grazie! <Color:7>♥<Color:Default>"
+
+msgctxt "8064_Tanimura"
+msgid "Have a drink and forget about it."
+msgstr "Fatti un drink e dimenticatene."
+
+msgctxt "8076_Himeka"
+msgid "How's that s'posed to help?"
+msgstr "E 'sta cosa come dovrebbe aiutarmi?"
+
+msgctxt "8088_Himeka"
+msgid "Tanimura-san, this is really botherin' me. Don't you care?"
+msgstr "Tanimura, 'sta cosa mi sta proprio scocciando. Non ti importa?"
+
+msgctxt "8100_Tanimura"
+msgid "Sorry..."
+msgstr "Scusa..."
+
+msgctxt "8112_Tanimura"
+msgid ""
+"Maybe you should take a few days off until Kashiwabara stops coming here."
+msgstr ""
+"Forse dovresti prenderti qualche giorno libero finché Kashiwabara non smette"
+" di venire qui."
+
+msgctxt "8124_Himeka"
+msgid ""
+"I thought about that, but I wouldn't be makin' any money while I'm gone."
+msgstr "Ci ho pensato, ma non farei un soldo mentre sono via."
+
+msgctxt "8136_Himeka"
+msgid "And it's not fair to my other customers, either."
+msgstr "E non è giusto neanche verso i miei altri clienti."
+
+msgctxt "8148_Tanimura"
+msgid "Ah, right..."
+msgstr "Ah, giusto..."
+
+msgctxt "8160_Himeka"
+msgid ""
+"But I appreciate ya worryin' about me! That does make me feel a little "
+"better. <Color:7>♥<Color:Default>"
+msgstr ""
+"Ma ti ringrazio proprio di preoccuparti per me! Questo mi fa sentire un po' "
+"meglio. <Color:7>♥<Color:Default>"
+
+msgctxt "8172_Tanimura"
+msgid ""
+"By the way, what happened with that blog of yours? Is somebody still giving "
+"you trouble?"
+msgstr ""
+"A proposito, che fine ha fatto quel tuo blog? Ti sta ancora dando fastidio "
+"qualcuno?"
+
+msgctxt "8184_Himeka"
+msgid ""
+"I'd been deletin' the nasty comments, but it was seriously like a game of "
+"whack-a-mole."
+msgstr ""
+"Ero lì a cancellare i commenti schifosi, ma era davvero come a Schiaccia la "
+"talpa."
+
+msgctxt "8196_Himeka"
+msgid "I finally just gave up and turned comments off altogether."
+msgstr "Alla fine ho proprio mollato e ho disattivato del tutto i commenti."
+
+msgctxt "8208_Tanimura"
+msgid "Oh, you did?"
+msgstr "Ah, hai fatto?"
+
+msgctxt "8220_Himeka"
+msgid "Yeah. It was startin' to bother the regulars even..."
+msgstr "Già. Iniziava a dar fastidio perfino ai clienti abituali..."
+
+msgctxt "8232_Himeka"
+msgid ""
+"...I never thought this kinda thing would happen when I started my blog."
+msgstr ""
+"...Non avrei mai immaginato che una roba del genere sarebbe successa quando "
+"ho aperto il mio blog."
+
+msgctxt "8244_Himeka"
+msgid ""
+"It's just sad. I didn't do anything wrong, but it feels like I failed "
+"somehow."
+msgstr ""
+"Fa solo tristezza. Non ho fatto niente di male, ma è come se avessi fallito "
+"in qualche modo."
+
+msgctxt "8256_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "8268_Himeka"
+msgid "On the other hand, it's a bit of a relief."
+msgstr "D'altro canto, è un po' un sollievo."
+
+msgctxt "8280_Tanimura"
+msgid "What do you mean?"
+msgstr "Cosa intendi?"
+
+msgctxt "8292_Himeka"
+msgid "It's pretty stressful reading' hateful comments every day."
+msgstr "È parecchio stressante leggere commenti d'odio ogni giorno."
+
+msgctxt "8304_Himeka"
+msgid "Maybe I should quit bloggin' altogether."
+msgstr "Magari mollo del tutto il blog."
+
+msgctxt "8316_Tanimura"
+msgid ""
+"You're really gonna just run away from the problem? You'd be playing right "
+"into their hands."
+msgstr ""
+"Ma vuoi davvero scappare e basta dal problema? Gli faresti proprio il loro "
+"gioco."
+
+msgctxt "8328_Himeka"
+msgid "I know, but..."
+msgstr "Lo so, ma..."
+
+msgctxt "8340_Tanimura"
+msgid "You should fight back. Keep blogging and show them you won't bend."
+msgstr ""
+"Dovresti reagire. Continua a bloggare e fagli vedere che non ti piegherai."
+
+msgctxt "8352_Himeka"
+msgid ""
+"You're right. I was about to give in to the jerk who's been causin' me all "
+"this grief!"
+msgstr ""
+"Hai ragione. Stavo per darla vinta a quello stronzo che mi ha fatto passare "
+"tutte queste grane!"
+
+msgctxt "8364_Himeka"
+msgid "Well, now I won't! I'm not losin' this fight!"
+msgstr "E invece no! Questa battaglia non la perdo!"
+
+msgctxt "8376_Tanimura"
+msgid "That's the spirit."
+msgstr "È lo spirito giusto."
+
+msgctxt "8388_Himeka"
+msgid "All right! I feel a lot better already. Thanks! ♪"
+msgstr "A posto! Mi sento già molto meglio. Grazie! ♪"
+
+msgctxt "8400_Tanimura"
+msgid ""
+"You should follow your heart. I think you already know what you want to do."
+msgstr ""
+"Dovresti seguire il tuo cuore. Penso che tu sappia già cosa vuoi fare."
+
+msgctxt "8412_Himeka"
+msgid "Hmm... If I'm bein' honest, I do wanna keep at it..."
+msgstr "Mmh... A dirla tutta, ci tengo a continuare..."
+
+msgctxt "8424_Tanimura"
+msgid "Then do it."
+msgstr "E allora fallo."
+
+msgctxt "8436_Himeka"
+msgid "But if I do, I gotta keep dealin' with this garbage..."
+msgstr "Ma se lo faccio, dovrò continuare a smazzarmi 'sta schifezza..."
+
+msgctxt "8448_Tanimura"
+msgid "So quit."
+msgstr "Allora molla."
+
+msgctxt "8460_Himeka"
+msgid "Dang it, I can't decide! You choose, Tanimura-san!"
+msgstr "Accidenti, non riesco proprio a decidermi! Scegli tu, Tanimura-san!"
+
+msgctxt "8472_Tanimura"
+msgid "It's not my decision to make."
+msgstr "Non spetta a me decidere."
+
+msgctxt "8484_Himeka"
+msgid "Ugh! I just can't decide..."
+msgstr "Ugh! Non riesco proprio a decidere..."
+
+msgctxt "8496_Tanimura"
+msgid "That might be the best plan."
+msgstr "Quello potrebbe essere il piano migliore."
+
+msgctxt "8508_Himeka"
+msgid ""
+"But if I quit, I'd be givin' in to whoever was writin' those nasty comments,"
+" wouldn't I?"
+msgstr ""
+"Ma se mollassi, sarebbe come darla vinta a chi scriveva quei commenti "
+"cattivi, no?"
+
+msgctxt "8520_Tanimura"
+msgid "Yeah, I guess."
+msgstr "Già, immagino."
+
+msgctxt "8532_Himeka"
+msgid "No! I can't do that! I gotta keep goin'!"
+msgstr "No! Non posso farlo! Devo andare avanti!"
+
+msgctxt "8544_Himeka"
+msgid ""
+"I'll show 'em what Osakan women are really made of! They'll never know what "
+"hit 'em!"
+msgstr ""
+"Gli farò vedere io di che pasta sono fatte le donne di Osaka! Non sapranno "
+"neanche cosa li ha colpiti!"
+
+msgctxt "8556_Tanimura"
+msgid "Well, good luck."
+msgstr "Beh, buona fortuna."
+
+msgctxt "8568_Himeka"
+msgid "It seems like I'm always complainin' to you, huh?"
+msgstr "Sembra che mi lamenti sempre con te, eh?"
+
+msgctxt "8580_Himeka"
+msgid ""
+"That's really bad. Hostesses ain't supposed to be shovin' their baggage on "
+"customers."
+msgstr ""
+"Non va proprio bene. Le hostess non dovrebbero mica scaricare i loro casini "
+"addosso ai clienti."
+
+msgctxt "8592_Himeka"
+msgid ""
+"I'm supposed to be helpin' you forget your problems. I'm sorry, Tanimura-"
+"san..."
+msgstr ""
+"Dovrei essere io a farti scordare i tuoi guai. Mi dispiace, Tanimura-san..."
+
+msgctxt "8604_Tanimura"
+msgid "Nah, don't worry about me."
+msgstr "No, dai, non ti preoccupare per me."
+
+msgctxt "8616_Himeka"
+msgid ""
+"That's what I'm talkin' about. You're so kind and understanding that I can't"
+" help layin' it all on you."
+msgstr ""
+"È proprio questo. Sei così gentile e comprensivo che non posso fare a meno "
+"di aprirmi del tutto con te."
+
+msgctxt "8628_Himeka"
+msgid ""
+"Actually, I think you're the only customer I've ever spoken to about my "
+"private life."
+msgstr ""
+"A dire il vero, credo che tu sia l'unico cliente a cui abbia mai raccontato "
+"della mia vita privata."
+
+msgctxt "8640_Tanimura"
+msgid "I'm flattered."
+msgstr "Sono lusingato."
+
+msgctxt "8652_Himeka"
+msgid ""
+"You okay with me askin' ya for advice? I don't know if I can keep working "
+"here without yer support."
+msgstr ""
+"Ti va bene se ti chiedo un consiglio? Non so se riesco a continuare a "
+"lavorare qui senza il tuo appoggio."
+
+msgctxt "8664_Tanimura"
+msgid "Don't you have other people you can talk to?"
+msgstr "Non hai mica altre persone con cui parlare?"
+
+msgctxt "8676_Himeka"
+msgid ""
+"Nah. I came here from Osaka all by myself, and I don't know many people "
+"'round here."
+msgstr ""
+"Ma no. Sono venuta qui da Osaka tutta sola, e non conosco molta gente qui in"
+" giro."
+
+msgctxt "8688_Himeka"
+msgid "You're the only person I've opened up to, Tanimura-san."
+msgstr "Sei l'unica persona con cui mi sono confidata, Tanimura-san."
+
+msgctxt "8700_Tanimura"
+msgid ""
+"I see... All right then. If you have any problems, feel free to tell me."
+msgstr "Capisco... Va bene così. Se hai qualche problema, dimmelo pure."
+
+msgctxt "8712_Himeka"
+msgid ""
+"Really!? Oh, I'm so happy to hear that! <Color:7>♥<Color:Default> We should "
+"have a drink! ♪"
+msgstr ""
+"Davvero!? Oh, sono così felice di sentirlo! <Color:7>♥<Color:Default> "
+"Dovremmo berci qualcosa! ♪"
+
+msgctxt "8724_Tanimura"
+msgid "Sounds good."
+msgstr "Perfetto."
+
+msgctxt "8736_Tanimura"
+msgid ""
+"You should try and be more independent. You can't rely on others to solve "
+"your problems."
+msgstr ""
+"Dovresti cercare di essere più indipendente. Non puoi sempre appoggiarti "
+"agli altri per risolvere i tuoi guai."
+
+msgctxt "8748_Himeka"
+msgid ""
+"But I came here from Osaka all by myself. I just need someone to lean on "
+"once in a while, y'know?"
+msgstr ""
+"Ma sono venuta qui da Osaka tutta da sola. Ho solo bisogno di qualcuno su "
+"cui appoggiarmi ogni tanto, sai?"
+
+msgctxt "8760_Himeka"
+msgid "Can't you help me just a little bit?"
+msgstr "Non puoi aiutarmi nemmeno un pochino?"
+
+msgctxt "8772_Tanimura"
+msgid "Sorry. It's for your own good."
+msgstr "Scusa. È per il tuo bene."
+
+msgctxt "8784_Himeka"
+msgid ""
+"I see... After all this, I was hopin' you'd help, but I guess I got my hopes"
+" too high..."
+msgstr ""
+"Capisco... Dopo tutto questo, speravo che mi avresti aiutato, ma immagino di"
+" essermi illuso troppo..."
+
+msgctxt "8796_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "8808_Tanimura"
+msgid ""
+"Maybe you should quit being a hostess. Then all of these problems would go "
+"away."
+msgstr ""
+"Magari dovresti smettere di fare la hostess. Così tutti questi problemi "
+"sparirebbero."
+
+msgctxt "8820_Himeka"
+msgid "I've thought about that, but I can't let things end this way."
+msgstr ""
+"Ci ho pensato, ma non posso permettere che le cose vadano a finire così."
+
+msgctxt "8832_Tanimura"
+msgid "Okay, but don't push yourself too hard."
+msgstr "Va bene, ma non sforzarti troppo."
+
+msgctxt "8844_Himeka"
+msgid "I know. That's why I need you. I need a shoulder to lean on."
+msgstr ""
+"Lo so. Ecco perché ho bisogno di te. Ho bisogno di una spalla su cui "
+"appoggiarmi."
+
+msgctxt "8856_Himeka"
+msgid "Unless ya mind, that is..."
+msgstr "A meno che non ti scocci, eh..."
+
+msgctxt "8868_Tanimura"
+msgid "Nah, I get it..."
+msgstr "Ma sì, capisco..."
+
+msgctxt "8880_Himeka"
+msgid ""
+"You're a real kind man. Thanks, Tanimura-san. <Color:7>♥<Color:Default>"
+msgstr ""
+"Sei davvero un uomo gentile. Grazie, Tanimura-san. <Color:7>♥<Color:Default>"
+
+msgctxt "8892_Himeka"
+msgid "Oooh Tanimura-saaan <Color:7>♥<Color:Default>"
+msgstr "Oooh Tanimura-saaan <Color:7>♥<Color:Default>"
+
+msgctxt "8904_Tanimura"
+msgid "You're in a good mood. You win the lottery or something?"
+msgstr "Sei di buon umore, eh? Hai vinto alla lotteria o qualcosa del genere?"
+
+msgctxt "8916_Himeka"
+msgid ""
+"Hehehe, you can tell? Well, I went to that spa that you told me about. ♪"
+msgstr ""
+"Eheheh, si vede? Beh, sono andata a quella spa di cui mi avevi parlato. ♪"
+
+msgctxt "8928_Tanimura"
+msgid "Oh yeah? What did you think?"
+msgstr "Ah sì? Che ne hai pensato?"
+
+msgctxt "8940_Himeka"
+msgid ""
+"It was incredible! I had my doubts about it. I mean, a hot spring in the "
+"middle of Kamurocho? But it was totally authentic!"
+msgstr ""
+"È stato incredibile! Avevo i miei dubbi. Cioè, delle terme in mezzo a "
+"Kamurocho? Ma era davvero autentico!"
+
+msgctxt "8952_Himeka"
+msgid "And look at my skin! Smoother than a baby's butt."
+msgstr "E guarda che pelle! Liscia come il culetto di un bimbo."
+
+msgctxt "8964_Tanimura"
+msgid "Looks great."
+msgstr "Stai benissimo."
+
+msgctxt "8976_Himeka"
+msgid ""
+"There's just something different about bathin' in a hot spring. All my "
+"stress just melted away in the hot water!"
+msgstr ""
+"Però farsi un bagno alle terme è tutta un'altra storia. Tutto il mio stress "
+"si è sciolto via nell'acqua calda!"
+
+msgctxt "8988_Himeka"
+msgid ""
+"And it's all thanks to you! <Color:7>♥<Color:Default> Now, I'm gonna reward "
+"ya by answerin' one question. Ask me whatever ya want."
+msgstr ""
+"Ed è tutto grazie a te! <Color:7>♥<Color:Default> Adesso, come ricompensa, "
+"ti rispondo a una domanda. Chiedimi pure quello che vuoi."
+
+msgctxt "9000_Tanimura"
+msgid "Anything, huh?"
+msgstr "Qualsiasi cosa, eh?"
+
+msgctxt "9012_Tanimura"
+msgid "Do you have someone you like?"
+msgstr "Ti piace qualcuno?"
+
+msgctxt "9024_Himeka"
+msgid "Is that somethin' you really wanna know?"
+msgstr "È una cosa che vuoi proprio sapere?"
+
+msgctxt "9036_Tanimura"
+msgid "Uh, well... I just thought..."
+msgstr "Ehm, beh... ho solo pensato..."
+
+msgctxt "9048_Himeka"
+msgid ""
+"Hehehe. You blushin' up? Aww, that's just adorable! "
+"<Color:7>♥<Color:Default>"
+msgstr "Hehehe. Stai arrossendo? Aww, che carino! <Color:7>♥<Color:Default>"
+
+msgctxt "9060_Himeka"
+msgid ""
+"I won't tell ya who, but there <Italic>is</Italic> someone I like! And he's "
+"a little bashful! ♪"
+msgstr ""
+"Non ti dico chi sia, ma c'<Italic>è</Italic> qualcuno che mi piace! Ed è un "
+"po' timido! ♪"
+
+msgctxt "9072_Tanimura"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "9084_Tanimura"
+msgid "What do you want most in the world right now?"
+msgstr "Cosa vuoi di più al mondo, adesso?"
+
+msgctxt "9096_Himeka"
+msgid "What, do ya wanna get me a present or somethin'?"
+msgstr "Che, vuoi farmi un regalo o roba del genere?"
+
+msgctxt "9108_Tanimura"
+msgid "No, I'm just curious."
+msgstr "No, sono solo curioso."
+
+msgctxt "9120_Himeka"
+msgid "Oh, sure. ♪ Well, let me think..."
+msgstr "Oh, certo. ♪ Beh, fammi pensare..."
+
+msgctxt "9132_Himeka"
+msgid "Maybe a hotplate I guess?"
+msgstr "Magari una piastra, immagino?"
+
+msgctxt "9144_Tanimura"
+msgid "A hotplate?"
+msgstr "Un fornelletto?"
+
+msgctxt "9156_Himeka"
+msgid "Sure! If I had a hotplate I could make okonomiyaki anytime I wanted!"
+msgstr ""
+"Certo! Se avessi una piastra potrei farmi gli okonomiyaki quando voglio!"
+
+msgctxt "9168_Tanimura"
+msgid "Interesting..."
+msgstr "Interessante..."
+
+msgctxt "9180_Himeka"
+msgid "Yep, I'd sure like a hotplate! ♪"
+msgstr "Già, mi andrebbe proprio una piastra calda! ♪"
+
+msgctxt "9192_Tanimura"
+msgid "Subtle..."
+msgstr "Che finezza..."
+
+msgctxt "9204_Tanimura"
+msgid "What's your most embarrassing memory?"
+msgstr "Qual è il tuo ricordo più imbarazzante?"
+
+msgctxt "9216_Himeka"
+msgid "Hey! Ya can't ask things like that!"
+msgstr "Ehi! Non puoi chiedere cose così!"
+
+msgctxt "9228_Tanimura"
+msgid "You did say anything."
+msgstr "Non hai detto niente."
+
+msgctxt "9240_Himeka"
+msgid "Hrm, fine... It was about six months ago..."
+msgstr "Mmh, va bene... Sarà stato circa sei mesi fa..."
+
+msgctxt "9252_Himeka"
+msgid ""
+"My skirt had a big rip in the back of it, but I didn't notice, so I went "
+"ahead and wore it outside."
+msgstr ""
+"La mia gonna aveva un bello strappo sul dietro, ma non ci ho fatto caso, e "
+"così sono uscita con quella addosso."
+
+msgctxt "9264_Himeka"
+msgid ""
+"I was walkin' in downtown Kamurocho when this hot guy told me he could see "
+"my bare booty!"
+msgstr ""
+"Stavo andando in giro nel centro di Kamurocho quando un tizio figo mi ha "
+"detto che mi vedeva il sedere nudo!"
+
+msgctxt "9276_Tanimura"
+msgid "Hehe."
+msgstr "Eheh."
+
+msgctxt "9288_Himeka"
+msgid "Hey, don't laugh! Oh, I thought I was gonna die of embarrassment!"
+msgstr "Ehi, non ridere! Oh, pensavo sarei morta dall'imbarazzo!"
+
+msgctxt "9300_Himeka"
+msgid "Why'd you have to remind me about that, Tanimura-san!?"
+msgstr "Perché me l'hai dovuto ricordare, Tanimura-san!?"
+
+msgctxt "9312_Tanimura"
+msgid "Sorry I asked..."
+msgstr "Scusa se ho chiesto..."
+
+msgctxt "9324_Himeka"
+msgid ""
+"I noticed somethin', Tanimura-san. Yer face never gets red no matter how "
+"much you drink. You can really hold yer liquor, huh?"
+msgstr ""
+"Ho notato una cosa, Tanimura-san. Non ti si arrossa mai la faccia per quanto"
+" bevi. Sai proprio reggere il bere, eh?"
+
+msgctxt "9336_Tanimura"
+msgid "I guess you could say that."
+msgstr "Si, diciamo così."
+
+msgctxt "9348_Himeka"
+msgid "I'm a pretty strong drinker too, but I know I overdo it sometimes."
+msgstr ""
+"Anche io sono una che ci sa fare parecchio col bere, ma so che ogni tanto ci"
+" vado giù pesante."
+
+msgctxt "9360_Himeka"
+msgid ""
+"I can always tell when I'm near my limit, but still I just can't stop. "
+"'Course, I don't drink that much when I'm here at the club."
+msgstr ""
+"Capisco sempre quando sono al limite, ma non riesco proprio a fermarmi. "
+"Certo, non bevo poi così tanto quando sono qui al club."
+
+msgctxt "9372_Tanimura"
+msgid "Are you a mean drunk?"
+msgstr "Sei un ubriaco litigioso?"
+
+msgctxt "9384_Himeka"
+msgid ""
+"Mmm, not quite... Actually, after I drink a certain amount, I start laughin'"
+" uncontrollably."
+msgstr ""
+"Mmm, non proprio... A dire il vero, dopo che bevo un po' troppo, mi viene da"
+" ridere senza controllo."
+
+msgctxt "9396_Himeka"
+msgid "And when I reach my limit, I just keel over."
+msgstr "E quando arrivo al limite, crollo e basta."
+
+msgctxt "9408_Himeka"
+msgid "People're probably gonna get sick of drinkin' with me, huh?"
+msgstr "La gente probabilmente si stuferà di bere con me, eh?"
+
+msgctxt "9420_Himeka"
+msgid ""
+"The other day, my apartment building's manager found me passed out in the "
+"elevator."
+msgstr ""
+"L'altro giorno, l'amministratore del mio palazzo mi ha trovato svenuta "
+"nell'ascensore."
+
+msgctxt "9432_Tanimura"
+msgid ""
+"You just don't know the right way to drink. You have to take your time and "
+"savor it, you know?"
+msgstr ""
+"Non sai proprio come si beve. Devi prendertela con calma e gustartelo, sai?"
+
+msgctxt "9444_Himeka"
+msgid ""
+"I never thought about that before. Every drink tastes the same to me, "
+"anyway."
+msgstr ""
+"Non ci avevo mai pensato prima. Comunque, per me, un drink vale l'altro."
+
+msgctxt "9456_Tanimura"
+msgid ""
+"You have to enjoy liquor with all five of your senses. That way, you won't "
+"go overboard."
+msgstr ""
+"Devi goderti il liquore con tutti e cinque i tuoi sensi. Così non "
+"esagererai."
+
+msgctxt "9468_Himeka"
+msgid ""
+"Hey, that's a mature way of lookin' at it. ♪ I'll have to\r\n"
+"try that! ♪"
+msgstr ""
+"Ehi, è un modo maturo di vedere le cose, questo! ♪ Dovrò\\nprovare anch'io! "
+"♪"
+
+msgctxt "9480_Tanimura"
+msgid "Yeah, give it a try."
+msgstr "Sì, provaci."
+
+msgctxt "9492_Tanimura"
+msgid ""
+"Drinking that much isn't good for you. You're poisoning your body, you know."
+msgstr "Bere così tanto non ti fa bene. Ti stai avvelenando il corpo, lo sai."
+
+msgctxt "9504_Himeka"
+msgid "Yeah. I really shouldn't be drinkin' like that, huh?"
+msgstr "Già. Non dovrei proprio bere così, eh?"
+
+msgctxt "9516_Tanimura"
+msgid "Maybe you should avoid drinking on your days off."
+msgstr "Forse faresti meglio a non alzare il gomito nei giorni di riposo."
+
+msgctxt "9528_Himeka"
+msgid ""
+"Yeah, yer probably right. Thanks. It's nice that yer so concerned about me. "
+"♪"
+msgstr ""
+"Già, hai probabilmente ragione. Grazie. È carino che sei così preoccupato "
+"per me. ♪"
+
+msgctxt "9540_Tanimura"
+msgid "No problem."
+msgstr "Nessun problema."
+
+msgctxt "9552_Tanimura"
+msgid "You're young. I'm sure you can handle it."
+msgstr "Sei giovane. Sono sicuro che te la caverai."
+
+msgctxt "9564_Himeka"
+msgid ""
+"Hey! I thought you'd at least be a little concerned about me! How about "
+"tellin' me to cut it out or somethin'?"
+msgstr ""
+"Ehi! Pensavo che ti fossi almeno un minimo preoccupato per me! O magari "
+"dirmi di darci un taglio, che so?"
+
+msgctxt "9576_Tanimura"
+msgid "Is that what you wanted me to say?"
+msgstr "È quello che volevi che dicessi?"
+
+msgctxt "9588_Himeka"
+msgid ""
+"Well, I don't know... Don't ya care about what happens to my liver,  "
+"Tanimura-san?"
+msgstr ""
+"Beh, che vuoi che ti dica... Non ti frega di quello che succede al mio "
+"fegato, Tanimura-san?"
+
+msgctxt "9600_Tanimura"
+msgid ""
+"I didn't say that. Drinking like this when you're young might even help "
+"toughen up your liver."
+msgstr ""
+"Non ho detto questo. Bere così quando sei giovane potrebbe persino aiutarti "
+"a farti il callo al fegato."
+
+msgctxt "9612_Himeka"
+msgid ""
+"That's ridiculous! You're just sayin' whatever pops into your head! I "
+"thought you cared more."
+msgstr ""
+"Ma è assurdo! Stai solo sparando la prima cosa che ti passa per la testa! "
+"Pensavo ci tenessi di più."
+
+msgctxt "9624_Himeka"
+msgid "Hey Tanimura-san, wanna know what my weakness is?"
+msgstr "Ehi Tanimura-san, ti va di sapere qual è la mia debolezza?"
+
+msgctxt "9636_Tanimura"
+msgid "Whoa, that came out of left field."
+msgstr "Caspita, questo è uscito dal nulla."
+
+msgctxt "9648_Himeka"
+msgid "Take a guess."
+msgstr "Indovina un po'?"
+
+msgctxt "9660_Tanimura"
+msgid "Hmm... Is it that you have a hard time with spicy food?"
+msgstr "Hmm... Non è che non reggi il piccante?"
+
+msgctxt "9672_Himeka"
+msgid "Nope! I love spicy food! ♪"
+msgstr "Ma no! Vado matta per il cibo piccante! ♪"
+
+msgctxt "9684_Himeka"
+msgid "The answer is... I'm terrible at usin' electronics!"
+msgstr "La risposta è... sono negata con l'elettronica!"
+
+msgctxt "9696_Tanimura"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "9708_Himeka"
+msgid "I can barely use my cell phone. I can't even change the ringtone."
+msgstr ""
+"Riesco a malapena a usare il mio cellulare. Non riesco nemmeno a cambiare la"
+" suoneria."
+
+msgctxt "9720_Tanimura"
+msgid "Come on, it's not that hard, is it?"
+msgstr "Ma dai, non è così difficile, vero?"
+
+msgctxt "9732_Himeka"
+msgid ""
+"It is for me! I just can't wrap my head around how electronics and stuff "
+"work."
+msgstr ""
+"Per me sì! Non mi entra proprio in testa come funzionano l'elettronica e "
+"tutta quella roba lì."
+
+msgctxt "9744_Himeka"
+msgid ""
+"I just learned how to send a photo on my phone, and that's only 'cause my "
+"friend helped me."
+msgstr ""
+"Ho appena imparato a mandare una foto col cellulare, e questo solo perché un"
+" mio amico mi ha dato una mano."
+
+msgctxt "9756_Tanimura"
+msgid "Wait, I thought you said you had a blog."
+msgstr "Ma aspetta, non avevi detto che avevi un blog?"
+
+msgctxt "9768_Himeka"
+msgid ""
+"Yeah, but I just send what I wanna post in an email to this guy at the club."
+" He's the one who updates it. ♪"
+msgstr ""
+"Già, ma io gli mando quello che voglio mettere su, per email, a 'sto tizio "
+"del club. È lui che lo aggiorna. ♪"
+
+msgctxt "9780_Tanimura"
+msgid "I see..."
+msgstr "Capisco..."
+
+msgctxt "9792_Himeka"
+msgid ""
+"Anyway, everybody keeps sayin' how useful DVRs are for recordin' yer "
+"favorite shows, so I finally broke down and bought one the other day."
+msgstr ""
+"Comunque, tutti continuano a dire quanto siano utili i DVR per registrare i "
+"tuoi programmi preferiti, così alla fine ho ceduto e ne ho preso uno l'altro"
+" giorno."
+
+msgctxt "9804_Himeka"
+msgid ""
+"But I have no clue how to use it! The instructions might as well be in "
+"Chinese."
+msgstr ""
+"Ma non ci capisco un tubo di come usarlo! Le istruzioni potrebbero benissimo"
+" essere in cinese."
+
+msgctxt "9816_Tanimura"
+msgid "I'm not very good with electronics either."
+msgstr "Non sono molto bravo con l'elettronica neanch'io."
+
+msgctxt "9828_Himeka"
+msgid ""
+"Really? Then I've got a friend! ♪ That makes me feel a little better! ♪"
+msgstr "Davvero? Allora ho un amico! ♪ Mi fa stare un po' meglio! ♪"
+
+msgctxt "9840_Tanimura"
+msgid "I don't think I'm as bad as you are, though."
+msgstr "Non credo di essere così cattivo come te, però."
+
+msgctxt "9852_Himeka"
+msgid ""
+"Maybe the two of us can join forces to resist the evil machines takin' over "
+"our lives!"
+msgstr ""
+"Magari noi due possiamo unire le forze per resistere alle macchine malvagie "
+"che stanno prendendo il sopravvento sulle nostre vite!"
+
+msgctxt "9864_Himeka"
+msgid ""
+"We'll fight to the death! We can't let the singularity win! Ya with me?"
+msgstr ""
+"Combatteremo fino alla morte! Non possiamo lasciare che la singolarità "
+"vinca! Ci stai?"
+
+msgctxt "9876_Tanimura"
+msgid "Uh, sure..."
+msgstr "Uh, certo..."
+
+msgctxt "9888_Tanimura"
+msgid "You want me to show you how to use it?"
+msgstr "Vuoi che ti mostri come si usa?"
+
+msgctxt "9900_Himeka"
+msgid "Oh, sure... You just wanna get into my apartment, don't ya?"
+msgstr "Ah, certo... Vuoi solo entrare nel mio appartamento, eh?"
+
+msgctxt "9912_Tanimura"
+msgid "No, I was just trying to be nice."
+msgstr "No, volevo solo essere carino."
+
+msgctxt "9924_Himeka"
+msgid ""
+"Come on. I can see right through ya! You'll have to do better than that!"
+msgstr "Dai! Ti vedo, eh! Dovrai fare di meglio!"
+
+msgctxt "9936_Tanimura"
+msgid "Whatever..."
+msgstr "Vabbè..."
+
+msgctxt "9948_Himeka"
+msgid ""
+"Aww, calm down, don't get upset. ♪ I'm really kind of flattered you'd try "
+"somethin' like that."
+msgstr ""
+"Ah, calmati, non te la prendere. ♪ Mi sento quasi lusingata che tu ci abbia "
+"provato in quel modo."
+
+msgctxt "9960_Himeka"
+msgid "So yeah, thank ya kindly! <Color:7>♥<Color:Default>"
+msgstr "Allora sì, ti ringrazio tanto! <Color:7>♥<Color:Default>"
+
+msgctxt "9972_Tanimura"
+msgid "This is all in your head, you know..."
+msgstr "Ti stai solo facendo dei film, sai..."
+
+msgctxt "9984_Tanimura"
+msgid "Just try fooling around with it. You'll figure it out sooner or later."
+msgstr "Prova a smanettarci un po'. Ci arriverai prima o poi."
+
+msgctxt "9996_Himeka"
+msgid ""
+"That's the best advice you can give me? I'm really havin' trouble here!"
+msgstr ""
+"Questo è il massimo del consiglio che puoi darmi? Sono davvero in un bel "
+"pasticcio qui!"
+
+msgctxt "10008_Tanimura"
+msgid "I mean, that's what I do to figure things like that out."
+msgstr "Cioè, è così che faccio io per capire cose del genere."
+
+msgctxt "10020_Himeka"
+msgid ""
+"Sheesh, I thought guys were supposed to be good with electronics... I guess "
+"I won't be askin' ya for advice any more."
+msgstr ""
+"Ma dai, pensavo che i ragazzi dovessero essere bravi con l'elettronica... A "
+"quanto pare non ti chiederò più consigli."
+
+msgctxt "10032_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "10044_Himeka"
+msgid "So I told you I can't cook, right?"
+msgstr "Allora, ti avevo detto che non so cucinare, no?"
+
+msgctxt "10056_Tanimura"
+msgid "Yeah, I remember."
+msgstr "Già, mi ricordo."
+
+msgctxt "10068_Himeka"
+msgid "Well, on my last day off, I decided I'd finally try cookin' somethin'!"
+msgstr ""
+"Beh, nel mio ultimo giorno libero, ho deciso di provare finalmente a "
+"cucinare qualcosa!"
+
+msgctxt "10080_Tanimura"
+msgid "Hey, nice... So what did you make?"
+msgstr "Ehi, niente male... Allora, cos'hai combinato?"
+
+msgctxt "10092_Himeka"
+msgid "Omurice, of course!"
+msgstr "Omurice, ma certo!"
+
+msgctxt "10104_Himeka"
+msgid ""
+"I followed the recipe to the letter, and it actually turned out really well!"
+" ♪"
+msgstr ""
+"Ho seguito la ricetta alla lettera, e in effetti è venuto davvero bene! ♪"
+
+msgctxt "10116_Himeka"
+msgid "The eggs were nice and fluffy, and the rice was pretty tasty too!"
+msgstr "Le uova erano belle soffici, e il riso era piuttosto buono anche!"
+
+msgctxt "10128_Himeka"
+msgid "Maybe I really can cook! ♪"
+msgstr "Forse riesco davvero a cucinare! ♪"
+
+msgctxt "10140_Tanimura"
+msgid "Hey, that's the spirit."
+msgstr "Ehi, così mi piaci."
+
+msgctxt "10152_Himeka"
+msgid "Guess what I drew in ketchup on top of the eggs!"
+msgstr "Indovina un po' cosa ho disegnato col ketchup sulle uova!"
+
+msgctxt "10164_Himeka"
+msgid "If ya get this right, I'll cook somethin' nice for ya!"
+msgstr "Se ci azzecchi, ti cucino qualcosa di buono!"
+
+msgctxt "10176_Tanimura"
+msgid "Was it a picture of me?"
+msgstr "Era una foto di me?"
+
+msgctxt "10188_Himeka"
+msgid "Is that your final answer?"
+msgstr "È la tua ultima parola?"
+
+msgctxt "10200_Tanimura"
+msgid "Yes... That's my final answer."
+msgstr "Sì... è la mia risposta finale."
+
+msgctxt "10212_Himeka"
+msgid "Sorry! The correct answer is... my adorable cat, Nyanchu!"
+msgstr "Scusa! La risposta esatta è... il mio adorabile gatto, Nyanchu!"
+
+msgctxt "10224_Himeka"
+msgid "Did ya want me to draw you, Tanimura-san?"
+msgstr "Volevi che ti disegnassi, Tanimura-san?"
+
+msgctxt "10236_Tanimura"
+msgid "Not particularly."
+msgstr "Non particolarmente."
+
+msgctxt "10248_Himeka"
+msgid ""
+"Hehehe. <Color:7>♥<Color:Default> Alright then, next time I'll draw ya in "
+"ketchup and eat ya all up! ♪"
+msgstr ""
+"Eheheh. <Color:7>♥<Color:Default> Allora, la prossima volta ti disegno nel "
+"ketchup e ti mangio tutto! ♪"
+
+msgctxt "10260_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "10272_Tanimura"
+msgid "I bet it was your cat, Nyanchu."
+msgstr "Scommetto che è stato il tuo gatto, Nyanchu."
+
+msgctxt "10284_Himeka"
+msgid "That's right! How'd ya know?"
+msgstr "Proprio così! E tu come hai fatto a saperlo?"
+
+msgctxt "10296_Tanimura"
+msgid "I know how you think."
+msgstr "So come la pensi."
+
+msgctxt "10308_Himeka"
+msgid ""
+"Guess that's why you're a detective! I'm kinda impressed! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Immagino sia per questo che fai il detective! Mi hai un po' colpita! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "10320_Tanimura"
+msgid "That's just who I am."
+msgstr "Sono fatta così."
+
+msgctxt "10332_Tanimura"
+msgid "You didn't draw anything, did you? You can't fool me."
+msgstr "Non hai combinato niente, vero? Non me la dai a bere."
+
+msgctxt "10344_Himeka"
+msgid "You're too suspicious. What makes ya think I'd try and trick ya?"
+msgstr "Sei troppo sospettoso. Cosa ti fa pensare che cercherei di fregarti?"
+
+msgctxt "10356_Tanimura"
+msgid "Ah... I guess it's kind of an occupational hazard."
+msgstr "Ah... direi che è un po' un rischio del mestiere."
+
+msgctxt "10368_Himeka"
+msgid ""
+"Oh come on! If you're gonna be that suspicious, then I'm not tellin' ya what"
+" I drew!"
+msgstr ""
+"Ma dai! Se fai così il sospettoso, allora non ti dico cosa ho disegnato!"
+
+msgctxt "10380_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "10392_Himeka"
+msgid ""
+"You may find it hard to believe, but I'm pretty shy when it comes to love."
+msgstr ""
+"Forse non ci crederai, ma sono parecchio timida quando si tratta d'amore."
+
+msgctxt "10404_Tanimura"
+msgid "Do you have trouble telling a man you like him?"
+msgstr "Ti viene difficile dire a un uomo che ti piace?"
+
+msgctxt "10416_Himeka"
+msgid ""
+"Oh yeah! I always worry about what'd happen if he didn't like me back, so I "
+"end up not saying anythin'..."
+msgstr ""
+"Ah, già! Mi preoccupo sempre di cosa succederebbe se lui non mi ricambiasse,"
+" e così finisco per non dire mai niente..."
+
+msgctxt "10428_Tanimura"
+msgid "So what do you do when you like someone?"
+msgstr "Allora, cosa fai quando ti piace qualcuno?"
+
+msgctxt "10440_Himeka"
+msgid ""
+"I just wait... And I do my best to project an aura that says \"I love you!\""
+" but it doesn't always work. So I haven't had many boyfriends."
+msgstr ""
+"Aspetto e basta... E faccio del mio meglio per proiettare un'aura che dica "
+"\"Ti amo!\", ma non sempre funziona. Quindi non ho avuto molti ragazzi."
+
+msgctxt "10452_Tanimura"
+msgid "Huh... That is kind of surprising."
+msgstr "Eh... È un po' sorprendente."
+
+msgctxt "10464_Himeka"
+msgid "What about you? Do you just tell someone?"
+msgstr "E tu? Lo dici così a qualcuno?"
+
+msgctxt "10476_Tanimura"
+msgid "If I like a woman, I make her mine."
+msgstr "Se mi piace una donna, la faccio mia."
+
+msgctxt "10488_Himeka"
+msgid "For real!? That's so manly!"
+msgstr "Davvero!? È così da uomo!"
+
+msgctxt "10500_Tanimura"
+msgid ""
+"I'm only kidding. I'm actually not very good at that kind of thing, either."
+msgstr ""
+"Ma no, sto solo scherzando. A dire il vero, neanch'io sono un granché brava "
+"in quel genere di cose."
+
+msgctxt "10512_Himeka"
+msgid ""
+"Oh, it was just a joke? I'm kinda relieved. It's nice to know you're not a "
+"playboy. <Color:7>♥<Color:Default>"
+msgstr ""
+"Ah, era solo uno scherzo? Sono un po' sollevata. Mi fa piacere sapere che "
+"non sei un playboy. <Color:7>♥<Color:Default>"
+
+msgctxt "10524_Tanimura"
+msgid "I'm kind of bashful, too."
+msgstr "Mi vergogno un po', anch'io."
+
+msgctxt "10536_Himeka"
+msgid "So you wait till someone says they like ya?"
+msgstr "Allora aspetti che qualcuno ti dica che gli piaci?"
+
+msgctxt "10548_Tanimura"
+msgid "I guess. But to be honest, I don't fall in love easily anyway."
+msgstr "Immagino. Ma, a essere sincero, non mi innamoro facilmente comunque."
+
+msgctxt "10560_Himeka"
+msgid "You're just playin' it cool. I bet ya got lots of girlfriends!"
+msgstr "Fai solo il figo. Scommetto che hai un sacco di ragazze!"
+
+msgctxt "10572_Tanimura"
+msgid "If I did, would I be here?"
+msgstr "Se lo facessi, sarei qui?"
+
+msgctxt "10584_Himeka"
+msgid "Hmm. Does that mean that you've fallen for me?"
+msgstr "Mmh. Vuol dire che ti sei innamorato di me?"
+
+msgctxt "10596_Tanimura"
+msgid "No comment."
+msgstr "Nessun commento."
+
+msgctxt "10608_Himeka"
+msgid "Hmm, that's a little suspicious. <Color:7>♥<Color:Default>"
+msgstr "Mmm, la cosa è un po' sospetta. <Color:7>♥<Color:Default>"
+
+msgctxt "10620_Tanimura"
+msgid "It depends on who it is."
+msgstr "Dipende da chi è."
+
+msgctxt "10632_Himeka"
+msgid ""
+"Oho. So Tanimura-san, do you change how you act depending on who you've "
+"fallen for?"
+msgstr ""
+"Ah, ah. Quindi, Tanimura-san, cambi il tuo modo di fare a seconda di chi ti "
+"sei preso una cotta?"
+
+msgctxt "10644_Tanimura"
+msgid ""
+"Kinda. I try to find the best approach based off of what I know about the "
+"person."
+msgstr ""
+"Diciamo. Cerco di capire qual è l'approccio migliore in base a quello che "
+"scopro sulla persona."
+
+msgctxt "10656_Himeka"
+msgid "Huh. Sounds like you've got a fishnet full of techniques you can use."
+msgstr "Ah. Sembra che tu abbia un sacco di assi nella manica da usare."
+
+msgctxt "10668_Tanimura"
+msgid "Yeah, you could say that."
+msgstr "Sì, si potrebbe dire di sì."
+
+msgctxt "10680_Himeka"
+msgid ""
+"Then you must've been with lots of women to figure all that out. Not gonna "
+"lie, that's disappointin'..."
+msgstr ""
+"Allora devi essere stato con un sacco di donne per capire tutto questo. A "
+"dire il vero, è un po' deludente..."
+
+msgctxt "10692_Tanimura"
+msgid "Hey..."
+msgstr "Ehi..."
+
+msgctxt "10704_Himeka"
+msgid ""
+"When you're going out with someone, do you do anything special for birthdays"
+" or anniversaries?"
+msgstr ""
+"Quando esci con qualcuno, fai qualcosa di speciale per i compleanni o gli "
+"anniversari?"
+
+msgctxt "10716_Tanimura"
+msgid "I make an effort, I suppose."
+msgstr "Mi impegno, credo."
+
+msgctxt "10728_Himeka"
+msgid ""
+"Oh. I ask because I love celebrations for things like anniversaries. "
+"Especially surprises. Those just give me shivers! <Color:7>♥<Color:Default>"
+msgstr ""
+"Oh. Lo chiedo perché adoro festeggiare cose come gli anniversari. "
+"Soprattutto le sorprese. Quelle mi fanno venire i brividi! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "10740_Tanimura"
+msgid "What kind of surprises?"
+msgstr "Che tipo di sorprese?"
+
+msgctxt "10752_Himeka"
+msgid ""
+"Well, one time the boyfriend I had in Osaka had me meet him in front of the "
+"station on my birthday."
+msgstr ""
+"Beh, una volta il ragazzo che avevo a Osaka mi ha dato appuntamento davanti "
+"alla stazione il giorno del mio compleanno."
+
+msgctxt "10764_Himeka"
+msgid "When I got there, I heard this loud voice callin' my name."
+msgstr "Quando ci sono arrivato, ho sentito 'sta vociona che mi chiamava."
+
+msgctxt "10776_Himeka"
+msgid "I turned around, and there was my boyfriend up on a giant TV screen!"
+msgstr "Mi sono girata, e lì c'era il mio ragazzo su un maxischermo!"
+
+msgctxt "10788_Tanimura"
+msgid "A giant TV? Like one of those huge monitors?"
+msgstr "Una TV gigante? Tipo uno di quei monitor enormi?"
+
+msgctxt "10800_Himeka"
+msgid ""
+"Yeah! And he said, \"Happy birthday, Himeka! I hope to celebrate many more "
+"with you!\" ♪"
+msgstr ""
+"Già! E ha detto, \"Buon compleanno, Himeka! Spero di poterne festeggiare "
+"molti altri con te!\" ♪"
+
+msgctxt "10812_Himeka"
+msgid ""
+"Then he showed up in person, handed me a bouquet of flowers and said, "
+"\"Surprised?\""
+msgstr ""
+"Poi si è presentato di persona, mi ha dato un mazzo di fiori e ha detto: "
+"\"Sorpresa?\""
+
+msgctxt "10824_Tanimura"
+msgid "Heh, that's quite a surprise, all right."
+msgstr "Beh, questa sì che è una bella sorpresa."
+
+msgctxt "10836_Himeka"
+msgid ""
+"There were lots of people around, so I was real embarrassed, but I was so "
+"happy that I cried."
+msgstr ""
+"C'era un sacco di gente in giro, quindi ero davvero imbarazzata, ma ero così"
+" felice che ho pianto."
+
+msgctxt "10848_Tanimura"
+msgid "So you like that kind of big display?"
+msgstr "Quindi ti piacciono le cose fatte in grande?"
+
+msgctxt "10860_Himeka"
+msgid ""
+"Yeah... So I'm not requesting anythin', but what would you do if you had to "
+"celebrate my birthday?"
+msgstr ""
+"Sì... Dunque, non ti sto mica chiedendo niente, eh, però... cosa faresti tu "
+"se dovessi festeggiare il mio compleanno?"
+
+msgctxt "10872_Tanimura"
+msgid "I'd pick you up riding a white horse."
+msgstr "Ti passerei a prendere su un cavallo bianco."
+
+msgctxt "10884_Himeka"
+msgid "Yer kiddin'! On a horse!? Prince Tanimura cometh!?"
+msgstr "Ma dai! A cavallo!? Arriva il Principe Tanimura!?"
+
+msgctxt "10896_Tanimura"
+msgid "Exactly. You'd be surprised, right?"
+msgstr "Esatto. Saresti sorpreso, vero?"
+
+msgctxt "10908_Himeka"
+msgid ""
+"Hehehe. Yeah, but that might be too much! Still, it would be a treat to see!"
+msgstr ""
+"Hehehe. Sì, ma forse sarebbe troppo! Comunque, sarebbe uno spettacolo "
+"vederlo!"
+
+msgctxt "10920_Himeka"
+msgid "I'd remember that for the rest of my life!"
+msgstr "Me lo ricorderò a vita!"
+
+msgctxt "10932_Tanimura"
+msgid "I'd pick you up in a police car."
+msgstr "Ti verrei a prendere con la volante."
+
+msgctxt "10944_Himeka"
+msgid "A police car!?"
+msgstr "Una macchina della polizia!?"
+
+msgctxt "10956_Tanimura"
+msgid "We'd take a drive with the siren on. How's that sound?"
+msgstr "Ci faremmo un giro con la sirena accesa. Che ne dici?"
+
+msgctxt "10968_Himeka"
+msgid ""
+"It wouldn't be very romantic, would it!? People would think I'm bein' "
+"arrested! I ain't no criminal!"
+msgstr ""
+"Non sarebbe per niente romantico, no!?\n"
+"La gente penserebbe che mi stanno arrestando!\n"
+"Io non sono mica una criminale!"
+
+msgctxt "10980_Tanimura"
+msgid "You would be surprised, though."
+msgstr "Ti stupiresti, però."
+
+msgctxt "10992_Himeka"
+msgid ""
+"That ain't the kinda surprise I meant! You just don't understand women, do "
+"you?"
+msgstr ""
+"Non è mica quella la sorpresa che intendevo! Ma tu le donne proprio non le "
+"capisci, eh?"
+
+msgctxt "11004_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "11016_Tanimura"
+msgid "I wouldn't do anything fancy."
+msgstr "Non mi metterei a fare chissà che."
+
+msgctxt "11028_Himeka"
+msgid "Aww! Why not?"
+msgstr "Ma dai! Perché no?"
+
+msgctxt "11040_Tanimura"
+msgid ""
+"Because if two people love each other, they find all the surprises they need"
+" in each other's eyes."
+msgstr ""
+"Perché se due persone si amano, trovano tutte le sorprese di cui hanno "
+"bisogno negli occhi l'uno dell'altro."
+
+msgctxt "11052_Himeka"
+msgid ""
+"Hehehe! What's that supposed to mean? Tryin' to be romantic, are you, "
+"Tanimura-san? ♪"
+msgstr "Hehehe! Ma che significa? Vuoi fare il romantico, Tanimura-san? ♪"
+
+msgctxt "11064_Tanimura"
+msgid "Oh, I thought you'd like that..."
+msgstr "Oh, pensavo ti sarebbe piaciuto..."
+
+msgctxt "11076_Himeka"
+msgid "Ya gotta try harder than that, Tanimura-san! <Color:7>♥<Color:Default>"
+msgstr ""
+"Devi darti più da fare di così, Tanimura-san! <Color:7>♥<Color:Default>"
+
+msgctxt "11088_Himeka"
+msgid "But I guess havin' a normal birthday is nice sometimes."
+msgstr "Ma immagino che ogni tanto un compleanno normale faccia piacere."
+
+msgctxt "11100_Tanimura"
+msgid "Yeah, exactly."
+msgstr "Già, appunto."
+
+msgctxt "11112_Himeka"
+msgid "*sigh*"
+msgstr "*sospiro*"
+
+msgctxt "11124_Tanimura"
+msgid "What's wrong? You seem distant."
+msgstr "Cos'hai? Sembri pensierosa."
+
+msgctxt "11136_Himeka"
+msgid "Tanimura-san... I just dunno what to do..."
+msgstr "Tanimura-san... Non so proprio cosa fare..."
+
+msgctxt "11148_Tanimura"
+msgid "What's going on? Is that Kashiwabara guy bothering you again?"
+msgstr "Che succede? Quel Kashiwabara ti sta dando fastidio di nuovo?"
+
+msgctxt "11160_Himeka"
+msgid ""
+"I've been gettin' dozens of phone calls every day. When I answer, there's "
+"nobody there. And somebody keeps knockin' on my apartment door at dawn."
+msgstr ""
+"Mi arrivano decine e decine di telefonate ogni giorno. Quando rispondo, non c'è nessuno.\n"
+"E qualcuno continua a bussare alla porta del mio appartamento all'alba."
+
+msgctxt "11172_Himeka"
+msgid ""
+"And when I'm walkin' around the city... I swear there's somebody watchin' "
+"me."
+msgstr ""
+"E quando vado in giro per la città... ti giuro, c'è qualcuno che mi sta "
+"guardando."
+
+msgctxt "11184_Himeka"
+msgid "It's terrifyin'... What should I do?"
+msgstr "Fa una paura tremenda... Che devo fare?"
+
+msgctxt "11196_Tanimura"
+msgid "You think it's Kashiwabara?"
+msgstr "Pensi sia Kashiwabara?"
+
+msgctxt "11208_Himeka"
+msgid "I think so, but I don't have any proof."
+msgstr "Penso di sì, ma non ho nessuna prova."
+
+msgctxt "11220_Himeka"
+msgid "This is all so scary."
+msgstr "È tutto così spaventoso."
+
+msgctxt "11232_Tanimura"
+msgid "Has Kashiwabara been coming to the club lately?"
+msgstr "Kashiwabara si è fatto vivo al locale ultimamente?"
+
+msgctxt "11244_Himeka"
+msgid "No. He stopped comin' around when the phone calls started up."
+msgstr "No. Non si è più fatto vivo quando sono cominciate le telefonate."
+
+msgctxt "11256_Tanimura"
+msgid "I see..."
+msgstr "Capisco..."
+
+msgctxt "11268_Tanimura"
+msgid "Let me handle this. I can handle a stalker or two."
+msgstr "Lascia fare a me. Uno stalker o due, me li sbrigo io."
+
+msgctxt "11280_Himeka"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "11292_Himeka"
+msgid "But how?"
+msgstr "Ma come?"
+
+msgctxt "11304_Tanimura"
+msgid "Trust me, there are a lot of ways to investigate something like this."
+msgstr "Fidati, ci sono un sacco di modi per indagare una cosa del genere."
+
+msgctxt "11316_Himeka"
+msgid "Well, yeah, but..."
+msgstr "Beh, sì, ma..."
+
+msgctxt "11328_Himeka"
+msgid ""
+"I don't want you doing anythin' dangerous. If anything happened to you, I..."
+msgstr ""
+"Non voglio che tu faccia niente di pericoloso. Se ti succedesse qualcosa, "
+"io..."
+
+msgctxt "11340_Tanimura"
+msgid "Don't worry, I'll be fine. Don't look so sad."
+msgstr "Non ti preoccupare, me la caverò. Non fare quella faccia triste."
+
+msgctxt "11352_Himeka"
+msgid "Okay. <Color:7>♥<Color:Default>"
+msgstr "Va bene. <Color:7>♥<Color:Default>"
+
+msgctxt "11364_Tanimura"
+msgid ""
+"You should file a police report. It sounds like this is getting out of hand."
+msgstr ""
+"Dovresti sporgere denuncia. Sembra che la situazione stia sfuggendo di mano."
+
+msgctxt "11376_Tanimura"
+msgid ""
+"If they investigate your phone records, they'll find out who's calling you."
+msgstr ""
+"Se indagano sui tuoi tabulati telefonici, scopriranno chi ti sta chiamando."
+
+msgctxt "11388_Himeka"
+msgid ""
+"But even if I do submit a police report, they can't arrest the person right "
+"away, right?"
+msgstr ""
+"Ma anche se faccio una denuncia, non è che possono arrestare la persona "
+"così, su due piedi, no?"
+
+msgctxt "11400_Tanimura"
+msgid "Yeah, that's true."
+msgstr "Già, è vero."
+
+msgctxt "11412_Himeka"
+msgid ""
+"Then I don't think I'll report it. I don't wanna make the caller angry."
+msgstr ""
+"Allora, non credo che farò rapporto. Non voglio far incazzare chi ha "
+"chiamato."
+
+msgctxt "11424_Himeka"
+msgid "Who knows what might happen then..."
+msgstr "Chissà cosa potrebbe succedere poi..."
+
+msgctxt "11436_Tanimura"
+msgid "Still..."
+msgstr "Però..."
+
+msgctxt "11448_Himeka"
+msgid "But thanks for your help. Can I call you if anythin' does happen?"
+msgstr "Ma grazie per l'aiuto. Posso chiamarti se dovesse succedere qualcosa?"
+
+msgctxt "11460_Tanimura"
+msgid "Of course you can."
+msgstr "Certo che puoi."
+
+msgctxt "11472_Himeka"
+msgid ""
+"Okay. That makes me feel better than any police report. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Ok. Mi fa sentire meglio di qualsiasi rapporto di polizia. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "11484_Tanimura"
+msgid "Just wait until whoever it is gives up."
+msgstr "Aspetta solo che molli, chiunque sia."
+
+msgctxt "11496_Himeka"
+msgid "You don't think I should do anythin'?"
+msgstr "Pensi che non dovrei fare niente?"
+
+msgctxt "11508_Tanimura"
+msgid "Yeah. Maybe it'll solve itself with time."
+msgstr "Già. Magari si sistema col tempo."
+
+msgctxt "11520_Himeka"
+msgid "But what if they don't? What if they attack me or somethin'?"
+msgstr "Ma se poi non ci stanno? E se mi aggrediscono o roba del genere?"
+
+msgctxt "11532_Himeka"
+msgid ""
+"Don't you care about what happens to me? I can't believe you'd be so "
+"heartless."
+msgstr ""
+"Non ti interessa di quello che mi succede? Non ci posso credere che tu sia "
+"così senza cuore."
+
+msgctxt "11544_Tanimura"
+msgid "That's not what I meant."
+msgstr "Non è quello che intendevo."
+
+msgctxt "11556_Himeka"
+msgid "......"
+msgstr "......"
+
+msgctxt "11568_Himeka"
+msgid "I'm thinking about quittin' my job here and goin' back to Osaka."
+msgstr "Sto pensando di mollare il lavoro qui e tornarmene a Osaka."
+
+msgctxt "11580_Tanimura"
+msgid "What, seriously?"
+msgstr "Cosa, davvero?"
+
+msgctxt "11592_Himeka"
+msgid "Yeah. Kamurocho's a scary place."
+msgstr "Già. Kamurocho fa paura."
+
+msgctxt "11604_Himeka"
+msgid ""
+"My mother was madder than a cat in heat when I told her I was movin' here."
+msgstr ""
+"Mia madre era incazzata nera quando le ho detto che mi sarei trasferita qui."
+
+msgctxt "11616_Himeka"
+msgid ""
+"She said it was a terrible place. Not the kinda place where a girl like me "
+"should make a livin'."
+msgstr ""
+"Ha detto che era un posto orribile. Non il genere di posto dove una ragazza "
+"come me dovrebbe campare."
+
+msgctxt "11628_Tanimura"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "11640_Himeka"
+msgid "I thought she was overreactin', but now I know what she meant."
+msgstr "Pensavo che stesse esagerando, ma ora so cosa intendeva."
+
+msgctxt "11652_Himeka"
+msgid "What do you think I should do?"
+msgstr "Cosa pensi che dovrei fare?"
+
+msgctxt "11664_Tanimura"
+msgid ""
+"This is a decision you need to make on your own. I can't tell you what to "
+"do."
+msgstr ""
+"Questa è una decisione che devi prendere per conto tuo. Non posso dirti io "
+"cosa fare."
+
+msgctxt "11676_Tanimura"
+msgid ""
+"This decision could affect your entire life. I don't want you to do "
+"something you'll regret."
+msgstr ""
+"Questa decisione potrebbe influenzare tutta la tua vita.\\nNon voglio che tu"
+" faccia qualcosa di cui ti pentirai."
+
+msgctxt "11688_Himeka"
+msgid "......"
+msgstr "......"
+
+msgctxt "11700_Tanimura"
+msgid "Take your time. It's not an easy problem to solve."
+msgstr "Fai con calma. Non è un problema facile da risolvere."
+
+msgctxt "11712_Himeka"
+msgid ""
+"I think I just made my decision. I'm gonna stick it out for a little while "
+"longer."
+msgstr "Mi sa che ho appena deciso. Tirerò avanti ancora per un po'."
+
+msgctxt "11724_Himeka"
+msgid ""
+"I know I'd regret going home to Osaka now. And besides, you'll protect me, "
+"right? ♪"
+msgstr ""
+"So che me ne pentirei di tornare a Osaka ora. E poi, tu mi proteggerai, "
+"vero? ♪"
+
+msgctxt "11736_Tanimura"
+msgid "Definitely."
+msgstr "Assolutamente."
+
+msgctxt "11748_Himeka"
+msgid "Come on then, let's drink. <Color:7>♥<Color:Default>"
+msgstr "Dai su, beviamo. <Color:7>♥<Color:Default>"
+
+msgctxt "11760_Tanimura"
+msgid "Sounds good to me."
+msgstr "Mi va bene."
+
+msgctxt "11772_Tanimura"
+msgid "Wouldn't you regret it if you left now?"
+msgstr "Non te ne pentiresti mica se te ne andassi ora?"
+
+msgctxt "11784_Himeka"
+msgid "Yeah, I think I would."
+msgstr "Già, credo che lo farei."
+
+msgctxt "11796_Himeka"
+msgid "I'm used to life in Kamurocho. There are nice things here, too."
+msgstr ""
+"Sono abituata alla vita a Kamurocho.\n"
+"Ci sono anche cose belle qui."
+
+msgctxt "11808_Himeka"
+msgid ""
+"And if I went back to Osaka now, I'd miss you. That's one thing I'd "
+"definitely regret."
+msgstr ""
+"E se tornassi a Osaka adesso, mi mancheresti. Quella sarebbe l'unica cosa di"
+" cui mi pentirei di sicuro."
+
+msgctxt "11820_Tanimura"
+msgid "Then it's settled. You're staying. Just call me if you need anything."
+msgstr "Allora è deciso. Rimani. Chiamami pure se hai bisogno di qualcosa."
+
+msgctxt "11832_Himeka"
+msgid ""
+"Thank ya kindly, Tanimura-san. <Color:7>♥<Color:Default> And I was this "
+"close to goin' back to Osaka! ♪"
+msgstr ""
+"Ti ringrazio davvero, Tanimura-san. <Color:7>♥<Color:Default> E stavo quasi "
+"per tornare a Osaka! ♪"
+
+msgctxt "11844_Tanimura"
+msgid "No problem."
+msgstr "Nessun problema."
+
+msgctxt "11856_Tanimura"
+msgid "I'll walk you to the station."
+msgstr "Ti accompagno alla stazione."
+
+msgctxt "11868_Himeka"
+msgid "Oh... So you're not gonna stop me..."
+msgstr "Oh... Allora non mi fermi..."
+
+msgctxt "11880_Tanimura"
+msgid "You just said you're going back to Osaka."
+msgstr "Hai appena detto che te ne tornerai a Osaka."
+
+msgctxt "11892_Himeka"
+msgid "So you don't care if you can never see me again...?"
+msgstr "Quindi non te ne frega se non mi rivedrai mai più...?"
+
+msgctxt "11904_Tanimura"
+msgid "I didn't say that."
+msgstr "Non l'ho detto."
+
+msgctxt "11916_Himeka"
+msgid "Oh, never mind."
+msgstr "Oh, lascia perdere."
+
+msgctxt "11928_Tanimura"
+msgid ""
+"You should take some time off from the club and go on a trip. You need a "
+"break."
+msgstr ""
+"Dovresti staccare un po' dal club e farti un viaggio. Ti serve una pausa."
+
+msgctxt "11940_Himeka"
+msgid "Hmm. Maybe..."
+msgstr "Mmm. Forse..."
+
+msgctxt "11952_Himeka"
+msgid ""
+"I've been workin' for a year straight, and I've got some money saved up. A "
+"vacation might be nice."
+msgstr ""
+"Lavoro da un anno di fila, e ho messo via un po' di soldi. Una vacanza non "
+"sarebbe male."
+
+msgctxt "11964_Tanimura"
+msgid "That's a good idea."
+msgstr "È un'ottima idea."
+
+msgctxt "11976_Himeka"
+msgid "But where should I go? Where would you recommend, Tanimura-san?"
+msgstr "Ma dove potrei andare? Dove mi consiglieresti, Tanimura-san?"
+
+msgctxt "11988_Tanimura"
+msgid ""
+"If you've never been, I'd go to Korea. The food is great, and they have a "
+"lot of spas there, too."
+msgstr ""
+"Se non ci sei mai stato, andrei in Corea. Il cibo è ottimo, e ci sono anche "
+"un sacco di spa lì."
+
+msgctxt "12000_Himeka"
+msgid "Korea, huh? That's not a bad idea! ♪"
+msgstr "Corea, eh? Non è una cattiva idea! ♪"
+
+msgctxt "12012_Himeka"
+msgid ""
+"But I don't speak a word of Korean... And I'd be lonely there all by myself."
+msgstr ""
+"Ma non spiccico una parola di coreano... E sarei sola lì, tutta da sola."
+
+msgctxt "12024_Tanimura"
+msgid "Why don't I go with you as your interpreter?"
+msgstr "Che ne dici se ti accompagno io, come tuo interprete?"
+
+msgctxt "12036_Himeka"
+msgid "What? You speak Korean?"
+msgstr "Cosa? Parli coreano?"
+
+msgctxt "12048_Tanimura"
+msgid "And Chinese."
+msgstr "E cinese."
+
+msgctxt "12060_Himeka"
+msgid ""
+"A trip with you would be a lot of fun. <Color:7>♥<Color:Default> Can you get"
+" time off work?"
+msgstr ""
+"Un viaggio con te sarebbe uno sballo! <Color:7>♥<Color:Default> Riesci a "
+"prenderti del tempo libero dal lavoro?"
+
+msgctxt "12072_Tanimura"
+msgid "That's the problem. I don't have any vacation days left."
+msgstr "È quello il problema. Non ho più giorni di ferie."
+
+msgctxt "12084_Himeka"
+msgid "Hehehe. That's okay. Thanks for the offer."
+msgstr "Hehehe. Va bene così. Grazie dell'offerta."
+
+msgctxt "12096_Tanimura"
+msgid ""
+"Northern Japan can be fun. You could go out to Hokkaido and enjoy nature."
+msgstr ""
+"Il nord del Giappone, sai, può essere divertente. Potresti farti un giro ad "
+"Hokkaido e goderti la natura."
+
+msgctxt "12108_Himeka"
+msgid "Hokkaido, huh? I haven't been there since high school."
+msgstr "Hokkaido, eh? Non ci sono stato dalle superiori."
+
+msgctxt "12120_Himeka"
+msgid "I've even got a friend who lives up there. It might be relaxin'. ♪"
+msgstr "Ho persino un'amica che vive lassù. Magari sarebbe rilassante. ♪"
+
+msgctxt "12132_Himeka"
+msgid "Where should I go in Hokkaido?"
+msgstr "Dove dovrei andare ad Hokkaido?"
+
+msgctxt "12144_Tanimura"
+msgid "Well... There was a pretty bumpin' nightlife downtown."
+msgstr "Beh... C'era una vita notturna che tirava di brutto in centro."
+
+msgctxt "12156_Himeka"
+msgid ""
+"Oh, come on. You expect me to go all the way to Hokkaido to drink in some "
+"bar? How will that help me relax?"
+msgstr ""
+"Ma dai! Ti aspetti che vada fino ad Hokkaido solo per bermi qualcosa in un "
+"bar qualsiasi? Come diavolo dovrebbe aiutarmi a rilassarmi, così?"
+
+msgctxt "12168_Tanimura"
+msgid "Er, right."
+msgstr "Ah, già."
+
+msgctxt "12180_Tanimura"
+msgid "You like hot springs. Why not go to Hakone?"
+msgstr "Ti piacciono le terme. Perché non vai ad Hakone?"
+
+msgctxt "12192_Himeka"
+msgid ""
+"That's a great idea! ♪ And my mom could come with me. She'd enjoy that, "
+"doncha think?"
+msgstr ""
+"È una gran bella idea! ♪ E mia mamma potrebbe venire con me. Si "
+"divertirebbe, non credi?"
+
+msgctxt "12204_Tanimura"
+msgid "I thought you'd like that idea."
+msgstr "Pensavo ti piacesse quell'idea."
+
+msgctxt "12216_Himeka"
+msgid ""
+"Yep. And when I get back, I'll be even more beautiful thanks to the hot "
+"springs. ♪"
+msgstr "Già. E quando torno, sarò ancora più bella grazie alle terme. ♪"
+
+msgctxt "12228_Tanimura"
+msgid "You're plenty beautiful now."
+msgstr "Sei già bellissima, adesso."
+
+msgctxt "12240_Himeka"
+msgid "Aww, Tanimura-san! Why'd you have to be so honest?"
+msgstr "Ma dai, Tanimura-san! Perché dovevi essere così onesto?"
+
+msgctxt "12252_Tanimura"
+msgid "Heh. Well, I am a cop."
+msgstr "Eh. Beh, sono un sbirro."
+
+msgctxt "12264_Himeka"
+msgid "You know, my brother had a baby last year."
+msgstr "Sai, mio fratello ha avuto un bambino l'anno scorso."
+
+msgctxt "12276_Tanimura"
+msgid "Oh yeah?"
+msgstr "Ah sì?"
+
+msgctxt "12288_Himeka"
+msgid ""
+"I saw my niece for the first time when I went to Osaka for New Year's. She's"
+" so cute! ♪"
+msgstr ""
+"Ho visto mia nipote per la prima volta quando sono andata a Osaka per "
+"Capodanno. È così carina! ♪"
+
+msgctxt "12300_Himeka"
+msgid ""
+"I never wanted to get married. I thought I'd be fine by myself... but now I "
+"think I want to have a baby!"
+msgstr ""
+"Non ho mai voluto sposarmi. Pensavo di stare bene da sola... ma ora credo di"
+" volere un bambino!"
+
+msgctxt "12312_Tanimura"
+msgid "Maternal instincts kicking in?"
+msgstr "Ti stanno venendo gli istinti materni?"
+
+msgctxt "12324_Himeka"
+msgid ""
+"As much as I'd hate to admit it, that might be the case. I'd want a boy and "
+"a girl! ♪"
+msgstr ""
+"Anche se mi scoccia ammetterlo, potrebbe darsi. Vorrei un maschio e una "
+"femmina! ♪"
+
+msgctxt "12336_Himeka"
+msgid "What about you? Ever thought about gettin' hitched?"
+msgstr "E tu? Hai mai pensato di fare il grande passo?"
+
+msgctxt "12348_Tanimura"
+msgid ""
+"Not really, but I guess I'd like to settle down and raise a family someday."
+msgstr ""
+"Non proprio, ma, sai, credo che un giorno mi piacerebbe mettere la testa a "
+"posto e mettere su famiglia."
+
+msgctxt "12360_Himeka"
+msgid "Um... Can I ask you somethin' super embarrassin'?"
+msgstr "Ehm... Posso chiederti una cosa super imbarazzante?"
+
+msgctxt "12372_Tanimura"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "12384_Himeka"
+msgid "Um... Do you think I could ever be your wife?"
+msgstr "Uhm... Pensi che potrei mai essere tua moglie?"
+
+msgctxt "12396_Tanimura"
+msgid "Let's just worry about Kashiwabara for now."
+msgstr "Pensiamo a Kashiwabara per adesso."
+
+msgctxt "12408_Himeka"
+msgid "Yeah, okay. I wish everything would just go back to normal."
+msgstr "Sì, vabbè. Vorrei solo che tutto tornasse alla normalità."
+
+msgctxt "12420_Tanimura"
+msgid "It's all right. I'm here for you."
+msgstr "Va tutto bene. Ci sono io per te."
+
+msgctxt "12432_Himeka"
+msgid ""
+"All right, but you gotta promise you'll answer that question when this whole"
+" Kashiwabara thing is over."
+msgstr ""
+"Ok, però mi devi promettere che risponderai a quella domanda quando tutta "
+"'sta storia di Kashiwabara sarà finita."
+
+msgctxt "12444_Tanimura"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "12456_Tanimura"
+msgid "You can do much better than me."
+msgstr "Meriti di molto meglio di me."
+
+msgctxt "12468_Himeka"
+msgid "What? No, I could never find anyone as wonderful as you!"
+msgstr ""
+"Cosa? No, non potrei mai trovare nessuno di così meraviglioso come te!"
+
+msgctxt "12480_Tanimura"
+msgid "But I don't have any money. And I like to gamble."
+msgstr "Ma non c'ho una lira. E mi piace giocare."
+
+msgctxt "12492_Himeka"
+msgid "That doesn't matter. You're the most important person in my life."
+msgstr "Non importa. Sei la persona più importante della mia vita."
+
+msgctxt "12504_Himeka"
+msgid "I just want you to know that. <Color:7>♥<Color:Default>"
+msgstr "Voglio solo che tu lo sappia. <Color:7>♥<Color:Default>"
+
+msgctxt "12516_Tanimura"
+msgid "Heh. Am I, now?"
+msgstr "Eh. Lo sarei, io?"
+
+msgctxt "12528_Tanimura"
+msgid "Well, I don't know."
+msgstr "Beh, non lo so."
+
+msgctxt "12540_Himeka"
+msgid "What's that supposed to mean? You don't wanna be with me?"
+msgstr "Che intendi dire? Non vuoi stare con me?"
+
+msgctxt "12552_Tanimura"
+msgid ""
+"It's not that. But marriage...? I just want to stay single a bit longer."
+msgstr ""
+"Non è quello. Ma il matrimonio...? Voglio solo rimanere single ancora per un"
+" po'."
+
+msgctxt "12564_Himeka"
+msgid "Hmph! I never knew you were such a typical man!"
+msgstr "Hmph! Non pensavo proprio fossi il solito tipo!"
+
+msgctxt "12576_Tanimura"
+msgid "You don't have to get mad about it."
+msgstr "Non c'è bisogno che ti scaldi."
+
+msgctxt "12588_Himeka"
+msgid "I ain't mad! Just... Ugh, never mind!"
+msgstr "Non sono arrabbiato, eh! Solo... Uff, lascia perdere!"
+
+msgctxt "12600_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "12612_Himeka"
+msgid "I ran into one of my classmates from junior high the other day."
+msgstr "L'altro giorno ho incrociato un mio compagno delle medie."
+
+msgctxt "12624_Himeka"
+msgid ""
+"We talked about how long it had been since we'd last seen each other, and "
+"d'you know what he said?"
+msgstr ""
+"Abbiamo chiacchierato di quanto tempo era passato dall'ultima volta che ci "
+"eravamo visti, e sai cos'ha detto?"
+
+msgctxt "12636_Tanimura"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "12648_Himeka"
+msgid "\"Ya still got no sex appeal, do ya?\" Can you believe that!?"
+msgstr "Ancora zero sex appeal, eh? Riesci a crederci!?"
+
+msgctxt "12660_Himeka"
+msgid "What, haven't I grown since junior high?"
+msgstr "Beh, non sono mica cresciuta dalle medie?"
+
+msgctxt "12672_Himeka"
+msgid "D'you think I've got no sex appeal?"
+msgstr "Cioè, credi che non abbia sex appeal?"
+
+msgctxt "12684_Tanimura"
+msgid "Not having sex appeal makes you attractive."
+msgstr "Non avere sex appeal ti rende attraente."
+
+msgctxt "12696_Himeka"
+msgid "Huh!? How does having no sex appeal make me attractive!?"
+msgstr "Eh!? Come fa il non avere sex appeal a rendermi attraente!?"
+
+msgctxt "12708_Tanimura"
+msgid "Tryin' to be sexy all the time can be exhausting, you know."
+msgstr "Cercare di essere sexy in continuazione è una faticaccia, sai?"
+
+msgctxt "12720_Himeka"
+msgid "So I may not have sex appeal, but you like spending time with me?"
+msgstr ""
+"Quindi, magari non avrò sex appeal, ma ti piace passare il tempo con me?"
+
+msgctxt "12732_Tanimura"
+msgid "I'd say so."
+msgstr "Direi di sì."
+
+msgctxt "12744_Himeka"
+msgid "I'm not sure I buy that, but I guess I shouldn't overthink it."
+msgstr "Non me la bevo tanto, ma immagino che non dovrei pensarci troppo."
+
+msgctxt "12756_Tanimura"
+msgid "Yeah, don't worry so much."
+msgstr "Sì, tranquilla, non preoccuparti troppo."
+
+msgctxt "12768_Himeka"
+msgid ""
+"Okay, then. Wow. ♪ You actually made me feel better! You're pretty smooth! ♪"
+msgstr ""
+"Ok, allora. Wow. ♪ Mi hai davvero fatto sentire meglio! Ci sai proprio fare!"
+" ♪"
+
+msgctxt "12780_Tanimura"
+msgid ""
+"You could try a little harder. Your friend wouldn't say something like that "
+"for no reason."
+msgstr ""
+"Potresti metterci un po' più d'impegno. Il tuo amico non direbbe una cosa "
+"del genere senza un perché."
+
+msgctxt "12792_Himeka"
+msgid "So you really think I've got no sex appeal!?"
+msgstr "Allora, pensi davvero che non ho nessun sex appeal!?"
+
+msgctxt "12804_Himeka"
+msgid "I can't believe it! Waaah!"
+msgstr "Non ci posso credere! Nooo!"
+
+msgctxt "12816_Tanimura"
+msgid ""
+"Uh, no, no. I'm saying that with a little effort, you could be amazing."
+msgstr ""
+"No, no. Sto dicendo che con un po' di impegno, potresti essere fantastica."
+
+msgctxt "12828_Himeka"
+msgid "Huh? What do you mean?"
+msgstr "Eh? Cosa intendi?"
+
+msgctxt "12840_Tanimura"
+msgid ""
+"Um, well... Your makeup? If you changed your makeup, you could boost your "
+"sex appeal."
+msgstr ""
+"Ehm, beh... Il tuo trucco? Se lo cambiassi, potresti dare una bella spinta "
+"al tuo sex appeal."
+
+msgctxt "12852_Himeka"
+msgid "Bull! You're just tryin' to talk yer way out of a corner!"
+msgstr "Stronzate! Stai solo cercando di arrampicarti sugli specchi!"
+
+msgctxt "12864_Himeka"
+msgid ""
+"I'm sorry you've gotta spend time with a woman with no sex appeal! Hmph!"
+msgstr ""
+"Mi dispiace che ti tocca passare del tempo con una donna senza sex appeal! "
+"Hmph!"
+
+msgctxt "12876_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "12888_Tanimura"
+msgid "He's a fool. He's obviously got no taste in women."
+msgstr "È un idiota. È palese che non ha proprio occhio per le donne."
+
+msgctxt "12900_Himeka"
+msgid "Ya think so?"
+msgstr "La pensi così?"
+
+msgctxt "12912_Tanimura"
+msgid ""
+"Definitely. You've got plenty of attractive qualities. If he can't see them,"
+" it's his loss."
+msgstr ""
+"Assolutamente. Hai un sacco di belle qualità. Se non le vede, peggio per "
+"lui."
+
+msgctxt "12924_Himeka"
+msgid "But you can see these qualities, yeah? ♪"
+msgstr "Ma tu riesci a vedere queste qualità, vero? ♪"
+
+msgctxt "12936_Tanimura"
+msgid ""
+"Of course. Sex appeal is just a tiny part of what makes somebody attractive."
+msgstr ""
+"Certo. Il sex appeal è solo una piccola parte di quello che rende una "
+"persona attraente."
+
+msgctxt "12948_Himeka"
+msgid ""
+"Yeah. <Color:7>♥<Color:Default> You're a pretty smart guy, you know that? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Già. <Color:7>♥<Color:Default> Sei un tipo piuttosto sveglio, lo sai? "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "12960_Tanimura"
+msgid "Heh, thank you."
+msgstr "Eh, grazie."
+
+msgctxt "12972_Himeka"
+msgid "I really enjoy our time together. You're so easy to be with."
+msgstr ""
+"Mi piace un sacco passare il tempo insieme. Mi trovo così bene con te."
+
+msgctxt "12984_Himeka"
+msgid "When I'm with you, I remember how much I love servin' customers."
+msgstr ""
+"Quando sono con te, mi torna in mente quanto adoro prendermi cura dei "
+"clienti."
+
+msgctxt "12996_Tanimura"
+msgid "Is that right?"
+msgstr "È così?"
+
+msgctxt "13008_Himeka"
+msgid ""
+"Yep. I worked at my neighborhood convenience store when I was in high "
+"school."
+msgstr "Già. Ho lavorato al minimarket di quartiere quando ero al liceo."
+
+msgctxt "13020_Himeka"
+msgid ""
+"I remember how happy I was when one of our regulars said my smile helped him"
+" face the day."
+msgstr ""
+"Mi ricordo quanto ero felice quando uno dei nostri affezionati ha detto che "
+"il mio sorriso lo aiutava ad affrontare la giornata."
+
+msgctxt "13032_Himeka"
+msgid ""
+"Whenever a customer compliments me or smiles, it reminds me that I love "
+"helpin' people."
+msgstr ""
+"Ogni volta che un cliente mi fa un complimento o sorride, mi ricorda che "
+"adoro aiutare la gente."
+
+msgctxt "13044_Tanimura"
+msgid ""
+"Not everyone is cut out for that kind of thing. You've got a talent for it."
+msgstr "Non tutti sono tagliati per 'ste cose. Tu ci sai proprio fare."
+
+msgctxt "13056_Himeka"
+msgid "Talent? Ya think I've got talent?"
+msgstr "Talento? Dici che ce l'ho?"
+
+msgctxt "13068_Himeka"
+msgid "I always thought I didn't have any talents. Maybe I was wrong!"
+msgstr "Ho sempre pensato di non avere nessun talento. Magari mi sbagliavo!"
+
+msgctxt "13080_Himeka"
+msgid "That makes me feel good. It's a new discovery about myself. ♪"
+msgstr ""
+"Questo mi fa proprio sentire bene. È una cosa nuova che scopro di me. ♪"
+
+msgctxt "13092_Tanimura"
+msgid "You should be proud."
+msgstr "Dovresti esserne fiera."
+
+msgctxt "13104_Himeka"
+msgid ""
+"You're so nice! ♪ All right, I'll work even harder now!\r\n"
+"You'll see! <Color:7>♥<Color:Default>"
+msgstr ""
+"Sei un tesoro! ♪ Va bene, ora lavorerò ancora più sodo!\n"
+"Vedrai! <Color:7>♥<Color:Default>"
+
+msgctxt "13116_Tanimura"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "13128_Tanimura"
+msgid "You're good at dealing with customers, but you should try harder."
+msgstr "Sei brava coi clienti, ma dovresti darci dentro di più."
+
+msgctxt "13140_Himeka"
+msgid "What? Work harder than I already am? But I'm doin' my best!"
+msgstr "Come? Lavorare più di così? Ma io ce la metto tutta!"
+
+msgctxt "13152_Tanimura"
+msgid "Well... You could work on some things. The way you talk, for example."
+msgstr ""
+"Bè... Potresti lavorarci un po' su certe cose. Il modo in cui parli, per "
+"esempio."
+
+msgctxt "13164_Himeka"
+msgid "You don't like the way I talk?"
+msgstr "Non ti piace come parlo?"
+
+msgctxt "13176_Tanimura"
+msgid ""
+"I didn't say that, but sometimes it can be a bit too relaxed, you know?"
+msgstr ""
+"Non ho detto questo, ma a volte può essere un po' troppo rilassato, sai?"
+
+msgctxt "13188_Himeka"
+msgid "That's the first time anyone's said that to me. I'm kinda shocked..."
+msgstr ""
+"È la prima volta che me lo sento dire.\n"
+"Sono rimasta un po' di sasso..."
+
+msgctxt "13200_Tanimura"
+msgid "I'm just trying to help."
+msgstr "Cerco solo di dare una mano."
+
+msgctxt "13212_Himeka"
+msgid "I'll try to do better..."
+msgstr "Cercherò di fare meglio..."
+
+msgctxt "13224_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "13236_Tanimura"
+msgid "Maybe you should open up your own store."
+msgstr "Magari dovresti aprire un locale tuo."
+
+msgctxt "13248_Himeka"
+msgid "My own store!? I could never do somethin' like that."
+msgstr "Un locale mio!? Non ce la farei mai a fare una cosa del genere."
+
+msgctxt "13260_Tanimura"
+msgid "How can you know until you try?"
+msgstr "Come fai a saperlo se non provi?"
+
+msgctxt "13272_Himeka"
+msgid "Because I'm no good at math or keepin' track of money!"
+msgstr "Perché con la matematica sono una frana e non so gestire i soldi!"
+
+msgctxt "13284_Himeka"
+msgid "Besides, what kinda store would I open?"
+msgstr "E poi, che razza di negozio aprirei?"
+
+msgctxt "13296_Tanimura"
+msgid "Um... Maybe a children's clothing store? You must be good with kids."
+msgstr ""
+"Uhm... Magari un negozio di vestiti per bambini? Devi essere brava con i "
+"bambini."
+
+msgctxt "13308_Himeka"
+msgid ""
+"Huh. That's not a bad idea. ♪ I've just never thought about it before. ♪"
+msgstr ""
+"Ah. Non è affatto una cattiva idea, sai? Non ci avevo mai pensato prima."
+
+msgctxt "13320_Tanimura"
+msgid "See?"
+msgstr "Vedi?"
+
+msgctxt "13332_Himeka"
+msgid ""
+"I've been really into cookin' lately. I'm not so hopeless in the kitchen "
+"anymore! ♪"
+msgstr ""
+"Ultimamente mi sono proprio messa a cucinare un sacco. Non sono più così un "
+"disastro in cucina! ♪"
+
+msgctxt "13344_Tanimura"
+msgid "That's great."
+msgstr "Fantastico."
+
+msgctxt "13356_Himeka"
+msgid "Hehe. ♪ I've been workin' my way up to more difficult dishes."
+msgstr "Eheh. ♪ Mi sto cimentando con piatti sempre più difficili."
+
+msgctxt "13368_Himeka"
+msgid "Yesterday, I made stuffed cabbage, but..."
+msgstr "Ieri ho fatto il cavolo ripieno, ma..."
+
+msgctxt "13380_Tanimura"
+msgid "But?"
+msgstr "Ma?"
+
+msgctxt "13392_Himeka"
+msgid ""
+"Well, I spend so much time making food, but I've got no one to share it "
+"with."
+msgstr ""
+"Beh, passo un sacco di tempo a cucinare, ma non ho nessuno con cui "
+"condividerlo."
+
+msgctxt "13404_Tanimura"
+msgid ""
+"How about me? I'd love to try your cooking. If you don't mind, that is."
+msgstr ""
+"E io? Mi piacerebbe un sacco assaggiare la tua cucina. Se non ti dispiace, "
+"s'intende."
+
+msgctxt "13416_Himeka"
+msgid "Mind!? Of course I don't mind!"
+msgstr "Ma figurati!? Certo che no!"
+
+msgctxt "13428_Himeka"
+msgid ""
+"I'm so happy! ♪ But I can't make any promises about\r\n"
+"the food. ♪"
+msgstr "Sono così felice! ♪ Ma non posso fare promesse sul\\ncibo. ♪"
+
+msgctxt "13440_Tanimura"
+msgid "Well, you use a cookbook, right?"
+msgstr "Beh, usi un ricettario, giusto?"
+
+msgctxt "13452_Himeka"
+msgid ""
+"Oh no, I sorta throw everything together. I don't even taste test it, "
+"either."
+msgstr "Oh no, metto un po' tutto assieme. Non lo assaggio neanche."
+
+msgctxt "13464_Himeka"
+msgid "So, what should I make, Tanimura-san?"
+msgstr "Allora, cosa ti preparo, Tanimura-san?"
+
+msgctxt "13476_Tanimura"
+msgid "Um, maybe I'll pass."
+msgstr "Ehm, forse passo."
+
+msgctxt "13488_Tanimura"
+msgid "I'd like you to make me miso soup every morning."
+msgstr "Vorrei che tu mi facessi la zuppa di miso ogni mattina."
+
+msgctxt "13500_Himeka"
+msgid "What's that? Almost sounds like a marriage proposal."
+msgstr "Cos'è? Sembra quasi una proposta di matrimonio."
+
+msgctxt "13512_Tanimura"
+msgid "No, I just..."
+msgstr "No, io solo..."
+
+msgctxt "13524_Himeka"
+msgid ""
+"Besides, miso soup for breakfast every day? Hehehe, that's kinda old-school,"
+" doncha think? ♪"
+msgstr ""
+"E poi, zuppa di miso per colazione tutti i giorni? Hehehe, è un po' "
+"all'antica, non credi? ♪"
+
+msgctxt "13536_Tanimura"
+msgid "Never mind. Forget I said it."
+msgstr "Lascia stare. Dimentica quello che ho detto."
+
+msgctxt "13548_Himeka"
+msgid ""
+"I couldn't forget if I tried. ♪ Y'know, now that I think on it, I've never "
+"made miso soup."
+msgstr ""
+"Non riuscirei a dimenticare nemmeno provandoci. ♪ Sai, ora che ci penso, non"
+" ho mai fatto la zuppa di miso."
+
+msgctxt "13560_Himeka"
+msgid "Maybe I'll look into it for you. <Color:7>♥<Color:Default>"
+msgstr "Magari ci do un'occhiata per te. <Color:7>♥<Color:Default>"
+
+msgctxt "13572_Tanimura"
+msgid ""
+"I'm kind of a gourmet, actually. Do you think your cooking is good enough?"
+msgstr ""
+"A dire il vero, sono un po' un buongustaio. Credi che la tua cucina sia "
+"all'altezza?"
+
+msgctxt "13584_Himeka"
+msgid ""
+"Oh, come on. You're no gourmet. Ya look like the kind of guy who'd eat "
+"anythin'."
+msgstr ""
+"Ma dai. Tu non sei mica un buongustaio. Hai l'aria di uno che mangia "
+"qualsiasi cosa."
+
+msgctxt "13596_Himeka"
+msgid "I betcha eat fast food most of the time."
+msgstr "Scommetto che mangi quasi sempre al fast food."
+
+msgctxt "13608_Tanimura"
+msgid "Nope."
+msgstr "No."
+
+msgctxt "13620_Himeka"
+msgid "Heh, okay. What if I cooked ya somethin' terrible?"
+msgstr "Eh, va bene. E se ti cucinassi una schifezza?"
+
+msgctxt "13632_Tanimura"
+msgid "I'd say so. Honesty's the best policy."
+msgstr "Direi di sì. L'onestà è la migliore politica."
+
+msgctxt "13644_Himeka"
+msgid "Not always! You could try to pretend it's good!"
+msgstr "Non sempre! Potresti provare a far finta che vada bene!"
+
+msgctxt "13656_Himeka"
+msgid "Okay, fine! I'm not makin' you anythin'."
+msgstr "E va bene! Non ti preparo proprio niente."
+
+msgctxt "13668_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "13680_Himeka"
+msgid ""
+"My mom sometimes sends me emails. She's always like, \"Are you eating your "
+"veggies?\""
+msgstr ""
+"Mia mamma a volte mi manda delle email. È sempre lì che mi fa: 'Mangi le "
+"verdure?'"
+
+msgctxt "13692_Himeka"
+msgid ""
+"I'll always be a little girl to her. It's kinda sweet. I save all her "
+"messages."
+msgstr ""
+"Sarò sempre una bambina per lei. È quasi tenero. Salvo tutti i suoi "
+"messaggi."
+
+msgctxt "13704_Tanimura"
+msgid "Sounds like a good mother."
+msgstr "Sembra una brava madre."
+
+msgctxt "13716_Himeka"
+msgid "Yeah, but she's the typical Osakan mother. Equal parts pushy and nosy."
+msgstr "Già, ma è la solita mamma di Osaka. Tanto invadente quanto ficcanaso."
+
+msgctxt "13728_Himeka"
+msgid ""
+"I'd love to introduce ya to her someday. I'd tell her, here's this amazin' "
+"person I met in Kamurocho!"
+msgstr ""
+"Mi piacerebbe presentartela un giorno. Le direi: ecco qua una persona "
+"pazzesca che ho incontrato a Kamurocho!"
+
+msgctxt "13740_Tanimura"
+msgid "She wouldn't get mad at me, would she?"
+msgstr "Non si arrabbierebbe con me, vero?"
+
+msgctxt "13752_Himeka"
+msgid "Maybe! I am her little girl, after all! ♪"
+msgstr "Magari! Sono pur sempre la sua bambina, dopotutto! ♪"
+
+msgctxt "13764_Himeka"
+msgid ""
+"She's a hell of a talker, too. She could probably beat ya in an argument. ♪"
+msgstr ""
+"Anche lei c'ha una parlantina mica da ridere. Ti batterebbe pure a parole, "
+"probabilmente. ♪"
+
+msgctxt "13776_Himeka"
+msgid "Wanna give her a try?"
+msgstr "Vuoi provarci con lei?"
+
+msgctxt "13788_Tanimura"
+msgid "Uh, no thanks..."
+msgstr "Uh, no grazie..."
+
+msgctxt "13800_Himeka"
+msgid "Aww, hehe. But I wanna see you cryin' after you lose an argument! ♪"
+msgstr ""
+"Ah, ahah. Ma voglio vederti piangere dopo che perdi una discussione! ♪"
+
+msgctxt "13812_Tanimura"
+msgid "Gimme a break..."
+msgstr "Dammi un taglio..."
+
+msgctxt "13824_Tanimura"
+msgid ""
+"But really, she sounds interesting. I'd like to see what an Osakan mother is"
+" like."
+msgstr ""
+"Ma, a dire il vero, sembra interessante. Vorrei proprio vedere com'è una "
+"madre di Osaka."
+
+msgctxt "13836_Himeka"
+msgid ""
+"She'll talk yer ear off! Ya won't be able to stand it for more than a few "
+"minutes!"
+msgstr ""
+"Ti farà scoppiare le orecchie! Non la reggerai per più di qualche minuto!"
+
+msgctxt "13848_Himeka"
+msgid ""
+"I wonder if I'll be like that when I'm her age... Now that's a scary "
+"thought."
+msgstr ""
+"Chissà se sarò così alla sua età... Beh, questo sì che è un pensiero che "
+"mette i brividi."
+
+msgctxt "13860_Tanimura"
+msgid "I think you're well on your way already."
+msgstr "Penso che tu sia già a buon punto."
+
+msgctxt "13872_Himeka"
+msgid "Huh? Ya sayin' I babble like an old lady?"
+msgstr "Eh? Stai dicendo che blatero come una vecchia?"
+
+msgctxt "13884_Tanimura"
+msgid "Heh. Well, now and then."
+msgstr "Eh. Beh, ogni tanto."
+
+msgctxt "13896_Himeka"
+msgid ""
+"Now, that's not a very nice thing to say to a girl! Ugh, guess I gotta watch"
+" the way I talk..."
+msgstr ""
+"Ma dai, non si dice così a una ragazza!\n"
+"Uff, mi sa che devo stare più attenta a come parlo..."
+
+msgctxt "13908_Tanimura"
+msgid "I think I'll pass. I don't think I could stand up to her."
+msgstr "Passo, credo. Non credo di poterle tenere testa."
+
+msgctxt "13920_Himeka"
+msgid "You're probably right about that. She's one tough cookie. ♪"
+msgstr "Probabilmente hai ragione su questo. È una tipa tosta. ♪"
+
+msgctxt "13932_Himeka"
+msgid ""
+"But my mom still likes handsome young men, even at her age. In fact, you're "
+"just her type."
+msgstr ""
+"Ma a mia mamma piacciono ancora i bei ragazzi giovani, pure alla sua età. "
+"Anzi, sei proprio il suo tipo."
+
+msgctxt "13944_Tanimura"
+msgid "Then you'd better be careful she doesn't steal me away from you."
+msgstr "Allora, stai attenta che non mi soffi via da te."
+
+msgctxt "13956_Himeka"
+msgid ""
+"A love triangle with my mom? Oh, I could never beat her! I'd just give up. ♪"
+msgstr ""
+"Un triangolo amoroso con mia mamma? Oh, non potrei mai batterla! Mi "
+"arrenderei e basta. ♪"
+
+msgctxt "13968_Tanimura"
+msgid "Hey now..."
+msgstr "Ehi, ehi..."
+
+msgctxt "13980_Himeka"
+msgid "Do ya have a dream, Tanimura-san?"
+msgstr "Ce l'hai un sogno, Tanimura-san?"
+
+msgctxt "13992_Tanimura"
+msgid "Hmm. Maybe getting a perfect hand in mahjong."
+msgstr "Mmm. Forse fare una mano perfetta a mahjong."
+
+msgctxt "14004_Himeka"
+msgid "Really? That's a funny kind of dream!"
+msgstr "Davvero? Che sogno buffo!"
+
+msgctxt "14016_Tanimura"
+msgid "You think so?"
+msgstr "La pensi così?"
+
+msgctxt "14028_Himeka"
+msgid ""
+"My dream is to live in Hawaii when I get old. ♪ I wanna look out at the "
+"ocean every day with my hubby. ♪"
+msgstr ""
+"Il mio sogno è vivere alle Hawaii quando sarò vecchia. ♪ Voglio guardare "
+"l'oceano ogni giorno con il mio maritino. ♪"
+
+msgctxt "14040_Himeka"
+msgid "Wouldn't that be nice? I've already started savin' for it."
+msgstr ""
+"Non sarebbe fantastico? Ho già iniziato a mettere via i soldi per quello."
+
+msgctxt "14052_Tanimura"
+msgid "That's surprisingly practical of you."
+msgstr "Beh, per essere te, è sorprendentemente pratico."
+
+msgctxt "14064_Himeka"
+msgid ""
+"What's surprisin' about that? I've been savin' money ever since high school!"
+" ♪"
+msgstr "Che c'è di strano? Ho messo via soldi fin dalle superiori! ♪"
+
+msgctxt "14076_Himeka"
+msgid ""
+"And when the time comes, I'm gonna use it all! I just gotta be patient till "
+"then."
+msgstr ""
+"E quando sarà il momento, lo userò tutto! Devo solo pazientare fino ad "
+"allora."
+
+msgctxt "14088_Himeka"
+msgid ""
+"Ya don't look like much of a saver yerself. How much ya got in the bank?"
+msgstr ""
+"Non hai mica l'aria di uno che risparmia, eh, tu. Quanti soldi c'hai in "
+"banca?"
+
+msgctxt "14100_Tanimura"
+msgid "That's a secret."
+msgstr "È un segreto."
+
+msgctxt "14112_Himeka"
+msgid ""
+"Hehe. Ya say that, but I bet there ain't much but moths and dust in there."
+msgstr ""
+"Hehe. Lo dici tu, ma scommetto che lì dentro non c'è altro che tarme e "
+"polvere."
+
+msgctxt "14124_Himeka"
+msgid "Whoever marries you is gonna have a bad time. ♪"
+msgstr "Chiunque ti sposi, se la passerà male. ♪"
+
+msgctxt "14136_Tanimura"
+msgid "Do they have horse racing in Hawaii?"
+msgstr "Hanno le corse dei cavalli alle Hawaii?"
+
+msgctxt "14148_Himeka"
+msgid "What!? You'd go all the way to Hawaii just to bet on the horses!?"
+msgstr "Cosa!? Andresti fino alle Hawaii solo per scommettere sui cavalli!?"
+
+msgctxt "14160_Tanimura"
+msgid ""
+"Racing is even more exciting than mahjong. I'd love to win thousands, no, "
+"millions on a race."
+msgstr ""
+"Le corse sono molto più emozionanti del mahjong. Mi piacerebbe vincere "
+"migliaia, anzi, milioni su una corsa."
+
+msgctxt "14172_Himeka"
+msgid ""
+"Ya gotta have a more practical dream. You'll never win millions on a horse "
+"race!"
+msgstr ""
+"Ti ci vuole un sogno più pratico. Non farai mai milioni alle corse dei "
+"cavalli!"
+
+msgctxt "14184_Tanimura"
+msgid "Don't say that! You'll jinx me!"
+msgstr "Non dire così! Mi gufi!"
+
+msgctxt "14196_Himeka"
+msgid "Yeesh, sorry. I never should'a brought it up."
+msgstr "Accidenti, scusa. Non avrei mai dovuto parlarne."
+
+msgctxt "14208_Tanimura"
+msgid "You can speak English?"
+msgstr "Sai parlare inglese?"
+
+msgctxt "14220_Himeka"
+msgid "Nope. I barely passed English in school."
+msgstr "No. L'inglese l'ho strisciato a scuola."
+
+msgctxt "14232_Tanimura"
+msgid "Wouldn't that be inconvenient in Hawaii?"
+msgstr "Non sarebbe un casino alle Hawaii?"
+
+msgctxt "14244_Himeka"
+msgid ""
+"Oh, I'll figure somethin' out. A cute girl like me should have no problem "
+"gettin' by. ♪"
+msgstr ""
+"Oh, mi inventerò qualcosa. Una ragazza carina come me non avrà problemi a "
+"cavarsela. ♪"
+
+msgctxt "14256_Tanimura"
+msgid "Even when you're an old lady?"
+msgstr "Anche quando sarai una vecchietta?"
+
+msgctxt "14268_Himeka"
+msgid "Of course! ♪ I'll be a cute cutie till the day I die!"
+msgstr "Ma certo! ♪ Sarò una bambolina carina fino alla morte!"
+
+msgctxt "14280_Himeka"
+msgid "That won't change just 'cause I went to Hawaii!"
+msgstr "Non cambierà mica solo perché sono andata alle Hawaii!"
+
+msgctxt "14292_Tanimura"
+msgid "At least you're confident."
+msgstr "Almeno sei sicura di te."
+
+msgctxt "14304_Himeka"
+msgid ""
+"I've been thinkin'. It'd be nice to have a boyfriend like you. "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Ci pensavo... Sarebbe bello avere un fidanzato come te. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "14316_Himeka"
+msgid ""
+"You're handsome, dependable, and kind. If ya had a better sense of humor, "
+"you'd be perfect. <Color:7>♥<Color:Default>"
+msgstr ""
+"Sei bello, affidabile e gentile. Se avessi un miglior senso dell'umorismo, "
+"saresti perfetto. <Color:7>♥<Color:Default>"
+
+msgctxt "14328_Tanimura"
+msgid "Sorry I'm so boring."
+msgstr "Scusa se sono così noiosa."
+
+msgctxt "14340_Himeka"
+msgid "See, that's what I'm talking' about! That was a joke! ♪"
+msgstr "Vedi? È proprio questo che intendevo! Era uno scherzo! ♪"
+
+msgctxt "14352_Tanimura"
+msgid "......"
+msgstr "......"
+
+msgctxt "14364_Himeka"
+msgid "If we did start goin' out, where would ya take me on our first date?"
+msgstr ""
+"Se iniziassimo a uscire insieme, dove mi porteresti al nostro primo "
+"appuntamento?"
+
+msgctxt "14376_Tanimura"
+msgid ""
+"We'd go on a drive along the coast, and then we'd have dinner at a scenic "
+"restaurant."
+msgstr ""
+"Andremmo a farci un giro in macchina lungo la costa, e poi ceneremmo in un "
+"ristorante panoramico."
+
+msgctxt "14388_Himeka"
+msgid "Ooh! That sounds nice! And then what?"
+msgstr "Oh! Che bello! E poi?"
+
+msgctxt "14400_Tanimura"
+msgid ""
+"Then we'd go to a spot I know of where the night skyline is just beautiful."
+msgstr ""
+"Poi andremmo in un posto che conosco dove lo skyline notturno è "
+"semplicemente magnifico."
+
+msgctxt "14412_Himeka"
+msgid "Wow, so romantic! <Color:7>♥<Color:Default>"
+msgstr "Wow, che romantico! <Color:7>♥<Color:Default>"
+
+msgctxt "14424_Tanimura"
+msgid "And I'll leave the rest to your imagination."
+msgstr "E lascerò il resto alla tua immaginazione."
+
+msgctxt "14436_Himeka"
+msgid ""
+"Oh, you naughty boy! <Color:7>♥<Color:Default> If we do have that first "
+"date, I'll hold ya to all of that! ♪"
+msgstr ""
+"Oh, birbone! <Color:7>♥<Color:Default> Se faremo quel primo appuntamento, ti"
+" prenderò in parola su tutto questo! ♪"
+
+msgctxt "14448_Tanimura"
+msgid "We'd take the train to Nagano."
+msgstr "Prenderemmo il treno per Nagano."
+
+msgctxt "14460_Himeka"
+msgid "Nagano? Why go all the way out there?"
+msgstr "Nagano? Perché farsi tutta quella strada?"
+
+msgctxt "14472_Tanimura"
+msgid ""
+"They've got the best noodles there. You just can't get them like that in the"
+" city."
+msgstr "Lì hanno i migliori ramen. Non li trovi così in città."
+
+msgctxt "14484_Himeka"
+msgid "Wow, I didn't think you'd go for somethin' like that. ♪"
+msgstr "Wow, non pensavo ti saresti buttata su una cosa del genere. ♪"
+
+msgctxt "14496_Tanimura"
+msgid "Then we'd take a nice walk in the mountains."
+msgstr "Poi faremmo una bella passeggiata in montagna."
+
+msgctxt "14508_Himeka"
+msgid "That sounds nice and healthy. ♪ Then what?"
+msgstr "Ah, sembra una cosa bella e sana. ♪ E poi?"
+
+msgctxt "14520_Tanimura"
+msgid "Then we'd come back to Tokyo."
+msgstr "Poi saremmo tornati a Tokyo."
+
+msgctxt "14532_Himeka"
+msgid "Huh? Just eat noodles and walk in the woods?"
+msgstr "Eh? Solo mangiare noodles e fare due passi nei boschi?"
+
+msgctxt "14544_Tanimura"
+msgid "Sure. What's wrong with that?"
+msgstr "Certo. E che c'è di male?\\n"
+
+msgctxt "14556_Himeka"
+msgid "Nothing, just... Oh, never mind."
+msgstr "Niente, solo... Oh, lascia stare."
+
+msgctxt "14568_Tanimura"
+msgid "We'd take a stroll in a nearby park."
+msgstr "Ci faremmo un giretto in un parco qui vicino."
+
+msgctxt "14580_Himeka"
+msgid "Yeah. I could get up early and make a picnic lunch for us."
+msgstr "Sì. Potrei alzarmi presto e preparare un pranzo al sacco per noi."
+
+msgctxt "14592_Tanimura"
+msgid ""
+"And we wouldn't do anything in particular. Just lay back and talk. Maybe do "
+"some reading."
+msgstr ""
+"E non faremmo niente di particolare. Solo a metterci comodi e chiacchierare."
+" Magari leggere qualcosa."
+
+msgctxt "14604_Himeka"
+msgid ""
+"Y'know, that sounds nice. I don't need fancy hotels or anythin' like that."
+msgstr "Sai, suona bene. Non ho bisogno di hotel di lusso o roba del genere."
+
+msgctxt "14616_Himeka"
+msgid "I'm happy doin' everyday stuff."
+msgstr "Sono felice a fare le cose di tutti i giorni."
+
+msgctxt "14628_Tanimura"
+msgid "Me too."
+msgstr "Anch'io."
+
+msgctxt "14640_Himeka"
+msgid ""
+"You and I have a lot in common! I'll be lookin' forward to that picnic in "
+"the park someday! ♪"
+msgstr ""
+"Tu ed io abbiamo un sacco di cose in comune! Non vedo l'ora di fare quel "
+"picnic al parco un giorno! ♪"
+
+msgctxt "14652_Himeka"
+msgid "*sigh*"
+msgstr "*sospiro*"
+
+msgctxt "14664_Tanimura"
+msgid "What's wrong? The issue's been resolved, right?"
+msgstr "Che c'è? Il problema è risolto, no?"
+
+msgctxt "14676_Himeka"
+msgid ""
+"I've never yelled like that in my entire life. My heart was beatin' so "
+"fast..."
+msgstr ""
+"Non ho mai urlato così in tutta la mia vita. Il mio cuore batteva così "
+"forte..."
+
+msgctxt "14688_Tanimura"
+msgid "I see..."
+msgstr "Capisco..."
+
+msgctxt "14700_Himeka"
+msgid "But it made me feel better. Yellin' can be a release, y'know? ♪"
+msgstr "Ma mi ha fatto sentire meglio. Urlare può essere uno sfogo, sai? ♪"
+
+msgctxt "14712_Himeka"
+msgid "And it's all thanks to you, Tanimura-san. <Color:7>♥<Color:Default>"
+msgstr "Ed è tutto merito tuo, Tanimura-san. <Color:7>♥<Color:Default>"
+
+msgctxt "14724_Tanimura"
+msgid "You've really grown, Himeka."
+msgstr "Sei proprio cresciuta, Himeka."
+
+msgctxt "14736_Himeka"
+msgid "Why do you say that?"
+msgstr "Perché dici così?"
+
+msgctxt "14748_Tanimura"
+msgid ""
+"Self-control is important, but sometimes you have to let go. And you knew "
+"when to do that."
+msgstr ""
+"Sapersi controllare è importante, ma a volte devi lasciarti andare. E tu "
+"sapevi quando farlo."
+
+msgctxt "14760_Himeka"
+msgid "Yeah. And now I know what it feels like to be furious at someone."
+msgstr "Già. E ora so cosa si prova a essere furioso con qualcuno."
+
+msgctxt "14772_Himeka"
+msgid ""
+"Maybe I really am growin'. ♪ Heh, do you think it makes me more attractive "
+"as a woman?"
+msgstr ""
+"Forse sto davvero crescendo. ♪ Heh, credi che mi renda più attraente come "
+"donna?"
+
+msgctxt "14784_Tanimura"
+msgid "Heh. Maybe."
+msgstr "Eh. Forse."
+
+msgctxt "14796_Himeka"
+msgid ""
+"Ah well! I feel ready to face work again. Hope that means seein' ya more "
+"often, Tanimura-san! ♪"
+msgstr ""
+"Beh! Mi sento pronta ad affrontare di nuovo il lavoro. Spero che significhi "
+"vederti più spesso, Tanimura-san! ♪"
+
+msgctxt "14808_Tanimura"
+msgid "Heh, I'll see what I can do."
+msgstr "Eh, vedo cosa riesco a combinare."
+
+msgctxt "14820_Tanimura"
+msgid "It was impressive."
+msgstr "Era impressionante."
+
+msgctxt "14832_Himeka"
+msgid "Ya really think so? I hardly knew what I was sayin', I was so mad."
+msgstr ""
+"Lo pensi davvero? Non sapevo neanche cosa stessi dicendo, ero così "
+"arrabbiata."
+
+msgctxt "14844_Himeka"
+msgid "Maybe I could make it as an actress! D'ya think I've got talent?"
+msgstr "Magari potrei sfondare come attrice! Che dici, ho talento?"
+
+msgctxt "14856_Tanimura"
+msgid "Heh. Don't let your head get too inflated now."
+msgstr "Heh. Non montarti troppo la testa ora."
+
+msgctxt "14868_Himeka"
+msgid ""
+"But seein' this new side of me made ya fall for me all over again, right?"
+msgstr ""
+"Ma vedendo questo mio nuovo lato, ti ho fatto innamorare di nuovo di me, "
+"vero?"
+
+msgctxt "14880_Tanimura"
+msgid "Maybe, maybe..."
+msgstr "Magari, magari..."
+
+msgctxt "14892_Himeka"
+msgid "Really!? Oh, I think I'm blushin'... <Color:7>♥<Color:Default>"
+msgstr "Davvero!? Oh, credo di star arrossendo... <Color:7>♥<Color:Default>"
+
+msgctxt "14904_Tanimura"
+msgid "Yeah, you should be grateful."
+msgstr "Già, dovresti essere grato."
+
+msgctxt "14916_Himeka"
+msgid "Yeah. I'm sorry. I've caused ya a whole lotta trouble, haven't I?"
+msgstr "Già. Mi dispiace. Ti ho causato un sacco di guai, non è vero?"
+
+msgctxt "14928_Tanimura"
+msgid "You've got that right."
+msgstr "Hai proprio ragione."
+
+msgctxt "14940_Himeka"
+msgid "Um... Tanimura-san... Do you hate me now?"
+msgstr "Ehm... Tanimura-san... Mi odi, adesso?"
+
+msgctxt "14952_Tanimura"
+msgid ""
+"No... And if you ever run into trouble, just let me know. I'll come running."
+msgstr ""
+"No... E se mai ti trovassi nei guai, fammelo solo sapere. Correrò da te."
+
+msgctxt "14964_Himeka"
+msgid "Really!? See, that's why I like ya so much! <Color:7>♥<Color:Default>"
+msgstr ""
+"Davvero!? Vedi, è per questo che mi piaci così tanto! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "14976_Himeka"
+msgid "Come see me again, won't ya, darlin'? <Color:7>♥<Color:Default>"
+msgstr "Torna a trovarmi, eh, tesoro? <Color:7>♥<Color:Default>"
+
+msgctxt "14988_Himeka"
+msgid "Switch camera 0."
+msgstr "Cambia telecamera 0."
+
+msgctxt "15000_Himeka"
+msgid "Switch camera 1."
+msgstr "Cambia telecamera 1."
+
+msgctxt "15012_Himeka"
+msgid "Switch camera 2."
+msgstr "Cambia telecamera 2."
+
+msgctxt "15024_Himeka"
+msgid "Back to default."
+msgstr "Si torna alla normalità."
+
+msgctxt "15036_Himeka"
+msgid "Switch camera 0."
+msgstr "Cambia telecamera 0."
+
+msgctxt "15048_Himeka"
+msgid "Switch camera 1."
+msgstr "Cambia telecamera 1."
+
+msgctxt "15060_Himeka"
+msgid "Switch camera 2."
+msgstr "Cambia telecamera 2."
+
+msgctxt "15072_Himeka"
+msgid "Back to default."
+msgstr "Si torna alla normalità."
+
+msgctxt "15096_Himeka"
+msgid "You're here. <Color:7>♥<Color:Default>"
+msgstr "Sei qui. <Color:7>♥<Color:Default>"
+
+msgctxt "15132_Himeka"
+msgid "Welcome! <Color:7>♥<Color:Default>"
+msgstr "Benvenuto! <Color:7>♥<Color:Default>"
+
+msgctxt "15144_Himeka"
+msgid "Here ya are. <Color:7>♥<Color:Default>"
+msgstr "Ecco a te. <Color:7>♥<Color:Default>"
+
+msgctxt "15156_Himeka"
+msgid "You came just to see me? I'm touched!"
+msgstr "Sei venuto solo per vedermi? Sono commossa!"
+
+msgctxt "15168_Himeka"
+msgid "Thanks for your help the other day. I'm sorry if I worried ya."
+msgstr "Grazie per l'aiuto l'altro giorno. Mi dispiace se ti ho preoccupato."
+
+msgctxt "15180_Himeka"
+msgid "Tanimura-san... I was waitin' for our date, but ya never came..."
+msgstr ""
+"Tanimura-san... Stavo aspettando il nostro appuntamento, ma non sei mai "
+"venuto..."
+
+msgctxt "15192_Himeka"
+msgid ""
+"Too bad it didn't work out last time, Tanimura-san. Let's hang out again, "
+"okay?"
+msgstr ""
+"Che peccato che non sia andata in porto l'ultima volta, Tanimura-san. Dai, "
+"vediamoci di nuovo, che dici?"
+
+msgctxt "15204_Himeka"
+msgid "Tanimura-san... I was looking forward to bein' yer escort..."
+msgstr "Tanimura-san... Non vedevo l'ora di farti da accompagnatrice..."
+
+msgctxt "15216_Himeka"
+msgid ""
+"Too bad it didn't work out last time, Tanimura-san. Let's hang out again, "
+"okay?"
+msgstr ""
+"Che peccato che non sia andata in porto l'ultima volta, Tanimura-san. Dai, "
+"vediamoci di nuovo, che dici?"
+
+msgctxt "15228_Himeka"
+msgid "Let me introduce myself properly. I'm Himeka. Pleased to meetcha."
+msgstr "Mi presento come si deve. Sono Himeka. Piacere di conoscerti."
+
+msgctxt "15240_Tanimura"
+msgid "Likewise."
+msgstr "Anche per me."
+
+msgctxt "15252_Himeka"
+msgid "You're back again, I see. <Color:7>♥<Color:Default>"
+msgstr "Sei di nuovo qui, vedo. <Color:7>♥<Color:Default>"
+
+msgctxt "15264_Himeka"
+msgid "Let's take it easy tonight, yeah?"
+msgstr "Prendiamocela comoda stasera, eh?"
+
+msgctxt "15276_Himeka"
+msgid "Please enjoy yerself. <Color:7>♥<Color:Default>"
+msgstr "Si diverta pure. <Color:7>♥<Color:Default>"
+
+msgctxt "15288_Himeka"
+msgid "Let's take it easy tonight, yeah?"
+msgstr "Prendiamocela comoda stasera, eh?"
+
+msgctxt "15300_Himeka"
+msgid "Thanks for goin' out with me, Tanimura-san. <Color:7>♥<Color:Default>"
+msgstr ""
+"Grazie per essere uscito con me, Tanimura-san. <Color:7>♥<Color:Default>"
+
+msgctxt "15312_Himeka"
+msgid "Whenever you feel up to it, let's go on another date."
+msgstr "Quando te la senti, andiamo a un altro appuntamento."
+
+msgctxt "15324_Himeka"
+msgid "Whenever you feel up to it, let's go on another date."
+msgstr "Quando te la senti, andiamo a un altro appuntamento."
+
+msgctxt "15336_Himeka"
+msgid "I had fun on our date. <Color:7>♥<Color:Default>"
+msgstr "Mi sono divertita al nostro appuntamento. <Color:7>♥<Color:Default>"
+
+msgctxt "15348_Himeka"
+msgid "Will you take me out again sometime?"
+msgstr "Mi porteresti fuori ancora, una di queste volte?"
+
+msgctxt "15360_Himeka"
+msgid "Will ya take me out again sometime?"
+msgstr "Mi porti fuori di nuovo, prima o poi?"
+
+msgctxt "15372_Himeka"
+msgid ""
+"Yer lookin' especially nice today, Tanimura-san. <Color:7>♥<Color:Default>"
+msgstr ""
+"Sei particolarmente in forma oggi, Tanimura-san. <Color:7>♥<Color:Default>"
+
+msgctxt "15384_Himeka"
+msgid "Well aren't you dressed up today."
+msgstr "Ma guarda, sei tutto in tiro oggi!"
+
+msgctxt "15396_Himeka"
+msgid "Ya always dress the same, don't ya, Tanimura-san?"
+msgstr "Ti vesti sempre uguale, no, Tanimura-san?"
+
+msgctxt "15408_Himeka"
+msgid "Ya may wanna rethink that outfit, Tanimura-san..."
+msgstr "Magari ripensaci a quel completo, Tanimura-san..."
+
+msgctxt "15420_Himeka"
+msgid ""
+"Yer not lookin' so hot today, Tanimura-san... Maybe you should dress up a "
+"bit more?"
+msgstr ""
+"Non hai una gran cera oggi, Tanimura-san... Non dovresti vestirti un po' "
+"meglio?"
+
+msgctxt "15432_Himeka"
+msgid "Ya smell real nice today, Tanimura-san. <Color:7>♥<Color:Default>"
+msgstr "Profuma proprio bene oggi, Tanimura-san. <Color:7>♥<Color:Default>"
+
+msgctxt "15444_Himeka"
+msgid "What!? Are ya serious!? Is this really for me!?"
+msgstr "Ma che!? Dici sul serio!? Ma è davvero per me!?"
+
+msgctxt "15456_Himeka"
+msgid "I always wanted one of these! <Color:7>♥<Color:Default>"
+msgstr "Ho sempre voluto uno di questi! <Color:7>♥<Color:Default>"
+
+msgctxt "15468_F_cab_sitsofa_tlk_happy"
+msgid "Thank you so much."
+msgstr "Grazie infinite."
+
+msgctxt "15480_Himeka"
+msgid "Is that for me?"
+msgstr "È per me?"
+
+msgctxt "15492_F_cab_sitsofa_tlk_happy"
+msgid "How nice! <Color:7>♥<Color:Default>"
+msgstr "Ma che bello! <Color:7>♥<Color:Default>"
+
+msgctxt "15504_Himeka"
+msgid "Is that for me?"
+msgstr "È per me?"
+
+msgctxt "15528_Himeka"
+msgid "Wait, what the hell?"
+msgstr "Ma aspetta, che diavolo?"
+
+msgctxt "15540_F_cab_sitsofa_tlk_noA"
+msgid "That's kinda weird for a present."
+msgstr "È un po' strano come regalo."
+
+msgctxt "15552_Himeka"
+msgid "Wait, what the hell?"
+msgstr "Ma aspetta, che diavolo?"
+
+msgctxt "15564_F_cab_sitsofa_tlk_angry"
+msgid "This is awful..."
+msgstr "È uno schifo..."
+
+msgctxt "15576_Himeka"
+msgid "You already gave me one of those."
+msgstr "Me ne hai già dato uno."
+
+msgctxt "15588_Himeka"
+msgid "Did ya forget?"
+msgstr "Ti sei scordato?"
+
+msgctxt "15600_Himeka"
+msgid "What!? Are ya serious!? Is this really for me!?"
+msgstr "Ma che!? Dici sul serio!? Ma è davvero per me!?"
+
+msgctxt "15612_Himeka"
+msgid ""
+"I use this all the time! I love how it smells. So nice and sweet! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Lo uso un sacco! Adoro come profuma. È così buono e dolce! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "15624_Himeka"
+msgid "Thank you! ♪"
+msgstr "Grazie! ♪"
+
+msgctxt "15636_Himeka"
+msgid "Do ya wanna order somethin'?"
+msgstr "Vuoi ordinare qualcosa?"
+
+msgctxt "15660_Player"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "15672_Himeka"
+msgid "Huh? Ya don't want anythin'?"
+msgstr "Eh? Non vuoi niente?"
+
+msgctxt "15684_Himeka"
+msgid "Would ya like another drink?"
+msgstr "Ti va un altro drink?"
+
+msgctxt "15708_Player"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "15720_Himeka"
+msgid "You really don't want anythin' else?"
+msgstr "Non vuoi proprio nient'altro?"
+
+msgctxt "15732_Himeka"
+msgid "Oh, I love that!"
+msgstr "Oh, lo adoro!"
+
+msgctxt "15744_Himeka"
+msgid "It's so tasty! <Color:7>♥<Color:Default>"
+msgstr "È buonissimo! <Color:7>♥<Color:Default>"
+
+msgctxt "15756_Himeka"
+msgid "Very well. <Color:7>♥<Color:Default>"
+msgstr "Molto bene. <Color:7>♥<Color:Default>"
+
+msgctxt "15768_Himeka"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "15780_Himeka"
+msgid "You really want that?"
+msgstr "Lo vuoi davvero?"
+
+msgctxt "15792_Himeka"
+msgid "Well, okay..."
+msgstr "Beh, va bene..."
+
+msgctxt "15804_Himeka"
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgctxt "15816_Himeka"
+msgid "I was thinkin' you were a little more... bold."
+msgstr "Pensavo che fossi un po' più... tosta."
+
+msgctxt "15828_Himeka"
+msgid "Ya want somethin' to eat?"
+msgstr "Vuoi qualcosa da mangiare?"
+
+msgctxt "15852_Player"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "15864_Himeka"
+msgid "You ain't hungry?"
+msgstr "Non hai mica fame?"
+
+msgctxt "15876_Himeka"
+msgid "How about some food?"
+msgstr "Che ne dici di mangiare qualcosa?"
+
+msgctxt "15900_Player"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "15912_Himeka"
+msgid "Are you full already?"
+msgstr "Sei già pieno?"
+
+msgctxt "15924_Himeka"
+msgid "I just love that! ♪"
+msgstr "Lo adoro! ♪"
+
+msgctxt "15936_Himeka"
+msgid "Maybe I can steal a bite of yours!"
+msgstr "Forse posso rubarti un boccone!"
+
+msgctxt "15948_Himeka"
+msgid ""
+"Okay! <Color:7>♥<Color:Default> You like that, do ya? "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Bene! <Color:7>♥<Color:Default> Ti piace, eh? <Color:7>♥<Color:Default>"
+
+msgctxt "15960_Himeka"
+msgid "All right, then."
+msgstr "Ok, allora."
+
+msgctxt "15972_Himeka"
+msgid "You really eat things like that?"
+msgstr "Mangi davvero roba del genere?"
+
+msgctxt "15984_Himeka"
+msgid "I really don't like that."
+msgstr "Proprio non mi piace."
+
+msgctxt "15996_Himeka"
+msgid "I'll put in the order, then."
+msgstr "Faccio l'ordine, allora."
+
+msgctxt "16008_Himeka"
+msgid "Excuse me!"
+msgstr "Scusi!"
+
+msgctxt "16032_Attendant"
+msgid "Yes."
+msgstr "Sì."
+
+msgctxt "16044_F_cab_sitsofa_tlk_happy"
+msgid "Could you get these for us?"
+msgstr "Potresti prenderci questi?"
+
+msgctxt "16056_Himeka"
+msgid "Of course."
+msgstr "E di che."
+
+msgctxt "16092_Player"
+msgid "Now then..."
+msgstr "Ebbene..."
+
+msgctxt "16128_Player"
+msgid "Now then..."
+msgstr "Ebbene..."
+
+msgctxt "16164_Himeka"
+msgid "I'll make that for you."
+msgstr "Te lo faccio io."
+
+msgctxt "16176_Himeka"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "16212_Himeka"
+msgid "I'm Himeka. Nice to meet you! <Color:7>♥<Color:Default>"
+msgstr "Sono Himeka. Piacere di conoscerti! <Color:7>♥<Color:Default>"
+
+msgctxt "16224_Tanimura"
+msgid "Likewise."
+msgstr "Anche per me."
+
+msgctxt "16236_Himeka"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+"<Color:8>\n"
+"<Color:Default>"
+
+msgctxt "16248_Himeka"
+msgid "You got Himeka's business card."
+msgstr "Hai ricevuto il biglietto da visita di Himeka."
+
+msgctxt "16284_Himeka"
+msgid "(Maybe I'll request her next time.)"
+msgstr "(Magari chiederò di lei la prossima volta.)"
+
+msgctxt "16308_Himeka"
+msgid "Come back soon, okay? <Color:7>♥<Color:Default>"
+msgstr "Torna presto, ok? <Color:7>♥<Color:Default>"
+
+msgctxt "16320_Tanimura"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "16332_Himeka"
+msgid ""
+"<Color:8>\r\n"
+"<Color:Default>"
+msgstr ""
+"<Color:8>\n"
+"<Color:Default>"
+
+msgctxt "16344_Himeka"
+msgid "You got Himeka's fancy business card."
+msgstr "Hai ottenuto il raffinato biglietto da visita di Himeka."
+
+msgctxt "16392_Himeka"
+msgid "Here you go!"
+msgstr "Ecco a te!"
+
+msgctxt "16404_Player"
+msgid "......"
+msgstr "......"
+
+msgctxt "16416_Himeka"
+msgid "Is it cool if I smoke?"
+msgstr "Va bene se fumo?"
+
+msgctxt "16428_Himeka"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "16440_Himeka"
+msgid "Bottoms up!"
+msgstr "Giù il bicchiere!"
+
+msgctxt "16452_P_sitsofaR_tlk_yes"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "16464_Himeka"
+msgid "I'll have one myself!"
+msgstr "Lo prendo anch'io!"
+
+msgctxt "16476_P_sitsofaR_tlk_yes"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "16488_Tanimura"
+msgid "I should get going."
+msgstr "Dovrei andare."
+
+msgctxt "16500_F_cab_sitsofa_tlk_noA"
+msgid "You're leavin' already?"
+msgstr "Ma te ne vai già?"
+
+msgctxt "16512_Himeka"
+msgid "Oh, is our time up already?"
+msgstr "Oh, è già finito il nostro tempo?"
+
+msgctxt "16524_P_sitsofaR_tlk_yes"
+msgid "You're right..."
+msgstr "Hai ragione..."
+
+msgctxt "16536_Himeka"
+msgid "終了時_アフター_初"
+msgstr "終了時_アフター_初"
+
+msgctxt "16548_Himeka"
+msgid "終了時_アフター_遅刻後"
+msgstr "終了時_アフター_遅刻後"
+
+msgctxt "16560_Himeka"
+msgid "終了時_アフター_失敗後"
+msgstr "終了時_アフター_失敗後"
+
+msgctxt "16572_Himeka"
+msgid "終了時_同伴_初"
+msgstr "終了時_同伴_初"
+
+msgctxt "16584_Himeka"
+msgid "終了時_同伴_遅刻後"
+msgstr "終了時_同伴_遅刻後"
+
+msgctxt "16596_Himeka"
+msgid "終了時_同伴_失敗後"
+msgstr "終了時_同伴_失敗後"
+
+msgctxt "16608_Himeka"
+msgid "終了時_ミニミッション"
+msgstr "終了時_ミニミッション"
+
+msgctxt "16620_Himeka"
+msgid "終了時_同伴_初"
+msgstr "終了時_同伴_初"
+
+msgctxt "16632_Himeka"
+msgid "Thanks for coming to see me! <Color:7>♥<Color:Default>"
+msgstr "Grazie di essere venuto a trovarmi! <Color:7>♥<Color:Default>"
+
+msgctxt "16656_F_cab_sitsofa_tlk_appealA"
+msgid "Tanimura-san!"
+msgstr "Tanimura-san!"
+
+msgctxt "16668_Himeka"
+msgid "Come back soon, okay? <Color:7>♥<Color:Default>"
+msgstr "Torna presto, ok? <Color:7>♥<Color:Default>"
+
+msgctxt "16680_Himeka"
+msgid "Sure thing."
+msgstr "Ma certo!"
+
+msgctxt "16692_F_cab_sitsofa_tlk_happy"
+msgid "See you."
+msgstr "Ci vediamo."
+
+msgctxt "16716_F_cab_sitsofa_tlk_appealA"
+msgid "Tanimura-san!"
+msgstr "Tanimura-san!"
+
+msgctxt "16728_Himeka"
+msgid "Thanks for today. <Color:7>♥<Color:Default>"
+msgstr "Grazie per oggi. <Color:7>♥<Color:Default>"
+
+msgctxt "16740_Himeka"
+msgid "Sure thing."
+msgstr "Ma certo!"
+
+msgctxt "16752_F_cab_sitsofa_tlk_happy"
+msgid "See ya."
+msgstr "Ci si vede."
+
+msgctxt "16776_F_cab_sitsofa_tlk_appealA"
+msgid "Tanimura-san!"
+msgstr "Tanimura-san!"
+
+msgctxt "16788_Himeka"
+msgid ""
+"Believe it or not, I had a blast with you today. <Color:7>♥<Color:Default>"
+msgstr ""
+"Che tu ci creda o no, oggi mi sono divertita un sacco con te. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "16800_Himeka"
+msgid "Glad to hear it."
+msgstr "Mi fa piacere."
+
+msgctxt "16812_F_cab_sitsofa_tlk_happy"
+msgid "See ya."
+msgstr "Ci si vede."
+
+msgctxt "16836_F_cab_sitsofa_tlk_appealA"
+msgid "Tanimura-san!"
+msgstr "Tanimura-san!"
+
+msgctxt "16848_Himeka"
+msgid "I love you! <Color:7>♥<Color:Default>"
+msgstr "Ti amo! <Color:7>♥<Color:Default>"
+
+msgctxt "16860_Himeka"
+msgid "Thanks."
+msgstr "Grazie."
+
+msgctxt "16872_F_cab_sitsofa_tlk_happy"
+msgid "See you."
+msgstr "Ci vediamo."
+
+msgctxt "16920_Himeka"
+msgid "Watch your step on your way out."
+msgstr "Fai attenzione all'uscita."
+
+msgctxt "16932_Himeka"
+msgid "Welcome!"
+msgstr "Benvenuto!"
+
+msgctxt "16944_Himeka"
+msgid "Have you heard about anything interesting lately, Tanimura-san?"
+msgstr "Hai sentito qualcosa di interessante ultimamente, Tanimura-san?"
+
+msgctxt "16956_Himeka"
+msgid ""
+"I still don't know much about Kamurocho, so I'd love to hear if anythin' "
+"interestin' is going on."
+msgstr ""
+"Non so ancora molto di Kamurocho, quindi mi piacerebbe sentire se sta "
+"succedendo qualcosa di interessante."
+
+msgctxt "16968_P_sitsofaR_tlk_no"
+msgid "Anything interesting? Let's see..."
+msgstr "Qualcosa di interessante? Vediamo un po'..."
+
+msgctxt "16980_Tanimura"
+msgid "Nope... Nothing in particular."
+msgstr "Naaa... Niente di particolare."
+
+msgctxt "17100_Himeka"
+msgid ""
+"I may not look it, but I get tired easily, and my shoulders and lower back "
+"get so stiff! Sometimes I can barely move."
+msgstr ""
+"Magari non si direbbe, ma mi stanco facilmente, e le spalle e la schiena mi "
+"si bloccano così tanto! A volte riesco a malapena a muovermi."
+
+msgctxt "17112_Tanimura"
+msgid "Sounds rough."
+msgstr "Sembra tosto."
+
+msgctxt "17124_Himeka"
+msgid "Yeah, so I like gettin' massages before I come to work."
+msgstr "Già, mi piace farmi fare dei massaggi prima di venire al lavoro."
+
+msgctxt "17136_Himeka"
+msgid ""
+"There's nothing better than a nice massage! ♪ It makes me glad to be alive."
+msgstr "Niente di meglio di un bel massaggio! ♪ Mi fa sentire proprio viva."
+
+msgctxt "17148_Himeka"
+msgid ""
+"But they aren't cheap, y'know? I wonder how much I spend on massages every "
+"month."
+msgstr ""
+"Ma non sono mica economici, sai? Chissà quanto spendo in massaggi ogni mese."
+
+msgctxt "17160_Tanimura"
+msgid "I could give you a massage."
+msgstr "Potrei farti un massaggio."
+
+msgctxt "17172_Himeka"
+msgid ""
+"Really? That'd be great! ♪ What part of my body would ya like to massage?"
+msgstr ""
+"Davvero? Sarebbe stupendo! ♪ Quale parte del mio corpo ti piacerebbe "
+"massaggiare?"
+
+msgctxt "17184_Himeka"
+msgid "What part of yer body do ya wash first when ya take a bath?"
+msgstr "Che parte del corpo ti lavi per prima quando ti fai il bagno?"
+
+msgctxt "17196_P_sitsofaR_tlk_no"
+msgid "I... don't really have a set order. It depends on how I feel that day."
+msgstr ""
+"Io... non ho proprio un ordine fisso. Dipende da come mi sento quel giorno."
+
+msgctxt "17220_P_sitsofaR_tlk_quest"
+msgid "That so? Then where is it you wash first?"
+msgstr "Ah sì? E allora, dove ti lavi prima?"
+
+msgctxt "17232_F_cab_sitsofa_talk_smileA"
+msgid "Hehehe. Why don't ya try guessin'?"
+msgstr "Hehehe. Che ne dici di provare a indovinare?"
+
+msgctxt "17268_Himeka"
+msgid "Look! This is the present ya gave me!"
+msgstr "Guarda! Questo è il regalo che mi hai fatto!"
+
+msgctxt "17280_Himeka"
+msgid "I just love it! <Color:7>♥<Color:Default>"
+msgstr "Lo adoro proprio! <Color:7>♥<Color:Default>"
+
+msgctxt "17292_Himeka"
+msgid ""
+"I'm a little parched. Could we order some <Color:7>White "
+"Champagne<Color:Default>?"
+msgstr ""
+"Ho la gola secca. Potremmo ordinare un po' di <Color:7>Champagne "
+"Bianco<Color:Default>?"
+
+msgctxt "17304_Himeka"
+msgid "Really? Wow! This is great! ♪"
+msgstr "Davvero? Wow! È una figata! ♪"
+
+msgctxt "17316_F_cab_sitsofa_sync_order"
+msgid "Excuse me!"
+msgstr "Scusi!"
+
+msgctxt "17328_Tanimura"
+msgid "Oops. I don't think I have enough money."
+msgstr "Ops. Non credo di avere abbastanza soldi."
+
+msgctxt "17340_Himeka"
+msgid "Huh!? Aw. That's real disappointin'..."
+msgstr "Eh!? Ah. È un vero peccato..."
+
+msgctxt "17352_Himeka"
+msgid "Oh... You don't exactly go with the flow do ya, Tanimura-san...?"
+msgstr "Oh... non è che tu ti lasci proprio andare, eh, Tanimura-san...?"
+
+msgctxt "17364_Himeka"
+msgid "I'm hungry. Can I order somethin'?"
+msgstr "Ho fame. Posso ordinare qualcosa?"
+
+msgctxt "17388_Himeka"
+msgid "Yay! I'll go ahead and order, then."
+msgstr "Evviva! Ordino io, allora."
+
+msgctxt "17400_F_cab_sitsofa_sync_order"
+msgid "Excuse me!"
+msgstr "Scusi!"
+
+msgctxt "17424_Himeka"
+msgid "Aw. Why not?"
+msgstr "Ah. Perché no?"
+
+msgctxt "17436_Himeka"
+msgid ""
+"Thanks for your email. I've been waitin' for you to come back ever since I "
+"got it. <Color:7>♥<Color:Default>"
+msgstr ""
+"Grazie per la mail. Ti aspettavo da quando l'ho ricevuta. "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "17448_Tanimura"
+msgid "Heh, I see."
+msgstr "Eh, capisco."
+
+msgctxt "17460_Himeka"
+msgid ""
+"So you snowboard too? ♪ Maybe we can go together\r\n"
+"sometime. <Color:7>♥<Color:Default>"
+msgstr ""
+"Quindi anche tu fai snowboard? ♪ Magari possiamo andarci insieme\n"
+"un giorno. <Color:7>♥<Color:Default>"
+
+msgctxt "17472_Tanimura"
+msgid "Yeah, sounds good."
+msgstr "Sì, bella idea."
+
+msgctxt "17484_Himeka"
+msgid ""
+"Ever since ya got mad at me in that email for beggin' too much, I've tried "
+"to cut back a bit on alcohol."
+msgstr ""
+"Da quando ti sei incazzato con me in quella mail perché ti assillavo troppo,"
+" ho cercato di limitarmi un po' con l'alcol."
+
+msgctxt "17496_Tanimura"
+msgid "Really?"
+msgstr "Davvero?"
+
+msgctxt "17508_Himeka"
+msgid "So I think I've earned a little drink today! <Color:7>♥<Color:Default>"
+msgstr ""
+"Allora, mi sa che oggi mi sono proprio meritata un goccetto! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "17520_Tanimura"
+msgid "Don't go too overboard..."
+msgstr "Non darci dentro troppo..."
+
+msgctxt "17532_Himeka"
+msgid ""
+"*sigh* I'm flattered you invited me out through email, but I just don't have"
+" the time."
+msgstr ""
+"*Sospiro* Sono lusingata che mi hai invitato ad uscire via email, ma non ho "
+"proprio tempo."
+
+msgctxt "17544_Tanimura"
+msgid ""
+"I understand... Why don't you try and relax a bit when you're with me. Sound"
+" good?"
+msgstr ""
+"Capisco... Perché non provi a rilassarti un po' quando sei con me. Ti va "
+"bene?"
+
+msgctxt "17556_Himeka"
+msgid "Yeah. Thanks."
+msgstr "Già. Grazie."
+
+msgctxt "17568_Himeka"
+msgid "Do ya have a kitty cat?"
+msgstr "Hai un micetto?"
+
+msgctxt "17580_Tanimura"
+msgid ""
+"After you showed me the picture of Nyanchu, I've been tempted to get one."
+msgstr ""
+"Dopo che mi hai mostrato la foto di Nyanchu, sono stato tentato di prenderne"
+" uno."
+
+msgctxt "17592_Himeka"
+msgid ""
+"Hehehe, really? ♪ Well, if ya do get a cat, you've gotta show me a picture. "
+"They can be friends with Nyanchu too! <Color:7>♥<Color:Default>"
+msgstr ""
+"Hehehe, davvero? ♪ Beh, se ti prendi un gatto, devi mostrarmi una foto. "
+"Possono fare amicizia anche con Nyanchu! <Color:7>♥<Color:Default>"
+
+msgctxt "17604_Tanimura"
+msgid "Sounds good."
+msgstr "Perfetto."
+
+msgctxt "17616_Himeka"
+msgid "Sounds like you were born to be a hostess."
+msgstr "Direi che sei nata per fare la hostess."
+
+msgctxt "17628_Himeka"
+msgid "You might've even made it as a pop star."
+msgstr "Saresti potuta addirittura sfondare come pop star."
+
+msgctxt "17640_Himeka"
+msgid "Do you ever think about doing something else?"
+msgstr "Hai mai pensato di fare qualcos'altro?"
+
+msgctxt "17652_Himeka"
+msgid "They're jealous of you."
+msgstr "Sono gelosi di te."
+
+msgctxt "17664_Himeka"
+msgid "You can't get along with everybody."
+msgstr "Non si può andare d'accordo con tutti."
+
+msgctxt "17676_Himeka"
+msgid "Just don't worry about it."
+msgstr "Non ti preoccupare."
+
+msgctxt "17688_Himeka"
+msgid "Just call me if something happens."
+msgstr "Fammi un fischio se succede qualcosa."
+
+msgctxt "17700_Himeka"
+msgid "You have to tell it to them straight."
+msgstr "Devi dirglielo chiaro e tondo."
+
+msgctxt "17712_Himeka"
+msgid "Maybe you should learn self defense."
+msgstr "Magari ti converrebbe imparare a difenderti."
+
+msgctxt "17724_Himeka"
+msgid "Yeah, he's a cutie."
+msgstr "Già, è un amore."
+
+msgctxt "17736_Himeka"
+msgid "I'm more of a dog person."
+msgstr "Sono più un tipo da cani."
+
+msgctxt "17748_Himeka"
+msgid "Uh, you named him Nyanchu?"
+msgstr "Uh, l'hai chiamato Nyanchu?"
+
+msgctxt "17760_Himeka"
+msgid "Maybe try drinking milk?"
+msgstr "Magari prova a bere del latte?"
+
+msgctxt "17772_Himeka"
+msgid "Why don't you try wearing platform shoes?"
+msgstr "Perché non provi a metterti delle platform?"
+
+msgctxt "17784_Himeka"
+msgid "I could give you a ride on my shoulders."
+msgstr "Potrei darti un passaggio sulle mie spalle."
+
+msgctxt "17796_Himeka"
+msgid "Maybe we can go together."
+msgstr "Magari possiamo andarci insieme."
+
+msgctxt "17808_Himeka"
+msgid "Have fun."
+msgstr "Divertiti."
+
+msgctxt "17820_Himeka"
+msgid "I prefer taking showers over baths."
+msgstr "Preferisco farmi la doccia che il bagno."
+
+msgctxt "17832_Himeka"
+msgid "What a jerk."
+msgstr "Che stronzo."
+
+msgctxt "17844_Himeka"
+msgid "Why don't you try chewing something else?"
+msgstr "Perché non provi a cambiare disco?"
+
+msgctxt "17856_Himeka"
+msgid "Are you nervous about something?"
+msgstr "Sei nervosa per qualcosa?"
+
+msgctxt "17868_Himeka"
+msgid "You just have to find a man who can cook."
+msgstr "Ti basta trovare un uomo che sappia cucinare."
+
+msgctxt "17880_Himeka"
+msgid "Why don't you start with some simple dishes?"
+msgstr "Perché non inizi con qualche piatto semplice?"
+
+msgctxt "17892_Himeka"
+msgid "I like instant food just fine, actually."
+msgstr "In realtà, a me il cibo istantaneo va benissimo."
+
+msgctxt "17904_Himeka"
+msgid "(I should try telling a joke.)"
+msgstr "(Dovrei provare a raccontare una barzelletta.)"
+
+msgctxt "17916_Himeka"
+msgid "(I should change the subject.)"
+msgstr "(Dovrei cambiare argomento.)"
+
+msgctxt "17928_Himeka"
+msgid "I don't really like comedians."
+msgstr "Non mi piacciono molto i comici."
+
+msgctxt "17940_Himeka"
+msgid "Come on. I'm a cop, remember?"
+msgstr "Dai. Sono un poliziotto, ricordi?"
+
+msgctxt "17952_Himeka"
+msgid "Maybe once in a while."
+msgstr "Forse ogni tanto."
+
+msgctxt "17964_Himeka"
+msgid "I'll try not to do it from now on."
+msgstr "Cercherò di non farlo d'ora in poi."
+
+msgctxt "17976_Himeka"
+msgid "You should just wait and see what happens."
+msgstr "Dovresti solo aspettare e vedere come va a finire."
+
+msgctxt "17988_Himeka"
+msgid "Have a drink and forget about it."
+msgstr "Fatti un drink e dimenticatene."
+
+msgctxt "18000_Himeka"
+msgid "Maybe you should take a few days off."
+msgstr "Magari dovresti prenderti qualche giorno libero."
+
+msgctxt "18012_Himeka"
+msgid "You're really gonna just run away from the problem?"
+msgstr "Ma davvero te la dai a gambe dal problema?"
+
+msgctxt "18024_Himeka"
+msgid "You should follow your heart."
+msgstr "Dovresti seguire il tuo cuore."
+
+msgctxt "18036_Himeka"
+msgid "That might be the best plan."
+msgstr "Quello potrebbe essere il piano migliore."
+
+msgctxt "18048_Himeka"
+msgid "Don't you have other people you can talk to?"
+msgstr "Non hai mica altre persone con cui parlare?"
+
+msgctxt "18060_Himeka"
+msgid "You should try and be more independent."
+msgstr "Dovresti cercare di essere più indipendente."
+
+msgctxt "18072_Himeka"
+msgid "Maybe you should quit being a hostess."
+msgstr "Forse dovresti mollare di fare l'hostess."
+
+msgctxt "18084_Himeka"
+msgid "Do you have someone you like?"
+msgstr "Ti piace qualcuno?"
+
+msgctxt "18096_Himeka"
+msgid "What do you want most in the world right now?"
+msgstr "Cosa vuoi di più al mondo, adesso?"
+
+msgctxt "18108_Himeka"
+msgid "What's your most embarrassing memory?"
+msgstr "Qual è il tuo ricordo più imbarazzante?"
+
+msgctxt "18120_Himeka"
+msgid "You just don't know the right way to drink."
+msgstr "Non sai proprio bere come si deve."
+
+msgctxt "18132_Himeka"
+msgid "Drinking that much isn't good for you."
+msgstr "Bere così tanto non ti fa bene."
+
+msgctxt "18144_Himeka"
+msgid "You're young. I'm sure you'll be fine."
+msgstr "Sei giovane. Sono sicuro che starai bene."
+
+msgctxt "18156_Himeka"
+msgid "I'm not very good with electronics either."
+msgstr "Non sono molto bravo con l'elettronica neanch'io."
+
+msgctxt "18168_Himeka"
+msgid "You want me to show you how to use it?"
+msgstr "Vuoi che ti mostri come si usa?"
+
+msgctxt "18180_Himeka"
+msgid "Just try fooling around with it."
+msgstr "Prova a giocarci un po'."
+
+msgctxt "18192_Himeka"
+msgid "Was it a picture of me?"
+msgstr "Era una foto di me?"
+
+msgctxt "18204_Himeka"
+msgid "I bet it was your cat, Nyanchu."
+msgstr "Scommetto che è stato il tuo gatto, Nyanchu."
+
+msgctxt "18216_Himeka"
+msgid "You didn't draw anything, did you?"
+msgstr "Non hai pescato niente, vero?"
+
+msgctxt "18228_Himeka"
+msgid "If I like a woman, I make her mine."
+msgstr "Se mi piace una donna, la faccio mia."
+
+msgctxt "18240_Himeka"
+msgid "Actually, I'm kind of bashful too."
+msgstr "A dire il vero, sono un po' timida anch'io."
+
+msgctxt "18252_Himeka"
+msgid "It depends on who it is."
+msgstr "Dipende da chi è."
+
+msgctxt "18264_Himeka"
+msgid "I'd pick you up riding a white horse."
+msgstr "Ti passerei a prendere su un cavallo bianco."
+
+msgctxt "18276_Himeka"
+msgid "I'd pick you up in a police car."
+msgstr "Ti verrei a prendere con la volante."
+
+msgctxt "18288_Himeka"
+msgid "I wouldn't do anything fancy."
+msgstr "Non mi metterei a fare chissà che."
+
+msgctxt "18300_Himeka"
+msgid "Let me handle this."
+msgstr "Ci penso io."
+
+msgctxt "18312_Himeka"
+msgid "You should file a police report."
+msgstr "Dovresti fare una denuncia."
+
+msgctxt "18324_Himeka"
+msgid "Just wait until whoever it is gives up."
+msgstr "Aspetta solo che molli, chiunque sia."
+
+msgctxt "18336_Himeka"
+msgid "This is a decision you need to make on your own."
+msgstr "Questa è una decisione che devi prendere da sola."
+
+msgctxt "18348_Himeka"
+msgid "Wouldn't you regret it if you left now?"
+msgstr "Non te ne pentiresti mica se te ne andassi ora?"
+
+msgctxt "18360_Himeka"
+msgid "I'll walk you to the station."
+msgstr "Ti accompagno alla stazione."
+
+msgctxt "18372_Himeka"
+msgid "If you've never been, I'd go to Korea."
+msgstr "Se non ci sei mai stato, ti direi di andare in Corea."
+
+msgctxt "18384_Himeka"
+msgid "Northern Japan can be fun."
+msgstr "Il Nord del Giappone può essere divertente."
+
+msgctxt "18396_Himeka"
+msgid "You like hot springs. Why not go to Hakone?"
+msgstr "Ti piacciono le terme. Perché non vai ad Hakone?"
+
+msgctxt "18408_Himeka"
+msgid "Let's just worry about Kashiwabara for now."
+msgstr "Pensiamo a Kashiwabara per adesso."
+
+msgctxt "18420_Himeka"
+msgid "You can do much better than me."
+msgstr "Meriti di molto meglio di me."
+
+msgctxt "18432_Himeka"
+msgid "Well, I don't know."
+msgstr "Beh, non lo so."
+
+msgctxt "18444_Himeka"
+msgid "Not having sex appeal makes you attractive."
+msgstr "Non avere sex appeal ti rende attraente."
+
+msgctxt "18456_Himeka"
+msgid "You could try a little harder."
+msgstr "Potresti impegnarti un po' di più."
+
+msgctxt "18468_Himeka"
+msgid "He's a fool."
+msgstr "È uno sciocco."
+
+msgctxt "18480_Himeka"
+msgid "You've got a talent for it."
+msgstr "Ci sai fare."
+
+msgctxt "18492_Himeka"
+msgid "You should try harder."
+msgstr "Dovresti darci dentro di più."
+
+msgctxt "18504_Himeka"
+msgid "Maybe you should open up your own store."
+msgstr "Magari dovresti aprire un locale tuo."
+
+msgctxt "18516_Himeka"
+msgid "How about me?"
+msgstr "Che ne dici di me?"
+
+msgctxt "18528_Himeka"
+msgid "I'd like you to make me miso soup every morning."
+msgstr "Vorrei che tu mi facessi la zuppa di miso ogni mattina."
+
+msgctxt "18540_Himeka"
+msgid "I'm kind of a gourmet, actually."
+msgstr "Sono un po' una buongustaia, a dire il vero."
+
+msgctxt "18552_Himeka"
+msgid "She wouldn't get mad at me, would she?"
+msgstr "Non si arrabbierebbe con me, vero?"
+
+msgctxt "18564_Himeka"
+msgid "She sounds interesting."
+msgstr "Sembra interessante."
+
+msgctxt "18576_Himeka"
+msgid "I think I'll pass."
+msgstr "Penso che passerò."
+
+msgctxt "18588_Himeka"
+msgid "That's surprisingly practical of you."
+msgstr "Beh, per essere te, è sorprendentemente pratico."
+
+msgctxt "18600_Himeka"
+msgid "Do they have horse racing in Hawaii?"
+msgstr "Hanno le corse dei cavalli alle Hawaii?"
+
+msgctxt "18612_Himeka"
+msgid "You can speak English?"
+msgstr "Sai parlare inglese?"
+
+msgctxt "18624_Himeka"
+msgid "We'd go on a drive along the coast."
+msgstr "Ci faremmo un giro in macchina lungo la costa."
+
+msgctxt "18636_Himeka"
+msgid "We'd take the train to Nagano."
+msgstr "Prenderemmo il treno per Nagano."
+
+msgctxt "18648_Himeka"
+msgid "We'd take a stroll in a nearby park."
+msgstr "Ci faremmo un giretto in un parco qui vicino."
+
+msgctxt "18660_Himeka"
+msgid "You've really grown, Himeka."
+msgstr "Sei proprio cresciuta, Himeka."
+
+msgctxt "18672_Himeka"
+msgid "It was impressive."
+msgstr "Era impressionante."
+
+msgctxt "18684_Himeka"
+msgid "Yeah, you should be grateful."
+msgstr "Già, dovresti essere grato."
+
+msgctxt "18696_Himeka"
+msgid "Nothing"
+msgstr "Niente"
+
+msgctxt "18708_Himeka"
+msgid "777 Town"
+msgstr "777 Town"
+
+msgctxt "18720_Himeka"
+msgid "Amoebatar"
+msgstr "Amoebatar"
+
+msgctxt "18732_Himeka"
+msgid "The Ghost in the Underground Mall"
+msgstr "Il Fantasma nella Galleria Commerciale Sotterranea"
+
+msgctxt "18744_Himeka"
+msgid "The Footbaths at Yunosono Hot Springs"
+msgstr "I pediluvi alle Terme di Yunosono"
+
+msgctxt "18756_Himeka"
+msgid "Popular Golf Dates Among Women"
+msgstr "Appuntamenti di golf gettonati tra le donne"
+
+msgctxt "18768_Himeka"
+msgid "Eating Liver to Reverse Brain Aging"
+msgstr "Mangiare Fegato per Ringiovanire il Cervello"
+
+msgctxt "18780_Himeka"
+msgid "The Pole Dancing Workout"
+msgstr "Il Workout di Pole Dance"
+
+msgctxt "18792_Himeka"
+msgid "Popular Sweet Sake Among Women"
+msgstr "Sake Dolce Popolare Tra le Donne"
+
+msgctxt "18804_Himeka"
+msgid "Sure, why not?"
+msgstr "Ma sì, perché no?"
+
+msgctxt "18816_Himeka"
+msgid "Nah."
+msgstr "Macché."
+
+msgctxt "18828_Himeka"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "18840_Himeka"
+msgid "No."
+msgstr "No."

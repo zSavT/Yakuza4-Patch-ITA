@@ -1,0 +1,255 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "512"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "1028"
+msgid "Major error! No flags set for conversation selection!"
+msgstr ""
+"Errore grave! Nessuna flag impostata per la selezione della conversazione!"
+
+msgctxt "13636"
+msgid "Chihiro"
+msgstr "Chihiro"
+
+msgctxt "13640"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "13644"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "13648"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "13652"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "13656"
+msgid "0"
+msgstr "0"
+
+msgctxt "13660"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "13664"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "116_Chihiro"
+msgid "Okay, this match is for keeps."
+msgstr "Okay, questa partita è quella che conta."
+
+msgctxt "128_Player"
+msgid "Heh. You take this seriously, don't you?"
+msgstr "Eheh. La prendi sul serio, vero?"
+
+msgctxt "140_Chihiro"
+msgid "Let's go in."
+msgstr "Entriamo."
+
+msgctxt "164_Chihiro"
+msgid "Okay, this match is for keeps."
+msgstr "Okay, questa partita è quella che conta."
+
+msgctxt "176_Player"
+msgid "Hold on a sec... Um, looks like I'm low on cash."
+msgstr "Aspetta un attimo... Ehm, mi sa che sono a corto di contanti."
+
+msgctxt "188_Chihiro"
+msgid "What? You are!?"
+msgstr "Cosa? Davvero!?"
+
+msgctxt "200_Player"
+msgid "Yeah. Sorry."
+msgstr "Sì. Scusa."
+
+msgctxt "212_Chihiro"
+msgid ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+msgstr ""
+"Peccato. Immagino sia tutto per oggi.\n"
+"\n"
+"Arrivederci per ora."
+
+msgctxt "224_Player"
+msgid "(I better find some money...)"
+msgstr "(Mi conviene trovare dei soldi...)"
+
+msgctxt "332_Chihiro"
+msgid "Oh, I lost. You could've gone a bit easier on me!"
+msgstr "Ah, ho perso. Potevi andarci un po' più piano con me!"
+
+msgctxt "344_Player"
+msgid "Hey, you said this was for keeps."
+msgstr "Ehi, avevi detto che si giocava sul serio."
+
+msgctxt "356_Chihiro"
+msgid ""
+"Yeah, I did. And I had fun, too. I'll just have to practice! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Sì, l'ho fatto. E mi sono divertito un sacco, pure. Mi toccherà allenarmi! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "368_Chihiro"
+msgid "I'll be waiting for you at the club."
+msgstr "Ti aspetterò al club."
+
+msgctxt "392_Chihiro"
+msgid "Looks like a draw."
+msgstr "Sembra un pareggio."
+
+msgctxt "404_Player"
+msgid "Yeah. You're pretty good."
+msgstr "Sì. Non sei niente male."
+
+msgctxt "416_Chihiro"
+msgid "Thank you! That was intense, wasn't it?"
+msgstr "Grazie! Che tirata, eh?"
+
+msgctxt "428_Talk_Ojigi"
+msgid "Well, I'll see you at the club."
+msgstr "Allora, ci vediamo al club."
+
+msgctxt "452_Chihiro"
+msgid "I did it! I beat you!"
+msgstr "Ce l'ho fatta! Ti ho stracciato!"
+
+msgctxt "464_Player"
+msgid "Yep, you sure did."
+msgstr "Già, l'hai proprio fatta."
+
+msgctxt "476_Chihiro"
+msgid "That was fun! Bowling's great, isn't it?"
+msgstr "È stato divertente! Il bowling è una figata, non trovi?"
+
+msgctxt "488_Talk_Ojigi"
+msgid "Okay, I'll see you at the club sometime."
+msgstr "Ok, ci vediamo al club un giorno di questi."
+
+msgctxt "596_Chihiro"
+msgid "Okay, this match is for keeps."
+msgstr "Okay, questa partita è quella che conta."
+
+msgctxt "608_Player"
+msgid "Heh. Go easy on me, okay?"
+msgstr "Eheh. Non infierire troppo, eh?"
+
+msgctxt "620_Chihiro"
+msgid "Let's go in."
+msgstr "Entriamo."
+
+msgctxt "644_Chihiro"
+msgid "Okay, this match is for keeps."
+msgstr "Okay, questa partita è quella che conta."
+
+msgctxt "656_Player"
+msgid "Hold on a sec... Um, looks like I'm low on cash."
+msgstr "Aspetta un attimo... Ehm, mi sa che sono a corto di contanti."
+
+msgctxt "668_Chihiro"
+msgid "What? You are!?"
+msgstr "Cosa? Davvero!?"
+
+msgctxt "680_Player"
+msgid "Yeah. Sorry."
+msgstr "Sì. Scusa."
+
+msgctxt "692_Chihiro"
+msgid ""
+"That's a shame. I guess that's it today.\r\n"
+"\r\n"
+"Goodbye for now."
+msgstr ""
+"Peccato. Immagino sia tutto per oggi.\n"
+"\n"
+"Arrivederci per ora."
+
+msgctxt "704_Player"
+msgid "(I better find some money...)"
+msgstr "(Mi conviene trovare dei soldi...)"
+
+msgctxt "812_Chihiro"
+msgid "Oh, I lost. You could've gone a bit easier on me!"
+msgstr "Ah, ho perso. Potevi andarci un po' più piano con me!"
+
+msgctxt "824_Player"
+msgid "Hey, you said it was for keeps."
+msgstr "Ehi, avevi detto che si faceva sul serio."
+
+msgctxt "836_Chihiro"
+msgid ""
+"Yeah, I did. And I had fun, too. I'll just have to practice! "
+"<Color:7>♥<Color:Default>"
+msgstr ""
+"Sì, l'ho fatto. E mi sono divertito un sacco, pure. Mi toccherà allenarmi! "
+"<Color:7>♥<Color:Default>"
+
+msgctxt "848_Chihiro"
+msgid "Wanna go to the club now?"
+msgstr "Ti va di andare al club adesso?"
+
+msgctxt "860_Player"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "884_Chihiro"
+msgid "Looks like a draw."
+msgstr "Sembra un pareggio."
+
+msgctxt "896_Player"
+msgid "Yeah. You're pretty good."
+msgstr "Sì. Non sei niente male."
+
+msgctxt "908_Chihiro"
+msgid "Thank you! That was intense, wasn't it?"
+msgstr "Grazie! Che tirata, eh?"
+
+msgctxt "920_Chihiro"
+msgid "Okay, let's go to the club."
+msgstr "Dai, andiamo al club."
+
+msgctxt "932_Player"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "956_Chihiro"
+msgid "I did it! I beat you!"
+msgstr "Ce l'ho fatta! Ti ho stracciato!"
+
+msgctxt "968_Player"
+msgid "Yep, you sure did."
+msgstr "Già, l'hai proprio fatta."
+
+msgctxt "980_Chihiro"
+msgid "That was fun! Bowling's great, isn't it?"
+msgstr "È stato divertente! Il bowling è una figata, non trovi?"
+
+msgctxt "992_Chihiro"
+msgid "Okay, let's go to the club."
+msgstr "Dai, andiamo al club."
+
+msgctxt "1004_Player"
+msgid "Sure."
+msgstr "Certo."

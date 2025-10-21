@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "640"
+msgid "Ochiai"
+msgstr "Ochiai"
+
+msgctxt "88_Ochiai"
+msgid "Zzz... Mm?"
+msgstr "Zzz... Mh?"
+
+msgctxt "100_Ochiai"
+msgid "Oh, hey Sensei. What's up? Let me know if you need anything."
+msgstr "Oh, ehi Sensei. Che c'è? Dimmi pure se ti serve qualcosa."
+
+msgctxt "124_Ochiai"
+msgid "Zzz..."
+msgstr "Zzz..."

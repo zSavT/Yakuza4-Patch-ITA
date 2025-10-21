@@ -1,0 +1,112 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2944"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "2948"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "2952"
+msgid "Manager of Asia"
+msgstr "Manager dell'Asia"
+
+msgctxt "2956"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "2960"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "2964"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2968"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2972"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "84_Akiyama"
+msgid "Hi. Can I ask you something?"
+msgstr ""
+"Ehi.\n"
+"Posso chiederti una cosa?"
+
+msgctxt "96_Manager of Asia"
+msgid "Oh, hi, Akiyama-san. How can I help?"
+msgstr "Oh, salve, Akiyama-san. Come posso aiutarla?"
+
+msgctxt "108_Akiyama"
+msgid "Have you ever heard of Shino Productions?"
+msgstr "Hai mai sentito parlare della Shino Productions?"
+
+msgctxt "120_Manager of Asia"
+msgid "Shino Productions? Yes, and nothing good..."
+msgstr "Shino Productions? Sì, e niente di buono..."
+
+msgctxt "132_Akiyama"
+msgid "What do you mean?"
+msgstr "Cosa intendi?"
+
+msgctxt "144_Manager of Asia"
+msgid ""
+"They've a number of girls working as pin-up models, but I've heard the "
+"president has had his way with all of them."
+msgstr ""
+"Hanno un bel po' di ragazze che fanno le modelle pin-up, ma ho sentito dire "
+"che il presidente se l'è fatte tutte."
+
+msgctxt "156_Akiyama"
+msgid "Well, I guess that's not so unusual."
+msgstr "Beh, immagino che non sia poi così strano."
+
+msgctxt "168_Manager of Asia"
+msgid ""
+"That's not all. I heard that the president makes his girls entertain his "
+"clients in exchange for cash, if you know what I mean."
+msgstr ""
+"Non è tutto. Ho sentito che il presidente usa le sue ragazze per "
+"intrattenere i suoi clienti in cambio di soldi, se capisci a me."
+
+msgctxt "180_Manager of Asia"
+msgid "Of course, he keeps the money."
+msgstr "Ma certo, si intasca il malloppo."
+
+msgctxt "192_Akiyama"
+msgid ""
+"I see... Thanks. That was helpful. By the way, do you know where this Shino "
+"Productions is located?"
+msgstr ""
+"Ah, capisco... Grazie. Mi è tornato utile. A proposito, sai mica dov'è "
+"questa Shino Productions?"
+
+msgctxt "204_Manager of Asia"
+msgid ""
+"I think they're in the <Color:7>alley off Nakamichi Street<Color:Default>. "
+"Pretty sure they're in a building <Color:7>near Smile Burger<Color:Default>."
+msgstr ""
+"Penso che siano nel <Color:7>vicolo di Nakamichi Street<Color:Default>. Sono"
+" quasi certo che siano in un edificio <Color:7>vicino a Smile "
+"Burger<Color:Default>."
+
+msgctxt "216_Akiyama"
+msgid "<Color:7>Nakamichi Alley<Color:Default>. Got it."
+msgstr "<Color:7>Vicolo Nakamichi<Color:Default>. Capito."

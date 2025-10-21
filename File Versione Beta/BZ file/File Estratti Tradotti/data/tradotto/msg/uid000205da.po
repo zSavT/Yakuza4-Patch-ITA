@@ -1,0 +1,85 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2304"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "2308"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "2312"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2316"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "128_Tanimura"
+msgid ""
+"Oh, %s-san. I'd be glad to head out for you if there's\r\n"
+"something you need taken care of."
+msgstr ""
+"Oh, %s-san. Sarei felice di andare io al posto tuo se c'è\r\n"
+"qualcosa di cui devi occuparti."
+
+msgctxt "152_Player"
+msgid "No, it's okay."
+msgstr "No, va bene così."
+
+msgctxt "164_Player"
+msgid "Sorry, gonna have to take a rain check."
+msgstr "Scusa, dovrò rimandare."
+
+msgctxt "176_Player"
+msgid "Think I'm good."
+msgstr "Penso di essere a posto."
+
+msgctxt "188_Player"
+msgid "Appreciate the offer, but I'm gonna have to pass."
+msgstr "Apprezzo l'offerta, ma devo rifiutare."
+
+msgctxt "200_Tanimura"
+msgid "Oh, all right. Just try to take care of yourself, okay?"
+msgstr "Oh, va bene. Cerca solo di stare attento, ok?"
+
+msgctxt "224_Player"
+msgid "That's a good idea. Thanks, Tanimura."
+msgstr "È una buona idea. Grazie, Tanimura."
+
+msgctxt "236_Player"
+msgid "Sure, guess I wouldn't mind taking a little breather."
+msgstr "Certo, immagino non mi dispiacerebbe prendere una piccola pausa."
+
+msgctxt "248_Player"
+msgid "Yeah, gotta catch my breath."
+msgstr "Sì, devo riprendere fiato."
+
+msgctxt "260_Player"
+msgid "Thanks, I'll do that."
+msgstr "Grazie, lo farò."
+
+msgctxt "272_Tanimura"
+msgid "Great. I'll take it from here."
+msgstr "Ottimo. Da qui me ne occupo io."
+
+msgctxt "296_Tanimura"
+msgid "No, it's okay."
+msgstr "No, va bene così."
+
+msgctxt "308_Tanimura"
+msgid "Sure."
+msgstr "Certo."

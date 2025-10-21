@@ -1,0 +1,84 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2160"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2164"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "2168"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2172"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "100_Kiryu"
+msgid ""
+"You should rest up, %s. I'd be glad to take over for you if you need it."
+msgstr ""
+"Dovresti prenderti una pausa, %s. Sarei lieto di darti il cambio se ti "
+"serve."
+
+msgctxt "124_Player"
+msgid "I'll be okay on my own for now."
+msgstr "Me la caverò da solo per ora."
+
+msgctxt "136_Player"
+msgid "Sorry, gonna have to pass."
+msgstr "Scusa, dovrò passare."
+
+msgctxt "148_Player"
+msgid "I'm good."
+msgstr "Sto bene."
+
+msgctxt "160_Player"
+msgid "Nah, I'm fine."
+msgstr "No, sono a posto."
+
+msgctxt "172_Kiryu"
+msgid "Right. Try not to overdo it."
+msgstr "Va bene. Cerca di non strafare."
+
+msgctxt "196_Player"
+msgid "That's a good idea. Go ahead."
+msgstr "È un'ottima idea. Fai pure."
+
+msgctxt "208_Player"
+msgid "Sure, why not. I'm always down to chill for a bit."
+msgstr "Certo, perché no. Mi va sempre di staccare un po'."
+
+msgctxt "220_Player"
+msgid "Guess I don't mind catchin' my breath."
+msgstr "Beh, non mi dispiace riprendere fiato."
+
+msgctxt "232_Player"
+msgid "All right, I'll let you take things from here."
+msgstr "Va bene, ti lascio fare tu da qui."
+
+msgctxt "244_Kiryu"
+msgid "Okay, take it easy for a while. I'll be back soon."
+msgstr "Ok, prenditela con calma per un po'. Torno presto."
+
+msgctxt "268_Kiryu"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "280_Kiryu"
+msgid "Switch to Kiryu"
+msgstr "Passa a Kiryu"

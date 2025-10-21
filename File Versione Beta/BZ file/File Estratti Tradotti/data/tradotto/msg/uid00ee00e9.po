@@ -1,0 +1,70 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1540"
+msgid "Customer"
+msgstr "Cliente"
+
+msgctxt "1544"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "1548"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1552"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "112_Customer"
+msgid ""
+"Wanting to play a game of mahjong? You need 25,000 sticks or it's a no go. "
+"You can buy 'em over at the desk."
+msgstr ""
+"Voglia di farsi una partita a mahjong? Ti servono 25.000 fiches, altrimenti "
+"non se ne fa nulla. Le trovi al banco."
+
+msgctxt "124_Customer"
+msgid ""
+"Wanting to play a game of mahjong? Goes without sayin', but we're pretty "
+"dang good."
+msgstr ""
+"Ti va di fare una partita a mahjong? Manco a dirlo, siamo parecchio in "
+"gamba."
+
+msgctxt "136_Customer"
+msgid "Yeah, I'll play."
+msgstr "Sì, gioco."
+
+msgctxt "148_Customer"
+msgid "That's what I'm talkin' about! Let's get started, then!"
+msgstr "Ora sì che si ragiona! Dai, cominciamo!"
+
+msgctxt "172_Customer"
+msgid "Not right now."
+msgstr "Non adesso."
+
+msgctxt "184_Customer"
+msgid "Aw, come on... Well, just say the word. We'll take you on anytime."
+msgstr ""
+"Ah, dai... Beh, basta che tu dica una parola. Ti affrontiamo quando vuoi."
+
+msgctxt "196_Customer"
+msgid "Play"
+msgstr "Giochiamo"
+
+msgctxt "208_Customer"
+msgid "Not Now"
+msgstr "Non ora"

@@ -1,0 +1,265 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "11284"
+msgid "Peter"
+msgstr "Peter"
+
+msgctxt "11288"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "11292"
+msgid "F_cab_sitsofa_sync_order"
+msgstr "F_cab_sitsofa_sync_order"
+
+msgctxt "11296"
+msgid "M_shp_sitgrd_sync_order"
+msgstr "M_shp_sitgrd_sync_order"
+
+msgctxt "11300"
+msgid "Attendant"
+msgstr "Addetto"
+
+msgctxt "11304"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "11308"
+msgid "Takako"
+msgstr "Takako"
+
+msgctxt "11312"
+msgid "F_cab_stand_tlk_byeB"
+msgstr "F_cab_stand_tlk_byeB"
+
+msgctxt "2600_Peter"
+msgid "What would you like?"
+msgstr "Cosa desideri?"
+
+msgctxt "2624_Kiryu"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "2636_Peter"
+msgid "You're not going to drink?"
+msgstr "Non bevi?"
+
+msgctxt "2648_Peter"
+msgid "I see your glass is empty. Can I get you another?"
+msgstr "Vedo che il tuo bicchiere è vuoto. Ne vuoi un altro?"
+
+msgctxt "2672_Kiryu"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "2684_Peter"
+msgid "Had enough?"
+msgstr "Ti basta?"
+
+msgctxt "2696_Peter"
+msgid "I like this one, too!"
+msgstr "Pure questo mi piace!"
+
+msgctxt "2708_Peter"
+msgid "It's so good. <Color:7>♥<Color:Default>"
+msgstr "È una bomba. <Color:7>♥<Color:Default>"
+
+msgctxt "2720_Peter"
+msgid "You drink that too?"
+msgstr "Bevi anche quello?"
+
+msgctxt "2732_Peter"
+msgid "That's somewhat surprising."
+msgstr "Questa è una mezza sorpresa."
+
+msgctxt "2744_Peter"
+msgid "All right, understood."
+msgstr "Va bene, capito."
+
+msgctxt "2756_Peter"
+msgid "Oh, so that's what you like to drink..."
+msgstr "Ah, quindi è questo che ti piace bere..."
+
+msgctxt "2768_Peter"
+msgid "You drink that?"
+msgstr "Te lo scoli?"
+
+msgctxt "2780_Peter"
+msgid "Huh... Okay."
+msgstr "Mmh... Okay."
+
+msgctxt "2792_Peter"
+msgid "Would you like something to eat?"
+msgstr "Ti va qualcosa da mangiare?"
+
+msgctxt "2816_Kiryu"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "2828_Peter"
+msgid "You're not hungry?"
+msgstr "Non hai fame?"
+
+msgctxt "2840_Peter"
+msgid "Wanna get something to eat?"
+msgstr "Ti va di mangiare qualcosa?"
+
+msgctxt "2864_Kiryu"
+msgid "I'll have this."
+msgstr "Prendo questo."
+
+msgctxt "2876_Peter"
+msgid "Oh... Are you sure you don't want to eat something?"
+msgstr "Oh... Sei sicuro che non vuoi mangiare qualcosa?"
+
+msgctxt "2888_Peter"
+msgid "I like that, too!"
+msgstr "Mi piace pure quello!"
+
+msgctxt "2900_Peter"
+msgid "We do get along."
+msgstr "Ma sì, andiamo d'accordo."
+
+msgctxt "2912_Peter"
+msgid "I like that, too. <Color:7>♥<Color:Default>"
+msgstr "Mi piace anche a me. <Color:7>♥<Color:Default>"
+
+msgctxt "2936_Peter"
+msgid "All right, understood."
+msgstr "Va bene, capito."
+
+msgctxt "2948_Peter"
+msgid "I'm surprised you can eat that."
+msgstr "Sono sorpreso che tu riesca a mangiare quella roba."
+
+msgctxt "2960_Peter"
+msgid "That... isn't my favorite."
+msgstr "Quello... non è proprio il mio preferito."
+
+msgctxt "2972_Peter"
+msgid "I don't understand why people like that."
+msgstr "Non capisco perché alla gente piaccia."
+
+msgctxt "2984_Peter"
+msgid "I'll put in the order, then."
+msgstr "Faccio l'ordine, allora."
+
+msgctxt "3008_Peter"
+msgid "Yes?"
+msgstr "Sì?"
+
+msgctxt "3020_Attendant"
+msgid "This please!"
+msgstr "Questo, per favore!"
+
+msgctxt "3032_Peter"
+msgid "With pleasure."
+msgstr "Con piacere."
+
+msgctxt "3056_Player"
+msgid "Let's drink."
+msgstr "Dai, beviamo."
+
+msgctxt "3068_Peter"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "3080_Peter"
+msgid "Enjoy yourself!"
+msgstr "Divertiti!"
+
+msgctxt "3092_Player"
+msgid "Let's drink."
+msgstr "Dai, beviamo."
+
+msgctxt "3104_Peter"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "3116_Peter"
+msgid "Enjoy yourself!"
+msgstr "Divertiti!"
+
+msgctxt "3128_Peter"
+msgid "I'll make it right now."
+msgstr "Lo faccio subito."
+
+msgctxt "3140_Peter"
+msgid "All right..."
+msgstr "Va bene..."
+
+msgctxt "3152_Peter"
+msgid "Here you are."
+msgstr "Ecco a lei."
+
+msgctxt "3188_Peter"
+msgid "Here you are!"
+msgstr "Eccoti!"
+
+msgctxt "3200_Peter"
+msgid "......"
+msgstr "......"
+
+msgctxt "3212_Peter"
+msgid "Can I smoke too?"
+msgstr "Posso fumare anch'io?"
+
+msgctxt "3224_Peter"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "3236_Peter"
+msgid "Go on, drink up!"
+msgstr "Dai, su, bevi!"
+
+msgctxt "3248_Peter"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "3260_Peter"
+msgid "I'll drink, too!"
+msgstr "Mi faccio anch'io una bevuta!"
+
+msgctxt "3272_Peter"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "3284_Player"
+msgid "I should be getting home."
+msgstr "Dovrei tornare a casa."
+
+msgctxt "3296_Peter"
+msgid "That's a good idea... You have work tomorrow."
+msgstr "Bella idea... Domani lavori."
+
+msgctxt "3308_Takako"
+msgid "It's about time for us to wrap things up."
+msgstr "È ora di chiudere baracca."
+
+msgctxt "3320_Peter"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "3428_Takako"
+msgid "Watch your step."
+msgstr "Attento a dove metti i piedi."
+
+msgctxt "3440_Takako"
+msgid "Good night! ♪ See you again soon. ♪"
+msgstr "Buonanotte! ♪ A presto. ♪"
+
+msgctxt "3524_Takako"
+msgid "Please... Come see me again!"
+msgstr "Ti prego... Fatti rivedere!"

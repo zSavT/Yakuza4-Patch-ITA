@@ -1,0 +1,86 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2244"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "2248"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "2252"
+msgid "Saki-chan"
+msgstr "Saki-chan"
+
+msgctxt "2256"
+msgid "P_tan_stand_tlk_phone_yes"
+msgstr "P_tan_stand_tlk_phone_yes"
+
+msgctxt "2260"
+msgid "P_tan_stand_tlk_phone_no"
+msgstr "P_tan_stand_tlk_phone_no"
+
+msgctxt "2264"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "2268"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "92_Tanimura"
+msgid "Saki-chan, are you all right?"
+msgstr "Saki-chan, stai bene?"
+
+msgctxt "104_Saki-chan"
+msgid "*pant* Whew! *pant* I haven't ran that much in ages!"
+msgstr "*ansima* Uff! *ansima* Non correvo così tanto da una vita!"
+
+msgctxt "116_Tanimura"
+msgid ""
+"Oh, you'll live. Now where's Tsugawa's company, this \"Urban Foods\"? I'm "
+"going after him."
+msgstr ""
+"Ah, ti riprendi. Ora dov'è la compagnia di Tsugawa, questa 'Urban Foods'? "
+"Vado a prenderlo."
+
+msgctxt "128_Saki-chan"
+msgid "Don't you think you're rushing things just a bit?"
+msgstr "Non pensi che stai affrettando un po' troppo le cose?"
+
+msgctxt "140_Tanimura"
+msgid ""
+"We've already been targeted by hitmen. If we don't act fast, we'll only be "
+"leaving ourselves open to more danger. It's time to go on the offensive."
+msgstr ""
+"Ci hanno già messo nel mirino dei sicari.\n"
+"Se non ci diamo una mossa, finiremo solo in un guaio ancora più grosso.\n"
+"È ora di passare al contrattacco."
+
+msgctxt "152_Saki-chan"
+msgid "There's that youthful optimism shining through..."
+msgstr "Ah, ecco quell'ottimismo giovanile che traspare..."
+
+msgctxt "164_Saki-chan"
+msgid ""
+"All right. Urban Foods is in the building with the information booth on "
+"Suppon Street. Don't take them lightly."
+msgstr ""
+"Bene. Urban Foods è nell'edificio con lo sportello informazioni su Suppon "
+"Street. Non pigliateli sotto gamba."
+
+msgctxt "176_Tanimura"
+msgid "Suppon Street. Got it."
+msgstr "Suppon Street. Capito."

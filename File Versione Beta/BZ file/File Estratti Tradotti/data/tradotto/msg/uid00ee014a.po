@@ -1,0 +1,196 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "6064"
+msgid "Dealer"
+msgstr "Croupier"
+
+msgctxt "6068"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "6072"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "6076"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "6080"
+msgid "HAL_stand_tlk_happy_small"
+msgstr "HAL_stand_tlk_happy_small"
+
+msgctxt "6084"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "6088"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "6092"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "6096"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "260_Dealer"
+msgid "It looks like you don't have enough chips to play roulette, sir."
+msgstr ""
+"Pare che non abbia abbastanza fiches per giocare alla roulette, signore."
+
+msgctxt "272_Dealer"
+msgid "If you'd like to purchase chips, you can do so at the front desk."
+msgstr "Se desideri acquistare fiches, puoi farlo alla cassa."
+
+msgctxt "284_Dealer"
+msgid "Welcome. Would you like to play roulette?"
+msgstr "Benvenuto. Vuole giocare a roulette?"
+
+msgctxt "308_Haruka"
+msgid "Uncle Kaz! I bet you could get 1,000 points in roulette!"
+msgstr "Zio Kaz! Scommetto che faresti 1.000 punti alla roulette!"
+
+msgctxt "320_Kiryu"
+msgid "(1,000 points in roulette... Should I give it a try?)"
+msgstr "(1.000 punti alla roulette... Mi butto?)"
+
+msgctxt "332_Kiryu"
+msgid "All right, I'll play."
+msgstr "Va bene, ci sto."
+
+msgctxt "344_Dealer"
+msgid "Very good, sir. Please take your seat."
+msgstr "Benissimo, signore. Prego, si accomodi."
+
+msgctxt "356_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr "Buona fortuna, Zio Kaz!"
+
+msgctxt "380_Kiryu"
+msgid "Not right now."
+msgstr "Non adesso."
+
+msgctxt "392_Dealer"
+msgid "Very well. We hope you'll play with us next time."
+msgstr "Molto bene. Speriamo che giocherai con noi la prossima volta."
+
+msgctxt "404_Haruka"
+msgid "Aww, I wanted to watch you play... Maybe next time?"
+msgstr "Uffa, volevo guardarti giocare... Magari la prossima volta?"
+
+msgctxt "416_Haruka"
+msgid "Uncle Kaz! I bet you could get 2,000 points in roulette!"
+msgstr "Zio Kaz! Scommetto che riusciresti a fare 2.000 punti alla roulette!"
+
+msgctxt "428_Kiryu"
+msgid "(2,000 points in roulette... Should I give it a try?)"
+msgstr "(2.000 punti alla roulette... Ci provo?)"
+
+msgctxt "440_Kiryu"
+msgid "All right, I'll play."
+msgstr "Va bene, ci sto."
+
+msgctxt "452_Dealer"
+msgid "Very good, sir. Please take your seat."
+msgstr "Benissimo, signore. Prego, si accomodi."
+
+msgctxt "464_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr "Buona fortuna, Zio Kaz!"
+
+msgctxt "488_Kiryu"
+msgid "Not right now."
+msgstr "Non adesso."
+
+msgctxt "500_Dealer"
+msgid "Very well. We hope you'll play with us next time."
+msgstr "Molto bene. Speriamo che giocherai con noi la prossima volta."
+
+msgctxt "512_Haruka"
+msgid "Aww, I wanted to watch you play... Maybe next time?"
+msgstr "Uffa, volevo guardarti giocare... Magari la prossima volta?"
+
+msgctxt "524_Dealer"
+msgid "Welcome. Would you like to play roulette?"
+msgstr "Benvenuto. Vuole giocare a roulette?"
+
+msgctxt "548_Player"
+msgid "Yeah, I have a feeling today's my lucky day."
+msgstr "Già, sento che oggi è il mio giorno fortunato."
+
+msgctxt "572_Dealer"
+msgid ""
+"How about playing the house, one-on-one sir? You won't able to place outside"
+" bets, but you get five spins with double the odds."
+msgstr ""
+"Che ne dice di vedersela col banco, a quattr'occhi, signore? Non potrà "
+"piazzare puntate esterne, però le spettano cinque giri con le quote "
+"raddoppiate."
+
+msgctxt "584_Player"
+msgid "Let me think..."
+msgstr "Fammi pensare..."
+
+msgctxt "608_Dealer"
+msgid "Very good, sir. Please take your seat."
+msgstr "Benissimo, signore. Prego, si accomodi."
+
+msgctxt "632_Dealer"
+msgid "It looks like you don't have enough chips to play roulette, sir."
+msgstr ""
+"Pare che non abbia abbastanza fiches per giocare alla roulette, signore."
+
+msgctxt "644_Player"
+msgid "Not right now."
+msgstr "Non adesso."
+
+msgctxt "656_Dealer"
+msgid "Very well. We hope you'll play with us next time."
+msgstr "Molto bene. Speriamo che giocherai con noi la prossima volta."
+
+msgctxt "668_Dealer"
+msgid "Play"
+msgstr "Giochiamo"
+
+msgctxt "680_Dealer"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "692_Dealer"
+msgid "Play"
+msgstr "Giochiamo"
+
+msgctxt "704_Dealer"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "716_Dealer"
+msgid "Play"
+msgstr "Giochiamo"
+
+msgctxt "728_Dealer"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "740_Dealer"
+msgid "Play Against the House"
+msgstr "Gioca contro la casa"
+
+msgctxt "752_Dealer"
+msgid "Play a Standard Game"
+msgstr "Gioca a una Partita Standard"

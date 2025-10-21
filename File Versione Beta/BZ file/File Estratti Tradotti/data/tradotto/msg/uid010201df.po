@@ -1,0 +1,210 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "8372"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "8376"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "8380"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "8384"
+msgid "Lily"
+msgstr "Lily"
+
+msgctxt "8388"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "96_Akiyama"
+msgid ""
+"Well, I should probably get going. Got some other things to take care of. "
+"You know how it is."
+msgstr ""
+"Beh, direi che è ora di andare. Ho altre cose da sbrigare.\n"
+"Sai com'è."
+
+msgctxt "108_Lily"
+msgid "Leaving already? But we only just got started."
+msgstr "Te ne vai già? Ma avevamo appena iniziato."
+
+msgctxt "120_Akiyama"
+msgid ""
+"Sorry. Can't have the owner keeping his future number one all to himself. "
+"It's bad for business."
+msgstr ""
+"Mi spiace. Non posso far sì che il proprietario si tenga la sua futura "
+"numero uno tutta per sé. È un male per gli affari."
+
+msgctxt "132_Lily"
+msgid "Of course..."
+msgstr "Certo..."
+
+msgctxt "144_Akiyama"
+msgid "But what do you say we meet up after your shift?"
+msgstr "Ma che ne dici, ci vediamo dopo il tuo turno?"
+
+msgctxt "156_Lily"
+msgid "Hehe, are you asking me out on another date?"
+msgstr "Hehe, mi stai invitando a un altro appuntamento?"
+
+msgctxt "168_Akiyama"
+msgid "If you want me to be."
+msgstr "Se vuoi che lo sia."
+
+msgctxt "180_Lily"
+msgid "Okay, then. It's a date."
+msgstr "Va bene, allora. È fatta."
+
+msgctxt "192_Akiyama"
+msgid "Great, we'll reconvene in Theater Square. See you there."
+msgstr "Perfetto, ci rivediamo a Theater Square. Ci vediamo lì."
+
+msgctxt "204_Lily"
+msgid "Okay."
+msgstr "Ok."
+
+msgctxt "240_Akiyama"
+msgid "All right, part two. You ready?"
+msgstr "Allora, parte due. Sei pronta?"
+
+msgctxt "252_Lily"
+msgid "Yes."
+msgstr "Sì."
+
+msgctxt "264_Akiyama"
+msgid "Good. Now, I want you to entertain me as if I were a customer."
+msgstr "Bene. Ora, voglio che tu mi intrattenga come se fossi un cliente."
+
+msgctxt "276_Lily"
+msgid "A customer?"
+msgstr "Un cliente?"
+
+msgctxt "288_Akiyama"
+msgid "That's right. You've just been hired as a hostess, after all."
+msgstr "Esatto. Dopotutto, sei appena stata assunta come hostess."
+
+msgctxt "300_Akiyama"
+msgid "You're gonna be the number one girl here."
+msgstr "Diventerai la ragazza numero uno qui."
+
+msgctxt "312_Lily"
+msgid "Me, number one...? But why?"
+msgstr "Io, la numero uno...? Ma perché?"
+
+msgctxt "324_Akiyama"
+msgid "Well, as it turns out, I own the place."
+msgstr "Beh, a quanto pare, il locale è mio."
+
+msgctxt "336_Akiyama"
+msgid ""
+"We manage to stay in the black, but in this economy, well... We're basically"
+" treading water."
+msgstr ""
+"Riusciamo a stare in attivo, ma con quest'economia, be'... Siamo "
+"praticamente qui che annaspiamo."
+
+msgctxt "348_Lily"
+msgid "Oh..."
+msgstr "Oh..."
+
+msgctxt "360_Akiyama"
+msgid ""
+"And that's where you come in. A new face to freshen up our lineup could "
+"really boost sales."
+msgstr ""
+"Ed è qui che entri in ballo tu. Una faccia nuova per dare una rinfrescata al"
+" nostro team potrebbe davvero far schizzare le vendite."
+
+msgctxt "372_Lily"
+msgid "I see. Um..."
+msgstr "Capisco. Uhm..."
+
+msgctxt "384_Akiyama"
+msgid "Yeah?"
+msgstr "Davvero?"
+
+msgctxt "396_Lily"
+msgid "I understand the test, but... I'm not sure I can reach number one."
+msgstr ""
+"Capisco la prova, ma... non sono sicura di poter arrivare al primo posto."
+
+msgctxt "408_Akiyama"
+msgid "That so? Then I guess you don't need the hundred million."
+msgstr "Ah sì? Allora immagino che non ti servano i cento milioni."
+
+msgctxt "420_Lily"
+msgid "What?"
+msgstr "Cosa?"
+
+msgctxt "432_Akiyama"
+msgid ""
+"We haven't even started, and you've already decided you can't do it. We "
+"should just call the whole thing off."
+msgstr ""
+"Non abbiamo nemmeno cominciato, e hai già deciso che non ce la fai. Dovremmo"
+" semplicemente lasciar perdere tutto."
+
+msgctxt "444_Lily"
+msgid "No... I'll do it. Please."
+msgstr "No... Lo faccio io. Ti prego."
+
+msgctxt "456_Akiyama"
+msgid ""
+"That's the spirit. And don't worry, you're number one material exactly as "
+"you are."
+msgstr ""
+"Ecco lo spirito! E stai tranquilla, hai la stoffa della numero uno così come"
+" sei."
+
+msgctxt "468_Lily"
+msgid "Speaking of, how do you determine a hostess's rank? Is it by sales?"
+msgstr ""
+"A proposito, come si determina il rango di una hostess? È in base alle "
+"vendite?"
+
+msgctxt "480_Akiyama"
+msgid ""
+"You got it. Starting today, you'll have three days to make us three million "
+"yen."
+msgstr "Ci siamo. Da oggi avrai tre giorni per farci tre milioni di yen."
+
+msgctxt "492_Lily"
+msgid "Three million? In three days?"
+msgstr "Tre milioni? In tre giorni?"
+
+msgctxt "504_Akiyama"
+msgid ""
+"Do that and you pass the test. I'll loan you the hundred million yen, no "
+"collateral, no guarantor."
+msgstr ""
+"Fai così e passi la prova. Ti presterò i cento milioni di yen, senza "
+"garanzie né un garante."
+
+msgctxt "516_Lily"
+msgid "......"
+msgstr "......"
+
+msgctxt "528_Akiyama"
+msgid ""
+"And if you can't do it, we'll just pretend this never happened. Like we "
+"discussed earlier."
+msgstr ""
+"E se non ce la fai, facciamo finta che non sia successo niente. Come avevamo"
+" detto prima."

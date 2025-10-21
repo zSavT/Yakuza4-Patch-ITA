@@ -1,0 +1,306 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "480"
+msgid "The Asia employee is now your ally."
+msgstr "L'uomo dell'Asia ora è dei nostri."
+
+msgctxt "11188"
+msgid "Barker"
+msgstr "Imbonitore"
+
+msgctxt "11192"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "11196"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "11200"
+msgid "Lily"
+msgstr "Lily"
+
+msgctxt "11204"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "11208"
+msgid "Yasuko"
+msgstr "Yasuko"
+
+msgctxt "11212"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "444_Barker"
+msgid "Akiyama-san, thank you for your patronage!"
+msgstr "Akiyama-san, grazie per la sua preferenza!"
+
+msgctxt "456_Barker"
+msgid "I've got a special deal just for you."
+msgstr "Ho un'offerta speciale proprio per te."
+
+msgctxt "468_Barker"
+msgid ""
+"I made it so you can request your favorite dancer the next time you visit. I"
+" hope you'll come back again."
+msgstr ""
+"Ho fatto in modo che tu possa richiedere la tua ballerina preferita la "
+"prossima volta che verrai. Spero che tornerai ancora."
+
+msgctxt "504_Barker"
+msgid "What took you so long, Uncle Kaz? I got tired of waiting..."
+msgstr "Che ci hai messo così tanto, Zio Kaz? Mi sono stufato di aspettare..."
+
+msgctxt "528_Barker"
+msgid "Oh, you're back, Akiyama-san. Shall we go, then?"
+msgstr "Oh, sei tornato, Akiyama-san. Andiamo, allora?"
+
+msgctxt "540_Barker"
+msgid "Oh, Kiryu-san, I've been waiting for you. Shall we go, then?"
+msgstr "Oh, Kiryu-san, ti stavo aspettando. Allora, andiamo?"
+
+msgctxt "564_Barker"
+msgid ""
+"Hey, tough guy! How about a show? Only 3,000 yen! Satisfaction guaranteed!"
+msgstr ""
+"Ehi, tosto! Che ne dici di uno spettacolo? Solo 3.000 yen! Soddisfazione "
+"garantita!"
+
+msgctxt "600_Barker"
+msgid "Are you... going in there, Uncle Kaz?"
+msgstr "Stai... andando lì dentro, Zio Kaz?"
+
+msgctxt "612_Player"
+msgid "(Shoot, I forgot Haruka was with me! What now!?)"
+msgstr "(Cacchio, mi ero dimenticato che Haruka era con me! E adesso!?)"
+
+msgctxt "624_Barker"
+msgid "Yeah, sorry. Think you can be a big girl and wait here while I'm gone?"
+msgstr ""
+"Già, scusa. Pensi di riuscire a fare la grande e aspettare qui finché non "
+"torno?"
+
+msgctxt "636_Haruka"
+msgid "...Okay. Have fun, Uncle Kaz."
+msgstr "...Ok. Divertiti, Zio Kaz."
+
+msgctxt "648_Barker"
+msgid "No, I changed my mind."
+msgstr "No, ho cambiato idea."
+
+msgctxt "660_Haruka"
+msgid "Really? I don't mind."
+msgstr "Davvero? Non mi faccio problemi."
+
+msgctxt "684_Barker"
+msgid "Um, are you going in here?"
+msgstr "Ehm, entri qui?"
+
+msgctxt "696_Player"
+msgid "(I forgot Lily-chan's with me. What to do...)"
+msgstr "Mi ero scordato che Lily-chan è con me. E ora che si fa...?"
+
+msgctxt "708_Barker"
+msgid "Yeah. Sorry, but could you wait a bit out here?"
+msgstr "Sì. Scusa, ma potresti aspettare un attimo qui fuori?"
+
+msgctxt "720_Lily"
+msgid "Oh, sure. I understand."
+msgstr "Ah, certo. Ho capito."
+
+msgctxt "732_Barker"
+msgid "Actually, never mind."
+msgstr "Anzi, lascia stare."
+
+msgctxt "744_Lily"
+msgid "I see... You don't have to worry about me though."
+msgstr "Capisco... Per me non ti devi preoccupare, però."
+
+msgctxt "756_Barker"
+msgid "Um, are you going in here?"
+msgstr "Ehm, entri qui?"
+
+msgctxt "768_Player"
+msgid "(I forgot Yasuko-san's with me. What to do...)"
+msgstr "(Ho dimenticato che Yasuko-san è con me. Cosa faccio...?)"
+
+msgctxt "780_Barker"
+msgid "Sorry, but could I ask you to wait out here?"
+msgstr "Scusa, ma potrei chiederti di aspettare un attimo qui fuori?"
+
+msgctxt "792_Yasuko"
+msgid "Oh, sure. I understand."
+msgstr "Ah, certo. Ho capito."
+
+msgctxt "804_Barker"
+msgid "Never mind."
+msgstr "Lascia stare."
+
+msgctxt "816_Yasuko"
+msgid "I see... You don't have to worry about me though."
+msgstr "Capisco... Per me non ti devi preoccupare, però."
+
+msgctxt "828_Barker"
+msgid ""
+"Oh, you're short on cash? Too bad. You can always come back when you get "
+"more money!"
+msgstr ""
+"Oh, sei a corto di grana? Pazienza. Puoi sempre tornare quando avrai più "
+"grana!"
+
+msgctxt "840_Barker"
+msgid "Not in that kinda mood? Well, come on back when you are!"
+msgstr "Non sei in vena? Beh, torna pure quando lo sei!"
+
+msgctxt "852_Barker"
+msgid "Right this way!"
+msgstr "Dai, da questa parte!"
+
+msgctxt "888_Barker"
+msgid ""
+"Hey, tough guy! How about a show? Only 3,000 yen! Satisfaction guaranteed!"
+msgstr ""
+"Ehi, tosto! Che ne dici di uno spettacolo? Solo 3.000 yen! Soddisfazione "
+"garantita!"
+
+msgctxt "900_Barker"
+msgid "Oh, hey, Akiyama-san! How about a show?"
+msgstr "Oh, ehi, Akiyama-san! Che ne dici di uno spettacolo?"
+
+msgctxt "936_Barker"
+msgid ""
+"Oh, you're short on cash? Too bad. You can always come back when you get "
+"more money!"
+msgstr ""
+"Oh, sei a corto di grana? Pazienza. Puoi sempre tornare quando avrai più "
+"grana!"
+
+msgctxt "948_Barker"
+msgid "Not in that kinda mood? Well, come on back when you are!"
+msgstr "Non sei in vena? Beh, torna pure quando lo sei!"
+
+msgctxt "960_Barker"
+msgid "Right this way!"
+msgstr "Dai, da questa parte!"
+
+msgctxt "984_Barker"
+msgid ""
+"Just for you, Akiyama-san, you can choose a girl of your liking. What kind "
+"of girl would you like?"
+msgstr ""
+"Proprio per te, Akiyama-san, puoi scegliere la ragazza che più ti piace. Che"
+" tipo di ragazza vorresti?"
+
+msgctxt "996_Barker"
+msgid "How about a glamorous girl?"
+msgstr "Che ne dici di una ragazza glamour?"
+
+msgctxt "1020_Barker"
+msgid "Let's go with a normal girl."
+msgstr "Puntiamo su una ragazza normale."
+
+msgctxt "1044_Barker"
+msgid "I'm feeling a slender girl today."
+msgstr "Ho voglia di una ragazza snella oggi."
+
+msgctxt "1068_Barker"
+msgid "All right. Now follow me."
+msgstr ""
+"Va bene.\n"
+"Adesso seguimi."
+
+msgctxt "1092_Barker"
+msgid ""
+"Hey, tough guy! How about a show? Only 3,000 yen! Satisfaction guaranteed!"
+msgstr ""
+"Ehi, tosto! Che ne dici di uno spettacolo? Solo 3.000 yen! Soddisfazione "
+"garantita!"
+
+msgctxt "1116_Barker"
+msgid "Right this way!"
+msgstr "Dai, da questa parte!"
+
+msgctxt "1140_Barker"
+msgid ""
+"Oh, you're short on cash? Too bad. You can always come back when you get "
+"more money!"
+msgstr ""
+"Oh, sei a corto di grana? Pazienza. Puoi sempre tornare quando avrai più "
+"grana!"
+
+msgctxt "1152_Barker"
+msgid "Not in that kinda mood? Well, come on back when you are!"
+msgstr "Non sei in vena? Beh, torna pure quando lo sei!"
+
+msgctxt "1164_Barker"
+msgid "Go In Anyway"
+msgstr "Entra comunque"
+
+msgctxt "1176_Barker"
+msgid "Forget It"
+msgstr "Lascia perdere"
+
+msgctxt "1188_Barker"
+msgid "Go In Anyway"
+msgstr "Entra comunque"
+
+msgctxt "1200_Barker"
+msgid "Forget It"
+msgstr "Lascia perdere"
+
+msgctxt "1212_Barker"
+msgid "Go In Anyway"
+msgstr "Entra comunque"
+
+msgctxt "1224_Barker"
+msgid "Forget It"
+msgstr "Lascia perdere"
+
+msgctxt "1236_Barker"
+msgid "Check It Out"
+msgstr "Dacci un'occhiata"
+
+msgctxt "1248_Barker"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "1260_Barker"
+msgid "Check It Out"
+msgstr "Dacci un'occhiata"
+
+msgctxt "1272_Barker"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "1284_Barker"
+msgid "A Glamourous Girl"
+msgstr "Una ragazza glamour"
+
+msgctxt "1296_Barker"
+msgid "A Normal Girl"
+msgstr "Una Ragazza Normale"
+
+msgctxt "1308_Barker"
+msgid "A Slender Girl"
+msgstr "Una ragazza snella"
+
+msgctxt "1320_Barker"
+msgid "Check It Out"
+msgstr "Dacci un'occhiata"
+
+msgctxt "1332_Barker"
+msgid "Not Now"
+msgstr "Non ora"

@@ -1,0 +1,67 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "1244"
+msgid "Morinaga"
+msgstr "Morinaga"
+
+msgctxt "1248"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1252"
+msgid "Kawana"
+msgstr "Kawana"
+
+msgctxt "1256"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1260"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1264"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "72_Morinaga"
+msgid ""
+"You're like a friggin' mack truck, Kawana-san. How's a fella get that "
+"ripped?"
+msgstr ""
+"Sei un maledetto carro armato, Kawana-san. Come si fa a diventare così "
+"grossi?"
+
+msgctxt "84_Kawana"
+msgid ""
+"I'm telling you, man. It's all the work they've got me doing out in the "
+"field."
+msgstr "Te lo dico, amico. È tutto il lavoro che mi fanno fare nei campi."
+
+msgctxt "96_Morinaga"
+msgid "Shit... I gotta get myself on farm duty!"
+msgstr "Merda... Devo farmi assegnare ai lavori agricoli!"
+
+msgctxt "108_Kawana"
+msgid ""
+"Fat chance. You know how much I had to shell out for that privilege? Not "
+"gonna happen unless you're ready to lay down some serious cash."
+msgstr ""
+"Scordatelo. Sai quanto ho dovuto sborsare per quel privilegio? Non succederà"
+" a meno che tu non sia pronto a sborsare un sacco di soldi."
+
+msgctxt "120_Saejima"
+msgid "(Looks like I found my farmer.)"
+msgstr "(Sembra che abbia trovato il mio contadino.)"

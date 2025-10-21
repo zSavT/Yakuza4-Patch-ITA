@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "2532"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2536"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "2540"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2544"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "112_Saejima"
+msgid "Goin' somewhere with Haruka-chan? Have a good time."
+msgstr "Vai da qualche parte con Haruka-chan? Divertiti."
+
+msgctxt "124_Saejima"
+msgid ""
+"Oh, %s. Why don't ya take it easy for a change? I'll handle whatever ya "
+"gotta do out there."
+msgstr ""
+"Oh, %s. Perché non te la prendi comoda per una volta? Ci penso io a sbrigare"
+" quello che c'è da fare lì fuori."
+
+msgctxt "148_Player"
+msgid "I'll be okay on my own for now."
+msgstr "Me la caverò da solo per ora."
+
+msgctxt "160_Player"
+msgid "Sorry, gonna have to pass."
+msgstr "Scusa, dovrò passare."
+
+msgctxt "172_Player"
+msgid "I'm good."
+msgstr "Sto bene."
+
+msgctxt "184_Player"
+msgid "Nah, I'm fine."
+msgstr "No, sono a posto."
+
+msgctxt "196_Saejima"
+msgid ""
+"If ya say so. Just don't come complainin' if ya get too tired out there."
+msgstr ""
+"Se dici tu. Però non venire a lamentarti se ti stanchi troppo là fuori."
+
+msgctxt "220_Player"
+msgid "That's a good idea. Go ahead."
+msgstr "È un'ottima idea. Fai pure."
+
+msgctxt "232_Player"
+msgid "Sure, why not. I'm always down to chill for a bit."
+msgstr "Certo, perché no. Mi va sempre di staccare un po'."
+
+msgctxt "244_Player"
+msgid "Guess I don't mind catchin' my breath."
+msgstr "Beh, non mi dispiace riprendere fiato."
+
+msgctxt "256_Player"
+msgid "All right, I'll let you take things from here."
+msgstr "Va bene, ti lascio fare tu da qui."
+
+msgctxt "268_Saejima"
+msgid "Just kick back n' relax. I'll handle everythin' for ya."
+msgstr "Prenditela comoda e rilassati. A tutto ci penso io per te."
+
+msgctxt "292_Saejima"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "304_Saejima"
+msgid "Switch to Saejima"
+msgstr "Passa a Saejima"

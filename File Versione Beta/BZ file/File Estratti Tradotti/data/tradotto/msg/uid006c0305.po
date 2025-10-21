@@ -1,0 +1,321 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-26\n"
+"Last-Translator: \n"
+"Language-Team: Brazil Alliance\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "11660"
+msgid "Akko"
+msgstr "Akko"
+
+msgctxt "11664"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "11668"
+msgid "F_cab_sitsofa_tlk_happy"
+msgstr "F_cab_sitsofa_tlk_happy"
+
+msgctxt "11672"
+msgid "F_cab_sitsofa_sync_order"
+msgstr "F_cab_sitsofa_sync_order"
+
+msgctxt "11676"
+msgid "M_shp_sitgrd_sync_order"
+msgstr "M_shp_sitgrd_sync_order"
+
+msgctxt "11680"
+msgid "Attendant"
+msgstr "Addetto"
+
+msgctxt "11684"
+msgid "Player"
+msgstr "Player"
+
+msgctxt "11688"
+msgid "F_cab_stand_tlk_byeA"
+msgstr "F_cab_stand_tlk_byeA"
+
+msgctxt "11692"
+msgid "F_cab_stand_sync_byeC_st"
+msgstr "F_cab_stand_sync_byeC_st"
+
+msgctxt "11696"
+msgid "P_stand_sync_byeC_st"
+msgstr "P_stand_sync_byeC_st"
+
+msgctxt "11700"
+msgid "F_cab_stand_sync_byeC_ed"
+msgstr "F_cab_stand_sync_byeC_ed"
+
+msgctxt "11704"
+msgid "P_stand_sync_byeC_ed"
+msgstr "P_stand_sync_byeC_ed"
+
+msgctxt "11708"
+msgid "F_cab_stand_sync_dakiA_st"
+msgstr "F_cab_stand_sync_dakiA_st"
+
+msgctxt "11712"
+msgid "P_stand_sync_dakiA_st"
+msgstr "P_stand_sync_dakiA_st"
+
+msgctxt "11716"
+msgid "F_cab_stand_sync_dakiA_ed"
+msgstr "F_cab_stand_sync_dakiA_ed"
+
+msgctxt "11720"
+msgid "P_stand_sync_dakiA_ed"
+msgstr "P_stand_sync_dakiA_ed"
+
+msgctxt "2600_Akko"
+msgid "Do you wanna order something?"
+msgstr "Vuoi prendere qualcosa?"
+
+msgctxt "2624_Kiryu"
+msgid "I'll take one of these."
+msgstr "Prendo uno di questi."
+
+msgctxt "2636_Akko"
+msgid ""
+"Huh?\r\n"
+"You're not gonna order anything?"
+msgstr ""
+"Eh?\n"
+"Non ordini niente?"
+
+msgctxt "2648_Akko"
+msgid "Wanna go another round?"
+msgstr "Vuoi un altro giro?"
+
+msgctxt "2672_Kiryu"
+msgid "I'll take one of these."
+msgstr "Prendo uno di questi."
+
+msgctxt "2684_Akko"
+msgid ""
+"Huh?\r\n"
+"You don't want another?"
+msgstr ""
+"Eh?\n"
+"Non ne vuoi un altro?"
+
+msgctxt "2696_Akko"
+msgid "Oooh, I love that, too!"
+msgstr "Oooh, mi piace un sacco anche quello!"
+
+msgctxt "2708_Akko"
+msgid "You like that stuff?"
+msgstr "Ti garba quella roba?"
+
+msgctxt "2720_Akko"
+msgid "All right, understood."
+msgstr "Va bene, capito."
+
+msgctxt "2732_Akko"
+msgid "Y'know, there are way yummier drinks..."
+msgstr "Sai, ci sono un sacco di drink molto più sfiziosi..."
+
+msgctxt "2744_Akko"
+msgid "Oh, I see..."
+msgstr "Ah, capisco..."
+
+msgctxt "2756_Akko"
+msgid "How about something to eat?"
+msgstr "Che ne dici di qualcosa da mangiare?"
+
+msgctxt "2780_Kiryu"
+msgid "I'll take one of these."
+msgstr "Prendo uno di questi."
+
+msgctxt "2792_Akko"
+msgid "Aww, you're not hungry?"
+msgstr "Ma dai, non hai fame?"
+
+msgctxt "2804_Akko"
+msgid "Want anything to eat?"
+msgstr "Vuoi mangiare qualcosa?"
+
+msgctxt "2828_Kiryu"
+msgid "I'll take one of these."
+msgstr "Prendo uno di questi."
+
+msgctxt "2840_Akko"
+msgid "Oh, you're not hungry."
+msgstr "Oh, non hai fame."
+
+msgctxt "2852_Akko"
+msgid "I love that!"
+msgstr "Adoro!"
+
+msgctxt "2864_Akko"
+msgid "I love that!"
+msgstr "Adoro!"
+
+msgctxt "2876_Akko"
+msgid "All right, understood."
+msgstr "Va bene, capito."
+
+msgctxt "2888_Akko"
+msgid "You really eat stuff like that?"
+msgstr "Ma tu ti mangi davvero 'sta roba?"
+
+msgctxt "2900_Akko"
+msgid "I really... don't like that."
+msgstr "Quello... non mi piace proprio."
+
+msgctxt "2912_Akko"
+msgid "What's good about it?"
+msgstr "Che c'ha di buono?"
+
+msgctxt "2924_Akko"
+msgid "I'll put in the order, then."
+msgstr "Faccio l'ordine, allora."
+
+msgctxt "2948_Akko"
+msgid "Yes?"
+msgstr "Sì?"
+
+msgctxt "2960_M_shp_sitgrd_sync_order"
+msgid "This please!"
+msgstr "Questo, per favore!"
+
+msgctxt "2972_Akko"
+msgid "With pleasure."
+msgstr "Con piacere."
+
+msgctxt "2996_Akko"
+msgid "Cheers!"
+msgstr "Salute!"
+
+msgctxt "3008_Akko"
+msgid "Cheers."
+msgstr "Salute."
+
+msgctxt "3020_M_shp_sitgrd_sync_order"
+msgid "Make yourself comfortable!"
+msgstr "Mettiti comodo!"
+
+msgctxt "3032_Akko"
+msgid "Cheers."
+msgstr "Salute."
+
+msgctxt "3044_Akko"
+msgid "Cheers."
+msgstr "Salute."
+
+msgctxt "3056_M_shp_sitgrd_sync_order"
+msgid "Make yourself at home."
+msgstr "Fai come se fossi a casa tua."
+
+msgctxt "3068_Akko"
+msgid "I'm making it right now."
+msgstr "Lo sto preparando proprio adesso."
+
+msgctxt "3080_Akko"
+msgid "All right..."
+msgstr "Va bene..."
+
+msgctxt "3092_Akko"
+msgid "Here you go!"
+msgstr "Ecco a te!"
+
+msgctxt "3128_Akko"
+msgid "Here you go!"
+msgstr "Ecco a te!"
+
+msgctxt "3140_Akko"
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgctxt "3152_Akko"
+msgid "Can I smoke too?"
+msgstr "Posso fumare anch'io?"
+
+msgctxt "3164_Akko"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "3176_Akko"
+msgid "Go on, drink up!"
+msgstr "Dai, su, bevi!"
+
+msgctxt "3188_Akko"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "3200_Akko"
+msgid "I'll drink, too!"
+msgstr "Mi faccio anch'io una bevuta!"
+
+msgctxt "3212_Akko"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "3224_Player"
+msgid "I should be getting home."
+msgstr "Dovrei tornare a casa."
+
+msgctxt "3236_Akko"
+msgid "You're leaving already?"
+msgstr "Te ne vai già?"
+
+msgctxt "3248_Akko"
+msgid "I think our time's almost up..."
+msgstr "Mi sa che il nostro tempo sta per finire..."
+
+msgctxt "3260_Akko"
+msgid "Yeah..."
+msgstr "Già..."
+
+msgctxt "3368_Akko"
+msgid "Bye."
+msgstr "Ciao."
+
+msgctxt "3380_Akko"
+msgid "See you later, okay?"
+msgstr "Ci vediamo dopo, okay?"
+
+msgctxt "3392_Akko"
+msgid "%s-san!"
+msgstr "%s-san!"
+
+msgctxt "3404_Akko"
+msgid "See you later..."
+msgstr "Ci vediamo..."
+
+msgctxt "3416_Akko"
+msgid "Yeah..."
+msgstr "Già..."
+
+msgctxt "3428_F_cab_stand_sync_byeC_ed"
+msgid "Bye."
+msgstr "Ciao."
+
+msgctxt "3440_Akko"
+msgid "%s-san!"
+msgstr "%s-san!"
+
+msgctxt "3452_Akko"
+msgid "Okay, I'll see you again."
+msgstr "Ok, ci si vede."
+
+msgctxt "3464_Akko"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "3476_F_cab_stand_sync_dakiA_ed"
+msgid "Bye."
+msgstr "Ciao."
+
+msgctxt "3536_Akko"
+msgid "Bye! <Color:7>♥<Color:Default>"
+msgstr "Ciao! <Color:7>♥<Color:Default>"
