@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-17\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/ikusei/ikusei_param_en/data/02_eha_master_comment.po\n"
+"X-Crowdin-File-ID: 57212\n"
+"PO-Revision-Date: 2025-10-21 14:00\n"
+
+msgctxt "656\tCOMENNT"
+msgid "He really needs to win a tournament soon. We've got to do something..."
+msgstr "Deve assolutamente vincere un torneo, e presto. Dobbiamo trovare una soluzione..."
+
+msgctxt "727\tCOMENNT"
+msgid "Building up Trust with your apprentice comes before training. How about taking him out for a drink?"
+msgstr "Creare fiducia con il tuo apprendista viene prima dell’allenamento. Che ne dici di portarlo fuori a bere qualcosa?"
+
+msgctxt "827\tCOMENNT"
+msgid "Honestly, he doesn't need any more training. He should have no problems fighting in a tournament."
+msgstr "Onestamente, non ha più bisogno di allenarsi. Non dovrebbe avere problemi a combattere in un torneo."
+
+msgctxt "925\tCOMENNT"
+msgid "His Technique won't improve any further. He has plenty of abilities now. Why don't you let him compete in a real match?"
+msgstr "La sua tecnica non potrà migliorare ulteriormente. Ha già molte abilità: perché non farlo competere in un vero incontro?"
+
+msgctxt "1045\tCOMENNT"
+msgid "His Speed won't improve any further. He has plenty of abilities now. Why don't you let him compete in a real match?"
+msgstr "La sua velocità ha raggiunto il limite. Ormai ha un ottimo livello di abilità: fallo partecipare a un incontro vero."
+
+msgctxt "1161\tCOMENNT"
+msgid "His Power won't improve any further. He has plenty of abilities now. Why don't you let him compete in a real match?"
+msgstr "La sua potenza non migliorerà più. Ha già un buon equilibrio di capacità: sarebbe ora di metterlo alla prova in un incontro reale."
+
+msgctxt "1277\tCOMENNT"
+msgid "He's become an exemplary fighter. I'm sure he can hold his own in a tournament! Let's give it a shot!"
+msgstr "È diventato un combattente esemplare. Sono sicuro che saprà cavarsela in un torneo! Proviamoci!"
+
+msgctxt "1379\tCOMENNT"
+msgid "His Technique is superb! If you work on strengthening his weak points, I'm sure he'll win a tournament."
+msgstr "La sua tecnica è eccezionale! Se lavori per coprire i suoi punti deboli, sono certo che potrà vincere un torneo."
+
+msgctxt "1483\tCOMENNT"
+msgid "His Speed is superb! If you work on strengthening his weak points, I'm sure he'll win a tournament."
+msgstr "La sua velocità è straordinaria! Se riesci a migliorare i suoi punti deboli, potrà vincere senza problemi un torneo."
+
+msgctxt "1583\tCOMENNT"
+msgid "His Power is superb! If you work on strengthening his weak points, I'm sure he'll win a tournament."
+msgstr "La sua potenza è impressionante! Se riesci a bilanciare i suoi punti deboli, sono sicuro che vincerà un torneo."
+
+msgctxt "1683\tCOMENNT"
+msgid "He's become a spectacular fighter. He may be ready for a mid-level exhibition match."
+msgstr "È diventato un combattente spettacolare. Potrebbe essere pronto per un incontro dimostrativo di livello intermedio."
+
+msgctxt "1768\tCOMENNT"
+msgid "His Stamina has finally developed to a decent level. But that may be the max, so you should make up for it with other abilities."
+msgstr "La sua resistenza è finalmente a un livello accettabile. Ma potrebbe essere il massimo raggiungibile, quindi cerca di compensare con altre abilità."
+
+msgctxt "1897\tCOMENNT"
+msgid "His Technique has gotten much better. Ehama is very agile, so I'm sure his technique can improve more."
+msgstr "La sua tecnica è molto migliorata. Ehama è molto agile, quindi sono sicuro che potrà perfezionarsi ancora."
+
+msgctxt "2000\tCOMENNT"
+msgid "He's gotten much faster. Ehama's potential for Speed is incredible. It's like he has no limit."
+msgstr "È diventato molto più veloce. Il potenziale di Ehama in termini di velocità è incredibile, sembra non avere limiti."
+
+msgctxt "2095\tCOMENNT"
+msgid "He's gotten stronger, but Ehama's Power will never be his forte. His other abilities should be easier to develop."
+msgstr "È diventato più forte, ma la potenza non sarà mai il punto forte di Ehama. Le sue altre abilità, però, si sviluppano con più facilità."
+
+msgctxt "2209\tCOMENNT"
+msgid "He's really starting to master the basics. Why don't you try entering him into a low-level exhibition match?"
+msgstr "Sta davvero iniziando a padroneggiare le basi. Perché non farlo partecipare a un incontro dimostrativo di livello basso?"
+
+msgctxt "2318\tCOMENNT"
+msgid "His Stamina is just too low... All of this training will go to waste if he gets hurt, so keep an eye on his Mood."
+msgstr "La sua resistenza è troppo bassa... Tutto questo allenamento sarà inutile se si fa male, quindi tieni d’occhio il suo umore."
+
+msgctxt "2432\tCOMENNT"
+msgid "He still has no foundation. The only thing to do now is train, train, and train."
+msgstr "Non ha ancora una base solida. L’unica cosa da fare adesso è allenarsi, allenarsi e ancora allenarsi."

@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-17\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/ikusei/ikusei_param_en/data/ikusei_fighter.po\n"
+"X-Crowdin-File-ID: 57200\n"
+"PO-Revision-Date: 2025-10-21 14:01\n"
+
+msgctxt "528\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 01"
+msgstr "Apprendista Combattente 01"
+
+msgctxt "550\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 02"
+msgstr "Apprendista Combattente 02"
+
+msgctxt "572\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 03"
+msgstr "Apprendista Combattente 03"
+
+msgctxt "594\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 04"
+msgstr "Apprendista Combattente 04"
+
+msgctxt "616\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 05"
+msgstr "Apprendista Combattente 05"
+
+msgctxt "638\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 06"
+msgstr "Apprendista Combattente 06"
+
+msgctxt "660\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 07"
+msgstr "Apprendista Combattente 07"
+
+msgctxt "682\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 08"
+msgstr "Apprendista Combattente 08"
+
+msgctxt "704\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 09"
+msgstr "Apprendista Combattente 09"
+
+msgctxt "726\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 10"
+msgstr "Apprendista Combattente 10"
+
+msgctxt "748\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 11"
+msgstr "Apprendista Combattente 11"
+
+msgctxt "770\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 12"
+msgstr "Apprendista Combattente 12"
+
+msgctxt "792\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 13"
+msgstr "Apprendista Combattente 13"
+
+msgctxt "814\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 14"
+msgstr "Apprendista Combattente 14"
+
+msgctxt "836\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 15"
+msgstr "Apprendista Combattente 15"
+
+msgctxt "858\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 16"
+msgstr "Apprendista Combattente 16"
+
+msgctxt "880\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 17"
+msgstr "Apprendista Combattente 17"
+
+msgctxt "902\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 18"
+msgstr "Apprendista Combattente 18"
+
+msgctxt "924\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 19"
+msgstr "Apprendista Combattente 19"
+
+msgctxt "946\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 20"
+msgstr "Apprendista Combattente 20"
+
+msgctxt "968\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 21"
+msgstr "Apprendista Combattente 21"
+
+msgctxt "990\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 22"
+msgstr "Apprendista Combattente 22"
+
+msgctxt "1012\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 23"
+msgstr "Apprendista Combattente 23"
+
+msgctxt "1034\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 24"
+msgstr "Apprendista Combattente 24"
+
+msgctxt "1056\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 25"
+msgstr "Apprendista Combattente 25"
+
+msgctxt "1078\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 26"
+msgstr "Apprendista Combattente 26"
+
+msgctxt "1100\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 27"
+msgstr "Apprendista Combattente 27"
+
+msgctxt "1122\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 28"
+msgstr "Apprendista Combattente 28"
+
+msgctxt "1144\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 29"
+msgstr "Apprendista Combattente 29"
+
+msgctxt "1166\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 30"
+msgstr "Apprendista Combattente 30"
+
+msgctxt "1188\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 31"
+msgstr "Apprendista Combattente 31"
+
+msgctxt "1210\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 32"
+msgstr "Apprendista Combattente 32"
+
+msgctxt "1232\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 33"
+msgstr "Apprendista Combattente 33"
+
+msgctxt "1254\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 34"
+msgstr "Apprendista Combattente 34"
+
+msgctxt "1276\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 35"
+msgstr "Apprendista Combattente 35"
+
+msgctxt "1298\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 36"
+msgstr "Apprendista Combattente 36"
+
+msgctxt "1320\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 37"
+msgstr "Apprendista Combattente 37"
+
+msgctxt "1342\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 38"
+msgstr "Apprendista Combattente 38"
+
+msgctxt "1364\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 39"
+msgstr "Apprendista Combattente 39"
+
+msgctxt "1386\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 40"
+msgstr "Apprendista Combattente 40"
+
+msgctxt "1408\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 41"
+msgstr "Apprendista Combattente 41"
+
+msgctxt "1430\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 42"
+msgstr "Apprendista Combattente 42"
+
+msgctxt "1452\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 43"
+msgstr "Apprendista Combattente 43"
+
+msgctxt "1474\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 44"
+msgstr "Apprendista Combattente 44"
+
+msgctxt "1496\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 45"
+msgstr "Apprendista Combattente 45"
+
+msgctxt "1518\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 46"
+msgstr "Apprendista Combattente 46"
+
+msgctxt "1540\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 47"
+msgstr "Apprendista Combattente 47"
+
+msgctxt "1562\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 48"
+msgstr "Apprendista Combattente 48"
+
+msgctxt "1584\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 49"
+msgstr "Apprendista Combattente 49"
+
+msgctxt "1606\tIKUSEI_ENEMY_NAME"
+msgid "Apprentice Fighter 50"
+msgstr "Apprendista Combattente 50"
