@@ -111,6 +111,8 @@ msgid ""
 "Complete every minigame. Each minigame's completion status can\n"
 "be viewed with <Action:Button_Cross@UI>."
 msgstr ""
+"Completa tutti i minigiochi. Lo stato di completamento di ogni minigioco\n"
+"può essere visualizzato con <Action:Button_Cross@UI>."
 
 msgctxt "737\tEXPLANATION"
 msgid "Complete all hostess substories."
