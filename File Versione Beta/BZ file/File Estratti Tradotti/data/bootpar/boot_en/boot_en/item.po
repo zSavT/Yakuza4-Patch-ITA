@@ -71,23 +71,23 @@ msgstr ""
 
 msgctxt "19516\tNAME"
 msgid "Platinum Plate"
-msgstr "Piastra di platino"
+msgstr "Piatto di platino"
 
 msgctxt "19531\tNAME"
 msgid "Gold Plate"
-msgstr "Piastra d’oro"
+msgstr "Piatto d'oro"
 
 msgctxt "19542\tNAME"
 msgid "Silver Plate"
-msgstr "Piastra d’argento"
+msgstr "Piatto d'argento"
 
 msgctxt "19555\tNAME"
 msgid "Bronze Plate"
-msgstr "Piastra di bronzo"
+msgstr "Piatto di bronzo"
 
 msgctxt "19568\tNAME"
 msgid "Iron Plate"
-msgstr "Piastra di ferro"
+msgstr "Piatto di ferro"
 
 msgctxt "19579\tNAME"
 msgid "Oden Soup"
@@ -483,7 +483,7 @@ msgstr "Spaghetti con uova di merluzzo piccanti"
 
 msgctxt "21227\tNAME"
 msgid "Rich Egg Carbonara"
-msgstr "Carbonara cremosa all’uovo"
+msgstr "Carbonara cremosa all'uovo"
 
 msgctxt "21246\tNAME"
 msgid "Grapefruit Juice"
@@ -491,7 +491,7 @@ msgstr "Succo di pompelmo"
 
 msgctxt "21263\tNAME"
 msgid "Blood Orange Juice"
-msgstr "Succo d’arancia rossa"
+msgstr "Succo d'arancia rossa"
 
 msgctxt "21282\tNAME"
 msgid "Hot Coffee"
@@ -539,7 +539,7 @@ msgstr "Gelato al cioccolato"
 
 msgctxt "21420\tNAME"
 msgid "Azuki Gelato"
-msgstr "Gelato all’azuki"
+msgstr "Gelato all'azuki"
 
 msgctxt "21433\tNAME"
 msgid "Caramel Gelato"
@@ -575,7 +575,7 @@ msgstr "Sgombro di Hokkaido alla griglia"
 
 msgctxt "21584\tNAME"
 msgid "Egg Yolk Beef Tsukune"
-msgstr "Tsukune di manzo con tuorlo d’uovo"
+msgstr "Tsukune di manzo con tuorlo d'uovo"
 
 msgctxt "21606\tNAME"
 msgid "Organic Vegetable Salad"
@@ -603,7 +603,7 @@ msgstr "Riso fritto con pinna di squalo alla pietra"
 
 msgctxt "21745\tNAME"
 msgid "The Premium Malt's Draft"
-msgstr "The Premium Malt’s alla spina"
+msgstr "The Premium Malt's alla spina"
 
 msgctxt "21770\tNAME"
 msgid "Yuzu Honey Sour"
@@ -707,7 +707,7 @@ msgstr "Tè goma-mugi"
 
 msgctxt "22177\tNAME"
 msgid "The Premium Malt's"
-msgstr "The Premium Malt’s"
+msgstr "The Premium Malt's"
 
 msgctxt "22196\tNAME"
 msgid "Kin-Mugi Beer"
@@ -795,19 +795,19 @@ msgstr ""
 
 msgctxt "22570\tNAME"
 msgid "Ballantine's 30 Years"
-msgstr "Ballantine’s 30 anni"
+msgstr "Ballantine's 30 anni"
 
 msgctxt "22592\tNAME"
 msgid "Ballantine's 17 Years"
-msgstr "Ballantine’s 17 anni"
+msgstr "Ballantine's 17 anni"
 
 msgctxt "22614\tNAME"
 msgid "Ballantine's Finest"
-msgstr "Ballantine’s Finest"
+msgstr "Ballantine's Finest"
 
 msgctxt "22634\tNAME"
 msgid "Jack Daniel's"
-msgstr "Jack Daniel’s"
+msgstr "Jack Daniel's"
 
 msgctxt "22648\tNAME"
 msgid "Early Times"
@@ -835,7 +835,7 @@ msgstr ""
 
 msgctxt "22758\tNAME"
 msgid "The Premium Malt's"
-msgstr "The Premium Malt’s"
+msgstr "The Premium Malt's"
 
 msgctxt "22777\tNAME"
 msgid "Carlsberg"
@@ -1023,7 +1023,7 @@ msgstr "Ghiozzo"
 
 msgctxt "23456\tNAME"
 msgid "Steel Drum"
-msgstr "Fusto d’acciaio"
+msgstr "Fusto d'acciaio"
 
 msgctxt "23467\tNAME"
 msgid "Bag"
@@ -1107,11 +1107,11 @@ msgstr "Zuppa di harusame: agropiccante"
 
 msgctxt "23821\tNAME"
 msgid "Drink to the Last Drop Dandan Noodles"
-msgstr "Dandan noodles “Fino all’ultima goccia”"
+msgstr "Dandan noodles “Fino all'ultima goccia”"
 
 msgctxt "23859\tNAME"
 msgid "Drink to the Last Drop Special Tonkotsu"
-msgstr "Tonkotsu speciale “Fino all’ultima goccia”"
+msgstr "Tonkotsu speciale “Fino all'ultima goccia”"
 
 msgctxt "23899\tNAME"
 msgid "Tan Tan Noodles"
@@ -1551,7 +1551,7 @@ msgstr "Avanzi a cinque stelle"
 
 msgctxt "25526\tNAME"
 msgid "Fake Silver Plate"
-msgstr "Piastra d’argento falsa"
+msgstr "Piatto d'argento falsa"
 
 msgctxt "25544\tNAME"
 msgid "Gold Champagne"
@@ -1587,7 +1587,7 @@ msgstr "Cassis e arancia"
 
 msgctxt "25657\tNAME"
 msgid "Orange Juice"
-msgstr "Succo d’arancia"
+msgstr "Succo d'arancia"
 
 msgctxt "25670\tNAME"
 msgid "Kyogetsu Green"
@@ -1995,7 +1995,7 @@ msgstr "Gambero (esca)"
 
 msgctxt "27126\tNAME"
 msgid "Vinegar Squid (Bait)"
-msgstr "Calamaro all’aceto (esca)"
+msgstr "Calamaro all'aceto (esca)"
 
 msgctxt "27147\tNAME"
 msgid "Dummy 012"
@@ -2331,7 +2331,7 @@ msgstr "Corso massaggio deluxe"
 
 msgctxt "28565\tNAME"
 msgid "VIP Oil Massage Course"
-msgstr "Corso massaggio VIP all’olio"
+msgstr "Corso massaggio VIP all'olio"
 
 msgctxt "28588\tNAME"
 msgid "Super VIP Massage Course"
@@ -2843,7 +2843,7 @@ msgstr "Bastone estensibile"
 
 msgctxt "30560\tNAME"
 msgid "Assassin's Spear"
-msgstr "Lancia dell’assassino"
+msgstr "Lancia dell'assassino"
 
 msgctxt "30577\tNAME"
 msgid "Steel Laundry Pole"
@@ -2895,7 +2895,7 @@ msgstr "Tirapugni chiodati"
 
 msgctxt "30749\tNAME"
 msgid "Steel Gloves"
-msgstr "Guanti d’acciaio"
+msgstr "Guanti d'acciaio"
 
 msgctxt "30762\tNAME"
 msgid "Dragon Grudge Gloves"
@@ -2931,7 +2931,7 @@ msgstr "Tonfa di ferro"
 
 msgctxt "30893\tNAME"
 msgid "Steel Tonfa"
-msgstr "Tonfa d’acciaio"
+msgstr "Tonfa d'acciaio"
 
 msgctxt "30905\tNAME"
 msgid "Slashing Tonfa"
@@ -2967,7 +2967,7 @@ msgstr "Doppie grucce"
 
 msgctxt "31028\tNAME"
 msgid "Steel Nunchaku"
-msgstr "Nunchaku d’acciaio"
+msgstr "Nunchaku d'acciaio"
 
 msgctxt "31043\tNAME"
 msgid "Dragon Nunchaku"
@@ -3351,7 +3351,7 @@ msgstr "Fasciatura del combattente"
 
 msgctxt "32575\tNAME"
 msgid "Fearless Binding"
-msgstr "Fasciatura dell’impavido"
+msgstr "Fasciatura dell'impavido"
 
 msgctxt "32592\tNAME"
 msgid "Gambler's Binding"
@@ -3379,7 +3379,7 @@ msgstr "Maglia da battaglia"
 
 msgctxt "32679\tNAME"
 msgid "Steel Mail"
-msgstr "Maglia d’acciaio"
+msgstr "Maglia d'acciaio"
 
 msgctxt "32690\tNAME"
 msgid "Antique Chain Mail"
@@ -3447,11 +3447,11 @@ msgstr "Giacca Kamiyama"
 
 msgctxt "32964\tNAME"
 msgid "Rage Armor"
-msgstr "Armatura dell’ira"
+msgstr "Armatura dell'ira"
 
 msgctxt "32975\tNAME"
 msgid "Sacred Tree Armor"
-msgstr "Armatura dell’albero sacro"
+msgstr "Armatura dell'albero sacro"
 
 msgctxt "32993\tNAME"
 msgid "Kokurenkai Undergarment"
@@ -3511,7 +3511,7 @@ msgstr "Parabraccia Kamiyama"
 
 msgctxt "33245\tNAME"
 msgid "Sacred Tree Arm Guards"
-msgstr "Parabraccia dell’albero sacro"
+msgstr "Parabraccia dell'albero sacro"
 
 msgctxt "33268\tNAME"
 msgid "Protective Amulet"
@@ -3535,7 +3535,7 @@ msgstr "Carta soccorso"
 
 msgctxt "33368\tNAME"
 msgid "Rage Talisman"
-msgstr "Talismano dell’ira"
+msgstr "Talismano dell'ira"
 
 msgctxt "33382\tNAME"
 msgid "War God Talisman"
@@ -3587,7 +3587,7 @@ msgstr "Anello della rivalsa"
 
 msgctxt "33586\tNAME"
 msgid "Rage Bracelet"
-msgstr "Bracciale dell’ira"
+msgstr "Bracciale dell'ira"
 
 msgctxt "33600\tNAME"
 msgid "Tiger Skin Belt"
@@ -3615,7 +3615,7 @@ msgstr "Suole comode"
 
 msgctxt "33685\tNAME"
 msgid "Steel Shin Guards"
-msgstr "Parastinchi d’acciaio"
+msgstr "Parastinchi d'acciaio"
 
 msgctxt "33703\tNAME"
 msgid "Striker Shin Guards"
@@ -3643,7 +3643,7 @@ msgstr "Parastinchi Kamiyama"
 
 msgctxt "33802\tNAME"
 msgid "Sacred Tree Shin Guards"
-msgstr "Parastinchi dell’albero sacro"
+msgstr "Parastinchi dell'albero sacro"
 
 msgctxt "33826\tNAME"
 msgid "Ass Quills"
@@ -3687,7 +3687,7 @@ msgstr "Collana del corridore"
 
 msgctxt "33985\tNAME"
 msgid "Coral Love Necklace"
-msgstr "Collana d’amore in corallo"
+msgstr "Collana d'amore in corallo"
 
 msgctxt "34005\tNAME"
 msgid "Kokurenkai Headband"
@@ -3723,7 +3723,7 @@ msgstr "Radar chiavi degli armadietti"
 
 msgctxt "34140\tNAME"
 msgid "Balance Bracelet"
-msgstr "Bracciale dell’equilibrio"
+msgstr "Bracciale dell'equilibrio"
 
 msgctxt "34157\tNAME"
 msgid "Gion Bell"
@@ -3887,7 +3887,7 @@ msgstr "Lucky 8: Pugno della gloria"
 
 msgctxt "34950\tNAME"
 msgid "Trail of the Ancient Fighter King"
-msgstr "Le tracce dell’antico re dei combattenti"
+msgstr "Le tracce dell'antico re dei combattenti"
 
 msgctxt "34984\tNAME"
 msgid "Limbo 2: Night of the Limbo"
@@ -3895,7 +3895,7 @@ msgstr "Limbo 2: La notte del Limbo"
 
 msgctxt "35012\tNAME"
 msgid "Dragon's Last Wind"
-msgstr "L’ultimo vento del drago"
+msgstr "L'ultimo vento del drago"
 
 msgctxt "35031\tNAME"
 msgid "Shocking Spy Gear Exposed"
@@ -3903,7 +3903,7 @@ msgstr "Equipaggiamento spia shock svelato"
 
 msgctxt "35057\tNAME"
 msgid "Memoirs of an Action Star"
-msgstr "Memorie di una star d’azione"
+msgstr "Memorie di una star d'azione"
 
 msgctxt "35083\tNAME"
 msgid "Fun Science With Denzaburo"
@@ -3963,7 +3963,7 @@ msgstr "Scultura del braccio teso"
 
 msgctxt "35391\tNAME"
 msgid "Heavy Weapon Sculpture"
-msgstr "Scultura dell’arma pesante"
+msgstr "Scultura dell'arma pesante"
 
 msgctxt "35414\tNAME"
 msgid "Bell Ringing Sculpture"
@@ -4295,7 +4295,7 @@ msgstr "Biglietto da visita"
 
 msgctxt "37218\tNAME"
 msgid "Expensive-looking Watch"
-msgstr "Orologio dall’aria costosa"
+msgstr "Orologio dall'aria costosa"
 
 msgctxt "37242\tNAME"
 msgid "Lighter"
@@ -4303,7 +4303,7 @@ msgstr "Accendino"
 
 msgctxt "37250\tNAME"
 msgid "Artist's Likeness"
-msgstr "Ritratto dell’artista"
+msgstr "Ritratto dell'artista"
 
 msgctxt "37268\tNAME"
 msgid "Legend Mode Completion Letter"
@@ -4731,7 +4731,7 @@ msgstr "Denaro (1.000 yen)"
 
 msgctxt "82304\tEXPLANATION"
 msgid "Restores health and charges Heat slightly."
-msgstr "Ripristina un po’ di salute e aumenta leggermente la Heat."
+msgstr "Ripristina un po' di salute e aumenta leggermente la Heat."
 
 msgctxt "82347\tEXPLANATION"
 msgid "Restores health and charges Heat significantly."
@@ -4763,7 +4763,7 @@ msgstr "Ricarica completamente la Heat."
 
 msgctxt "82626\tEXPLANATION"
 msgid "Useful when you need a little health boost."
-msgstr "Utile per recuperare un po’ di salute."
+msgstr "Utile per recuperare un po' di salute."
 
 msgctxt "82670\tEXPLANATION"
 msgid "Restores your health quite a bit."
@@ -4783,7 +4783,7 @@ msgstr "Realizzata con uno dei metalli più rari al mondo. Potrebbe valere una p
 
 msgctxt "82867\tEXPLANATION"
 msgid "The gold standard in plates. Could go for quite a lot at a pawn shop."
-msgstr "Una placca d’oro di altissima qualità. Può fruttare parecchio al banco dei pegni."
+msgstr "Una placca d'oro di altissima qualità. Può fruttare parecchio al banco dei pegni."
 
 msgctxt "82937\tEXPLANATION"
 msgid "This well-crafted plate could net a hefty sum over at a pawn shop."
@@ -4791,7 +4791,7 @@ msgstr "Una placca ben realizzata che può rendere una buona somma al banco dei 
 
 msgctxt "83004\tEXPLANATION"
 msgid "A plate made of bronze. Nothing special, but it could probably fetch some decent cash."
-msgstr "Placca in bronzo. Nulla di speciale, ma può valere un po’ di soldi."
+msgstr "Placca in bronzo. Nulla di speciale, ma può valere un po' di soldi."
 
 msgctxt "83091\tEXPLANATION"
 msgid "A plate made of iron. Nothing special, but it could probably fetch a little cash.  "
@@ -4799,7 +4799,7 @@ msgstr "Placca in ferro. Niente di che, ma può fruttare qualche yen."
 
 msgctxt "83175\tEXPLANATION"
 msgid "Oden Soup is perfect for cold winter days. There's actually quite a lot in here.  "
-msgstr "Un’ottima zuppa di oden, perfetta per le fredde giornate invernali. È piuttosto abbondante."
+msgstr "Un'ottima zuppa di oden, perfetta per le fredde giornate invernali. È piuttosto abbondante."
 
 msgctxt "83258\tEXPLANATION"
 msgid "A rice ball with boiled seaweed at its center."
@@ -4843,7 +4843,7 @@ msgstr "Un classico dei combini, famoso per la pasta di fagioli dal gusto di ses
 
 msgctxt "83866\tEXPLANATION"
 msgid "A Chinese-style steamed bun with yakisoba noodles in the middle. The sauce smells great."
-msgstr "Panino al vapore in stile cinese con yakisoba all’interno. La salsa ha un profumo delizioso."
+msgstr "Panino al vapore in stile cinese con yakisoba all'interno. La salsa ha un profumo delizioso."
 
 msgctxt "83955\tEXPLANATION"
 msgid "This large bottle of rice wine can be enjoyed heated or chilled."
@@ -5703,11 +5703,11 @@ msgstr "Un normale calamaro. Da fresco è quasi trasparente."
 
 msgctxt "99839\tEXPLANATION"
 msgid "Unlike Hirame flounders, its eyes are to the right. Its white meat is great stewed."
-msgstr "A differenza dell’hirame, ha gli occhi a destra. La carne bianca è ottima in umido."
+msgstr "A differenza dell'hirame, ha gli occhi a destra. La carne bianca è ottima in umido."
 
 msgctxt "99923\tEXPLANATION"
 msgid "Highly valued since ancient times, the sea bream is regarded as a symbol of luck."
-msgstr "Pregiato fin dall’antichità, l’orata è considerata un simbolo di fortuna."
+msgstr "Pregiato fin dall'antichità, l'orata è considerata un simbolo di fortuna."
 
 msgctxt "100005\tEXPLANATION"
 msgid "Almost every part of this fish is edible, but take care with its venomous spines."
@@ -5731,7 +5731,7 @@ msgstr "I ghiozzi giapponesi sono piuttosto piccoli e facili da catturare."
 
 msgctxt "100411\tEXPLANATION"
 msgid "An oil drum that has rusted in the water. It's filled with concrete, so it's very heavy."
-msgstr "Un bidone d’olio arrugginito nell’acqua. È riempito di cemento, quindi è molto pesante."
+msgstr "Un bidone d'olio arrugginito nell'acqua. È riempito di cemento, quindi è molto pesante."
 
 msgctxt "100500\tEXPLANATION"
 msgid "A knapsack with something inside."
@@ -5739,7 +5739,7 @@ msgstr "Uno zaino con qualcosa dentro."
 
 msgctxt "100534\tEXPLANATION"
 msgid "A fish so rare that many have never seen it before. Some grow to become quite large."
-msgstr "Un pesce così raro che molti non l’hanno mai visto. Alcuni esemplari diventano davvero grandi."
+msgstr "Un pesce così raro che molti non l'hanno mai visto. Alcuni esemplari diventano davvero grandi."
 
 msgctxt "100619\tEXPLANATION"
 msgid "A very long deep-water fish that's said to warn of impending disasters."
@@ -5763,7 +5763,7 @@ msgstr "Segnaposto"
 
 msgctxt "100878\tEXPLANATION"
 msgid "Turmeric and other natural ingredients make this supplement work well against hangovers."
-msgstr "Curcuma e altri ingredienti naturali lo rendono efficace contro i postumi dell’alcol."
+msgstr "Curcuma e altri ingredienti naturali lo rendono efficace contro i postumi dell'alcol."
 
 msgctxt "100967\tEXPLANATION"
 msgid "This chicken- and pork-based ramen combines spices and soy sauce for a rich, tasty soup."
@@ -5815,11 +5815,11 @@ msgstr "Uova, fungo orecchione, spezie e aceto con noodles leggeri: una hot & so
 
 msgctxt "101997\tEXPLANATION"
 msgid "An instant cup of soup so delicious, you can't help but to drink to the last drop."
-msgstr "Zuppa istantanea talmente buona che la berrai fino all’ultima goccia."
+msgstr "Zuppa istantanea talmente buona che la berrai fino all'ultima goccia."
 
 msgctxt "102080\tEXPLANATION"
 msgid "Delicious tonkotsu ramen in a pork-based soup flavored with chicken, vegetables, and choice backfat. You'll drink it down to the last drop."
-msgstr "Squisito tonkotsu ramen in brodo di maiale aromatizzato con pollo, verdure e grasso dorsale scelto. Fino all’ultima goccia."
+msgstr "Squisito tonkotsu ramen in brodo di maiale aromatizzato con pollo, verdure e grasso dorsale scelto. Fino all'ultima goccia."
 
 msgctxt "102220\tEXPLANATION"
 msgid "Made with roasted sesame seeds, and rich sesame oil for an especially delicious broth."
@@ -6047,7 +6047,7 @@ msgstr "Squisito tonkotsu ramen con uovo morbido in cima."
 
 msgctxt "104469\tEXPLANATION"
 msgid "This dish adds fragrant black garlic oil to tonkotsu ramen with thicker noodles for an inspired new taste."
-msgstr "Tonkotsu ramen con noodles più spessi, arricchito da profumato olio al nero d’aglio per un gusto originale."
+msgstr "Tonkotsu ramen con noodles più spessi, arricchito da profumato olio al nero d'aglio per un gusto originale."
 
 msgctxt "104576\tEXPLANATION"
 msgid "This tongue meat is popular for its unique flavor."
@@ -6087,7 +6087,7 @@ msgstr "Fegato fresco tagliato a strisce crude con una deliziosa salsa al sesamo
 
 msgctxt "105252\tEXPLANATION"
 msgid "Some say this choice beef intestine only finds its true worth in being burnt black."
-msgstr "C’è chi dice che questo pregiato intestino di manzo dia il meglio se abbrustolito fino al nero."
+msgstr "C'è chi dice che questo pregiato intestino di manzo dia il meglio se abbrustolito fino al nero."
 
 msgctxt "105336\tEXPLANATION"
 msgid "A platter of the sea's delicious bounty, including shrimp, scallops, and squid."
@@ -6123,7 +6123,7 @@ msgstr "Freschezza incredibile! Questo gambero dolce si scioglie in bocca."
 
 msgctxt "105995\tEXPLANATION"
 msgid "Greenland and arrowtooth halibut don't cut it. Olive flounder makes the tastiest engawa."
-msgstr "Halibut della Groenlandia e arrowtooth non bastano: l’hirame dà l’engawa più saporito."
+msgstr "Halibut della Groenlandia e arrowtooth non bastano: l'hirame dà l'engawa più saporito."
 
 msgctxt "106084\tEXPLANATION"
 msgid "My whelk has the best texture around! It's a summer delicacy, but tastes great now, too."
@@ -6135,7 +6135,7 @@ msgstr "Polpo di Akashi. Più lo mastichi, più è buono: garanzia di qualità."
 
 msgctxt "106271\tEXPLANATION"
 msgid "Most amberjack these days come from a hatchery, but mine come straight from the ocean."
-msgstr "Oggi la maggior parte dei ricciole è d’allevamento, ma le mie vengono direttamente dal mare."
+msgstr "Oggi la maggior parte dei ricciole è d'allevamento, ma le mie vengono direttamente dal mare."
 
 msgctxt "106358\tEXPLANATION"
 msgid "It might not be quite in season, but our winter amberjack is all-natural. Truly a fatty masterpiece."
@@ -6143,7 +6143,7 @@ msgstr "Non sarà proprio di stagione, ma la nostra ricciola invernale è selvag
 
 msgctxt "106459\tEXPLANATION"
 msgid "Hirame, AKA olive flounder, is right in season. And ours is all-natural."
-msgstr "L’hirame (sogliola olivacea) è in piena stagione. E il nostro è selvatico."
+msgstr "L'hirame (sogliola olivacea) è in piena stagione. E il nostro è selvatico."
 
 msgctxt "106532\tEXPLANATION"
 msgid "The choicest of all horse mackerel, a summer fish best eaten as sashimi or sushi."
@@ -6155,7 +6155,7 @@ msgstr "Questo kinmedai è stato pescato stamattina presto: grasso al punto gius
 
 msgctxt "106709\tEXPLANATION"
 msgid "Can you tell ocean-caught and farm-grown salmon roe apart? This here's the best in the industry."
-msgstr "Sai distinguere le uova di salmone selvatiche da quelle d’allevamento? Queste sono il top del settore."
+msgstr "Sai distinguere le uova di salmone selvatiche da quelle d'allevamento? Queste sono il top del settore."
 
 msgctxt "106806\tEXPLANATION"
 msgid "Did you know that red clams have red blood? Ancient records speak of a red clam goddess named Princess Kisagahi."
@@ -6239,7 +6239,7 @@ msgstr "Pacchetto S 8. Set di oggetti extra-speciale."
 
 msgctxt "107821\tEXPLANATION"
 msgid "Rice Porridge is a good way to fill your stomach on the cheap. It's got some vegetables mixed in, too."
-msgstr "Porridge di riso: economico e sazia lo stomaco. Contiene anche un po’ di verdure."
+msgstr "Porridge di riso: economico e sazia lo stomaco. Contiene anche un po' di verdure."
 
 msgctxt "107924\tEXPLANATION"
 msgid "Also known as boiled dumplings. Bits of wheat flour dough boiled in soy sauce and soup stock. People ate this a lot after the war."
@@ -6247,7 +6247,7 @@ msgstr "Detti anche gnocchetti bolliti: pezzetti di pasta di farina cotti in bro
 
 msgctxt "108055\tEXPLANATION"
 msgid "Black Stew may have a weird name, but it's an exciting dish with a lot of stuff thrown in. I don't even remember what..."
-msgstr "Si chiama “stufato nero”, nome strano ma piatto intrigante con dentro un po’ di tutto. Non ricordo nemmeno cosa…"
+msgstr "Si chiama “stufato nero”, nome strano ma piatto intrigante con dentro un po' di tutto. Non ricordo nemmeno cosa…"
 
 msgctxt "108176\tEXPLANATION"
 msgid "Let's just say it's animal protein. If that's what you're after, here you go. Don't ask me where it came from..."
@@ -6259,7 +6259,7 @@ msgstr "Un misto di avanzi dai migliori ristoranti a cinque stelle. Di solito ro
 
 msgctxt "108419\tEXPLANATION"
 msgid "A plate that has been painted silver. A cheap item that spruces up any party snack."
-msgstr "Un piatto verniciato d’argento. Economico, ma fa scena con qualsiasi stuzzichino."
+msgstr "Un piatto verniciato d'argento. Economico, ma fa scena con qualsiasi stuzzichino."
 
 msgctxt "108503\tEXPLANATION"
 msgid "Drink 00"
@@ -6391,7 +6391,7 @@ msgstr "Cibo 15"
 
 msgctxt "108775\tEXPLANATION"
 msgid "A block of platinum that evokes the elegance of rare metals."
-msgstr "Un blocco di platino che incarna l’eleganza dei metalli rari."
+msgstr "Un blocco di platino che incarna l'eleganza dei metalli rari."
 
 msgctxt "108836\tEXPLANATION"
 msgid "This Ancient Steel was used to forge swords long ago."
@@ -6411,7 +6411,7 @@ msgstr "Legno da un albero sacro millenario. Tanto maestoso quanto inquietante�
 
 msgctxt "109061\tEXPLANATION"
 msgid "Wood from a maple tree. People use this to make bats."
-msgstr "Legno d’acero. Usato spesso per realizzare mazze."
+msgstr "Legno d'acero. Usato spesso per realizzare mazze."
 
 msgctxt "109115\tEXPLANATION"
 msgid "Wood from a Japanese ash tree. People use this to make baseball bats."
@@ -6423,15 +6423,15 @@ msgstr "Una pietra cremisi dalla bellezza magnetica. Sembra antica e misteriosa.
 
 msgctxt "109266\tEXPLANATION"
 msgid "The king of all gemstones. Selling it may be your only option."
-msgstr "La regina delle gemme. Venderla potrebbe essere l’unica opzione."
+msgstr "La regina delle gemme. Venderla potrebbe essere l'unica opzione."
 
 msgctxt "109329\tEXPLANATION"
 msgid "A very popular stone. Selling it may be your only option."
-msgstr "Una pietra molto richiesta. Venderla potrebbe essere l’unica opzione."
+msgstr "Una pietra molto richiesta. Venderla potrebbe essere l'unica opzione."
 
 msgctxt "109387\tEXPLANATION"
 msgid "This pearl isn't worth very much. Maybe I can use it for something."
-msgstr "Questa perla non vale molto. Forse posso usarla per qualcos’altro."
+msgstr "Questa perla non vale molto. Forse posso usarla per qualcos'altro."
 
 msgctxt "109455\tEXPLANATION"
 msgid "A cloth used by a fighter at the Coliseum that is now drenched in dried blood."
@@ -6447,7 +6447,7 @@ msgstr "Su questa pietra è inciso il volto orrendo di un demone. Ha a che fare 
 
 msgctxt "109711\tEXPLANATION"
 msgid "Can't be obtained through normal channels due to its extremely high voltage. Handle with caution."
-msgstr "Non reperibile per vie ordinarie a causa dell’altissima tensione. Maneggiare con cautela."
+msgstr "Non reperibile per vie ordinarie a causa dell'altissima tensione. Maneggiare con cautela."
 
 msgctxt "109809\tEXPLANATION"
 msgid "The instructions call this thing a \"gravity converter prototype.\" Could this be for real?"
@@ -6463,7 +6463,7 @@ msgstr "Questa radio rotta non suona affatto bene. Usa una scheda elettronica sp
 
 msgctxt "110054\tEXPLANATION"
 msgid "This has many uses, from chilling products to keeping down a fever. Best kept in the freezer."
-msgstr "Ha molti usi: dal raffreddare prodotti all’abbassare la febbre. Meglio conservarla in freezer."
+msgstr "Ha molti usi: dal raffreddare prodotti all'abbassare la febbre. Meglio conservarla in freezer."
 
 msgctxt "110148\tEXPLANATION"
 msgid "Mysterious, highly viscous liquid. Its use is unknown."
@@ -6515,7 +6515,7 @@ msgstr "È abbastanza forte da tenere insieme un razzo."
 
 msgctxt "110917\tEXPLANATION"
 msgid "This is a tough looking tack. Hell, I bet it could penetrate concrete."
-msgstr "Una puntina dall’aspetto tosto. Scommetto che buca persino il calcestruzzo."
+msgstr "Una puntina dall'aspetto tosto. Scommetto che buca persino il calcestruzzo."
 
 msgctxt "110988\tEXPLANATION"
 msgid "Multi-purpose cutter known for its ability to slice through various items."
@@ -6555,7 +6555,7 @@ msgstr "Un normale olio da cucina."
 
 msgctxt "111360\tEXPLANATION"
 msgid "The latest in cutting-edge physical fitness gear. Even endorsed by top athletes."
-msgstr "Il non plus ultra dell’attrezzatura fitness. Approvata anche da atleti di alto livello."
+msgstr "Il non plus ultra dell'attrezzatura fitness. Approvata anche da atleti di alto livello."
 
 msgctxt "111441\tEXPLANATION"
 msgid "This shampoo's been around forever. It makes your scalp feel tingly."
@@ -6587,7 +6587,7 @@ msgstr "Un normale chiodo."
 
 msgctxt "111764\tEXPLANATION"
 msgid "There's something about this card... Makes me think I can roll three 1's in a game of dice."
-msgstr "C’è qualcosa in questa carta… Mi fa pensare di poter tirare tre 1 a dadi."
+msgstr "C'è qualcosa in questa carta… Mi fa pensare di poter tirare tre 1 a dadi."
 
 msgctxt "111856\tEXPLANATION"
 msgid "Made popular by the famous gambler \"Even\" Goro from the Edo Period. Lets me roll evens in cho-han."
@@ -6603,11 +6603,11 @@ msgstr "Chirashi in edizione limitata consigliato dal Tokyo Weekly. Pesce di alt
 
 msgctxt "112165\tEXPLANATION"
 msgid "This is the limited-edition black gelato recommended by Tokyo Weekly. Despite its appearance, it offers a fruity flavor."
-msgstr "Gelato nero in edizione limitata consigliato dal Tokyo Weekly. Nonostante l’aspetto, ha un gusto fruttato."
+msgstr "Gelato nero in edizione limitata consigliato dal Tokyo Weekly. Nonostante l'aspetto, ha un gusto fruttato."
 
 msgctxt "112286\tEXPLANATION"
 msgid "This is the limited-edition thick-cut steak recommended by Tokyo Weekly. Tender chuck eye from Japanese beef of the highest quality."
-msgstr "Bistecca spessa in edizione limitata consigliata dal Tokyo Weekly. Tenero “chuck eye” di manzo giapponese di prim’ordine."
+msgstr "Bistecca spessa in edizione limitata consigliata dal Tokyo Weekly. Tenero “chuck eye” di manzo giapponese di prim'ordine."
 
 msgctxt "112419\tEXPLANATION"
 msgid "This is the limited-edition Kamuro Burger recommended by Tokyo Weekly. It's a lively, metropolitan mix of avocado, tomato, and cheeses."
@@ -6631,7 +6631,7 @@ msgstr "Un settimanale illustrato."
 
 msgctxt "112758\tEXPLANATION"
 msgid "This is the takeout limited-edition Kamuro Burger recommended by Tokyo Weekly. It offers a lively, metropolitan mix of toppings."
-msgstr "Versione d’asporto del Kamuro Burger in edizione limitata, consigliata dal Tokyo Weekly: ricco mix di guarnizioni."
+msgstr "Versione d'asporto del Kamuro Burger in edizione limitata, consigliata dal Tokyo Weekly: ricco mix di guarnizioni."
 
 msgctxt "112887\tEXPLANATION"
 msgid "This strange jewel can apparently make black the winning color in roulette."
@@ -6655,7 +6655,7 @@ msgstr "Questo strano amuleto pare faccia sballare più spesso il banco."
 
 msgctxt "113275\tEXPLANATION"
 msgid "A brand of gum I've never heard of. It'll make my opponent roll a 1-2-3 in cee-lo."
-msgstr "Una gomma da masticare mai sentita. Farà tirare all’avversario un 1-2-3 a cee-lo."
+msgstr "Una gomma da masticare mai sentita. Farà tirare all'avversario un 1-2-3 a cee-lo."
 
 msgctxt "113358\tEXPLANATION"
 msgid "A brand of yokan I've never heard of. It'll make me roll triples in cee-lo."
@@ -6663,7 +6663,7 @@ msgstr "Uno yokan di marca sconosciuta. Mi farà ottenere un tris a cee-lo."
 
 msgctxt "113434\tEXPLANATION"
 msgid "A stone often rumored about on the net. It'll cause my opponent to \"piss\" in cee-lo."
-msgstr "Una pietra di cui si mormora spesso online. Farà “pisciare” l’avversario a cee-lo."
+msgstr "Una pietra di cui si mormora spesso online. Farà “pisciare” l'avversario a cee-lo."
 
 msgctxt "113519\tEXPLANATION"
 msgid "A silver-plated saucer that looks nice on the surface, but isn't worth much underneath."
@@ -6695,15 +6695,15 @@ msgstr "Filetti di sugarello: ottime esche."
 
 msgctxt "114020\tEXPLANATION"
 msgid "Filleted squid makes good bait."
-msgstr "Il calamaro sfilettato è un’ottima esca."
+msgstr "Il calamaro sfilettato è un'ottima esca."
 
 msgctxt "114052\tEXPLANATION"
 msgid "This shrimp makes fine bait."
-msgstr "Questo gambero è un’esca eccellente."
+msgstr "Questo gambero è un'esca eccellente."
 
 msgctxt "114081\tEXPLANATION"
 msgid "This pickled squid makes good fishing bait."
-msgstr "Questo calamaro marinato è un’ottima esca."
+msgstr "Questo calamaro marinato è un'ottima esca."
 
 msgctxt "114125\tEXPLANATION"
 msgid "Dummy"
@@ -6771,11 +6771,11 @@ msgstr "Trofeo per il 1º posto alla Coppa dei Quattro Dei."
 
 msgctxt "114440\tEXPLANATION"
 msgid "A coin with \"1000G\" engraved on it. Must be worth quite a bit since it's made of gold."
-msgstr "Moneta con inciso “1000G”. Essendo d’oro, dovrebbe valere parecchio."
+msgstr "Moneta con inciso “1000G”. Essendo d'oro, dovrebbe valere parecchio."
 
 msgctxt "114527\tEXPLANATION"
 msgid "A coin with \"100G\" engraved on it. It's gold of slightly poor quality, but has some value."
-msgstr "Moneta con inciso “100G”. Oro di qualità un po’ bassa, ma ha un certo valore."
+msgstr "Moneta con inciso “100G”. Oro di qualità un po' bassa, ma ha un certo valore."
 
 msgctxt "114618\tEXPLANATION"
 msgid "A coin with \"10G\" engraved on it. It's poor quality gold, and probably isn't worth much."
@@ -6787,7 +6787,7 @@ msgstr "Carta con un jolly coronato. Probabilmente mi farà avere una buona mano
 
 msgctxt "114794\tEXPLANATION"
 msgid "The most common fishing bait around."
-msgstr "L’esca da pesca più comune."
+msgstr "L'esca da pesca più comune."
 
 msgctxt "114831\tEXPLANATION"
 msgid "Your average clam. Makes good fishing bait."
@@ -6795,7 +6795,7 @@ msgstr "Una vongola qualunque. Ottima esca."
 
 msgctxt "114875\tEXPLANATION"
 msgid "This clam is small, but makes good bait."
-msgstr "Questa vongola è piccola, ma è un’ottima esca."
+msgstr "Questa vongola è piccola, ma è un'ottima esca."
 
 msgctxt "114916\tEXPLANATION"
 msgid "This large prawn would taste great if cooked, or it could also make nice fishing bait."
@@ -6827,7 +6827,7 @@ msgstr "Peluche del personaggio Hito-nyan. Questo sembra felice."
 
 msgctxt "115418\tEXPLANATION"
 msgid "A stuffed animal of the character Hito-nyan. This one looks normal."
-msgstr "Peluche del personaggio Hito-nyan. Questo ha un’espressione neutra."
+msgstr "Peluche del personaggio Hito-nyan. Questo ha un'espressione neutra."
 
 msgctxt "115486\tEXPLANATION"
 msgid "A stuffed animal of the character Hito-nyan. This one seems to be disappointed."
@@ -6979,7 +6979,7 @@ msgstr "Pura eleganza. Un grande regalo per una hostess."
 
 msgctxt "117942\tEXPLANATION"
 msgid "Gives off that girly vibe. Could make a great gift for a hostess."
-msgstr "Ha un’aria molto femminile. Ottimo regalo per una hostess."
+msgstr "Ha un'aria molto femminile. Ottimo regalo per una hostess."
 
 msgctxt "118008\tEXPLANATION"
 msgid "A cosplay necessity. Could make a great gift for a hostess."
@@ -6995,7 +6995,7 @@ msgstr "Dona un tocco di classe a qualsiasi outfit. Ottimo regalo per una hostes
 
 msgctxt "118212\tEXPLANATION"
 msgid "The ruby charm provides the perfect accent. Could make a great gift for a hostess."
-msgstr "Il ciondolo in rubino è l’accento perfetto. Ottimo regalo per una hostess."
+msgstr "Il ciondolo in rubino è l'accento perfetto. Ottimo regalo per una hostess."
 
 msgctxt "118295\tEXPLANATION"
 msgid "A simple design that goes with any outfit. Could make a great gift for a hostess."
@@ -7035,7 +7035,7 @@ msgstr "Un massaggio più ricco."
 
 msgctxt "118948\tEXPLANATION"
 msgid "This oil massage course is reserved for select patrons."
-msgstr "Massaggio all’olio riservato ai clienti selezionati."
+msgstr "Massaggio all'olio riservato ai clienti selezionati."
 
 msgctxt "119004\tEXPLANATION"
 msgid "The Super VIP Massage Course, the ultimate massage experience, is only available to an extremely select few of our patrons."
@@ -7043,11 +7043,11 @@ msgstr "Il Massaggio Super VIP, esperienza definitiva, è riservato a pochissimi
 
 msgctxt "119128\tEXPLANATION"
 msgid "A key with two cats imprinted on the handle. Received from homeless cat lovers."
-msgstr "Una chiave con due gatti impressi sull’impugnatura. Ricevuta da amanti dei gatti senzatetto."
+msgstr "Una chiave con due gatti impressi sull'impugnatura. Ricevuta da amanti dei gatti senzatetto."
 
 msgctxt "119208\tEXPLANATION"
 msgid "Expensive-looking rings that are well-made."
-msgstr "Anelli ben fatti dall’aspetto costoso."
+msgstr "Anelli ben fatti dall'aspetto costoso."
 
 msgctxt "119252\tEXPLANATION"
 msgid "A trophy for bowling a perfect game at Mach Bowl. Made of pure gold."
@@ -7203,7 +7203,7 @@ msgstr "Secondo Kamiyama non fa molti danni, ma può far volare via la gente."
 
 msgctxt "121258\tEXPLANATION"
 msgid "Not the toughest of weapons, but nice and compact."
-msgstr "Non è l’arma più resistente, ma è compatta e maneggevole."
+msgstr "Non è l'arma più resistente, ma è compatta e maneggevole."
 
 msgctxt "121309\tEXPLANATION"
 msgid "This baton was modified by Kamiyama for stun capabilities."
@@ -7211,7 +7211,7 @@ msgstr "Questo manganello è stato modificato da Kamiyama per stordire."
 
 msgctxt "121368\tEXPLANATION"
 msgid "This Kamiyama special releases a series of loud booms when used, but that's about it."
-msgstr "Uno speciale di Kamiyama che emette forti boati all’uso, ma non fa molto altro."
+msgstr "Uno speciale di Kamiyama che emette forti boati all'uso, ma non fa molto altro."
 
 msgctxt "121454\tEXPLANATION"
 msgid "The blade of this knife contains bits of chili pepper. Delivers a burning sensation."
@@ -7223,7 +7223,7 @@ msgstr "Non avrà il marchio del forgiatore, ma è anni luce sopra una spada da 
 
 msgctxt "121639\tEXPLANATION"
 msgid "A legendary Chinese weapon. Light and easy to wield."
-msgstr "Un’arma leggendaria cinese. Leggera e facile da brandire."
+msgstr "Un'arma leggendaria cinese. Leggera e facile da brandire."
 
 msgctxt "121692\tEXPLANATION"
 msgid "A famous style of sword passed down through the Lotus Clan. There should be quite a few out there."
@@ -7231,11 +7231,11 @@ msgstr "Una celebre tipologia di spada tramandata dal Clan del Loto. In circolaz
 
 msgctxt "121791\tEXPLANATION"
 msgid "A historic dagger that's been passed down from owner to owner since ancient times. Holds the power of determination."
-msgstr "Un pugnale storico tramandato di mano in mano fin dall’antichità. Racchiude potere e determinazione."
+msgstr "Un pugnale storico tramandato di mano in mano fin dall'antichità. Racchiude potere e determinazione."
 
 msgctxt "121908\tEXPLANATION"
 msgid "A cutting-edge weapon designed for self defense."
-msgstr "Arma all’avanguardia pensata per l’autodifesa."
+msgstr "Arma all'avanguardia pensata per l'autodifesa."
 
 msgctxt "121957\tEXPLANATION"
 msgid "This has more kick than a normal stun gun."
@@ -7243,7 +7243,7 @@ msgstr "Più potente di un normale taser."
 
 msgctxt "122000\tEXPLANATION"
 msgid "This 9-iron's a little too weathered for the golf course."
-msgstr "Questo ferro 9 è un po’ troppo vissuto per il green."
+msgstr "Questo ferro 9 è un po' troppo vissuto per il green."
 
 msgctxt "122058\tEXPLANATION"
 msgid "This driver was made by a master woodworker."
@@ -7327,7 +7327,7 @@ msgstr "Un martello pesante e robusto, firmato Kamiyama."
 
 msgctxt "123418\tEXPLANATION"
 msgid "The idea here is to keep the enemy from taking a fight seriously."
-msgstr "Qui l’idea è far sì che il nemico non prenda lo scontro troppo sul serio."
+msgstr "Qui l'idea è far sì che il nemico non prenda lo scontro troppo sul serio."
 
 msgctxt "123484\tEXPLANATION"
 msgid "A hammer thick enough to block frontal attacks. Its swing packs a draconian punch."
@@ -7339,7 +7339,7 @@ msgstr "Questo cartello “Divieto di sosta” in miniatura si usa come martello
 
 msgctxt "123625\tEXPLANATION"
 msgid "Says, \"Do not swing at people!\" Appears to be incredibly strong."
-msgstr "C’è scritto: “Non oscillare verso le persone!”. Sembra incredibilmente resistente."
+msgstr "C'è scritto: “Non oscillare verso le persone!”. Sembra incredibilmente resistente."
 
 msgctxt "123690\tEXPLANATION"
 msgid "A rare weapon that brings great luck to those who swing it."
@@ -7351,11 +7351,11 @@ msgstr "Facile da nascondere nella tasca interna."
 
 msgctxt "123788\tEXPLANATION"
 msgid "An assassin's spear, just as the name implies. Very sharp."
-msgstr "Una lancia d’assassino, come suggerisce il nome. Molto affilata."
+msgstr "Una lancia d'assassino, come suggerisce il nome. Molto affilata."
 
 msgctxt "123847\tEXPLANATION"
 msgid "A steel laundry pole that's heavy and hard to use. Doesn't sell too well."
-msgstr "Stendibiancheria d’acciaio: pesante e scomodo da usare. Non si vende granché."
+msgstr "Stendibiancheria d'acciaio: pesante e scomodo da usare. Non si vende granché."
 
 msgctxt "123921\tEXPLANATION"
 msgid "This is basically an extendable staff that can unleash a flaming attack."
@@ -7363,7 +7363,7 @@ msgstr "In pratica è un bastone estensibile capace di sferrare un attacco fiamm
 
 msgctxt "123994\tEXPLANATION"
 msgid "A brightly sparkling, ultimate spear that lives up to its name in both appearance and strength."
-msgstr "Una lancia scintillante e definitiva, all’altezza del nome per aspetto e potenza."
+msgstr "Una lancia scintillante e definitiva, all'altezza del nome per aspetto e potenza."
 
 msgctxt "124090\tEXPLANATION"
 msgid "A spear with a squid on the tip. It's frozen solid, so it's actually pretty strong."
@@ -7379,7 +7379,7 @@ msgstr "Il classico fucile a pompa."
 
 msgctxt "124285\tEXPLANATION"
 msgid "The Expulsion S-12's a kick-ass shotgun."
-msgstr "L’Expulsion S-12 è un fucile a pompa micidiale."
+msgstr "L'Expulsion S-12 è un fucile a pompa micidiale."
 
 msgctxt "124326\tEXPLANATION"
 msgid "Fires bullets packed with a slimy liquid."
@@ -7387,7 +7387,7 @@ msgstr "Spara proiettili carichi di un liquido viscido."
 
 msgctxt "124368\tEXPLANATION"
 msgid "A gun used for smokescreens. Use it to slow people down."
-msgstr "Un’arma usata per creare schermi di fumo. Usala per rallentare la gente."
+msgstr "Un'arma usata per creare schermi di fumo. Usala per rallentare la gente."
 
 msgctxt "124425\tEXPLANATION"
 msgid "These popular brawling weapons can increase damage dealt when wearing them on both fists."
@@ -7403,7 +7403,7 @@ msgstr "Le punte su questi tirapugni lacerano gli sfortunati nemici."
 
 msgctxt "124663\tEXPLANATION"
 msgid "Steel knuckles that can guard against blades. Strong and easy to use."
-msgstr "Tirapugni d’acciaio che proteggono dalle lame. Robusti e facili da usare."
+msgstr "Tirapugni d'acciaio che proteggono dalle lame. Robusti e facili da usare."
 
 msgctxt "124733\tEXPLANATION"
 msgid "A legendary gauntlet imbued with a dragon's grudge that protects the wearer from blades and bullets."
@@ -7419,11 +7419,11 @@ msgstr "Guanti in grado di assorbire la salute degli avversari, come se chi li i
 
 msgctxt "125030\tEXPLANATION"
 msgid "Your average can of pepper spray, designed for self-defense."
-msgstr "La classica bomboletta di spray al peperoncino, pensata per l’autodifesa."
+msgstr "La classica bomboletta di spray al peperoncino, pensata per l'autodifesa."
 
 msgctxt "125091\tEXPLANATION"
 msgid "Spray some on the floor to make enemies slip."
-msgstr "Spruzzane un po’ a terra per far scivolare i nemici."
+msgstr "Spruzzane un po' a terra per far scivolare i nemici."
 
 msgctxt "125137\tEXPLANATION"
 msgid "Works like a handy little flamethrower."
@@ -7431,7 +7431,7 @@ msgstr "Funziona come un pratico mini-lanciafiamme."
 
 msgctxt "125177\tEXPLANATION"
 msgid "A stun gun and a modified lighter fused into one hell of a weapon."
-msgstr "Un taser e un accendino modificato fusi in un’arma infernale."
+msgstr "Un taser e un accendino modificato fusi in un'arma infernale."
 
 msgctxt "125244\tEXPLANATION"
 msgid "Fairly lightweight due to the pipe iron it's made from."
@@ -7439,11 +7439,11 @@ msgstr "Abbastanza leggero grazie al ferro tubolare di cui è fatto."
 
 msgctxt "125300\tEXPLANATION"
 msgid "This steel tonfa is really tough."
-msgstr "Questo tonfa d’acciaio è davvero tosto."
+msgstr "Questo tonfa d'acciaio è davvero tosto."
 
 msgctxt "125334\tEXPLANATION"
 msgid "A cutting-edge tonfa for weapon enthusiasts."
-msgstr "Un tonfa d’avanguardia per gli appassionati di armi."
+msgstr "Un tonfa d'avanguardia per gli appassionati di armi."
 
 msgctxt "125379\tEXPLANATION"
 msgid "A tonfa that blinds enemies with pepper spray when blocking attacks."
@@ -7451,7 +7451,7 @@ msgstr "Un tonfa che acceca i nemici con spray al peperoncino quando blocca gli 
 
 msgctxt "125448\tEXPLANATION"
 msgid "A legendary fighter once trained with this horn-shaped weapon. Provides extra experience points."
-msgstr "Un leggendario lottatore si è allenato con quest’arma a forma di corno. Fornisce PE extra."
+msgstr "Un leggendario lottatore si è allenato con quest'arma a forma di corno. Fornisce PE extra."
 
 msgctxt "125545\tEXPLANATION"
 msgid "A handy item that can be used as a normal ruler as well as a tonfa."
@@ -7467,7 +7467,7 @@ msgstr "I classici nunchaku di legno."
 
 msgctxt "125744\tEXPLANATION"
 msgid "These are made a little longer than regular nunchaku for a reach advantage."
-msgstr "Sono un po’ più lunghi dei nunchaku normali per guadagnare portata."
+msgstr "Sono un po' più lunghi dei nunchaku normali per guadagnare portata."
 
 msgctxt "125820\tEXPLANATION"
 msgid "Two sturdy hangers make nice nunchaku."
@@ -7475,7 +7475,7 @@ msgstr "Due grucce robuste diventano ottimi nunchaku."
 
 msgctxt "125859\tEXPLANATION"
 msgid "Strong as hell, but a little heavy."
-msgstr "Fortissimi, ma un po’ pesanti."
+msgstr "Fortissimi, ma un po' pesanti."
 
 msgctxt "125895\tEXPLANATION"
 msgid "The strongest nunchaku out there. They get even more powerful as their durability drops."
@@ -7483,7 +7483,7 @@ msgstr "I nunchaku più potenti in circolazione. Diventano ancora più forti man
 
 msgctxt "125984\tEXPLANATION"
 msgid "Nunchaku that numb the opponent. Effective only occasionally due to low electrical power."
-msgstr "Nunchaku che intorpidiscono l’avversario. Efficaci solo a volte per via della bassa potenza elettrica."
+msgstr "Nunchaku che intorpidiscono l'avversario. Efficaci solo a volte per via della bassa potenza elettrica."
 
 msgctxt "126074\tEXPLANATION"
 msgid "Generates super high voltage with its improved batteries. Blows opponents away."
@@ -7507,7 +7507,7 @@ msgstr "Questi bastoni sono un ottimo modo per avvicinarsi al vero stick fightin
 
 msgctxt "126461\tEXPLANATION"
 msgid "Ultimate kali sticks with a mysterious aura. Don't wear down when used defensively."
-msgstr "Bastoni Kali supremi dall’aura misteriosa. Non si consumano se usati in difesa."
+msgstr "Bastoni Kali supremi dall'aura misteriosa. Non si consumano se usati in difesa."
 
 msgctxt "126545\tEXPLANATION"
 msgid "Mysterious sticks used in the popular anime \"Cutie Girl.\" Heat increases at a faster rate."
@@ -7515,7 +7515,7 @@ msgstr "Misteriosi bastoni usati nel popolare anime “Cutie Girl”. La Heat au
 
 msgctxt "126636\tEXPLANATION"
 msgid "The power of Venus transforms you into a warrior of love! Increases enthusiasm a hundredfold!"
-msgstr "Il potere di Venere ti trasforma in un guerriero dell’amore! Aumenta l’entusiasmo di cento volte!"
+msgstr "Il potere di Venere ti trasforma in un guerriero dell'amore! Aumenta l'entusiasmo di cento volte!"
 
 msgctxt "126730\tEXPLANATION"
 msgid "No gangster should leave home without it."
@@ -7855,11 +7855,11 @@ msgstr "Fasciatura per proteggersi dagli attacchi minori."
 
 msgctxt "128436\tEXPLANATION"
 msgid "Helps get that adrenaline pumping before a fight."
-msgstr "Aiuta a far pompare l’adrenalina prima di uno scontro."
+msgstr "Aiuta a far pompare l'adrenalina prima di uno scontro."
 
 msgctxt "128486\tEXPLANATION"
 msgid "This binding is for those who understand how it is in the business."
-msgstr "Questa fasciatura è per chi conosce bene l’ambiente."
+msgstr "Questa fasciatura è per chi conosce bene l'ambiente."
 
 msgctxt "128554\tEXPLANATION"
 msgid "This binding brings out the fiery spirit of competition in its user."
@@ -7867,7 +7867,7 @@ msgstr "Questa fasciatura tira fuori lo spirito competitivo di chi la indossa."
 
 msgctxt "128623\tEXPLANATION"
 msgid "This bloody binding gives off a peculiar air. I'll need to be extra cautious when using it."
-msgstr "Questa fasciatura insanguinata emana un’aria particolare. Meglio usarla con molta cautela."
+msgstr "Questa fasciatura insanguinata emana un'aria particolare. Meglio usarla con molta cautela."
 
 msgctxt "128715\tEXPLANATION"
 msgid "If I win a fight while wearing this binding, something lucky's supposed to happen."
@@ -7875,7 +7875,7 @@ msgstr "Se vinco uno scontro indossando questa fasciatura, dovrebbe succedere qu
 
 msgctxt "128798\tEXPLANATION"
 msgid "The impressive durability of this binding lends it the nickname of \"dragon.\""
-msgstr "L’impressionante durabilità di questa fasciatura le è valsa il soprannome di “drago”."
+msgstr "L'impressionante durabilità di questa fasciatura le è valsa il soprannome di “drago”."
 
 msgctxt "128875\tEXPLANATION"
 msgid "Much more lightweight than its Western counterpart. Effective against bladed weapons."
@@ -7883,11 +7883,11 @@ msgstr "Molto più leggera della sua controparte occidentale. Efficace contro le
 
 msgctxt "128961\tEXPLANATION"
 msgid "Once worn by gamblers to protect themselves from violent players. More durable than chain mail."
-msgstr "Un tempo indossata dai giocatori d’azzardo per proteggersi dai tipi violenti. Più resistente della cotta di maglia."
+msgstr "Un tempo indossata dai giocatori d'azzardo per proteggersi dai tipi violenti. Più resistente della cotta di maglia."
 
 msgctxt "129057\tEXPLANATION"
 msgid "Steel makes this mail stronger than the average iron type."
-msgstr "L’acciaio rende questa cotta più robusta della comune versione in ferro."
+msgstr "L'acciaio rende questa cotta più robusta della comune versione in ferro."
 
 msgctxt "129116\tEXPLANATION"
 msgid "This finely crafted antique still provides solid protection against bladed weapons."
@@ -7899,7 +7899,7 @@ msgstr "Cotta di maglia di alta qualità, si dice doni a chi la indossa la prote
 
 msgctxt "129284\tEXPLANATION"
 msgid "Actually just an iron grill pounded into crude armor. Works well against bullets."
-msgstr "In realtà è una griglia di ferro battuta fino a farne un’armatura grezza. Funziona bene contro i proiettili."
+msgstr "In realtà è una griglia di ferro battuta fino a farne un'armatura grezza. Funziona bene contro i proiettili."
 
 msgctxt "129366\tEXPLANATION"
 msgid "Protects against bullets. Hardly noticeable when worn underneath a fine suit."
@@ -7911,7 +7911,7 @@ msgstr "Corpetto standard usato dalle unità SWAT. Offre una buona protezione co
 
 msgctxt "129536\tEXPLANATION"
 msgid "This cutting-edge flak vest works well against bullets. Not even the military is using these vests yet."
-msgstr "Questo giubbotto antiproiettile all’avanguardia protegge molto bene. Neanche l’esercito li usa ancora."
+msgstr "Questo giubbotto antiproiettile all'avanguardia protegge molto bene. Neanche l'esercito li usa ancora."
 
 msgctxt "129640\tEXPLANATION"
 msgid "This flak vest works well against bullets. A special forging process makes it extra durable."
@@ -7935,7 +7935,7 @@ msgstr "La ventola motorizzata in questa maglia soffia via le polveri che altrim
 
 msgctxt "129985\tEXPLANATION"
 msgid "Something about this shirt attracts people to whoever wears it. A bit suspicious."
-msgstr "Qualcosa in questa maglia attira la gente verso chi la indossa. Un po’ sospetta."
+msgstr "Qualcosa in questa maglia attira la gente verso chi la indossa. Un po' sospetta."
 
 msgctxt "130067\tEXPLANATION"
 msgid "Makes it easier to slip out of an enemy's grip."
@@ -7947,7 +7947,7 @@ msgstr "Impedisce rimbalzi violenti quando si viene scaraventati a terra o contr
 
 msgctxt "130194\tEXPLANATION"
 msgid "This training gear may not be the best defense against attacks, but it's good for experience."
-msgstr "Questa attrezzatura da allenamento non è il massimo in difesa, ma è ottima per l’esperienza."
+msgstr "Questa attrezzatura da allenamento non è il massimo in difesa, ma è ottima per l'esperienza."
 
 msgctxt "130288\tEXPLANATION"
 msgid "This jacket effects weapon durability. Wear all three Kamiyama parts to activate a special effect."
@@ -7967,7 +7967,7 @@ msgstr "A volte previene le ferite. Indossa tutte e tre le attrezzature Kokurenk
 
 msgctxt "130625\tEXPLANATION"
 msgid "A jersey that improves pulmonary activity. Cuts the strain of sprinting at full speed."
-msgstr "Una maglia che migliora l’attività polmonare. Riduce lo sforzo nello sprint a tutta velocità."
+msgstr "Una maglia che migliora l'attività polmonare. Riduce lo sforzo nello sprint a tutta velocità."
 
 msgctxt "130712\tEXPLANATION"
 msgid "A shirt that improves cardiopulmonary function. Lets you sprint without getting tired."
@@ -8003,11 +8003,11 @@ msgstr "Questi parabraccia aumentano slancio e danni delle armi lanciate contro 
 
 msgctxt "131081\tEXPLANATION"
 msgid "Gain the strength of the hero of legends with these gloves. Enemies will find it more difficult to escape your grip."
-msgstr "Ottieni la forza dell’eroe delle leggende con questi guanti. I nemici faranno più fatica a liberarsi dalla tua presa."
+msgstr "Ottieni la forza dell'eroe delle leggende con questi guanti. I nemici faranno più fatica a liberarsi dalla tua presa."
 
 msgctxt "131198\tEXPLANATION"
 msgid "These gloves literally suck the energy out of an enemy and add it to your own Heat."
-msgstr "Questi guanti succhiano letteralmente l’energia al nemico e la aggiungono alla tua Heat."
+msgstr "Questi guanti succhiano letteralmente l'energia al nemico e la aggiungono alla tua Heat."
 
 msgctxt "131282\tEXPLANATION"
 msgid "These arm guards protect against bladed weapons and add power to thrown weapons."
@@ -8015,7 +8015,7 @@ msgstr "Questi parabraccia proteggono dalle armi da taglio e potenziano le armi 
 
 msgctxt "131363\tEXPLANATION"
 msgid "These arm guards affect weapon durability. Wear all three Kamiyama parts to engage its special effect."
-msgstr "Questi parabraccia influenzano la durabilità delle armi. Indossa tutte e tre le parti Kamiyama per attivarne l’effetto speciale."
+msgstr "Questi parabraccia influenzano la durabilità delle armi. Indossa tutte e tre le parti Kamiyama per attivarne l'effetto speciale."
 
 msgctxt "131466\tEXPLANATION"
 msgid "Equip all three Sacred Tree items to gain protection from bullets."
@@ -8059,7 +8059,7 @@ msgstr "Un regalo di Haruka. Qualcosa mi dice che equipaggiarlo mi renderà più
 
 msgctxt "132122\tEXPLANATION"
 msgid "This towel brings down Heat and calms the soul."
-msgstr "Questo asciugamano abbassa la Heat e calma l’anima."
+msgstr "Questo asciugamano abbassa la Heat e calma l'anima."
 
 msgctxt "132170\tEXPLANATION"
 msgid "The awful smell of this thing should keep enemies away. Never take it to a club!"
@@ -8099,11 +8099,11 @@ msgstr "Indossa tutti e tre gli oggetti Rabbia per diventare incredibilmente pot
 
 msgctxt "132844\tEXPLANATION"
 msgid "Some say this belt offers divine protection."
-msgstr "C’è chi dice che questa cintura offra protezione divina."
+msgstr "C'è chi dice che questa cintura offra protezione divina."
 
 msgctxt "132889\tEXPLANATION"
 msgid "Legends say the soul of its late judo master resides within this belt, helping you throw enemies more powerfully."
-msgstr "Le leggende dicono che l’anima del suo defunto maestro di judo risieda in questa cintura, aiutandoti a proiettare i nemici con più forza."
+msgstr "Le leggende dicono che l'anima del suo defunto maestro di judo risieda in questa cintura, aiutandoti a proiettare i nemici con più forza."
 
 msgctxt "133003\tEXPLANATION"
 msgid "This belt helps you lift heavy enemies as if they weigh nothing at all."
@@ -8143,11 +8143,11 @@ msgstr "Potenzia gli attacchi di pestaggio con queste scarpe chiodate."
 
 msgctxt "133631\tEXPLANATION"
 msgid "Let the relaxing sound of meowing cats soothe your soul every time you go for a stroll."
-msgstr "Lascia che il rilassante miagolio dei gatti ti accarezzi l’anima ogni volta che passeggi."
+msgstr "Lascia che il rilassante miagolio dei gatti ti accarezzi l'anima ogni volta che passeggi."
 
 msgctxt "133719\tEXPLANATION"
 msgid "These shin guards affect weapon durability. Wear all three Kamiyama parts to engage its special effect."
-msgstr "Queste parastinchi influenzano la durabilità delle armi. Indossa tutte e tre le parti Kamiyama per attivarne l’effetto speciale."
+msgstr "Queste parastinchi influenzano la durabilità delle armi. Indossa tutte e tre le parti Kamiyama per attivarne l'effetto speciale."
 
 msgctxt "133823\tEXPLANATION"
 msgid "Equip all three Sacred Tree items to gain protection from bullets."
@@ -8191,7 +8191,7 @@ msgstr "Un regalo di Haruka. Qualcosa mi dice che equipaggiarlo mi renderà più
 
 msgctxt "134543\tEXPLANATION"
 msgid "This necklace supposedly reduces the amount of energy consumed when its wearer is running at full power."
-msgstr "Si dice che questa collana riduca l’energia consumata quando chi la indossa corre al massimo."
+msgstr "Si dice che questa collana riduca l'energia consumata quando chi la indossa corre al massimo."
 
 msgctxt "134648\tEXPLANATION"
 msgid "Wearing this necklace supposedly increases your luck in love and money."
@@ -8199,11 +8199,11 @@ msgstr "Indossare questa collana dovrebbe aumentare la tua fortuna in amore e de
 
 msgctxt "134720\tEXPLANATION"
 msgid "Occasionally prevents injury. Wear all three Kokurenkai accessories to boost its protective effect."
-msgstr "A volte previene le ferite. Indossa tutti e tre gli accessori Kokurenkai per potenziarne l’effetto protettivo."
+msgstr "A volte previene le ferite. Indossa tutti e tre gli accessori Kokurenkai per potenziarne l'effetto protettivo."
 
 msgctxt "134820\tEXPLANATION"
 msgid "Occasionally prevents injury. Wear all three Kokurenkai accessories to boost its protective effect."
-msgstr "A volte previene le ferite. Indossa tutti e tre gli accessori Kokurenkai per potenziarne l’effetto protettivo."
+msgstr "A volte previene le ferite. Indossa tutti e tre gli accessori Kokurenkai per potenziarne l'effetto protettivo."
 
 msgctxt "134920\tEXPLANATION"
 msgid "Hallmark of the Amon Clan. Greatly increases the power of all weapons."
@@ -8231,7 +8231,7 @@ msgstr "Un comodo radar che emette un bip quando una chiave di armadietto è nel
 
 msgctxt "135281\tEXPLANATION"
 msgid "Improves balance. Keeps you from stumbling when you run into someone at full speed."
-msgstr "Migliora l’equilibrio. Impedisce di inciampare quando urti qualcuno a tutta velocità."
+msgstr "Migliora l'equilibrio. Impedisce di inciampare quando urti qualcuno a tutta velocità."
 
 msgctxt "135365\tEXPLANATION"
 msgid "Gain money while walking. Equip with Morning Glory Waistband for healing effect when standing still."
@@ -8259,15 +8259,15 @@ msgstr ""
 
 msgctxt "135544\tEXPLANATION"
 msgid "Key to a locker in Kamurocho. Says \"Taihei Blvd. Locker\" on it."
-msgstr "Chiave di un armadietto a Kamurocho. C’è scritto “Taihei Blvd. Locker”."
+msgstr "Chiave di un armadietto a Kamurocho. C'è scritto “Taihei Blvd. Locker”."
 
 msgctxt "135608\tEXPLANATION"
 msgid "Key to a locker in Kamurocho. Says \"Kamurocho Underground Mall Locker\" on it."
-msgstr "Chiave di un armadietto a Kamurocho. C’è scritto “Kamurocho Underground Mall Locker”."
+msgstr "Chiave di un armadietto a Kamurocho. C'è scritto “Kamurocho Underground Mall Locker”."
 
 msgctxt "135686\tEXPLANATION"
 msgid "Wooden tags for gambling. Right now, you have %s."
-msgstr "Gettoni di legno per il gioco d’azzardo. Al momento ne hai %s."
+msgstr "Gettoni di legno per il gioco d'azzardo. Al momento ne hai %s."
 
 msgctxt "135736\tEXPLANATION"
 msgid "Sticks used for mahjong points. Right now, you have %s."
@@ -8395,7 +8395,7 @@ msgstr "Un libro che illustra come costruire pistole giocattolo. Potrebbe darti 
 
 msgctxt "137863\tEXPLANATION"
 msgid "Latest in a series of popular boxing movies. May give you some designs for weapons. "
-msgstr "L’ultimo di una serie di popolari film di boxe. Potrebbe darti alcuni progetti per armi. "
+msgstr "L'ultimo di una serie di popolari film di boxe. Potrebbe darti alcuni progetti per armi. "
 
 msgctxt "137948\tEXPLANATION"
 msgid "Movie about a man who uses his fists to become emperor. May give you some designs for weapons. "
@@ -8407,7 +8407,7 @@ msgstr "Il secondo DVD della serie di culto Limbo. Potrebbe darti alcuni progett
 
 msgctxt "138133\tEXPLANATION"
 msgid "The latest movie starring Dragon Smash. May give you some designs for weapons. "
-msgstr "L’ultimo film con protagonista Dragon Smash. Potrebbe darti alcuni progetti per armi. "
+msgstr "L'ultimo film con protagonista Dragon Smash. Potrebbe darti alcuni progetti per armi. "
 
 msgctxt "138213\tEXPLANATION"
 msgid "A catalog of spy gear disguised as everyday　objects. May give you some designs for weapons. "
@@ -8415,7 +8415,7 @@ msgstr "Un catalogo di gadget da spia camuffati da oggetti di tutti i giorni. Po
 
 msgctxt "138308\tEXPLANATION"
 msgid "Said to be the memoirs of a deceased action star. May give you some designs for weapons. "
-msgstr "Si dice siano le memorie di una defunta star d’azione. Potrebbe darti alcuni progetti per armi. "
+msgstr "Si dice siano le memorie di una defunta star d'azione. Potrebbe darti alcuni progetti per armi. "
 
 msgctxt "138398\tEXPLANATION"
 msgid "An educational DVD showcasing basic science. May give you some designs for weapons. "
@@ -8423,7 +8423,7 @@ msgstr "Un DVD educativo che illustra le scienze di base. Potrebbe darti alcuni 
 
 msgctxt "138483\tEXPLANATION"
 msgid "An educational book for businessmen. May give you some designs for weapons. "
-msgstr "Un libro educativo per uomini d’affari. Potrebbe darti alcuni progetti per armi. "
+msgstr "Un libro educativo per uomini d'affari. Potrebbe darti alcuni progetti per armi. "
 
 msgctxt "138560\tEXPLANATION"
 msgid "An anime that's popular with young girls and older men, strangely enough. May give you some designs for weapons. "
@@ -8463,7 +8463,7 @@ msgstr "Un DVD per uomini che vogliono spaccare con stile. Potrebbe darti proget
 
 msgctxt "139541\tEXPLANATION"
 msgid "A woodcarving set for Revelations. Includes a small log, a pick and a hammer."
-msgstr "Un set d’intaglio per Rivelazioni. Include un piccolo tronco, uno scalpello e un martello."
+msgstr "Un set d'intaglio per Rivelazioni. Include un piccolo tronco, uno scalpello e un martello."
 
 msgctxt "139619\tEXPLANATION"
 msgid "A woodcarving of a Revelation gained from seeing a harsh fight between husband and wife."
@@ -8479,7 +8479,7 @@ msgstr "Un intaglio ispirato a una Rivelazione vista quando un uomo col cemento 
 
 msgctxt "139901\tEXPLANATION"
 msgid "A woodcarving of a Revelation gained from seeing a clumsy assassin get into a car accident."
-msgstr "Un intaglio ispirato a una Rivelazione vista quando un assassino maldestro ha avuto un incidente d’auto."
+msgstr "Un intaglio ispirato a una Rivelazione vista quando un assassino maldestro ha avuto un incidente d'auto."
 
 msgctxt "139993\tEXPLANATION"
 msgid "A woodcarving of a bear. Carved when you failed to gain a Revelation."
@@ -8731,7 +8731,7 @@ msgstr "Una valigetta ripescata al molo."
 
 msgctxt "143930\tEXPLANATION"
 msgid "A bomb capable of demolishing the final wall of the underground air raid shelter."
-msgstr "Una bomba in grado di abbattere l’ultimo muro del rifugio antiaereo sotterraneo."
+msgstr "Una bomba in grado di abbattere l'ultimo muro del rifugio antiaereo sotterraneo."
 
 msgctxt "144012\tEXPLANATION"
 msgid "A sturdy pickaxe that can bust even the hardest rock."
@@ -8759,7 +8759,7 @@ msgstr "Grandi confezioni da asporto di curry originale già riscaldato."
 
 msgctxt "144414\tEXPLANATION"
 msgid "A key with two cats engraved on the handle. Located right where the note said."
-msgstr "Una chiave con due gatti incisi sull’impugnatura. Trovata esattamente dove indicava il biglietto."
+msgstr "Una chiave con due gatti incisi sull'impugnatura. Trovata esattamente dove indicava il biglietto."
 
 msgctxt "144493\tEXPLANATION"
 msgid "A pendant from the tiger-striped cat. Contained a note inside."
@@ -9368,7 +9368,7 @@ msgid "Steel Laundry Pole-\n\n"
 "Extendable Staff as a base plus:\n"
 "1. Super Glue\n"
 "2. Block of Brass"
-msgstr "Stendibiancheria d’Acciaio-\n\n"
+msgstr "Stendibiancheria d'Acciaio-\n\n"
 "Base: Bastone estensibile più:\n"
 "1. Supercolla\n"
 "2. Blocco di ottone"
@@ -9419,11 +9419,11 @@ msgid "Pepper Knuckles-\n\n"
 "1. Bloody Cloth\n"
 "2. Eye of the Dragon"
 msgstr "Noccoliere al Pepe-\n\n"
-"Base: Noccoliere d’ottone più:\n"
+"Base: Noccoliere d'ottone più:\n"
 "1. Peperoncino\n"
 "2. Cerotti adesivi\n\n"
 "-Guanti del Rancore del Drago-\n\n"
-"Base: Noccoliere d’ottone più:\n"
+"Base: Noccoliere d'ottone più:\n"
 "1. Stoffa insanguinata\n"
 "2. Occhio del Drago"
 
@@ -9453,7 +9453,7 @@ msgid "Slash Tonfa-\n\n"
 "1. Synthetic Polymer\n"
 "2. Kamaitachi Utility Knife"
 msgstr "Tonfa Lacerante-\n\n"
-"Base: Tonfa d’acciaio più:\n"
+"Base: Tonfa d'acciaio più:\n"
 "1. Polimero sintetico\n"
 "2. Coltello multiuso Kamaitachi"
 
@@ -9466,12 +9466,12 @@ msgid "Self-Defense Ruler-\n\n"
 "Self-Defense Ruler as a base plus:\n"
 "1. High-Grade Platinum\n"
 "2. Magnetized Metal"
-msgstr "Righello d’Autodifesa-\n\n"
+msgstr "Righello d'Autodifesa-\n\n"
 "Base: Tonfa di ferro più:\n"
 "1. Pezzo di legno (Acero)\n"
 "2. Pezzo di legno (Frassino)\n\n"
 "-Righello di Platino-\n\n"
-"Base: Righello d’Autodifesa più:\n"
+"Base: Righello d'Autodifesa più:\n"
 "1. Platino di alta qualità\n"
 "2. Metallo magnetizzato"
 
@@ -9599,7 +9599,7 @@ msgid "Kamiyama Shin Guards-\n"
 "1. Durable Cloth\n"
 "2. Pearl"
 msgstr "Parastinchi Kamiyama-\n"
-"Base: Parastinchi d’acciaio più:\n"
+"Base: Parastinchi d'acciaio più:\n"
 "1. Tessuto resistente\n"
 "2. Perla"
 
@@ -9607,7 +9607,7 @@ msgctxt "202526\tMORE_EXPLANATION1"
 msgid "Balance Bracelet-\n\n"
 "Tourmaline Bracelet as a base plus:\n"
 "1. Asian Digital Watch "
-msgstr "Bracciale dell’Equilibrio-\n\n"
+msgstr "Bracciale dell'Equilibrio-\n\n"
 "Base: Bracciale di tormalina più:\n"
 "1. Orologio digitale asiatico"
 
@@ -9635,7 +9635,7 @@ msgstr "Equipaggiamento da Allenamento Robusto-\n\n"
 "1. Tubo di gomma\n"
 "2. Molla a memoria di forma\n\n"
 "-Equipaggiamento da Allenamento Yakuza-\n\n"
-"Base: Cotta di maglia d’acciaio più:\n"
+"Base: Cotta di maglia d'acciaio più:\n"
 "1. Attrezzatura fitness\n"
 "2. Molla a memoria di forma"
 
@@ -9697,7 +9697,7 @@ msgstr "Consigli di pesca-\n\n"
 "Il segreto per una buona pesca è evitare che la lenza si spezzi.\n"
 "Se la tensione è troppo alta, si romperà; se è troppo bassa, il pesce scapperà.\n"
 "Se pensi che stia diventando troppo tesa, abbassa la canna assecondando\n"
-"il movimento del pesce. Se non basta, allenta un po’ la lenza."
+"il movimento del pesce. Se non basta, allenta un po' la lenza."
 
 msgctxt "203771\tMORE_EXPLANATION1"
 msgid "1　　　　　　　　　Naomi's Palace Newsletter\n"
@@ -10085,7 +10085,7 @@ msgstr "Asta del Purgatorio-\n\n"
 "1. Metallo magnetizzato\n"
 "2. Benzina per accendini\n\n"
 "-Grande Lancia del Drago-\n\n"
-"Base: Lancia dell’Assassino più:\n"
+"Base: Lancia dell'Assassino più:\n"
 "1. Pezzo di legno (Sacro)\n"
 "2. Rubino"
 
@@ -10103,7 +10103,7 @@ msgstr "Tonfa Spray al Pepe-\n\n"
 "1. Peperoncino\n"
 "2. Contagocce\n\n"
 "-Corno del Drago-\n\n"
-"Base: Tonfa d’acciaio più:\n"
+"Base: Tonfa d'acciaio più:\n"
 "1. Pietra demoniaca\n"
 "2. Sigillo del Drago"
 
@@ -10116,7 +10116,7 @@ msgid "Steel Nunchaku-\n\n"
 "Long Nunchaku as a base plus:\n"
 "1. Diamond\n"
 "2. Seal of the Dragon"
-msgstr "Nunchaku d’Acciaio-\n\n"
+msgstr "Nunchaku d'Acciaio-\n\n"
 "Base: Nunchaku lunghi più:\n"
 "1. Acciaio antico\n"
 "2. Supercolla\n\n"
@@ -10269,8 +10269,8 @@ msgid "It seems the peaceful \n"
 msgstr "Sembra che la vita tranquilla non abbia smussato il tuo affilato istinto.\n"
 "Conoscendoti, però, sospetto che questa pace non durerà a lungo. Se mai\n"
 "sentissi il bisogno di allenarti di nuovo, passa al Palazzo del Drago.\n"
-"Sarei più che felice di rimetterti in forma un’altra volta. Mi farebbe\n"
-"piacere: c’è anche una cosa per cui potrei aver bisogno del tuo aiuto,\n"
+"Sarei più che felice di rimetterti in forma un'altra volta. Mi farebbe\n"
+"piacere: c'è anche una cosa per cui potrei aver bisogno del tuo aiuto,\n"
 "ma preferisco parlarne di persona.\n"
 "Firmato Sotaro Komaki, Dojo Komaki."
 
@@ -10339,9 +10339,9 @@ msgctxt "210120\tMORE_EXPLANATION2"
 msgid "You've created all modified weapons and\n"
 "gear. Congratulations! You are worthy of\n"
 "the title Weaponmaster."
-msgstr "Hai creato tutte le armi e l’equipaggiamento modificati.\n"
+msgstr "Hai creato tutte le armi e l'equipaggiamento modificati.\n"
 "Congratulazioni! Sei degno del titolo di\n"
-"Maestro d’Armi."
+"Maestro d'Armi."
 
 msgctxt "210227\tMORE_EXPLANATION2"
 msgid "You've obtained all of the Revelations.\n"
@@ -10349,7 +10349,7 @@ msgid "You've obtained all of the Revelations.\n"
 "title Inspiration King."
 msgstr "Hai ottenuto tutte le Rivelazioni.\n"
 "Congratulazioni! Sei degno del titolo\n"
-"Re dell’Ispirazione."
+"Re dell'Ispirazione."
 
 msgctxt "210332\tMORE_EXPLANATION2"
 msgid "You've completed all of the minigames.\n"
@@ -10393,7 +10393,7 @@ msgid "I have a prize for you.\n\n"
 "Street. I'll give it to you there."
 msgstr "Ho un premio per te.\n\n"
 "Vieni al Palazzo di Naomi, la chiromante\n"
-"all’estremità sud di Tenkaichi Street.\n"
+"all'estremità sud di Tenkaichi Street.\n"
 "Te lo consegnerò lì."
 
 msgctxt "210939\tMORE_EXPLANATION2"
@@ -10693,7 +10693,7 @@ msgid "I have a prize for you.\n\n"
 "Street. I'll give it to you there."
 msgstr "Ho un premio per te.\n\n"
 "Vieni al Palazzo di Naomi, la chiromante\n"
-"all’estremità sud di Tenkaichi Street.\n"
+"all'estremità sud di Tenkaichi Street.\n"
 "Te lo consegnerò lì."
 
 msgctxt "212958\tMORE_EXPLANATION3"
@@ -10703,7 +10703,7 @@ msgid "I have a prize for you.\n\n"
 "Street. I'll give it to you there."
 msgstr "Ho un premio per te.\n\n"
 "Vieni al Palazzo di Naomi, la chiromante\n"
-"all’estremità sud di Tenkaichi Street.\n"
+"all'estremità sud di Tenkaichi Street.\n"
 "Te lo consegnerò lì."
 
 msgctxt "213093\tMORE_EXPLANATION3"
@@ -10713,7 +10713,7 @@ msgid "I have a prize for you.\n\n"
 "Street. I'll give it to you there."
 msgstr "Ho un premio per te.\n\n"
 "Vieni al Palazzo di Naomi, la chiromante\n"
-"all’estremità sud di Tenkaichi Street.\n"
+"all'estremità sud di Tenkaichi Street.\n"
 "Te lo consegnerò lì."
 
 msgctxt "213228\tMORE_EXPLANATION3"
@@ -10723,7 +10723,7 @@ msgid "I have a prize for you.\n\n"
 "Street. I'll give it to you there."
 msgstr "Ho un premio per te.\n\n"
 "Vieni al Palazzo di Naomi, la chiromante\n"
-"all’estremità sud di Tenkaichi Street.\n"
+"all'estremità sud di Tenkaichi Street.\n"
 "Te lo consegnerò lì."
 
 msgctxt "213363\tMORE_EXPLANATION3"
@@ -10733,7 +10733,7 @@ msgid "I have a prize for you.\n\n"
 "Street. I'll give it to you there."
 msgstr "Ho un premio per te.\n\n"
 "Vieni al Palazzo di Naomi, la chiromante\n"
-"all’estremità sud di Tenkaichi Street.\n"
+"all'estremità sud di Tenkaichi Street.\n"
 "Te lo consegnerò lì."
 
 msgctxt "213498\tMORE_EXPLANATION3"
@@ -10743,7 +10743,7 @@ msgid "I have a prize for you.\n\n"
 "Street. I'll give it to you there."
 msgstr "Ho un premio per te.\n\n"
 "Vieni al Palazzo di Naomi, la chiromante\n"
-"all’estremità sud di Tenkaichi Street.\n"
+"all'estremità sud di Tenkaichi Street.\n"
 "Te lo consegnerò lì."
 
 msgctxt "213633\tMORE_EXPLANATION3"
@@ -10753,7 +10753,7 @@ msgid "I have a prize for you.\n\n"
 "Street. I'll give it to you there."
 msgstr "Ho un premio per te.\n\n"
 "Vieni al Palazzo di Naomi, la chiromante\n"
-"all’estremità sud di Tenkaichi Street.\n"
+"all'estremità sud di Tenkaichi Street.\n"
 "Te lo consegnerò lì."
 
 msgctxt "213768\tMORE_EXPLANATION3"
@@ -10763,7 +10763,7 @@ msgid "I have a prize for you.\n\n"
 "Street. I'll give it to you there."
 msgstr "Ho un premio per te.\n\n"
 "Vieni al Palazzo di Naomi, la chiromante\n"
-"all’estremità sud di Tenkaichi Street.\n"
+"all'estremità sud di Tenkaichi Street.\n"
 "Te lo consegnerò lì."
 
 msgctxt "213903\tMORE_EXPLANATION3"
@@ -10773,7 +10773,7 @@ msgid "I have a prize for you.\n\n"
 "Street. I'll give it to you there."
 msgstr "Ho un premio per te.\n\n"
 "Vieni al Palazzo di Naomi, la chiromante\n"
-"all’estremità sud di Tenkaichi Street.\n"
+"all'estremità sud di Tenkaichi Street.\n"
 "Te lo consegnerò lì."
 
 msgctxt "214038\tMORE_EXPLANATION3"
@@ -10783,7 +10783,7 @@ msgid "I have a prize for you.\n\n"
 "Street. I'll give it to you there."
 msgstr "Ho un premio per te.\n\n"
 "Vieni al Palazzo di Naomi, la chiromante\n"
-"all’estremità sud di Tenkaichi Street.\n"
+"all'estremità sud di Tenkaichi Street.\n"
 "Te lo consegnerò lì."
 
 msgctxt "214173\tMORE_EXPLANATION3"
@@ -10793,7 +10793,7 @@ msgid "I have a prize for you.\n\n"
 "Street. I'll give it to you there."
 msgstr "Ho un premio per te.\n\n"
 "Vieni al Palazzo di Naomi, la chiromante\n"
-"all’estremità sud di Tenkaichi Street.\n"
+"all'estremità sud di Tenkaichi Street.\n"
 "Te lo consegnerò lì."
 
 msgctxt "214308\tMORE_EXPLANATION3"
@@ -10803,7 +10803,7 @@ msgid "I have a prize for you.\n\n"
 "Street. I'll give it to you there."
 msgstr "Ho un premio per te.\n\n"
 "Vieni al Palazzo di Naomi, la chiromante\n"
-"all’estremità sud di Tenkaichi Street.\n"
+"all'estremità sud di Tenkaichi Street.\n"
 "Te lo consegnerò lì."
 
 msgctxt "214443\tMORE_EXPLANATION3"
@@ -10813,7 +10813,7 @@ msgid "I have a prize for you.\n\n"
 "Street. I'll give it to you there."
 msgstr "Ho un premio per te.\n\n"
 "Vieni al Palazzo di Naomi, la chiromante\n"
-"all’estremità sud di Tenkaichi Street.\n"
+"all'estremità sud di Tenkaichi Street.\n"
 "Te lo consegnerò lì."
 
 msgctxt "214578\tMORE_EXPLANATION3"
@@ -10823,7 +10823,7 @@ msgid "I have a prize for you.\n\n"
 "Street. I'll give it to you there."
 msgstr "Ho un premio per te.\n\n"
 "Vieni al Palazzo di Naomi, la chiromante\n"
-"all’estremità sud di Tenkaichi Street.\n"
+"all'estremità sud di Tenkaichi Street.\n"
 "Te lo consegnerò lì."
 
 msgctxt "214713\tMORE_EXPLANATION3"
@@ -10832,7 +10832,7 @@ msgid "Head over to http://www.777town.net/ryu\n"
 "Don't forget to check it out!"
 msgstr "Vai su http://www.777town.net/ryu\n"
 "e inserisci la password SIRUP per entrare!\n\n"
-"Non dimenticare di dare un’occhiata!"
+"Non dimenticare di dare un'occhiata!"
 
 msgctxt "214826\tMORE_EXPLANATION3"
 msgid "Head over to http://www.777town.net/ryu\n"
@@ -10840,7 +10840,7 @@ msgid "Head over to http://www.777town.net/ryu\n"
 "Don't forget to check it out!"
 msgstr "Vai su http://www.777town.net/ryu\n"
 "e inserisci la password 777TOWN per entrare!\n\n"
-"Non dimenticare di dare un’occhiata!"
+"Non dimenticare di dare un'occhiata!"
 
 msgctxt "214941\tMORE_EXPLANATION3"
 msgid "Third page"
@@ -11081,7 +11081,7 @@ msgid "Fishing Tips-\n\n"
 "Give it a shot!"
 msgstr "Consigli di pesca-\n\n"
 "A volte potresti tirare su un pesce di\n"
-"prima qualità. Ti farà sudare, ma non c’è\n"
+"prima qualità. Ti farà sudare, ma non c'è\n"
 "nulla di più gratificante che portarlo a riva!\n"
 "Dai, provaci!"
 
@@ -11089,17 +11089,17 @@ msgctxt "216045\tMORE_EXPLANATION4"
 msgid "For details, see the pachinko booklet\n"
 "777 Town Walker, available inside\n"
 "Volcano."
-msgstr "Per maggiori dettagli, consulta l’opuscolo\n"
+msgstr "Per maggiori dettagli, consulta l'opuscolo\n"
 "del pachinko *777 Town Walker*, disponibile\n"
-"all’interno del Volcano."
+"all'interno del Volcano."
 
 msgctxt "216128\tMORE_EXPLANATION4"
 msgid "For details, see the pachinko booklet\n"
 "777 Town Walker, available inside\n"
 "Volcano."
-msgstr "Per maggiori dettagli, consulta l’opuscolo\n"
+msgstr "Per maggiori dettagli, consulta l'opuscolo\n"
 "del pachinko *777 Town Walker*, disponibile\n"
-"all’interno del Volcano."
+"all'interno del Volcano."
 
 msgctxt "216211\tMORE_EXPLANATION4"
 msgid "Fourth page"
