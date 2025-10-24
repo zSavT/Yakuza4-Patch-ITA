@@ -1,0 +1,1938 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid00ee00ea.po\n"
+"X-Crowdin-File-ID: 60816\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "3496"
+msgid "You got <Color:8>Haruka's Necklace<Color:Default>."
+msgstr "Hai ottenuto la <Color:8>Collana di Haruka<Color:Default>."
+
+msgctxt "3556"
+msgid "Haruka will now occasionally predict the outcome of a round when you are playing cho-han."
+msgstr "D’ora in poi, quando giochi a cho-han, Haruka a volte preverrà l’esito di un round."
+
+msgctxt "3604"
+msgid "You got <Color:8>Haruka's Lunch<Color:Default>."
+msgstr "Hai ottenuto il <Color:8>Pranzo di Haruka<Color:Default>."
+
+msgctxt "3664"
+msgid "You got <Color:8>Haruka's First-aid Kit<Color:Default>."
+msgstr "Hai ottenuto il <Color:8>Kit di pronto soccorso di Haruka<Color:Default>."
+
+msgctxt "3724"
+msgid "You got a <Color:8>Red Jewel<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Gioiello Rosso<Color:Default>."
+
+msgctxt "3784"
+msgid "You got <Color:8>Haruka's Amulet<Color:Default>."
+msgstr "Hai ottenuto l’<Color:8>Amuleto di Haruka<Color:Default>."
+
+msgctxt "3844"
+msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
+msgstr "Hai ottenuto il <Color:8>Cioccolato di Haruka<Color:Default>."
+
+msgctxt "3904"
+msgid "You got <Color:8>Haruka's Candy<Color:Default>."
+msgstr "Hai ottenuto le <Color:8>Caramelle di Haruka<Color:Default>."
+
+msgctxt "4864"
+msgid "You got <Color:8>150,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>150.000 yen<Color:Default>."
+
+msgctxt "4888"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>100.000 yen<Color:Default>."
+
+msgctxt "4912"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>50.000 yen<Color:Default>."
+
+msgctxt "5368"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>100.000 yen<Color:Default>."
+
+msgctxt "5416"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>50.000 yen<Color:Default>."
+
+msgctxt "5464"
+msgid "You got <Color:8>20,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>20.000 yen<Color:Default>."
+
+msgctxt "5536"
+msgid "You got <Color:8>150,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>150.000 yen<Color:Default>."
+
+msgctxt "5584"
+msgid "You got <Color:8>100,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>100.000 yen<Color:Default>."
+
+msgctxt "5632"
+msgid "You got <Color:8>50,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>50.000 yen<Color:Default>."
+
+msgctxt "87616"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "87620"
+msgid "HAL_stand_tlk_happy_big"
+msgstr "HAL_stand_tlk_happy_big"
+
+msgctxt "87624"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "87628"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "87632"
+msgid "Receptionist"
+msgstr "Addetto alla reception"
+
+msgctxt "87636"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "87640"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "87644"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "87648"
+msgid "HAL_stand_tlk_unhappy_small"
+msgstr "HAL_stand_tlk_unhappy_small"
+
+msgctxt "87652"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "87656"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "3340_Haruka"
+msgid "You're amazing, Uncle Kaz! You were just like a pro golfer!"
+msgstr "Sei incredibile, Zio Kaz! Sembravi un golfista professionista!"
+
+msgctxt "3376_Kiryu"
+msgid "(Haruka sure is happy...)"
+msgstr "(Haruka è proprio al settimo cielo...)"
+
+msgctxt "3412_Kiryu"
+msgid "(Haruka sure is happy...)"
+msgstr "(Haruka è proprio al settimo cielo...)"
+
+msgctxt "3484_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Grazie di cuore, Zio Kaz! Ho un regalino per te!"
+
+msgctxt "3544_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I wanna come to play cho-han with you next time, okay?"
+msgstr "Grazie di cuore, Zio Kaz! La prossima volta vengo a giocare a cho-han con te, va bene?"
+
+msgctxt "3592_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Grazie di cuore, Zio Kaz! Ho un regalino per te!"
+
+msgctxt "3652_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Grazie di cuore, Zio Kaz! Ho un regalino per te!"
+
+msgctxt "3712_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Grazie di cuore, Zio Kaz! Ho un regalino per te!"
+
+msgctxt "3772_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Grazie di cuore, Zio Kaz! Ho un regalino per te!"
+
+msgctxt "3832_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Grazie di cuore, Zio Kaz! Ho un regalino per te!"
+
+msgctxt "3892_Haruka"
+msgid "Thanks a ton, Uncle Kaz! I have a present for you!"
+msgstr "Grazie di cuore, Zio Kaz! Ho un regalino per te!"
+
+msgctxt "3952_Haruka"
+msgid "That's too bad..."
+msgstr "Peccato..."
+
+msgctxt "4012_Receptionist"
+msgid "Hello, sir. What will it be today?"
+msgstr "Buongiorno, signore. Cosa desidera oggi?"
+
+msgctxt "4036_Haruka"
+msgid "Uncle Kaz! Get at least +2 in Competition Mode! I know you can do it!"
+msgstr "Zio Kaz! Fai almeno +2 nella Modalità Competizione! So che ce la fai!"
+
+msgctxt "4048_Kiryu"
+msgid "(At least +2 in Competition Mode, huh...? Should I give it a try?)"
+msgstr "(Almeno +2 in Modalità Competizione, eh...? Dovrei provarci?)"
+
+msgctxt "4060_Haruka"
+msgid "Actually, never mind."
+msgstr "Anzi, lascia stare."
+
+msgctxt "4072_Receptionist"
+msgid "All right. Please come again."
+msgstr "Capisco. Torni a trovarci."
+
+msgctxt "4084_Haruka"
+msgid "Aww! But I want to watch you play golf!"
+msgstr "Uffa! Ma voglio vederti giocare a golf!"
+
+msgctxt "4096_Kiryu"
+msgid "Sure, I'll enter the competition."
+msgstr "Va bene, mi iscrivo alla competizione."
+
+msgctxt "4108_Receptionist"
+msgid "Very well. The entrance fee is 5,000 yen."
+msgstr "Benissimo. La quota d’iscrizione è di 5.000 yen."
+
+msgctxt "4132_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "4168_Kiryu"
+msgid "Actually, hold on a sec."
+msgstr "Aspetta, un secondo."
+
+msgctxt "4180_Receptionist"
+msgid "All right. Best of luck to you."
+msgstr "Molto bene. Le auguro buona fortuna."
+
+msgctxt "4192_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr "In bocca al lupo, Zio Kaz!"
+
+msgctxt "4216_Haruka"
+msgid "(I don't have enough money...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "4228_Haruka"
+msgid "Aww! But I want to watch you play golf!"
+msgstr "Uffa! Ma voglio vederti giocare a golf!"
+
+msgctxt "4240_Haruka"
+msgid "Uncle Kaz! Get 500 points in a closest to the pin contest!"
+msgstr "Zio Kaz! Fai 500 punti nella gara del tiro più vicino alla buca!"
+
+msgctxt "4252_Kiryu"
+msgid "(At least 500 points in a closest to the pin contest... Should I give it a try?)"
+msgstr "(Almeno 500 punti nella gara del tiro più vicino alla buca... Ci provo?)"
+
+msgctxt "4264_Haruka"
+msgid "Not right now."
+msgstr "Non adesso."
+
+msgctxt "4276_Receptionist"
+msgid "All right. Please come again."
+msgstr "Capisco. Torni a trovarci."
+
+msgctxt "4288_Haruka"
+msgid "Aww! But I want to watch you play golf!"
+msgstr "Uffa! Ma voglio vederti giocare a golf!"
+
+msgctxt "4300_Kiryu"
+msgid "I think I'll try the closest to the pin contest."
+msgstr "Quasi quasi provo la gara del tiro più vicino alla buca."
+
+msgctxt "4312_Receptionist"
+msgid "Very well. The fee is 2,500 yen."
+msgstr "Benissimo. La quota è di 2.500 yen."
+
+msgctxt "4336_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "4372_Kiryu"
+msgid "Actually, hold on a sec."
+msgstr "Aspetta, un secondo."
+
+msgctxt "4384_Receptionist"
+msgid "All right. Best of luck to you."
+msgstr "Molto bene. Le auguro buona fortuna."
+
+msgctxt "4396_Haruka"
+msgid "Good luck, Uncle Kaz!"
+msgstr "In bocca al lupo, Zio Kaz!"
+
+msgctxt "4420_Haruka"
+msgid "(I don't have enough money...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "4432_Haruka"
+msgid "Aww! But I want to watch you play golf!"
+msgstr "Uffa! Ma voglio vederti giocare a golf!"
+
+msgctxt "4456_Receptionist"
+msgid "Welcome. Just the two of you today?"
+msgstr "Benvenuti. Siete solo in due oggi?"
+
+msgctxt "4468_Player"
+msgid "Yes, we'd like to join the doubles competition."
+msgstr "Sì, vorremmo iscriverci alla gara a coppie."
+
+msgctxt "4480_Receptionist"
+msgid "Very well. The entrance fee is 5,000 yen."
+msgstr "Benissimo. La quota d’iscrizione è di 5.000 yen."
+
+msgctxt "4492_Receptionist"
+msgid "All right. Best of luck to you."
+msgstr "Molto bene. Vi auguro buona fortuna."
+
+msgctxt "4744_Haruka"
+msgid "ERROR! Nobody is on a date now!"
+msgstr "ERRORE! Nessuno è adesso a un appuntamento!"
+
+msgctxt "4852_Receptionist"
+msgid "Congratulations! Here's your prize."
+msgstr "Congratulazioni! Ecco il suo premio."
+
+msgctxt "4876_Receptionist"
+msgid "Congratulations! Here's your prize."
+msgstr "Congratulazioni! Ecco il suo premio."
+
+msgctxt "4900_Receptionist"
+msgid "Congratulations! Here's your prize."
+msgstr "Congratulazioni! Ecco il suo premio."
+
+msgctxt "4924_Receptionist"
+msgid "Thank you very much. We hope you'll come by again soon－but do remember, our golfing facility is only open during the daytime."
+msgstr "La ringraziamo molto. Speriamo di rivederla presto—ricordi però che la nostra struttura da golf è aperta solo di giorno."
+
+msgctxt "4948_Receptionist"
+msgid "Well done. We hope you'll come by again soon－but do remember, our golfing facility is only open during the daytime."
+msgstr "Ben fatto. Speriamo di rivederla presto—ricordi però che la nostra struttura da golf è aperta solo di giorno."
+
+msgctxt "4972_Receptionist"
+msgid "Well done. We hope you'll come by again soon－but do remember, our golfing facility is only open during the daytime."
+msgstr "Ben fatto. Speriamo di rivederla presto—ricordi però che la nostra struttura da golf è aperta solo di giorno."
+
+msgctxt "4996_Player"
+msgid "Sorry, something just came up. I'll have to cancel my registration."
+msgstr "Scusi, è saltato fuori un imprevisto. Devo annullare l’iscrizione."
+
+msgctxt "5008_Receptionist"
+msgid "Very well.\r\n"
+"Let me return your fee."
+msgstr "Capisco.\r\n"
+"Le restituisco la quota."
+
+msgctxt "5020_Receptionist"
+msgid "Please come again."
+msgstr "La aspettiamo di nuovo."
+
+msgctxt "5044_Player"
+msgid "Sorry, something just came up. I'm going to have to cancel my registration."
+msgstr "Scusi, è saltato fuori un imprevisto. Dovrò annullare l’iscrizione."
+
+msgctxt "5056_Receptionist"
+msgid "Very well.\r\n"
+"Let me return your fee."
+msgstr "Capisco.\r\n"
+"Le restituisco la quota."
+
+msgctxt "5068_Receptionist"
+msgid "Please come again."
+msgstr "La aspettiamo di nuovo."
+
+msgctxt "5092_Player"
+msgid "Sorry, something just came up. I'm going to have to cancel my registration."
+msgstr "Scusi, è saltato fuori un imprevisto. Dovrò annullare l’iscrizione."
+
+msgctxt "5104_Receptionist"
+msgid "Very well.\r\n"
+"Let me return your fee."
+msgstr "Capisco.\r\n"
+"Le restituisco la quota."
+
+msgctxt "5116_Receptionist"
+msgid "Please come again."
+msgstr "La aspettiamo di nuovo."
+
+msgctxt "5140_Player"
+msgid "Sorry, something just came up. I'm going to have to cancel my registration."
+msgstr "Scusi, è saltato fuori un imprevisto. Dovrò annullare l’iscrizione."
+
+msgctxt "5152_Receptionist"
+msgid "Very well.\r\n"
+"Let me return your fee."
+msgstr "Capisco.\r\n"
+"Le restituisco la quota."
+
+msgctxt "5164_Receptionist"
+msgid "Please come again."
+msgstr "La aspettiamo di nuovo."
+
+msgctxt "5188_Player"
+msgid "Sorry, something just came up. I'll have to cancel my registration."
+msgstr "Scusi, è saltato fuori un imprevisto. Devo annullare l’iscrizione."
+
+msgctxt "5200_Receptionist"
+msgid "Very well.\r\n"
+"Let me return your fee."
+msgstr "Capisco.\r\n"
+"Le restituisco la quota."
+
+msgctxt "5212_Receptionist"
+msgid "Please come again."
+msgstr "La aspettiamo di nuovo."
+
+msgctxt "5236_Player"
+msgid "Sorry, something just came up. I'm going to have to cancel my registration."
+msgstr "Scusi, è saltato fuori un imprevisto. Dovrò annullare l’iscrizione."
+
+msgctxt "5248_Receptionist"
+msgid "Very well.\r\n"
+"Let me return your fee."
+msgstr "Capisco.\r\n"
+"Le restituisco la quota."
+
+msgctxt "5260_Receptionist"
+msgid "Please come again."
+msgstr "La aspettiamo di nuovo."
+
+msgctxt "5284_Player"
+msgid "Sorry, something just came up. I'll have to cancel my registration."
+msgstr "Scusi, è saltato fuori un imprevisto. Devo annullare l’iscrizione."
+
+msgctxt "5296_Receptionist"
+msgid "Very well. Please come again."
+msgstr "Capisco. Torni a trovarci."
+
+msgctxt "5320_Player"
+msgid "Sorry, something just came up. I'm going to have to cancel my registration."
+msgstr "Scusi, è saltato fuori un imprevisto. Dovrò annullare l’iscrizione."
+
+msgctxt "5332_Receptionist"
+msgid "Very well. Please come again."
+msgstr "Capisco. Torni a trovarci."
+
+msgctxt "5356_Receptionist"
+msgid "Congratulations! Here's your prize."
+msgstr "Congratulazioni! Ecco il suo premio."
+
+msgctxt "5380_Receptionist"
+msgid "We hope to see you again soon."
+msgstr "Speriamo di rivederla presto."
+
+msgctxt "5404_Receptionist"
+msgid "Congratulations! Here's your prize."
+msgstr "Congratulazioni! Ecco il suo premio."
+
+msgctxt "5428_Receptionist"
+msgid "We hope you'll try again soon!"
+msgstr "Speriamo che ritenti presto!"
+
+msgctxt "5452_Receptionist"
+msgid "Congratulations. Here's your prize."
+msgstr "Congratulazioni. Ecco il suo premio."
+
+msgctxt "5476_Receptionist"
+msgid "We hope you'll try again soon!"
+msgstr "Speriamo che ritenti presto!"
+
+msgctxt "5500_Receptionist"
+msgid "Great work. We hope to see you again soon."
+msgstr "Ottimo lavoro. Speriamo di rivederla presto."
+
+msgctxt "5524_Receptionist"
+msgid "Congratulations! Here's your prize."
+msgstr "Congratulazioni! Ecco il suo premio."
+
+msgctxt "5548_Receptionist"
+msgid "We hope you'll try again soon!"
+msgstr "Speriamo che ritenti presto!"
+
+msgctxt "5572_Receptionist"
+msgid "Congratulations! Here's your prize."
+msgstr "Congratulazioni! Ecco il suo premio."
+
+msgctxt "5596_Receptionist"
+msgid "We hope you'll try again soon!"
+msgstr "Speriamo che ritenti presto!"
+
+msgctxt "5620_Receptionist"
+msgid "Congratulations. Here's your prize."
+msgstr "Congratulazioni. Ecco il suo premio."
+
+msgctxt "5644_Receptionist"
+msgid "We hope you'll try again soon!"
+msgstr "Speriamo che ritenti presto!"
+
+msgctxt "5668_Receptionist"
+msgid "Great work. We hope to see you again soon!"
+msgstr "Ottimo lavoro. Speriamo di rivederla presto!"
+
+msgctxt "5692_Receptionist"
+msgid "Great work. Here's your prize."
+msgstr "Ottimo lavoro. Ecco il suo premio."
+
+msgctxt "5716_Receptionist"
+msgid "We hope you'll come again soon."
+msgstr "Speriamo di rivederla presto."
+
+msgctxt "5740_Receptionist"
+msgid "I'm sorry, sir, but we're closed today."
+msgstr "Mi dispiace, signore, oggi siamo chiusi."
+
+msgctxt "5752_Receptionist"
+msgid "Hello, sir. What will it be today?"
+msgstr "Buongiorno, signore. Cosa desidera oggi?"
+
+msgctxt "5764_Player"
+msgid "I want to enter the competition."
+msgstr "Vorrei iscrivermi alla competizione."
+
+msgctxt "5776_Receptionist"
+msgid "Very well. The entrance fee is 5,000 yen."
+msgstr "Benissimo. La quota d’iscrizione è di 5.000 yen."
+
+msgctxt "5800_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "5812_Receptionist"
+msgid "All right. Best of luck to you."
+msgstr "Molto bene. Le auguro buona fortuna."
+
+msgctxt "5836_Haruka"
+msgid "(I don't have enough money...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "5848_Player"
+msgid "I think I'll invite someone to come play with me."
+msgstr "Quasi quasi invito qualcuno a giocare con me."
+
+msgctxt "5860_Receptionist"
+msgid "Very well. You can play a match or participate in the doubles competition. Which will it be?"
+msgstr "Benissimo. Può fare una partita o partecipare alla gara a coppie. Cosa preferisce?"
+
+msgctxt "5872_Haruka"
+msgid "We'll participate in the Doubles Competition."
+msgstr "Partecipiamo alla gara a coppie."
+
+msgctxt "5884_Receptionist"
+msgid "Very well. The entrance fee is 5,000 yen."
+msgstr "Benissimo. La quota d’iscrizione è di 5.000 yen."
+
+msgctxt "5908_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "5920_Receptionist"
+msgid "Excellent. Best of luck to you."
+msgstr "Eccellente. Vi auguro buona fortuna."
+
+msgctxt "5944_Haruka"
+msgid "(I don't have enough money...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "5956_Haruka"
+msgid "We'll just play a match."
+msgstr "Facciamo solo una partita."
+
+msgctxt "5968_Receptionist"
+msgid "Very well. A match will cost 3,000 yen."
+msgstr "Benissimo. Una partita costa 3.000 yen."
+
+msgctxt "5992_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "6004_Receptionist"
+msgid "Excellent. Best of luck to you."
+msgstr "Eccellente. Vi auguro buona fortuna."
+
+msgctxt "6028_Haruka"
+msgid "(I don't have enough money...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "6040_Player"
+msgid "I think I'll try the closest to the pin contest."
+msgstr "Penso che proverò la gara del tiro più vicino alla buca."
+
+msgctxt "6052_Receptionist"
+msgid "All right. Would you like to hear the rules of our closest to the pin contest?"
+msgstr "Benissimo. Vuole sentire le regole della nostra gara del tiro più vicino alla buca?"
+
+msgctxt "6064_Player"
+msgid "I'm good for now."
+msgstr "Per ora va bene così."
+
+msgctxt "6076_Receptionist"
+msgid "Very well. It's 2,500 yen to play."
+msgstr "Benissimo. Giocare costa 2.500 yen."
+
+msgctxt "6100_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "6112_Receptionist"
+msgid "Excellent. Best of luck to you."
+msgstr "Eccellente. Le auguro buona fortuna."
+
+msgctxt "6136_Player"
+msgid "Yeah, let's hear them."
+msgstr "Sì, sentiamo le regole."
+
+msgctxt "6148_Receptionist"
+msgid "You will make ten tee shots at the second hole."
+msgstr "Effettuerà dieci colpi dal tee alla seconda buca."
+
+msgctxt "6160_Receptionist"
+msgid "The closer your ball gets to the hole, the more points you'll be awarded."
+msgstr "Più la palla si avvicina alla buca, più punti verranno assegnati."
+
+msgctxt "6172_Receptionist"
+msgid "Each shot is worth between 0 to 150 points－depending how close to the hole it gets－while a hole-in-one is worth 300 points."
+msgstr "Ogni tiro vale da 0 a 150 punti — in base alla distanza dalla buca — mentre una buca in uno vale 300 punti."
+
+msgctxt "6184_Receptionist"
+msgid "At the end of the contest, you'll receive a prize based on the number of points you scored. Try your best and you might win a really nice prize!"
+msgstr "Al termine della gara riceverà un premio in base al punteggio ottenuto. Impegnandosi può vincere un bel premio!"
+
+msgctxt "6196_Receptionist"
+msgid "That's about it for the closest to the pin contest rules. Would you like to hear them again?"
+msgstr "Queste sono più o meno le regole della gara del tiro più vicino alla buca. Vuole riascoltarle?"
+
+msgctxt "6208_Haruka"
+msgid "(I don't have enough money...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "6220_Player"
+msgid "I think I'll practice."
+msgstr "Quasi quasi faccio un po’ di pratica."
+
+msgctxt "6232_Receptionist"
+msgid "Very well. You can practice any hole for free."
+msgstr "Benissimo. Può esercitarsi su qualsiasi buca gratuitamente."
+
+msgctxt "6244_Receptionist"
+msgid "What hole would you like to practice?"
+msgstr "Su quale buca vuole esercitarsi?"
+
+msgctxt "6256_Haruka"
+msgid "I'll try the first hole."
+msgstr "Provo la prima buca."
+
+msgctxt "6268_Haruka"
+msgid "I'll try the second hole."
+msgstr "Provo la seconda buca."
+
+msgctxt "6280_Haruka"
+msgid "I'll try the third hole."
+msgstr "Provo la terza buca."
+
+msgctxt "6292_Haruka"
+msgid "I'll try the fourth hole."
+msgstr "Provo la quarta buca."
+
+msgctxt "6304_Haruka"
+msgid "I'll try the fifth hole."
+msgstr "Provo la quinta buca."
+
+msgctxt "6316_Haruka"
+msgid "I'll try the sixth hole."
+msgstr "Provo la sesta buca."
+
+msgctxt "6328_Haruka"
+msgid "I'll try the seventh hole."
+msgstr "Provo la settima buca."
+
+msgctxt "6340_Haruka"
+msgid "I'll try the eighth hole."
+msgstr "Provo l’ottava buca."
+
+msgctxt "6352_Haruka"
+msgid "I'll try the ninth hole."
+msgstr "Provo la nona buca."
+
+msgctxt "6364_Haruka"
+msgid "Enjoy your game!"
+msgstr "Buon divertimento!"
+
+msgctxt "6388_Haruka"
+msgid "Let's see the records."
+msgstr "Vediamo i record."
+
+msgctxt "6400_Receptionist"
+msgid "All right. Take as long as you'd like."
+msgstr "Benissimo. Si prenda pure tutto il tempo che vuole."
+
+msgctxt "6424_Haruka"
+msgid "Not right now."
+msgstr "Non adesso."
+
+msgctxt "6436_Receptionist"
+msgid "All right. We hope you'll come by again soon－but do remember, our golfing facility is only open during the daytime."
+msgstr "Va bene. Speriamo di rivederla presto—ricordi che la nostra struttura da golf è aperta solo di giorno."
+
+msgctxt "6556_Receptionist"
+msgid "Hello, sir. What will it be today?"
+msgstr "Buongiorno, signore. Cosa desidera oggi?"
+
+msgctxt "6568_Player"
+msgid "I want to enter the competition."
+msgstr "Vorrei iscrivermi alla competizione."
+
+msgctxt "6580_Receptionist"
+msgid "Very well. The entrance fee is 5,000 yen."
+msgstr "Benissimo. La quota d’iscrizione è di 5.000 yen."
+
+msgctxt "6604_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "6616_Receptionist"
+msgid "Excellent. Best of luck to you."
+msgstr "Eccellente. Le auguro buona fortuna."
+
+msgctxt "6640_Haruka"
+msgid "(I don't have enough money...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "6652_Player"
+msgid "I think I'll invite someone to come play with me."
+msgstr "Quasi quasi invito qualcuno a giocare con me."
+
+msgctxt "6664_Receptionist"
+msgid "Very well. You can play a match or participate in the doubles competition. Which will it be?"
+msgstr "Benissimo. Può fare una partita o partecipare alla gara a coppie. Cosa preferisce?"
+
+msgctxt "6676_Haruka"
+msgid "We'll participate in the Doubles Competition."
+msgstr "Partecipiamo alla gara a coppie."
+
+msgctxt "6688_Receptionist"
+msgid "Very well. The entrance fee is 5,000 yen."
+msgstr "Benissimo. La quota d’iscrizione è di 5.000 yen."
+
+msgctxt "6712_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "6724_Receptionist"
+msgid "Excellent. Best of luck to you."
+msgstr "Eccellente. Vi auguro buona fortuna."
+
+msgctxt "6748_Haruka"
+msgid "(I don't have enough money...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "6760_Haruka"
+msgid "We'll just play a match."
+msgstr "Facciamo solo una partita."
+
+msgctxt "6772_Receptionist"
+msgid "Very well. A match will cost 3,000 yen."
+msgstr "Benissimo. Una partita costa 3.000 yen."
+
+msgctxt "6796_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "6808_Receptionist"
+msgid "Excellent. Best of luck to you."
+msgstr "Eccellente. Vi auguro buona fortuna."
+
+msgctxt "6832_Haruka"
+msgid "(I don't have enough money...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "6844_Player"
+msgid "I think I'll try the closest to the pin contest."
+msgstr "Penso che proverò la gara del tiro più vicino alla buca."
+
+msgctxt "6856_Receptionist"
+msgid "All right. Would you like to hear the rules of our closest to the pin contest?"
+msgstr "Benissimo. Vuole sentire le regole della nostra gara del tiro più vicino alla buca?"
+
+msgctxt "6868_Player"
+msgid "I'm good for now."
+msgstr "Per ora va bene così."
+
+msgctxt "6880_Receptionist"
+msgid "Very well. It's 2,500 yen to play."
+msgstr "Benissimo. Giocare costa 2.500 yen."
+
+msgctxt "6904_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "6916_Receptionist"
+msgid "Excellent. Best of luck to you."
+msgstr "Eccellente. Le auguro buona fortuna."
+
+msgctxt "6940_Player"
+msgid "Yeah, let's hear them."
+msgstr "Sì, sentiamo le regole."
+
+msgctxt "6952_Receptionist"
+msgid "You will make ten tee shots at the second hole."
+msgstr "Effettuerà dieci colpi dal tee alla seconda buca."
+
+msgctxt "6964_Receptionist"
+msgid "The closer your ball gets to the hole, the more points you'll be awarded."
+msgstr "Più la palla si avvicina alla buca, più punti verranno assegnati."
+
+msgctxt "6976_Receptionist"
+msgid "Each shot is worth between 0 to 150 points－depending how close to the hole it gets－while a hole-in-one is worth 300 points."
+msgstr "Ogni tiro vale da 0 a 150 punti — in base alla distanza dalla buca — mentre una buca in uno vale 300 punti."
+
+msgctxt "6988_Receptionist"
+msgid "At the end of the contest, you'll receive a prize based on the number of points you scored. Try your best and you might win a really nice prize!"
+msgstr "Al termine della gara riceverà un premio in base al punteggio ottenuto. Impegnandosi può vincere un bel premio!"
+
+msgctxt "7000_Receptionist"
+msgid "That's about it for the closest to the pin contest rules. Would you like to hear them again?"
+msgstr "Queste sono più o meno le regole della gara del tiro più vicino alla buca. Vuole riascoltarle?"
+
+msgctxt "7012_Haruka"
+msgid "(I don't have enough money...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "7024_Player"
+msgid "I think I'll practice."
+msgstr "Quasi quasi faccio un po’ di pratica."
+
+msgctxt "7036_Receptionist"
+msgid "Very well. You can practice any hole for free."
+msgstr "Benissimo. Può esercitarsi su qualsiasi buca gratuitamente."
+
+msgctxt "7048_Receptionist"
+msgid "What hole would you like to practice?"
+msgstr "Su quale buca vuole esercitarsi?"
+
+msgctxt "7060_Haruka"
+msgid "I'll try the first hole."
+msgstr "Provo la prima buca."
+
+msgctxt "7072_Haruka"
+msgid "I'll try the second hole."
+msgstr "Provo la seconda buca."
+
+msgctxt "7084_Haruka"
+msgid "I'll try the third hole."
+msgstr "Provo la terza buca."
+
+msgctxt "7096_Haruka"
+msgid "I'll try the fourth hole."
+msgstr "Provo la quarta buca."
+
+msgctxt "7108_Haruka"
+msgid "I'll try the fifth hole."
+msgstr "Provo la quinta buca."
+
+msgctxt "7120_Haruka"
+msgid "I'll try the sixth hole."
+msgstr "Provo la sesta buca."
+
+msgctxt "7132_Haruka"
+msgid "I'll try the seventh hole."
+msgstr "Provo la settima buca."
+
+msgctxt "7144_Haruka"
+msgid "I'll try the eighth hole."
+msgstr "Provo l’ottava buca."
+
+msgctxt "7156_Haruka"
+msgid "I'll try the ninth hole."
+msgstr "Provo la nona buca."
+
+msgctxt "7168_Haruka"
+msgid "Enjoy your game!"
+msgstr "Buon divertimento!"
+
+msgctxt "7192_Haruka"
+msgid "Let's see the records."
+msgstr "Vediamo i record."
+
+msgctxt "7204_Receptionist"
+msgid "All right. Take as long as you'd like."
+msgstr "Benissimo. Si prenda pure tutto il tempo che vuole."
+
+msgctxt "7228_Haruka"
+msgid "Not right now."
+msgstr "Non adesso."
+
+msgctxt "7240_Receptionist"
+msgid "All right. We hope you'll come by again soon－but do remember, our golfing facility is only open during the daytime."
+msgstr "Va bene. Speriamo di rivederla presto—ricordi che la nostra struttura da golf è aperta solo di giorno."
+
+msgctxt "7360_Receptionist"
+msgid "Hello, sir. What will it be today?"
+msgstr "Buongiorno, signore. Cosa desidera oggi?"
+
+msgctxt "7372_Player"
+msgid "I want to enter the competition."
+msgstr "Vorrei iscrivermi alla competizione."
+
+msgctxt "7384_Receptionist"
+msgid "Very well. The entrance fee is 5,000 yen."
+msgstr "Benissimo. La quota d’iscrizione è di 5.000 yen."
+
+msgctxt "7408_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "7420_Receptionist"
+msgid "Excellent. Best of luck to you."
+msgstr "Eccellente. Le auguro buona fortuna."
+
+msgctxt "7444_Haruka"
+msgid "(I don't have enough money...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "7456_Player"
+msgid "I think I'll invite someone to come play with me."
+msgstr "Quasi quasi invito qualcuno a giocare con me."
+
+msgctxt "7468_Receptionist"
+msgid "Very well. You can play a match or participate in the doubles competition. Which will it be?"
+msgstr "Benissimo. Può fare una partita o partecipare alla gara a coppie. Cosa preferisce?"
+
+msgctxt "7480_Haruka"
+msgid "We'll participate in the Doubles Competition."
+msgstr "Partecipiamo alla gara a coppie."
+
+msgctxt "7492_Receptionist"
+msgid "Very well. The entrance fee is 5,000 yen."
+msgstr "Benissimo. La quota d’iscrizione è di 5.000 yen."
+
+msgctxt "7516_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "7528_Receptionist"
+msgid "Excellent. Best of luck to you."
+msgstr "Eccellente. Vi auguro buona fortuna."
+
+msgctxt "7552_Haruka"
+msgid "(I don't have enough money...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "7564_Haruka"
+msgid "We'll just play a match."
+msgstr "Facciamo solo una partita."
+
+msgctxt "7576_Receptionist"
+msgid "Very well. A match will cost 3,000 yen."
+msgstr "Benissimo. Una partita costa 3.000 yen."
+
+msgctxt "7600_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "7612_Receptionist"
+msgid "Excellent. Best of luck to you."
+msgstr "Eccellente. Vi auguro buona fortuna."
+
+msgctxt "7636_Haruka"
+msgid "(I don't have enough money...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "7648_Player"
+msgid "I think I'll try the closest to the pin contest."
+msgstr "Penso che proverò la gara del tiro più vicino alla buca."
+
+msgctxt "7660_Receptionist"
+msgid "Would you like to hear the rules of our closest to the pin contest?"
+msgstr "Vuole sentire le regole della nostra gara del tiro più vicino alla buca?"
+
+msgctxt "7672_Player"
+msgid "I'm good for now."
+msgstr "Per ora va bene così."
+
+msgctxt "7684_Receptionist"
+msgid "Very well. The fee is 2,500 yen."
+msgstr "Benissimo. La quota è di 2.500 yen."
+
+msgctxt "7708_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "7720_Receptionist"
+msgid "Excellent. Best of luck to you."
+msgstr "Eccellente. Le auguro buona fortuna."
+
+msgctxt "7744_Player"
+msgid "Yeah, let's hear them."
+msgstr "Sì, sentiamo le regole."
+
+msgctxt "7756_Receptionist"
+msgid "You will make ten tee shots at the second hole."
+msgstr "Effettuerà dieci colpi dal tee alla seconda buca."
+
+msgctxt "7768_Receptionist"
+msgid "The closer your ball gets to the hole, the more points you'll be awarded."
+msgstr "Più la palla si avvicina alla buca, più punti verranno assegnati."
+
+msgctxt "7780_Receptionist"
+msgid "Each shot is worth between 0 to 150 points－depending how close to the hole it gets－while a hole-in-one is worth 300 points."
+msgstr "Ogni tiro vale da 0 a 150 punti — in base alla distanza dalla buca — mentre una buca in uno vale 300 punti."
+
+msgctxt "7792_Receptionist"
+msgid "At the end of the contest, you'll receive a prize based on the number of points you scored. Try your best and you might win a really nice prize!"
+msgstr "Al termine della gara riceverà un premio in base al punteggio ottenuto. Impegnandosi può vincere un bel premio!"
+
+msgctxt "7804_Receptionist"
+msgid "That's about it for the closest to the pin contest rules. Would you like to hear them again?"
+msgstr "Queste sono più o meno le regole della gara del tiro più vicino alla buca. Vuole riascoltarle?"
+
+msgctxt "7816_Haruka"
+msgid "(I don't have enough money...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "7828_Player"
+msgid "I think I'll practice."
+msgstr "Quasi quasi faccio un po’ di pratica."
+
+msgctxt "7840_Receptionist"
+msgid "Very well. You can practice any hole for free."
+msgstr "Benissimo. Può esercitarsi su qualsiasi buca gratuitamente."
+
+msgctxt "7852_Receptionist"
+msgid "What hole would you like to practice?"
+msgstr "Su quale buca vuole esercitarsi?"
+
+msgctxt "7864_Haruka"
+msgid "I'll try the first hole."
+msgstr "Provo la prima buca."
+
+msgctxt "7876_Haruka"
+msgid "I'll try the second hole."
+msgstr "Provo la seconda buca."
+
+msgctxt "7888_Haruka"
+msgid "I'll try the third hole."
+msgstr "Provo la terza buca."
+
+msgctxt "7900_Haruka"
+msgid "I'll try the fourth hole."
+msgstr "Provo la quarta buca."
+
+msgctxt "7912_Haruka"
+msgid "I'll try the fifth hole."
+msgstr "Provo la quinta buca."
+
+msgctxt "7924_Haruka"
+msgid "I'll try the sixth hole."
+msgstr "Provo la sesta buca."
+
+msgctxt "7936_Haruka"
+msgid "I'll try the seventh hole."
+msgstr "Provo la settima buca."
+
+msgctxt "7948_Haruka"
+msgid "I'll try the eighth hole."
+msgstr "Provo l’ottava buca."
+
+msgctxt "7960_Haruka"
+msgid "I'll try the ninth hole."
+msgstr "Provo la nona buca."
+
+msgctxt "7972_Haruka"
+msgid "Enjoy your game!"
+msgstr "Buon divertimento!"
+
+msgctxt "7996_Haruka"
+msgid "Let's see the records."
+msgstr "Vediamo i record."
+
+msgctxt "8008_Receptionist"
+msgid "All right. Take as long as you'd like."
+msgstr "Benissimo. Si prenda pure tutto il tempo che vuole."
+
+msgctxt "8032_Haruka"
+msgid "Not right now."
+msgstr "Non adesso."
+
+msgctxt "8044_Receptionist"
+msgid "All right. We hope you'll come by again soon－but do remember, our golfing facility is only open during the daytime."
+msgstr "Va bene. Speriamo di rivederla presto—ricordi che la nostra struttura da golf è aperta solo di giorno."
+
+msgctxt "8164_Receptionist"
+msgid "Hello, sir. What will it be today?"
+msgstr "Buongiorno, signore. Cosa desidera oggi?"
+
+msgctxt "8176_Player"
+msgid "I'd like to enter the competition."
+msgstr "Vorrei iscrivermi alla competizione."
+
+msgctxt "8188_Receptionist"
+msgid "Very well. The entrance fee is 5,000 yen."
+msgstr "Benissimo. La quota d’iscrizione è di 5.000 yen."
+
+msgctxt "8212_Haruka"
+msgid "Yeah, that's fine."
+msgstr "Sì, va bene."
+
+msgctxt "8224_Receptionist"
+msgid "Excellent. Best of luck to you."
+msgstr "Eccellente. Le auguro buona fortuna."
+
+msgctxt "8248_Haruka"
+msgid "(Don't have enough to play... Damn.)"
+msgstr "(Non ho abbastanza per giocare... Dannazione.)"
+
+msgctxt "8260_Player"
+msgid "I'll give the closest to the pin contest a shot."
+msgstr "Proverò la gara del tiro più vicino alla buca."
+
+msgctxt "8272_Receptionist"
+msgid "Would you like to hear the rules of our closest to the pin contest?"
+msgstr "Vuole sentire le regole della nostra gara del tiro più vicino alla buca?"
+
+msgctxt "8284_Player"
+msgid "No, thanks."
+msgstr "No, grazie."
+
+msgctxt "8296_Receptionist"
+msgid "Very well. The fee is 2,500 yen."
+msgstr "Benissimo. La quota è di 2.500 yen."
+
+msgctxt "8320_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "8332_Receptionist"
+msgid "Excellent. Best of luck to you."
+msgstr "Eccellente. Le auguro buona fortuna."
+
+msgctxt "8356_Player"
+msgid "Yeah, let's hear them."
+msgstr "Sì, sentiamo le regole."
+
+msgctxt "8368_Receptionist"
+msgid "You will make ten tee shots at the second hole."
+msgstr "Effettuerà dieci colpi dal tee alla seconda buca."
+
+msgctxt "8380_Receptionist"
+msgid "The closer your ball gets to the hole, the more points you'll be awarded."
+msgstr "Più la palla si avvicina alla buca, più punti verranno assegnati."
+
+msgctxt "8392_Receptionist"
+msgid "Each shot is worth between 0 to 150 points－depending how close to the hole it gets－while a hole-in-one is worth 300 points."
+msgstr "Ogni tiro vale da 0 a 150 punti — in base alla distanza dalla buca — mentre una buca in uno vale 300 punti."
+
+msgctxt "8404_Receptionist"
+msgid "At the end of the contest, you'll receive a prize based on the number of points you scored. Try your best and you might win a really nice prize!"
+msgstr "Al termine della gara riceverà un premio in base al punteggio ottenuto. Impegnandosi può vincere un bel premio!"
+
+msgctxt "8416_Receptionist"
+msgid "That's about it for the closest to the pin contest rules. Would you like to hear them again?"
+msgstr "Queste sono più o meno le regole della gara del tiro più vicino alla buca. Vuole riascoltarle?"
+
+msgctxt "8428_Haruka"
+msgid "(Don't have enough to play... Damn.)"
+msgstr "(Non ho abbastanza per giocare... Dannazione.)"
+
+msgctxt "8440_Player"
+msgid "I'm just going to practice."
+msgstr "Voglio solo fare un po’ di pratica."
+
+msgctxt "8452_Receptionist"
+msgid "Very well. You can practice any hole for free."
+msgstr "Benissimo. Può esercitarsi su qualsiasi buca gratuitamente."
+
+msgctxt "8464_Receptionist"
+msgid "What hole would you like to practice?"
+msgstr "Su quale buca vuole esercitarsi?"
+
+msgctxt "8476_Haruka"
+msgid "I'll try the first hole."
+msgstr "Provo la prima buca."
+
+msgctxt "8488_Haruka"
+msgid "I'll try the second hole."
+msgstr "Provo la seconda buca."
+
+msgctxt "8500_Haruka"
+msgid "I'll try the third hole."
+msgstr "Provo la terza buca."
+
+msgctxt "8512_Haruka"
+msgid "I'll try the fourth hole."
+msgstr "Provo la quarta buca."
+
+msgctxt "8524_Haruka"
+msgid "I'll try the fifth hole."
+msgstr "Provo la quinta buca."
+
+msgctxt "8536_Haruka"
+msgid "I'll try the sixth hole."
+msgstr "Provo la sesta buca."
+
+msgctxt "8548_Haruka"
+msgid "I'll try the seventh hole."
+msgstr "Provo la settima buca."
+
+msgctxt "8560_Haruka"
+msgid "I'll try the eighth hole."
+msgstr "Provo l’ottava buca."
+
+msgctxt "8572_Haruka"
+msgid "I'll try the ninth hole."
+msgstr "Provo la nona buca."
+
+msgctxt "8584_Haruka"
+msgid "Enjoy your game!"
+msgstr "Buon divertimento!"
+
+msgctxt "8608_Haruka"
+msgid "Let's see the records."
+msgstr "Vediamo i record."
+
+msgctxt "8620_Receptionist"
+msgid "All right. Take as long as you'd like."
+msgstr "Benissimo. Si prenda pure tutto il tempo che vuole."
+
+msgctxt "8644_Haruka"
+msgid "Nah, I'm all right."
+msgstr "No, sto a posto."
+
+msgctxt "8656_Receptionist"
+msgid "All right. We hope you'll come by again soon－but do remember, our golfing facility is only open during the daytime."
+msgstr "Va bene. Speriamo di rivederla presto—ricordi che la nostra struttura da golf è aperta solo di giorno."
+
+msgctxt "8728_Receptionist"
+msgid "Hello, sir. What will it be today?"
+msgstr "Buongiorno, signore. Cosa desidera oggi?"
+
+msgctxt "8740_Player"
+msgid "I want to enter the competition."
+msgstr "Vorrei iscrivermi alla competizione."
+
+msgctxt "8752_Receptionist"
+msgid "Very well. The entrance fee is 5,000 yen."
+msgstr "Benissimo. La quota d’iscrizione è di 5.000 yen."
+
+msgctxt "8776_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "8788_Receptionist"
+msgid "Excellent. Best of luck to you."
+msgstr "Eccellente. Le auguro buona fortuna."
+
+msgctxt "8812_Haruka"
+msgid "(I don't have enough money...)"
+msgstr "(Non ho abbastanza soldi...)"
+
+msgctxt "8824_Player"
+msgid "I think I'll try the closest to the pin contest."
+msgstr "Penso che proverò la gara del tiro più vicino alla buca."
+
+msgctxt "8836_Receptionist"
+msgid "Would you like to hear the rules of our closest to the pin contest?"
+msgstr "Vuole sentire le regole della nostra gara del tiro più vicino alla buca?"
+
+msgctxt "8848_Player"
+msgid "I'm good for now."
+msgstr "Per ora va bene così."
+
+msgctxt "8860_Receptionist"
+msgid "Very well. The fee is 2,500 yen."
+msgstr "Benissimo. La quota è di 2.500 yen."
+
+msgctxt "8884_Haruka"
+msgid "All right."
+msgstr "Va bene."
+
+msgctxt "8896_Receptionist"
+msgid "Excellent. Best of luck to you."
+msgstr "Eccellente. Le auguro buona fortuna."
+
+msgctxt "8920_Player"
+msgid "Yeah, let's hear them."
+msgstr "Sì, sentiamo le regole."
+
+msgctxt "8932_Receptionist"
+msgid "You will make ten tee shots at the second hole."
+msgstr "Effettuerà dieci colpi dal tee alla seconda buca."
+
+msgctxt "8944_Receptionist"
+msgid "The closer your ball gets to the hole, the more points you'll be awarded."
+msgstr "Più la palla si avvicina alla buca, più punti verranno assegnati."
+
+msgctxt "8956_Receptionist"
+msgid "Each shot is worth between 0 to 150 points－depending how close to the hole it gets－while a hole-in-one is worth 300 points."
+msgstr "Ogni tiro vale da 0 a 150 punti — in base alla distanza dalla buca — mentre una buca in uno vale 300 punti."
+
+msgctxt "8968_Receptionist"
+msgid "At the end of the contest, you'll receive a prize based on the number of points you scored. Try your best and you might win a really nice prize!"
+msgstr "Al termine della gara riceverà un premio in base al punteggio ottenuto. Impegnandosi può vincere un bel premio!"
+
+msgctxt "8980_Receptionist"
+msgid "That's about it for the closest to the pin contest rules. Would you like to hear them again?"
+msgstr "Queste sono più o meno le regole della gara del tiro più vicino alla buca. Vuole riascoltarle?"
+
+msgctxt "8992_Haruka"
+msgid "(Not enough cash... Better go get more.)"
+msgstr "(Non abbastanza contanti... Meglio procurarmene altri.)"
+
+msgctxt "9004_Player"
+msgid "Just want to do a bit of practice."
+msgstr "Voglio solo fare un po’ di pratica."
+
+msgctxt "9016_Receptionist"
+msgid "Very well. You can practice any hole for free."
+msgstr "Benissimo. Può esercitarsi su qualsiasi buca gratuitamente."
+
+msgctxt "9028_Receptionist"
+msgid "What hole would you like to practice?"
+msgstr "Su quale buca vuole esercitarsi?"
+
+msgctxt "9040_Haruka"
+msgid "I'll try the first hole."
+msgstr "Provo la prima buca."
+
+msgctxt "9052_Haruka"
+msgid "I'll try the second hole."
+msgstr "Provo la seconda buca."
+
+msgctxt "9064_Haruka"
+msgid "I'll try the third hole."
+msgstr "Provo la terza buca."
+
+msgctxt "9076_Haruka"
+msgid "I'll try the fourth hole."
+msgstr "Provo la quarta buca."
+
+msgctxt "9088_Haruka"
+msgid "I'll try the fifth hole."
+msgstr "Provo la quinta buca."
+
+msgctxt "9100_Haruka"
+msgid "I'll try the sixth hole."
+msgstr "Provo la sesta buca."
+
+msgctxt "9112_Haruka"
+msgid "I'll try the seventh hole."
+msgstr "Provo la settima buca."
+
+msgctxt "9124_Haruka"
+msgid "I'll try the eighth hole."
+msgstr "Provo l’ottava buca."
+
+msgctxt "9136_Haruka"
+msgid "I'll try the ninth hole."
+msgstr "Provo la nona buca."
+
+msgctxt "9148_Haruka"
+msgid "Enjoy your game!"
+msgstr "Buon divertimento!"
+
+msgctxt "9172_Haruka"
+msgid "Let's see the records."
+msgstr "Vediamo i record."
+
+msgctxt "9184_Receptionist"
+msgid "All right. Take as long as you'd like."
+msgstr "Benissimo. Si prenda pure tutto il tempo che vuole."
+
+msgctxt "9208_Haruka"
+msgid "Actually, not right now."
+msgstr "Anzi, non adesso."
+
+msgctxt "9220_Receptionist"
+msgid "All right. We hope you'll come by again soon－but do remember, our golfing facility is only open during the daytime."
+msgstr "Va bene. Speriamo di rivederla presto—ricordi che la nostra struttura da golf è aperta solo di giorno."
+
+msgctxt "9292_Haruka"
+msgid "Not Now"
+msgstr "Non adesso"
+
+msgctxt "9304_Haruka"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "9316_Haruka"
+msgid "Pay the Fee"
+msgstr "Paga la quota"
+
+msgctxt "9328_Haruka"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "9340_Haruka"
+msgid "Not Now"
+msgstr "Non adesso"
+
+msgctxt "9352_Haruka"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "9364_Haruka"
+msgid "Pay"
+msgstr "Paga"
+
+msgctxt "9376_Haruka"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "9388_Haruka"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "9400_Haruka"
+msgid "Enter the Tournament"
+msgstr "Iscriviti al torneo"
+
+msgctxt "9412_Haruka"
+msgid "Enter the Closest to the Pin Contest"
+msgstr "Iscriviti alla gara del tiro più vicino"
+
+msgctxt "9424_Haruka"
+msgid "Invite a Girl"
+msgstr "Invita una ragazza"
+
+msgctxt "9436_Haruka"
+msgid "Practice"
+msgstr "Allenati"
+
+msgctxt "9448_Haruka"
+msgid "View Records"
+msgstr "Guarda i record"
+
+msgctxt "9460_Haruka"
+msgid "Pay the Fee"
+msgstr "Paga la quota"
+
+msgctxt "9472_Haruka"
+msgid "Not Now"
+msgstr "Non adesso"
+
+msgctxt "9484_Haruka"
+msgid "Doubles Competition"
+msgstr "Gara a coppie"
+
+msgctxt "9496_Haruka"
+msgid "Play a Match"
+msgstr "Gioca una partita"
+
+msgctxt "9508_Haruka"
+msgid "Pay the Fee"
+msgstr "Paga la quota"
+
+msgctxt "9520_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "9532_Haruka"
+msgid "Pay the Fee"
+msgstr "Paga la quota"
+
+msgctxt "9544_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "9556_Haruka"
+msgid "No thanks."
+msgstr "No, grazie."
+
+msgctxt "9568_Haruka"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "9580_Haruka"
+msgid "Pay"
+msgstr "Paga"
+
+msgctxt "9592_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "9604_Haruka"
+msgid "No thanks."
+msgstr "No, grazie."
+
+msgctxt "9616_Haruka"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "9628_Haruka"
+msgid "First Hole (Par 4)"
+msgstr "Prima buca (Par 4)"
+
+msgctxt "9640_Haruka"
+msgid "Second Hole (Par 3)"
+msgstr "Seconda buca (Par 3)"
+
+msgctxt "9652_Haruka"
+msgid "Third Hole (Par 4)"
+msgstr "Terza buca (Par 4)"
+
+msgctxt "9664_Haruka"
+msgid "Fourth Hole (Par 4)"
+msgstr "Quarta buca (Par 4)"
+
+msgctxt "9676_Haruka"
+msgid "Fifth Hole (Par 5)"
+msgstr "Quinta buca (Par 5)"
+
+msgctxt "9688_Haruka"
+msgid "Sixth Hole (Par 4)"
+msgstr "Sesta buca (Par 4)"
+
+msgctxt "9700_Haruka"
+msgid "Seventh Hole (Par 3)"
+msgstr "Settima buca (Par 3)"
+
+msgctxt "9712_Haruka"
+msgid "Eighth Hole (Par 4)"
+msgstr "Ottava buca (Par 4)"
+
+msgctxt "9724_Haruka"
+msgid "Ninth Hole (Par 5)"
+msgstr "Nona buca (Par 5)"
+
+msgctxt "9736_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "9748_Haruka"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "9760_Haruka"
+msgid "Enter the Tournament"
+msgstr "Iscriviti al torneo"
+
+msgctxt "9772_Haruka"
+msgid "Enter the Closest to the Pin Contest"
+msgstr "Iscriviti alla gara del tiro più vicino"
+
+msgctxt "9784_Haruka"
+msgid "Invite a Girl"
+msgstr "Invita una ragazza"
+
+msgctxt "9796_Haruka"
+msgid "Practice"
+msgstr "Allenati"
+
+msgctxt "9808_Haruka"
+msgid "View Records"
+msgstr "Guarda i record"
+
+msgctxt "9820_Haruka"
+msgid "Pay the Fee"
+msgstr "Paga la quota"
+
+msgctxt "9832_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "9844_Haruka"
+msgid "Doubles Competition"
+msgstr "Gara a coppie"
+
+msgctxt "9856_Haruka"
+msgid "Play a Match"
+msgstr "Gioca una partita"
+
+msgctxt "9868_Haruka"
+msgid "Pay the Fee"
+msgstr "Paga la quota"
+
+msgctxt "9880_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "9892_Haruka"
+msgid "Pay the Fee"
+msgstr "Paga la quota"
+
+msgctxt "9904_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "9916_Haruka"
+msgid "No thanks."
+msgstr "No, grazie."
+
+msgctxt "9928_Haruka"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "9940_Haruka"
+msgid "Pay"
+msgstr "Paga"
+
+msgctxt "9952_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "9964_Haruka"
+msgid "No thanks."
+msgstr "No, grazie."
+
+msgctxt "9976_Haruka"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "9988_Haruka"
+msgid "First Hole (Par 4)"
+msgstr "Prima buca (Par 4)"
+
+msgctxt "10000_Haruka"
+msgid "Second Hole (Par 3)"
+msgstr "Seconda buca (Par 3)"
+
+msgctxt "10012_Haruka"
+msgid "Third Hole (Par 4)"
+msgstr "Terza buca (Par 4)"
+
+msgctxt "10024_Haruka"
+msgid "Fourth Hole (Par 4)"
+msgstr "Quarta buca (Par 4)"
+
+msgctxt "10036_Haruka"
+msgid "Fifth Hole (Par 5)"
+msgstr "Quinta buca (Par 5)"
+
+msgctxt "10048_Haruka"
+msgid "Sixth Hole (Par 4)"
+msgstr "Sesta buca (Par 4)"
+
+msgctxt "10060_Haruka"
+msgid "Seventh Hole (Par 3)"
+msgstr "Settima buca (Par 3)"
+
+msgctxt "10072_Haruka"
+msgid "Eighth Hole (Par 4)"
+msgstr "Ottava buca (Par 4)"
+
+msgctxt "10084_Haruka"
+msgid "Ninth Hole (Par 5)"
+msgstr "Nona buca (Par 5)"
+
+msgctxt "10096_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "10108_Haruka"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "10120_Haruka"
+msgid "Enter the Tournament"
+msgstr "Iscriviti al torneo"
+
+msgctxt "10132_Haruka"
+msgid "Enter the Closest to the Pin Contest"
+msgstr "Iscriviti alla gara del tiro più vicino"
+
+msgctxt "10144_Haruka"
+msgid "Invite a Girl"
+msgstr "Invita una ragazza"
+
+msgctxt "10156_Haruka"
+msgid "Practice"
+msgstr "Allenati"
+
+msgctxt "10168_Haruka"
+msgid "View Records"
+msgstr "Guarda i record"
+
+msgctxt "10180_Haruka"
+msgid "Pay the Fee"
+msgstr "Paga la quota"
+
+msgctxt "10192_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "10204_Haruka"
+msgid "Doubles Competition"
+msgstr "Gara a coppie"
+
+msgctxt "10216_Haruka"
+msgid "Play a Match"
+msgstr "Gioca una partita"
+
+msgctxt "10228_Haruka"
+msgid "Pay the Fee"
+msgstr "Paga la quota"
+
+msgctxt "10240_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "10252_Haruka"
+msgid "Pay the Fee"
+msgstr "Paga la quota"
+
+msgctxt "10264_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "10276_Haruka"
+msgid "No thanks."
+msgstr "No, grazie."
+
+msgctxt "10288_Haruka"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "10300_Haruka"
+msgid "Pay"
+msgstr "Paga"
+
+msgctxt "10312_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "10324_Haruka"
+msgid "No thanks."
+msgstr "No, grazie."
+
+msgctxt "10336_Haruka"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "10348_Haruka"
+msgid "First Hole (Par 4)"
+msgstr "Prima buca (Par 4)"
+
+msgctxt "10360_Haruka"
+msgid "Second Hole (Par 3)"
+msgstr "Seconda buca (Par 3)"
+
+msgctxt "10372_Haruka"
+msgid "Third Hole (Par 4)"
+msgstr "Terza buca (Par 4)"
+
+msgctxt "10384_Haruka"
+msgid "Fourth Hole (Par 4)"
+msgstr "Quarta buca (Par 4)"
+
+msgctxt "10396_Haruka"
+msgid "Fifth Hole (Par 5)"
+msgstr "Quinta buca (Par 5)"
+
+msgctxt "10408_Haruka"
+msgid "Sixth Hole (Par 4)"
+msgstr "Sesta buca (Par 4)"
+
+msgctxt "10420_Haruka"
+msgid "Seventh Hole (Par 3)"
+msgstr "Settima buca (Par 3)"
+
+msgctxt "10432_Haruka"
+msgid "Eighth Hole (Par 4)"
+msgstr "Ottava buca (Par 4)"
+
+msgctxt "10444_Haruka"
+msgid "Ninth Hole (Par 5)"
+msgstr "Nona buca (Par 5)"
+
+msgctxt "10456_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "10468_Haruka"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "10480_Haruka"
+msgid "Enter the Tournament"
+msgstr "Iscriviti al torneo"
+
+msgctxt "10492_Haruka"
+msgid "Enter the Closest to the Pin Contest"
+msgstr "Iscriviti alla gara del tiro più vicino"
+
+msgctxt "10504_Haruka"
+msgid "Practice"
+msgstr "Allenati"
+
+msgctxt "10516_Haruka"
+msgid "View Records"
+msgstr "Guarda i record"
+
+msgctxt "10528_Haruka"
+msgid "Pay the Fee"
+msgstr "Paga la quota"
+
+msgctxt "10540_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "10552_Haruka"
+msgid "No thanks."
+msgstr "No, grazie."
+
+msgctxt "10564_Haruka"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "10576_Haruka"
+msgid "Pay"
+msgstr "Paga"
+
+msgctxt "10588_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "10600_Haruka"
+msgid "No thanks."
+msgstr "No, grazie."
+
+msgctxt "10612_Haruka"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "10624_Haruka"
+msgid "First Hole (Par 4)"
+msgstr "Prima buca (Par 4)"
+
+msgctxt "10636_Haruka"
+msgid "Second Hole (Par 3)"
+msgstr "Seconda buca (Par 3)"
+
+msgctxt "10648_Haruka"
+msgid "Third Hole (Par 4)"
+msgstr "Terza buca (Par 4)"
+
+msgctxt "10660_Haruka"
+msgid "Fourth Hole (Par 4)"
+msgstr "Quarta buca (Par 4)"
+
+msgctxt "10672_Haruka"
+msgid "Fifth Hole (Par 5)"
+msgstr "Quinta buca (Par 5)"
+
+msgctxt "10684_Haruka"
+msgid "Sixth Hole (Par 4)"
+msgstr "Sesta buca (Par 4)"
+
+msgctxt "10696_Haruka"
+msgid "Seventh Hole (Par 3)"
+msgstr "Settima buca (Par 3)"
+
+msgctxt "10708_Haruka"
+msgid "Eighth Hole (Par 4)"
+msgstr "Ottava buca (Par 4)"
+
+msgctxt "10720_Haruka"
+msgid "Ninth Hole (Par 5)"
+msgstr "Nona buca (Par 5)"
+
+msgctxt "10732_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "10744_Haruka"
+msgid "Never Mind"
+msgstr "Lascia perdere"
+
+msgctxt "10756_Haruka"
+msgid "Enter the Tournament"
+msgstr "Iscriviti al torneo"
+
+msgctxt "10768_Haruka"
+msgid "Enter the Closest to the Pin Contest"
+msgstr "Iscriviti alla gara del tiro più vicino"
+
+msgctxt "10780_Haruka"
+msgid "Practice"
+msgstr "Allenati"
+
+msgctxt "10792_Haruka"
+msgid "View Records"
+msgstr "Guarda i record"
+
+msgctxt "10804_Haruka"
+msgid "Pay the Fee"
+msgstr "Paga la quota"
+
+msgctxt "10816_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "10828_Haruka"
+msgid "No thanks."
+msgstr "No, grazie."
+
+msgctxt "10840_Haruka"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "10852_Haruka"
+msgid "Pay"
+msgstr "Paga"
+
+msgctxt "10864_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"
+
+msgctxt "10876_Haruka"
+msgid "No thanks."
+msgstr "No, grazie."
+
+msgctxt "10888_Haruka"
+msgid "Sure."
+msgstr "Certo."
+
+msgctxt "10900_Haruka"
+msgid "First Hole (Par 4)"
+msgstr "Prima buca (Par 4)"
+
+msgctxt "10912_Haruka"
+msgid "Second Hole (Par 3)"
+msgstr "Seconda buca (Par 3)"
+
+msgctxt "10924_Haruka"
+msgid "Third Hole (Par 4)"
+msgstr "Terza buca (Par 4)"
+
+msgctxt "10936_Haruka"
+msgid "Fourth Hole (Par 4)"
+msgstr "Quarta buca (Par 4)"
+
+msgctxt "10948_Haruka"
+msgid "Fifth Hole (Par 5)"
+msgstr "Quinta buca (Par 5)"
+
+msgctxt "10960_Haruka"
+msgid "Sixth Hole (Par 4)"
+msgstr "Sesta buca (Par 4)"
+
+msgctxt "10972_Haruka"
+msgid "Seventh Hole (Par 3)"
+msgstr "Settima buca (Par 3)"
+
+msgctxt "10984_Haruka"
+msgid "Eighth Hole (Par 4)"
+msgstr "Ottava buca (Par 4)"
+
+msgctxt "10996_Haruka"
+msgid "Ninth Hole (Par 5)"
+msgstr "Nona buca (Par 5)"
+
+msgctxt "11008_Haruka"
+msgid "Don't Play"
+msgstr "Non giocare"

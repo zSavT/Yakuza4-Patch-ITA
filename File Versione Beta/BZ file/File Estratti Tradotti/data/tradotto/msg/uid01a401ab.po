@@ -1,0 +1,2042 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-19\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/wdr_par_en/wdr/wdr_en/msg/uid01a401ab.po\n"
+"X-Crowdin-File-ID: 60464\n"
+"PO-Revision-Date: 2025-10-12 21:24\n"
+
+msgctxt "2080"
+msgid "You got a copy of <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+msgstr "Hai ottenuto una copia di <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+
+msgctxt "2164"
+msgid "You gained 5,000 EXP."
+msgstr "Hai guadagnato 5.000 ESP."
+
+msgctxt "3028"
+msgid "You got a copy of <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+msgstr "Hai ottenuto una copia di <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+
+msgctxt "3112"
+msgid "You gained 5,000 EXP."
+msgstr "Hai guadagnato 5.000 ESP."
+
+msgctxt "3976"
+msgid "You got a copy of <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+msgstr "Hai ottenuto una copia di <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+
+msgctxt "4060"
+msgid "You gained 5,000 EXP."
+msgstr "Hai guadagnato 5.000 ESP."
+
+msgctxt "4924"
+msgid "You got a copy of <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+msgstr "Hai ottenuto una copia di <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+
+msgctxt "5008"
+msgid "You gained 5,000 EXP."
+msgstr "Hai guadagnato 5.000 ESP."
+
+msgctxt "5872"
+msgid "You got a copy of <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+msgstr "Hai ottenuto una copia di <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+
+msgctxt "5956"
+msgid "You gained 5,000 EXP."
+msgstr "Hai guadagnato 5.000 ESP."
+
+msgctxt "6820"
+msgid "You got a copy of <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+msgstr "Hai ottenuto una copia di <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+
+msgctxt "6904"
+msgid "You gained 5,000 EXP."
+msgstr "Hai guadagnato 5.000 ESP."
+
+msgctxt "7768"
+msgid "You got a copy of <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+msgstr "Hai ottenuto una copia di <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+
+msgctxt "7852"
+msgid "You gained 5,000 EXP."
+msgstr "Hai guadagnato 5.000 ESP."
+
+msgctxt "8716"
+msgid "You got a copy of <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+msgstr "Hai ottenuto una copia di <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+
+msgctxt "8800"
+msgid "You gained 5,000 EXP."
+msgstr "Hai guadagnato 5.000 ESP."
+
+msgctxt "9664"
+msgid "You got a copy of <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+msgstr "Hai ottenuto una copia di <Color:8>Shiny Shine! Love Shine!<Color:Default>."
+
+msgctxt "9748"
+msgid "You gained 5,000 EXP."
+msgstr "Hai guadagnato 5.000 ESP."
+
+msgctxt "100688"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "100692"
+msgid "Talk_Kosite_ed"
+msgstr "Talk_Kosite_ed"
+
+msgctxt "100696"
+msgid "Taniguchi"
+msgstr "Taniguchi"
+
+msgctxt "100700"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "100708"
+msgid "Idle"
+msgstr "Idle"
+
+msgctxt "100712"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "100716"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "100720"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "100724"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "100728"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "100732"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "100736"
+msgid "0"
+msgstr "0"
+
+msgctxt "1312_Akiyama"
+msgid "Nice. You look like a brand new man!"
+msgstr "Ottimo. Sembri un uomo nuovo!"
+
+msgctxt "1324_Akiyama"
+msgid "Now, time for a little practice!"
+msgstr "E ora, un po' di pratica!"
+
+msgctxt "1336_Taniguchi"
+msgid "Co-!? Ma questo non è il suo locale! È Miki che mi interessa!"
+msgstr "Co-!? Ma questo non è il suo locale! È Miki che mi interessa!"
+
+msgctxt "1348_Akiyama"
+msgid "You idiot. Miki's one tough cookie. But I guess I don't need to tell that to the guy who spent five million yen on her. "
+msgstr "Idiota. Miki è un osso duro. Ma immagino di non doverlo dire a chi ha speso cinque milioni di yen per lei."
+
+msgctxt "1360_Taniguchi"
+msgid "......"
+msgstr "......"
+
+msgctxt "1372_Akiyama"
+msgid "She's not the kind of girl you can get simply by dressing the way she likes. You'll need to learn the right things to say to her. "
+msgstr "Non è il tipo di ragazza che si conquista semplicemente vestendosi come piace a lei. Dovrai imparare le cose giuste da dirle."
+
+msgctxt "1384_Akiyama"
+msgid "Now it's time for a crash course in talking to girls at this club. "
+msgstr "E ora è il momento di un corso intensivo su come parlare con le ragazze di questo locale."
+
+msgctxt "1396_Taniguchi"
+msgid "What!? You're not gonna bail on me, are you? "
+msgstr "Cosa!? Non mi pianterai in asso, vero?"
+
+msgctxt "1408_Akiyama"
+msgid "It wouldn't be much of a crash course if I stuck around. I'll just give you some advice. "
+msgstr "Non sarebbe un granché di corso intensivo se restassi qui. Ti darò solo qualche consiglio."
+
+msgctxt "1420_Akiyama"
+msgid "I see... Okay, give it another shot. "
+msgstr "Capisco... ok, riprovaci."
+
+msgctxt "1432_Akiyama"
+msgid "Women like their men assertive. If you see one you like, go on the offensive! "
+msgstr "Alle donne piacciono gli uomini decisi. Se ne vedi una che ti piace, passa all'attacco!"
+
+msgctxt "1444_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "1540_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "1552_Akiyama"
+msgid "How'd it go? "
+msgstr "Com'è andata?"
+
+msgctxt "1564_Taniguchi"
+msgid "I picked a girl and tried to be assertive, but she said I was annoying and told me to get lost. "
+msgstr "Ho scelto una ragazza e ho provato a essere deciso, ma ha detto che ero fastidioso e mi ha mandato a quel paese."
+
+msgctxt "1576_Akiyama"
+msgid "It's important to start by letting her know what you're like. You're already dressed to kill, so now it's time to try selling your strong points. "
+msgstr "È importante iniziare facendole capire come sei. Sei già vestito di tutto punto, quindi ora è il momento di provare a vendere i tuoi punti di forza."
+
+msgctxt "1588_Taniguchi"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "1684_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "1696_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "1708_Taniguchi"
+msgid "I picked a girl and tried to sell myself to her, but it didn't work. "
+msgstr "Ho scelto una ragazza e ho provato a 'vendermi' a lei, ma non ha funzionato."
+
+msgctxt "1720_Akiyama"
+msgid "What did you say to her? "
+msgstr "Cosa le hai detto?"
+
+msgctxt "1732_Taniguchi"
+msgid "I thought she'd understand me more if I told her about my favorite anime and action figure collection, but she said I creeped her out! "
+msgstr "Pensavo che mi avrebbe capito meglio se le avessi parlato dei miei anime preferiti e della mia collezione di action figure, ma ha detto che la inquietavo!"
+
+msgctxt "1744_Akiyama"
+msgid "To paraphrase that famous Shakespearean quote, \"Fickleness, thy name is woman.\" "
+msgstr "Per parafrasare quella famosa citazione di Shakespeare, \"fragilità, il tuo nome è donna\"."
+
+msgctxt "1756_Akiyama"
+msgid "They're always changing their minds. You have to figure out how they feel and respond properly. "
+msgstr "Cambiano sempre idea. Devi capire come si sentono e rispondere di conseguenza."
+
+msgctxt "1768_Taniguchi"
+msgid "I... I see... "
+msgstr "Cap... capisco..."
+
+msgctxt "1780_Akiyama"
+msgid "What I'm trying to say is it's more important to listen to them than it is for you to talk. "
+msgstr "Quello che sto cercando di dire è che è più importante ascoltarle che parlare."
+
+msgctxt "1792_Akiyama"
+msgid "By listening, you can sense her mood, which makes it easier for you to respond. But that's normally a hostess's job to do just that. "
+msgstr "Ascoltando, puoi percepire il suo umore, il che ti rende più facile rispondere. Ma di solito è compito di un'hostess fare proprio questo."
+
+msgctxt "1804_Akiyama"
+msgid "In any event, you'll get far with a hostess by getting on her good side. But, whatever. You need the practice. Good luck! "
+msgstr "In ogni caso, con un'hostess si ottiene molto entrando nelle sue grazie. Ma, vabbè. Hai bisogno di pratica. Buona fortuna!"
+
+msgctxt "1816_Taniguchi"
+msgid "Thanks. "
+msgstr "Grazie."
+
+msgctxt "1828_Akiyama"
+msgid "Go get 'em, tiger! "
+msgstr "Dacci dentro, tigre!"
+
+msgctxt "1840_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "1936_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "1948_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "1960_Taniguchi"
+msgid "I tried listening just like you said, and it worked! I guess girls like it when guys do that! It went really well! "
+msgstr "Ho provato ad ascoltare come hai detto tu, e ha funzionato! Credo che alle ragazze piaccia quando i ragazzi lo fanno! È andata molto bene!"
+
+msgctxt "1972_Akiyama"
+msgid "Excellent! "
+msgstr "Eccellente!"
+
+msgctxt "1984_Taniguchi"
+msgid "I think I'm getting the hang of this! "
+msgstr "Penso di starci prendendo la mano!"
+
+msgctxt "2008_Taniguchi"
+msgid "I can't. I have a date with a hostess from this club. "
+msgstr "Non posso. Ho un appuntamento con un'hostess di questo locale."
+
+msgctxt "2020_Akiyama"
+msgid "A date? But what about Miki? "
+msgstr "Un appuntamento? Ma e Miki?"
+
+msgctxt "2032_Taniguchi"
+msgid "I'm so over Miki. Would you mind telling her that for me, Akiyama-san?"
+msgstr "Con Miki ho chiuso. Ti dispiacerebbe dirglielo da parte mia, Akiyama-san?"
+
+msgctxt "2044_Akiyama"
+msgid "You mean all this training was a waste of my time?"
+msgstr "Vuoi dire che tutto questo allenamento è stato una perdita di tempo?"
+
+msgctxt "2056_Taniguchi"
+msgid "Not at all! Thanks to you, I'm a new man! I really appreciate your help! "
+msgstr "Niente affatto! Grazie a te, sono un uomo nuovo! Apprezzo davvero il tuo aiuto!"
+
+msgctxt "2068_Taniguchi"
+msgid "I'd like to give you this as a thank you. I won't be needing it anymore. "
+msgstr "Vorrei darti questo come ringraziamento. Non mi servirà più."
+
+msgctxt "2104_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "2116_Taniguchi"
+msgid "Well, I'm off! Goodbye! "
+msgstr "Beh, io vado! Arrivederci!"
+
+msgctxt "2128_Taniguchi"
+msgid "Okay, Ryoko, let's go! "
+msgstr "Ok, Ryoko, andiamo!"
+
+msgctxt "2140_Akiyama"
+msgid "(Not the ending I expected, but whatever.) "
+msgstr "(Non è il finale che mi aspettavo, ma vabbè.)"
+
+msgctxt "2260_Akiyama"
+msgid "Nice. You look like a brand new man!"
+msgstr "Ottimo. Sembri un uomo nuovo!"
+
+msgctxt "2272_Akiyama"
+msgid "Now, time for a little practice!"
+msgstr "E ora, un po' di pratica!"
+
+msgctxt "2284_Taniguchi"
+msgid "Wha－!? But this isn't your club! It's Miki I'm after!"
+msgstr "Co-!? Ma questo non è il suo locale! È Miki che mi interessa!"
+
+msgctxt "2296_Akiyama"
+msgid "You idiot. Miki's one tough cookie. But I guess I don't need to tell that to the guy who spent five million yen on her. "
+msgstr "Idiota. Miki è un osso duro. Ma immagino di non doverlo dire a chi ha speso cinque milioni di yen per lei."
+
+msgctxt "2308_Taniguchi"
+msgid "......"
+msgstr "......"
+
+msgctxt "2320_Akiyama"
+msgid "She's not the kind of girl you can get simply by dressing the way she likes. You'll need to learn the right things to say to her. "
+msgstr "Non è il tipo di ragazza che si conquista semplicemente vestendosi come piace a lei. Dovrai imparare le cose giuste da dirle."
+
+msgctxt "2332_Akiyama"
+msgid "Now it's time for a crash course in talking to girls at this club. "
+msgstr "E ora è il momento di un corso intensivo su come parlare con le ragazze di questo locale."
+
+msgctxt "2344_Taniguchi"
+msgid "What!? You're not gonna bail on me, are you? "
+msgstr "Cosa!? Non mi pianterai in asso, vero?"
+
+msgctxt "2356_Akiyama"
+msgid "It wouldn't be much of a crash course if I stuck around. I'll just give you some advice. "
+msgstr "Non sarebbe un granché di corso intensivo se restassi qui. Ti darò solo qualche consiglio."
+
+msgctxt "2368_Akiyama"
+msgid "I see... Okay, give it another shot. "
+msgstr "Capisco... ok, riprovaci."
+
+msgctxt "2380_Akiyama"
+msgid "Women like their men assertive. If you see one you like, go on the offensive! "
+msgstr "Alle donne piacciono gli uomini decisi. Se ne vedi una che ti piace, passa all'attacco!"
+
+msgctxt "2392_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "2488_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "2500_Akiyama"
+msgid "How'd it go? "
+msgstr "Com'è andata?"
+
+msgctxt "2512_Taniguchi"
+msgid "I picked a girl and tried to be assertive, but she said I was annoying and told me to get lost. "
+msgstr "Ho scelto una ragazza e ho provato a essere deciso, ma ha detto che ero fastidioso e mi ha mandato a quel paese."
+
+msgctxt "2524_Akiyama"
+msgid "It's important to start by letting her know what you're like. You're already dressed to kill, so now it's time to try selling your strong points. "
+msgstr "È importante iniziare facendole capire come sei. Sei già vestito di tutto punto, quindi ora è il momento di provare a vendere i tuoi punti di forza."
+
+msgctxt "2536_Taniguchi"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "2632_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "2644_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "2656_Taniguchi"
+msgid "I picked a girl and tried to sell myself to her, but it didn't work. "
+msgstr "Ho scelto una ragazza e ho provato a 'vendermi' a lei, ma non ha funzionato."
+
+msgctxt "2668_Akiyama"
+msgid "What did you say to her? "
+msgstr "Cosa le hai detto?"
+
+msgctxt "2680_Taniguchi"
+msgid "I thought she'd understand me more if I told her about my favorite anime and action figure collection, but she said I creeped her out! "
+msgstr "Pensavo che mi avrebbe capito meglio se le avessi parlato dei miei anime preferiti e della mia collezione di action figure, ma ha detto che la inquietavo!"
+
+msgctxt "2692_Akiyama"
+msgid "To paraphrase that famous Shakespearean quote, \"Fickleness, thy name is woman.\" "
+msgstr "Per parafrasare quella famosa citazione di Shakespeare, \"fragilità, il tuo nome è donna\"."
+
+msgctxt "2704_Akiyama"
+msgid "They're always changing their minds. You have to figure out how they feel and respond properly. "
+msgstr "Cambiano sempre idea. Devi capire come si sentono e rispondere di conseguenza."
+
+msgctxt "2716_Taniguchi"
+msgid "I... I see... "
+msgstr "Cap... capisco..."
+
+msgctxt "2728_Akiyama"
+msgid "What I'm trying to say is it's more important to listen to them than it is for you to talk. "
+msgstr "Quello che sto cercando di dire è che è più importante ascoltarle che parlare."
+
+msgctxt "2740_Akiyama"
+msgid "By listening, you can sense her mood, which makes it easier for you to respond. But that's normally a hostess's job to do just that. "
+msgstr "Ascoltando, puoi percepire il suo umore, il che ti rende più facile rispondere. Ma di solito è compito di un'hostess fare proprio questo."
+
+msgctxt "2752_Akiyama"
+msgid "In any event, you'll get far with a hostess by getting on her good side. But, whatever. You need the practice. Good luck! "
+msgstr "In ogni caso, con un'hostess si ottiene molto entrando nelle sue grazie. Ma, vabbè. Hai bisogno di pratica. Buona fortuna!"
+
+msgctxt "2764_Taniguchi"
+msgid "Thanks. "
+msgstr "Grazie."
+
+msgctxt "2776_Akiyama"
+msgid "Go get 'em, tiger! "
+msgstr "Dacci dentro, tigre!"
+
+msgctxt "2788_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "2884_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "2896_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "2908_Taniguchi"
+msgid "I tried listening just like you said, and it worked! I guess girls like it when guys do that! It went really well! "
+msgstr "Ho provato ad ascoltare come hai detto tu, e ha funzionato! Credo che alle ragazze piaccia quando i ragazzi lo fanno! È andata molto bene!"
+
+msgctxt "2920_Akiyama"
+msgid "Excellent! "
+msgstr "Eccellente!"
+
+msgctxt "2932_Taniguchi"
+msgid "I think I'm getting the hang of this! "
+msgstr "Penso di starci prendendo la mano!"
+
+msgctxt "2944_Akiyama"
+msgid "Great! Then why don't you go see Miki now? "
+msgstr "Ottimo! Allora perché non vai da Miki adesso?"
+
+msgctxt "2956_Taniguchi"
+msgid "I can't. I have a date with a hostess from this club. "
+msgstr "Non posso. Ho un appuntamento con un'hostess di questo locale."
+
+msgctxt "2968_Akiyama"
+msgid "A date? But what about Miki? "
+msgstr "Un appuntamento? Ma e Miki?"
+
+msgctxt "2980_Taniguchi"
+msgid "I'm so over Miki. Would you mind telling her that for me, Akiyama-san?"
+msgstr "Con Miki ho chiuso. Ti dispiacerebbe dirglielo da parte mia, Akiyama-san?"
+
+msgctxt "2992_Akiyama"
+msgid "You mean all this training was a waste of my time?"
+msgstr "Vuoi dire che tutto questo allenamento è stato una perdita di tempo?"
+
+msgctxt "3004_Taniguchi"
+msgid "Not at all! Thanks to you, I'm a new man! I really appreciate your help! "
+msgstr "Niente affatto! Grazie a te, sono un uomo nuovo! Apprezzo davvero il tuo aiuto!"
+
+msgctxt "3016_Taniguchi"
+msgid "I'd like to give you this as a thank you. I won't be needing it anymore. "
+msgstr "Vorrei darti questo come ringraziamento. Non mi servirà più."
+
+msgctxt "3052_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "3064_Taniguchi"
+msgid "Well, I'm off! Goodbye! "
+msgstr "Beh, io vado! Arrivederci!"
+
+msgctxt "3076_Taniguchi"
+msgid "Okay, Ryoko, let's go! "
+msgstr "Ok, Ryoko, andiamo!"
+
+msgctxt "3088_Akiyama"
+msgid "(Not the ending I expected, but whatever.) "
+msgstr "(Non è il finale che mi aspettavo, ma vabbè.)"
+
+msgctxt "3208_Akiyama"
+msgid "Nice. You look like a brand new man!"
+msgstr "Ottimo. Sembri un uomo nuovo!"
+
+msgctxt "3220_Akiyama"
+msgid "Now, time for a little practice!"
+msgstr "E ora, un po' di pratica!"
+
+msgctxt "3232_Taniguchi"
+msgid "Wha－!? But this isn't your club! It's Miki I'm after!"
+msgstr "Co-!? Ma questo non è il suo locale! È Miki che mi interessa!"
+
+msgctxt "3244_Akiyama"
+msgid "You idiot. Miki's one tough cookie. But I guess I don't need to tell that to the guy who spent five million yen on her. "
+msgstr "Idiota. Miki è un osso duro. Ma immagino di non doverlo dire a chi ha speso cinque milioni di yen per lei."
+
+msgctxt "3256_Taniguchi"
+msgid "......"
+msgstr "......"
+
+msgctxt "3268_Akiyama"
+msgid "She's not the kind of girl you can get simply by dressing the way she likes. You'll need to learn the right things to say to her. "
+msgstr "Non è il tipo di ragazza che si conquista semplicemente vestendosi come piace a lei. Dovrai imparare le cose giuste da dirle."
+
+msgctxt "3280_Akiyama"
+msgid "Now it's time for a crash course in talking to girls at this club. "
+msgstr "E ora è il momento di un corso intensivo su come parlare con le ragazze di questo locale."
+
+msgctxt "3292_Taniguchi"
+msgid "What!? You're not gonna bail on me, are you? "
+msgstr "Cosa!? Non mi pianterai in asso, vero?"
+
+msgctxt "3304_Akiyama"
+msgid "It wouldn't be much of a crash course if I stuck around. I'll just give you some advice. "
+msgstr "Non sarebbe un granché di corso intensivo se restassi qui. Ti darò solo qualche consiglio."
+
+msgctxt "3316_Akiyama"
+msgid "I see... Okay, give it another shot. "
+msgstr "Capisco... ok, riprovaci."
+
+msgctxt "3328_Akiyama"
+msgid "Women like their men assertive. If you see one you like, go on the offensive! "
+msgstr "Alle donne piacciono gli uomini decisi. Se ne vedi una che ti piace, passa all'attacco!"
+
+msgctxt "3340_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "3436_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "3448_Akiyama"
+msgid "How'd it go? "
+msgstr "Com'è andata?"
+
+msgctxt "3460_Taniguchi"
+msgid "I picked a girl and tried to be assertive, but she said I was annoying and told me to get lost. "
+msgstr "Ho scelto una ragazza e ho provato a essere deciso, ma ha detto che ero fastidioso e mi ha mandato a quel paese."
+
+msgctxt "3472_Akiyama"
+msgid "It's important to start by letting her know what you're like. You're already dressed to kill, so now it's time to try selling your strong points. "
+msgstr "È importante iniziare facendole capire come sei. Sei già vestito di tutto punto, quindi ora è il momento di provare a vendere i tuoi punti di forza."
+
+msgctxt "3484_Taniguchi"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "3580_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "3592_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "3604_Taniguchi"
+msgid "I picked a girl and tried to sell myself to her, but it didn't work. "
+msgstr "Ho scelto una ragazza e ho provato a 'vendermi' a lei, ma non ha funzionato."
+
+msgctxt "3616_Akiyama"
+msgid "What did you say to her? "
+msgstr "Cosa le hai detto?"
+
+msgctxt "3628_Taniguchi"
+msgid "I thought she'd understand me more if I told her about my favorite anime and action figure collection, but she said I creeped her out! "
+msgstr "Pensavo che mi avrebbe capito meglio se le avessi parlato dei miei anime preferiti e della mia collezione di action figure, ma ha detto che la inquietavo!"
+
+msgctxt "3640_Akiyama"
+msgid "To paraphrase that famous Shakespearean quote, \"Fickleness, thy name is woman.\" "
+msgstr "Per parafrasare quella famosa citazione di Shakespeare, \"fragilità, il tuo nome è donna\"."
+
+msgctxt "3652_Akiyama"
+msgid "They're always changing their minds. You have to figure out how they feel and respond properly. "
+msgstr "Cambiano sempre idea. Devi capire come si sentono e rispondere di conseguenza."
+
+msgctxt "3664_Taniguchi"
+msgid "I... I see... "
+msgstr "Cap... capisco..."
+
+msgctxt "3676_Akiyama"
+msgid "What I'm trying to say is it's more important to listen to them than it is for you to talk. "
+msgstr "Quello che sto cercando di dire è che è più importante ascoltarle che parlare."
+
+msgctxt "3688_Akiyama"
+msgid "By listening, you can sense her mood, which makes it easier for you to respond. But that's normally a hostess's job to do just that. "
+msgstr "Ascoltando, puoi percepire il suo umore, il che ti rende più facile rispondere. Ma di solito è compito di un'hostess fare proprio questo."
+
+msgctxt "3700_Akiyama"
+msgid "In any event, you'll get far with a hostess by getting on her good side. But, whatever. You need the practice. Good luck! "
+msgstr "In ogni caso, con un'hostess si ottiene molto entrando nelle sue grazie. Ma, vabbè. Hai bisogno di pratica. Buona fortuna!"
+
+msgctxt "3712_Taniguchi"
+msgid "Thanks. "
+msgstr "Grazie."
+
+msgctxt "3724_Akiyama"
+msgid "Go get 'em, tiger! "
+msgstr "Dacci dentro, tigre!"
+
+msgctxt "3736_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "3832_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "3844_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "3856_Taniguchi"
+msgid "I tried listening just like you said, and it worked! I guess girls like it when guys do that! It went really well! "
+msgstr "Ho provato ad ascoltare come hai detto tu, e ha funzionato! Credo che alle ragazze piaccia quando i ragazzi lo fanno! È andata molto bene!"
+
+msgctxt "3868_Akiyama"
+msgid "Excellent! "
+msgstr "Eccellente!"
+
+msgctxt "3880_Taniguchi"
+msgid "I think I'm getting the hang of this! "
+msgstr "Penso di starci prendendo la mano!"
+
+msgctxt "3892_Akiyama"
+msgid "Great! Then why don't you go see Miki now? "
+msgstr "Ottimo! Allora perché non vai da Miki adesso?"
+
+msgctxt "3904_Taniguchi"
+msgid "I can't. I have a date with a hostess from this club. "
+msgstr "Non posso. Ho un appuntamento con un'hostess di questo locale."
+
+msgctxt "3916_Akiyama"
+msgid "A date? But what about Miki? "
+msgstr "Un appuntamento? Ma e Miki?"
+
+msgctxt "3928_Taniguchi"
+msgid "I'm so over Miki. Would you mind telling her that for me, Akiyama-san?"
+msgstr "Con Miki ho chiuso. Ti dispiacerebbe dirglielo da parte mia, Akiyama-san?"
+
+msgctxt "3940_Akiyama"
+msgid "You mean all this training was a waste of my time?"
+msgstr "Vuoi dire che tutto questo allenamento è stato una perdita di tempo?"
+
+msgctxt "3952_Taniguchi"
+msgid "Not at all! Thanks to you, I'm a new man! I really appreciate your help! "
+msgstr "Niente affatto! Grazie a te, sono un uomo nuovo! Apprezzo davvero il tuo aiuto!"
+
+msgctxt "3964_Taniguchi"
+msgid "I'd like to give you this as a thank you. I won't be needing it anymore. "
+msgstr "Vorrei darti questo come ringraziamento. Non mi servirà più."
+
+msgctxt "4000_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "4012_Taniguchi"
+msgid "Well, I'm off! Goodbye! "
+msgstr "Beh, io vado! Arrivederci!"
+
+msgctxt "4024_Taniguchi"
+msgid "Okay, Ryoko, let's go! "
+msgstr "Ok, Ryoko, andiamo!"
+
+msgctxt "4036_Akiyama"
+msgid "(Not the ending I expected, but whatever.) "
+msgstr "(Non è il finale che mi aspettavo, ma vabbè.)"
+
+msgctxt "4156_Akiyama"
+msgid "Nice. You look like a brand new man!"
+msgstr "Ottimo. Sembri un uomo nuovo!"
+
+msgctxt "4168_Akiyama"
+msgid "Now, time for a little practice!"
+msgstr "E ora, un po' di pratica!"
+
+msgctxt "4180_Taniguchi"
+msgid "Wha－!? But this isn't your club! It's Miki I'm after!"
+msgstr "Co-!? Ma questo non è il suo locale! È Miki che mi interessa!"
+
+msgctxt "4192_Akiyama"
+msgid "You idiot. Miki's one tough cookie. But I guess I don't need to tell that to the guy who spent five million yen on her. "
+msgstr "Idiota. Miki è un osso duro. Ma immagino di non doverlo dire a chi ha speso cinque milioni di yen per lei."
+
+msgctxt "4204_Taniguchi"
+msgid "......"
+msgstr "......"
+
+msgctxt "4216_Akiyama"
+msgid "She's not the kind of girl you can get simply by dressing the way she likes. You'll need to learn the right things to say to her. "
+msgstr "Non è il tipo di ragazza che si conquista semplicemente vestendosi come piace a lei. Dovrai imparare le cose giuste da dirle."
+
+msgctxt "4228_Akiyama"
+msgid "Now it's time for a crash course in talking to girls at this club. "
+msgstr "E ora è il momento di un corso intensivo su come parlare con le ragazze di questo locale."
+
+msgctxt "4240_Taniguchi"
+msgid "What!? You're not gonna bail on me, are you? "
+msgstr "Cosa!? Non mi pianterai in asso, vero?"
+
+msgctxt "4252_Akiyama"
+msgid "It wouldn't be much of a crash course if I stuck around. I'll just give you some advice. "
+msgstr "Non sarebbe un granché di corso intensivo se restassi qui. Ti darò solo qualche consiglio."
+
+msgctxt "4264_Akiyama"
+msgid "I see... Okay, give it another shot. "
+msgstr "Capisco... ok, riprovaci."
+
+msgctxt "4276_Akiyama"
+msgid "Women like their men assertive. If you see one you like, go on the offensive! "
+msgstr "Alle donne piacciono gli uomini decisi. Se ne vedi una che ti piace, passa all'attacco!"
+
+msgctxt "4288_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "4384_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "4396_Akiyama"
+msgid "How'd it go? "
+msgstr "Com'è andata?"
+
+msgctxt "4408_Taniguchi"
+msgid "I picked a girl and tried to be assertive, but she said I was annoying and told me to get lost. "
+msgstr "Ho scelto una ragazza e ho provato a essere deciso, ma ha detto che ero fastidioso e mi ha mandato a quel paese."
+
+msgctxt "4420_Akiyama"
+msgid "It's important to start by letting her know what you're like. You're already dressed to kill, so now it's time to try selling your strong points. "
+msgstr "È importante iniziare facendole capire come sei. Sei già vestito di tutto punto, quindi ora è il momento di provare a vendere i tuoi punti di forza."
+
+msgctxt "4432_Taniguchi"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "4528_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "4540_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "4552_Taniguchi"
+msgid "I picked a girl and tried to sell myself to her, but it didn't work. "
+msgstr "Ho scelto una ragazza e ho provato a 'vendermi' a lei, ma non ha funzionato."
+
+msgctxt "4564_Akiyama"
+msgid "What did you say to her? "
+msgstr "Cosa le hai detto?"
+
+msgctxt "4576_Taniguchi"
+msgid "I thought she'd understand me more if I told her about my favorite anime and action figure collection, but she said I creeped her out! "
+msgstr "Pensavo che mi avrebbe capito meglio se le avessi parlato dei miei anime preferiti e della mia collezione di action figure, ma ha detto che la inquietavo!"
+
+msgctxt "4588_Akiyama"
+msgid "To paraphrase that famous Shakespearean quote, \"Fickleness, thy name is woman.\" "
+msgstr "Per parafrasare quella famosa citazione di Shakespeare, \"fragilità, il tuo nome è donna\"."
+
+msgctxt "4600_Akiyama"
+msgid "They're always changing their minds. You have to figure out how they feel and respond properly. "
+msgstr "Cambiano sempre idea. Devi capire come si sentono e rispondere di conseguenza."
+
+msgctxt "4612_Taniguchi"
+msgid "I... I see... "
+msgstr "Cap... capisco..."
+
+msgctxt "4624_Akiyama"
+msgid "What I'm trying to say is it's more important to listen to them than it is for you to talk. "
+msgstr "Quello che sto cercando di dire è che è più importante ascoltarle che parlare."
+
+msgctxt "4636_Akiyama"
+msgid "By listening, you can sense her mood, which makes it easier for you to respond. But that's normally a hostess's job to do just that. "
+msgstr "Ascoltando, puoi percepire il suo umore, il che ti rende più facile rispondere. Ma di solito è compito di un'hostess fare proprio questo."
+
+msgctxt "4648_Akiyama"
+msgid "In any event, you'll get far with a hostess by getting on her good side. But, whatever. You need the practice. Good luck! "
+msgstr "In ogni caso, con un'hostess si ottiene molto entrando nelle sue grazie. Ma, vabbè. Hai bisogno di pratica. Buona fortuna!"
+
+msgctxt "4660_Taniguchi"
+msgid "Thanks. "
+msgstr "Grazie."
+
+msgctxt "4672_Akiyama"
+msgid "Go get 'em, tiger! "
+msgstr "Dacci dentro, tigre!"
+
+msgctxt "4684_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "4780_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "4792_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "4804_Taniguchi"
+msgid "I tried listening just like you said, and it worked! I guess girls like it when guys do that! It went really well! "
+msgstr "Ho provato ad ascoltare come hai detto tu, e ha funzionato! Credo che alle ragazze piaccia quando i ragazzi lo fanno! È andata molto bene!"
+
+msgctxt "4816_Akiyama"
+msgid "Excellent! "
+msgstr "Eccellente!"
+
+msgctxt "4828_Taniguchi"
+msgid "I think I'm getting the hang of this! "
+msgstr "Penso di starci prendendo la mano!"
+
+msgctxt "4840_Akiyama"
+msgid "Great! Then why don't you go see Miki now? "
+msgstr "Ottimo! Allora perché non vai da Miki adesso?"
+
+msgctxt "4852_Taniguchi"
+msgid "I can't. I have a date with a hostess from this club. "
+msgstr "Non posso. Ho un appuntamento con un'hostess di questo locale."
+
+msgctxt "4864_Akiyama"
+msgid "A date? But what about Miki? "
+msgstr "Un appuntamento? Ma e Miki?"
+
+msgctxt "4876_Taniguchi"
+msgid "I'm so over Miki. Would you mind telling her that for me, Akiyama-san?"
+msgstr "Con Miki ho chiuso. Ti dispiacerebbe dirglielo da parte mia, Akiyama-san?"
+
+msgctxt "4888_Akiyama"
+msgid "You mean all this training was a waste of my time?"
+msgstr "Vuoi dire che tutto questo allenamento è stato una perdita di tempo?"
+
+msgctxt "4900_Taniguchi"
+msgid "Not at all! Thanks to you, I'm a new man! I really appreciate your help! "
+msgstr "Niente affatto! Grazie a te, sono un uomo nuovo! Apprezzo davvero il tuo aiuto!"
+
+msgctxt "4912_Taniguchi"
+msgid "I'd like to give you this as a thank you. I won't be needing it anymore. "
+msgstr "Vorrei darti questo come ringraziamento. Non mi servirà più."
+
+msgctxt "4948_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "4960_Taniguchi"
+msgid "Well, I'm off! Goodbye! "
+msgstr "Beh, io vado! Arrivederci!"
+
+msgctxt "4972_Taniguchi"
+msgid "Okay, Ryoko, let's go! "
+msgstr "Ok, Ryoko, andiamo!"
+
+msgctxt "4984_Akiyama"
+msgid "(Not the ending I expected, but whatever.) "
+msgstr "(Non è il finale che mi aspettavo, ma vabbè.)"
+
+msgctxt "5104_Akiyama"
+msgid "Nice. You look like a brand new man!"
+msgstr "Ottimo. Sembri un uomo nuovo!"
+
+msgctxt "5116_Akiyama"
+msgid "Now, time for a little practice!"
+msgstr "E ora, un po' di pratica!"
+
+msgctxt "5128_Taniguchi"
+msgid "Wha－!? But this isn't your club! It's Miki I'm after!"
+msgstr "Co-!? Ma questo non è il suo locale! È Miki che mi interessa!"
+
+msgctxt "5140_Akiyama"
+msgid "You idiot. Miki's one tough cookie. But I guess I don't need to tell that to the guy who spent five million yen on her. "
+msgstr "Idiota. Miki è un osso duro. Ma immagino di non doverlo dire a chi ha speso cinque milioni di yen per lei."
+
+msgctxt "5152_Taniguchi"
+msgid "......"
+msgstr "......"
+
+msgctxt "5164_Akiyama"
+msgid "She's not the kind of girl you can get simply by dressing the way she likes. You'll need to learn the right things to say to her. "
+msgstr "Non è il tipo di ragazza che si conquista semplicemente vestendosi come piace a lei. Dovrai imparare le cose giuste da dirle."
+
+msgctxt "5176_Akiyama"
+msgid "Now it's time for a crash course in talking to girls at this club. "
+msgstr "E ora è il momento di un corso intensivo su come parlare con le ragazze di questo locale."
+
+msgctxt "5188_Taniguchi"
+msgid "What!? You're not gonna bail on me, are you? "
+msgstr "Cosa!? Non mi pianterai in asso, vero?"
+
+msgctxt "5200_Akiyama"
+msgid "It wouldn't be much of a crash course if I stuck around. I'll just give you some advice. "
+msgstr "Non sarebbe un granché di corso intensivo se restassi qui. Ti darò solo qualche consiglio."
+
+msgctxt "5212_Akiyama"
+msgid "I see... Okay, give it another shot. "
+msgstr "Capisco... ok, riprovaci."
+
+msgctxt "5224_Akiyama"
+msgid "Women like their men assertive. If you see one you like, go on the offensive! "
+msgstr "Alle donne piacciono gli uomini decisi. Se ne vedi una che ti piace, passa all'attacco!"
+
+msgctxt "5236_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "5332_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "5344_Akiyama"
+msgid "How'd it go? "
+msgstr "Com'è andata?"
+
+msgctxt "5356_Taniguchi"
+msgid "I picked a girl and tried to be assertive, but she said I was annoying and told me to get lost. "
+msgstr "Ho scelto una ragazza e ho provato a essere deciso, ma ha detto che ero fastidioso e mi ha mandato a quel paese."
+
+msgctxt "5368_Akiyama"
+msgid "It's important to start by letting her know what you're like. You're already dressed to kill, so now it's time to try selling your strong points. "
+msgstr "È importante iniziare facendole capire come sei. Sei già vestito di tutto punto, quindi ora è il momento di provare a vendere i tuoi punti di forza."
+
+msgctxt "5380_Taniguchi"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "5476_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "5488_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "5500_Taniguchi"
+msgid "I picked a girl and tried to sell myself to her, but it didn't work. "
+msgstr "Ho scelto una ragazza e ho provato a 'vendermi' a lei, ma non ha funzionato."
+
+msgctxt "5512_Akiyama"
+msgid "What did you say to her? "
+msgstr "Cosa le hai detto?"
+
+msgctxt "5524_Taniguchi"
+msgid "I thought she'd understand me more if I told her about my favorite anime and action figure collection, but she said I creeped her out! "
+msgstr "Pensavo che mi avrebbe capito meglio se le avessi parlato dei miei anime preferiti e della mia collezione di action figure, ma ha detto che la inquietavo!"
+
+msgctxt "5536_Akiyama"
+msgid "To paraphrase that famous Shakespearean quote, \"Fickleness, thy name is woman.\" "
+msgstr "Per parafrasare quella famosa citazione di Shakespeare, \"fragilità, il tuo nome è donna\"."
+
+msgctxt "5548_Akiyama"
+msgid "They're always changing their minds. You have to figure out how they feel and respond properly. "
+msgstr "Cambiano sempre idea. Devi capire come si sentono e rispondere di conseguenza."
+
+msgctxt "5560_Taniguchi"
+msgid "I... I see... "
+msgstr "Cap... capisco..."
+
+msgctxt "5572_Akiyama"
+msgid "What I'm trying to say is it's more important to listen to them than it is for you to talk. "
+msgstr "Quello che sto cercando di dire è che è più importante ascoltarle che parlare."
+
+msgctxt "5584_Akiyama"
+msgid "By listening, you can sense her mood, which makes it easier for you to respond. But that's normally a hostess's job to do just that. "
+msgstr "Ascoltando, puoi percepire il suo umore, il che ti rende più facile rispondere. Ma di solito è compito di un'hostess fare proprio questo."
+
+msgctxt "5596_Akiyama"
+msgid "In any event, you'll get far with a hostess by getting on her good side. But, whatever. You need the practice. Good luck! "
+msgstr "In ogni caso, con un'hostess si ottiene molto entrando nelle sue grazie. Ma, vabbè. Hai bisogno di pratica. Buona fortuna!"
+
+msgctxt "5608_Taniguchi"
+msgid "Thanks. "
+msgstr "Grazie."
+
+msgctxt "5620_Akiyama"
+msgid "Go get 'em, tiger! "
+msgstr "Dacci dentro, tigre!"
+
+msgctxt "5632_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "5728_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "5740_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "5752_Taniguchi"
+msgid "I tried listening just like you said, and it worked! I guess girls like it when guys do that! It went really well! "
+msgstr "Ho provato ad ascoltare come hai detto tu, e ha funzionato! Credo che alle ragazze piaccia quando i ragazzi lo fanno! È andata molto bene!"
+
+msgctxt "5764_Akiyama"
+msgid "Excellent! "
+msgstr "Eccellente!"
+
+msgctxt "5776_Taniguchi"
+msgid "I think I'm getting the hang of this! "
+msgstr "Penso di starci prendendo la mano!"
+
+msgctxt "5788_Akiyama"
+msgid "Great! Then why don't you go see Miki now? "
+msgstr "Ottimo! Allora perché non vai da Miki adesso?"
+
+msgctxt "5800_Taniguchi"
+msgid "I can't. I have a date with a hostess from this club. "
+msgstr "Non posso. Ho un appuntamento con un'hostess di questo locale."
+
+msgctxt "5812_Akiyama"
+msgid "A date? But what about Miki? "
+msgstr "Un appuntamento? Ma e Miki?"
+
+msgctxt "5824_Taniguchi"
+msgid "I'm so over Miki. Would you mind telling her that for me, Akiyama-san?"
+msgstr "Con Miki ho chiuso. Ti dispiacerebbe dirglielo da parte mia, Akiyama-san?"
+
+msgctxt "5836_Akiyama"
+msgid "You mean all this training was a waste of my time?"
+msgstr "Vuoi dire che tutto questo allenamento è stato una perdita di tempo?"
+
+msgctxt "5848_Taniguchi"
+msgid "Not at all! Thanks to you, I'm a new man! I really appreciate your help! "
+msgstr "Niente affatto! Grazie a te, sono un uomo nuovo! Apprezzo davvero il tuo aiuto!"
+
+msgctxt "5860_Taniguchi"
+msgid "I'd like to give you this as a thank you. I won't be needing it anymore. "
+msgstr "Vorrei darti questo come ringraziamento. Non mi servirà più."
+
+msgctxt "5896_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "5908_Taniguchi"
+msgid "Well, I'm off! Goodbye! "
+msgstr "Beh, io vado! Arrivederci!"
+
+msgctxt "5920_Taniguchi"
+msgid "Okay, Ryoko, let's go! "
+msgstr "Ok, Ryoko, andiamo!"
+
+msgctxt "5932_Akiyama"
+msgid "(Not the ending I expected, but whatever.) "
+msgstr "(Non è il finale che mi aspettavo, ma vabbè.)"
+
+msgctxt "6052_Akiyama"
+msgid "Nice. You look like a brand new man!"
+msgstr "Ottimo. Sembri un uomo nuovo!"
+
+msgctxt "6064_Akiyama"
+msgid "Now, time for a little practice!"
+msgstr "E ora, un po' di pratica!"
+
+msgctxt "6076_Taniguchi"
+msgid "Wha－!? But this isn't your club! It's Miki I'm after!"
+msgstr "Co-!? Ma questo non è il suo locale! È Miki che mi interessa!"
+
+msgctxt "6088_Akiyama"
+msgid "You idiot. Miki's one tough cookie. But I guess I don't need to tell that to the guy who spent five million yen on her. "
+msgstr "Idiota. Miki è un osso duro. Ma immagino di non doverlo dire a chi ha speso cinque milioni di yen per lei."
+
+msgctxt "6100_Taniguchi"
+msgid "......"
+msgstr "......"
+
+msgctxt "6112_Akiyama"
+msgid "She's not the kind of girl you can get simply by dressing the way she likes. You'll need to learn the right things to say to her. "
+msgstr "Non è il tipo di ragazza che si conquista semplicemente vestendosi come piace a lei. Dovrai imparare le cose giuste da dirle."
+
+msgctxt "6124_Akiyama"
+msgid "Now it's time for a crash course in talking to girls at this club. "
+msgstr "E ora è il momento di un corso intensivo su come parlare con le ragazze di questo locale."
+
+msgctxt "6136_Taniguchi"
+msgid "What!? You're not gonna bail on me, are you? "
+msgstr "Cosa!? Non mi pianterai in asso, vero?"
+
+msgctxt "6148_Akiyama"
+msgid "It wouldn't be much of a crash course if I stuck around. I'll just give you some advice. "
+msgstr "Non sarebbe un granché di corso intensivo se restassi qui. Ti darò solo qualche consiglio."
+
+msgctxt "6160_Akiyama"
+msgid "I see... Okay, give it another shot. "
+msgstr "Capisco... ok, riprovaci."
+
+msgctxt "6172_Akiyama"
+msgid "Women like their men assertive. If you see one you like, go on the offensive! "
+msgstr "Alle donne piacciono gli uomini decisi. Se ne vedi una che ti piace, passa all'attacco!"
+
+msgctxt "6184_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "6280_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "6292_Akiyama"
+msgid "How'd it go? "
+msgstr "Com'è andata?"
+
+msgctxt "6304_Taniguchi"
+msgid "I picked a girl and tried to be assertive, but she said I was annoying and told me to get lost. "
+msgstr "Ho scelto una ragazza e ho provato a essere deciso, ma ha detto che ero fastidioso e mi ha mandato a quel paese."
+
+msgctxt "6316_Akiyama"
+msgid "It's important to start by letting her know what you're like. You're already dressed to kill, so now it's time to try selling your strong points. "
+msgstr "È importante iniziare facendole capire come sei. Sei già vestito di tutto punto, quindi ora è il momento di provare a vendere i tuoi punti di forza."
+
+msgctxt "6328_Taniguchi"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "6424_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "6436_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "6448_Taniguchi"
+msgid "I picked a girl and tried to sell myself to her, but it didn't work. "
+msgstr "Ho scelto una ragazza e ho provato a 'vendermi' a lei, ma non ha funzionato."
+
+msgctxt "6460_Akiyama"
+msgid "What did you say to her? "
+msgstr "Cosa le hai detto?"
+
+msgctxt "6472_Taniguchi"
+msgid "I thought she'd understand me more if I told her about my favorite anime and action figure collection, but she said I creeped her out! "
+msgstr "Pensavo che mi avrebbe capito meglio se le avessi parlato dei miei anime preferiti e della mia collezione di action figure, ma ha detto che la inquietavo!"
+
+msgctxt "6484_Akiyama"
+msgid "To paraphrase that famous Shakespearean quote, \"Fickleness, thy name is woman.\" "
+msgstr "Per parafrasare quella famosa citazione di Shakespeare, \"fragilità, il tuo nome è donna\"."
+
+msgctxt "6496_Akiyama"
+msgid "They're always changing their minds. You have to figure out how they feel and respond properly. "
+msgstr "Cambiano sempre idea. Devi capire come si sentono e rispondere di conseguenza."
+
+msgctxt "6508_Taniguchi"
+msgid "I... I see... "
+msgstr "Cap... capisco..."
+
+msgctxt "6520_Akiyama"
+msgid "What I'm trying to say is it's more important to listen to them than it is for you to talk. "
+msgstr "Quello che sto cercando di dire è che è più importante ascoltarle che parlare."
+
+msgctxt "6532_Akiyama"
+msgid "By listening, you can sense her mood, which makes it easier for you to respond. But that's normally a hostess's job to do just that. "
+msgstr "Ascoltando, puoi percepire il suo umore, il che ti rende più facile rispondere. Ma di solito è compito di un'hostess fare proprio questo."
+
+msgctxt "6544_Akiyama"
+msgid "In any event, you'll get far with a hostess by getting on her good side. But, whatever. You need the practice. Good luck! "
+msgstr "In ogni caso, con un'hostess si ottiene molto entrando nelle sue grazie. Ma, vabbè. Hai bisogno di pratica. Buona fortuna!"
+
+msgctxt "6556_Taniguchi"
+msgid "Thanks. "
+msgstr "Grazie."
+
+msgctxt "6568_Akiyama"
+msgid "Go get 'em, tiger! "
+msgstr "Dacci dentro, tigre!"
+
+msgctxt "6580_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "6676_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "6688_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "6700_Taniguchi"
+msgid "I tried listening just like you said, and it worked! I guess girls like it when guys do that! It went really well! "
+msgstr "Ho provato ad ascoltare come hai detto tu, e ha funzionato! Credo che alle ragazze piaccia quando i ragazzi lo fanno! È andata molto bene!"
+
+msgctxt "6712_Akiyama"
+msgid "Excellent! "
+msgstr "Eccellente!"
+
+msgctxt "6724_Taniguchi"
+msgid "I think I'm getting the hang of this! "
+msgstr "Penso di starci prendendo la mano!"
+
+msgctxt "6736_Akiyama"
+msgid "Great! Then why don't you go see Miki now? "
+msgstr "Ottimo! Allora perché non vai da Miki adesso?"
+
+msgctxt "6748_Taniguchi"
+msgid "I can't. I have a date with a hostess from this club. "
+msgstr "Non posso. Ho un appuntamento con un'hostess di questo locale."
+
+msgctxt "6760_Akiyama"
+msgid "A date? But what about Miki? "
+msgstr "Un appuntamento? Ma e Miki?"
+
+msgctxt "6772_Taniguchi"
+msgid "I'm so over Miki. Would you mind telling her that for me, Akiyama-san?"
+msgstr "Con Miki ho chiuso. Ti dispiacerebbe dirglielo da parte mia, Akiyama-san?"
+
+msgctxt "6784_Akiyama"
+msgid "You mean all this training was a waste of my time?"
+msgstr "Vuoi dire che tutto questo allenamento è stato una perdita di tempo?"
+
+msgctxt "6796_Taniguchi"
+msgid "Not at all! Thanks to you, I'm a new man! I really appreciate your help! "
+msgstr "Niente affatto! Grazie a te, sono un uomo nuovo! Apprezzo davvero il tuo aiuto!"
+
+msgctxt "6808_Taniguchi"
+msgid "I'd like to give you this as a thank you. I won't be needing it anymore. "
+msgstr "Vorrei darti questo come ringraziamento. Non mi servirà più."
+
+msgctxt "6844_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "6856_Taniguchi"
+msgid "Well, I'm off! Goodbye! "
+msgstr "Beh, io vado! Arrivederci!"
+
+msgctxt "6868_Taniguchi"
+msgid "Okay, Ryoko, let's go! "
+msgstr "Ok, Ryoko, andiamo!"
+
+msgctxt "6880_Akiyama"
+msgid "(Not the ending I expected, but whatever.) "
+msgstr "(Non è il finale che mi aspettavo, ma vabbè.)"
+
+msgctxt "7000_Akiyama"
+msgid "Nice. You look like a brand new man!"
+msgstr "Ottimo. Sembri un uomo nuovo!"
+
+msgctxt "7012_Akiyama"
+msgid "Now, time for a little practice!"
+msgstr "E ora, un po' di pratica!"
+
+msgctxt "7024_Taniguchi"
+msgid "Wha－!? But this isn't your club! It's Miki I'm after!"
+msgstr "Co-!? Ma questo non è il suo locale! È Miki che mi interessa!"
+
+msgctxt "7036_Akiyama"
+msgid "You idiot. Miki's one tough cookie. But I guess I don't need to tell that to the guy who spent five million yen on her. "
+msgstr "Idiota. Miki è un osso duro. Ma immagino di non doverlo dire a chi ha speso cinque milioni di yen per lei."
+
+msgctxt "7048_Taniguchi"
+msgid "......"
+msgstr "......"
+
+msgctxt "7060_Akiyama"
+msgid "She's not the kind of girl you can get simply by dressing the way she likes. You'll need to learn the right things to say to her. "
+msgstr "Non è il tipo di ragazza che si conquista semplicemente vestendosi come piace a lei. Dovrai imparare le cose giuste da dirle."
+
+msgctxt "7072_Akiyama"
+msgid "Now it's time for a crash course in talking to girls at this club. "
+msgstr "E ora è il momento di un corso intensivo su come parlare con le ragazze di questo locale."
+
+msgctxt "7084_Taniguchi"
+msgid "What!? You're not gonna bail on me, are you? "
+msgstr "Cosa!? Non mi pianterai in asso, vero?"
+
+msgctxt "7096_Akiyama"
+msgid "It wouldn't be much of a crash course if I stuck around. I'll just give you some advice. "
+msgstr "Non sarebbe un granché di corso intensivo se restassi qui. Ti darò solo qualche consiglio."
+
+msgctxt "7108_Akiyama"
+msgid "I see... Okay, give it another shot. "
+msgstr "Capisco... ok, riprovaci."
+
+msgctxt "7120_Akiyama"
+msgid "Women like their men assertive. If you see one you like, go on the offensive! "
+msgstr "Alle donne piacciono gli uomini decisi. Se ne vedi una che ti piace, passa all'attacco!"
+
+msgctxt "7132_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "7228_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "7240_Akiyama"
+msgid "How'd it go? "
+msgstr "Com'è andata?"
+
+msgctxt "7252_Taniguchi"
+msgid "I picked a girl and tried to be assertive, but she said I was annoying and told me to get lost. "
+msgstr "Ho scelto una ragazza e ho provato a essere deciso, ma ha detto che ero fastidioso e mi ha mandato a quel paese."
+
+msgctxt "7264_Akiyama"
+msgid "It's important to start by letting her know what you're like. You're already dressed to kill, so now it's time to try selling your strong points. "
+msgstr "È importante iniziare facendole capire come sei. Sei già vestito di tutto punto, quindi ora è il momento di provare a vendere i tuoi punti di forza."
+
+msgctxt "7276_Taniguchi"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "7372_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "7384_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "7396_Taniguchi"
+msgid "I picked a girl and tried to sell myself to her, but it didn't work. "
+msgstr "Ho scelto una ragazza e ho provato a 'vendermi' a lei, ma non ha funzionato."
+
+msgctxt "7408_Akiyama"
+msgid "What did you say to her? "
+msgstr "Cosa le hai detto?"
+
+msgctxt "7420_Taniguchi"
+msgid "I thought she'd understand me more if I told her about my favorite anime and action figure collection, but she said I creeped her out! "
+msgstr "Pensavo che mi avrebbe capito meglio se le avessi parlato dei miei anime preferiti e della mia collezione di action figure, ma ha detto che la inquietavo!"
+
+msgctxt "7432_Akiyama"
+msgid "To paraphrase that famous Shakespearean quote, \"Fickleness, thy name is woman.\" "
+msgstr "Per parafrasare quella famosa citazione di Shakespeare, \"fragilità, il tuo nome è donna\"."
+
+msgctxt "7444_Akiyama"
+msgid "They're always changing their minds. You have to figure out how they feel and respond properly. "
+msgstr "Cambiano sempre idea. Devi capire come si sentono e rispondere di conseguenza."
+
+msgctxt "7456_Taniguchi"
+msgid "I... I see... "
+msgstr "Cap... capisco..."
+
+msgctxt "7468_Akiyama"
+msgid "What I'm trying to say is it's more important to listen to them than it is for you to talk. "
+msgstr "Quello che sto cercando di dire è che è più importante ascoltarle che parlare."
+
+msgctxt "7480_Akiyama"
+msgid "By listening, you can sense her mood, which makes it easier for you to respond. But that's normally a hostess's job to do just that. "
+msgstr "Ascoltando, puoi percepire il suo umore, il che ti rende più facile rispondere. Ma di solito è compito di un'hostess fare proprio questo."
+
+msgctxt "7492_Akiyama"
+msgid "In any event, you'll get far with a hostess by getting on her good side. But, whatever. You need the practice. Good luck! "
+msgstr "In ogni caso, con un'hostess si ottiene molto entrando nelle sue grazie. Ma, vabbè. Hai bisogno di pratica. Buona fortuna!"
+
+msgctxt "7504_Taniguchi"
+msgid "Thanks. "
+msgstr "Grazie."
+
+msgctxt "7516_Akiyama"
+msgid "Go get 'em, tiger! "
+msgstr "Dacci dentro, tigre!"
+
+msgctxt "7528_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "7624_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "7636_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "7648_Taniguchi"
+msgid "I tried listening just like you said, and it worked! I guess girls like it when guys do that! It went really well! "
+msgstr "Ho provato ad ascoltare come hai detto tu, e ha funzionato! Credo che alle ragazze piaccia quando i ragazzi lo fanno! È andata molto bene!"
+
+msgctxt "7660_Akiyama"
+msgid "Excellent! "
+msgstr "Eccellente!"
+
+msgctxt "7672_Taniguchi"
+msgid "I think I'm getting the hang of this! "
+msgstr "Penso di starci prendendo la mano!"
+
+msgctxt "7684_Akiyama"
+msgid "Great! Then why don't you go see Miki now? "
+msgstr "Ottimo! Allora perché non vai da Miki adesso?"
+
+msgctxt "7696_Taniguchi"
+msgid "I can't. I have a date with a hostess from this club. "
+msgstr "Non posso. Ho un appuntamento con un'hostess di questo locale."
+
+msgctxt "7708_Akiyama"
+msgid "A date? But what about Miki? "
+msgstr "Un appuntamento? Ma e Miki?"
+
+msgctxt "7720_Taniguchi"
+msgid "I'm so over Miki. Would you mind telling her that for me, Akiyama-san?"
+msgstr "Con Miki ho chiuso. Ti dispiacerebbe dirglielo da parte mia, Akiyama-san?"
+
+msgctxt "7732_Akiyama"
+msgid "You mean all this training was a waste of my time?"
+msgstr "Vuoi dire che tutto questo allenamento è stato una perdita di tempo?"
+
+msgctxt "7744_Taniguchi"
+msgid "Not at all! Thanks to you, I'm a new man! I really appreciate your help! "
+msgstr "Niente affatto! Grazie a te, sono un uomo nuovo! Apprezzo davvero il tuo aiuto!"
+
+msgctxt "7756_Taniguchi"
+msgid "I'd like to give you this as a thank you. I won't be needing it anymore. "
+msgstr "Vorrei darti questo come ringraziamento. Non mi servirà più."
+
+msgctxt "7792_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "7804_Taniguchi"
+msgid "Well, I'm off! Goodbye! "
+msgstr "Beh, io vado! Arrivederci!"
+
+msgctxt "7816_Taniguchi"
+msgid "Okay, Ryoko, let's go! "
+msgstr "Ok, Ryoko, andiamo!"
+
+msgctxt "7828_Akiyama"
+msgid "(Not the ending I expected, but whatever.) "
+msgstr "(Non è il finale che mi aspettavo, ma vabbè.)"
+
+msgctxt "7948_Akiyama"
+msgid "Nice. You look like a brand new man!"
+msgstr "Ottimo. Sembri un uomo nuovo!"
+
+msgctxt "7960_Akiyama"
+msgid "Now, time for a little practice!"
+msgstr "E ora, un po' di pratica!"
+
+msgctxt "7972_Taniguchi"
+msgid "Wha－!? But this isn't your club! It's Miki I'm after!"
+msgstr "Co-!? Ma questo non è il suo locale! È Miki che mi interessa!"
+
+msgctxt "7984_Akiyama"
+msgid "You idiot. Miki's one tough cookie. But I guess I don't need to tell that to the guy who spent five million yen on her. "
+msgstr "Idiota. Miki è un osso duro. Ma immagino di non doverlo dire a chi ha speso cinque milioni di yen per lei."
+
+msgctxt "7996_Taniguchi"
+msgid "......"
+msgstr "......"
+
+msgctxt "8008_Akiyama"
+msgid "She's not the kind of girl you can get simply by dressing the way she likes. You'll need to learn the right things to say to her. "
+msgstr "Non è il tipo di ragazza che si conquista semplicemente vestendosi come piace a lei. Dovrai imparare le cose giuste da dirle."
+
+msgctxt "8020_Akiyama"
+msgid "Now it's time for a crash course in talking to girls at this club. "
+msgstr "E ora è il momento di un corso intensivo su come parlare con le ragazze di questo locale."
+
+msgctxt "8032_Taniguchi"
+msgid "What!? You're not gonna bail on me, are you? "
+msgstr "Cosa!? Non mi pianterai in asso, vero?"
+
+msgctxt "8044_Akiyama"
+msgid "It wouldn't be much of a crash course if I stuck around. I'll just give you some advice. "
+msgstr "Non sarebbe un granché di corso intensivo se restassi qui. Ti darò solo qualche consiglio."
+
+msgctxt "8056_Akiyama"
+msgid "I see... Okay, give it another shot. "
+msgstr "Capisco... ok, riprovaci."
+
+msgctxt "8068_Akiyama"
+msgid "Women like their men assertive. If you see one you like, go on the offensive! "
+msgstr "Alle donne piacciono gli uomini decisi. Se ne vedi una che ti piace, passa all'attacco!"
+
+msgctxt "8080_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "8176_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "8188_Akiyama"
+msgid "How'd it go? "
+msgstr "Com'è andata?"
+
+msgctxt "8200_Taniguchi"
+msgid "I picked a girl and tried to be assertive, but she said I was annoying and told me to get lost. "
+msgstr "Ho scelto una ragazza e ho provato a essere deciso, ma ha detto che ero fastidioso e mi ha mandato a quel paese."
+
+msgctxt "8212_Akiyama"
+msgid "It's important to start by letting her know what you're like. You're already dressed to kill, so now it's time to try selling your strong points. "
+msgstr "È importante iniziare facendole capire come sei. Sei già vestito di tutto punto, quindi ora è il momento di provare a vendere i tuoi punti di forza."
+
+msgctxt "8224_Taniguchi"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "8320_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "8332_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "8344_Taniguchi"
+msgid "I picked a girl and tried to sell myself to her, but it didn't work. "
+msgstr "Ho scelto una ragazza e ho provato a 'vendermi' a lei, ma non ha funzionato."
+
+msgctxt "8356_Akiyama"
+msgid "What did you say to her? "
+msgstr "Cosa le hai detto?"
+
+msgctxt "8368_Taniguchi"
+msgid "I thought she'd understand me more if I told her about my favorite anime and action figure collection, but she said I creeped her out! "
+msgstr "Pensavo che mi avrebbe capito meglio se le avessi parlato dei miei anime preferiti e della mia collezione di action figure, ma ha detto che la inquietavo!"
+
+msgctxt "8380_Akiyama"
+msgid "To paraphrase that famous Shakespearean quote, \"Fickleness, thy name is woman.\" "
+msgstr "Per parafrasare quella famosa citazione di Shakespeare, \"fragilità, il tuo nome è donna\"."
+
+msgctxt "8392_Akiyama"
+msgid "They're always changing their minds. You have to figure out how they feel and respond properly. "
+msgstr "Cambiano sempre idea. Devi capire come si sentono e rispondere di conseguenza."
+
+msgctxt "8404_Taniguchi"
+msgid "I... I see... "
+msgstr "Cap... capisco..."
+
+msgctxt "8416_Akiyama"
+msgid "What I'm trying to say is it's more important to listen to them than it is for you to talk. "
+msgstr "Quello che sto cercando di dire è che è più importante ascoltarle che parlare."
+
+msgctxt "8428_Akiyama"
+msgid "By listening, you can sense her mood, which makes it easier for you to respond. But that's normally a hostess's job to do just that. "
+msgstr "Ascoltando, puoi percepire il suo umore, il che ti rende più facile rispondere. Ma di solito è compito di un'hostess fare proprio questo."
+
+msgctxt "8440_Akiyama"
+msgid "In any event, you'll get far with a hostess by getting on her good side. But, whatever. You need the practice. Good luck! "
+msgstr "In ogni caso, con un'hostess si ottiene molto entrando nelle sue grazie. Ma, vabbè. Hai bisogno di pratica. Buona fortuna!"
+
+msgctxt "8452_Taniguchi"
+msgid "Thanks. "
+msgstr "Grazie."
+
+msgctxt "8464_Akiyama"
+msgid "Go get 'em, tiger! "
+msgstr "Dacci dentro, tigre!"
+
+msgctxt "8476_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "8572_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "8584_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "8596_Taniguchi"
+msgid "I tried listening just like you said, and it worked! I guess girls like it when guys do that! It went really well! "
+msgstr "Ho provato ad ascoltare come hai detto tu, e ha funzionato! Credo che alle ragazze piaccia quando i ragazzi lo fanno! È andata molto bene!"
+
+msgctxt "8608_Akiyama"
+msgid "Excellent! "
+msgstr "Eccellente!"
+
+msgctxt "8620_Taniguchi"
+msgid "I think I'm getting the hang of this! "
+msgstr "Penso di starci prendendo la mano!"
+
+msgctxt "8632_Akiyama"
+msgid "Great! Then why don't you go see Miki now? "
+msgstr "Ottimo! Allora perché non vai da Miki adesso?"
+
+msgctxt "8644_Taniguchi"
+msgid "I can't. I have a date with a hostess from this club. "
+msgstr "Non posso. Ho un appuntamento con un'hostess di questo locale."
+
+msgctxt "8656_Akiyama"
+msgid "A date? But what about Miki? "
+msgstr "Un appuntamento? Ma e Miki?"
+
+msgctxt "8668_Taniguchi"
+msgid "I'm so over Miki. Would you mind telling her that for me, Akiyama-san?"
+msgstr "Con Miki ho chiuso. Ti dispiacerebbe dirglielo da parte mia, Akiyama-san?"
+
+msgctxt "8680_Akiyama"
+msgid "You mean all this training was a waste of my time?"
+msgstr "Vuoi dire che tutto questo allenamento è stato una perdita di tempo?"
+
+msgctxt "8692_Taniguchi"
+msgid "Not at all! Thanks to you, I'm a new man! I really appreciate your help! "
+msgstr "Niente affatto! Grazie a te, sono un uomo nuovo! Apprezzo davvero il tuo aiuto!"
+
+msgctxt "8704_Taniguchi"
+msgid "I'd like to give you this as a thank you. I won't be needing it anymore. "
+msgstr "Vorrei darti questo come ringraziamento. Non mi servirà più."
+
+msgctxt "8740_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "8752_Taniguchi"
+msgid "Well, I'm off! Goodbye! "
+msgstr "Beh, io vado! Arrivederci!"
+
+msgctxt "8764_Taniguchi"
+msgid "Okay, Ryoko, let's go! "
+msgstr "Ok, Ryoko, andiamo!"
+
+msgctxt "8776_Akiyama"
+msgid "(Not the ending I expected, but whatever.) "
+msgstr "(Non è il finale che mi aspettavo, ma vabbè.)"
+
+msgctxt "8896_Akiyama"
+msgid "Nice. You look like a brand new man!"
+msgstr "Ottimo. Sembri un uomo nuovo!"
+
+msgctxt "8908_Akiyama"
+msgid "Now, time for a little practice!"
+msgstr "E ora, un po' di pratica!"
+
+msgctxt "8920_Taniguchi"
+msgid "Wha－!? But this isn't your club! It's Miki I'm after!"
+msgstr "Co-!? Ma questo non è il suo locale! È Miki che mi interessa!"
+
+msgctxt "8932_Akiyama"
+msgid "You idiot. Miki's one tough cookie. But I guess I don't need to tell that to the guy who spent five million yen on her. "
+msgstr "Idiota. Miki è un osso duro. Ma immagino di non doverlo dire a chi ha speso cinque milioni di yen per lei."
+
+msgctxt "8944_Taniguchi"
+msgid "......"
+msgstr "......"
+
+msgctxt "8956_Akiyama"
+msgid "She's not the kind of girl you can get simply by dressing the way she likes. You'll need to learn the right things to say to her. "
+msgstr "Non è il tipo di ragazza che si conquista semplicemente vestendosi come piace a lei. Dovrai imparare le cose giuste da dirle."
+
+msgctxt "8968_Akiyama"
+msgid "Now it's time for a crash course in talking to girls at this club. "
+msgstr "E ora è il momento di un corso intensivo su come parlare con le ragazze di questo locale."
+
+msgctxt "8980_Taniguchi"
+msgid "What!? You're not gonna bail on me, are you? "
+msgstr "Cosa!? Non mi pianterai in asso, vero?"
+
+msgctxt "8992_Akiyama"
+msgid "It wouldn't be much of a crash course if I stuck around. I'll just give you some advice. "
+msgstr "Non sarebbe un granché di corso intensivo se restassi qui. Ti darò solo qualche consiglio."
+
+msgctxt "9004_Akiyama"
+msgid "I see... Okay, give it another shot. "
+msgstr "Capisco... ok, riprovaci."
+
+msgctxt "9016_Akiyama"
+msgid "Women like their men assertive. If you see one you like, go on the offensive! "
+msgstr "Alle donne piacciono gli uomini decisi. Se ne vedi una che ti piace, passa all'attacco!"
+
+msgctxt "9028_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "9124_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "9136_Akiyama"
+msgid "How'd it go? "
+msgstr "Com'è andata?"
+
+msgctxt "9148_Taniguchi"
+msgid "I picked a girl and tried to be assertive, but she said I was annoying and told me to get lost. "
+msgstr "Ho scelto una ragazza e ho provato a essere deciso, ma ha detto che ero fastidioso e mi ha mandato a quel paese."
+
+msgctxt "9160_Akiyama"
+msgid "It's important to start by letting her know what you're like. You're already dressed to kill, so now it's time to try selling your strong points. "
+msgstr "È importante iniziare facendole capire come sei. Sei già vestito di tutto punto, quindi ora è il momento di provare a vendere i tuoi punti di forza."
+
+msgctxt "9172_Taniguchi"
+msgid "Okay!"
+msgstr "Ok!"
+
+msgctxt "9268_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "9280_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "9292_Taniguchi"
+msgid "I picked a girl and tried to sell myself to her, but it didn't work. "
+msgstr "Ho scelto una ragazza e ho provato a 'vendermi' a lei, ma non ha funzionato."
+
+msgctxt "9304_Akiyama"
+msgid "What did you say to her? "
+msgstr "Cosa le hai detto?"
+
+msgctxt "9316_Taniguchi"
+msgid "I thought she'd understand me more if I told her about my favorite anime and action figure collection, but she said I creeped her out! "
+msgstr "Pensavo che mi avrebbe capito meglio se le avessi parlato dei miei anime preferiti e della mia collezione di action figure, ma ha detto che la inquietavo!"
+
+msgctxt "9328_Akiyama"
+msgid "To paraphrase that famous Shakespearean quote, \"Fickleness, thy name is woman.\" "
+msgstr "Per parafrasare quella famosa citazione di Shakespeare, \"fragilità, il tuo nome è donna\"."
+
+msgctxt "9340_Akiyama"
+msgid "They're always changing their minds. You have to figure out how they feel and respond properly. "
+msgstr "Cambiano sempre idea. Devi capire come si sentono e rispondere di conseguenza."
+
+msgctxt "9352_Taniguchi"
+msgid "I... I see... "
+msgstr "Cap... capisco..."
+
+msgctxt "9364_Akiyama"
+msgid "What I'm trying to say is it's more important to listen to them than it is for you to talk. "
+msgstr "Quello che sto cercando di dire è che è più importante ascoltarle che parlare."
+
+msgctxt "9376_Akiyama"
+msgid "By listening, you can sense her mood, which makes it easier for you to respond. But that's normally a hostess's job to do just that. "
+msgstr "Ascoltando, puoi percepire il suo umore, il che ti rende più facile rispondere. Ma di solito è compito di un'hostess fare proprio questo."
+
+msgctxt "9388_Akiyama"
+msgid "In any event, you'll get far with a hostess by getting on her good side. But, whatever. You need the practice. Good luck! "
+msgstr "In ogni caso, con un'hostess si ottiene molto entrando nelle sue grazie. Ma, vabbè. Hai bisogno di pratica. Buona fortuna!"
+
+msgctxt "9400_Taniguchi"
+msgid "Thanks. "
+msgstr "Grazie."
+
+msgctxt "9412_Akiyama"
+msgid "Go get 'em, tiger! "
+msgstr "Dacci dentro, tigre!"
+
+msgctxt "9424_Taniguchi"
+msgid "Okay! "
+msgstr "Ok!"
+
+msgctxt "9520_Taniguchi"
+msgid "Akiyama-san!"
+msgstr "Akiyama-san!"
+
+msgctxt "9532_Akiyama"
+msgid "How'd it go?"
+msgstr "Com'è andata?"
+
+msgctxt "9544_Taniguchi"
+msgid "I tried listening just like you said, and it worked! I guess girls like it when guys do that! It went really well! "
+msgstr "Ho provato ad ascoltare come hai detto tu, e ha funzionato! Credo che alle ragazze piaccia quando i ragazzi lo fanno! È andata molto bene!"
+
+msgctxt "9556_Akiyama"
+msgid "Excellent! "
+msgstr "Eccellente!"
+
+msgctxt "9568_Taniguchi"
+msgid "I think I'm getting the hang of this! "
+msgstr "Penso di starci prendendo la mano!"
+
+msgctxt "9580_Akiyama"
+msgid "Great! Then why don't you go see Miki now? "
+msgstr "Ottimo! Allora perché non vai da Miki adesso?"
+
+msgctxt "9592_Taniguchi"
+msgid "I can't. I have a date with a hostess from this club. "
+msgstr "Non posso. Ho un appuntamento con un'hostess di questo locale."
+
+msgctxt "9604_Akiyama"
+msgid "A date? But what about Miki? "
+msgstr "Un appuntamento? Ma e Miki?"
+
+msgctxt "9616_Taniguchi"
+msgid "I'm so over Miki. Would you mind telling her that for me, Akiyama-san?"
+msgstr "Con Miki ho chiuso. Ti dispiacerebbe dirglielo da parte mia, Akiyama-san?"
+
+msgctxt "9628_Akiyama"
+msgid "You mean all this training was a waste of my time?"
+msgstr "Vuoi dire che tutto questo allenamento è stato una perdita di tempo?"
+
+msgctxt "9640_Taniguchi"
+msgid "Not at all! Thanks to you, I'm a new man! I really appreciate your help! "
+msgstr "Niente affatto! Grazie a te, sono un uomo nuovo! Apprezzo davvero il tuo aiuto!"
+
+msgctxt "9652_Taniguchi"
+msgid "I'd like to give you this as a thank you. I won't be needing it anymore. "
+msgstr "Vorrei darti questo come ringraziamento. Non mi servirà più."
+
+msgctxt "9688_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "9700_Taniguchi"
+msgid "Well, I'm off! Goodbye! "
+msgstr "Beh, io vado! Arrivederci!"
+
+msgctxt "9712_Taniguchi"
+msgid "Okay, Ryoko, let's go! "
+msgstr "Ok, Ryoko, andiamo!"
+
+msgctxt "9724_Akiyama"
+msgid "(Not the ending I expected, but whatever.) "
+msgstr "(Non è il finale che mi aspettavo, ma vabbè.)"
+
+msgctxt "9796_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "9808_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "9820_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "9832_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "9844_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "9856_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "9868_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "9880_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "9892_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "9904_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "9916_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "9928_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "9940_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "9952_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "9964_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "9976_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "9988_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "10000_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "10012_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "10024_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "10036_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "10048_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "10060_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "10072_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "10084_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "10096_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "10108_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "10120_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "10132_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "10144_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "10156_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "10168_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "10180_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "10192_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "10204_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "10216_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "10228_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "10240_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "10252_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "10264_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "10276_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "10288_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "10300_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "10312_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "10324_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "10336_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "10348_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "10360_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "10372_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "10384_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "10396_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
+
+msgctxt "10408_Akiyama"
+msgid "The important thing is to be assertive."
+msgstr "L'importante è essere decisi."
+
+msgctxt "10420_Akiyama"
+msgid "You have to sell yourself."
+msgstr "Devi saperti vendere."
+
+msgctxt "10432_Akiyama"
+msgid "Pay attention to what she is saying."
+msgstr "Presta attenzione a quello che dice."
