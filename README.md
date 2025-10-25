@@ -27,6 +27,9 @@ Ringrazio "[Lowrentio](https://steamcommunity.com/id/Lowrentio/)" per aver decis
 
 ![](img/memo.jpg)
 
+![](img/open.jpg)
+
+![](img/dialogo.jpg)
 
 # Come installare la patch
 
