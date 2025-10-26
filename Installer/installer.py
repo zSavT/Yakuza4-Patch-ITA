@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 # Installer Patch ITA Yakuza 4 Remastered
 # Autore: SavT
-# Versione: v2.4
+# Versione: v2.5
 # -----------------------------------------------------------------------------
 
 import sys
@@ -16,6 +16,7 @@ import datetime
 import pyzipper
 import urllib.request
 import json
+from packaging import version  # <-- MODIFICA: Aggiunto import
 
 from PyQt6.QtWidgets import (
     QApplication, QWidget, QLabel, QPushButton, QVBoxLayout, QFrame,
@@ -52,7 +53,7 @@ HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "v0.5"
+VERSIONE = "v0.5.1"
 ALT_SITE_NAME = "TBA"
 ALT_SITE_URL = "https://www.youtube.com/@zSavT"
 CREDITI = "Patch By SavT e Lowrentio"
@@ -230,31 +231,50 @@ class VersionCheckWorker(QThread):
         self.current_version = current_version
         self.repo_url = repo_url
         self.api_url = ""
+
     def _compare_versions(self, v1_str, v2_str):
+        """
+        Compara due stringhe di versione usando la libreria 'packaging'.
+        Gestisce correttamente 'v', 'alpha', 'beta', 'rc' e numeri.
+        La logica è: Release > Beta > Alpha.
+        Ritorna True se v1 > v2, altrimenti False.
+        """
         try:
-            v1_parts = v1_str.lstrip('vV').split('.')
-            v2_parts = v2_str.lstrip('vV').split('.')
-            v1_tuple = tuple(map(int, v1_parts))
-            v2_tuple = tuple(map(int, v2_parts))
-            return v1_tuple > v2_tuple
-        except (ValueError, AttributeError):
-            return v1_str > v2_str
+            latest_v = version.parse(v1_str)
+            current_v = version.parse(v2_str)
+            return latest_v > current_v
+            
+        except (version.InvalidVersion, AttributeError, TypeError) as e:
+            print(f"Avviso: Impossibile analizzare la versione in modo standard ({e}). Fallback a confronto stringa.")
+            return v1_str.lstrip('vV') > v2_str.lstrip('vV')
+
     def run(self):
         try:
             parts = self.repo_url.strip("/").split("/")
             owner, repo = parts[-2], parts[-1]
-            self.api_url = f"https://api.github.com/repos/{owner}/{repo}/releases/latest"
+            self.api_url = f"https://api.github.com/repos/{owner}/{repo}/releases"
+            
             print(f"Controllo aggiornamenti a: {self.api_url}")
             req = urllib.request.Request(self.api_url, headers={'User-Agent': 'SavT-Installer-Updater'})
+            
             with urllib.request.urlopen(req, timeout=10) as response:
                 if response.status == 200:
-                    data = json.loads(response.read().decode())
-                    latest_version_tag = data.get('tag_name')
-                    download_url = data.get('html_url')
+                    data_list = json.loads(response.read().decode())
+                    if not data_list:
+                        print("Controllo aggiornamenti: Nessuna release trovata sul repository.")
+                        return
+
+                    latest_release_data = data_list[0] 
+                    
+                    latest_version_tag = latest_release_data.get('tag_name')
+                    download_url = latest_release_data.get('html_url')
+                    
                     if not latest_version_tag or not download_url:
                         print("Controllo aggiornamenti: 'tag_name' o 'html_url' non trovati nella risposta.")
                         return
+                        
                     print(f"Ultima versione su GitHub: {latest_version_tag}, Versione corrente: {self.current_version}")
+                    
                     if self._compare_versions(latest_version_tag, self.current_version):
                         print(f"Nuova versione disponibile: {latest_version_tag}")
                         self.update_found.emit(latest_version_tag, download_url)
@@ -595,7 +615,7 @@ class InstallScreen(QWidget):
         path_layout = QHBoxLayout(); path_layout.addWidget(path_label); path_layout.addStretch()
         path_input_layout = QHBoxLayout(); path_input_layout.addWidget(self.path_input, 1); path_input_layout.addSpacing(5); path_input_layout.addWidget(self.browse_btn)
         self.backup_checkbox = QCheckBox("Crea backup dei file originali prima dell'installazione"); self.backup_checkbox.setChecked(True); self.backup_checkbox.setToolTip("Se selezionato, i file che verranno sovrascritti dalla patch\nsaranno prima copiati in una sottocartella '_backup_patch_ita_...'")
-        self.alt_patch_checkbox = QCheckBox("Installa la traduzione quest secondarie, pre-tradotte con Gemini ma non revisionate a mano (In futuro verranno riviste manualmente)"); self.alt_patch_checkbox.setToolTip("Se selezionato, verrà installato il file 'patch_ai.pkg' al posto di quello standard.")
+        self.alt_patch_checkbox = QCheckBox("Installa la traduzione quest secondarie, pre-tradotte con Gemini ma non revisionate a mano (In futuro verranno riviste manually)"); self.alt_patch_checkbox.setToolTip("Se selezionato, verrà installato il file 'patch_ai.pkg' al posto di quello standard.")
         self.alt_patch_checkbox.clicked.connect(self.handle_alt_patch_check)
         self.install_btn = QPushButton("Installa Patch"); self.install_btn.setObjectName("InstallButton"); self.install_btn.setDefault(True)
         try: self.install_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_DialogSaveButton))
