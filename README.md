@@ -62,9 +62,6 @@ Successivamente bisogna accettare i termini d'uso e poi nella schermata successi
 - __Yakuza 4\data\bootpar\*__
     - All'interno sono presenti vari file relativi a nomi di oggetti, descrizioni e altro.
     - [x] Tradotto in parte
-- __Yakuza 4\data\db.ogre3\*__
-    - All'interno sono presenti vari file relativi a nomi di NPC, capitoli, impostazioni e altro.
-    - [ ] Tradotto
 - __Yakuza 4\data\db.soul\*__
     - Come sopra.
     - [x] Tradotto in parte
