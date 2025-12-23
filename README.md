@@ -64,7 +64,7 @@ Successivamente bisogna accettare i termini d'uso e poi nella schermata successi
     - [x] Tradotto in parte
 - __Yakuza 4\data\db.soul\*__
     - Come sopra.
-    - [x] Tradotto in parte
+    - [x] Tradotto
 - __Yakuza 4\data\fontpar__
     - All'interno sono presenti i dati relativo al font del gioco.
     - [x] Tradotto
@@ -73,22 +73,22 @@ Successivamente bisogna accettare i termini d'uso e poi nella schermata successi
     - [x] Tradotto
 - __Yakuza 4\data\minigame\*__
     - All'interno sono presenti vari file relativi ai minigiochi.
-    - [x] Tradotto in parte
+    - [x] Tradotto
 - __Yakuza 4\data\pause_en.par__
     - All'interno sono presenti i testi del gioco relativi ai memo ed altro.
     - [x] Tradotto
 - __Yakuza 4\data\scenario_en\mail__
     - All'interno è presente il testo delle email/sms.
-    - [x] Tradotto in parte
+    - [x] Tradotto
 - __Yakuza 4\data\staffrollpar__
     - All'interno sono presenti le immagine dei crediti finali del gioco.
     - [x] Tradotto
 - __Yakuza 4\data\ikusei_param_en.par__
     - All'interno sono presenti i testi del gioco relativi al colosseo.
-    - [x] Tradotto
+    - [x] Tradotto ma con limitazioni
 - __Yakuza 4\data\wdr_par_en\*__
     - All'interno sono presenti i file relativi ai box di dialogo della storia e interazioni con i negozi.
-    - [x] Tradotto in parte
+    - [x] Tradotto
 
 # Funzionamento estrazione PAR
 
