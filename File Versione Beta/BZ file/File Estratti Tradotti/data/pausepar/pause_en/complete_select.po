@@ -81,8 +81,8 @@ msgid "IF7-R"
 msgstr "IF7-R"
 
 msgctxt "401\tNAME"
-msgid "Heat Actions"
-msgstr "Azioni Heat"
+msgid "Furore Actions"
+msgstr "Azioni Furore"
 
 msgctxt "414\tEXPLANATION"
 msgid "Unlock all 100 lockers, both above and underground."
@@ -159,5 +159,5 @@ msgid "Defeat all enemies."
 msgstr "Sconfiggi tutti i nemici."
 
 msgctxt "1151\tEXPLANATION"
-msgid "Use every Heat Action."
+msgid "Use every Furore Action."
 msgstr "Usa ogni Azione Calore."

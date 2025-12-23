@@ -1735,7 +1735,7 @@ msgstr "Risultati"
 
 msgctxt "27837"
 msgid "Heat Actions × %d"
-msgstr "Azioni Heat × %d"
+msgstr "Azioni Furore × %d"
 
 msgctxt "27856"
 msgid "Perfect Victory × %d"
@@ -11535,7 +11535,7 @@ msgid ""
 "Abilities can be acquired. <Color:109,193,240,255>Blue letters<Color:Default>indicate that the ability is a Heat Action, while "
 "<Color:255,100,100,255>red letters<Color:Default> indicate that the ability can only be activated when the Heat Gauge is in the red."
 msgstr ""
-"Le abilità possono essere acquisite.<Color:109,193,240,255> Lettere blu<Color:Default> indicano che l'abilità è un'azione heat, "
+"Le abilità possono essere acquisite.<Color:109,193,240,255> Lettere blu<Color:Default> indicano che l'abilità è un'Azione Furore, "
 "mentre<Color:255,100,100,255> lettere rosse<Color:Default> indica che l'abilità può essere attivata solo quando l'indicatore heat è rosso."
 
 msgctxt "75956"
@@ -11924,7 +11924,7 @@ msgstr "Cibo/Bevande"
 
 msgctxt "77953"
 msgid "Heat Actions"
-msgstr "Azioni Heat"
+msgstr "Azioni Furore"
 
 msgctxt "77966"
 msgid "Coliseum"
@@ -13280,7 +13280,7 @@ msgstr "Potenza"
 
 msgctxt "84904"
 msgid "Durability"
-msgstr "Durata nel tempo"
+msgstr "Durevolezza"
 
 msgctxt "84915"
 msgid "Defense"

@@ -8051,7 +8051,7 @@ msgstr "Indossa questo talismano e il potere del Dio della Guerra scorrerà nell
 
 msgctxt "131967\tEXPLANATION"
 msgid "This amulet will let you use Heat Actions without draining the Heat Gauge."
-msgstr "Questo amuleto ti permette di usare le Azioni Heat senza consumare la barra Heat."
+msgstr "Questo amuleto ti permette di usare le Azioni Furore senza consumare la barra Heat."
 
 msgctxt "132042\tEXPLANATION"
 msgid "A gift from Haruka. Something tells me that equipping it will make me stronger."
@@ -8875,7 +8875,7 @@ msgstr "Lettera di completamento IF7-R"
 
 msgctxt "145973\tEXPLANATION"
 msgid "Heat Actions Completion Letter"
-msgstr "Lettera di completamento Azioni Heat"
+msgstr "Lettera di completamento Azioni Furore"
 
 msgctxt "146004\tEXPLANATION"
 msgid "From 777 Town"
@@ -9787,7 +9787,7 @@ msgctxt "205311\tMORE_EXPLANATION1"
 msgid "Naomi's Palace Newsletter\n"
 "                     Heat Actions Completion Edition"
 msgstr "Bollettino del Palazzo di Naomi\n"
-"                     Edizione Completamento Azioni Heat"
+"                     Edizione Completamento Azioni Furore"
 
 msgctxt "205392\tMORE_EXPLANATION1"
 msgid "Thank you for winning\n"
@@ -10409,7 +10409,7 @@ msgctxt "211067\tMORE_EXPLANATION2"
 msgid "You've executed each and every Heat\n"
 "Action. Congratulations! You are worthy\n"
 "of the title Tyrant of Kamurocho."
-msgstr "Hai eseguito ogni singola Azione Heat.\n"
+msgstr "Hai eseguito ogni singola Azione Furore.\n"
 "Congratulazioni! Sei degno del titolo\n"
 "Tiranno di Kamurocho."
 

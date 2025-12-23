@@ -18,15 +18,15 @@ msgstr ""
 "PO-Revision-Date: 2025-10-12 21:24\n"
 
 msgctxt "2380"
-msgid "<Color:9>Heat Gauge growth rate increased.<Color:Default>"
+msgid "<Color:9>Furore Gauge growth rate increased.<Color:Default>"
 msgstr "<Color:9>Velocità di crescita dell'indicatore Heat aumentata.<Color:Default>"
 
 msgctxt "2404"
-msgid "<Color:9>Heat Gauge capacity increased.<Color:Default>"
+msgid "<Color:9>Furore Gauge capacity increased.<Color:Default>"
 msgstr "<Color:9>Capacità dell'indicatore Heat aumentata.<Color:Default>"
 
 msgctxt "2428"
-msgid "<Color:9>Heat Gauge now decreases at a slower rate.<Color:Default>"
+msgid "<Color:9>Furore Gauge now decreases at a slower rate.<Color:Default>"
 msgstr "<Color:9>L'indicatore Heat ora diminuisce più lentamente.<Color:Default>"
 
 msgctxt "2584"
@@ -54,7 +54,7 @@ msgid "<Color:9>You learned the Essence of Reversal.<Color:Default>"
 msgstr "<Color:9>Hai imparato l'Essenza del Contrattacco.<Color:Default>"
 
 msgctxt "2716"
-msgid "<Color:9>Heat Gauge growth rate increased.<Color:Default>"
+msgid "<Color:9>Furore Gauge growth rate increased.<Color:Default>"
 msgstr "<Color:9>Velocità di crescita dell'indicatore Heat aumentata.<Color:Default>"
 
 msgctxt "2728"
@@ -62,7 +62,7 @@ msgid "<Color:9>Battle experience data received from IF7-R.<Color:Default>"
 msgstr "<Color:9>Dati esperienza di battaglia ricevuti dall'IF7-R.<Color:Default>"
 
 msgctxt "2752"
-msgid "<Color:9>Heat Gauge capacity increased.<Color:Default>"
+msgid "<Color:9>Furore Gauge capacity increased.<Color:Default>"
 msgstr "<Color:9>Capacità dell'indicatore Heat aumentata.<Color:Default>"
 
 msgctxt "2764"
@@ -70,7 +70,7 @@ msgid "<Color:9>Battle experience data received from IF7-R.<Color:Default>"
 msgstr "<Color:9>Dati esperienza di battaglia ricevuti dall'IF7-R.<Color:Default>"
 
 msgctxt "2788"
-msgid "<Color:9>Heat Gauge now decreases at a slower rate.<Color:Default>"
+msgid "<Color:9>Furore Gauge now decreases at a slower rate.<Color:Default>"
 msgstr "<Color:9>L'indicatore Heat ora diminuisce più lentamente.<Color:Default>"
 
 msgctxt "2800"
