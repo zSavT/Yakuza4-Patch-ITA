@@ -53,7 +53,7 @@ HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "v0.5.1"
+VERSIONE = "v0.6"
 ALT_SITE_NAME = "TBA"
 ALT_SITE_URL = "https://www.youtube.com/@zSavT"
 CREDITI = "Patch By SavT e Lowrentio"
@@ -615,7 +615,7 @@ class InstallScreen(QWidget):
         path_layout = QHBoxLayout(); path_layout.addWidget(path_label); path_layout.addStretch()
         path_input_layout = QHBoxLayout(); path_input_layout.addWidget(self.path_input, 1); path_input_layout.addSpacing(5); path_input_layout.addWidget(self.browse_btn)
         self.backup_checkbox = QCheckBox("Crea backup dei file originali prima dell'installazione"); self.backup_checkbox.setChecked(True); self.backup_checkbox.setToolTip("Se selezionato, i file che verranno sovrascritti dalla patch\nsaranno prima copiati in una sottocartella '_backup_patch_ita_...'")
-        self.alt_patch_checkbox = QCheckBox("Installa la traduzione quest secondarie, pre-tradotte con Gemini ma non revisionate a mano (In futuro verranno riviste manually)"); self.alt_patch_checkbox.setToolTip("Se selezionato, verrà installato il file 'patch_ai.pkg' al posto di quello standard.")
+        self.alt_patch_checkbox = QCheckBox("Installa la traduzione quest secondarie, pre-tradotte con Gemini ma non revisionate a mano (In futuro verranno riviste a mano)"); self.alt_patch_checkbox.setToolTip("Se selezionato, verrà installato il file 'patch_ai.pkg' al posto di quello standard.")
         self.alt_patch_checkbox.clicked.connect(self.handle_alt_patch_check)
         self.install_btn = QPushButton("Installa Patch"); self.install_btn.setObjectName("InstallButton"); self.install_btn.setDefault(True)
         try: self.install_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_DialogSaveButton))

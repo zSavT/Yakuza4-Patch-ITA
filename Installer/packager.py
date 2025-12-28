@@ -177,7 +177,7 @@ if __name__ == "__main__":
 
     # --- 2. Raccolta input utente ---
     source = get_input_path("📁 Inserisci il percorso della cartella da includere nel pacchetto: ")
-    output = "patch.pkg"
+    output = "patch_ai.pkg"
 
     # --- 3. Visualizzazione riepilogo ---
     print(f"\n📋 Riepilogo Operazione:")
