@@ -40,10 +40,13 @@ Per installare bisogna selezionare la sezione [Releases](https://github.com/zSav
 L'installazione è guidata e semplice, ma in ogni caso basterà sempre cliccare su "_Avanti_". Attendere la verifica dell'integrità dei file della Patch e cliccare successivamente su "_Avanti_".
 
 ![](img/Installer2.png)
+![](img/Installer3.png)
 
 Successivamente bisogna accettare i termini d'uso e poi nella schermata successiva, selezionare la cartella dove è installato Yakuza 4 (Di default è impostato il percorso classico) e cliccare su "_Installa Patch_".
+Eventualmente si può anche inserire la spunta per installare le traduzioni fatte con Gemini per le quest secondarie.
 
-![](img/Installer3.png)
+![](img/Installer4.png)
+![](img/Installer5.png)
 
 # Struttura dei file
 
@@ -210,9 +213,8 @@ Lista dei progetti di patch in italiano per i giochi della serie:
 - [Yakuza 0](https://letraduzionidirulesless.wordpress.com/yakuza0-2/)
     - Come indicato nell'introduzione, la patch di Yakuza 0 è l'unica completa al 100% (o quasi).
     - La versione Director's Cut, presenta la lingua italiana.
-- [Yakuza Kiwami 1 e 2](https://vittolarosa93.wixsite.com/kiwamivideo)
-    - L'autore ha rilasciato sul sito delle patch parziali dei giochi/video dimostrativi.
-    - Verrà pubblicata prossimamente una patch ufficiale con al suo interno anche la traduzione in italiano.
+- Yakuza Kiwami 1 e 2
+   - Ufficialmente tradotti in italiano nelle nuove versioni. 
 - [Yakuza 3 Remastered](https://vittolarosa93.wixsite.com/kiwamivideo)
     - L'autore ha rilasciato sul sito delle patch parziali del gioco/video dimostrativo.
     - Il remake del gioco (e non la remastered) sarà localizzato in italiano.
