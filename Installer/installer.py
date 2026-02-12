@@ -496,7 +496,7 @@ class WelcomeScreen(QWidget):
         try: self.next_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_ArrowRight))
         except Exception: pass
         btn_layout.addWidget(self.cancel_btn); btn_layout.addStretch(); btn_layout.addWidget(self.next_btn)
-        bottom_info_layout = QHBoxLayout(); version_label = QLabel(f"Versione Patch Beta: {VERSIONE}"); version_label.setObjectName("VersionLabel"); version_label.setAlignment(Qt.AlignmentFlag.AlignLeft | Qt.AlignmentFlag.AlignVCenter); autore_label = QLabel(CREDITI); autore_label.setObjectName("AuthorLabel"); autore_label.setAlignment(Qt.AlignmentFlag.AlignRight | Qt.AlignmentFlag.AlignVCenter); bottom_info_layout.addWidget(version_label); bottom_info_layout.addStretch(1); bottom_info_layout.addWidget(autore_label)
+        bottom_info_layout = QHBoxLayout(); version_label = QLabel(f"Versione Patch: {VERSIONE}"); version_label.setObjectName("VersionLabel"); version_label.setAlignment(Qt.AlignmentFlag.AlignLeft | Qt.AlignmentFlag.AlignVCenter); autore_label = QLabel(CREDITI); autore_label.setObjectName("AuthorLabel"); autore_label.setAlignment(Qt.AlignmentFlag.AlignRight | Qt.AlignmentFlag.AlignVCenter); bottom_info_layout.addWidget(version_label); bottom_info_layout.addStretch(1); bottom_info_layout.addWidget(autore_label)
         layout.addWidget(image_label); layout.addWidget(title); layout.addWidget(desc); layout.addStretch(); layout.addLayout(btn_layout); layout.addSpacing(5); layout.addLayout(bottom_info_layout)
 
 class PackageCheckScreen(QWidget):
