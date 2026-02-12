@@ -53,7 +53,7 @@ HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "v0.6"
+VERSIONE = "Beta-v0.7"
 ALT_SITE_NAME = "TBA"
 ALT_SITE_URL = "https://www.youtube.com/@zSavT"
 CREDITI = "Patch By SavT e Lowrentio"
@@ -239,9 +239,16 @@ class VersionCheckWorker(QThread):
         La logica è: Release > Beta > Alpha.
         Ritorna True se v1 > v2, altrimenti False.
         """
+        print(f"Confronto versioni - GitHub: {v1_str} vs Locale: {v2_str}")
+        def clean(v):
+            return v.replace("Beta-", "").replace("beta-", "")
+
         try:
             latest_v = version.parse(v1_str)
             current_v = version.parse(v2_str)
+            latest_v = version.parse(clean(v1_str))
+            current_v = version.parse(clean(v2_str))
+            print(f"Versioni parsate - GitHub: {latest_v} > Locale: {current_v} = {latest_v > current_v}")
             return latest_v > current_v
             
         except (version.InvalidVersion, AttributeError, TypeError) as e:
