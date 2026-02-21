@@ -12416,7 +12416,7 @@ msgstr "Invertito"
 
 msgctxt "79817"
 msgid "Fixed"
-msgstr "Fisso"
+msgstr "Fissa"
 
 msgctxt "79823"
 msgid "Rotating"
@@ -12424,11 +12424,11 @@ msgstr "Rotante"
 
 msgctxt "79832"
 msgid "Off"
-msgstr "Off"
+msgstr "Disattivo"
 
 msgctxt "79836"
 msgid "On"
-msgstr "On"
+msgstr "Attivo"
 
 msgctxt "79839"
 msgid "Auto"
@@ -12521,8 +12521,8 @@ msgid ""
 "Japanese lyrics will display with pronunciations underneath."
 msgstr ""
 "Quando questa opzione è attiva, durante il karaoke verranno visualizzate le traduzioni in inglese\n"
-"del testo originale giapponese. Quando è disattivata, verranno visualizzati il testo originale\n"
-"giapponese con la relativa pronuncia sottostante."
+"del testo originale giapponese. Quando è disattivata, verranno visualizzati i testi originali\n"
+"giapponesi con la relativa pronuncia sottostante."
 
 msgctxt "81589"
 msgid "Toggle in-game HUD on or off."
@@ -12626,11 +12626,11 @@ msgstr "Imposta il volume della voce nei dialoghi."
 
 msgctxt "82135"
 msgid "Cinematics"
-msgstr "Cinematica"
+msgstr "Cinematiche"
 
 msgctxt "82146"
 msgid "Set volume for cinematic sequences."
-msgstr "Imposta il volume per le sequenze cinematografiche."
+msgstr "Imposta il volume per le sequenze cinematiche."
 
 msgctxt "82182"
 msgid "Speaker Type"
@@ -12782,7 +12782,7 @@ msgstr "Imposta la qualità della texture."
 
 msgctxt "82912"
 msgid "Texture Filtering"
-msgstr "Filtraggio delle texture"
+msgstr "Filtro delle texture"
 
 msgctxt "82930"
 msgid "Set anisotropic texture filtering."
@@ -12878,7 +12878,7 @@ msgstr "16x"
 
 msgctxt "83355"
 msgid "Off"
-msgstr "Off"
+msgstr "Disattivo"
 
 msgctxt "83359"
 msgid "FXAA"
