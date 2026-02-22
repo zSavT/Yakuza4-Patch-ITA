@@ -37,7 +37,7 @@ msgid "Talk_Info_F"
 msgstr "Talk_Info_F"
 
 msgctxt "18760"
-msgid "Relieved Homeless Man"
+msgid "Relieved Senzatetto"
 msgstr "Senzatetto sollevato"
 
 msgctxt "18764"
@@ -113,7 +113,7 @@ msgid "dummy"
 msgstr "dummy"
 
 msgctxt "18836"
-msgid "Panicked Homeless Man"
+msgid "Panicked Senzatetto"
 msgstr "Senzatetto in preda al panico"
 
 msgctxt "18840"
@@ -145,7 +145,7 @@ msgctxt "200_Saejima"
 msgid "Thank this guy, not me. He's the one that was doin' all the worryin'."
 msgstr "Ringrazia lui, non me. È lui quello che si stava preoccupando tanto."
 
-msgctxt "224_Relieved Homeless Man"
+msgctxt "224_Relieved Senzatetto"
 msgid "Master, you okay!? Did they hurt you?"
 msgstr "Maestro, stai bene!? Ti hanno fatto del male?"
 
@@ -153,11 +153,11 @@ msgctxt "236_Old Man"
 msgid "Oh, it's you. Yeah, I'm all right."
 msgstr "Oh, sei tu. Sì, sto bene."
 
-msgctxt "248_Relieved Homeless Man"
+msgctxt "248_Relieved Senzatetto"
 msgid "Thank goodness! I was scared outta my mind!"
 msgstr "Grazie al cielo! Mi sono spaventato a morte!"
 
-msgctxt "260_Relieved Homeless Man"
+msgctxt "260_Relieved Senzatetto"
 msgid ""
 "I owe you, sir! You really are something! By the way, what was your name "
 "again?"
@@ -169,7 +169,7 @@ msgctxt "272_Saejima"
 msgid "Saejima. You?"
 msgstr "Saejima. E tu?"
 
-msgctxt "284_Relieved Homeless Man"
+msgctxt "284_Relieved Senzatetto"
 msgid "People call me Ken-chan. And this here's the Master."
 msgstr "La gente mi chiama Ken-chan. E lui è il Maestro."
 
@@ -433,7 +433,7 @@ msgstr ""
 "(Beh, sembra che qui abbia sistemato le cose. È ora di indagare su quel "
 "leggendario informatore. Chissà se qualcuno dei senzatetto sa qualcosa...)"
 
-msgctxt "944_Panicked Homeless Man"
+msgctxt "944_Panicked Senzatetto"
 msgid "Over there!"
 msgstr "Laggiù!"
 
@@ -484,11 +484,11 @@ msgid ""
 msgstr ""
 "Andiamo, ci stiamo mettendo troppo. Se non ti sposti, dovremo spostarti noi!"
 
-msgctxt "1052_Panicked Homeless Man"
+msgctxt "1052_Panicked Senzatetto"
 msgid "Oh no! They're gonna kill the Master!"
 msgstr "Oh no! Uccideranno il Maestro!"
 
-msgctxt "1064_Panicked Homeless Man"
+msgctxt "1064_Panicked Senzatetto"
 msgid ""
 "You look like a pretty strong guy. Please get rid of those hooligans and "
 "save the Master!"
@@ -502,16 +502,16 @@ msgstr ""
 "Spiacente, non posso immischiarmi. Combattete le vostre battaglie con i "
 "vostri amici."
 
-msgctxt "1088_Panicked Homeless Man"
+msgctxt "1088_Panicked Senzatetto"
 msgid ""
 "But nobody really likes the Master. He's not exactly the social type..."
 msgstr "Ma il Maestro non piace a nessuno. Non è proprio un tipo socievole..."
 
-msgctxt "1100_Panicked Homeless Man"
+msgctxt "1100_Panicked Senzatetto"
 msgid "But he's still a good guy! You gotta help him out!"
 msgstr "Ma è comunque una brava persona! Devi aiutarlo!"
 
-msgctxt "1112_Panicked Homeless Man"
+msgctxt "1112_Panicked Senzatetto"
 msgid "Please! You're my only hope!"
 msgstr "Ti prego! Sei la mia unica speranza!"
 
@@ -531,7 +531,7 @@ msgctxt "1148_Saejima"
 msgid "I'll talk to 'em."
 msgstr "Ci parlo io."
 
-msgctxt "1160_Panicked Homeless Man"
+msgctxt "1160_Panicked Senzatetto"
 msgid "Really!? Thank you, kind sir!"
 msgstr "Davvero!? Grazie, gentile signore!"
 

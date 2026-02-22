@@ -2172,15 +2172,15 @@ msgstr "Difficoltà"
 
 msgctxt "31267"
 msgid "Times Difficulty was Changed"
-msgstr "La difficoltà dei tempi è cambiata"
+msgstr "Modifiche alla difficoltà" 
 
 msgctxt "31296"
 msgid "Continues"
-msgstr "Continua"
+msgstr "Continua utilizzati"
 
 msgctxt "31306"
 msgid "Pedestrians Knocked Down"
-msgstr "Pedoni investiti"
+msgstr "Pedoni urtati"
 
 msgctxt "31331"
 msgid "Weapons Broken"
@@ -2192,11 +2192,11 @@ msgstr "Distanza percorsa"
 
 msgctxt "31364"
 msgid "Heat Action Finishes"
-msgstr "Finiture ad azione termica"
+msgstr "K.O. con Azioni Heat"
 
 msgctxt "31385"
 msgid "Number of Street Fights"
-msgstr "Numero di combattimenti di strada"
+msgstr "Combattimenti di strada"
 
 msgctxt "31409"
 msgid "Completion Rate"
@@ -2204,7 +2204,7 @@ msgstr "Tasso di completamento"
 
 msgctxt "31425"
 msgid "Play Time"
-msgstr "Tempo di esecuzione"
+msgstr "Tempo di gioco"
 
 msgctxt "31435"
 msgid "Haruka's Mood"
