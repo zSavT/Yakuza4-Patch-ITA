@@ -9369,7 +9369,7 @@ msgstr "Passo rapido"
 
 msgctxt "177\t497495\t9\tCHK"
 msgid "Furore Gauge"
-msgstr "Indicatore Heat"
+msgstr "indicatore Furore"
 
 msgctxt "177\t497506\t10\tCHK"
 msgid "Furore Actions"
@@ -9453,7 +9453,7 @@ msgid ""
 "Attack to increase the <Color:109,193,240,255>Heat Gauge<Color:Default> at "
 "top left of screen"
 msgstr ""
-"Attacca per aumentare l'<Color:109,193,240,255>Indicatore Heat<Color:Default> in "
+"Attacca per aumentare l'<Color:109,193,240,255>indicatore Furore<Color:Default> in "
 "alto a sinistra dello schermo"
 
 msgctxt "177\t498567\t24\tCHK"

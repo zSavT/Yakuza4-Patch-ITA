@@ -4731,35 +4731,35 @@ msgstr "Denaro (1.000 yen)"
 
 msgctxt "82304\tEXPLANATION"
 msgid "Restores health and charges Heat slightly."
-msgstr "Ripristina un po' di salute e aumenta leggermente la Heat."
+msgstr "Ripristina un po' di salute e aumenta leggermente il Furore."
 
 msgctxt "82347\tEXPLANATION"
 msgid "Restores health and charges Heat significantly."
-msgstr "Ripristina buona parte della salute e carica molto la Heat."
+msgstr "Ripristina buona parte della salute e carica molto il Furore."
 
 msgctxt "82395\tEXPLANATION"
 msgid "Restores health and charges Heat dramatically. "
-msgstr "Ripristina gran parte della salute e aumenta notevolmente la Heat."
+msgstr "Ripristina gran parte della salute e aumenta notevolmente il Furore."
 
 msgctxt "82443\tEXPLANATION"
 msgid "Restores health and charges Heat completely. "
-msgstr "Ripristina completamente la salute e riempie del tutto la Heat."
+msgstr "Ripristina completamente la salute e riempie del tutto il Furore."
 
 msgctxt "82489\tEXPLANATION"
 msgid "Charges up your Heat a little."
-msgstr "Aumenta leggermente la Heat."
+msgstr "Aumenta leggermente il Furore."
 
 msgctxt "82520\tEXPLANATION"
 msgid "Moderately charges up Heat."
-msgstr "Aumenta moderatamente la Heat."
+msgstr "Aumenta moderatamente il Furore."
 
 msgctxt "82548\tEXPLANATION"
 msgid "Charges up your Heat dramatically."
-msgstr "Aumenta notevolmente la Heat."
+msgstr "Aumenta notevolmente il Furore."
 
 msgctxt "82583\tEXPLANATION"
 msgid "Charges up your Heat to its maximum level."
-msgstr "Ricarica completamente la Heat."
+msgstr "Ricarica completamente il Furore."
 
 msgctxt "82626\tEXPLANATION"
 msgid "Useful when you need a little health boost."
@@ -7511,7 +7511,7 @@ msgstr "Bastoni Kali supremi dall'aura misteriosa. Non si consumano se usati in 
 
 msgctxt "126545\tEXPLANATION"
 msgid "Mysterious sticks used in the popular anime \"Cutie Girl.\" Heat increases at a faster rate."
-msgstr "Misteriosi bastoni usati nel popolare anime “Cutie Girl”. La Heat aumenta più rapidamente."
+msgstr "Misteriosi bastoni usati nel popolare anime “Cutie Girl”. il Furore aumenta più rapidamente."
 
 msgctxt "126636\tEXPLANATION"
 msgid "The power of Venus transforms you into a warrior of love! Increases enthusiasm a hundredfold!"
@@ -7955,7 +7955,7 @@ msgstr "Questa giacca influisce sulla durabilità delle armi. Indossa tutte e tr
 
 msgctxt "130387\tEXPLANATION"
 msgid "Wear all three Rage items to become incredibly powerful in Heat Mode."
-msgstr "Indossa tutti e tre gli oggetti Rabbia per diventare incredibilmente potente in Modalità Heat."
+msgstr "Indossa tutti e tre gli oggetti Rabbia per diventare incredibilmente potente in Modalità Furore."
 
 msgctxt "130457\tEXPLANATION"
 msgid "Equip all three Sacred Tree items to gain protection from bullets."
@@ -8007,7 +8007,7 @@ msgstr "Ottieni la forza dell'eroe delle leggende con questi guanti. I nemici fa
 
 msgctxt "131198\tEXPLANATION"
 msgid "These gloves literally suck the energy out of an enemy and add it to your own Heat."
-msgstr "Questi guanti succhiano letteralmente l'energia al nemico e la aggiungono alla tua Heat."
+msgstr "Questi guanti succhiano letteralmente l'energia al nemico e la aggiungono alil tuo Furore."
 
 msgctxt "131282\tEXPLANATION"
 msgid "These arm guards protect against bladed weapons and add power to thrown weapons."
@@ -8039,11 +8039,11 @@ msgstr "Pare che questo amuleto possa fermare gli attacchi nemici."
 
 msgctxt "131727\tEXPLANATION"
 msgid "Equipping this card will make your Heat increase at a faster rate when you're in a jam."
-msgstr "Equipaggiare questa carta farà aumentare la tua Heat più velocemente quando sei nei guai."
+msgstr "Equipaggiare questa carta farà aumentare il tuo Furore più velocemente quando sei nei guai."
 
 msgctxt "131815\tEXPLANATION"
 msgid "Wear all three Rage items to become incredibly powerful in Heat Mode."
-msgstr "Indossa tutti e tre gli oggetti Rabbia per diventare incredibilmente potente in Modalità Heat."
+msgstr "Indossa tutti e tre gli oggetti Rabbia per diventare incredibilmente potente in Modalità Furore."
 
 msgctxt "131885\tEXPLANATION"
 msgid "Wear this talisman and the power of the God of War will surge through your veins."
@@ -8051,7 +8051,7 @@ msgstr "Indossa questo talismano e il potere del Dio della Guerra scorrerà nell
 
 msgctxt "131967\tEXPLANATION"
 msgid "This amulet will let you use Heat Actions without draining the Heat Gauge."
-msgstr "Questo amuleto ti permette di usare le Azioni Furore senza consumare la barra Heat."
+msgstr "Questo amuleto ti permette di usare le Azioni Furore senza consumare la barra Furore."
 
 msgctxt "132042\tEXPLANATION"
 msgid "A gift from Haruka. Something tells me that equipping it will make me stronger."
@@ -8059,7 +8059,7 @@ msgstr "Un regalo di Haruka. Qualcosa mi dice che equipaggiarlo mi renderà più
 
 msgctxt "132122\tEXPLANATION"
 msgid "This towel brings down Heat and calms the soul."
-msgstr "Questo asciugamano abbassa la Heat e calma l'anima."
+msgstr "Questo asciugamano abbassa il Furore e calma l'anima."
 
 msgctxt "132170\tEXPLANATION"
 msgid "The awful smell of this thing should keep enemies away. Never take it to a club!"
@@ -8095,7 +8095,7 @@ msgstr "Questo anello insolito rende i tuoi attacchi più forti man mano che la 
 
 msgctxt "132774\tEXPLANATION"
 msgid "Wear all three Rage items to become incredibly powerful in Heat Mode."
-msgstr "Indossa tutti e tre gli oggetti Rabbia per diventare incredibilmente potente in Modalità Heat."
+msgstr "Indossa tutti e tre gli oggetti Rabbia per diventare incredibilmente potente in Modalità Furore."
 
 msgctxt "132844\tEXPLANATION"
 msgid "Some say this belt offers divine protection."

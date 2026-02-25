@@ -2192,7 +2192,7 @@ msgstr "Distanza percorsa"
 
 msgctxt "31364"
 msgid "Heat Action Finishes"
-msgstr "K.O. con Azioni Heat"
+msgstr "K.O. con Azioni Furore"
 
 msgctxt "31385"
 msgid "Number of Street Fights"
@@ -11512,11 +11512,11 @@ msgstr "Costo Orb Anima"
 
 msgctxt "75556"
 msgid "In <Color:109,193,240,255>Heat Mode<Color:Default>"
-msgstr "In<Color:109,193,240,255> Modalità Heat<Color:Default>"
+msgstr "In<Color:109,193,240,255> Modalità Furore<Color:Default>"
 
 msgctxt "75607"
 msgid "In <Color:255,100,100,255>Red Heat Mode<Color:Default>"
-msgstr "In<Color:255,100,100,255> Modalità Heat rossa<Color:Default>"
+msgstr "In<Color:255,100,100,255> Modalità Furore rossa<Color:Default>"
 
 msgctxt "75662"
 msgid "Category"
@@ -11536,7 +11536,7 @@ msgid ""
 "<Color:255,100,100,255>red letters<Color:Default> indicate that the ability can only be activated when the Heat Gauge is in the red."
 msgstr ""
 "Le abilità possono essere acquisite.<Color:109,193,240,255> Lettere blu<Color:Default> indicano che l'abilità è un'Azione Furore, "
-"mentre<Color:255,100,100,255> lettere rosse<Color:Default> indica che l'abilità può essere attivata solo quando l'indicatore heat è rosso."
+"mentre<Color:255,100,100,255> lettere rosse<Color:Default> indica che l'abilità può essere attivata solo quando l'indicatore Furore è rosso."
 
 msgctxt "75956"
 msgid "Move the cursor up and down to select an ability, then press <Action:Button_Cross@UI> to acquire it."
