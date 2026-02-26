@@ -151,7 +151,7 @@ msgstr "Salva"
 
 msgctxt "20677"
 msgid "Item Box"
-msgstr "Scatola degli oggetti"
+msgstr "Cassa Oggetti"
 
 msgctxt "20686"
 msgid "Memories"
@@ -437,7 +437,7 @@ msgid ""
 "Item Box is full.\n"
 "Returning item to locker."
 msgstr ""
-"La scatola degli oggetti è piena.\n"
+"La Cassa Oggetti è piena.\n"
 "Restituisco l'oggetto all'armadietto."
 
 msgctxt "22464"
@@ -13236,7 +13236,7 @@ msgstr "Elimina"
 
 msgctxt "84693"
 msgid "Press key to rebind"
-msgstr "Premere il tasto per riassociare"
+msgstr "Premi un tasto per riassegnare"
 
 msgctxt "84713"
 msgid "Total"
@@ -13268,11 +13268,11 @@ msgstr "(Ne ho già uno...)"
 
 msgctxt "84859"
 msgid "%s discarded."
-msgstr "%s scartato."
+msgstr "Hai scartato %s."
 
 msgctxt "84873"
 msgid "Sent %s to the Item Box."
-msgstr "Inviato %s alla casella degli oggetti."
+msgstr "Inviato %s alla Cassa oggetti."
 
 msgctxt "84898"
 msgid "Power"
@@ -13280,7 +13280,7 @@ msgstr "Potenza"
 
 msgctxt "84904"
 msgid "Durability"
-msgstr "Durevolezza"
+msgstr "Durata"
 
 msgctxt "84915"
 msgid "Defense"
@@ -13292,7 +13292,7 @@ msgstr "Lama"
 
 msgctxt "84929"
 msgid "Bullet"
-msgstr "Bullet"
+msgstr "Proiettile"
 
 msgctxt "84936"
 msgid "Nothing can be made."
