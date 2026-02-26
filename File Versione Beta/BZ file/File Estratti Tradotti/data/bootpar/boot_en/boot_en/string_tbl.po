@@ -1363,7 +1363,7 @@ msgstr "Reset modalità di gioco corrente"
 
 msgctxt "26554"
 msgid "Reset All Game Modes"
-msgstr "Reset tutte le modalità di gioco"
+msgstr "Azzera tutte le modalità di gioco"
 
 msgctxt "26575"
 msgid "Apply"
@@ -1379,7 +1379,7 @@ msgstr "Elimina"
 
 msgctxt "26604"
 msgid "Training Menu"
-msgstr "Menu di formazione"
+msgstr "Menu di allenamento"
 
 msgctxt "26618"
 msgid "Sodachi's Comments"
@@ -1387,7 +1387,7 @@ msgstr "Commenti di Sodachi"
 
 msgctxt "26637"
 msgid "Student's Comments"
-msgstr "Commenti degli studenti"
+msgstr "Commenti dell'allievo"
 
 msgctxt "26656"
 msgid "Skills & Finishing Moves"
@@ -1399,7 +1399,7 @@ msgstr "Stato del Dojo"
 
 msgctxt "26693"
 msgid "Enhance Facilities"
-msgstr "Migliorare le strutture"
+msgstr "Migliora le strutture"
 
 msgctxt "26712"
 msgid "Cancel"
@@ -1435,35 +1435,35 @@ msgstr "5° Allievo"
 
 msgctxt "26790"
 msgid "Training Duration"
-msgstr "Durata della formazione"
+msgstr "Durata dell'allenamento"
 
 msgctxt "26808"
 msgid "Turn %d"
-msgstr "Girare %d"
+msgstr "Turno %d"
 
 msgctxt "26816"
 msgid "Punch Training"
-msgstr "Allenamento con i pugni"
+msgstr "Allenamento pugni"
 
 msgctxt "26831"
 msgid "Kick Training  "
-msgstr "Allenamento di calcio"
+msgstr "Allenamento calci  "
 
 msgctxt "26847"
 msgid "Ground Training"
-msgstr "Addestramento a terra"
+msgstr "Allenamento a terra"
 
 msgctxt "26863"
 msgid "Strength Training"
-msgstr "Allenamento della forza"
+msgstr "Allenamento forza"
 
 msgctxt "26881"
 msgid "Road Work"
-msgstr "Lavori stradali"
+msgstr "Corsa"
 
 msgctxt "26891"
 msgid "Dash"
-msgstr "Trattino"
+msgstr "Scatto"
 
 msgctxt "26896"
 msgid "Lecture"
@@ -1471,27 +1471,27 @@ msgstr "Lezione"
 
 msgctxt "26904"
 msgid "Stretches"
-msgstr "Allungamenti"
+msgstr "Stretching"
 
 msgctxt "26914"
 msgid "Rest"
-msgstr "Resto"
+msgstr "Riposo"
 
 msgctxt "26919"
 msgid "Sparring"
-msgstr "Combattimento"
+msgstr "Sparring"
 
 msgctxt "26928"
 msgid "Solo Training"
-msgstr "Allenamento in solitaria"
+msgstr "Allenamento individuale"
 
 msgctxt "26942"
 msgid "Master Finishing Moves"
-msgstr "Padroneggiare le mosse finali"
+msgstr "Padroneggia mosse finali"
 
 msgctxt "26965"
 msgid "Meeting"
-msgstr "Riunioni"
+msgstr "Colloquio"
 
 msgctxt "26973"
 msgid "Rest"
@@ -1615,7 +1615,7 @@ msgstr "Livello di formazione"
 
 msgctxt "27451"
 msgid "Total Earnings"
-msgstr "Totale Guadagni"
+msgstr "Guadagni totali"
 
 msgctxt "27466"
 msgid "Career Stats"
@@ -1623,15 +1623,15 @@ msgstr "Statistiche di carriera"
 
 msgctxt "27479"
 msgid "Turns Passed"
-msgstr "Turni superati"
+msgstr "Turni trascorsi"
 
 msgctxt "27492"
 msgid "Match Types Won"
-msgstr "Tipi di partite vinte"
+msgstr "Tipi di incontro vinti"
 
 msgctxt "27508"
 msgid "Pupils Trained"
-msgstr "Alunni formati"
+msgstr "Allievi formati"
 
 msgctxt "27523"
 msgid "Victory"
