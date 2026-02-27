@@ -35,7 +35,7 @@ msgstr "Cosa usare?"
 
 msgctxt "20259"
 msgid "Use this item?"
-msgstr "Utilizzi questo articolo?"
+msgstr "Vuoi usare questo oggetto?"
 
 msgctxt "20274"
 msgid "Don't have anything I can put down here."
@@ -75,7 +75,7 @@ msgstr "panetti"
 
 msgctxt "20402"
 msgid "chips"
-msgstr "Totale fiches in Una Sessione"
+msgstr "fiches"
 
 msgctxt "20408"
 msgid "balls"
@@ -99,7 +99,7 @@ msgstr "I tuoi punti"
 
 msgctxt "20443"
 msgid "Your Tags"
-msgstr "I tuoi tag"
+msgstr "Le tue piastrine"
 
 msgctxt "20453"
 msgid "Your Sticks"
@@ -163,7 +163,7 @@ msgstr "Statistiche"
 
 msgctxt "20701"
 msgid "Change Clothes"
-msgstr "Cambiare i vestiti"
+msgstr "Cambia abiti"
 
 msgctxt "20716"
 msgid "Normal"
@@ -858,7 +858,7 @@ msgstr "Justin Woods"
 
 msgctxt "24400"
 msgid "Kamurocho"
-msgstr "Hai sconfitto il capo dei Kamurocho Aqua Devils."
+msgstr "Kamurocho"
 
 msgctxt "24410"
 msgid "Downtown Ryukyu"
@@ -10772,7 +10772,7 @@ msgstr "Yusaku"
 
 msgctxt "73182"
 msgid "Rich-looking Man"
-msgstr "Rich-looking Man"
+msgstr "Uomo facoltoso"
 
 msgctxt "73199"
 msgid "Haruka Sawamura"

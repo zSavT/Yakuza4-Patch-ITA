@@ -7077,7 +7077,7 @@ msgstr "<Action:Battle_Extreme_Heat@Combat> di fronte a un nemico vicino"
 
 msgctxt "75929\tCONTROL_EXPLANATION"
 msgid "<Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure><Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>"
-msgstr ""
+msgstr "<Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure><Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>"
 
 msgctxt "76069\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Center_Camera@Combat>"
