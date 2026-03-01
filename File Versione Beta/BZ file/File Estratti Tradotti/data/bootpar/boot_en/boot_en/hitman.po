@@ -295,8 +295,8 @@ msgstr "Kamurocho"
 
 #, fuzzy
 msgctxt "1763\tPLACE_INFO"
-msgid "Sighted at east end of Taihei Boulevard, Kamurocho"
-msgstr "Avvistato all'estremità est del Taihei Boulevard, Kamurocho"
+msgid "Sighted at east end of Viale Taihei, Kamurocho"
+msgstr "Avvistato all'estremità est del Viale Taihei, Kamurocho"
 
 #, fuzzy
 msgctxt "1814\tPLACE_INFO"
@@ -328,8 +328,8 @@ msgstr "Avvistato in Theatre Square, Kamurocho"
 
 #, fuzzy
 msgctxt "2043\tPLACE_INFO"
-msgid "Hiding in a building on Park Boulevard, Kamurocho"
-msgstr "Nascosto in un edificio sul Park Boulevard, Kamurocho"
+msgid "Hiding in a building on Viale del Parco, Kamurocho"
+msgstr "Nascosto in un edificio sul Viale del Parco, Kamurocho"
 
 msgctxt "2093\tPLACE_INFO"
 msgid "Hiding in deserted places around Kamurocho"
@@ -337,8 +337,8 @@ msgstr "Nascosto nei luoghi deserti attorno Kamurocho."
 
 #, fuzzy
 msgctxt "2136\tPLACE_INFO"
-msgid "Has office at north end of Senryo Avenue, Kamurocho"
-msgstr "Ha un ufficio all'estremità nord di Senryo Avenue, Kamurocho"
+msgid "Has office at north end of Viale Senryo, Kamurocho"
+msgstr "Ha un ufficio all'estremità nord di Viale Senryo, Kamurocho"
 
 #, fuzzy
 msgctxt "2188\tPLACE_INFO"
@@ -372,8 +372,8 @@ msgstr "Avvistato al Children's Park, Kamurocho"
 
 #, fuzzy
 msgctxt "2435\tPLACE_INFO"
-msgid "Set up base on Senryo Avenue, Kamurocho"
-msgstr "Stabilimento della base su Senryo Avenue, Kamurocho"
+msgid "Set up base on Viale Senryo, Kamurocho"
+msgstr "Stabilimento della base su Viale Senryo, Kamurocho"
 
 #, fuzzy
 msgctxt "2475\tPLACE_INFO"
@@ -722,7 +722,7 @@ msgid ""
 "Black Hyena.\n"
 "\n"
 "Zen is currently holding members of the HLA\n"
-"hostage in a building on Park Boulevard. His\n"
+"hostage in a building on Viale del Parco. His\n"
 "demands are for the HLA to disband and release\n"
 "the Avengers in its custody.\n"
 "\n"
@@ -735,7 +735,7 @@ msgstr ""
 "Iena Nera.\n"
 "\n"
 "Zen sta attualmente tenendo in ostaggio alcuni membri dell'HLA\n"
-"in un edificio su Park Boulevard. Le sue\n"
+"in un edificio su Viale del Parco. Le sue\n"
 "richieste sono che l'HLA si sciolga e rilasci\n"
 "gli Avengers sotto la sua custodia.\n"
 "\n"

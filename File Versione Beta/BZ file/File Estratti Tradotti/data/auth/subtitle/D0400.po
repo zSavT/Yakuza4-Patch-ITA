@@ -19,7 +19,7 @@ msgstr ""
 
 msgctxt "495\t655"
 msgid "Hm? Ah, my bad, ma'am!\\nCome in, come in."
-msgstr "Mh? Ah, mi scusi, signora!\\nEntri pure."
+msgstr "Mh? Ah, chiedo scusa, signora!\\nEntri, entri."
 
 msgctxt "669\t727"
 msgid "Please, take a seat."
@@ -27,19 +27,19 @@ msgstr "La prego, si sieda."
 
 msgctxt "741\t800"
 msgid "Sorry it's not the cleanest."
-msgstr "Mi spiace che non sia molto pulito."
+msgstr "Scusi il disordine."
 
 msgctxt "811\t888"
 msgid "My secretary left a while back, so..."
-msgstr "La mia segretaria se ne è andata, quindi..."
+msgstr "La mia segretaria se n'è andata un po' di tempo fa, quindi..."
 
 msgctxt "898\t1032"
 msgid "Sad, isn't it? I'm practically\\nuseless on my own."
-msgstr "Triste, non è vero? Da\\nsolo faccio pena..."
+msgstr "Triste, non è vero? Sono praticamente\\ninutile da solo."
 
 msgctxt "1048\t1214"
 msgid "I'm surprised you've even remembered\\nto breathe while I'm gone, Chief."
-msgstr "Sono sorpesa tu ti sia ricordato anche solo di\\nrespirare mentre ero via, capo."
+msgstr "Sono sorpresa che ti sia persino ricordato\\ndi respirare mentre ero via, capo."
 
 msgctxt "1219\t1419"
 msgid "You're..."
@@ -55,19 +55,19 @@ msgstr "Hana-chan?"
 
 msgctxt "1719\t1853"
 msgid "What the heck happened to you?\\nYou're skinny as a rail..."
-msgstr "Ma che diavolo ti è successo?\\nSei secca come un chiodo..."
+msgstr "Che diavolo ti è successo?\\nSei magra come un chiodo..."
 
 msgctxt "1898\t1994"
 msgid "I guess you're not the only one\\nwho's useless on their own."
-msgstr "Non sei l'unico che fa\\npena se è da solo..."
+msgstr "Immagino tu non sia l'unico\\na essere inutile da solo."
 
 msgctxt "2006\t2092"
 msgid "I've barely eaten a thing since I left."
-msgstr "Da quando sono andata via, ho a malapena mangiato."
+msgstr "Avrò mangiato a malapena da quando me ne sono andata."
 
 msgctxt "2211\t2407"
 msgid "So Chief... What would you say to\\ngiving me my old job back?"
-msgstr "Quindi capo... Che ne diresti\\ndi ridarmi il lavoro?"
+msgstr "Quindi, capo... Che ne diresti\\ndi ridarmi il mio vecchio lavoro?"
 
 msgctxt "2469\t2510"
 msgid "Hana-chan."
@@ -83,7 +83,7 @@ msgstr "Uh?"
 
 msgctxt "3144\t3226"
 msgid "I've got some spare yakiniku bentos\\nfrom over at Kanrai. You want one?"
-msgstr "Ho dei bento yakiniku da spartire\\na Kanrai. Ne vuoi uno?"
+msgstr "Ho dei bento di yakiniku del Kanrai\\nche mi avanzano. Ne vuoi uno?"
 
 msgctxt "3235\t3254"
 msgid "What!?"
@@ -91,29 +91,28 @@ msgstr "Cosa!?"
 
 msgctxt "3262\t3379"
 msgid "I thought you'd be back any time\\nso I kept stocking up on them."
-msgstr "Pensavo saresti tornata in ogni momento,\\nquindi ne ho fatto scorta."
+msgstr "Pensavo saresti tornata da un momento all'altro,\\nquindi ho continuato a farne scorta."
 
 msgctxt "3383\t3476"
 msgid "You're so skinny, you must be\\nhungry enough to eat a horse!"
-msgstr "Sei molto magra, devi essere così\\naffamata da mangiare un cavallo!"
+msgstr "Sei così secca, devi avere\\nuna fame da lupi!"
 
 msgctxt "3481\t3674"
 msgid "Chief! Would it kill you to stop for\\njust one second and tell me how pretty I am!?"
-msgstr "Capo! Ti spiacerebbe magari farmi qualche\\n complimento e dirmi quanto sono carina!?"
+msgstr "Capo! Ti costerebbe tanto fermarti anche solo per\\nun secondo e dirmi quanto sono bella!?"
 
 msgctxt "3675\t3719"
 msgid "Oh, yeah you look great."
-msgstr "Oh sì, sei molto bella."
+msgstr "Oh, sì, stai benissimo."
 
 msgctxt "3721\t3848"
 msgid "Ugh! Say it like you mean it!"
-msgstr "Ugh! Dillo come se lo pensassi, almeno!"
+msgstr "Ugh! Dillo con un po' di convinzione!"
 
 msgctxt "3857\t4001"
 msgid "What happened to my poor client registry!?\\nIt looks like a tornado struck down in here!"
-msgstr "Cos'è successo al mio registro clienti!?\\nSembra come se ci fosse stato un tornado!"
+msgstr "Cosa è successo al mio povero registro clienti!?\\nSembra che qui ci sia passato un tornado!"
 
 msgctxt "4004\t4060"
 msgid "Huh, maybe it did."
-msgstr "Eh, forse è capitato."
-
+msgstr "Eh, forse è così."

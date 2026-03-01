@@ -435,7 +435,7 @@ msgstr "0"
 #, fuzzy
 msgctxt "2476\tNAME_ENEMY"
 msgid "Shady Man"
-msgstr "Uomo Ombroso"
+msgstr "Tipo Losco"
 
 #, fuzzy
 msgctxt "2486\tNAME_ENEMY"
@@ -445,7 +445,7 @@ msgstr "Ladro di borse"
 #, fuzzy
 msgctxt "2499\tNAME_ENEMY"
 msgid "Shady Man"
-msgstr "Uomo Ombroso"
+msgstr "Tipo Losco"
 
 msgctxt "2509\tNAME_ENEMY"
 msgid "Officer"
@@ -585,7 +585,7 @@ msgstr "Ladro di borse"
 #, fuzzy
 msgctxt "2771\tNAME_ENEMY"
 msgid "Shady Man"
-msgstr "Uomo Ombroso"
+msgstr "Tipo Losco"
 
 #, fuzzy
 msgctxt "2781\tNAME_ENEMY"

@@ -1266,7 +1266,7 @@ msgstr "Mostra/Nascondi"
 
 msgctxt "0\t7376\t283\tCHK"
 msgid "Smash (Only in Furore Mode)"
-msgstr "Schianto (Solo in Modalità Heat)"
+msgstr "Schianto (Solo in Modalità Furore)"
 
 msgctxt "0\t7402\t284\tCHK"
 msgid "Sprint"
@@ -1362,11 +1362,11 @@ msgstr "Mostra 10 Fotogrammi"
 
 msgctxt "0\t7771\t307\tCHK"
 msgid "<Action:Button_R3,Darts> + <Action:Button_LS_Down,Darts>"
-msgstr "<Azione:Pulsante_R3,Darts> + <Azione:Pulsante_LS_Giù,Darts>"
+msgstr "<Action:Button_R3,Darts> + <Action:Button_LS_Down,Darts>"
 
 msgctxt "0\t7828\t308\tCHK"
 msgid "<Action:Button_RS_Down,Darts>"
-msgstr "<Azione:Pulsante_RS_Giù,Darts>"
+msgstr "<Action:Button_RS_Down,Darts>"
 
 msgctxt "0\t7858\t309\tCHK"
 msgid "Walk"

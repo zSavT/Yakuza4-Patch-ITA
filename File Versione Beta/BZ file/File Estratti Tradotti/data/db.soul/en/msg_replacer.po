@@ -1721,7 +1721,7 @@ msgstr "Nair"
 
 msgctxt "16\t32974\t79\tCHK"
 msgid "Nair (NPC)"
-msgstr "Nair (PNG)"
+msgstr "Nair (NPC)"
 
 msgctxt "16\t32985\t80\tCHK"
 msgid "Master"
@@ -1741,19 +1741,19 @@ msgstr "Hana-chan"
 
 msgctxt "16\t33011\t84\tCHK"
 msgid "Kiryu (NPC)"
-msgstr "Kiryu (PNG)"
+msgstr "Kiryu (NPC)"
 
 msgctxt "16\t33023\t85\tCHK"
 msgid "Akiyama (NPC)"
-msgstr "Akiyama (PNG)"
+msgstr "Akiyama (NPC)"
 
 msgctxt "16\t33037\t86\tCHK"
 msgid "Saejima (NPC)"
-msgstr "Saejima (PNG)"
+msgstr "Saejima (NPC)"
 
 msgctxt "16\t33051\t87\tCHK"
 msgid "Tanimura (NPC)"
-msgstr "Tanimura (PNG)"
+msgstr "Tanimura (NPC)"
 
 msgctxt "16\t33066\t88\tCHK"
 msgid "Akaishi"
@@ -1761,11 +1761,11 @@ msgstr "Akaishi"
 
 msgctxt "16\t33074\t89\tCHK"
 msgid "Hamazaki (NPC)"
-msgstr "Hamazaki (PNG)"
+msgstr "Hamazaki (NPC)"
 
 msgctxt "16\t33089\t90\tCHK"
 msgid "Sukegawa (NPC)"
-msgstr "Sukegawa (PNG)"
+msgstr "Sukegawa (NPC)"
 
 msgctxt "16\t33104\t91\tCHK"
 msgid "Valery Garrett"
@@ -2089,15 +2089,15 @@ msgstr "Allenamento: MMA da striker"
 
 msgctxt "16\t34236\t171\tCHK"
 msgid "Bodyguard (NPC)"
-msgstr "Guardia del corpo (PNG)"
+msgstr "Guardia del corpo (NPC)"
 
 msgctxt "16\t34252\t172\tCHK"
 msgid "Kotaro (NPC)"
-msgstr "Kotaro (PNG)"
+msgstr "Kotaro (NPC)"
 
 msgctxt "16\t34265\t173\tCHK"
 msgid "Man on the Run (NPC)"
-msgstr "Uomo in fuga (PNG)"
+msgstr "Uomo in fuga (NPC)"
 
 msgctxt "16\t34286\t174\tCHK"
 msgid "Makoto Tokita"
@@ -2397,7 +2397,7 @@ msgstr "Toru"
 
 msgctxt "17\t51269\t73\tCHK"
 msgid "Mr. Try and Hit Me"
-msgstr "Mister Provaci a Colpirmi"
+msgstr "Mister Prova a Colpirmi"
 
 msgctxt "17\t51288\t74\tCHK"
 msgid "Street Vendor-Like Man"
@@ -6540,27 +6540,27 @@ msgid ""
 msgstr ""
 
 msgctxt "21\t117625\t1\tCHK"
-msgid "Suppon Street"
-msgstr "Suppon Street"
+msgid "Via Suppon"
+msgstr "Via Suppon"
 
 msgctxt "21\t117639\t2\tCHK"
 msgid "Champion District"
 msgstr "Champion District"
 
 msgctxt "21\t117657\t3\tCHK"
-msgid "Pink Street"
-msgstr "Pink Street"
+msgid "Via Pink"
+msgstr "Via Pink"
 
 msgctxt "21\t117669\t4\tCHK"
-msgid "Pink Street Entrance"
-msgstr "Ingresso di Pink Street"
+msgid "Via Pink Entrance"
+msgstr "Ingresso di Via Pink"
 
 msgctxt "21\t117690\t5\tCHK"
-msgid "North Pink Street"
-msgstr "Pink Street nord"
+msgid "North Via Pink"
+msgstr "Via Pink nord"
 
 msgctxt "21\t117708\t6\tCHK"
-msgid "Pink Alley"
+msgid "Vicolo Pink"
 msgstr "Vicolo Pink"
 
 msgctxt "21\t117719\t7\tCHK"
@@ -6568,28 +6568,28 @@ msgid "Yoshida Batting Center"
 msgstr "Yoshida Batting Center"
 
 msgctxt "21\t117742\t8\tCHK"
-msgid "Theater Alley"
+msgid "Vicolo del Teatro"
 msgstr "Vicolo del Teatro"
 
 msgctxt "21\t117756\t9\tCHK"
 msgid "Theater Square"
-msgstr "Piazza del Teatro"
+msgstr "Theater Square"
 
 msgctxt "21\t117771\t10\tCHK"
-msgid "Theater Avenue"
+msgid "Viale del Teatro"
 msgstr "Viale del Teatro"
 
 msgctxt "21\t117786\t11\tCHK"
 msgid "North Theater Square"
-msgstr "Piazza del Teatro nord"
+msgstr "Theater Square nord"
 
 msgctxt "21\t117807\t12\tCHK"
 msgid "Northwest Theater Square"
-msgstr "Piazza del Teatro nord-ovest"
+msgstr "Theater Square nord-ovest"
 
 msgctxt "21\t117832\t13\tCHK"
-msgid "Park Boulevard"
-msgstr "Park Boulevard"
+msgid "Viale del Parco"
+msgstr "Viale del Parco"
 
 msgctxt "21\t117847\t14\tCHK"
 msgid "Park Alley"
@@ -6608,31 +6608,31 @@ msgid "East Shichifuku Street"
 msgstr "Via Shichifuku est"
 
 msgctxt "21\t117927\t18\tCHK"
-msgid "Showa Street"
-msgstr "Showa Street"
+msgid "Via Showa "
+msgstr "Via Showa "
 
 msgctxt "21\t117940\t19\tCHK"
-msgid "West Showa Street"
+msgid "West Via Showa "
 msgstr "Via Showa ovest"
 
 msgctxt "21\t117958\t20\tCHK"
-msgid "East Showa Street"
+msgid "East Via Showa "
 msgstr "Via Showa est"
 
 msgctxt "21\t117976\t21\tCHK"
-msgid "Senryo Avenue"
+msgid "Viale Senryo"
 msgstr "Viale Senryo"
 
 msgctxt "21\t117990\t22\tCHK"
-msgid "North Senryo Avenue"
+msgid "North Viale Senryo"
 msgstr "Viale Senryo nord"
 
 msgctxt "21\t118010\t23\tCHK"
-msgid "West Taihei Boulevard"
+msgid "Viale Taihei Ovest"
 msgstr "Viale Taihei ovest"
 
 msgctxt "21\t118032\t24\tCHK"
-msgid "East Taihei Boulevard"
+msgid "Viale Taihei Est"
 msgstr "Viale Taihei est"
 
 msgctxt "21\t118054\t25\tCHK"
@@ -6640,31 +6640,31 @@ msgid "Public Park 3"
 msgstr "Parco pubblico 3"
 
 msgctxt "21\t118068\t26\tCHK"
-msgid "Nakamichi Street"
-msgstr "Nakamichi Street"
+msgid "Via Nakamichi"
+msgstr "Via Nakamichi"
 
 msgctxt "21\t118085\t27\tCHK"
-msgid "Nakamichi Street Entrance"
-msgstr "Ingresso di Nakamichi Street"
+msgid "Via Nakamichi Entrance"
+msgstr "Ingresso di Via Nakamichi"
 
 msgctxt "21\t118111\t28\tCHK"
-msgid "Nakamichi Alley"
+msgid "Vicolo Nakamichi"
 msgstr "Vicolo Nakamichi"
 
 msgctxt "21\t118127\t29\tCHK"
-msgid "Tenkaichi Street"
-msgstr "Tenkaichi Street"
+msgid "Via Tenkaichi"
+msgstr "Via Tenkaichi"
 
 msgctxt "21\t118144\t30\tCHK"
-msgid "Tenkaichi Street Entrance"
-msgstr "Ingresso di Tenkaichi Street"
+msgid "Via Tenkaichi Entrance"
+msgstr "Ingresso di Via Tenkaichi"
 
 msgctxt "21\t118170\t31\tCHK"
-msgid "Tenkaichi Alley"
+msgid "Vicolo Tenkaichi "
 msgstr "Vicolo Tenkaichi"
 
 msgctxt "21\t118186\t32\tCHK"
-msgid "Matsuya Taihei Boulevard"
+msgid "Matsuya Viale Taihei"
 msgstr "Matsuya di Viale Taihei"
 
 msgctxt "21\t118211\t33\tCHK"
@@ -6692,8 +6692,8 @@ msgid "Kotobuki Drugs"
 msgstr "Farmacia Kotobuki"
 
 msgctxt "21\t118292\t39\tCHK"
-msgid "Poppo Showa Street"
-msgstr "Poppo di Showa Street"
+msgid "Poppo Via Showa "
+msgstr "Poppo di Via Showa "
 
 msgctxt "21\t118311\t40\tCHK"
 msgid "Hideout"
@@ -6709,14 +6709,14 @@ msgstr "Café Alps"
 
 msgctxt "21\t118338\t43\tCHK"
 msgid "Club SEGA Theater Square"
-msgstr "Club SEGA di Piazza del Teatro"
+msgstr "Club SEGA di Theater Square"
 
 msgctxt "21\t118363\t44\tCHK"
-msgid "Club SEGA Nakamichi Street"
-msgstr "Club SEGA di Nakamichi Street"
+msgid "Club SEGA Via Nakamichi"
+msgstr "Club SEGA di Via Nakamichi"
 
 msgctxt "21\t118390\t45\tCHK"
-msgid "Poppo Nakamichi Alley"
+msgid "Poppo Vicolo Nakamichi"
 msgstr "Poppo del Vicolo Nakamichi"
 
 msgctxt "21\t118412\t46\tCHK"
@@ -6804,12 +6804,12 @@ msgid "Volcanic Volcano"
 msgstr "Volcanic Volcano"
 
 msgctxt "21\t118725\t67\tCHK"
-msgid "Matsuya Tenkaichi Street"
-msgstr "Matsuya di Tenkaichi Street"
+msgid "Matsuya Via Tenkaichi"
+msgstr "Matsuya di Via Tenkaichi"
 
 msgctxt "21\t118750\t68\tCHK"
-msgid "Poppo Tenkaichi Street"
-msgstr "Poppo di Tenkaichi Street"
+msgid "Poppo Via Tenkaichi"
+msgstr "Poppo di Via Tenkaichi"
 
 msgctxt "21\t118773\t69\tCHK"
 msgid "North Millennium Tower"
@@ -6857,7 +6857,7 @@ msgstr "West Park"
 
 msgctxt "21\t118937\t80\tCHK"
 msgid "Dragon Palace"
-msgstr "Palazzo del Drago"
+msgstr "Dragon Palace"
 
 msgctxt "21\t118951\t81\tCHK"
 msgid "Red Brick Hotel"
@@ -6872,7 +6872,7 @@ msgid "Shichifuku Street"
 msgstr "Shichifuku Street"
 
 msgctxt "21\t118995\t84\tCHK"
-msgid "Taihei Boulevard"
+msgid "Viale Taihei"
 msgstr "Viale Taihei"
 
 msgctxt "21\t119012\t85\tCHK"
@@ -6976,8 +6976,8 @@ msgid "Subway Service Road"
 msgstr "Strada di servizio della metropolitana"
 
 msgctxt "21\t119411\t110\tCHK"
-msgid "Kamurocho Underground Mall"
-msgstr "Centro commerciale sotterraneo di Kamurocho"
+msgid "Sotterranei di Kamurocho Mall"
+msgstr "Centro commerciale sot.neo di Kamurocho"
 
 msgctxt "21\t119438\t111\tCHK"
 msgid "Theater Underground South Entrance"
@@ -7284,7 +7284,7 @@ msgid "To Ebisu Pawn"
 msgstr "Verso il Banco dei pegni Ebisu"
 
 msgctxt "21\t120919\t187\tCHK"
-msgid "To Pink Alley"
+msgid "To Vicolo Pink"
 msgstr "Verso il Vicolo Pink"
 
 msgctxt "21\t120933\t188\tCHK"
@@ -7292,7 +7292,7 @@ msgid "To Kyushu No. 1 Star"
 msgstr "Verso il Kyushu No. 1 Star"
 
 msgctxt "21\t120954\t189\tCHK"
-msgid "To Nakamichi Alley"
+msgid "To Vicolo Nakamichi"
 msgstr "Verso il Vicolo Nakamichi"
 
 msgctxt "21\t120973\t190\tCHK"
@@ -7956,8 +7956,8 @@ msgid "Docks"
 msgstr "Moli"
 
 msgctxt "26\t139819\t3\tCHK"
-msgid "Pink Street Entrance"
-msgstr "Ingresso di Pink Street"
+msgid "Via Pink Entrance"
+msgstr "Ingresso di Via Pink"
 
 msgctxt "26\t139840\t4\tCHK"
 msgid "North Hotel District"
@@ -7968,31 +7968,31 @@ msgid "Kamurocho Central Parking Lot"
 msgstr "Parcheggio centrale di Kamurocho"
 
 msgctxt "26\t139891\t6\tCHK"
-msgid "South Tenkaichi Street"
-msgstr "Tenkaichi Street sud"
+msgid "South Via Tenkaichi"
+msgstr "Via Tenkaichi sud"
 
 msgctxt "26\t139914\t7\tCHK"
-msgid "East Park Boulevard"
-msgstr "Park Boulevard est"
+msgid "East Viale del Parco"
+msgstr "Viale del Parco est"
 
 msgctxt "26\t139934\t8\tCHK"
-msgid "Suppon Street"
-msgstr "Suppon Street"
+msgid "Via Suppon"
+msgstr "Via Suppon"
 
 msgctxt "26\t139948\t9\tCHK"
 msgid "Champion District"
 msgstr "Champion District"
 
 msgctxt "26\t139966\t10\tCHK"
-msgid "Pink Street"
-msgstr "Pink Street"
+msgid "Via Pink"
+msgstr "Via Pink"
 
 msgctxt "26\t139978\t11\tCHK"
-msgid "North Pink Street"
-msgstr "Pink Street nord"
+msgid "North Via Pink"
+msgstr "Via Pink nord"
 
 msgctxt "26\t139996\t12\tCHK"
-msgid "Pink Alley"
+msgid "Vicolo Pink"
 msgstr "Vicolo Pink"
 
 msgctxt "26\t140007\t13\tCHK"
@@ -8009,23 +8009,23 @@ msgstr "Millennium Tower nord"
 
 msgctxt "26\t140069\t16\tCHK"
 msgid "Theater Square"
-msgstr "Piazza del Teatro"
+msgstr "Theater Square"
 
 msgctxt "26\t140084\t17\tCHK"
-msgid "Theater Alley"
+msgid "Vicolo del Teatro"
 msgstr "Vicolo del Teatro"
 
 msgctxt "26\t140098\t18\tCHK"
-msgid "Theater Avenue"
+msgid "Viale del Teatro"
 msgstr "Viale del Teatro"
 
 msgctxt "26\t140113\t19\tCHK"
 msgid "Northwest Theater Square"
-msgstr "Piazza del Teatro nord-ovest"
+msgstr "Theater Square nord-ovest"
 
 msgctxt "26\t140138\t20\tCHK"
-msgid "Park Boulevard"
-msgstr "Park Boulevard"
+msgid "Viale del Parco"
+msgstr "Viale del Parco"
 
 msgctxt "26\t140153\t21\tCHK"
 msgid "Park Alley"
@@ -8048,40 +8048,40 @@ msgid "East Shichifuku Street"
 msgstr "Via Shichifuku est"
 
 msgctxt "26\t140244\t26\tCHK"
-msgid "Showa Street"
-msgstr "Showa Street"
+msgid "Via Showa "
+msgstr "Via Showa "
 
 msgctxt "26\t140257\t27\tCHK"
-msgid "West Showa Street"
+msgid "West Via Showa "
 msgstr "Via Showa ovest"
 
 msgctxt "26\t140275\t28\tCHK"
-msgid "East Showa Street"
+msgid "East Via Showa "
 msgstr "Via Showa est"
 
 msgctxt "26\t140293\t29\tCHK"
-msgid "Senryo Avenue"
+msgid "Viale Senryo"
 msgstr "Viale Senryo"
 
 msgctxt "26\t140307\t30\tCHK"
-msgid "North Senryo Avenue"
+msgid "North Viale Senryo"
 msgstr "Viale Senryo nord"
 
 msgctxt "26\t140327\t31\tCHK"
-msgid "Taihei Boulevard"
+msgid "Viale Taihei"
 msgstr "Viale Taihei"
 
 msgctxt "26\t140344\t32\tCHK"
-msgid "East Taihei Boulevard"
+msgid "Viale Taihei Est"
 msgstr "Viale Taihei est"
 
 msgctxt "26\t140366\t33\tCHK"
-msgid "Nakamichi Street"
-msgstr "Nakamichi Street"
+msgid "Via Nakamichi"
+msgstr "Via Nakamichi"
 
 msgctxt "26\t140383\t34\tCHK"
-msgid "Nakamichi Street Entrance"
-msgstr "Ingresso di Nakamichi Street"
+msgid "Via Nakamichi Entrance"
+msgstr "Ingresso di Via Nakamichi"
 
 msgctxt "26\t140409\t35\tCHK"
 msgid "East Millennium Tower Street"
@@ -8092,11 +8092,11 @@ msgid "West Shichifuku Street"
 msgstr "Via Shichifuku ovest"
 
 msgctxt "26\t140461\t37\tCHK"
-msgid "West Taihei Boulevard"
+msgid "Viale Taihei Ovest"
 msgstr "Viale Taihei ovest"
 
 msgctxt "26\t140483\t38\tCHK"
-msgid "Tenkaichi Alley"
+msgid "Vicolo Tenkaichi "
 msgstr "Vicolo Tenkaichi"
 
 msgctxt "26\t140499\t39\tCHK"
@@ -8144,8 +8144,8 @@ msgid "Café Alps"
 msgstr "Café Alps"
 
 msgctxt "26\t140630\t50\tCHK"
-msgid "Matsuya Tenkaichi Street"
-msgstr "Matsuya di Tenkaichi Street"
+msgid "Matsuya Via Tenkaichi"
+msgstr "Matsuya di Via Tenkaichi"
 
 msgctxt "26\t140655\t51\tCHK"
 msgid "Watami"
@@ -8172,7 +8172,7 @@ msgid "Sushi Gin"
 msgstr "Sushi Gin"
 
 msgctxt "26\t140732\t57\tCHK"
-msgid "Matsuya Taihei Boulevard"
+msgid "Matsuya Viale Taihei"
 msgstr "Matsuya di Viale Taihei"
 
 msgctxt "26\t140757\t58\tCHK"
@@ -8184,19 +8184,19 @@ msgid "M Store"
 msgstr "M Store"
 
 msgctxt "26\t140772\t60\tCHK"
-msgid "Poppo Tenkaichi Street"
-msgstr "Poppo di Tenkaichi Street"
+msgid "Poppo Via Tenkaichi"
+msgstr "Poppo di Via Tenkaichi"
 
 msgctxt "26\t140795\t61\tCHK"
 msgid "Beam"
 msgstr "Beam"
 
 msgctxt "26\t140800\t62\tCHK"
-msgid "Poppo Showa Street"
-msgstr "Poppo di Showa Street"
+msgid "Poppo Via Showa "
+msgstr "Poppo di Via Showa "
 
 msgctxt "26\t140819\t63\tCHK"
-msgid "Poppo Nakamichi Alley"
+msgid "Poppo Vicolo Nakamichi"
 msgstr "Poppo del Vicolo Nakamichi"
 
 msgctxt "26\t140841\t64\tCHK"
@@ -8217,7 +8217,7 @@ msgstr "Farmacia Kotobuki"
 
 msgctxt "26\t140893\t68\tCHK"
 msgid "Dragon Palace"
-msgstr "Palazzo del Drago"
+msgstr "Dragon Palace"
 
 msgctxt "26\t140907\t69\tCHK"
 msgid "Volcanic Volcano"
@@ -8228,8 +8228,8 @@ msgid "Shoten Shogi"
 msgstr "Shoten Shogi"
 
 msgctxt "26\t140937\t71\tCHK"
-msgid "Club SEGA Nakamichi Street"
-msgstr "Club SEGA di Nakamichi Street"
+msgid "Club SEGA Via Nakamichi"
+msgstr "Club SEGA di Via Nakamichi"
 
 msgctxt "26\t140964\t72\tCHK"
 msgid "Orchid Palace Mahjong"
@@ -8241,7 +8241,7 @@ msgstr "Karaokekan"
 
 msgctxt "26\t140997\t74\tCHK"
 msgid "Club SEGA Theater Square"
-msgstr "Club SEGA di Piazza del Teatro"
+msgstr "Club SEGA di Theater Square"
 
 msgctxt "26\t141022\t75\tCHK"
 msgid "Yoshida Batting Center"
@@ -8300,20 +8300,20 @@ msgid "Men's Entertainment Box"
 msgstr "Men's Entertainment Box"
 
 msgctxt "26\t141247\t89\tCHK"
-msgid "Nakamichi Alley"
+msgid "Vicolo Nakamichi"
 msgstr "Vicolo Nakamichi"
 
 msgctxt "26\t141263\t90\tCHK"
-msgid "Tenkaichi Street"
-msgstr "Tenkaichi Street"
+msgid "Via Tenkaichi"
+msgstr "Via Tenkaichi"
 
 msgctxt "26\t141280\t91\tCHK"
 msgid "New Serena Alley"
 msgstr "Vicolo del New Serena"
 
 msgctxt "26\t141297\t92\tCHK"
-msgid "Tenkaichi Street Entrance"
-msgstr "Ingresso di Tenkaichi Street"
+msgid "Via Tenkaichi Entrance"
+msgstr "Ingresso di Via Tenkaichi"
 
 msgctxt "26\t141323\t93\tCHK"
 msgid "Cuez Bar"
@@ -9189,47 +9189,47 @@ msgstr ""
 
 msgctxt "176\t493561\t1\tCHK"
 msgid "Hm, counterattacking after someone breaks your guard?"
-msgstr "Mh, contrattaccare dopo che ti rompono la guardia?"
+msgstr "Mh, contrattaccare dopo che ti hanno rotto la guardia?"
 
 msgctxt "176\t493615\t2\tCHK"
 msgid "Cheating out in the open like that? He deserves what he got."
-msgstr "Barare così alla luce del sole? Si è meritato quello che ha avuto."
+msgstr "Barare così, alla luce del sole? Si è meritato quello che ha avuto."
 
 msgctxt "176\t493676\t3\tCHK"
 msgid "She used that narrow alleyway to her advantage."
-msgstr "Ha usato quel vicolo stretto a suo vantaggio."
+msgstr "Ha sfruttato quel vicolo stretto a suo vantaggio."
 
 msgctxt "176\t493724\t4\tCHK"
 msgid "Nobody likes a cheater."
-msgstr "I bari non piacciono a nessuno."
+msgstr "A nessuno piacciono i bari."
 
 msgctxt "176\t493748\t5\tCHK"
 msgid "Damn, she kicked clean through his guard."
-msgstr "Accidenti, ha sfondato la sua guardia con un calcio."
+msgstr "Accidenti, gli ha sfondato la guardia con un calcio netto."
 
 msgctxt "176\t493790\t6\tCHK"
 msgid "Is everyone 'round here some kinda kung fu master?"
-msgstr "Ma qui sono tutti maestri di kung fu?"
+msgstr "Ma qui sono tutti maestri di kung fu o cosa?"
 
 msgctxt "176\t493841\t7\tCHK"
 msgid "Those leaps and bounds were something else."
-msgstr "Quei salti erano pazzeschi."
+msgstr "Quei salti erano davvero pazzeschi."
 
 msgctxt "176\t493885\t8\tCHK"
 msgid "What's with the suspenders?"
-msgstr "Cosa c'entrano le bretelle?"
+msgstr "E quelle bretelle?"
 
 msgctxt "176\t493913\t9\tCHK"
 msgid "You know, that girl was actually kinda cute."
-msgstr "Sai, quella ragazza era anche carina."
+msgstr "Sai, quella ragazza non era affatto male."
 
 msgctxt "176\t493958\t10\tCHK"
 msgid "Fancy-lookin' ride. Wonder if it's alright."
-msgstr "Che macchina elegante. Chissà se sta bene."
+msgstr "Che bella macchina. Chissà se è rimasta intatta."
 
 msgctxt "176\t494002\t11\tCHK"
 msgid "Guy slammed straight into the wall."
-msgstr "Il tizio si è schiantato dritto contro il muro."
+msgstr "Quel tizio si è schiantato dritto contro il muro."
 
 msgctxt "176\t494038\t12\tCHK"
 msgid "This hitman tryin' to off himself first?"
@@ -9237,7 +9237,7 @@ msgstr "Questo sicario sta cercando di farsi fuori da solo?"
 
 msgctxt "176\t494079\t13\tCHK"
 msgid "Kidnappings sure are scary."
-msgstr "I rapimenti fanno davvero paura."
+msgstr "I rapimenti mettono i brividi."
 
 msgctxt "176\t494107\t14\tCHK"
 msgid "I wonder what color they were..."
@@ -9245,15 +9245,15 @@ msgstr "Chissà di che colore erano..."
 
 msgctxt "176\t494140\t15\tCHK"
 msgid "Right in the jewels. That's gotta hurt."
-msgstr "Proprio nei gioielli. Deve fare male."
+msgstr "Dritto nei gioielli di famiglia. Deve fare un male cane."
 
 msgctxt "176\t494180\t16\tCHK"
 msgid "She really gave him the ol' one-two."
-msgstr "Gli ha dato proprio un bell'uno-due."
+msgstr "Gli ha dato proprio un bel colpo da manuale."
 
 msgctxt "176\t494217\t17\tCHK"
 msgid "There's no escape when you're up on the roof."
-msgstr "Non c'è scampo quando sei sul tetto."
+msgstr "Non si scappa quando sei sul tetto."
 
 msgctxt "176\t494263\t18\tCHK"
 msgid "Nice work, kid."
@@ -9261,19 +9261,19 @@ msgstr "Bel lavoro, ragazzo."
 
 msgctxt "176\t494279\t19\tCHK"
 msgid "That's how it goes in the yakuza world."
-msgstr "È così che funziona nel mondo della yakuza."
+msgstr "È così che va nel mondo della yakuza."
 
 msgctxt "176\t494319\t20\tCHK"
 msgid "Somethin' that heavy's sure to do damage."
-msgstr "Una cosa così pesante farà di sicuro dei danni."
+msgstr "Una cosa così pesante farà di sicuro un sacco di danni."
 
 msgctxt "176\t494361\t21\tCHK"
 msgid "Shoulda just rolled him in from the start."
-msgstr "Avrebbe dovuto farlo rotolare dentro fin dall'inizio."
+msgstr "Avrebbe dovuto farlo fuori fin dall'inizio."
 
 msgctxt "176\t494404\t22\tCHK"
 msgid "It wasn't his money to begin with."
-msgstr "Tanto per cominciare non erano soldi suoi."
+msgstr "Tanto per cominciare, non erano soldi suoi."
 
 msgctxt "176\t494439\t23\tCHK"
 msgid "Backwards between the legs?"
@@ -9285,23 +9285,23 @@ msgstr "Accidenti, quella ragazza ha fatto una bella presa."
 
 msgctxt "176\t494509\t25\tCHK"
 msgid "Guy was probably tryin' to drink away his troubles."
-msgstr "Probabilmente quel tizio cercava di affogare i dispiaceri nell'alcol."
+msgstr "Probabilmente quel tizio cercava di affogare i suoi dispiaceri nell'alcol."
 
 msgctxt "176\t494561\t26\tCHK"
 msgid "Brave man, goin' up against that young kid."
-msgstr "Coraggioso, ad andare contro quel ragazzino."
+msgstr "Un bell'ardire, mettersi contro quel ragazzino."
 
 msgctxt "176\t494605\t27\tCHK"
 msgid "The momentum helped him land a big hit."
-msgstr "Lo slancio lo ha aiutato a sferrare un bel colpo."
+msgstr "Lo slancio lo ha aiutato a sferrare un gran colpo."
 
 msgctxt "176\t494645\t28\tCHK"
 msgid "A strong hit after a taunt, huh?"
-msgstr "Un colpo forte dopo una provocazione, eh?"
+msgstr "Un bel colpo dopo averlo provocato, eh?"
 
 msgctxt "176\t494678\t29\tCHK"
 msgid "A tie around the head... I should try it sometime."
-msgstr "Una cravatta intorno alla testa... dovrei provarci prima o poi."
+msgstr "Una cravatta intorno alla testa... dovrei provarci qualche volta."
 
 msgctxt "176\t494729\t30\tCHK"
 msgid "More momentum means more power."
@@ -9313,7 +9313,7 @@ msgstr "Non credo che dovrebbe funzionare così."
 
 msgctxt "176\t494809\t32\tCHK"
 msgid "Hm, he hit one toy with the other to make it fall..."
-msgstr "Mh, ha colpito un pupazzo con l'altro per farlo cadere..."
+msgstr "Mh, ha colpito un giocattolo con l'altro per farlo cadere..."
 
 msgctxt "176\t494862\t33\tCHK"
 msgid "I wonder if I can do that, too."
@@ -9321,15 +9321,15 @@ msgstr "Chissà se ci riesco anch'io."
 
 msgctxt "176\t494894\t34\tCHK"
 msgid "He was no match for the hustle and bustle of Kamurocho."
-msgstr "Non era all'altezza del trambusto di Kamurocho."
+msgstr "Non era pronto per il caos di Kamurocho."
 
 msgctxt "176\t494950\t35\tCHK"
 msgid "He got clocked hard when he was off guard..."
-msgstr "È stato colpito duro quando era con la guardia abbassata..."
+msgstr "È stato colpito duro mentre era distratto..."
 
 msgctxt "176\t494995\t36\tCHK"
 msgid "Karma's a bitch, huh?"
-msgstr "Il karma è una brutta bestia, eh?"
+msgstr "Il karma è bastardo, eh?"
 
 msgctxt "177\t497352\t0\tSUS"
 msgid ""
@@ -9369,7 +9369,7 @@ msgstr "Passo rapido"
 
 msgctxt "177\t497495\t9\tCHK"
 msgid "Furore Gauge"
-msgstr "Indicatore Heat"
+msgstr "indicatore Furore"
 
 msgctxt "177\t497506\t10\tCHK"
 msgid "Furore Actions"
@@ -9453,7 +9453,7 @@ msgid ""
 "Attack to increase the <Color:109,193,240,255>Heat Gauge<Color:Default> at "
 "top left of screen"
 msgstr ""
-"Attacca per aumentare l'<Color:109,193,240,255>Indicatore Heat<Color:Default> in "
+"Attacca per aumentare l'<Color:109,193,240,255>indicatore Furore<Color:Default> in "
 "alto a sinistra dello schermo"
 
 msgctxt "177\t498567\t24\tCHK"
@@ -9490,18 +9490,18 @@ msgstr "Davvero? È tutto per te, caro."
 
 msgctxt "185\t520271\t3\tCHK"
 msgid "Oh, you!"
-msgstr "Oh, tu!"
+msgstr "Ma dai!"
 
 msgctxt "185\t520280\t4\tCHK"
 msgid "Hold it!"
-msgstr "Fermo!"
+msgstr "Fermo lì!"
 
 msgctxt "185\t520289\t5\tCHK"
 msgid ""
 "I turn my back for one second,\n"
 "and this happens!?"
 msgstr ""
-"Mi giro un secondo\n"
+"Ti volto le spalle un secondo\n"
 "e succede questo!?"
 
 msgctxt "185\t520339\t6\tCHK"
@@ -9542,7 +9542,7 @@ msgstr "Sì. Capisco."
 
 msgctxt "187\t521612\t2\tCHK"
 msgid "Now then..."
-msgstr "Allora..."
+msgstr "Bene allora..."
 
 msgctxt "187\t521624\t3\tCHK"
 msgid ""
@@ -9554,11 +9554,11 @@ msgstr ""
 
 msgctxt "187\t521663\t4\tCHK"
 msgid "Wire it to my usual account."
-msgstr "Fai il bonifico sul mio solito conto."
+msgstr "Fai un bonifico sul mio solito conto."
 
 msgctxt "187\t521692\t5\tCHK"
 msgid "I'll be done in a flash."
-msgstr "Finirò in un lampo."
+msgstr "Faccio in un lampo."
 
 msgctxt "188\t522488\t0\tSUS"
 msgid ""
@@ -9574,7 +9574,7 @@ msgid ""
 "You want the kid to get it!?"
 msgstr ""
 "Stronzate!\n"
-"Vuoi che il ragazzino ci rimetta!?"
+"Vuoi che il ragazzino ci lasci le penne!?"
 
 msgctxt "188\t522551\t3\tCHK"
 msgid "Answer me."
@@ -9590,7 +9590,7 @@ msgstr ""
 
 msgctxt "188\t522617\t5\tCHK"
 msgid "Just drop the piece, lady!"
-msgstr "Getta la pistola, signora!"
+msgstr "Metti giù l'arma, signora!"
 
 msgctxt "188\t522644\t6\tCHK"
 msgid "You want a dead kid on your hands?"
@@ -9598,11 +9598,11 @@ msgstr "Vuoi avere un ragazzino morto sulla coscienza?"
 
 msgctxt "188\t522679\t7\tCHK"
 msgid "Take this!"
-msgstr "Prendi questo!"
+msgstr "Beccati questo!"
 
 msgctxt "188\t522690\t8\tCHK"
 msgid "You... pervert!"
-msgstr "Tu... pervertito!"
+msgstr "Brutto pervertito!"
 
 msgctxt "189\t523864\t0\tSUS"
 msgid ""
@@ -9618,7 +9618,7 @@ msgstr "Non voglio morire!"
 
 msgctxt "189\t523890\t3\tCHK"
 msgid "It's your own damn fault."
-msgstr "È solo colpa tua, maledizione."
+msgstr "È tutta colpa tua, maledizione."
 
 msgctxt "189\t523916\t4\tCHK"
 msgid "You did this to yourself, pal."
@@ -9638,11 +9638,11 @@ msgstr "Uno, due...!"
 
 msgctxt "189\t523989\t8\tCHK"
 msgid "Shit, this thing weighs a fuckin' ton!"
-msgstr "Merda, questa cosa pesa un fottuto casino!"
+msgstr "Merda, questa roba pesa una fottuta tonnellata!"
 
 msgctxt "189\t524028\t9\tCHK"
 msgid "Keep lifting!"
-msgstr "Continua a sollevare!"
+msgstr "Tira su!"
 
 msgctxt "189\t524042\t10\tCHK"
 msgid "No, please!"
@@ -9650,7 +9650,7 @@ msgstr "No, vi prego!"
 
 msgctxt "189\t524054\t11\tCHK"
 msgid "C'mon, lift your side!"
-msgstr "Forza, solleva dalla tua parte!"
+msgstr "Forza, solleva la tua parte!"
 
 msgctxt "189\t524077\t12\tCHK"
 msgid ""
@@ -9706,7 +9706,7 @@ msgstr "Ugh, niente da fare..."
 
 msgctxt "190\t525353\t2\tCHK"
 msgid "Oh, I got one!"
-msgstr "Oh, ne ho preso uno!"
+msgstr "Oh, l'ho preso!"
 
 msgctxt "190\t525368\t3\tCHK"
 msgid "Wait, come back!"
@@ -9770,7 +9770,7 @@ msgstr ""
 
 msgctxt "191\t526609\t7\tCHK"
 msgid "Just get the hell outta here!"
-msgstr "Vattene e basta!"
+msgstr "Vedi di sparire!"
 
 msgctxt "191\t526639\t8\tCHK"
 msgid "What was that?"
@@ -9778,11 +9778,11 @@ msgstr "Cos'hai detto?"
 
 msgctxt "191\t526654\t9\tCHK"
 msgid "You need your ears cleaned or somethin'?"
-msgstr "Hai bisogno di una pulita alle orecchie o cosa?"
+msgstr "Vuoi che ti sturi le orecchie o cosa?"
 
 msgctxt "191\t526695\t10\tCHK"
 msgid "In that case... I'll gladly do it for ya!"
-msgstr "In tal caso... lo farò volentieri io per te!"
+msgstr "In tal caso... te le sturo volentieri io!"
 
 msgctxt "191\t526737\t11\tCHK"
 msgid "Bring it!"
@@ -9814,7 +9814,7 @@ msgstr "Ce la stai facendo! Ce la stai facendo!"
 
 msgctxt "192\t527880\t5\tCHK"
 msgid "What the? It's broken or something!"
-msgstr "Ma che? È rotto o qualcosa del genere!"
+msgstr "Ma che? È rotto o roba del genere!"
 
 msgctxt "192\t527916\t6\tCHK"
 msgid "The hell's it doing!?"
@@ -9826,11 +9826,11 @@ msgstr "Ce l'hai fatta!"
 
 msgctxt "192\t527950\t8\tCHK"
 msgid "Guess I did! Look at that!"
-msgstr "A quanto pare! Guarda un po'!"
+msgstr "A quanto pare sì! Guarda qua!"
 
 msgctxt "192\t527977\t9\tCHK"
 msgid "You little!"
-msgstr "Piccolo!"
+msgstr "Piccolo bastardo!"
 
 msgctxt "193\t528728\t0\tSUS"
 msgid ""
@@ -9838,7 +9838,7 @@ msgstr ""
 
 msgctxt "193\t528729\t1\tCHK"
 msgid "The hell?"
-msgstr "Che diavolo?"
+msgstr "Ma che...?"
 
 msgctxt "193\t528739\t2\tCHK"
 msgid "Ah, excuse me!"
@@ -9849,12 +9849,12 @@ msgid ""
 "Watch where you're going, brat!\n"
 "You know who I am!?"
 msgstr ""
-"Guarda dove vai, pivello!\n"
+"Guarda dove vai, ragazzino!\n"
 "Sai chi sono io!?"
 
 msgctxt "193\t528806\t4\tCHK"
 msgid "Heh."
-msgstr "Eh."
+msgstr "Tsk."
 
 msgctxt "193\t528811\t5\tCHK"
 msgid "Ow!"
