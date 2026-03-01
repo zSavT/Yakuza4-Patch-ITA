@@ -27,11 +27,11 @@ msgstr "???"
 
 msgctxt "20215"
 msgid "Don't have anything I can use."
-msgstr "Non ho niente che mi possa servire."
+msgstr "Non hai niente di utile."
 
 msgctxt "20246"
 msgid "What to use?"
-msgstr "Cosa usare?"
+msgstr "Cosa vuoi usare?"
 
 msgctxt "20259"
 msgid "Use this item?"
@@ -39,11 +39,11 @@ msgstr "Vuoi usare questo oggetto?"
 
 msgctxt "20274"
 msgid "Don't have anything I can put down here."
-msgstr "Non ho niente da scrivere qui."
+msgstr "Non ho niente da annotare qui."
 
 msgctxt "20315"
 msgid "What should I put down here?"
-msgstr "Cosa dovrei scrivere qui?"
+msgstr "Cosa dovrei annotare qui?"
 
 msgctxt "20344"
 msgid "Are you sure?"
@@ -67,11 +67,11 @@ msgstr "punti"
 
 msgctxt "20390"
 msgid "tags"
-msgstr "tag"
+msgstr "piastrine"
 
 msgctxt "20395"
 msgid "sticks"
-msgstr "panetti"
+msgstr "bastoncini"
 
 msgctxt "20402"
 msgid "chips"
@@ -79,15 +79,15 @@ msgstr "fiches"
 
 msgctxt "20408"
 msgid "balls"
-msgstr "palle"
+msgstr "palline"
 
 msgctxt "20414"
 msgid "Money"
-msgstr "Soldi"
+msgstr "Denaro"
 
 msgctxt "20420"
 msgid "Chips"
-msgstr "Chip"
+msgstr "Fiches"
 
 msgctxt "20426"
 msgid "Pts."
@@ -107,11 +107,11 @@ msgstr "I tuoi bastoncini"
 
 msgctxt "20465"
 msgid "Your Balls"
-msgstr "Le tue palle"
+msgstr "Le tue palline"
 
 msgctxt "20476"
 msgid "Coliseum Pts"
-msgstr "Colosseo Pts"
+msgstr "Punti Colosseo"
 
 msgctxt "20489"
 msgid "Funds"
@@ -119,7 +119,7 @@ msgstr "Fondi"
 
 msgctxt "20495"
 msgid "Dojo Funds"
-msgstr "Fondi Dojo"
+msgstr "Fondi del dojo"
 
 msgctxt "20506"
 msgid "Assist me!"
@@ -143,7 +143,7 @@ msgstr "-"
 
 msgctxt "20578"
 msgid "Use <Action:Button_LS_Up@Adventure><Action:Button_LS_Down@Adventure> to select a destination."
-msgstr "Utilizzare <Action:Button_LS_Up@Adventure><Action:Button_LS_Down@Adventure> per selezionare una destinazione."
+msgstr "Usa <Action:Button_LS_Up@Adventure><Action:Button_LS_Down@Adventure> per selezionare una destinazione."
 
 msgctxt "20672"
 msgid "Save"
@@ -151,11 +151,11 @@ msgstr "Salva"
 
 msgctxt "20677"
 msgid "Item Box"
-msgstr "Cassa Oggetti"
+msgstr "Cassa oggetti"
 
 msgctxt "20686"
 msgid "Memories"
-msgstr "Memorie"
+msgstr "Ricordi"
 
 msgctxt "20695"
 msgid "Stats"
@@ -178,99 +178,23 @@ msgid ""
 "You are able to change the costumes of all four playable characters and Haruka. Please select the character that you wish to change "
 "costumes for."
 msgstr ""
-"Puoi cambiare i costumi di tutti e quattro i personaggi giocabili e di Haruka. Seleziona il personaggio per cui desideri cambiare i costumi."
+"È possibile cambiare i costumi di tutti e quattro i personaggi giocabili e di Haruka. Seleziona il personaggio di cui desideri cambiare l'abito."
 
 msgctxt "20876"
 msgid "In certain locations and situations, your costume will automatically be changed to a specific one."
-msgstr "In determinati luoghi e situazioni, il tuo costume verrà automaticamente sostituito con uno specifico."
+msgstr "In determinati luoghi e situazioni, il costume verrà automaticamente sostituito con uno specifico richiesto dalla storia."
 
 msgctxt "20975"
 msgid "Outside of a few instances, the chosen costume will be displayed regardless of location or situation."
-msgstr "Salvo rare eccezioni, il costume scelto verrà esposto indipendentemente dal luogo o dalla situazione."
-
-msgctxt "21077"
-msgid "Yakuza"
-msgstr "Yakuza"
-
-msgctxt "21084"
-msgid "Yakuza 2"
-msgstr "Yakuza 2"
-
-msgctxt "21093"
-msgid "Yakuza 3"
-msgstr "Yakuza 3"
-
-msgctxt "21102"
-msgid "Chapter 1: The Infamous Loan Shark"
-msgstr "Capitolo 1: Il famigerato strozzino"
+msgstr "Salvo rare eccezioni, il costume scelto verrà visualizzato indipendentemente dal luogo o dalla situazione."
 
 msgctxt "21137"
 msgid "Chapter 2: The One"
-msgstr "Capitolo 2: L'Unico"
-
-msgctxt "21156"
-msgid "Chapter 3: Trouble in the Tojo Clan"
-msgstr "Capitolo 3: Problemi nel clan Tojo"
-
-msgctxt "21192"
-msgid "Chapter 4: The Promise"
-msgstr "Capitolo 4: La promessa"
-
-msgctxt "21215"
-msgid "Chapter 1: To the Truth"
-msgstr "Capitolo 1: Verso la verità"
-
-msgctxt "21239"
-msgid "Chapter 2: Tiger and Dragon"
-msgstr "Capitolo 2: Tigre e Drago"
-
-msgctxt "21267"
-msgid "Chapter 3: The 25 Year Vacuum"
-msgstr "Capitolo 3: Il vuoto di 25 anni"
-
-msgctxt "21297"
-msgid "Chapter 4: Oath of Brotherhood"
-msgstr "Capitolo 4: Giuramento di fratellanza"
+msgstr "Capitolo 2: L'unico"
 
 msgctxt "21328"
 msgid "Chapter 1: The Kamurocho Parasite"
-msgstr "Capitolo 1: Il parassita Kamurocho"
-
-msgctxt "21362"
-msgid "Chapter 2: The Perpetrator"
-msgstr "Capitolo 2: Il colpevole"
-
-msgctxt "21389"
-msgid "Chapter 3: Door to the Truth"
-msgstr "Capitolo 3: La porta della verità"
-
-msgctxt "21418"
-msgid "Chapter 4: A Detective's Honor"
-msgstr "Capitolo 4: L'onore di un detective"
-
-msgctxt "21449"
-msgid "Chapter 1: Reunion"
-msgstr "Capitolo 1: Riunione"
-
-msgctxt "21468"
-msgid "Chapter 2: To Kamurocho"
-msgstr "Capitolo 2: Verso Kamurocho"
-
-msgctxt "21492"
-msgid "Chapter 3: Encounter"
-msgstr "Capitolo 3: Incontro"
-
-msgctxt "21513"
-msgid "Chapter 4: Chain of Betrayal"
-msgstr "Capitolo 4: Catena del tradimento"
-
-msgctxt "21542"
-msgid "Finale: Requiem"
-msgstr "Finale: Requiem"
-
-msgctxt "21558"
-msgid "The Fate of the 30 Million"
-msgstr "Il destino dei 30 milioni"
+msgstr "Capitolo 1: Il parassita di Kamurocho"
 
 msgctxt "21585"
 msgid "Counterfeits"
@@ -278,7 +202,7 @@ msgstr "Contraffazioni"
 
 msgctxt "21598"
 msgid "Dragon Palace Bouncer"
-msgstr "Buttafuori del Palazzo del Drago"
+msgstr "Il buttafuori del Palazzo del Drago"
 
 msgctxt "21620"
 msgid "Green Shadow"
@@ -294,115 +218,15 @@ msgstr "Un gioco pericoloso"
 
 msgctxt "21667"
 msgid "White Lie"
-msgstr "Bugia bianca"
+msgstr "Bugia a fin di bene"
 
 msgctxt "21677"
 msgid "Kiryu the Babysitter"
-msgstr "Kiryu la babysitter"
-
-msgctxt "21698"
-msgid "Credits"
-msgstr "Crediti"
-
-msgctxt "21706"
-msgid "Part 1: Shun Akiyama"
-msgstr "Parte 1: Shun Akiyama"
-
-msgctxt "21727"
-msgid "Chapter 1: The Infamous Loan Shark"
-msgstr "Capitolo 1: Il famigerato strozzino"
-
-msgctxt "21762"
-msgid "Chapter 2: The One"
-msgstr "Capitolo 2: L'Uno"
-
-msgctxt "21781"
-msgid "Chapter 3: Trouble in the Tojo Clan"
-msgstr "Capitolo 3: Problemi nel clan Tojo"
-
-msgctxt "21817"
-msgid "Chapter 4: The Promise"
-msgstr "Capitolo 4: La promessa"
-
-msgctxt "21840"
-msgid "Part 1: Complete"
-msgstr "Parte 1: Completa"
-
-msgctxt "21857"
-msgid "Part 2: Taiga Saejima"
-msgstr "Parte 2: Taiga Saejima"
-
-msgctxt "21879"
-msgid "Chapter 1: To the Truth"
-msgstr "Capitolo 1: Verso la verità"
-
-msgctxt "21903"
-msgid "Chapter 2: Tiger and Dragon"
-msgstr "Capitolo 2: Tigre e Drago"
-
-msgctxt "21931"
-msgid "Chapter 3: The 25 Year Vacuum"
-msgstr "Capitolo 3: Il vuoto di 25 anni"
-
-msgctxt "21961"
-msgid "Chapter 4: Oath of Brotherhood"
-msgstr "Capitolo 4: Giuramento di fratellanza"
-
-msgctxt "21992"
-msgid "Part 2: Complete"
-msgstr "Parte 2: Completa"
-
-msgctxt "22009"
-msgid "Part 3: Masayoshi Tanimura"
-msgstr "Parte 3: Masayoshi Tanimura"
+msgstr "Kiryu il babysitter"
 
 msgctxt "22036"
 msgid "Chapter 1: The Kamurocho Parasite"
-msgstr "Capitolo 1: Il parassita Kamurocho"
-
-msgctxt "22070"
-msgid "Chapter 2: The Perpetrator"
-msgstr "Capitolo 2: Il colpevole"
-
-msgctxt "22097"
-msgid "Chapter 3: Door to the Truth"
-msgstr "Capitolo 3: La porta della verità"
-
-msgctxt "22126"
-msgid "Chapter 4: A Detective's Honor"
-msgstr "Capitolo 4: L'onore di un detective"
-
-msgctxt "22157"
-msgid "Part 3: Complete"
-msgstr "Parte 3: Completa"
-
-msgctxt "22174"
-msgid "Part 4: Kazuma Kiryu"
-msgstr "Parte 4: Kazuma Kiryu"
-
-msgctxt "22195"
-msgid "Chapter 1: Reunion"
-msgstr "Capitolo 1: Riunione"
-
-msgctxt "22214"
-msgid "Chapter 2: To Kamurocho"
-msgstr "Capitolo 2: Verso Kamurocho"
-
-msgctxt "22238"
-msgid "Chapter 3: Encounter"
-msgstr "Capitolo 3: Incontro"
-
-msgctxt "22259"
-msgid "Chapter 4: Chain of Betrayal"
-msgstr "Capitolo 4: Catena del tradimento"
-
-msgctxt "22288"
-msgid "Part 4: Complete"
-msgstr "Parte 4: Completa"
-
-msgctxt "22305"
-msgid "Finale: Requiem"
-msgstr "Finale: Requiem"
+msgstr "Il parassita di Kamurocho"
 
 msgctxt "22321"
 msgid "You got: %s."
@@ -410,27 +234,23 @@ msgstr "Hai ottenuto: %s."
 
 msgctxt "22334"
 msgid "Lost %s."
-msgstr "Perso %s."
+msgstr "Hai perso: %s."
 
 msgctxt "22343"
 msgid "Repaired %s."
-msgstr "Riparato %s."
+msgstr "Hai riparato: %s."
 
 msgctxt "22356"
 msgid "Replenished %s ammo."
-msgstr "Munizioni ricaricate %s."
-
-msgctxt "22377"
-msgid "%s"
-msgstr "%s"
+msgstr "Munizioni ricaricate: %s."
 
 msgctxt "22380"
 msgid "%s Experience Points"
-msgstr "%s Punti Esperienza"
+msgstr "%s punti esperienza"
 
 msgctxt "22401"
 msgid "%s Coliseum Points"
-msgstr "%s Punti Colosseo"
+msgstr "%s punti Colosseo"
 
 msgctxt "22420"
 msgid ""
@@ -438,15 +258,11 @@ msgid ""
 "Returning item to locker."
 msgstr ""
 "La Cassa Oggetti è piena.\n"
-"Restituisco l'oggetto all'armadietto."
-
-msgctxt "22464"
-msgid "Returned item to locker."
-msgstr "Oggetto riportato all'armadietto."
+"L'oggetto verrà riportato nell'armadietto."
 
 msgctxt "22489"
 msgid "The item was sent to the Item Box."
-msgstr "L'articolo è stato inviato alla casella degli articoli."
+msgstr "L'oggetto è stato inviato alla Cassa Oggetti."
 
 msgctxt "22524"
 msgid ""
@@ -454,15 +270,7 @@ msgid ""
 "Returning item to locker."
 msgstr ""
 "Non puoi trasportare altri oggetti.\n"
-"Riporto l'oggetto nell'armadietto."
-
-msgctxt "22582"
-msgid ""
-"Choose which locker you would like to open.\n"
-"You can check opened lockers with <Action:Button_R1@Adventure>."
-msgstr ""
-"Scegli quale armadietto desideri aprire.\n"
-"Puoi controllare gli armadietti aperti con <Action:Button_R1@Adventure>."
+"L'oggetto verrà riportato nell'armadietto."
 
 msgctxt "22690"
 msgid ""
@@ -470,125 +278,29 @@ msgid ""
 "Returning item to locker."
 msgstr ""
 "Non puoi trasportare altro equipaggiamento.\n"
-"Riporto l'oggetto nell'armadietto."
+"L'oggetto verrà riportato nell'armadietto."
 
 msgctxt "22752"
 msgid "Item usage is restricted to %s in this match."
-msgstr "In questa partita l'utilizzo degli oggetti è limitato a %s."
-
-msgctxt "22798"
-msgid "Participants"
-msgstr "Partecipanti"
-
-msgctxt "22811"
-msgid "Enter"
-msgstr "Entra"
+msgstr "In questo incontro l'uso degli oggetti è limitato a: %s."
 
 msgctxt "22817"
 msgid "Don't Enter"
-msgstr "Non entrare"
-
-msgctxt "22829"
-msgid "Select a tag team partner."
-msgstr "Seleziona un compagno di squadra."
-
-msgctxt "22856"
-msgid "Partner"
-msgstr "Partner"
+msgstr "Non partecipare"
 
 msgctxt "22864"
 msgid "Select %s as your partner?"
-msgstr "Selezionare %s come partner?"
+msgstr "Vuoi selezionare %s come partner?"
 
 msgctxt "22891"
 msgid "You do not currently have a tag team partner selected."
-msgstr "Al momento non hai selezionato alcun partner per il tag team."
-
-msgctxt "22946"
-msgid "Difficulty:"
-msgstr "Difficoltà:"
-
-msgctxt "22958"
-msgid "Katana"
-msgstr "Katana"
-
-msgctxt "22965"
-msgid "Dagger"
-msgstr "Pugnale"
-
-msgctxt "22972"
-msgid "Metal Bat"
-msgstr "Mazza di metallo"
-
-msgctxt "22982"
-msgid "Brass Knuckles"
-msgstr "Tirapugni"
-
-msgctxt "22997"
-msgid "Nunchaku"
-msgstr "Nunchaku"
-
-msgctxt "23006"
-msgid "Legendary Hitman"
-msgstr "Hitman leggendario"
-
-msgctxt "23023"
-msgid "Coliseum Entertainer"
-msgstr "Intrattenitore del Colosseo"
-
-msgctxt "23044"
-msgid "Star of the Coliseum"
-msgstr "Stella del Colosseo"
-
-msgctxt "23065"
-msgid "Veteran Gladiator"
-msgstr "Gladiatore veterano"
-
-msgctxt "23083"
-msgid "Fist of the Lost Paradise"
-msgstr "Pugno del Paradiso Perduto"
-
-msgctxt "23109"
-msgid "Ultimate Warrior"
-msgstr "Guerriero Supremo"
-
-msgctxt "23126"
-msgid "Supreme Champion"
-msgstr "Campione Supremo"
-
-msgctxt "23143"
-msgid "The Cage Match King"
-msgstr "Il re del Cage Match"
-
-msgctxt "23163"
-msgid "Emperor of the Underground"
-msgstr "Imperatore del sottosuolo"
-
-msgctxt "23190"
-msgid "The Legendary Tiger"
-msgstr "La leggendaria tigre"
-
-msgctxt "23210"
-msgid "The Legendary Dragon"
-msgstr "Il drago leggendario"
+msgstr "Non hai selezionato alcun compagno per il Tag Team."
 
 msgctxt "23231"
 msgid "Nickname"
-msgstr "Nickname"
+msgstr "Soprannome"
 
-msgctxt "23240"
-msgid "Tag Team"
-msgstr "Tag Team"
-
-msgctxt "23249"
-msgid "Tournaments Won"
-msgstr "Tornei vinti"
-
-msgctxt "23265"
-msgid "Kazuma Kiryu"
-msgstr "Kazuma Kiryu"
-
-msgctxt "23278"
+msgctxt "23330"
 msgid "JPN"
 msgstr "JPN"
 
@@ -642,87 +354,31 @@ msgstr "B"
 
 msgctxt "23368"
 msgid "Kazuma Kiryu's Own"
-msgstr "Proprio di Kazuma Kiryu"
-
-msgctxt "23387"
-msgid "Team Dragon"
-msgstr "Squadra Drago"
+msgstr "Stile originale di Kazuma Kiryu"
 
 msgctxt "23399"
 msgid "Taiga Saejima's Own"
-msgstr "Proprio di Taiga Saejima"
-
-msgctxt "23419"
-msgid "Team Tiger"
-msgstr "Squadra Tigre"
-
-msgctxt "23430"
-msgid "Popularity Points:"
-msgstr "Punti di popolarità:"
+msgstr "Stile originale di Taiga Saejima"
 
 msgctxt "23449"
 msgid "Fight History Points:"
-msgstr "Punti cronologia combattimenti:"
+msgstr "Punti storico incontri:"
 
 msgctxt "23471"
 msgid "Money"
-msgstr "Soldi"
-
-msgctxt "23477"
-msgid "Funds"
-msgstr "Fondi"
-
-msgctxt "23483"
-msgid "Ultimate Skill"
-msgstr "Abilità definitiva"
-
-msgctxt "23498"
-msgid "???"
-msgstr "???"
-
-msgctxt "23502"
-msgid "Melee"
-msgstr "Mani Nude"
+msgstr "Denaro"
 
 msgctxt "23508"
 msgid "One-on-One"
-msgstr "A tu per tu"
-
-msgctxt "23519"
-msgid "Challenge"
-msgstr "Sfida"
-
-msgctxt "23529"
-msgid "Sprint"
-msgstr "Scatta"
-
-msgctxt "23536"
-msgid "Ultimate"
-msgstr "Ultimate"
-
-msgctxt "23545"
-msgid "Rebirth"
-msgstr "Rinascita"
-
-msgctxt "23553"
-msgid "Defeat multiple enemies under various situations and conditions."
-msgstr "Sconfiggi più nemici in varie situazioni e condizioni."
-
-msgctxt "23618"
-msgid "Fight a strong enemy one-on-one in various situations."
-msgstr "Combatti contro un nemico forte uno contro uno in varie situazioni."
-
-msgctxt "23673"
-msgid "Succeed under unique victory conditions."
-msgstr "Ottieni successo in condizioni di vittoria uniche."
+msgstr "Uno contro uno"
 
 msgctxt "23714"
 msgid "Win a chase battle under various situations and conditions."
-msgstr "Vinci una battaglia di inseguimento in varie situazioni e condizioni."
+msgstr "Vinci un inseguimento in varie situazioni e condizioni."
 
 msgctxt "23774"
 msgid "Fight against strong enemies in back to back matches."
-msgstr "Combatti contro nemici potenti in partite consecutive."
+msgstr "Combatti contro nemici potenti in incontri consecutivi."
 
 msgctxt "23828"
 msgid "Match 1"
@@ -1102,15 +758,15 @@ msgstr "Indicatore Chase ripristinato."
 
 msgctxt "25462"
 msgid "Mission Reward"
-msgstr "Ricompensa della missione"
+msgstr "Ricompensa missione"
 
 msgctxt "25477"
 msgid "Objectives Cleared"
-msgstr "Obiettivi superati"
+msgstr "Obiettivi completati"
 
 msgctxt "25496"
 msgid "Game Over Penalty"
-msgstr "Penalità di fine partita"
+msgstr "Penalità Game Over"
 
 msgctxt "25514"
 msgid "%s yen"
@@ -1122,7 +778,7 @@ msgstr "Tempo rimanente (secondi)"
 
 msgctxt "25546"
 msgid "Time Bonus"
-msgstr "Bonus di tempo"
+msgstr "Bonus tempo"
 
 msgctxt "25557"
 msgid "%s yen"
@@ -1130,7 +786,7 @@ msgstr "%s yen"
 
 msgctxt "25564"
 msgid "Completion Bonus"
-msgstr "Bonus di completamento"
+msgstr "Bonus completamento"
 
 msgctxt "25581"
 msgid "%s yen"
@@ -1138,7 +794,7 @@ msgstr "%s yen"
 
 msgctxt "25588"
 msgid "Total Reward"
-msgstr "Premio Totale"
+msgstr "Premio totale"
 
 msgctxt "25601"
 msgid "%s yen"
@@ -1150,32 +806,31 @@ msgstr "Modalità extra"
 
 msgctxt "25620"
 msgid "Manual Update"
-msgstr "Aggiornamento Manuale"
+msgstr "Aggiornamento manuale"
 
 msgctxt "25634"
 msgid "Please connect 2 input devices."
-msgstr "Collegare 2 dispositivi di input."
+msgstr "Collega due dispositivi di input."
 
 msgctxt "25666"
 msgid "Check information pertaining to Extra Modes."
-msgstr "Controlla le informazioni relative alle Modalità Extra."
+msgstr "Consulta le informazioni relative alle Modalità extra."
 
 msgctxt "25711"
 msgid ""
 "Updates will occur automatically when the console has a network connection, but if the console is disconnected and a failure occures, you "
 "are able to manually update from here."
 msgstr ""
-"Gli aggiornamenti verranno eseguiti automaticamente quando la console avrà una connessione di rete, ma se la console verrà disconnessa e si "
-"verificherà un errore, sarà possibile effettuare l'aggiornamento manualmente da qui."
+"Gli aggiornamenti avvengono automaticamente quando è presente una connessione di rete; tuttavia, se la console è offline o si verifica un "
+"errore, è possibile eseguire l'operazione manualmente da qui."
 
 msgctxt "25888"
 msgid ""
 "Extra Modes are the additional content that was available via network in the regular version of Yakuza 3. In Yakuza 3 the Best the "
 "additional content was already available and there was no need for updates. *Some content may differ from the regular version."
 msgstr ""
-"Le Modalità Extra sono contenuti aggiuntivi disponibili tramite la rete nella versione normale di Yakuza 3. In Yakuza 3 the Best i "
-"contenuti aggiuntivi erano già disponibili e non c'era bisogno di aggiornamenti. *Alcuni contenuti potrebbero differire dalla versione "
-"normale."
+"Le Modalità extra sono contenuti aggiuntivi disponibili tramite rete nella versione standard di Yakuza 3. Nella versione \"Yakuza 3 the Best\" "
+"questi contenuti erano già inclusi e non richiedevano aggiornamenti. *Alcuni contenuti potrebbero differire dalla versione standard."
 
 msgctxt "26146"
 msgid "Here"
@@ -1191,19 +846,11 @@ msgstr "Indietro"
 
 msgctxt "26166"
 msgid "Sell"
-msgstr "Vendere"
+msgstr "Vendi"
 
 msgctxt "26171"
 msgid "Eat"
-msgstr "Cibo"
-
-msgctxt "26175"
-msgid "OK"
-msgstr "OK"
-
-msgctxt "26178"
-msgid "Switch"
-msgstr "Scambia"
+msgstr "Mangia"
 
 msgctxt "26185"
 msgid "Zoom In"
@@ -1211,39 +858,19 @@ msgstr "Ingrandisci"
 
 msgctxt "26193"
 msgid "Zoom Out"
-msgstr "Diminuisci"
-
-msgctxt "26202"
-msgid "Use"
-msgstr "Usa"
+msgstr "Rimpicciolisci"
 
 msgctxt "26206"
 msgid "Discard"
-msgstr "Cancella"
-
-msgctxt "26214"
-msgid "Confirm"
-msgstr "Conferma"
+msgstr "Scarta"
 
 msgctxt "26222"
 msgid "Look"
-msgstr "Look"
+msgstr "Esamina"
 
 msgctxt "26227"
 msgid "Valuables"
-msgstr "Rarità"
-
-msgctxt "26237"
-msgid "Inventory"
-msgstr "Inventario"
-
-msgctxt "26247"
-msgid "List"
-msgstr "Lista"
-
-msgctxt "26252"
-msgid "Remove"
-msgstr "Rimuovi"
+msgstr "Oggetti preziosi"
 
 msgctxt "26259"
 msgid "Buy"
@@ -1267,27 +894,15 @@ msgstr "Mappa di Tokyo"
 
 msgctxt "26295"
 msgid "Full Equip"
-msgstr "Equipaggiamento completo"
-
-msgctxt "26306"
-msgid "Switch"
-msgstr "Scambia"
-
-msgctxt "26313"
-msgid "Sort"
-msgstr "Ordina"
-
-msgctxt "26318"
-msgid "Standard Display"
-msgstr "Visualizzazione standard"
+msgstr "Equipagg. completo"
 
 msgctxt "26335"
 msgid "Descending Order"
-msgstr "Ordine Discendente"
+msgstr "Ordine decrescente"
 
 msgctxt "26352"
 msgid "Ascending Order"
-msgstr "Ordine Ascendente"
+msgstr "Ordine crescente"
 
 msgctxt "26368"
 msgid "Tools"
@@ -1299,11 +914,11 @@ msgstr "Rilascia"
 
 msgctxt "26382"
 msgid "Tools on Hand"
-msgstr "Strumenti a portata di mano"
+msgstr "Strumenti in dotazione"
 
 msgctxt "26396"
 msgid "Equip"
-msgstr "Equipaggiare"
+msgstr "Equipaggia"
 
 msgctxt "26402"
 msgid "Sort"
@@ -1323,7 +938,7 @@ msgstr "Abilità"
 
 msgctxt "26432"
 msgid "Upgrade Abilities"
-msgstr "Potenzia le abilità"
+msgstr "Potenzia abilità"
 
 msgctxt "26450"
 msgid "Items"
@@ -1343,7 +958,7 @@ msgstr "Riproduci tutto"
 
 msgctxt "26493"
 msgid "Rotate"
-msgstr "Ruotare"
+msgstr "Ruota"
 
 msgctxt "26500"
 msgid "Protagonist"
@@ -1351,7 +966,7 @@ msgstr "Protagonista"
 
 msgctxt "26512"
 msgid "Warehouse"
-msgstr "Magazzino"
+msgstr "Deposito"
 
 msgctxt "26522"
 msgid "Default"
@@ -1359,11 +974,11 @@ msgstr "Predefinito"
 
 msgctxt "26530"
 msgid "Reset Current Game Mode"
-msgstr "Reset modalità di gioco corrente"
+msgstr "Ripristina modalità corrente"
 
 msgctxt "26554"
 msgid "Reset All Game Modes"
-msgstr "Azzera tutte le modalità di gioco"
+msgstr "Ripristina tutte le modalità"
 
 msgctxt "26575"
 msgid "Apply"
@@ -1371,7 +986,7 @@ msgstr "Applica"
 
 msgctxt "26581"
 msgid "Return and save"
-msgstr "Torna indietro e salva"
+msgstr "Salva e torna indietro"
 
 msgctxt "26597"
 msgid "Delete"
@@ -1379,7 +994,7 @@ msgstr "Elimina"
 
 msgctxt "26604"
 msgid "Training Menu"
-msgstr "Menu di allenamento"
+msgstr "Menu allenamento"
 
 msgctxt "26618"
 msgid "Sodachi's Comments"
@@ -1395,11 +1010,11 @@ msgstr "Abilità e mosse finali"
 
 msgctxt "26681"
 msgid "Dojo Status"
-msgstr "Stato del Dojo"
+msgstr "Stato del dojo"
 
 msgctxt "26693"
 msgid "Enhance Facilities"
-msgstr "Migliora le strutture"
+msgstr "Migliora strutture"
 
 msgctxt "26712"
 msgid "Cancel"
@@ -1407,35 +1022,35 @@ msgstr "Annulla"
 
 msgctxt "26719"
 msgid "Dojo Funds"
-msgstr "Fondi Dojo"
+msgstr "Fondi del dojo"
 
 msgctxt "26730"
 msgid "Dojo Rank"
-msgstr "Classifica del Dojo"
+msgstr "Grado del dojo"
 
 msgctxt "26740"
 msgid "1st Pupil"
-msgstr "1° Allievo"
+msgstr "1° allievo"
 
 msgctxt "26750"
 msgid "2nd Pupil"
-msgstr "2° Allievo"
+msgstr "2° allievo"
 
 msgctxt "26760"
 msgid "3rd Pupil"
-msgstr "3° Allievo"
+msgstr "3° allievo"
 
 msgctxt "26770"
 msgid "4th Pupil"
-msgstr "4° Allievo"
+msgstr "4° allievo"
 
 msgctxt "26780"
 msgid "5th Pupil"
-msgstr "5° Allievo"
+msgstr "5° allievo"
 
 msgctxt "26790"
 msgid "Training Duration"
-msgstr "Durata dell'allenamento"
+msgstr "Durata allenamento"
 
 msgctxt "26808"
 msgid "Turn %d"
@@ -1446,8 +1061,8 @@ msgid "Punch Training"
 msgstr "Allenamento pugni"
 
 msgctxt "26831"
-msgid "Kick Training  "
-msgstr "Allenamento calci  "
+msgid "Kick Training"
+msgstr "Allenamento calci"
 
 msgctxt "26847"
 msgid "Ground Training"
@@ -1467,7 +1082,7 @@ msgstr "Scatto"
 
 msgctxt "26896"
 msgid "Lecture"
-msgstr "Lezione"
+msgstr "Teoria"
 
 msgctxt "26904"
 msgid "Stretches"
@@ -1495,19 +1110,19 @@ msgstr "Colloquio"
 
 msgctxt "26973"
 msgid "Rest"
-msgstr "Resto"
+msgstr "Riposo"
 
 msgctxt "26978"
 msgid "Fight Slot A"
-msgstr "Slot di combattimento A"
+msgstr "Slot combattimento A"
 
 msgctxt "26991"
 msgid "Fight Slot B"
-msgstr "Slot di combattimento B"
+msgstr "Slot combattimento B"
 
 msgctxt "27004"
 msgid "Fight Slot C"
-msgstr "Slot di combattimento C"
+msgstr "Slot combattimento C"
 
 msgctxt "27017"
 msgid "Tournament"
@@ -1523,7 +1138,7 @@ msgstr "Tratto finale"
 
 msgctxt "27052"
 msgid "Turbo Takeoff"
-msgstr "Decollo turbo"
+msgstr "Partenza a razzo"
 
 msgctxt "27066"
 msgid "Moody"
@@ -1531,7 +1146,7 @@ msgstr "Lunatico"
 
 msgctxt "27072"
 msgid "Diehard Spirit"
-msgstr "Spirito irriducibile"
+msgstr "Spirito indomito"
 
 msgctxt "27087"
 msgid "Bravado"
@@ -1543,7 +1158,7 @@ msgstr "Intrattenitore"
 
 msgctxt "27107"
 msgid "By Your Bootstraps"
-msgstr "Con le tue forze"
+msgstr "Con le tue sole forze"
 
 msgctxt "27126"
 msgid "I Wanna Change Myself"
@@ -1555,7 +1170,7 @@ msgstr "Convinzione"
 
 msgctxt "27159"
 msgid "Tiger Slam"
-msgstr "Colpo di tigre"
+msgstr "Schiacciata della tigre"
 
 msgctxt "27170"
 msgid "Tiger Suplex SP"
@@ -1563,31 +1178,31 @@ msgstr "Tiger Suplex SP"
 
 msgctxt "27186"
 msgid "Tiger Throw"
-msgstr "Lancio della tigre"
+msgstr "Proiezione della tigre"
 
 msgctxt "27198"
 msgid "Tiger Flying Knee"
-msgstr "Ginocchio volante della tigre"
+msgstr "Ginocchiata volante della tigre"
 
 msgctxt "27216"
 msgid "Essence of Smashing"
-msgstr "Essenza dello Smashing"
+msgstr "Essenza della frantumazione"
 
 msgctxt "27236"
 msgid "Essence of Face Crushing"
-msgstr "Essenza del Face Crushing"
+msgstr "Essenza dello spaccafaccia"
 
 msgctxt "27261"
 msgid "Essence of Clotheslining"
-msgstr "L'essenza dello stendino"
+msgstr "Essenza del braccio teso"
 
 msgctxt "27286"
 msgid "Essence of Fence Smashing"
-msgstr "L'essenza dello sfonda recinto"
+msgstr "Essenza dello schianto sulla recinzione"
 
 msgctxt "27312"
 msgid "Essence of Might"
-msgstr "Essenza di Potenza"
+msgstr "Essenza della potenza"
 
 msgctxt "27329"
 msgid "Tiger Crush"
@@ -1595,23 +1210,23 @@ msgstr "Schiacciamento della tigre"
 
 msgctxt "27341"
 msgid "(Can equip <Color:230,64,48,255>%d<Color:Default> more)"
-msgstr "(Può equipaggiare<Color:230,64,48,255> %d<Color:Default> Di più)"
+msgstr "(Puoi equipaggiarne altri <Color:230,64,48,255>%d<Color:Default>)"
 
 msgctxt "27397"
 msgid "Skills"
-msgstr "Competenze"
+msgstr "Abilità"
 
 msgctxt "27404"
 msgid "Finishing Moves"
-msgstr "Mosse Finali"
+msgstr "Mosse finali"
 
 msgctxt "27420"
 msgid "Dojo Facilities"
-msgstr "Strutture del Dojo"
+msgstr "Strutture del dojo"
 
 msgctxt "27436"
 msgid "Training Level"
-msgstr "Livello di formazione"
+msgstr "Livello allenamento"
 
 msgctxt "27451"
 msgid "Total Earnings"
@@ -1619,7 +1234,7 @@ msgstr "Guadagni totali"
 
 msgctxt "27466"
 msgid "Career Stats"
-msgstr "Statistiche di carriera"
+msgstr "Statistiche carriera"
 
 msgctxt "27479"
 msgid "Turns Passed"
@@ -1627,11 +1242,11 @@ msgstr "Turni trascorsi"
 
 msgctxt "27492"
 msgid "Match Types Won"
-msgstr "Tipi di incontro vinti"
+msgstr "Tipi di match vinti"
 
 msgctxt "27508"
 msgid "Pupils Trained"
-msgstr "Allievi formati"
+msgstr "Allievi addestrati"
 
 msgctxt "27523"
 msgid "Victory"
@@ -1639,19 +1254,19 @@ msgstr "Vittoria"
 
 msgctxt "27531"
 msgid "%d Wins %d Losses"
-msgstr "%d Vittorie %d Sconfitte"
+msgstr "%d Vittorie, %d Sconfitte"
 
 msgctxt "27549"
 msgid "%d Turns"
-msgstr "%d giri"
+msgstr "%d turni"
 
 msgctxt "27558"
 msgid "Facilities Menu"
-msgstr "Menù Servizi"
+msgstr "Menu strutture"
 
 msgctxt "27574"
 msgid "Lv. %d"
-msgstr "Livello %d"
+msgstr "Liv. %d"
 
 msgctxt "27581"
 msgid "%d"
@@ -1659,27 +1274,27 @@ msgstr "%d"
 
 msgctxt "27584"
 msgid "Money Earned"
-msgstr "Soldi guadagnati"
+msgstr "Denaro guadagnato"
 
 msgctxt "27597"
 msgid "Records"
-msgstr "Registrazioni"
+msgstr "Record"
 
 msgctxt "27605"
 msgid "Turns Passed"
-msgstr "Turni superati"
+msgstr "Turni trascorsi"
 
 msgctxt "27618"
 msgid "Matches Won"
-msgstr "Partite vinte"
+msgstr "Incontri vinti"
 
 msgctxt "27630"
 msgid "Skills Learned"
-msgstr "Competenze acquisite"
+msgstr "Abilità apprese"
 
 msgctxt "27645"
 msgid "Finishers Learned"
-msgstr "Finishers Learned"
+msgstr "Mosse finali apprese"
 
 msgctxt "27663"
 msgid "Total Money Earned"
@@ -1687,31 +1302,31 @@ msgstr "Totale denaro guadagnato"
 
 msgctxt "27682"
 msgid "Records"
-msgstr "Registrazioni"
+msgstr "Record"
 
 msgctxt "27690"
 msgid "Total Turns Passed"
-msgstr "Turni totali superati"
+msgstr "Totale turni trascorsi"
 
 msgctxt "27709"
 msgid "Win Percentage"
-msgstr "Percentuale di vittorie"
+msgstr "Percentuale vittorie"
 
 msgctxt "27724"
 msgid "Skills Learned"
-msgstr "Competenze acquisite"
+msgstr "Abilità apprese"
 
 msgctxt "27739"
 msgid "Finishers Learned"
-msgstr "Finishers Learned"
+msgstr "Mosse finali apprese"
 
 msgctxt "27757"
 msgid "Dojo Rank"
-msgstr "Classifica del Dojo"
+msgstr "Grado del dojo"
 
 msgctxt "27767"
 msgid "First Match"
-msgstr "Prima partita"
+msgstr "Primo incontro"
 
 msgctxt "27779"
 msgid "Semifinals"
@@ -1727,7 +1342,7 @@ msgstr "Serie di vittorie:"
 
 msgctxt "27809"
 msgid "Highest Win Streak:"
-msgstr "Serie di vittorie più lunga:"
+msgstr "Miglior serie di vittorie:"
 
 msgctxt "27829"
 msgid "Results"
@@ -1759,23 +1374,23 @@ msgstr "Bonus fama"
 
 msgctxt "27951"
 msgid "Fame Penalty"
-msgstr "Penalità per fama"
+msgstr "Penalità fama"
 
 msgctxt "27964"
 msgid "Since Kiryu is in the hall of fame, he cannot enter this tournament."
-msgstr "Poiché Kiryu è nella hall of fame, non può partecipare a questo torneo."
+msgstr "Poiché Kiryu è nella Hall of Fame, non può partecipare a questo torneo."
 
 msgctxt "28033"
 msgid "Currently you do not have the right to enter the Title Match."
-msgstr "Al momento non hai il diritto di partecipare al Title Match."
+msgstr "Al momento non hai i requisiti per partecipare all'Incontro per il Titolo."
 
 msgctxt "28095"
 msgid "You can enter by winning the Maximum Grand Prix again."
-msgstr "Puoi partecipare vincendo nuovamente il Gran Premio Massimo."
+msgstr "Puoi partecipare vincendo nuovamente il Maximum Grand Prix."
 
 msgctxt "28150"
 msgid "Female Guest"
-msgstr "Ospite femmina"
+msgstr "Ospite donna"
 
 msgctxt "28163"
 msgid "Victory"
@@ -1791,27 +1406,15 @@ msgstr "Livello"
 
 msgctxt "28189"
 msgid "Battle Against P2"
-msgstr "Battaglia contro P2"
-
-msgctxt "28207"
-msgid "Special Karaoke"
-msgstr "Karaoke speciale"
+msgstr "Scontro contro P2"
 
 msgctxt "28223"
 msgid ""
 "Game mode where you can play certain games with 2 players. This can be\n"
 "unlocked by earning certain achievements."
 msgstr ""
-"Modalità di gioco in cui è possibile giocare a determinati giochi in 2 giocatori.\n"
-"Questa modalità può essere sbloccata ottenendo determinati obiettivi."
-
-msgctxt "28336"
-msgid "Special Karaoke mode that opens up when the main story is cleared."
-msgstr "Modalità Karaoke speciale che si apre una volta completata la storia principale."
-
-msgctxt "28403"
-msgid "Nothing to select right now."
-msgstr "Al momento non c'è nulla da selezionare."
+"Modalità di gioco per 2 giocatori. Può essere sbloccata\n"
+"ottenendo determinati obiettivi."
 
 msgctxt "28432"
 msgid "Billiards"
@@ -1838,76 +1441,24 @@ msgid ""
 "A 2-player game of pool. This mode is playable by acquiring the\n"
 "First Carom achievement."
 msgstr ""
-"Una partita a biliardo per 2 giocatori. Questa modalità è accessibile ottenendo il\n"
-"risultato \"Prima Carambola\"."
+"Una partita a biliardo per 2 giocatori. Disponibile ottenendo\n"
+"l'obiettivo \"First Carom\"."
 
 msgctxt "28564"
 msgid ""
 "A 2-player game of darts. This mode is playable by acquiring the\n"
 "Hat Trick achievement."
 msgstr ""
-"Una partita a freccette per 2 giocatori. Questa modalità è giocabile ottenendo il risultato\n"
-"\"Tripletta\"."
-
-msgctxt "28652"
-msgid ""
-"This is AnswerxAnswer for 2 players. This mode is playable by\n"
-"acquiring the Welcome to SEGA achievement."
-msgstr ""
-"Questa è AnswerxAnswer per 2 giocatori. Questa modalità è giocabile\n"
-"ottenendo l'obiettivo \"Benvenuto in SEGA\"."
-
-msgctxt "28757"
-msgid ""
-"A 2-player game of golf. This mode is playable by acquiring the\n"
-"Mr. Outdoors achievement."
-msgstr ""
-"Una partita di golf per 2 giocatori. Questa modalità è accessibile ottenendo\n"
-"l'obiettivo \"Mr. Outdoors\"."
-
-msgctxt "28847"
-msgid ""
-"A 2-player game of bowling. This mode is playable by acquiring the\n"
-"Boiled Turkey achievement."
-msgstr ""
-"Una partita a bowling per 2 giocatori. Questa modalità è giocabile ottenendo il traguardo\n"
-"\"Tacchino bollito\"."
+"Una partita a freccette per 2 giocatori. Disponibile ottenendo\n"
+"l'obiettivo \"Hat Trick\"."
 
 msgctxt "28941"
 msgid "I Wanna Change Myself by Haruka"
-msgstr "Voglio cambiare me stessa di Haruka"
-
-msgctxt "28973"
-msgid "Raindrops by Hana (Epilogue Ver.)"
-msgstr "Raindrops di Hana (Epilogue Ver.)"
+msgstr "I Wanna Change Myself - Haruka"
 
 msgctxt "29007"
-msgid "Pure Love in Kamurocho by Akiyama & Hana (Epilogue Ver.)  "
-msgstr "Puro amore a Kamurocho di Akiyama & Hana (Epilogue Ver.)  "
-
-msgctxt "29066"
-msgid ""
-"Able to play Haruka's rendition of I Wanna Change Myself.\n"
-"Playable after clearing the main story."
-msgstr ""
-"È possibile giocare alla versione di Haruka di \"I Wanna Change Myself\".\n"
-"Giocabile dopo aver completato la storia principale."
-
-msgctxt "29164"
-msgid ""
-"Able to play Hana's rendition of Raindrops.\n"
-"Hana will be in her Epilogue style."
-msgstr ""
-"In grado di suonare la versione di Raindrops di Hana.\n"
-"Hana sarà nel suo stile Epilogue."
-
-msgctxt "29244"
-msgid ""
-"Able to play Akiyama & Hana's rendition of Pure Love in Kamurocho.\n"
-"Hana will be in her Epilogue style."
-msgstr ""
-"In grado di interpretare la versione di Pure Love di Akiyama e Hana a Kamurocho.\n"
-"Hana interpreterà il suo stile Epilogue."
+msgid "Pure Love in Kamurocho by Akiyama & Hana (Epilogue Ver.)"
+msgstr "Pure Love in Kamurocho - Akiyama & Hana (Vers. Epilogo)"
 
 msgctxt "29347"
 msgid "Character Select (P1)"
@@ -1919,131 +1470,27 @@ msgstr "Selezione personaggio (P2)"
 
 msgctxt "29391"
 msgid "Select the character P1 will use."
-msgstr "Seleziona il carattere che P1 utilizzerà."
+msgstr "Seleziona il personaggio che utilizzerà P1."
 
 msgctxt "29425"
 msgid "Select the character P2 will use."
-msgstr "Seleziona il carattere che P2 utilizzerà."
-
-msgctxt "29459"
-msgid "2 input devices are required."
-msgstr "Sono richiesti 2 dispositivi di input."
-
-msgctxt "29489"
-msgid "Survival King Ranking"
-msgstr "Classifica di Survival King"
+msgstr "Seleziona il personaggio che utilizzerà P2."
 
 msgctxt "29511"
 msgid "Battle King Ranking (Akiyama)"
-msgstr "Classifica del Re della Battaglia (Akiyama)"
-
-msgctxt "29541"
-msgid "Battle King Ranking (Saejima)"
-msgstr "Classifica del Re della Battaglia (Saejima)"
-
-msgctxt "29571"
-msgid "Battle King Ranking (Tanimura)"
-msgstr "Classifica del Re della Battaglia (Tanimura)"
-
-msgctxt "29602"
-msgid "Battle King Ranking (Kiryu)"
-msgstr "Classifica del Re della Battaglia (Kiryu)"
+msgstr "Classifica Battle King (Akiyama)"
 
 msgctxt "29630"
 msgid "Fastest Killer Ranking (Akiyama)"
-msgstr "Classifica dei killer più veloci (Akiyama)"
-
-msgctxt "29663"
-msgid "Fastest Killer Ranking (Saejima)"
-msgstr "Classifica dei killer più veloci (Saejima)"
-
-msgctxt "29696"
-msgid "Fastest Killer Ranking (Tanimura)"
-msgstr "Classifica dei killer più veloci (Tanimura)"
-
-msgctxt "29730"
-msgid "Fastest Killer Ranking (Kiryu)"
-msgstr "Classifica dei killer più veloci (Kiryu)"
-
-msgctxt "29761"
-msgid "Speed King Ranking"
-msgstr "Classifica Speed King"
-
-msgctxt "29780"
-msgid "Boxcelios Score Ranking"
-msgstr "Classifica dei punteggi Boxcelios"
-
-msgctxt "29804"
-msgid "Boxcelios 2 Score Ranking"
-msgstr "Classifica dei punteggi di Boxcelios 2"
-
-msgctxt "29830"
-msgid "Bull Hunter Ranking"
-msgstr "Classifica dei cacciatori di tori"
-
-msgctxt "29850"
-msgid "Batting Champion Ranking"
-msgstr "Classifica dei campioni di battuta"
-
-msgctxt "29875"
-msgid "Strike King Ranking"
-msgstr "Classifica Strike King"
+msgstr "Classifica Fastest Killer (Akiyama)"
 
 msgctxt "29895"
 msgid "Steamy Table Tennis Ranking"
-msgstr "Classifica Steamy Table Tennis"
-
-msgctxt "29923"
-msgid "A network error occurred."
-msgstr "Si è verificato un errore di rete."
-
-msgctxt "29949"
-msgid "Closing network rankings."
-msgstr "Chiusura delle classifiche di rete."
-
-msgctxt "29975"
-msgid "???"
-msgstr "???"
-
-msgctxt "29979"
-msgid "?????"
-msgstr "?????"
-
-msgctxt "29985"
-msgid "Out of Area　"
-msgstr "Fuori area"
+msgstr "Classifica Ping Pong bollente"
 
 msgctxt "30000"
 msgid "Getting scores..."
-msgstr "Ottenere punteggi..."
-
-msgctxt "30018"
-msgid "Not submitted"
-msgstr "Non inviato"
-
-msgctxt "30032"
-msgid "｜Article List｜"
-msgstr "｜Elenco articoli｜"
-
-msgctxt "30051"
-msgid "≪ Previous article"
-msgstr "≪ Articolo precedente"
-
-msgctxt "30072"
-msgid "Next article ≫"
-msgstr "Articolo successivo ≫"
-
-msgctxt "30089"
-msgid "Theme: Revelations"
-msgstr "Tema: Rivelazioni"
-
-msgctxt "30108"
-msgid "<Action:Button_Circle@UI>Close"
-msgstr "<Action:Button_Circle@UI>Chiudi"
-
-msgctxt "30139"
-msgid "<Action:Button_Circle@UI>　　　"
-msgstr "<Action:Button_Circle@UI> Indietro"
+msgstr "Recupero punteggi in corso..."
 
 msgctxt "30174"
 msgid "Close"
@@ -2057,11 +1504,11 @@ msgid ""
 msgstr ""
 "Rivelazioni\n"
 "Morning Glory\n"
-"City"
+"Città"
 
 msgctxt "30211"
 msgid "New Mail"
-msgstr "Nuova Mail"
+msgstr "Nuova e-mail"
 
 msgctxt "30220"
 msgid "Mack"
@@ -2069,19 +1516,19 @@ msgstr "Mack"
 
 msgctxt "30225"
 msgid "<Action:Button_Cross@UI>Agree"
-msgstr "<Action:Button_Cross@UI>Accetto"
+msgstr "<Action:Button_Cross@UI> Accetta"
 
 msgctxt "30255"
 msgid "<Action:Button_Circle@UI>Don't Agree"
-msgstr "<Action:Button_Circle@UI>Non sono d'accordo"
+msgstr "<Action:Button_Circle@UI> Rifiuta"
 
 msgctxt "30292"
 msgid "Transmit and receive ranking data?"
-msgstr "Trasmettere e ricevere dati di classifica?"
+msgstr "Inviare e ricevere i dati della classifica?"
 
 msgctxt "30327"
 msgid "*This process may take a few seconds."
-msgstr "*Questo processo potrebbe richiedere alcuni secondi."
+msgstr "*L'operazione potrebbe richiedere alcuni secondi."
 
 msgctxt "30365"
 msgid "Connecting..."
@@ -2096,10 +1543,10 @@ msgid ""
 "*You can also check at your hideout.　　　"
 msgstr ""
 "Trasmissione dati completata.\n"
-"Inizio della tabulazione sul server.\n"
+"Inizio del calcolo sul server.\n"
 "\n"
-"*Si prega di controllare la classifica aggiornata dopo un po' di tempo.\n"
-"*Puoi anche controllare presso il tuo nascondiglio."
+"*Controlla la classifica aggiornata tra qualche minuto.\n"
+"*Puoi controllare anche dal tuo nascondiglio."
 
 msgctxt "30551"
 msgid ""
@@ -2109,7 +1556,7 @@ msgid ""
 msgstr ""
 "Trasmissione dati completata.\n"
 "\n"
-"Le tabulazioni vengono eseguite costantemente sul server. *Si prega di controllare la classifica aggiornata dopo un po' di tempo."
+"Il server sta elaborando i dati. Controlla la classifica aggiornata tra qualche minuto."
 
 msgctxt "30693"
 msgid ""
@@ -2117,15 +1564,15 @@ msgid ""
 "Ending network ranking."
 msgstr ""
 "Si è verificato un errore di rete.\n"
-"Terminamento della classifica di rete."
+"Chiusura delle classifiche online."
 
 msgctxt "30744"
 msgid "Ending network ranking."
-msgstr "Classifica di rete finale."
+msgstr "Chiusura delle classifiche online."
 
 msgctxt "30768"
 msgid "No Ranking Data"
-msgstr "Nessun dato di classifica"
+msgstr "Nessun dato in classifica"
 
 msgctxt "30784"
 msgid "<Action:Button_Cross@UI>"
@@ -2145,7 +1592,7 @@ msgstr "Chiudi"
 
 msgctxt "30845"
 msgid "Press <Action:Button_Cross@UI> to display detailed information."
-msgstr "Premere <Action:Button_Cross@UI> per visualizzare informazioni dettagliate."
+msgstr "Premi <Action:Button_Cross@UI> per visualizzare i dettagli."
 
 msgctxt "30909"
 msgid ""
@@ -2160,7 +1607,7 @@ msgstr ""
 
 msgctxt "31228"
 msgid "Network Ranking Menu"
-msgstr "Menu di classificazione della rete"
+msgstr "Menu classifiche online"
 
 msgctxt "31249"
 msgid "Stats:"
@@ -2172,7 +1619,7 @@ msgstr "Difficoltà"
 
 msgctxt "31267"
 msgid "Times Difficulty was Changed"
-msgstr "Modifiche alla difficoltà" 
+msgstr "Volte in cui la difficoltà è stata cambiata"
 
 msgctxt "31296"
 msgid "Continues"
@@ -2184,7 +1631,7 @@ msgstr "Pedoni urtati"
 
 msgctxt "31331"
 msgid "Weapons Broken"
-msgstr "Armi rotte"
+msgstr "Armi distrutte"
 
 msgctxt "31346"
 msgid "Distance Traveled"
@@ -2196,7 +1643,7 @@ msgstr "K.O. con Azioni Furore"
 
 msgctxt "31385"
 msgid "Number of Street Fights"
-msgstr "Combattimenti di strada"
+msgstr "Scontri di strada totali"
 
 msgctxt "31409"
 msgid "Completion Rate"
@@ -2208,7 +1655,7 @@ msgstr "Tempo di gioco"
 
 msgctxt "31435"
 msgid "Haruka's Mood"
-msgstr "L'umore di Haruka"
+msgstr "Fiducia di Haruka"
 
 msgctxt "31449"
 msgid "F"
@@ -2252,34 +1699,34 @@ msgstr "EX"
 
 msgctxt "31473"
 msgid "You got %s0,000 yen."
-msgstr "Hai ottenuto %s0,000 yen."
+msgstr "Hai ottenuto %s0.000 yen."
 
 msgctxt "31494"
 msgid "%s can now be collected."
-msgstr "Ora è possibile raccogliere %s."
+msgstr "Ora puoi raccogliere %s."
 
 msgctxt "31519"
 msgid "You got: %s."
-msgstr "Hai ottenuto: %s."
+msgstr "Hai ottenuto: %s"
 
 msgctxt "31532"
 msgid "You got: %s."
-msgstr "Hai ottenuto: %s."
+msgstr "Hai ottenuto: %s"
 
 msgctxt "31545"
 msgid "A new mode has been added to the main menu."
-msgstr "È stata aggiunta una nuova modalità al menu principale."
+msgstr "Una nuova modalità è stata aggiunta al menu principale."
 
 msgctxt "31589"
 msgid "Legend difficulty has been unlocked."
-msgstr "La difficoltà Leggenda è stata sbloccata."
+msgstr "La difficoltà Leggendaria è stata sbloccata."
 
 msgctxt "31626"
 msgid ""
 "You can claim it by visiting Naomi's Palace if you start the game\n"
 "in New Game+ or Premium Adventure mode."
 msgstr ""
-"Puoi ottenerlo visitando il Palazzo di Naomi se inizi il gioco\n"
+"Puoi riscattarlo visitando il Palazzo di Naomi se inizi il gioco\n"
 "in modalità Nuova partita+ o Avventura Premium."
 
 msgctxt "31732"
@@ -2296,7 +1743,7 @@ msgstr "Difficile"
 
 msgctxt "31749"
 msgid "Legend"
-msgstr "Legenda"
+msgstr "Leggendaria"
 
 msgctxt "31756"
 msgid "Special Games"
@@ -2316,11 +1763,11 @@ msgstr "Nuova partita"
 
 msgctxt "31809"
 msgid "Load Game"
-msgstr "Carica Partita"
+msgstr "Carica partita"
 
 msgctxt "31819"
 msgid "New Game+"
-msgstr "Nuovo gioco+"
+msgstr "Nuova partita+"
 
 msgctxt "31829"
 msgid "Premium Adventure"
@@ -2328,11 +1775,11 @@ msgstr "Avventura Premium"
 
 msgctxt "31847"
 msgid "Ultimate Match"
-msgstr "Scontro Finale"
+msgstr "Sfida Suprema"
 
 msgctxt "31862"
 msgid "Memories"
-msgstr "Memorie"
+msgstr "Ricordi"
 
 msgctxt "31871"
 msgid "Special Games"
@@ -2372,7 +1819,7 @@ msgid ""
 "all abilities, items, and money from clear data."
 msgstr ""
 "Inizia una nuova partita dall'inizio, mantenendo\n"
-"abilità, oggetti e denaro dei dati di completamento."
+"tutte le abilità, gli oggetti e il denaro dei dati di completamento."
 
 msgctxt "32104"
 msgid "Explore the game world without following the story."
@@ -2383,24 +1830,24 @@ msgid ""
 "A high-difficulty mode where you complete battle missions under\n"
 "various conditions. Completing all of them will grant you a rare item!"
 msgstr ""
-"Una modalità ad alta difficoltà in cui affrontare missioni di battaglia\n"
-"in varie condizioni. Completale tutte per ottenere un oggetto raro!"
+"Una modalità ad alta difficoltà in cui completare missioni di battaglia\n"
+"sotto varie condizioni. Completale tutte per ottenere un oggetto raro!"
 
 msgctxt "32291"
 msgid "View previously seen story events."
-msgstr "Visualizza gli eventi della storia già visti."
+msgstr "Guarda i filmati della storia già sbloccati."
 
 msgctxt "32326"
 msgid ""
 "Able to play special game modes that unlock through certain\n"
 "conditions."
 msgstr ""
-"Permette di giocare a modalità speciali sbloccate soddisfacendo\n"
+"Permette di giocare a modalità speciali sbloccate soddisfando\n"
 "determinate condizioni."
 
 msgctxt "32398"
 msgid "Check information pertaining to Extra Modes."
-msgstr "Visualizza informazioni relative alle Modalità Extra."
+msgstr "Consulta le informazioni relative alle Modalità extra."
 
 msgctxt "32443"
 msgid "Change various gameplay settings."
@@ -2408,14 +1855,14 @@ msgstr "Modifica varie impostazioni di gioco."
 
 msgctxt "32477"
 msgid "Quit the game to desktop."
-msgstr "Esci dal gioco e torna al desktop."
+msgstr "Chiudi il gioco e torna al desktop."
 
 msgctxt "32503"
 msgid ""
 "Retain clear data and explore the game world without following\n"
 "the story."
 msgstr ""
-"Mantieni i dati di completamento ed esplora il mondo di gioco\n"
+"Usa i dati di completamento ed esplora il mondo di gioco\n"
 "senza seguire la storia."
 
 msgctxt "32577"
@@ -2440,7 +1887,7 @@ msgstr ""
 
 msgctxt "32749"
 msgid "This is the standard difficulty level."
-msgstr "Il livello di difficoltà standard."
+msgstr "Questo è il livello di difficoltà standard."
 
 msgctxt "32788"
 msgid "Recommended for players who are skilled at action games."
@@ -2459,8 +1906,8 @@ msgid ""
 "When nearing victory against a powerful enemy, you are able to perform an <Color:7>Essence of Counterattack<Color:Default>. If your Heat "
 "Gauge isn't filled, press the corresponding buttons<Color:9> to enter <Color:9>Heat Mode<Color:Default> within the given amount of time."
 msgstr ""
-"Quando sei vicino alla vittoria contro un nemico potente, puoi eseguire un' <Color:7>Essenza del contrattacco<Color:Default>. "
-"Se la Barra Heat non è piena, premi i tasti corrispondenti per entrare nello <Color:9>Stato Heat<Color:Default> entro il tempo limite."
+"Quando sei vicino alla vittoria contro un nemico potente, puoi eseguire un'<Color:7>Essenza del contrattacco<Color:Default>. "
+"Se la barra Furore non è piena, premi i tasti corrispondenti per entrare in <Color:9>Modalità Furore<Color:Default> entro il tempo limite."
 
 msgctxt "33205"
 msgid "Title Match"
@@ -2484,7 +1931,7 @@ msgstr "Gran Premio dei Draghi Gemelli"
 
 msgctxt "33300"
 msgid "Tag Match Grand Prix"
-msgstr "Gran Premio di Tag Match"
+msgstr "Gran Premio Tag Match"
 
 msgctxt "33321"
 msgid "Weapon Master Grand Prix"
@@ -2496,11 +1943,11 @@ msgstr "Gran Premio dei Bombardieri"
 
 msgctxt "33364"
 msgid "Bounding Grand Prix"
-msgstr "Gran Premio di salto"
+msgstr "Gran Premio Balzante"
 
 msgctxt "33384"
 msgid "Heat Grand Prix"
-msgstr "Gran Premio di calore"
+msgstr "Gran Premio Furore"
 
 msgctxt "33400"
 msgid "Breakout Grand Prix"
@@ -2508,11 +1955,11 @@ msgstr "Gran Premio Breakout"
 
 msgctxt "33420"
 msgid "Street Fight Grand Prix"
-msgstr "Gran Premio di Street Fight"
+msgstr "Gran Premio Street Fight"
 
 msgctxt "33444"
 msgid "Exhibition Tournament"
-msgstr "Torneo Espositivo"
+msgstr "Torneo di Esibizione"
 
 msgctxt "33466"
 msgid "All-Star Tournament"
@@ -2596,13 +2043,13 @@ msgid ""
 "Click OK to continue without sounds.\n"
 "To get sounds back, quit and restart the game..."
 msgstr ""
-"È stato rilevato un cambio di frequenza di campionamento audio.\n"
+"È stata rilevata una modifica alla frequenza di campionamento audio.\n"
 "Fai clic su OK per continuare senza sonoro.\n"
 "Per ripristinare l'audio, esci e riavvia il gioco..."
 
 msgctxt "33853"
 msgid "Skip cinematic?"
-msgstr "Saltare la cinematica?"
+msgstr "Vuoi saltare il filmato?"
 
 msgctxt "33869"
 msgid ""
@@ -2626,7 +2073,7 @@ msgstr "Nessun salvataggio disponibile."
 
 msgctxt "33997"
 msgid "No more save slots available."
-msgstr "Non ci sono più slot di salvataggio disponibili."
+msgstr "Nessun altro slot di salvataggio disponibile."
 
 msgctxt "34027"
 msgid "Restore default settings?"
@@ -2650,7 +2097,7 @@ msgstr "Vuoi ripristinare i comandi della modalità di gioco corrente?"
 
 msgctxt "34185"
 msgid "Reset all control bindings?"
-msgstr "Vuoi ripristinare l'assegnazione di tutti i comandi?"
+msgstr "Vuoi ripristinare tutti i comandi ai valori predefiniti?"
 
 msgctxt "34213"
 msgid "Game Paused"
@@ -2687,8 +2134,8 @@ msgid ""
 "There are changes that weren't applied.\n"
 "Do you really want to revert changes and leave?"
 msgstr ""
-"Ci sono modifiche non applicate.\n"
-"Vuoi davvero annullare le modifiche e uscire?"
+"Alcune modifiche non sono state applicate.\n"
+"Vuoi davvero annullarle e uscire?"
 
 msgctxt "34489"
 msgid ""
@@ -2696,11 +2143,11 @@ msgid ""
 "Please reconnect it or use a different controller to resume playing."
 msgstr ""
 "Il controller è stato disconnesso.\n"
-"Ricollegalo o usa un controller diverso per riprendere a giocare."
+"Ricollegalo o usa un altro controller per riprendere a giocare."
 
 msgctxt "34591"
 msgid "Would you like to revert all controls binding?"
-msgstr "Vuoi ripristinare l'assegnazione di tutti i comandi?"
+msgstr "Vuoi ripristinare tutti i comandi ai valori predefiniti?"
 
 msgctxt "34638"
 msgid "Resume"
@@ -2712,7 +2159,7 @@ msgid ""
 "you wish to use to control the game."
 msgstr ""
 "Giocatore 1, premi un tasto sul dispositivo di input\n"
-"che desideri usare per controllare il gioco."
+"che desideri usare per giocare."
 
 msgctxt "34727"
 msgid ""
@@ -2720,7 +2167,7 @@ msgid ""
 "you wish to use to control the game."
 msgstr ""
 "Giocatore 2, premi un tasto sul dispositivo di input\n"
-"che desideri usare per controllare il gioco."
+"che desideri usare per giocare."
 
 msgctxt "34809"
 msgid "お金（1000円）"
@@ -7600,7 +7047,7 @@ msgstr "Numero di partite: %d; Punteggio precedente: %d; Punteggio massimo: %d"
 
 msgctxt "61708"
 msgid "Play Count: 0 times; Previous Score: none; High Score: none"
-msgstr "Numero di partite: 0 volte; Punteggio precedente: nessuno; Punteggio massimo: nessuno"
+msgstr "Numero di partite: 0; Punteggio precedente: nessuno; Punteggio massimo: nessuno"
 
 msgctxt "61768"
 msgid "KITTO MURI KANAU HAZU MO..."
@@ -7620,7 +7067,7 @@ msgstr "MOU ICHIDO AETA NARA..."
 
 msgctxt "61886"
 msgid "LET'S GO ☆ PARTY..."
-msgstr "ANDIAMO ☆ FESTA..."
+msgstr "LET'S GO ☆ PARTY..."
 
 msgctxt "61908"
 msgid "MATA NATSU GA OWARU BOKU NO SOBA NI WA..."
@@ -7628,7 +7075,7 @@ msgstr "MATA NATSU GA OWARU BOKU NO SOBA NI WA..."
 
 msgctxt "61950"
 msgid "Karaoke Dragon"
-msgstr "Drago Karaoke"
+msgstr "Drago del Karaoke"
 
 msgctxt "61965"
 msgid "Karaoke King"
@@ -7640,15 +7087,15 @@ msgstr "Karaoke Pro"
 
 msgctxt "61990"
 msgid "Karaoke Bozo"
-msgstr "Karaoke Bozo"
+msgstr "Negato del Karaoke"
 
 msgctxt "62003"
 msgid "Tone Deaf"
-msgstr "Stonato"
+msgstr "Stonato come una campana"
 
 msgctxt "62013"
 msgid "Unattempted"
-msgstr "Non ancora iniziato"
+msgstr "Mai tentato"
 
 msgctxt "62025"
 msgid "Simple"
@@ -7680,7 +7127,7 @@ msgstr "BUONO"
 
 msgctxt "62071"
 msgid "BAD"
-msgstr "MALE"
+msgstr "ERRORE"
 
 msgctxt "62075"
 msgid "Score"
@@ -7688,7 +7135,7 @@ msgstr "Punteggio"
 
 msgctxt "62081"
 msgid "High Score"
-msgstr "Punteggio più alto"
+msgstr "Punteggio massimo"
 
 msgctxt "62092"
 msgid "Evaluation"
@@ -7696,7 +7143,7 @@ msgstr "Valutazione"
 
 msgctxt "62103"
 msgid "Game"
-msgstr "Partita"
+msgstr "Partite"
 
 msgctxt "62108"
 msgid "Travel"
@@ -7880,15 +7327,15 @@ msgstr "Sfida finale"
 
 msgctxt "62526"
 msgid "Don't have anything I can use."
-msgstr "Non ho niente che mi possa servire."
+msgstr "Non ho niente di utile."
 
 msgctxt "62557"
 msgid "What to use?"
-msgstr "Cosa usare?"
+msgstr "Cosa vuoi usare?"
 
 msgctxt "62570"
 msgid "Use this item?"
-msgstr "Utilizzi questo oggetto?"
+msgstr "Vuoi usare questo oggetto?"
 
 msgctxt "62585"
 msgid "Even"
@@ -7915,28 +7362,28 @@ msgid "Odd"
 msgstr "Dispari"
 
 msgctxt "62639"
-msgid "           Continue           "
-msgstr "           Continua           "
+msgid "           Continue           "
+msgstr "           Continua           "
 
 msgctxt "62670"
 msgid "Quit"
 msgstr "Esci"
 
 msgctxt "62675"
-msgid "            Yes            "
-msgstr "            Sì            "
+msgid "            Yes            "
+msgstr "            Sì            "
 
 msgctxt "62703"
-msgid "           No           "
-msgstr "           No            "
+msgid "           No           "
+msgstr "           No            "
 
 msgctxt "62728"
 msgid "Lookin' good..."
-msgstr "Sembra tutto a posto..."
+msgstr "Niente male..."
 
 msgctxt "62744"
 msgid "Pretty good."
-msgstr "Piuttosto buono."
+msgstr "Molto bene."
 
 msgctxt "62757"
 msgid "You're not half bad."
@@ -7944,7 +7391,7 @@ msgstr "Non sei affatto male."
 
 msgctxt "62778"
 msgid "That's it..."
-msgstr "Questo è tutto..."
+msgstr "Ecco fatto..."
 
 msgctxt "62791"
 msgid "Should'a known..."
@@ -7952,19 +7399,19 @@ msgstr "Avrei dovuto saperlo..."
 
 msgctxt "62809"
 msgid "Good job."
-msgstr "Buon lavoro."
+msgstr "Bel lavoro."
 
 msgctxt "62819"
 msgid "Guess this one's yours..."
-msgstr "Immagino che questo sia tuo..."
+msgstr "Immagino che questa sia tua..."
 
 msgctxt "62845"
 msgid "Amazing..."
-msgstr "Sorprendente..."
+msgstr "Incredibile..."
 
 msgctxt "62856"
 msgid "Take that..."
-msgstr "Prendi questo..."
+msgstr "Prendi questo!"
 
 msgctxt "62869"
 msgid "Hehehe..."
@@ -7980,23 +7427,23 @@ msgstr "Peccato."
 
 msgctxt "62895"
 msgid "Close."
-msgstr "Chiudi."
+msgstr "Quasi."
 
 msgctxt "62902"
 msgid "Good job."
-msgstr "Buon lavoro."
+msgstr "Ottimo lavoro."
 
 msgctxt "62912"
 msgid "Could'a gone better."
-msgstr "Avrei potuto fare di meglio."
+msgstr "Poteva andare meglio."
 
 msgctxt "62933"
 msgid "Hmm..."
-msgstr "Hmm..."
+msgstr "Uhm..."
 
 msgctxt "62940"
 msgid "Round %d"
-msgstr "Tondo %d"
+msgstr "Round %d"
 
 msgctxt "62949"
 msgid "Points Left:"
@@ -8004,19 +7451,19 @@ msgstr "Punti rimasti:"
 
 msgctxt "62962"
 msgid "Wagered Points:"
-msgstr "Punti Scommessi:"
+msgstr "Punti scommessi:"
 
 msgctxt "62978"
 msgid "Payout"
-msgstr "Pagamento"
+msgstr "Vincita"
 
 msgctxt "62985"
 msgid "Current Bets"
-msgstr "Scommesse attuali"
+msgstr "Puntate attuali"
 
 msgctxt "62998"
-msgid "          %s people   %s pts."
-msgstr "%s persone %s punti"
+msgid "          %s people   %s pts."
+msgstr "%s persone, %s punti"
 
 msgctxt "63028"
 msgid "%s pts."
@@ -8036,7 +7483,7 @@ msgstr "Non promuovere"
 
 msgctxt "63075"
 msgid "Use a Take Back?"
-msgstr "Utilizzare un ritiro?"
+msgstr "Annullare la mossa?"
 
 msgctxt "63092"
 msgid "No"
@@ -8048,35 +7495,35 @@ msgstr "Sì"
 
 msgctxt "63099"
 msgid "Checkmate. Use a Take Back?"
-msgstr "Scacco matto. Usare un ritiro?"
+msgstr "Scacco matto. Vuoi annullare la mossa?"
 
 msgctxt "63127"
 msgid "Move limit exceeded. Use a Take Back?"
-msgstr "Limite di spostamento superato. Utilizzare un Ritiro?"
+msgstr "Limite di mosse superato. Vuoi annullare la mossa?"
 
 msgctxt "63165"
 msgid "Toss pieces to determine who goes first."
-msgstr "Lanciate i pezzi per determinare chi inizia."
+msgstr "Lancia i pezzi per determinare chi inizia."
 
 msgctxt "63206"
 msgid "Press <Action:Button_Cross@Shogi> button to stop pieces."
-msgstr "Premere il pulsante <Action:Button_Cross@Shogi> per fermare i pezzi."
+msgstr "Premi <Action:Button_Cross@Shogi> per fermare i pezzi."
 
 msgctxt "63263"
 msgid "More pawns. You go first."
-msgstr "Altri pedoni. Inizia tu."
+msgstr "Più pedoni. Inizia tu."
 
 msgctxt "63289"
 msgid "More promoted pawns. Opponent goes first."
-msgstr "Più pedoni promossi. L'avversario inizia."
+msgstr "Più pedoni promossi. Inizia l'avversario."
 
 msgctxt "63331"
 msgid "You go first."
-msgstr "Vai per primo."
+msgstr "Inizi tu."
 
 msgctxt "63345"
 msgid "Opponent goes first."
-msgstr "L'avversario inizia per primo."
+msgstr "Inizia l'avversario."
 
 msgctxt "63366"
 msgid "Win in %d or fewer moves."
@@ -8084,7 +7531,7 @@ msgstr "Vinci in %d mosse o meno."
 
 msgctxt "63392"
 msgid "Haha! Now you've done it!"
-msgstr "Ahah! Ora ce l'hai fatta!"
+msgstr "Ahah! Adesso sei fritto!"
 
 msgctxt "63418"
 msgid "I know your every move!"
@@ -8096,7 +7543,7 @@ msgstr "Urghhh..."
 
 msgctxt "63452"
 msgid "Can't keep this up..."
-msgstr "Non riesco a continuare così..."
+msgstr "Non posso continuare così..."
 
 msgctxt "63474"
 msgid "Ugh... This is tough."
@@ -8104,11 +7551,11 @@ msgstr "Ugh... Questa è dura."
 
 msgctxt "63496"
 msgid "I think I'm done..."
-msgstr "Penso di aver finito..."
+msgstr "Mi sa che sono spacciato..."
 
 msgctxt "63516"
 msgid "I got it!"
-msgstr "Capito!"
+msgstr "Preso!"
 
 msgctxt "63526"
 msgid "You sure about that, friend?"
@@ -8128,11 +7575,11 @@ msgstr "Ugh..."
 
 msgctxt "63572"
 msgid "Can't get a break..."
-msgstr "Non riesco a prendermi una pausa..."
+msgstr "Non me ne va bene una..."
 
 msgctxt "63593"
 msgid "View Rules"
-msgstr "Visualizza le regole"
+msgstr "Visualizza regole"
 
 msgctxt "63604"
 msgid "Types of Pieces"
@@ -8148,39 +7595,39 @@ msgstr "Chiudi"
 
 msgctxt "63640"
 msgid "Take Back"
-msgstr "Riprenditi"
+msgstr "Annulla mossa"
 
 msgctxt "63650"
 msgid "Time Limit"
-msgstr "Limite di tempo"
+msgstr "Tempo limite"
 
 msgctxt "63661"
 msgid "Start Game"
-msgstr "Inizia il gioco"
+msgstr "Inizia partita"
 
 msgctxt "63672"
 msgid "Don't have anything I can use."
-msgstr "Non ho niente che mi possa servire."
+msgstr "Non ho oggetti utilizzabili."
 
 msgctxt "63703"
 msgid "What to use?"
-msgstr "Cosa usare?"
+msgstr "Cosa vuoi usare?"
 
 msgctxt "63716"
 msgid "Use this item?"
-msgstr "Utilizzi questo articolo?"
+msgstr "Vuoi usare questo oggetto?"
 
 msgctxt "63731"
 msgid "Throw 1"
-msgstr "Lancia 1"
+msgstr "Lancio 1"
 
 msgctxt "63739"
 msgid "Throw 2"
-msgstr "Lancia 2"
+msgstr "Lancio 2"
 
 msgctxt "63747"
 msgid "Throw 3"
-msgstr "Lancia 3"
+msgstr "Lancio 3"
 
 msgctxt "63755"
 msgid "No Points"
@@ -8188,7 +7635,7 @@ msgstr "Nessun punto"
 
 msgctxt "63765"
 msgid "Missed the Pot"
-msgstr "Ho mancato il piatto"
+msgstr "Fuori dal piatto"
 
 msgctxt "63780"
 msgid "　　%s"
@@ -8200,15 +7647,15 @@ msgstr "%s %s"
 
 msgctxt "63795"
 msgid "Move %3d"
-msgstr "Sposta %3d"
+msgstr "Mossa %3d"
 
 msgctxt "63804"
 msgid "Disabled"
-msgstr "Disabilitato"
+msgstr "Disattivato"
 
 msgctxt "63813"
 msgid "Moves Left: %d"
-msgstr "Spostamenti a sinistra: %d"
+msgstr "Mosse rimaste: %d"
 
 msgctxt "63828"
 msgid "Style"
@@ -8220,11 +7667,11 @@ msgstr "Handicap"
 
 msgctxt "63843"
 msgid "Take Back"
-msgstr "Riprenditi"
+msgstr "Annulla mossa"
 
 msgctxt "63853"
 msgid "Who do you want to play?"
-msgstr "Con chi vuoi giocare?"
+msgstr "Contro chi vuoi giocare?"
 
 msgctxt "63878"
 msgid "Receipt"
@@ -8232,15 +7679,15 @@ msgstr "Ricevuta"
 
 msgctxt "63886"
 msgid "Cover Charge"
-msgstr "Coperto"
+msgstr "Ingresso"
 
 msgctxt "63899"
 msgid "Hostess Selection"
-msgstr "Selezione della hostess"
+msgstr "Selezione hostess"
 
 msgctxt "63917"
 msgid "Food/Drink"
-msgstr "Cibo/Bevande"
+msgstr "Cibo e bevande"
 
 msgctxt "63928"
 msgid "Service Charge"
@@ -8252,11 +7699,11 @@ msgstr "Totale"
 
 msgctxt "63949"
 msgid "Moon/C. Blossom Viewing"
-msgstr "Osservazione della Luna/C. Blossom"
+msgstr "Osservazione della luna/dei ciliegi"
 
 msgctxt "63973"
 msgid "Rounds"
-msgstr "Turni"
+msgstr "Round"
 
 msgctxt "63980"
 msgid "Month %d"
@@ -8284,7 +7731,7 @@ msgstr "%s punti"
 
 msgctxt "64032"
 msgid "Total %s pts."
-msgstr "Totale %s punti."
+msgstr "Totale: %s punti"
 
 msgctxt "64046"
 msgid "Five Lights"
@@ -8296,7 +7743,7 @@ msgstr "Quattro luci"
 
 msgctxt "64070"
 msgid "Rainy Four Lights"
-msgstr "Quattro luci piovose"
+msgstr "Quattro luci con pioggia"
 
 msgctxt "64088"
 msgid "Three Lights"
@@ -8304,7 +7751,7 @@ msgstr "Tre luci"
 
 msgctxt "64101"
 msgid "C. Blossom Viewing"
-msgstr "C. Osservazione dei fiori"
+msgstr "Osservazione dei ciliegi"
 
 msgctxt "64120"
 msgid "Moon Viewing"
@@ -8316,11 +7763,11 @@ msgstr "Cinghiale, cervo, farfalla"
 
 msgctxt "64155"
 msgid "Red Poetry Ribbons"
-msgstr "Nastri rossi di poesia"
+msgstr "Nastri con poesie rossi"
 
 msgctxt "64174"
 msgid "Blue Poetry Ribbons"
-msgstr "Nastri di poesia blu"
+msgstr "Nastri con poesie blu"
 
 msgctxt "64194"
 msgid "Variety"
@@ -8328,11 +7775,11 @@ msgstr "Varietà"
 
 msgctxt "64202"
 msgid "Poetry Ribbons"
-msgstr "Nastri di poesia"
+msgstr "Nastri con poesie"
 
 msgctxt "64217"
 msgid "Junk"
-msgstr "Robaccia"
+msgstr "Carte base"
 
 msgctxt "64222"
 msgid "Four of a Kind"
@@ -8348,7 +7795,7 @@ msgstr "Risultati"
 
 msgctxt "64256"
 msgid "%d-round match"
-msgstr "partita a %d round"
+msgstr "Partita da %d round"
 
 msgctxt "64271"
 msgid "Opponent"
@@ -8364,15 +7811,15 @@ msgstr "Hai perso."
 
 msgctxt "64299"
 msgid "Draw."
-msgstr "Patta."
+msgstr "Pareggio."
 
 msgctxt "64305"
 msgid "Wagered Points:"
-msgstr "Punti Scommessi:"
+msgstr "Punti scommessi:"
 
 msgctxt "64321"
 msgid "Total %s x %s = %s pts."
-msgstr "Totale %s x %s = %s punti."
+msgstr "Totale: %s x %s = %s punti"
 
 msgctxt "64345"
 msgid "Change the settings."
@@ -8384,7 +7831,7 @@ msgstr "Scegli una carta per determinare il mazziere."
 
 msgctxt "64403"
 msgid "You are the dealer."
-msgstr "Tu sei il mazziere."
+msgstr "Sei il mazziere."
 
 msgctxt "64423"
 msgid "Your opponent is the dealer."
@@ -8392,7 +7839,7 @@ msgstr "Il tuo avversario è il mazziere."
 
 msgctxt "64452"
 msgid "No hands were formed. Dealer changes."
-msgstr "Non si sono formate mani. Il mazziere cambia."
+msgstr "Nessuna combinazione formata. Il mazziere cambia."
 
 msgctxt "64490"
 msgid "Rate"
@@ -8400,15 +7847,15 @@ msgstr "Tasso"
 
 msgctxt "64495"
 msgid "Start Game"
-msgstr "Inizia il gioco"
+msgstr "Inizia partita"
 
 msgctxt "64506"
 msgid "Change Settings"
-msgstr "Modifica Impostazioni"
+msgstr "Modifica impostazioni"
 
 msgctxt "64522"
 msgid "View Rules"
-msgstr "Visualizza le regole"
+msgstr "Visualizza regole"
 
 msgctxt "64533"
 msgid "Hands"
@@ -8420,7 +7867,7 @@ msgstr "<Action:Button_Cross@UI> Conferma <Action:Button_Circle@UI> Indietro"
 
 msgctxt "64603"
 msgid "<Action:Button_Circle@UI> Back"
-msgstr "<Action:Button_Circle@UI Indietro"
+msgstr "<Action:Button_Circle@UI> Indietro"
 
 msgctxt "64634"
 msgid "Your Points"
@@ -8432,11 +7879,11 @@ msgstr "Difficoltà"
 
 msgctxt "64657"
 msgid "Double pts. for 7+"
-msgstr "Doppi punti per 7+"
+msgstr "Raddoppia punti con 7+"
 
 msgctxt "64676"
 msgid "Check Settings"
-msgstr "Controlla le impostazioni"
+msgstr "Controlla impostazioni"
 
 msgctxt "64691"
 msgid "Rules"
@@ -8468,7 +7915,7 @@ msgstr "Esci"
 
 msgctxt "64754"
 msgid "You need at least 200 points to play."
-msgstr "Per giocare sono necessari almeno 200 punti."
+msgstr "Ti servono almeno 200 punti per giocare."
 
 msgctxt "64792"
 msgid "1"
@@ -8524,43 +7971,43 @@ msgstr "Difficoltà avanzata sbloccata."
 
 msgctxt "64849"
 msgid "Expert difficulty unlocked."
-msgstr "Livello di difficoltà esperto sbloccato."
+msgstr "Difficoltà esperta sbloccata."
 
 msgctxt "64877"
 msgid "Start Game"
-msgstr "Inizia il gioco"
+msgstr "Inizia partita"
 
 msgctxt "64888"
 msgid "View Rules"
-msgstr "Visualizza le regole"
+msgstr "Visualizza regole"
 
 msgctxt "64899"
 msgid ""
 "(I don't think I have any bait I can use...\n"
 "I'll come back when I find some.)"
 msgstr ""
-"(Non credo di avere esche da usare...\n"
-"Tornerò quando ne troverò qualcuna.)"
+"(Non credo di avere esche utilizzabili...\n"
+"Tornerò quando ne avrò trovata qualcuna.)"
 
 msgctxt "64977"
 msgid "Do you want to use this as bait?"
-msgstr "Vuoi usarlo come esca?"
+msgstr "Vuoi usarla come esca?"
 
 msgctxt "65010"
 msgid "You caught: <Color:8>%s <Color:Default>%dcm!"
-msgstr "Hai preso:<Color:8> %s<Color:Default> %dcm!"
+msgstr "Hai pescato: <Color:8>%s <Color:Default>%d cm!"
 
 msgctxt "65055"
 msgid ""
 "You caught: <Color:8>%s <Color:Default>%dcm! \n"
 "<Color:5>A new record!"
 msgstr ""
-"Hai preso:<Color:8> %s<Color:Default> %dcm!<Color:5> \n"
-"Un nuovo record!"
+"Hai pescato: <Color:8>%s <Color:Default>%d cm! \n"
+"<Color:5>Nuovo record!"
 
 msgctxt "65124"
 msgid "<Color:8>%s<Color:Default> was inside the Briefcase!"
-msgstr "<Color:8>%s<Color:Default> era dentro la valigetta!"
+msgstr "Nella valigetta c'era: <Color:8>%s<Color:Default>!"
 
 msgctxt "65177"
 msgid "Continue"
@@ -8604,7 +8051,7 @@ msgstr "Pesce scorpione diavolo"
 
 msgctxt "65264"
 msgid "Thread-sail Filefish"
-msgstr "Pesce lima a vela"
+msgstr "Pesce lima piumato"
 
 msgctxt "65285"
 msgid "Prawn"
@@ -8620,7 +8067,7 @@ msgstr "Ghiozzo"
 
 msgctxt "65307"
 msgid "Steel Drum"
-msgstr "Tamburo d'acciaio"
+msgstr "Barile d'acciaio"
 
 msgctxt "65318"
 msgid "Briefcase"
@@ -8636,7 +8083,7 @@ msgstr "Grande squalo bianco"
 
 msgctxt "65355"
 msgid "Japanese Huchen"
-msgstr "Salmone del Danubio giapponese"
+msgstr "Salmone giapponese"
 
 msgctxt "65371"
 msgid "Giant Oarfish"
@@ -8648,31 +8095,31 @@ msgstr "Granchio gigante"
 
 msgctxt "65396"
 msgid "szCommonStr_KiryuKazuma"
-msgstr "szCommonStr_KiryuKazuma"
+msgstr "Kazuma Kiryu"
 
 msgctxt "65420"
 msgid "szCommonStr_SaejimaTaiga"
-msgstr "szCommonStr_SaejimaTaiga"
+msgstr "Taiga Saejima"
 
 msgctxt "65445"
 msgid "szCommonStr_AkiyamaSyun"
-msgstr "szCommonStr_AkiyamaSyun"
+msgstr "Shun Akiyama"
 
 msgctxt "65469"
 msgid "szCommonStr_TanimuraMasayoshi"
-msgstr "szCommonStr_TanimuraMasayoshi"
+msgstr "Masayoshi Tanimura"
 
 msgctxt "65499"
 msgid ""
 "%s %dcm\n"
 "Fisher: %s"
 msgstr ""
-"%s %dcm\n"
-"Fisher: %s"
+"%s %d cm\n"
+"Pescatore: %s"
 
 msgctxt "65518"
 msgid "Select Outfit"
-msgstr "Seleziona l'outfit"
+msgstr "Seleziona abbigliamento"
 
 msgctxt "65532"
 msgid "Hairstyle"
@@ -8712,7 +8159,7 @@ msgstr "Lenti a contatto colorate"
 
 msgctxt "65634"
 msgid "Blush"
-msgstr "Arrossire"
+msgstr "Fard"
 
 msgctxt "65640"
 msgid "Glitter Blush"
@@ -8796,7 +8243,7 @@ msgstr "Nessuna"
 
 msgctxt "65800"
 msgid "Owned"
-msgstr "Di proprietà"
+msgstr "In possesso"
 
 msgctxt "65806"
 msgid "Default Hairstyle"
@@ -8876,7 +8323,7 @@ msgstr "Raffinato"
 
 msgctxt "66228"
 msgid "Gorgeous"
-msgstr "Sfarzosa"
+msgstr "Elegante"
 
 msgctxt "66237"
 msgid "Cute"
@@ -8908,7 +8355,7 @@ msgstr "Totale"
 
 msgctxt "66303"
 msgid "Profit"
-msgstr "Profitto"
+msgstr "Guadagno"
 
 msgctxt "66310"
 msgid "Remaining Balance"
@@ -8936,7 +8383,7 @@ msgstr "Riprova"
 
 msgctxt "66366"
 msgid "Quit Practice"
-msgstr "Smetti di praticare"
+msgstr "Interrompi pratica"
 
 msgctxt "66380"
 msgid ""
@@ -8944,7 +8391,7 @@ msgid ""
 "Take a mulligan?"
 msgstr ""
 "Puoi riprovare questo tiro se vuoi.\n"
-"Fare un mulligan?"
+"Vuoi usare un mulligan?"
 
 msgctxt "66434"
 msgid "Would you like to view the tutorial?"
@@ -8959,11 +8406,11 @@ msgid "　－ ±%d"
 msgstr "　－ ±%d"
 
 msgctxt "66494"
-msgid "　 ↓  －%d"
+msgid "　 ↓  －%d"
 msgstr "　 ↓ －%d"
 
 msgctxt "66509"
-msgid "　 ↑  ＋%d"
+msgid "　 ↑  ＋%d"
 msgstr "　 ↑ ＋%d"
 
 msgctxt "66524"
@@ -8992,7 +8439,7 @@ msgstr "%.1f"
 
 msgctxt "66571"
 msgid "Course"
-msgstr "Trattamento"
+msgstr "Tipo di massaggio"
 
 msgctxt "66578"
 msgid "Standard Massage"
@@ -9000,7 +8447,7 @@ msgstr "Massaggio standard"
 
 msgctxt "66595"
 msgid "Deluxe Massage"
-msgstr "Massaggio Deluxe"
+msgstr "Massaggio deluxe"
 
 msgctxt "66610"
 msgid "VIP Oil Massage"
@@ -9024,7 +8471,7 @@ msgstr "Soddisfazione totale"
 
 msgctxt "66689"
 msgid "Highest Total Satisfaction"
-msgstr "Soddisfazione totale massima"
+msgstr "Miglior soddisfazione totale"
 
 msgctxt "66716"
 msgid "Rank"
@@ -9112,27 +8559,27 @@ msgstr "Ancora uno!"
 
 msgctxt "66874"
 msgid "Showdown with three!"
-msgstr "Scontro tra tre!"
+msgstr "Confronto a tre!"
 
 msgctxt "66895"
 msgid "Alright, you're on!"
-msgstr "Bene, ci siamo!"
+msgstr "Molto bene, accetto!"
 
 msgctxt "66915"
 msgid "Start Game"
-msgstr "Inizia il gioco"
+msgstr "Inizia partita"
 
 msgctxt "66926"
 msgid "View Rules"
-msgstr "Visualizza le regole"
+msgstr "Visualizza regole"
 
 msgctxt "66937"
 msgid "Showdown"
-msgstr "Scontro finale"
+msgstr "Confronto"
 
 msgctxt "66946"
 msgid "One More"
-msgstr "Ancora uno"
+msgstr "Ancora una"
 
 msgctxt "66955"
 msgid "Play Again"
@@ -9148,15 +8595,15 @@ msgstr "Sei il mazziere."
 
 msgctxt "66991"
 msgid "Select where to place your bet."
-msgstr "Seleziona dove piazzare la scommessa."
+msgstr "Seleziona dove piazzare la puntata."
 
 msgctxt "67023"
 msgid "Decide how much to bet."
-msgstr "Decidi quanto scommettere."
+msgstr "Decidi quanto puntare."
 
 msgctxt "67047"
 msgid "Other players are selecting."
-msgstr "Gli altri giocatori stanno scegliendo."
+msgstr "Gli altri giocatori stanno scegliendo..."
 
 msgctxt "67076"
 msgid "Select player to challenge."
@@ -9164,7 +8611,7 @@ msgstr "Seleziona il giocatore da sfidare."
 
 msgctxt "67104"
 msgid "Going into showdown with this hand."
-msgstr "Allo showdown con questa mano."
+msgstr "Vai al confronto con questa mano."
 
 msgctxt "67140"
 msgid "The dealer is challenging."
@@ -9172,22 +8619,22 @@ msgstr "Il mazziere ti sfida."
 
 msgctxt "67167"
 msgid "Out of points. Exiting."
-msgstr "Punti esauriti. Uscita in corso."
+msgstr "Punti esauriti. Uscita in corso..."
 
 msgctxt "67191"
 msgid "Wager %s pts."
-msgstr "Punta %s punti."
+msgstr "Punta %s pti."
 
 msgctxt "67205"
 msgid "Result %s pts."
-msgstr "Risultato: %s punti."
+msgstr "Risultato: %s pti."
 
 msgctxt "67220"
 msgid ""
 "Place your bet. \n"
 "You can bet up to %s chips."
 msgstr ""
-"Piazza la tua scommessa.\n"
+"Piazza la tua puntata.\n"
 "Puoi puntare fino a %s fiches."
 
 msgctxt "67265"
@@ -9199,15 +8646,15 @@ msgid ""
 "The odds here are %d.\n"
 "You can bet %s more chips."
 msgstr ""
-"Le quote qui sono %d.\n"
-"Puoi scommettere altre %s fiches."
+"La quota qui è %d.\n"
+"Puoi puntare altre %s fiches."
 
 msgctxt "67336"
 msgid ""
 "The odds here are %d.\n"
 "You already bet %s chips."
 msgstr ""
-"Le quote qui sono %d.\n"
+"La quota qui è %d.\n"
 "Hai già puntato %s fiches."
 
 msgctxt "67384"
@@ -9215,7 +8662,7 @@ msgid ""
 "The odds here are %d.\n"
 "You cannot bet any more chips."
 msgstr ""
-"Le quote qui sono %d.\n"
+"La quota qui è %d.\n"
 "Non puoi puntare altre fiches."
 
 msgctxt "67437"
@@ -9224,7 +8671,7 @@ msgstr "Non hai abbastanza fiches."
 
 msgctxt "67466"
 msgid "You can only place five bets."
-msgstr "Puoi piazzare solo cinque scommesse."
+msgstr "Puoi piazzare solo cinque puntate."
 
 msgctxt "67496"
 msgid ""
@@ -9332,11 +8779,11 @@ msgstr "Puntate alte (100/1000)"
 
 msgctxt "67832"
 msgid "Play for High Stakes"
-msgstr "Gioca per puntate alte"
+msgstr "Gioca con puntate alte"
 
 msgctxt "67853"
 msgid "Continue Standard Game"
-msgstr "Continua il gioco standard"
+msgstr "Continua partita standard"
 
 msgctxt "67876"
 msgid "Quit"
@@ -9344,11 +8791,11 @@ msgstr "Esci"
 
 msgctxt "67881"
 msgid "Standard Game"
-msgstr "Gioco standard"
+msgstr "Partita standard"
 
 msgctxt "67895"
 msgid "Play Against the House"
-msgstr "Gioca contro la casa"
+msgstr "Gioca contro il banco"
 
 msgctxt "67918"
 msgid "Quit"
@@ -9364,11 +8811,11 @@ msgstr "Esci"
 
 msgctxt "67937"
 msgid "Bet"
-msgstr "Scommettere"
+msgstr "Puntata"
 
 msgctxt "67941"
 msgid "Payout"
-msgstr "Pagamento"
+msgstr "Vincita"
 
 msgctxt "67948"
 msgid "Total"
@@ -9376,7 +8823,7 @@ msgstr "Totale"
 
 msgctxt "67954"
 msgid "Acquired"
-msgstr "Acquisita"
+msgstr "Acquisito"
 
 msgctxt "67963"
 msgid "?????"
@@ -9416,7 +8863,7 @@ msgstr "Manjiro d'oro"
 
 msgctxt "68068"
 msgid "Syrup Boy"
-msgstr "Ragazzo Sciroppo"
+msgstr "Syrup Boy"
 
 msgctxt "68078"
 msgid "Hito-nyan (Normal)"
@@ -9432,39 +8879,39 @@ msgstr "Hito-nyan (Felice)"
 
 msgctxt "68140"
 msgid "Giant Pillow Pups (Golden Retriever)"
-msgstr "Cuccioli di cuscino giganti (Golden Retriever)"
+msgstr "Peluche cucciolo gigante (Golden Retriever)"
 
 msgctxt "68177"
 msgid "Giant Pillow Pups (Shiba)"
-msgstr "Cuccioli di cuscino giganti (Shiba)"
+msgstr "Peluche cucciolo gigante (Shiba)"
 
 msgctxt "68203"
 msgid "Giant Pillow Pups (French Bulldog)"
-msgstr "Cuccioli di cuscino giganti (Bulldog francese)"
+msgstr "Peluche cucciolo gigante (Bulldog francese)"
 
 msgctxt "68238"
 msgid "Giant Pillow Pups (Chihuahua)"
-msgstr "Cuccioli di cuscino giganti (Chihuahua)"
+msgstr "Peluche cucciolo gigante (Chihuahua)"
 
 msgctxt "68268"
 msgid "Pillow Pups (Golden Retriever)"
-msgstr "Cuccioli di cuscino (Golden Retriever)"
+msgstr "Peluche cucciolo (Golden Retriever)"
 
 msgctxt "68299"
 msgid "Pillow Pups (Shiba)"
-msgstr "Cuccioli di cuscino (Shiba)"
+msgstr "Peluche cucciolo (Shiba)"
 
 msgctxt "68319"
 msgid "Pillow Pups (French Bulldog)"
-msgstr "Cuccioli di cuscino (Bulldog francese)"
+msgstr "Peluche cucciolo (Bulldog francese)"
 
 msgctxt "68348"
 msgid "Pillow Pups (Chihuahua)"
-msgstr "Cuccioli di cuscino (Chihuahua)"
+msgstr "Peluche cucciolo (Chihuahua)"
 
 msgctxt "68372"
 msgid "Yummy Bar (Spicy Cod Roe)"
-msgstr "Yummy Bar (uova di merluzzo piccanti)"
+msgstr "Yummy Bar (Uova di merluzzo piccanti)"
 
 msgctxt "68398"
 msgid "Yummy Bar (Salami)"
@@ -9496,19 +8943,19 @@ msgstr "Classifica"
 
 msgctxt "68477"
 msgid "%dst"
-msgstr "%dst"
+msgstr "%dº"
 
 msgctxt "68482"
 msgid "%dnd"
-msgstr "%dnd"
+msgstr "%dº"
 
 msgctxt "68487"
 msgid "%drd"
-msgstr "%drd"
+msgstr "%dº"
 
 msgctxt "68492"
 msgid "%dth"
-msgstr "%dth"
+msgstr "%dº"
 
 msgctxt "68497"
 msgid "NULL"
@@ -9524,23 +8971,23 @@ msgstr "NULL"
 
 msgctxt "68513"
 msgid "Don't bet."
-msgstr "Non scommettere."
+msgstr "Non puntare (Check)."
 
 msgctxt "68524"
 msgid "Match previous player's bet."
-msgstr "Abbina la scommessa del giocatore precedente."
+msgstr "Pareggia la puntata precedente (Vedere)."
 
 msgctxt "68553"
 msgid "Bet more than previous player."
-msgstr "Scommetti di più rispetto al giocatore precedente."
+msgstr "Punta più del giocatore precedente (Rilanciare)."
 
 msgctxt "68584"
 msgid "Bet a fixed amount."
-msgstr "Scommetti una cifra fissa."
+msgstr "Punta una cifra fissa."
 
 msgctxt "68604"
 msgid "Stop betting and forfeit."
-msgstr "Smetti di scommettere e rinuncia."
+msgstr "Smetti di puntare e ritirati (Lasciare)."
 
 msgctxt "68630"
 msgid "End this round."
@@ -11304,7 +10751,7 @@ msgstr "Masaki"
 
 msgctxt "74870"
 msgid "　　 Try Again　　 "
-msgstr "   Riprova   "
+msgstr "    Riprova    "
 
 msgctxt "74894"
 msgid "Load & Try Again"
@@ -11324,7 +10771,7 @@ msgstr "Annulla"
 
 msgctxt "74952"
 msgid "Controls"
-msgstr "Controlli"
+msgstr "Comandi"
 
 msgctxt "74961"
 msgid "Exit minigame?"
@@ -11352,7 +10799,7 @@ msgstr "Sei sicuro?"
 
 msgctxt "75014"
 msgid "Are you sure you want to quit?"
-msgstr "Sicuro di voler uscire?"
+msgstr "Sei sicuro di voler uscire?"
 
 msgctxt "75045"
 msgid "Are you sure you want to retry?"
@@ -11360,11 +10807,11 @@ msgstr "Sei sicuro di voler riprovare?"
 
 msgctxt "75077"
 msgid "You will lose if you quit now. Are you sure you want to quit?"
-msgstr "Se abbandoni ora perderai. Sei sicuro di voler abbandonare?"
+msgstr "Se abbandoni ora, perderai la partita. Sei sicuro di voler uscire?"
 
 msgctxt "75139"
 msgid "You cannot quit now."
-msgstr "Non puoi mollare adesso."
+msgstr "Non puoi uscire adesso."
 
 msgctxt "75160"
 msgid "Pause Menu"
@@ -11392,7 +10839,7 @@ msgstr "Profili dei personaggi"
 
 msgctxt "75221"
 msgid "Substories"
-msgstr "Sottotrame"
+msgstr "Storie secondarie"
 
 msgctxt "75232"
 msgid "Completion List"
@@ -11400,7 +10847,7 @@ msgstr "Elenco di completamento"
 
 msgctxt "75248"
 msgid "Memos"
-msgstr "Memos"
+msgstr "Promemoria"
 
 msgctxt "75254"
 msgid "Options"
@@ -11408,11 +10855,11 @@ msgstr "Opzioni"
 
 msgctxt "75262"
 msgid "Valuables"
-msgstr "Rarità"
+msgstr "Oggetti preziosi"
 
 msgctxt "75272"
 msgid "View Abilities"
-msgstr "Vedi Abilità"
+msgstr "Visualizza abilità"
 
 msgctxt "75287"
 msgid "You can upgrade abilities. <Action:Button_Cross@UI>"
@@ -11424,7 +10871,7 @@ msgstr "Battaglia per la sopravvivenza"
 
 msgctxt "75359"
 msgid "Survival Tag"
-msgstr "Etichetta di sopravvivenza"
+msgstr "Tag survival"
 
 msgctxt "75372"
 msgid "Battle King Championship"
@@ -11436,7 +10883,7 @@ msgstr "Campionato Killer più veloce"
 
 msgctxt "75425"
 msgid "You cannot change equipment now."
-msgstr "Ora non è possibile cambiare equipaggiamento."
+msgstr "Non puoi cambiare equipaggiamento ora."
 
 msgctxt "75458"
 msgid "EXP"
@@ -11492,7 +10939,7 @@ msgstr "Anima"
 
 msgctxt "75514"
 msgid "Tech"
-msgstr "Tech"
+msgstr "Tecnica"
 
 msgctxt "75519"
 msgid "Body"
@@ -11504,11 +10951,11 @@ msgstr "Furore"
 
 msgctxt "75529"
 msgid "Learn skill?"
-msgstr "Imparare abilità?"
+msgstr "Vuoi apprendere questa abilità?"
 
 msgctxt "75542"
 msgid "Soul Orb Cost"
-msgstr "Costo sfere dell'anima"
+msgstr "Costo Sfere dell'Anima"
 
 msgctxt "75556"
 msgid "In <Color:109,193,240,255>Heat Mode<Color:Default>"
@@ -11516,7 +10963,7 @@ msgstr "In <Color:109,193,240,255>Modalità Furore<Color:Default>"
 
 msgctxt "75607"
 msgid "In <Color:255,100,100,255>Red Heat Mode<Color:Default>"
-msgstr "In <Color:255,100,100,255>Modalità Furore rossa<Color:Default>"
+msgstr "In <Color:255,100,100,255>Modalità Furore Rossa<Color:Default>"
 
 msgctxt "75662"
 msgid "Category"
@@ -11535,32 +10982,32 @@ msgid ""
 "Abilities can be acquired. <Color:109,193,240,255>Blue letters<Color:Default> indicate that the ability is a Heat Action, while "
 "<Color:255,100,100,255>red letters<Color:Default> indicate that the ability can only be activated when the Heat Gauge is in the red."
 msgstr ""
-"Le abilità possono essere acquisite. Le <Color:109,193,240,255>lettere blu<Color:Default> indicano che l'abilità è un'Azione Furore, "
-"mentre le <Color:255,100,100,255>lettere rosse<Color:Default> indicano che l'abilità è attivabile solo quando l'indicatore Furore è rosso."
+"Le abilità possono essere acquisite. Le <Color:109,193,240,255>scritte blu<Color:Default> indicano che l'abilità è un'Azione Furore, "
+"mentre le <Color:255,100,100,255>scritte rosse<Color:Default> indicano che l'abilità è attivabile solo quando la barra Furore è rossa."
 
 msgctxt "75956"
 msgid "Move the cursor up and down to select an ability, then press <Action:Button_Cross@UI> to acquire it."
-msgstr "Muovi il cursore su e giù per selezionare un'abilità, quindi premi <Action:Button_Cross@UI> per acquisirla."
+msgstr "Sposta il cursore su e giù per selezionare un'abilità, quindi premi <Action:Button_Cross@UI> per acquisirla."
 
 msgctxt "76084"
 msgid "Use item?"
-msgstr "Usare l'oggetto?"
+msgstr "Vuoi usare questo oggetto?"
 
 msgctxt "76094"
 msgid "Discard item?"
-msgstr "Scartare l'oggetto?"
+msgstr "Vuoi scartare questo oggetto?"
 
 msgctxt "76119"
 msgid "Temporarily switch to Easy difficulty?"
-msgstr "Passare temporaneamente alla difficoltà Facile?"
+msgstr "Vuoi passare temporaneamente alla difficoltà Facile?"
 
 msgctxt "76158"
 msgid "Are you sure you want to switch to Easy?"
-msgstr "Sei sicuro di voler passare a Facile?"
+msgstr "Sei sicuro di voler passare alla difficoltà Facile?"
 
 msgctxt "76199"
 msgid "Discard item?"
-msgstr "Scartare l'oggetto?"
+msgstr "Vuoi scartare questo oggetto?"
 
 msgctxt "76213"
 msgid "Continue watching?"
@@ -11576,11 +11023,11 @@ msgstr "Impossibile scartare l'oggetto."
 
 msgctxt "76586"
 msgid "You don't need to use that now."
-msgstr "Non è necessario usarlo ora."
+msgstr "Non è necessario usarlo adesso."
 
 msgctxt "76667"
 msgid "You can't discard equipped items."
-msgstr "Non puoi scartare oggetti equipaggiati."
+msgstr "Non puoi scartare gli oggetti equipaggiati."
 
 msgctxt "76701"
 msgid "You can't equip that on this character."
@@ -11604,7 +11051,7 @@ msgstr "Tasso di completamento"
 
 msgctxt "76792"
 msgid "You cannot change equipment now."
-msgstr "Ora non è possibile cambiare equipaggiamento."
+msgstr "Non puoi cambiare equipaggiamento ora."
 
 msgctxt "76825"
 msgid "Bare-Handed"
@@ -11620,11 +11067,11 @@ msgstr "Lama"
 
 msgctxt "76850"
 msgid "Bullet"
-msgstr "Bullet"
+msgstr "Proiettile"
 
 msgctxt "76857"
 msgid "Burn"
-msgstr "Brucia"
+msgstr "Fuoco"
 
 msgctxt "76862"
 msgid "Slow"
@@ -11644,11 +11091,11 @@ msgstr "Iper"
 
 msgctxt "76885"
 msgid "No Emails"
-msgstr "Nessuna email"
+msgstr "Nessuna e-mail"
 
 msgctxt "76895"
 msgid "No Unread Emails"
-msgstr "Nessuna email non letta"
+msgstr "Nessuna e-mail non letta"
 
 msgctxt "76912"
 msgid "Inbox"
@@ -11656,7 +11103,7 @@ msgstr "In arrivo"
 
 msgctxt "76918"
 msgid "Received Emails"
-msgstr "Email ricevute"
+msgstr "E-mail ricevute"
 
 msgctxt "76934"
 msgid "%03d/%03d"
@@ -11672,11 +11119,11 @@ msgstr "%s %s"
 
 msgctxt "76975"
 msgid "Ascending Order"
-msgstr "Ordine Ascendente"
+msgstr "Ordine ascendente"
 
 msgctxt "76991"
 msgid "Descending Order"
-msgstr "Ordine Discendente"
+msgstr "Ordine discendente"
 
 msgctxt "77008"
 msgid "Received"
@@ -11684,7 +11131,7 @@ msgstr "Ricevuta"
 
 msgctxt "77017"
 msgid "Unread"
-msgstr "Non letto"
+msgstr "Non letta"
 
 msgctxt "77024"
 msgid "Sender"
@@ -11692,7 +11139,7 @@ msgstr "Mittente"
 
 msgctxt "77031"
 msgid "Email"
-msgstr "Email"
+msgstr "E-mail"
 
 msgctxt "77037"
 msgid "Restaurant"
@@ -11712,11 +11159,11 @@ msgstr "Importante"
 
 msgctxt "77074"
 msgid "Training"
-msgstr "Formazione"
+msgstr "Addestramento"
 
 msgctxt "77083"
 msgid "Nightlife"
-msgstr "Vita Notturna"
+msgstr "Vita notturna"
 
 msgctxt "77093"
 msgid "Men's Entertainment Box"
@@ -11728,7 +11175,7 @@ msgstr "Palazzo del Drago"
 
 msgctxt "77131"
 msgid "Public Park 3"
-msgstr "Parco pubblico 3"
+msgstr "Parco pubblico n. 3"
 
 msgctxt "77145"
 msgid "Milestone"
@@ -11736,19 +11183,19 @@ msgstr "Milestone"
 
 msgctxt "77155"
 msgid "Food Stall"
-msgstr "Bancarella di cibo"
+msgstr "Bancarella"
 
 msgctxt "77166"
 msgid "Nair's Training"
-msgstr "L'addestramento di Nair"
+msgstr "Addestramento di Nair"
 
 msgctxt "77182"
 msgid "Saigo's Training"
-msgstr "L'addestramento di Saigo"
+msgstr "Addestramento di Saigo"
 
 msgctxt "77199"
 msgid "Master's Training"
-msgstr "Formazione del Master"
+msgstr "Addestramento del Maestro"
 
 msgctxt "77217"
 msgid "Sodachi Gym"
@@ -11756,15 +11203,15 @@ msgstr "Palestra Sodachi"
 
 msgctxt "77229"
 msgid "New Serena"
-msgstr "Nuova Serena"
+msgstr "New Serena"
 
 msgctxt "77240"
 msgid "Kamiyama Works (Armor)"
-msgstr "Kamiyama Works (Armatura)"
+msgstr "Officina Kamiyama (Protezioni)"
 
 msgctxt "77263"
 msgid "Kamiyama Works"
-msgstr "Opere di Kamiyama"
+msgstr "Officina Kamiyama"
 
 msgctxt "77278"
 msgid "Save Point"
@@ -11776,7 +11223,7 @@ msgstr "Taxi"
 
 msgctxt "77294"
 msgid "Coin Lockers"
-msgstr "Armadietti a monete"
+msgstr "Armadietti a gettoni"
 
 msgctxt "77307"
 msgid "Little Asia"
@@ -11788,7 +11235,7 @@ msgid ""
 "Press <Action:Button_Square@UI>, <Action:Button_L1@UI> or <Action:Button_R1@UI> to go to the Map Select screen."
 msgstr ""
 "Ingrandisci con <Action:Button_Cross@UI>, <Action:Button_L2@UI> o <Action:Button_R2@UI>.\n"
-"Premi <Action:Button_Square@UI>, <Action:Button_L1@UI> o <Action:Button_R1@UI> per andare alla selezione mappa."
+"Premi <Action:Button_Square@UI>, <Action:Button_L1@UI> o <Action:Button_R1@UI> per tornare alla selezione mappa."
 
 msgctxt "77518"
 msgid "Zoom in with <Action:Button_Cross@UI>, <Action:Button_L2@UI> or <Action:Button_R2@UI>."
@@ -11804,7 +11251,7 @@ msgstr "Nessuna mappa"
 
 msgctxt "77701"
 msgid "Press <Action:Button_Triangle@UI> to return to the map screen."
-msgstr "Premi <Action:Button_Triangle@UI> per tornare alla mappa."
+msgstr "Premi <Action:Button_Triangle@UI> per tornare alla schermata della mappa."
 
 msgctxt "77764"
 msgid "Please select a starting point."
@@ -11864,11 +11311,11 @@ msgstr "Hostess"
 
 msgctxt "77929"
 msgid "Coin Lockers"
-msgstr "Armadietti a monete"
+msgstr "Armadietti a gettoni"
 
 msgctxt "77942"
 msgid "Food/Drink"
-msgstr "Cibo/Bevande"
+msgstr "Cibo e bevande"
 
 msgctxt "77953"
 msgid "Heat Actions"
@@ -11880,7 +11327,7 @@ msgstr "Colosseo"
 
 msgctxt "77975"
 msgid "Weapon Modding"
-msgstr "Modding delle armi"
+msgstr "Creazione armi"
 
 msgctxt "77990"
 msgid "Revelations"
@@ -11952,7 +11399,7 @@ msgstr "Zodiaco"
 
 msgctxt "78184"
 msgid "Likes"
-msgstr "Piaceri"
+msgstr "Gusti"
 
 msgctxt "78190"
 msgid "Dislikes"
@@ -11960,7 +11407,7 @@ msgstr "Disgusti"
 
 msgctxt "78199"
 msgid "Times Requested"
-msgstr "Tempi richiesti"
+msgstr "Volte richiesta"
 
 msgctxt "78215"
 msgid "%d"
@@ -11968,7 +11415,7 @@ msgstr "%d"
 
 msgctxt "78218"
 msgid "Money Spent"
-msgstr "Importo speso"
+msgstr "Denaro speso"
 
 msgctxt "78230"
 msgid "\\%d"
@@ -11980,7 +11427,7 @@ msgstr "Regalo più recente"
 
 msgctxt "78254"
 msgid "None"
-msgstr "Nessuna"
+msgstr "Nessuno"
 
 msgctxt "78259"
 msgid "Defeat"
@@ -12060,7 +11507,7 @@ msgstr "UFO Catcher"
 
 msgctxt "78446"
 msgid "AnswerxAnswer"
-msgstr "RispostaxRisposta"
+msgstr "AnswerxAnswer"
 
 msgctxt "78460"
 msgid "Boxcelios"
@@ -12084,7 +11531,7 @@ msgstr "Mahjong"
 
 msgctxt "78505"
 msgid "Batting Center"
-msgstr "Centro di battuta"
+msgstr "Batting Center"
 
 msgctxt "78520"
 msgid "Golf"
@@ -12100,7 +11547,7 @@ msgstr "Inseguimento in barca"
 
 msgctxt "78544"
 msgid "10-Frame Score"
-msgstr "Punteggio 10-Frame"
+msgstr "Punteggio 10-frame"
 
 msgctxt "78559"
 msgid "Total Points"
@@ -12108,7 +11555,7 @@ msgstr "Punti totali"
 
 msgctxt "78572"
 msgid "Total Chips"
-msgstr "Fiches Totali"
+msgstr "Fiches totali"
 
 msgctxt "78584"
 msgid "Total Wins"
@@ -12116,11 +11563,11 @@ msgstr "Vittorie totali"
 
 msgctxt "78595"
 msgid "Unattempted"
-msgstr "Non ancora iniziato"
+msgstr "Mai tentato"
 
 msgctxt "78607"
 msgid "01 　　 Unattempted"
-msgstr "01 　　 Non tentato"
+msgstr "01 　　 Mai tentato"
 
 msgctxt "78629"
 msgid "01　　"
@@ -12140,7 +11587,7 @@ msgstr "Incompleto"
 
 msgctxt "78667"
 msgid "Acquired"
-msgstr "Acquisita"
+msgstr "Acquisito"
 
 msgctxt "78676"
 msgid "Unacquired"
@@ -12160,43 +11607,43 @@ msgstr "Completamento: Hostess"
 
 msgctxt "78726"
 msgid "Completion: Coin Lockers"
-msgstr "Completamento: Armadietti a monete"
+msgstr "Completamento: Armadietti a gettoni"
 
 msgctxt "78751"
 msgid "Taihei Boulevard Coin Lockers"
-msgstr "Armadietti a gettoni Taihei Boulevard"
+msgstr "Armadietti a gettoni di Taihei Boulevard"
 
 msgctxt "78781"
 msgid "Underground Coin Lockers"
-msgstr "Armadietti sotterranei a monete"
+msgstr "Armadietti a gettoni sotterranei"
 
 msgctxt "78806"
 msgid "Completion: Coin Lockers"
-msgstr "Completamento: Armadietti a monete"
+msgstr "Completamento: Armadietti a gettoni"
 
 msgctxt "78831"
 msgid "Taihei Boulevard Coin Lockers"
-msgstr "Armadietti a gettoni Taihei Boulevard"
+msgstr "Armadietti a gettoni di Taihei Boulevard"
 
 msgctxt "78861"
 msgid "Underground Coin Lockers"
-msgstr "Armadietti sotterranei a monete"
+msgstr "Armadietti a gettoni sotterranei"
 
 msgctxt "78886"
 msgid "Completion: Food/Drink"
-msgstr "Completamento: Cibo/Bevande"
+msgstr "Completamento: Cibo e bevande"
 
 msgctxt "78909"
 msgid "Completion: Heat Actions"
-msgstr "Completamento: azioni di calore"
+msgstr "Completamento: Azioni Furore"
 
 msgctxt "78934"
 msgid "Completion: Weapon Modding"
-msgstr "Completamento: modifica delle armi"
+msgstr "Completamento: Creazione armi"
 
 msgctxt "78961"
 msgid "Completion: Weapon Modding"
-msgstr "Completamento: modifica delle armi"
+msgstr "Completamento: Creazione armi"
 
 msgctxt "78988"
 msgid "Weapons"
@@ -12216,19 +11663,19 @@ msgstr "Torneo in solitaria"
 
 msgctxt "79038"
 msgid "Tag Tournament"
-msgstr "Torneo di coppia"
+msgstr "Torneo Tag"
 
 msgctxt "79053"
 msgid "Completion: Coin Lockers"
-msgstr "Completamento: Armadietti a monete"
+msgstr "Completamento: Armadietti a gettoni"
 
 msgctxt "79078"
 msgid "Completion: Food/Drink"
-msgstr "Completamento: Cibo/Bevande"
+msgstr "Completamento: Cibo e bevande"
 
 msgctxt "79101"
 msgid "Completion: Weapon Modding"
-msgstr "Completamento: modifica delle armi"
+msgstr "Completamento: Creazione armi"
 
 msgctxt "79128"
 msgid "Completion: Allies"
@@ -12252,7 +11699,7 @@ msgstr "Completamento: Hostess Maker"
 
 msgctxt "79241"
 msgid "Completion: No. 1 Hostess Maker"
-msgstr "Completamento: n. 1 Hostess Maker"
+msgstr "Completamento: No. 1 Hostess Maker"
 
 msgctxt "79273"
 msgid "Completion: Saigo's Training"
@@ -12272,7 +11719,7 @@ msgstr "Completamento: Colosseo"
 
 msgctxt "79379"
 msgid "Completion: Fighter Maker"
-msgstr "Completamento: Creatore di combattenti"
+msgstr "Completamento: Fighter Maker"
 
 msgctxt "79405"
 msgid "Completion: Police Scanner"
@@ -12288,27 +11735,27 @@ msgstr "Completamento: IF7-R"
 
 msgctxt "79478"
 msgid "Completion: Heat Actions"
-msgstr "Completamento: azioni di calore"
+msgstr "Completamento: Azioni Furore"
 
 msgctxt "79503"
 msgid "Camera Control (Vertical)"
-msgstr "Controllo della telecamera (verticale)"
+msgstr "Comandi telecamera (Verticale)"
 
 msgctxt "79529"
 msgid "Camera Control (Horizontal)"
-msgstr "Controllo della telecamera (orizzontale)"
+msgstr "Comandi telecamera (Orizzontale)"
 
 msgctxt "79557"
 msgid "First-Person View (Vertical)"
-msgstr "Visuale in prima persona (verticale)"
+msgstr "Visuale in prima persona (Verticale)"
 
 msgctxt "79586"
 msgid "First-Person View (Horizontal)"
-msgstr "Visuale in prima persona (orizzontale)"
+msgstr "Visuale in prima persona (Orizzontale)"
 
 msgctxt "79617"
 msgid "Minimap Rotation"
-msgstr "Rotazione della minimappa"
+msgstr "Rotazione minimappa"
 
 msgctxt "79634"
 msgid "Subtitles"
@@ -12316,11 +11763,11 @@ msgstr "Sottotitoli"
 
 msgctxt "79644"
 msgid "Event Skip"
-msgstr "Salta evento"
+msgstr "Salta scene"
 
 msgctxt "79655"
 msgid "Screen Brightness"
-msgstr "Luminosità dello schermo"
+msgstr "Luminosità schermo"
 
 msgctxt "79673"
 msgid "Set Font"
@@ -12328,7 +11775,7 @@ msgstr "Imposta carattere"
 
 msgctxt "79682"
 msgid "English Karaoke Lyrics"
-msgstr "Testi Karaoke in Inglese"
+msgstr "Testi karaoke in inglese"
 
 msgctxt "79705"
 msgid "Hide HUD"
@@ -12336,7 +11783,7 @@ msgstr "Nascondi HUD"
 
 msgctxt "79714"
 msgid "Icon Select"
-msgstr "Seleziona Icona"
+msgstr "Selezione icone"
 
 msgctxt "79726"
 msgid "Controller Vibration"
@@ -12396,10 +11843,9 @@ msgid ""
 "Normal moves the camera in the direction you moved <Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>.\n"
 "Inverted moves the camera opposite to the direction you moved <Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>."
 msgstr ""
-"Cambia il modo in cui la telecamera si muove verticalmente.\n"
-"Normale sposta la telecamera nella direzione in cui ti sei mosso <Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>.\n"
-"Invertito sposta la telecamera nella direzione opposta a quella in cui ti sei mosso "
-"<Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>."
+"Cambia la modalità di movimento verticale della telecamera.\n"
+"Normale: sposta la telecamera nella stessa direzione di <Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>.\n"
+"Invertito: sposta la telecamera nella direzione opposta a <Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>."
 
 msgctxt "80156"
 msgid ""
@@ -12407,10 +11853,9 @@ msgid ""
 "Normal moves the camera in the direction you moved <Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>.\n"
 "Inverted moves the camera opposite to the direction you moved <Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>."
 msgstr ""
-"Cambia il modo in cui la telecamera si muove orizzontalmente.\n"
-"Normale sposta la telecamera nella direzione in cui ti sei mosso <Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>.\n"
-"Invertito sposta la telecamera nella direzione opposta a quella in cui ti sei mosso "
-"<Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>."
+"Cambia la modalità di movimento orizzontale della telecamera.\n"
+"Normale: sposta la telecamera nella stessa direzione di <Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>.\n"
+"Invertito: sposta la telecamera nella direzione opposta a <Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>."
 
 msgctxt "80459"
 msgid ""
@@ -12418,10 +11863,9 @@ msgid ""
 "Normal moves the camera in the direction you moved <Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>.\n"
 "Inverted moves the camera opposite to the direction you moved <Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>."
 msgstr ""
-"Cambia il modo in cui la telecamera in prima persona si muove verticalmente.\n"
-"Normale sposta la telecamera nella direzione in cui ti sei mosso <Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>.\n"
-"Invertito sposta la telecamera nella direzione opposta a quella in cui ti sei mosso "
-"<Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>."
+"Cambia la modalità di movimento verticale della telecamera in prima persona.\n"
+"Normale: sposta la telecamera nella stessa direzione di <Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>.\n"
+"Invertito: sposta la telecamera nella direzione opposta a <Action:Turn_Camera_Up@Adventure><Action:Turn_Camera_Down@Adventure>."
 
 msgctxt "80767"
 msgid ""
@@ -12429,30 +11873,29 @@ msgid ""
 "Normal moves the camera in the direction you moved <Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>.\n"
 "Inverted moves the camera opposite to the direction you moved <Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>."
 msgstr ""
-"Cambia il modo in cui la telecamera in prima persona si muove orizzontalmente.\n"
-"Normale sposta la telecamera nella direzione in cui ti sei mosso <Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>.\n"
-"Invertito sposta la telecamera nella direzione opposta a quella in cui ti sei mosso "
-"<Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>."
+"Cambia la modalità di movimento orizzontale della telecamera in prima persona.\n"
+"Normale: sposta la telecamera nella stessa direzione di <Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>.\n"
+"Invertito: sposta la telecamera nella direzione opposta a <Action:Turn_Camera_Left@Adventure><Action:Turn_Camera_Right@Adventure>."
 
 msgctxt "81083"
 msgid ""
 "Switch minimap rotation on/off. If turned on, the minimap will\n"
 "rotate with the camera."
 msgstr ""
-"Attiva/disattiva la rotazione della minimappa. Se attivata, la minimappa\n"
+"Attiva o disattiva la rotazione della minimappa. Se attiva, la minimappa\n"
 "ruoterà insieme alla telecamera."
 
 msgctxt "81170"
 msgid "Switch subtitles for movie scenes on/off."
-msgstr "Attiva/disattiva i sottotitoli per le scene dei film."
+msgstr "Attiva o disattiva i sottotitoli durante le scene d'intermezzo."
 
 msgctxt "81212"
 msgid ""
 "Turn the ability to skip movie scenes on/off. Press the <Action:Button_Options@Adventure>\n"
 "button during a scene to skip it."
 msgstr ""
-"Attiva/disattiva la possibilità di saltare le scene del film. Premi il pulsante <Action:Button_Options@Adventure>\n"
-"durante una scena per saltarla."
+"Attiva o disattiva la possibilità di saltare le scene d'intermezzo. Premi il pulsante <Action:Button_Options@Adventure>\n"
+"durante un filmato per saltarlo."
 
 msgctxt "81336"
 msgid "Adjust the screen brightness."
@@ -12460,7 +11903,7 @@ msgstr "Regola la luminosità dello schermo."
 
 msgctxt "81366"
 msgid "Change the font used during the game."
-msgstr "Cambia il font utilizzato durante il gioco (Può creare problemi con la patch ita)."
+msgstr "Cambia il carattere utilizzato nel gioco (Può creare problemi con la patch ITA)."
 
 msgctxt "81404"
 msgid ""
@@ -12468,8 +11911,8 @@ msgid ""
 "lyrics will display during karaoke. While off, the original\n"
 "Japanese lyrics will display with pronunciations underneath."
 msgstr ""
-"Quando questa opzione è attiva, durante il karaoke verranno visualizzate le traduzioni in inglese\n"
-"del testo originale giapponese. Quando è disattivata, verranno visualizzati i testi originali\n"
+"Quando attiva, durante il karaoke verranno mostrate le traduzioni (in inglese)\n"
+"dei testi originali giapponesi. Quando disattivata, verranno mostrati i testi originali\n"
 "giapponesi con la relativa pronuncia sottostante."
 
 msgctxt "81589"
@@ -12478,11 +11921,11 @@ msgstr "Attiva o disattiva l'HUD di gioco."
 
 msgctxt "81619"
 msgid "Option to choose what icons will be used."
-msgstr "Possibilità di scegliere quali icone verranno utilizzate."
+msgstr "Permette di scegliere quali icone utilizzare."
 
 msgctxt "81661"
 msgid "Switch on/off the controller vibration."
-msgstr "Attiva/disattiva la vibrazione del controller."
+msgstr "Attiva o disattiva la vibrazione del controller."
 
 msgctxt "81701"
 msgid "Change controller sensitivity."
@@ -12510,15 +11953,15 @@ msgstr "Visualizza e modifica le opzioni grafiche."
 
 msgctxt "81831"
 msgid "Controls"
-msgstr "Controlli"
+msgstr "Comandi"
 
 msgctxt "81840"
 msgid "View and change game controls options."
-msgstr "Visualizza e modifica le opzioni dei controlli di gioco."
+msgstr "Visualizza e modifica le opzioni dei comandi di gioco."
 
 msgctxt "81879"
 msgid "Gameplay"
-msgstr "Modalità gioco"
+msgstr "Azione di gioco"
 
 msgctxt "81888"
 msgid "View and change gameplay options."
@@ -12538,15 +11981,15 @@ msgstr "Esci dal gioco"
 
 msgctxt "81969"
 msgid "Quit the game to desktop."
-msgstr "Esci dal gioco e torna al desktop."
+msgstr "Chiudi il gioco e torna al desktop."
 
 msgctxt "81995"
 msgid "Master Volume"
-msgstr "Volume principale"
+msgstr "Volume generale"
 
 msgctxt "82009"
 msgid "Set main volume."
-msgstr "Imposta il volume principale."
+msgstr "Imposta il volume generale."
 
 msgctxt "82026"
 msgid "Music"
@@ -12570,23 +12013,23 @@ msgstr "Dialoghi"
 
 msgctxt "82104"
 msgid "Set voice volume in dialogues."
-msgstr "Imposta il volume della voce nei dialoghi."
+msgstr "Imposta il volume delle voci nei dialoghi."
 
 msgctxt "82135"
 msgid "Cinematics"
-msgstr "Cinematiche"
+msgstr "Filmati"
 
 msgctxt "82146"
 msgid "Set volume for cinematic sequences."
-msgstr "Imposta il volume per le sequenze cinematiche."
+msgstr "Imposta il volume per i filmati d'intermezzo."
 
 msgctxt "82182"
 msgid "Speaker Type"
-msgstr "Tipo di altoparlante"
+msgstr "Tipo di altoparlanti"
 
 msgctxt "82195"
 msgid "Set type of connected audio device."
-msgstr "Imposta il tipo di dispositivo audio connesso."
+msgstr "Imposta il tipo di dispositivo audio collegato."
 
 msgctxt "82231"
 msgid "Type 1"
@@ -12602,19 +12045,19 @@ msgstr "Tipo 3"
 
 msgctxt "82252"
 msgid "Output Device"
-msgstr "Dispositivo di output"
+msgstr "Dispositivo di uscita"
 
 msgctxt "82266"
 msgid "Set video output device."
-msgstr "Imposta il dispositivo di output video."
+msgstr "Seleziona il dispositivo di uscita video."
 
 msgctxt "82291"
 msgid "Display Mode"
-msgstr "Modalità di visualizzazione"
+msgstr "Modalità video"
 
 msgctxt "82304"
 msgid "Configure display mode."
-msgstr "Configura la modalità di visualizzazione."
+msgstr "Configura la modalità video."
 
 msgctxt "82328"
 msgid "Resolution"
@@ -12638,7 +12081,7 @@ msgstr "Sincronizzazione verticale"
 
 msgctxt "82415"
 msgid "Enable or disable display vertical synchronization."
-msgstr "Abilita o disabilita la sincronizzazione verticale del display."
+msgstr "Attiva o disattiva la sincronizzazione verticale (V-Sync)."
 
 msgctxt "82467"
 msgid "FPS Cap"
@@ -12646,15 +12089,15 @@ msgstr "Limite FPS"
 
 msgctxt "82475"
 msgid "Set limit for number of displayed frames per second."
-msgstr "Imposta un limite per il numero di fotogrammi visualizzati al secondo."
+msgstr "Imposta un limite al numero di fotogrammi al secondo."
 
 msgctxt "82528"
 msgid "Field of View"
-msgstr "Campo visivo"
+msgstr "Campo visivo (FOV)"
 
 msgctxt "82542"
 msgid "Configure camera field of view."
-msgstr "Configurare il campo visivo della telecamera."
+msgstr "Configura l'ampiezza del campo visivo della telecamera."
 
 msgctxt "82574"
 msgid "Depth of Field"
@@ -12662,7 +12105,7 @@ msgstr "Profondità di campo"
 
 msgctxt "82589"
 msgid "Configure depth of field effect."
-msgstr "Configura l'effetto profondità di campo."
+msgstr "Configura l'effetto della profondità di campo."
 
 msgctxt "82622"
 msgid "Advanced"
@@ -12674,7 +12117,7 @@ msgstr "Opzioni grafiche avanzate."
 
 msgctxt "82658"
 msgid "Input Type"
-msgstr "Tipo di ingresso"
+msgstr "Tipo di input"
 
 msgctxt "82669"
 msgid "Select input type."
@@ -12690,7 +12133,7 @@ msgstr "Seleziona il dispositivo di input."
 
 msgctxt "82716"
 msgid "Pad"
-msgstr "GamePad"
+msgstr "Controller"
 
 msgctxt "82720"
 msgid "Keyboard and Mouse"
@@ -12702,55 +12145,55 @@ msgstr "Schermo intero"
 
 msgctxt "82750"
 msgid "Windowed"
-msgstr "Finestrato"
+msgstr "Finestra"
 
 msgctxt "82759"
 msgid "Borderless"
-msgstr "Senza bordi"
+msgstr "Finestra senza bordi"
 
 msgctxt "82770"
 msgid "Letterbox Artworks"
-msgstr "Letterbox Artworks"
+msgstr "Illustrazioni Letterbox"
 
 msgctxt "82789"
 msgid ""
 "Enable or disable tattoo letterbox artwork\n"
 "used in aspect ratios different than 16:9."
 msgstr ""
-"Abilita o disabilita la grafica del letterbox artwork\n"
-"utilizzato in rapporti d'aspetto diversi da 16:9."
+"Attiva o disattiva le illustrazioni a tema tatuaggi\n"
+"usate per i formati diversi da 16:9."
 
 msgctxt "82875"
 msgid "Texture Quality"
-msgstr "Qualità della texture"
+msgstr "Qualità texture"
 
 msgctxt "82891"
 msgid "Set texture quality."
-msgstr "Imposta la qualità della texture."
+msgstr "Imposta la qualità delle texture."
 
 msgctxt "82912"
 msgid "Texture Filtering"
-msgstr "Filtro delle texture"
+msgstr "Filtraggio texture"
 
 msgctxt "82930"
 msgid "Set anisotropic texture filtering."
-msgstr "Imposta il filtro anisotropico della texture."
+msgstr "Imposta il filtraggio anisotropico delle texture."
 
 msgctxt "82965"
 msgid "Shadow Quality"
-msgstr "Qualità delle ombre"
+msgstr "Qualità ombre"
 
 msgctxt "82980"
 msgid "Set shadow quality."
-msgstr "Imposta la qualità dell'ombra."
+msgstr "Imposta la qualità delle ombre."
 
 msgctxt "83000"
 msgid "Geometry Quality"
-msgstr "Qualità della geometria"
+msgstr "Qualità geometria"
 
 msgctxt "83017"
 msgid "Set quality of geometry meshes."
-msgstr "Imposta la qualità delle mesh geometriche."
+msgstr "Imposta la qualità dei modelli geometrici."
 
 msgctxt "83049"
 msgid "Anti-aliasing"
@@ -12766,7 +12209,7 @@ msgstr "Scala di rendering"
 
 msgctxt "83114"
 msgid "Set render scaling."
-msgstr "Imposta il ridimensionamento del rendering."
+msgstr "Imposta la risoluzione interna del rendering."
 
 msgctxt "83134"
 msgid "FidelityFX CAS"
@@ -12774,11 +12217,11 @@ msgstr "FidelityFX CAS"
 
 msgctxt "83149"
 msgid "Enable or disable FidelityFX Contrast Adaptive Sharpening."
-msgstr "Abilita o disabilita la nitidezza adattiva del contrasto FidelityFX."
+msgstr "Attiva o disattiva il FidelityFX Contrast Adaptive Sharpening."
 
 msgctxt "83208"
 msgid "FidelityFX CAS Sharpen level"
-msgstr "Livello di nitidezza CAS FidelityFX"
+msgstr "Nitidezza FidelityFX CAS"
 
 msgctxt "83237"
 msgid "Set FidelityFX sharpen level."
@@ -12790,7 +12233,7 @@ msgstr "SSAO"
 
 msgctxt "83272"
 msgid "Enable or disable Screen Space Ambient Occlusion."
-msgstr "Abilita o disabilita l'occlusione ambientale dello spazio sullo schermo."
+msgstr "Attiva o disattiva l'occlusione ambientale (SSAO)."
 
 msgctxt "83322"
 msgid "Low"
@@ -12798,7 +12241,7 @@ msgstr "Bassa"
 
 msgctxt "83326"
 msgid "Medium"
-msgstr "Medio"
+msgstr "Media"
 
 msgctxt "83333"
 msgid "High"
@@ -12838,15 +12281,15 @@ msgstr "CMAA"
 
 msgctxt "83369"
 msgid "Disabled"
-msgstr "Disabilitato"
+msgstr "Disattivato"
 
 msgctxt "83378"
 msgid "Upsample and Sharpen"
-msgstr "Campionatura e nitidezza"
+msgstr "Upsampling e nitidezza"
 
 msgctxt "83399"
 msgid "Sharpen"
-msgstr "Sharpen"
+msgstr "Nitidezza"
 
 msgctxt "83407"
 msgid "Game Mode"
@@ -12858,7 +12301,7 @@ msgstr "Dispositivo"
 
 msgctxt "83424"
 msgid "Pad icons"
-msgstr "Icone del GamePad"
+msgstr "Icone controller"
 
 msgctxt "83434"
 msgid "Auto"
@@ -12910,7 +12353,7 @@ msgstr "Continua dai dati salvati."
 
 msgctxt "83822"
 msgid "Exit to Title"
-msgstr "Torna al titolo"
+msgstr "Torna al menu principale"
 
 msgctxt "83836"
 msgid "Exit to title screen."
@@ -12918,7 +12361,7 @@ msgstr "Torna alla schermata del titolo."
 
 msgctxt "83858"
 msgid "Exit to Windows"
-msgstr "Torna su Windows"
+msgstr "Esci su Windows"
 
 msgctxt "83874"
 msgid "Exit to Windows desktop."
@@ -12926,7 +12369,7 @@ msgstr "Chiudi il gioco e torna al desktop di Windows."
 
 msgctxt "83899"
 msgid "Japan Button Layout"
-msgstr "Layout dei pulsanti giapponese"
+msgstr "Configurazione tasti giapponese"
 
 msgctxt "83919"
 msgid ""
@@ -12934,9 +12377,9 @@ msgid ""
 "To apply changes in all game modes of the title (not only menu)\n"
 "controls settings must be reverted to default."
 msgstr ""
-"Modifiche ai pulsanti \"Conferma\" e \"Indietro\".\n"
-"Per applicare le modifiche in tutte le modalità di gioco del titolo (non solo nel menu),\n"
-"le impostazioni dei comandi devono essere ripristinate ai valori predefiniti."
+"Modifica i pulsanti \"Conferma\" e \"Indietro\".\n"
+"Per applicare le modifiche a tutte le modalità di gioco (non solo ai menu),\n"
+"i comandi devono essere ripristinati ai valori predefiniti."
 
 msgctxt "84066"
 msgid "LOD Distance"
@@ -12944,7 +12387,7 @@ msgstr "Distanza LOD"
 
 msgctxt "84079"
 msgid "Set LOD draw distance."
-msgstr "Imposta la distanza di disegno LOD."
+msgstr "Imposta la distanza di rendering dei dettagli (LOD)."
 
 msgctxt "84102"
 msgid "NPC Density"
@@ -12952,23 +12395,23 @@ msgstr "Densità NPC"
 
 msgctxt "84114"
 msgid "Set NPC Density level."
-msgstr "Imposta il livello di densità degli NPC."
+msgstr "Imposta il livello di densità dei passanti (NPC)."
 
 msgctxt "84137"
 msgid "Close"
-msgstr "Chiudi"
+msgstr "Vicino"
 
 msgctxt "84143"
 msgid "Mid"
-msgstr "In mezzo"
+msgstr "Media"
 
 msgctxt "84147"
 msgid "Far"
-msgstr "Lontano"
+msgstr "Lontana"
 
 msgctxt "84151"
 msgid "Maximum"
-msgstr "Massimo"
+msgstr "Massima"
 
 msgctxt "84159"
 msgid "Normal"
@@ -12984,11 +12427,11 @@ msgstr "Grafica"
 
 msgctxt "84181"
 msgid "Controls"
-msgstr "Controlli"
+msgstr "Comandi"
 
 msgctxt "84190"
 msgid "Gameplay"
-msgstr "Modalità gioco"
+msgstr "Azione di gioco"
 
 msgctxt "84199"
 msgid "Audio"
@@ -13004,11 +12447,11 @@ msgstr "Qualità grafica"
 
 msgctxt "84227"
 msgid "Use presets to easily control advanced graphics settings."
-msgstr "Utilizza le impostazioni predefinite per controllare facilmente le impostazioni grafiche avanzate."
+msgstr "Usa le impostazioni predefinite per gestire facilmente i parametri grafici avanzati."
 
 msgctxt "84285"
 msgid "Custom"
-msgstr "Personalizzato"
+msgstr "Personalizzata"
 
 msgctxt "84292"
 msgid "Direct Input"
@@ -13024,7 +12467,7 @@ msgstr "Combattimento"
 
 msgctxt "84322"
 msgid "UI"
-msgstr "UI"
+msgstr "Interfaccia"
 
 msgctxt "84325"
 msgid "Debug_Menu"
@@ -13040,11 +12483,11 @@ msgstr "Cabaret"
 
 msgctxt "84352"
 msgid "Massage"
-msgstr "Massaggi"
+msgstr "Massaggio"
 
 msgctxt "84360"
 msgid "Pool"
-msgstr "Piscina"
+msgstr "Biliardo"
 
 msgctxt "84365"
 msgid "Karaoke"
@@ -13056,15 +12499,15 @@ msgstr "Bowling"
 
 msgctxt "84381"
 msgid "Cee-Lo"
-msgstr "Cee-Lo"
+msgstr "Cee-lo"
 
 msgctxt "84388"
 msgid "Cho-Han"
-msgstr "Cho-Han"
+msgstr "Cho-han"
 
 msgctxt "84396"
 msgid "Koi-Koi"
-msgstr "Koi-Koi"
+msgstr "Koi-koi"
 
 msgctxt "84404"
 msgid "Roulette"
@@ -13084,7 +12527,7 @@ msgstr "UFO Catcher"
 
 msgctxt "84441"
 msgid "AnswerAnswer"
-msgstr "RispostaRisposta"
+msgstr "Answer x Answer"
 
 msgctxt "84454"
 msgid "Shogi"
@@ -13096,7 +12539,7 @@ msgstr "Mahjong"
 
 msgctxt "84468"
 msgid "Batting Center"
-msgstr "Centro di battuta"
+msgstr "Batting Center"
 
 msgctxt "84483"
 msgid "Golf"
@@ -13104,7 +12547,7 @@ msgstr "Golf"
 
 msgctxt "84488"
 msgid "Oicho-Kabu"
-msgstr "Oicho-Kabu"
+msgstr "Oicho-kabu"
 
 msgctxt "84499"
 msgid "Fishing"
@@ -13140,19 +12583,19 @@ msgstr "Inseguimento in barca"
 
 msgctxt "84571"
 msgid "PressAnyButton"
-msgstr "Premi un pulsante qualsiasi"
+msgstr "Premi un tasto qualsiasi"
 
 msgctxt "84586"
 msgid "Survival Tag"
-msgstr "Etichetta di sopravvivenza"
+msgstr "Tag survival"
 
 msgctxt "84599"
 msgid "Play Time"
-msgstr "Tempo di Gioco"
+msgstr "Tempo di gioco"
 
 msgctxt "84609"
 msgid "Create save on new slot"
-msgstr "Crea un salvataggio su un nuovo slot"
+msgstr "Crea salvataggio in un nuovo slot"
 
 msgctxt "84633"
 msgid "Save Game"
@@ -13172,7 +12615,7 @@ msgstr "Crea nuovo salvataggio"
 
 msgctxt "84671"
 msgid "Load Game"
-msgstr "Carica Partita"
+msgstr "Carica partita"
 
 msgctxt "84681"
 msgid "Load"
@@ -13184,7 +12627,7 @@ msgstr "Elimina"
 
 msgctxt "84693"
 msgid "Press key to rebind"
-msgstr "Premi un tasto per riassegnare"
+msgstr "Premi un tasto per cambiare comando"
 
 msgctxt "84713"
 msgid "Total"
@@ -13192,7 +12635,7 @@ msgstr "Totale"
 
 msgctxt "84719"
 msgid "Fee"
-msgstr "Commissione"
+msgstr "Tariffa"
 
 msgctxt "84723"
 msgid "Free"
@@ -13216,11 +12659,11 @@ msgstr "(Ne ho già uno...)"
 
 msgctxt "84859"
 msgid "%s discarded."
-msgstr "Hai scartato %s."
+msgstr "%s è stato scartato."
 
 msgctxt "84873"
 msgid "Sent %s to the Item Box."
-msgstr "Inviato %s alla Cassa oggetti."
+msgstr "%s è stato inviato alla cassa oggetti."
 
 msgctxt "84898"
 msgid "Power"
@@ -13228,7 +12671,7 @@ msgstr "Potenza"
 
 msgctxt "84904"
 msgid "Durability"
-msgstr "Durata"
+msgstr "Integrità"
 
 msgctxt "84915"
 msgid "Defense"
@@ -13244,7 +12687,7 @@ msgstr "Proiettile"
 
 msgctxt "84936"
 msgid "Nothing can be made."
-msgstr "Non si può fare nulla."
+msgstr "Non è possibile creare nulla."
 
 msgctxt "84957"
 msgid "(I don't have any weapons that need repairing...)"
@@ -13252,7 +12695,7 @@ msgstr "(Non ho armi che necessitano di riparazioni...)"
 
 msgctxt "85007"
 msgid "(I don't have any weapons that need to be reloaded...)"
-msgstr "(Non ho armi che debbano essere ricaricate...)"
+msgstr "(Non ho armi da ricaricare...)"
 
 msgctxt "85062"
 msgid "Cancel"
@@ -13264,11 +12707,11 @@ msgstr "Annulla"
 
 msgctxt "85076"
 msgid "It'll be %s."
-msgstr "Sarà %s."
+msgstr "Il costo è di %s."
 
 msgctxt "85089"
-msgid "(I'm short on cash.)  "
-msgstr "(Sono a corto di soldi.)"
+msgid "(I'm short on cash.) "
+msgstr "(Sono a corto di contanti.)"
 
 msgctxt "85112"
 msgid "(I don't have the right recipe...)"
@@ -13288,15 +12731,15 @@ msgstr "(Leggi il testo con <Action:Button_Cross@UI>)"
 
 msgctxt "85203"
 msgid "(Tastes good.)"
-msgstr "(Ha un buon sapore.)"
+msgstr "(È buono.)"
 
 msgctxt "85218"
 msgid "(Not bad.)"
-msgstr "(Non male.)"
+msgstr "(Niente male.)"
 
 msgctxt "85229"
 msgid "(That's pretty nice...)"
-msgstr "(Questo è molto bello...)"
+msgstr "(È davvero gustoso...)"
 
 msgctxt "85253"
 msgid "(Hey, not bad.)"
@@ -13304,11 +12747,11 @@ msgstr "(Ehi, niente male.)"
 
 msgctxt "85269"
 msgid "(This is good.)"
-msgstr "(Questo è un bene)"
+msgstr "(Buono.)"
 
 msgctxt "85285"
 msgid "(Tasty.)"
-msgstr "(Gustoso)"
+msgstr "(Saporito.)"
 
 msgctxt "85294"
 msgid "(Not bad at all.)"
@@ -13316,11 +12759,11 @@ msgstr "(Non è affatto male.)"
 
 msgctxt "85312"
 msgid "(This is good...)"
-msgstr "(Questo è un bene...)"
+msgstr "(È buono...)"
 
 msgctxt "85330"
 msgid "(This is tasty.)"
-msgstr "(Questo è gustoso)"
+msgstr "(È saporito.)"
 
 msgctxt "85347"
 msgid "(Hm, not bad.)"
@@ -13328,7 +12771,7 @@ msgstr "(Mmh, niente male.)"
 
 msgctxt "85362"
 msgid "(This is... great.)"
-msgstr "(Questo è... fantastico)"
+msgstr "(Questo è... ottimo.)"
 
 msgctxt "85382"
 msgid "(Not bad at all.)"
@@ -13336,15 +12779,15 @@ msgstr "(Non è affatto male.)"
 
 msgctxt "85400"
 msgid "(That's tasty.)"
-msgstr "(Questo è gustoso)"
+msgstr "(Saporito.)"
 
 msgctxt "85416"
 msgid "(Yeah, this is great.)"
-msgstr "(Sì, è fantastico.)"
+msgstr "(Sì, è ottimo.)"
 
 msgctxt "85439"
 msgid "(Mmm, good.)"
-msgstr "(Mmm, bene.)"
+msgstr "(Mmm, buono.)"
 
 msgctxt "85452"
 msgid "(This is delicious.)"
@@ -13352,7 +12795,7 @@ msgstr "(È delizioso.)"
 
 msgctxt "85473"
 msgid "(Yep, this is great.)"
-msgstr "(Sì, è fantastico.)"
+msgstr "(Sì, è ottimo.)"
 
 msgctxt "85495"
 msgid "(What great flavor.)"
@@ -13360,15 +12803,15 @@ msgstr "(Che sapore fantastico.)"
 
 msgctxt "85516"
 msgid "(This is... pretty good.) "
-msgstr "(Questo è... piuttosto buono.)"
+msgstr "(Questo è... niente male.)"
 
 msgctxt "85543"
 msgid "(This one's tasty.)"
-msgstr "(Questo è delizioso.)"
+msgstr "(Questo è saporito.)"
 
 msgctxt "85563"
 msgid "(This one's good.)"
-msgstr "(Questa è buona.)"
+msgstr "(Questo è buono.)"
 
 msgctxt "85582"
 msgid "(This ain't bad at all.)"
@@ -13380,7 +12823,7 @@ msgstr "(Ehi, non è male.)"
 
 msgctxt "85630"
 msgid "(This is pretty good.)"
-msgstr "(Questo è piuttosto buono.)"
+msgstr "(È piuttosto buono.)"
 
 msgctxt "85653"
 msgid "(Hey, pretty good.)"
@@ -13392,11 +12835,11 @@ msgstr "(Non è affatto male.)"
 
 msgctxt "85691"
 msgid "(This is good...)"
-msgstr "Buon profumo, pepe yuzu"
+msgstr "(È buono...)"
 
 msgctxt "85709"
 msgid "(This one's tasty.)"
-msgstr "(Questo è delizioso.)"
+msgstr "(Questo è saporito.)"
 
 msgctxt "85729"
 msgid "(Hm, not bad.)"
@@ -13404,11 +12847,11 @@ msgstr "(Mmh, niente male.)"
 
 msgctxt "85744"
 msgid "(I'm feelin' this one.)"
-msgstr "(Mi sento in vena.)"
+msgstr "(Questo mi ispira.)"
 
 msgctxt "85768"
 msgid "(This is... good.)"
-msgstr "Buon profumo, pepe yuzu"
+msgstr "(Questo è... buono.)"
 
 msgctxt "85787"
 msgid "(Not bad at all.)"
@@ -13416,51 +12859,51 @@ msgstr "(Non è affatto male.)"
 
 msgctxt "85805"
 msgid "(Now that's tasty.)"
-msgstr "(Questo sì che è gustoso.)"
+msgstr "(Questo sì che è saporito.)"
 
 msgctxt "85825"
 msgid "(Yeah, this is great.)"
-msgstr "(Sì, è fantastico.)"
+msgstr "(Sì, è ottimo.)"
 
 msgctxt "85848"
 msgid "(Hmm, pretty good.)"
-msgstr "(Hmm, abbastanza buono.)"
+msgstr "(Hmm, niente male.)"
 
 msgctxt "85868"
 msgid "(This tastes great.)"
-msgstr "(Il sapore è buonissimo.)"
+msgstr "(È delizioso.)"
 
 msgctxt "85889"
 msgid "(Yep, this is great.)"
-msgstr "(Sì, è fantastico.)"
+msgstr "(Sì, è ottimo.)"
 
 msgctxt "85911"
 msgid "(This is... great.)"
-msgstr "(Questo è... fantastico)"
+msgstr "(Questo è... ottimo.)"
 
 msgctxt "85931"
 msgid "(This is... pretty good.) "
-msgstr "(Questo è... piuttosto buono.)"
+msgstr "(È niente male.)"
 
 msgctxt "85958"
 msgid "(This one's tasty.)"
-msgstr "(Questo è delizioso.)"
+msgstr "(Questo è saporito.)"
 
 msgctxt "85978"
 msgid "(Hmm... That was all right...)"
-msgstr "(Hmm... Andava tutto bene...)"
+msgstr "(Hmm... Non era male...)"
 
 msgctxt "86009"
 msgid "(Mm... Just okay...)"
-msgstr "(Mm... Abbastanza bene...)"
+msgstr "(Mm... Discreto...)"
 
 msgctxt "86030"
 msgid "(Hrm... Okay I guess...)"
-msgstr "(Hrm... Okay, credo...)"
+msgstr "(Hrm... Accettabile, credo...)"
 
 msgctxt "86055"
 msgid "(Hmm... That was all right...)"
-msgstr "(Hmm... Andava tutto bene...)"
+msgstr "(Hmm... Non era male...)"
 
 msgctxt "86086"
 msgid "-"
@@ -13472,11 +12915,11 @@ msgstr "Conferma"
 
 msgctxt "86096"
 msgid "Weapon Selection Ability"
-msgstr "Capacità di selezione delle armi"
+msgstr "Slot selezione armi"
 
 msgctxt "86121"
 msgid "Gear Selection Ability"
-msgstr "Capacità di selezione dell'equipaggiamento"
+msgstr "Slot selezione equipaggiamento"
 
 msgctxt "86144"
 msgid "Currently Equipped"
@@ -13488,11 +12931,11 @@ msgstr "Armi"
 
 msgctxt "86171"
 msgid "Gear"
-msgstr "Attrezzatura"
+msgstr "Equipaggiamento"
 
 msgctxt "86176"
 msgid "Attack"
-msgstr "Attacca"
+msgstr "Attacco"
 
 msgctxt "86183"
 msgid "Force"
