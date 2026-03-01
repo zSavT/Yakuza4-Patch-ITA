@@ -9490,18 +9490,18 @@ msgstr "Davvero? È tutto per te, caro."
 
 msgctxt "185\t520271\t3\tCHK"
 msgid "Oh, you!"
-msgstr "Oh, tu!"
+msgstr "Ma dai!"
 
 msgctxt "185\t520280\t4\tCHK"
 msgid "Hold it!"
-msgstr "Fermo!"
+msgstr "Fermo lì!"
 
 msgctxt "185\t520289\t5\tCHK"
 msgid ""
 "I turn my back for one second,\n"
 "and this happens!?"
 msgstr ""
-"Mi giro un secondo\n"
+"Ti volto le spalle un secondo\n"
 "e succede questo!?"
 
 msgctxt "185\t520339\t6\tCHK"
@@ -9542,7 +9542,7 @@ msgstr "Sì. Capisco."
 
 msgctxt "187\t521612\t2\tCHK"
 msgid "Now then..."
-msgstr "Allora..."
+msgstr "Bene allora..."
 
 msgctxt "187\t521624\t3\tCHK"
 msgid ""
@@ -9554,11 +9554,11 @@ msgstr ""
 
 msgctxt "187\t521663\t4\tCHK"
 msgid "Wire it to my usual account."
-msgstr "Fai il bonifico sul mio solito conto."
+msgstr "Fai un bonifico sul mio solito conto."
 
 msgctxt "187\t521692\t5\tCHK"
 msgid "I'll be done in a flash."
-msgstr "Finirò in un lampo."
+msgstr "Faccio in un lampo."
 
 msgctxt "188\t522488\t0\tSUS"
 msgid ""
@@ -9574,7 +9574,7 @@ msgid ""
 "You want the kid to get it!?"
 msgstr ""
 "Stronzate!\n"
-"Vuoi che il ragazzino ci rimetta!?"
+"Vuoi che il ragazzino ci lasci le penne!?"
 
 msgctxt "188\t522551\t3\tCHK"
 msgid "Answer me."
@@ -9590,7 +9590,7 @@ msgstr ""
 
 msgctxt "188\t522617\t5\tCHK"
 msgid "Just drop the piece, lady!"
-msgstr "Getta la pistola, signora!"
+msgstr "Metti giù l'arma, signora!"
 
 msgctxt "188\t522644\t6\tCHK"
 msgid "You want a dead kid on your hands?"
@@ -9598,11 +9598,11 @@ msgstr "Vuoi avere un ragazzino morto sulla coscienza?"
 
 msgctxt "188\t522679\t7\tCHK"
 msgid "Take this!"
-msgstr "Prendi questo!"
+msgstr "Beccati questo!"
 
 msgctxt "188\t522690\t8\tCHK"
 msgid "You... pervert!"
-msgstr "Tu... pervertito!"
+msgstr "Brutto pervertito!"
 
 msgctxt "189\t523864\t0\tSUS"
 msgid ""
@@ -9618,7 +9618,7 @@ msgstr "Non voglio morire!"
 
 msgctxt "189\t523890\t3\tCHK"
 msgid "It's your own damn fault."
-msgstr "È solo colpa tua, maledizione."
+msgstr "È tutta colpa tua, maledizione."
 
 msgctxt "189\t523916\t4\tCHK"
 msgid "You did this to yourself, pal."
@@ -9638,11 +9638,11 @@ msgstr "Uno, due...!"
 
 msgctxt "189\t523989\t8\tCHK"
 msgid "Shit, this thing weighs a fuckin' ton!"
-msgstr "Merda, questa cosa pesa un fottuto casino!"
+msgstr "Merda, questa roba pesa una fottuta tonnellata!"
 
 msgctxt "189\t524028\t9\tCHK"
 msgid "Keep lifting!"
-msgstr "Continua a sollevare!"
+msgstr "Tira su!"
 
 msgctxt "189\t524042\t10\tCHK"
 msgid "No, please!"
@@ -9650,7 +9650,7 @@ msgstr "No, vi prego!"
 
 msgctxt "189\t524054\t11\tCHK"
 msgid "C'mon, lift your side!"
-msgstr "Forza, solleva dalla tua parte!"
+msgstr "Forza, solleva la tua parte!"
 
 msgctxt "189\t524077\t12\tCHK"
 msgid ""
@@ -9706,7 +9706,7 @@ msgstr "Ugh, niente da fare..."
 
 msgctxt "190\t525353\t2\tCHK"
 msgid "Oh, I got one!"
-msgstr "Oh, ne ho preso uno!"
+msgstr "Oh, l'ho preso!"
 
 msgctxt "190\t525368\t3\tCHK"
 msgid "Wait, come back!"
@@ -9770,7 +9770,7 @@ msgstr ""
 
 msgctxt "191\t526609\t7\tCHK"
 msgid "Just get the hell outta here!"
-msgstr "Vattene e basta!"
+msgstr "Vedi di sparire!"
 
 msgctxt "191\t526639\t8\tCHK"
 msgid "What was that?"
@@ -9778,11 +9778,11 @@ msgstr "Cos'hai detto?"
 
 msgctxt "191\t526654\t9\tCHK"
 msgid "You need your ears cleaned or somethin'?"
-msgstr "Hai bisogno di una pulita alle orecchie o cosa?"
+msgstr "Vuoi che ti sturi le orecchie o cosa?"
 
 msgctxt "191\t526695\t10\tCHK"
 msgid "In that case... I'll gladly do it for ya!"
-msgstr "In tal caso... lo farò volentieri io per te!"
+msgstr "In tal caso... te le sturo volentieri io!"
 
 msgctxt "191\t526737\t11\tCHK"
 msgid "Bring it!"
@@ -9814,7 +9814,7 @@ msgstr "Ce la stai facendo! Ce la stai facendo!"
 
 msgctxt "192\t527880\t5\tCHK"
 msgid "What the? It's broken or something!"
-msgstr "Ma che? È rotto o qualcosa del genere!"
+msgstr "Ma che? È rotto o roba del genere!"
 
 msgctxt "192\t527916\t6\tCHK"
 msgid "The hell's it doing!?"
@@ -9826,11 +9826,11 @@ msgstr "Ce l'hai fatta!"
 
 msgctxt "192\t527950\t8\tCHK"
 msgid "Guess I did! Look at that!"
-msgstr "A quanto pare! Guarda un po'!"
+msgstr "A quanto pare sì! Guarda qua!"
 
 msgctxt "192\t527977\t9\tCHK"
 msgid "You little!"
-msgstr "Piccolo!"
+msgstr "Piccolo bastardo!"
 
 msgctxt "193\t528728\t0\tSUS"
 msgid ""
@@ -9838,7 +9838,7 @@ msgstr ""
 
 msgctxt "193\t528729\t1\tCHK"
 msgid "The hell?"
-msgstr "Che diavolo?"
+msgstr "Ma che...?"
 
 msgctxt "193\t528739\t2\tCHK"
 msgid "Ah, excuse me!"
@@ -9849,12 +9849,12 @@ msgid ""
 "Watch where you're going, brat!\n"
 "You know who I am!?"
 msgstr ""
-"Guarda dove vai, pivella!\n"
+"Guarda dove vai, ragazzino!\n"
 "Sai chi sono io!?"
 
 msgctxt "193\t528806\t4\tCHK"
 msgid "Heh."
-msgstr "Eh."
+msgstr "Tsk."
 
 msgctxt "193\t528811\t5\tCHK"
 msgid "Ow!"
