@@ -42,7 +42,7 @@ msgstr "Date, ti dispiace se uso il tuo fornello?"
 
 msgctxt "68_Date"
 msgid "Help yourself. I never had you pegged for the cooking type, Kiryu."
-msgstr "Fai pure. Non ti facevo il tipo da cucina, Kiryu."
+msgstr "Accomodati pure. Non ti facevo il tipo che cucina, Kiryu."
 
 msgctxt "80_Kiryu"
 msgid "I don't have much choice. I have to heat up this curry."
@@ -58,16 +58,16 @@ msgstr "Grazie. Ci metto un attimo."
 
 msgctxt "140_Kiryu"
 msgid "You heated up the \"<Color:255,255,200,255>Large Curry Take-home Packs<Color:Default>.\""
-msgstr "Hai scaldato le \"<Color:255,255,200,255>Scatole grandi di curry da asporto<Color:Default>.\""
+msgstr "Hai scaldato le \"<Color:255,255,200,255>Confezioni grandi di curry da asporto<Color:Default>.\""
 
 msgctxt "188_Kiryu"
 msgid "Man, heating up that much curry took longer than I expected. Thanks, Date."
-msgstr "Cavolo, scaldare tutto questo curry ha richiesto più tempo del previsto. Grazie, Date."
+msgstr "Cavolo, c'è voluto più tempo del previsto per scaldare tutto questo curry. Grazie, Date."
 
 msgctxt "200_Date"
 msgid "Sure, no problem. Take care of yourself."
-msgstr "Certo, nessun problema. Riguardati."
+msgstr "Figurati, nessun problema. Stammi bene."
 
 msgctxt "212_Kiryu"
 msgid "(I better hurry back to the construction site.)"
-msgstr "(Meglio sbrigarmi a tornare al cantiere.)"
+msgstr "(Sarà meglio sbrigarmi a tornare al cantiere.)"

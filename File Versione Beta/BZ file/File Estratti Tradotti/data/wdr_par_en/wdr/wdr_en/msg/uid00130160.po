@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "172"
 msgid "You got <Color:8>5,000 yen<Color:Default>."
-msgstr "Ti sei beccato <Color:8>5,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>5.000 yen<Color:Default>."
 
 msgctxt "2228"
 msgid "Persistent Barker"
@@ -38,7 +38,7 @@ msgstr "Sync_Send"
 
 msgctxt "100_Persistent Barker"
 msgid "Yikes!"
-msgstr "Ahi!"
+msgstr "Accidenti!"
 
 msgctxt "124_Tanimura"
 msgid "Those guys sure know how to run away. Oh, are you all right?"
@@ -49,11 +49,12 @@ msgid ""
 "Oh, um... I'm just fine. How much do I owe you for this? I really have no "
 "idea."
 msgstr ""
-"Oh, uhm... Sto benone. Quanto ti devo per 'sta cosa? Non ne ho proprio idea."
+"Oh, uhm... Sto bene. Quanto ti devo per il disturbo? Non ne ho proprio "
+"idea."
 
 msgctxt "148_Tanimura"
 msgid "How much? Oh, uh... Just whatever you feel is right."
-msgstr "Quant'è? Ah, uhm... Quello che ti pare."
+msgstr "Quanto? Oh, uhm... Quello che ti sembra giusto."
 
 msgctxt "160_Man That Can't Decline"
 msgid "How about this?"

@@ -54,7 +54,7 @@ msgstr "Talk_Think"
 
 msgctxt "188_Kiryu"
 msgid "So. You're looking for the Florist, right?"
-msgstr "Allora. Stai cercando il Fiorista, giusto?"
+msgstr "Allora. Stai cercando Il fioraio, giusto?"
 
 msgctxt "200_Takashi"
 msgid "Kiryu-san!"
@@ -110,7 +110,7 @@ msgstr "Da quanto tempo!"
 
 msgctxt "368_Kiryu"
 msgid "(Hey, isn't this the Florist's son?)"
-msgstr "(Ehi, non è il figlio del Fiorista?)"
+msgstr "(Ehi, non è il figlio del fioraio?)"
 
 msgctxt "380_Kiryu"
 msgid "You're Takashi, right?"
@@ -171,12 +171,12 @@ msgid ""
 "(Now that I think about it, the Florist <Italic>was</Italic> shacked up in "
 "there for a little while.)"
 msgstr ""
-"(Ora che ci penso, il Fiorista <Italic>era</Italic> rintanato lì dentro per "
+"(Ora che ci penso, Il fioraio <Italic>era</Italic> rintanato lì dentro per "
 "un po'.)"
 
 msgctxt "512_Kiryu"
 msgid "Oh, right. You must be talking about the Florist of Sai."
-msgstr "Ah, giusto. Starai parlando del Fiorista di Sai."
+msgstr "Ah, giusto. Starai parlando del fioraio di Sai."
 
 msgctxt "524_Takashi"
 msgid ""
@@ -194,7 +194,7 @@ msgstr ""
 
 msgctxt "548_Kiryu"
 msgid "What do you need the Florist for?"
-msgstr "Che ti serve il Fiorista a fare?"
+msgstr "Che ti serve Il fioraio a fare?"
 
 msgctxt "560_Takashi"
 msgid "Well, I've got a favor I wanna ask him."
@@ -242,7 +242,7 @@ msgstr "Rifiutalo"
 
 msgctxt "692_Kiryu"
 msgid "Take Him to the Florist"
-msgstr "Portalo dal Fiorista"
+msgstr "Portalo dal fioraio"
 
 msgctxt "704_Kiryu"
 msgid "Turn Him Down"
@@ -250,4 +250,4 @@ msgstr "Rifiutalo"
 
 msgctxt "716_Kiryu"
 msgid "Take Him to the Florist"
-msgstr "Portalo dal Fiorista"
+msgstr "Portalo dal fioraio"

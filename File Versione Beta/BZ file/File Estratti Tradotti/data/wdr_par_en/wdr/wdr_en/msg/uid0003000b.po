@@ -30,7 +30,7 @@ msgstr "Cancella"
 
 msgctxt "92_2d_cf_kigae_kiryu00"
 msgid "second picture   full screen."
-msgstr "seconda immagine   schermo intero."
+msgstr "seconda immagine   a schermo intero."
 
 msgctxt "104_2d_cf_kigae_kiryu00"
 msgid "Erase"
@@ -42,7 +42,7 @@ msgstr "terza immagine normale."
 
 msgctxt "128_2d_cf_kigae_kiryu00"
 msgid "fourth picture   normal   crossfeed!"
-msgstr "quarta immagine normale incrocia!"
+msgstr "quarta immagine normale dissolvenza!"
 
 msgctxt "140_2d_cf_kigae_kiryu00"
 msgid "Erase"
@@ -50,4 +50,4 @@ msgstr "Cancella"
 
 msgctxt "152_2d_cf_kigae_kiryu00"
 msgid "That's the end."
-msgstr "È finita."
+msgstr "Fine."

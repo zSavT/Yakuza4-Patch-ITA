@@ -14,15 +14,15 @@ msgstr ""
 
 msgctxt "88"
 msgid "You learned <Color:9>Hidden Blade: Hook<Color:Default>."
-msgstr "Hai imparato <Color:9>Lama Nascosta: Gancio<Color:Default>."
+msgstr "Hai imparato <Color:9>Lama nascosta: Gancio<Color:Default>."
 
 msgctxt "100"
 msgid "You learned <Color:9>Hidden Blade: Raging Bull<Color:Default>."
-msgstr "Hai imparato <Color:9>Lama Celata: Toro Scatenato<Color:Default>."
+msgstr "Hai imparato <Color:9>Lama nascosta: Toro scatenato<Color:Default>."
 
 msgctxt "112"
 msgid "You learned <Color:9>Heavy Maul: Fly Swatter<Color:Default>."
-msgstr "Hai imparato <Color:9>Mazza Pesante: Schiaccia-mosche<Color:Default>."
+msgstr "Hai imparato <Color:9>Mazza pesante: Schiacciamosche<Color:Default>."
 
 msgctxt "124"
 msgid "<Color:14>Check moves learned in the Abilities screen.<Color:Default>"
@@ -31,11 +31,11 @@ msgstr ""
 
 msgctxt "136"
 msgid "You remembered the <Color:9>Finish Blade: Dancing Cat<Color:Default>."
-msgstr "Hai ricordato la <Color:9>Lama Finale: Gatto Danzante<Color:Default>."
+msgstr "Hai ricordato la <Color:9>Lama finale: Gatto danzante<Color:Default>."
 
 msgctxt "148"
 msgid "You remembered the <Color:9>Finish Blade: Musashi<Color:Default>."
-msgstr "Hai ricordato la <Color:9>Finish Blade: Musashi<Color:Default>."
+msgstr "Hai ricordato la <Color:9>Lama finale: Musashi<Color:Default>."
 
 msgctxt "160"
 msgid "<Color:14>Check moves learned in the Abilities screen.<Color:Default>"
@@ -45,7 +45,7 @@ msgstr ""
 msgctxt "172"
 msgid "You remembered the <Color:9>Heavy Maul: Fly Swatter<Color:Default>."
 msgstr ""
-"Ti sei ricordato della <Color:9>Heavy Maul: Fly Swatter<Color:Default>."
+"Hai ricordato la <Color:9>Mazza pesante: Schiacciamosche<Color:Default>."
 
 msgctxt "184"
 msgid "<Color:14>Check moves learned in the Abilities screen.<Color:Default>"
