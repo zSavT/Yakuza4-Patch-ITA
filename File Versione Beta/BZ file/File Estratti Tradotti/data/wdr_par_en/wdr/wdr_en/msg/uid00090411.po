@@ -22,7 +22,7 @@ msgstr "Hai intascato <Color:8>20.000 yen<Color:Default>."
 
 msgctxt "272"
 msgid "You got <Color:8>2,000 yen<Color:Default>."
-msgstr "Hai ottenuto <Color:8>2,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>2.000 yen<Color:Default>."
 
 msgctxt "368"
 msgid "You got a <Color:8>Diamond<Color:Default>."
@@ -87,7 +87,7 @@ msgstr ""
 
 msgctxt "140_Ajikawa"
 msgid "Akiyama-san! I just went to the ramen shop you suggested."
-msgstr "Akiyama-san! Sono appena stato alla rameria che mi hai suggerito."
+msgstr "Akiyama-san! Sono appena stato al locale di ramen che mi hai suggerito."
 
 msgctxt "152_Ajikawa"
 msgid ""

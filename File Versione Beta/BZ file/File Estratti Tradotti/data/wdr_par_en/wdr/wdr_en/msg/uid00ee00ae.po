@@ -43,11 +43,11 @@ msgstr "Hai ottenuto <Color:8>L'Amuleto di Haruka<Color:Default>."
 
 msgctxt "1176"
 msgid "You got <Color:8>Haruka's Chocolate<Color:Default>."
-msgstr "Hai ottenuto <Color:8>il cioccolato di Haruka<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Il cioccolato di Haruka<Color:Default>."
 
 msgctxt "1236"
 msgid "You got <Color:8>Haruka's Candy<Color:Default>."
-msgstr "Hai ottenuto <Color:8>Dolcetto di Haruka<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Le caramelle di Haruka<Color:Default>."
 
 msgctxt "13876"
 msgid "Employee"
@@ -126,7 +126,7 @@ msgstr ""
 
 msgctxt "336_Haruka"
 msgid "Thanks, Uncle Kaz! I can't wait to dig in!"
-msgstr "Grazie, Zio Kaz! Non vedo l'ora di buttarmi!"
+msgstr "Grazie, Zio Kaz! Non vedo l'ora di papparmelo!"
 
 msgctxt "480_Haruka"
 msgid "That was so yummy! Thanks again!"
@@ -142,14 +142,14 @@ msgid ""
 "Hamburg Meal<Color:Default>?"
 msgstr ""
 "Zio Kaz, mi sta venendo un certo languorino... Mi potresti prendere un "
-"<Color:8>Demitama Hamburg Meal<Color:Default>?"
+"<Color:8>Menù Hamburger Demitama<Color:Default>?"
 
 msgctxt "528_Kiryu"
 msgid ""
 "(Haruka wants me to get her a <Color:8>Demitama Hamburg "
 "Meal<Color:Default>...)"
 msgstr ""
-"(Haruka vuole che le procuri un <Color:8>Piatto di Hamburger "
+"(Haruka vuole che le procuri un <Color:8>Menù Hamburger "
 "Demitama<Color:Default>...)"
 
 msgctxt "552_Employee"
@@ -158,11 +158,11 @@ msgstr "Grazie mille."
 
 msgctxt "564_Haruka"
 msgid "Aww, I wanted a <Color:8>Demitama Hamburg Meal<Color:Default>..."
-msgstr "Uffa, io volevo un <Color:8>Piatto Demitama Hamburg<Color:Default>..."
+msgstr "Uffa, io volevo un <Color:8>Menù Hamburger Demitama<Color:Default>..."
 
 msgctxt "588_Haruka"
 msgid "Thanks, Uncle Kaz! I can't wait to dig in!"
-msgstr "Grazie, Zio Kaz! Non vedo l'ora di buttarmi!"
+msgstr "Grazie, Zio Kaz! Non vedo l'ora di papparmelo!"
 
 msgctxt "732_Haruka"
 msgid "That was so yummy! Thanks again!"
@@ -222,7 +222,7 @@ msgstr "Scusa, torno dopo."
 
 msgctxt "1344_Employee"
 msgid "All right, then. Please come again."
-msgstr "Perfetto. Torni a trovarci."
+msgstr "D'accordo. Torni a trovarci."
 
 msgctxt "1356_Employee"
 msgid "All right. Will that be all for you today?"
@@ -238,7 +238,7 @@ msgstr "Scusa, mi è appena tornato in mente che devo fare una cosa prima."
 
 msgctxt "1404_Employee"
 msgid "No problem. Please come again."
-msgstr "Figurati. Torna a trovarci."
+msgstr "Nessun problema. Torni a trovarci."
 
 msgctxt "1416_Employee"
 msgid "Welcome. Will this be for here or to go?"
@@ -254,15 +254,15 @@ msgstr "Grazie mille."
 
 msgctxt "1464_Player"
 msgid "Sorry, something just came up."
-msgstr "Scusa, mi è venuto un imprevisto."
+msgstr "Scusa, mi è venuto in mente un imprevisto."
 
 msgctxt "1476_Employee"
 msgid "No problem. Please come again."
-msgstr "Figurati. Torna a trovarci."
+msgstr "Nessun problema. Torni a trovarci."
 
 msgctxt "1488_Employee"
 msgid "All right. Are you ready to order?"
-msgstr "Allora, sei pronto per ordinare?"
+msgstr "Allora, siete pronti per ordinare?"
 
 msgctxt "1536_Employee"
 msgid "Thank you very much."
