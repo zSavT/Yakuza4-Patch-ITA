@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 # Installer Patch ITA Yakuza 4 Remastered
 # Autore: SavT
-# Versione: v2.5
+# Versione: v2.6
 # -----------------------------------------------------------------------------
 
 import sys
@@ -16,7 +16,7 @@ import datetime
 import pyzipper
 import urllib.request
 import json
-from packaging import version  # <-- MODIFICA: Aggiunto import
+from packaging import version
 
 from PyQt6.QtWidgets import (
     QApplication, QWidget, QLabel, QPushButton, QVBoxLayout, QFrame,
@@ -46,14 +46,13 @@ CHIAVE = "chiave.txt"
 DEFAULT_FOLDER_NAME = ""
 LOG_FILE = "install_log.txt"
 PACKAGE_FILE = "patch.pkg"
-ALT_PACKAGE_FILE = "patch_ai.pkg"
 IMG_FILE = resource_path("assets/img.png")
 LOGO_ICO = resource_path("assets/Logo.ico")
 HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "Beta-v0.7"
+VERSIONE = "v1.0"
 ALT_SITE_NAME = "TBA"
 ALT_SITE_URL = "https://www.youtube.com/@zSavT"
 CREDITI = "Patch By SavT e Lowrentio"
@@ -622,8 +621,6 @@ class InstallScreen(QWidget):
         path_layout = QHBoxLayout(); path_layout.addWidget(path_label); path_layout.addStretch()
         path_input_layout = QHBoxLayout(); path_input_layout.addWidget(self.path_input, 1); path_input_layout.addSpacing(5); path_input_layout.addWidget(self.browse_btn)
         self.backup_checkbox = QCheckBox("Crea backup dei file originali prima dell'installazione"); self.backup_checkbox.setChecked(True); self.backup_checkbox.setToolTip("Se selezionato, i file che verranno sovrascritti dalla patch\nsaranno prima copiati in una sottocartella '_backup_patch_ita_...'")
-        self.alt_patch_checkbox = QCheckBox("Installa la traduzione quest secondarie, pre-tradotte con Gemini ma non revisionate a mano (In futuro verranno riviste a mano)"); self.alt_patch_checkbox.setToolTip("Se selezionato, verrà installato il file 'patch_ai.pkg' al posto di quello standard.")
-        self.alt_patch_checkbox.clicked.connect(self.handle_alt_patch_check)
         self.install_btn = QPushButton("Installa Patch"); self.install_btn.setObjectName("InstallButton"); self.install_btn.setDefault(True)
         try: self.install_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_DialogSaveButton))
         except Exception as e: print(f"Err install icon: {e}")
@@ -641,7 +638,7 @@ class InstallScreen(QWidget):
         except Exception as e: print(f"Err head icon: {e}")
         btn_layout = QHBoxLayout(); btn_layout.addWidget(self.cancel_btn); btn_layout.addStretch(); btn_layout.addWidget(self.install_btn)
         self.layout.addLayout(title_layout); self.layout.addLayout(path_layout); self.layout.addLayout(path_input_layout); self.layout.addSpacing(10)
-        self.layout.addWidget(self.backup_checkbox); self.layout.addWidget(self.alt_patch_checkbox); self.layout.addSpacing(20)
+        self.layout.addWidget(self.backup_checkbox); self.layout.addSpacing(20)
         self.layout.addWidget(self.progress_bar); self.layout.addWidget(self.status_label); self.layout.addStretch(); self.layout.addLayout(btn_layout)
         self.set_default_path()
     def set_default_path(self):
@@ -695,82 +692,6 @@ class InstallScreen(QWidget):
         except Exception as e: print(f"Err icon pos: {e}"); self.head_icon.hide()
     def resizeEvent(self, event):
         super().resizeEvent(event); self.update_icon_position(self.progress_bar.value())
-    def handle_alt_patch_check(self):
-        """
-        Mostra un dialogo di conferma personalizzato quando il checkbox per la patch AI viene selezionato.
-        Se l'utente preme "No" o chiude la finestra, la selezione viene annullata.
-        """
-        if self.alt_patch_checkbox.isChecked():
-            # Usa il nuovo dialogo personalizzato
-            dialog = AltPatchConfirmDialog(self)
-            
-            # Esegui il dialogo e controlla il risultato
-            result = dialog.exec()
-
-            # Se l'utente NON ha premuto "OK", deseleziona il checkbox
-            if result != QDialog.DialogCode.Accepted:
-                self.alt_patch_checkbox.setChecked(False)
-                
-    # --- Classe Dialogo Conferma Patch Alternativa ---
-class AltPatchConfirmDialog(QDialog):
-    def __init__(self, parent=None):
-        super().__init__(parent)
-        self.setWindowTitle("Attenzione: Traduzione Sperimentale")
-        self.setModal(True)
-        # Riusiamo lo stile degli altri dialoghi per coerenza
-        self.setObjectName("CustomConfirmDialog")
-
-        main_layout = QVBoxLayout(self)
-        main_layout.setContentsMargins(20, 20, 20, 15)
-        main_layout.setSpacing(20)
-
-        # Layout superiore per icona e testo
-        content_layout = QHBoxLayout()
-        content_layout.setSpacing(15)
-
-        # Colonna Sinistra: Icona
-        icon_label = QLabel()
-        warning_icon = self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxWarning)
-        scaled_pixmap = warning_icon.pixmap(QSize(48, 48))
-        icon_label.setPixmap(scaled_pixmap)
-        icon_label.setAlignment(Qt.AlignmentFlag.AlignTop | Qt.AlignmentFlag.AlignHCenter)
-        content_layout.addWidget(icon_label, 0)
-
-        # Colonna Destra: Testo
-        text_label = QLabel()
-        text_label.setTextFormat(Qt.TextFormat.RichText)
-        text_label.setWordWrap(True)
-        text_label.setText(
-            "<b>Stai per installare una traduzione sperimentale.</b>"
-            "<p>Questa opzione installa i testi delle missioni secondarie tradotti con un'intelligenza artificiale (Gemini). "
-            "Al momento, <b>non sono stati revisionati manualmente</b> e potrebbero contenere errori.</p>"
-            "<p>Nelle prossime versioni della patch, questi testi verranno corretti e rifiniti a mano.</p>"
-            "<p>Se procedi, ti chiediamo di aiutarci <b>SEGNALANDO OGNI ERRORE</b> che trovi sulla nostra pagina GitHub. "
-            "Il tuo contributo è fondamentale!</p>"
-            "<p>Vuoi continuare?</p>"
-        )
-        content_layout.addWidget(text_label, 1) # '1' permette al testo di occupare lo spazio extra
-
-        main_layout.addLayout(content_layout)
-
-        # Pulsanti OK/No
-        button_box = QDialogButtonBox()
-        ok_button = button_box.addButton("OK", QDialogButtonBox.ButtonRole.AcceptRole)
-        no_button = button_box.addButton("No", QDialogButtonBox.ButtonRole.RejectRole)
-
-        # Applica gli stili definiti nel CSS
-        ok_button.setObjectName("AcceptButton")
-        no_button.setObjectName("CancelButton")
-        
-        button_box.accepted.connect(self.accept)
-        button_box.rejected.connect(self.reject)
-        
-        no_button.setDefault(True)
-
-        main_layout.addWidget(button_box, 0, Qt.AlignmentFlag.AlignRight)
-        
-        self.setMinimumWidth(550) # Imposta una larghezza minima ragionevole
-        self.adjustSize()
 
 class InstallerWizard(QWidget):
     def __init__(self):
@@ -778,7 +699,7 @@ class InstallerWizard(QWidget):
         self.version_checker = VersionCheckWorker(VERSIONE, GH_URL); self.version_checker.update_found.connect(self.show_update_dialog); self.version_checker.start()
         try: self.setWindowIcon(QIcon(LOGO_ICO))
         except Exception as e: print(f"Error setting window icon: {e}")
-        self.setWindowTitle(f"Installer Patch Beta ITA Yakuza 4 Remastered ({VERSIONE})"); self.setMinimumSize(700, 580)
+        self.setWindowTitle(f"Installer Patch ITA Yakuza 4 Remastered ({VERSIONE})"); self.setMinimumSize(700, 580)
         container = QWidget(self); self.main_layout = QVBoxLayout(self); self.main_layout.setContentsMargins(0, 0, 0, 0); self.main_layout.addWidget(container)
         container_layout = QVBoxLayout(container); container_layout.setContentsMargins(0, 0, 0, 0); self.stack = QStackedWidget(); container_layout.addWidget(self.stack)
         self.welcome = WelcomeScreen(); self.notice = NoticeScreen(); self.check_pkg = PackageCheckScreen(self); self.license = LicenseScreen(); self.install = InstallScreen()
@@ -817,8 +738,7 @@ class InstallerWizard(QWidget):
              if self.current_aes_key != chiave_default: self.current_aes_key = chiave_default; print("Chiave AES reimpostata al default (manuale)."); key_changed = True
         if key_changed and self.stack.currentWidget() == self.check_pkg: print("Rieseguo check dopo cambio chiave manuale."); self.go_to_check()
     def go_to_check(self):
-        use_alt_patch = self.install.alt_patch_checkbox.isChecked(); package_to_check = ALT_PACKAGE_FILE if use_alt_patch else PACKAGE_FILE
-        self.check_pkg.check_package(package_to_check); self.stack.setCurrentWidget(self.check_pkg)
+        self.check_pkg.check_package(PACKAGE_FILE); self.stack.setCurrentWidget(self.check_pkg)
     def confirm_installation(self):
         dest_path = self.install.path_input.text()
         if not dest_path: QMessageBox.warning(self, "Percorso Mancante", "Specifica la cartella di installazione."); return
@@ -839,11 +759,10 @@ class InstallerWizard(QWidget):
         try: os.makedirs(dest_path, exist_ok=True)
         except OSError as e: QMessageBox.critical(self, "Errore Cartella", f"Impossibile creare o accedere alla cartella di destinazione:\n{dest_path}\nErrore: {e}"); return
         self.install.install_btn.setEnabled(False); self.install.cancel_btn.setText("Annulla"); self.install.cancel_btn.setObjectName("CancelButton")
-        self.install.path_input.setEnabled(False); self.install.browse_btn.setEnabled(False); self.install.backup_checkbox.setEnabled(False); self.install.alt_patch_checkbox.setEnabled(False)
+        self.install.path_input.setEnabled(False); self.install.browse_btn.setEnabled(False); self.install.backup_checkbox.setEnabled(False)
         self.install.status_label.setText("Avvio preparazione operazione..."); self.install.progress_bar.setValue(0); self.install.head_icon.hide()
-        use_alt_patch = self.install.alt_patch_checkbox.isChecked(); package_to_install = ALT_PACKAGE_FILE if use_alt_patch else PACKAGE_FILE
-        print(f"Avvio installazione del pacchetto: {package_to_install}")
-        self.install_worker = InstallWorker(dest_path, self.current_aes_key, do_backup, package_to_install)
+        print(f"Avvio installazione del pacchetto: {PACKAGE_FILE}")
+        self.install_worker = InstallWorker(dest_path, self.current_aes_key, do_backup, PACKAGE_FILE)
         self.install_worker.progress.connect(self.update_progress); self.install_worker.finished.connect(self.on_finished); self.install_worker.backup_status.connect(self.update_backup_status); self.install_worker.start()
     def update_backup_status(self, message):
         self.install.status_label.setText(message); QApplication.processEvents()
@@ -853,7 +772,7 @@ class InstallerWizard(QWidget):
         self.install.update_icon_position(value)
     def on_finished(self, success, message):
         self.install.install_btn.setEnabled(True); self.install.cancel_btn.setText("Chiudi"); self.install.cancel_btn.setObjectName("CancelButton"); self.install.cancel_btn.setEnabled(True)
-        self.install.path_input.setEnabled(True); self.install.browse_btn.setEnabled(True); self.install.backup_checkbox.setEnabled(True); self.install.alt_patch_checkbox.setEnabled(True); self.install.head_icon.hide()
+        self.install.path_input.setEnabled(True); self.install.browse_btn.setEnabled(True); self.install.backup_checkbox.setEnabled(True); self.install.head_icon.hide()
         self.install_worker = None
         if success:
             self.install.progress_bar.setValue(100); self.install.status_label.setText(message)

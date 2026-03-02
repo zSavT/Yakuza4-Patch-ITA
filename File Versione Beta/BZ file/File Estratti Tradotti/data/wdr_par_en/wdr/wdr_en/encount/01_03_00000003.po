@@ -29,47 +29,47 @@ msgstr "Sync_Send"
 
 msgctxt "100_Man"
 msgid "Hold up a second. I've seen that face before..."
-msgstr "Aspetta un secondo. Ho già visto quella faccia..."
+msgstr "Aspetta un secondo. Quella faccia non mi è nuova..."
 
 msgctxt "112_Man"
 msgid "...Dammit! I can't remember. Doesn't that put you in the worst fuckin' mood? And I'm gonna take it out on your face!"
-msgstr "...Dannazione! Non ricordo. Non ti mette di pessimo umore? E me la prenderò con la tua faccia!"
+msgstr "...Dannazione! Non mi viene in mente. Non ti mette un umore di merda non ricordarti le cose? Beh, vorrà dire che mi sfogherò sulla tua faccia!"
 
 msgctxt "124_Man"
 msgid "Hang on, mister. I haven't seen you around here much."
-msgstr "Aspetti un attimo, signore. Non l'ho vista molto da queste parti."
+msgstr "Un momento, signore. Non l'ho vista spesso da queste parti."
 
 msgctxt "136_Man"
 msgid "This place is getting dangerous. That's why we're asking all outsider yakuza to get lost!"
-msgstr "Questo posto sta diventando pericoloso. Ecco perché stiamo chiedendo a tutti gli yakuza esterni di andarsene!"
+msgstr "L'aria si sta facendo pesante qui. Ecco perché stiamo gentilmente chiedendo a tutti gli yakuza forestieri di sparire!"
 
 msgctxt "148_Man"
 msgid "Hey pal, hand over your money. C'mon, we both know you got plenty!"
-msgstr "Ehi amico, consegna i soldi. Dai, sappiamo entrambi che ne hai in abbondanza!"
+msgstr "Ehi amico, sgancia il grano. Avanti, lo sappiamo entrambi che ne hai un sacco!"
 
 msgctxt "160_Man"
 msgid "Shit, one look at you and anyone could tell that much, so quit fuckin' around!"
-msgstr "Merda, basta un'occhiata per capirlo, quindi smettila di cazzeggiare!"
+msgstr "Cazzo, ti si legge in faccia che sei pieno di soldi, quindi smettila di cazzeggiare!"
 
 msgctxt "172_Man"
 msgid "Watch out! Stop where you are! This area's dangerous! ...Phew, that was close."
-msgstr "Attento! Fermo dove sei! Questa zona è pericolosa! ...Phew, c'è mancato poco."
+msgstr "Occhio! Fermati subito! Questa zona è pericolosa! ...Fiuuu, c'è mancato poco."
 
 msgctxt "184_Man"
 msgid "There's a pack of vicious yakuza over there. Aren't you glad I was here to warn you? So how about you pay me for that little travel tip?"
-msgstr "C'è un branco di yakuza feroci laggiù. Non sei felice che io fossi qui per avvertirti? Allora che ne dici di pagarmi per questo piccolo consiglio di viaggio?"
+msgstr "C'è una banda di yakuza feroci proprio laggiù. Sei fortunato che fossi qui ad avvertirti, no? Che ne dici di pagarmi per la dritta?"
 
 msgctxt "220_Man"
 msgid "Dayum! Why'd I pick a fight with someone so strong? Urgh... I can't remember."
-msgstr "Accidenti! Perché ho attaccato briga con uno così forte? Urgh... Non ricordo."
+msgstr "Maledizione! Ma perché ho attaccato briga con uno così forte? Urgh... non me lo ricordo proprio."
 
 msgctxt "232_Man"
 msgid "'Scuse me! I don't really know why, but I feel like you should have this. So here, it's yours!"
-msgstr "Mi scusi! Non so bene perché, ma sento che dovrebbe avere questo. Quindi ecco, è suo!"
+msgstr "Mi scusi! Non so bene il perché, ma sento che dovrebbe avere questo. Tenga, è suo!"
 
 msgctxt "244_Man"
 msgid "You got an amazing %s."
-msgstr "Hai ottenuto un %s fantastico."
+msgstr "Hai ottenuto: %s (incredibile)."
 
 msgctxt "268_Man"
 msgid "Not bad at all..."
@@ -81,19 +81,19 @@ msgstr "Quindi ho perso. Beh, sono cose che capitano. Sei libero di andare e ven
 
 msgctxt "292_Man"
 msgid "You got a disheveled %s."
-msgstr "Hai ottenuto un %s trasandato."
+msgstr "Hai ottenuto: %s (sgualcito)."
 
 msgctxt "316_Man"
 msgid "*pant* *pant*"
-msgstr "*ansima* *ansima*"
+msgstr "*pant* *pant*"
 
 msgctxt "328_Man"
 msgid "Not that I think you need it, but here, this is for you."
-msgstr "Non che io pensi che tu ne abbia bisogno, ma tieni, questo è per te."
+msgstr "Non credo che ne avrai bisogno, ma tieni, questo è per te."
 
 msgctxt "340_Man"
 msgid "You got an unexpected %s."
-msgstr "Hai ottenuto un %s inaspettato."
+msgstr "Hai ottenuto: %s (inaspettato)."
 
 msgctxt "364_Man"
 msgid "Urgh. I feel like I'm gonna black out..."
@@ -101,15 +101,15 @@ msgstr "Urgh. Sento che sto per svenire..."
 
 msgctxt "376_Man"
 msgid "You must be one of those vicious guys. Count me out. I don't get involved in that shit. Take this and be on your way."
-msgstr "Devi essere uno di quei tipi feroci. Lasciami fuori. Non mi immischio in quella merda. Prendi questo e vai per la tua strada."
+msgstr "Tu devi essere uno di quei tipi tosti. Stammi lontano, non voglio casini. Prendi questo e sparisci."
 
 msgctxt "388_Man"
 msgid "You got an untarnished %s."
-msgstr "Hai ottenuto un %s immacolato."
+msgstr "Hai ottenuto: %s nuovo di zecca."
 
 msgctxt "436_Man"
 msgid "Wait, why'm I all beat up? ...I can't remember."
-msgstr "Aspetta, perché sono tutto pesto? ...Non ricordo."
+msgstr "Aspetta, perché sono tutto pesto? ...Non riesco a ricordarmelo."
 
 msgctxt "448_Man"
 msgid "Sure you don't want to join our family? We'd take good care of you."
@@ -121,4 +121,4 @@ msgstr "Perdonami, amico..."
 
 msgctxt "472_Man"
 msgid "Damn, I'm gonna... pass... out. Better get my... shit... together..."
-msgstr "Dannazione, sto per... svenire... Meglio che mi... riprenda..."
+msgstr "Dannazione, sto per... svenire... Meglio che... mi dia... una regolata..."

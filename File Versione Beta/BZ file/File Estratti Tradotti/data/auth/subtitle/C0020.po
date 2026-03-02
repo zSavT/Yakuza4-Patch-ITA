@@ -23,51 +23,51 @@ msgstr "Ehi. Come vanno gli affari?"
 
 msgctxt "1543\t1633"
 msgid "Not again, Tanimura-san."
-msgstr "Non di nuovo, Tanimura-san."
+msgstr "Non un'altra volta, Tanimura-san."
 
 msgctxt "1791\t1851"
 msgid "Always a pleasure."
 msgstr "Sempre un piacere."
 
 msgctxt "1852\t1966"
-msgid "That's twice now.\\nI thought we agreed once a month."
-msgstr "È la seconda volta.\\nGli accordi erano una volta al mese."
+msgid "That's twice now.\nI thought we agreed once a month."
+msgstr "Siamo già a due volte.\nCredevo fossimo d'accordo per una volta al mese."
 
 msgctxt "1967\t2017"
 msgid "Give me a break."
-msgstr "Dammi una pausa."
+msgstr "Ma fammi il piacere."
 
 msgctxt "2018\t2117"
-msgid "That girl you just got in.\\nShe Korean?"
-msgstr "La ragazza laggiù.\\nÈ coreana?"
+msgid "That girl you just got in.\nShe Korean?"
+msgstr "Quella ragazza che è appena arrivata.\nÈ coreana?"
 
 msgctxt "2130\t2178"
 msgid "Exchange student, maybe?"
-msgstr "Studente in trasferta, forse?"
+msgstr "Studentessa in scambio, forse?"
 
 msgctxt "2266\t2388"
-msgid "Everyone knows it's illegal for foreigners\\nto work here without a proper visa."
-msgstr "Tutti gli stranieri sanno che è illegale lavorare\\nqui senza un visto regolare."
+msgid "Everyone knows it's illegal for foreigners\nto work here without a proper visa."
+msgstr "Lo sanno tutti che è illegale per gli stranieri\nlavorare qui senza un visto regolare."
 
 msgctxt "2402\t2560"
-msgid "But what you might not know is,\\nknowingly hiring them's a crime in itself."
-msgstr "Ma quello che non sai è che già\\nassumerli è considerato un crimine."
+msgid "But what you might not know is,\nknowingly hiring them's a crime in itself."
+msgstr "Ma quello che forse non sai è che assumerli\nconsapevolmente è di per sé un reato."
 
 msgctxt "2590\t2771"
-msgid "Getting caught will cost you 3 years.\\nWell, either that or 3 mil."
-msgstr "Venire scoperti ti costerà 3 anni.\\nBeh, quello o 3 milioni."
+msgid "Getting caught will cost you 3 years.\nWell, either that or 3 mil."
+msgstr "Farsi beccare ti costerà 3 anni.\nBeh, o quello o 3 milioni."
 
 msgctxt "2778\t2847"
 msgid "Just cut me some slack here."
 msgstr "Dammi un po' di tregua."
 
 msgctxt "2856\t3043"
-msgid "Rumor has it you take advantage of these girls\\nknowing full well they can't run to the cops."
-msgstr "Si dice che ti approfitti di quelle ragazze\\nben conscio che non potranno andare dalla polizia."
+msgid "Rumor has it you take advantage of these girls\nknowing full well they can't run to the cops."
+msgstr "Gira voce che ti approfitti di queste ragazze\nben sapendo che non possono rivolgersi alla polizia."
 
 msgctxt "3055\t3131"
 msgid "You want me turning a blind eye to that?"
-msgstr "Vuoi che chiuda un occhio?"
+msgstr "E vuoi che chiuda un occhio su questo?"
 
 msgctxt "3213\t3284"
 msgid "Eh, we can handle that later."
@@ -75,15 +75,15 @@ msgstr "Eh, ci penseremo dopo."
 
 msgctxt "3305\t3433"
 msgid "For now, let me know if you ever see this woman."
-msgstr "Per ora, fammi sapere se vedi questa donna."
+msgstr "Per ora, fammi sapere se ti capita di vedere questa donna."
 
 msgctxt "3467\t3520"
 msgid "Who is she?"
-msgstr "Chi è lei?"
+msgstr "Chi è?"
 
 msgctxt "3521\t3651"
-msgid "Can't say.\\nPolice confidentiality, you know."
-msgstr "Non posso dirlo.\\nInformazioni segrete, sai."
+msgid "Can't say.\nPolice confidentiality, you know."
+msgstr "Non posso dirlo.\nSegreto d'ufficio, sai."
 
 msgctxt "3662\t3750"
 msgid "Just call me if you see her."
@@ -91,21 +91,20 @@ msgstr "Chiamami se la vedi."
 
 msgctxt "3751\t3817"
 msgid "Bye now."
-msgstr "Per ora, ciao."
+msgstr "Ci vediamo."
 
 msgctxt "4531\t4615"
 msgid "There's my little Ma-chan!"
-msgstr "Ecco la piccola Ma-chan!"
+msgstr "Ecco il mio piccolo Ma-chan!"
 
 msgctxt "4755\t4789"
-msgid "呀 哥哥！\\n(Ooh, it's the cop man!)"
-msgstr "呀 哥哥！\\n(Ooh, è il poliziotto!)"
+msgid "呀 哥哥！\n(Ooh, it's the cop man!)"
+msgstr "呀 哥哥！\n(Oh, è il poliziotto!)"
 
 msgctxt "4795\t4847"
-msgid "你們好嗎？\\n(What's up, big guy?)"
-msgstr "你們好嗎？\\n(Che c'è, ragazzone?)"
+msgid "你們好嗎？\n(What's up, big guy?)"
+msgstr "你們好嗎？\n(Come va, ragazzone?)"
 
 msgctxt "4849\t4905"
-msgid "改天再陪你們玩\\n[Catch you tomorrow, okay?]"
-msgstr "改天再陪你們玩\\n[Ci sentiamo domani, ok?]"
-
+msgid "改天再陪你們玩\n[Catch you tomorrow, okay?]"
+msgstr "改天再陪你們玩\n[Ci vediamo domani, ok?]"
