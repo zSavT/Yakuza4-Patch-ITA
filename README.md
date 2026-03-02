@@ -31,6 +31,8 @@ Ringrazio "[Lowrentio](https://steamcommunity.com/id/Lowrentio/)" per aver decis
 
 ![](img/dialogo.jpg)
 
+![](img/pac.jpg)
+
 # Come installare la patch
 
 Per installare bisogna selezionare la sezione [Releases](https://github.com/zSavT/Yakuza4-Patch-ITA/releases) su GitHub e selezionare l'ultima versione della patch disponibile. Selezionate l'installer da scaricare in base al sistema operativo scelto ed avviate l'installer.
