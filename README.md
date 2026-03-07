@@ -56,10 +56,10 @@ Eventualmente si può anche inserire la spunta per installare le traduzioni fatt
     - All'interno sono presenti la maggior parte delle grafiche del gioco, in particolare quelle per l'immagine di introduzione dei capitoli e degli obbiettivi.
     - [x] Tradotto
 - __Yakuza 4\data\2d\first_load_picture_en.par__
-    - All'interno sono presenti le immagine degli splash screen del primo avvio del gioco.
+    - All'interno sono presenti le immagini degli splash screen del primo avvio del gioco.
     - [x] Tradotto
 - __Yakuza 4\data\2d\tex_common_en.par__
-    - All'interno sono presenti le immagine del menu del gioco.
+    - All'interno sono presenti le immagini del menu del gioco.
     - [x] Tradotto
 - __Yakuza 4\data\auth\subtitle.par__
     - All'interno sono presenti tutti i testi per le cutscene presenti nel gioco.
@@ -71,10 +71,10 @@ Eventualmente si può anche inserire la spunta per installare le traduzioni fatt
     - Come sopra.
     - [x] Tradotto
 - __Yakuza 4\data\fontpar__
-    - All'interno sono presenti i dati relativo al font del gioco.
+    - All'interno sono presenti i dati relativi al font del gioco.
     - [x] Tradotto
 - __Yakuza 4\data\hact\subtitle.par__
-    - All'interno sono presenti tutti i testi non presenti nelle cutscene o nei classi box di dialogo o menu.
+    - All'interno sono presenti tutti i testi non presenti nelle cutscene o nelle classi box di dialogo o menu.
     - [x] Tradotto
 - __Yakuza 4\data\minigame\*__
     - All'interno sono presenti vari file relativi ai minigiochi.
@@ -86,13 +86,13 @@ Eventualmente si può anche inserire la spunta per installare le traduzioni fatt
     - All'interno è presente il testo delle email/sms.
     - [x] Tradotto
 - __Yakuza 4\data\staffrollpar__
-    - All'interno sono presenti le immagine dei crediti finali del gioco.
+    - All'interno sono presenti le immagini dei crediti finali del gioco.
     - [x] Tradotto
 - __Yakuza 4\data\ikusei_param_en.par__
-    - All'interno sono presenti i testi del gioco relativi al colosseo.
+    - All'interno sono presenti i testi del gioco relativi al Colosseo.
     - [x] Tradotto ma con limitazioni
 - __Yakuza 4\data\wdr_par_en\*__
-    - All'interno sono presenti i file relativi ai box di dialogo della storia e interazioni con i negozi.
+    - All'interno sono presenti i file relativi ai box di dialogo della storia e alle interazioni con i negozi.
     - [x] Tradotto
 
 # Funzionamento estrazione PAR
@@ -144,7 +144,7 @@ Esempio di importazione:
 
 # Funzionamento estrazione MSG
 
-Per i file MSG, si utilizza il programma realizzato da ma [BZ](https://brazilalliance.com.br/).
+Per i file MSG, si utilizza il programma realizzato da [BZ](https://brazilalliance.com.br/).
 
 # Funzionamento installer
 
@@ -164,7 +164,7 @@ Nella cartella "_dist_", è presente l'eseguibile.
 ### Linux (Steam Deck)
 
 Per generare l'eseguibile per Linux, bisogna fare qualche passaggio in più. L'installer è creato tramite la WSL per Windows.
-Per prima cosa bisogna creare l'ambiente virtuale per python tramite il comando:
+Per prima cosa bisogna creare l'ambiente virtuale per Python tramite il comando:
 ```ps
 python3 -m venv venv
 ```
@@ -194,7 +194,7 @@ Successivamente bisogna avviare il comando per la creazione del file eseguibile:
 pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
 ```
 
-Una volta terminato, si può disattivare l'ambiente con il commando:
+Una volta terminato, si può disattivare l'ambiente con il comando:
 ```ps
 deactivate
 ```
@@ -214,13 +214,13 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 Lista dei progetti di patch in italiano per i giochi della serie:
 - [Yakuza 0](https://letraduzionidirulesless.wordpress.com/yakuza0-2/)
     - Come indicato nell'introduzione, la patch di Yakuza 0 è l'unica completa al 100% (o quasi).
-    - La versione Director's Cut, presenta la lingua italiana.
+    - La versione Director's Cut presenta la lingua italiana.
 - Yakuza Kiwami 1, 2 e 3
    - Ufficialmente tradotti in italiano nelle nuove versioni. 
 - Yakuza 4 Remastered
     - Questo progetto
 - [Yakuza 5 Remastered](https://github.com/zSavT/Yakuza5-Patch-ITA)
-    - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 5, il funzionamento ed il materiale tradotto è il medesimo.
+    - Un'altra patch realizzata da me per la serie Yakuza è quella di Yakuza 5, il funzionamento ed il materiale tradotto sono gli stessi.
 - [Yakuza 6](https://www.nexusmods.com/yakuza6/mods/220)
     - Un ragazzo ha tradotto i sottotitoli delle cutscene e alcuni menu
 
@@ -229,13 +229,13 @@ Lista dei progetti di patch in italiano per i giochi della serie:
 Si ringrazia
 
 - Per la codifica e la decodifica dei file _PAR_ del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/Kaplas80/ParManager.git) da Kaplas80.<br>
-- Per la codifica e la decodifica dei file BIN 2007.03.19 del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer) da SlowpokeVG.
+- Per la codifica e la decodifica dei file BIN 2007.03.19 del gioco, si utilizza il programma sviluppato nella [repo](https://github.com/SlowpokeVG/Yakuza-2007.03.19-bin-file-exporter-importer) di SlowpokeVG.
 - Per la modifica dei font, è stata realizzata partendo dalla mod 4K dei font reperibile da [qui](https://www.nexusmods.com/yakuza4remastered/mods/14) realizzata da Chalkint.
 - Per la codifica dei file _MSG_, _BIN_ del gioco, si utilizza il programma sviluppato da [BZ](https://brazilalliance.com.br/).
 
 ## Copyright
-This patch does not contain copyrighted material, has no functional autonomy, and you must have your original own copy to apply it.
-All game rights, intellectual property, logo/names and movies/images are property of Sega Corporation.
+This patch does not contain copyrighted material, has no functional autonomy, and you must have your own original copy to apply it.
+All game rights, intellectual property, logo/names, and movies/images are property of Sega Corporation.
 
 # Altri progetti di traduzione realizzati da me
 [Valkyria Chronicles Patch ITA](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA)
