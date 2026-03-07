@@ -45,7 +45,6 @@ L'installazione è guidata e semplice, ma in ogni caso basterà sempre cliccare 
 ![](img/Installer3.png)
 
 Successivamente bisogna accettare i termini d'uso e poi nella schermata successiva, selezionare la cartella dove è installato Yakuza 4 (Di default è impostato il percorso classico) e cliccare su "_Installa Patch_".
-Eventualmente si può anche inserire la spunta per installare le traduzioni fatte con Gemini per le quest secondarie.
 
 ![](img/Installer4.png)
 ![](img/Installer5.png)
