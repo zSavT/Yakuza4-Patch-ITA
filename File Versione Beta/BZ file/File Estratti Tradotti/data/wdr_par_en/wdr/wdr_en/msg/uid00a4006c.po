@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "248"
 msgid "You got the <Color:8>Briefcase with 30 Million Yen<Color:Default>."
-msgstr "Hai la <Color:8>Valigetta con 30 milioni di Yen<Color:Default>."
+msgstr "Hai ottenuto la <Color:8>Valigetta con 30 milioni di Yen<Color:Default>."
 
 msgctxt "2880"
 msgid "Akiyama"
@@ -46,7 +46,7 @@ msgstr "Hana-chan. I soldi sono a posto?"
 
 msgctxt "224_Hana"
 msgid "Yep. Thirty million yen. I put it in a briefcase for you."
-msgstr "Già. Trenta milioni di yen. Te li ho messi in valigetta."
+msgstr "Già. Trenta milioni di yen. Te li ho messi in una valigetta."
 
 msgctxt "236_Akiyama"
 msgid ""
@@ -78,7 +78,7 @@ msgstr "Mi dispiace. Ti trascino sempre nelle mie follie."
 
 msgctxt "308_Hana"
 msgid "Don't worry about it. I do this job because I want to."
-msgstr "Non ti preoccupare. Lo faccio perché voglio io."
+msgstr "Non ti preoccupare. Faccio questo lavoro perché lo voglio."
 
 msgctxt "320_Hana"
 msgid ""
@@ -86,7 +86,7 @@ msgid ""
 "caught up in shady deals."
 msgstr ""
 "Stai solo attento, ok? Hai il vizio di cacciarti "
-"negli affari loschi."
+"in affari loschi."
 
 msgctxt "332_Akiyama"
 msgid ""
