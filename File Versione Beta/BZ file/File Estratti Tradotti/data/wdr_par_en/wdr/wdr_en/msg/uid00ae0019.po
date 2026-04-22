@@ -208,7 +208,7 @@ msgstr ""
 
 msgctxt "656_Bob Utsunomiya"
 msgid "You got a set of <Color:8>Rage Armor<Color:Default>."
-msgstr "Hai ottenuto un set di <Color:8>Armatura dell'ira<Color:Default>."
+msgstr "Hai ottenuto un'<Color:8>Armatura dell'ira<Color:Default>."
 
 msgctxt "692_Bob Utsunomiya"
 msgid "You got a <Color:8>Rage Bracelet<Color:Default>."
@@ -224,8 +224,7 @@ msgstr "Hai ottenuto un <Color:8>Amuleto del dio della guerra<Color:Default>."
 
 msgctxt "800_Bob Utsunomiya"
 msgid "You got a set of <Color:8>Sacred Tree Armor<Color:Default>."
-msgstr ""
-"Hai ottenuto un set di <Color:8>Armatura dell'albero sacro<Color:Default>."
+msgstr "Hai ottenuto un'<Color:8>Armatura dell'albero sacro<Color:Default>."
 
 msgctxt "836_Bob Utsunomiya"
 msgid "You got a pair of <Color:8>Sacred Tree Arm Guards<Color:Default>."
@@ -249,7 +248,7 @@ msgstr "Hai ottenuto una <Color:8>Pistola dorata<Color:Default>."
 
 msgctxt "980_Bob Utsunomiya"
 msgid "You got a <Color:8>Staminan Royale<Color:Default>."
-msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
+msgstr "Hai ottenuto uno <Color:8>Staminan Royale<Color:Default>."
 
 msgctxt "1064_Bob Utsunomiya"
 msgid "You got a <Color:8>Staminan Spark<Color:Default>."
