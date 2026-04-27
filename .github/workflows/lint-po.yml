@@ -1,4 +1,4 @@
-name: Check PO Structure
+name: Check PO Structure Yakuza 4
 
 on:
   push:
@@ -23,7 +23,7 @@ jobs:
 
       - name: Validate PO Syntax
         run: |
-          TARGET_DIR="File Versione Beta/File Tradotti/data"
+          TARGET_DIR="File Versione Beta/BZ file/File Estratti Tradotti/data"
           find "$TARGET_DIR" -name "*.po" -print0 | xargs -0 -I {} sh -c '
             OUTPUT=$(msgfmt -c -o /dev/null "{}" 2>&1)
             STATUS=$?
