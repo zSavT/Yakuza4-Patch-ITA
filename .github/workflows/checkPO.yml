@@ -18,12 +18,28 @@ jobs:
         run: |
           set -eu
 
-          ORIGINAL_DIR="File Estratti Originali/data"
-          TRANSLATED_DIR="File Estratti Tradotti/data"
+          echo "🔍 Ricerca automatica delle cartelle nel repository..."
+          
+          ORIGINAL_BASE=$(find . -type d -name "File Estratti Originali" | head -n 1)
+          TRANSLATED_BASE=$(find . -type d -name "File Estratti Tradotti" | head -n 1)
+
+          if [ -z "$ORIGINAL_BASE" ] || [ -z "$TRANSLATED_BASE" ]; then
+            echo "❌ Impossibile trovare le cartelle base 'File Estratti Originali' o 'File Estratti Tradotti'."
+            echo "📂 Ecco la struttura attuale delle cartelle nel repository:"
+            find . -maxdepth 3 -type d
+            exit 1
+          fi
+
+          ORIGINAL_DIR="$ORIGINAL_BASE/data"
+          TRANSLATED_DIR="$TRANSLATED_BASE/data"
           error_found=0
 
+          echo "✅ Cartella originale trovata in: $ORIGINAL_DIR"
+          echo "✅ Cartella tradotta trovata in: $TRANSLATED_DIR"
+          echo "---------------------------------------------------"
+
           if [ ! -d "$ORIGINAL_DIR" ] || [ ! -d "$TRANSLATED_DIR" ]; then
-            echo "❌ Una delle cartelle non esiste. Controlla i percorsi!"
+            echo "❌ La sottocartella 'data' non esiste all'interno dei percorsi trovati!"
             exit 1
           fi
 
@@ -66,9 +82,10 @@ jobs:
 
           done < <(find "$ORIGINAL_DIR" -type f -name "*.po" -print0)
 
+          echo "---------------------------------------------------"
           if [[ $error_found -ne 0 ]]; then
             echo "❌ Controllo fallito: discrepanza nei msgctxt o file mancanti"
             exit 1
           else
-            echo "✅ Tutti i msgctxt controllati sono coerenti (al netto delle cartelle saltate)"
+            echo "🎉 Tutti i msgctxt controllati sono coerenti (al netto delle cartelle saltate)"
           fi
