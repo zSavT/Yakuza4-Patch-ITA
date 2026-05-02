@@ -27,7 +27,6 @@ jobs:
             exit 1
           fi
 
-          # Dizionario per tracciare le cartelle mancanti e non spammare i log
           declare -A missing_dirs_warned
 
           while IFS= read -r -d '' original_file; do
@@ -35,7 +34,6 @@ jobs:
             translated_file="$TRANSLATED_DIR/$relative_path"
             translated_dir_path=$(dirname "$translated_file")
 
-            # Se la cartella tradotta non esiste, diamo solo un warning e saltiamo
             if [[ ! -d "$translated_dir_path" ]]; then
               if [[ -z "${missing_dirs_warned["$translated_dir_path"]:-}" ]]; then
                 echo "⚠️ Warning: Cartella mancante in traduzione: $translated_dir_path (i file al suo interno verranno ignorati)"
@@ -44,7 +42,6 @@ jobs:
               continue
             fi
 
-            # Se la cartella esiste ma manca un singolo file al suo interno, è un errore
             if [[ ! -f "$translated_file" ]]; then
               echo "❌ File mancante: $translated_file"
               error_found=1
