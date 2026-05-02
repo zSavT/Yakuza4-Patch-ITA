@@ -1,6 +1,5 @@
 name: Confronto file PO originali e tradotti (msgctxt)
 
-# Scegli quando far partire l'azione (es. ad ogni push o pull request)
 on:
   push:
     branches: [ main ]
@@ -11,18 +10,17 @@ jobs:
   check-po-files:
     runs-on: ubuntu-latest
     steps:
-      # Fondamentale: scarica il codice del repository nella macchina virtuale
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      # Qui incolli lo script che abbiamo visto prima
+        
       - name: Check msgctxt consistency
         shell: bash
         run: |
           set -eu
 
-          ORIGINAL_DIR="File Versione Beta/BZ File/File Estratti Originali/data"
-          TRANSLATED_DIR="File Versione Beta/BZ File/File Estratti Tradotti/data"
+          # Percorsi corretti basati sulla struttura della tua repository
+          ORIGINAL_DIR="File Estratti Originali/data"
+          TRANSLATED_DIR="File Estratti Tradotti/data"
           error_found=0
 
           # Verifica che le directory esistano prima di iniziare
@@ -34,8 +32,6 @@ jobs:
           while IFS= read -r -d '' original_file; do
             relative_path="${original_file#"$ORIGINAL_DIR"/}"
             translated_file="$TRANSLATED_DIR/$relative_path"
-
-            
 
             if [[ ! -f "$translated_file" ]]; then
               echo "❌ File mancante: $translated_file"
