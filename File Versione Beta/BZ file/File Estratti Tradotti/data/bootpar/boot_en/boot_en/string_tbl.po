@@ -11712,9 +11712,17 @@ msgctxt "76918"
 msgid "Received Emails"
 msgstr "E-mail ricevute"
 
+msgctxt "76934"
+msgid "%03d/%03d"
+msgstr ""
+
 msgctxt "76944"
 msgid "Select an email to read."
 msgstr "Seleziona un'e-mail da leggere."
+
+msgctxt "76969"
+msgid "%s %s"
+msgstr ""
 
 msgctxt "76975"
 msgid "Ascending Order"

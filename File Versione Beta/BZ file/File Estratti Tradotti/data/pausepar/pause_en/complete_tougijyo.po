@@ -56,7 +56,8 @@ msgctxt "449\tNAME"
 msgid "Bounding Grand Prix"
 msgstr "Grand Prix Scatenato"
 
-msgid "Furore Grand Prix"
+msgctxt "469\tNAME"
+msgid "Heat Grand Prix"
 msgstr "Gran Premio Heat"
 
 msgctxt "485\tNAME"
