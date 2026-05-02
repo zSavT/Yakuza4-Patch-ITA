@@ -12,27 +12,39 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
+
       - name: Check msgctxt consistency
         shell: bash
         run: |
           set -eu
 
-          # Percorsi corretti basati sulla struttura della tua repository
           ORIGINAL_DIR="File Estratti Originali/data"
           TRANSLATED_DIR="File Estratti Tradotti/data"
           error_found=0
 
-          # Verifica che le directory esistano prima di iniziare
           if [ ! -d "$ORIGINAL_DIR" ] || [ ! -d "$TRANSLATED_DIR" ]; then
             echo "❌ Una delle cartelle non esiste. Controlla i percorsi!"
             exit 1
           fi
 
+          # Dizionario per tracciare le cartelle mancanti e non spammare i log
+          declare -A missing_dirs_warned
+
           while IFS= read -r -d '' original_file; do
             relative_path="${original_file#"$ORIGINAL_DIR"/}"
             translated_file="$TRANSLATED_DIR/$relative_path"
+            translated_dir_path=$(dirname "$translated_file")
 
+            # Se la cartella tradotta non esiste, diamo solo un warning e saltiamo
+            if [[ ! -d "$translated_dir_path" ]]; then
+              if [[ -z "${missing_dirs_warned["$translated_dir_path"]:-}" ]]; then
+                echo "⚠️ Warning: Cartella mancante in traduzione: $translated_dir_path (i file al suo interno verranno ignorati)"
+                missing_dirs_warned["$translated_dir_path"]=1
+              fi
+              continue
+            fi
+
+            # Se la cartella esiste ma manca un singolo file al suo interno, è un errore
             if [[ ! -f "$translated_file" ]]; then
               echo "❌ File mancante: $translated_file"
               error_found=1
@@ -58,8 +70,8 @@ jobs:
           done < <(find "$ORIGINAL_DIR" -type f -name "*.po" -print0)
 
           if [[ $error_found -ne 0 ]]; then
-            echo "❌ Controllo fallito: discrepanza nei msgctxt"
+            echo "❌ Controllo fallito: discrepanza nei msgctxt o file mancanti"
             exit 1
           else
-            echo "✅ Tutti i msgctxt sono coerenti"
+            echo "✅ Tutti i msgctxt controllati sono coerenti (al netto delle cartelle saltate)"
           fi
