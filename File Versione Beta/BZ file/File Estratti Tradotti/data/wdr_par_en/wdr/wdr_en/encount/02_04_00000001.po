@@ -61,7 +61,7 @@ msgstr "Non faremo mai più una cosa del genere. Tieni, prendi questo... e dimen
 
 msgctxt "248_Man"
 msgid "You got a shiny %s."
-msgstr "Hai ottenuto: %s (brillante)."
+msgstr "Hai ottenuto %s (brillante)."
 
 msgctxt "272_Man"
 msgid "Heheh... Sorry to waste your time like that."
@@ -73,7 +73,7 @@ msgstr "Questo dovrebbe bastare come risarcimento."
 
 msgctxt "296_Man"
 msgid "You got a crunchy %s."
-msgstr "Hai ottenuto: %s (incartapecorito)."
+msgstr "Hai ottenuto %s (incartapecorito)."
 
 msgctxt "320_Man"
 msgid "What was that? You're super strong..."
@@ -85,7 +85,7 @@ msgstr "Se ti diamo questo, ci perdonerai?"
 
 msgctxt "344_Man"
 msgid "You got a crumpled %s."
-msgstr "Hai ottenuto: %s (sgualcito)."
+msgstr "Hai ottenuto %s (sgualcito)."
 
 msgctxt "392_Man"
 msgid "We've sworn off the old donations scam."

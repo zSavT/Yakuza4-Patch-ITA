@@ -33,11 +33,11 @@ msgstr "Sync_Send"
 
 msgctxt "116_Man"
 msgid "My girl told me that you assaulted her. Why don't you pay up, as an apology?"
-msgstr "La mia ragazza mi ha detto che l'hai aggredita. Perché non paghi come scusa?"
+msgstr "La mia ragazza mi ha detto che l'hai aggredita. Perché non mi paghi per scusarti?"
 
 msgctxt "128_Man"
 msgid "If you don't pay, I'll just have to punch you instead!"
-msgstr "Se non paghi, dovrò prenderti a pugni!"
+msgstr "Se non paghi, sarò costretto a prenderti a pugni!"
 
 msgctxt "152_Man"
 msgid "Gah... I lied. Please, no more. I was joking!"
@@ -49,7 +49,7 @@ msgstr "Forse mi perdonerai con questo..."
 
 msgctxt "176_Man"
 msgid "You got a dented %s."
-msgstr "Hai ottenuto un %s ammaccato."
+msgstr "Hai ottenuto %s ammaccato."
 
 msgctxt "212_Man"
 msgid "I won't do it again..."

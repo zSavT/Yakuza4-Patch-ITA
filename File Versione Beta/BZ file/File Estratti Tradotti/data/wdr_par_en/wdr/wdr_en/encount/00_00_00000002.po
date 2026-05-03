@@ -37,11 +37,11 @@ msgid ""
 "done that after you got my permission."
 msgstr ""
 "Ultimamente hai attirato molta attenzione da queste parti. Avresti dovuto "
-"farlo dopo aver ottenuto il mio permesso."
+"chiedere il mio permesso prima di farlo."
 
 msgctxt "128_Man"
 msgid "So I guess I'll hafta say hello with my fists!"
-msgstr "Quindi immagino che dovrò salutarti con i miei pugni!"
+msgstr "Quindi immagino di doverti salutare con i pugni!"
 
 msgctxt "152_Man"
 msgid "Ugh... It hurts."
@@ -49,11 +49,11 @@ msgstr "Ugh... Fa male."
 
 msgctxt "164_Man"
 msgid "I'm sorry, please take this."
-msgstr "Mi dispiace, ti prego prendi questo."
+msgstr "Mi dispiace, ti prego, prendi questo."
 
 msgctxt "176_Man"
 msgid "You got a sweat-stained %s."
-msgstr "Hai ottenuto un %s macchiato di sudore."
+msgstr "Hai ottenuto %s macchiato di sudore."
 
 msgctxt "212_Man"
 msgid "I won't complain about you anymore..."
