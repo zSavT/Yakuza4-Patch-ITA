@@ -18,11 +18,11 @@ msgstr "Giocatore"
 
 msgctxt "264_Player"
 msgid "(Should I give her a present?)"
-msgstr "Dovrei farle un regalo?"
+msgstr "(Dovrei farle un regalo?)"
 
 msgctxt "288_Player"
 msgid " (Maybe she'd like this.)"
-msgstr "(Magari le piacerebbe questo.)"
+msgstr " (Magari le piacerebbe questo.)"
 
 msgctxt "300_Player"
 msgid "(On second thought, maybe not.)"
@@ -38,7 +38,7 @@ msgstr ""
 
 msgctxt "324_Player"
 msgid " (I think I'll stay just a bit longer.)"
-msgstr "(Penso che mi fermerò ancora un po'.)"
+msgstr " (Penso che mi fermerò ancora un po'.)"
 
 msgctxt "336_Player"
 msgid "(I think it's time to go.)"

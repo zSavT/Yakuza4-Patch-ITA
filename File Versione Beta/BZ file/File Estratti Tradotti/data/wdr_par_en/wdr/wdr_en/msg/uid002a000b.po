@@ -82,12 +82,7 @@ msgstr "No? Beh, torna quando ti va."
 
 msgctxt "412_Kiryu"
 msgid "Tell me about this place."
-msgstr "Dimmi di questo posto."
-
-msgctxt "436_Owner"
-msgid ""
-"At our place, you can play ranked matches if you're aiming for the top, and "
-"shogi challenge matches to test your skill."
+msgstr "hallenge matches to test your skill."
 msgstr ""
 "Da noi, puoi giocare partite classificate se punti in alto, e sfide di shogi"
 " per mettere alla prova le tue abilità."
@@ -129,16 +124,11 @@ msgstr ""
 
 msgctxt "496_Owner"
 msgid "What's that buddy, you got no money? Come back when you have 500 yen."
-msgstr "Che c'è, ragazzo, non hai un soldo? Torna quando hai 500 yen."
-
+msgstr "Come dici, amico, sei a secco? Torna quando avrai 500 yen."
 msgctxt "520_Owner"
-msgid "Yeah, I'll play."
 msgstr "Sì, gioco."
-
 msgctxt "532_Owner"
-msgid "All right. Who do you wanna play?"
 msgstr "Va bene. Con chi vuoi giocare?"
-
 msgctxt "556_Owner"
 msgid "All right, good luck."
 msgstr "Va bene, in bocca al lupo."

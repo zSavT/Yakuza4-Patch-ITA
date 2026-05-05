@@ -62,14 +62,14 @@ msgstr "(Dovrei portare almeno 20.000 yen...)"
 
 msgctxt "516_Attendant"
 msgid "Ah, I see you have a copy of Night Magazine. Would you like to use it?"
-msgstr "Ah, vedo che hai una copia di Night Magazine. Ti va di usarlo?"
+msgstr "Ah, vedo che ha una copia di Night Magazine. Le va di usarla?"
 
 msgctxt "528_Attendant"
 msgid ""
 "Excellent. Using your copy of Night Magazine entitles you to a 1,000 yen "
 "discount."
 msgstr ""
-"Perfetto! Dato che hai la tua copia di Night Magazine, ti spetta uno sconto "
+"Perfetto! Dato che ha la sua copia di Night Magazine, Le spetta uno sconto "
 "di 1.000 yen."
 
 msgctxt "540_Attendant"
@@ -78,7 +78,7 @@ msgstr "Molto bene."
 
 msgctxt "552_Attendant"
 msgid "Do you wish to request someone?"
-msgstr "Vuoi qualcuno in particolare?"
+msgstr "Vuole richiedere qualcuna in particolare?"
 
 msgctxt "624_Attendant"
 msgid "Error."
@@ -151,7 +151,7 @@ msgstr "Grazie."
 
 msgctxt "984_Attendant"
 msgid "We hope to see you again."
-msgstr "Speriamo di rivederti."
+msgstr "Speriamo di rivederLa."
 
 msgctxt "996_P_sitsofaR_tlk_standup"
 msgid "Now then..."
