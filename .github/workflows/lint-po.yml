@@ -1,4 +1,4 @@
-name: Check PO Structure Yakuza 4
+name: Controllo Struttura File PO
 
 on:
   push:
@@ -7,8 +7,6 @@ on:
       - 'File Versione Beta/BZ file/File Estratti Tradotti/data/**'
   pull_request:
     branches: [ main ]
-    paths:
-      - 'File Versione Beta/BZ file/File Estratti Tradotti/data/**'
 
 jobs:
   validate:
