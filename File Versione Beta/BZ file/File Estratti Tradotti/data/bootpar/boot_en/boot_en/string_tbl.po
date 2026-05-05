@@ -403,7 +403,7 @@ msgstr "Finale: Requiem"
 
 msgctxt "22321"
 msgid "You got: %s."
-msgstr "Hai ottenuto: %s."
+msgstr "Hai ottenuto %s."
 
 msgctxt "22334"
 msgid "Lost %s."
@@ -2257,11 +2257,11 @@ msgstr "Ora è possibile ritirare %s."
 
 msgctxt "31519"
 msgid "You got: %s."
-msgstr "Hai ottenuto: %s."
+msgstr "Hai ottenuto %s."
 
 msgctxt "31532"
 msgid "You got: %s."
-msgstr "Hai ottenuto: %s."
+msgstr "Hai ottenuto %s."
 
 msgctxt "31545"
 msgid "A new mode has been added to the main menu."
@@ -11712,9 +11712,17 @@ msgctxt "76918"
 msgid "Received Emails"
 msgstr "E-mail ricevute"
 
+msgctxt "76934"
+msgid "%03d/%03d"
+msgstr ""
+
 msgctxt "76944"
 msgid "Select an email to read."
 msgstr "Seleziona un'e-mail da leggere."
+
+msgctxt "76969"
+msgid "%s %s"
+msgstr ""
 
 msgctxt "76975"
 msgid "Ascending Order"
@@ -12956,7 +12964,7 @@ msgstr "Torna al titolo"
 
 msgctxt "83836"
 msgid "Exit to title screen."
-msgstr "Torna alla schermata del titolo."
+msgstr "Torna al menu principale."
 
 msgctxt "83858"
 msgid "Exit to Windows"

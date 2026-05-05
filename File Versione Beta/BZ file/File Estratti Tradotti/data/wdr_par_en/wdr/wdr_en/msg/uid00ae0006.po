@@ -234,15 +234,15 @@ msgstr "Entro 5 metri."
 
 msgctxt "1268_名前を入力して下さい"
 msgid "Drunkenness has exceeded 50%."
-msgstr "Ebbrezza ha superato il 50%."
+msgstr "L'ebbrezza ha superato il 50%."
 
 msgctxt "1292_名前を入力して下さい"
 msgid "Get Drunk"
-msgstr "Sbronzarsi"
+msgstr "Ubriacati"
 
 msgctxt "1304_名前を入力して下さい"
 msgid "Sober Up"
-msgstr "Torna sobrio"
+msgstr "Riprenditi"
 
 msgctxt "1328_名前を入力して下さい"
 msgid "More than 50%."
@@ -266,11 +266,11 @@ msgstr "Questo è il mio <Color:8>oggetto<Color:Default>."
 
 msgctxt "1388_名前を入力して下さい"
 msgid "Oh, a <Color:8>Staminan X<Color:Default>."
-msgstr "Oh, un <Color:8>Staminan X<Color:Default>."
+msgstr "Oh, uno <Color:8>Staminan X<Color:Default>."
 
 msgctxt "1400_名前を入力して下さい"
 msgid "Got a tarnished <Color:8>5,000 yen<Color:Default>."
-msgstr "Ho un <Color:8>5.000 yen<Color:Default> sporco."
+msgstr "Hai ottenuto <Color:8>5.000 yen<Color:Default> logori."
 
 msgctxt "1412_名前を入力して下さい"
 msgid "Learned <Color:9>パンチ<Color:Default>."

@@ -69,7 +69,7 @@ msgstr "Mi scusi! Non so bene il perché, ma sento che dovrebbe avere questo. Te
 
 msgctxt "244_Man"
 msgid "You got an amazing %s."
-msgstr "Hai ottenuto: %s (incredibile)."
+msgstr "Hai ottenuto %s (incredibile)."
 
 msgctxt "268_Man"
 msgid "Not bad at all..."
@@ -81,7 +81,7 @@ msgstr "Quindi ho perso. Beh, sono cose che capitano. Sei libero di andare e ven
 
 msgctxt "292_Man"
 msgid "You got a disheveled %s."
-msgstr "Hai ottenuto: %s (sgualcito)."
+msgstr "Hai ottenuto %s (sgualcito)."
 
 msgctxt "316_Man"
 msgid "*pant* *pant*"
@@ -93,7 +93,7 @@ msgstr "Non credo che ne avrai bisogno, ma tieni, questo è per te."
 
 msgctxt "340_Man"
 msgid "You got an unexpected %s."
-msgstr "Hai ottenuto: %s (inaspettato)."
+msgstr "Hai ottenuto %s (inaspettato)."
 
 msgctxt "364_Man"
 msgid "Urgh. I feel like I'm gonna black out..."
@@ -105,7 +105,7 @@ msgstr "Tu devi essere uno di quei tipi tosti. Stammi lontano, non voglio casini
 
 msgctxt "388_Man"
 msgid "You got an untarnished %s."
-msgstr "Hai ottenuto: %s nuovo di zecca."
+msgstr "Hai ottenuto %s nuovo di zecca."
 
 msgctxt "436_Man"
 msgid "Wait, why'm I all beat up? ...I can't remember."

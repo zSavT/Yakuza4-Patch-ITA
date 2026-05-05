@@ -34,11 +34,11 @@ msgstr "(Immagino sia ora di andarsene.)"
 
 msgctxt "204_Player"
 msgid "(I think I'll go to the gambling hall floor.)"
-msgstr "(Mi sa che vado al piano del casinò.)"
+msgstr "(Mi sa che vado al piano della sala da gioco.)"
 
 msgctxt "228_Player"
 msgid "Street Level"
-msgstr "Livello Stradale"
+msgstr "Piano strada"
 
 msgctxt "240_Player"
 msgid "Dojo"

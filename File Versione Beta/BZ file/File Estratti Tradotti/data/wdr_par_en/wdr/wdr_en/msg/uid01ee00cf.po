@@ -30,7 +30,7 @@ msgstr "(Credo che andrò al piano del dojo.)"
 
 msgctxt "180_Player"
 msgid "(Let's go to the casino floor.)"
-msgstr "Andiamo al piano del casinò."
+msgstr "(Andiamo al piano del casinò.)"
 
 msgctxt "204_Player"
 msgid "(Guess it's time to leave.)"
@@ -38,7 +38,7 @@ msgstr "(Immagino sia ora di andarsene.)"
 
 msgctxt "228_Player"
 msgid "Street Level"
-msgstr "Livello Stradale"
+msgstr "Piano strada"
 
 msgctxt "240_Player"
 msgid "Dojo"

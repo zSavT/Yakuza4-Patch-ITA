@@ -46,17 +46,16 @@ msgstr "Siamo quasi al punto di consegna. Manca pochissimo, amico. Coraggio."
 
 msgctxt "80_Client"
 msgid "Really? Just a little farther..."
-msgstr "Davvero? Manca poco..."
+msgstr "Davvero? Solo un altro po'..."
 
 msgctxt "92_Saejima"
 msgid "I know I ain't s'posed to ask, but what'd you do, anyway?"
-msgstr "So che non dovrei chiedere, ma tu cos'hai combinato, alla fine?"
+msgstr "So che non dovrei chiederlo, ma cos'hai combinato di preciso?"
 
 msgctxt "104_Saejima"
 msgid "Frankly, ya don't look like a guy worth puttin' a hit on."
 msgstr ""
-"Francamente, non hai l'aria di un tipo su cui valga la pena metterci un "
-"contratto."
+"Francamente, non hai l'aria di uno su cui valga la pena mettere una taglia."
 
 msgctxt "116_Client"
 msgid "I can't tell you. It would invalidate my contract..."
@@ -68,7 +67,7 @@ msgstr "Con... cosa?"
 
 msgctxt "164_Saejima"
 msgid "Dammit, another one. You be a good boy and stay outta the way!"
-msgstr "Dannazione, un altro. Tu fai il bravo e stai fuori dai piedi!"
+msgstr "Dannazione, un altro. Tu fai il bravo e resta fuori dai piedi!"
 
 msgctxt "176_Client"
 msgid "Yikes! I don't wanna die! Please, save me!"

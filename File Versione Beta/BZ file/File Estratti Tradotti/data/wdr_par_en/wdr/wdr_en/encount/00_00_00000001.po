@@ -41,11 +41,11 @@ msgid ""
 "like that."
 msgstr ""
 "Ehi, amico, ho sentito che sei fottutamente ricco! L'ho sentito da un amico di un "
-"amico, qualcosa del genere."
+"amico, o qualcosa del genere."
 
 msgctxt "140_Man"
 msgid "Can you let me borrow some o' that too? And if I can't, I'll just hafta make you!"
-msgstr "Puoi prestarmene un po' anche a me? E se non lo fai, dovrò costringerti!"
+msgstr "Puoi prestarmene un po' anche a me? E se non vuoi, ti costringerò io a farlo!"
 
 msgctxt "152_Man"
 msgid ""
@@ -63,7 +63,7 @@ msgstr ""
 
 msgctxt "176_Man"
 msgid "Hey, geezer! Who's permission you get to walk this road, huh!?"
-msgstr "Ehi, vecchiaccio! Chi ti ha dato il permesso di camminare su questa strada, eh!?"
+msgstr "Ehi, vecchiaccio! Chi ti ha dato il permesso di passare di qua, eh!?"
 
 msgctxt "188_Man"
 msgid ""
@@ -71,15 +71,15 @@ msgid ""
 "Time to teach you a life lesson!"
 msgstr ""
 "Hai un bel caratterino con quel tuo corpo enorme. Amico, mi stai facendo incazzare! È "
-"ora di darti una lezione di vita!"
+"ora di darti una bella lezione di vita!"
 
 msgctxt "200_Man"
 msgid "You're lookin' pretty well off for living in a time of recession."
-msgstr "Hai un bell'aspetto per vivere in un periodo di recessione."
+msgstr "Sembri passartela piuttosto bene per essere in un periodo di recessione."
 
 msgctxt "212_Man"
 msgid "Why don't you spread some of that wealth. How about it!?"
-msgstr "Perché non spargi un po' di quella ricchezza in giro. Che ne dici!?"
+msgstr "Perché non condividi un po' di questa ricchezza? Che ne dici!?"
 
 msgctxt "248_Man"
 msgid "Ow, ow..."
@@ -87,15 +87,15 @@ msgstr "Ahi, ahi..."
 
 msgctxt "260_Man"
 msgid "I'll scrape up the cash on my own... I'm real sorry."
-msgstr "Troverò i soldi da solo... Mi dispiace davvero."
+msgstr "Metterò insieme i soldi da solo... Mi dispiace davvero."
 
 msgctxt "272_Man"
 msgid "You got a remorse-filled %s."
-msgstr "Hai ottenuto un %s pieno di rimorso."
+msgstr "Hai ottenuto %s pieno di rimorso."
 
 msgctxt "296_Man"
 msgid "Urgh... Guess you beat a return policy into me..."
-msgstr "Urgh... Immagino tu mi abbia fatto passare la voglia di resi a forza di botte..."
+msgstr "Urgh... Immagino che tu mi abbia inculcato a suon di botte la politica sui resi..."
 
 msgctxt "308_Man"
 msgid "Here's a gift from me..."
@@ -103,7 +103,7 @@ msgstr "Ecco un regalo da parte mia..."
 
 msgctxt "320_Man"
 msgid "You got a worn out %s."
-msgstr "Hai ottenuto un %s usurato."
+msgstr "Hai ottenuto %s usurato."
 
 msgctxt "344_Man"
 msgid "We're sorry!"
@@ -119,7 +119,7 @@ msgstr ""
 
 msgctxt "368_Man"
 msgid "You got a tattered %s."
-msgstr "Hai ottenuto un %s a brandelli."
+msgstr "Hai ottenuto %s a brandelli."
 
 msgctxt "392_Man"
 msgid "Ow..."
@@ -131,11 +131,11 @@ msgstr "Uh, non è molto, ma spero sia abbastanza..."
 
 msgctxt "416_Man"
 msgid "You got a tear-soaked %s."
-msgstr "Hai ottenuto un %s intriso di lacrime."
+msgstr "Hai ottenuto %s intriso di lacrime."
 
 msgctxt "464_Man"
 msgid "I'll scrape up the cash on my own... I'm real sorry."
-msgstr "Troverò i soldi da solo... Mi dispiace davvero."
+msgstr "Metterò insieme i soldi da solo... Mi dispiace davvero."
 
 msgctxt "476_Man"
 msgid "Man, what an unlucky day..."

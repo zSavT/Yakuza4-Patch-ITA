@@ -72,7 +72,7 @@ msgstr "Sono così eccitata! Non mi capita spesso di mangiare qui!"
 
 msgctxt "164_Player"
 msgid "Wait a minute. I just realized that I'm short on cash."
-msgstr "Aspetta un attimo. Mi sono appena accorto che sono a secco."
+msgstr "Aspetta un attimo. Mi sono appena reso conto di essere a corto di contanti."
 
 msgctxt "176_望月京子：源氏名"
 msgid "...Seriously?"
@@ -87,11 +87,11 @@ msgid ""
 "From the way you act, I thought you had plenty of money. Oh well. I'll see "
 "you later."
 msgstr ""
-"Da come ti metti, pensavo che fossi pieno di grana. Vabbè. Ci si vede."
+"Da come ti comporti, pensavo che fossi pieno di soldi. Vabbè. Ci si vede."
 
 msgctxt "212_Player"
 msgid "(I should've made sure I had some cash...)"
-msgstr "(Avrei dovuto assicurarmi di avere un po' di grana...)"
+msgstr "(Avrei dovuto assicurarmi di avere abbastanza soldi...)"
 
 msgctxt "320_望月京子：源氏名"
 msgid ""
@@ -135,7 +135,7 @@ msgstr "Qualcosa non va?"
 
 msgctxt "452_望月京子：源氏名"
 msgid "Oh, nothing... Well, the food wasn't all that good..."
-msgstr "Oh, niente... Beh, il cibo non era sto granché..."
+msgstr "Oh, niente... Beh, il cibo non era un granché..."
 
 msgctxt "464_Player"
 msgid "Oh..."
@@ -147,7 +147,7 @@ msgstr "Vabbè, devo andare. Ci vediamo al club."
 
 msgctxt "488_Player"
 msgid "(Guess she didn't enjoy the food.)"
-msgstr "(Mi sa che non le è piaciuto il cibo.)"
+msgstr "(Immagino che il cibo non le sia piaciuto molto.)"
 
 msgctxt "596_望月京子：源氏名"
 msgid "I'm so excited! I don't get the chance to eat here very often!"
@@ -163,7 +163,7 @@ msgstr "Sono così eccitata! Non mi capita spesso di mangiare qui!"
 
 msgctxt "644_Player"
 msgid "Wait a minute. I just realized that I'm short on cash."
-msgstr "Aspetta un attimo. Mi sono appena accorto che sono a secco."
+msgstr "Aspetta un attimo. Mi sono appena reso conto di essere a corto di contanti."
 
 msgctxt "656_望月京子：源氏名"
 msgid "...Seriously?"
@@ -178,11 +178,11 @@ msgid ""
 "From the way you act, I thought you had plenty of money. Oh well. I'll see "
 "you later."
 msgstr ""
-"Da come ti metti, pensavo che fossi pieno di grana. Vabbè. Ci si vede."
+"Da come ti comporti, pensavo che fossi pieno di soldi. Vabbè. Ci si vede."
 
 msgctxt "692_Player"
 msgid "(I should've made sure I had some cash...)"
-msgstr "(Avrei dovuto assicurarmi di avere un po' di grana...)"
+msgstr "(Avrei dovuto assicurarmi di avere abbastanza soldi...)"
 
 msgctxt "800_望月京子：源氏名"
 msgid ""
@@ -233,7 +233,7 @@ msgstr "Qualcosa non va?"
 
 msgctxt "944_望月京子：源氏名"
 msgid "Oh, nothing... Well, the food wasn't all that good..."
-msgstr "Oh, niente... Beh, il cibo non era sto granché..."
+msgstr "Oh, niente... Beh, il cibo non era un granché..."
 
 msgctxt "956_Player"
 msgid "Oh..."
@@ -245,4 +245,4 @@ msgstr "Vabbè, andiamo al club."
 
 msgctxt "980_Player"
 msgid "(Guess she didn't enjoy the food.)"
-msgstr "(Mi sa che non le è piaciuto il cibo.)"
+msgstr "(Immagino che il cibo non le sia piaciuto molto.)"

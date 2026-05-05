@@ -46,11 +46,11 @@ msgstr "Allora... anelli di fidanzamento, eh?"
 
 msgctxt "68_Chigusa"
 msgid "Let's put them on. They're a pair, after all."
-msgstr "Mettiamoceli. In fondo, sono un paio."
+msgstr "Mettiamoceli. In fondo, vanno in coppia."
 
 msgctxt "80_Kiryu"
 msgid "As long as you're sure."
-msgstr "Finché ne sei sicura."
+msgstr "Basta che tu ne sia sicura."
 
 msgctxt "104_Kiryu"
 msgid "It's... too small for my finger."
@@ -58,7 +58,7 @@ msgstr "È... troppo piccolo per il mio dito."
 
 msgctxt "116_Chigusa"
 msgid "*sob*"
-msgstr "*singhiozzo*"
+msgstr "*singhiozza*"
 
 msgctxt "128_Kiryu"
 msgid "Hey, what's wrong?"
@@ -66,11 +66,11 @@ msgstr "Ehi, cos'hai?"
 
 msgctxt "140_Chigusa"
 msgid "I give up..."
-msgstr "Non ce la faccio più..."
+msgstr "Mi arrendo..."
 
 msgctxt "152_Chigusa"
 msgid "Yusaku's... He's gone. *sob*"
-msgstr "Yusaku... Se n'è andato. *singhiozzo*"
+msgstr "Yusaku... Non c'è più. *singhiozza*"
 
 msgctxt "164_Kiryu"
 msgid "Chigusa..."
@@ -82,15 +82,15 @@ msgstr "L'ho sempre saputo! Solo che..."
 
 msgctxt "188_Chigusa"
 msgid "Forget it. Just let me be alone."
-msgstr "Lascia perdere. Lasciami in pace."
+msgstr "Lascia perdere. Voglio solo restare sola."
 
 msgctxt "200_Kiryu"
 msgid ""
 "I don't think that's gonna help. We should go somewhere we "
 "can sit and take a breather."
 msgstr ""
-"Non credo proprio che serva a qualcosa. Dovremmo andare da qualche parte dove "
-"possiamo sederci e prendere fiato."
+"Non credo sia una buona idea. Dovremmo andare da qualche parte a "
+"sederci e prendere fiato."
 
 msgctxt "212_Chigusa"
 msgid ""
@@ -102,4 +102,4 @@ msgstr ""
 
 msgctxt "224_Kiryu"
 msgid "Got it. Let's go."
-msgstr "Capito. Andiamo."
+msgstr "D'accordo. Andiamo."
