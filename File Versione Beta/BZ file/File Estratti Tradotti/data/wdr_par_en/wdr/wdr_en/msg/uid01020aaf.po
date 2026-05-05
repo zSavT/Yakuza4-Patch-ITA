@@ -38,25 +38,25 @@ msgstr "dummy"
 
 msgctxt "92_Akiyama"
 msgid "Hello?"
-msgstr "Salve?"
+msgstr "Pronto?"
 
 msgctxt "104_Kido"
 msgid "Akiyama-san, it's me. Is now a good time?"
-msgstr "Akiyama-san, sono io. È un buon momento?"
+msgstr "Akiyama-san, sono io. Disturbo?"
 
 msgctxt "116_Akiyama"
 msgid "Yup, we're all in the clear. What's up?"
-msgstr "Sì, siamo a posto. Cosa c'è?"
+msgstr "No, via libera. Che succede?"
 
 msgctxt "128_Kido"
 msgid ""
 "There's something I gotta talk to you about. You mind if we meet up for a "
 "few?"
-msgstr "C'è una cosa di cui devo parlarti. Ti va se ci vediamo per un po'?"
+msgstr "C'è una cosa di cui devo parlarti. Ti dispiace se ci vediamo un attimo?"
 
 msgctxt "140_Akiyama"
 msgid "Not at all. Where at?"
-msgstr "Affatto. Dove?"
+msgstr "Per niente. Dove?"
 
 msgctxt "152_Kido"
 msgid ""
@@ -68,7 +68,7 @@ msgstr ""
 
 msgctxt "164_Kido"
 msgid "We'll have some privacy there."
-msgstr "Avremo un po' di privacy lì."
+msgstr "Lì avremo un po' di privacy."
 
 msgctxt "176_Kido"
 msgid ""
@@ -87,4 +87,4 @@ msgstr "Perfetto. Ci vediamo lì."
 
 msgctxt "248_Akiyama"
 msgid "(Sounds like I should head over to Theater Square.)"
-msgstr "(Sembra che dovrei andare a Theater Square.)"
+msgstr "(Meglio andare a Theater Square, allora.)"
