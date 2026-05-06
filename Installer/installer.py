@@ -10,6 +10,7 @@ import sys
 import os
 import platform
 import webbrowser
+import subprocess
 import traceback
 import shutil
 import datetime
@@ -30,8 +31,22 @@ from PyQt6.QtGui import (
     QPainter
 )
 from PyQt6.QtCore import (
-    Qt, QThread, pyqtSignal, QSize, QPoint, QTimer
+    Qt, QThread, pyqtSignal, QSize, QPoint, QTimer, QUrl
 )
+
+# --- Funzione per aprire URL in modo sicuro (Fix per Steam Deck / Linux) ---
+def apri_url(url):
+    print(f"Apertura URL: {url}")
+    try:
+        if platform.system() == "Linux":
+            env = os.environ.copy()
+            env.pop("LD_LIBRARY_PATH", None)
+            
+            subprocess.Popen(['xdg-open', url], env=env)
+        else:
+            webbrowser.open(url)
+    except Exception as e:
+        print(f"Impossibile aprire il browser per {url}: {e}")
 
 # --- Funzione Resource Path ---
 def resource_path(relative_path):
@@ -238,20 +253,17 @@ class VersionCheckWorker(QThread):
         La logica è: Release > Beta > Alpha.
         Ritorna True se v1 > v2, altrimenti False.
         """
-        print(f"Confronto versioni - GitHub: {v1_str} vs Locale: {v2_str}")
-        def clean(v):
-            return v.replace("Beta-", "").replace("beta-", "")
-
         try:
             latest_v = version.parse(v1_str)
             current_v = version.parse(v2_str)
-            latest_v = version.parse(clean(v1_str))
-            current_v = version.parse(clean(v2_str))
-            print(f"Versioni parsate - GitHub: {latest_v} > Locale: {current_v} = {latest_v > current_v}")
             return latest_v > current_v
             
         except (version.InvalidVersion, AttributeError, TypeError) as e:
             print(f"Avviso: Impossibile analizzare la versione in modo standard ({e}). Fallback a confronto stringa.")
+            if "Alpha" in v1_str and "beta" in v2_str.lower(): 
+                return False
+            if "Alpha" in v2_str and "beta" in v1_str.lower(): 
+                return True
             return v1_str.lstrip('vV') > v2_str.lstrip('vV')
 
     def run(self):
@@ -460,10 +472,9 @@ class CompletionDialog(QDialog):
     def accept_and_open_url(self):
         url = self.url_to_open; self.accept()
         if url:
-            print(f"Opening URL: {url}")
             try:
-                webbrowser.open(WEB_URL)
-                webbrowser.open(url)
+                apri_url(WEB_URL)
+                apri_url(url)
                 QTimer.singleShot(2000, QApplication.instance().quit)
             except Exception as e:
                 print(f"Error opening URL {url}: {e}")
@@ -478,7 +489,7 @@ class WelcomeScreen(QWidget):
         for icon_path, url, tip in zip([YT_ICON, GH_ICON, WEB_ICON], [YT_URL, GH_URL, WEB_URL], ["YouTube", "GitHub", "Sito Web"]):
             try:
                 if not os.path.exists(icon_path): continue
-                btn = QPushButton(); btn.setObjectName("LinkButton"); btn.setCursor(QCursor(Qt.CursorShape.PointingHandCursor)); btn.setFlat(True); btn.setIcon(QIcon(icon_path)); btn.setIconSize(QSize(28, 28)); btn.setFixedSize(QSize(32, 32)); btn.setToolTip(tip); btn.clicked.connect(lambda _, link=url: webbrowser.open(link)); top_bar.addWidget(btn)
+                btn = QPushButton(); btn.setObjectName("LinkButton"); btn.setCursor(QCursor(Qt.CursorShape.PointingHandCursor)); btn.setFlat(True); btn.setIcon(QIcon(icon_path)); btn.setIconSize(QSize(28, 28)); btn.setFixedSize(QSize(32, 32)); btn.setToolTip(tip); btn.clicked.connect(lambda _, link=url: apri_url(link)); top_bar.addWidget(btn)
             except Exception as e: print(f"Err icon {icon_path}: {e}")
         layout.addLayout(top_bar); layout.addSpacing(10)
         image_label = QLabel(); image_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
@@ -563,7 +574,10 @@ class NoticeScreen(QWidget):
     def __init__(self):
         super().__init__(); layout = QVBoxLayout(self); layout.setContentsMargins(30, 20, 30, 20); layout.setSpacing(15)
         title = QLabel("Nota bene!"); title.setObjectName("TitleLabel"); title.setAlignment(Qt.AlignmentFlag.AlignCenter)
-        notice_area = QTextBrowser(); notice_area.setReadOnly(True); notice_area.setOpenExternalLinks(True)
+        notice_area = QTextBrowser(); notice_area.setReadOnly(True)
+        notice_area.setOpenExternalLinks(False)
+        notice_area.setOpenLinks(False)
+        notice_area.anchorClicked.connect(lambda qurl: apri_url(qurl.toString()))
         html_content = f"""
         <style> p {{ margin-bottom: 12px; }} b {{ color: #2a75bb; }} </style>
         <p><b>1. La patch è GRATUITA e Open Source.</b><br>Se hai pagato per ottenere questo software, sei stato truffato. Chiedi <b>immediatamente i soldi indietro</b>. Il progetto è e sarà sempre gratuito.</p>
@@ -715,7 +729,7 @@ class InstallerWizard(QWidget):
         msg_box.setInformativeText("Vuoi aprire la pagina di download per scaricarla?"); msg_box.setIcon(QMessageBox.Icon.Information)
         yes_button = msg_box.addButton("Sì, apri il sito", QMessageBox.ButtonRole.YesRole); no_button = msg_box.addButton("No, continua", QMessageBox.ButtonRole.NoRole); msg_box.setDefaultButton(yes_button)
         msg_box.exec()
-        if msg_box.clickedButton() == yes_button: print(f"Apertura URL aggiornamento: {url}"); webbrowser.open(url); self.close()
+        if msg_box.clickedButton() == yes_button: apri_url(url); self.close()
     def position_hidden_button(self):
         margin = 5; button_size = self.hidden_key_button.size(); x = self.width() - button_size.width() - margin; y = margin; self.hidden_key_button.move(x, y)
     def resizeEvent(self, event):
@@ -800,8 +814,6 @@ class InstallerWizard(QWidget):
         else: event.accept()
 
 if __name__ == "__main__":
-    if hasattr(Qt.ApplicationAttribute, 'AA_EnableHighDpiScaling'): QApplication.setAttribute(Qt.ApplicationAttribute.AA_EnableHighDpiScaling, True)
-    if hasattr(Qt.ApplicationAttribute, 'AA_UseHighDpiPixmaps'): QApplication.setAttribute(Qt.ApplicationAttribute.AA_UseHighDpiPixmaps, True)
     app = QApplication(sys.argv)
     app.setStyle("Fusion")
     app.setStyleSheet(get_dynamic_stylesheet())

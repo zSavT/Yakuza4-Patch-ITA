@@ -113,7 +113,7 @@ msgstr "Hai ottenuto una <Color:8>Gemma zero<Color:Default>."
 
 msgctxt "2156"
 msgid "You got an <Color:8>Eye of the Dragon<Color:Default>."
-msgstr "Hai ottenuto un <Color:8>Occhio del Drago<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Occhio del drago<Color:Default>."
 
 msgctxt "2180"
 msgid "You got a <Color:8>Diamond<Color:Default>."
@@ -312,11 +312,11 @@ msgstr "Hai ottenuto una <Color:8>Gemma nera<Color:Default>."
 
 msgctxt "2132_Bob Utsunomiya"
 msgid "You got a <Color:8>Seal of the Dragon<Color:Default>."
-msgstr "Hai ottenuto un <Color:8>Sigillo del Drago<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Sigillo del drago<Color:Default>."
 
 msgctxt "2216_Bob Utsunomiya"
 msgid "You got an <Color:8>NSD Prototype<Color:Default>."
-msgstr "Hai ottenuto un <Color:8>Prototipo NSD<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>NSD Prototype<Color:Default>."
 
 msgctxt "2300_Bob Utsunomiya"
 msgid "I only hand out item packs once, so take good care of these items."
