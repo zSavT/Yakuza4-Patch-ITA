@@ -1,18 +1,41 @@
 ---
-name: Errore nella traduzione
-about: Crea una segnalazione per una errata traduzione/adattamento del gioco
-title: ''
+name: Segnalazione Errore di Traduzione
+about: Segnala un refuso, un errore grammaticale o un problema di adattamento.
+title: '[TRADUZIONE] - Breve descrizione dell''errore'
 labels: Traduzione errata
 assignees: zSavT
 
 ---
 
-**Descrizione dell'errore**
-Riporta qui sotto il testo originale dove è presente l'errore. Allega se possibile uno screen dell'errore.
+## Posizione dell'errore
+*Informazioni necessarie per rintracciare la stringa nei file di gioco.*
 
-**Proposta correzzione**
+- **Capitolo:** (es. Capitolo 1: Sky Finance)
+- **Personaggio:** (es. Akiyama)
+- **Luogo/Contesto:** (es. Dialogo nel Serena / Testo di un minigioco)
 
-Riporta qui sotto la proposta di traduzione corretta da dover inserire.
+---
 
-**Info extra**
-Inserisci qui sotto eventuali informazioni utili.
+## Descrizione dell'errore
+**Testo attuale:**
+> Inserisci qui la frase così come appare nel gioco.
+
+**Tipo di problema:**
+(es. Errore di battitura, senso della frase errato, testo tagliato, errore grammaticale)
+
+---
+
+## Proposta di Correzione
+**Testo suggerito:**
+> Inserisci qui la traduzione corretta.
+
+---
+
+## Screenshot
+*Fondamentale per verificare il contesto e lo spazio a schermo.*
+- Trascina o incolla qui l'immagine.
+
+---
+
+## Informazioni Extra
+Inserisci qui eventuali note aggiuntive (es. se il testo compare solo in determinate condizioni).
