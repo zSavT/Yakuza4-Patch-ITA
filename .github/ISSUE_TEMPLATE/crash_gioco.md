@@ -37,7 +37,7 @@ Descrivi cosa succede (es. il gioco si chiude improvvisamente, l'immagine si blo
 ---
 
 ## Specifiche del sistema
-- **Piattaforma:** (es. PC Steam, Steam Deck, Modifica console)
+- **Piattaforma:** (es. PC Steam, Steam Deck)
 - **Altre mod installate:** (Elenca se usi Ryu Mod Manager o altre mod grafiche/gameplay)
 
 ---
