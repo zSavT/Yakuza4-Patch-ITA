@@ -6541,7 +6541,7 @@ msgstr ""
 
 msgctxt "21\t117625\t1\tCHK"
 msgid "Via Suppon"
-msgstr "Via Suppon"
+msgstr "Suppon Street"
 
 msgctxt "21\t117639\t2\tCHK"
 msgid "Champion District"
@@ -6549,19 +6549,19 @@ msgstr "Champion District"
 
 msgctxt "21\t117657\t3\tCHK"
 msgid "Via Pink"
-msgstr "Via Pink"
+msgstr "Pink Street"
 
 msgctxt "21\t117669\t4\tCHK"
 msgid "Via Pink Entrance"
-msgstr "Ingresso di Via Pink"
+msgstr "Ingresso di Pink Street"
 
 msgctxt "21\t117690\t5\tCHK"
 msgid "North Via Pink"
-msgstr "Via Pink nord"
+msgstr "Pink Street nord"
 
 msgctxt "21\t117708\t6\tCHK"
 msgid "Vicolo Pink"
-msgstr "Vicolo Pink"
+msgstr "Pink Alley"
 
 msgctxt "21\t117719\t7\tCHK"
 msgid "Yoshida Batting Center"
@@ -6569,7 +6569,7 @@ msgstr "Yoshida Batting Center"
 
 msgctxt "21\t117742\t8\tCHK"
 msgid "Vicolo del Teatro"
-msgstr "Vicolo del Teatro"
+msgstr "Theater Alley"
 
 msgctxt "21\t117756\t9\tCHK"
 msgid "Theater Square"
@@ -6577,7 +6577,7 @@ msgstr "Theater Square"
 
 msgctxt "21\t117771\t10\tCHK"
 msgid "Viale del Teatro"
-msgstr "Viale del Teatro"
+msgstr "Theater Avenue"
 
 msgctxt "21\t117786\t11\tCHK"
 msgid "North Theater Square"
@@ -6589,11 +6589,11 @@ msgstr "Theater Square nord-ovest"
 
 msgctxt "21\t117832\t13\tCHK"
 msgid "Viale del Parco"
-msgstr "Viale del Parco"
+msgstr "Park Boulevard"
 
 msgctxt "21\t117847\t14\tCHK"
 msgid "Park Alley"
-msgstr "Vicolo del Parco"
+msgstr "Park Alley"
 
 msgctxt "21\t117858\t15\tCHK"
 msgid "Shichifuku Parking Lot"
@@ -6601,39 +6601,39 @@ msgstr "Parcheggio di Shichifuku"
 
 msgctxt "21\t117881\t16\tCHK"
 msgid "West Via Shichifuku"
-msgstr "Via Shichifuku ovest"
+msgstr "Shichifuku Street ovest"
 
 msgctxt "21\t117904\t17\tCHK"
 msgid "East Via Shichifuku"
-msgstr "Via Shichifuku est"
+msgstr "Shichifuku Street est"
 
 msgctxt "21\t117927\t18\tCHK"
 msgid "Via Showa "
-msgstr "Via Showa "
+msgstr "Showa Street "
 
 msgctxt "21\t117940\t19\tCHK"
 msgid "West Via Showa "
-msgstr "Via Showa ovest"
+msgstr "Showa Street ovest"
 
 msgctxt "21\t117958\t20\tCHK"
 msgid "East Via Showa "
-msgstr "Via Showa est"
+msgstr "Showa Street est"
 
 msgctxt "21\t117976\t21\tCHK"
 msgid "Viale Senryo"
-msgstr "Viale Senryo"
+msgstr "Senryo Avenue"
 
 msgctxt "21\t117990\t22\tCHK"
 msgid "North Viale Senryo"
-msgstr "Viale Senryo nord"
+msgstr "Senryo Avenue nord"
 
 msgctxt "21\t118010\t23\tCHK"
 msgid "Viale Taihei Ovest"
-msgstr "Viale Taihei ovest"
+msgstr "Taihei Boulevard ovest"
 
 msgctxt "21\t118032\t24\tCHK"
 msgid "Viale Taihei Est"
-msgstr "Viale Taihei est"
+msgstr "Taihei Boulevard est"
 
 msgctxt "21\t118054\t25\tCHK"
 msgid "Public Park 3"
@@ -6641,31 +6641,31 @@ msgstr "Parco pubblico 3"
 
 msgctxt "21\t118068\t26\tCHK"
 msgid "Via Nakamichi"
-msgstr "Via Nakamichi"
+msgstr "Nakamichi Street"
 
 msgctxt "21\t118085\t27\tCHK"
 msgid "Via Nakamichi Entrance"
-msgstr "Ingresso di Via Nakamichi"
+msgstr "Ingresso di Nakamichi Street"
 
 msgctxt "21\t118111\t28\tCHK"
 msgid "Vicolo Nakamichi"
-msgstr "Vicolo Nakamichi"
+msgstr "Nakamichi Alley"
 
 msgctxt "21\t118127\t29\tCHK"
 msgid "Via Tenkaichi"
-msgstr "Via Tenkaichi"
+msgstr "Tenkaichi Street"
 
 msgctxt "21\t118144\t30\tCHK"
 msgid "Via Tenkaichi Entrance"
-msgstr "Ingresso di Via Tenkaichi"
+msgstr "Ingresso di Tenkaichi Street"
 
 msgctxt "21\t118170\t31\tCHK"
 msgid "Vicolo Tenkaichi "
-msgstr "Vicolo Tenkaichi"
+msgstr "Tenkaichi Alley"
 
 msgctxt "21\t118186\t32\tCHK"
 msgid "Matsuya Viale Taihei"
-msgstr "Matsuya di Viale Taihei"
+msgstr "Matsuya di Taihei Boulevard"
 
 msgctxt "21\t118211\t33\tCHK"
 msgid "Smile Burger"
@@ -6693,7 +6693,7 @@ msgstr "Farmacia Kotobuki"
 
 msgctxt "21\t118292\t39\tCHK"
 msgid "Poppo Via Showa "
-msgstr "Poppo di Via Showa "
+msgstr "Poppo di Showa Street "
 
 msgctxt "21\t118311\t40\tCHK"
 msgid "Hideout"
@@ -6713,11 +6713,11 @@ msgstr "Club SEGA di Theater Square"
 
 msgctxt "21\t118363\t44\tCHK"
 msgid "Club SEGA Via Nakamichi"
-msgstr "Club SEGA di Via Nakamichi"
+msgstr "Club SEGA di Nakamichi Street"
 
 msgctxt "21\t118390\t45\tCHK"
 msgid "Poppo Vicolo Nakamichi"
-msgstr "Poppo del Vicolo Nakamichi"
+msgstr "Poppo del Nakamichi Alley"
 
 msgctxt "21\t118412\t46\tCHK"
 msgid "Beam"
@@ -6805,11 +6805,11 @@ msgstr "Volcanic Volcano"
 
 msgctxt "21\t118725\t67\tCHK"
 msgid "Matsuya Via Tenkaichi"
-msgstr "Matsuya di Via Tenkaichi"
+msgstr "Matsuya di Tenkaichi Street"
 
 msgctxt "21\t118750\t68\tCHK"
 msgid "Poppo Via Tenkaichi"
-msgstr "Poppo di Via Tenkaichi"
+msgstr "Poppo di Tenkaichi Street"
 
 msgctxt "21\t118773\t69\tCHK"
 msgid "North Millennium Tower"
@@ -6869,11 +6869,11 @@ msgstr "Mach Bowl"
 
 msgctxt "21\t118977\t83\tCHK"
 msgid "Via Shichifuku"
-msgstr "Via Shichifuku"
+msgstr "Shichifuku Street"
 
 msgctxt "21\t118995\t84\tCHK"
 msgid "Viale Taihei"
-msgstr "Viale Taihei"
+msgstr "Taihei Boulevard"
 
 msgctxt "21\t119012\t85\tCHK"
 msgid "HLA Headquarters"
@@ -6901,7 +6901,7 @@ msgstr "Vicolo del Serena"
 
 msgctxt "21\t119100\t91\tCHK"
 msgid "Children's Park"
-msgstr "Parco per bambini"
+msgstr "Children's Park"
 
 msgctxt "21\t119116\t92\tCHK"
 msgid "Kanrai"
@@ -7201,7 +7201,7 @@ msgstr "Verso i sotterranei del Purgatory"
 
 msgctxt "21\t120546\t166\tCHK"
 msgid "To Children's Park"
-msgstr "Verso il parco per bambini"
+msgstr "Verso il Children's Park"
 
 msgctxt "21\t120565\t167\tCHK"
 msgid "Drama Queen Office"
@@ -7285,7 +7285,7 @@ msgstr "Verso il Banco dei pegni Ebisu"
 
 msgctxt "21\t120919\t187\tCHK"
 msgid "To Vicolo Pink"
-msgstr "Verso il Vicolo Pink"
+msgstr "Verso il Pink Alley"
 
 msgctxt "21\t120933\t188\tCHK"
 msgid "To Kyushu No. 1 Star"
@@ -7293,7 +7293,7 @@ msgstr "Verso il Kyushu No. 1 Star"
 
 msgctxt "21\t120954\t189\tCHK"
 msgid "To Vicolo Nakamichi"
-msgstr "Verso il Vicolo Nakamichi"
+msgstr "Verso il Nakamichi Alley"
 
 msgctxt "21\t120973\t190\tCHK"
 msgid "Table Tennis Court"
@@ -7957,7 +7957,7 @@ msgstr "Moli"
 
 msgctxt "26\t139819\t3\tCHK"
 msgid "Via Pink Entrance"
-msgstr "Ingresso di Via Pink"
+msgstr "Ingresso di Pink Street"
 
 msgctxt "26\t139840\t4\tCHK"
 msgid "North Hotel District"
@@ -7969,15 +7969,15 @@ msgstr "Parcheggio centrale di Kamurocho"
 
 msgctxt "26\t139891\t6\tCHK"
 msgid "South Via Tenkaichi"
-msgstr "Via Tenkaichi sud"
+msgstr "Tenkaichi Street sud"
 
 msgctxt "26\t139914\t7\tCHK"
 msgid "East Viale del Parco"
-msgstr "Viale del Parco est"
+msgstr "Park Boulevard est"
 
 msgctxt "26\t139934\t8\tCHK"
 msgid "Via Suppon"
-msgstr "Via Suppon"
+msgstr "Suppon Street"
 
 msgctxt "26\t139948\t9\tCHK"
 msgid "Champion District"
@@ -7985,15 +7985,15 @@ msgstr "Champion District"
 
 msgctxt "26\t139966\t10\tCHK"
 msgid "Via Pink"
-msgstr "Via Pink"
+msgstr "Pink Street"
 
 msgctxt "26\t139978\t11\tCHK"
 msgid "North Via Pink"
-msgstr "Via Pink nord"
+msgstr "Pink Street nord"
 
 msgctxt "26\t139996\t12\tCHK"
 msgid "Vicolo Pink"
-msgstr "Vicolo Pink"
+msgstr "Pink Alley"
 
 msgctxt "26\t140007\t13\tCHK"
 msgid "Hotel District"
@@ -8013,11 +8013,11 @@ msgstr "Theater Square"
 
 msgctxt "26\t140084\t17\tCHK"
 msgid "Vicolo del Teatro"
-msgstr "Vicolo del Teatro"
+msgstr "Theater Alley"
 
 msgctxt "26\t140098\t18\tCHK"
 msgid "Viale del Teatro"
-msgstr "Viale del Teatro"
+msgstr "Theater Avenue"
 
 msgctxt "26\t140113\t19\tCHK"
 msgid "Northwest Theater Square"
@@ -8025,15 +8025,15 @@ msgstr "Theater Square nord-ovest"
 
 msgctxt "26\t140138\t20\tCHK"
 msgid "Viale del Parco"
-msgstr "Viale del Parco"
+msgstr "Park Boulevard"
 
 msgctxt "26\t140153\t21\tCHK"
 msgid "Park Alley"
-msgstr "Vicolo del Parco"
+msgstr "Park Alley"
 
 msgctxt "26\t140164\t22\tCHK"
 msgid "Children's Park"
-msgstr "Parco per bambini"
+msgstr "Children's Park"
 
 msgctxt "26\t140180\t23\tCHK"
 msgid "Shichifuku Parking Lot"
@@ -8041,47 +8041,47 @@ msgstr "Parcheggio di Shichifuku"
 
 msgctxt "26\t140203\t24\tCHK"
 msgid "Via Shichifuku"
-msgstr "Via Shichifuku"
+msgstr "Shichifuku Street"
 
 msgctxt "26\t140221\t25\tCHK"
 msgid "East Via Shichifuku"
-msgstr "Via Shichifuku est"
+msgstr "Shichifuku Street est"
 
 msgctxt "26\t140244\t26\tCHK"
 msgid "Via Showa "
-msgstr "Via Showa "
+msgstr "Showa Street "
 
 msgctxt "26\t140257\t27\tCHK"
 msgid "West Via Showa "
-msgstr "Via Showa ovest"
+msgstr "Showa Street ovest"
 
 msgctxt "26\t140275\t28\tCHK"
 msgid "East Via Showa "
-msgstr "Via Showa est"
+msgstr "Showa Street est"
 
 msgctxt "26\t140293\t29\tCHK"
 msgid "Viale Senryo"
-msgstr "Viale Senryo"
+msgstr "Senryo Avenue"
 
 msgctxt "26\t140307\t30\tCHK"
 msgid "North Viale Senryo"
-msgstr "Viale Senryo nord"
+msgstr "Senryo Avenue nord"
 
 msgctxt "26\t140327\t31\tCHK"
 msgid "Viale Taihei"
-msgstr "Viale Taihei"
+msgstr "Taihei Boulevard"
 
 msgctxt "26\t140344\t32\tCHK"
 msgid "Viale Taihei Est"
-msgstr "Viale Taihei est"
+msgstr "Taihei Boulevard est"
 
 msgctxt "26\t140366\t33\tCHK"
 msgid "Via Nakamichi"
-msgstr "Via Nakamichi"
+msgstr "Nakamichi Street"
 
 msgctxt "26\t140383\t34\tCHK"
 msgid "Via Nakamichi Entrance"
-msgstr "Ingresso di Via Nakamichi"
+msgstr "Ingresso di Nakamichi Street"
 
 msgctxt "26\t140409\t35\tCHK"
 msgid "East Millennium Tower Street"
@@ -8089,15 +8089,15 @@ msgstr "Via est della Millennium Tower"
 
 msgctxt "26\t140438\t36\tCHK"
 msgid "West Via Shichifuku"
-msgstr "Via Shichifuku ovest"
+msgstr "Shichifuku Street ovest"
 
 msgctxt "26\t140461\t37\tCHK"
 msgid "Viale Taihei Ovest"
-msgstr "Viale Taihei ovest"
+msgstr "Taihei Boulevard ovest"
 
 msgctxt "26\t140483\t38\tCHK"
 msgid "Vicolo Tenkaichi "
-msgstr "Vicolo Tenkaichi"
+msgstr "Tenkaichi Alley"
 
 msgctxt "26\t140499\t39\tCHK"
 msgid "Serena Alley"
@@ -8145,7 +8145,7 @@ msgstr "Café Alps"
 
 msgctxt "26\t140630\t50\tCHK"
 msgid "Matsuya Via Tenkaichi"
-msgstr "Matsuya di Via Tenkaichi"
+msgstr "Matsuya di Tenkaichi Street"
 
 msgctxt "26\t140655\t51\tCHK"
 msgid "Watami"
@@ -8173,7 +8173,7 @@ msgstr "Sushi Gin"
 
 msgctxt "26\t140732\t57\tCHK"
 msgid "Matsuya Viale Taihei"
-msgstr "Matsuya di Viale Taihei"
+msgstr "Matsuya di Taihei Boulevard"
 
 msgctxt "26\t140757\t58\tCHK"
 msgid "Kanrai"
@@ -8185,7 +8185,7 @@ msgstr "M Store"
 
 msgctxt "26\t140772\t60\tCHK"
 msgid "Poppo Via Tenkaichi"
-msgstr "Poppo di Via Tenkaichi"
+msgstr "Poppo di Tenkaichi Street"
 
 msgctxt "26\t140795\t61\tCHK"
 msgid "Beam"
@@ -8193,11 +8193,11 @@ msgstr "Beam"
 
 msgctxt "26\t140800\t62\tCHK"
 msgid "Poppo Via Showa "
-msgstr "Poppo di Via Showa "
+msgstr "Poppo di Showa Street "
 
 msgctxt "26\t140819\t63\tCHK"
 msgid "Poppo Vicolo Nakamichi"
-msgstr "Poppo del Vicolo Nakamichi"
+msgstr "Poppo del Nakamichi Alley"
 
 msgctxt "26\t140841\t64\tCHK"
 msgid "Don Quijote"
@@ -8229,7 +8229,7 @@ msgstr "Shoten Shogi"
 
 msgctxt "26\t140937\t71\tCHK"
 msgid "Club SEGA Via Nakamichi"
-msgstr "Club SEGA di Via Nakamichi"
+msgstr "Club SEGA di Nakamichi Street"
 
 msgctxt "26\t140964\t72\tCHK"
 msgid "Orchid Palace Mahjong"
@@ -8301,11 +8301,11 @@ msgstr "Men's Entertainment Box"
 
 msgctxt "26\t141247\t89\tCHK"
 msgid "Vicolo Nakamichi"
-msgstr "Vicolo Nakamichi"
+msgstr "Nakamichi Alley"
 
 msgctxt "26\t141263\t90\tCHK"
 msgid "Via Tenkaichi"
-msgstr "Via Tenkaichi"
+msgstr "Tenkaichi Street"
 
 msgctxt "26\t141280\t91\tCHK"
 msgid "New Serena Alley"
@@ -8313,7 +8313,7 @@ msgstr "Vicolo del New Serena"
 
 msgctxt "26\t141297\t92\tCHK"
 msgid "Via Tenkaichi Entrance"
-msgstr "Ingresso di Via Tenkaichi"
+msgstr "Ingresso di Tenkaichi Street"
 
 msgctxt "26\t141323\t93\tCHK"
 msgid "Cuez Bar"
