@@ -15,11 +15,13 @@ msgstr ""
 
 msgctxt "400\tTITLE"
 msgid "1st Story Mode "
-msgstr "Modalità Storia 1"
+msgstr "Modalità storia 1"
+
 
 msgctxt "416\tTITLE"
 msgid "1st Story Mode"
-msgstr "Modalità Storia 1"
+msgstr "Modalità storia 1"
+
 
 msgctxt "431\tTITLE"
 msgid "Chapter 1: The Infamous Loan Shark"
@@ -27,11 +29,13 @@ msgstr "Capitolo 1: Il famigerato usuraio"
 
 msgctxt "467\tTITLE"
 msgid "Chapter 2: The One"
-msgstr "Capitolo 2: The One"
+msgstr "Capitolo 2: The one"
+
 
 msgctxt "486\tTITLE"
 msgid "Chapter 3: Trouble in the Tojo Clan"
-msgstr "Capitolo 3: Problemi nel Clan Tojo"
+msgstr "Capitolo 3: Problemi nel clan Tojo"
+
 
 msgctxt "522\tTITLE"
 msgid "Chapter 4: The Promise"
@@ -43,7 +47,8 @@ msgstr "Capitolo 1: Verso la verità"
 
 msgctxt "569\tTITLE"
 msgid "Chapter 2: Tiger and Dragon"
-msgstr "Capitolo 2: Tigre e Drago"
+msgstr "Capitolo 2: Tigre e drago"
+
 
 msgctxt "597\tTITLE"
 msgid "Chapter 3: The 25 Year Vacuum"
@@ -926,3 +931,4 @@ msgstr "È ora di regolare i conti una volta per tutte con il Vice Commissario M
 msgctxt "13138\tEXPLANATION"
 msgid "You beat Yakuza 4! Congratulations!"
 msgstr "Hai completato Yakuza 4! Congratulazioni!"
+

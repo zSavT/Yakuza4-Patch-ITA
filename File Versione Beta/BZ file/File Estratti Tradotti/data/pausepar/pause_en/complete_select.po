@@ -18,11 +18,13 @@ msgstr "Armadietti a gettoni"
 
 msgctxt "161\tNAME"
 msgid "Food/Drink"
-msgstr "Cibo/Bevande"
+msgstr "Cibo/bevande"
+
 
 msgctxt "174\tNAME"
 msgid "Weapon Modding"
-msgstr "Modifica Armi"
+msgstr "Modifica armi"
+
 
 msgctxt "191\tNAME"
 msgid "Allies"
@@ -42,11 +44,13 @@ msgstr "Hostess"
 
 msgctxt "238\tNAME"
 msgid "Hostess Maker"
-msgstr "Creatore di Hostess"
+msgstr "Creatore di hostess"
+
 
 msgctxt "254\tNAME"
 msgid "No. 1 Hostess Maker"
-msgstr "N. 1 Creatore di Hostess"
+msgstr "N. 1 creatore di hostess"
+
 
 msgctxt "276\tNAME"
 msgid "Saigo's Training"
@@ -54,11 +58,13 @@ msgstr "Addestramento di Saigo"
 
 msgctxt "295\tNAME"
 msgid "Master's Helper"
-msgstr "Aiutante del Maestro"
+msgstr "Aiutante del maestro"
+
 
 msgctxt "313\tNAME"
 msgid "Nair's Training"
-msgstr "L'Allenamento di Nair"
+msgstr "L'allenamento di Nair"
+
 
 msgctxt "331\tNAME"
 msgid "Coliseum"
@@ -66,11 +72,13 @@ msgstr "Colosseo"
 
 msgctxt "342\tNAME"
 msgid "Fighter Maker"
-msgstr "Creatore di Combattenti"
+msgstr "Creatore di combattenti"
+
 
 msgctxt "358\tNAME"
 msgid "Police Scanner"
-msgstr "Scanner della Polizia"
+msgstr "Scanner della polizia"
+
 
 msgctxt "375\tNAME"
 msgid "Gang Encounters"
@@ -82,7 +90,8 @@ msgstr "IF7-R"
 
 msgctxt "401\tNAME"
 msgid "Furore Actions"
-msgstr "Azioni Furore"
+msgstr "Azioni furore"
+
 
 msgctxt "414\tEXPLANATION"
 msgid "Unlock all 100 lockers, both above and underground."
@@ -161,3 +170,4 @@ msgstr "Sconfiggi tutti i nemici."
 msgctxt "1151\tEXPLANATION"
 msgid "Use every Furore Action."
 msgstr "Usa ogni Azione Calore."
+

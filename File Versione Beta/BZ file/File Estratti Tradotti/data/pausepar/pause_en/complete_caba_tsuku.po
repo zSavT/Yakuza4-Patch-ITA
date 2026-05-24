@@ -14,15 +14,18 @@ msgstr ""
 
 msgctxt "210\tNAME"
 msgid "Hostess Trainee 1"
-msgstr "Hostess Tirocinante 1"
+msgstr "Hostess tirocinante 1"
+
 
 msgctxt "230\tNAME"
 msgid "Hostess Trainee 2"
-msgstr "Tirocinante Hostess 2"
+msgstr "Tirocinante hostess 2"
+
 
 msgctxt "250\tNAME"
 msgid "Hostess Trainee 3"
-msgstr "Hostess Tirocinante 3"
+msgstr "Hostess tirocinante 3"
+
 
 msgctxt "292\tEXPLANATION"
 msgid "Your first trainee at Elise became a number one hostess."
@@ -35,3 +38,4 @@ msgstr "La tua seconda allieva ad Elise è diventata la hostess numero uno."
 msgctxt "407\tEXPLANATION"
 msgid "Your third trainee at Elise became a number one hostess."
 msgstr "La tua terza apprendista ad Elise è diventata una hostess numero uno."
+

@@ -94,19 +94,23 @@ msgstr "Alleanza dell'Ira Divina"
 
 msgctxt "1127\tCATCHPHRASE"
 msgid "The Hall of Famers"
-msgstr "I membri della Hall of Fame"
+msgstr "I membri della hall of fame"
+
 
 msgctxt "1146\tCATCHPHRASE"
 msgid "The Chosen Ones"
-msgstr "I Prescelti"
+msgstr "I prescelti"
+
 
 msgctxt "1162\tCATCHPHRASE"
 msgid "The Sumo Wrestlers from Hell"
-msgstr "I lottatori di sumo dall'Inferno"
+msgstr "I lottatori di sumo dall'inferno"
+
 
 msgctxt "1191\tCATCHPHRASE"
 msgid "The Demons That Shake Heaven and Earth"
-msgstr "I Demoni Che Scuotono Cielo e Terra"
+msgstr "I demoni che scuotono cielo e terra"
+
 
 msgctxt "1230\tCATCHPHRASE"
 msgid "Scares Kids Quiet"
@@ -114,7 +118,8 @@ msgstr "Terrifica i bambini e li ammutolisce"
 
 msgctxt "1248\tCATCHPHRASE"
 msgid "Flowers from the Battlefield"
-msgstr "Fiori dal Campo di Battaglia"
+msgstr "Fiori dal campo di battaglia"
+
 
 msgctxt "1277\tCATCHPHRASE"
 msgid "Heroes Dyed in Black"
@@ -126,27 +131,33 @@ msgstr "Odio S.p.A."
 
 msgctxt "1308\tCATCHPHRASE"
 msgid "The Charming Killers"
-msgstr "Gli Affascinanti Assassini"
+msgstr "Gli affascinanti assassini"
+
 
 msgctxt "1329\tCATCHPHRASE"
 msgid "The Ruthless Money Mongers"
-msgstr "I Spietati Trafficanti di Soldi"
+msgstr "I spietati trafficanti di soldi"
+
 
 msgctxt "1356\tCATCHPHRASE"
 msgid "Gold and Silver Bound by Blood"
-msgstr "Oro e Argento Legati dal Sangue"
+msgstr "Oro e argento legati dal sangue"
+
 
 msgctxt "1387\tCATCHPHRASE"
 msgid "The Iron Fists of Justice"
-msgstr "I Pugni di Ferro della Giustizia"
+msgstr "I pugni di ferro della giustizia"
+
 
 msgctxt "1413\tCATCHPHRASE"
 msgid "God's Karate Chop and Devil's Kick"
-msgstr "Fendente di Karate di Dio e Calcio del Diavolo"
+msgstr "Fendente di karate di dio e calcio del diavolo"
+
 
 msgctxt "1448\tCATCHPHRASE"
 msgid "One-Way Ticket to Death"
-msgstr "Biglietto di sola andata per la Morte"
+msgstr "Biglietto di sola andata per la morte"
+
 
 msgctxt "1472\tCATCHPHRASE"
 msgid "Bad Meets Worse"
@@ -154,15 +165,18 @@ msgstr "Il male incontra il peggio"
 
 msgctxt "1488\tCATCHPHRASE"
 msgid "The Home Security Force"
-msgstr "La Forza di Sicurezza Domestica"
+msgstr "La forza di sicurezza domestica"
+
 
 msgctxt "1512\tCATCHPHRASE"
 msgid "The Fists of Fire and Ice"
-msgstr "I Pugni di Fuoco e Ghiaccio"
+msgstr "I pugni di fuoco e ghiaccio"
+
 
 msgctxt "1538\tCATCHPHRASE"
 msgid "The Chinese Octomillennium"
-msgstr "L'Ottomillennio Cinese"
+msgstr "L'ottomillennio cinese"
+
 
 msgctxt "1565\tCATCHPHRASE"
 msgid "The Men Who Never Miss a Punch"
@@ -170,7 +184,8 @@ msgstr "Gli uomini che non mancano mai un colpo"
 
 msgctxt "1596\tCATCHPHRASE"
 msgid "The Deliverymen of Divine Punishment"
-msgstr "I Portatori della Punizione Divina"
+msgstr "I portatori della punizione divina"
+
 
 msgctxt "1878\tATTACK"
 msgid "55"
@@ -643,3 +658,4 @@ msgstr ""
 msgctxt "2361\tSWAY_GLOWUP"
 msgid "10"
 msgstr ""
+
