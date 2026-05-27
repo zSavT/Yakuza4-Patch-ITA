@@ -6071,7 +6071,7 @@ msgid ""
 "<Action:Battle_Drop_Weapon@Combat> to throw an enemy."
 msgstr ""
 "Riduce il numero di volte che devi premere\n"
-"<Action:Button_B@Combat> per lanciare un nemico."
+"<Action:Battle_Drop_Weapon@Combat> per lanciare un nemico."
 
 msgctxt "48171\tEXPLANATION"
 msgid ""
