@@ -63,7 +63,7 @@ msgstr "E io sono la Regina di Francia."
 
 msgctxt "3874\t3968"
 msgid "You're still at the office, aren't you?"
-msgstr "Sei rimasto in ufficio, non è vero?"
+msgstr "Sei ancora in ufficio, vero?"
 
 msgctxt "3964\t4074"
 msgid "Why didn't you answer any of my calls!?"
@@ -87,7 +87,7 @@ msgstr "Akiyama-san!\\nTerra chiama Akiyama-san!"
 
 msgctxt "4450\t4587"
 msgid "Yeah, yeah. I can hear you.\\nLook, I'm sorry!"
-msgstr "Sì, sì. Ti sento.\\nGuarda, mi spiace molto!"
+msgstr "Sì, sì, ti sento.\nSenti, scusa!"
 
 msgctxt "4593\t4674"
 msgid "So what's the word?\\nYou need something?"
@@ -143,7 +143,7 @@ msgstr "Ohhh, giusto. Il giorno della riscossione!"
 
 msgctxt "5754\t5824"
 msgid "You forgot again, didn't you!?"
-msgstr "Ti sei dimenticato, vero!?"
+msgstr "Te ne sei dimenticato di nuovo, vero!?"
 
 msgctxt "5825\t5916"
 msgid "Hey, come on now, I didn't forget."
@@ -151,7 +151,7 @@ msgstr "Oh, eddai, non mi sono dimenticato."
 
 msgctxt "5922\t6032"
 msgid "I was just giving it some time,\\nwaiting for the, uh..."
-msgstr "Stavo solo dando più tempo,\\naspettando che, uh..."
+msgstr "Stavo solo prendendo un po' di tempo,\naspettando, uh..."
 
 msgctxt "6033\t6071"
 msgid "You know..."
@@ -159,7 +159,7 @@ msgstr "Sai..."
 
 msgctxt "6072\t6167"
 msgid "I don't know.\\nFor what!?"
-msgstr "Non lo so.\\nChe cosa!?"
+msgstr "Non lo so.\nAspettando cosa!?"
 
 msgctxt "6179\t6252"
 msgid "Isn't it obvious?"
@@ -171,11 +171,11 @@ msgstr "Che smettesse di piovere."
 
 msgctxt "6495\t6600"
 msgid "It's been dry out there for hours, Chief."
-msgstr "Fuori è asciutto da ore, capo."
+msgstr "Ha smesso di piovere da ore, Capo."
 
 msgctxt "6652\t6725"
 msgid "Now would you <Italic>please</Italic> get moving?"
-msgstr "Ora saresti <Italic>disponibile</Italic> a muoverti?"
+msgstr "Ora potresti <Italic>per favore</Italic> darti una mossa?"
 
 msgctxt "6725\t6834"
 msgid "I'll be back just after I swing by\\nKanrai for a kalbi bento."
