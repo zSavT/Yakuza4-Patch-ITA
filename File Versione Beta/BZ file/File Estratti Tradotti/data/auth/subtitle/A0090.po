@@ -47,7 +47,7 @@ msgstr "Un proiettile, dritto in testa.\\nFacile e veloce."
 
 msgctxt "2853\t2953"
 msgid "No quicker way to bump a guy off."
-msgstr "Un modo rapido per fare fuori un uomo."
+msgstr "Non c'è modo più rapido per far fuori un uomo."
 
 msgctxt "2996\t3091"
 msgid "Shouldn't you be running?"
@@ -75,11 +75,11 @@ msgstr "Beh no, ma..."
 
 msgctxt "3722\t3834"
 msgid "The force is full of nasty characters."
-msgstr "La polizia è un covo di matti."
+msgstr "La polizia è piena di brutti ceffi."
 
 msgctxt "3850\t3967"
 msgid "Some will beat a confession out of you\\njust for shits and giggles."
-msgstr "Ti chiederebbero informazioni solo\\nper poterti sentire gridare."
+msgstr "Ti estorcerebbero una confessione a suon di botte\nsolo per farsi due risate."
 
 msgctxt "3989\t4049"
 msgid "Chief!"
@@ -144,4 +144,3 @@ msgstr "Hana-chan!"
 msgctxt "5246\t5325"
 msgid "<Italic>Chief!</Italic>"
 msgstr "<Italic>Capo!"
-

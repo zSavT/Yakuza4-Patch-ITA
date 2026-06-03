@@ -18,7 +18,8 @@ msgstr "Sistema"
 
 msgctxt "347\tCATEGORY"
 msgid "Pause Menu"
-msgstr "Menu di Pausa"
+msgstr "Menu di pausa"
+
 
 msgctxt "360\tCATEGORY"
 msgid "Combat"
@@ -42,7 +43,8 @@ msgstr "Kamurocho"
 
 msgctxt "423\tCATEGORY"
 msgid "Street Fights"
-msgstr "Scontri di Strada"
+msgstr "Scontri di strada"
+
 
 msgctxt "439\tCATEGORY"
 msgid "Network"
@@ -96,19 +98,23 @@ msgstr "Note"
 
 msgctxt "934\tTIPS_NAME"
 msgid "Save Points"
-msgstr "Punti di Salvataggio"
+msgstr "Punti di salvataggio"
+
 
 msgctxt "946\tTIPS_NAME"
 msgid "Action Icon"
-msgstr "Icona Azione"
+msgstr "Icona azione"
+
 
 msgctxt "958\tTIPS_NAME"
 msgid "Recovering Health"
-msgstr "Recupero Salute"
+msgstr "Recupero salute"
+
 
 msgctxt "976\tTIPS_NAME"
 msgid "Switching Main Characters"
-msgstr "Cambio dei Personaggi Principali"
+msgstr "Cambio dei personaggi principali"
+
 
 msgctxt "1002\tTIPS_NAME"
 msgid "Main Characters' Possessions"
@@ -116,7 +122,8 @@ msgstr "Possedimenti dei personaggi principali"
 
 msgctxt "1031\tTIPS_NAME"
 msgid "<Action:Button_L3@Adventure> and <Action:Button_R3@Adventure>"
-msgstr "<Action:Button_L3@Adventure> e <Action:Button_R3@Adventure>"
+msgstr "<Action:Button_L3@Adventure> E <Action:Button_R3@Adventure>"
+
 
 msgctxt "1093\tTIPS_NAME"
 msgid "Maps"
@@ -128,7 +135,8 @@ msgstr "Email"
 
 msgctxt "1105\tTIPS_NAME"
 msgid "Using Items"
-msgstr "Utilizzo degli Oggetti"
+msgstr "Utilizzo degli oggetti"
+
 
 msgctxt "1117\tTIPS_NAME"
 msgid "Equipment (1/2)"
@@ -160,7 +168,8 @@ msgstr "Stile di combattimento di Kiryu"
 
 msgctxt "1258\tTIPS_NAME"
 msgid "Furore Actions"
-msgstr "Azioni Furore"
+msgstr "Azioni furore"
+
 
 msgctxt "1271\tTIPS_NAME"
 msgid "Kicking Objects"
@@ -168,27 +177,33 @@ msgstr "Calciare oggetti"
 
 msgctxt "1287\tTIPS_NAME"
 msgid "Destructible Objects"
-msgstr "Oggetti Distruttibili"
+msgstr "Oggetti distruttibili"
+
 
 msgctxt "1308\tTIPS_NAME"
 msgid "Chase Battles (Fleeing)"
-msgstr "Battaglie d'inseguimento (In fuga)"
+msgstr "Battaglie d'inseguimento (in fuga)"
+
 
 msgctxt "1332\tTIPS_NAME"
 msgid "Chase Battles (Pursuing)"
-msgstr "Battaglie d'inseguimento (Inseguimento)"
+msgstr "Battaglie d'inseguimento (inseguimento)"
+
 
 msgctxt "1357\tTIPS_NAME"
 msgid "Other Chase Battle Techniques"
-msgstr "Altre Tecniche di Inseguimento"
+msgstr "Altre tecniche di inseguimento"
+
 
 msgctxt "1387\tTIPS_NAME"
 msgid "Experience Points and Leveling Up"
-msgstr "Punti Esperienza e Salire di Livello"
+msgstr "Punti esperienza e salire di livello"
+
 
 msgctxt "1421\tTIPS_NAME"
 msgid "Soul Orbs"
-msgstr "Sfere dell'Anima"
+msgstr "Sfere dell'anima"
+
 
 msgctxt "1431\tTIPS_NAME"
 msgid "Revelations"
@@ -200,23 +215,28 @@ msgstr "Addestramento di Daijiro Saigo - Akiyama"
 
 msgctxt "1478\tTIPS_NAME"
 msgid "Master's Helper - Saejima"
-msgstr "L'Aiutante del Maestro - Saejima"
+msgstr "L'aiutante del maestro - Saejima"
+
 
 msgctxt "1504\tTIPS_NAME"
 msgid "Supporting Detective Nair - Tanimura"
-msgstr "Supporto a Detective Nair - Tanimura"
+msgstr "Supporto a detective Nair - Tanimura"
+
 
 msgctxt "1541\tTIPS_NAME"
 msgid "Developing Furore Actions"
-msgstr "Sviluppare Azioni Furore"
+msgstr "Sviluppare azioni furore"
+
 
 msgctxt "1565\tTIPS_NAME"
 msgid "First-Person Mode"
-msgstr "Modalità in Prima Persona"
+msgstr "Modalità in prima persona"
+
 
 msgctxt "1583\tTIPS_NAME"
 msgid "Akiyama's Allies"
-msgstr "Gli Alleati di Akiyama"
+msgstr "Gli alleati di Akiyama"
+
 
 msgctxt "1600\tTIPS_NAME"
 msgid "Manholes"
@@ -236,15 +256,18 @@ msgstr "Sottostorie"
 
 msgctxt "1648\tTIPS_NAME"
 msgid "Finished and Complete"
-msgstr "Finito e Completo"
+msgstr "Finito e completo"
+
 
 msgctxt "1670\tTIPS_NAME"
 msgid "Pros and Cons of Getting Drunk"
-msgstr "Pro e Contro dell'Ubriacarsi"
+msgstr "Pro e contro dell'ubriacarsi"
+
 
 msgctxt "1701\tTIPS_NAME"
 msgid "Special Editions of Magazines"
-msgstr "Edizioni Speciali di Riviste"
+msgstr "Edizioni speciali di riviste"
+
 
 msgctxt "1731\tTIPS_NAME"
 msgid "Rooftops"
@@ -264,7 +287,8 @@ msgstr "Non-madrelingua giapponesi"
 
 msgctxt "1789\tTIPS_NAME"
 msgid "Little Asia's Adopted Son - Tanimura"
-msgstr "Figlio Adottivo di Little Asia - Tanimura"
+msgstr "Figlio adottivo di Little Asia - Tanimura"
+
 
 msgctxt "1826\tTIPS_NAME"
 msgid "Taxis"
@@ -272,7 +296,8 @@ msgstr "Taxi"
 
 msgctxt "1832\tTIPS_NAME"
 msgid "Naomi's Palace"
-msgstr "Il Palazzo di Naomi"
+msgstr "Il palazzo di Naomi"
+
 
 msgctxt "1847\tTIPS_NAME"
 msgid "MEB"
@@ -284,7 +309,8 @@ msgstr "Il Colosseo"
 
 msgctxt "1864\tTIPS_NAME"
 msgid "Fighter Maker"
-msgstr "Creatore di Combattenti"
+msgstr "Creatore di combattenti"
+
 
 msgctxt "1878\tTIPS_NAME"
 msgid "IF7-R"
@@ -300,7 +326,8 @@ msgstr "Ottenere aiuto dalle persone - Akiyama"
 
 msgctxt "1935\tTIPS_NAME"
 msgid "Police Patrols - Saejima"
-msgstr "Pattuglie della Polizia - Saejima"
+msgstr "Pattuglie della polizia - Saejima"
+
 
 msgctxt "1960\tTIPS_NAME"
 msgid "Police Scanner - Tanimura"
@@ -316,11 +343,13 @@ msgstr "Connettersi"
 
 msgctxt "2028\tTIPS_NAME"
 msgid "Online Rankings"
-msgstr "Classifiche Online"
+msgstr "Classifiche online"
+
 
 msgctxt "2044\tTIPS_NAME"
 msgid "Bonus Games"
-msgstr "Giochi Bonus"
+msgstr "Giochi bonus"
+
 
 msgctxt "2520\tTIPS_EXPLANATION"
 msgid ""
@@ -756,13 +785,7 @@ msgid ""
 " the end of his rope because no one else can use them until the keys are "
 "found. You can help by finding them. You will also get to keep whatever is "
 "inside."
-msgstr ""
-"Anche il centro commerciale sotterraneo di Kamurocho dispone di armadietti, "
-"e come quelli a nord di Via Nakamichi, sono stati tutti utilizzati e le "
-"loro chiavi sono state sparse per la città, principalmente nel sottosuolo e "
-"sui tetti. Il proprietario degli armadietti è sull'orlo della disperazione "
-"perché nessun altro può usarli finché le chiavi non saranno trovate. Puoi "
-"aiutarlo trovandole. Potrai anche tenere qualsiasi cosa ci sia all'interno."
+msgstr "Anche il centro commerciale sotterraneo di Kamurocho dispone di armadietti, e come quelli a nord di Nakamichi Street, sono stati tutti utilizzati e le loro chiavi sono state sparse per la città, principalmente nel sottosuolo e sui tetti. Il proprietario degli armadietti è sull'orlo della disperazione perché nessun altro può usarli finché le chiavi non saranno trovate. Puoi aiutarlo trovandole. Potrai anche tenere qualsiasi cosa ci sia all'interno."
 
 msgctxt "13613\tTIPS_EXPLANATION"
 msgid ""
@@ -1068,3 +1091,4 @@ msgstr ""
 "I Giochi Bonus offerti al Naomi's Palace sono disponibili solo nella modalità Avventura Premium.\n"
 "\n"
 "Alcuni di questi giochi supportano le classifiche online, quindi assicurati di provarli! Fai riferimento al menu RETE nel menu Titolo per informazioni sui Giochi Bonus."
+

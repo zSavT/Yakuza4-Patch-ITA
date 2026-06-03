@@ -119,7 +119,7 @@ msgstr "Va bene, ci provo."
 
 msgctxt "356_Haruka"
 msgid "Yay! Good luck, Uncle Kaz!"
-msgstr "Evviva! Buona fortuna, Zio Kaz!"
+msgstr "Evviva! Buona fortuna, zio Kaz!"
 
 msgctxt "380_Kiryu"
 msgid "(Hold on, I don't have any bait.)"
@@ -141,10 +141,7 @@ msgctxt "428_Haruka"
 msgid ""
 "Can you catch a <Color:8>Marlin<Color:Default>, Uncle Kaz? Everyone at "
 "Morning Glory likes fish, you know. I bet they'd love to get one of these!"
-msgstr ""
-"Riesci a pescare un <Color:8>Marlin<Color:Default>, Zio Kaz? A tutti al "
-"Morning Glory piace il pesce, sai. Scommetto che andrebbero matti per averne"
-" uno di questi!"
+msgstr "Riesci a pescare un <Color:8>Marlin<Color:Default>, zio Kaz? A tutti al Morning Glory piace il pesce, sai. Scommetto che andrebbero matti per averne uno di questi!"
 
 msgctxt "440_Kiryu"
 msgid ""
@@ -192,7 +189,7 @@ msgstr ""
 
 msgctxt "512_Haruka"
 msgid "I'm sorry, Uncle Kaz. I should've done more research."
-msgstr "Mi dispiace, Zio Kaz. Avrei dovuto fare più ricerche."
+msgstr "Mi dispiace, zio Kaz. Avrei dovuto fare più ricerche."
 
 msgctxt "524_Kiryu"
 msgid ""
@@ -208,7 +205,7 @@ msgstr "Va bene, ci provo."
 
 msgctxt "560_Haruka"
 msgid "Yay! Good luck, Uncle Kaz!"
-msgstr "Evviva! Buona fortuna, Zio Kaz!"
+msgstr "Evviva! Buona fortuna, zio Kaz!"
 
 msgctxt "584_Kiryu"
 msgid "(Hold on, I don't have any bait.)"

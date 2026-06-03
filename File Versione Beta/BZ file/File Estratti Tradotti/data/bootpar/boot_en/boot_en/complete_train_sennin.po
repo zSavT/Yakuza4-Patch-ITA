@@ -21,16 +21,19 @@ msgstr "Percorso fognario"
 #, fuzzy
 msgctxt "223\tNAME"
 msgid "Air Raid Shelter No. 1, West"
-msgstr "Rifugio antiaereo n. 1, Ovest"
+msgstr "Rifugio antiaereo n. 1, ovest"
+
 
 #, fuzzy
 msgctxt "254\tNAME"
 msgid "Air Raid Shelter No. 1, South"
-msgstr "Rifugio antiaereo n. 1, Sud"
+msgstr "Rifugio antiaereo n. 1, sud"
+
 
 msgctxt "286\tNAME"
 msgid "Old Access Tunnel"
-msgstr "Vecchio Accesso Tunnel"
+msgstr "Vecchio accesso tunnel"
+
 
 #, fuzzy
 msgctxt "306\tNAME"
@@ -67,3 +70,4 @@ msgstr "Hai scavato il Vecchio Accesso Tunnel e hai raggiunto il Rifugio antiaer
 msgctxt "669\tEXPLANATION"
 msgid "You dug out Air Raid Shelter No. 2 and found the Master's important item."
 msgstr "Hai scavato nel rifugio antiaereo n. 2 e hai trovato l'oggetto importante del Maestro."
+

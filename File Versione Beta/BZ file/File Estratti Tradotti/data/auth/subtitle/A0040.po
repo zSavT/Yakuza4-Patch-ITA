@@ -23,15 +23,15 @@ msgstr "Shun Akiyama, trentadue anni."
 
 msgctxt "147\t281"
 msgid "He runs a loan company called\\nSky Finance over on Via Tenkaichi."
-msgstr "Gestisce la società di prestiti chiamata\\nSky Finance a Via Tenkaichi."
+msgstr "Gestisce la società di prestiti chiamata\\nSky Finance a Tenkaichi Street."
 
 msgctxt "309\t414"
 msgid "They call him the Lifeline of Kamurocho."
-msgstr "Lo chiamano la Salvezza di Kamurocho."
+msgstr "Lo chiamano l'ancora di salvezza di Kamurocho."
 
 msgctxt "415\t538"
 msgid "Guy lends money to people with nowhere left to turn."
-msgstr "Il tipo presta soldi a gente che non ha più niente."
+msgstr "Il tipo presta soldi a gente che non ha nessun altro a cui rivolgersi."
 
 msgctxt "539\t598"
 msgid "So he's a loan shark?"
@@ -39,7 +39,7 @@ msgstr "Quindi è uno strozzino?"
 
 msgctxt "599\t740"
 msgid "Not sure he'd call himself that,\\nbut that's pretty much spot on, yeah."
-msgstr "Non pensi si definisca così,\\nma più o meno siamo lì, esatto."
+msgstr "Non penso si definisca così,\\nma più o meno siamo lì, esatto."
 
 msgctxt "761\t870"
 msgid "Though I will say, he's kinda <Italic>different</Italic>."
@@ -55,7 +55,7 @@ msgstr "Termini?"
 
 msgctxt "1074\t1170"
 msgid "Like some kinda special\\napplication process?"
-msgstr "Applica una sorta di applicazione\\nspeciale?"
+msgstr "Usa una sorta di procedura\\nspeciale?"
 
 msgctxt "1155\t1198"
 msgid "Yeah."
@@ -63,7 +63,7 @@ msgstr "Sì."
 
 msgctxt "1197\t1361"
 msgid "Before Sky Finance lends out their cash,\\nthey need to see if the loanee is worth it."
-msgstr "Prima che lo Sky Finance presti soldi,\\ndevono accertarsi che ne valga la pena."
+msgstr "Prima che la Sky Finance presti soldi,\\ndevono accertarsi che ne valga la pena."
 
 msgctxt "1362\t1504"
 msgid "So Akiyama comes up with a test\\nto figure out if they're up to snuff."
@@ -79,7 +79,7 @@ msgstr "A dirla tutta, è un po' strano."
 
 msgctxt "1772\t1880"
 msgid "What's he get outta all that?"
-msgstr "Come ne trarrà vantaggio?"
+msgstr "Cosa ci guadagna da tutto ciò?"
 
 msgctxt "1870\t1924"
 msgid "Beats me."
@@ -87,23 +87,23 @@ msgstr "Non lo so."
 
 msgctxt "1925\t2065"
 msgid "If the rumors are true,\\nthe guy doesn't charge a yen of interest, either."
-msgstr "Se le voci sono vere,\\nnon chiederà un solo yen d'interessi."
+msgstr "Se le voci sono vere,\\nnon chiede un solo yen di interessi."
 
 msgctxt "2088\t2193"
 msgid "How's he keep his business running, then?\\nSeems counterintuitive."
-msgstr "Come fa a far funzionare l'attività, allora?\\nÈ controproducente."
+msgstr "Come fa a mandare avanti l'attività, allora?\\nSembra un controsenso."
 
 msgctxt "2194\t2297"
 msgid "That one's probably just an urban legend."
-msgstr "Penso sia solo una leggenda urbana."
+msgstr "Probabilmente è solo una leggenda metropolitana."
 
 msgctxt "2322\t2422"
 msgid "I'm sure he's got some kinda system."
-msgstr "Penso abbia un qualche sistema."
+msgstr "Sono sicuro che abbia un qualche sistema."
 
 msgctxt "2474\t2588"
 msgid "Plus he drops in on his clients\\nlike he did to us today."
-msgstr "In più, va a trovare i suoi clienti\\ncome ha fatto con noi."
+msgstr "In più, va a trovare i suoi clienti\\ncome ha fatto con noi oggi."
 
 msgctxt "2589\t2677"
 msgid "Make sure nobody skips town, you know?"
@@ -111,11 +111,11 @@ msgstr "Si assicura che nessuno scappi, no?"
 
 msgctxt "2687\t2780"
 msgid "Weirdest moneylender I've ever heard of."
-msgstr "Lo strozzino più strano che conosco."
+msgstr "Lo strozzino più strano di cui abbia mai sentito parlare."
 
 msgctxt "2781\t2887"
 msgid "I can't get a read on the guy,\\nno matter how hard I try."
-msgstr "Non riesco a comprenderlo,\\nper quanto mi impegni."
+msgstr "Non riesco a inquadrarlo,\\nper quanto mi impegni."
 
 msgctxt "2910\t3104"
 msgid "All I know is people he lends money to once\\nnever borrow from him ever again."
@@ -188,4 +188,3 @@ msgstr "Elnard, capito."
 msgctxt "5491\t5551"
 msgid "I'll be there shortly."
 msgstr "Presto sarò lì."
-

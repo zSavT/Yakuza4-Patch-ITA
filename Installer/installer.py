@@ -67,7 +67,7 @@ HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "v1.1"
+VERSIONE = "v1.2"
 ALT_SITE_NAME = "TBA"
 ALT_SITE_URL = "https://www.youtube.com/@zSavT"
 CREDITI = "Patch By SavT e Lowrentio"
@@ -410,6 +410,53 @@ class InstallWorker(QThread):
                 f.write(error_msg + "\n")
                 traceback.print_exc(file=f)
             self.finished.emit(False, error_msg)
+
+class PirateWarningDialog(QDialog):
+    def __init__(self, parent=None):
+        super().__init__(parent)
+        self.setWindowTitle("Installazione Bloccata")
+        self.setModal(True)
+        self.setObjectName("PirateWarningDialog")
+        
+        main_layout = QVBoxLayout(self)
+        main_layout.setContentsMargins(20, 20, 20, 15)
+        main_layout.setSpacing(15)
+        
+        image_label = QLabel()
+        img_path = resource_path("assets/pirate.jpg")
+        if os.path.exists(img_path):
+            image_label.setPixmap(QPixmap(img_path).scaled(640, 569, Qt.AspectRatioMode.KeepAspectRatio, Qt.TransformationMode.SmoothTransformation))
+        image_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
+        main_layout.addWidget(image_label)
+        
+        text_label = QLabel("È stata rilevata una versione non ufficiale o alterata del gioco.\nCome indicato nei Termini di Licenza, la patch supporta unicamente le copie originali e legittimamente detenute.")
+        text_label.setObjectName("DialogMainText")
+        text_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
+        text_label.setWordWrap(True)
+        main_layout.addWidget(text_label)
+        
+        button_box = QDialogButtonBox(QDialogButtonBox.StandardButton.Ok)
+        
+        ok_button = button_box.button(QDialogButtonBox.StandardButton.Ok)
+        if ok_button:
+            ok_button.setText("OK")
+            ok_button.setObjectName("AcceptButton")
+            ok_button.clicked.connect(self.on_accept_clicked)
+        else:
+            button_box.accepted.connect(self.on_accept_clicked)
+            
+        btn_layout = QHBoxLayout()
+        btn_layout.addStretch()
+        btn_layout.addWidget(button_box)
+        btn_layout.addStretch()
+        main_layout.addLayout(btn_layout)
+        
+        self.adjustSize()
+        
+    def on_accept_clicked(self):
+        self.accept()
+        apri_url("https://store.steampowered.com/app/1105500/Yakuza_4_Remastered/")
+        QTimer.singleShot(1500, QApplication.instance().quit)
 
 class CustomConfirmDialog(QDialog):
     def __init__(self, parent=None, title="Conferma", text="", informative_text="", warning_text="", icon_pixmap=None):
@@ -760,6 +807,31 @@ class InstallerWizard(QWidget):
         if not os.path.isdir(game_root_path): QMessageBox.warning(self, "Percorso Non Valido", f"La directory base '{game_root_path}' non esiste o non è valida."); return
         exe_search_path = os.path.join(game_root_path, EXE_SUBFOLDER); executable_full_path = os.path.join(exe_search_path, EXE_NAME)
         found = os.path.isfile(executable_full_path); warn_msg = ""; icon = self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxQuestion); icon_pixmap = icon.pixmap(QSize(48, 48))
+
+        # --- CONTROLLO PIRATERIA ---
+        crack_files = [
+            "steam_emu.ini", "steam_api64.cdx", "codex.ini", "codex64.dll",
+            "flt.ini", "RUNE.ini", "TENOKE.ini", "SmartSteamEmu.ini",
+            "RUNE.cdx", "gdk.ini", "ali213.ini", "steam_api.cdx",
+            "OnlineFix.ini", "ForceLanguage.txt", "steam_api64.ini", "hlt.ini"
+        ]
+        
+        crack_folders = [
+            "steam_settings", "OfflineStorage", "Profile"
+        ]
+        
+        for crack_file in crack_files:
+            if os.path.isfile(os.path.join(exe_search_path, crack_file)):
+                dialog = PirateWarningDialog(self)
+                dialog.exec()
+                return
+                
+        for crack_folder in crack_folders:
+            if os.path.isdir(os.path.join(exe_search_path, crack_folder)):
+                dialog = PirateWarningDialog(self)
+                dialog.exec()
+                return
+
         if not found:
             warn_msg = (f"<b>Attenzione:</b> Non è stato possibile trovare {EXE_NAME} nel percorso atteso:<br><em>{os.path.normpath(exe_search_path)}</em><br><br>Verifica il percorso selezionato e la variabile 'EXE_SUBFOLDER' nello script.")
             warn_icon = self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxWarning); icon_pixmap = warn_icon.pixmap(QSize(48, 48))

@@ -14,7 +14,8 @@ msgstr ""
 
 msgctxt "210\tNAME"
 msgid "Aromatherapy Massage"
-msgstr "Massaggio Aromaterapico"
+msgstr "Massaggio aromaterapico"
+
 
 msgctxt "233\tNAME"
 msgid "Table Tennis"
@@ -42,7 +43,8 @@ msgstr "Cee-lo"
 
 msgctxt "292\tNAME"
 msgid "Cho-han"
-msgstr "Cho-han"
+msgstr "Cho-Han"
+
 
 msgctxt "302\tNAME"
 msgid "Koi-koi"
@@ -74,7 +76,8 @@ msgstr "UFO Catcher"
 
 msgctxt "381\tNAME"
 msgid "Answer x Answer"
-msgstr "Risposta x Risposta"
+msgstr "Risposta x risposta"
+
 
 msgctxt "399\tNAME"
 msgid "Boxcelios"
@@ -515,3 +518,4 @@ msgstr "Punteggio più alto"
 msgctxt "3352\tSTRING"
 msgid "Fish Caught"
 msgstr "Pesci Catturati"
+

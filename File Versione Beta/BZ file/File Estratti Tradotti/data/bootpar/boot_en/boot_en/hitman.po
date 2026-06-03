@@ -296,7 +296,7 @@ msgstr "Kamurocho"
 #, fuzzy
 msgctxt "1763\tPLACE_INFO"
 msgid "Sighted at east end of Viale Taihei, Kamurocho"
-msgstr "Avvistato all'estremità est del Viale Taihei, Kamurocho"
+msgstr "Avvistato all'estremità est del Taihei Boulevard, Kamurocho"
 
 #, fuzzy
 msgctxt "1814\tPLACE_INFO"
@@ -329,7 +329,7 @@ msgstr "Avvistato in Theatre Square, Kamurocho"
 #, fuzzy
 msgctxt "2043\tPLACE_INFO"
 msgid "Hiding in a building on Viale del Parco, Kamurocho"
-msgstr "Nascosto in un edificio sul Viale del Parco, Kamurocho"
+msgstr "Nascosto in un edificio sul Park Boulevard, Kamurocho"
 
 msgctxt "2093\tPLACE_INFO"
 msgid "Hiding in deserted places around Kamurocho"
@@ -338,7 +338,7 @@ msgstr "Nascosto nei luoghi deserti attorno Kamurocho."
 #, fuzzy
 msgctxt "2136\tPLACE_INFO"
 msgid "Has office at north end of Viale Senryo, Kamurocho"
-msgstr "Ha un ufficio all'estremità nord di Viale Senryo, Kamurocho"
+msgstr "Ha un ufficio all'estremità nord di Senryo Avenue, Kamurocho"
 
 #, fuzzy
 msgctxt "2188\tPLACE_INFO"
@@ -373,7 +373,7 @@ msgstr "Avvistato al Children's Park, Kamurocho"
 #, fuzzy
 msgctxt "2435\tPLACE_INFO"
 msgid "Set up base on Viale Senryo, Kamurocho"
-msgstr "Stabilimento della base su Viale Senryo, Kamurocho"
+msgstr "Stabilimento della base su Senryo Avenue, Kamurocho"
 
 #, fuzzy
 msgctxt "2475\tPLACE_INFO"
@@ -730,19 +730,7 @@ msgid ""
 "anything⑬hence the nickname. If things remain\n"
 "as they are, the lives of the hostages will be\n"
 "in danger. Please rescue them."
-msgstr ""
-"L'obiettivo è un uomo di nome Zen, alias la\n"
-"Iena Nera.\n"
-"\n"
-"Zen sta attualmente tenendo in ostaggio alcuni membri dell'HLA\n"
-"in un edificio su Viale del Parco. Le sue\n"
-"richieste sono che l'HLA si sciolga e rilasci\n"
-"gli Avengers sotto la sua custodia.\n"
-"\n"
-"Zen è un cane imbroglione che si abbasserà a\n"
-"qualsiasi cosa⑬da qui il soprannome. Se le cose rimangono\n"
-"così come sono, la vita degli ostaggi sarà\n"
-"in pericolo. Per favore, salvateli."
+msgstr "L'obiettivo è un uomo di nome Zen, alias la\nIena Nera.\n\nZen sta attualmente tenendo in ostaggio alcuni membri dell'HLA\nin un edificio su Park Boulevard. Le sue\nrichieste sono che l'HLA si sciolga e rilasci\ngli Avengers sotto la sua custodia.\n\nZen è un cane imbroglione che si abbasserà a\nqualsiasi cosa⑬da qui il soprannome. Se le cose rimangono\ncosì come sono, la vita degli ostaggi sarà\nin pericolo. Per favore, salvateli."
 
 #, fuzzy
 msgctxt "6286\tCONTENT"

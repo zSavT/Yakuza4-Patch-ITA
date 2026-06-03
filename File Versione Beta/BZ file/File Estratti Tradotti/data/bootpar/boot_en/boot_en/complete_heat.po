@@ -15,27 +15,33 @@ msgstr ""
 
 msgctxt "274\tCATEGORY"
 msgid "Terrain Moves"
-msgstr "Mosse d'Ambiente"
+msgstr "Mosse d'ambiente"
+
 
 msgctxt "290\tCATEGORY"
 msgid "Weapon Moves"
-msgstr "Mosse con Armi"
+msgstr "Mosse con armi"
+
 
 msgctxt "305\tCATEGORY"
 msgid "Finishing Moves"
-msgstr "Mosse Finali"
+msgstr "Mosse finali"
+
 
 msgctxt "323\tCATEGORY"
 msgid "Power Moves"
-msgstr "Mosse Potenti"
+msgstr "Mosse potenti"
+
 
 msgctxt "337\tCATEGORY"
 msgid "Ancient Martial Arts"
-msgstr "Arti Marziali Antiche"
+msgstr "Arti marziali antiche"
+
 
 msgctxt "360\tCATEGORY"
 msgid "Ancient Techniques"
-msgstr "Tecniche Antiche"
+msgstr "Tecniche antiche"
+
 
 msgctxt "381\tCATEGORY"
 msgid "Others"
@@ -43,291 +49,363 @@ msgstr "Altro"
 
 msgctxt "388\tNAME"
 msgid "Wall Crush"
-msgstr "Schianto al Muro"
+msgstr "Schianto al muro"
+
 
 msgctxt "399\tNAME"
 msgid "Back Crush"
-msgstr "Schianto da Dietro"
+msgstr "Schianto da dietro"
+
 
 msgctxt "410\tNAME"
 msgid "Forward Head Crush"
-msgstr "Schianto Frontale di Testa"
+msgstr "Schianto frontale di testa"
+
 
 msgctxt "429\tNAME"
 msgid "Rear Head Crush"
-msgstr "Schianto di Testa da Dietro"
+msgstr "Schianto di testa da dietro"
+
 
 msgctxt "445\tNAME"
 msgid "Essence of Pole Crush"
-msgstr "Essenza dello Schianto al Palo"
+msgstr "Essenza dello schianto al palo"
+
 
 msgctxt "467\tNAME"
 msgid "Essence of Throwing"
-msgstr "Essenza del Lancio"
+msgstr "Essenza del lancio"
+
 
 msgctxt "487\tNAME"
 msgid "Essence of Butt Breaking"
-msgstr "Essenza della Rottura di Sedere"
+msgstr "Essenza della rottura di sedere"
+
 
 msgctxt "512\tNAME"
 msgid "Essence of Back Breaking"
-msgstr "Essenza della Rottura di Schiena"
+msgstr "Essenza della rottura di schiena"
+
 
 msgctxt "537\tNAME"
 msgid "Essence of Fence Smashing"
-msgstr "Essenza dello Spacco sulla Recinzione"
+msgstr "Essenza dello spacco sulla recinzione"
+
 
 msgctxt "563\tNAME"
 msgid "Essence of Fence Bashing"
-msgstr "Essenza della Percossa sulla Recinzione"
+msgstr "Essenza della percossa sulla recinzione"
+
 
 msgctxt "588\tNAME"
 msgid "Guard Rail Crush"
-msgstr "Schianto Ringhiera"
+msgstr "Schianto ringhiera"
+
 
 msgctxt "605\tNAME"
 msgid "Pole Crush"
-msgstr "Schianto Asta"
+msgstr "Schianto asta"
+
 
 msgctxt "616\tNAME"
 msgid "Essence of Wall Throwing"
-msgstr "Essenza del Lancio Contro il Muro"
+msgstr "Essenza del lancio contro il muro"
+
 
 msgctxt "641\tNAME"
 msgid "Wall Smash"
-msgstr "Distruzione Muro"
+msgstr "Distruzione muro"
+
 
 msgctxt "652\tNAME"
 msgid "Essence of Beatdown"
-msgstr "Essenza del Pestaggio"
+msgstr "Essenza del pestaggio"
+
 
 msgctxt "672\tNAME"
 msgid "Essence of Umbrella"
-msgstr "Essenza dell'Ombrello"
+msgstr "Essenza dell'ombrello"
+
 
 msgctxt "692\tNAME"
 msgid "Essence of Bowling"
-msgstr "Essenza del Bowling"
+msgstr "Essenza del bowling"
+
 
 msgctxt "711\tNAME"
 msgid "Essence of Guzzling"
-msgstr "Essenza del Tracanno"
+msgstr "Essenza del tracanno"
+
 
 msgctxt "731\tNAME"
 msgid "Essence of Syringe"
-msgstr "Essenza della Siringa"
+msgstr "Essenza della siringa"
+
 
 msgctxt "750\tNAME"
 msgid "Essence of Salting"
-msgstr "Essenza della Salatura"
+msgstr "Essenza della salatura"
+
 
 msgctxt "769\tNAME"
 msgid "Essence of Grilling"
-msgstr "Essenza della Griglia"
+msgstr "Essenza della griglia"
+
 
 msgctxt "789\tNAME"
 msgid "Essence of Pliers (Teeth)"
-msgstr "Essenza delle Pinze (Denti)"
+msgstr "Essenza delle pinze (denti)"
+
 
 msgctxt "815\tNAME"
 msgid "Essence of Pliers (Nails)"
-msgstr "Essenza delle Pinze (Unghie)"
+msgstr "Essenza delle pinze (unghie)"
+
 
 msgctxt "841\tNAME"
 msgid "Essence of Rope"
-msgstr "Essenza della Corda"
+msgstr "Essenza della corda"
+
 
 msgctxt "857\tNAME"
 msgid "Essence of Daggers"
-msgstr "Essenza dei Pugnali"
+msgstr "Essenza dei pugnali"
+
 
 msgctxt "876\tNAME"
 msgid "Essence of Stun Gun"
-msgstr "Essenza della Pistola Stordente"
+msgstr "Essenza della pistola stordente"
+
 
 msgctxt "896\tNAME"
 msgid "Essence of Batting"
-msgstr "Essenza della Battuta"
+msgstr "Essenza della battuta"
+
 
 msgctxt "915\tNAME"
 msgid "Essence of Golfing"
-msgstr "Essenza del Golf"
+msgstr "Essenza del golf"
+
 
 msgctxt "934\tNAME"
 msgid "Essence of Sweeping"
-msgstr "Essenza della Spazzata"
+msgstr "Essenza della spazzata"
+
 
 msgctxt "954\tNAME"
 msgid "Essence of Brick Breaking"
-msgstr "Essenza della Rottura di Mattoni"
+msgstr "Essenza della rottura di mattoni"
+
 
 msgctxt "980\tNAME"
 msgid "Essence of Lotus Staff"
-msgstr "Essenza del Bastone di Loto"
+msgstr "Essenza del bastone di loto"
+
 
 msgctxt "1003\tNAME"
 msgid "Essence of Hammers"
-msgstr "Essenza dei Martelli"
+msgstr "Essenza dei martelli"
+
 
 msgctxt "1022\tNAME"
 msgid "Essence of Signage"
-msgstr "Essenza della Cartellonistica"
+msgstr "Essenza della cartellonistica"
+
 
 msgctxt "1041\tNAME"
 msgid "Essence of Gravity"
-msgstr "Essenza della Gravità"
+msgstr "Essenza della gravità"
+
 
 msgctxt "1060\tNAME"
 msgid "Essence of Crushing"
-msgstr "Essenza dello Schiacciamento"
+msgstr "Essenza dello schiacciamento"
+
 
 msgctxt "1080\tNAME"
 msgid "Essence of Nunchaku"
-msgstr "Essenza del Nunchaku"
+msgstr "Essenza del nunchaku"
+
 
 msgctxt "1100\tNAME"
 msgid "Essence of Tonfas"
-msgstr "Essenza delle Tonfa"
+msgstr "Essenza delle tonfa"
+
 
 msgctxt "1118\tNAME"
 msgid "Tonfa Abuser"
-msgstr "Abuso di Tonfa"
+msgstr "Abuso di tonfa"
+
 
 msgctxt "1131\tNAME"
 msgid "Essence of Kali Sticks"
-msgstr "Essenza dei Bastoni Kali"
+msgstr "Essenza dei bastoni kali"
+
 
 msgctxt "1154\tNAME"
 msgid "Kali Abuser"
-msgstr "Abuso di Kali"
+msgstr "Abuso di kali"
+
 
 msgctxt "1166\tNAME"
 msgid "Essence of Brass Knuckles"
-msgstr "Essenza del Tirapugni"
+msgstr "Essenza del tirapugni"
+
 
 msgctxt "1192\tNAME"
 msgid "Essence of Bo Staff"
-msgstr "Essenza del Bastone Bo"
+msgstr "Essenza del bastone bo"
+
 
 msgctxt "1212\tNAME"
 msgid "Essence of Heavy Weapons"
-msgstr "Essenza delle Armi Pesanti"
+msgstr "Essenza delle armi pesanti"
+
 
 msgctxt "1237\tNAME"
 msgid "Essence of Finishing"
-msgstr "Essenza del Colpo Finale"
+msgstr "Essenza del colpo finale"
+
 
 msgctxt "1258\tNAME"
 msgid "Essence of Finishing Weapon"
-msgstr "Essenza del Colpo Finale con Arma"
+msgstr "Essenza del colpo finale con arma"
+
 
 msgctxt "1286\tNAME"
 msgid "Essence of Finishing Pressure"
-msgstr "Essenza della Pressione Finale"
+msgstr "Essenza della pressione finale"
+
 
 msgctxt "1316\tNAME"
 msgid "Essence of Finishing Stomp"
-msgstr "Essenza del Pestaggio Finale"
+msgstr "Essenza del pestaggio finale"
+
 
 msgctxt "1343\tNAME"
 msgid "Essence of Finishing Kick"
-msgstr "Essenza del Calcio Finale"
+msgstr "Essenza del calcio finale"
+
 
 msgctxt "1369\tNAME"
 msgid "Essence of Finishing Knuckle"
-msgstr "Essenza delle Nocche Finali"
+msgstr "Essenza delle nocche finali"
+
 
 msgctxt "1398\tNAME"
 msgid "Essence of Finishing Hammer"
-msgstr "Essenza del Martello Finale"
+msgstr "Essenza del martello finale"
+
 
 msgctxt "1426\tNAME"
 msgid "Essence of Mounting"
-msgstr "Essenza della Monta"
+msgstr "Essenza della monta"
+
 
 msgctxt "1446\tNAME"
 msgid "Essence of Head Press"
-msgstr "Essenza della Pressione sulla Testa"
+msgstr "Essenza della pressione sulla testa"
+
 
 msgctxt "1468\tNAME"
 msgid "Essence of Armbarring"
-msgstr "Essenza della Leva al Braccio"
+msgstr "Essenza della leva al braccio"
+
 
 msgctxt "1490\tNAME"
 msgid "Essence of Slamming (Front)"
-msgstr "Essenza dello Schianto (Frontale)"
+msgstr "Essenza dello schianto (frontale)"
+
 
 msgctxt "1518\tNAME"
 msgid "Essence of Slamming (Back)"
-msgstr "Essenza dello Schianto (Posteriore)"
+msgstr "Essenza dello schianto (posteriore)"
+
 
 msgctxt "1545\tNAME"
 msgid "Essence of Swinging"
-msgstr "Essenza dell'Oscillazione"
+msgstr "Essenza dell'oscillazione"
+
 
 msgctxt "1565\tNAME"
 msgid "Hellish Swing"
-msgstr "Oscillazione Infernale"
+msgstr "Oscillazione infernale"
+
 
 msgctxt "1579\tNAME"
 msgid "Heavenly Swing"
-msgstr "Oscillazione Celeste"
+msgstr "Oscillazione celeste"
+
 
 msgctxt "1594\tNAME"
 msgid "Cyclops Roll"
-msgstr "Rotolamento del Ciclope"
+msgstr "Rotolamento del ciclope"
+
 
 msgctxt "1607\tNAME"
 msgid "Essence of Car Crushing"
-msgstr "Essenza dello Schianto sull'Auto"
+msgstr "Essenza dello schianto sull'auto"
+
 
 msgctxt "1631\tNAME"
 msgid "Essence of Head Bashing"
-msgstr "Essenza della Testata"
+msgstr "Essenza della testata"
+
 
 msgctxt "1655\tNAME"
 msgid "Essence of Might (Front)"
-msgstr "Essenza della Potenza (Frontale)"
+msgstr "Essenza della potenza (frontale)"
+
 
 msgctxt "1680\tNAME"
 msgid "Essence of Might (Back)"
-msgstr "Essenza della Potenza (Posteriore)"
+msgstr "Essenza della potenza (posteriore)"
+
 
 msgctxt "1704\tNAME"
 msgid "Essence of Knock Down"
-msgstr "Essenza dell'Atterramento"
+msgstr "Essenza dell'atterramento"
+
 
 msgctxt "1726\tNAME"
 msgid "Komaki Sword Draw"
-msgstr "Estrazione della Spada Komaki"
+msgstr "Estrazione della spada Komaki"
+
 
 msgctxt "1744\tNAME"
 msgid "Komaki Fist Reversal (Tortoise)"
-msgstr "Contrattacco di Pugno Komaki (Tartaruga)"
+msgstr "Contrattacco di pugno Komaki (tartaruga)"
+
 
 msgctxt "1776\tNAME"
 msgid "Komaki Fist Reversal (Phoenix)"
-msgstr "Contrattacco di Pugno Komaki (Fenice)"
+msgstr "Contrattacco di pugno Komaki (fenice)"
+
 
 msgctxt "1807\tNAME"
 msgid "Komaki Fist Reversal (Dragon)"
-msgstr "Contrattacco di Pugno Komaki (Drago)"
+msgstr "Contrattacco di pugno Komaki (drago)"
+
 
 msgctxt "1837\tNAME"
 msgid "Komaki Fist Reversal (Tiger)"
-msgstr "Contrattacco di Pugno Komaki (Tigre)"
+msgstr "Contrattacco di pugno Komaki (tigre)"
+
 
 msgctxt "1866\tNAME"
 msgid "Komaki Firearm Flip (Handgun)"
-msgstr "Capriola Anti-Arma da Fuoco Komaki (Pistola)"
+msgstr "Capriola anti-arma da fuoco Komaki (pistola)"
+
 
 msgctxt "1896\tNAME"
 msgid "Komaki Firearm Flip (Shotgun)"
-msgstr "Capriola Anti-Arma da Fuoco Komaki (Fucile)"
+msgstr "Capriola anti-arma da fuoco Komaki (fucile)"
+
 
 msgctxt "1926\tNAME"
 msgid "Komaki Swordless Rebirth"
-msgstr "Rinascita Senza Spada Komaki"
+msgstr "Rinascita senza spada Komaki"
+
 
 msgctxt "1951\tNAME"
 msgid "Komaki Bowl Crusher"
@@ -335,159 +413,198 @@ msgstr "Spaccaciotole Komaki"
 
 msgctxt "1971\tNAME"
 msgid "Komaki Dragon King Essence"
-msgstr "Essenza del Re Drago Komaki"
+msgstr "Essenza del re drago Komaki"
+
 
 msgctxt "1998\tNAME"
 msgid "Hidden Blade: Hook"
-msgstr "Lama Nascosta: Gancio"
+msgstr "Lama nascosta: Gancio"
+
 
 msgctxt "2017\tNAME"
 msgid "Hidden Blade: Raging Bull"
-msgstr "Lama Nascosta: Toro Infuriato"
+msgstr "Lama nascosta: Toro infuriato"
+
 
 msgctxt "2043\tNAME"
 msgid "Finish Blade: Dancing Cat"
-msgstr "Lama Finale: Gatto Danzante"
+msgstr "Lama finale: Gatto danzante"
+
 
 msgctxt "2069\tNAME"
 msgid "Finish Blade: Musashi"
-msgstr "Lama Finale: Musashi"
+msgstr "Lama finale: Musashi"
+
 
 msgctxt "2091\tNAME"
 msgid "Heavy Maul: Fly Swatter"
-msgstr "Mazza Pesante: Scacciamosche"
+msgstr "Mazza pesante: Scacciamosche"
+
 
 msgctxt "2115\tNAME"
 msgid "Dual Short Sword: Sly Wolf"
-msgstr "Doppia Spada Corta: Lupo Furbastro"
+msgstr "Doppia spada corta: Lupo furbastro"
+
 
 msgctxt "2142\tNAME"
 msgid "Essence of Smoking"
-msgstr "Essenza del Fumo"
+msgstr "Essenza del fumo"
+
 
 msgctxt "2161\tNAME"
 msgid "Essence of Combo Stomp"
-msgstr "Essenza del Pestaggio Combo"
+msgstr "Essenza del pestaggio combo"
+
 
 msgctxt "2184\tNAME"
 msgid "Essence of Flying Knee"
-msgstr "Essenza della Ginocchiata Volante"
+msgstr "Essenza della ginocchiata volante"
+
 
 msgctxt "2207\tNAME"
 msgid "Essence of Falling Knee"
-msgstr "Essenza della Ginocchiata Cadente"
+msgstr "Essenza della ginocchiata cadente"
+
 
 msgctxt "2231\tNAME"
 msgid "Essence of Jumping"
-msgstr "Essenza del Salto"
+msgstr "Essenza del salto"
+
 
 msgctxt "2250\tNAME"
 msgid "Essence of Pole Dancing"
-msgstr "Essenza della Pole Dance"
+msgstr "Essenza della pole dance"
+
 
 msgctxt "2274\tNAME"
 msgid "Essence of Rolling"
-msgstr "Essenza del Rotolamento"
+msgstr "Essenza del rotolamento"
+
 
 msgctxt "2293\tNAME"
 msgid "Essence of Self-Destruction"
-msgstr "Essenza dell'Autodistruzione"
+msgstr "Essenza dell'autodistruzione"
+
 
 msgctxt "2321\tNAME"
 msgid "Essence of Hurling"
-msgstr "Essenza del Lancio Violento"
+msgstr "Essenza del lancio violento"
+
 
 msgctxt "2340\tNAME"
 msgid "Essence of Reversing"
-msgstr "Essenza del Contrattacco"
+msgstr "Essenza del contrattacco"
+
 
 msgctxt "2361\tNAME"
 msgid "Essence of Drunken Thrust"
-msgstr "Essenza dell'Affondo dell'Ubriaco"
+msgstr "Essenza dell'affondo dell'ubriaco"
+
 
 msgctxt "2387\tNAME"
 msgid "Essence of Terror"
-msgstr "Essenza del Terrore"
+msgstr "Essenza del terrore"
+
 
 msgctxt "2405\tNAME"
 msgid "Ultimate Essence"
-msgstr "Essenza Finale"
+msgstr "Essenza finale"
+
 
 msgctxt "2422\tNAME"
 msgid "Essence of Triple Strike"
-msgstr "Essenza del Triplo Colpo"
+msgstr "Essenza del triplo colpo"
+
 
 msgctxt "2447\tNAME"
 msgid "Essence of Loin Reaving"
-msgstr "Essenza della Lacerazione Lombo"
+msgstr "Essenza della lacerazione lombo"
+
 
 msgctxt "2471\tNAME"
 msgid "Essence of Comebacks"
-msgstr "Essenza delle Rimonte"
+msgstr "Essenza delle rimonte"
+
 
 msgctxt "2492\tNAME"
 msgid "Essence of Clotheslining"
-msgstr "Essenza del Braccio Teso"
+msgstr "Essenza del braccio teso"
+
 
 msgctxt "2517\tNAME"
 msgid "Essence of Bell Ringing"
-msgstr "Essenza del Campanellino"
+msgstr "Essenza del campanellino"
+
 
 msgctxt "2541\tNAME"
 msgid "Essence of Smashing"
-msgstr "Essenza della Frantumazione"
+msgstr "Essenza della frantumazione"
+
 
 msgctxt "2561\tNAME"
 msgid "Essence of Arresting"
-msgstr "Essenza dell'Arresto"
+msgstr "Essenza dell'arresto"
+
 
 msgctxt "2582\tNAME"
 msgid "Essence of Combos I"
-msgstr "Essenza delle Combo I"
+msgstr "Essenza delle combo I"
+
 
 msgctxt "2602\tNAME"
 msgid "Essence of Combos II"
-msgstr "Essenza delle Combo II"
+msgstr "Essenza delle combo II"
+
 
 msgctxt "2623\tNAME"
 msgid "Essence of Combos III"
-msgstr "Essenza delle Combo III"
+msgstr "Essenza delle combo III"
+
 
 msgctxt "2645\tNAME"
 msgid "Essence of Combos IV"
-msgstr "Essenza delle Combo IV"
+msgstr "Essenza delle combo IV"
+
 
 msgctxt "2666\tNAME"
 msgid "Essence of Combos V"
-msgstr "Essenza delle Combo V"
+msgstr "Essenza delle combo V"
+
 
 msgctxt "2686\tNAME"
 msgid "Essence of Ball and Chain"
-msgstr "Essenza della Palla e Catena"
+msgstr "Essenza della palla e catena"
+
 
 msgctxt "2712\tNAME"
 msgid "Essence of Guillotine Heel"
-msgstr "Essenza del Tacco Ghigliottina"
+msgstr "Essenza del tacco ghigliottina"
+
 
 msgctxt "2739\tNAME"
 msgid "Essence of Arm Dragging"
-msgstr "Essenza della Tirata al Braccio"
+msgstr "Essenza della tirata al braccio"
+
 
 msgctxt "2763\tNAME"
 msgid "Essence of Skull-Crushing"
-msgstr "Essenza Spaccateschi"
+msgstr "Essenza spaccateschi"
+
 
 msgctxt "2789\tNAME"
 msgid "Essence of Seizing"
-msgstr "Essenza del Sequestro"
+msgstr "Essenza del sequestro"
+
 
 msgctxt "2808\tNAME"
 msgid "Essence of Merciless Throwing"
-msgstr "Essenza del Lancio Spietato"
+msgstr "Essenza del lancio spietato"
+
 
 msgctxt "2838\tNAME"
 msgid "Essence of Taunting"
-msgstr "Essenza della Provocazione"
+msgstr "Essenza della provocazione"
+
 
 msgctxt "3786\tEXPLANATION"
 msgid "Smash an opponent against a wall. The most basic of Heat Actions.\n"
@@ -1046,3 +1163,4 @@ msgctxt "12967\tEXPLANATION"
 msgid "Rain down a powerful counter punch on opponents that rush you after being taunted."
 msgstr ""
 "Fai piovere un potente pugno di contrattacco sugli avversari che ti assalgono dopo essere stati provocati."
+

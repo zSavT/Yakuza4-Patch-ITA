@@ -280,7 +280,8 @@ msgstr "Curry originale (confezione da asporto)"
 
 msgctxt "20274\tNAME"
 msgid "Kamuro Gourmet"
-msgstr "Gourmet di Kamuro"
+msgstr "Gourmet di kamuro"
+
 
 msgctxt "20289\tNAME"
 msgid "Night Magazine"
@@ -704,7 +705,8 @@ msgstr ""
 
 msgctxt "22163\tNAME"
 msgid "Goma-Mugi Tea"
-msgstr "Tè goma-mugi"
+msgstr "Tè goma-Mugi"
+
 
 msgctxt "22177\tNAME"
 msgid "The Premium Malt's"
@@ -712,11 +714,13 @@ msgstr "The Premium Malt's"
 
 msgctxt "22196\tNAME"
 msgid "Kin-Mugi Beer"
-msgstr "Birra Kin-Mugi"
+msgstr "Birra kin-Mugi"
+
 
 msgctxt "22210\tNAME"
 msgid "Chu-Hi Wine Cooler"
-msgstr "Chu-Hi (wine cooler)"
+msgstr "Chu-hi (wine cooler)"
+
 
 msgctxt "22229\tNAME"
 msgid "Yamazaki 1984"
@@ -804,7 +808,8 @@ msgstr "Ballantine's 17 anni"
 
 msgctxt "22614\tNAME"
 msgid "Ballantine's Finest"
-msgstr "Ballantine's Finest"
+msgstr "Ballantine's finest"
+
 
 msgctxt "22634\tNAME"
 msgid "Jack Daniel's"
@@ -828,7 +833,8 @@ msgstr ""
 
 msgctxt "22727\tNAME"
 msgid "Chabot Napoleon"
-msgstr "Chabot Napoléon"
+msgstr "Chabot napoléon"
+
 
 msgctxt "22743\tNAME"
 msgid "Courvoisier XO"
@@ -884,7 +890,8 @@ msgstr "Medicina curativa 3"
 
 msgctxt "22969\tNAME"
 msgid "Kamuro Twilight"
-msgstr "Crepuscolo di Kamuro"
+msgstr "Crepuscolo di kamuro"
+
 
 msgctxt "22985\tNAME"
 msgid "Smile Burger Set"
@@ -908,7 +915,8 @@ msgstr "Set Tuna Burger"
 
 msgctxt "23089\tNAME"
 msgid "Braised Pork Burger Set"
-msgstr "Set burger di maiale brasato"
+msgstr "Set Burger di maiale brasato"
+
 
 msgctxt "23113\tNAME"
 msgid "Smile Shake"
@@ -940,7 +948,8 @@ msgstr "Set Tuna Burger"
 
 msgctxt "23241\tNAME"
 msgid "Braised Pork Burger Set"
-msgstr "Set burger di maiale brasato"
+msgstr "Set Burger di maiale brasato"
+
 
 msgctxt "23265\tNAME"
 msgid "Smile Shake"
@@ -1080,39 +1089,48 @@ msgstr "Yakisoba al calamaro"
 
 msgctxt "23640\tNAME"
 msgid "Soup Harusame: Wonton"
-msgstr "Zuppa di harusame: wonton"
+msgstr "Zuppa di harusame: Wonton"
+
 
 msgctxt "23662\tNAME"
 msgid "Soup Harusame: Egg"
-msgstr "Zuppa di harusame: uovo"
+msgstr "Zuppa di harusame: Uovo"
+
 
 msgctxt "23681\tNAME"
 msgid "Soup Harusame: Tan Tan Noodles"
-msgstr "Zuppa di harusame: tan tan noodles"
+msgstr "Zuppa di harusame: Tan tan noodles"
+
 
 msgctxt "23712\tNAME"
 msgid "Soup Harusame: Jjigae"
-msgstr "Zuppa di harusame: jjigae"
+msgstr "Zuppa di harusame: Jjigae"
+
 
 msgctxt "23734\tNAME"
 msgid "Soup Harusame: Seaweed Veggie"
-msgstr "Zuppa di harusame: alghe e verdure"
+msgstr "Zuppa di harusame: Alghe e verdure"
+
 
 msgctxt "23764\tNAME"
 msgid "Soup Harusame: Chinese Chicken"
-msgstr "Zuppa di harusame: pollo alla cinese"
+msgstr "Zuppa di harusame: Pollo alla cinese"
+
 
 msgctxt "23795\tNAME"
 msgid "Soup Harusame: Hot & Sour"
-msgstr "Zuppa di harusame: agropiccante"
+msgstr "Zuppa di harusame: Agropiccante"
+
 
 msgctxt "23821\tNAME"
 msgid "Drink to the Last Drop Dandan Noodles"
-msgstr "Dandan noodles “Fino all'ultima goccia”"
+msgstr "Dandan noodles “fino all'ultima goccia”"
+
 
 msgctxt "23859\tNAME"
 msgid "Drink to the Last Drop Special Tonkotsu"
-msgstr "Tonkotsu speciale “Fino all'ultima goccia”"
+msgstr "Tonkotsu speciale “fino all'ultima goccia”"
+
 
 msgctxt "23899\tNAME"
 msgid "Tan Tan Noodles"
@@ -1232,7 +1250,8 @@ msgstr "Piyo-chan pesca"
 
 msgctxt "24403\tNAME"
 msgid "Big Piyo-chan"
-msgstr "Grande Piyo-chan"
+msgstr "Grande piyo-chan"
+
 
 msgctxt "24417\tNAME"
 msgid "Pillow Pups (Golden Retriever)"
@@ -1240,7 +1259,8 @@ msgstr "Cuscino cucciolo (golden retriever)"
 
 msgctxt "24448\tNAME"
 msgid "Pillow Pups (Shiba)"
-msgstr "Cuscino cucciolo (shiba)"
+msgstr "Cuscino cucciolo (Shiba)"
+
 
 msgctxt "24468\tNAME"
 msgid "Pillow Pups (Chihuahua)"
@@ -1256,7 +1276,8 @@ msgstr "Cuscino cucciolo gigante (golden retriever)"
 
 msgctxt "24558\tNAME"
 msgid "Giant Pillow Pups (Shiba)"
-msgstr "Cuscino cucciolo gigante (shiba)"
+msgstr "Cuscino cucciolo gigante (Shiba)"
+
 
 msgctxt "24584\tNAME"
 msgid "Giant Pillow Pups (Chihuahua)"
@@ -1884,7 +1905,8 @@ msgstr "Carta 1-1-1"
 
 msgctxt "26654\tNAME"
 msgid "Even Goro's Beads"
-msgstr "Perline di Even Goro"
+msgstr "Perline di even Goro"
+
 
 msgctxt "26672\tNAME"
 msgid "Lopsided Cigarette"
@@ -2040,7 +2062,8 @@ msgstr "Pranzo di Haruka"
 
 msgctxt "27257\tNAME"
 msgid "Haruka's First-aid Kit"
-msgstr "Kit di pronto soccorso di Haruka"
+msgstr "Kit di Pronto soccorso di Haruka"
+
 
 msgctxt "27280\tNAME"
 msgid "Temp Item 001"
@@ -2060,7 +2083,8 @@ msgstr "Fazzoletti tascabili"
 
 msgctxt "27342\tNAME"
 msgid "Four Gods Cup Trophy"
-msgstr "Trofeo Coppa dei Quattro Dei"
+msgstr "Trofeo coppa dei quattro dei"
+
 
 msgctxt "27363\tNAME"
 msgid "1000G Coin"
@@ -2348,7 +2372,8 @@ msgstr "Anelli di fidanzamento in platino"
 
 msgctxt "28649\tNAME"
 msgid "Perfect Game Cup"
-msgstr "Coppa Perfect Game"
+msgstr "Coppa perfect game"
+
 
 msgctxt "28666\tNAME"
 msgid "Chinese Dress (Orange)"
@@ -2720,7 +2745,8 @@ msgstr "Sciabola cinese"
 
 msgctxt "30090\tNAME"
 msgid "Lotus Clan Broadsword"
-msgstr "Sciabola del Clan Loto"
+msgstr "Sciabola del clan loto"
+
 
 msgctxt "30112\tNAME"
 msgid "Divine Dragon Short Sword"
@@ -2800,7 +2826,8 @@ msgstr "Lama ornata"
 
 msgctxt "30400\tNAME"
 msgid "Sakura Storm"
-msgstr "Tempesta di Sakura"
+msgstr "Tempesta di sakura"
+
 
 msgctxt "30413\tNAME"
 msgid "Muramasa Blade"
@@ -3496,7 +3523,8 @@ msgstr "Parabraccia elastici"
 
 msgctxt "33175\tNAME"
 msgid "Hercules Gloves"
-msgstr "Guanti di Ercole"
+msgstr "Guanti di ercole"
+
 
 msgctxt "33191\tNAME"
 msgid "Leech Gloves"
@@ -3604,7 +3632,8 @@ msgstr "Cintura inamovibile"
 
 msgctxt "33642\tNAME"
 msgid "Shisa Belt"
-msgstr "Cintura Shisa"
+msgstr "Cintura shisa"
+
 
 msgctxt "33653\tNAME"
 msgid "Plastic Shin Guards"
@@ -3636,7 +3665,8 @@ msgstr "Scarpe chiodate"
 
 msgctxt "33771\tNAME"
 msgid "Mew Shoes"
-msgstr "Scarpe Mew"
+msgstr "Scarpe mew"
+
 
 msgctxt "33781\tNAME"
 msgid "Kamiyama Shin Guards"
@@ -3752,11 +3782,12 @@ msgstr ""
 
 msgctxt "34245\tNAME"
 msgid "Locker Key: Taihei Blvd."
-msgstr "Chiave armadietto: viale Taihei."
+msgstr "Chiave armadietto: Taihei Boulevard."
 
 msgctxt "34270\tNAME"
 msgid "Locker Key: Sotterranei di Kamurocho Mall"
-msgstr "Chiave armadietto: galleria sotterranea di Kamurocho"
+msgstr "Chiave armadietto: Galleria sotterranea di Kamurocho"
+
 
 msgctxt "34309\tNAME"
 msgid "Wooden Tags"
@@ -3828,11 +3859,13 @@ msgstr "Emblema della gang"
 
 msgctxt "34548\tNAME"
 msgid "Tokyo Sports Special Edition 1"
-msgstr "Tokyo Sports edizione speciale 1"
+msgstr "Tokyo sports edizione speciale 1"
+
 
 msgctxt "34579\tNAME"
 msgid "Tokyo Sports Special Edition 2"
-msgstr "Tokyo Sports edizione speciale 2"
+msgstr "Tokyo sports edizione speciale 2"
+
 
 msgctxt "34610\tNAME"
 msgid "Cheap and Easy Self-defense"
@@ -3856,7 +3889,8 @@ msgstr "Il mio ragazzo è il numero quattro"
 
 msgctxt "34729\tNAME"
 msgid "Space Ninja VII: The Daimyo Strikes Back"
-msgstr "Space Ninja VII: Il Daimyo colpisce ancora"
+msgstr "Space ninja VII: Il Daimyo colpisce ancora"
+
 
 msgctxt "34770\tNAME"
 msgid "Swordsmith: Hayakawa Ryutaro"
@@ -3892,7 +3926,8 @@ msgstr "Le tracce dell'antico re dei combattenti"
 
 msgctxt "34984\tNAME"
 msgid "Limbo 2: Night of the Limbo"
-msgstr "Limbo 2: La notte del Limbo"
+msgstr "Limbo 2: La notte del limbo"
+
 
 msgctxt "35012\tNAME"
 msgid "Dragon's Last Wind"
@@ -3904,7 +3939,8 @@ msgstr "Equipaggiamento spia shock svelato"
 
 msgctxt "35057\tNAME"
 msgid "Memoirs of an Action Star"
-msgstr "Memorie di una star d'azione"
+msgstr "Memorie di una Star d'azione"
+
 
 msgctxt "35083\tNAME"
 msgid "Fun Science With Denzaburo"
@@ -3912,7 +3948,8 @@ msgstr "Scienza divertente con Denzaburo"
 
 msgctxt "35110\tNAME"
 msgid "The Secret to Promotion: Kissing Ass"
-msgstr "Il segreto della promozione: leccare il culo"
+msgstr "Il segreto della promozione: Leccare il culo"
+
 
 msgctxt "35147\tNAME"
 msgid "Shiny Shine! Love Shine!"
@@ -3980,19 +4017,23 @@ msgstr "Trofeo"
 
 msgctxt "35466\tNAME"
 msgid "Love in Heart Point Card"
-msgstr "Tessera punti Love in Heart"
+msgstr "Tessera punti Love in heart"
+
 
 msgctxt "35491\tNAME"
 msgid "Love in Heart Point Card"
-msgstr "Tessera punti Love in Heart"
+msgstr "Tessera punti Love in heart"
+
 
 msgctxt "35516\tNAME"
 msgid "Love in Heart Point Card"
-msgstr "Tessera punti Love in Heart"
+msgstr "Tessera punti Love in heart"
+
 
 msgctxt "35541\tNAME"
 msgid "Love in Heart Point Card"
-msgstr "Tessera punti Love in Heart"
+msgstr "Tessera punti Love in heart"
+
 
 msgctxt "35566\tNAME"
 msgid "Black Journal"
@@ -4108,11 +4149,13 @@ msgstr "Biglietto da visita di Rio (elegante)"
 
 msgctxt "36192\tNAME"
 msgid "Shizuka Saito's Business Card"
-msgstr "Biglietto da visita di Shizuka Saito"
+msgstr "Biglietto da visita di shizuka Saito"
+
 
 msgctxt "36222\tNAME"
 msgid "Shizuka Saito's Fancy Business Card"
-msgstr "Biglietto da visita di Shizuka Saito (elegante)"
+msgstr "Biglietto da visita di shizuka Saito (elegante)"
+
 
 msgctxt "36258\tNAME"
 msgid "Himeka Kawasaki's Business Card"
@@ -4212,7 +4255,8 @@ msgstr "Palla con nucleo in titanio"
 
 msgctxt "36823\tNAME"
 msgid "The Florist's Bouquet"
-msgstr "Il mazzo del fioraio"
+msgstr "Il mazzo del Fioraio"
+
 
 msgctxt "36845\tNAME"
 msgid "Briefcase with Jewels"
@@ -4272,7 +4316,8 @@ msgstr "Foto di Kamei"
 
 msgctxt "37124\tNAME"
 msgid "Photo of Maria"
-msgstr "Foto di Maria"
+msgstr "Foto di maria"
+
 
 msgctxt "37139\tNAME"
 msgid "Cigarette"
@@ -4308,43 +4353,53 @@ msgstr "Ritratto dell'artista"
 
 msgctxt "37268\tNAME"
 msgid "Legend Mode Completion Letter"
-msgstr "Lettera di completamento: modalità Leggenda"
+msgstr "Lettera di completamento: Modalità leggenda"
+
 
 msgctxt "37298\tNAME"
 msgid "Ultimate Skill Completion Letter"
-msgstr "Lettera di completamento: abilità supreme"
+msgstr "Lettera di completamento: Abilità supreme"
+
 
 msgctxt "37331\tNAME"
 msgid "Saejima Substories Completion Letter"
-msgstr "Lettera di completamento: storie secondarie di Saejima"
+msgstr "Lettera di completamento: Storie secondarie di Saejima"
+
 
 msgctxt "37368\tNAME"
 msgid "Amon Battle Completion Letter"
-msgstr "Lettera di completamento: scontro con Amon"
+msgstr "Lettera di completamento: Scontro con Amon"
+
 
 msgctxt "37398\tNAME"
 msgid "Lockers Completion Letter"
-msgstr "Lettera di completamento: armadietti"
+msgstr "Lettera di completamento: Armadietti"
+
 
 msgctxt "37424\tNAME"
 msgid "Dining Completion Letter"
-msgstr "Lettera di completamento: ristoranti"
+msgstr "Lettera di completamento: Ristoranti"
+
 
 msgctxt "37449\tNAME"
 msgid "Modding Completion Letter"
-msgstr "Lettera di completamento: modifiche"
+msgstr "Lettera di completamento: Modifiche"
+
 
 msgctxt "37475\tNAME"
 msgid "Revelations Completion Letter"
-msgstr "Lettera di completamento: rivelazioni"
+msgstr "Lettera di completamento: Rivelazioni"
+
 
 msgctxt "37505\tNAME"
 msgid "Minigames Completion Letter"
-msgstr "Lettera di completamento: minigiochi"
+msgstr "Lettera di completamento: Minigiochi"
+
 
 msgctxt "37533\tNAME"
 msgid "The Master's Training Completion Letter"
-msgstr "Lettera di completamento: addestramento del maestro"
+msgstr "Lettera di completamento: Addestramento del maestro"
+
 
 msgctxt "37573\tNAME"
 msgid "Coliseum Completion Letter"
@@ -4356,7 +4411,8 @@ msgstr "Lettera di completamento: Fighter Maker"
 
 msgctxt "37632\tNAME"
 msgid "Gang Encounters Completion Letter"
-msgstr "Lettera di completamento: scontri con le gang"
+msgstr "Lettera di completamento: Scontri con le gang"
+
 
 msgctxt "37666\tNAME"
 msgid "IF7-R Completion Letter"
@@ -4364,7 +4420,8 @@ msgstr "Lettera di completamento: IF7-R"
 
 msgctxt "37690\tNAME"
 msgid "Heat Actions Completion Letter"
-msgstr "Lettera di completamento: azioni furore"
+msgstr "Lettera di completamento: Azioni furore"
+
 
 msgctxt "37721\tNAME"
 msgid "From 777 Town"
@@ -12397,12 +12454,7 @@ msgid ""
 "Come to Naomi's Palace, the fortune\n"
 "teller at the south end of Tenkaichi\n"
 "Street. I'll give it to you there."
-msgstr ""
-"Ho un premio per te.\n"
-"\n"
-"Vieni al Palazzo di Naomi, la chiromante\n"
-"all'estremità sud di Via Tenkaichi.\n"
-"Te lo consegnerò lì."
+msgstr "Ho un premio per te.\n\nVieni al Palazzo di Naomi, la chiromante\nall'estremità sud di Tenkaichi Street.\nTe lo consegnerò lì."
 
 msgctxt "210939\tMORE_EXPLANATION2"
 msgid ""
@@ -12725,12 +12777,7 @@ msgid ""
 "Come to Naomi's Palace, the fortune\n"
 "teller at the south end of Tenkaichi\n"
 "Street. I'll give it to you there."
-msgstr ""
-"Ho un premio per te.\n"
-"\n"
-"Vieni al Palazzo di Naomi, la chiromante\n"
-"all'estremità sud di Via Tenkaichi.\n"
-"Te lo consegnerò lì."
+msgstr "Ho un premio per te.\n\nVieni al Palazzo di Naomi, la chiromante\nall'estremità sud di Tenkaichi Street.\nTe lo consegnerò lì."
 
 msgctxt "212958\tMORE_EXPLANATION3"
 msgid ""
@@ -12739,12 +12786,7 @@ msgid ""
 "Come to Naomi's Palace, the fortune\n"
 "teller at the south end of Tenkaichi\n"
 "Street. I'll give it to you there."
-msgstr ""
-"Ho un premio per te.\n"
-"\n"
-"Vieni al Palazzo di Naomi, la chiromante\n"
-"all'estremità sud di Via Tenkaichi.\n"
-"Te lo consegnerò lì."
+msgstr "Ho un premio per te.\n\nVieni al Palazzo di Naomi, la chiromante\nall'estremità sud di Tenkaichi Street.\nTe lo consegnerò lì."
 
 msgctxt "213093\tMORE_EXPLANATION3"
 msgid ""
@@ -12753,12 +12795,7 @@ msgid ""
 "Come to Naomi's Palace, the fortune\n"
 "teller at the south end of Tenkaichi\n"
 "Street. I'll give it to you there."
-msgstr ""
-"Ho un premio per te.\n"
-"\n"
-"Vieni al Palazzo di Naomi, la chiromante\n"
-"all'estremità sud di Via Tenkaichi.\n"
-"Te lo consegnerò lì."
+msgstr "Ho un premio per te.\n\nVieni al Palazzo di Naomi, la chiromante\nall'estremità sud di Tenkaichi Street.\nTe lo consegnerò lì."
 
 msgctxt "213228\tMORE_EXPLANATION3"
 msgid ""
@@ -12767,12 +12804,7 @@ msgid ""
 "Come to Naomi's Palace, the fortune\n"
 "teller at the south end of Tenkaichi\n"
 "Street. I'll give it to you there."
-msgstr ""
-"Ho un premio per te.\n"
-"\n"
-"Vieni al Palazzo di Naomi, la chiromante\n"
-"all'estremità sud di Via Tenkaichi.\n"
-"Te lo consegnerò lì."
+msgstr "Ho un premio per te.\n\nVieni al Palazzo di Naomi, la chiromante\nall'estremità sud di Tenkaichi Street.\nTe lo consegnerò lì."
 
 msgctxt "213363\tMORE_EXPLANATION3"
 msgid ""
@@ -12781,12 +12813,7 @@ msgid ""
 "Come to Naomi's Palace, the fortune\n"
 "teller at the south end of Tenkaichi\n"
 "Street. I'll give it to you there."
-msgstr ""
-"Ho un premio per te.\n"
-"\n"
-"Vieni al Palazzo di Naomi, la chiromante\n"
-"all'estremità sud di Via Tenkaichi.\n"
-"Te lo consegnerò lì."
+msgstr "Ho un premio per te.\n\nVieni al Palazzo di Naomi, la chiromante\nall'estremità sud di Tenkaichi Street.\nTe lo consegnerò lì."
 
 msgctxt "213498\tMORE_EXPLANATION3"
 msgid ""
@@ -12795,12 +12822,7 @@ msgid ""
 "Come to Naomi's Palace, the fortune\n"
 "teller at the south end of Tenkaichi\n"
 "Street. I'll give it to you there."
-msgstr ""
-"Ho un premio per te.\n"
-"\n"
-"Vieni al Palazzo di Naomi, la chiromante\n"
-"all'estremità sud di Via Tenkaichi.\n"
-"Te lo consegnerò lì."
+msgstr "Ho un premio per te.\n\nVieni al Palazzo di Naomi, la chiromante\nall'estremità sud di Tenkaichi Street.\nTe lo consegnerò lì."
 
 msgctxt "213633\tMORE_EXPLANATION3"
 msgid ""
@@ -12809,12 +12831,7 @@ msgid ""
 "Come to Naomi's Palace, the fortune\n"
 "teller at the south end of Tenkaichi\n"
 "Street. I'll give it to you there."
-msgstr ""
-"Ho un premio per te.\n"
-"\n"
-"Vieni al Palazzo di Naomi, la chiromante\n"
-"all'estremità sud di Via Tenkaichi.\n"
-"Te lo consegnerò lì."
+msgstr "Ho un premio per te.\n\nVieni al Palazzo di Naomi, la chiromante\nall'estremità sud di Tenkaichi Street.\nTe lo consegnerò lì."
 
 msgctxt "213768\tMORE_EXPLANATION3"
 msgid ""
@@ -12823,12 +12840,7 @@ msgid ""
 "Come to Naomi's Palace, the fortune\n"
 "teller at the south end of Tenkaichi\n"
 "Street. I'll give it to you there."
-msgstr ""
-"Ho un premio per te.\n"
-"\n"
-"Vieni al Palazzo di Naomi, la chiromante\n"
-"all'estremità sud di Via Tenkaichi.\n"
-"Te lo consegnerò lì."
+msgstr "Ho un premio per te.\n\nVieni al Palazzo di Naomi, la chiromante\nall'estremità sud di Tenkaichi Street.\nTe lo consegnerò lì."
 
 msgctxt "213903\tMORE_EXPLANATION3"
 msgid ""
@@ -12837,12 +12849,7 @@ msgid ""
 "Come to Naomi's Palace, the fortune\n"
 "teller at the south end of Tenkaichi\n"
 "Street. I'll give it to you there."
-msgstr ""
-"Ho un premio per te.\n"
-"\n"
-"Vieni al Palazzo di Naomi, la chiromante\n"
-"all'estremità sud di Via Tenkaichi.\n"
-"Te lo consegnerò lì."
+msgstr "Ho un premio per te.\n\nVieni al Palazzo di Naomi, la chiromante\nall'estremità sud di Tenkaichi Street.\nTe lo consegnerò lì."
 
 msgctxt "214038\tMORE_EXPLANATION3"
 msgid ""
@@ -12851,12 +12858,7 @@ msgid ""
 "Come to Naomi's Palace, the fortune\n"
 "teller at the south end of Tenkaichi\n"
 "Street. I'll give it to you there."
-msgstr ""
-"Ho un premio per te.\n"
-"\n"
-"Vieni al Palazzo di Naomi, la chiromante\n"
-"all'estremità sud di Via Tenkaichi.\n"
-"Te lo consegnerò lì."
+msgstr "Ho un premio per te.\n\nVieni al Palazzo di Naomi, la chiromante\nall'estremità sud di Tenkaichi Street.\nTe lo consegnerò lì."
 
 msgctxt "214173\tMORE_EXPLANATION3"
 msgid ""
@@ -12865,12 +12867,7 @@ msgid ""
 "Come to Naomi's Palace, the fortune\n"
 "teller at the south end of Tenkaichi\n"
 "Street. I'll give it to you there."
-msgstr ""
-"Ho un premio per te.\n"
-"\n"
-"Vieni al Palazzo di Naomi, la chiromante\n"
-"all'estremità sud di Via Tenkaichi.\n"
-"Te lo consegnerò lì."
+msgstr "Ho un premio per te.\n\nVieni al Palazzo di Naomi, la chiromante\nall'estremità sud di Tenkaichi Street.\nTe lo consegnerò lì."
 
 msgctxt "214308\tMORE_EXPLANATION3"
 msgid ""
@@ -12879,12 +12876,7 @@ msgid ""
 "Come to Naomi's Palace, the fortune\n"
 "teller at the south end of Tenkaichi\n"
 "Street. I'll give it to you there."
-msgstr ""
-"Ho un premio per te.\n"
-"\n"
-"Vieni al Palazzo di Naomi, la chiromante\n"
-"all'estremità sud di Via Tenkaichi.\n"
-"Te lo consegnerò lì."
+msgstr "Ho un premio per te.\n\nVieni al Palazzo di Naomi, la chiromante\nall'estremità sud di Tenkaichi Street.\nTe lo consegnerò lì."
 
 msgctxt "214443\tMORE_EXPLANATION3"
 msgid ""
@@ -12893,12 +12885,7 @@ msgid ""
 "Come to Naomi's Palace, the fortune\n"
 "teller at the south end of Tenkaichi\n"
 "Street. I'll give it to you there."
-msgstr ""
-"Ho un premio per te.\n"
-"\n"
-"Vieni al Palazzo di Naomi, la chiromante\n"
-"all'estremità sud di Via Tenkaichi.\n"
-"Te lo consegnerò lì."
+msgstr "Ho un premio per te.\n\nVieni al Palazzo di Naomi, la chiromante\nall'estremità sud di Tenkaichi Street.\nTe lo consegnerò lì."
 
 msgctxt "214578\tMORE_EXPLANATION3"
 msgid ""
@@ -12907,12 +12894,7 @@ msgid ""
 "Come to Naomi's Palace, the fortune\n"
 "teller at the south end of Tenkaichi\n"
 "Street. I'll give it to you there."
-msgstr ""
-"Ho un premio per te.\n"
-"\n"
-"Vieni al Palazzo di Naomi, la chiromante\n"
-"all'estremità sud di Via Tenkaichi.\n"
-"Te lo consegnerò lì."
+msgstr "Ho un premio per te.\n\nVieni al Palazzo di Naomi, la chiromante\nall'estremità sud di Tenkaichi Street.\nTe lo consegnerò lì."
 
 msgctxt "214713\tMORE_EXPLANATION3"
 msgid ""
@@ -15772,3 +15754,4 @@ msgstr ""
 msgctxt "222920\tEFFECTIVE_FOR_FISH"
 msgid "6"
 msgstr ""
+

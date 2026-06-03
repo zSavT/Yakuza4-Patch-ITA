@@ -74,23 +74,28 @@ msgstr "Shoji Yonashiro"
 
 msgctxt "1733\tCATCHPHRASE"
 msgid "The Lone Entrepreneur"
-msgstr "L'Imprenditore Solitario"
+msgstr "L'imprenditore solitario"
+
 
 msgctxt "1755\tCATCHPHRASE"
 msgid "The Raging Bull of Tojo"
-msgstr "Il Toro Infuriato di Tojo"
+msgstr "Il toro infuriato di Tojo"
+
 
 msgctxt "1779\tCATCHPHRASE"
 msgid "The Righteous Runaway"
-msgstr "Il Giusto Fuggiasco"
+msgstr "Il giusto fuggiasco"
+
 
 msgctxt "1801\tCATCHPHRASE"
 msgid "Snake Flower Boss"
-msgstr "Boss Fiore del Serpente"
+msgstr "Boss fiore del serpente"
+
 
 msgctxt "1819\tCATCHPHRASE"
 msgid "The Ryukyu Assassin"
-msgstr "L'Assassino di Ryukyu"
+msgstr "L'assassino di Ryukyu"
+
 
 msgctxt "1839\tCATCHPHRASE"
 msgid "Legendary Arms Dealer"
@@ -98,11 +103,13 @@ msgstr "Trafficante d'armi leggendario"
 
 msgctxt "1861\tCATCHPHRASE"
 msgid "Mad Dog of Shimano"
-msgstr "Cane Pazzo di Shimano"
+msgstr "Cane pazzo di Shimano"
+
 
 msgctxt "1880\tCATCHPHRASE"
 msgid "The Fighting Viper"
-msgstr "La Vipera Combattente"
+msgstr "La vipera combattente"
+
 
 msgctxt "1899\tCATCHPHRASE"
 msgid "Emperor of Hama"
@@ -138,7 +145,8 @@ msgstr "MMA"
 
 msgctxt "2358\tSTYLE"
 msgid "Street Fighting"
-msgstr "Combattimento di Strada"
+msgstr "Combattimento di strada"
+
 
 msgctxt "2374\tSTYLE"
 msgid "Karate"
@@ -146,11 +154,13 @@ msgstr "Karate"
 
 msgctxt "2381\tSTYLE"
 msgid "Kung Fu"
-msgstr "Kung Fu"
+msgstr "Kung fu"
+
 
 msgctxt "2389\tSTYLE"
 msgid "Street Fighting"
-msgstr "Combattimento di Strada"
+msgstr "Combattimento di strada"
+
 
 msgctxt "2405\tSTYLE"
 msgid "Guns"
@@ -158,15 +168,18 @@ msgstr "Armi da fuoco"
 
 msgctxt "2410\tSTYLE"
 msgid "Street Fighting"
-msgstr "Rissa di Strada"
+msgstr "Rissa di strada"
+
 
 msgctxt "2426\tSTYLE"
 msgid "Street Fighting"
-msgstr "Combattimento di Strada"
+msgstr "Combattimento di strada"
+
 
 msgctxt "2442\tSTYLE"
 msgid "Street Fighting"
-msgstr "Combattimento di Strada"
+msgstr "Combattimento di strada"
+
 
 msgctxt "2458\tSTYLE"
 msgid "none"
@@ -178,7 +191,8 @@ msgstr "Nessuno"
 
 msgctxt "2468\tSTYLE"
 msgid "none"
-msgstr "nessuno"
+msgstr "Nessuno"
+
 
 msgctxt "2473\tSTYLE"
 msgid "none"
@@ -191,3 +205,4 @@ msgstr "Nessuno"
 msgctxt "2483\tSTYLE"
 msgid "none"
 msgstr "Nessuno"
+

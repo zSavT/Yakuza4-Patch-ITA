@@ -26,7 +26,8 @@ msgstr "Demone mortale"
 #, fuzzy
 msgctxt "244\tNAME"
 msgid "Guardian of Rage"
-msgstr "Guardiano della Rabbia"
+msgstr "Guardiano della rabbia"
+
 
 #, fuzzy
 msgctxt "263\tNAME"
@@ -155,3 +156,4 @@ msgstr "I dati del Drago Blu Leggendario sono stati inseriti nell'IF7-R."
 msgctxt "1557\tEXPLANATION"
 msgid "You defeated Legendary Blue Dragon in the IF7-R."
 msgstr "Hai sconfitto il Drago Blu Leggendario nell'IF7-R."
+

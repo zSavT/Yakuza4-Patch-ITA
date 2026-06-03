@@ -22,63 +22,78 @@ msgstr "Kiryu"
 
 msgctxt "290\tNAME"
 msgid "Title Match"
-msgstr "Match per il Titolo"
+msgstr "Match per il titolo"
+
 
 msgctxt "302\tNAME"
 msgid "Maximum Grand Prix"
-msgstr "Massimo Gran Premio"
+msgstr "Massimo gran premio"
+
 
 msgctxt "321\tNAME"
 msgid "Magnum Force Grand Prix"
-msgstr "Gran Premio Magnum Force"
+msgstr "Gran premio Magnum Force"
+
 
 msgctxt "345\tNAME"
 msgid "Hyper Grand Prix"
-msgstr "Iper Gran Premio"
+msgstr "Iper gran premio"
+
 
 msgctxt "362\tNAME"
 msgid "Twin Dragon Grand Prix"
-msgstr "Gran Premio dei Draghi Gemelli"
+msgstr "Gran premio dei draghi gemelli"
+
 
 msgctxt "385\tNAME"
 msgid "Tag Match Grand Prix"
-msgstr "Grand Prix a Squadre"
+msgstr "Grand Prix a squadre"
+
 
 msgctxt "406\tNAME"
 msgid "Weapon Master Grand Prix"
-msgstr "Gran Premio Maestro d'Armi"
+msgstr "Gran premio maestro d'armi"
+
 
 msgctxt "431\tNAME"
 msgid "Bomber Grand Prix"
-msgstr "Gran Premio del Bombardiere"
+msgstr "Gran premio del bombardiere"
+
 
 msgctxt "449\tNAME"
 msgid "Bounding Grand Prix"
-msgstr "Grand Prix Scatenato"
+msgstr "Grand Prix scatenato"
+
 
 msgctxt "469\tNAME"
 msgid "Heat Grand Prix"
-msgstr "Gran Premio Heat"
+msgstr "Gran premio heat"
+
 
 msgctxt "485\tNAME"
 msgid "Breakout Grand Prix"
-msgstr "Gran Premio Dirompente"
+msgstr "Gran premio dirompente"
+
 
 msgctxt "505\tNAME"
 msgid "Street Fight Grand Prix"
-msgstr "Gran Premio di Combattimento di Strada"
+msgstr "Gran premio di combattimento di strada"
+
 
 msgctxt "529\tNAME"
 msgid "Exhibition Tournament"
-msgstr "Torneo Esibizione"
+msgstr "Torneo esibizione"
+
 
 msgctxt "551\tNAME"
 msgid "Maximum Grand Prix"
-msgstr "Gran Premio Massimo"
+msgstr "Gran premio massimo"
+
 
 msgctxt "570\tNAME"
 msgid "Magnum Force Grand Prix"
-msgstr "Magnum Force Gran Premio"
+msgstr "Magnum Force gran premio"
+
 
 msgctxt "594\tNAME"
 msgid "Hyper Grand Prix"
@@ -86,39 +101,48 @@ msgstr "Iper Grand Prix"
 
 msgctxt "611\tNAME"
 msgid "Twin Dragon Grand Prix"
-msgstr "Doppio Drago Grand Prix"
+msgstr "Doppio drago Grand Prix"
+
 
 msgctxt "634\tNAME"
 msgid "Tag Match Grand Prix"
-msgstr "Gran Premio Incontri a Coppie"
+msgstr "Gran premio incontri a coppie"
+
 
 msgctxt "655\tNAME"
 msgid "Weapon Master Grand Prix"
-msgstr "Gran Premio Maestro d'Armi"
+msgstr "Gran premio maestro d'armi"
+
 
 msgctxt "680\tNAME"
 msgid "Bomber Grand Prix"
-msgstr "Gran Premio Bomber"
+msgstr "Gran premio bomber"
+
 
 msgctxt "698\tNAME"
 msgid "Bounding Grand Prix"
-msgstr "Gran Premio Balzante"
+msgstr "Gran premio balzante"
+
 
 msgctxt "718\tNAME"
 msgid "Furore Grand Prix"
-msgstr "Gran Premio Heat"
+msgstr "Gran premio heat"
+
 
 msgctxt "734\tNAME"
 msgid "Breakout Grand Prix"
-msgstr "Gran Premio della Rivelazione"
+msgstr "Gran premio della rivelazione"
+
 
 msgctxt "754\tNAME"
 msgid "Street Fight Grand Prix"
-msgstr "Grand Prix di Lotta di Strada"
+msgstr "Grand Prix di lotta di strada"
+
 
 msgctxt "778\tNAME"
 msgid "Exhibition Tournament"
-msgstr "Torneo di Esibizione"
+msgstr "Torneo di esibizione"
+
 
 msgctxt "1000\tEXPLANATION"
 msgid "You won the Title Match with Saejima."
@@ -219,3 +243,4 @@ msgstr "Hai vinto il Grand Prix di Risse di Strada con Kiryu."
 msgctxt "2090\tEXPLANATION"
 msgid "You won the Exhibition Tournament with Kiryu."
 msgstr "Hai vinto il Torneo d'Esibizione con Kiryu."
+
