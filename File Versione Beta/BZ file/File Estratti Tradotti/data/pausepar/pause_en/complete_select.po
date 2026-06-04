@@ -44,12 +44,12 @@ msgstr "Hostess"
 
 msgctxt "238\tNAME"
 msgid "Hostess Maker"
-msgstr "Creatore di hostess"
+msgstr "Manager di hostess"
 
 
 msgctxt "254\tNAME"
 msgid "No. 1 Hostess Maker"
-msgstr "N. 1 creatore di hostess"
+msgstr "Manager di hostess N. 1"
 
 
 msgctxt "276\tNAME"
@@ -72,7 +72,7 @@ msgstr "Colosseo"
 
 msgctxt "342\tNAME"
 msgid "Fighter Maker"
-msgstr "Creatore di combattenti"
+msgstr "Allenatore di combattenti"
 
 
 msgctxt "358\tNAME"
@@ -90,30 +90,29 @@ msgstr "IF7-R"
 
 msgctxt "401\tNAME"
 msgid "Furore Actions"
-msgstr "Azioni furore"
+msgstr "Azioni Furore"
 
 
 msgctxt "414\tEXPLANATION"
 msgid "Unlock all 100 lockers, both above and underground."
-msgstr "Sbloccare tutti i 100 armadietti, sia sopra che sotto terra."
+msgstr "Sblocca tutti i 100 armadietti, sia in superficie che nei sotterranei."
 
 msgctxt "466\tEXPLANATION"
 msgid "Order everything on the menu at every restaurant."
-msgstr "Ordinare tutto il menu in ogni ristorante."
+msgstr "Ordina tutto dal menu di ogni ristorante."
 
 msgctxt "516\tEXPLANATION"
 msgid "Make all weapons and gear for both Kamiyama Works shops."
 msgstr ""
-"Crea tutte le armi e l'equipaggiamento per entrambi i negozi di\n"
-" Kamiyama Works."
+"Crea tutte le armi e gli equipaggiamenti per entrambi i negozi Kamiyama Works."
 
 msgctxt "573\tEXPLANATION"
 msgid "Befriend everyone you can in the city."
-msgstr "Fai amicizia con tutti quelli che puoi in città."
+msgstr "Fai amicizia con tutti in città."
 
 msgctxt "612\tEXPLANATION"
 msgid "See all Revelations."
-msgstr "Vedi tutte le Rivelazioni."
+msgstr "Assisti a tutte le Rivelazioni."
 
 msgctxt "633\tEXPLANATION"
 msgid ""
@@ -170,4 +169,3 @@ msgstr "Sconfiggi tutti i nemici."
 msgctxt "1151\tEXPLANATION"
 msgid "Use every Furore Action."
 msgstr "Usa ogni Azione Calore."
-

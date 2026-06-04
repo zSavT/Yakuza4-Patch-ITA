@@ -26,7 +26,7 @@ msgstr "Leggi i commenti degli apprendisti."
 
 msgctxt "159\tMSG"
 msgid "Equip apprentice with acquired Skills and Finishing Moves."
-msgstr "Equipaggia l'apprendista con Abilità e Mosse Finali acquisite."
+msgstr "Assegna all'apprendista le Abilità e le Mosse finali acquisite."
 
 msgctxt "218\tMSG"
 msgid "Check dojo status."
@@ -38,7 +38,7 @@ msgstr "Spendi fondi per migliorare le strutture del dojo."
 
 msgctxt "277\tMSG"
 msgid "Quit training."
-msgstr "Smetti di allenarti."
+msgstr "Termina allenamento."
 
 msgctxt "292\tMSG"
 msgid "Please set a schedule."
@@ -46,7 +46,7 @@ msgstr "Si prega di impostare un programma."
 
 msgctxt "315\tMSG"
 msgid "Begin training."
-msgstr "Inizia l'addestramento."
+msgstr "Inizia l'allenamento."
 
 msgctxt "331\tMSG"
 msgid "You must finish setting the schedule."
@@ -54,11 +54,11 @@ msgstr "Devi finire di impostare il programma."
 
 msgctxt "369\tMSG"
 msgid "Equip apprentice with acquired Skills."
-msgstr "Equipaggia l'apprendista con le competenze acquisite."
+msgstr "Assegna all'apprendista le Abilità acquisite."
 
 msgctxt "408\tMSG"
 msgid "Equip apprentice with acquired Finishing Moves."
-msgstr "Equipaggia l'apprendista con le Mosse Finali acquisite."
+msgstr "Assegna all'apprendista le Mosse finali acquisite."
 
 msgctxt "456\tMSG"
 msgid "You have not acquired this Skill yet."
@@ -74,19 +74,19 @@ msgstr "Puoi selezionare solo Riposo. Il tuo apprendista è infortunato."
 
 msgctxt "595\tMSG"
 msgid "You can only select Tournament as this is your final turn."
-msgstr "Puoi selezionare solo Torneo, dato che questo è il tuo turno finale."
+msgstr "Puoi selezionare solo Torneo, poiché questo è l'ultimo turno."
 
 msgctxt "654\tMSG"
 msgid "You must enter a Tournament as this is your final turn."
-msgstr "Devi partecipare a un Torneo poiché questo è il tuo turno finale."
+msgstr "Devi partecipare a un Torneo poiché questo è l'ultimo turno."
 
 msgctxt "710\tMSG"
 msgid "You cannot return until you start training."
-msgstr "Non puoi tornare finché non inizi ad allenarti."
+msgstr "Non puoi tornare indietro finché non inizi l'allenamento."
 
 msgctxt "754\tMSG"
 msgid "Special menu items cannot be changed."
-msgstr "Gli elementi del menu speciale non possono essere modificati."
+msgstr "Le voci del menu speciale non possono essere modificate."
 
 msgctxt "792\tMSG"
 msgid "There are no Finishing Moves that you can teach."
@@ -94,7 +94,7 @@ msgstr "Non ci sono Mosse Finali che puoi insegnare."
 
 msgctxt "841\tMSG"
 msgid "You cannot upgrade this facility without renovating. "
-msgstr "Non puoi migliorare questa struttura senza ristrutturare."
+msgstr "Non puoi potenziare questa struttura senza prima ristrutturarla."
 
 msgctxt "895\tMSG"
 msgid "You cannot upgrade this facility yet."

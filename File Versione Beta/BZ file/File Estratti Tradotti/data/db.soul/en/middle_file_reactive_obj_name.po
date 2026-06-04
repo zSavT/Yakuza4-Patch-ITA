@@ -741,7 +741,7 @@ msgstr "Oggetto tag"
 
 msgctxt "0\t25554\t182\tCHK"
 msgid "Amon's Laser Sound Assigned Dummy"
-msgstr "Manichino assegnato al suono laser di Amon"
+msgstr "Manichino per il suono del laser di Amon"
 
 msgctxt "0\t25588\t183\tCHK"
 msgid "Metal Trash Can"
@@ -785,11 +785,11 @@ msgstr "Borsa da ufficio (rotta)"
 
 msgctxt "0\t25788\t193\tCHK"
 msgid "Vibrant Plant"
-msgstr "Pianta rigogliosa"
+msgstr "Pianta da interni"
 
 msgctxt "0\t25802\t194\tCHK"
 msgid "Vibrant Office Plant (Broken)"
-msgstr "Pianta rigogliosa da ufficio (rotta)"
+msgstr "Pianta da ufficio (rotta)"
 
 msgctxt "0\t25832\t195\tCHK"
 msgid "Office Loveseat (Broken)"
@@ -1769,15 +1769,15 @@ msgstr "(ADV) Negozio di armi (camion)"
 
 msgctxt "0\t30325\t439\tCHK"
 msgid "(Minigame)<Hostess Club> Fruit Platter Combination (Large)"
-msgstr "(Minigioco)<Hostess Club> Combinazione di piatto di frutta (grande)"
+msgstr "(Minigioco)<Hostess Club> Piatto di frutta mista (grande)"
 
 msgctxt "0\t30384\t440\tCHK"
 msgid "(Minigame)<Hostess Club> Fruit Platter Combination (Medium)"
-msgstr "(Minigioco)<Hostess Club> Combinazione di piatto di frutta (media)"
+msgstr "(Minigioco)<Hostess Club> Piatto di frutta mista (media)"
 
 msgctxt "0\t30444\t441\tCHK"
 msgid "(Minigame)<Hostess Club> Fruit Platter Combination (Small)"
-msgstr "(Minigioco)<Hostess Club> Combinazione di piatto di frutta (piccola)"
+msgstr "(Minigioco)<Hostess Club> Piatto di frutta mista (piccola)"
 
 msgctxt "0\t30503\t442\tCHK"
 msgid "(Mini Mission) Wood"
@@ -1881,7 +1881,7 @@ msgstr "(Azione di inseguimento) Materiali da costruzione (cemento)"
 
 msgctxt "0\t31399\t467\tCHK"
 msgid "(Chase Action) Dump Cargo Box"
-msgstr "(Azione di inseguimento) Cassone da discarica"
+msgstr "(Azione di inseguimento) Cassone ribaltabile"
 
 msgctxt "0\t31429\t468\tCHK"
 msgid "(Chase Action) Dump (Afternoon)"
@@ -2309,7 +2309,7 @@ msgstr "Lastra di ferro rotta"
 
 msgctxt "0\t33513\t574\tCHK"
 msgid "Broken Empty Can"
-msgstr "Lattina vuota rotta"
+msgstr "Lattina vuota schiacciata"
 
 msgctxt "0\t33530\t575\tCHK"
 msgid "Broken Gas Stove"
@@ -2933,15 +2933,15 @@ msgstr "Estintore"
 
 msgctxt "0\t36462\t730\tCHK"
 msgid "Economy-size Extreme Spice"
-msgstr "Spezia estrema formato famiglia"
+msgstr "Spezie estreme formato convenienza"
 
 msgctxt "0\t36489\t731\tCHK"
 msgid "Huge Pot Cleaner (Reject)"
-msgstr "Enorme pulitore per pentole (scartato)"
+msgstr "Paglietta gigante (scarto)"
 
 msgctxt "0\t36515\t732\tCHK"
 msgid "Weathered Telephone Directory"
-msgstr "Elenco telefonico consumato"
+msgstr "Elenco telefonico logoro"
 
 msgctxt "0\t36545\t733\tCHK"
 msgid "Industrial Pepper"
@@ -2977,7 +2977,7 @@ msgstr "Palla da bowling"
 
 msgctxt "0\t36693\t741\tCHK"
 msgid "Flimsy Safety Shoes (Reject)"
-msgstr "Scarpe antinfortunistiche fragili (scartate)"
+msgstr "Scarpe antinfortunistiche scadenti (scarto)"
 
 msgctxt "0\t36722\t742\tCHK"
 msgid "Kettle"
@@ -3437,7 +3437,7 @@ msgstr "Elenco telefonico consumato rotto"
 
 msgctxt "0\t39391\t856\tCHK"
 msgid "Broken Industrial-size Hot Peppers"
-msgstr "Peperoncini piccanti formato industriale rotti"
+msgstr "Barattolo industriale di peperoncini rotto"
 
 msgctxt "0\t39426\t857\tCHK"
 msgid "Broken Mail Order Tonfa Fragment"
@@ -4657,11 +4657,11 @@ msgstr "Frammento di lancia grezza"
 
 msgctxt "0\t47962\t1161\tCHK"
 msgid "Business Motorcycle"
-msgstr "Motocicletta da lavoro"
+msgstr "Scooter per consegne"
 
 msgctxt "0\t47982\t1162\tCHK"
 msgid "Broken Business Motorcycle"
-msgstr "Motocicletta da lavoro rotta"
+msgstr "Scooter per consegne rotto"
 
 msgctxt "0\t48009\t1163\tCHK"
 msgid "(Weapons in the Stage) Kabu Fragment 01"
@@ -5073,11 +5073,11 @@ msgstr "Secchio 90° piano Kamuro Hills (rotto)"
 
 msgctxt "0\t50276\t1265\tCHK"
 msgid "18 Liter Can"
-msgstr "Lattina da 18 litri"
+msgstr "Latta da 18 litri"
 
 msgctxt "0\t50289\t1266\tCHK"
 msgid "Kamuro Hills 90F 18 Liter Can (Broken)"
-msgstr "Lattina da 18 litri 90° piano Kamuro Hills (rotta)"
+msgstr "Latta da 18 litri 90° piano Kamuro Hills (rotta)"
 
 msgctxt "0\t50328\t1267\tCHK"
 msgid "Kamuro Hills 90F Wrench (Broken)"

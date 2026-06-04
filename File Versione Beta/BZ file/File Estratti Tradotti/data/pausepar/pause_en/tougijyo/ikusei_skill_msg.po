@@ -18,7 +18,7 @@ msgstr "Volontà"
 
 msgctxt "154\tKIND"
 msgid "Final Stretch "
-msgstr "Rettilineo Finale"
+msgstr "Ultimo Sforzo"
 
 msgctxt "169\tKIND"
 msgid "First Attack "
@@ -57,12 +57,12 @@ msgid ""
 "The apprentice will get back up once more even if his Stamina reaches zero. "
 msgstr ""
 "L'apprendista si rialzerà ancora una volta anche se la sua Resistenza "
-"raggiunge zero."
+"scende a zero."
 
 msgctxt "351\tMSG"
 msgid "Attack rate will increase after the opponent is cornered. "
 msgstr ""
-"La frequenza di attacco aumenterà dopo che l'avversario è messo all'angolo."
+"La velocità di attacco aumenterà una volta messo l'avversario all'angolo."
 
 msgctxt "410\tMSG"
 msgid ""

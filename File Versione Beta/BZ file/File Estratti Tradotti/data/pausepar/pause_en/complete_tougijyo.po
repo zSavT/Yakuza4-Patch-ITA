@@ -22,7 +22,7 @@ msgstr "Kiryu"
 
 msgctxt "290\tNAME"
 msgid "Title Match"
-msgstr "Match per il titolo"
+msgstr "Match per il Titolo"
 
 
 msgctxt "302\tNAME"
@@ -32,52 +32,52 @@ msgstr "Massimo gran premio"
 
 msgctxt "321\tNAME"
 msgid "Magnum Force Grand Prix"
-msgstr "Gran premio Magnum Force"
+msgstr "Magnum Force Grand Prix"
 
 
 msgctxt "345\tNAME"
 msgid "Hyper Grand Prix"
-msgstr "Iper gran premio"
+msgstr "Hyper Grand Prix"
 
 
 msgctxt "362\tNAME"
 msgid "Twin Dragon Grand Prix"
-msgstr "Gran premio dei draghi gemelli"
+msgstr "Twin Dragon Grand Prix"
 
 
 msgctxt "385\tNAME"
 msgid "Tag Match Grand Prix"
-msgstr "Grand Prix a squadre"
+msgstr "Tag Match Grand Prix"
 
 
 msgctxt "406\tNAME"
 msgid "Weapon Master Grand Prix"
-msgstr "Gran premio maestro d'armi"
+msgstr "Weapon Master Grand Prix"
 
 
 msgctxt "431\tNAME"
 msgid "Bomber Grand Prix"
-msgstr "Gran premio del bombardiere"
+msgstr "Bomber Grand Prix"
 
 
 msgctxt "449\tNAME"
 msgid "Bounding Grand Prix"
-msgstr "Grand Prix scatenato"
+msgstr "Bounding Grand Prix"
 
 
 msgctxt "469\tNAME"
 msgid "Heat Grand Prix"
-msgstr "Gran premio heat"
+msgstr "Furore Grand Prix"
 
 
 msgctxt "485\tNAME"
 msgid "Breakout Grand Prix"
-msgstr "Gran premio dirompente"
+msgstr "Breakout Grand Prix"
 
 
 msgctxt "505\tNAME"
 msgid "Street Fight Grand Prix"
-msgstr "Gran premio di combattimento di strada"
+msgstr "Street Fight Grand Prix"
 
 
 msgctxt "529\tNAME"
@@ -87,51 +87,51 @@ msgstr "Torneo esibizione"
 
 msgctxt "551\tNAME"
 msgid "Maximum Grand Prix"
-msgstr "Gran premio massimo"
+msgstr "Maximum Grand Prix"
 
 
 msgctxt "570\tNAME"
 msgid "Magnum Force Grand Prix"
-msgstr "Magnum Force gran premio"
+msgstr "Magnum Force Grand Prix"
 
 
 msgctxt "594\tNAME"
 msgid "Hyper Grand Prix"
-msgstr "Iper Grand Prix"
+msgstr "Hyper Grand Prix"
 
 msgctxt "611\tNAME"
 msgid "Twin Dragon Grand Prix"
-msgstr "Doppio drago Grand Prix"
+msgstr "Twin Dragon Grand Prix"
 
 
 msgctxt "634\tNAME"
 msgid "Tag Match Grand Prix"
-msgstr "Gran premio incontri a coppie"
+msgstr "Tag Match Grand Prix"
 
 
 msgctxt "655\tNAME"
 msgid "Weapon Master Grand Prix"
-msgstr "Gran premio maestro d'armi"
+msgstr "Weapon Master Grand Prix"
 
 
 msgctxt "680\tNAME"
 msgid "Bomber Grand Prix"
-msgstr "Gran premio bomber"
+msgstr "Bomber Grand Prix"
 
 
 msgctxt "698\tNAME"
 msgid "Bounding Grand Prix"
-msgstr "Gran premio balzante"
+msgstr "Bounding Grand Prix"
 
 
 msgctxt "718\tNAME"
 msgid "Furore Grand Prix"
-msgstr "Gran premio heat"
+msgstr "Furore Grand Prix"
 
 
 msgctxt "734\tNAME"
 msgid "Breakout Grand Prix"
-msgstr "Gran premio della rivelazione"
+msgstr "Breakout Grand Prix"
 
 
 msgctxt "754\tNAME"
@@ -141,12 +141,12 @@ msgstr "Grand Prix di lotta di strada"
 
 msgctxt "778\tNAME"
 msgid "Exhibition Tournament"
-msgstr "Torneo di esibizione"
+msgstr "Torneo d'Esibizione"
 
 
 msgctxt "1000\tEXPLANATION"
 msgid "You won the Title Match with Saejima."
-msgstr "Hai vinto il Title Match con Saejima."
+msgstr "Hai vinto il Match per il Titolo con Saejima."
 
 msgctxt "1038\tEXPLANATION"
 msgid "You won the Maximum Grand Prix with Saejima."
@@ -162,15 +162,15 @@ msgstr "Hai vinto l'Hyper Grand Prix con Saejima."
 
 msgctxt "1176\tEXPLANATION"
 msgid "You won the Twin Dragon Grand Prix with Saejima."
-msgstr "Hai vinto il Grand Prix del Dragone Gemello con Saejima."
+msgstr "Hai vinto il Twin Dragon Grand Prix con Saejima."
 
 msgctxt "1225\tEXPLANATION"
 msgid "You won the Tag Match Grand Prix with Saejima."
-msgstr "Hai vinto il Grand Prix a Squadre con Saejima."
+msgstr "Hai vinto il Tag Match Grand Prix con Saejima."
 
 msgctxt "1272\tEXPLANATION"
 msgid "You won the Weapon Master Grand Prix with Saejima."
-msgstr "Hai vinto il Grand Prix del Maestro delle Armi con Saejima."
+msgstr "Hai vinto il Weapon Master Grand Prix con Saejima."
 
 msgctxt "1323\tEXPLANATION"
 msgid "You won the Bomber Grand Prix with Saejima."
@@ -182,7 +182,7 @@ msgstr "Hai vinto il Bounding Grand Prix con Saejima."
 
 msgctxt "1413\tEXPLANATION"
 msgid "You won the Furore Grand Prix with Saejima."
-msgstr "Hai vinto il Grand Prix Heat con Saejima."
+msgstr "Hai vinto il Furore Grand Prix con Saejima."
 
 msgctxt "1455\tEXPLANATION"
 msgid "You won the Breakout Grand Prix with Saejima."
@@ -190,11 +190,11 @@ msgstr "Hai vinto il Breakout Grand Prix con Saejima."
 
 msgctxt "1501\tEXPLANATION"
 msgid "You won the Street Fight Grand Prix with Saejima."
-msgstr "Hai vinto il Grand Prix di Combattimento di Strada con Saejima."
+msgstr "Hai vinto lo Street Fight Grand Prix con Saejima."
 
 msgctxt "1551\tEXPLANATION"
 msgid "You won the Exhibition Tournament with Saejima."
-msgstr "Hai vinto il Torneo di Esibizione con Saejima."
+msgstr "Hai vinto il Torneo d'Esibizione con Saejima."
 
 msgctxt "1599\tEXPLANATION"
 msgid "You won the Maximum Grand Prix with Kiryu."
@@ -214,11 +214,11 @@ msgstr "Hai vinto il Twin Dragon Grand Prix con Kiryu."
 
 msgctxt "1778\tEXPLANATION"
 msgid "You won the Tag Match Grand Prix with Kiryu."
-msgstr "Hai vinto il Grand Prix Tag Match con Kiryu."
+msgstr "Hai vinto il Tag Match Grand Prix con Kiryu."
 
 msgctxt "1823\tEXPLANATION"
 msgid "You won the Weapon Master Grand Prix with Kiryu."
-msgstr "Hai vinto il Grand Prix del Maestro delle Armi con Kiryu."
+msgstr "Hai vinto il Weapon Master Grand Prix con Kiryu."
 
 msgctxt "1872\tEXPLANATION"
 msgid "You won the Bomber Grand Prix with Kiryu."
@@ -230,7 +230,7 @@ msgstr "Hai vinto il Bounding Grand Prix con Kiryu."
 
 msgctxt "1958\tEXPLANATION"
 msgid "You won the Furore Grand Prix with Kiryu."
-msgstr "Hai vinto il Grand Prix Heat con Kiryu."
+msgstr "Hai vinto il Furore Grand Prix con Kiryu."
 
 msgctxt "1998\tEXPLANATION"
 msgid "You won the Breakout Grand Prix with Kiryu."
@@ -238,9 +238,8 @@ msgstr "Hai vinto il Breakout Grand Prix con Kiryu."
 
 msgctxt "2042\tEXPLANATION"
 msgid "You won the Street Fight Grand Prix with Kiryu."
-msgstr "Hai vinto il Grand Prix di Risse di Strada con Kiryu."
+msgstr "Hai vinto lo Street Fight Grand Prix con Kiryu."
 
 msgctxt "2090\tEXPLANATION"
 msgid "You won the Exhibition Tournament with Kiryu."
 msgstr "Hai vinto il Torneo d'Esibizione con Kiryu."
-

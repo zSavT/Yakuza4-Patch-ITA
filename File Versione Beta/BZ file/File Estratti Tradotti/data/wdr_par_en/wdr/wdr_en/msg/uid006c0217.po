@@ -379,7 +379,7 @@ msgstr "(Potremmo andare a mangiare fuori.)"
 
 msgctxt "3080_Player"
 msgid "(We could go shopping.)"
-msgstr "Potremmo andare a fare shopping."
+msgstr "(Potremmo andare a fare shopping.)"
 
 msgctxt "3092_Player"
 msgid "(What should we do?)"
@@ -438,7 +438,7 @@ msgstr "Che ne dici se andiamo a fare shopping a Le Marche?"
 
 msgctxt "3380_Shizuka"
 msgid "Oh!? Are you perhaps going to get me something?"
-msgstr "Oh!? Per caso mi offri qualcosa?"
+msgstr "Oh!? Per caso vuoi regalarmi qualcosa?"
 
 msgctxt "3392_Talk_Quest"
 msgid "Hehehe. ♪ I'm so happy. <Color:7>♥<Color:Default>"
@@ -499,7 +499,7 @@ msgstr "Andiamo a bowling?"
 
 msgctxt "3620_Shizuka"
 msgid "Bowling? That means a match with you, sir!"
-msgstr "Bowling? Significa una partita con lei, signore!"
+msgstr "Bowling? Significa una partita con te, signore!"
 
 msgctxt "3632_Shizuka"
 msgid "Shall we get going?"
@@ -524,7 +524,7 @@ msgstr "Ti va di fare una partita a freccette al Bantam?"
 
 msgctxt "3740_Shizuka"
 msgid "Ooh, darts! That's quite fancy."
-msgstr "Oh, freccette! Che eleganza."
+msgstr "Oh, freccette! Che classe."
 
 msgctxt "3752_Talk_Smile"
 msgid "I only started playing recently. Hehehe..."
@@ -602,8 +602,7 @@ msgstr "Giochiamo a golf."
 
 msgctxt "4100_Shizuka"
 msgid "Golf? I didn't know you played golf, sir. <Color:7>♥<Color:Default>"
-msgstr ""
-"Golf? Non sapevo che giocasse a golf, signore. <Color:7>♥<Color:Default>"
+msgstr "Golf? Non sapevo che giocassi a golf, signore. <Color:7>♥<Color:Default>"
 
 msgctxt "4124_Talk_Yes"
 msgid "Shall we be off, then?"
@@ -639,7 +638,7 @@ msgstr "Facciamo un salto alle terme."
 
 msgctxt "4256_Shizuka"
 msgid "You must be very health conscious, sir."
-msgstr "Lei dev'essere molto attento alla sua salute, signore."
+msgstr "Devi tenere molto alla tua salute, signore."
 
 msgctxt "4268_Talk_Yes"
 msgid "Shall we be off, then?"
@@ -707,7 +706,7 @@ msgstr "(Potremmo andare a mangiare fuori.)"
 
 msgctxt "4472_Player"
 msgid "(We could go shopping.)"
-msgstr "Potremmo andare a fare shopping."
+msgstr "(Potremmo andare a fare shopping.)"
 
 msgctxt "4484_Player"
 msgid "(What should we do?)"
@@ -766,7 +765,7 @@ msgstr "Che ne dici se andiamo a fare shopping a Le Marche?"
 
 msgctxt "4772_Shizuka"
 msgid "Oh!? Are you perhaps going to get me something?"
-msgstr "Oh!? Per caso mi offri qualcosa?"
+msgstr "Oh!? Per caso vuoi regalarmi qualcosa?"
 
 msgctxt "4784_Talk_Quest"
 msgid "Hehehe. ♪ I'm so happy. <Color:7>♥<Color:Default>"
@@ -827,7 +826,7 @@ msgstr "Andiamo a bowling?"
 
 msgctxt "5012_Shizuka"
 msgid "Bowling? That means a match with you, sir!"
-msgstr "Bowling? Significa una partita con lei, signore!"
+msgstr "Bowling? Significa una partita con te, signore!"
 
 msgctxt "5024_Shizuka"
 msgid "Shall we get going?"
@@ -852,7 +851,7 @@ msgstr "Ti va di fare una partita a freccette al Bantam?"
 
 msgctxt "5132_Shizuka"
 msgid "Ooh, darts! That's quite fancy."
-msgstr "Oh, freccette! Che eleganza."
+msgstr "Oh, freccette! Che classe."
 
 msgctxt "5144_Talk_Smile"
 msgid "I only started playing recently. Hehehe..."
@@ -930,8 +929,7 @@ msgstr "Giochiamo a golf."
 
 msgctxt "5492_Shizuka"
 msgid "Golf? I didn't know you played golf, sir. <Color:7>♥<Color:Default>"
-msgstr ""
-"Golf? Non sapevo che giocasse a golf, signore. <Color:7>♥<Color:Default>"
+msgstr "Golf? Non sapevo che giocassi a golf, signore. <Color:7>♥<Color:Default>"
 
 msgctxt "5516_Talk_Yes"
 msgid "Shall we be off, then?"
@@ -967,7 +965,7 @@ msgstr "Facciamo un salto alle terme."
 
 msgctxt "5648_Shizuka"
 msgid "You must be very health conscious, sir."
-msgstr "Lei dev'essere molto attento alla sua salute, signore."
+msgstr "Devi tenere molto alla tua salute, signore."
 
 msgctxt "5660_Talk_Yes"
 msgid "Shall we be off, then?"
@@ -1040,7 +1038,7 @@ msgstr "(Potremmo andare a mangiare fuori.)"
 
 msgctxt "5876_Player"
 msgid "(We could go shopping.)"
-msgstr "Potremmo andare a fare shopping."
+msgstr "(Potremmo andare a fare shopping.)"
 
 msgctxt "5888_Player"
 msgid "(What should we do?)"
@@ -1099,7 +1097,7 @@ msgstr "Che ne dici se andiamo a fare shopping a Le Marche?"
 
 msgctxt "6176_Shizuka"
 msgid "Oh!? Are you perhaps going to get me something?"
-msgstr "Oh!? Per caso mi offri qualcosa?"
+msgstr "Oh!? Per caso vuoi regalarmi qualcosa?"
 
 msgctxt "6188_Talk_Quest"
 msgid "Hehehe. ♪ I'm so happy. <Color:7>♥<Color:Default>"
@@ -1160,7 +1158,7 @@ msgstr "Andiamo a bowling?"
 
 msgctxt "6416_Shizuka"
 msgid "Bowling? That means a match with you, sir!"
-msgstr "Bowling? Significa una partita con lei, signore!"
+msgstr "Bowling? Significa una partita con te, signore!"
 
 msgctxt "6428_Shizuka"
 msgid "Shall we get going?"
@@ -1185,7 +1183,7 @@ msgstr "Ti va di fare una partita a freccette al Bantam?"
 
 msgctxt "6536_Shizuka"
 msgid "Ooh, darts! That's quite fancy."
-msgstr "Oh, freccette! Che eleganza."
+msgstr "Oh, freccette! Che classe."
 
 msgctxt "6548_Talk_Smile"
 msgid "I only started playing recently. Hehehe..."
@@ -1263,8 +1261,7 @@ msgstr "Giochiamo a golf."
 
 msgctxt "6896_Shizuka"
 msgid "Golf? I didn't know you played golf, sir. <Color:7>♥<Color:Default>"
-msgstr ""
-"Golf? Non sapevo che giocasse a golf, signore. <Color:7>♥<Color:Default>"
+msgstr "Golf? Non sapevo che giocassi a golf, signore. <Color:7>♥<Color:Default>"
 
 msgctxt "6920_Talk_Yes"
 msgid "Shall we be off, then?"
@@ -1300,7 +1297,7 @@ msgstr "Facciamo un salto alle terme."
 
 msgctxt "7052_Shizuka"
 msgid "You must be very health conscious, sir."
-msgstr "Lei dev'essere molto attento alla sua salute, signore."
+msgstr "Devi tenere molto alla tua salute, signore."
 
 msgctxt "7064_Talk_Yes"
 msgid "Shall we be off, then?"
@@ -1308,15 +1305,13 @@ msgstr "Andiamo, allora?"
 
 msgctxt "7088_Shizuka"
 msgid "Oh, sir! You're late! I've been waiting a long time."
-msgstr "Oh, signore! È in ritardo! Aspetto da molto."
+msgstr "Oh, signore! Sei in ritardo! Aspetto da un bel po'."
 
 msgctxt "7100_Player"
 msgid ""
 "Sorry about that. But you know, I'm starting to get used to you calling me "
 "that."
-msgstr ""
-"Scusa per questo. Ma sai, sto iniziando ad abituarmi a sentirmi chiamare "
-"così."
+msgstr "Scusami. Ma sai, sto iniziando ad abituarmi a sentirmi chiamare così."
 
 msgctxt "7112_Shizuka"
 msgid "Hehehe."
@@ -1344,11 +1339,11 @@ msgstr "Certo, andiamo."
 
 msgctxt "7196_Shizuka"
 msgid "Sorry to keep you waiting, sir."
-msgstr "Scusi per l'attesa, signore."
+msgstr "Scusa per l'attesa, signore."
 
 msgctxt "7208_Player"
 msgid "I have to admit, I'm starting to get used to that."
-msgstr "Devo ammettere che sto iniziando ad abituarmi."
+msgstr "Devo ammettere che ci sto facendo l'abitudine."
 
 msgctxt "7220_Shizuka"
 msgid "Hehehe."
@@ -1376,11 +1371,11 @@ msgstr "Certo, andiamo."
 
 msgctxt "7304_Shizuka"
 msgid "You're quite early, sir."
-msgstr "È piuttosto in anticipo, signore."
+msgstr "Sei in largo anticipo, signore."
 
 msgctxt "7316_Player"
 msgid "I have to admit, I'm starting to get used to that."
-msgstr "Devo ammettere che sto iniziando ad abituarmi."
+msgstr "Devo ammettere che ci sto facendo l'abitudine."
 
 msgctxt "7328_Shizuka"
 msgid "Hehehe."
@@ -1435,7 +1430,7 @@ msgstr "(Potremmo andare a mangiare fuori.)"
 
 msgctxt "7496_Player"
 msgid "(We could go shopping.)"
-msgstr "Potremmo andare a fare shopping."
+msgstr "(Potremmo andare a fare shopping.)"
 
 msgctxt "7508_Player"
 msgid "(What should we do?)"
@@ -1494,7 +1489,7 @@ msgstr "Che ne dici se andiamo a fare shopping a Le Marche?"
 
 msgctxt "7796_Shizuka"
 msgid "Oh!? Are you perhaps going to get me something?"
-msgstr "Oh!? Per caso mi offri qualcosa?"
+msgstr "Oh!? Per caso vuoi regalarmi qualcosa?"
 
 msgctxt "7808_Talk_Quest"
 msgid "Hehehe. ♪ I'm so happy. <Color:7>♥<Color:Default>"
@@ -1555,7 +1550,7 @@ msgstr "Andiamo a bowling?"
 
 msgctxt "8036_Shizuka"
 msgid "Bowling? That means a match with you, sir!"
-msgstr "Bowling? Significa una partita con lei, signore!"
+msgstr "Bowling? Significa una partita con te, signore!"
 
 msgctxt "8048_Shizuka"
 msgid "Shall we get going?"
@@ -1580,7 +1575,7 @@ msgstr "Ti va di fare una partita a freccette al Bantam?"
 
 msgctxt "8156_Shizuka"
 msgid "Ooh, darts! That's quite fancy."
-msgstr "Oh, freccette! Che eleganza."
+msgstr "Oh, freccette! Che classe."
 
 msgctxt "8168_Talk_Smile"
 msgid "I only started playing recently. Hehehe..."
@@ -1658,8 +1653,7 @@ msgstr "Giochiamo a golf."
 
 msgctxt "8516_Shizuka"
 msgid "Golf? I didn't know you played golf, sir. <Color:7>♥<Color:Default>"
-msgstr ""
-"Golf? Non sapevo che giocasse a golf, signore. <Color:7>♥<Color:Default>"
+msgstr "Golf? Non sapevo che giocassi a golf, signore. <Color:7>♥<Color:Default>"
 
 msgctxt "8540_Talk_Yes"
 msgid "Shall we be off, then?"
@@ -1695,7 +1689,7 @@ msgstr "Facciamo un salto alle terme."
 
 msgctxt "8672_Shizuka"
 msgid "You must be very health conscious, sir."
-msgstr "Lei dev'essere molto attento alla sua salute, signore."
+msgstr "Devi tenere molto alla tua salute, signore."
 
 msgctxt "8684_Talk_Yes"
 msgid "Shall we be off, then?"
@@ -1703,11 +1697,11 @@ msgstr "Andiamo, allora?"
 
 msgctxt "8708_Shizuka"
 msgid "Sorry to keep you waiting, sir."
-msgstr "Scusi per l'attesa, signore."
+msgstr "Scusa per l'attesa, signore."
 
 msgctxt "8720_Talk_Quest"
 msgid "I knew you'd be right on time. That's so like you, sir."
-msgstr "Sapevo che sarebbe stato puntuale. È proprio da lei, signore."
+msgstr "Sapevo che saresti stato puntuale. È proprio da te, signore."
 
 msgctxt "8732_Shizuka"
 msgid "Where would you like to go, sir?"
@@ -1727,7 +1721,7 @@ msgstr "(Potremmo andare a mangiare fuori.)"
 
 msgctxt "8792_Player"
 msgid "(We could go shopping.)"
-msgstr "Potremmo andare a fare shopping."
+msgstr "(Potremmo andare a fare shopping.)"
 
 msgctxt "8804_Player"
 msgid "(What should we do?)"
@@ -1786,7 +1780,7 @@ msgstr "Che ne dici se andiamo a fare shopping a Le Marche?"
 
 msgctxt "9092_Shizuka"
 msgid "Oh!? Are you perhaps going to get me something?"
-msgstr "Oh!? Per caso mi offri qualcosa?"
+msgstr "Oh!? Per caso vuoi regalarmi qualcosa?"
 
 msgctxt "9104_Talk_Quest"
 msgid "Hehehe. ♪ I'm so happy. <Color:7>♥<Color:Default>"
@@ -1847,7 +1841,7 @@ msgstr "Andiamo a bowling?"
 
 msgctxt "9332_Shizuka"
 msgid "Bowling? That means a match with you, sir!"
-msgstr "Bowling? Significa una partita con lei, signore!"
+msgstr "Bowling? Significa una partita con te, signore!"
 
 msgctxt "9344_Shizuka"
 msgid "Shall we get going?"
@@ -1872,7 +1866,7 @@ msgstr "Ti va di fare una partita a freccette al Bantam?"
 
 msgctxt "9452_Shizuka"
 msgid "Ooh, darts! That's quite fancy."
-msgstr "Oh, freccette! Che eleganza."
+msgstr "Oh, freccette! Che classe."
 
 msgctxt "9464_Talk_Smile"
 msgid "I only started playing recently. Hehehe..."
@@ -1950,8 +1944,7 @@ msgstr "Giochiamo a golf."
 
 msgctxt "9812_Shizuka"
 msgid "Golf? I didn't know you played golf, sir. <Color:7>♥<Color:Default>"
-msgstr ""
-"Golf? Non sapevo che giocasse a golf, signore. <Color:7>♥<Color:Default>"
+msgstr "Golf? Non sapevo che giocassi a golf, signore. <Color:7>♥<Color:Default>"
 
 msgctxt "9836_Talk_Yes"
 msgid "Shall we be off, then?"
@@ -1987,7 +1980,7 @@ msgstr "Facciamo un salto alle terme."
 
 msgctxt "9968_Shizuka"
 msgid "You must be very health conscious, sir."
-msgstr "Lei dev'essere molto attento alla sua salute, signore."
+msgstr "Devi tenere molto alla tua salute, signore."
 
 msgctxt "9980_Talk_Yes"
 msgid "Shall we be off, then?"
@@ -2020,7 +2013,7 @@ msgstr "(Potremmo andare a mangiare fuori.)"
 
 msgctxt "10088_Player"
 msgid "(We could go shopping.)"
-msgstr "Potremmo andare a fare shopping."
+msgstr "(Potremmo andare a fare shopping.)"
 
 msgctxt "10100_Player"
 msgid "(What should we do?)"
@@ -2079,7 +2072,7 @@ msgstr "Che ne dici se andiamo a fare shopping a Le Marche?"
 
 msgctxt "10388_Shizuka"
 msgid "Oh!? Are you perhaps going to get me something?"
-msgstr "Oh!? Per caso mi offri qualcosa?"
+msgstr "Oh!? Per caso vuoi regalarmi qualcosa?"
 
 msgctxt "10400_Talk_Quest"
 msgid "Hehehe. ♪ I'm so happy. <Color:7>♥<Color:Default>"
@@ -2140,7 +2133,7 @@ msgstr "Andiamo a bowling?"
 
 msgctxt "10628_Shizuka"
 msgid "Bowling? That means a match with you, sir!"
-msgstr "Bowling? Significa una partita con lei, signore!"
+msgstr "Bowling? Significa una partita con te, signore!"
 
 msgctxt "10640_Shizuka"
 msgid "Shall we get going?"
@@ -2165,7 +2158,7 @@ msgstr "Ti va di fare una partita a freccette al Bantam?"
 
 msgctxt "10748_Shizuka"
 msgid "Ooh, darts! That's quite fancy."
-msgstr "Oh, freccette! Che eleganza."
+msgstr "Oh, freccette! Che classe."
 
 msgctxt "10760_Talk_Smile"
 msgid "I only started playing recently. Hehehe..."
@@ -2243,8 +2236,7 @@ msgstr "Giochiamo a golf."
 
 msgctxt "11108_Shizuka"
 msgid "Golf? I didn't know you played golf, sir. <Color:7>♥<Color:Default>"
-msgstr ""
-"Golf? Non sapevo che giocasse a golf, signore. <Color:7>♥<Color:Default>"
+msgstr "Golf? Non sapevo che giocassi a golf, signore. <Color:7>♥<Color:Default>"
 
 msgctxt "11132_Talk_Yes"
 msgid "Shall we be off, then?"
@@ -2280,7 +2272,7 @@ msgstr "Facciamo un salto alle terme."
 
 msgctxt "11264_Shizuka"
 msgid "You must be very health conscious, sir."
-msgstr "Lei dev'essere molto attento alla sua salute, signore."
+msgstr "Devi tenere molto alla tua salute, signore."
 
 msgctxt "11276_Talk_Yes"
 msgid "Shall we be off, then?"
@@ -2332,7 +2324,7 @@ msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "11432_Shizuka"
 msgid "We could golf."
-msgstr "Potremmo fare golf."
+msgstr "Potremmo giocare a golf."
 
 msgctxt "11444_Shizuka"
 msgid "We could hit the hot springs."
@@ -2424,7 +2416,7 @@ msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "11708_Shizuka"
 msgid "We could golf."
-msgstr "Potremmo fare golf."
+msgstr "Potremmo giocare a golf."
 
 msgctxt "11720_Shizuka"
 msgid "We could hit the hot springs."
@@ -2516,7 +2508,7 @@ msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "11984_Shizuka"
 msgid "We could golf."
-msgstr "Potremmo fare golf."
+msgstr "Potremmo giocare a golf."
 
 msgctxt "11996_Shizuka"
 msgid "We could hit the hot springs."
@@ -2608,7 +2600,7 @@ msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "12260_Shizuka"
 msgid "We could golf."
-msgstr "Potremmo fare golf."
+msgstr "Potremmo giocare a golf."
 
 msgctxt "12272_Shizuka"
 msgid "We could hit the hot springs."
@@ -2700,7 +2692,7 @@ msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "12536_Shizuka"
 msgid "We could golf."
-msgstr "Potremmo fare golf."
+msgstr "Potremmo giocare a golf."
 
 msgctxt "12548_Shizuka"
 msgid "We could hit the hot springs."
@@ -2792,7 +2784,7 @@ msgstr "Ti va di fare una partita a biliardo?"
 
 msgctxt "12812_Shizuka"
 msgid "We could golf."
-msgstr "Potremmo fare golf."
+msgstr "Potremmo giocare a golf."
 
 msgctxt "12824_Shizuka"
 msgid "We could hit the hot springs."

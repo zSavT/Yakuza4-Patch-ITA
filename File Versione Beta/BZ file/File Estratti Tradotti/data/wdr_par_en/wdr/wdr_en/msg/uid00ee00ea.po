@@ -189,7 +189,7 @@ msgstr "Zio Kaz! Fai almeno +2 nella Modalità Competizione! So che ce la fai!"
 
 msgctxt "4048_Kiryu"
 msgid "(At least +2 in Competition Mode, huh...? Should I give it a try?)"
-msgstr "(Almeno +2 in Modalità Competizione, eh...? Dovrei provarci?)"
+msgstr "(Almeno +2 in Modalità Competizione, eh...? Ci provo?)"
 
 msgctxt "4060_Haruka"
 msgid "Actually, never mind."
@@ -308,7 +308,7 @@ msgstr "Molto bene. Le auguro buona fortuna."
 
 msgctxt "4744_Haruka"
 msgid "ERROR! Nobody is on a date now!"
-msgstr "ERRORE! Nessuno è adesso a un appuntamento!"
+msgstr "ERRORE! Nessuno è a un appuntamento al momento!"
 
 msgctxt "4852_Receptionist"
 msgid "Congratulations! Here's your prize."
@@ -1429,7 +1429,7 @@ msgstr ""
 
 msgctxt "8992_Haruka"
 msgid "(Not enough cash... Better go get more.)"
-msgstr "(Non abbastanza contanti... Meglio procurarmene altri.)"
+msgstr "(Non ho abbastanza contanti... Meglio procurarmene altri.)"
 
 msgctxt "9004_Player"
 msgid "Just want to do a bit of practice."
@@ -1529,7 +1529,7 @@ msgstr "Gioca"
 
 msgctxt "9364_Haruka"
 msgid "Pay"
-msgstr "Pagamento"
+msgstr "Paga"
 
 msgctxt "9376_Haruka"
 msgid "Never Mind"
@@ -1545,7 +1545,7 @@ msgstr "Iscriviti al torneo"
 
 msgctxt "9412_Haruka"
 msgid "Enter the Closest to the Pin Contest"
-msgstr "Iscriviti alla gara del tiro più vicino"
+msgstr "Iscriviti a Colpo più Vicino"
 
 msgctxt "9424_Haruka"
 msgid "Invite a Girl"
@@ -1601,7 +1601,7 @@ msgstr "Certo."
 
 msgctxt "9580_Haruka"
 msgid "Pay"
-msgstr "Pagamento"
+msgstr "Paga"
 
 msgctxt "9592_Haruka"
 msgid "Don't Play"
@@ -1665,7 +1665,7 @@ msgstr "Iscriviti al torneo"
 
 msgctxt "9772_Haruka"
 msgid "Enter the Closest to the Pin Contest"
-msgstr "Iscriviti alla gara del tiro più vicino"
+msgstr "Iscriviti a Colpo più Vicino"
 
 msgctxt "9784_Haruka"
 msgid "Invite a Girl"
@@ -1721,7 +1721,7 @@ msgstr "Certo."
 
 msgctxt "9940_Haruka"
 msgid "Pay"
-msgstr "Pagamento"
+msgstr "Paga"
 
 msgctxt "9952_Haruka"
 msgid "Don't Play"
@@ -1785,7 +1785,7 @@ msgstr "Iscriviti al torneo"
 
 msgctxt "10132_Haruka"
 msgid "Enter the Closest to the Pin Contest"
-msgstr "Iscriviti alla gara del tiro più vicino"
+msgstr "Iscriviti a Colpo più Vicino"
 
 msgctxt "10144_Haruka"
 msgid "Invite a Girl"
@@ -1905,7 +1905,7 @@ msgstr "Iscriviti al torneo"
 
 msgctxt "10492_Haruka"
 msgid "Enter the Closest to the Pin Contest"
-msgstr "Iscriviti alla gara del tiro più vicino"
+msgstr "Iscriviti a Colpo più Vicino"
 
 msgctxt "10504_Haruka"
 msgid "Practice"
@@ -1997,7 +1997,7 @@ msgstr "Iscriviti al torneo"
 
 msgctxt "10768_Haruka"
 msgid "Enter the Closest to the Pin Contest"
-msgstr "Iscriviti alla gara del tiro più vicino"
+msgstr "Iscriviti a Colpo più Vicino"
 
 msgctxt "10780_Haruka"
 msgid "Practice"

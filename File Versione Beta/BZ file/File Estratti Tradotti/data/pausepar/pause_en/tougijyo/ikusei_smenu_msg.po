@@ -18,7 +18,7 @@ msgstr "Sparring"
 
 msgctxt "153\tKIND"
 msgid "Solo Training"
-msgstr "Allenamento Solitario"
+msgstr "Allenamento in solitaria"
 
 msgctxt "167\tKIND"
 msgid "Finishing Moves"
@@ -26,7 +26,7 @@ msgstr "Mosse Finali"
 
 msgctxt "183\tKIND"
 msgid "Meeting"
-msgstr "Incontro"
+msgstr "Serata fuori"
 
 msgctxt "191\tKIND"
 msgid "Rest"
@@ -65,8 +65,8 @@ msgid ""
 "Entrust your apprentice to train on their own. Odds for a successful "
 "training session depend on personality and Trust."
 msgstr ""
-"Affida il tuo apprendista ad allenarsi da solo. Le probabilità di una "
-"sessione di allenamento riuscita dipendono da personalità e Fiducia."
+"Lascia che l'apprendista si alleni in autonomia. Le probabilità di successo "
+"della sessione dipendono dalla sua personalità e dal livello di Fiducia."
 
 msgctxt "477\tMSG"
 msgid ""

@@ -26,11 +26,11 @@ msgstr "Non dare l'oggetto."
 
 msgctxt "20"
 msgid "Give"
-msgstr "Dai"
+msgstr "Regala"
 
 msgctxt "24"
 msgid "Give the item."
-msgstr "Dai l'oggetto."
+msgstr "Regala l'oggetto."
 
 msgctxt "28"
 msgid "(I don't have anything I can give.)"
@@ -38,8 +38,8 @@ msgstr "(Non ho niente da dare.)"
 
 msgctxt "32"
 msgid "(What shall I give?)"
-msgstr "(Cosa devo dare?)"
+msgstr "(Cosa potrei regalare?)"
 
 msgctxt "36"
 msgid "Are you sure you want to give this?"
-msgstr "Sei sicuro di voler dare questo?"
+msgstr "Sei sicuro di voler regalare questo?"

@@ -30,7 +30,7 @@ msgstr "Zona Casuale"
 
 msgctxt "267\tKIND"
 msgid "Big Money"
-msgstr "Grandi Soldi"
+msgstr "Montepremi da Capogiro"
 
 msgctxt "277\tKIND"
 msgid "Rising Stars"
@@ -38,11 +38,11 @@ msgstr "Stelle Nascenti"
 
 msgctxt "290\tKIND"
 msgid "Sink or Swim  "
-msgstr "Affonda o Nuota"
+msgstr "O la va o la spacca"
 
 msgctxt "305\tKIND"
 msgid "Winner's Circle"
-msgstr "Cerchia dei vincitori"
+msgstr "Girone dei Campioni"
 
 msgctxt "321\tKIND"
 msgid "Veteran's Showdown"
@@ -130,7 +130,7 @@ msgid ""
 "Prize: 300,000 yen  Level: ★★★☆☆　　~Eligibility: Up to the 6th Turn."
 msgstr ""
 "Incontro per chi ha poco allenamento. Si tiene in orari selezionati.\n"
-"Premio: 300.000 yen Livello: ★★★☆☆　　Idoneità: Fino al 6° Turno."
+"Premio: 300.000 yen Livello: ★★★☆☆　　~Requisiti: Entro il 6° Turno."
 
 msgctxt "1187\tMSG"
 msgid ""
