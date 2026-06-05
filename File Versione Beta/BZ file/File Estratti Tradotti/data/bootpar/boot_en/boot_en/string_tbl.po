@@ -2737,7 +2737,7 @@ msgid ""
 "Do you really want to quit to Windows?\n"
 "Your progress will not be saved."
 msgstr ""
-"Vuoi davvero uscire su Windows?\n"
+"Vuoi davvero tornare a Windows?\n"
 "I tuoi progressi non verranno salvati."
 
 msgctxt "34297"
@@ -8022,7 +8022,7 @@ msgstr "Niente male..."
 
 msgctxt "62744"
 msgid "Pretty good."
-msgstr "Piuttosto bene."
+msgstr "Non c'è male."
 
 msgctxt "62757"
 msgid "You're not half bad."
@@ -8042,7 +8042,7 @@ msgstr "Ben fatto."
 
 msgctxt "62819"
 msgid "Guess this one's yours..."
-msgstr "Immagino che questa sia tua..."
+msgstr "Mi sa che questa è tua..."
 
 msgctxt "62845"
 msgid "Amazing..."
@@ -8152,11 +8152,11 @@ msgstr "Premi <Action:Button_Cross@Shogi> per fermare i pezzi."
 
 msgctxt "63263"
 msgid "More pawns. You go first."
-msgstr "Hai più pedoni. Inizi tu."
+msgstr "Maggioranza di pedoni. Inizi tu."
 
 msgctxt "63289"
 msgid "More promoted pawns. Opponent goes first."
-msgstr "Più pedoni promossi. Inizia l'avversario."
+msgstr "Maggioranza di pedoni promossi. Inizia l'avversario."
 
 msgctxt "63331"
 msgid "You go first."
@@ -8192,7 +8192,7 @@ msgstr "Ugh... È tosta."
 
 msgctxt "63496"
 msgid "I think I'm done..."
-msgstr "Credo di aver chiuso..."
+msgstr "Credo sia finita..."
 
 msgctxt "63516"
 msgid "I got it!"

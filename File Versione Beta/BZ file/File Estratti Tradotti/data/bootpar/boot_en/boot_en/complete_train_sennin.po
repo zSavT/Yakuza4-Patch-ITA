@@ -43,7 +43,7 @@ msgstr "Rifugio antiaereo n. 2"
 #, fuzzy
 msgctxt "369\tEXPLANATION"
 msgid "You dug out the Sewer Path and reached Air Raid Shelter No. 1."
-msgstr "Hai scavato il sentiero delle fogne e hai raggiunto il Rifugio antiaereo n. 1."
+msgstr "Hai liberato il Percorso fognario e raggiunto il Rifugio antiaereo n. 1."
 
 #, fuzzy
 msgctxt "432\tEXPLANATION"
@@ -51,23 +51,22 @@ msgid ""
 "You dug out the west side of Air Raid Shelter No. 1, but couldn't find\n"
 "a path."
 msgstr ""
-"Hai scavato il lato ovest del Rifugio antiaereo n. 1, ma non sei riuscito a trovare\n"
-"un sentiero."
+"Hai liberato il lato ovest del Rifugio antiaereo n. 1, ma non hai trovato\n"
+"alcun passaggio."
 
 msgctxt "511\tEXPLANATION"
 msgid ""
 "You dug out the south side of Air Raid Shelter No. 1 and reached the\n"
 "Old Access Tunnel."
 msgstr ""
-"Hai scavato il lato sud del Rifugio antiaereo n. 1 e hai raggiunto\n"
-"il Vecchio Accesso Tunnel."
+"Hai liberato il lato sud del Rifugio antiaereo n. 1, raggiungendo\n"
+"il Vecchio accesso tunnel."
 
 msgctxt "599\tEXPLANATION"
 msgid "You dug out the Old Access Tunnel and reached Air Raid Shelter No. 2."
-msgstr "Hai scavato il Vecchio Accesso Tunnel e hai raggiunto il Rifugio antiaereo n. 2."
+msgstr "Hai liberato il Vecchio accesso tunnel e raggiunto il Rifugio antiaereo n. 2."
 
 #, fuzzy
 msgctxt "669\tEXPLANATION"
 msgid "You dug out Air Raid Shelter No. 2 and found the Master's important item."
-msgstr "Hai scavato nel rifugio antiaereo n. 2 e hai trovato l'oggetto importante del Maestro."
-
+msgstr "Hai liberato il Rifugio antiaereo n. 2 e trovato l'oggetto importante del Maestro."
