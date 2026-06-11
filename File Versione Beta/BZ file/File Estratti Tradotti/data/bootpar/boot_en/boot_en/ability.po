@@ -525,10 +525,9 @@ msgctxt "2648\tSKILL"
 msgid "Bounding Throw"
 msgstr "Lancio saltato"
 
-
 msgctxt "2663\tSKILL"
 msgid "Komaki Dodge Shot"
-msgstr "Colpo schivata Komaki"
+msgstr "Komaki Dodge Shot"
 
 
 msgctxt "2681\tSKILL"
@@ -537,30 +536,27 @@ msgstr "Contrattacco"
 
 msgctxt "2690\tSKILL"
 msgid "Komaki Knock Back"
-msgstr "Respinta Komaki"
+msgstr "Komaki Knock Back"
 
 msgctxt "2708\tSKILL"
 msgid "Komaki Tiger Drop"
-msgstr "Caduta della tigre Komaki"
-
+msgstr "Tiger Drop Komaki"
 
 msgctxt "2726\tSKILL"
 msgid "Komaki Parry"
-msgstr "Parata Komaki"
+msgstr "Komaki Parry"
 
 msgctxt "2739\tSKILL"
 msgid "Enhanced Quicksteps"
 msgstr "Passi rapidi migliorati"
 
-
 msgctxt "2759\tSKILL"
 msgid "Komaki Cat-Like Reflexes"
-msgstr "Riflessi felini Komaki"
-
+msgstr "Komaki Cat-Like Reflexes"
 
 msgctxt "2784\tSKILL"
 msgid "Komaki Daruma Tumbler"
-msgstr "Capriola Daruma Komaki"
+msgstr "Komaki Daruma Tumbler"
 
 msgctxt "2806\tSKILL"
 msgid "Enhanced Grabs"
@@ -600,10 +596,9 @@ msgctxt "2913\tSKILL"
 msgid "Essence of Finishing"
 msgstr "Essenza del colpo finale"
 
-
 msgctxt "2935\tSKILL"
 msgid "Essence of Might"
-msgstr "Essenza della potenza"
+msgstr "Essenza della forza"
 
 
 msgctxt "2952\tSKILL"
@@ -630,25 +625,21 @@ msgctxt "3031\tSKILL"
 msgid "Essence of Head Bashing"
 msgstr "Essenza della testata"
 
-
 msgctxt "3055\tSKILL"
 msgid "Komaki Fist Reversal"
-msgstr "Contrattacco di pugno Komaki"
-
+msgstr "Komaki Fist Reversal"
 
 msgctxt "3076\tSKILL"
 msgid "Komaki Swordless Rebirth"
-msgstr "Rinascita senza spada Komaki"
-
+msgstr "Komaki Swordless Rebirth"
 
 msgctxt "3101\tSKILL"
 msgid "Komaki Firearm Flip"
-msgstr "Capriola anti-arma da fuoco Komaki"
-
+msgstr "Komaki Firearm Flip"
 
 msgctxt "3121\tSKILL"
 msgid "Komaki Dragon King Essence"
-msgstr "Essenza del re drago Komaki"
+msgstr "Komaki Dragon King Essence"
 
 
 msgctxt "3148\tSKILL"
@@ -805,15 +796,13 @@ msgctxt "3795\tSKILL"
 msgid "Essence of Head Bashing"
 msgstr "Essenza della testata"
 
-
 msgctxt "3819\tSKILL"
 msgid "Komaki Fist Reversal"
-msgstr "Contrattacco di pugno Komaki"
-
+msgstr "Komaki Fist Reversal"
 
 msgctxt "3840\tSKILL"
 msgid "Komaki Firearm Flip"
-msgstr "Capriola anti-arma da fuoco Komaki"
+msgstr "Komaki Firearm Flip"
 
 
 msgctxt "3860\tSKILL"
@@ -825,29 +814,26 @@ msgctxt "3880\tSKILL"
 msgid "Ultimate Essence"
 msgstr "Essenza finale"
 
-
 msgctxt "3897\tSKILL"
 msgid "Essence of Might"
-msgstr "Essenza della potenza"
+msgstr "Essenza della forza"
 
 
 msgctxt "3914\tSKILL"
 msgid "Essence of Smoking"
 msgstr "Essenza del fumo"
 
-
 msgctxt "3933\tSKILL"
 msgid "Komaki Bowl Crusher"
-msgstr "Spaccaciotole Komaki"
+msgstr "Komaki Bowl Crusher"
 
 msgctxt "3953\tSKILL"
 msgid "Komaki Swordless Rebirth"
-msgstr "Rinascita senza spada Komaki"
-
+msgstr "Komaki Swordless Rebirth"
 
 msgctxt "3978\tSKILL"
 msgid "Komaki Dragon King Essence"
-msgstr "Essenza del re drago Komaki"
+msgstr "Komaki Dragon King Essence"
 
 
 msgctxt "4005\tSKILL"
@@ -1266,15 +1252,13 @@ msgctxt "5368\tSKILL"
 msgid "Essence of Comebacks"
 msgstr "Essenza delle rimonte"
 
-
 msgctxt "5389\tSKILL"
 msgid "Essence of Loin Reaving"
-msgstr "Essenza della lacerazione lombo"
-
+msgstr "Essenza dello strappo del lombo"
 
 msgctxt "5413\tSKILL"
 msgid "Essence of Triple Strike"
-msgstr "Essenza del triplo colpo"
+msgstr "Essenza del triplice colpo"
 
 
 msgctxt "5438\tSKILL"
@@ -1336,15 +1320,13 @@ msgctxt "5633\tSKILL"
 msgid "Essence of Comebacks"
 msgstr "Essenza delle rimonte"
 
-
 msgctxt "5654\tSKILL"
 msgid "Essence of Loin Reaving"
-msgstr "Essenza della lacerazione lombo"
-
+msgstr "Essenza dello strappo del lombo"
 
 msgctxt "5678\tSKILL"
 msgid "Essence of Triple Strike"
-msgstr "Essenza del triplo colpo"
+msgstr "Essenza del triplice colpo"
 
 
 msgctxt "5703\tSKILL"
@@ -1626,10 +1608,9 @@ msgctxt "6559\tSKILL"
 msgid "Essence of Swinging"
 msgstr "Essenza dell'oscillazione"
 
-
 msgctxt "6579\tSKILL"
 msgid "Essence of Might"
-msgstr "Essenza della potenza"
+msgstr "Essenza della forza"
 
 
 msgctxt "6596\tSKILL"
@@ -1671,10 +1652,9 @@ msgctxt "6734\tSKILL"
 msgid "Enhanced Heat Actions"
 msgstr "Azioni furore migliorate"
 
-
 msgctxt "6756\tSKILL"
 msgid "Essence of Smashing"
-msgstr "Essenza della frantumazione"
+msgstr "Essenza dello schianto"
 
 
 msgctxt "6776\tSKILL"
@@ -1756,10 +1736,9 @@ msgctxt "7126\tSKILL"
 msgid "Essence of Swinging"
 msgstr "Essenza dell'oscillazione"
 
-
 msgctxt "7146\tSKILL"
 msgid "Essence of Might"
-msgstr "Essenza della potenza"
+msgstr "Essenza della forza"
 
 
 msgctxt "7163\tSKILL"
@@ -1776,10 +1755,9 @@ msgctxt "7207\tSKILL"
 msgid "Essence of Slamming"
 msgstr "Essenza dello schianto"
 
-
 msgctxt "7227\tSKILL"
 msgid "Essence of Smashing"
-msgstr "Essenza della frantumazione"
+msgstr "Essenza dello schianto"
 
 
 msgctxt "7247\tSKILL"
@@ -2115,10 +2093,9 @@ msgctxt "8323\tSKILL"
 msgid "Essence of Seizing"
 msgstr "Essenza del sequestro"
 
-
 msgctxt "8342\tSKILL"
 msgid "Komaki Firearm Flip"
-msgstr "Capriola anti-arma da fuoco Komaki"
+msgstr "Komaki Firearm Flip"
 
 
 msgctxt "8362\tSKILL"
@@ -2230,10 +2207,9 @@ msgctxt "8829\tSKILL"
 msgid "Essence of Seizing"
 msgstr "Essenza del sequestro"
 
-
 msgctxt "8848\tSKILL"
 msgid "Komaki Firearm Flip"
-msgstr "Capriola anti-arma da fuoco Komaki"
+msgstr "Komaki Firearm Flip"
 
 
 msgctxt "8868\tSKILL"
@@ -4341,9 +4317,7 @@ msgctxt "28874\tEXPLANATION"
 msgid ""
 "The third and final of Komaki's Ultimate Three, but\n"
 "strangely enough, the Tiger Drop is more powerful."
-msgstr ""
-"La terza e ultima delle Tre Supreme di Komaki, ma\n"
-"stranamente, la Caduta della Tigre è più potente."
+msgstr "La terza e ultima delle Tre Supreme di Komaki, ma\nstranamente, la Tiger Drop è più potente."
 
 msgctxt "28977\tEXPLANATION"
 msgid ""
@@ -7542,7 +7516,7 @@ msgstr "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>vicino a un n
 
 msgctxt "69012\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>on an enemy dazed from a Komaki Parry<Color:Default>"
-msgstr "<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>su un nemico stordito da una Parata Komaki<Color:Default>"
+msgstr "<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>su un nemico stordito da una Komaki Parry<Color:Default>"
 
 msgctxt "69124\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>near a dazed enemy<Color:Default>"
@@ -7562,7 +7536,7 @@ msgstr "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>quando sei ub
 
 msgctxt "69527\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>while doing a Komaki Daruma Tumbler<Color:Default>"
-msgstr "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>mentre esegui una Capriola Daruma Komaki<Color:Default>"
+msgstr "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>mentre esegui una Komaki Daruma Tumbler<Color:Default>"
 
 msgctxt "69637\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>against an enemy with a big weapon in both hands<Color:Default>"
@@ -7695,7 +7669,7 @@ msgstr "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>verso un nemi
 
 msgctxt "73244\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>on an enemy dazed from a Komaki Parry<Color:Default>"
-msgstr "<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>su un nemico stordito da una Parata Komaki<Color:Default>"
+msgstr "<Action:Battle_Heavy_Attack@Combat> <Color:255,100,100,255>su un nemico stordito da una Komaki Parry<Color:Default>"
 
 msgctxt "73356\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>when a fence separates you and an enemy<Color:Default>"
@@ -7723,7 +7697,7 @@ msgstr "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>quando sei a 
 
 msgctxt "73995\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>while doing a Komaki Daruma Tumbler<Color:Default>"
-msgstr "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>mentre esegui una Capriola Daruma Komaki<Color:Default>"
+msgstr "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>mentre esegui una Komaki Daruma Tumbler<Color:Default>"
 
 msgctxt "74105\tCONTROL_EXPLANATION"
 msgid "<Action:Battle_Heavy_Attack@Combat> <Color:109,193,240,255>while in Fighting Stance when drunk<Color:Default>"
@@ -8894,23 +8868,23 @@ msgstr "Disponibile dopo aver raggiunto il Livello 10"
 
 msgctxt "107482\tLEARN_EXPLANATION"
 msgid "Available after learning Komaki Knock Back"
-msgstr "Disponibile dopo aver appreso Respinta Komaki"
+msgstr "Disponibile dopo aver appreso Komaki Knock Back"
 
 msgctxt "107525\tLEARN_EXPLANATION"
 msgid "Available after learning Komaki Tiger Drop"
-msgstr "Disponibile dopo aver appreso Caduta della Tigre Komaki"
+msgstr "Disponibile dopo aver appreso Tiger Drop Komaki"
 
 msgctxt "107587\tLEARN_EXPLANATION"
 msgid "Available after learning Komaki Fist Reversal"
-msgstr "Disponibile dopo aver appreso Contrattacco di Pugno Komaki"
+msgstr "Disponibile dopo aver appreso Komaki Fist Reversal"
 
 msgctxt "107633\tLEARN_EXPLANATION"
 msgid "Available after learning Komaki Swordless Rebirth"
-msgstr "Disponibile dopo aver appreso Rinascita Senza Spada Komaki"
+msgstr "Disponibile dopo aver appreso Komaki Swordless Rebirth"
 
 msgctxt "107683\tLEARN_EXPLANATION"
 msgid "Available after reaching Level 15 and learning Komaki Parry"
-msgstr "Disponibile dopo aver raggiunto il Livello 15 e appreso Parata Komaki"
+msgstr "Disponibile dopo aver raggiunto il Livello 15 e appreso Komaki Parry"
 
 msgctxt "107743\tLEARN_EXPLANATION"
 msgid "Available after reaching Level 15"
@@ -9079,4 +9053,3 @@ msgstr "Disponibile dopo aver appreso Essenza dell'Arresto"
 msgctxt "109845\tLEARN_EXPLANATION"
 msgid "Available after learning Essence of Finishing"
 msgstr "Disponibile dopo aver appreso Essenza del Colpo Finale"
-

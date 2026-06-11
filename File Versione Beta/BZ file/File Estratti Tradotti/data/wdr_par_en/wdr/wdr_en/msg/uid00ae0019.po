@@ -105,11 +105,11 @@ msgstr "Hai ottenuto una <Color:8>Sigaretta storta<Color:Default>."
 
 msgctxt "2072"
 msgid "You got a <Color:8>Red Jewel<Color:Default>."
-msgstr "Hai ottenuto una <Color:8>Gemma rossa<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Gioiello rosso<Color:Default>."
 
 msgctxt "2096"
 msgid "You got a <Color:8>Zero Jewel<Color:Default>."
-msgstr "Hai ottenuto una <Color:8>Gemma zero<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Gioiello zero<Color:Default>."
 
 msgctxt "2156"
 msgid "You got an <Color:8>Eye of the Dragon<Color:Default>."
@@ -260,7 +260,7 @@ msgstr "Hai ottenuto un <Color:8>Driver in titanio<Color:Default>."
 
 msgctxt "1208_Bob Utsunomiya"
 msgid "You got a <Color:8>Hyper Stun Gun<Color:Default>."
-msgstr "Hai ottenuto un <Color:8>Iper storditore<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Iper pistola stordente<Color:Default>."
 
 msgctxt "1268_Bob Utsunomiya"
 msgid "You got a <Color:8>Miniature Sign<Color:Default>."
@@ -308,7 +308,7 @@ msgstr "Hai ottenuto una <Color:8>Carta 1-1-1<Color:Default>."
 
 msgctxt "2048_Bob Utsunomiya"
 msgid "You got a <Color:8>Black Jewel<Color:Default>."
-msgstr "Hai ottenuto una <Color:8>Gemma nera<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Gioiello nero<Color:Default>."
 
 msgctxt "2132_Bob Utsunomiya"
 msgid "You got a <Color:8>Seal of the Dragon<Color:Default>."
