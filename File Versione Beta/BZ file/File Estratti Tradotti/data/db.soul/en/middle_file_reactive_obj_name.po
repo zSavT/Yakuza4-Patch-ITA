@@ -477,27 +477,27 @@ msgstr "Arma a lama righello di platino (rotta)"
 
 msgctxt "0\t24345\t116\tCHK"
 msgid "Lucky Mallet"
-msgstr "Mazzuolo della fortuna"
+msgstr "Martello portafortuna"
 
 msgctxt "0\t24358\t117\tCHK"
 msgid "Lucky Mallet (Broken)"
-msgstr "Mazzuolo della fortuna (rotto)"
+msgstr "Martello portafortuna (rotto)"
 
 msgctxt "0\t24380\t118\tCHK"
 msgid "Lucky Mallet (Fragment)"
-msgstr "Mazzuolo della fortuna (frammento)"
+msgstr "Martello portafortuna (frammento)"
 
 msgctxt "0\t24404\t119\tCHK"
 msgid "Self Defense Ruler"
-msgstr "Righello da autodifesa"
+msgstr "Righello di autodifesa"
 
 msgctxt "0\t24423\t120\tCHK"
 msgid "Self Defense Ruler (Broken)"
-msgstr "Righello da autodifesa (rotto)"
+msgstr "Righello di autodifesa (rotto)"
 
 msgctxt "0\t24451\t121\tCHK"
 msgid "Self Defense Ruler (Fragment)"
-msgstr "Righello da autodifesa (frammento)"
+msgstr "Righello di autodifesa (frammento)"
 
 msgctxt "0\t24481\t122\tCHK"
 msgid "Glass"
@@ -1769,15 +1769,15 @@ msgstr "(ADV) Negozio di armi (camion)"
 
 msgctxt "0\t30325\t439\tCHK"
 msgid "(Minigame)<Hostess Club> Fruit Platter Combination (Large)"
-msgstr "(Minigioco)<Hostess Club> Piatto di frutta mista (grande)"
+msgstr "(Minigioco)<Hostess Club> Tagliere di frutta (grande)"
 
 msgctxt "0\t30384\t440\tCHK"
 msgid "(Minigame)<Hostess Club> Fruit Platter Combination (Medium)"
-msgstr "(Minigioco)<Hostess Club> Piatto di frutta mista (media)"
+msgstr "(Minigioco)<Hostess Club> Tagliere di frutta (media)"
 
 msgctxt "0\t30444\t441\tCHK"
 msgid "(Minigame)<Hostess Club> Fruit Platter Combination (Small)"
-msgstr "(Minigioco)<Hostess Club> Piatto di frutta mista (piccola)"
+msgstr "(Minigioco)<Hostess Club> Tagliere di frutta (piccola)"
 
 msgctxt "0\t30503\t442\tCHK"
 msgid "(Mini Mission) Wood"
@@ -2301,11 +2301,11 @@ msgstr "Pistola fumogena rotta"
 
 msgctxt "0\t33476\t572\tCHK"
 msgid "Broken Slime Spray"
-msgstr "Spray melma rotto"
+msgstr "Spray di melma rotto"
 
 msgctxt "0\t33495\t573\tCHK"
 msgid "Broken Iron Plate"
-msgstr "Lastra di ferro rotta"
+msgstr "Piatto di ferro rotta"
 
 msgctxt "0\t33513\t574\tCHK"
 msgid "Broken Empty Can"
@@ -2465,7 +2465,7 @@ msgstr "Spacca-palle"
 
 msgctxt "0\t34328\t613\tCHK"
 msgid "Special Police Baton"
-msgstr "Manganello speciale della polizia"
+msgstr "Manganello della polizia"
 
 msgctxt "0\t34349\t614\tCHK"
 msgid "Kamiyama Police Baton"
@@ -2485,7 +2485,7 @@ msgstr "Coltello sonico"
 
 msgctxt "0\t34404\t618\tCHK"
 msgid "Super Spicy Knife"
-msgstr "Coltello super piccante"
+msgstr "Coltello piccante"
 
 msgctxt "0\t34422\t619\tCHK"
 msgid "(Y4 Delete) Wooden Short Sword"
@@ -2533,7 +2533,7 @@ msgstr "Ferro 9"
 
 msgctxt "0\t34671\t630\tCHK"
 msgid "Wooden Driver"
-msgstr "Driver di legno"
+msgstr "Driver in legno"
 
 msgctxt "0\t34685\t631\tCHK"
 msgid "Titanium Driver"
@@ -2561,7 +2561,7 @@ msgstr "Dragon-Drive 99"
 
 msgctxt "0\t34773\t637\tCHK"
 msgid "Golden Dragon Bat"
-msgstr "Mazza del Drago Dorato"
+msgstr "Mazza del drago dorata"
 
 msgctxt "0\t34791\t638\tCHK"
 msgid "Wooden Katana"
@@ -2613,7 +2613,7 @@ msgstr "(Y4 Delete) Taglia-proiettili Kanemitsu"
 
 msgctxt "0\t35032\t650\tCHK"
 msgid "Dragon Slayer"
-msgstr "Ammazzadraghi"
+msgstr "Uccisore di draghi"
 
 msgctxt "0\t35046\t651\tCHK"
 msgid "Construction Hammer"
@@ -2629,7 +2629,7 @@ msgstr "Martello giocattolo"
 
 msgctxt "0\t35090\t654\tCHK"
 msgid "Raging Dragon Hammer"
-msgstr "Martello del Drago furioso"
+msgstr "Martello del drago furente"
 
 msgctxt "0\t35111\t655\tCHK"
 msgid "Extendable Staff"
@@ -2713,7 +2713,7 @@ msgstr "(Y4 Delete) Dinamite finta"
 
 msgctxt "0\t35495\t675\tCHK"
 msgid "Slime Spray"
-msgstr "Spray melma"
+msgstr "Spray di melma"
 
 msgctxt "0\t35507\t676\tCHK"
 msgid "Modified Lighter"
@@ -2749,7 +2749,7 @@ msgstr "Tonfa accecante"
 
 msgctxt "0\t35653\t684\tCHK"
 msgid "Dragon Horn"
-msgstr "Corno del Drago"
+msgstr "Corno di drago"
 
 msgctxt "0\t35665\t685\tCHK"
 msgid "Wooden Nunchaku"
@@ -2757,7 +2757,7 @@ msgstr "Nunchaku di legno"
 
 msgctxt "0\t35681\t686\tCHK"
 msgid "Long Nunchaku"
-msgstr "Nunchaku lungo"
+msgstr "Nunchaku lunghi"
 
 msgctxt "0\t35695\t687\tCHK"
 msgid "(Y4 Delete) Heavy Nunchaku"
@@ -2781,15 +2781,15 @@ msgstr "Nunchaku del Drago"
 
 msgctxt "0\t35794\t692\tCHK"
 msgid "Double Slats"
-msgstr "Doppie doghe"
+msgstr "Doppie stecche"
 
 msgctxt "0\t35807\t693\tCHK"
 msgid "Demon Taiko Sticks"
-msgstr "Bacchette da taiko del demone"
+msgstr "Bacchette taiko demoniache"
 
 msgctxt "0\t35826\t694\tCHK"
 msgid "Spiked Taiko Sticks"
-msgstr "Bacchette da taiko chiodate"
+msgstr "Bacchette taiko chiodate"
 
 msgctxt "0\t35846\t695\tCHK"
 msgid "Wooden Kali Sticks"
@@ -2821,15 +2821,15 @@ msgstr "(Y4 Delete) Doppie sciabole"
 
 msgctxt "0\t36033\t702\tCHK"
 msgid "Twin Dragon Sticks"
-msgstr "Bastoni del Drago gemello"
+msgstr "Bastoni gemelli del drago"
 
 msgctxt "0\t36052\t703\tCHK"
 msgid "9mm Automatic Pistol"
-msgstr "Pistola automatica 9mm"
+msgstr "Pistola automatica 9 mm"
 
 msgctxt "0\t36073\t704\tCHK"
 msgid "Double Action Revolver"
-msgstr "Revolver a doppia azione"
+msgstr "Rivoltella a doppia azione"
 
 msgctxt "0\t36096\t705\tCHK"
 msgid "(Y4 Delete) Fake Pistol"
@@ -2841,7 +2841,7 @@ msgstr "Drow-Z 55"
 
 msgctxt "0\t36130\t707\tCHK"
 msgid "Golden Pistol"
-msgstr "Pistola d'oro"
+msgstr "Pistola dorata"
 
 msgctxt "0\t36144\t708\tCHK"
 msgid "Gurukun"
@@ -2865,7 +2865,7 @@ msgstr "Pianta in vaso (grande)"
 
 msgctxt "0\t36199\t713\tCHK"
 msgid "Iron Plate"
-msgstr "Lastra di ferro"
+msgstr "Piatto di ferro"
 
 msgctxt "0\t36210\t714\tCHK"
 msgid "Broken LCD TV"
@@ -3073,7 +3073,7 @@ msgstr "Coltello di Tamashiro"
 
 msgctxt "0\t37054\t765\tCHK"
 msgid "Slime Gun Bullet"
-msgstr "Proiettile pistola a melma"
+msgstr "Proiettile Pistola melma"
 
 msgctxt "0\t37071\t766\tCHK"
 msgid "Smoke Gun Bullet"
@@ -3081,7 +3081,7 @@ msgstr "Proiettile pistola fumogena"
 
 msgctxt "0\t37088\t767\tCHK"
 msgid "Slime Gun Slide Zone"
-msgstr "Zona scivolosa pistola a melma"
+msgstr "Zona scivolosa Pistola melma"
 
 msgctxt "0\t37109\t768\tCHK"
 msgid "Smoke Gun Blind Zone"
@@ -3089,7 +3089,7 @@ msgstr "Zona accecante pistola fumogena"
 
 msgctxt "0\t37130\t769\tCHK"
 msgid "Slime Spray Projectile"
-msgstr "Proiettile spray melmoso"
+msgstr "Proiettile spray di melma"
 
 msgctxt "0\t37153\t770\tCHK"
 msgid "Retrofire Tonfa Bullet"
@@ -3373,7 +3373,7 @@ msgstr "Bastone chiodato rotto"
 
 msgctxt "0\t39003\t840\tCHK"
 msgid "Broken Purgatory Rod"
-msgstr "Bastone del Purgatory rotto"
+msgstr "Verga del Purgatory rotto"
 
 msgctxt "0\t39024\t841\tCHK"
 msgid "Broken White Dragon Staff"
@@ -4169,7 +4169,7 @@ msgstr "(Minigioco) <Baccarà> Mano di Kiryu"
 
 msgctxt "0\t45401\t1039\tCHK"
 msgid "Broken Special Police Baton"
-msgstr "Manganello speciale della polizia rotto"
+msgstr "Manganello della polizia rotto"
 
 msgctxt "0\t45429\t1040\tCHK"
 msgid "Broken Kamiyama Police Baton"
@@ -4197,7 +4197,7 @@ msgstr "Ferro 9 rotto"
 
 msgctxt "0\t45563\t1046\tCHK"
 msgid "Broken Wooden Driver"
-msgstr "Driver di legno rotto"
+msgstr "Driver in legno rotto"
 
 msgctxt "0\t45584\t1047\tCHK"
 msgid "Broken Black Shaft"
@@ -4253,7 +4253,7 @@ msgstr "Lama della natura rotta"
 
 msgctxt "0\t45874\t1060\tCHK"
 msgid "Broken Ornate Blade"
-msgstr "Lama decorata rotta"
+msgstr "Lama ornata rotta"
 
 msgctxt "0\t45894\t1061\tCHK"
 msgid "Broken Shadow Blade"
@@ -4325,15 +4325,15 @@ msgstr "Accendino stordente modificato rotto"
 
 msgctxt "0\t46297\t1078\tCHK"
 msgid "Broken Double Slats"
-msgstr "Doppie doghe rotte"
+msgstr "Doppie stecche rotte"
 
 msgctxt "0\t46317\t1079\tCHK"
 msgid "Broken Demon Taiko Sticks"
-msgstr "Bacchette da taiko del demone rotte"
+msgstr "Bacchette taiko demoniache rotte"
 
 msgctxt "0\t46343\t1080\tCHK"
 msgid "Broken Spiked Taiko Sticks"
-msgstr "Bacchette da taiko chiodate rotte"
+msgstr "Bacchette taiko chiodate rotte"
 
 msgctxt "0\t46370\t1081\tCHK"
 msgid "Broken Dragon Taiko Sticks"
@@ -4349,7 +4349,7 @@ msgstr "Lama fotonica PG rotta"
 
 msgctxt "0\t46433\t1084\tCHK"
 msgid "Broken Cutie Girl Stick"
-msgstr "Bastone da Cutie Girl rotto"
+msgstr "Bastone Cutie Girl rotto"
 
 msgctxt "0\t46457\t1085\tCHK"
 msgid "Broken Love Shine Stick"
@@ -4377,7 +4377,7 @@ msgstr "Mazza d'argento"
 
 msgctxt "0\t46563\t1091\tCHK"
 msgid "Cheap Police Baton"
-msgstr "Manganello scadente polizia"
+msgstr "Manganello della polizia"
 
 msgctxt "0\t46582\t1092\tCHK"
 msgid "Switchblade"
@@ -4449,7 +4449,7 @@ msgstr "Pezzo di iper-pistola stordente"
 
 msgctxt "0\t46979\t1109\tCHK"
 msgid "Wooden Driver Piece"
-msgstr "Pezzo di driver di legno"
+msgstr "Pezzo di driver in legno"
 
 msgctxt "0\t46999\t1110\tCHK"
 msgid "Spiked Bat Piece"
@@ -4497,7 +4497,7 @@ msgstr "Frammento di Master Ball"
 
 msgctxt "0\t47247\t1121\tCHK"
 msgid "Cutie Girl Stick Fragment"
-msgstr "Frammento di bastone da Cutie Girl"
+msgstr "Frammento di bastone Cutie Girl"
 
 msgctxt "0\t47273\t1122\tCHK"
 msgid "Love Shine Stick Fragment"
@@ -4573,7 +4573,7 @@ msgstr "Lama fotonica PG"
 
 msgctxt "0\t47532\t1140\tCHK"
 msgid "Cutie Girl Stick"
-msgstr "Bastone da Cutie Girl"
+msgstr "Bastone Cutie Girl"
 
 msgctxt "0\t47549\t1141\tCHK"
 msgid "Love Shine Stick"
@@ -4829,7 +4829,7 @@ msgstr "Frammento di lama della natura"
 
 msgctxt "0\t48885\t1204\tCHK"
 msgid "Ornate Blade Fragment"
-msgstr "Frammento di lama decorata"
+msgstr "Frammento di Lama ornata"
 
 msgctxt "0\t48907\t1205\tCHK"
 msgid "Shadow Blade Fragment"

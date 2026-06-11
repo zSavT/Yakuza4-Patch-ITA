@@ -50,16 +50,13 @@ msgstr "Talk_No"
 
 msgctxt "220_Staff"
 msgid "Sir, it seems you don't have enough wooden tags to play cee-lo."
-msgstr ""
-"Signore, pare che non abbia abbastanza gettoni di legno per il cee-lo."
+msgstr "Signore, pare che non abbia abbastanza targhette di legno per il cee-lo."
 
 msgctxt "232_Staff"
 msgid ""
 "The minimum bet is 10 tags. You can play after you buy some more wooden "
 "tags."
-msgstr ""
-"La puntata minima è di 10 gettoni. Potrai giocare dopo aver comprato altri "
-"gettoni di legno."
+msgstr "La puntata minima è di 10 targhette. Potrai giocare dopo aver comprato altri targhette di legno."
 
 msgctxt "244_Staff"
 msgid "Excuse me, sir. Would you like to play cee-lo?"

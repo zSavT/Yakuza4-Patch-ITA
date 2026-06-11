@@ -18,7 +18,7 @@ msgstr "Hai ottenuto 500 ESP."
 
 msgctxt "560"
 msgid "You got <Color:8>High-grade Platinum<Color:Default>."
-msgstr "Hai ottenuto <Color:8>Platino pregiato<Color:Default>."
+msgstr "Hai ottenuto <Color:8>Platino di alta qualità<Color:Default>."
 
 msgctxt "584"
 msgid "You got the <Color:8>Eye of the Dragon<Color:Default>."
@@ -262,7 +262,7 @@ msgstr "Torna più tardi"
 
 msgctxt "992_Akaishi"
 msgid "High-grade Platinum"
-msgstr "Platino pregiato"
+msgstr "Platino di alta qualità"
 
 msgctxt "1004_Akaishi"
 msgid "Eye of the Dragon"
