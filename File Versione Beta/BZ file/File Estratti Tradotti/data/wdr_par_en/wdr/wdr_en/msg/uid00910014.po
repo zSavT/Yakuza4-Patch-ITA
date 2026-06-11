@@ -18,12 +18,11 @@ msgstr "<Color:9>Hai imparato la Proiezione a rilascio.<Color:Default>"
 
 msgctxt "2792"
 msgid "<Color:9>You learned the Essence of Arm Dragging.<Color:Default>"
-msgstr ""
-"<Color:9>Hai imparato l'Essenza della Trazione al braccio.<Color:Default>"
+msgstr "<Color:9>Hai imparato l'Essenza della tirata al braccio.<Color:Default>"
 
 msgctxt "3368"
 msgid "<Color:9>You learned the Essence of Seizing.<Color:Default>"
-msgstr "<Color:9>Hai imparato l'Essenza della Presa.<Color:Default>"
+msgstr "<Color:9>Hai imparato l'Essenza del sequestro.<Color:Default>"
 
 msgctxt "3932"
 msgid "<Color:9>Active parry time increased.<Color:Default>"

@@ -18,11 +18,11 @@ msgstr "Hai imparato <Color:9>Lama nascosta: Gancio<Color:Default>."
 
 msgctxt "100"
 msgid "You learned <Color:9>Hidden Blade: Raging Bull<Color:Default>."
-msgstr "Hai imparato <Color:9>Lama nascosta: Toro scatenato<Color:Default>."
+msgstr "Hai imparato <Color:9>Lama nascosta: Toro infuriato<Color:Default>."
 
 msgctxt "112"
 msgid "You learned <Color:9>Heavy Maul: Fly Swatter<Color:Default>."
-msgstr "Hai imparato <Color:9>Mazza pesante: Schiacciamosche<Color:Default>."
+msgstr "Hai imparato <Color:9>Mazza pesante: Scacciamosche<Color:Default>."
 
 msgctxt "124"
 msgid "<Color:14>Check moves learned in the Abilities screen.<Color:Default>"
@@ -44,8 +44,7 @@ msgstr ""
 
 msgctxt "172"
 msgid "You remembered the <Color:9>Heavy Maul: Fly Swatter<Color:Default>."
-msgstr ""
-"Hai ricordato la <Color:9>Mazza pesante: Schiacciamosche<Color:Default>."
+msgstr "Hai ricordato la <Color:9>Mazza pesante: Scacciamosche<Color:Default>."
 
 msgctxt "184"
 msgid "<Color:14>Check moves learned in the Abilities screen.<Color:Default>"

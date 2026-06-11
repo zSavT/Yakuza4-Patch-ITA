@@ -30,7 +30,7 @@ msgstr "<Color:9>Potenza d'attacco con le armi aumentata.<Color:Default>"
 
 msgctxt "3308"
 msgid "<Color:9>You learned the Great Bomber.<Color:Default>"
-msgstr "<Color:9>Hai imparato il Grande Bomber.<Color:Default>"
+msgstr "<Color:9>Hai imparato il Grande bombardiere.<Color:Default>"
 
 msgctxt "3788"
 msgid "<Color:9>Unarmed attack power increased.<Color:Default>"
@@ -42,7 +42,7 @@ msgstr "Hai ottenuto una <Color:8>Staminan Royale<Color:Default>."
 
 msgctxt "4136"
 msgid "<Color:9>You learned the Wind-Up Top.<Color:Default>"
-msgstr "<Color:9>Hai imparato la Trottola a carica.<Color:Default>"
+msgstr "<Color:9>Hai imparato la Trottola a molla.<Color:Default>"
 
 msgctxt "5204"
 msgid "You got a <Color:8>Block of Super Alloy<Color:Default>."
