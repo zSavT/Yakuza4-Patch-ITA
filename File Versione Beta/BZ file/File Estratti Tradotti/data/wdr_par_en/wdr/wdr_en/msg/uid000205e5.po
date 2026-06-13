@@ -45,12 +45,11 @@ msgid ""
 "(There's no way I can avoid fighting. Should I get more prepared before I "
 "go?)"
 msgstr ""
-"(Non c'è verso di schivare la rissa. Mi conviene prepararmi meglio prima di "
-"andarci?)"
+"(Non c'è modo di evitare lo scontro. Mi conviene prepararmi meglio prima di andare?)"
 
 msgctxt "200_Tanimura"
 msgid "(I'll come back when I'm better prepared...)"
-msgstr "(Torno quando sarò più pronto...)"
+msgstr "(Tornerò quando sarò meglio preparato...)"
 
 msgctxt "212_Taxi Driver"
 msgid "Very well, sir."
@@ -73,7 +72,7 @@ msgstr "Molto bene, signore."
 
 msgctxt "428_Taxi Driver"
 msgid "Please come again soon."
-msgstr "Alla prossima!"
+msgstr "A presto!"
 
 msgctxt "440_Tanimura"
 msgid "Prepare a Little More"

@@ -33,7 +33,7 @@ msgid ""
 "Oh, %s-san. I'd be glad to head out for you if there's "
 "something you need taken care of."
 msgstr ""
-"Oh, %s-san. Sarei felice di andare io al posto tuo se c'è "
+"Oh, %s-san. Sarei felice di uscire al posto tuo se c'è "
 "qualcosa di cui devi occuparti."
 
 msgctxt "152_Player"
@@ -54,7 +54,7 @@ msgstr "Apprezzo l'offerta, ma devo rifiutare."
 
 msgctxt "200_Tanimura"
 msgid "Oh, all right. Just try to take care of yourself, okay?"
-msgstr "Oh, va bene. Cerca solo di stare attento, ok?"
+msgstr "Oh, va bene. Cerca solo di riguardarti, ok?"
 
 msgctxt "224_Player"
 msgid "That's a good idea. Thanks, Tanimura."
@@ -74,7 +74,7 @@ msgstr "Grazie, lo farò."
 
 msgctxt "272_Tanimura"
 msgid "Great. I'll take it from here."
-msgstr "Ottimo. Da qui me ne occupo io."
+msgstr "Ottimo. Da qui in poi me ne occupo io."
 
 msgctxt "296_Tanimura"
 msgid "No, it's okay."

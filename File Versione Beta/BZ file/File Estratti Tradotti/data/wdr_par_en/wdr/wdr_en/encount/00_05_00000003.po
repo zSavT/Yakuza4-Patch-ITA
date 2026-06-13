@@ -45,7 +45,7 @@ msgstr "Talk_Sorry"
 
 msgctxt "128_Man"
 msgid "Quit staggerin' around, wouldja?"
-msgstr "Smettila di barcollare, ok?"
+msgstr "Vuoi smetterla di barcollare?"
 
 msgctxt "140_Man"
 msgid "You should pay me for messin' up my day! C'mon, hand over your money! No? Then you deserve what's comin' to ya!"
@@ -53,7 +53,7 @@ msgstr "Dovresti pagarmi per avermi rovinato la giornata! Dai, sgancia i soldi! 
 
 msgctxt "152_Man"
 msgid "Hey, you sure look like you've been havin' some fun, knockin' back a few drinks and all. But you're not one of us, are ya?"
-msgstr "Ehi, sembra proprio che ti stia divertendo, a tracannare drink e tutto il resto. Ma non sei uno di noi, vero?"
+msgstr "Ehi, sembra proprio che te la stia spassando, a scolarti qualche drink e tutto il resto. Ma non sei uno dei nostri, vero?"
 
 msgctxt "164_Man"
 msgid "You got balls to be hangin' out here on our turf, friend!"
@@ -61,7 +61,7 @@ msgstr "Hai fegato a startene in giro nel nostro territorio, amico!"
 
 msgctxt "176_Man"
 msgid "Phew! You smell like a distillery! How much you been drinkin', anyway? You better pay me for havin' to put up with your stink!"
-msgstr "Phew! Puzzi come una distilleria! Quanto hai bevuto, comunque? Faresti meglio a pagarmi per il disturbo di sopportare la tua puzza!"
+msgstr "Puah! Puzzi come una distilleria! Ma quanto hai bevuto? Faresti meglio a pagarmi per avermi costretto a sopportare la tua puzza!"
 
 msgctxt "188_Man"
 msgid "Nah... On second thought, keep the money. I'll just kick your sorry ass instead!"
@@ -69,11 +69,11 @@ msgstr "Nah... Pensandoci bene, tieniti i soldi. Preferisco prenderti a calci in
 
 msgctxt "224_Man"
 msgid "Eeek! I was cocky, sorry!"
-msgstr "Eeek! Ho fatto il gradasso, scusa!"
+msgstr "Aaah! Ho fatto il gradasso, scusa!"
 
 msgctxt "236_Man"
 msgid "Sorry I went and said such a dumbass thing back there. Here, this is yours. I really do apologize!"
-msgstr "Scusa se prima ho detto quella cazzata. Tieni, questo è per te. Ti chiedo scusa, davvero!"
+msgstr "Scusa se prima ho sparato una cazzata simile. Tieni, questo è tuo. Ti chiedo perdono, davvero!"
 
 msgctxt "248_Man"
 msgid "You got a dumb %s."
@@ -81,7 +81,7 @@ msgstr "Hai ottenuto un %s stupido."
 
 msgctxt "272_Man"
 msgid "You made me realize I was being way too close-minded. Sorry 'bout that."
-msgstr "Mi hai fatto capire che ero di vedute troppo ristrette. Scusa."
+msgstr "Mi hai fatto capire che avevo la mente troppo chiusa. Scusa."
 
 msgctxt "284_Man"
 msgid "Booze is a man's best friend! Drink up, my man, drink up!"
