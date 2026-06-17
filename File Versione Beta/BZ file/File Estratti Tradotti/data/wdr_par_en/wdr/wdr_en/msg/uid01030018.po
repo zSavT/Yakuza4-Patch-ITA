@@ -18,11 +18,11 @@ msgstr "Thick-cut Tetsu"
 
 msgctxt "232_Thick-cut Tetsu"
 msgid " Let's pick the banker."
-msgstr "Scegliamo il banchiere."
+msgstr "Scegliamo il banco."
 
 msgctxt "244_Thick-cut Tetsu"
 msgid "I'm the banker."
-msgstr "Sono il banchiere."
+msgstr "Faccio io il banco."
 
 msgctxt "256_Thick-cut Tetsu"
 msgid "How much will you bet?"
@@ -46,7 +46,7 @@ msgstr "Saldiamo i conti."
 
 msgctxt "316_Thick-cut Tetsu"
 msgid "You're the banker."
-msgstr "Sei il banchiere."
+msgstr "Sei tu il banco."
 
 msgctxt "328_Thick-cut Tetsu"
 msgid "Time to change the banker."

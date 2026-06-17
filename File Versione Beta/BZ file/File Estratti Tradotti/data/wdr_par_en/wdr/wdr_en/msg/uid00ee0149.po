@@ -45,7 +45,7 @@ msgid ""
 "Welcome to the blackjack table. You can play one game for as little as 10 "
 "chips. Care to try your luck?"
 msgstr ""
-"Benvenuto al tavolo del blackjack. Puoi giocare una partita per soli 10 "
+"Benvenuto al tavolo del blackjack. Puoi giocare una partita per sole 10 "
 "fiches. Vuoi tentare la fortuna?"
 
 msgctxt "320_Dealer"
@@ -138,7 +138,7 @@ msgstr "Non giocare"
 
 msgctxt "584_Dealer"
 msgid "Play Against the House"
-msgstr "Gioca contro la casa"
+msgstr "Gioca contro il banco"
 
 msgctxt "596_Dealer"
 msgid "Play Standard Blackjack"
@@ -154,7 +154,7 @@ msgstr "Non ora"
 
 msgctxt "632_Dealer"
 msgid "Play Against the House"
-msgstr "Gioca contro la casa"
+msgstr "Gioca contro il banco"
 
 msgctxt "644_Dealer"
 msgid "Play Standard Blackjack"

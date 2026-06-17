@@ -42,7 +42,7 @@ msgstr "Punto CEx (Dietro)"
 
 msgctxt "404"
 msgid "Point A (Shortest) TurnC"
-msgstr "Punto A (Il più corto) TurnC"
+msgstr "Punto A (Più breve) TurnC"
 
 msgctxt "416"
 msgid "Point B (Front) TurnC"
@@ -50,4 +50,4 @@ msgstr "Punto B (Davanti) TurnC"
 
 msgctxt "428"
 msgid "Point C (Behind) TurnC"
-msgstr "Punto C (Dietro) RuotaC"
+msgstr "Punto C (Dietro) TurnC"

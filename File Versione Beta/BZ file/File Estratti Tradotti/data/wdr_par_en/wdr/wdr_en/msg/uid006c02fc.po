@@ -52,11 +52,11 @@ msgstr "Talk_Yes"
 
 msgctxt "116_峰村七海：源氏名"
 msgid "I'm a pretty tough player, by the way."
-msgstr "Sono uno piuttosto tosto, tra l'altro."
+msgstr "Sono un osso duro, sai."
 
 msgctxt "128_Tanimura"
 msgid "Well, let's see just how tough you are then."
-msgstr "Allora, vediamo un po' quanto sei tosto."
+msgstr "Beh, vediamo un po' quanto sei tosta."
 
 msgctxt "140_峰村七海：源氏名"
 msgid "Let's go in."
@@ -64,7 +64,7 @@ msgstr "Entriamo."
 
 msgctxt "164_峰村七海：源氏名"
 msgid "I'm a pretty tough player, by the way. You'll see!"
-msgstr "A proposito, sono un giocatore mica da ridere. Vedrai!"
+msgstr "A proposito, sono una giocatrice mica da ridere. Vedrai!"
 
 msgctxt "176_峰村七海：源氏名"
 msgid "Let's head in."
@@ -72,7 +72,7 @@ msgstr "Dai, entriamo."
 
 msgctxt "188_Tanimura"
 msgid "Hold on... Seems I didn't bring enough money."
-msgstr "Aspetta un attimo... Sembra che non mi sia portato abbastanza grana."
+msgstr "Aspetta un attimo... mi sa che non ho abbastanza grana."
 
 msgctxt "200_峰村七海：源氏名"
 msgid "I'm sorry, I must have misheard you. What did you say?"
@@ -92,7 +92,7 @@ msgstr ""
 
 msgctxt "236_峰村七海：源氏名"
 msgid "I'm going home. Goodbye."
-msgstr "Me ne vado a casa. Ciao."
+msgstr "Me ne vado a casa. Arrivederci."
 
 msgctxt "248_Tanimura"
 msgid "(I should've checked my money earlier...)"
@@ -104,20 +104,18 @@ msgstr "Ah, ho perso... Non avrei mai detto che fossi così bravo a bowling."
 
 msgctxt "368_Tanimura"
 msgid "Well, I'm okay..."
-msgstr "Beh, sono a posto..."
+msgstr "Beh, me la cavo..."
 
 msgctxt "380_峰村七海：源氏名"
 msgid ""
 "I had a really good time. We should go out again. <Color:7>♥<Color:Default>"
 msgstr ""
-"Mi sono proprio divertito un mondo. Dovremmo rivederci. "
+"Mi sono proprio divertita un mondo. Dovremmo rivederci. "
 "<Color:7>♥<Color:Default>"
 
 msgctxt "392_峰村七海：源氏名"
 msgid "Well, I better get going. Bye for now."
-msgstr ""
-"Beh, mi sa che è ora di andare. "
-"Ciao per ora."
+msgstr "Beh, è meglio che vada. A presto."
 
 msgctxt "416_峰村七海：源氏名"
 msgid "Haha. We tied."
@@ -129,7 +127,7 @@ msgstr "Pensavo di averti fregato lì."
 
 msgctxt "440_峰村七海：源氏名"
 msgid "I had fun today. I'll see you at the club soon."
-msgstr "Mi sono divertito oggi. Ci vediamo presto al club."
+msgstr "Mi sono divertita oggi. Ci vediamo presto al club."
 
 msgctxt "464_峰村七海：源氏名"
 msgid "Too bad, I win this time!"
@@ -145,11 +143,11 @@ msgstr "A dopo. Ci vediamo al club."
 
 msgctxt "596_峰村七海：源氏名"
 msgid "I'm a pretty tough player, by the way."
-msgstr "Sono uno piuttosto tosto, tra l'altro."
+msgstr "Sono un osso duro, sai."
 
 msgctxt "608_Tanimura"
 msgid "Well, let's see just how tough you are then."
-msgstr "Allora, vediamo un po' quanto sei tosto."
+msgstr "Beh, vediamo un po' quanto sei tosta."
 
 msgctxt "620_峰村七海：源氏名"
 msgid "You'll see. Let's go in."
@@ -159,7 +157,7 @@ msgstr ""
 
 msgctxt "644_峰村七海：源氏名"
 msgid "I'm a pretty tough player, by the way. You'll see!"
-msgstr "A proposito, sono un giocatore mica da ridere. Vedrai!"
+msgstr "A proposito, sono una giocatrice mica da ridere. Vedrai!"
 
 msgctxt "656_峰村七海：源氏名"
 msgid "Let's head in."
@@ -167,7 +165,7 @@ msgstr "Dai, entriamo."
 
 msgctxt "668_Tanimura"
 msgid "Hold on... Seems I didn't bring enough money."
-msgstr "Aspetta un attimo... Sembra che non mi sia portato abbastanza grana."
+msgstr "Aspetta un attimo... mi sa che non ho abbastanza grana."
 
 msgctxt "680_峰村七海：源氏名"
 msgid "I'm sorry, I must have misheard you. What did you say?"
@@ -187,7 +185,7 @@ msgstr ""
 
 msgctxt "716_峰村七海：源氏名"
 msgid "I'm going home. Goodbye."
-msgstr "Me ne vado a casa. Ciao."
+msgstr "Me ne vado a casa. Arrivederci."
 
 msgctxt "728_Tanimura"
 msgid "(I should've checked my money earlier...)"
@@ -199,14 +197,14 @@ msgstr "Ah, ho perso... Non avrei mai detto che fossi così bravo a bowling."
 
 msgctxt "848_Tanimura"
 msgid "Well, I'm okay..."
-msgstr "Beh, sono a posto..."
+msgstr "Beh, me la cavo..."
 
 msgctxt "860_峰村七海：源氏名"
 msgid ""
 "I had a really good time. <Color:7>♥<Color:Default> Wanna head over to the "
 "club now?"
 msgstr ""
-"Mi sono divertito un sacco. <Color:7>♥<Color:Default> Ti va di andare al "
+"Mi sono divertita un sacco. <Color:7>♥<Color:Default> Ti va di andare al "
 "club adesso?"
 
 msgctxt "872_Tanimura"
@@ -223,7 +221,7 @@ msgstr "Pensavo di averti fregato lì."
 
 msgctxt "920_峰村七海：源氏名"
 msgid "I had fun today. Let's head to the club."
-msgstr "Mi sono divertito oggi. Andiamo al club."
+msgstr "Mi sono divertita oggi. Andiamo al club."
 
 msgctxt "932_Tanimura"
 msgid "Sure."

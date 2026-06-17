@@ -18,11 +18,11 @@ msgstr "Tanimura"
 
 msgctxt "232_Tanimura"
 msgid "Let's pick the banker."
-msgstr "Scegliamo il banchiere."
+msgstr "Scegliamo il banco."
 
 msgctxt "244_Tanimura"
 msgid "I'm the banker."
-msgstr "Sono il banchiere."
+msgstr "Faccio io il banco."
 
 msgctxt "256_Tanimura"
 msgid "(How much should I wager?)"
@@ -46,7 +46,7 @@ msgstr "Saldiamo i conti."
 
 msgctxt "316_Tanimura"
 msgid "(You're the banker.)"
-msgstr "(Sei il banchiere.)"
+msgstr "(Sei tu il banco.)"
 
 msgctxt "328_Tanimura"
 msgid "Time to change the banker."

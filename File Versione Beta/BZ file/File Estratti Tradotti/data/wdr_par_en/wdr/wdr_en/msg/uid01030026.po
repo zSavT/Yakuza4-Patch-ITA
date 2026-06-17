@@ -18,11 +18,11 @@ msgstr "Saejima"
 
 msgctxt "232_Saejima"
 msgid "Let's pick the banker."
-msgstr "Scegliamo il banchiere."
+msgstr "Scegliamo il banco."
 
 msgctxt "244_Saejima"
 msgid "I'm banker."
-msgstr "Sono il banchiere."
+msgstr "Faccio io il banco."
 
 msgctxt "256_Saejima"
 msgid "(How much should I wager?)"
@@ -46,11 +46,11 @@ msgstr "È ora di saldare i conti."
 
 msgctxt "316_Saejima"
 msgid "(You're the banker.)"
-msgstr "(Sei il banchiere.)"
+msgstr "(Sei tu il banco.)"
 
 msgctxt "328_Saejima"
 msgid "Let's switch bankers."
-msgstr "Cambiamo banchiere."
+msgstr "Cambiamo banco."
 
 msgctxt "340_Saejima"
 msgid "(Play again?)"

@@ -97,7 +97,7 @@ msgstr "Hai ottenuto un pezzo di <Color:8>Aragosta<Color:Default>."
 
 msgctxt "1988"
 msgid "You got <Color:8>Even Goro's Beads<Color:Default>."
-msgstr "Hai ottenuto le <Color:8>Perline di Even Goro<Color:Default>."
+msgstr "Hai ottenuto i <Color:8>Grani di Even Goro<Color:Default>."
 
 msgctxt "2012"
 msgid "You got a <Color:8>Lopsided Cigarette<Color:Default>."
@@ -105,11 +105,11 @@ msgstr "Hai ottenuto una <Color:8>Sigaretta storta<Color:Default>."
 
 msgctxt "2072"
 msgid "You got a <Color:8>Red Jewel<Color:Default>."
-msgstr "Hai ottenuto una <Color:8>Gioiello rosso<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Gioiello rosso<Color:Default>."
 
 msgctxt "2096"
 msgid "You got a <Color:8>Zero Jewel<Color:Default>."
-msgstr "Hai ottenuto una <Color:8>Gioiello zero<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Gioiello zero<Color:Default>."
 
 msgctxt "2156"
 msgid "You got an <Color:8>Eye of the Dragon<Color:Default>."
@@ -308,7 +308,7 @@ msgstr "Hai ottenuto una <Color:8>Carta 1-1-1<Color:Default>."
 
 msgctxt "2048_Bob Utsunomiya"
 msgid "You got a <Color:8>Black Jewel<Color:Default>."
-msgstr "Hai ottenuto una <Color:8>Gioiello nero<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Gioiello nero<Color:Default>."
 
 msgctxt "2132_Bob Utsunomiya"
 msgid "You got a <Color:8>Seal of the Dragon<Color:Default>."
