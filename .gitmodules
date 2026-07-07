@@ -4,3 +4,6 @@
 [submodule "traduttore_auto_csv/Alumen"]
 	path = traduttore_auto_csv/Alumen
 	url = https://github.com/zSavT/Alumen.git
+[submodule "alumen"]
+	path = alumen
+	url = https://github.com/zSavT/Alumen
