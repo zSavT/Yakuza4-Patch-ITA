@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1248"
+msgid "Akino"
+msgstr "Akino"
+
+msgctxt "1252"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1256"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1260"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1264"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "1268"
+msgid "0"
+msgstr "0"
+
+msgctxt "56_Akino"
+msgid "Thanks. I can get home by myself from here."
+msgstr "Grazie. Da qui vado a casa da sola."
+
+msgctxt "68_Tanimura"
+msgid "Okay. Be careful."
+msgstr "Va bene. Stai attenta."
+
+msgctxt "80_Akino"
+msgid ""
+"Hehe. Ryota-kun, you're so sweet. How about we go out just the two of us "
+"next time?"
+msgstr ""
+"Hehe. Ryota-kun, sei così dolce. Che ne dici se usciamo solo noi due la "
+"prossima volta?"
+
+msgctxt "92_Tanimura"
+msgid "Sounds good to me. Guess I'll see you soon, then."
+msgstr "Per me va benissimo. Immagino ci vedremo presto, allora."

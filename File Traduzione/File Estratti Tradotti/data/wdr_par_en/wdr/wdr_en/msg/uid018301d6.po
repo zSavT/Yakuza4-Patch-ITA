@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "128"
+msgid "*clank* *clank*"
+msgstr "*clang* *clang*"
+
+msgctxt "1428"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "116_Kiryu"
+msgid ""
+"(Oh yeah, I heard that rumor about ghosts haunting the Hills at night. I "
+"should check it out once it's dark out.)"
+msgstr ""
+"(Ah sì, ho sentito quella storia sui fantasmi che infestano le Hills di "
+"notte. Dovrei darci un'occhiata quando fa buio.)"
+
+msgctxt "140_Kiryu"
+msgid "(...Who could be working at this time of day?)"
+msgstr "(...Chi diavolo potrebbe lavorare a quest'ora?)"
+
+msgctxt "152_Kiryu"
+msgid ""
+"(Oh yeah, I heard that rumor about ghosts haunting the Hills at night. "
+"Couldn't hurt to sneak inside and see what's up.)"
+msgstr ""
+"(Ah sì, ho sentito quella voce sui fantasmi che infestano le Hills di notte."
+" Non farebbe male intrufolarsi dentro e vedere che succede.)"
+
+msgctxt "164_Kiryu"
+msgid "(Eh, it's just a rumor. I have better things to be doing.)"
+msgstr "(Eh, è solo una voce. Ho di meglio da fare.)"
+
+msgctxt "176_Kiryu"
+msgid "(Here I go...)"
+msgstr "(Ci siamo...)"
+
+msgctxt "200_Kiryu"
+msgid "Sneak In"
+msgstr "Intrufolarsi"
+
+msgctxt "212_Kiryu"
+msgid "Stay Out"
+msgstr "Restane fuori"

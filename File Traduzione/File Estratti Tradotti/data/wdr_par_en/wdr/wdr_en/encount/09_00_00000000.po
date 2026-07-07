@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "12348"
+msgid "Man in Purple"
+msgstr "Uomo in viola"
+
+msgctxt "12352"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "12356"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "12360"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "12364"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "12368"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "12372"
+msgid "Purple Killers Member"
+msgstr "Membro dei Purple Killers"
+
+msgctxt "12376"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "12380"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "128_Man in Purple"
+msgid "Are you Kiryu-san?"
+msgstr "Lei è Kiryu-san?"
+
+msgctxt "140_Kiryu"
+msgid "Yes, I am."
+msgstr "Sì, sono io."
+
+msgctxt "152_Man in Purple"
+msgid "I see, that's too bad."
+msgstr "Capisco, è un peccato."
+
+msgctxt "164_Kiryu"
+msgid "What's too bad?"
+msgstr "Cos'è un peccato?"
+
+msgctxt "176_Man in Purple"
+msgid "Sorry, but you're about to have a little accident!"
+msgstr "Scusa, ma stai per avere un piccolo incidente!"
+
+msgctxt "188_Man in Purple"
+msgid "Hold it! You're Kiryu-san, right?"
+msgstr "Fermo! Tu sei Kiryu-san, vero?"
+
+msgctxt "200_Kiryu"
+msgid "I am."
+msgstr "Lo sono."
+
+msgctxt "212_Man in Purple"
+msgid "Aha! I found you! Prepare to dine! I mean, die! Prepare to die!"
+msgstr "Aha! Ti ho trovato! Preparati a cenare! Cioè, a morire! Preparati a morire!"
+
+msgctxt "224_Kiryu"
+msgid "Hey, don't you think you're in over your head? You might hurt yourself."
+msgstr "Ehi, non pensi di aver fatto il passo più lungo della gamba? Potresti farti male."
+
+msgctxt "236_Man in Purple"
+msgid "Shut up! This is something we have to do! It's do or die! Now put 'em up!"
+msgstr "Zitto! È una cosa che dobbiamo fare! O la va o la spacca! Ora, in guardia!"
+
+msgctxt "248_Man in Purple"
+msgid "So you're Kiryu-kun?"
+msgstr "Allora sei tu, Kiryu-kun?"
+
+msgctxt "260_Kiryu"
+msgid "Finally. Just who are you people?"
+msgstr "Finalmente. Ma chi siete voi?"
+
+msgctxt "272_Man in Purple"
+msgid "We are the Purple Killers. Pleasure to meet you."
+msgstr "Siamo i Purple Killers. Piacere di conoscerti."
+
+msgctxt "284_Kiryu"
+msgid "What's the deal with sending all these clowns to get me?"
+msgstr "Qual è il senso di mandare tutti questi pagliacci a prendermi?"
+
+msgctxt "296_Purple Killers Member"
+msgid ""
+"They're decoys. If there are many people that look the same, it makes it "
+"easier for us to sneak up on our prey. Get it?"
+msgstr "Sono esche. Se ci sono molte persone che si assomigliano, è più facile per noi avvicinarci di soppiatto alla nostra preda. Capito?"
+
+msgctxt "308_Kiryu"
+msgid "And just what is your objective?"
+msgstr "E qual è il vostro obiettivo?"
+
+msgctxt "320_Purple Killers Member"
+msgid "What pro hitman worth his salt would answer a question like that?"
+msgstr "Quale sicario professionista degno di questo nome risponderebbe a una domanda del genere?"
+
+msgctxt "332_Kiryu"
+msgid "Hitman, huh? Guess you won't tell me who's paying the bounty either."
+msgstr "Sicario, eh? Immagino che non mi dirai nemmeno chi paga la taglia."
+
+msgctxt "344_Purple Killers Member"
+msgid "You're a quick learner."
+msgstr "Impari in fretta."
+
+msgctxt "356_Kiryu"
+msgid "That only leaves me with one option－beating the info out of you."
+msgstr "Questo mi lascia solo un'opzione: tirarti fuori le informazioni a suon di botte."
+
+msgctxt "368_Purple Killers Member"
+msgid ""
+"Quick on the uptake, and a tough talker! This oughta be fun. Ready to get "
+"started?"
+msgstr "Svelto di comprendonio e con la lingua lunga! Sarà divertente. Pronto a iniziare?"
+
+msgctxt "380_Man in Purple"
+msgid ""
+"Whoa, there. Not so fast. You're not going to the bowling alley. You're "
+"gonna die."
+msgstr "Ehi, un momento. Non così in fretta. Non stai andando al bowling. Stai per morire."
+
+msgctxt "416_Man in Purple"
+msgid "Damn, you're one strong mother－ Huh?"
+msgstr "Dannazione, sei un figlio di... Eh?"
+
+msgctxt "428_Kiryu"
+msgid "...What's wrong?"
+msgstr "...Cosa c'è che non va?"
+
+msgctxt "440_Man in Purple"
+msgid ""
+"You probably won't believe me, but a guy put me up to this. He was here "
+"just a second ago, fighting right beside me."
+msgstr "Probabilmente non mi crederai, ma un tizio mi ha incastrato. Era qui un secondo fa, a combattere proprio accanto a me."
+
+msgctxt "452_Kiryu"
+msgid "What do you mean, he put you up to this?"
+msgstr "Cosa intendi con, ti ha incastrato?"
+
+msgctxt "464_Man in Purple"
+msgid ""
+"He told us to wear the same purple jacket as him. He wanted us to talk to "
+"you. You know, pick a fight and distract you."
+msgstr "Ci ha detto di indossare la sua stessa giacca viola. Voleva che parlassimo con te. Sai, attaccare briga e distrarti."
+
+msgctxt "476_Man in Purple"
+msgid "He said we didn't have to beat you, but if we did..."
+msgstr "Ha detto che non dovevamo per forza batterti, ma se l'avessimo fatto..."
+
+msgctxt "488_Kiryu"
+msgid "...He'd give you money."
+msgstr "...Vi avrebbe dato dei soldi."
+
+msgctxt "500_Man in Purple"
+msgid "Yeah! Exactly!"
+msgstr "Sì! Esatto!"
+
+msgctxt "512_Man in Purple"
+msgid ""
+"Just by picking a fight with you, we'd get a hundred thou. A million if you "
+"croaked."
+msgstr "Solo attaccando briga con te, avremmo ottenuto centomila. Un milione se ci restavi secco."
+
+msgctxt "524_Man in Purple"
+msgid ""
+"It was a bit strange 'cause he was fighting right here beside me, but he up "
+"and left once you beat us. Didn't even get my hundred thou..."
+msgstr "È stato un po' strano perché stava combattendo proprio qui accanto a me, ma se n'è andato appena ci hai battuti. Non ho nemmeno ricevuto i miei centomila..."
+
+msgctxt "536_Kiryu"
+msgid ""
+"(A man dressed in purple, huh? I have no clue who he could be. Maybe this "
+"has something to do with all the gangs that have been after me.)"
+msgstr "(Un uomo vestito di viola, eh? Non ho idea di chi possa essere. Forse c'entra qualcosa con tutte le gang che mi stanno dando la caccia.)"
+
+msgctxt "548_Man in Purple"
+msgid "Hey, you!"
+msgstr "Ehi, tu!"
+
+msgctxt "560_Man in Purple"
+msgid "Oh, shit! Sorry! Please don't cut off my fingers!"
+msgstr "Oh, merda! Scusa! Ti prego, non tagliarmi le dita!"
+
+msgctxt "572_Kiryu"
+msgid "I don't care about your fingers. Are you hired help, too?"
+msgstr "Non mi interessano le tue dita. Sei stato ingaggiato anche tu?"
+
+msgctxt "584_Man in Purple"
+msgid "Huh?"
+msgstr "Eh?"
+
+msgctxt "596_Kiryu"
+msgid "I'm asking if you were hired by a man in purple."
+msgstr "Ti sto chiedendo se sei stato ingaggiato da un uomo in viola."
+
+msgctxt "608_Man in Purple"
+msgid "Oh, uh... Not exactly, but yeah! That kinda sums things up!"
+msgstr "Oh, ehm... Non esattamente, ma sì! Più o meno è così!"
+
+msgctxt "620_Kiryu"
+msgid "Start talking."
+msgstr "Inizia a parlare."
+
+msgctxt "632_Man in Purple"
+msgid ""
+"Yes, sir! We were enjoying ourselves at one of the establishments on Pink "
+"Street, until we got ripped off, big time!"
+msgstr "Sì, signore! Ci stavamo divertendo in uno dei locali di Pink Street, finché non ci hanno fregato, alla grande!"
+
+msgctxt "644_Man in Purple"
+msgid ""
+"We were only there for ten minutes, when this huge, scary man comes and "
+"tells us to pay up－a million yen! We tried to run but got caught..."
+msgstr "Eravamo lì solo da dieci minuti, quando arriva questo uomo enorme e spaventoso e ci dice di pagare... un milione di yen! Abbiamo provato a scappare ma ci hanno presi..."
+
+msgctxt "656_Man in Purple"
+msgid ""
+"The brute dragged us to the alley and pulled out a big, shiny knife... I "
+"thought we were goners, but then the men in purple came to save us!"
+msgstr "Il bruto ci ha trascinati nel vicolo e ha tirato fuori un grosso coltello luccicante... Pensavo fossimo spacciati, ma poi sono arrivati gli uomini in viola a salvarci!"
+
+msgctxt "668_Man in Purple"
+msgid ""
+"They paid the million yen. I felt like I was given a second chance at life! "
+"But I was wrong..."
+msgstr "Hanno pagato il milione di yen. Mi sono sentito come se mi fosse stata data una seconda possibilità! Ma mi sbagliavo..."
+
+msgctxt "680_Man in Purple"
+msgid ""
+"One of the purple guys had this creepy smirk. He told us to find you and "
+"give you a good beatdown."
+msgstr "Uno dei tizi in viola aveva un ghigno inquietante. Ci ha detto di trovarti e di darti una bella lezione."
+
+msgctxt "692_Man in Purple"
+msgid ""
+"I tried to refuse at first, but the guy said, \"Think of it as payback for "
+"the million yen favor.\" I'll never forget his scary face..."
+msgstr "All'inizio ho provato a rifiutare, ma il tizio ha detto: \"Consideralo un modo per ripagare il favore da un milione di yen\". Non dimenticherò mai la sua faccia spaventosa..."
+
+msgctxt "704_Man in Purple"
+msgid ""
+"And then he pulled out this even bigger knife! Ten times scarier than the "
+"one the last guy had! I almost crapped myself."
+msgstr "E poi ha tirato fuori questo coltello ancora più grande! Dieci volte più spaventoso di quello del tizio precedente! Me la sono quasi fatta sotto."
+
+msgctxt "716_Man in Purple"
+msgid ""
+"Then they handed us getups just like theirs, and we put them on as fast as "
+"we could. The rest... Well, you pretty much know."
+msgstr "Poi ci hanno dato dei completi uguali ai loro e li abbiamo indossati più in fretta che potevamo. Il resto... Beh, lo sai più o meno."
+
+msgctxt "728_Kiryu"
+msgid "Got it. You can leave now."
+msgstr "Capito. Ora puoi andare."
+
+msgctxt "740_Man in Purple"
+msgid "Uh, so you aren't gonna take a finger?"
+msgstr "Uh, quindi non mi prenderai un dito?"
+
+msgctxt "752_Kiryu"
+msgid "I said I don't care about that! Now get out of here!"
+msgstr "Ho detto che non mi interessa! Ora sparisci!"
+
+msgctxt "764_Man in Purple"
+msgid "Yes, sir! Sorry!"
+msgstr "Sì, signore! Scusi!"
+
+msgctxt "776_Kiryu"
+msgid ""
+"(These guys are really clueless. To get to the bottom of this, I need to "
+"find the real men in purple.)"
+msgstr "(Questi tizi sono davvero sprovveduti. Per venire a capo di questa storia, devo trovare i veri uomini in viola.)"
+
+msgctxt "788_Man in Purple"
+msgid "Feel like talking now?"
+msgstr "Ora hai voglia di parlare?"
+
+msgctxt "800_Purple Killers Member"
+msgid "......"
+msgstr "......"
+
+msgctxt "812_Kiryu"
+msgid "I guess if you guys are true professionals, then you won't talk."
+msgstr "Immagino che se siete dei veri professionisti, allora non parlerete."
+
+msgctxt "824_Kiryu"
+msgid ""
+"Clam up all you like. I'm gonna drag you around town on a rope and give you "
+"the grand tour."
+msgstr "State zitti quanto volete. Vi trascinerò in giro per la città con una corda e vi farò fare il giro turistico."
+
+msgctxt "836_Kiryu"
+msgid ""
+"Then everybody will know how pathetic you guys are. You'll never get "
+"another gig again."
+msgstr "Così tutti sapranno quanto siete patetici. Non otterrete mai più un altro ingaggio."
+
+msgctxt "848_Purple Killers Member"
+msgid "Dammit! Don't think we'll forget this!"
+msgstr "Dannazione! Non pensare che ce lo dimenticheremo!"
+
+msgctxt "860_Kiryu"
+msgid "This guy's just a lackey, too. How will I get to the bottom of this?"
+msgstr "Anche questo tizio è solo un tirapiedi. Come farò a venire a capo di questa storia?"
+
+msgctxt "872_Man in Purple"
+msgid "That all? It'll take more than you to finish me off."
+msgstr "Tutto qui? Ci vorrà ben altro che te per farmi fuori."
+
+msgctxt "884_Purple Killers Member"
+msgid "Unh..."
+msgstr "Unh..."
+
+msgctxt "896_Kiryu"
+msgid ""
+"(I guess I have to take care of their boss at the bowling alley if I want "
+"these guys to stop harassing me...)"
+msgstr "(Credo di dovermi occupare del loro capo al bowling se voglio che questi tizi smettano di tormentarmi...)"
+
+msgctxt "932_Man in Purple"
+msgid "Shit... The hell was that?"
+msgstr "Merda... Che diavolo era?"
+
+msgctxt "944_Man in Purple"
+msgid "Whoa! That was scary."
+msgstr "Whoa! Che paura."
+
+msgctxt "956_Man in Purple"
+msgid "Dammit!"
+msgstr "Dannazione!"
+
+msgctxt "968_Man in Purple"
+msgid "Unh..."
+msgstr "Unh..."

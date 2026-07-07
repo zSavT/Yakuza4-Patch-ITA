@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "516"
+msgid "Chigusa"
+msgstr "Chigusa"
+
+msgctxt "520"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "524"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "68_Chigusa"
+msgid "We're here. What are you waiting for? Let's go inside."
+msgstr "Eccoci qui. Che aspetti? Entriamo."
+
+msgctxt "80_Kiryu"
+msgid "Right."
+msgstr "Va bene."

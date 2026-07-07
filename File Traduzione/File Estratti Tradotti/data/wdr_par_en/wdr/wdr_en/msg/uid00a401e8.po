@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "748"
+msgid "Thief"
+msgstr "Ladro"
+
+msgctxt "752"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "756"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "760"
+msgid "0"
+msgstr "0"
+
+msgctxt "56_Thief"
+msgid "Ungh..."
+msgstr "Ungh..."
+
+msgctxt "80_Kiryu"
+msgid "What a waste of time."
+msgstr "Che perdita di tempo."
+
+msgctxt "92_Thief"
+msgid "(At least I got the purse back.)"
+msgstr "(Almeno la borsa l'ho recuperata.)"

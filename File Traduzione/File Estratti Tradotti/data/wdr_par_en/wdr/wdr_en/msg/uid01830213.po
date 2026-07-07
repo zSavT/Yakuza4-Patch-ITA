@@ -1,0 +1,148 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "4612"
+msgid "Man in Disguise"
+msgstr "Uomo Mascherato"
+
+msgctxt "4616"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "4620"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "4624"
+msgid "\"Akiyama\""
+msgstr "Akiyama"
+
+msgctxt "4628"
+msgid "SetM_nml_sitgrd_down_03"
+msgstr "SetM_nml_sitgrd_down_03"
+
+msgctxt "4632"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4636"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "4640"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "4644"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "72_Man in Disguise"
+msgid "Gaaagh!"
+msgstr "Aaaargh!"
+
+msgctxt "84_Akiyama"
+msgid "That'll show you!"
+msgstr "Così impari!"
+
+msgctxt "96_\"Akiyama\""
+msgid "You did it! Amazing!"
+msgstr "Ce l'hai fatta! Fantastico!"
+
+msgctxt "108_Man in Disguise"
+msgid "Arrrgh..."
+msgstr "Arrrgh..."
+
+msgctxt "144_\"Akiyama\""
+msgid "Yikes!"
+msgstr "Ahi!"
+
+msgctxt "192_\"Akiyama\""
+msgid "Oh, no! He took the case!"
+msgstr "Cazzo! Ha preso la valigetta!"
+
+msgctxt "204_Akiyama"
+msgid "Seriously? I told you to hold onto it!"
+msgstr "Ma fai sul serio? Ti avevo detto di tenertela stretta!"
+
+msgctxt "216_\"Akiyama\""
+msgid "Now what do we do? What do we do, Suzuki-san!?"
+msgstr "E adesso che si fa? Che si fa, Suzuki-san!?"
+
+msgctxt "228_Akiyama"
+msgid ""
+"Take a deep breath. The case is gone. You can't get it back "
+"now, so why don't we just go on ahead to the drop-off point?"
+msgstr ""
+"Prendi un bel respiro. La valigetta è sparita. Non puoi riaverla "
+"ora, quindi perché non andiamo dritti al punto di consegna?"
+
+msgctxt "240_\"Akiyama\""
+msgid "Are you sure? Do you think they'll forgive me?"
+msgstr "Sei sicuro? Pensi che mi perdoneranno?"
+
+msgctxt "276_\"Akiyama\""
+msgid ""
+"Phew... We're about halfway there. So far, so good. All we "
+"have to do is keep this up and-"
+msgstr ""
+"Uff... Siamo quasi a metà. Per ora, tutto liscio. Basta continuare così e-"
+
+msgctxt "288_Man in Disguise"
+msgid "Halt."
+msgstr "Fermo."
+
+msgctxt "300_\"Akiyama\""
+msgid "Eeek!"
+msgstr "Iiiih!"
+
+msgctxt "312_Man in Disguise"
+msgid "Leave the case and go."
+msgstr "Molla la valigetta e vattene."
+
+msgctxt "324_\"Akiyama\""
+msgid "No..."
+msgstr "No..."
+
+msgctxt "336_\"Akiyama\""
+msgid ""
+"Hey, I know! Suzuki-san! If you want that hundred million, "
+"take care of these guys!"
+msgstr ""
+"Ehi, so cosa fare! Suzuki-san! Se vuoi quei cento milioni, "
+"occupati tu di questi tizi!"
+
+msgctxt "348_Akiyama"
+msgid "Really? But..."
+msgstr "Davvero? Ma..."
+
+msgctxt "360_\"Akiyama\""
+msgid "Do you want the loan or not!?"
+msgstr "Lo vuoi 'sto prestito o no!?"
+
+msgctxt "372_Akiyama"
+msgid ""
+"Okay, I get you... Just make sure you hold onto that case, "
+"all right?"
+msgstr ""
+"Okay, ho capito... Assicurati solo di tenere stretta quella valigetta, "
+"va bene?"
+
+msgctxt "384_\"Akiyama\""
+msgid "Right. I'll defend it with my very life!"
+msgstr "Ci sto. Lo difenderò con la mia stessa vita!"
+
+msgctxt "396_Akiyama"
+msgid "Here goes... All right, you ruffians, come and get me!"
+msgstr "Allora, si comincia... Bene, voi scagnozzi, fatevi sotto!"

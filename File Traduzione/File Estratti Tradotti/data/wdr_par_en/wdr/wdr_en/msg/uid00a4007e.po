@@ -1,0 +1,361 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "12596"
+msgid "Nishihama"
+msgstr "Nishihama"
+
+msgctxt "12600"
+msgid "Taxi Driver"
+msgstr "Tassista"
+
+msgctxt "12604"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "12608"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "12612"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "12616"
+msgid "Phone_st"
+msgstr "Phone_st"
+
+msgctxt "12620"
+msgid "M_nml_stand_tlk_phone_tubuyaki"
+msgstr "M_nml_stand_tlk_phone_tubuyaki"
+
+msgctxt "12624"
+msgid "Phone_ed"
+msgstr "Phone_ed"
+
+msgctxt "12628"
+msgid "F_nml_sitgrd_tlk_rope_lp"
+msgstr "F_nml_sitgrd_tlk_rope_lp"
+
+msgctxt "12632"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "12636"
+msgid "F_yng_stand"
+msgstr "F_yng_stand"
+
+msgctxt "12640"
+msgid "Talk_Kamae"
+msgstr "Talk_Kamae"
+
+msgctxt "12644"
+msgid "Miki"
+msgstr "Miki"
+
+msgctxt "12648"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "12652"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "12656"
+msgid "F_nml_stand_tlk_ojigi"
+msgstr "F_nml_stand_tlk_ojigi"
+
+msgctxt "12660"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "12664"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "12668"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "12672"
+msgid "Hana"
+msgstr "Hana"
+
+msgctxt "12676"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "12680"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "56_Nishihama"
+msgid ""
+"This is where the kidnapper said to go. He said to give the "
+"money to-"
+msgstr ""
+"Qui è dove il rapitore ha detto di andare. Ha detto di dare i "
+"soldi a-"
+
+msgctxt "68_Taxi Driver"
+msgid "Excuse me... Are you Nishihama-san?"
+msgstr "Mi scusi... Lei è il signor Nishihama?"
+
+msgctxt "80_Nishihama"
+msgid "Erm... Yes. That's me."
+msgstr "Ehm... Sì. Sono io."
+
+msgctxt "92_Taxi Driver"
+msgid "Yes, well, I was told to deliver a briefcase..."
+msgstr "Sì, beh, mi è stato detto di ritirare una valigetta..."
+
+msgctxt "104_Nishihama"
+msgid "Oh, yes, of course! This is the one..."
+msgstr "Ah, sì, certo! È proprio questa..."
+
+msgctxt "116_Taxi Driver"
+msgid ""
+"Gotta say, I don't usually do this kind of thing. I'm not a "
+"delivery man, you know."
+msgstr "Devo dire che di solito non faccio questo genere di cose. Non sono un fattorino, sa."
+
+msgctxt "128_Akiyama"
+msgid ""
+"Pardon me, friend, but... Do you know where you're taking "
+"that?"
+msgstr ""
+"Scusa, amico, ma... sai dove la stai "
+"portando?"
+
+msgctxt "140_Taxi Driver"
+msgid "Not yet... He said he'd call later to let me know."
+msgstr "Non ancora... Ha detto che mi chiamerà più tardi per farmelo sapere."
+
+msgctxt "152_Taxi Driver"
+msgid "That said, I'd better get going... Well, so long."
+msgstr "Detto questo, è meglio che vada... Beh, arrivederci."
+
+msgctxt "188_Nishihama"
+msgid "Hello!? Yes, this is Nishihama!"
+msgstr "Pronto!? Sì, sono Nishihama!"
+
+msgctxt "200_Nishihama"
+msgid "(It's the kidnapper.)"
+msgstr "(È il rapitore.)"
+
+msgctxt "212_Nishihama"
+msgid ""
+"Yes... I gave it to the taxi driver. Now, where's my "
+"daughter!? Where's Miki!?"
+msgstr ""
+"Sì... L'ho data al tassista. Ora, dov'è mia "
+"figlia!? Dov'è Miki!?"
+
+msgctxt "224_Nishihama"
+msgid "...Huh!? The bathroom in West Park?"
+msgstr "...Eh!? Il bagno del West Park?"
+
+msgctxt "236_Nishihama"
+msgid "Hey! Wait a second! Don't hang up! Heeey!"
+msgstr "Ehi! Aspetti un attimo! Non riattacchi! Ehiii!"
+
+msgctxt "260_Nishihama"
+msgid "He said she's in the bathroom at West Park..."
+msgstr "Ha detto che è nel bagno del West Park..."
+
+msgctxt "308_Nishihama"
+msgid "Miki!"
+msgstr "Miki!"
+
+msgctxt "392_Nishihama"
+msgid "Miki, are you all right? Did he... Did he do anything to you?"
+msgstr "Miki, stai bene? Ti ha... ti ha fatto del male?"
+
+msgctxt "404_Miki"
+msgid "No, I'm fine... Thanks, Dad."
+msgstr "No, sto bene... Grazie, papà."
+
+msgctxt "416_Nishihama"
+msgid "Oh, thank goodness... Thank goodness you're okay."
+msgstr "Oh, meno male... Meno male che stai bene."
+
+msgctxt "428_Akiyama"
+msgid "......"
+msgstr "......"
+
+msgctxt "440_Miki"
+msgid "Um... Dad? Who's this?"
+msgstr "Ehm... Papà? Chi è lui?"
+
+msgctxt "452_Nishihama"
+msgid ""
+"This is Akiyama-san. He lent me some money, and, well, you "
+"might say he saved your life! You'd do well to thank him."
+msgstr ""
+"Lui è il signor Akiyama. Mi ha prestato dei soldi e, beh, si potrebbe dire che ti "
+"ha salvato la vita! Faresti bene a ringraziarlo."
+
+msgctxt "476_Miki"
+msgid "Um... Thank you very much for saving me, Akiyama-san."
+msgstr "Ehm... Grazie mille per avermi salvata, signor Akiyama."
+
+msgctxt "488_Akiyama"
+msgid "Uh... Sure. Now, about your repayment date..."
+msgstr "Ehm... Certo. Ora, a proposito della data di rimborso..."
+
+msgctxt "500_Nishihama"
+msgid ""
+"Well, the thing is, I gave nearly all I had to the "
+"kidnapper... Along with the money you gave me, that is."
+msgstr ""
+"Beh, vede, il fatto è che ho dato quasi tutto quello che avevo al "
+"rapitore... Insieme ai soldi che mi ha prestato lei, ovviamente."
+
+msgctxt "512_Nishihama"
+msgid ""
+"If you want me to pay you back right away, it's going to be "
+"quite the challenge... Though there's no interest on that "
+"loan, right?"
+msgstr ""
+"Se vuole che la ripaghi subito, la "
+"vedo dura... Ma su quel "
+"prestito non ci sono interessi, giusto?"
+
+msgctxt "524_Akiyama"
+msgid ""
+"That was our agreement, yes. Could you please sign or stamp "
+"this promissory note?"
+msgstr "Esatto, questi erano gli accordi. Può firmare o timbrare questa cambiale, per favore?"
+
+msgctxt "536_Nishihama"
+msgid "Oh... Sure... There, it's done."
+msgstr "Oh... Certo... Ecco, fatto."
+
+msgctxt "548_Akiyama"
+msgid ""
+"Thank you kindly. Okay then, I need to get this back to "
+"the office."
+msgstr "La ringrazio. Bene, ora devo riportare questa in ufficio."
+
+msgctxt "560_Nishihama"
+msgid "Thank you, Akiyama-san! I'll be sure to pay you back someday."
+msgstr "Grazie, signor Akiyama! Le assicuro che un giorno la ripagherò."
+
+msgctxt "596_Akiyama"
+msgid ""
+"She seems awfully cheerful, given the circumstances... "
+"Oh, well. Guess I'll head on back."
+msgstr "Sembra fin troppo allegra, date le circostanze... Vabbè. Direi di tornare in ufficio."
+
+msgctxt "620_Akiyama"
+msgid "(Oh, it's Hana-chan.)"
+msgstr "(Oh, è Hana-chan.)"
+
+msgctxt "656_Akiyama"
+msgid "Hello?"
+msgstr "Pronto?"
+
+msgctxt "668_Hana"
+msgid "Hi, Chief. Is the girl okay?"
+msgstr "Ciao, Capo. La ragazza sta bene?"
+
+msgctxt "680_Akiyama"
+msgid "Better than okay. Girl was downright bubbly."
+msgstr "Più che bene. Era decisamente pimpante."
+
+msgctxt "692_Hana"
+msgid "Hmm... Odd for someone who'd just been kidnapped."
+msgstr "Mmm... Strano per una che è appena stata rapita."
+
+msgctxt "704_Akiyama"
+msgid "Yeah. There's definitely something fishy going on."
+msgstr "Già. C'è decisamente qualcosa che non quadra."
+
+msgctxt "716_Akiyama"
+msgid ""
+"I mean, putting the hostage in a bathroom before the deal "
+"goes through? What if Nishihama never handed over the "
+"ransom? Things like that."
+msgstr ""
+"Insomma, lasciare l'ostaggio in un bagno prima che lo scambio sia concluso? "
+"E se Nishihama non avesse mai consegnato il riscatto? "
+"Cose del genere."
+
+msgctxt "728_Hana"
+msgid ""
+"It's a strange one, all right. Do you think he might've been "
+"pulling a fast one on you?"
+msgstr "È una faccenda strana, non c'è che dire. Pensi che ti stessero fregando?"
+
+msgctxt "740_Akiyama"
+msgid "Maybe... Either way, I'm gonna get to the bottom of it."
+msgstr "Forse... In ogni caso, andrò a fondo della questione."
+
+msgctxt "752_Hana"
+msgid "Huh...?"
+msgstr "Eh...?"
+
+msgctxt "764_Akiyama"
+msgid ""
+"The family came together to work this scam. What would drive "
+"people to those lengths?"
+msgstr "La famiglia si è messa d'accordo per organizzare questa truffa. Cosa può spingere la gente a tanto?"
+
+msgctxt "776_Hana"
+msgid "*sigh* There's that bad habit of yours, Chief."
+msgstr "*sospiro* Ecco il tuo solito vizietto, Capo."
+
+msgctxt "788_Akiyama"
+msgid "What's the harm? I'm just going to poke around a little."
+msgstr "Che male c'è? Vado solo a ficcanasare un po'."
+
+msgctxt "800_Hana"
+msgid ""
+"Let me give you some data, then. I'm looking through the cab "
+"company's trip records now..."
+msgstr ""
+"Allora ti passo io qualche dato. Sto spulciando i registri delle corse "
+"della compagnia di taxi adesso..."
+
+msgctxt "812_Hana"
+msgid "Here we go. Yep, this is fishy, all right."
+msgstr "Ci siamo. Sì, la cosa puzza, non c'è dubbio."
+
+msgctxt "824_Hana"
+msgid "The taxi that picked up the ransom money..."
+msgstr "Il taxi che ha ritirato i soldi del riscatto..."
+
+msgctxt "836_Hana"
+msgid ""
+"It looks like it did a circuit of Kamurocho then stopped "
+"near Children's Park on Shichifuku."
+msgstr "Sembra che abbia fatto un giro per Kamurocho per poi fermarsi vicino al Children's Park, in Shichifuku Street."
+
+msgctxt "848_Akiyama"
+msgid "Wow, Hana-chan... You looked all that up for me?"
+msgstr "Wow, Hana-chan... Hai cercato tutto questo per me?"
+
+msgctxt "860_Hana"
+msgid ""
+"I was kind of curious myself. Besides, I don't much care for "
+"tricking people or seeing them get tricked."
+msgstr ""
+"Ero curiosa anch'io. E poi non mi piace per niente "
+"ingannare le persone o vederle ingannate."
+
+msgctxt "872_Akiyama"
+msgid ""
+"That sounds like you, all right. Children's Park on "
+"Via Shichifuku, huh? All right, I'll go take a look."
+msgstr "È proprio da te. Children's Park in Shichifuku Street, eh? Va bene, vado a dare un'occhiata."

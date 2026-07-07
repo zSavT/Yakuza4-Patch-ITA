@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "624"
+msgid "Street Punk"
+msgstr "Teppista di strada"
+
+msgctxt "628"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "56_Street Punk"
+msgid "Urgh... What's your problem, you crazy old bastard?"
+msgstr "Urgh... Ma che vuoi, vecchio stronzo?"
+
+msgctxt "68_Saejima"
+msgid "Alright... is their boss inside here somewhere?"
+msgstr "Allora... il loro capo è qui dentro da qualche parte?"

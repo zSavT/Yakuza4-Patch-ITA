@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "144"
+msgid "Nothing happened."
+msgstr "Non è successo niente."
+
+msgctxt "1128"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1132"
+msgid "TNK_09_C_START"
+msgstr "TNK_09_C_START"
+
+msgctxt "1136"
+msgid "TNK_09_C_E_START"
+msgstr "TNK_09_C_E_START"
+
+msgctxt "1140"
+msgid "TNK_09_C_N_START"
+msgstr "TNK_09_C_N_START"
+
+msgctxt "156_Player"
+msgid "(I should take a break and come back later...)"
+msgstr "(Dovrei fare una pausa e tornare più tardi...)"
+
+msgctxt "180_Player"
+msgid "You learned the <Color:9>Essence of Skull-Crushing<Color:Default>."
+msgstr "Hai imparato l'<Color:9>Essenza spaccateschi<Color:Default>."

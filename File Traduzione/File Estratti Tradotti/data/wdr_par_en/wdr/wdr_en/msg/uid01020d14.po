@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1816"
+msgid "Lily"
+msgstr "Lily"
+
+msgctxt "1820"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1824"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1828"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "92_Lily"
+msgid "......"
+msgstr "......"
+
+msgctxt "104_Akiyama"
+msgid "Is it somewhere in here?"
+msgstr "È da qualche parte qui dentro?"
+
+msgctxt "116_Lily"
+msgid "I think so..."
+msgstr "Mi pare di sì..."
+
+msgctxt "128_Lily"
+msgid "It's just... This building wasn't here before."
+msgstr "È solo che... Questo edificio non c'era prima."
+
+msgctxt "140_Akiyama"
+msgid "Really? It's been here a while."
+msgstr "Davvero? È qui da un bel po'."
+
+msgctxt "152_Lily"
+msgid "Do you mind if we take a quick look around?"
+msgstr "Ti scoccia se diamo un'occhiata veloce qui attorno?"
+
+msgctxt "164_Akiyama"
+msgid "Oh, uh, sure..."
+msgstr "Oh, ehm, certo..."

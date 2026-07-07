@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1304"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1308"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1312"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1316"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1320"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1324"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid "Care to contribute to my fundraising efforts? All for the benefit of my empty wallet."
+msgstr "Ti va di contribuire alla mia raccolta fondi? Tutto a beneficio del mio portafoglio vuoto."
+
+msgctxt "128_Man"
+msgid "Did I mention it's not exactly voluntary? Pay up or I'll kick your ass!"
+msgstr "Ho detto che non è esattamente volontario? Paga o ti prendo a calci in culo!"
+
+msgctxt "152_Man"
+msgid "Ow, that hurt. Sorry I got carried away."
+msgstr "Ahi, ha fatto male. Scusa, mi sono lasciato trasportare."
+
+msgctxt "164_Man"
+msgid "This is for you."
+msgstr "Questo è per te."
+
+msgctxt "176_Man"
+msgid "You got an extreme %s."
+msgstr "Hai ottenuto un %s estremo."
+
+msgctxt "212_Man"
+msgid "I won't do it again..."
+msgstr "Non lo farò più..."

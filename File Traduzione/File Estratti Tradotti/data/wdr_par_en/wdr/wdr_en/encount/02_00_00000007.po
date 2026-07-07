@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1316"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1320"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1324"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1328"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1332"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid "Aren't you the guy who beat up one of my underlings for his money?"
+msgstr "Non sei tu quello che ha picchiato uno dei miei sottoposti per i suoi soldi?"
+
+msgctxt "128_Man"
+msgid "Don't pretend you ain't! Pull that shit on me and you know what's coming your way. Prepare to get your ass kicked!"
+msgstr "Non fare finta di niente! Prova a fare quella stronzata con me e sai cosa ti aspetta. Preparati a prenderle!"
+
+msgctxt "152_Man"
+msgid "My apologies. Looks like I got the wrong guy."
+msgstr "Le mie scuse. Sembra che abbia sbagliato persona."
+
+msgctxt "164_Man"
+msgid "This is for you."
+msgstr "Questo è per te."
+
+msgctxt "176_Man"
+msgid "You got a gelatinous %s."
+msgstr "Hai ottenuto un %s gelatinoso."
+
+msgctxt "212_Man"
+msgid "I really am sorry..."
+msgstr "Mi dispiace davvero..."

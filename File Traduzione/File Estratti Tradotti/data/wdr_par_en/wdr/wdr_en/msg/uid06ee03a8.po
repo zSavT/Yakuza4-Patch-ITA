@@ -1,0 +1,43 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "144"
+msgid "You can save the game and use the Item Box at phones."
+msgstr "Puoi salvare il gioco e usare la Cassa Oggetti ai telefoni."
+
+msgctxt "1436"
+msgid "Save Point"
+msgstr "Punto di salvataggio"
+
+msgctxt "168_Save Point"
+msgid ""
+"This information has been added as a <Color:14>memo<Color:Default>. "
+"Read <Color:14>memos<Color:Default> by selecting <Color:14>Memos<Color:Default> in the Pause Menu. "
+"You can access the Pause Menu with the <Action:Button_Options@Adventure> button."
+msgstr ""
+"Questa informazione è stata aggiunta come <Color:14>Memo<Color:Default>. "
+"Leggi i <Color:14>Memos<Color:Default> selezionando <Color:14>Memos<Color:Default> nel menu di Pausa. "
+"Puoi accedere al menu di Pausa con il tasto <Action:Button_Options@Adventure>."
+
+msgctxt "216_Save Point"
+msgid "Save"
+msgstr "Salva"
+
+msgctxt "228_Save Point"
+msgid "Use the Item Box"
+msgstr "Usa la Cassa oggetti"
+
+msgctxt "240_Save Point"
+msgid "Cancel"
+msgstr "Annulla"

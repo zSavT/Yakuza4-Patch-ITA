@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1840"
+msgid "Tadashi"
+msgstr "Tadashi"
+
+msgctxt "1844"
+msgid "Hoodlum"
+msgstr "Teppista"
+
+msgctxt "1848"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1852"
+msgid "M_cld_stand_tlk_kamae"
+msgstr "M_cld_stand_tlk_kamae"
+
+msgctxt "1856"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "100_Tadashi"
+msgid "Yow!"
+msgstr "Ahia!"
+
+msgctxt "112_Hoodlum"
+msgid ""
+"I'm getting real sick of your loud mouth, squirt. "
+"I told you, I don't know no Akiko. Now scram!"
+msgstr ""
+"Mi sono rotto le palle di sentirti sbraitare, moccioso. "
+"Te l'ho detto, non conosco nessuna Akiko. Adesso smamma!"
+
+msgctxt "124_Tadashi"
+msgid "I hate you... I hate all of you!"
+msgstr "Ti odio... Vi odio tutti!"
+
+msgctxt "148_Saejima"
+msgid "Hey, now. Why don't ya pick on someone your own size?"
+msgstr "Ehi, vacci piano. Perché non te la prendi con qualcuno della tua stazza?"
+
+msgctxt "160_Hoodlum"
+msgid "Like you? If you got a problem, old timer, I'm all ears!"
+msgstr "Tipo te? Se hai un problema, vecchio, spara!"
+
+msgctxt "172_Saejima"
+msgid ""
+"Waste of breath. Some folks just can't see straight "
+"till you knock some sense into 'em."
+msgstr ""
+"Fiato sprecato. Certa gente non ragiona "
+"finché non le fai entrare un po' di buonsenso in testa a suon di botte."

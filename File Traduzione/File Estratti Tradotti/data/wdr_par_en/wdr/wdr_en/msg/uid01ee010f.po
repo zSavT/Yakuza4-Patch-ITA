@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1376"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1380"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "148_Player"
+msgid ""
+"(I should go find her. Where would she hang out... Perhaps the place where I"
+" first recruited her?)"
+msgstr ""
+"(Dovrei andare a cercarla. Dove bazzicherebbe...? Magari nel posto dove l'ho"
+" agganciata la prima volta?)"
+
+msgctxt "256_Akiyama"
+msgid "(Whoops, haven't scoped out the club yet...)"
+msgstr "(Cavolo, non ho ancora fatto un giro nel locale...)"

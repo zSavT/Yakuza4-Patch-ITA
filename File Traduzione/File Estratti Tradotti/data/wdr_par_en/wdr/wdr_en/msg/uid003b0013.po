@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1020"
+msgid "マック"
+msgstr "Mac"
+
+msgctxt "172_マック"
+msgid "There's nothin' like that!"
+msgstr "Non c'è niente del genere!"
+
+msgctxt "196_マック"
+msgid "Like I'd tell you!"
+msgstr "Come se te lo dicessi!"
+
+msgctxt "220_マック"
+msgid "Tell me my opponent's skill"
+msgstr "Dimmi di che pasta è fatto il mio avversario."
+
+msgctxt "232_マック"
+msgid "Tell me how to avoid impossible battles"
+msgstr "Dimmi come evitare battaglie impossibili"
+
+msgctxt "244_マック"
+msgid "Tell me how to lose my pursuers"
+msgstr "Dimmi come seminare i miei inseguitori"
+
+msgctxt "256_マック"
+msgid "Tell me how to quickly catch my opponent"
+msgstr "Dimmi come sconfiggere velocemente il mio avversario"
+
+msgctxt "268_マック"
+msgid "Tell me how to find shortcuts in town"
+msgstr "Dimmi come trovare scorciatoie in città"

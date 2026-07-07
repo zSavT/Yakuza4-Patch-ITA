@@ -1,0 +1,67 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1472"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1476"
+msgid "Tadokoro"
+msgstr "Tadokoro"
+
+msgctxt "1480"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1484"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "1488"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1492"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "84_Saejima"
+msgid "Looks like I kept ya waitin'. This where the job's at?"
+msgstr "Mi sa che ti ho fatto aspettare. È qui il lavoretto?"
+
+msgctxt "96_Tadokoro"
+msgid "Ah, Suzuki-san. Here you are at last."
+msgstr "Ah, Suzuki-san. Eccoti finalmente."
+
+msgctxt "108_Tadokoro"
+msgid "By the by, do you know about the Dragon Palace?"
+msgstr "A proposito, conosci il Dragon Palace?"
+
+msgctxt "120_Saejima"
+msgid ""
+"Not that horseshit again. I swear you guys are trying "
+"to yank my chain."
+msgstr ""
+"Ancora con 'sta stronzata. Giuro che state cercando di "
+"prendermi per il culo."
+
+msgctxt "132_Tadokoro"
+msgid ""
+"No, Suzuki-san, of course not. It's not a place most "
+"people would even hear about. Allow me to show you "
+"the Dragon Palace of Kamurocho. Please, follow me."
+msgstr ""
+"No, Suzuki-san, ovviamente no. Non è un posto di cui la maggior parte "
+"della gente abbia mai sentito parlare. Permettimi di mostrarti "
+"il Dragon Palace di Kamurocho. Per favore, seguimi."

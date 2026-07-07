@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1228"
+msgid "Purple Killers Survivor"
+msgstr "Sopravvissuto dei Purple Killers"
+
+msgctxt "1232"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1236"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1240"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Purple Killers Survivor"
+msgid "Kiryu-san, the Purple Killers are known to be persistent, you know? You did a number on us, so allow me to return the favor!"
+msgstr "Kiryu-san, i Purple Killers sono noti per essere insistenti, sai? Ci hai dato una bella lezione, quindi permettimi di ricambiare il favore!"
+
+msgctxt "140_Purple Killers Survivor"
+msgid "Urggh..."
+msgstr "Urggh..."
+
+msgctxt "152_Talk_Yes"
+msgid "I concede. You have utterly defeated me."
+msgstr "Mi arrendo. Mi hai sconfitto completamente."
+
+msgctxt "164_Purple Killers Survivor"
+msgid "You got a <Color:8>Gang Emblem<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Emblema della Gang<Color:Default>."
+
+msgctxt "200_Purple Killers Survivor"
+msgid "Urgh..."
+msgstr "Urgh..."

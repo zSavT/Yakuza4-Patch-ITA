@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1044"
+msgid "Alps Staff"
+msgstr "Staff dell'Alps"
+
+msgctxt "1048"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "1052"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "56_Alps Staff"
+msgid "Welcome, sir. How many in your party?"
+msgstr "Benvenuto, signore. Per quanti?"
+
+msgctxt "68_Kiryu"
+msgid "I was actually wondering if you guys do takeout. I need curry, stat."
+msgstr "In realtà mi chiedevo se fate da asporto. Mi serve del curry, alla svelta."
+
+msgctxt "80_Alps Staff"
+msgid "I'm sorry, sir. We only offer our dining experience in-house."
+msgstr "Mi dispiace, signore. Offriamo solo servizio al tavolo."
+
+msgctxt "92_Kiryu"
+msgid "But I can't just leave him...! Guess I'll have to look somewhere else."
+msgstr "Ma non posso lasciarlo così...! Mi sa che dovrò cercare altrove."
+
+msgctxt "104_Alps Staff"
+msgid "My deepest apologies, sir."
+msgstr "Le mie più sentite scuse, signore."
+
+msgctxt "116_Kiryu"
+msgid "(Where else can I get curry?)"
+msgstr "(Dove altro posso rimediare del curry?)"

@@ -1,0 +1,77 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1460"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1464"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "1468"
+msgid "Young Person"
+msgstr "Ragazzo"
+
+msgctxt "1472"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1476"
+msgid "Talk_Info_L"
+msgstr "Talk_Info_L"
+
+msgctxt "1480"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "1484"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "1488"
+msgid "0"
+msgstr "0"
+
+msgctxt "84_Akiyama"
+msgid "Hey, you there. Did you see a young woman run by just now?"
+msgstr "Ehi, scusa! Hai visto una ragazza passare di corsa un attimo fa?"
+
+msgctxt "96_Young Person"
+msgid "Huh? Oh, yeah. Snagged a cab right over there."
+msgstr "Eh? Ah, sì. Ha preso un taxi al volo proprio lì."
+
+msgctxt "108_Akiyama"
+msgid "So now she's in a taxi... Any idea where she went?"
+msgstr "Quindi ora è in taxi... Sai mica dov'è andata?"
+
+msgctxt "120_Young Person"
+msgid ""
+"She told the driver something about 'in front of the "
+"theater.' Are you some kind of stalker or something?"
+msgstr ""
+"Ha detto all'autista qualcosa tipo 'davanti al "
+"teatro'. Sei mica uno stalker o roba del genere?"
+
+msgctxt "132_Akiyama"
+msgid ""
+"C'mon, you ever seen a stalker dress this sharp? Thanks for "
+"the tip."
+msgstr ""
+"Andiamo, hai mai visto uno stalker con tutto questo stile? Grazie per "
+"la dritta."
+
+msgctxt "144_Akiyama"
+msgid "(Better head to Theater Square...)"
+msgstr "(Meglio andare a Theater Square...)"

@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1380"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1384"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1388"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1392"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1396"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "Please, won't you help me? I've been partying too hard and I've run out of money!"
+msgstr "Ti prego, non mi aiuti? Ho festeggiato troppo e ho finito i soldi!"
+
+msgctxt "128_Man"
+msgid "Take out your wallet now and save me! C'mon pal, hand it over already!"
+msgstr "Tira fuori il portafoglio adesso e salvami! Dai amico, sgancia!"
+
+msgctxt "152_Man"
+msgid "That's enough! Really!"
+msgstr "Basta! Davvero!"
+
+msgctxt "164_Man"
+msgid "Your feelings came through loud and clear... and painfully. Please take this instead."
+msgstr "I tuoi sentimenti sono arrivati forti e chiari... e dolorosamente. Ti prego, prendi questo invece."
+
+msgctxt "176_Man"
+msgid "You got a creaky %s."
+msgstr "Hai ottenuto un %s scricchiolante."
+
+msgctxt "212_Man"
+msgid "Ouch..."
+msgstr "Ahi..."

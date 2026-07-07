@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1248"
+msgid "Tadokoro's Subordinate"
+msgstr "Subordinato di Tadokoro"
+
+msgctxt "1252"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1256"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1260"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "128_Tadokoro's Subordinate"
+msgid ""
+"Are you ready to take part in the special match tournament, "
+"Suzuki-san?"
+msgstr ""
+"Sei pronto a partecipare al torneo di incontri speciali, "
+"Suzuki-san?"
+
+msgctxt "140_Saejima"
+msgid "Can ya hang on a sec? I mighta forgotten somethin'."
+msgstr ""
+"Aspetta un attimo, eh? "
+"Mi sa che ho dimenticato qualcosa."
+
+msgctxt "152_Tadokoro's Subordinate"
+msgid "Yes, of course. Come see me when you've prepared."
+msgstr "Sì, certo. Vieni da me quando sarai pronto."
+
+msgctxt "164_Saejima"
+msgid "Yeah, I'm good to go anytime."
+msgstr "Sì, sono a posto, quando vuoi."
+
+msgctxt "176_Tadokoro's Subordinate"
+msgid "Please proceed inside. The tourney is about to begin."
+msgstr "Avanti, entrate. Il torneo sta per iniziare."
+
+msgctxt "200_Tadokoro's Subordinate"
+msgid "I'm good to go."
+msgstr "Sono a posto."
+
+msgctxt "212_Tadokoro's Subordinate"
+msgid "Hang on a sec."
+msgstr "Aspetta un attimo."

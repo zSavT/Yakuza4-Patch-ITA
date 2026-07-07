@@ -1,0 +1,31 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "500"
+msgid "Client"
+msgstr "Cliente"
+
+msgctxt "504"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "56_Client"
+msgid "Blargh..."
+msgstr "Ugh..."
+
+msgctxt "68_Saejima"
+msgid "Get back up, dammit! Stay with me!"
+msgstr ""
+"Rialzati, cazzo! "
+"Resta con me!"

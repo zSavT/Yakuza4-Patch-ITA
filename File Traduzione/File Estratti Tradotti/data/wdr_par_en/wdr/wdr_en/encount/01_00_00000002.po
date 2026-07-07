@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1204"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1208"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "1212"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1216"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "I'm feelin' out of shape lately. How about helping me out with my training?"
+msgstr "Ultimamente mi sento fuori forma. Che ne dici di aiutarmi con il mio allenamento?"
+
+msgctxt "140_Man"
+msgid "Okay, that's enough. I won't need to hit the gym for a while now."
+msgstr "Ok, basta così. Non avrò bisogno di andare in palestra per un po'."
+
+msgctxt "152_Man"
+msgid "Take this. Thanks for working out with me."
+msgstr "Prendi questo. Grazie per esserti allenato con me."
+
+msgctxt "164_Man"
+msgid "You got a musky %s."
+msgstr "Hai ottenuto un %s muschiato."
+
+msgctxt "200_Man"
+msgid "Looks like I'll be hitting up the hospital instead of the gym..."
+msgstr "Sembra che andrò in ospedale invece che in palestra..."

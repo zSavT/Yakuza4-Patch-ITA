@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1328"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1332"
+msgid "AnswerxAnswer"
+msgstr "RispostaxRisposta"
+
+msgctxt "1336"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "128_Player"
+msgid "(Maybe I should read the instructions for AnswerxAnswer...)"
+msgstr "(Magari dovrei dare un'occhiata alle istruzioni di AnswerxAnswer...)"
+
+msgctxt "188_Player"
+msgid "(All right, let's do this.)"
+msgstr "(Ok, si fa.)"
+
+msgctxt "212_Player"
+msgid "(I don't have enough money...)"
+msgstr "(Non c'ho abbastanza soldi...)"
+
+msgctxt "224_Player"
+msgid "(Maybe later.)"
+msgstr "(Magari più tardi.)"
+
+msgctxt "236_Player"
+msgid "Play"
+msgstr "Gioca"
+
+msgctxt "248_Player"
+msgid "Read the Instructions"
+msgstr "Leggi le Istruzioni"
+
+msgctxt "260_Player"
+msgid "Don't Play"
+msgstr "Non giocare"

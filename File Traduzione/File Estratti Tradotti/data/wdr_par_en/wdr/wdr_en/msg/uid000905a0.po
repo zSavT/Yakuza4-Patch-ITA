@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "400"
+msgid "Confused High Schooler"
+msgstr "Liceale Confuso"
+
+msgctxt "404"
+msgid "Knowledgeable High Schooler"
+msgstr "Liceale informato"
+
+msgctxt "84_Confused High Schooler"
+msgid "Hey, what happened? I just got here..."
+msgstr "Ehi, che è successo? Sono appena arrivato..."
+
+msgctxt "96_Knowledgeable High Schooler"
+msgid "I think it was like, a celebrity or something!"
+msgstr "Credo fosse, tipo, una celebrità o roba del genere!"

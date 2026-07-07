@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1304"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1308"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1312"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1316"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1320"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1324"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "116_Man"
+msgid "You lookin' at me, buddy?"
+msgstr "Mi stai guardando, amico?"
+
+msgctxt "128_Man"
+msgid "What, you got a starin' problem or somethin'? Cut it out!"
+msgstr "Cosa, hai problemi a fissare la gente o cosa? Smettila!"
+
+msgctxt "152_Man"
+msgid "I didn't stand a chance..."
+msgstr "Non ho avuto scampo..."
+
+msgctxt "164_Man"
+msgid "Sorry I went off on you like that."
+msgstr "Scusa se me la sono presa con te in quel modo."
+
+msgctxt "176_Man"
+msgid "You got a goopy %s."
+msgstr "Hai ottenuto un %s appiccicoso."
+
+msgctxt "212_Man"
+msgid "With someone like you lookin' at me, well, I can't help feelin' a little bashful."
+msgstr "Con uno come te che mi guarda, beh, non posso fare a meno di sentirmi un po' timido."

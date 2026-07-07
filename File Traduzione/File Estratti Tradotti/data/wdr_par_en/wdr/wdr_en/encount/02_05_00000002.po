@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1460"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1464"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1468"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "1472"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "You look like you're really enjoying yourself. Nothing like a good stiff drink, am I right? How about sharing some of the fun with us?"
+msgstr "Sembri divertirti un mondo. Niente come un bel drink forte, vero? Che ne dici di condividere un po' del divertimento con noi?"
+
+msgctxt "128_Man"
+msgid "What I'm saying is, you don't need that money, so how about you help us out by giving it to us!?"
+msgstr "Quello che sto dicendo è che non hai bisogno di quei soldi, quindi che ne dici di aiutarci dandoli a noi!?"
+
+msgctxt "152_Man"
+msgid "Sorry for harshing your mellow like that."
+msgstr "Scusa per averti rovinato il momento."
+
+msgctxt "164_Man"
+msgid "Here, this is for your drinking fund. On us."
+msgstr "Tieni, questo è per i tuoi drink. Offriamo noi."
+
+msgctxt "176_Man"
+msgid "You got a soft %s."
+msgstr "Hai ottenuto un %s morbido."
+
+msgctxt "212_Man"
+msgid "We're gonna need money for a hospital first..."
+msgstr "Prima avremo bisogno di soldi per un ospedale..."

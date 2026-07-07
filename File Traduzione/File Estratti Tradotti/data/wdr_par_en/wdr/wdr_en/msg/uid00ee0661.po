@@ -1,0 +1,31 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "96"
+msgid " <Color:8>Tauriner<Color:Default>."
+msgstr "<Color:8>Tauriner<Color:Default>."
+
+msgctxt "556"
+msgid "Stationery Distributor"
+msgstr "Distributore di cancelleria"
+
+msgctxt "84_Stationery Distributor"
+msgid "We're distributing stationery to promote our shop! Please stop by!"
+msgstr ""
+"Stiamo distribuendo cancelleria per promuovere il nostro negozio! Fate un "
+"salto!"
+
+msgctxt "120_Stationery Distributor"
+msgid "."
+msgstr "."

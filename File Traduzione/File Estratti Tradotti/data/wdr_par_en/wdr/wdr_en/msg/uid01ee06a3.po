@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "572"
+msgid "Employee"
+msgstr "Staff"
+
+msgctxt "56_Employee"
+msgid "Welcome. You can exchange chips for prizes here."
+msgstr "Benvenuto. Qui può scambiare le fiches per dei premi."
+
+msgctxt "80_Employee"
+msgid "Thank you very much. Please come again."
+msgstr "Grazie mille. Torni a trovarci."
+
+msgctxt "92_Employee"
+msgid "Very well. Please come again."
+msgstr "Benissimo. Torni a trovarci."

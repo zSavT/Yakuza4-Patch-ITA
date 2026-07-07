@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1804"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1808"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1812"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1816"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1820"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1824"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "You there, did you just give me the stink eye?"
+msgstr "Ehi tu, mi hai appena lanciato un'occhiataccia?"
+
+msgctxt "128_Man"
+msgid "Know what happens when you do that in this part of town? I'd be more than happy to demonstrate!"
+msgstr "Sai cosa succede quando lo fai da queste parti? Sarei più che felice di dartene una dimostrazione!"
+
+msgctxt "140_Man"
+msgid "I saw you giving me a dirty look just now. Don't fuck with me, buddy!"
+msgstr "Ti ho visto lanciarmi un'occhiataccia poco fa. Non prendermi per il culo, amico!"
+
+msgctxt "152_Man"
+msgid "I'll teach you what happens when you mess with yakuza!"
+msgstr "Ti insegnerò cosa succede quando si scherza con gli yakuza!"
+
+msgctxt "176_Man"
+msgid "What happened? You're way too strong."
+msgstr "Cos'è successo? Sei troppo forte."
+
+msgctxt "188_Man"
+msgid "I'm sorry! I obviously didn't know what I was getting into. I hope you'll accept this and forgive me!"
+msgstr "Mi dispiace! Ovviamente non sapevo in che guaio mi stavo cacciando. Spero che accetterai questo e mi perdonerai!"
+
+msgctxt "200_Man"
+msgid "You got a breathtaking %s."
+msgstr "Hai ottenuto un %s mozzafiato."
+
+msgctxt "236_Man"
+msgid "I'll never bother you again..."
+msgstr "Non ti disturberò mai più..."

@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "992"
+msgid "Matsuyama"
+msgstr "Matsuyama"
+
+msgctxt "996"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "1000"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1004"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1008"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "56_Matsuyama"
+msgid "Welcome! Try our new \"Black Tonkotsu Ramen\"!"
+msgstr "Benvenuto! Prova il nostro nuovo \"Black Tonkotsu Ramen\"!"
+
+msgctxt "92_Matsuyama"
+msgid "Thank you! Come visit us again!"
+msgstr "Grazie! Torna a trovarci!"
+
+msgctxt "104_Matsuyama"
+msgid "(I'm pretty full right now.)"
+msgstr "(Sono già abbastanza pieno.)"
+
+msgctxt "116_Player"
+msgid "Sorry, something came up."
+msgstr "Mi dispiace, è saltato fuori un imprevisto."
+
+msgctxt "128_Matsuyama"
+msgid "Thank you! Come visit us again!"
+msgstr "Grazie! Torna a trovarci!"

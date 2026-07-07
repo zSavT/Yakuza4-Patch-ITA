@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-10\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/auth/subtitle/B0370.po\n"
+"X-Crowdin-File-ID: 56200\n"
+"PO-Revision-Date: 2025-09-26 07:35\n"
+
+msgctxt "431\t491"
+msgid "Good to see you, sir!"
+msgstr "È bello vederla, sir!"
+
+msgctxt "586\t676"
+msgid "The fuzz ain't gettin' near us now."
+msgstr "La polizia non ci prenderà ora."
+
+msgctxt "685\t754"
+msgid "So. Let's roll."
+msgstr "Allora. Andiamo."
+
+msgctxt "1483\t1544"
+msgid "Where're you takin' me?"
+msgstr "Dove mi vuoi portare?"
+
+msgctxt "1555\t1636"
+msgid "Our old stompin' grounds."
+msgstr "Al posto di ritrovo."
+
+msgctxt "1825\t1885"
+msgid "Still there, huh?"
+msgstr "Ancora lì, eh?"
+
+msgctxt "1978\t2096"
+msgid "<Italic>Yoshida Batting Center</Italic>"
+msgstr "<Italic>Centro Battute Yoshida</Italic>"
+
+msgctxt "2104\t2167"
+msgid "C'mon, clock's tickin'."
+msgstr "Forza, il tempo stringe."
+
+msgctxt "2177\t2257"
+msgid "I could use a few swings."
+msgstr "Posso fare qualche tiro."
+

@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1216"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1220"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1224"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1228"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "You! I know you ain't from around here!"
+msgstr "Tu! So che non sei di queste parti!"
+
+msgctxt "128_Man"
+msgid "Think you can just walk around on my turf!?"
+msgstr "Pensi di poter gironzolare nel mio territorio!?"
+
+msgctxt "152_Man"
+msgid "How'd the hell you get so strong?"
+msgstr "Come diavolo hai fatto a diventare così forte?"
+
+msgctxt "164_Man"
+msgid "Fine! Take this and fuck off already!"
+msgstr "Bene! Prendi questo e sparisci!"
+
+msgctxt "176_Man"
+msgid "You got a metallic %s."
+msgstr "Hai ottenuto un %s metallico."
+
+msgctxt "212_Man"
+msgid "Just who are you, anyway?"
+msgstr "Ma chi sei, insomma?"

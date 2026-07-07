@@ -1,0 +1,84 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "2180"
+msgid "Tadokoro's Subordinate"
+msgstr "Subordinato di Tadokoro"
+
+msgctxt "2184"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2188"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2192"
+msgid "Client"
+msgstr "Cliente"
+
+msgctxt "2196"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "56_Tadokoro's Subordinate"
+msgid "Are you ready?"
+msgstr "Sei pronto?"
+
+msgctxt "68_Saejima"
+msgid "Yep."
+msgstr "Già."
+
+msgctxt "80_Client"
+msgid "Are you sure I'm going to be safe with this guy?"
+msgstr "Sei sicuro che con 'sto tizio sarò al sicuro?"
+
+msgctxt "104_Tadokoro's Subordinate"
+msgid ""
+"You can breathe easy. Of all our employees, I'd wager he's our very best."
+msgstr ""
+"Può stare tranquillo. Tra tutti i nostri dipendenti, scommetterei che è il "
+"nostro uomo migliore."
+
+msgctxt "116_Saejima"
+msgid "(How can he lie with such a straight face like that?)"
+msgstr "(Come fa a mentire con una tale faccia tosta?)"
+
+msgctxt "128_Tadokoro's Subordinate"
+msgid "Very well, then. Best of luck to you."
+msgstr "Molto bene, allora. Buona fortuna."
+
+msgctxt "140_Tadokoro's Subordinate"
+msgid ""
+"But allow me to repeat myself, just in case. Your job is to hand over this "
+"gentleman safe and sound."
+msgstr ""
+"Ma permettimi di ripetermi, per ogni evenienza. Il tuo compito è "
+"consegnare questo signore sano e salvo."
+
+msgctxt "152_Tadokoro's Subordinate"
+msgid ""
+"If anything should happen to him, you'll take a commensurate amount of "
+"blame. Are we clear, Suzuki-san?"
+msgstr ""
+"Se dovesse capitargli qualcosa, ti assumerai una proporzionata fetta di "
+"responsabilità. Sono stato chiaro, Suzuki-san?"
+
+msgctxt "164_Saejima"
+msgid "Yeah, I heard ya the first time."
+msgstr "Già, t'ho sentito la prima volta."
+
+msgctxt "176_Tadokoro's Subordinate"
+msgid "Excellent. Then I bid you farewell."
+msgstr "Eccellente. Allora mi congedo."

@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "480"
+msgid "Businessman"
+msgstr "Impiegato"
+
+msgctxt "484"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "84_Businessman"
+msgid "Huh. I just saw tons of dudes rush in there."
+msgstr "Ehi. Ho appena visto un sacco di tizi precipitarsi lì dentro."
+
+msgctxt "96_Businessman"
+msgid ""
+"They all looked like yakuza... and I'm pretty sure they're "
+"out for blood. I wonder what's gonna happen."
+msgstr ""
+"Sembravano tutti yakuza... e ho la netta impressione che "
+"cerchino il sangue. Chissà cosa sta per succedere."

@@ -1,0 +1,79 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "2508"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2512"
+msgid "?"
+msgstr "?"
+
+msgctxt "2516"
+msgid "Client"
+msgstr "Cliente"
+
+msgctxt "2520"
+msgid "Hitman"
+msgstr "Sicario"
+
+msgctxt "2524"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "2528"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "2532"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "104_Saejima"
+msgid "This here's the place. Now all I gotta do is hand you over."
+msgstr ""
+"Questo è il posto. "
+"Adesso non mi resta che consegnarti."
+
+msgctxt "140_?"
+msgid "......"
+msgstr "......"
+
+msgctxt "152_Client"
+msgid "Hahaha, I made it! I'm home free!"
+msgstr "Ahahah, ce l'ho fatta! L'ho scampata liscia!"
+
+msgctxt "164_Saejima"
+msgid "Looks like ya spoke a hair too soon."
+msgstr "Mi sa che hai parlato un pelo troppo presto."
+
+msgctxt "176_Client"
+msgid "Oh no! Is he a hitman, too?"
+msgstr "Oh no! È un sicario anche lui?"
+
+msgctxt "188_Saejima"
+msgid "Hey. Who told ya 'bout this place, huh?"
+msgstr "Ehi. Chi ti ha parlato di questo posto, eh?"
+
+msgctxt "200_Hitman"
+msgid "......"
+msgstr "......"
+
+msgctxt "212_Saejima"
+msgid "Not gonna talk? I'll just take that as an invitation to kick your ass!"
+msgstr "Non parli? Allora lo prendo come un invito a spaccarti il culo!"
+
+msgctxt "224_Hitman"
+msgid "...!"
+msgstr "...!"

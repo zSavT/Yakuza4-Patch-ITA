@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1044"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1048"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "1052"
+msgid "Tough Guy"
+msgstr "Tipo tosto"
+
+msgctxt "68_Tanimura"
+msgid "(Damn... These bastards were one step ahead of me!)"
+msgstr "(Maledizione... Questi bastardi erano un passo avanti a me!)"
+
+msgctxt "80_Tanimura"
+msgid "I'll be taking that bag off your hands."
+msgstr "Ora quella borsa me la prendo io."
+
+msgctxt "92_Tough Guy"
+msgid ""
+"Ah, so you know what this is? Glad you showed up, then. Now we can get rid "
+"of you."
+msgstr ""
+"Ah, quindi sai cos'è? Meno male che ti sei fatto vivo, allora. "
+"Adesso possiamo toglierti di mezzo."

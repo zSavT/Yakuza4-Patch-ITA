@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "908"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "912"
+msgid "P_stand_sync_btl_neck_st"
+msgstr "P_stand_sync_btl_neck_st"
+
+msgctxt "916"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr "M_ykz_stand_sync_btl_neck_st"
+
+msgctxt "920"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "924"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "928"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "88_Man"
+msgid "Activating Street Encounter Test A."
+msgstr "Attivazione Test Incontro Stradale A."
+
+msgctxt "112_Man"
+msgid "test!!"
+msgstr "test!!"
+
+msgctxt "124_Talk_Yes"
+msgid "test!!"
+msgstr "test!!"
+
+msgctxt "136_Man"
+msgid "You got %s."
+msgstr "Hai ottenuto %s."
+
+msgctxt "172_Man"
+msgid "test!!"
+msgstr "test!!"

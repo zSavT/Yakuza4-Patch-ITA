@@ -1,0 +1,85 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "2024"
+msgid "Taxi Driver"
+msgstr "Tassista"
+
+msgctxt "2028"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "2032"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "2036"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "2040"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "2044"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "2048"
+msgid "0"
+msgstr "0"
+
+msgctxt "84_Taxi Driver"
+msgid ""
+"Most exciting drive I've had in years... Makes this cigarette taste that "
+"much better."
+msgstr ""
+"La corsa più emozionante degli ultimi anni... Rende questa sigaretta "
+"ancora più buona."
+
+msgctxt "96_Akiyama"
+msgid ""
+"'Scuse me. You picked up a young girl on Viale Senryo, "
+"right?"
+msgstr "Scusami. Hai caricato una ragazzina in Senryo Avenue, giusto?"
+
+msgctxt "108_Taxi Driver"
+msgid "Sure did. Made it over here in record time, too."
+msgstr ""
+"Eccome. "
+"E ci sono arrivato a tempo di record, tra l'altro."
+
+msgctxt "120_Akiyama"
+msgid "Do you know where she went after she got out?"
+msgstr "Sai mica dov'è andata dopo essere scesa?"
+
+msgctxt "132_Taxi Driver"
+msgid "Yeah, she went into that hotel. Try Room 406."
+msgstr "Sì, è entrata in quell'hotel. Prova la stanza 406."
+
+msgctxt "144_Akiyama"
+msgid "...How do you know her room number?"
+msgstr "...Come fai a sapere il numero della sua stanza?"
+
+msgctxt "156_Taxi Driver"
+msgid ""
+"Well, the whole time she was in my cab, she kept muttering "
+"\"406, 406\" under her breath. Seemed pretty agitated."
+msgstr ""
+"Beh, per tutto il viaggio non ha fatto altro che borbottare "
+"\"406, 406\" tra sé e sé. Sembrava parecchio agitata."
+
+msgctxt "168_Akiyama"
+msgid "Careless of her... Hey, thanks. You've been a big help."
+msgstr "Che sbadata... Ehi, grazie. Mi sei stato di grande aiuto."

@@ -1,0 +1,100 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "2900"
+msgid "Morimoto"
+msgstr "Morimoto"
+
+msgctxt "2904"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "2908"
+msgid "Smartass"
+msgstr "Saputello"
+
+msgctxt "2912"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "2916"
+msgid "Jackass"
+msgstr "Stronzo"
+
+msgctxt "2920"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "2924"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "2928"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2932"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "92_Morimoto"
+msgid "Surprise, dipshit. Remember us?"
+msgstr "Sorpresa, coglione. Ti ricordi di noi?"
+
+msgctxt "104_Morimoto"
+msgid ""
+"We told you you'd pay for siding with homeless filth. "
+"Now you'll get taken out with the rest of the trash."
+msgstr ""
+"Te l'avevamo detto che l'avresti pagata per esserti schierato con quella feccia di barboni. "
+"Ora verrai buttato fuori insieme al resto della spazzatura."
+
+msgctxt "116_Smartass"
+msgid ""
+"Just try another one of your punkass remarks now, old man. "
+"You're way outnumbered."
+msgstr ""
+"Provaci solo con un'altra delle tue frecciatine da stronzetto, vecchiaccio. "
+"Siamo troppi per te."
+
+msgctxt "128_Jackass"
+msgid "You better apologize before we really kick your ass."
+msgstr ""
+"Faresti meglio a chiedere scusa prima che ti spacchiamo per davvero il culo."
+
+msgctxt "140_Saejima"
+msgid "Already told ya."
+msgstr "Ve l'ho già detto."
+
+msgctxt "152_Morimoto"
+msgid "Told us what?"
+msgstr "Ci avrebbe detto cosa?"
+
+msgctxt "164_Saejima"
+msgid "If ya can't fight a man one-on-one, you ain't nothin' but chickenshit."
+msgstr ""
+"Se non sai combattere un uomo uno contro uno, non sei altro che un "
+"cagasotto."
+
+msgctxt "176_Smartass"
+msgid "I heard that, assclown!"
+msgstr "L'ho sentito, coglione!"
+
+msgctxt "188_Jackass"
+msgid "He's really cruising for a bruising now."
+msgstr "Questo qui è proprio in cerca di rogne."
+
+msgctxt "200_Morimoto"
+msgid "Just get him already!"
+msgstr "Beccatelo e basta!"

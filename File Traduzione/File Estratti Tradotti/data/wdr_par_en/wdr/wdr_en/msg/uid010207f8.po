@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "2136"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "2140"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "2144"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2148"
+msgid "Kakuda"
+msgstr "Kakuda"
+
+msgctxt "2152"
+msgid "Idle"
+msgstr ""
+
+msgctxt "2156"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "2160"
+msgid "0"
+msgstr "0"
+
+msgctxt "56_Akiyama"
+msgid "Not another one... Time for Kaku-san to work his magic."
+msgstr "Non un altro... Ora tocca a Kaku-san fare la sua magia."
+
+msgctxt "128_Akiyama"
+msgid "Think you can open this one, too, Kaku-san?"
+msgstr "Pensi di riuscire ad aprire anche questo, Kaku-san?"
+
+msgctxt "140_Kakuda"
+msgid "All right, gimme a sec..."
+msgstr "Va bene, dammi un attimo..."
+
+msgctxt "152_Kakuda"
+msgid "......"
+msgstr "......"
+
+msgctxt "212_Kakuda"
+msgid "Voilà."
+msgstr "Ecco fatto."
+
+msgctxt "224_Akiyama"
+msgid "Thanks, Kaku-san."
+msgstr "Grazie, Kaku-san."

@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "116"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "164"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "176"
+msgid "Normal items"
+msgstr "Oggetti normali"
+
+msgctxt "188"
+msgid "Rare items"
+msgstr "Oggetti rari"
+
+msgctxt "200"
+msgid "Important"
+msgstr "Importante"

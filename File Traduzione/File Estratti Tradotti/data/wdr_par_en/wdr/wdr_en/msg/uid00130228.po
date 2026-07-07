@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "292"
+msgid "Officer"
+msgstr "Ufficiale"
+
+msgctxt "296"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "72_Officer"
+msgid "Where could they be hiding?"
+msgstr "Dove si saranno nascosti?"
+
+msgctxt "84_Officer"
+msgid "Do you need anything else?"
+msgstr "Ti serve qualcos'altro?"

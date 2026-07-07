@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1420"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1424"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1428"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1432"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1436"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid "I don't have enough money to buy my next meal. Don't you feel sorry for me?"
+msgstr "Non ho abbastanza soldi per comprarmi il prossimo pasto. Non ti dispiace per me?"
+
+msgctxt "128_Man"
+msgid "Well, then how about you make a little contribution, huh?"
+msgstr "Beh, allora che ne dici di dare un piccolo contributo, eh?"
+
+msgctxt "152_Man"
+msgid "I'm so sorry!"
+msgstr "Mi dispiace tanto!"
+
+msgctxt "164_Man"
+msgid "Actually, I'm so full, I couldn't eat another bite. Here. Go have a nice meal on me!"
+msgstr "In realtà, sono così pieno che non potrei mangiare un altro boccone. Tieni. Fatti un bel pasto, offro io!"
+
+msgctxt "176_Man"
+msgid "You got a roasted %s."
+msgstr "Hai ottenuto un %s arrosto."
+
+msgctxt "212_Man"
+msgid "Please have mercy! I really don't have anything else on me!"
+msgstr "Ti prego, abbi pietà! Davvero non ho nient'altro con me!"

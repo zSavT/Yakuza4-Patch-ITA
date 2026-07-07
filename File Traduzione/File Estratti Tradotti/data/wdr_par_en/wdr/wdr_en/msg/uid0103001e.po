@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1504"
+msgid "Incompetent Kondo"
+msgstr "Incompetent Kondo"
+
+msgctxt "232_Incompetent Kondo"
+msgid "Let's pick the banker."
+msgstr "Scegliamo il banchiere."
+
+msgctxt "244_Incompetent Kondo"
+msgid "Guess I'm the banker."
+msgstr "Mi sa che sono io il banchiere."
+
+msgctxt "256_Incompetent Kondo"
+msgid "How much do you wanna bet?"
+msgstr "Quanto vuoi puntare?"
+
+msgctxt "268_Incompetent Kondo"
+msgid "Let's start the match."
+msgstr "Si dà il via alla partita."
+
+msgctxt "280_Incompetent Kondo"
+msgid "My turn."
+msgstr "Tocca a me."
+
+msgctxt "292_Incompetent Kondo"
+msgid "(This line signifies failure.)"
+msgstr "(Questa riga indica fallimento.)"
+
+msgctxt "304_Incompetent Kondo"
+msgid "Shall we settle up?"
+msgstr "Saldiamo?"
+
+msgctxt "316_Incompetent Kondo"
+msgid "You're banker."
+msgstr "Sei il banchiere."
+
+msgctxt "328_Incompetent Kondo"
+msgid "Let's change bankers, okay?"
+msgstr "Cambiamo banchiere, va bene?"
+
+msgctxt "340_Incompetent Kondo"
+msgid "Wanna try again?"
+msgstr "Vuoi riprovare?"
+
+msgctxt "352_Incompetent Kondo"
+msgid "I'm cleaned out... I'd better call it quits."
+msgstr "Sono a secco... Meglio che molli."
+
+msgctxt "364_Incompetent Kondo"
+msgid "Well well, looks like you're spent. See you next time."
+msgstr "Allora, allora, pare che ti sia giocato tutto. Alla prossima."

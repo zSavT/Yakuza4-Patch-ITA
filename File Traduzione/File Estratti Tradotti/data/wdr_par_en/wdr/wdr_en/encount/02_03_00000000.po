@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1648"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1652"
+msgid "P_stand_sync_btl_neck_st"
+msgstr "P_stand_sync_btl_neck_st"
+
+msgctxt "1656"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr "M_ykz_stand_sync_btl_neck_st"
+
+msgctxt "1660"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1664"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1668"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "88_Man"
+msgid "Huh? Hey, hold up a second, mister. Do you know where my money went?"
+msgstr "Eh? Ehi, aspetti un secondo, signore. Sa dove sono finiti i miei soldi?"
+
+msgctxt "100_Man"
+msgid "It was here a second ago... Did you swipe it? Hand it over now and I'll let you off with just a light beating!"
+msgstr "Erano qui un secondo fa... Li hai presi tu? Consegnali subito e te la caverai con un leggero pestaggio!"
+
+msgctxt "124_Man"
+msgid "Unh... You don't mess around."
+msgstr "Unh... Tu non scherzi."
+
+msgctxt "136_Man"
+msgid "My money? Oh! Oh, right! Well, whaddya know... It was right here all this time! Here, take this for your troubles..."
+msgstr "I miei soldi? Oh! Oh, giusto! Beh, chi l'avrebbe mai detto... Erano qui per tutto questo tempo! Tieni, prendi questo per il disturbo..."
+
+msgctxt "148_Man"
+msgid "You got a watery %s."
+msgstr "Hai ottenuto un %s acquoso."
+
+msgctxt "184_Man"
+msgid "Right in my pocket. Who'da thunk it? Hahaha. How silly of me!"
+msgstr "Proprio in tasca. Chi l'avrebbe mai pensato? Hahaha. Che stupido da parte mia!"

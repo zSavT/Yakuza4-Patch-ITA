@@ -1,0 +1,164 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "5816"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "5820"
+msgid "Haruka"
+msgstr "Haruka"
+
+msgctxt "5824"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "5828"
+msgid "Lily"
+msgstr "Lily"
+
+msgctxt "5832"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "5836"
+msgid "Yasuko"
+msgstr "Yasuko"
+
+msgctxt "284_Player"
+msgid "(Looks like it's closed right now. I'll come back later.)"
+msgstr "(Sembra chiuso adesso. Ci ripasso dopo.)"
+
+msgctxt "296_Player"
+msgid "(Now's not the time for that...)"
+msgstr "(Non è il momento per questo...)"
+
+msgctxt "308_Player"
+msgid "(Hostess club Jewel... Not interested.)"
+msgstr "(Hostess club Jewel... Non mi va.)"
+
+msgctxt "332_Player"
+msgid "What took you so long, Uncle Kaz? I got tired of waiting..."
+msgstr "Che ci hai messo così tanto, zio Kaz? Mi sono stufato di aspettare..."
+
+msgctxt "356_Player"
+msgid "Oh, you're back, Akiyama-san. Shall we go, then?"
+msgstr "Oh, sei tornato, Akiyama-san. Andiamo, allora?"
+
+msgctxt "368_Player"
+msgid "Oh, Kiryu-san, I've been waiting for you. Shall we go, then?"
+msgstr "Oh, Kiryu-san, ti stavo aspettando. Allora, andiamo?"
+
+msgctxt "404_Player"
+msgid "Are you... going in there, Uncle Kaz?"
+msgstr "Stai... andando lì dentro, zio Kaz?"
+
+msgctxt "416_Player"
+msgid "(Haruka's with me. What should I do?)"
+msgstr "(Haruka è con me. Che faccio?)"
+
+msgctxt "428_Player"
+msgid "Yeah, sorry. Think you can be a big girl and wait here while I'm gone?"
+msgstr ""
+"Già, scusa. Pensi di riuscire a fare la grande e aspettare qui finché non "
+"torno?"
+
+msgctxt "440_Haruka"
+msgid "...Okay. Have fun, Uncle Kaz."
+msgstr "...Ok. Divertiti, zio Kaz."
+
+msgctxt "452_Player"
+msgid "No, I'm okay."
+msgstr "No, sono a posto."
+
+msgctxt "464_Haruka"
+msgid "Really? I don't mind."
+msgstr "Davvero? Non mi faccio problemi."
+
+msgctxt "488_Player"
+msgid "Um, are you going in here?"
+msgstr "Ehm, entri qui?"
+
+msgctxt "500_Player"
+msgid "(I forgot Lily-chan's with me. What to do...)"
+msgstr "Mi ero scordato che Lily-chan è con me. E ora che si fa...?"
+
+msgctxt "512_Player"
+msgid "Yeah. Sorry, but could you wait a bit out here?"
+msgstr "Sì. Scusa, ma potresti aspettare un attimo qui fuori?"
+
+msgctxt "524_Lily"
+msgid "Oh, sure. I understand."
+msgstr "Ah, certo. Ho capito."
+
+msgctxt "536_Player"
+msgid "Actually, never mind."
+msgstr "Anzi, lascia stare."
+
+msgctxt "548_Lily"
+msgid "I see... You don't have to worry about me though."
+msgstr "Capisco... Per me non ti devi preoccupare, però."
+
+msgctxt "560_Player"
+msgid "Um, are you going in here?"
+msgstr "Ehm, entri qui?"
+
+msgctxt "572_Player"
+msgid "(I forgot Yasuko-san's with me. What to do...)"
+msgstr "(Ho dimenticato che Yasuko-san è con me. Cosa faccio...?)"
+
+msgctxt "584_Player"
+msgid "Sorry, but could you wait here for a bit?"
+msgstr "Scusi, ma potrebbe aspettare qui un attimo?"
+
+msgctxt "596_Yasuko"
+msgid "Oh, sure. I understand."
+msgstr "Ah, certo. Ho capito."
+
+msgctxt "608_Player"
+msgid "Never mind."
+msgstr "Lascia stare."
+
+msgctxt "620_Yasuko"
+msgid "I see... You don't have to worry about me though."
+msgstr "Capisco... Per me non ti devi preoccupare, però."
+
+msgctxt "704_Player"
+msgid "(I need to be doing stuff for Elise right now. No time for detours.)"
+msgstr ""
+"(Devo sbrigare sta roba per Elise, adesso. Non c'è tempo per cazzeggiare.)"
+
+msgctxt "728_Player"
+msgid "Go In Anyway"
+msgstr "Entra comunque"
+
+msgctxt "740_Player"
+msgid "Forget It"
+msgstr "Lascia perdere"
+
+msgctxt "752_Player"
+msgid "Go In Anyway"
+msgstr "Entra comunque"
+
+msgctxt "764_Player"
+msgid "Forget It"
+msgstr "Lascia perdere"
+
+msgctxt "776_Player"
+msgid "Go In Anyway"
+msgstr "Entra comunque"
+
+msgctxt "788_Player"
+msgid "Forget It"
+msgstr "Lascia perdere"

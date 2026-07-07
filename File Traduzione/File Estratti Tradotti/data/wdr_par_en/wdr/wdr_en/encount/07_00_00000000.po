@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2025-09-30\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+
+msgctxt "8352"
+msgid "Foreign Man"
+msgstr "Straniero"
+
+msgctxt "8356"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "8360"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "8364"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "8368"
+msgid "Slumdogs Member"
+msgstr "Membro degli Slumdogs"
+
+msgctxt "8372"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "8376"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "8380"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "8384"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "8388"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "128_Foreign Man"
+msgid "Hey! Are you, ah, Kiryu-san?"
+msgstr "Ehi! Tu sei, ah, Kiryu-san?"
+
+msgctxt "140_Kiryu"
+msgid "Yeah, that's me."
+msgstr "Sì, sono io."
+
+msgctxt "152_Foreign Man"
+msgid ""
+"I heard the person who beats you becomes champion of this whole town! Fun "
+"game, you think?"
+msgstr "Ho sentito che la persona che ti batte diventa il campione di tutta la città! Bel gioco, non credi?"
+
+msgctxt "164_Kiryu"
+msgid "I see. So you're the Slumdogs, then?"
+msgstr "Capisco. Quindi voi siete gli Slumdogs, allora?"
+
+msgctxt "176_Foreign Man"
+msgid "Yes, yes! The Slumdogs! Cool name, yes?"
+msgstr "Sì, sì! Gli Slumdogs! Bel nome, vero?"
+
+msgctxt "188_Slumdogs Member"
+msgid "Wait, how do you know our name? Are we famous!?"
+msgstr "Aspetta, come sai il nostro nome? Siamo famosi!?"
+
+msgctxt "200_Kiryu"
+msgid ""
+"No, not really. And pretty soon, it'll be a name nobody will ever hear "
+"again."
+msgstr "No, non proprio. E molto presto, sarà un nome che nessuno sentirà mai più."
+
+msgctxt "212_Slumdogs Member"
+msgid "Huh? Why do you say that thing?"
+msgstr "Eh? Perché dici una cosa del genere?"
+
+msgctxt "224_Kiryu"
+msgid ""
+"Because every gang that got in my way so far has disbanded. I'm pretty sure "
+"the same thing will happen to you."
+msgstr "Perché ogni gang che mi ha ostacolato finora si è sciolta. Sono abbastanza sicuro che la stessa cosa accadrà a voi."
+
+msgctxt "236_Slumdogs Member"
+msgid ""
+"Hahaha! Well, I know that answer! All those Japanese gangs you fight "
+"before? They're weak!"
+msgstr "Hahaha! Beh, conosco la risposta! Tutte quelle gang giapponesi che hai combattuto prima? Sono deboli!"
+
+msgctxt "248_Kiryu"
+msgid "So you guys are pretty strong, I take it?"
+msgstr "Quindi voi siete piuttosto forti, suppongo?"
+
+msgctxt "260_Slumdogs Member"
+msgid "Of course! Much, much stronger than puny, weak Japanese! Hah!"
+msgstr "Certo! Molto, molto più forti dei deboli e gracili giapponesi! Hah!"
+
+msgctxt "272_Slumdogs Member"
+msgid "Let's see how strong you are, yes? Let's fight!"
+msgstr "Vediamo quanto sei forte, sì? Combattiamo!"
+
+msgctxt "284_Foreign Man"
+msgid "Hi there! Kiryu, yes?"
+msgstr "Salve! Kiryu, giusto?"
+
+msgctxt "296_Slumdogs Member"
+msgid "No time for talk! Boss wants your head on a platter!"
+msgstr "Non c'è tempo per parlare! Il capo vuole la tua testa su un piatto d'argento!"
+
+msgctxt "308_Slumdogs Member"
+msgid "I'm going to fuck you up and take you back!"
+msgstr "Ti faccio un culo così e ti riporto indietro!"
+
+msgctxt "320_Foreign Man"
+msgid "I find you!"
+msgstr "Ti ho trovato!"
+
+msgctxt "332_Slumdogs Member"
+msgid "Time to beat you, sorry!"
+msgstr "È ora di picchiarti, scusa!"
+
+msgctxt "344_Foreign Man"
+msgid "Kiryu, right? Hope you ready to die!"
+msgstr "Kiryu, giusto? Spero tu sia pronto a morire!"
+
+msgctxt "380_Foreign Man"
+msgid "......"
+msgstr "......"
+
+msgctxt "392_Kiryu"
+msgid "Looks like you better stop taking Japanese people so lightly."
+msgstr "Sembra che farai meglio a smettere di prendere i giapponesi così alla leggera."
+
+msgctxt "404_Slumdogs Member"
+msgid ""
+"Yeah, well, you're a Coliseum champion! You're not like other Japanese, "
+"yes!?"
+msgstr "Sì, beh, tu sei un campione del Colosseo! Non sei come gli altri giapponesi, vero!?"
+
+msgctxt "416_Kiryu"
+msgid "Wait, how do you know about the Coliseum? Have you fought there?"
+msgstr "Aspetta, come sai del Colosseo? Hai combattuto lì?"
+
+msgctxt "428_Slumdogs Member"
+msgid "No, no. Our boss knows a lot of underground information."
+msgstr "No, no. Il nostro capo conosce un sacco di informazioni segrete."
+
+msgctxt "440_Slumdogs Member"
+msgid "That's why our gang is much, much different than others!"
+msgstr "Ecco perché la nostra gang è molto, molto diversa dalle altre!"
+
+msgctxt "452_Kiryu"
+msgid "I see."
+msgstr "Capisco."
+
+msgctxt "464_Kiryu"
+msgid "Tell me then, where is your boss? Reign, was it?"
+msgstr "Allora dimmi, dov'è il tuo capo? Reign, si chiamava?"
+
+msgctxt "476_Slumdogs Member"
+msgid "How you know that!?"
+msgstr "Come lo sai!?"
+
+msgctxt "488_Kiryu"
+msgid ""
+"I have some underground connections myself. I don't spend all my time "
+"fighting thugs."
+msgstr "Anch'io ho qualche contatto nel giro. Non passo tutto il mio tempo a combattere teppisti."
+
+msgctxt "500_Slumdogs Member"
+msgid "Heh..."
+msgstr "Heh..."
+
+msgctxt "512_Slumdogs Member"
+msgid ""
+"You have connections? But you don't know where Reign is, yes? Not very good "
+"connections, then! Hah!"
+msgstr "Hai dei contatti? Ma non sai dov'è Reign, vero? Contatti non molto buoni, allora! Hah!"
+
+msgctxt "524_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "536_Slumdogs Member"
+msgid "Well, I won't tell you, no no! Try next guy you're fighting! I out of here!"
+msgstr "Beh, non te lo dirò, no no! Prova con il prossimo che combatterai! Io me ne vado!"
+
+msgctxt "548_Foreign Man"
+msgid "Oogh, everything hurts..."
+msgstr "Oogh, fa male dappertutto..."
+
+msgctxt "560_Kiryu"
+msgid "It's over. Tell me where Reign is."
+msgstr "È finita. Dimmi dov'è Reign."
+
+msgctxt "572_Slumdogs Member"
+msgid ""
+"I can't! I do that, they kill me! Our orders are only to beat Kiryu and "
+"bring him back to boss!"
+msgstr "Non posso! Se lo faccio, mi uccidono! I nostri ordini sono solo di battere Kiryu e riportarlo al capo!"
+
+msgctxt "584_Slumdogs Member"
+msgid "Let me go!"
+msgstr "Lasciami andare!"
+
+msgctxt "596_Foreign Man"
+msgid "Urgh..."
+msgstr "Urgh..."
+
+msgctxt "608_Kiryu"
+msgid "Now do you feel like telling me where Reign is?"
+msgstr "Ora hai voglia di dirmi dov'è Reign?"
+
+msgctxt "620_Slumdogs Member"
+msgid "What!? No! I can't."
+msgstr "Cosa!? No! Non posso."
+
+msgctxt "632_Foreign Man"
+msgid "Shit... We beat you someday! Remember this!"
+msgstr "Merda... Un giorno ti batteremo! Ricordatelo!"
+
+msgctxt "644_Kiryu"
+msgid "(They keep on coming. I'd better find Reign fast and put an end to this.)"
+msgstr "(Continuano ad arrivare. Sarà meglio che trovi Reign in fretta e metta fine a questa storia.)"
+
+msgctxt "680_Foreign Man"
+msgid "If you think we Slumdogs give up easy, think again!"
+msgstr "Se pensi che noi Slumdogs ci arrendiamo facilmente, ripensaci!"
+
+msgctxt "692_Foreign Man"
+msgid "We lost bad..."
+msgstr "Abbiamo perso malamente..."
+
+msgctxt "704_Foreign Man"
+msgid "Let me go! I'm sorry! Very sorry!"
+msgstr "Lasciami andare! Scusa! Molto scusa!"
+
+msgctxt "716_Foreign Man"
+msgid "We make you pay someday!"
+msgstr "Un giorno te la faremo pagare!"

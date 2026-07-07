@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1360"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1364"
+msgid "P_stand_sync_btl_neck_st"
+msgstr "P_stand_sync_btl_neck_st"
+
+msgctxt "1368"
+msgid "M_ykz_stand_sync_btl_neck_st"
+msgstr "M_ykz_stand_sync_btl_neck_st"
+
+msgctxt "1372"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1376"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "88_Man"
+msgid "Hey you! Aren't you forgetting something? We play by our own set of rules around here."
+msgstr "Ehi tu! Non dimentichi qualcosa? Da queste parti giochiamo secondo le nostre regole."
+
+msgctxt "100_Man"
+msgid "You wanna get past me, you're gonna have to pay!"
+msgstr "Se vuoi superarmi, dovrai pagare!"
+
+msgctxt "124_Man"
+msgid "Yikes! I'm sorry. I don't need your money!"
+msgstr "Accidenti! Mi dispiace. Non ho bisogno dei tuoi soldi!"
+
+msgctxt "136_Man"
+msgid "That was a real loser move. Please forgive me."
+msgstr "È stata una vera mossa da sfigato. Ti prego, perdonami."
+
+msgctxt "148_Man"
+msgid "You got a loser's %s."
+msgstr "Hai ottenuto un %s da sfigato."
+
+msgctxt "184_Man"
+msgid "Poverty can drive you to do some really shameful things. *sniffle*"
+msgstr "La povertà può spingerti a fare cose davvero vergognose. *tira su col naso*"

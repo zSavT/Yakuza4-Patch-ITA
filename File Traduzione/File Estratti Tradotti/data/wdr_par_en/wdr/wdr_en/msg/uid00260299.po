@@ -1,0 +1,40 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "464"
+msgid "Himeka"
+msgstr "Himeka"
+
+msgctxt "468"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "472"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "476"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "56_Himeka"
+msgid ""
+"Looks like a short hole. I'll bet you can get it onto the green in one shot!"
+msgstr ""
+"Sembra una buca corta. Scommetto che riesci ad arrivare sul green in un "
+"colpo solo!"
+
+msgctxt "68_Tanimura"
+msgid "Yeah. Leave it to me."
+msgstr "Sì. Lascia fare a me."

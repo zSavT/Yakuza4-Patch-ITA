@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1028"
+msgid "Chigusa"
+msgstr "Chigusa"
+
+msgctxt "1032"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1036"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1040"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1044"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "56_Chigusa"
+msgid "What were you doing in there? Come on, let's go!"
+msgstr "Che ci facevi lì dentro? Dai, andiamo!"
+
+msgctxt "68_Kiryu"
+msgid "Where to?"
+msgstr "Dove?"
+
+msgctxt "80_Chigusa"
+msgid ""
+"Well, I picked up all your stuff, so we should probably drop "
+"by our office."
+msgstr ""
+"Beh, ho recuperato tutta la tua roba, quindi magari dovremmo fare un "
+"salto al nostro ufficio."
+
+msgctxt "92_Kiryu"
+msgid "Our, uh... office?"
+msgstr "Il nostro, ehm... ufficio?"
+
+msgctxt "104_Chigusa"
+msgid ""
+"Yup! I'm sure seeing it in person will jog your memory. Come "
+"on, let's go."
+msgstr ""
+"Sì! Sono sicura che vederlo di persona ti rinfrescherà la memoria. Dai, "
+"andiamo."

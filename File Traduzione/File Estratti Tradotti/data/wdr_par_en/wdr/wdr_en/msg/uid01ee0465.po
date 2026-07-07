@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "312"
+msgid "Select the number of input devices to use."
+msgstr "Seleziona il numero di dispositivi di input da usare."
+
+msgctxt "348"
+msgid "Select the game you want to play."
+msgstr "Seleziona il gioco a cui vuoi giocare."
+
+msgctxt "396"
+msgid "Do you want to play again?"
+msgstr "Vuoi giocare di nuovo?"
+
+msgctxt "432"
+msgid "Two input devices are required to play in this mode."
+msgstr "Servono due dispositivi di input per giocare in questa modalità."
+
+msgctxt "444"
+msgid "Do you want to see the tutorial?"
+msgstr "Vuoi vedere il tutorial?"
+
+msgctxt "480"
+msgid "One"
+msgstr "Uno"
+
+msgctxt "492"
+msgid "Two"
+msgstr "Due"
+
+msgctxt "504"
+msgid "301"
+msgstr "301"
+
+msgctxt "516"
+msgid "Cricket"
+msgstr "Cricket"
+
+msgctxt "528"
+msgid "Count-Up"
+msgstr "Punteggio"
+
+msgctxt "540"
+msgid "Play Again"
+msgstr "Gioca ancora"
+
+msgctxt "552"
+msgid "Quit"
+msgstr "Esci"
+
+msgctxt "564"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "576"
+msgid "No"
+msgstr "No"

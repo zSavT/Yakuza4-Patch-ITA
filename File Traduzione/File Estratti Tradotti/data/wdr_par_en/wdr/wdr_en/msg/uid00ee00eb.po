@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "384"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "116_Akiyama"
+msgid "(Kind of hard to see.)"
+msgstr "(Si fa fatica a vedere.)"
+
+msgctxt "128_Akiyama"
+msgid "(I can't see anything.)"
+msgstr "(Non ci vedo niente.)"
+
+msgctxt "140_Akiyama"
+msgid "(I can't see very well.)"
+msgstr "(Non ci vedo granché.)"

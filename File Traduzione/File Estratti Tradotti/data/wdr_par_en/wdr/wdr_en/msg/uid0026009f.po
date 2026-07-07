@@ -1,0 +1,85 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "2512"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "2516"
+msgid "Bartender"
+msgstr "Barista"
+
+msgctxt "2520"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "2524"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "2528"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "2532"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "2536"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "2540"
+msgid "P_sitcnt_tlk_kamae"
+msgstr "P_sitcnt_tlk_kamae"
+
+msgctxt "68_Kiryu"
+msgid "Evening. Mind if I take this seat?"
+msgstr "Sera. Posso sedermi qui?"
+
+msgctxt "80_Bartender"
+msgid ""
+"Apologies, sir, but that one specifically is reserved for "
+"the rest of the night."
+msgstr ""
+"Le chiedo scusa, signore, ma proprio quel posto è riservato per "
+"il resto della serata."
+
+msgctxt "92_Kiryu"
+msgid "A reserved seat? At the counter? That's strange."
+msgstr "Un posto riservato? Al bancone? Strano."
+
+msgctxt "104_Bartender"
+msgid "I won't disagree with that, sir."
+msgstr "Non posso darle torto, signore."
+
+msgctxt "116_Kiryu"
+msgid "Guess I'll just sit here instead. This one's not reserved, is it?"
+msgstr "Allora mi metterò qui. Questo non è riservato, vero?"
+
+msgctxt "128_Bartender"
+msgid "Most certainly not. Go right ahead, sir."
+msgstr "Assolutamente no. Si accomodi pure, signore."
+
+msgctxt "200_Kiryu"
+msgid "(What's the glass for? Nobody's even sitting there.)"
+msgstr "(A che serve quel bicchiere? Non c'è seduto nessuno.)"
+
+msgctxt "212_Bartender"
+msgid "I see you've noticed, sir. To tell the truth, that seat is-"
+msgstr "Vedo che l'ha notato, signore. A dire il vero, quel posto è-"
+
+msgctxt "236_Bartender"
+msgid "Ah, Chigusa-san..."
+msgstr "Ah, Chigusa-san..."

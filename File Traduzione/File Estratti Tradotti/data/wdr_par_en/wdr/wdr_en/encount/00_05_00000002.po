@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1516"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1520"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1524"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "1528"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1532"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1536"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid "Quit staggerin' around, wouldja? You're gettin' in the way and ruinin' the scenery!"
+msgstr "Smettila di barcollare, ok? Sei d'intralcio e rovini il paesaggio!"
+
+msgctxt "128_Man"
+msgid "You should pay me for messin' up my day! C'mon, hand over your money! No? Then you deserve what's comin' to ya!"
+msgstr "Dovresti pagarmi per avermi rovinato la giornata! Dai, sgancia i soldi! No? Allora ti meriti quello che ti sta per succedere!"
+
+msgctxt "152_Man"
+msgid "Eeek! I was cocky, sorry!"
+msgstr "Eeek! Sono stato presuntuoso, scusa!"
+
+msgctxt "164_Man"
+msgid "Sorry I went and said such a dumbass thing back there. Here, this is yours. I really do apologize!"
+msgstr "Scusa se ho detto una cazzata del genere prima. Tieni, questo è tuo. Mi scuso davvero!"
+
+msgctxt "176_Man"
+msgid "You got a dumbass's %s."
+msgstr "Hai ottenuto un %s da coglione."
+
+msgctxt "212_Man"
+msgid "Sorry 'bout that."
+msgstr "Scusa per quello."

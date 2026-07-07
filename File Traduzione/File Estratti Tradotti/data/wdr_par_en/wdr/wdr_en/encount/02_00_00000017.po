@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1488"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1492"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1496"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "1500"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1504"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "116_Man"
+msgid "Where's the fire, pal? Me, I got nothin' but time on my hands. Listen, though, since fate threw us together like this..."
+msgstr "Dove scappi, amico? Io non ho altro che tempo da perdere. Senti, però, visto che il destino ci ha fatti incontrare..."
+
+msgctxt "128_Man"
+msgid "...how about a little street fight to kill some time?"
+msgstr "...che ne dici di una piccola rissa di strada per ammazzare il tempo?"
+
+msgctxt "152_Man"
+msgid "Urgh. Er, I just remembered some urgent business I have to attend to."
+msgstr "Urgh. Ehm, mi sono appena ricordato di un impegno urgente a cui devo attendere."
+
+msgctxt "164_Man"
+msgid "Here, this is for you. Now please go away!"
+msgstr "Tieni, questo è per te. Ora per favore, vattene!"
+
+msgctxt "176_Man"
+msgid "You got a ink-stained %s."
+msgstr "Hai ottenuto un %s macchiato d'inchiostro."
+
+msgctxt "212_Man"
+msgid "Do you still need something...? I'm a little busy..."
+msgstr "Hai ancora bisogno di qualcosa...? Sono un po' impegnato..."

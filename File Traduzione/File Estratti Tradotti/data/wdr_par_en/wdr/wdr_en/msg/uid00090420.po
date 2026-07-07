@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "4056"
+msgid "Man in Gray Suit"
+msgstr "Uomo in completo grigio"
+
+msgctxt "4060"
+msgid "Talk_Away"
+msgstr "Talk_Away"
+
+msgctxt "4064"
+msgid "Flippant Thug"
+msgstr "Teppista Spavaldo"
+
+msgctxt "4068"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "4072"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "4076"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "4080"
+msgid "Skirt-chasing Punk"
+msgstr "Teppista puttaniere"
+
+msgctxt "4084"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "4088"
+msgid "\"Kiryu\""
+msgstr "\"Kiryu\""
+
+msgctxt "4092"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "56_Man in Gray Suit"
+msgid ""
+"You've got some big coconuts on you, strolling into my town like you own the"
+" place. You think I'm just gonna let you get away with this?"
+msgstr ""
+"Hai un bel fegato, a andartene a spasso per la mia città come se "
+"fossi il padrone. Pensi di passarla liscia?"
+
+msgctxt "68_Flippant Thug"
+msgid "The hell're you talking about, old man?"
+msgstr "Ma che cazzo stai a dire, vecchio?"
+
+msgctxt "80_Kiryu"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "92_Man in Gray Suit"
+msgid ""
+"It's been a rough day today, and I'm in need of a little stress relief."
+msgstr ""
+"Oggi è stata una giornata tosta, e ho proprio bisogno di sfogarmi un po'."
+
+msgctxt "104_Man in Gray Suit"
+msgid ""
+"All I wanted was a nice drink, but instead I had to look at your scrawny "
+"punk faces. That doesn't make me a very happy dragon."
+msgstr ""
+"Volevo solo farmi una bevuta in pace, ma invece mi tocca guardare le vostre "
+"facce da teppistelli da quattro soldi. E questo non mi rende affatto un drago felice."
+
+msgctxt "116_Skirt-chasing Punk"
+msgid "Huh? You're outta your mind, dude!"
+msgstr "Eh? Sei fuori di testa, amico!"
+
+msgctxt "128_Man in Gray Suit"
+msgid ""
+"Is that so? Looks like I'm gonna have to teach you punks a lesson, then. "
+"Chalk it up to bad luck. Nothing personal."
+msgstr ""
+"Ah, sì? Allora mi sa che dovrò darvi una bella lezione, razza di teppisti. "
+"Mettetela sul conto della sfortuna. Niente di personale."
+
+msgctxt "140_Man in Gray Suit"
+msgid ""
+"Now prepare yourselves... to get the snot beat outta you by the fourth "
+"chairman of the Tojo Clan!"
+msgstr ""
+"Ora preparatevi... a farvi spaccare il culo dal quarto presidente del Clan "
+"Tojo!"
+
+msgctxt "152_\"Kiryu\""
+msgid "Kazuma Kiryu!"
+msgstr "Kazuma Kiryu!"
+
+msgctxt "164_Skirt-chasing Punk"
+msgid "Huh!?"
+msgstr "Eh!?"
+
+msgctxt "176_Flippant Thug"
+msgid ""
+"Did you say Tojo Clan!? Aw shit, we're real sorry we talked back to you, "
+"man!   I mean, sir!"
+msgstr ""
+"Hai detto Clan Tojo!? Ah merda, ci spiace un casino di averti mancato di rispetto, "
+"amico!   Cioè, signore!"
+
+msgctxt "188_\"Kiryu\""
+msgid "Heh. You better run."
+msgstr "Eh. Vi conviene sparire."
+
+msgctxt "200_Kiryu"
+msgid "Hey, punk."
+msgstr "Ehi, teppistello."
+
+msgctxt "212_\"Kiryu\""
+msgid "Excuse me? Who do you think you're talking to, asshole!?"
+msgstr "Come scusa? Con chi credi di parlare, stronzo!?"
+
+msgctxt "224_\"Kiryu\""
+msgid ""
+"I'm the Dragon of Dojima! The Tojo Terror! A freaking legend! "
+"And you know what else? I'm ready to kick some poser ass!"
+msgstr ""
+"Sono il Drago di Dojima! Il Terrore del Tojo! Una dannata leggenda! "
+"E sai cos'altro? Sono pronto a spaccare il culo a un po' di palloni gonfiati!"
+
+msgctxt "236_Kiryu"
+msgid "Funny, I was thinking the exact same thing."
+msgstr "Divertente, stavo pensando la stessa identica cosa."

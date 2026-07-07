@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "460"
+msgid "Maya"
+msgstr "Maya"
+
+msgctxt "464"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "468"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "56_Maya"
+msgid "Finally, the last hole! Hit it with all you've got!"
+msgstr "Finalmente, l'ultima buca! Dai il massimo!"
+
+msgctxt "68_Kiryu"
+msgid "Just watch, I'll nail this."
+msgstr "Guarda un po', lo azzecco in pieno."

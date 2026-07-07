@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "768"
+msgid "Playboy"
+msgstr "Sciupafemmine"
+
+msgctxt "772"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "776"
+msgid "Girl"
+msgstr "Ragazza"
+
+msgctxt "780"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "784"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "84_Playboy"
+msgid "You look bored. Whatcha doin'?"
+msgstr "Sembri annoiato. Che fai di bello?"
+
+msgctxt "96_Girl"
+msgid "I'm waiting for my friend."
+msgstr "Sto aspettando il mio amico."
+
+msgctxt "108_Playboy"
+msgid "For real? Hey, me too!"
+msgstr "Davvero? Ehi, anch'io!"
+
+msgctxt "120_Girl"
+msgid "Yeah? That's nice."
+msgstr "Sì? Carino."
+
+msgctxt "132_Playboy"
+msgid "Aw, come on..."
+msgstr "Oh, dai..."

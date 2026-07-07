@@ -1,0 +1,37 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "548"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "552"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "556"
+msgid "Blanc"
+msgstr "Blanc"
+
+msgctxt "56_Kiryu"
+msgid "Okay, let's have it. Why are you after me?"
+msgstr "Allora, sputa il rospo. Perché mi stai alle calcagna?"
+
+msgctxt "68_Blanc"
+msgid "......"
+msgstr "......"
+
+msgctxt "80_Kiryu"
+msgid "Not gonna tell me, are you?"
+msgstr "Non me lo dirai, vero?"

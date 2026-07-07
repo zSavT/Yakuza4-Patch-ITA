@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1504"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1508"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1512"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1516"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "Listen, can we talk to you for a sec? Won't take but a moment of your time."
+msgstr "Ascolta, possiamo parlarti un secondo? Non ti ruberemo che un momento."
+
+msgctxt "128_Man"
+msgid "In fact, if you shut up and hand over your cash, you can be on your way in a flash! So cough it up, pal, before we beat it outta you!"
+msgstr "Anzi, se stai zitto e ci dai i tuoi soldi, potrai andartene in un lampo! Quindi sgancia, amico, prima che te li tiriamo fuori a forza!"
+
+msgctxt "152_Man"
+msgid "Please forgive us. We're very sorry."
+msgstr "Ti preghiamo di perdonarci. Siamo molto dispiaciuti."
+
+msgctxt "164_Man"
+msgid "Here, take this with our apologies for wastin' your time."
+msgstr "Tieni, prendi questo con le nostre scuse per averti fatto perdere tempo."
+
+msgctxt "176_Man"
+msgid "You got a slim %s."
+msgstr "Hai ottenuto un %s snello."
+
+msgctxt "212_Man"
+msgid "Please, we don't want any more trouble..."
+msgstr "Per favore, non vogliamo altri guai..."

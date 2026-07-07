@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1432"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1436"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1440"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1444"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "Hey there, pal. You're the punk who beat up our young'uns, right?"
+msgstr "Ehilà, amico. Sei tu il pivello che ha picchiato i nostri giovani, vero?"
+
+msgctxt "128_Man"
+msgid "Don't even bother denyin' it! Just shut up and take your medicine like the man you wish you were!"
+msgstr "Non provare nemmeno a negare! Stai zitto e accetta la tua punizione come l'uomo che vorresti essere!"
+
+msgctxt "152_Man"
+msgid "Oof. Young'uns never stood a chance..."
+msgstr "Oof. I giovani non hanno mai avuto scampo..."
+
+msgctxt "164_Man"
+msgid "Here, my way of sayin' sorry. Go on, take it."
+msgstr "Tieni, il mio modo di chiedere scusa. Dai, prendilo."
+
+msgctxt "176_Man"
+msgid "You got a fresh %s."
+msgstr "Hai ottenuto un %s fresco."
+
+msgctxt "212_Man"
+msgid "So you weren't the guy after all? Damn."
+msgstr "Quindi non eri tu, dopotutto? Dannazione."

@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1060"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1064"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1068"
+msgid "Talk_Info_L"
+msgstr "Talk_Info_L"
+
+msgctxt "1072"
+msgid "0"
+msgstr "0"
+
+msgctxt "56_Akiyama"
+msgid "Hey, that's Arima..."
+msgstr "Ehi, quello è Arima..."

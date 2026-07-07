@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "3032"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "3036"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "3040"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "3044"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "3048"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "3052"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "3056"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "128_Man"
+msgid "Hooray! You're one lucky guy! This is going to be the best day of your life."
+msgstr "Evviva! Sei un ragazzo fortunato! Questo sarà il giorno più bello della tua vita."
+
+msgctxt "140_Man"
+msgid "There's just one condition. You gotta give us some money first. Pay up, or your luck will go downhill fast!"
+msgstr "C'è solo una condizione. Devi prima darci dei soldi. Paga, o la tua fortuna andrà a rotoli in fretta!"
+
+msgctxt "152_Man"
+msgid "Congratulations! You're lucky number 100! Yessiree... Wait, what's with the vacant stare?"
+msgstr "Congratulazioni! Sei il fortunato numero 100! Proprio così... Aspetta, cos'è quello sguardo assente?"
+
+msgctxt "164_Man"
+msgid "100th what, you ask? Why, our 100th victim, of course! C'mon, boys. Get him!"
+msgstr "Il centesimo cosa, chiedi? Beh, la nostra centesima vittima, ovviamente! Forza, ragazzi. Prendetelo!"
+
+msgctxt "200_Man"
+msgid "Ow... No more..."
+msgstr "Ahi... Basta..."
+
+msgctxt "212_Man"
+msgid "This should do the trick, right?"
+msgstr "Questo dovrebbe bastare, giusto?"
+
+msgctxt "224_Man"
+msgid "You got a slippery %s."
+msgstr "Hai ottenuto un %s scivoloso."
+
+msgctxt "248_Man"
+msgid "I guess it was a little early to be celebrating."
+msgstr "Credo che fosse un po' presto per festeggiare."
+
+msgctxt "260_Man"
+msgid "Here, take this. And for cryin' out loud, get lost!"
+msgstr "Tieni, prendi questo. E per l'amor del cielo, sparisci!"
+
+msgctxt "272_Man"
+msgid "You got a heavy %s."
+msgstr "Hai ottenuto un %s pesante."
+
+msgctxt "320_Man"
+msgid "This turned out to be the worst day of my life. I'm going home."
+msgstr "Questo si è rivelato il giorno peggiore della mia vita. Vado a casa."
+
+msgctxt "332_Man"
+msgid "Yikes! Are you still here? Scram already!"
+msgstr "Accidenti! Sei ancora qui? Sparisci!"

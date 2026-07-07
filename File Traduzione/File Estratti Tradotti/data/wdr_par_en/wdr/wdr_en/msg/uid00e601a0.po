@@ -1,0 +1,154 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "244"
+msgid "You handed over <Color:8>1,000 yen<Color:Default>."
+msgstr "Hai consegnato <Color:8>1.000 yen<Color:Default>."
+
+msgctxt "3420"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "3424"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "3428"
+msgid "Slick Homeless Man"
+msgstr "Barbone Smaliziato"
+
+msgctxt "3432"
+msgid "Talk_Call"
+msgstr "Talk_Call"
+
+msgctxt "3436"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "3440"
+msgid "Senzatetto"
+msgstr "Senzatetto"
+
+msgctxt "3444"
+msgid "Talk_Info_L"
+msgstr "Talk_Info_L"
+
+msgctxt "3448"
+msgid "P_sae_stand_tlk_get"
+msgstr "P_sae_stand_tlk_get"
+
+msgctxt "3452"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "3456"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "3460"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "3464"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "3468"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "184_Saejima"
+msgid "Did a kid pickpocket run through here?"
+msgstr "È passato di qui un ragazzino borseggiatore?"
+
+msgctxt "196_Slick Homeless Man"
+msgid ""
+"Good question. But I'll need a little something "
+"before I give you an answer. Say, a crisp bill."
+msgstr ""
+"Bella domanda. Però mi serve qualcosina "
+"prima di darti una risposta. Diciamo, una bella banconota frusciante."
+
+msgctxt "208_Slick Homeless Man"
+msgid "Oho, it's you again. So, you got my payment ready?"
+msgstr "Ah, di nuovo tu. Allora, hai pronto il mio compenso?"
+
+msgctxt "232_Saejima"
+msgid "Shit... Alright, fine."
+msgstr "Merda... E va bene."
+
+msgctxt "256_Homeless Man"
+msgid ""
+"Thanks, heh... If it's Tadashi you're looking for, "
+"he ran off toward the underground parking lot."
+msgstr ""
+"Grazie, eh... Se è Tadashi che cerchi, "
+"è scappato verso il parcheggio sotterraneo."
+
+msgctxt "268_Saejima"
+msgid "The parkin' lot, huh?"
+msgstr "Il parcheggio, eh?"
+
+msgctxt "280_Saejima"
+msgid "This here's all I got on me."
+msgstr "Questo è tutto quello che ho addosso."
+
+msgctxt "292_Slick Homeless Man"
+msgid ""
+"Bah! I don't want your spare change. I want paper money- "
+"the real stuff."
+msgstr ""
+"Bah! Non mi servono i tuoi spiccioli. Voglio banconote... "
+"quelle vere."
+
+msgctxt "304_Saejima"
+msgid "(Dammit. Better go make a quick buck.)"
+msgstr "(Dannazione. Meglio che vada a rimediare due soldi.)"
+
+msgctxt "316_Saejima"
+msgid ""
+"I'm the one askin' the questions here. If I wanted to, "
+"I could get ya singin' a different tune real quick."
+msgstr ""
+"Sono io a fare le domande, qui. Se volessi, "
+"potrei farti cambiare musica in men che non si dica."
+
+msgctxt "328_Slick Homeless Man"
+msgid ""
+"Your threats don't scare me! This is my livelihood "
+"we're talking about. You think I'm just going to give "
+"away valuable info for free?"
+msgstr ""
+"Le tue minacce non mi spaventano! È così che mi guadagno da vivere. "
+"Credi davvero che ti darò informazioni preziose gratis?"
+
+msgctxt "340_Saejima"
+msgid "(Looks like he ain't squealin'. Guess I oughta pony up.)"
+msgstr "(Pare che non abbia intenzione di sbottonarsi. Mi toccherà sganciare.)"
+
+msgctxt "352_Saejima"
+msgid "Pay the Man 1,000 Yen"
+msgstr "Dagli 1.000 yen"
+
+msgctxt "364_Saejima"
+msgid "Beat the Answer out of Him"
+msgstr "Fallo parlare a suon di botte"
+
+msgctxt "376_Saejima"
+msgid "Pay the Man 1,000 Yen"
+msgstr "Dagli 1.000 yen"
+
+msgctxt "388_Saejima"
+msgid "Beat the Answer out of Him"
+msgstr "Fallo parlare a suon di botte"

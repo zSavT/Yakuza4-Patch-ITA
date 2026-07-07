@@ -1,0 +1,50 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "88"
+msgid "You got a <Color:8>Woodcarving of a Bear<Color:Default>."
+msgstr ""
+"Hai ottenuto una <Color:8>Scultura in legno di un orso<Color:Default>."
+
+msgctxt "112"
+msgid "Nothing happened."
+msgstr "Non è successo niente."
+
+msgctxt "148"
+msgid "You got a <Color:8>Bell Ringing Sculpture<Color:Default>."
+msgstr "Hai ottenuto una <Color:8>Scultura Suonacampane<Color:Default>."
+
+msgctxt "1784"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1788"
+msgid "TNK_02_B_START"
+msgstr "TNK_02_B_START"
+
+msgctxt "1792"
+msgid "TNK_02_B_E_START"
+msgstr "TNK_02_B_E_START"
+
+msgctxt "1796"
+msgid "TNK_02_B_N_START"
+msgstr "TNK_02_B_N_START"
+
+msgctxt "124_Player"
+msgid "(I should take a break and come back later...)"
+msgstr "(Dovrei fare una pausa e tornare più tardi...)"
+
+msgctxt "172_Player"
+msgid "You learned the <Color:9>Essence of Bell Ringing<Color:Default>."
+msgstr "Hai imparato l'<Color:9>Essenza del campanellino<Color:Default>."

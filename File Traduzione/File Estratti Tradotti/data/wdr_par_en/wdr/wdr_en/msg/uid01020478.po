@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "612"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "616"
+msgid "Talk_Gakkari"
+msgstr "Talk_Gakkari"
+
+msgctxt "68_Akiyama"
+msgid "(I have a bad feeling about this... Might as well get this over with.)"
+msgstr "(Questa storia mi puzza... Tanto vale togliersi il pensiero.)"

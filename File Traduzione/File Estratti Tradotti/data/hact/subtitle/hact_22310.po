@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-17\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/hact/subtitle/hact_22310.po\n"
+"X-Crowdin-File-ID: 57108\n"
+"PO-Revision-Date: 2025-09-26 22:57\n"
+
+msgctxt "40\t100"
+msgid "Welcome!"
+msgstr "Benvenuto!"
+
+msgctxt "210\t300"
+msgid "Okay, just relax\\nand lay on your side."
+msgstr "Ok, rilassati\\ne sdraiati sul fianco."
+
+msgctxt "360\t485"
+msgid "You're so cool!\\nYou make me blush."
+msgstr "Sei così figo!\\nMi fai arrossire."
+
+msgctxt "588\t670"
+msgid "I'll give you the best\\nmassage ever!"
+msgstr "Ti darò il miglior\\nmassaggio di sempre."
+
+msgctxt "805\t860"
+msgid "Let me know if it hurts."
+msgstr "Fammi sapere se fa male."
+
+msgctxt "1055\t1095"
+msgid "Does that hurt?"
+msgstr "Ha fatto male?"
+
+msgctxt "1175\t1245"
+msgid "How is it?\\nI'm pretty good, right?"
+msgstr "Come va?\\nSono brava, vero?"
+
+msgctxt "1325\t1370"
+msgid "Does that feel good?"
+msgstr "Ti fa sentire bene?"
+
+msgctxt "1415\t1490"
+msgid "Let me know if you can't take\\nit any more."
+msgstr "Fammi sapere se non\\nce la fai più."
+
+msgctxt "1590\t1645"
+msgid "...How's this?  ...How's that?"
+msgstr "...Com'è questo? ...E questo?"
+
+msgctxt "1685\t1750"
+msgid "Hm?\\nWhat is it?"
+msgstr "Mh?\\nCom'è?"
+
+msgctxt "1800\t1850"
+msgid "What do you want me\\nto do for you?"
+msgstr "Cosa vuoi che\\nfaccia per te?"
+
+msgctxt "1890\t1990"
+msgid "I'll do anything for you!"
+msgstr "Farei qualsiasi cosa per te!"
+

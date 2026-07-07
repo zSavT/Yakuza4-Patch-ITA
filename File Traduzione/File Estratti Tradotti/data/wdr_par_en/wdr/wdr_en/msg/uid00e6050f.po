@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1480"
+msgid "Agent"
+msgstr "Agente"
+
+msgctxt "1484"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1488"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1492"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "100_Agent"
+msgid "Kazuma Kiryu-san, yes?"
+msgstr "Kazuma Kiryu-san, corretto?"
+
+msgctxt "112_Kiryu"
+msgid "Who's asking?"
+msgstr "E tu chi saresti?"
+
+msgctxt "124_Agent"
+msgid ""
+"My name is of no importance. I take it you read the email? "
+"Please, step inside."
+msgstr ""
+"Il mio nome non ha importanza. Immagino abbia letto l'e-mail. "
+"Prego, entri."
+
+msgctxt "136_Kiryu"
+msgid "(Guess I'm going in...)"
+msgstr "(Mi sa che entro...)"
+
+msgctxt "160_Agent"
+msgid "Kazuma Kiryu-san, yes?"
+msgstr "Kazuma Kiryu-san, corretto?"
+
+msgctxt "172_Kiryu"
+msgid "Who's asking?"
+msgstr "E tu chi saresti?"
+
+msgctxt "184_Agent"
+msgid ""
+"My name is of no importance. I take it you read the email? "
+"Please, step inside."
+msgstr ""
+"Il mio nome non ha importanza. Immagino abbia letto l'e-mail. "
+"Prego, entri."
+
+msgctxt "196_Kiryu"
+msgid "(Guess I'm going in...)"
+msgstr "(Mi sa che entro...)"

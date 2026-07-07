@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1280"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "232_Kiryu"
+msgid "Let's pick the banker."
+msgstr "Scegliamo il banchiere."
+
+msgctxt "244_Kiryu"
+msgid "I'm the banker."
+msgstr "Sono il banchiere."
+
+msgctxt "256_Kiryu"
+msgid "(How much should I wager?)"
+msgstr "(Quanto dovrei puntare?)"
+
+msgctxt "268_Kiryu"
+msgid "Here goes."
+msgstr "Si parte."
+
+msgctxt "280_Kiryu"
+msgid "It's my turn."
+msgstr "È il mio turno."
+
+msgctxt "292_Kiryu"
+msgid "I'll roll again."
+msgstr "Tiro di nuovo."
+
+msgctxt "304_Kiryu"
+msgid "Let's settle up."
+msgstr "Saldiamo i conti."
+
+msgctxt "316_Kiryu"
+msgid "(You're the banker.)"
+msgstr "(Sei il banchiere.)"
+
+msgctxt "328_Kiryu"
+msgid "Time to change bankers."
+msgstr "Tempo di cambiare banchieri."
+
+msgctxt "340_Kiryu"
+msgid "(Play again?)"
+msgstr "(Facciamo un altro giro?)"
+
+msgctxt "352_Kiryu"
+msgid "(I'm broke.)"
+msgstr "(Sono al verde.)"
+
+msgctxt "364_Kiryu"
+msgid "(Try again next time.)"
+msgstr "(Riprova la prossima volta.)"

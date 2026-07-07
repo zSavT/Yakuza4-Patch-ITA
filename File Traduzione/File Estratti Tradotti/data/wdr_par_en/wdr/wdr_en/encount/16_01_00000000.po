@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "960"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "964"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "968"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "116_Man"
+msgid "test!!"
+msgstr "test!!"
+
+msgctxt "128_Man"
+msgid "test!!"
+msgstr "test!!"
+
+msgctxt "152_Man"
+msgid "test.."
+msgstr "test.."
+
+msgctxt "164_Talk_Yes"
+msgid "test!!"
+msgstr "test!!"
+
+msgctxt "176_Man"
+msgid "You got %s."
+msgstr "Hai ottenuto %s."
+
+msgctxt "212_Man"
+msgid "test.."
+msgstr "test.."

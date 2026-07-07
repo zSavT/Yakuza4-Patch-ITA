@@ -1,0 +1,44 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "664"
+msgid "Officer"
+msgstr "Ufficiale"
+
+msgctxt "668"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "672"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "56_Officer"
+msgid "Oh, Detective Tanimura! Glad you're here."
+msgstr "Oh, Detective Tanimura! Meno male che sei qui."
+
+msgctxt "68_Officer"
+msgid ""
+"It seems the robbery suspects have hidden out in the underground parking "
+"lot."
+msgstr ""
+"Sembra che i rapinatori si siano rintanati nel parcheggio sotterraneo."
+
+msgctxt "80_Officer"
+msgid "We haven't spotted them yet. They seem really good at staying hidden."
+msgstr "Non li abbiamo ancora beccati. Sembrano davvero bravi a nascondersi."
+
+msgctxt "92_Officer"
+msgid "We could really use your help here."
+msgstr "Avremmo proprio bisogno del tuo aiuto qui."

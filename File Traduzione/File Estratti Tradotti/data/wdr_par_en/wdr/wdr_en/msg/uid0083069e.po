@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "744"
+msgid "Shizuka"
+msgstr "Shizuka"
+
+msgctxt "748"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "68_Shizuka"
+msgid "You want me to pose like a female panther? Is this really necessary?"
+msgstr "Vuoi che posi da pantera? È proprio necessario?"
+
+msgctxt "80_Shizuka"
+msgid ""
+"Oh, all right. But I'm only doing this for you. "
+"<Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Oh, va bene. Ma lo faccio solo per te, eh. "
+"<Color:255,200,200,255>♥<Color:Default>"

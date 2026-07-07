@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "164"
+msgid "Welcome."
+msgstr "Benvenuto."
+
+msgctxt "200"
+msgid "What drink?"
+msgstr "Cosa vuoi da bere?"
+
+msgctxt "224"
+msgid "What food?"
+msgstr "Cosa vuoi da mangiare?"
+
+msgctxt "272"
+msgid "Cooking Instructions."
+msgstr "Istruzioni di cucina."
+
+msgctxt "296"
+msgid "Thank you very much."
+msgstr "Grazie mille."
+
+msgctxt "308"
+msgid "Your bill comes to %s!"
+msgstr "Il totale è di %s!"
+
+msgctxt "320"
+msgid "Thanks bunches."
+msgstr "Grazie mille."
+
+msgctxt "356"
+msgid "Normal food"
+msgstr "Cibo normale"
+
+msgctxt "368"
+msgid "Food, pay later"
+msgstr "Cibo, paga dopo"
+
+msgctxt "380"
+msgid "Food, pay later x2"
+msgstr "Cibo, paga dopo x2"
+
+msgctxt "392"
+msgid "Sam's Maui"
+msgstr "Sam's Maui"
+
+msgctxt "404"
+msgid "Date"
+msgstr "Date"
+
+msgctxt "416"
+msgid "Bar"
+msgstr "Bar"

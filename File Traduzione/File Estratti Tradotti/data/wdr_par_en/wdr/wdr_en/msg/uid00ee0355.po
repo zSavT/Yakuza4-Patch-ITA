@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "372"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "116_Kiryu"
+msgid "(Hey, this is a good spot.)"
+msgstr "Ehi, questo è un bel posto."
+
+msgctxt "128_Kiryu"
+msgid "(......)"
+msgstr "(......)"
+
+msgctxt "140_Kiryu"
+msgid "(Wow...)"
+msgstr "(Caspita...)"

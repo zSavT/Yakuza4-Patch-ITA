@@ -1,0 +1,87 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "188"
+msgid "*beep* *beep* *beep*"
+msgstr "*bip* *bip* *bip*"
+
+msgctxt "1920"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "1924"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1928"
+msgid "Fay"
+msgstr "Fay"
+
+msgctxt "1932"
+msgid "Isawa"
+msgstr "Isawa"
+
+msgctxt "1936"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "1940"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "1944"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "92_Tanimura"
+msgid "Tanimura here."
+msgstr "Tanimura qui."
+
+msgctxt "104_Fay"
+msgid "Help! Help me!"
+msgstr ""
+"Aiuto! "
+"Aiutami!"
+
+msgctxt "116_Tanimura"
+msgid "Fay? Where are you!?"
+msgstr "Fay? Dove sei!?"
+
+msgctxt "128_Fay"
+msgid "At work! Isawa is here!"
+msgstr "In azione! Isawa è qui!"
+
+msgctxt "140_Tanimura"
+msgid "Where's this place at?"
+msgstr "Dov'è 'sto posto?"
+
+msgctxt "152_Fay"
+msgid "North Via Pink! It's a club called Purple Moon!"
+msgstr "Pink Street Nord! È un locale chiamato Purple Moon!"
+
+msgctxt "164_Isawa"
+msgid "Hey! Who the hell you talkin' to!?"
+msgstr "Oi! A chi cazzo stai parlando!?"
+
+msgctxt "176_Fay"
+msgid "Eeeeek!"
+msgstr "Aaaah!"
+
+msgctxt "248_Tanimura"
+msgid "Damn! Isawa's already there..."
+msgstr "Maledizione! Isawa è già lì..."
+
+msgctxt "260_Tanimura"
+msgid "Okay... Purple Moon, North Via Pink. Be right there!"
+msgstr "Va bene... Purple Moon, Pink Street Nord. Arrivo subito!"

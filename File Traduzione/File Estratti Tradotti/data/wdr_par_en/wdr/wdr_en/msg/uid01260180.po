@@ -1,0 +1,50 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1060"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "1064"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1068"
+msgid "望月京子：源氏名"
+msgstr "望月京子：源氏名"
+
+msgctxt "1072"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "1076"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "92_Kiryu"
+msgid "I got your guitar back."
+msgstr "Ti ho riportato la tua chitarra."
+
+msgctxt "104_望月京子：源氏名"
+msgid ""
+"Really!? Oh, thank you! Can you bring it to the venue where I'm performing?"
+msgstr "Davvero!? Oh, grazie! Me la porti al locale dove mi esibisco?"
+
+msgctxt "116_望月京子：源氏名"
+msgid "There's not much time!"
+msgstr "Non c'è molto tempo!"
+
+msgctxt "128_Kiryu"
+msgid "I'll bring it right over."
+msgstr "Lo porto subito."

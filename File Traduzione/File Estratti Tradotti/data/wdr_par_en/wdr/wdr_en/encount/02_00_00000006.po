@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1540"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1544"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1548"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1552"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "Yo, pops. Did you just give us the stink eye? I know I saw you lookin' our way."
+msgstr "Ehi, vecchio. Ci hai appena lanciato un'occhiataccia? So di averti visto guardare dalla nostra parte."
+
+msgctxt "128_Man"
+msgid "You did, didn't you? You should know by now－play with fire and you're gonna get burned!"
+msgstr "L'hai fatto, vero? Dovresti saperlo ormai: chi gioca col fuoco si brucia!"
+
+msgctxt "152_Man"
+msgid "Shit! I, uh... guess we can let you off the hook this time."
+msgstr "Merda! Io, uh... credo che per questa volta possiamo lasciarti andare."
+
+msgctxt "164_Man"
+msgid "Here, take this and we'll all get on with our lives, all right? Sheesh..."
+msgstr "Tieni, prendi questo e andiamo tutti avanti con le nostre vite, ok? Accidenti..."
+
+msgctxt "176_Man"
+msgid "You got a spiky %s."
+msgstr "Hai ottenuto un %s appuntito."
+
+msgctxt "212_Man"
+msgid "Whaddya want? I don't got nothin' else on me."
+msgstr "Cosa vuoi? Non ho nient'altro addosso."

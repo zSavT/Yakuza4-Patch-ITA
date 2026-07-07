@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "252"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "256"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "72_Akiyama"
+msgid "(Need to focus on the barkers right now. No time for detours.)"
+msgstr "(Devo concentrarmi sui buttadentro al momento. Non ho tempo da perdere.)"

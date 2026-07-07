@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "764"
+msgid "Yakuza Grunt"
+msgstr "Scagnozzo della yakuza"
+
+msgctxt "768"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "772"
+msgid "Random Thug"
+msgstr "Scagnozzo a caso"
+
+msgctxt "776"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "84_Yakuza Grunt"
+msgid ""
+"This ain't some little bullshit sting. Not with all those "
+"boys pouring in there."
+msgstr ""
+"Questa non è una retata da niente. Non con tutti quei "
+"ragazzi che si stanno riversando là dentro."
+
+msgctxt "96_Random Thug"
+msgid "Yeah... Looked like they were ready to kill, too."
+msgstr "Già... Sembravano pure pronti a uccidere."
+
+msgctxt "108_Yakuza Grunt"
+msgid ""
+"Pretty sure they were Ueno Seiwa. Saw a friend of mine in "
+"the crowd."
+msgstr ""
+"Sono quasi sicuro che fossero della Ueno Seiwa. Ho visto un mio amico tra "
+"la folla."
+
+msgctxt "120_Random Thug"
+msgid "You think a war's breaking out?"
+msgstr "Credi che stia per scoppiare una guerra?"

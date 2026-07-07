@@ -1,0 +1,37 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "576"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "580"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "584"
+msgid "Man Who Wants to Jump"
+msgstr "Uomo che vuole saltare"
+
+msgctxt "588"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "56_Tanimura"
+msgid "What're you trying to do!?"
+msgstr "Cosa stai cercando di fare!?"
+
+msgctxt "80_Man Who Wants to Jump"
+msgid "What!? Don't try to talk me out of it! Just leave me alone!"
+msgstr "Cosa!? Non cercare di dissuadermi! Lasciami in pace!"

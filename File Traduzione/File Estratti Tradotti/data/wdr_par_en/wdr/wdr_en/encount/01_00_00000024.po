@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1332"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1336"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1340"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1344"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1348"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1352"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "116_Man"
+msgid "Who the fuck do you think you are, walking by without saying even a hello?"
+msgstr "Chi cazzo ti credi di essere, che passi senza nemmeno salutare?"
+
+msgctxt "128_Man"
+msgid "That's how we do things here! Guess I'm gonna have to beat some manners into you!"
+msgstr "È così che facciamo le cose qui! Credo che dovrò insegnarti un po' di buone maniere a suon di botte!"
+
+msgctxt "152_Man"
+msgid "My apologies. I was the one who forgot his manners."
+msgstr "Le mie scuse. Sono stato io a dimenticare le buone maniere."
+
+msgctxt "164_Man"
+msgid "I hope this makes up for my rudeness."
+msgstr "Spero che questo rimedi alla mia maleducazione."
+
+msgctxt "176_Man"
+msgid "You got a battered and bruised %s."
+msgstr "Hai ottenuto un %s malconcio e pieno di lividi."
+
+msgctxt "212_Man"
+msgid "I really do apologize."
+msgstr "Mi scuso davvero."

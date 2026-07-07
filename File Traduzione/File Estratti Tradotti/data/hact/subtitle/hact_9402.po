@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: 2022-09-17\n"
+"Project-Id-Version: yakuza-4\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Crowdin-Project: yakuza-4\n"
+"X-Crowdin-Project-ID: 497403\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /data/hact/subtitle/hact_9402.po\n"
+"X-Crowdin-File-ID: 57146\n"
+"PO-Revision-Date: 2025-09-26 22:57\n"
+
+msgctxt "45\t90"
+msgid "[You're lookin' fine as ever, babe!]"
+msgstr "[Sei bella come sempre, baby!]"
+
+msgctxt "95\t140"
+msgid "[Really? It's all for you, darling.]"
+msgstr "[Davvero? È tutto per te, tesoro.]"
+
+msgctxt "162\t202"
+msgid "[Oh, you!]"
+msgstr "[Oh, ma pensa!]"
+
+msgctxt "220\t250"
+msgid "[Hold it!]"
+msgstr "[Aspetta!]"
+
+msgctxt "300\t360"
+msgid "[I turn my back for one second,\\nand this happens!?]"
+msgstr "[Mi sono girato un secondo,\\ne succede questo?]"
+
+msgctxt "400\t470"
+msgid "[Well, darling...\\nGet ready to die!]"
+msgstr "[Beh, tesoro...\\nPreparati a morire!]"
+
+msgctxt "730\t770"
+msgid "[You no-good son of a bitch!]"
+msgstr "[Brutto figlio di puttana!]"
+

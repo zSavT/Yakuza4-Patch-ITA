@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1108"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "152_Kiryu"
+msgid "Hold it... Don't think an amateur like you can trick me."
+msgstr "Un attimo... Non pensare che un pivello come te possa fregarmi."
+
+msgctxt "164_Kiryu"
+msgid "Hold it... You wouldn't be cheating, now would you?"
+msgstr "Un attimo... Non starai mica giocando sporco, eh?"
+
+msgctxt "176_Kiryu"
+msgid "Heh... Fine."
+msgstr "Eh... Va bene."
+
+msgctxt "188_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "200_Kiryu"
+msgid "(She kept her cool... Guess I was wrong.)"
+msgstr "(È rimasto calmo... Immagino di essermi sbagliata.)"
+
+msgctxt "212_Kiryu"
+msgid "(Haruka says it'll be even... What should I do?)"
+msgstr "(Haruka dice che sarà pari... Cosa dovrei fare?)"
+
+msgctxt "224_Kiryu"
+msgid "(Haruka says it'll be odd... What should I do?)"
+msgstr "(Haruka dice che uscirà dispari... Che faccio?)"
+
+msgctxt "236_Kiryu"
+msgid "(I'm spent out.)"
+msgstr "(Sono a secco.)"

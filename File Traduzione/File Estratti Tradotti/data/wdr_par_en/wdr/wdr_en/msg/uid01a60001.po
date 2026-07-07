@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "848"
+msgid "Dealer"
+msgstr "Croupier"
+
+msgctxt "104_Dealer"
+msgid "Welcome to the roulette table."
+msgstr "Benvenuto al tavolo della roulette."
+
+msgctxt "116_Dealer"
+msgid "Let's begin the game."
+msgstr "Iniziamo a giocare."
+
+msgctxt "128_Dealer"
+msgid ""
+"Welcome to the roulette table. Would you like to play one-on-one against the"
+" house?"
+msgstr ""
+"Benvenuto al tavolo della roulette. Ti va di sfidare il banco in un uno contro "
+"uno?"
+
+msgctxt "140_Dealer"
+msgid "Let's begin the game."
+msgstr "Iniziamo a giocare."
+
+msgctxt "152_Dealer"
+msgid "We look forward to seeing you again."
+msgstr "Speriamo di rivederla."
+
+msgctxt "164_Dealer"
+msgid "You seem to be short on chips. Please come visit us again soon."
+msgstr "Sembra che tu sia a corto di fiches. Ti aspettiamo di nuovo presto."

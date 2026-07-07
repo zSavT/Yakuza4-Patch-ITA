@@ -1,0 +1,101 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-04\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "80\tMSG"
+msgid "Set Training Menu."
+msgstr "Imposta il Menu di Allenamento."
+
+msgctxt "99\tMSG"
+msgid "Read comments from Sodachi."
+msgstr "Leggi i commenti di Sodachi."
+
+msgctxt "127\tMSG"
+msgid "Read comments from apprentices."
+msgstr "Leggi i commenti degli apprendisti."
+
+msgctxt "159\tMSG"
+msgid "Equip apprentice with acquired Skills and Finishing Moves."
+msgstr "Assegna all'apprendista le Abilità e le Mosse finali acquisite."
+
+msgctxt "218\tMSG"
+msgid "Check dojo status."
+msgstr "Controlla lo stato del dojo."
+
+msgctxt "237\tMSG"
+msgid "Spend funds to enhance dojo facilities."
+msgstr "Spendi fondi per migliorare le strutture del dojo."
+
+msgctxt "277\tMSG"
+msgid "Quit training."
+msgstr "Termina allenamento."
+
+msgctxt "292\tMSG"
+msgid "Please set a schedule."
+msgstr "Si prega di impostare un programma."
+
+msgctxt "315\tMSG"
+msgid "Begin training."
+msgstr "Inizia l'allenamento."
+
+msgctxt "331\tMSG"
+msgid "You must finish setting the schedule."
+msgstr "Devi finire di impostare il programma."
+
+msgctxt "369\tMSG"
+msgid "Equip apprentice with acquired Skills."
+msgstr "Assegna all'apprendista le Abilità acquisite."
+
+msgctxt "408\tMSG"
+msgid "Equip apprentice with acquired Finishing Moves."
+msgstr "Assegna all'apprendista le Mosse finali acquisite."
+
+msgctxt "456\tMSG"
+msgid "You have not acquired this Skill yet."
+msgstr "Non hai ancora acquisito questa Abilità."
+
+msgctxt "494\tMSG"
+msgid "You have not acquired this Finishing Move yet."
+msgstr "Non hai ancora acquisito questa Mossa Finale."
+
+msgctxt "541\tMSG"
+msgid "You can only select Rest. Your apprentice is injured."
+msgstr "Puoi selezionare solo Riposo. Il tuo apprendista è infortunato."
+
+msgctxt "595\tMSG"
+msgid "You can only select Tournament as this is your final turn."
+msgstr "Puoi selezionare solo Torneo, poiché questo è l'ultimo turno."
+
+msgctxt "654\tMSG"
+msgid "You must enter a Tournament as this is your final turn."
+msgstr "Devi partecipare a un Torneo poiché questo è l'ultimo turno."
+
+msgctxt "710\tMSG"
+msgid "You cannot return until you start training."
+msgstr "Non puoi tornare indietro finché non inizi l'allenamento."
+
+msgctxt "754\tMSG"
+msgid "Special menu items cannot be changed."
+msgstr "Le voci del menu speciale non possono essere modificate."
+
+msgctxt "792\tMSG"
+msgid "There are no Finishing Moves that you can teach."
+msgstr "Non ci sono Mosse Finali che puoi insegnare."
+
+msgctxt "841\tMSG"
+msgid "You cannot upgrade this facility without renovating. "
+msgstr "Non puoi potenziare questa struttura senza prima ristrutturarla."
+
+msgctxt "895\tMSG"
+msgid "You cannot upgrade this facility yet."
+msgstr "Non puoi ancora potenziare questa struttura."

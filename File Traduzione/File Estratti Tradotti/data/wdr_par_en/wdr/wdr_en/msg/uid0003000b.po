@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "824"
+msgid "2d_cf_kigae_kiryu00"
+msgstr "2d_cf_kigae_kiryu00"
+
+msgctxt "56_2d_cf_kigae_kiryu00"
+msgid "Show 1 picture."
+msgstr "Mostra 1 immagine."
+
+msgctxt "68_2d_cf_kigae_kiryu00"
+msgid "first picture   normal."
+msgstr "prima immagine   normale."
+
+msgctxt "80_2d_cf_kigae_kiryu00"
+msgid "Erase"
+msgstr "Cancella"
+
+msgctxt "92_2d_cf_kigae_kiryu00"
+msgid "second picture   full screen."
+msgstr "seconda immagine   a schermo intero."
+
+msgctxt "104_2d_cf_kigae_kiryu00"
+msgid "Erase"
+msgstr "Cancella"
+
+msgctxt "116_2d_cf_kigae_kiryu00"
+msgid "third picture   normal."
+msgstr "terza immagine normale."
+
+msgctxt "128_2d_cf_kigae_kiryu00"
+msgid "fourth picture   normal   crossfeed!"
+msgstr "quarta immagine normale dissolvenza!"
+
+msgctxt "140_2d_cf_kigae_kiryu00"
+msgid "Erase"
+msgstr "Cancella"
+
+msgctxt "152_2d_cf_kigae_kiryu00"
+msgid "That's the end."
+msgstr "Fine."

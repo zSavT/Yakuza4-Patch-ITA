@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "448"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "452"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "456"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "56_Tanimura"
+msgid "Whew... Now to just hand him over."
+msgstr "Uff... Ora non mi resta che consegnarlo."
+
+msgctxt "68_Tanimura"
+msgid "Man, what a pain. Hey, let's go!"
+msgstr "Uff, che palle. Dai, andiamo!"

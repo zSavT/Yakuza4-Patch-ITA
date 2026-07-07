@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "296"
+msgid "Select the number of input devices to use."
+msgstr "Seleziona il numero di dispositivi di input da usare."
+
+msgctxt "332"
+msgid "Select the number of frames you want to play."
+msgstr "Seleziona il numero di frame che vuoi giocare."
+
+msgctxt "368"
+msgid "Do you want to play again?"
+msgstr "Vuoi giocare di nuovo?"
+
+msgctxt "404"
+msgid "Two input devices are required to play in this mode."
+msgstr "Servono due dispositivi di input per giocare in questa modalità."
+
+msgctxt "416"
+msgid "Do you want to see the tutorial?"
+msgstr "Vuoi vedere il tutorial?"
+
+msgctxt "452"
+msgid "One"
+msgstr "Uno"
+
+msgctxt "464"
+msgid "Two"
+msgstr "Due"
+
+msgctxt "476"
+msgid "Three Frames"
+msgstr "Tre Frame"
+
+msgctxt "488"
+msgid "Ten Frames"
+msgstr "Dieci Frame"
+
+msgctxt "500"
+msgid "Play Again"
+msgstr "Gioca ancora"
+
+msgctxt "512"
+msgid "Quit"
+msgstr "Esci"
+
+msgctxt "524"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "536"
+msgid "No"
+msgstr "No"

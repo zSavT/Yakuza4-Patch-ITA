@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "580"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "584"
+msgid "Morimoto"
+msgstr "Morimoto"
+
+msgctxt "588"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "592"
+msgid "Yamashita"
+msgstr "Yamashita"
+
+msgctxt "56_Saejima"
+msgid "So this is where your boss is, huh?"
+msgstr "Allora, è qui il tuo boss, eh?"
+
+msgctxt "68_Morimoto"
+msgid "Yeah."
+msgstr "Sì."
+
+msgctxt "80_Yamashita"
+msgid "......"
+msgstr "......"

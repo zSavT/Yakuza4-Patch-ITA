@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "200"
+msgid "The next roll came up even."
+msgstr "Il prossimo lancio è uscito pari."
+
+msgctxt "212"
+msgid "The next roll came up odd."
+msgstr "Il prossimo lancio è uscito dispari."
+
+msgctxt "224"
+msgid "The next roll was Snake Eyes."
+msgstr "Il prossimo lancio fu Doppio uno."
+
+msgctxt "236"
+msgid "The gamblers' bets are becoming very lopsided."
+msgstr "Le puntate degli scommettitori sono molto sbilanciate."
+
+msgctxt "248"
+msgid "An item cannot be used twice in one game."
+msgstr "Non si può usare un oggetto due volte nella stessa partita."
+
+msgctxt "260"
+msgid "Nothing happened."
+msgstr "Non è successo niente."
+
+msgctxt "272"
+msgid "You need 40 chips to guess both dice rolls."
+msgstr "Ti servono 40 fiches per indovinare entrambi i lanci di dadi."
+
+msgctxt "284"
+msgid "You need 100 chips to guess both dice rolls."
+msgstr "Ti servono 100 fiches per indovinare entrambi i lanci di dadi."
+
+msgctxt "296"
+msgid "You need 160 chips to guess both dice rolls."
+msgstr "Ti servono 160 fiches per indovinare entrambi i lanci dei dadi."
+
+msgctxt "308"
+msgid "You need 200 chips to guess both dice rolls."
+msgstr "Ti servono 200 fiches per indovinare entrambi i lanci dei dadi."

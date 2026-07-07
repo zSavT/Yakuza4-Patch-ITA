@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1308"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1312"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1316"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "Hey, bastard... Ya got a pretty big attitude, not even greetin' me and shit!"
+msgstr "Ehi, bastardo... Te la tiri un bel po', non mi saluti nemmeno e cazzate varie!"
+
+msgctxt "128_Man"
+msgid "Looks like I'm gonna hafta teach ya some fuckin' manners!"
+msgstr "Sembra che dovrò insegnarti un po' di fottuta educazione!"
+
+msgctxt "152_Man"
+msgid "I'm sorry..."
+msgstr "Mi dispiace..."
+
+msgctxt "164_Man"
+msgid "Looks like I was the one without manners! Please take this for teachin' me the proper ways..."
+msgstr "Sembra che fossi io quello senza educazione! Per favore, prendi questo per avermi insegnato le buone maniere..."
+
+msgctxt "176_Man"
+msgid "You got a polite %s."
+msgstr "Hai ottenuto un %s educato."
+
+msgctxt "212_Man"
+msgid "I learned my lesson!"
+msgstr "Ho imparato la lezione!"

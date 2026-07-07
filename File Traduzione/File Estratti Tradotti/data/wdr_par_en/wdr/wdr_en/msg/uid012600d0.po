@@ -1,0 +1,189 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "5340"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "5344"
+msgid "Tadokoro's Subordinate"
+msgstr "Subordinato di Tadokoro"
+
+msgctxt "5348"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "5352"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "5356"
+msgid "Talk_Udekumi_Yes"
+msgstr "Talk_Udekumi_Yes"
+
+msgctxt "5360"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "5364"
+msgid "Talk_Udekumi_ed"
+msgstr "Talk_Udekumi_ed"
+
+msgctxt "5368"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "5372"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "5376"
+msgid "Talk_Kansin"
+msgstr "Talk_Kansin"
+
+msgctxt "5380"
+msgid "Tadashi"
+msgstr "Tadashi"
+
+msgctxt "5384"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "5388"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "5392"
+msgid "0"
+msgstr "0"
+
+msgctxt "68_Saejima"
+msgid "Who's there?"
+msgstr "Chi è?"
+
+msgctxt "80_Tadokoro's Subordinate"
+msgid "I have a message from Tadokoro."
+msgstr "Ho un messaggio da parte di Tadokoro."
+
+msgctxt "92_Saejima"
+msgid "Alright, come in."
+msgstr "Va bene, entra."
+
+msgctxt "140_Saejima"
+msgid "This about work?"
+msgstr "È per il lavoro?"
+
+msgctxt "152_Tadokoro's Subordinate"
+msgid "Suzuki-san, have you ever heard of the Dragon Palace?"
+msgstr "Suzuki-san, hai mai sentito parlare del Dragon Palace?"
+
+msgctxt "164_Saejima"
+msgid ""
+"Ya mean the undersea castle in that old-ass fairy tale? "
+"What of it?"
+msgstr ""
+"Vuoi dire il castello sottomarino di quella vecchia fiaba del cavolo? "
+"E allora?"
+
+msgctxt "176_Tadokoro's Subordinate"
+msgid "Oh, nothing. Nothing at all. Forget I said anything."
+msgstr ""
+"Oh, niente. Niente di niente. Dimentica che te l'abbia chiesto."
+
+msgctxt "188_Saejima"
+msgid "Now hold up. You screwin' with me?"
+msgstr ""
+"Aspetta un attimo. Mi stai prendendo per il culo?"
+
+msgctxt "200_Tadokoro's Subordinate"
+msgid ""
+"Perish the thought. It has to do with your assignment. "
+"I just wanted to make sure."
+msgstr ""
+"Nemmeno per sogno. Riguarda il tuo incarico. "
+"Volevo solo esserne sicuro."
+
+msgctxt "212_Tadokoro's Subordinate"
+msgid ""
+"Speaking of which... You'll be working as a bouncer "
+"at a certain facility."
+msgstr ""
+"A questo proposito... Lavorerai come buttafuori "
+"in una certa struttura."
+
+msgctxt "224_Saejima"
+msgid "What kind?"
+msgstr "Che tipo?"
+
+msgctxt "236_Tadokoro's Subordinate"
+msgid ""
+"My apologies. It's a touch illegal, so Tadokoro himself "
+"will give you the details once you get there."
+msgstr ""
+"Scusami. È una cosetta un po' illegale, quindi sarà Tadokoro in persona "
+"a darti i dettagli una volta arrivato lì."
+
+msgctxt "248_Tadokoro's Subordinate"
+msgid ""
+"May I ask you to please proceed to the abandoned building "
+"on the Hotel District side of Viale del Parco?"
+msgstr "Ti dispiacerebbe dirigerti all'edificio abbandonato su Park Boulevard, dal lato del Hotel District?"
+
+msgctxt "260_Tadokoro's Subordinate"
+msgid "You can't miss it. Tadokoro will be waiting out front."
+msgstr "Non puoi sbagliarti. Tadokoro ti aspetterà là davanti."
+
+msgctxt "272_Saejima"
+msgid "Gotcha. Viale del Parco to the Hotel District side, yeah?"
+msgstr "Afferrato. Park Boulevard, lato Hotel District, giusto?"
+
+msgctxt "284_Tadokoro's Subordinate"
+msgid ""
+"Yes. Head to the building behind the MEB red light "
+"district info kiosk. Please try not to get lost."
+msgstr ""
+"Sì. Dirigiti all'edificio dietro al MEB, il chiosco informazioni del quartiere a luci rosse. "
+"Vedi di non perderti."
+
+msgctxt "296_Tadokoro's Subordinate"
+msgid ""
+"Oh, and could I ask you to stay here, Tadashi-kun? This particular job site "
+"is no place for children."
+msgstr ""
+"Ah, e potrei chiederti di restare qui, Tadashi-kun? Questo posto di lavoro in "
+"particolare non è adatto ai bambini."
+
+msgctxt "308_Tadashi"
+msgid "Awww..."
+msgstr "Uffa..."
+
+msgctxt "320_Saejima"
+msgid ""
+"Don't sweat it. You hold down the fort and keep an eye "
+"on the place for me, will ya?"
+msgstr ""
+"Tranquillo. Pensa a tenere il forte e a fare la guardia al "
+"posto per me, intesi?"
+
+msgctxt "332_Tadashi"
+msgid "Okay, I will. Be careful out there, big guy."
+msgstr "Va bene, lo farò. Stai attento là fuori, ragazzone."
+
+msgctxt "344_Tadokoro's Subordinate"
+msgid "All right then, Suzuki-san. Good luck on your assignment."
+msgstr "D'accordo allora, Suzuki-san. Buona fortuna con il tuo incarico."
+
+msgctxt "368_Saejima"
+msgid "I'm headin' to the Hotel District side of Viale del Parco."
+msgstr "Vado verso Park Boulevard, dal lato dell'Hotel District."

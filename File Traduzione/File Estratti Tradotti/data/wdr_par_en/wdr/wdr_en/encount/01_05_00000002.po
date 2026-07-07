@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1612"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1616"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1620"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "1624"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "1628"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "116_Man"
+msgid "Huh? Yo, what gives? Who said you could go out drinking alone? I wanna toss back a few, too!"
+msgstr "Eh? Ehi, che succede? Chi ha detto che potevi andare a bere da solo? Anch'io voglio farmi un paio di bicchieri!"
+
+msgctxt "128_Man"
+msgid "So how about you give me some? Some money, that is.\r\nM-O-N-E-Y. Hmm, maybe I gotta beat it outta you, huh?"
+msgstr "Allora che ne dici di darmene un po'? Di soldi, intendo.\r\nS-O-L-D-I. Hmm, forse devo tirarteli fuori a suon di botte, eh?"
+
+msgctxt "152_Man"
+msgid "Yow..."
+msgstr "Ahi..."
+
+msgctxt "164_Man"
+msgid "Okay, I see how it's gonna be. I'm better off leaving you the hell alone. Before I do though, take this. It's yours."
+msgstr "Ok, ho capito come stanno le cose. È meglio se ti lascio in pace. Prima di andarmene, però, prendi questo. È tuo."
+
+msgctxt "176_Man"
+msgid "You got an edible %s."
+msgstr "Hai ottenuto un %s commestibile."
+
+msgctxt "212_Man"
+msgid "I swear I won't get all up in your shit again."
+msgstr "Giuro che non ti romperò più le palle."

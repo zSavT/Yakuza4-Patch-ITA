@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "308"
+msgid "You got an <Color:8>Eye of the Dragon<Color:Default>."
+msgstr "Hai ottenuto un <Color:8>Occhio del Drago<Color:Default>."
+
+msgctxt "416"
+msgid "You gained 5,000 EXP."
+msgstr "Hai guadagnato 5.000 EXP."
+
+msgctxt "4744"
+msgid "Tadokoro"
+msgstr "Tadokoro"
+
+msgctxt "4748"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "4752"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4756"
+msgid "Tadokoro's Subordinate"
+msgstr "Subordinato di Tadokoro"
+
+msgctxt "4760"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4764"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "4768"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "4772"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "4776"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "4780"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "56_Tadokoro"
+msgid "This man is the ringleader, I presume?"
+msgstr "Quest'uomo è il capobanda, presumo?"
+
+msgctxt "68_Saejima"
+msgid "Yep. Signed, sealed, and delivered. As promised."
+msgstr "Sì. Preso, impacchettato e consegnato. Come promesso."
+
+msgctxt "80_Tadokoro's Subordinate"
+msgid "Sir, I'll escort our friend here back to the office."
+msgstr "Capo, scorterò il nostro amico qui in ufficio."
+
+msgctxt "92_Tadokoro"
+msgid "Fine. I'll be right there."
+msgstr "D'accordo. Arrivo subito."
+
+msgctxt "164_Tadokoro"
+msgid "Congratulations on a job well done."
+msgstr "Complimenti per il lavoro ben fatto."
+
+msgctxt "176_Saejima"
+msgid "A job like that ain't hardly a job at all."
+msgstr "Chiamare 'lavoro' un lavoretto del genere è una parola grossa."
+
+msgctxt "188_Tadokoro"
+msgid ""
+"Perhaps it's none of my business, but if you and Tadashi "
+"are perfect strangers, why go to such lengths for him?"
+msgstr ""
+"Forse non sono affari miei, ma se tu e Tadashi "
+"siete perfetti sconosciuti, perché ti sbatti tanto per lui?"
+
+msgctxt "200_Saejima"
+msgid ""
+"I wouldn't expect you to understand, but I made a promise to Tadashi-man to "
+"man. And that's reason enough for me."
+msgstr ""
+"Non mi aspetto che tu lo capisca, ma ho fatto una promessa a Tadashi, da uomo a "
+"uomo. E questo mi basta."
+
+msgctxt "212_Tadokoro"
+msgid "Is that so? No, I can't say I do understand."
+msgstr "Ah, davvero? No, in effetti non riesco a capirlo."
+
+msgctxt "224_Tadokoro"
+msgid ""
+"All right, fine. I can see any further talk on the subject "
+"would be a waste of my time and yours."
+msgstr ""
+"Molto bene. Vedo che continuare a parlarne "
+"sarebbe solo una perdita di tempo, sia per me che per te."
+
+msgctxt "236_Saejima"
+msgid "Hey, don't forget what ya promised the kid."
+msgstr "Ehi, non scordarti cosa hai promesso al ragazzino."
+
+msgctxt "248_Tadokoro"
+msgid "I wouldn't dream of it."
+msgstr "Non me lo sognerei mai."
+
+msgctxt "260_Saejima"
+msgid "And next time, find me a better payin' gig."
+msgstr "E la prossima volta, trovami un incarico che paghi meglio."
+
+msgctxt "272_Tadokoro"
+msgid "I'll certainly do my best."
+msgstr "Farò certamente del mio meglio."
+
+msgctxt "284_Tadokoro"
+msgid ""
+"Oh, by the way. Our mutual friend Hayase had this on him. "
+"You may have it. A nice little bonus, yes?"
+msgstr ""
+"Oh, a proposito. Il nostro comune amico Hayase aveva questo addosso. "
+"Puoi tenerlo. Un bel regalino extra, no?"
+
+msgctxt "296_Saejima"
+msgid "Gee, thanks."
+msgstr "Caspita, grazie."
+
+msgctxt "332_Tadokoro"
+msgid "Until your next assignment, then. Goodbye."
+msgstr "Fino al tuo prossimo incarico, allora. Arrivederci."

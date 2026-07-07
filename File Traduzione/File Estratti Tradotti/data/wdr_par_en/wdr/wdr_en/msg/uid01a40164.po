@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1916"
+msgid "Shoko"
+msgstr "Shoko"
+
+msgctxt "1920"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1924"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "1928"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "156_Shoko"
+msgid ""
+"Ah, that was delicious. Sushi Gin really is the best in "
+"town."
+msgstr ""
+"Ah, era delizioso. Il Sushi Gin è davvero il migliore in "
+"città."
+
+msgctxt "168_Akiyama"
+msgid "(I guess Shoko-san had some sushi...)"
+msgstr "(Immagino che Shoko-san abbia mangiato del sushi...)"
+
+msgctxt "240_Akiyama"
+msgid ""
+"(She may have just failed the test. Let's see what the chef has to say...)"
+msgstr ""
+"(Forse ha appena fallito il test. Vediamo cosa ha da dire lo chef...)"
+
+msgctxt "264_Akiyama"
+msgid "(It doesn't look like she's spent her million.)"
+msgstr "(Non sembra che abbia speso il suo milione.)"
+
+msgctxt "288_Akiyama"
+msgid "(Okay, where's she headed to now?)"
+msgstr "(Okay, dove sarà diretta adesso?)"
+
+msgctxt "300_Akiyama"
+msgid ""
+"(All right, Shoko-san should be heading back to the office by now. I ought "
+"to head over that way myself.)"
+msgstr ""
+"(Bene, a quest'ora Shoko-san dovrebbe star tornando in ufficio. Farei "
+"meglio ad avviarmi anch'io.)"

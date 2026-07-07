@@ -1,0 +1,118 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "2988"
+msgid "Takashi"
+msgstr "Takashi"
+
+msgctxt "2992"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "2996"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "3000"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "3004"
+msgid "P_aki_stand"
+msgstr "P_aki_stand"
+
+msgctxt "3008"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "3012"
+msgid "Talk_Phone_yes"
+msgstr "Talk_Phone_yes"
+
+msgctxt "3016"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "3020"
+msgid "M_nml_stand"
+msgstr "M_nml_stand"
+
+msgctxt "3024"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "3028"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "56_Takashi"
+msgid "Oh, Kiryu-san."
+msgstr "Oh, Kiryu-san."
+
+msgctxt "68_Kiryu"
+msgid "You hear back from the Florist yet?"
+msgstr "Hai già sentito il Fioraio?"
+
+msgctxt "80_Takashi"
+msgid "Not a peep, no..."
+msgstr "Niente di niente, no..."
+
+msgctxt "116_Takashi"
+msgid "Hello?"
+msgstr "Pronto?"
+
+msgctxt "128_Takashi"
+msgid "Yeah... okay. In the casino?"
+msgstr "Sì... d'accordo. Nel casinò?"
+
+msgctxt "140_Takashi"
+msgid "Consider it done!"
+msgstr "Consideralo già fatto!"
+
+msgctxt "164_Kiryu"
+msgid "So, what did he ask you to do?"
+msgstr "Allora, cosa ti ha chiesto di fare?"
+
+msgctxt "176_Takashi"
+msgid ""
+"He was saying there's some guy in the underground casino who "
+"just won't stop winning."
+msgstr ""
+"Diceva che c'è un tizio nel casinò sotterraneo che "
+"non fa altro che vincere."
+
+msgctxt "188_Takashi"
+msgid ""
+"And he's got a hunch this guy is using more than luck to get "
+"the job done, if you catch my drift. So I have to go down "
+"and figure out what the deal is."
+msgstr ""
+"E ha il presentimento che questo tizio non stia vincendo "
+"solo grazie alla fortuna, se capisci cosa intendo. Quindi devo "
+"scendere a dare un'occhiata e capire cosa c'è sotto."
+
+msgctxt "200_Kiryu"
+msgid "Think you can handle it?"
+msgstr "Pensi di farcela?"
+
+msgctxt "212_Takashi"
+msgid "Think? I know I can!"
+msgstr "Non lo penso, ne sono sicuro!"
+
+msgctxt "236_Kiryu"
+msgid ""
+"(Hope he'll be okay. I should probably go check on him, just to be safe.)"
+msgstr ""
+"(Spero che se la cavi. Forse è meglio se vado a dargli un'occhiata, giusto per "
+"stare tranquillo.)"

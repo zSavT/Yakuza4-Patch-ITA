@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "144"
+msgid "Nothing happened."
+msgstr "Non è successo niente."
+
+msgctxt "988"
+msgid "TNK_01_A_START"
+msgstr "TNK_01_A_START"
+
+msgctxt "992"
+msgid "TNK_01_A_E_START"
+msgstr "TNK_01_A_E_START"
+
+msgctxt "996"
+msgid "TNK_01_A_N_START"
+msgstr "TNK_01_A_N_START"
+
+msgctxt "168_TNK_01_A_START"
+msgid "You learned the <Color:9>Essence of Triple Strike<Color:Default>."
+msgstr "Hai imparato la <Color:9>Essenza del triplice colpo<Color:Default>."

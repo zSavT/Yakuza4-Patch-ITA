@@ -1,0 +1,54 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1020"
+msgid "Kido"
+msgstr "Kido"
+
+msgctxt "1024"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1028"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "1032"
+msgid "Talk_Udekumi_st"
+msgstr "Talk_Udekumi_st"
+
+msgctxt "88_Kido"
+msgid "This is it."
+msgstr "Ci siamo."
+
+msgctxt "100_Saejima"
+msgid "Huh..."
+msgstr "Eh..."
+
+msgctxt "112_Kido"
+msgid ""
+"It's a long story, but let's just say the last tenants here "
+"moved out in a hurry, so I've helped myself to the space."
+msgstr ""
+"È una lunga storia, ma diciamo solo che gli ultimi inquilini se ne sono "
+"andati in fretta, quindi mi sono preso lo spazio."
+
+msgctxt "124_Saejima"
+msgid "Lotta homeless folks around."
+msgstr "Ci sono un sacco di senzatetto in giro."
+
+msgctxt "136_Kido"
+msgid "This is kind of their turf. We're the squatters down here."
+msgstr ""
+"Questo è una specie di loro territorio. Siamo noi gli abusivi, qui sotto."

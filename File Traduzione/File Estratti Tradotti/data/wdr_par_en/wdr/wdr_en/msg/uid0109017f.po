@@ -1,0 +1,150 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "4604"
+msgid "Morimoto"
+msgstr "Morimoto"
+
+msgctxt "4608"
+msgid "Yamashita"
+msgstr "Yamashita"
+
+msgctxt "4612"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "4616"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "4620"
+msgid "Elderly Homeless Man"
+msgstr "Anziano Senzatetto"
+
+msgctxt "4624"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "4628"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "4632"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "4636"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "4640"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "56_Morimoto"
+msgid "You won't get away with this!"
+msgstr "Non la passerete liscia!"
+
+msgctxt "128_Yamashita"
+msgid ""
+"You got me out of a real sticky situation. "
+"How can I ever thank you?"
+msgstr ""
+"Mi hai tirato fuori da un bel casino. "
+"Come potrò mai ringraziarti?"
+
+msgctxt "140_Saejima"
+msgid "I was just passin' through. Don't thank me, thank him."
+msgstr "Stavo solo passando di qui. Non ringraziare me, ringrazia lui."
+
+msgctxt "176_Yamashita"
+msgid "And with your injury, too. I'm truly grateful."
+msgstr "E pure con la tua ferita. Ti sono davvero grato."
+
+msgctxt "188_Elderly Homeless Man"
+msgid "It was nothing, chief. All I did was bring this fellow by."
+msgstr "Niente di che, capo. Ho solo accompagnato questo qui."
+
+msgctxt "200_Saejima"
+msgid "You the boss around here?"
+msgstr "Sei tu il boss da queste parti?"
+
+msgctxt "212_Yamashita"
+msgid ""
+"I'm flattered, but it's nothing so fancy as that. I've just been living here"
+" a long time, that's all."
+msgstr ""
+"Sono lusingato, ma non è mica tutta 'sta gran roba. È solo che ci vivo qui "
+"da un sacco di tempo, tutto qui."
+
+msgctxt "224_Saejima"
+msgid "Must be rough for ya. Any idea what those hooligans wanted?"
+msgstr "Dev'essere stata tosta per te. Sai cosa volevano quei teppisti?"
+
+msgctxt "236_Yamashita"
+msgid "Yes, about them... They started their raids several months back."
+msgstr ""
+"Sì, a proposito di loro... Hanno iniziato le loro razzie diversi mesi fa."
+
+msgctxt "248_Saejima"
+msgid ""
+"Goddamn teenagers gangin' up, pickin' on old folks. "
+"What's this world come to?"
+msgstr ""
+"Maledetti ragazzini che si accaniscono in gruppo contro i vecchietti. "
+"Cos'è diventato questo mondo?"
+
+msgctxt "260_Yamashita"
+msgid "There might actually be more to it than that."
+msgstr "In realtà potrebbe esserci qualcosa di più sotto."
+
+msgctxt "272_Saejima"
+msgid "What're ya gettin' at?"
+msgstr "Dove vuoi andare a parare?"
+
+msgctxt "284_Yamashita"
+msgid ""
+"I thought they were just drugged-up teens on a joyride too. "
+"That is, until now."
+msgstr ""
+"Pensavo fossero solo dei ragazzini strafatti a far casino anch'io. "
+"Almeno, fino ad adesso."
+
+msgctxt "296_Yamashita"
+msgid ""
+"Did you see how furious that young man was? "
+"I wonder if he has a reason to feel that way."
+msgstr ""
+"Hai visto che rabbia avesse quel ragazzo? "
+"Mi chiedo se abbia un motivo per sentirsi così."
+
+msgctxt "308_Saejima"
+msgid "Can't be a good one."
+msgstr "Non può essere roba buona."
+
+msgctxt "320_Yamashita"
+msgid ""
+"Oh, please excuse me. I didn't mean to get you all caught up in an old man's"
+" ramblings."
+msgstr ""
+"Oh, scusatemi. Non volevo coinvolgervi tutti nei vaneggiamenti di un "
+"vecchio."
+
+msgctxt "332_Saejima"
+msgid "No sweat. Alright, well, take care of yourself."
+msgstr "Figurati. Bene, allora, stammi bene."
+
+msgctxt "344_Yamashita"
+msgid "I'll try. Thank you again."
+msgstr "Ci proverò. Grazie ancora."

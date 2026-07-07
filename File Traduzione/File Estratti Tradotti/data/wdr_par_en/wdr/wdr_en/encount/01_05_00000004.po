@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Language: it\n"
+"Language-Team: Italian\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: yakuza-4-remastered\n"
+
+msgctxt "1604"
+msgid "Man"
+msgstr "Uomo"
+
+msgctxt "1608"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "1612"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "1616"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "1620"
+msgid "Sync_Send"
+msgstr "Sync_Send"
+
+msgctxt "116_Man"
+msgid "Hey, I'm glad to see you're out having a good time and all, but if you bump into someone, the least you could do is apologize!"
+msgstr "Ehi, sono contento di vedere che ti stai divertendo, ma se urti qualcuno, il minimo che potresti fare è chiedere scusa!"
+
+msgctxt "128_Man"
+msgid "Eh? Spacing out on me, huh? Think I'll go ahead and smack the drunk right outta you!"
+msgstr "Eh? Mi stai ignorando, eh? Credo che ti toglierò la sbornia a suon di schiaffi!"
+
+msgctxt "152_Man"
+msgid "I'm sorry! Don't hurt me! I was just picking a fight for the hell of it, that's all."
+msgstr "Mi dispiace! Non farmi del male! Stavo solo cercando rissa per il gusto di farlo, tutto qui."
+
+msgctxt "164_Man"
+msgid "Didn't mean to ruin the good buzz you had going on. Please forgive me."
+msgstr "Non volevo rovinarti il bel momento. Ti prego, perdonami."
+
+msgctxt "176_Man"
+msgid "You got a consolation %s."
+msgstr "Hai ottenuto un %s di consolazione."
+
+msgctxt "212_Man"
+msgid "You're crazy strong for being drunk. I just don't get it."
+msgstr "Sei incredibilmente forte per essere ubriaco. Proprio non capisco."

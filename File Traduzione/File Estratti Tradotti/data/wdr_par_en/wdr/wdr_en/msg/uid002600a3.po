@@ -1,0 +1,61 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "908"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "912"
+msgid "Chigusa"
+msgstr "Chigusa"
+
+msgctxt "916"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "920"
+msgid "Sync_kyoro_st"
+msgstr "Sync_kyoro_st"
+
+msgctxt "924"
+msgid "Talk_Info_R"
+msgstr "Talk_Info_R"
+
+msgctxt "928"
+msgid "Sync_kyoro_ed"
+msgstr "Sync_kyoro_ed"
+
+msgctxt "68_Kiryu"
+msgid "What is this place?"
+msgstr "Cos'è questo posto?"
+
+msgctxt "80_Chigusa"
+msgid ""
+"Don't you remember? It's the import store we started "
+"together."
+msgstr ""
+"Non ti ricordi? È il negozio d'importazione che abbiamo tirato su "
+"insieme."
+
+msgctxt "92_Kiryu"
+msgid "Store? There's not a store in sight."
+msgstr "Negozio? Non c'è neanche l'ombra di un negozio."
+
+msgctxt "104_Chigusa"
+msgid ""
+"Don't be ridiculous. Here, let's go inside. I left "
+"everything just the way it was."
+msgstr ""
+"Non dire fesserie. Dai, entriamo. Ho lasciato "
+"tutto tale e quale."

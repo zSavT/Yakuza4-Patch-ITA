@@ -1,0 +1,433 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "14584"
+msgid "Loan Shark"
+msgstr "Strozzino"
+
+msgctxt "14588"
+msgid "松岡里緒奈：源氏名"
+msgstr "松岡里緒奈:源氏名"
+
+msgctxt "14592"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "14596"
+msgid "Thunder Matsuoka"
+msgstr "Thunder Matsuoka"
+
+msgctxt "14600"
+msgid "Talk_No"
+msgstr "Talk_No"
+
+msgctxt "14604"
+msgid "Korobu_DownL_StandupF"
+msgstr "Korobu_DownL_StandupF"
+
+msgctxt "14608"
+msgid "Talk_Yes"
+msgstr "Talk_Yes"
+
+msgctxt "14612"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "14616"
+msgid "Talk_OK"
+msgstr "Talk_OK"
+
+msgctxt "14620"
+msgid "Talk_Request"
+msgstr "Talk_Request"
+
+msgctxt "14624"
+msgid "Talk_Smile"
+msgstr "Talk_Smile"
+
+msgctxt "14628"
+msgid "Talk_Ojigi"
+msgstr "Talk_Ojigi"
+
+msgctxt "14632"
+msgid "Talk_Think"
+msgstr "Talk_Think"
+
+msgctxt "14636"
+msgid "F_sxy_stand_sync_dakitukiA_st"
+msgstr "F_sxy_stand_sync_dakitukiA_st"
+
+msgctxt "14640"
+msgid "P_stand_sync_dakitukiA_st"
+msgstr "P_stand_sync_dakitukiA_st"
+
+msgctxt "14644"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "14648"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "14652"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "14656"
+msgid "Talk_NoBig"
+msgstr "Talk_NoBig"
+
+msgctxt "14660"
+msgid "Korobu_FR"
+msgstr "Korobu_FR"
+
+msgctxt "14664"
+msgid "Korobu_DownL_lp"
+msgstr "Korobu_DownL_lp"
+
+msgctxt "14668"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "14672"
+msgid "Talk_Odosu"
+msgstr "Talk_Odosu"
+
+msgctxt "14676"
+msgid "Talk_Chohatu"
+msgstr "Talk_Chohatu"
+
+msgctxt "72_Loan Shark"
+msgid "Ugh... Ow... Too... strong..."
+msgstr "Argh... Ahia... Troppo... forte..."
+
+msgctxt "84_松岡里緒奈：源氏名"
+msgid "Kiryu-san!"
+msgstr "Kiryu-san!"
+
+msgctxt "96_松岡里緒奈：源氏名"
+msgid "And my dad!? What happened!?"
+msgstr "E mio padre!? Che gli è successo!?"
+
+msgctxt "108_Kiryu"
+msgid "Well..."
+msgstr "Beh..."
+
+msgctxt "120_Loan Shark"
+msgid ""
+"Wait a minute... I recognize you now! You're Kazuma Kiryu! The Dragon of "
+"Dojima!"
+msgstr ""
+"Aspetta un attimo... Adesso ti riconosco! Sei Kazuma Kiryu! Il Drago di "
+"Dojima!"
+
+msgctxt "132_松岡里緒奈：源氏名"
+msgid ""
+"My mother said something about my dad being in some loan trouble... Are "
+"these the guys behind all that?"
+msgstr ""
+"Mia madre ha detto qualcosa di mio padre che era nei casini con dei "
+"prestiti... Sono questi i tizi dietro a tutto questo?"
+
+msgctxt "144_Kiryu"
+msgid "How much was his loan in the first place?"
+msgstr "Quant'era il suo prestito, all'inizio?"
+
+msgctxt "156_Loan Shark"
+msgid ""
+"Loan? I don't know anything about any loan. Th... This is all a big "
+"misunderstanding..."
+msgstr ""
+"Prestito? Non so niente di nessun prestito. Q-Questo è tutto un grosso "
+"malinteso..."
+
+msgctxt "168_Loan Shark"
+msgid ""
+"I'm outta here! They're not payin' me enough to face the Dragon of Dojima!"
+msgstr ""
+"Mi levo di torno! Non mi pagano abbastanza per vedermela con il Drago di "
+"Dojima!"
+
+msgctxt "192_松岡里緒奈：源氏名"
+msgid "Dad! Are you okay!?"
+msgstr "Papà! Stai bene!?"
+
+msgctxt "204_Thunder Matsuoka"
+msgid "Hm? Hiyori? Is that you? What are you doing here?"
+msgstr "Hm? Hiyori? Sei tu? Che ci fai qui?"
+
+msgctxt "216_松岡里緒奈：源氏名"
+msgid "Don't worry about me. Are you okay? Can you walk?"
+msgstr "Non preoccuparti per me. Stai bene? Riesci a camminare?"
+
+msgctxt "228_Thunder Matsuoka"
+msgid "Yes... And I have this gentleman to thank for it."
+msgstr "Sì... E per questo devo ringraziare questo signore."
+
+msgctxt "252_Thunder Matsuoka"
+msgid ""
+"Listen, Hiyori... I've wanted to apologize to you for the longest time."
+msgstr "Senti, Hiyori... è da una vita che volevo chiederti scusa."
+
+msgctxt "264_Thunder Matsuoka"
+msgid "Can you forgive me?"
+msgstr "Mi puoi perdonare?"
+
+msgctxt "288_松岡里緒奈：源氏名"
+msgid "No, Daddy, I'm the one who should be apologizing!"
+msgstr "No, Papi, sono io che dovrei scusarmi!"
+
+msgctxt "300_松岡里緒奈：源氏名"
+msgid "I'm so sorry!"
+msgstr "Mi dispiace tanto!"
+
+msgctxt "312_Thunder Matsuoka"
+msgid "You're welcome to come back home. If you want to, that is..."
+msgstr ""
+"Puoi tornare a casa. "
+"Se è quello che vuoi, s'intende..."
+
+msgctxt "324_Thunder Matsuoka"
+msgid "We still have money troubles, but..."
+msgstr "Abbiamo ancora guai coi soldi, ma..."
+
+msgctxt "336_松岡里緒奈：源氏名"
+msgid "Money? The great Thunder Matsuoka doesn't have to worry about money!"
+msgstr ""
+"Soldi? Il grande Thunder Matsuoka non si deve mica preoccupare dei soldi!"
+
+msgctxt "348_松岡里緒奈：源氏名"
+msgid "You'll make it back in no time. In the ring!"
+msgstr ""
+"Ti rifarai in men che non si dica. "
+"Sul ring!"
+
+msgctxt "360_Thunder Matsuoka"
+msgid "Hm?"
+msgstr "Mh?"
+
+msgctxt "372_松岡里緒奈：源氏名"
+msgid "Promise me you'll do it? I'll be right there cheering you on!"
+msgstr "Me lo prometti? Sarò proprio lì a fare il tifo per te!"
+
+msgctxt "384_Thunder Matsuoka"
+msgid "All right. Thank you!"
+msgstr "Va bene. Grazie!"
+
+msgctxt "396_松岡里緒奈：源氏名"
+msgid "Can you make it home alone?"
+msgstr "Ce la fai a tornare a casa da solo?"
+
+msgctxt "408_Thunder Matsuoka"
+msgid "I'll be fine. Just had a bit too much to drink."
+msgstr "Starò bene. Ho solo alzato un po' troppo il gomito."
+
+msgctxt "420_Thunder Matsuoka"
+msgid "Hehe. It was some mighty fine booze, though."
+msgstr "Hehe. Però era della gran bella roba."
+
+msgctxt "432_松岡里緒奈：源氏名"
+msgid "I certainly hope so. Hehe."
+msgstr "Spero proprio di sì. Eh eh."
+
+msgctxt "480_松岡里緒奈：源氏名"
+msgid "Thank you for everything."
+msgstr "Grazie di tutto."
+
+msgctxt "492_Kiryu"
+msgid "I'm glad you and your father patched things up."
+msgstr "Sono contento che tu e tuo padre abbiate fatto pace."
+
+msgctxt "504_松岡里緒奈：源氏名"
+msgid "Yes... It might never have happened if you weren't here with me."
+msgstr "Sì... Forse non sarebbe mai successo se non fossi stato qui con me."
+
+msgctxt "516_Kiryu"
+msgid "......"
+msgstr "......"
+
+msgctxt "528_松岡里緒奈：源氏名"
+msgid "I'll go home and take care of my dad."
+msgstr "Torno a casa e mi prendo cura di mio padre."
+
+msgctxt "540_Kiryu"
+msgid "Good. That's for the best."
+msgstr "Bene. È meglio così."
+
+msgctxt "552_松岡里緒奈：源氏名"
+msgid ""
+"I wonder if I should keep working at the club? I won't be paying rent "
+"anymore, but then again, my family could use the money..."
+msgstr ""
+"Chissà se continuo a lavorare al locale? Non pagherò più l'affitto, ma "
+"d'altra parte i soldi farebbero comodo alla mia famiglia..."
+
+msgctxt "564_Kiryu"
+msgid "I'm sure you'll figure it out."
+msgstr "Sono sicuro che te la caverai."
+
+msgctxt "576_松岡里緒奈：源氏名"
+msgid "Um..."
+msgstr "Ehm..."
+
+msgctxt "588_松岡里緒奈：源氏名"
+msgid "If I quit my job at the club, could we still see each other?"
+msgstr "Se mollo il lavoro al club, potremmo ancora vederci?"
+
+msgctxt "600_Kiryu"
+msgid "Of course."
+msgstr "E di che."
+
+msgctxt "612_松岡里緒奈：源氏名"
+msgid "Whew. That's a relief! But will you start requesting other girls?"
+msgstr "Uff. Che sollievo! Ma comincerai a chiedere di altre ragazze?"
+
+msgctxt "624_Kiryu"
+msgid "Well... That's hard to say."
+msgstr "Beh... È difficile dirlo."
+
+msgctxt "636_松岡里緒奈：源氏名"
+msgid ""
+"I don't much like the sound of that. I may have to stick around to keep an "
+"eye on you! <Color:255,200,200,255>♥<Color:Default>"
+msgstr ""
+"Non mi suona per niente bene. Magari devo star qui a tenerti d'occhio! "
+"<Color:255,200,200,255>♥<Color:Default>"
+
+msgctxt "648_Kiryu"
+msgid "Hey now..."
+msgstr "Ehi, ehi..."
+
+msgctxt "660_松岡里緒奈：源氏名"
+msgid "You wouldn't mind though, right?"
+msgstr "Non ti dispiacerebbe mica, no?"
+
+msgctxt "720_Loan Shark"
+msgid ""
+"Matsuoka! You have enough money for hostess clubs, but you can't pay me back"
+" the money you owe!?"
+msgstr ""
+"Matsuoka! Per i night club i soldi ce li hai, ma quelli che mi devi non me "
+"li ridai!?"
+
+msgctxt "744_Thunder Matsuoka"
+msgid "Uh... Just give me a little longer. Please!"
+msgstr "Ehm... Datemi solo ancora un attimo. Vi prego!"
+
+msgctxt "756_Thunder Matsuoka"
+msgid "After the next performance, I'll pay you back, just like I promised!"
+msgstr "Dopo il prossimo spettacolo, ti ripago, proprio come ti ho promesso!"
+
+msgctxt "768_Loan Shark"
+msgid ""
+"Look, I'm not one of your pansy wrestlers. I actually know how to fight "
+"unlike you and your fake-ass actors."
+msgstr ""
+"Senti, non sono mica una delle vostre checche di lottatori. Io ci so fare "
+"davvero a botte, a differenza tua e dei tuoi attorucoli del cazzo."
+
+msgctxt "780_Loan Shark"
+msgid ""
+"There's no point waiting for your next performance! You never get more than "
+"a handful of people to show up!"
+msgstr ""
+"A che serve aspettare la tua prossima esibizione?! Non ti si presentano mai "
+"più di quattro gatti!"
+
+msgctxt "792_Thunder Matsuoka"
+msgid "Maybe so, but I make sure those people get a hell of a show!"
+msgstr ""
+"Sarà, ma io mi assicuro che quella gente si becchi uno spettacolo della "
+"madonna!"
+
+msgctxt "804_Thunder Matsuoka"
+msgid ""
+"We take pride in what we do! Please, just give me a little more time..."
+msgstr ""
+"Siamo orgogliosi di quello che facciamo! Vi prego, dateci solo un altro po' "
+"di tempo..."
+
+msgctxt "816_Loan Shark"
+msgid "Shut up, old man!"
+msgstr "Chiudi il becco, vecchio!"
+
+msgctxt "828_Loan Shark"
+msgid ""
+"If you don't have the money, you'll have to work it off! I know a fishing "
+"boat in need of an extra hand. You'd be perfect."
+msgstr ""
+"Se non hai i soldi, dovrai sudartela! Conosco un peschereccio che ha bisogno"
+" di un paio di braccia in più. Saresti perfetto."
+
+msgctxt "840_Loan Shark"
+msgid "You're strong for a man your age. You can handle it."
+msgstr "Sei forte per uno della tua età. Puoi reggerlo."
+
+msgctxt "852_Thunder Matsuoka"
+msgid "But... That's not what we agreed!"
+msgstr "Ma... Non erano questi i patti!"
+
+msgctxt "864_Loan Shark"
+msgid ""
+"Shaddap! What we agreed was that you'd pay me the money you owed me, but "
+"that ain't happenin', now is it?"
+msgstr ""
+"Sta' zitto! L'accordo era che mi avresti pagato i soldi che mi dovevi, ma "
+"non sta succedendo, o no?"
+
+msgctxt "876_Loan Shark"
+msgid "Come on! Throw this old man in the car!"
+msgstr "Forza! Butta 'sto vecchio in macchina!"
+
+msgctxt "888_Kiryu"
+msgid "That's enough."
+msgstr "Basta così."
+
+msgctxt "912_Loan Shark"
+msgid "Who the hell are you!?"
+msgstr "Chi diavolo sei tu!?"
+
+msgctxt "924_Kiryu"
+msgid "I suggest you take his offer and wait until the next performance."
+msgstr ""
+"Ti consiglio di accettare la sua offerta e aspettare fino alla prossima "
+"performance."
+
+msgctxt "936_Loan Shark"
+msgid "He's not gonna be able to pay me back! He owes 10 million yen! 10 mil!"
+msgstr ""
+"Non ce la farà a ripagarmi! "
+"Mi deve 10 milioni di yen! "
+"10 milioni!"
+
+msgctxt "948_Kiryu"
+msgid ""
+"Sure. Because you've been charging him a ridiculous rate of interest. He "
+"doesn't have to pay that part of the loan back. It's illegal."
+msgstr ""
+"Certo. Perché gli avete applicato un tasso d'interesse assurdo. Quella parte"
+" del prestito non deve ripagarla. È illegale."
+
+msgctxt "960_Loan Shark"
+msgid ""
+"What!? Who the hell do you think you are!? You're gonna regret stickin' your"
+" nose in where it don't belong!"
+msgstr ""
+"Ma che cazzo!? "
+"Chi diavolo ti credi di essere!? "
+"Te la farò pagare per aver ficcato il naso dove non dovevi!"
+
+msgctxt "972_Loan Shark"
+msgid "Come on, guys! Let's get him!"
+msgstr "Forza, ragazzi! Andiamogli addosso!"

@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "880"
+msgid "Miki"
+msgstr "Miki"
+
+msgctxt "884"
+msgid "Talk_Surp"
+msgstr "Talk_Surp"
+
+msgctxt "888"
+msgid "Akiyama"
+msgstr "Akiyama"
+
+msgctxt "892"
+msgid "Talk_Info_F"
+msgstr "Talk_Info_F"
+
+msgctxt "112_Miki"
+msgid "Oh! Akiyama-san!"
+msgstr "Oh! Akiyama-san!"
+
+msgctxt "124_Akiyama"
+msgid "Well, if it isn't Miki Nishihama!"
+msgstr "Beh, ma guarda chi si vede, Miki Nishihama!"
+
+msgctxt "136_Miki"
+msgid "Miki!? I don't know any Miki!"
+msgstr "Miki!? Io non conosco nessuna Miki!"
+
+msgctxt "148_Akiyama"
+msgid "(Whew, she's fast... Might as well follow her.)"
+msgstr "(Caspita, è veloce... Tanto vale seguirla.)"

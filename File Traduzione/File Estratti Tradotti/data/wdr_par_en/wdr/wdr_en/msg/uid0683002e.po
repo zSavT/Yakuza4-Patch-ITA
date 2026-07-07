@@ -1,0 +1,35 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "140"
+msgid ""
+"You got <Color:255,255,200,255>Viale Taihei Locker Key "
+"G-1<Color:Default>."
+msgstr "Hai ottenuto <Color:255,255,200,255>Chiave armadietto di Taihei Boulevard G-1<Color:Default>."
+
+msgctxt "1184"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1188"
+msgid "Talk_Syagamu_st"
+msgstr "Talk_Syagamu_st"
+
+msgctxt "1192"
+msgid "Talk_Syagamu_ed"
+msgstr "Talk_Syagamu_ed"
+
+msgctxt "56_Player"
+msgid "(There's something here...)"
+msgstr "(C'è qualcosa qui...)"

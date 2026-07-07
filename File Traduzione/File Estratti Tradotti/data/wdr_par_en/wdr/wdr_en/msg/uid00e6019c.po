@@ -1,0 +1,35 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "524"
+msgid "Saejima"
+msgstr "Saejima"
+
+msgctxt "528"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "532"
+msgid "Senzatetto"
+msgstr "Senzatetto"
+
+msgctxt "100_Saejima"
+msgid "Hey, you seen a kid pickpocket 'round here?"
+msgstr "Ehi, hai visto un moccioso che borseggia in giro da queste parti?"
+
+msgctxt "112_Homeless Man"
+msgid "I take it you mean Tadashi? Nope, I ain't seen him today."
+msgstr ""
+"Intendi Tadashi? "
+"No, non l'ho mica visto oggi."

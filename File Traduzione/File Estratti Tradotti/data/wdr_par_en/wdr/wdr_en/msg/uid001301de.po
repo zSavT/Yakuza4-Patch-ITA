@@ -1,0 +1,45 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "772"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "776"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "780"
+msgid "Punk"
+msgstr "Teppista"
+
+msgctxt "784"
+msgid "Talk_Angry"
+msgstr "Talk_Angry"
+
+msgctxt "56_Tanimura"
+msgid ""
+"I'm with the police. Why don't you just come quietly? You'll make things "
+"easier for the both of us."
+msgstr ""
+"Sono della polizia. Perché non vieni con le buone? Ci renderai le cose più "
+"facili, a entrambi."
+
+msgctxt "68_Punk"
+msgid "Ugh, another pig?"
+msgstr "Uff, un altro sbirro?"
+
+msgctxt "80_Punk"
+msgid "No biggie, I can take ya! Bring it on!"
+msgstr "Niente di che, ti sistemo io! Fatti sotto!"

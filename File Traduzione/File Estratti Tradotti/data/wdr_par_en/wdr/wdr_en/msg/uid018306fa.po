@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "212"
+msgid "Barkeep"
+msgstr "Barista"
+
+msgctxt "56_Barkeep"
+msgid "That was a fine match! Would you like to play \"Prize Bank Shot\"?"
+msgstr "Ottima giocata! Ti va di giocare a \"Prize Bank Shot\"?"

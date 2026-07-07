@@ -1,0 +1,53 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "212"
+msgid "Where to?"
+msgstr "Dove?"
+
+msgctxt "332"
+msgid "Point A (Shortest)"
+msgstr "Punto A (Più breve)"
+
+msgctxt "344"
+msgid "Point B (Front)"
+msgstr "Punto B (Fronte)"
+
+msgctxt "356"
+msgid "Point C (Behind)"
+msgstr "Punto C (Dietro)"
+
+msgctxt "368"
+msgid "Point AEx (Shortest)"
+msgstr "Punto AEx (Più breve)"
+
+msgctxt "380"
+msgid "Point BEx (Front)"
+msgstr "Punto BEx (Davanti)"
+
+msgctxt "392"
+msgid "Point CEx (Behind)"
+msgstr "Punto CEx (Dietro)"
+
+msgctxt "404"
+msgid "Point A (Shortest) TurnC"
+msgstr "Punto A (Più breve) TurnC"
+
+msgctxt "416"
+msgid "Point B (Front) TurnC"
+msgstr "Punto B (Davanti) TurnC"
+
+msgctxt "428"
+msgid "Point C (Behind) TurnC"
+msgstr "Punto C (Dietro) TurnC"

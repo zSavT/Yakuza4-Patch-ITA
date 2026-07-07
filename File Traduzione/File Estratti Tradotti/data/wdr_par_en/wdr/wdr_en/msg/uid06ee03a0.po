@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "112"
+msgid "Pick up the <Color:8>Worm<Color:Default>?"
+msgstr "Raccogli il <Color:8>Verme<Color:Default>?"
+
+msgctxt "940"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "944"
+msgid "P_stand_tlk_hirou_st"
+msgstr "P_stand_tlk_hirou_st"
+
+msgctxt "948"
+msgid "P_stand_tlk_hirou_ed"
+msgstr "P_stand_tlk_hirou_ed"
+
+msgctxt "100_Player"
+msgid "(There's something here...)"
+msgstr "(C'è qualcosa qui...)"
+
+msgctxt "124_Player"
+msgid "You got a <Color:8>Worm<Color:Default>."
+msgstr "Hai preso un <Color:8>Verme<Color:Default>."
+
+msgctxt "148_Player"
+msgid "(I'll let him go on his way.)"
+msgstr "(Lo lascio andare per i fatti suoi.)"
+
+msgctxt "160_Player"
+msgid "Pick It Up"
+msgstr "Prendilo"
+
+msgctxt "172_Player"
+msgid "Leave It There"
+msgstr "Lascialo lì"

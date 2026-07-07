@@ -1,0 +1,56 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "124"
+msgid "You got <Color:8>15,000 yen<Color:Default>."
+msgstr "Hai ottenuto <Color:8>15.000 yen<Color:Default>."
+
+msgctxt "1616"
+msgid "Tanimura"
+msgstr "Tanimura"
+
+msgctxt "1620"
+msgid "Talk_Quest"
+msgstr "Talk_Quest"
+
+msgctxt "1624"
+msgid "Beat-Up Yakuza"
+msgstr "Yakuza malmenato"
+
+msgctxt "1628"
+msgid "Talk_Send"
+msgstr "Talk_Send"
+
+msgctxt "1632"
+msgid "Talk_Sorry"
+msgstr "Talk_Sorry"
+
+msgctxt "88_Tanimura"
+msgid "Bring it!"
+msgstr "Fatti sotto!"
+
+msgctxt "100_Tanimura"
+msgid "You know how to talk tough, but which family took in a fool like you?"
+msgstr "Sai fare il grosso, ma quale famiglia si è presa un idiota come te?"
+
+msgctxt "112_Beat-Up Yakuza"
+msgid ""
+"I can't let my aniki hear about this! Please, just take this and don't tell!"
+msgstr ""
+"Non posso lasciare che il mio aniki venga a saperlo! Ti prego, prendi questo"
+" e non spifferare!"
+
+msgctxt "196_Beat-Up Yakuza"
+msgid "No, please, cut me some slack here!"
+msgstr "No, ti prego, non infierire!"

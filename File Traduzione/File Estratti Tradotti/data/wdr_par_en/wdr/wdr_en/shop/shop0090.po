@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit "
+"Content-Type: text/plain; charset=utf-8 "
+"Language: it-IT "
+"Language-Team: SavT "
+"Last-Translator:  "
+"MIME-Version: 1.0 "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+"POT-Creation-Date: 2025-09-15 "
+"Project-Id-Version: yakuza-3-remastered "
+"Report-Msgid-Bugs-To:  "
+
+msgctxt "68"
+msgid "Don't Order Anything"
+msgstr "Non ordinare nulla"
+
+msgctxt "89"
+msgid "Check Out"
+msgstr "Conto"
+
+msgctxt "99"
+msgid "Order"
+msgstr "Ordina"
+
+msgctxt "105"
+msgid "(I'm short on cash.)"
+msgstr "(Non ho abbastanza soldi.)"
+
+msgctxt "126"
+msgid "(I can't carry any more stuff.)"
+msgstr "(Non posso trasportare altri oggetti.)"
+
+msgctxt "158"
+msgid "(I can't handle any more turtles.)"
+msgstr "(Non posso trasportare altre tartarughe.)"
+
+msgctxt "193"
+msgid "(I didn't choose anything.)"
+msgstr "(Non ho scelto nulla.)"
+
+msgctxt "221"
+msgid "(They're sold out.)"
+msgstr "(Sono esauriti.)"
+
+msgctxt "241"
+msgid "Okay. That comes to %s."
+msgstr "Va bene. Il totale è di %s."
+
+msgctxt "265"
+msgid "Our special shortcake and a drink."
+msgstr "La nostra shortcake speciale servita con una bevanda."

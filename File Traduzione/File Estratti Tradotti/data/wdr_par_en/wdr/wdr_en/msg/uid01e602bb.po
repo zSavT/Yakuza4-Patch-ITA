@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "1264"
+msgid "Talk_Phone_st"
+msgstr "Talk_Phone_st"
+
+msgctxt "1268"
+msgid "Maya"
+msgstr "Maya"
+
+msgctxt "1272"
+msgid "Kiryu"
+msgstr "Kiryu"
+
+msgctxt "1276"
+msgid "Talk_Phone_ed"
+msgstr "Talk_Phone_ed"
+
+msgctxt "1280"
+msgid "dummy"
+msgstr "dummy"
+
+msgctxt "92_Maya"
+msgid "Hello, Kiryu-san? I need some help..."
+msgstr "Salve, Kiryu-san? Mi serve aiuto..."
+
+msgctxt "104_Kiryu"
+msgid "What's wrong?"
+msgstr "Che succede?"
+
+msgctxt "116_Maya"
+msgid "That policeman from before came by again and won't leave me alone!"
+msgstr "Quel poliziotto di prima è ripassato e non mi molla!"
+
+msgctxt "128_Kiryu"
+msgid "Where are you?"
+msgstr "Dove sei?"
+
+msgctxt "140_Maya"
+msgid "In front of the lockers on Viale Taihei."
+msgstr "Davanti agli armadietti su Taihei Boulevard."
+
+msgctxt "152_Kiryu"
+msgid "I'll be right there."
+msgstr "Arrivo subito."

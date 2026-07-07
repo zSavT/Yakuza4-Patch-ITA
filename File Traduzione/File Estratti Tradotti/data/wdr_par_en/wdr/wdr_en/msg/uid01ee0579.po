@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yakuza-4-remastered "
+"Report-Msgid-Bugs-To:  "
+"POT-Creation-Date: 2025-09-26 "
+"Last-Translator:  "
+"Language-Team: SavT "
+"Language: it-IT "
+"MIME-Version: 1.0 "
+"Content-Type: text/plain; charset=utf-8 "
+"Content-Transfer-Encoding: 8bit "
+"Plural-Forms: nplurals=2; plural=(n != 1); "
+
+msgctxt "216"
+msgid "Take a copy of Kamuro Gourmet?"
+msgstr "Prendi una copia di Kamuro Gourmet?"
+
+msgctxt "228"
+msgid "You got a copy of Kamuro Gourmet."
+msgstr "Hai preso una copia di Kamuro Gourmet."
+
+msgctxt "1788"
+msgid "Player"
+msgstr "Giocatore"
+
+msgctxt "1792"
+msgid "2d_cf_zasshi_3times00"
+msgstr "2d_cf_zasshi_3times00"
+
+msgctxt "156_Player"
+msgid "(Kamuro Gourmet, huh. I already have one, though.)"
+msgstr "(Kamuro Gourmet, eh. Ne ho già uno, però.)"
+
+msgctxt "168_Player"
+msgid "(It's a food magazine called Kamuro Gourmet. Should I read it?)"
+msgstr "(È una rivista di cibo chiamata Kamuro Gourmet. Dovrei leggerla?)"
+
+msgctxt "192_Player"
+msgid ""
+"(It's a food magazine called Kamuro Gourmet. It showcases cool places to eat"
+" and coupons for great deals.)"
+msgstr ""
+"(È una rivista di cibo chiamata Kamuro Gourmet. Presenta posti fighi dove "
+"mangiare e coupon per sconti da urlo.)"
+
+msgctxt "252_Player"
+msgid "(Not right now...)"
+msgstr "(Non adesso...)"
+
+msgctxt "264_Player"
+msgid "(Not right now...)"
+msgstr "(Non adesso...)"
+
+msgctxt "276_Player"
+msgid "Read It"
+msgstr "Leggilo"
+
+msgctxt "288_Player"
+msgid "Not Now"
+msgstr "Non ora"
+
+msgctxt "300_Player"
+msgid "Take One"
+msgstr "Prendi uno"
+
+msgctxt "312_Player"
+msgid "Not Now"
+msgstr "Non ora"
