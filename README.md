@@ -200,14 +200,6 @@ deactivate
 
 Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha tipo/estensione).
 
-## TO DO
-
-- [x] Codifica e decodifica dei file PAR
-- [x] Codifica e decodifica dei file BIN 2007.03.19
-- [x] Codifica e decodifica dei restanti file BIN
-- [x] Codifica e decodifica dei file MSG
-- [x] Modifica al Font
-
 # Altre patch della serie
 
 Lista dei progetti di patch in italiano per i giochi della serie:
